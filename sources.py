@@ -53,8 +53,27 @@ SOURCES = [
     {"section": "Badminton", "name": "Olympics",         "kind": "gnews", "query": "site:olympics.com badminton"},
     {"section": "Badminton", "name": "Badminton Europe", "kind": "gnews", "query": "site:badmintoneurope.com"},
 
-    # ---- Competitor News (banking / financial brands in sport & arts) ----
-    # Only surfaces when there are genuine finance-brand-in-sport stories.
-    {"section": "Competitor News", "name": "Google News", "kind": "gnews",
-     "query": '(Barclays OR "Standard Chartered" OR "JP Morgan" OR Santander OR NatWest OR Monzo OR Revolut OR "Bank of America" OR Mastercard OR "BNP Paribas") (sponsorship OR "sponsor" OR partnership) (sport OR football OR tennis OR golf OR rugby OR Olympics)'},
 ]
+
+# ---- Competitor News (the banks 160/90 tracks, strictly in a sport/arts context) ----
+# Only the brands below, and only when tied to sponsorship/partnership in sport or arts.
+# Split across a few searches because Google News is unreliable with one huge query;
+# they all feed the "Competitor News" section and are de-duplicated automatically.
+_SPONSOR = '(sponsorship OR partnership OR sponsor OR "official partner" OR deal)'
+_SPORT_ARTS = ('(sport OR sports OR arts OR football OR tennis OR golf OR rugby OR '
+               'cricket OR Olympics OR athletics OR stadium OR theatre OR music OR festival)')
+_COMPETITOR_GROUPS = [
+    '(Barclays OR "Lloyds Bank" OR NatWest OR "Santander" OR Nationwide)',
+    # Halifax/RBS group — exclude the Halifax sports clubs (town, not the bank).
+    '(Halifax OR "Royal Bank of Scotland" OR RBS OR TSB OR "Virgin Money" OR "Metro Bank") '
+    '-"Halifax Town" -"Halifax Panthers" -"Halifax Wanderers" -"FC Halifax"',
+    '(Monzo OR "Starling Bank" OR Revolut OR "Chase UK" OR "Standard Chartered")',
+    '(Citi OR "J.P. Morgan" OR "JP Morgan" OR "BNP Paribas" OR "Deutsche Bank")',
+]
+for _grp in _COMPETITOR_GROUPS:
+    SOURCES.append({
+        "section": "Competitor News",
+        "name": "Google News",
+        "kind": "gnews",
+        "query": f"{_grp} {_SPONSOR} {_SPORT_ARTS}",
+    })
