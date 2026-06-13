@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HSBC Partnership News — Morning Brief</title>
+<style>
+  :root{
+    --bg:#f4f5f7; --panel:#ffffff; --ink:#1a1f24; --muted:#6b7280;
+    --line:#e5e7eb; --brand:#db0011; --brand-dark:#a8000d;
+    --chip:#eef1f4; --ok:#0a7d34; --shadow:0 1px 3px rgba(0,0,0,.06),0 8px 24px rgba(0,0,0,.04);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg);color:var(--ink);line-height:1.5;-webkit-font-smoothing:antialiased}
+  a{color:var(--brand-dark);text-decoration:none}
+  a:hover{text-decoration:underline}
+
+  header.top{background:var(--brand);color:#fff;padding:18px 22px;display:flex;align-items:center;gap:14px}
+  header.top .logo{width:34px;height:34px;background:#fff;position:relative;flex:0 0 auto}
+  header.top .logo::before,header.top .logo::after{content:"";position:absolute;background:var(--brand)}
+  header.top .logo::before{top:0;left:14px;width:6px;height:34px}
+  header.top .logo::after{top:14px;left:0;width:34px;height:6px}
+  header.top h1{font-size:18px;margin:0;font-weight:700;letter-spacing:.2px}
+  header.top .sub{font-size:13px;opacity:.9;margin-top:2px}
+
+  .wrap{max-width:1080px;margin:0 auto;padding:22px}
+
+  .controls{background:var(--panel);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);
+    padding:16px 18px;margin-bottom:18px;position:sticky;top:10px;z-index:20}
+  .controls .row{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
+  .controls .row + .row{margin-top:12px;padding-top:12px;border-top:1px solid var(--line)}
+  .lbl{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);margin-right:4px}
+
+  .toggle{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .toggle button{border:0;background:#fff;padding:7px 14px;font-size:13px;cursor:pointer;color:var(--muted)}
+  .toggle button.active{background:var(--brand);color:#fff;font-weight:600}
+
+  .chip{display:inline-flex;align-items:center;gap:6px;background:var(--chip);border:1px solid var(--line);
+    border-radius:999px;padding:5px 11px;font-size:12.5px;cursor:pointer;user-select:none;color:#374151}
+  .chip input{margin:0;accent-color:var(--brand)}
+  .chip.off{opacity:.45;text-decoration:line-through}
+
+  .spacer{flex:1}
+  .count{font-size:13px;color:var(--muted)}
+  .btn{background:var(--brand);color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:14px;
+    font-weight:600;cursor:pointer;box-shadow:var(--shadow)}
+  .btn:hover{background:var(--brand-dark)}
+  .btn.ghost{background:#fff;color:var(--ink);border:1px solid var(--line);box-shadow:none}
+  .btn:disabled{opacity:.5;cursor:not-allowed}
+
+  section.sec{margin-bottom:26px}
+  .sec h2{font-size:15px;text-transform:uppercase;letter-spacing:.6px;color:var(--brand-dark);
+    border-bottom:2px solid var(--brand);padding-bottom:6px;margin:0 0 12px;display:flex;align-items:center;gap:10px}
+  .sec h2 .selall{font-size:11px;letter-spacing:.3px;color:var(--muted);cursor:pointer;font-weight:600;text-transform:none}
+  .sec h2 .n{font-size:12px;color:var(--muted);font-weight:500;text-transform:none;letter-spacing:0}
+
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);
+    padding:14px 16px;margin-bottom:10px;display:flex;gap:12px;transition:border-color .15s}
+  .card.sel{border-color:var(--brand);box-shadow:0 0 0 2px rgba(219,0,17,.12),var(--shadow)}
+  .card .pick{flex:0 0 auto;padding-top:2px}
+  .card .pick input{width:18px;height:18px;accent-color:var(--brand);cursor:pointer}
+  .card .body{flex:1;min-width:0}
+  .card .meta{display:flex;gap:8px;align-items:center;font-size:12px;color:var(--muted);margin-bottom:3px}
+  .card .src{font-weight:700;color:var(--ink)}
+  .card .badge{font-size:10.5px;text-transform:uppercase;letter-spacing:.4px;border:1px solid var(--line);
+    border-radius:4px;padding:1px 5px;color:var(--muted)}
+  .card .badge.link{color:#b45309;border-color:#fde68a;background:#fffbeb}
+  .card h3{margin:1px 0 6px;font-size:15.5px;line-height:1.35}
+  .card h3 a{color:var(--ink)}
+  .card .copy{font-size:13.5px;color:#374151;white-space:pre-wrap;border:1px dashed transparent;
+    border-radius:6px;padding:2px 4px;margin-left:-4px;outline:none}
+  .card .copy:focus{border-color:var(--line);background:#fafbfc}
+  .card .copy:empty::before{content:"(No summary — click the headline to read the article, then type copy here)";color:#9ca3af;font-style:italic}
+  .card .hint{font-size:11px;color:#9ca3af;margin-top:4px}
+
+  .empty{color:var(--muted);font-size:13px;font-style:italic;padding:4px 0 8px}
+  footer{text-align:center;color:var(--muted);font-size:12px;padding:24px}
+
+  .toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(20px);background:var(--ink);
+    color:#fff;padding:11px 20px;border-radius:8px;font-size:14px;opacity:0;pointer-events:none;transition:all .25s;z-index:50}
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="logo"></div>
+  <div>
+    <h1>HSBC Partnership News</h1>
+    <div class="sub" id="genline">Loading this morning's stories…</div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="controls">
+    <div class="row">
+      <span class="lbl">Window</span>
+      <div class="toggle" id="windowToggle">
+        <button data-h="24" class="active">Last 24h</button>
+        <button data-h="48">Last 48h</button>
+      </div>
+      <span class="spacer"></span>
+      <span class="count" id="count">0 stories selected</span>
+      <button class="btn ghost" id="clearBtn">Clear</button>
+      <button class="btn" id="copyBtn" disabled>Copy bulletin</button>
+    </div>
+    <div class="row" id="sourceFilters">
+      <span class="lbl">Sources</span>
+    </div>
+  </div>
+
+  <div id="sections"></div>
+</div>
+
+<footer>
+  Auto-collected from your sources each morning · Select the stories you want, tweak the copy, then <b>Copy bulletin</b> and paste into your email.
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const state = { data:null, windowH:24, hiddenSources:new Set(), selected:new Map() };
+
+const $ = sel => document.querySelector(sel);
+const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+async function load(){
+  try{
+    const res = await fetch('data/news.json?_=' + Date.now());
+    state.data = await res.json();
+  }catch(e){
+    $('#genline').textContent = "Couldn't load news.json — has the scraper run yet?";
+    return;
+  }
+  $('#genline').textContent = "Updated " + state.data.generated_label + " · " + state.data.total + " stories collected";
+  buildSourceFilters();
+  render();
+}
+
+function withinWindow(story){
+  if(!story.published) return true;
+  const ageH = (Date.now() - new Date(story.published).getTime())/36e5;
+  return ageH <= state.windowH;
+}
+
+function buildSourceFilters(){
+  const names = new Set();
+  for(const sec of state.data.section_order){
+    for(const s of (state.data.sections[sec]||[])) names.add(s.source);
+  }
+  const box = $('#sourceFilters');
+  [...names].sort().forEach(name=>{
+    const id = 'src_'+name.replace(/\W/g,'');
+    const chip = document.createElement('label');
+    chip.className='chip'; chip.id=id;
+    chip.innerHTML = `<input type="checkbox" checked> ${esc(name)}`;
+    chip.querySelector('input').addEventListener('change', e=>{
+      if(e.target.checked) state.hiddenSources.delete(name);
+      else state.hiddenSources.add(name);
+      chip.classList.toggle('off', !e.target.checked);
+      render();
+    });
+    box.appendChild(chip);
+  });
+}
+
+function render(){
+  const root = $('#sections');
+  root.innerHTML='';
+  for(const sec of state.data.section_order){
+    let items = (state.data.sections[sec]||[])
+      .filter(withinWindow)
+      .filter(s=>!state.hiddenSources.has(s.source));
+    if(items.length===0) continue;
+
+    const el = document.createElement('section');
+    el.className='sec';
+    el.innerHTML = `<h2>${esc(sec)} <span class="n">${items.length}</span>
+      <span class="spacer" style="flex:1"></span>
+      <span class="selall" data-sec="${esc(sec)}">select all</span></h2>`;
+    items.forEach(s=> el.appendChild(card(s)));
+    root.appendChild(el);
+  }
+  // wire "select all"
+  root.querySelectorAll('.selall').forEach(b=>{
+    b.addEventListener('click', ()=>{
+      const sec=b.dataset.sec;
+      const cards=[...document.querySelectorAll(`[data-sec-card="${CSS.escape(sec)}"] input.pickbox`)];
+      const allOn=cards.every(c=>c.checked);
+      cards.forEach(c=>{ c.checked=!allOn; c.dispatchEvent(new Event('change')); });
+    });
+  });
+  updateCount();
+}
+
+function storyKey(s){ return s.link || s.title; }
+
+function card(s){
+  const div = document.createElement('div');
+  div.className='card';
+  div.setAttribute('data-sec-card', s.section);
+  const key = storyKey(s);
+  const isLinkOnly = !s.body;            // blocked source: headline+link only
+  const saved = state.selected.get(key);
+  if(saved) div.classList.add('sel');
+  div.innerHTML = `
+    <div class="pick"><input type="checkbox" class="pickbox" ${saved?'checked':''}></div>
+    <div class="body">
+      <div class="meta">
+        <span class="src">${esc(s.source)}</span>
+        <span>·</span><span>${esc(s.published_label||'')}</span>
+        ${isLinkOnly?'<span class="badge link">read &amp; write</span>':'<span class="badge">full copy</span>'}
+      </div>
+      <h3><a href="${esc(s.link)}" target="_blank" rel="noopener">${esc(s.title)}</a></h3>
+      <div class="copy" contenteditable="true">${esc(saved?saved.copy:(s.copy||''))}</div>
+      ${isLinkOnly?'<div class="hint">This source blocks auto-copy — open the link, then type/paste the two paragraphs above.</div>':''}
+    </div>`;
+  const box = div.querySelector('.pickbox');
+  const copyEl = div.querySelector('.copy');
+  box.addEventListener('change', ()=>{
+    if(box.checked){
+      state.selected.set(key, {story:s, copy:copyEl.innerText.trim()});
+      div.classList.add('sel');
+    }else{
+      state.selected.delete(key);
+      div.classList.remove('sel');
+    }
+    updateCount();
+  });
+  copyEl.addEventListener('input', ()=>{
+    if(state.selected.has(key)) state.selected.get(key).copy = copyEl.innerText.trim();
+  });
+  return div;
+}
+
+function updateCount(){
+  const n = state.selected.size;
+  $('#count').textContent = `${n} ${n===1?'story':'stories'} selected`;
+  $('#copyBtn').disabled = n===0;
+}
+
+// Build the bulletin in the exact house format and copy as rich text + plain text.
+function buildBulletin(){
+  const d = new Date();
+  const dd = String(d.getDate()).padStart(2,'0');
+  const mm = String(d.getMonth()+1).padStart(2,'0');
+  let html = `<p><b>HSBC Partnership News ${dd}.${mm}</b></p>`;
+  let text = `HSBC Partnership News ${dd}.${mm}\n`;
+
+  for(const sec of state.data.section_order){
+    const picks = [...state.selected.values()].filter(v=>v.story.section===sec);
+    if(picks.length===0) continue;
+    html += `<p><b>${esc(sec)}</b></p>`;
+    text += `\n${sec}\n`;
+    for(const {story, copy} of picks){
+      const paras = (copy||'').split(/\n{2,}/).map(p=>p.trim()).filter(Boolean);
+      html += `<p style="margin:0 0 10px"><b><a href="${esc(story.link)}">${esc(story.source)}</a>: ${esc(story.title)}</b><br>`
+            + paras.map(esc).join('<br><br>') + `</p>`;
+      text += `${story.source}: ${story.title}\n` + paras.join('\n') + `\n`;
+    }
+  }
+  return {html, text};
+}
+
+async function copyBulletin(){
+  const {html, text} = buildBulletin();
+  try{
+    await navigator.clipboard.write([ new ClipboardItem({
+      'text/html': new Blob([html], {type:'text/html'}),
+      'text/plain': new Blob([text], {type:'text/plain'}),
+    })]);
+    toast('Bulletin copied — paste into your email');
+  }catch(e){
+    // Fallback: plain text only
+    try{ await navigator.clipboard.writeText(text); toast('Copied as plain text'); }
+    catch(_){ toast('Copy failed — your browser blocked it'); }
+  }
+}
+
+function toast(msg){
+  const t=$('#toast'); t.textContent=msg; t.classList.add('show');
+  setTimeout(()=>t.classList.remove('show'), 2200);
+}
+
+// window toggle
+$('#windowToggle').addEventListener('click', e=>{
+  if(e.target.tagName!=='BUTTON') return;
+  [...e.target.parentNode.children].forEach(b=>b.classList.remove('active'));
+  e.target.classList.add('active');
+  state.windowH = +e.target.dataset.h;
+  render();
+});
+$('#copyBtn').addEventListener('click', copyBulletin);
+$('#clearBtn').addEventListener('click', ()=>{
+  state.selected.clear();
+  document.querySelectorAll('.pickbox').forEach(c=>c.checked=false);
+  document.querySelectorAll('.card').forEach(c=>c.classList.remove('sel'));
+  updateCount();
+});
+
+load();
+</script>
+</body>
+</html>
