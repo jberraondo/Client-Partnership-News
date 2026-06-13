@@ -100,15 +100,96 @@ def extract_body(url: str) -> str:
     except Exception:
         return ""
 
-    paras = []
-    for line in text.split("\n"):
+    return top_paragraphs(text)
+
+
+def top_paragraphs(text: str) -> str:
+    """
+    Turn extracted article text into a tight 2-3 paragraph brief with enough
+    substance to match the example bulletins (skips headings, stat lines, captions).
+    """
+    good = []
+    for line in (text or "").split("\n"):
         line = line.strip()
-        # Keep proper sentence-like paragraphs; skip headings, stat lines, captions.
-        if len(line) >= 80 and ("." in line or "!" in line or "?" in line):
-            paras.append(line)
-        if len(paras) >= 2:
+        if len(line) >= 60 and any(p in line for p in ".!?"):
+            good.append(line)
+
+    paras, total = [], 0
+    for p in good:
+        paras.append(p)
+        total += len(p)
+        if len(paras) >= 2 and total >= 450:
             break
-    return "\n\n".join(paras)
+        if len(paras) >= 3:
+            break
+    result = "\n\n".join(paras)
+    # Reject thin extractions (homepages, "official site" blurbs, cookie notices)
+    # so they fall back to a clean manual write-up rather than junk copy.
+    return result if len(result) >= 200 else ""
+
+
+# Sources we don't bother browser-fetching: Sportcal & Olympics hard-block
+# data-centre servers (403); the FT is paywalled. These stay click-to-read.
+SKIP_BROWSER_SOURCES = {"Sportcal", "Olympics", "Financial Times"}
+FETCH_BROWSER = os.environ.get("FETCH_BROWSER", "1") == "1"
+# Cookie that skips Google's EU consent wall so redirects resolve cleanly.
+_GOOGLE_CONSENT = {"name": "SOCS", "value": "CAESEwgDEgk0ODE3Nzk3MjQaAmVuIAEaBgiA_LyaBg",
+                   "domain": ".google.com", "path": "/"}
+
+
+def _browser_body(page, url: str) -> str:
+    """Follow a Google News link through to the real article and read its body."""
+    try:
+        page.goto(url, wait_until="domcontentloaded", timeout=25000)
+    except Exception:
+        pass
+    # Wait for the redirect to leave google.com and land on the real article.
+    for _ in range(16):
+        if "google.com" not in page.url and "chrome-error" not in page.url:
+            break
+        try:
+            page.wait_for_timeout(500)
+        except Exception:
+            break
+    if "google.com" in page.url or "chrome-error" in page.url:
+        return ""
+    try:
+        page.wait_for_timeout(2500)  # let the article render
+        html = page.content()
+    except Exception:
+        return ""
+    if not HAVE_TRAFILATURA:
+        return ""
+    body = trafilatura.extract(html, include_comments=False,
+                               include_tables=False, favor_precision=True) or ""
+    return top_paragraphs(body)
+
+
+def browser_enrich(stories: list) -> None:
+    """Read article bodies for blocked (Google News) sources using a headless browser."""
+    targets = [s for s in stories
+               if s["kind"] == "gnews" and not s["body"]
+               and s["source"] not in SKIP_BROWSER_SOURCES]
+    if not (FETCH_BROWSER and targets):
+        return
+    try:
+        from playwright.sync_api import sync_playwright
+    except Exception:
+        print("   (playwright not installed — skipping browser fetch; those stay manual)")
+        return
+
+    print(f"\nBrowser-fetching copy for {len(targets)} blocked-source stories...")
+    ua = HEADERS["User-Agent"]
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        ctx = browser.new_context(user_agent=ua, locale="en-GB")
+        ctx.add_cookies([_GOOGLE_CONSENT])
+        page = ctx.new_page()
+        for s in targets:
+            s["body"] = _browser_body(page, s["link"])
+        browser.close()
+    done = sum(1 for s in targets if s["body"])
+    print(f"   got full copy for {done}/{len(targets)}")
 
 
 def collect_from_source(src: dict) -> list[dict]:
@@ -150,7 +231,7 @@ def collect_from_source(src: dict) -> list[dict]:
             "summary": summary,   # short feed snippet (always available)
             "body": "",           # filled in below for direct sources
         })
-        if len(stories) >= MAX_PER_SOURCE:
+        if len(stories) >= src.get("max", MAX_PER_SOURCE):
             break
     return stories
 
@@ -183,6 +264,9 @@ def main():
             time.sleep(0.3)  # be polite
         done = sum(1 for s in direct if s["body"])
         print(f"   got full copy for {done}/{len(direct)}")
+
+    # Read blocked (Google News) sources with a real browser where we can.
+    browser_enrich(all_stories)
 
     # For every story, settle on the best available "copy" text.
     # Google News snippets are usually just the headline echoed back (+ publisher),

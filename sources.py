@@ -42,7 +42,7 @@ SOURCES = [
 
     # ---- Tennis ----
     {"section": "Tennis", "name": "BBC Sport",  "kind": "direct", "url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"},
-    {"section": "Tennis", "name": "Sky Sports", "kind": "gnews",  "query": "site:skysports.com tennis"},
+    {"section": "Tennis", "name": "Sky Sports", "kind": "gnews",  "query": "site:skysports.com/tennis"},
 
     # ---- Golf ----
     {"section": "Golf", "name": "BBC Sport", "kind": "direct", "url": "https://feeds.bbci.co.uk/sport/golf/rss.xml"},
@@ -53,8 +53,43 @@ SOURCES = [
     {"section": "Badminton", "name": "Olympics",         "kind": "gnews", "query": "site:olympics.com badminton"},
     {"section": "Badminton", "name": "Badminton Europe", "kind": "gnews", "query": "site:badmintoneurope.com"},
 
-    # ---- Competitor News (banking / financial brands in sport & arts) ----
-    # Only surfaces when there are genuine finance-brand-in-sport stories.
-    {"section": "Competitor News", "name": "Google News", "kind": "gnews",
-     "query": '(Barclays OR "Standard Chartered" OR "JP Morgan" OR Santander OR NatWest OR Monzo OR Revolut OR "Bank of America" OR Mastercard OR Visa OR "BNP Paribas") (sponsorship OR partnership OR sport)'},
+    # ---- Safety-net searches across ALL of Google News -------------------------
+    # These catch HSBC-property stories that appear in less obvious outlets, so we
+    # never miss a relevant angle. Kept tight to HSBC's actual properties to avoid
+    # flooding the page; capped lower with "max". Toggle them off on the page if noisy.
+    {"section": "Wider Sports News", "name": "HSBC watch", "kind": "gnews", "max": 8,
+     "query": 'HSBC (sport OR sponsorship OR partnership OR rugby OR tennis OR golf OR badminton OR arts OR SVNS OR "Queen\'s Club" OR "Abu Dhabi")'},
+
+    {"section": "Rugby", "name": "SVNS watch", "kind": "gnews", "max": 6,
+     "query": '"HSBC SVNS" OR "rugby sevens" OR "SVNS Series" OR "World Rugby Sevens"'},
+    {"section": "Tennis", "name": "HSBC tennis watch", "kind": "gnews", "max": 6,
+     "query": '"Emma Raducanu" OR "Jack Draper" OR "HSBC Championships" OR "Queen\'s Club"'},
+    {"section": "Golf", "name": "HSBC golf watch", "kind": "gnews", "max": 6,
+     "query": '"Bryson DeChambeau" OR "LIV Golf" OR "Abu Dhabi HSBC" OR "Abu Dhabi Championship"'},
+    {"section": "Badminton", "name": "BWF watch", "kind": "gnews", "max": 6,
+     "query": '"BWF World Tour" OR "BWF" OR "Badminton World Federation"'},
+
 ]
+
+# ---- Competitor News (the banks 160/90 tracks, strictly in a sport/arts context) ----
+# Only the brands below, and only when tied to sponsorship/partnership in sport or arts.
+# Split across a few searches because Google News is unreliable with one huge query;
+# they all feed the "Competitor News" section and are de-duplicated automatically.
+_SPONSOR = '(sponsorship OR partnership OR sponsor OR "official partner" OR deal)'
+_SPORT_ARTS = ('(sport OR sports OR arts OR football OR tennis OR golf OR rugby OR '
+               'cricket OR Olympics OR athletics OR stadium OR theatre OR music OR festival)')
+_COMPETITOR_GROUPS = [
+    '(Barclays OR "Lloyds Bank" OR NatWest OR "Santander" OR Nationwide)',
+    # Halifax/RBS group — exclude the Halifax sports clubs (town, not the bank).
+    '(Halifax OR "Royal Bank of Scotland" OR RBS OR TSB OR "Virgin Money" OR "Metro Bank") '
+    '-"Halifax Town" -"Halifax Panthers" -"Halifax Wanderers" -"FC Halifax"',
+    '(Monzo OR "Starling Bank" OR Revolut OR "Chase UK" OR "Standard Chartered")',
+    '(Citi OR "J.P. Morgan" OR "JP Morgan" OR "BNP Paribas" OR "Deutsche Bank")',
+]
+for _grp in _COMPETITOR_GROUPS:
+    SOURCES.append({
+        "section": "Competitor News",
+        "name": "Google News",
+        "kind": "gnews",
+        "query": f"{_grp} {_SPONSOR} {_SPORT_ARTS}",
+    })
