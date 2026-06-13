@@ -40,6 +40,9 @@ from sources import SOURCES, SECTION_ORDER, DEFAULT_WINDOW_HOURS
 
 # ---- settings ----
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", DEFAULT_WINDOW_HOURS))
+# How many days of stories to keep in the file. The scraper ADDS new stories to
+# this rolling archive each run; the page then filters to 24/48/72h on top of it.
+KEEP_DAYS = int(os.environ.get("KEEP_DAYS", 7))
 MAX_PER_SOURCE = int(os.environ.get("MAX_PER_SOURCE", 12))
 FETCH_BODIES = os.environ.get("FETCH_BODIES", "1") == "1"
 OUT_PATH = os.path.join(os.path.dirname(__file__), "data", "news.json")
@@ -192,29 +195,73 @@ def main():
             snippet = ""
         s["copy"] = s["body"] or snippet
 
-    # Group by section in fixed order.
-    grouped = {sec: [] for sec in SECTION_ORDER}
-    for s in all_stories:
-        grouped.setdefault(s["section"], []).append(s)
+    # ---- Merge with previously collected stories (accumulate, don't overwrite) ----
+    now = datetime.now(timezone.utc)
 
-    # Sort each section newest-first.
+    def story_key(s):
+        return s.get("link") or re.sub(r"[^a-z0-9]", "", s.get("title", "").lower())[:60]
+
+    merged = {}
+    if os.path.exists(OUT_PATH):
+        try:
+            with open(OUT_PATH, encoding="utf-8") as f:
+                prev = json.load(f)
+            for sec_items in prev.get("sections", {}).values():
+                for s in sec_items:
+                    merged[story_key(s)] = s
+        except Exception:
+            pass
+    print(f"\nMerging: {len(merged)} previously collected + {len(all_stories)} new")
+
+    for s in all_stories:
+        k = story_key(s)
+        if k in merged:
+            old = merged[k]
+            # Keep whichever version has the richer copy; preserve original first_seen.
+            if len(s.get("copy", "")) > len(old.get("copy", "")):
+                s["first_seen"] = old.get("first_seen", now.isoformat())
+                merged[k] = s
+            else:
+                merged[k].setdefault("first_seen", now.isoformat())
+        else:
+            s["first_seen"] = now.isoformat()
+            merged[k] = s
+
+    # ---- Drop anything older than KEEP_DAYS ----
+    cutoff_keep = now - timedelta(days=KEEP_DAYS)
+
+    def age_ok(s):
+        ts = s.get("published") or s.get("first_seen")
+        if not ts:
+            return True
+        try:
+            return datetime.fromisoformat(ts) >= cutoff_keep
+        except Exception:
+            return True
+
+    kept = [s for s in merged.values() if age_ok(s)]
+
+    # Group by section in fixed order, newest first.
+    grouped = {sec: [] for sec in SECTION_ORDER}
+    for s in kept:
+        grouped.setdefault(s["section"], []).append(s)
     for sec in grouped:
-        grouped[sec].sort(key=lambda x: x["published"] or "", reverse=True)
+        grouped[sec].sort(key=lambda x: (x.get("published") or x.get("first_seen") or ""), reverse=True)
 
     output = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "generated_label": datetime.now(timezone.utc).strftime("%A %d %B %Y, %H:%M UTC"),
-        "window_hours": WINDOW_HOURS,
+        "generated_at": now.isoformat(),
+        "generated_label": now.strftime("%A %d %B %Y, %H:%M UTC"),
+        "keep_days": KEEP_DAYS,
         "section_order": SECTION_ORDER,
         "sections": grouped,
-        "total": len(all_stories),
+        "total": len(kept),
     }
 
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\nWrote {len(all_stories)} stories to {OUT_PATH}")
+    print(f"\nWrote {len(kept)} stories (rolling {KEEP_DAYS}-day archive) to {OUT_PATH}")
 
 
 if __name__ == "__main__":

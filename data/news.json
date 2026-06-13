@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T15:46:26.792916+00:00",
-  "generated_label": "Saturday 13 June 2026, 15:46 UTC",
-  "window_hours": 48,
+  "generated_at": "2026-06-13T16:06:47.825444+00:00",
+  "generated_label": "Saturday 13 June 2026, 16:06 UTC",
+  "keep_days": 7,
   "section_order": [
     "Wider Sports News",
     "Rugby",
@@ -16,13 +16,27 @@
         "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
+        "title": "Czech billionaire Křetínský to become West Ham’s top shareholder",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY240WjloaDhVQ3VqMFZlcERTRkxBcUs2bHBIMlFRTXpxcnlCTHdPS1YyOUtTNVpfeVBLTlZfV1RwZ3Fra2FVdU5WX0dwajRuMTBqeHFrb3JPUDduV0pvX2s1UjNjMlgwc25oREJUcUpxZzJHUktCeXZ5QUUxZ1NnZ0NqN2Q?oc=5",
+        "published": "2026-06-13T11:39:45+00:00",
+        "published_label": "Sat 13 Jun, 11:39",
+        "summary": "Czech billionaire Křetínský to become West Ham’s top shareholder Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
         "title": "Goldman and JPMorgan ease office working rules to counter World Cup disruption",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYldWUWh2eTBsMWY5R3RMYWJ5bUl1d1lYTkoxM252RGZxZEZoQUxLRHFTYWpHdjdKM19meVVIdzZodkdCRkhBTHZNdzFuM2NiZlRUcnY0TmJJNm91NjNOeEhPdldfc0VZb2gzcGNGTzY1RDFkWmFwbC1JeFNVNTB1empNRkE?oc=5",
         "published": "2026-06-13T04:02:55+00:00",
         "published_label": "Sat 13 Jun, 04:02",
         "summary": "Goldman and JPMorgan ease office working rules to counter World Cup disruption Financial Times",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -34,7 +48,8 @@
         "published_label": "Sat 13 Jun, 04:00",
         "summary": "To bet or not to bet: the corporate prediction market predicament Financial Times",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -46,7 +61,8 @@
         "published_label": "Sat 13 Jun, 04:00",
         "summary": "How to speak Fifa Financial Times",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -58,7 +74,8 @@
         "published_label": "Sat 13 Jun, 04:00",
         "summary": "‘Rivals’ may be racy — but ITV’s real-life franchise wars were stranger still Financial Times",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -70,7 +87,8 @@
         "published_label": "Fri 12 Jun, 17:01",
         "summary": "Op-Ed: How the FIFA World Cup spotlights athletes as premium media brands Sportcal",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -82,7 +100,8 @@
         "published_label": "Fri 12 Jun, 15:52",
         "summary": "Optus added to NBL, WNBL partnership stable Sportcal",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -94,7 +113,8 @@
         "published_label": "Fri 12 Jun, 15:22",
         "summary": "Fanatiz expands US footprint with pay-TV and YouTube channel Sportcal",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -106,7 +126,8 @@
         "published_label": "Fri 12 Jun, 14:52",
         "summary": "S4C secures first Commonwealth Games rights deal Sportcal",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -118,7 +139,8 @@
         "published_label": "Fri 12 Jun, 11:36",
         "summary": "London Stadium has appointed Julie Harrington and Vikram Banerjee as Non-Executive Directors, bringing senior experience from UK Sport and major event venues The appointments come as London Stadium continues to serve as one of the UK’s busiest multi-purpose venues, hosting Premier League football, athletics, concerts and major events. The venue remains a central part of […] The post Shorts: London Stadium, Target Darts, Daisy May Cooper appeared first on Sport Industry Group .",
         "body": "The appointments come as London Stadium continues to serve as one of the UK’s busiest multi-purpose venues, hosting Premier League football, athletics, concerts and major events. The venue remains a central part of the capital’s sporting and entertainment landscape more than a decade after the London 2012 Olympic and Paralympic Games.\n\nHarrington joins the Board following a career spanning sports governance, venue operations and leisure. She currently serves as a Non-Executive Director at Chester Race Company and has previously held senior positions at The Football Association, including Managing Director of Wembley Stadium and St George’s Park. She also served as Chief Executive of British Cycling and British Horseracing.",
-        "copy": "The appointments come as London Stadium continues to serve as one of the UK’s busiest multi-purpose venues, hosting Premier League football, athletics, concerts and major events. The venue remains a central part of the capital’s sporting and entertainment landscape more than a decade after the London 2012 Olympic and Paralympic Games.\n\nHarrington joins the Board following a career spanning sports governance, venue operations and leisure. She currently serves as a Non-Executive Director at Chester Race Company and has previously held senior positions at The Football Association, including Managing Director of Wembley Stadium and St George’s Park. She also served as Chief Executive of British Cycling and British Horseracing."
+        "copy": "The appointments come as London Stadium continues to serve as one of the UK’s busiest multi-purpose venues, hosting Premier League football, athletics, concerts and major events. The venue remains a central part of the capital’s sporting and entertainment landscape more than a decade after the London 2012 Olympic and Paralympic Games.\n\nHarrington joins the Board following a career spanning sports governance, venue operations and leisure. She currently serves as a Non-Executive Director at Chester Race Company and has previously held senior positions at The Football Association, including Managing Director of Wembley Stadium and St George’s Park. She also served as Chief Executive of British Cycling and British Horseracing.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -130,7 +152,8 @@
         "published_label": "Fri 12 Jun, 10:22",
         "summary": "F1 and Pirelli renew long-running tyre partnership through 2028 Sportcal",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -142,7 +165,8 @@
         "published_label": "Fri 12 Jun, 10:22",
         "summary": "New president for FIS as Ospelt narrowly bests incumbent Eliasch Sportcal",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -154,7 +178,8 @@
         "published_label": "Fri 12 Jun, 09:27",
         "summary": "Formula 1 has extended Pirelli’s tyre supply agreement through to 2028 following activation of an extension clause by the FIA. The extension adds a further year to the existing contract, which covers the 2025 to 2027 seasons. The option for an additional year was included in that agreement and has been exercised by the FIA […] The post Formula 1 extend Pirelli tyre contract until 2028 appeared first on Sport Industry Group .",
         "body": "Formula 1 has extended Pirelli’s tyre supply agreement through to 2028 following activation of an extension clause by the FIA.\n\nThe extension adds a further year to the existing contract, which covers the 2025 to 2027 seasons. The option for an additional year was included in that agreement and has been exercised by the FIA with the agreement of Formula One and Pirelli.",
-        "copy": "Formula 1 has extended Pirelli’s tyre supply agreement through to 2028 following activation of an extension clause by the FIA.\n\nThe extension adds a further year to the existing contract, which covers the 2025 to 2027 seasons. The option for an additional year was included in that agreement and has been exercised by the FIA with the agreement of Formula One and Pirelli."
+        "copy": "Formula 1 has extended Pirelli’s tyre supply agreement through to 2028 following activation of an extension clause by the FIA.\n\nThe extension adds a further year to the existing contract, which covers the 2025 to 2027 seasons. The option for an additional year was included in that agreement and has been exercised by the FIA with the agreement of Formula One and Pirelli.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -166,7 +191,8 @@
         "published_label": "Fri 12 Jun, 09:09",
         "summary": "This week on The SportBusiness Podcast, it's a World Cup preview special as Jonathan Rest is joined by Martin Ross, who - with passport and kilt at the ready - prepares to head out to the US with the Tartan…",
         "body": "",
-        "copy": "This week on The SportBusiness Podcast, it's a World Cup preview special as Jonathan Rest is joined by Martin Ross, who - with passport and kilt at the ready - prepares to head out to the US with the Tartan…"
+        "copy": "This week on The SportBusiness Podcast, it's a World Cup preview special as Jonathan Rest is joined by Martin Ross, who - with passport and kilt at the ready - prepares to head out to the US with the Tartan…",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -178,7 +204,8 @@
         "published_label": "Fri 12 Jun, 09:07",
         "summary": "Welcome to The Funnel Club, a new interview series that puts senior sports marketers in the hot seat for a quick-fire Q&A covering the things that really matter: career highs, marketing pet peeves, favourite campaigns, industry trends, lessons learned and the occasional curveball. Throughout this series, we’ll be speaking to marketing leaders from across sport, […] The post Melissa Noakes: ‘Staying close to what audiences actually care about is key’ appeared first on Sport Industry Group .",
         "body": "Welcome to The Funnel Club, a new interview series that puts senior sports marketers in the hot seat for a quick-fire Q&A covering the things that really matter: career highs, marketing pet peeves, favourite campaigns, industry trends, lessons learned and the occasional curveball.\n\nThroughout this series, we’ll be speaking to marketing leaders from across sport, sponsorship, media and brands to find out what’s capturing their attention, what’s keeping them awake at night and what they wish everyone else understood about marketing.",
-        "copy": "Welcome to The Funnel Club, a new interview series that puts senior sports marketers in the hot seat for a quick-fire Q&A covering the things that really matter: career highs, marketing pet peeves, favourite campaigns, industry trends, lessons learned and the occasional curveball.\n\nThroughout this series, we’ll be speaking to marketing leaders from across sport, sponsorship, media and brands to find out what’s capturing their attention, what’s keeping them awake at night and what they wish everyone else understood about marketing."
+        "copy": "Welcome to The Funnel Club, a new interview series that puts senior sports marketers in the hot seat for a quick-fire Q&A covering the things that really matter: career highs, marketing pet peeves, favourite campaigns, industry trends, lessons learned and the occasional curveball.\n\nThroughout this series, we’ll be speaking to marketing leaders from across sport, sponsorship, media and brands to find out what’s capturing their attention, what’s keeping them awake at night and what they wish everyone else understood about marketing.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -190,7 +217,8 @@
         "published_label": "Fri 12 Jun, 09:00",
         "summary": "Just when you thought you’d heard enough about Arsenal, they offer another useful reminder of where the sports industry has been heading for some time. When the club secured their recent trophy win, the impact extended well beyond the Emirates Stadium. It played out across a digital ecosystem that consistently reaches fans, well beyond match […] The post MAD//Sports: Data and the Frictionless Fan appeared first on Sport Industry Group .",
         "body": "Just when you thought you’d heard enough about Arsenal, they offer another useful reminder of where the sports industry has been heading for some time.\n\nWhen the club secured their recent trophy win, the impact extended well beyond the Emirates Stadium. It played out across a digital ecosystem that consistently reaches fans, well beyond match day, across multiple touchpoints and meeting fans where they are.",
-        "copy": "Just when you thought you’d heard enough about Arsenal, they offer another useful reminder of where the sports industry has been heading for some time.\n\nWhen the club secured their recent trophy win, the impact extended well beyond the Emirates Stadium. It played out across a digital ecosystem that consistently reaches fans, well beyond match day, across multiple touchpoints and meeting fans where they are."
+        "copy": "Just when you thought you’d heard enough about Arsenal, they offer another useful reminder of where the sports industry has been heading for some time.\n\nWhen the club secured their recent trophy win, the impact extended well beyond the Emirates Stadium. It played out across a digital ecosystem that consistently reaches fans, well beyond match day, across multiple touchpoints and meeting fans where they are.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -202,7 +230,8 @@
         "published_label": "Fri 12 Jun, 09:00",
         "summary": "ŌURA has signed Harry Kane and Declan Rice as global ambassadors to support athlete health monitoring during the UK football calendar. The agreement establishes long-term partnerships with the two England players, who will feature in marketing activity centred on performance, recovery and health tracking. The campaign will be distributed across UK locations, including digital out-of-home […] The post ŌURA signs England players partnership appeared first on Sport Industry Group .",
         "body": "ŌURA has signed Harry Kane and Declan Rice as global ambassadors to support athlete health monitoring during the UK football calendar.\n\nThe agreement establishes long-term partnerships with the two England players, who will feature in marketing activity centred on performance, recovery and health tracking. The campaign will be distributed across UK locations, including digital out-of-home placements in London sites such as Piccadilly Circus, BOXPARK Wembley and Canary Wharf, as well as broadcast channels around football coverage.",
-        "copy": "ŌURA has signed Harry Kane and Declan Rice as global ambassadors to support athlete health monitoring during the UK football calendar.\n\nThe agreement establishes long-term partnerships with the two England players, who will feature in marketing activity centred on performance, recovery and health tracking. The campaign will be distributed across UK locations, including digital out-of-home placements in London sites such as Piccadilly Circus, BOXPARK Wembley and Canary Wharf, as well as broadcast channels around football coverage."
+        "copy": "ŌURA has signed Harry Kane and Declan Rice as global ambassadors to support athlete health monitoring during the UK football calendar.\n\nThe agreement establishes long-term partnerships with the two England players, who will feature in marketing activity centred on performance, recovery and health tracking. The campaign will be distributed across UK locations, including digital out-of-home placements in London sites such as Piccadilly Circus, BOXPARK Wembley and Canary Wharf, as well as broadcast channels around football coverage.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -214,7 +243,8 @@
         "published_label": "Thu 11 Jun, 16:22",
         "summary": "New York Knicks’ winning streak should rub off on its owner too Financial Times",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -226,7 +256,8 @@
         "published_label": "Thu 11 Jun, 16:20",
         "summary": "The World Cup’s unlikely linguists Financial Times",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       }
     ],
     "Rugby": [
@@ -240,7 +271,8 @@
         "published_label": "Sat 13 Jun, 09:32",
         "summary": "Winger Ella Pietsch has suffered an injury on debut as the Western Force coughed up a sizeable lead in a 29-24 Super Rugby Women's loss to the Fijian Drua in Fiji.",
         "body": "Winger Ella Pietsch has suffered an injury on debut as the Western Force coughed up a sizeable lead in a 29-24 Super Rugby Women’s loss to the Fijian Drua in Fiji.\n\nThe Force led 24-10 in the 53rd minute of Saturday’s match in Churchill Park in Lautoka before the Drua unleashed a mesmerising three-try blitz to snatch the victory.",
-        "copy": "Winger Ella Pietsch has suffered an injury on debut as the Western Force coughed up a sizeable lead in a 29-24 Super Rugby Women’s loss to the Fijian Drua in Fiji.\n\nThe Force led 24-10 in the 53rd minute of Saturday’s match in Churchill Park in Lautoka before the Drua unleashed a mesmerising three-try blitz to snatch the victory."
+        "copy": "Winger Ella Pietsch has suffered an injury on debut as the Western Force coughed up a sizeable lead in a 29-24 Super Rugby Women’s loss to the Fijian Drua in Fiji.\n\nThe Force led 24-10 in the 53rd minute of Saturday’s match in Churchill Park in Lautoka before the Drua unleashed a mesmerising three-try blitz to snatch the victory.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -252,7 +284,8 @@
         "published_label": "Sat 13 Jun, 09:18",
         "summary": "Hnry Stadium in Wellington will play host to next weekend's final, at 7:05pm NZT between the Hurricanes and the Chiefs.",
         "body": "The Hurricanes are one win away from their first Super Rugby title since 2016, booking their place in the 2026 final against the Chiefs next week after beating the Blues, 57-21.\n\nClark Laidlaw’s side didn’t have it all their way, as the Blues contained the Hurricanes’ dangerous attack during the first half.",
-        "copy": "The Hurricanes are one win away from their first Super Rugby title since 2016, booking their place in the 2026 final against the Chiefs next week after beating the Blues, 57-21.\n\nClark Laidlaw’s side didn’t have it all their way, as the Blues contained the Hurricanes’ dangerous attack during the first half."
+        "copy": "The Hurricanes are one win away from their first Super Rugby title since 2016, booking their place in the 2026 final against the Chiefs next week after beating the Blues, 57-21.\n\nClark Laidlaw’s side didn’t have it all their way, as the Blues contained the Hurricanes’ dangerous attack during the first half.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -264,7 +297,8 @@
         "published_label": "Sat 13 Jun, 08:53",
         "summary": "The 2026 'lucky losers' were, rather predictably, put to the sword by the Hurricanes at a humming Cake Tin in the second semi-final of the weekend, falling to a 52-21 defeat.",
         "body": "The 2026 ‘lucky losers’ were, rather predictably, put to the sword by the Hurricanes at a humming Cake Tin in the second semi-final of the weekend, falling to a 57-21 defeat.\n\nIt was a close contest in the first half, with the Hurricanes ahead just 19 points to 14, but the second half started with five straight tries to the hosts, and the Blues could then only manage a consolation effort in the 77th minute.",
-        "copy": "The 2026 ‘lucky losers’ were, rather predictably, put to the sword by the Hurricanes at a humming Cake Tin in the second semi-final of the weekend, falling to a 57-21 defeat.\n\nIt was a close contest in the first half, with the Hurricanes ahead just 19 points to 14, but the second half started with five straight tries to the hosts, and the Blues could then only manage a consolation effort in the 77th minute."
+        "copy": "The 2026 ‘lucky losers’ were, rather predictably, put to the sword by the Hurricanes at a humming Cake Tin in the second semi-final of the weekend, falling to a 57-21 defeat.\n\nIt was a close contest in the first half, with the Hurricanes ahead just 19 points to 14, but the second half started with five straight tries to the hosts, and the Blues could then only manage a consolation effort in the 77th minute.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -276,7 +310,8 @@
         "published_label": "Sat 13 Jun, 07:17",
         "summary": "Pollock was exceptional in Northampton's semi-final win over Leicester, finishing the East Midlands derby with a remarkable 26 carries.",
         "body": "Northampton boss Phil Dowson praised Henry Pollock’s growing maturity after the England back row played an influential role in Saints clinching a second Gallagher Prem final appearance in three years.\n\nA gripping 45-31 victory over Leicester at Franklin’s Gardens propelled Northampton into the Allianz Stadium showpiece next Saturday when they will face either Bath or Exeter.",
-        "copy": "Northampton boss Phil Dowson praised Henry Pollock’s growing maturity after the England back row played an influential role in Saints clinching a second Gallagher Prem final appearance in three years.\n\nA gripping 45-31 victory over Leicester at Franklin’s Gardens propelled Northampton into the Allianz Stadium showpiece next Saturday when they will face either Bath or Exeter."
+        "copy": "Northampton boss Phil Dowson praised Henry Pollock’s growing maturity after the England back row played an influential role in Saints clinching a second Gallagher Prem final appearance in three years.\n\nA gripping 45-31 victory over Leicester at Franklin’s Gardens propelled Northampton into the Allianz Stadium showpiece next Saturday when they will face either Bath or Exeter.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -288,7 +323,8 @@
         "published_label": "Sat 13 Jun, 06:25",
         "summary": "The NSW Waratahs are standing by Henry O'Donnell after the talented centre accepted an 18-month ban for an anti-doping violation.",
         "body": "The NSW Waratahs are standing by Henry O’Donnell after the talented centre accepted an 18-month ban for an anti-doping violation.\n\nThe former junior Wallaby’s ineligibility started on July 1 last year in connection with an Anti-Doping Rule Violation issued under the Australian National Anti-Doping Policy.",
-        "copy": "The NSW Waratahs are standing by Henry O’Donnell after the talented centre accepted an 18-month ban for an anti-doping violation.\n\nThe former junior Wallaby’s ineligibility started on July 1 last year in connection with an Anti-Doping Rule Violation issued under the Australian National Anti-Doping Policy."
+        "copy": "The NSW Waratahs are standing by Henry O’Donnell after the talented centre accepted an 18-month ban for an anti-doping violation.\n\nThe former junior Wallaby’s ineligibility started on July 1 last year in connection with an Anti-Doping Rule Violation issued under the Australian National Anti-Doping Policy.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -300,7 +336,8 @@
         "published_label": "Sat 13 Jun, 06:16",
         "summary": "Junior Boks coach Kevin Foote has unveiled his squad for the World Rugby Junior World Championship in Georgia that begins later this month.",
         "body": "Junior Boks coach Kevin Foote has unveiled his squad for the World Rugby Junior World Championship in Georgia that begins later this month.\n\nThe squad is tasked with defending the world title the 2025 squad won, and will have seven players from last year’s squad leading the charge again this year, including captain Riley Norton.",
-        "copy": "Junior Boks coach Kevin Foote has unveiled his squad for the World Rugby Junior World Championship in Georgia that begins later this month.\n\nThe squad is tasked with defending the world title the 2025 squad won, and will have seven players from last year’s squad leading the charge again this year, including captain Riley Norton."
+        "copy": "Junior Boks coach Kevin Foote has unveiled his squad for the World Rugby Junior World Championship in Georgia that begins later this month.\n\nThe squad is tasked with defending the world title the 2025 squad won, and will have seven players from last year’s squad leading the charge again this year, including captain Riley Norton.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -312,7 +349,8 @@
         "published_label": "Sat 13 Jun, 05:12",
         "summary": "The Crusaders' 2026 season ended on Friday night in Hamilton, and with it, so did head coach Rob Penney's time at the helm.",
         "body": "The Crusaders’ 2026 season ended on Friday night in Hamilton, and with it, so did head coach Rob Penney’s time at the helm.\n\nPenney’s hopes of giving his 2025 title a sibling persisted until the final quarter of the semi-final loss to the Chiefs, despite his side trailing by 30 points. A first-half Chiefs onslaught left the Crusaders trailing 42 points to five at the break, with captain David Havili striking in the 62nd minute to offer a faint glimpse of hope for a comeback.",
-        "copy": "The Crusaders’ 2026 season ended on Friday night in Hamilton, and with it, so did head coach Rob Penney’s time at the helm.\n\nPenney’s hopes of giving his 2025 title a sibling persisted until the final quarter of the semi-final loss to the Chiefs, despite his side trailing by 30 points. A first-half Chiefs onslaught left the Crusaders trailing 42 points to five at the break, with captain David Havili striking in the 62nd minute to offer a faint glimpse of hope for a comeback."
+        "copy": "The Crusaders’ 2026 season ended on Friday night in Hamilton, and with it, so did head coach Rob Penney’s time at the helm.\n\nPenney’s hopes of giving his 2025 title a sibling persisted until the final quarter of the semi-final loss to the Chiefs, despite his side trailing by 30 points. A first-half Chiefs onslaught left the Crusaders trailing 42 points to five at the break, with captain David Havili striking in the 62nd minute to offer a faint glimpse of hope for a comeback.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -324,7 +362,8 @@
         "published_label": "Sat 13 Jun, 00:46",
         "summary": "You can’t win a game of rugby without a scrum. The first person chosen on the team sheet should be the tighthead prop, then your reserve tighthead prop. These are the rugby adages that can be thrown around a lot, particularly at Test level.",
         "body": "You can’t win a game of rugby without a scrum. The first person chosen on the team sheet should be the tighthead prop, then your reserve tighthead prop. These are the rugby adages that can be thrown around a lot, particularly at Test level.\n\nThere’s been so much written about the young Queenslander, the kid who stayed in the gym an entire off-season and who ballooned in both size and raw power, and who is now turning heads on the rugby field.",
-        "copy": "You can’t win a game of rugby without a scrum. The first person chosen on the team sheet should be the tighthead prop, then your reserve tighthead prop. These are the rugby adages that can be thrown around a lot, particularly at Test level.\n\nThere’s been so much written about the young Queenslander, the kid who stayed in the gym an entire off-season and who ballooned in both size and raw power, and who is now turning heads on the rugby field."
+        "copy": "You can’t win a game of rugby without a scrum. The first person chosen on the team sheet should be the tighthead prop, then your reserve tighthead prop. These are the rugby adages that can be thrown around a lot, particularly at Test level.\n\nThere’s been so much written about the young Queenslander, the kid who stayed in the gym an entire off-season and who ballooned in both size and raw power, and who is now turning heads on the rugby field.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -336,7 +375,8 @@
         "published_label": "Fri 12 Jun, 23:27",
         "summary": "Hurricanes skipper Du'Plessis Kirifi was relaxed during the captain's run at Hnry Stadium in Wellington ahead of tonight's Super Rugby Pacific semi-final against the Blues.",
         "body": "Hurricanes skipper Du’Plessis Kirifi was relaxed during the captain’s run at Hnry Stadium in Wellington ahead of tonight’s Super Rugby Pacific semi-final against the Blues.\n\nThe top-qualifying Hurricanes have been in irresistible form in 2026, winning 12 out of 15 games and scoring over 50 points in half of those victories. Twelve of tonight’s starting fifteen players have played 50 or more matches, with Kirifi set to make his 105th appearance. Isaia Walker-Leawere (91), Tyrel Lomax (73), and Brayden Iose (65) will come off the bench. The Hurricanes have won their last nine home matches by an average margin of 28 points.",
-        "copy": "Hurricanes skipper Du’Plessis Kirifi was relaxed during the captain’s run at Hnry Stadium in Wellington ahead of tonight’s Super Rugby Pacific semi-final against the Blues.\n\nThe top-qualifying Hurricanes have been in irresistible form in 2026, winning 12 out of 15 games and scoring over 50 points in half of those victories. Twelve of tonight’s starting fifteen players have played 50 or more matches, with Kirifi set to make his 105th appearance. Isaia Walker-Leawere (91), Tyrel Lomax (73), and Brayden Iose (65) will come off the bench. The Hurricanes have won their last nine home matches by an average margin of 28 points."
+        "copy": "Hurricanes skipper Du’Plessis Kirifi was relaxed during the captain’s run at Hnry Stadium in Wellington ahead of tonight’s Super Rugby Pacific semi-final against the Blues.\n\nThe top-qualifying Hurricanes have been in irresistible form in 2026, winning 12 out of 15 games and scoring over 50 points in half of those victories. Twelve of tonight’s starting fifteen players have played 50 or more matches, with Kirifi set to make his 105th appearance. Isaia Walker-Leawere (91), Tyrel Lomax (73), and Brayden Iose (65) will come off the bench. The Hurricanes have won their last nine home matches by an average margin of 28 points.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -348,7 +388,8 @@
         "published_label": "Fri 12 Jun, 21:15",
         "summary": "George Furbank scores two tries in his final home game for Northampton as they overcome Leicester in an East Midlands derby classic to reach the Prem final.",
         "body": "Captain George Furbank scored two tries in his final home game for Northampton Saints as they overcame Leicester Tigers in an East Midlands derby classic to reach the Prem final.\n\nFurbank, who will join Harlequins next season, touched down twice in the second half to ensure he has a shot at finishing his Northampton career with a second title.",
-        "copy": "Captain George Furbank scored two tries in his final home game for Northampton Saints as they overcame Leicester Tigers in an East Midlands derby classic to reach the Prem final.\n\nFurbank, who will join Harlequins next season, touched down twice in the second half to ensure he has a shot at finishing his Northampton career with a second title."
+        "copy": "Captain George Furbank scored two tries in his final home game for Northampton Saints as they overcame Leicester Tigers in an East Midlands derby classic to reach the Prem final.\n\nFurbank, who will join Harlequins next season, touched down twice in the second half to ensure he has a shot at finishing his Northampton career with a second title.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -360,7 +401,8 @@
         "published_label": "Fri 12 Jun, 21:04",
         "summary": ".Northampton claimed East Midlands bragging rights and a place in the Gallagher Prem final after eventually subduing Leicester in a thrilling 45-31 victory at Franklin’s Gardens.",
         "body": "Northampton claimed East Midlands bragging rights and a place in the Gallagher Prem final after eventually subduing Leicester in a thrilling 45-31 victory at Franklin’s Gardens.\n\nTom Litchfield ran in a first-half hat-trick, George Furbank crossed twice on his home farewell ahead of his move to Harlequins and Tommy Freeman and Archie McParland also touched down as Saints booked their place at Allianz Stadium next Saturday.",
-        "copy": "Northampton claimed East Midlands bragging rights and a place in the Gallagher Prem final after eventually subduing Leicester in a thrilling 45-31 victory at Franklin’s Gardens.\n\nTom Litchfield ran in a first-half hat-trick, George Furbank crossed twice on his home farewell ahead of his move to Harlequins and Tommy Freeman and Archie McParland also touched down as Saints booked their place at Allianz Stadium next Saturday."
+        "copy": "Northampton claimed East Midlands bragging rights and a place in the Gallagher Prem final after eventually subduing Leicester in a thrilling 45-31 victory at Franklin’s Gardens.\n\nTom Litchfield ran in a first-half hat-trick, George Furbank crossed twice on his home farewell ahead of his move to Harlequins and Tommy Freeman and Archie McParland also touched down as Saints booked their place at Allianz Stadium next Saturday.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -372,7 +414,8 @@
         "published_label": "Fri 12 Jun, 17:07",
         "summary": "Wales international Kayleigh Powell will spend another season at The Stoop after signing a new contract with Harlequins.",
         "body": "Wales international Kayleigh Powell will spend another season at The Stoop after signing a new contract with Harlequins.\n\nThe 27-year-old has made 14 appearances for the Premiership Women's Rugby (PWR) side this season, stepping in at both fly-half and full-back.",
-        "copy": "Wales international Kayleigh Powell will spend another season at The Stoop after signing a new contract with Harlequins.\n\nThe 27-year-old has made 14 appearances for the Premiership Women's Rugby (PWR) side this season, stepping in at both fly-half and full-back."
+        "copy": "Wales international Kayleigh Powell will spend another season at The Stoop after signing a new contract with Harlequins.\n\nThe 27-year-old has made 14 appearances for the Premiership Women's Rugby (PWR) side this season, stepping in at both fly-half and full-back.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -384,7 +427,8 @@
         "published_label": "Fri 12 Jun, 16:18",
         "summary": "Stormers No.8 Ruan Ackermann will not be available for the early stages of the 2026 Currie Cup after being banned for three matches following his red card in last week's 21-12 semi-final defeat to Leinster.",
         "body": "Stormers No.8 Ruan Ackermann will not be available for the early stages of the 2026 Currie Cup after being banned for three matches following his red card in last week’s 21-12 semi-final defeat to Leinster.\n\nAckermann was initially yellow-carded for his dangerous clearout on Ronan Kelleher in the 69th minute, which was later upgraded to a red by referee Hollie Davidson.",
-        "copy": "Stormers No.8 Ruan Ackermann will not be available for the early stages of the 2026 Currie Cup after being banned for three matches following his red card in last week’s 21-12 semi-final defeat to Leinster.\n\nAckermann was initially yellow-carded for his dangerous clearout on Ronan Kelleher in the 69th minute, which was later upgraded to a red by referee Hollie Davidson."
+        "copy": "Stormers No.8 Ruan Ackermann will not be available for the early stages of the 2026 Currie Cup after being banned for three matches following his red card in last week’s 21-12 semi-final defeat to Leinster.\n\nAckermann was initially yellow-carded for his dangerous clearout on Ronan Kelleher in the 69th minute, which was later upgraded to a red by referee Hollie Davidson.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -396,7 +440,8 @@
         "published_label": "Fri 12 Jun, 16:04",
         "summary": "Scott Robertson could never quite find his Conrad Smith, an outside-centre like a Swiss Army knife, who could make others around him shine",
         "body": "There is a long list of things former All Blacks coach Scott Robertson didn’t get right in his two-year tenure, but chiefly, he didn’t build a team that had either a clear cultural or playing identity.\n\nAgain, there is a long list of reasons why he failed to achieve these two key goals, and in the case of the latter, the chief problem was his inability to identify, develop and stick with any one centre.",
-        "copy": "There is a long list of things former All Blacks coach Scott Robertson didn’t get right in his two-year tenure, but chiefly, he didn’t build a team that had either a clear cultural or playing identity.\n\nAgain, there is a long list of reasons why he failed to achieve these two key goals, and in the case of the latter, the chief problem was his inability to identify, develop and stick with any one centre."
+        "copy": "There is a long list of things former All Blacks coach Scott Robertson didn’t get right in his two-year tenure, but chiefly, he didn’t build a team that had either a clear cultural or playing identity.\n\nAgain, there is a long list of reasons why he failed to achieve these two key goals, and in the case of the latter, the chief problem was his inability to identify, develop and stick with any one centre.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -408,7 +453,8 @@
         "published_label": "Fri 12 Jun, 15:42",
         "summary": "Exeter's Campbell Ridl was playing university rugby last season, but has been one of the breakout stars of the season at the centre of Exeter's renaissance",
         "body": "Every summer, Exeter Chiefs players write down personal goals for the campaign to come and beyond.\n\nLast year, Campbell Ridl, who had spent the previous season playing for Exeter University, aimed high.",
-        "copy": "Every summer, Exeter Chiefs players write down personal goals for the campaign to come and beyond.\n\nLast year, Campbell Ridl, who had spent the previous season playing for Exeter University, aimed high."
+        "copy": "Every summer, Exeter Chiefs players write down personal goals for the campaign to come and beyond.\n\nLast year, Campbell Ridl, who had spent the previous season playing for Exeter University, aimed high.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -420,7 +466,8 @@
         "published_label": "Fri 12 Jun, 14:00",
         "summary": "Australia centre Lalakai Foketi will join fellow countrymen Ryan Smith and Liam Wright in Ospreys' squad for 2026-27.",
         "body": "Ospreys have signed Australia centre Lalakai Foketi from Super Rugby Pacific side Chiefs.\n\nThe nine-times capped Wallaby will join fellow countrymen, lock Ryan Smith and flanker Liam Wright, in Swansea for the 2026-27 season.",
-        "copy": "Ospreys have signed Australia centre Lalakai Foketi from Super Rugby Pacific side Chiefs.\n\nThe nine-times capped Wallaby will join fellow countrymen, lock Ryan Smith and flanker Liam Wright, in Swansea for the 2026-27 season."
+        "copy": "Ospreys have signed Australia centre Lalakai Foketi from Super Rugby Pacific side Chiefs.\n\nThe nine-times capped Wallaby will join fellow countrymen, lock Ryan Smith and flanker Liam Wright, in Swansea for the 2026-27 season.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -432,7 +479,8 @@
         "published_label": "Fri 12 Jun, 12:25",
         "summary": "Gloucester sign Samoan tight-head prop Marco Fepulea'i for the 2026-27 season.",
         "body": "The 31-year-old tight-head has most recently been playing in France's Pro D2 league for Mont-de-Marsan after starting this campaign on a short-term deal with Top 14 side Bayonne.\n\nFepulea'i has eight caps for Samoa - the most recent coming during 2024, however he has been named in their squad for the upcoming summer Nations Series.",
-        "copy": "The 31-year-old tight-head has most recently been playing in France's Pro D2 league for Mont-de-Marsan after starting this campaign on a short-term deal with Top 14 side Bayonne.\n\nFepulea'i has eight caps for Samoa - the most recent coming during 2024, however he has been named in their squad for the upcoming summer Nations Series."
+        "copy": "The 31-year-old tight-head has most recently been playing in France's Pro D2 league for Mont-de-Marsan after starting this campaign on a short-term deal with Top 14 side Bayonne.\n\nFepulea'i has eight caps for Samoa - the most recent coming during 2024, however he has been named in their squad for the upcoming summer Nations Series.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -444,7 +492,8 @@
         "published_label": "Fri 12 Jun, 12:07",
         "summary": "Bath are without injured Finn Russell for Prem semi-final while Exeter Chiefs welcome back Greg Fisilau in team news.",
         "body": "Bath remains without fly-half Finn Russell for their Prem semi-final against Exeter, as the Scotland international continues to suffer from a calf injury.\n\nRussell has missed Bath's past two games with the injury and for the second week running, Santiago Carreras replaces him in the starting line-up for Saturday's home knockout game.",
-        "copy": "Bath remains without fly-half Finn Russell for their Prem semi-final against Exeter, as the Scotland international continues to suffer from a calf injury.\n\nRussell has missed Bath's past two games with the injury and for the second week running, Santiago Carreras replaces him in the starting line-up for Saturday's home knockout game."
+        "copy": "Bath remains without fly-half Finn Russell for their Prem semi-final against Exeter, as the Scotland international continues to suffer from a calf injury.\n\nRussell has missed Bath's past two games with the injury and for the second week running, Santiago Carreras replaces him in the starting line-up for Saturday's home knockout game.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -456,7 +505,8 @@
         "published_label": "Fri 12 Jun, 09:18",
         "summary": "The WRU says the new solar panels will save it up to £400,000 every year in energy costs.",
         "body": "The Welsh Rugby Union (WRU) has spent around £1m putting more than 3,000 solar panels on the roof of the Principality Stadium in Cardiff, describing it as a \"win-win\" for fans.\n\nThe WRU said the installation, which is the largest of its kind at any sports stadium in the UK, would save between £300,000 and £400,000 on energy bills every year.",
-        "copy": "The Welsh Rugby Union (WRU) has spent around £1m putting more than 3,000 solar panels on the roof of the Principality Stadium in Cardiff, describing it as a \"win-win\" for fans.\n\nThe WRU said the installation, which is the largest of its kind at any sports stadium in the UK, would save between £300,000 and £400,000 on energy bills every year."
+        "copy": "The Welsh Rugby Union (WRU) has spent around £1m putting more than 3,000 solar panels on the roof of the Principality Stadium in Cardiff, describing it as a \"win-win\" for fans.\n\nThe WRU said the installation, which is the largest of its kind at any sports stadium in the UK, would save between £300,000 and £400,000 on energy bills every year.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -468,7 +518,8 @@
         "published_label": "Fri 12 Jun, 07:06",
         "summary": "From birthday parties at The Rec as a child, to three consecutive Prem Rugby semi-finals at this hometown stadium, Bath hooker Tom Dunn looks back on his incredible career.",
         "body": "When Tom Dunn turned 10, he had his birthday party at the home of Bath Rugby, The Rec.\n\nNow, some 23 years later, the hooker is preparing to run out at the ground of his hometown club for a third consecutive Prem Rugby semi-final, just weeks after becoming the record appearance holder in the professional era for the Somerset side.",
-        "copy": "When Tom Dunn turned 10, he had his birthday party at the home of Bath Rugby, The Rec.\n\nNow, some 23 years later, the hooker is preparing to run out at the ground of his hometown club for a third consecutive Prem Rugby semi-final, just weeks after becoming the record appearance holder in the professional era for the Somerset side."
+        "copy": "When Tom Dunn turned 10, he had his birthday party at the home of Bath Rugby, The Rec.\n\nNow, some 23 years later, the hooker is preparing to run out at the ground of his hometown club for a third consecutive Prem Rugby semi-final, just weeks after becoming the record appearance holder in the professional era for the Somerset side.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -480,7 +531,8 @@
         "published_label": "Fri 12 Jun, 06:31",
         "summary": "Exeter's England winger Claudia Moloney-MacDonald says she is confident they can reach the final of Premiership Women's Rugby.",
         "body": "Exeter's England winger Claudia Moloney-MacDonald says she is confident they can reach the final of Premiership Women's Rugby.\n\nThe Chiefs, who finished third in the table, travel to second-placed Saracens on Sunday, who ended the season 15 points ahead of them.",
-        "copy": "Exeter's England winger Claudia Moloney-MacDonald says she is confident they can reach the final of Premiership Women's Rugby.\n\nThe Chiefs, who finished third in the table, travel to second-placed Saracens on Sunday, who ended the season 15 points ahead of them."
+        "copy": "Exeter's England winger Claudia Moloney-MacDonald says she is confident they can reach the final of Premiership Women's Rugby.\n\nThe Chiefs, who finished third in the table, travel to second-placed Saracens on Sunday, who ended the season 15 points ahead of them.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -492,7 +544,8 @@
         "published_label": "Fri 12 Jun, 05:05",
         "summary": "Things could have been very different for Pivac had his time as Wales coach worked out but he paid the price for losing at home to Georgia in 2022.",
         "body": "Former Wales coach Wayne Pivac is preparing to come out of \"semi-retirement\" and begin a new chapter when he travels to Italy next week to take charge of Benetton.\n\nPivac, 63, was announced as the new boss of the United Rugby Championship (URC) side in March and will arrive in northern Italy from New Zealand to start pre-season preparations.",
-        "copy": "Former Wales coach Wayne Pivac is preparing to come out of \"semi-retirement\" and begin a new chapter when he travels to Italy next week to take charge of Benetton.\n\nPivac, 63, was announced as the new boss of the United Rugby Championship (URC) side in March and will arrive in northern Italy from New Zealand to start pre-season preparations."
+        "copy": "Former Wales coach Wayne Pivac is preparing to come out of \"semi-retirement\" and begin a new chapter when he travels to Italy next week to take charge of Benetton.\n\nPivac, 63, was announced as the new boss of the United Rugby Championship (URC) side in March and will arrive in northern Italy from New Zealand to start pre-season preparations.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -504,7 +557,8 @@
         "published_label": "Fri 12 Jun, 05:05",
         "summary": "Ex-Wales coach Wayne Pivac tells Scrum V that Welsh rugby missed a trick in 2019 by not combining Ospreys with his Scarlets side to create a super region.",
         "body": "Former Wales head coach Wayne Pivac says Welsh rugby would be in a \"different state right now\", had a proposed Ospreys and Scarlets merger taken place in 2019.\n\nThe Welsh Rugby Union (WRU) will this month outline how they plan to cut a professional men's side by 2028, with Ospreys and Scarlets competing to be the team in west Wales.",
-        "copy": "Former Wales head coach Wayne Pivac says Welsh rugby would be in a \"different state right now\", had a proposed Ospreys and Scarlets merger taken place in 2019.\n\nThe Welsh Rugby Union (WRU) will this month outline how they plan to cut a professional men's side by 2028, with Ospreys and Scarlets competing to be the team in west Wales."
+        "copy": "Former Wales head coach Wayne Pivac says Welsh rugby would be in a \"different state right now\", had a proposed Ospreys and Scarlets merger taken place in 2019.\n\nThe Welsh Rugby Union (WRU) will this month outline how they plan to cut a professional men's side by 2028, with Ospreys and Scarlets competing to be the team in west Wales.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Rugby",
@@ -516,10 +570,24 @@
         "published_label": "Thu 11 Jun, 20:28",
         "summary": "Kevin Rouet went from trying to stop England internationals Zoe Harrison, Marlie Packer and Jess Breach with Canada, to coaching them with Saracens in a matter of weeks.",
         "body": "In a previous life, as a structural engineer, Kevin Rouet used to build bridges.\n\nIn September, the Frenchman was Canada's head coach, attempting to upset England in the Women's Rugby World Cup final.",
-        "copy": "In a previous life, as a structural engineer, Kevin Rouet used to build bridges.\n\nIn September, the Frenchman was Canada's head coach, attempting to upset England in the Women's Rugby World Cup final."
+        "copy": "In a previous life, as a structural engineer, Kevin Rouet used to build bridges.\n\nIn September, the Frenchman was Canada's head coach, attempting to upset England in the Women's Rugby World Cup final.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Raducanu 'really proud' to overcome injury scare in Queen's win",
+        "link": "https://www.bbc.com/sport/tennis/videos/cvgje7xmg2mo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-06-13T14:57:41+00:00",
+        "published_label": "Sat 13 Jun, 14:57",
+        "summary": "Britain's Emma Raducanu reacts to her win against Uzbekistan's Kamilla Rakhimova as she advances to the semi-finals of Queen's.",
+        "body": "",
+        "copy": "Britain's Emma Raducanu reacts to her win against Uzbekistan's Kamilla Rakhimova as she advances to the semi-finals of Queen's.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -530,7 +598,8 @@
         "published_label": "Sat 13 Jun, 13:56",
         "summary": "Emma Raducanu overcomes an injury scare to beat Kamilla Rakhimova but fellow Briton Katie Boulter loses in the Queen's semi-finals.",
         "body": "Emma Raducanu overcame an injury scare to reach the Queen's semi-finals but Katie Boulter's title bid ended with a straight-sets loss to Donna Vekic.\n\nBritish number one Raducanu had to go off court for medical treatment in the second set of her quarter-final but came through to beat Kamilla Rakhimova 6-3 7-5.",
-        "copy": "Emma Raducanu overcame an injury scare to reach the Queen's semi-finals but Katie Boulter's title bid ended with a straight-sets loss to Donna Vekic.\n\nBritish number one Raducanu had to go off court for medical treatment in the second set of her quarter-final but came through to beat Kamilla Rakhimova 6-3 7-5."
+        "copy": "Emma Raducanu overcame an injury scare to reach the Queen's semi-finals but Katie Boulter's title bid ended with a straight-sets loss to Donna Vekic.\n\nBritish number one Raducanu had to go off court for medical treatment in the second set of her quarter-final but came through to beat Kamilla Rakhimova 6-3 7-5.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -542,7 +611,8 @@
         "published_label": "Sat 13 Jun, 13:10",
         "summary": "Barcelona-Catalunya GP: George Russell fastest from Oscar Piastri as Kimi Antonelli left frustrated with traffic in final practice Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -554,7 +624,8 @@
         "published_label": "Sat 13 Jun, 11:53",
         "summary": "World Cup: England's five-star Kansas City hotel and training facilities explained Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -566,7 +637,8 @@
         "published_label": "Sat 13 Jun, 10:01",
         "summary": "Barcelona-Catalunya GP - Final Practice LIVE! Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -578,7 +650,8 @@
         "published_label": "Sat 13 Jun, 06:02",
         "summary": "2.10 Chester - Masked Warrior and Startled head the market Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -590,7 +663,8 @@
         "published_label": "Fri 12 Jun, 22:36",
         "summary": "Katie Boulter: British wildcard records biggest win of her career over world No 2 Elena Rybakina at Queen's Club Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -602,7 +676,8 @@
         "published_label": "Fri 12 Jun, 20:39",
         "summary": "Watch the best shots as Britain's Katie Boulter stuns top seed Elena Rybakina to book her Queen's semi-final spot.",
         "body": "",
-        "copy": "Watch the best shots as Britain's Katie Boulter stuns top seed Elena Rybakina to book her Queen's semi-final spot."
+        "copy": "Watch the best shots as Britain's Katie Boulter stuns top seed Elena Rybakina to book her Queen's semi-final spot.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -614,7 +689,8 @@
         "published_label": "Fri 12 Jun, 20:39",
         "summary": "An inspired Katie Boulter celebrates the biggest win of her career by ranking as she beats world number two Elena Rybakina to reach the Queen's semi-finals.",
         "body": "An inspired Katie Boulter celebrated the biggest win of her career by ranking as the Briton ousted world number two Elena Rybakina to reach the Queen's semi-finals.\n\nHaving overcome Jaqueline Cristian earlier in the day to reach the last eight, Boulter returned to court on Friday evening to stun Australian Open champion Rybakina 7-5 2-6 6-4.",
-        "copy": "An inspired Katie Boulter celebrated the biggest win of her career by ranking as the Briton ousted world number two Elena Rybakina to reach the Queen's semi-finals.\n\nHaving overcome Jaqueline Cristian earlier in the day to reach the last eight, Boulter returned to court on Friday evening to stun Australian Open champion Rybakina 7-5 2-6 6-4."
+        "copy": "An inspired Katie Boulter celebrated the biggest win of her career by ranking as the Briton ousted world number two Elena Rybakina to reach the Queen's semi-finals.\n\nHaving overcome Jaqueline Cristian earlier in the day to reach the last eight, Boulter returned to court on Friday evening to stun Australian Open champion Rybakina 7-5 2-6 6-4.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -626,7 +702,8 @@
         "published_label": "Fri 12 Jun, 20:22",
         "summary": "Britain's Katie Boulter dedicates her stunning upset of world number two Elena Rybakina to the crowd who stayed late to witness her quarter-final battle.",
         "body": "Britain's Katie Boulter dedicates her stunning upset of world number two Elena Rybakina to the crowd who stayed late to witness her two hour, 39 minute quarter-final battle.",
-        "copy": "Britain's Katie Boulter dedicates her stunning upset of world number two Elena Rybakina to the crowd who stayed late to witness her two hour, 39 minute quarter-final battle."
+        "copy": "Britain's Katie Boulter dedicates her stunning upset of world number two Elena Rybakina to the crowd who stayed late to witness her two hour, 39 minute quarter-final battle.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -638,7 +715,8 @@
         "published_label": "Fri 12 Jun, 19:35",
         "summary": "Queen's Club: Emma Raducanu beats Sorana Cirstea in straight sets to reach quarter-finals on home soil Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -650,7 +728,8 @@
         "published_label": "Fri 12 Jun, 17:10",
         "summary": "Queen's Club: Serena Williams pays tribute to partner Victoria Mboko after injury ended 'special' doubles campaign Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -662,7 +741,8 @@
         "published_label": "Fri 12 Jun, 15:18",
         "summary": "Britain's Emma Raducanu books her place in the quarter-finals of the Queen's Club Championship with a dominant straight-set win over Romania's Sorana Cirstea.",
         "body": "Britain's Emma Raducanu books her place in the quarter-finals of the Queen's Club Championship with a dominant straight-set win over Romania's Sorana Cirstea.",
-        "copy": "Britain's Emma Raducanu books her place in the quarter-finals of the Queen's Club Championship with a dominant straight-set win over Romania's Sorana Cirstea."
+        "copy": "Britain's Emma Raducanu books her place in the quarter-finals of the Queen's Club Championship with a dominant straight-set win over Romania's Sorana Cirstea.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -674,7 +754,8 @@
         "published_label": "Fri 12 Jun, 13:21",
         "summary": "Wimbledon: Leading players hail record prize money boost but say 'structural issues' remain unresolved Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -686,7 +767,8 @@
         "published_label": "Fri 12 Jun, 12:25",
         "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -698,7 +780,8 @@
         "published_label": "Fri 12 Jun, 11:59",
         "summary": "Prize money at this year’s Wimbledon will increase by 20% to £64.2m, with singles’ champions each taking home £3.6m.",
         "body": "Leading tennis players have welcomed the 20% increase in Wimbledon prize money as a \"genuine and significant step forward\".\n\nThe total prize fund at this year's championships will be £64.2m, following the largest annual increase in the event’s history.",
-        "copy": "Leading tennis players have welcomed the 20% increase in Wimbledon prize money as a \"genuine and significant step forward\".\n\nThe total prize fund at this year's championships will be £64.2m, following the largest annual increase in the event’s history."
+        "copy": "Leading tennis players have welcomed the 20% increase in Wimbledon prize money as a \"genuine and significant step forward\".\n\nThe total prize fund at this year's championships will be £64.2m, following the largest annual increase in the event’s history.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -710,7 +793,8 @@
         "published_label": "Thu 11 Jun, 17:45",
         "summary": "Britain's Emma Raducanu and Elena Rybakina feature at Queen's in the HSBC Championships - follow the tournament across the BBC.",
         "body": "Britain's Emma Raducanu is among the star names at the HSBC Championships at Queen's Club as the grass-court season begins - and you can follow across the BBC.\n\nRaducanu, a quarter-finalist at the WTA 500 event last year, contests a women's singles draw headed by world number two and Australian Open champion Elena Rybakina from 8-14 June.",
-        "copy": "Britain's Emma Raducanu is among the star names at the HSBC Championships at Queen's Club as the grass-court season begins - and you can follow across the BBC.\n\nRaducanu, a quarter-finalist at the WTA 500 event last year, contests a women's singles draw headed by world number two and Australian Open champion Elena Rybakina from 8-14 June."
+        "copy": "Britain's Emma Raducanu is among the star names at the HSBC Championships at Queen's Club as the grass-court season begins - and you can follow across the BBC.\n\nRaducanu, a quarter-finalist at the WTA 500 event last year, contests a women's singles draw headed by world number two and Australian Open champion Elena Rybakina from 8-14 June.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -722,7 +806,8 @@
         "published_label": "Thu 11 Jun, 17:36",
         "summary": "Australian Nick Kyrgios' return to action at the Stuttgart Open ends with a second-round loss to Japanese qualifier Sho Shimabukuro.",
         "body": "Nick Kyrgios' return to action at the Stuttgart Open ended with a second-round loss to Japanese qualifier Sho Shimabukuro.\n\nKyrgios, 31, secured his first tour-level win since March 2025 by defeating eighth seed Corentin Moutet in his opening match in Germany on Tuesday.",
-        "copy": "Nick Kyrgios' return to action at the Stuttgart Open ended with a second-round loss to Japanese qualifier Sho Shimabukuro.\n\nKyrgios, 31, secured his first tour-level win since March 2025 by defeating eighth seed Corentin Moutet in his opening match in Germany on Tuesday."
+        "copy": "Nick Kyrgios' return to action at the Stuttgart Open ended with a second-round loss to Japanese qualifier Sho Shimabukuro.\n\nKyrgios, 31, secured his first tour-level win since March 2025 by defeating eighth seed Corentin Moutet in his opening match in Germany on Tuesday.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -734,7 +819,8 @@
         "published_label": "Thu 11 Jun, 16:39",
         "summary": "Paddock Uncut: Monaco GP pit lane penalties suspected incorrect after FIA findings | What could happen next? Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -746,7 +832,8 @@
         "published_label": "Thu 11 Jun, 16:33",
         "summary": "Serena Williams: 44-year-old Grand Slam great makes winning comeback in Queen's doubles event after four-year absence Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -758,7 +845,8 @@
         "published_label": "Thu 11 Jun, 16:32",
         "summary": "Wimbledon announces record 20 per cent increase in prize money pot of £64.2m amid player Grand Slam demands Sky Sports",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Tennis",
@@ -784,7 +872,8 @@
         "published_label": "Sat 13 Jun, 15:24",
         "summary": "It’s hard to imagine that both Tiger Woods and Phil Mickelson would all vanish from the sport’s landscape and even its screen-scape. The post What’s up with Tiger & Phil? Questions persist as another major looms appeared first on Golf .",
         "body": "Now and again, a reader will write in with this existential riddle: What’s up with Tiger and Phil?\n\nIt’s beyond weird, that golf’s two most dominant figures over the past three decades have all but vanished from the sport’s landscape and even its screen-scape.",
-        "copy": "Now and again, a reader will write in with this existential riddle: What’s up with Tiger and Phil?\n\nIt’s beyond weird, that golf’s two most dominant figures over the past three decades have all but vanished from the sport’s landscape and even its screen-scape."
+        "copy": "Now and again, a reader will write in with this existential riddle: What’s up with Tiger and Phil?\n\nIt’s beyond weird, that golf’s two most dominant figures over the past three decades have all but vanished from the sport’s landscape and even its screen-scape.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -796,7 +885,8 @@
         "published_label": "Sat 13 Jun, 13:23",
         "summary": "In this edition of Play Smart, we take a look at how a \"burnerverse\" golfer became a single-digit handicap in just 18 months. The post How a ‘burnerverse’ golfer went from beginner to single-digit handicap in 18 months appeared first on Golf .",
         "body": "Ed. note: The subject of this story is X user Upper East Side Golf (@UESgolf), a member of the golf “burnerverse.” He is referenced by his username and handle in this article in order to protect his burnerverse identity.\n\nUpper East Side Golf is a certified golf sicko. That term gets thrown around a lot, but there are few that embody the term quite like he does.",
-        "copy": "Ed. note: The subject of this story is X user Upper East Side Golf (@UESgolf), a member of the golf “burnerverse.” He is referenced by his username and handle in this article in order to protect his burnerverse identity.\n\nUpper East Side Golf is a certified golf sicko. That term gets thrown around a lot, but there are few that embody the term quite like he does."
+        "copy": "Ed. note: The subject of this story is X user Upper East Side Golf (@UESgolf), a member of the golf “burnerverse.” He is referenced by his username and handle in this article in order to protect his burnerverse identity.\n\nUpper East Side Golf is a certified golf sicko. That term gets thrown around a lot, but there are few that embody the term quite like he does.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -808,7 +898,8 @@
         "published_label": "Sat 13 Jun, 13:08",
         "summary": "Love hand-crafted, full-grain leather golf accessories? You’ve likely heard of Dormie Workshop. Here's how the brand gained legions of fans. The post How Dormie Workshop became one of golf’s most coveted brands appeared first on Golf .",
         "body": "Eight years ago, I was looking for a cool golf gift for my husband, who happens to be a golf pro. Given the fact that he has access to just about everything, finding a unique item that he would actually use but somehow doesn’t already have has always been a real challenge. But at the time, I noticed that there was one glaring deficiency in his golf gear arsenal: a cool headcover. Simple! But I didn’t want to choose just any off-the-rack piece. I wanted his gift to be a custom creation that reflected a part of who he is.\n\nWhere could I source such an item? I knew immediately where to go: Dormie Workshop. If you’re a fan of hand-crafted, full-grain leather accessories, chances are you’ve heard of Dormie — a Canadian brand founded by three brothers (Jeff, Todd and Alex Bishop) in 2014.",
-        "copy": "Eight years ago, I was looking for a cool golf gift for my husband, who happens to be a golf pro. Given the fact that he has access to just about everything, finding a unique item that he would actually use but somehow doesn’t already have has always been a real challenge. But at the time, I noticed that there was one glaring deficiency in his golf gear arsenal: a cool headcover. Simple! But I didn’t want to choose just any off-the-rack piece. I wanted his gift to be a custom creation that reflected a part of who he is.\n\nWhere could I source such an item? I knew immediately where to go: Dormie Workshop. If you’re a fan of hand-crafted, full-grain leather accessories, chances are you’ve heard of Dormie — a Canadian brand founded by three brothers (Jeff, Todd and Alex Bishop) in 2014."
+        "copy": "Eight years ago, I was looking for a cool golf gift for my husband, who happens to be a golf pro. Given the fact that he has access to just about everything, finding a unique item that he would actually use but somehow doesn’t already have has always been a real challenge. But at the time, I noticed that there was one glaring deficiency in his golf gear arsenal: a cool headcover. Simple! But I didn’t want to choose just any off-the-rack piece. I wanted his gift to be a custom creation that reflected a part of who he is.\n\nWhere could I source such an item? I knew immediately where to go: Dormie Workshop. If you’re a fan of hand-crafted, full-grain leather accessories, chances are you’ve heard of Dormie — a Canadian brand founded by three brothers (Jeff, Todd and Alex Bishop) in 2014.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -820,7 +911,8 @@
         "published_label": "Sat 13 Jun, 13:04",
         "summary": "At the U.S. Open at Shinnecock, advances in onsite technology infrastructure will enable fans to enjoy a more personalized viewing experience. The post Why this year’s U.S. Open will be the most connected experience ever appeared first on Golf .",
         "body": "This content was first published in Golf Journal, a quarterly print publication exclusively for USGA Members. To be among the first to receive Golf Journal and to learn how you can ensure a strong future for the game, become a USGA Member today!\n\nFew sports create space for connection quite like golf. Over several hours and 18 holes, players walk together, talk together and experience the highs and lows of competition side by side.",
-        "copy": "This content was first published in Golf Journal, a quarterly print publication exclusively for USGA Members. To be among the first to receive Golf Journal and to learn how you can ensure a strong future for the game, become a USGA Member today!\n\nFew sports create space for connection quite like golf. Over several hours and 18 holes, players walk together, talk together and experience the highs and lows of competition side by side."
+        "copy": "This content was first published in Golf Journal, a quarterly print publication exclusively for USGA Members. To be among the first to receive Golf Journal and to learn how you can ensure a strong future for the game, become a USGA Member today!\n\nFew sports create space for connection quite like golf. Over several hours and 18 holes, players walk together, talk together and experience the highs and lows of competition side by side.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -832,7 +924,8 @@
         "published_label": "Sat 13 Jun, 13:02",
         "summary": "Struggling with a slice? David Armitage's simple swing cue will help improve your sequencing and straighten out your drives. The post Never hit a slice again with this simple swing thought appeared first on Golf .",
         "body": "Anyone who’s battled a stubborn slice knows how frustrating it is to watch your drives veer off to the right. Beyond sending your ball into trouble, a slice robs you of both distance and control, turning your driver into one of the most intimidating clubs in your bag. As a result, many amateurs end up benching one of their biggest weapons on the course.\n\nBut you don’t have to sacrifice distance to find more fairways. As David Armitage, a GOLF Top 100 Teacher, explains in the video below, all you need is a simple swing cue to improve your sequencing and straighten out your drives.",
-        "copy": "Anyone who’s battled a stubborn slice knows how frustrating it is to watch your drives veer off to the right. Beyond sending your ball into trouble, a slice robs you of both distance and control, turning your driver into one of the most intimidating clubs in your bag. As a result, many amateurs end up benching one of their biggest weapons on the course.\n\nBut you don’t have to sacrifice distance to find more fairways. As David Armitage, a GOLF Top 100 Teacher, explains in the video below, all you need is a simple swing cue to improve your sequencing and straighten out your drives."
+        "copy": "Anyone who’s battled a stubborn slice knows how frustrating it is to watch your drives veer off to the right. Beyond sending your ball into trouble, a slice robs you of both distance and control, turning your driver into one of the most intimidating clubs in your bag. As a result, many amateurs end up benching one of their biggest weapons on the course.\n\nBut you don’t have to sacrifice distance to find more fairways. As David Armitage, a GOLF Top 100 Teacher, explains in the video below, all you need is a simple swing cue to improve your sequencing and straighten out your drives.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -844,7 +937,8 @@
         "published_label": "Sat 13 Jun, 00:22",
         "summary": "Full 2026 RBC Canadian Open tee times for Saturday's third round at TPC Toronto, featuring Sam Burns, Brooks Koepka and more. The post 2026 RBC Canadian Open Saturday tee times: Round 3 pairings appeared first on Golf .",
         "body": "The 2026 RBC Canadian Open continues on Saturday with the third round at TPC Toronto. You can find full RBC Canadian Open tee times for Saturday’s third round at the bottom of this post.\n\nAfter firing a second-round 63, American Ben James leads the charge at the Canadian Open’s halfway point with a 36-hole score of 10 under par.",
-        "copy": "The 2026 RBC Canadian Open continues on Saturday with the third round at TPC Toronto. You can find full RBC Canadian Open tee times for Saturday’s third round at the bottom of this post.\n\nAfter firing a second-round 63, American Ben James leads the charge at the Canadian Open’s halfway point with a 36-hole score of 10 under par."
+        "copy": "The 2026 RBC Canadian Open continues on Saturday with the third round at TPC Toronto. You can find full RBC Canadian Open tee times for Saturday’s third round at the bottom of this post.\n\nAfter firing a second-round 63, American Ben James leads the charge at the Canadian Open’s halfway point with a 36-hole score of 10 under par.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -856,7 +950,8 @@
         "published_label": "Fri 12 Jun, 22:50",
         "summary": "Phil Mickelson's membership at Farms Golf Club has been revoked amid allegations of inappropriate contact with a female employee at the Californian establishment.",
         "body": "Six-time major winner Phil Mickelson's membership at a high-end golf club has been revoked amid allegations of inappropriate contact with a female employee at the Californian establishment.\n\nThe incident is alleged to have occurred earlier this spring and following a complaint by the employee Mickelson was asked to leave mid-round while playing at the Farms Golf Club in Rancho Santa Fe near San Diego.",
-        "copy": "Six-time major winner Phil Mickelson's membership at a high-end golf club has been revoked amid allegations of inappropriate contact with a female employee at the Californian establishment.\n\nThe incident is alleged to have occurred earlier this spring and following a complaint by the employee Mickelson was asked to leave mid-round while playing at the Farms Golf Club in Rancho Santa Fe near San Diego."
+        "copy": "Six-time major winner Phil Mickelson's membership at a high-end golf club has been revoked amid allegations of inappropriate contact with a female employee at the Californian establishment.\n\nThe incident is alleged to have occurred earlier this spring and following a complaint by the employee Mickelson was asked to leave mid-round while playing at the Farms Golf Club in Rancho Santa Fe near San Diego.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -868,7 +963,8 @@
         "published_label": "Fri 12 Jun, 20:08",
         "summary": "In this week's Tour Report, Viktor Hovland makes a major driver switch in what was otherwise a light week on the gear front. The post Viktor Hovland brought 1 driver to Canada. It wasn’t his gamer | Tour Report appeared first on Golf .",
         "body": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nViktor Hovland showed up to this week’s RBC Canadian Open with one driver. Normally, that wouldn’t be much of a story, but the driver Hovland brought wasn’t the same one he used in his last start at the PGA Championship or for the last six years.",
-        "copy": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nViktor Hovland showed up to this week’s RBC Canadian Open with one driver. Normally, that wouldn’t be much of a story, but the driver Hovland brought wasn’t the same one he used in his last start at the PGA Championship or for the last six years."
+        "copy": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nViktor Hovland showed up to this week’s RBC Canadian Open with one driver. Normally, that wouldn’t be much of a story, but the driver Hovland brought wasn’t the same one he used in his last start at the PGA Championship or for the last six years.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -880,7 +976,8 @@
         "published_label": "Fri 12 Jun, 17:15",
         "summary": "A trip to Ping Golf's PLD Putting Lab showed me a whole new world for putter development. The post Ping’s PLD Putting Lab showed me something I hadn’t seen before appeared first on Golf .",
         "body": "I recently took a trip to the Ping PLD Putting Lab in Phoenix, AZ and went through an exploration of their new Scottsdale TEC putter lineup, including wearing some Tobii Eye Tracking glasses to learn more about their new Eye Q alignment features.\n\nAlong with learning about their new putters and the research into ‘Quiet Eye Theory’ that went along with them, I took away a couple of key things for my putting.",
-        "copy": "I recently took a trip to the Ping PLD Putting Lab in Phoenix, AZ and went through an exploration of their new Scottsdale TEC putter lineup, including wearing some Tobii Eye Tracking glasses to learn more about their new Eye Q alignment features.\n\nAlong with learning about their new putters and the research into ‘Quiet Eye Theory’ that went along with them, I took away a couple of key things for my putting."
+        "copy": "I recently took a trip to the Ping PLD Putting Lab in Phoenix, AZ and went through an exploration of their new Scottsdale TEC putter lineup, including wearing some Tobii Eye Tracking glasses to learn more about their new Eye Q alignment features.\n\nAlong with learning about their new putters and the research into ‘Quiet Eye Theory’ that went along with them, I took away a couple of key things for my putting.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -892,7 +989,8 @@
         "published_label": "Fri 12 Jun, 16:56",
         "summary": "The Mizuno Pro Fli-Hi has been a favorite for golfers for many years, so how did they make the new one even better? The post The Mizuno Pro Fli-Hi might be my favorite driving iron appeared first on Golf .",
         "body": "When I visited The Foundry, Mizuno Golf’s R&D and Fitting headquarters just outside of Atlanta, I picked up one of their new Pro Fli-Hi utility irons.\n\nIt was already built in the fitting bay with a Ventus Black HB shaft. I essentially fell (back) in love with the club.",
-        "copy": "When I visited The Foundry, Mizuno Golf’s R&D and Fitting headquarters just outside of Atlanta, I picked up one of their new Pro Fli-Hi utility irons.\n\nIt was already built in the fitting bay with a Ventus Black HB shaft. I essentially fell (back) in love with the club."
+        "copy": "When I visited The Foundry, Mizuno Golf’s R&D and Fitting headquarters just outside of Atlanta, I picked up one of their new Pro Fli-Hi utility irons.\n\nIt was already built in the fitting bay with a Ventus Black HB shaft. I essentially fell (back) in love with the club.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -904,7 +1002,8 @@
         "published_label": "Fri 12 Jun, 16:38",
         "summary": "As the PGA Tour's future schedule starts to take shape, players and tournaments like the RBC Canadian Open are wondering the same thing. The post At Canadian Open, PGA Tour’s future schedule changes has left everyone with 1 question appeared first on Golf .",
         "body": "Nick Taylor’s career highlight to this point came at the 2023 Canadian Open when he dropped a 72-foot eagle putt to beat Tommy Fleetwood and win his national open in a playoff. Barring a major championship win, that will likely be the top line of Taylor’s career obituary whenever he hangs up his golf spikes. Taylor understandably holds his national open in high regard, as Rory McIlroy does with the Irish Open, Adam Scott with the Australian Open and so on.\n\nBut as new PGA Tour CEO Brian Rolapp and the Future Competition Committee work to reshape the PGA Tour’s schedule and competitive structure, the Canadian Open, among many other Tour staples, finds itself wondering what the future will look like. Unlike the Rocket Mortgage, which will cease to exist after this summer’s edition, the RBC Canadian Open will have a place in the PGA Tour’s future schedule — it’s just unclear what place that will be and what the event will look like once the PGA Tour enacts those changes.",
-        "copy": "Nick Taylor’s career highlight to this point came at the 2023 Canadian Open when he dropped a 72-foot eagle putt to beat Tommy Fleetwood and win his national open in a playoff. Barring a major championship win, that will likely be the top line of Taylor’s career obituary whenever he hangs up his golf spikes. Taylor understandably holds his national open in high regard, as Rory McIlroy does with the Irish Open, Adam Scott with the Australian Open and so on.\n\nBut as new PGA Tour CEO Brian Rolapp and the Future Competition Committee work to reshape the PGA Tour’s schedule and competitive structure, the Canadian Open, among many other Tour staples, finds itself wondering what the future will look like. Unlike the Rocket Mortgage, which will cease to exist after this summer’s edition, the RBC Canadian Open will have a place in the PGA Tour’s future schedule — it’s just unclear what place that will be and what the event will look like once the PGA Tour enacts those changes."
+        "copy": "Nick Taylor’s career highlight to this point came at the 2023 Canadian Open when he dropped a 72-foot eagle putt to beat Tommy Fleetwood and win his national open in a playoff. Barring a major championship win, that will likely be the top line of Taylor’s career obituary whenever he hangs up his golf spikes. Taylor understandably holds his national open in high regard, as Rory McIlroy does with the Irish Open, Adam Scott with the Australian Open and so on.\n\nBut as new PGA Tour CEO Brian Rolapp and the Future Competition Committee work to reshape the PGA Tour’s schedule and competitive structure, the Canadian Open, among many other Tour staples, finds itself wondering what the future will look like. Unlike the Rocket Mortgage, which will cease to exist after this summer’s edition, the RBC Canadian Open will have a place in the PGA Tour’s future schedule — it’s just unclear what place that will be and what the event will look like once the PGA Tour enacts those changes.",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Golf",
@@ -916,7 +1015,8 @@
         "published_label": "Fri 12 Jun, 12:54",
         "summary": "LIV Golf | Official site, scores, schedule, teams and tickets LIV Golf",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       }
     ],
     "Badminton": [
@@ -930,7 +1030,8 @@
         "published_label": "Sat 13 Jun, 12:27",
         "summary": "India’s Asian Games 2026 badminton team - full squad olympics.com",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Badminton",
@@ -942,7 +1043,8 @@
         "published_label": "Sat 13 Jun, 07:15",
         "summary": "Australian Badminton Open 2026: PV Sindhu’s semi-final loss ends India’s campaign olympics.com",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Badminton",
@@ -954,7 +1056,8 @@
         "published_label": "Fri 12 Jun, 14:33",
         "summary": "For Manu Bhaker, Jaspal Rana's legacy lives in every medal olympics.com",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Badminton",
@@ -966,7 +1069,8 @@
         "published_label": "Fri 12 Jun, 08:50",
         "summary": "BWF World Championships 2026: PV Sindhu among 10 Indian entries confirmed for home tournament olympics.com",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Badminton",
@@ -978,7 +1082,8 @@
         "published_label": "Fri 12 Jun, 07:18",
         "summary": "Australian Badminton Open 2026: Clinical PV Sindhu sets up semi-final clash with world champion Akane Yamaguchi olympics.com",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       }
     ],
     "Competitor News": [
@@ -992,7 +1097,8 @@
         "published_label": "Fri 12 Jun, 17:26",
         "summary": "World Cup 2026: Ghana's Thomas Partey denied entry to Canada and will miss his nation's first World Cup game BBC",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Competitor News",
@@ -1004,7 +1110,8 @@
         "published_label": "Fri 12 Jun, 15:48",
         "summary": "ChatGPT Can Now Shop for You Through Visa Partnership LAmag",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Competitor News",
@@ -1016,7 +1123,8 @@
         "published_label": "Fri 12 Jun, 09:03",
         "summary": "Skechers Tops $14 Million in Donations for Shelter Pets, Taco Bueno Introduces Gol Loyalty360",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Competitor News",
@@ -1028,7 +1136,8 @@
         "published_label": "Thu 11 Jun, 19:02",
         "summary": "NYSE Content Update: Visa Announces Payments Partnership with OpenAI Investing News Network",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Competitor News",
@@ -1040,7 +1149,8 @@
         "published_label": "Thu 11 Jun, 16:17",
         "summary": "World Cup nation's fans BANNED from travelling to US in latest visa controversy ahead of tournament The Sun",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       },
       {
         "section": "Competitor News",
@@ -1052,9 +1162,10 @@
         "published_label": "Thu 11 Jun, 16:10",
         "summary": "Visa Unveils Payment Integration Partnership with OpenAI for Next Gen Commerce Yahoo Finance",
         "body": "",
-        "copy": ""
+        "copy": "",
+        "first_seen": "2026-06-13T16:06:21.940152+00:00"
       }
     ]
   },
-  "total": 86
+  "total": 88
 }

@@ -1,12 +1,14 @@
 name: Collect morning news
 
 # When this runs:
-#   - Automatically at 07:30 UTC every day. That's 08:30 UK time in summer (BST)
-#     and 07:30 UK time in winter (GMT) — always ready before you get in at 9am.
+#   - Automatically every 2 hours from 06:00 to 18:00 UTC, so there are always fresh
+#     stories during the UK working day and the page's Refresh button feels live.
+#     (07:30 included so it's ready before you get in at 9am.)
 #   - Or any time you press the "Run workflow" button on the Actions tab.
 on:
   schedule:
     - cron: "30 7 * * *"
+    - cron: "0 6,8,10,12,14,16,18 * * *"
   workflow_dispatch:
 
 # Let the job save the freshly-scraped news back into the repo.

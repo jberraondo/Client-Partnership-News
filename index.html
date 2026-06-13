@@ -98,7 +98,9 @@
       <div class="toggle" id="windowToggle">
         <button data-h="24" class="active">Last 24h</button>
         <button data-h="48">Last 48h</button>
+        <button data-h="72">Last 72h</button>
       </div>
+      <button class="btn ghost" id="refreshBtn" title="Reload the latest collected stories">↻ Refresh</button>
       <span class="spacer"></span>
       <span class="count" id="count">0 stories selected</span>
       <button class="btn ghost" id="clearBtn">Clear</button>
@@ -138,8 +140,9 @@ async function load(){
 }
 
 function withinWindow(story){
-  if(!story.published) return true;
-  const ageH = (Date.now() - new Date(story.published).getTime())/36e5;
+  const ts = story.published || story.first_seen;
+  if(!ts) return true;
+  const ageH = (Date.now() - new Date(ts).getTime())/36e5;
   return ageH <= state.windowH;
 }
 
@@ -149,11 +152,13 @@ function buildSourceFilters(){
     for(const s of (state.data.sections[sec]||[])) names.add(s.source);
   }
   const box = $('#sourceFilters');
+  box.querySelectorAll('.chip').forEach(c=>c.remove());  // clear so refresh doesn't duplicate
   [...names].sort().forEach(name=>{
     const id = 'src_'+name.replace(/\W/g,'');
+    const on = !state.hiddenSources.has(name);
     const chip = document.createElement('label');
-    chip.className='chip'; chip.id=id;
-    chip.innerHTML = `<input type="checkbox" checked> ${esc(name)}`;
+    chip.className = 'chip' + (on?'':' off'); chip.id=id;
+    chip.innerHTML = `<input type="checkbox" ${on?'checked':''}> ${esc(name)}`;
     chip.querySelector('input').addEventListener('change', e=>{
       if(e.target.checked) state.hiddenSources.delete(name);
       else state.hiddenSources.add(name);
@@ -291,6 +296,10 @@ $('#windowToggle').addEventListener('click', e=>{
   render();
 });
 $('#copyBtn').addEventListener('click', copyBulletin);
+$('#refreshBtn').addEventListener('click', async ()=>{
+  await load();
+  toast('Refreshed — showing the latest collected stories');
+});
 $('#clearBtn').addEventListener('click', ()=>{
   state.selected.clear();
   document.querySelectorAll('.pickbox').forEach(c=>c.checked=false);
