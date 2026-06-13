@@ -103,29 +103,30 @@ def extract_body(url: str) -> str:
     return top_paragraphs(text)
 
 
-def top_paragraphs(text: str) -> str:
+def top_paragraphs(text: str, bullets: int = 2, target: int = 175) -> str:
     """
-    Turn extracted article text into a tight 2-3 paragraph brief with enough
-    substance to match the example bulletins (skips headings, stat lines, captions).
+    Turn extracted article text into exactly `bullets` substantial bullets, each a
+    solid 2-3 lines, to match the example bulletins. News articles often open with
+    one-sentence paragraphs, so we combine consecutive paragraphs into each bullet
+    until it reaches `target` characters (≈ 2-3 lines) before starting the next.
     """
-    good = []
-    for line in (text or "").split("\n"):
-        line = line.strip()
-        if len(line) >= 60 and any(p in line for p in ".!?"):
-            good.append(line)
+    # Keep proper sentence-like paragraphs; skip headings, stat lines, captions.
+    good = [line.strip() for line in (text or "").split("\n")
+            if len(line.strip()) >= 40 and any(p in line for p in ".!?")]
 
-    paras, total = [], 0
-    for p in good:
-        paras.append(p)
-        total += len(p)
-        if len(paras) >= 2 and total >= 450:
-            break
-        if len(paras) >= 3:
-            break
-    result = "\n\n".join(paras)
+    out, i = [], 0
+    for _ in range(bullets):
+        chunk = ""
+        while i < len(good) and len(chunk) < target:
+            chunk = (chunk + " " + good[i]).strip()
+            i += 1
+        if chunk:
+            out.append(chunk)
+
+    result = "\n\n".join(out)
     # Reject thin extractions (homepages, "official site" blurbs, cookie notices)
     # so they fall back to a clean manual write-up rather than junk copy.
-    return result if len(result) >= 200 else ""
+    return result if len(result) >= 250 else ""
 
 
 # Sources we don't bother browser-fetching: Sportcal & Olympics hard-block
