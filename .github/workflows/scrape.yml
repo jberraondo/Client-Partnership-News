@@ -32,10 +32,11 @@ jobs:
           WINDOW_HOURS: "48"
         run: python scrape.py
 
-      - name: Save the results
+       - name: Save the results
         run: |
           git config user.name "news-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/news.json
           git commit -m "Morning news $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes today"
+          git pull --rebase origin main
           git push
