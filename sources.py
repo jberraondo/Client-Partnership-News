@@ -42,7 +42,7 @@ SOURCES = [
 
     # ---- Tennis ----
     {"section": "Tennis", "name": "BBC Sport",  "kind": "direct", "url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"},
-    {"section": "Tennis", "name": "Sky Sports", "kind": "gnews",  "query": "site:skysports.com tennis"},
+    {"section": "Tennis", "name": "Sky Sports", "kind": "gnews",  "query": "site:skysports.com/tennis"},
 
     # ---- Golf ----
     {"section": "Golf", "name": "BBC Sport", "kind": "direct", "url": "https://feeds.bbci.co.uk/sport/golf/rss.xml"},
@@ -56,5 +56,5 @@ SOURCES = [
     # ---- Competitor News (banking / financial brands in sport & arts) ----
     # Only surfaces when there are genuine finance-brand-in-sport stories.
     {"section": "Competitor News", "name": "Google News", "kind": "gnews",
-     "query": '(Barclays OR "Standard Chartered" OR "JP Morgan" OR Santander OR NatWest OR Monzo OR Revolut OR "Bank of America" OR Mastercard OR Visa OR "BNP Paribas") (sponsorship OR partnership OR sport)'},
+     "query": '(Barclays OR "Standard Chartered" OR "JP Morgan" OR Santander OR NatWest OR Monzo OR Revolut OR "Bank of America" OR Mastercard OR "BNP Paribas") (sponsorship OR "sponsor" OR partnership) (sport OR football OR tennis OR golf OR rugby OR Olympics)'},
 ]
