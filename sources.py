@@ -53,6 +53,22 @@ SOURCES = [
     {"section": "Badminton", "name": "Olympics",         "kind": "gnews", "query": "site:olympics.com badminton"},
     {"section": "Badminton", "name": "Badminton Europe", "kind": "gnews", "query": "site:badmintoneurope.com"},
 
+    # ---- Safety-net searches across ALL of Google News -------------------------
+    # These catch HSBC-property stories that appear in less obvious outlets, so we
+    # never miss a relevant angle. Kept tight to HSBC's actual properties to avoid
+    # flooding the page; capped lower with "max". Toggle them off on the page if noisy.
+    {"section": "Wider Sports News", "name": "HSBC watch", "kind": "gnews", "max": 8,
+     "query": 'HSBC (sport OR sponsorship OR partnership OR rugby OR tennis OR golf OR badminton OR arts OR SVNS OR "Queen\'s Club" OR "Abu Dhabi")'},
+
+    {"section": "Rugby", "name": "SVNS watch", "kind": "gnews", "max": 6,
+     "query": '"HSBC SVNS" OR "rugby sevens" OR "SVNS Series" OR "World Rugby Sevens"'},
+    {"section": "Tennis", "name": "HSBC tennis watch", "kind": "gnews", "max": 6,
+     "query": '"Emma Raducanu" OR "Jack Draper" OR "HSBC Championships" OR "Queen\'s Club"'},
+    {"section": "Golf", "name": "HSBC golf watch", "kind": "gnews", "max": 6,
+     "query": '"Bryson DeChambeau" OR "LIV Golf" OR "Abu Dhabi HSBC" OR "Abu Dhabi Championship"'},
+    {"section": "Badminton", "name": "BWF watch", "kind": "gnews", "max": 6,
+     "query": '"BWF World Tour" OR "BWF" OR "Badminton World Federation"'},
+
 ]
 
 # ---- Competitor News (the banks 160/90 tracks, strictly in a sport/arts context) ----

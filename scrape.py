@@ -231,7 +231,7 @@ def collect_from_source(src: dict) -> list[dict]:
             "summary": summary,   # short feed snippet (always available)
             "body": "",           # filled in below for direct sources
         })
-        if len(stories) >= MAX_PER_SOURCE:
+        if len(stories) >= src.get("max", MAX_PER_SOURCE):
             break
     return stories
 
