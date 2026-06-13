@@ -100,13 +100,23 @@ def extract_body(url: str) -> str:
     except Exception:
         return ""
 
-    paras = []
+    # Keep proper sentence-like paragraphs; skip headings, stat lines, captions.
+    good = []
     for line in text.split("\n"):
         line = line.strip()
-        # Keep proper sentence-like paragraphs; skip headings, stat lines, captions.
-        if len(line) >= 80 and ("." in line or "!" in line or "?" in line):
-            paras.append(line)
-        if len(paras) >= 2:
+        if len(line) >= 60 and any(p in line for p in ".!?"):
+            good.append(line)
+
+    # Build a richer summary: take enough leading paragraphs to reach a decent
+    # length (so each story has substance, like the example bulletins), but cap it
+    # so it stays a tight 2-3 paragraph brief rather than the whole article.
+    paras, total = [], 0
+    for p in good:
+        paras.append(p)
+        total += len(p)
+        if len(paras) >= 2 and total >= 450:
+            break
+        if len(paras) >= 3:
             break
     return "\n\n".join(paras)
 
