@@ -3,6 +3,7 @@ name: Collect morning news
 on:
   schedule:
     - cron: "30 7 * * *"
+    - cron: "0 6,8,10,12,14,16,18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -22,6 +23,9 @@ jobs:
 
       - name: Install the tools
         run: pip install -r requirements.txt
+
+      - name: Install the headless browser
+        run: python -m playwright install --with-deps chromium
 
       - name: Scrape the news
         env:
