@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T12:32:24.944994+00:00",
-  "generated_label": "Sunday 14 June 2026, 12:32 UTC",
+  "generated_at": "2026-06-14T13:22:26.683349+00:00",
+  "generated_label": "Sunday 14 June 2026, 13:22 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -443,6 +443,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'You’ve set the precedent': Matatu begin Super Rugby Aupiki season with record crowd",
+        "link": "https://www.rugbypass.com/news/youve-set-the-precedent-matatu-begin-super-rugby-aupiki-season-with-record-crowd/",
+        "published": "2026-06-14T12:54:27+00:00",
+        "published_label": "Sun 14 Jun, 12:54",
+        "summary": "Matatu kicked off the new Super Rugby Aupiki season with a record attendance for a standalone domestic women's rugby fixture on Saturday.",
+        "body": "Matatu kicked off the new Super Rugby Aupiki season with a record attendance for a standalone domestic women’s rugby fixture on Saturday. Ahead of the fixture, the Christchurch team confirmed that 10,000 tickets had been sold for the 2026 season opener at One New Zealand Stadium.\n\nThis was more than double the record set in 2024 when the Blues hosted Chiefs Manawa at Eden Park when 4,800 supporters made their way to the venue. By the time Matatu’s game against the Chiefs Manawa got underway there were 11,793 supporters surrounding the field.",
+        "copy": "Matatu kicked off the new Super Rugby Aupiki season with a record attendance for a standalone domestic women’s rugby fixture on Saturday. Ahead of the fixture, the Christchurch team confirmed that 10,000 tickets had been sold for the 2026 season opener at One New Zealand Stadium.\n\nThis was more than double the record set in 2024 when the Blues hosted Chiefs Manawa at Eden Park when 4,800 supporters made their way to the venue. By the time Matatu’s game against the Chiefs Manawa got underway there were 11,793 supporters surrounding the field.",
+        "first_seen": "2026-06-14T13:22:26.683349+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Saints and Chiefs headline Gallagher PREM semifinal Team of the week",
+        "link": "https://www.rugbypass.com/news/gallagher-prem-semifinals-team-of-the-week/",
+        "published": "2026-06-14T12:37:55+00:00",
+        "published_label": "Sun 14 Jun, 12:37",
+        "summary": "For the seventh consecutive season, the Gallagher PREM will crown a new champion when the Northampton Saints and Exeter Chiefs clash on Jun 20th at Allianz Stadium Twickenham.",
+        "body": "For the seventh consecutive season, there will be no back-to-back Gallagher PREM champions, with Northampton Saints and Exeter Chiefs set to decide the title at Allianz Stadium, Twickenham on June 20.\n\nAfter a semifinal weekend loaded with rivalry, momentum swings and late drama, the final is now set. First came Friday night at Franklin’s Gardens, where Northampton and Leicester traded blows in a Midlands derby that delivered 12 tries and barely paused for breath. It was only in the 74th minute that Saints finally broke clear, with captain George Furbank racing away for the score that put the contest beyond Leicester.",
+        "copy": "For the seventh consecutive season, there will be no back-to-back Gallagher PREM champions, with Northampton Saints and Exeter Chiefs set to decide the title at Allianz Stadium, Twickenham on June 20.\n\nAfter a semifinal weekend loaded with rivalry, momentum swings and late drama, the final is now set. First came Friday night at Franklin’s Gardens, where Northampton and Leicester traded blows in a Midlands derby that delivered 12 tries and barely paused for breath. It was only in the 74th minute that Saints finally broke clear, with captain George Furbank racing away for the score that put the contest beyond Leicester.",
+        "first_seen": "2026-06-14T13:22:26.683349+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -990,6 +1016,19 @@
         "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
         "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
         "first_seen": "2026-06-14T12:32:24.944994+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Tennis | WTA Queens 2026 | Emma Raducanu reaches the Queen’s Club final and faces Donna Vekic",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2twUk1EVUhpdDRNNTRBZUMzRUxMOFpRbS12MzBIT2Nib0tleG9qV21uNGJIOHFWRUl0Y3hKY0VVdkpHdjZVT2JlZUpFRWdVd2JPLXhtQkxVMzhvSXZteGc1Y0N1QVVycjVyN0N1TWh6YjZWcDJvSkgwdDVsNi1HWm5RVTRTZGxNaHZQNXVNdG01RzYzdE5vX2lydWU0MGtyOENNd1IwbTZUd2t2OEwyNWFNMmNaTkZN?oc=5",
+        "published": "2026-06-14T06:53:27+00:00",
+        "published_label": "Sun 14 Jun, 06:53",
+        "summary": "Tennis | WTA Queens 2026 | Emma Raducanu reaches the Queen’s Club final and faces Donna Vekic Britwatch Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-06-14T13:22:26.683349+00:00"
       },
       {
         "section": "Tennis",
@@ -2039,5 +2078,5 @@
       }
     ]
   },
-  "total": 155
+  "total": 158
 }
