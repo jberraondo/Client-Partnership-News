@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T19:55:23.962610+00:00",
-  "generated_label": "Tuesday 16 June 2026, 19:55 UTC",
+  "generated_at": "2026-06-16T20:01:48.104059+00:00",
+  "generated_label": "Tuesday 16 June 2026, 20:01 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -3662,6 +3662,19 @@
         "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
+        "title": "That augmented-reality device this pro used at U.S. Open? Here's what it does",
+        "link": "https://golf.com/gear/device-alex-fitzpatrick-used-putting-green-us-open/",
+        "published": "2026-06-16T19:54:52+00:00",
+        "published_label": "Tue 16 Jun, 19:54",
+        "summary": "Alex Fitzpatrick was seen using an unfamiliar device ahead of his practice round. Here's what he was using and how it works. The post That augmented-reality device this pro used at U.S. Open? Here’s what it does appeared first on Golf .",
+        "body": "Alex Fitzpatrick’s U.S. Open preparation looked a little different on Tuesday at Shinnecock Hills, where he was spotted on the practice green wearing a headset over his eyes. The Englishman was seen using the device ahead of his practice round, drawing attention from media and fans alike, many of whom were left wondering exactly what he was using.\n\nAlex Fitzpatrick is getting DIALED for the Shinnecock greens. 🤓 pic.twitter.com/VGZISu64Jb The answer, it appears, is PuttView X — a smart-goggle system designed with Microsoft HoloLens augmented-reality technology that projects visuals directly onto the putting surface.",
+        "copy": "Alex Fitzpatrick’s U.S. Open preparation looked a little different on Tuesday at Shinnecock Hills, where he was spotted on the practice green wearing a headset over his eyes. The Englishman was seen using the device ahead of his practice round, drawing attention from media and fans alike, many of whom were left wondering exactly what he was using.\n\nAlex Fitzpatrick is getting DIALED for the Shinnecock greens. 🤓 pic.twitter.com/VGZISu64Jb The answer, it appears, is PuttView X — a smart-goggle system designed with Microsoft HoloLens augmented-reality technology that projects visuals directly onto the putting surface.",
+        "first_seen": "2026-06-16T20:01:48.104059+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
         "title": "Adam Scott's rare major milestone left him with conflicting feelings",
         "link": "https://golf.com/news/adam-scott-consecutive-majors-conflicting-feelings/",
         "published": "2026-06-16T19:43:28+00:00",
@@ -5198,5 +5211,5 @@
       }
     ]
   },
-  "total": 398
+  "total": 399
 }
