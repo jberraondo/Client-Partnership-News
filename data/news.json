@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T18:06:57.047907+00:00",
-  "generated_label": "Wednesday 17 June 2026, 18:06 UTC",
+  "generated_at": "2026-06-17T23:15:59.844323+00:00",
+  "generated_label": "Wednesday 17 June 2026, 23:15 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "Three Top Takeaways from the HSBC, Google Cloud Partnership",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcEgwc0pTbWczSnpFUHhFRGFsS3hfWGpTejVfWHBtQmlqbDhXRFI3QlRRSVlQU0drSHBsbGtzbmstQkpUMjNSNkxLU3h2bXVTM0VmSjJBQlV4MGw0QkVFYlI3M3Q2QTQ5NWlhTDhBXzFlR2ZMN1lmTG9PSXZBX2s1MzZzR0FSN1k?oc=5",
+        "published": "2026-06-17T22:27:53+00:00",
+        "published_label": "Wed 17 Jun, 22:27",
+        "summary": "Three Top Takeaways from the HSBC, Google Cloud Partnership Finovate",
+        "body": "A newly announced, multi-year partnership between HSBC and Google Cloud will enable the financial institution to work with engineering teams from Google Cloud and DeepMind to develop new AI-powered tools and capabilities. The partnership will allow HSBC to benefit from access to Google’s latest agentic AI capabilities including Gemini and the Gemini Enterprise Agent Platform.\n\nThe agreement will enable more than 200 new AI use cases for HSBC over the next two years, with a focus on the highest value initiatives for investment and delivery. HSBC estimates each of these could return more than $100 million in either direct revenue gains or broader efficiency improvements.",
+        "copy": "A newly announced, multi-year partnership between HSBC and Google Cloud will enable the financial institution to work with engineering teams from Google Cloud and DeepMind to develop new AI-powered tools and capabilities. The partnership will allow HSBC to benefit from access to Google’s latest agentic AI capabilities including Gemini and the Gemini Enterprise Agent Platform.\n\nThe agreement will enable more than 200 new AI use cases for HSBC over the next two years, with a focus on the highest value initiatives for investment and delivery. HSBC estimates each of these could return more than $100 million in either direct revenue gains or broader efficiency improvements.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "CPI | HSBC Expands Cloud AI Partnership With Google",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWXplU3liV3VVUElYMkRhZFktb2dOT19BNy1uZi02aFdvQlhWQ2s4NmJMVHJvZnBYN2RKY3kxeUlqWFE0bjRMcmpaeHlobTQtUkFaWHhEMzdDcmI5c2lGeEZKeUxjazVRU21uOEhEOWZ2SDJMa1pMcklTUy1yc0dtQ2dib3J3QQ?oc=5",
+        "published": "2026-06-17T18:32:21+00:00",
+        "published_label": "Wed 17 Jun, 18:32",
+        "summary": "CPI | HSBC Expands Cloud AI Partnership With Google PYMNTS.com",
+        "body": "HSBC is deepening its investment in artificial intelligence through a new multi-year partnership with Google Cloud, a move the banking giant believes could generate more than $100 million in business value across a growing number of AI-powered applications.\n\nNasdaq has reached a settlement in a lawsuit that combined allegations of trade secret misappropriation with antitrust claims tied to the market for trading technology, ending a legal dispute that highlighted growing competition concerns within financial-market infrastructure.",
+        "copy": "HSBC is deepening its investment in artificial intelligence through a new multi-year partnership with Google Cloud, a move the banking giant believes could generate more than $100 million in business value across a growing number of AI-powered applications.\n\nNasdaq has reached a settlement in a lawsuit that combined allegations of trade secret misappropriation with antitrust claims tied to the market for trading technology, ending a legal dispute that highlighted growing competition concerns within financial-market infrastructure.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "SportsPro",
@@ -63,6 +89,32 @@
         "body": "British number five Arthur Fery recorded the \"best result of my career\" as he beat Adrian Mannarino to keep home hopes alive in the HSBC Championships at Queen's. The world number 140 reached his first ATP Tour quarter-final with a 7-6 (9-7) 6-4 victory over the veteran Frenchman.\n\nThe 23-year-old wildcard needed treatment for a nosebleed at the start of the second set but kept his focus to wrap up victory on Andy Murray Arena. Fery was ranked 461 when he upset 20th seed Alexei Popyrin on the opening day of last year's Wimbledon, but said his win over Mannarino was better.",
         "copy": "British number five Arthur Fery recorded the \"best result of my career\" as he beat Adrian Mannarino to keep home hopes alive in the HSBC Championships at Queen's. The world number 140 reached his first ATP Tour quarter-final with a 7-6 (9-7) 6-4 victory over the veteran Frenchman.\n\nThe 23-year-old wildcard needed treatment for a nosebleed at the start of the second set but kept his focus to wrap up victory on Andy Murray Arena. Fery was ranked 461 when he upset 20th seed Alexei Popyrin on the opening day of last year's Wimbledon, but said his win over Mannarino was better.",
         "first_seen": "2026-06-17T17:36:47.223097+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "Queen's tennis: Britain's Arthur Fery reaches HSBC Championships quarter-finals",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83b0pvbE9DOFN2Vi1IV2REZFdsV3UySWNtb3E2Sjlyei0zR3BZVVFYUllrbml4bENBOTZ5U3BhazUxZmNwWUtuNnpDTm5QU2paTzVJMjN4cENYRUVUTTJJRGdqZlk?oc=5",
+        "published": "2026-06-17T15:48:32+00:00",
+        "published_label": "Wed 17 Jun, 15:48",
+        "summary": "Queen's tennis: Britain's Arthur Fery reaches HSBC Championships quarter-finals BBC",
+        "body": "British number five Arthur Fery recorded the \"best result\" of his career as he beat Adrian Mannarino to keep home hopes alive in the HSBC Championships at Queen's. The world number 140 reached his first ATP Tour quarter-final with a 7-6 (9-7) 6-4 victory over the veteran Frenchman.\n\nThe 23-year-old wildcard needed treatment for a nosebleed at the start of the second set but kept his focus to wrap up victory on Andy Murray Arena. Fery was ranked 461 when he upset 20th seed Alexei Popyrin on the opening day of last year's Wimbledon, but said his win over Mannarino was better.",
+        "copy": "British number five Arthur Fery recorded the \"best result\" of his career as he beat Adrian Mannarino to keep home hopes alive in the HSBC Championships at Queen's. The world number 140 reached his first ATP Tour quarter-final with a 7-6 (9-7) 6-4 victory over the veteran Frenchman.\n\nThe 23-year-old wildcard needed treatment for a nosebleed at the start of the second set but kept his focus to wrap up victory on Andy Murray Arena. Fery was ranked 461 when he upset 20th seed Alexei Popyrin on the opening day of last year's Wimbledon, but said his win over Mannarino was better.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "AI medical tools match or surpass doctors for advice",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWZEUGNEUkJJOGx3a0E0QkFXdlY1TlltMVAzMnhyd05HTk9LMkhrYTNwSml5SjhtXzZQWTB2dURmSlcwbk94UXBnTVJXTXJ4WEswc2c0N2pMR1M4MVVCVnVLZVVhUjVSb3d6MFYtNkFaN1pDOFNLcFJldmhBeHlRSzM1UzI?oc=5",
+        "published": "2026-06-17T15:00:05+00:00",
+        "published_label": "Wed 17 Jun, 15:00",
+        "summary": "AI medical tools match or surpass doctors for advice Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -531,6 +583,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-06-17T08:01:34.445198+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Why summer opera is falling for Monteverdi",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUIxZ2dmNnFSYmVxejlKSWVpUEZkMDZPLXZDVmNGSkt5TEt3bGNmTDNJeUowcmQxWGVJTGZRZzVCcjh4aGZQV1A0RmRNOWdpdEloc25yWkFHV0kteWRERENic0U4WlJNZVlMdl9QREFkYzNXd1kzNE1KWTJyTkY3N1drWV8?oc=5",
+        "published": "2026-06-16T11:00:05+00:00",
+        "published_label": "Tue 16 Jun, 11:00",
+        "summary": "Why summer opera is falling for Monteverdi Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1561,6 +1626,45 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Australian SVNS stars headline global cast in Taiyo Seimei Women’s Sevens",
+        "link": "https://www.rugbypass.com/news/olympics-svns-stars-set-to-light-up-taiyo-seimei-womens-sevens-series/",
+        "published": "2026-06-17T21:59:29+00:00",
+        "published_label": "Wed 17 Jun, 21:59",
+        "summary": "The Series will see three regular season tournaments played across June and July 2026 in Kumagaya, Tochigi and Kitakyushu.",
+        "body": "The 12th interaction of Taiyo Seimei Women’s Sevens Series is set to kick off this weekend, with a significant international flavour set to play out across the four tournaments in 2026.\n\nThe Series will see three regular season tournaments played across June and July 2026 in Kumagaya, Tochigi and Kitakyushu, with a grand final tournament set to wrap up the series in Sapporo on August 9th.",
+        "copy": "The 12th interaction of Taiyo Seimei Women’s Sevens Series is set to kick off this weekend, with a significant international flavour set to play out across the four tournaments in 2026.\n\nThe Series will see three regular season tournaments played across June and July 2026 in Kumagaya, Tochigi and Kitakyushu, with a grand final tournament set to wrap up the series in Sapporo on August 9th.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'I still don’t think I’m over it': Seuseu Naitoa Ah Kuoi on his finals heartbreaks",
+        "link": "https://www.rugbypass.com/news/it-was-crazy-i-was-in-awe-seuseu-naitoa-ah-kuoi-on-crusaders-demolition/",
+        "published": "2026-06-17T20:06:49+00:00",
+        "published_label": "Wed 17 Jun, 20:06",
+        "summary": "Seuseu Naitoa Ah Kuoi was as dazzled as the rest of New Zealand by the Chiefs' cathartic 49-12 demolition of the Crusaders in the Super Rugby Pacific semi-final on Friday night in Hamilton.",
+        "body": "Seuseu Naitoa Ah Kuoi was as dazzled as the rest of New Zealand by the Chiefs’ cathartic 49-12 demolition of the Crusaders in the Super Rugby Pacific semi-final on Friday night in Hamilton. The Crusaders, who had beaten the Chiefs in the 2021, 2023 and 2025 finals, were banished in a record defeat.\n\n“I was sitting on the bench for all 42 first-half points,” Ah Kuoi laughed with RugbyPass. “It was crazy. I was in awe. Nobody expects to beat the Crusaders by that margin. Where does the performance come from? It comes from preparation, trust and confidence. I could sense good energy from the boys, but man, that was something special.",
+        "copy": "Seuseu Naitoa Ah Kuoi was as dazzled as the rest of New Zealand by the Chiefs’ cathartic 49-12 demolition of the Crusaders in the Super Rugby Pacific semi-final on Friday night in Hamilton. The Crusaders, who had beaten the Chiefs in the 2021, 2023 and 2025 finals, were banished in a record defeat.\n\n“I was sitting on the bench for all 42 first-half points,” Ah Kuoi laughed with RugbyPass. “It was crazy. I was in awe. Nobody expects to beat the Crusaders by that margin. Where does the performance come from? It comes from preparation, trust and confidence. I could sense good energy from the boys, but man, that was something special.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Why the renaissance man Billy Vunipola is Montpellier's inspiration",
+        "link": "https://www.rugbypass.com/plus/why-the-renaissance-man-billy-vunipola-is-montpelliers-inspiration/",
+        "published": "2026-06-17T19:22:41+00:00",
+        "published_label": "Wed 17 Jun, 19:22",
+        "summary": "An England and Saracens legend, Billy Vunipola has had his ups and downs in his career but an Indian summer in Montpellier have seen him in his element",
+        "body": "Two years ago this week was probably the low point in Montpellier’s modern history. The Mediterranean club had finished 13th in the Top 14 – just two years after winning the title – and were playing Grenoble for the right to remain in the elite. With three minutes remaining they were trailing 18-17 to the ProD2 club in what the French call the Barrage d’accession. Then they were awarded a penalty. Had Louis Carbonel missed Montpellier would have been relegated and perhaps imploded the way Biarritz and Beziers have in recent years.\n\nDon’t miss it: France XV v England XV – live and free on RugbyPass TV & RugbyPass app. 17:15 BST, 19 June 2026. One man keeping a close eye on that match was Billy Vunipola. The Saracens and England No 8 had inked in a two-year deal to play for Montpellier, and he can’t have much fancied the idea of Thursday night rugby in towns he’d never heard of. With the greatest of respect, Nevers and Mont-de-Marsan are no Toulouse and Bordeaux.",
+        "copy": "Two years ago this week was probably the low point in Montpellier’s modern history. The Mediterranean club had finished 13th in the Top 14 – just two years after winning the title – and were playing Grenoble for the right to remain in the elite. With three minutes remaining they were trailing 18-17 to the ProD2 club in what the French call the Barrage d’accession. Then they were awarded a penalty. Had Louis Carbonel missed Montpellier would have been relegated and perhaps imploded the way Biarritz and Beziers have in recent years.\n\nDon’t miss it: France XV v England XV – live and free on RugbyPass TV & RugbyPass app. 17:15 BST, 19 June 2026. One man keeping a close eye on that match was Billy Vunipola. The Saracens and England No 8 had inked in a two-year deal to play for Montpellier, and he can’t have much fancied the idea of Thursday night rugby in towns he’d never heard of. With the greatest of respect, Nevers and Mont-de-Marsan are no Toulouse and Bordeaux.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -3333,6 +3437,58 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Aryna Sabalenka is through to the Berlin Open quarter-finals as her prep for Wimbledon ramps up",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSmIxYU9TMkpqcUc2OXAyNjlZcFdWZHFEN1paYTg3OUg2REVVeEI2VzAxaHdUM2xCcVFzVFhQOE5SNFBHSlFxTHVtU1A0RU0wU0FnYTdGRURkemlzT0Z5ZGFYTTRJb2xLdkIxd2RDdENnUnJ4eFRUMkNfZ1NjNFh2ekFsTHZ6ZTJscDhLbzNIYjdkTFFXV3FCTmxfeGJ1OV9UNEw3b2xBOUl0SUFfeVBleW9YMUFhQUluajl2OGloYXZGaVBWRkMxYWhtLUowV0tKcUdiekM5QVpSWEFjRHhzVDlaUVNrbWljZmlvOXFLXzFYOHppTE9XcENtQWFGVW1IbzNn?oc=5",
+        "published": "2026-06-17T20:34:37+00:00",
+        "published_label": "Wed 17 Jun, 20:34",
+        "summary": "Aryna Sabalenka is through to the Berlin Open quarter-finals as her prep for Wimbledon ramps up Sky Sports",
+        "body": "Aryna Sabalenka's preparations for Wimbledon continued as she defeated Ekaterina Alexandrova on Wednesday to reach the quarter-finals of the Berlin Open, but Coco Gauff has been knocked out.\n\nReturning to action for the first time since her shock French Open exit earlier this month, Sabalenka looked comfortable on grass, securing a straight-sets 6-4 6-4 victory over Alexandrova.",
+        "copy": "Aryna Sabalenka's preparations for Wimbledon continued as she defeated Ekaterina Alexandrova on Wednesday to reach the quarter-finals of the Berlin Open, but Coco Gauff has been knocked out.\n\nReturning to action for the first time since her shock French Open exit earlier this month, Sabalenka looked comfortable on grass, securing a straight-sets 6-4 6-4 victory over Alexandrova.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Andy Murray impressed by Jack Draper’s levels as pair prepare for Wimbledon",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUY1aW9NZzEzZlFWcVRrRjVDQUVXenJ2ZTB1bmVFLUFjcm51bG12V2Vtbzd4NC15MVM5VUhfTmVSM2ZZSzRaMTF6bm5pTndURi1vTWhnR1lUQkRMRUVudFR3OVRtM0t5eFV3T0JVektUTEhIQVlsZkVULWR3TG9rbUdSSDhkRk53NnBXTG5TRTJPek5wY2pFY05CWGp1RlJFNkVPZ2Q5MHEtZkM5a0p2X2dYbw?oc=5",
+        "published": "2026-06-17T19:40:00+00:00",
+        "published_label": "Wed 17 Jun, 19:40",
+        "summary": "Andy Murray impressed by Jack Draper’s levels as pair prepare for Wimbledon The Independent",
+        "body": "Two-time Wimbledon champion Andy Murray has hailed the ability of fit-again Jack Draper ahead of his anticipated return to action at Eastbourne next week. US Open semi-finalist Draper has taken on the torch from Murray as the nation’s great hope for male British success at Wimbledon, but endured an injury-stricken 12 months and has only played nine matches in 2026.\n\nBefore another fitness issue thwarted his French Open participation, Draper enlisted the help of Murray as his coach for the grass-court campaign and the Scot talked up his compatriot during an interview with The Sun at Queen’s Club.",
+        "copy": "Two-time Wimbledon champion Andy Murray has hailed the ability of fit-again Jack Draper ahead of his anticipated return to action at Eastbourne next week. US Open semi-finalist Draper has taken on the torch from Murray as the nation’s great hope for male British success at Wimbledon, but endured an injury-stricken 12 months and has only played nine matches in 2026.\n\nBefore another fitness issue thwarted his French Open participation, Draper enlisted the help of Murray as his coach for the grass-court campaign and the Scot talked up his compatriot during an interview with The Sun at Queen’s Club.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Fery makes Queen's quarter-finals with 'best result of career'",
+        "link": "https://www.bbc.com/sport/tennis/articles/cm20exjnmd5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-06-17T19:15:41+00:00",
+        "published_label": "Wed 17 Jun, 19:15",
+        "summary": "British number five Arthur Fery produces a superb display to beat Adrian Mannarino and keep home hopes alive in the HSBC Championships at Queen's.",
+        "body": "British number five Arthur Fery recorded the \"best result\" of his career as he beat Adrian Mannarino to keep home hopes alive in the HSBC Championships at Queen's. The world number 140 reached his first ATP Tour quarter-final with a 7-6 (9-7) 6-4 victory over the veteran Frenchman.\n\nThe 23-year-old wildcard needed treatment for a nosebleed at the start of the second set but kept his focus to wrap up victory on Andy Murray Arena. Fery was ranked 461 when he upset 20th seed Alexei Popyrin on the opening day of last year's Wimbledon, but said his win over Mannarino was better.",
+        "copy": "British number five Arthur Fery recorded the \"best result\" of his career as he beat Adrian Mannarino to keep home hopes alive in the HSBC Championships at Queen's. The world number 140 reached his first ATP Tour quarter-final with a 7-6 (9-7) 6-4 victory over the veteran Frenchman.\n\nThe 23-year-old wildcard needed treatment for a nosebleed at the start of the second set but kept his focus to wrap up victory on Andy Murray Arena. Fery was ranked 461 when he upset 20th seed Alexei Popyrin on the opening day of last year's Wimbledon, but said his win over Mannarino was better.",
+        "first_seen": "2026-06-17T17:36:47.223097+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Evans misses out on Wimbledon singles wildcard",
+        "link": "https://www.bbc.com/sport/tennis/articles/cn94141qdqqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-06-17T19:14:08+00:00",
+        "published_label": "Wed 17 Jun, 19:14",
+        "summary": "British tennis stalwart Dan Evans will have to go through qualifying to make the main draw of the men's singles at Wimbledon after missing out on a wildcard.",
+        "body": "British tennis stalwart Dan Evans will have to go through qualifying to make the main draw of the men's singles at Wimbledon after missing out on a wildcard. The 36-year-old, who announced last week that he would end his tennis career after Wimbledon, had hoped to receive one of the eight singles wildcards to guarantee an emotional final appearance at his home Grand Slam.\n\nHowever, the final remaining places were awarded to British pair Harry Wendelken and Felix Gill on Wednesday. Evans expressed frustration at not being given a wildcard for the HSBC Championships at Queen's Club, saying it would have been a \"classy gesture\" to get one.",
+        "copy": "British tennis stalwart Dan Evans will have to go through qualifying to make the main draw of the men's singles at Wimbledon after missing out on a wildcard. The 36-year-old, who announced last week that he would end his tennis career after Wimbledon, had hoped to receive one of the eight singles wildcards to guarantee an emotional final appearance at his home Grand Slam.\n\nHowever, the final remaining places were awarded to British pair Harry Wendelken and Felix Gill on Wednesday. Evans expressed frustration at not being given a wildcard for the HSBC Championships at Queen's Club, saying it would have been a \"classy gesture\" to get one.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "Andy Murray hails ability of Jack Draper ahead of anticipated Eastbourne return",
@@ -3368,19 +3524,6 @@
         "summary": "Andy Murray backs Jack Draper for Wimbledon return: ‘He’s bloody good’ The Guardian",
         "body": "Sir Andy Murray has issued a bullish bulletin on the fitness and ability of Jack Draper before Wimbledon, revealing that he has been practising on court most days and hailing his tennis as “bloody good”.\n\nDraper has plummeted to No 113 in the world due to a series of injuries, having been ranked fourth last year, and has not played since the Barcelona Open in April. But Murray, who has been working with the British player for the last month at the LTA’s National Tennis Centre as an adviser and temporary coach, believes that his body is now on the mend.",
         "copy": "Sir Andy Murray has issued a bullish bulletin on the fitness and ability of Jack Draper before Wimbledon, revealing that he has been practising on court most days and hailing his tennis as “bloody good”.\n\nDraper has plummeted to No 113 in the world due to a series of injuries, having been ranked fourth last year, and has not played since the Barcelona Open in April. But Murray, who has been working with the British player for the last month at the LTA’s National Tennis Centre as an adviser and temporary coach, believes that his body is now on the mend.",
-        "first_seen": "2026-06-17T17:36:47.223097+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Fery makes Queen's quarter-finals with 'best result of career''",
-        "link": "https://www.bbc.com/sport/tennis/articles/cm20exjnmd5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-17T15:48:32+00:00",
-        "published_label": "Wed 17 Jun, 15:48",
-        "summary": "British number five Arthur Fery produces a superb display to beat Adrian Mannarino and keep home hopes alive in the HSBC Championships at Queen's.",
-        "body": "British number five Arthur Fery recorded the \"best result of my career\" as he beat Adrian Mannarino to keep home hopes alive in the HSBC Championships at Queen's. The world number 140 reached his first ATP Tour quarter-final with a 7-6 (9-7) 6-4 victory over the veteran Frenchman.\n\nThe 23-year-old wildcard needed treatment for a nosebleed at the start of the second set but kept his focus to wrap up victory on Andy Murray Arena. Fery was ranked 461 when he upset 20th seed Alexei Popyrin on the opening day of last year's Wimbledon, but said his win over Mannarino was better.",
-        "copy": "British number five Arthur Fery recorded the \"best result of my career\" as he beat Adrian Mannarino to keep home hopes alive in the HSBC Championships at Queen's. The world number 140 reached his first ATP Tour quarter-final with a 7-6 (9-7) 6-4 victory over the veteran Frenchman.\n\nThe 23-year-old wildcard needed treatment for a nosebleed at the start of the second set but kept his focus to wrap up victory on Andy Murray Arena. Fery was ranked 461 when he upset 20th seed Alexei Popyrin on the opening day of last year's Wimbledon, but said his win over Mannarino was better.",
         "first_seen": "2026-06-17T17:36:47.223097+00:00"
       },
       {
@@ -4546,6 +4689,123 @@
         "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
+        "title": "If you’re worried about these U.S. Open greens (or anything else!), you shouldn’t be",
+        "link": "https://golf.com/news/worried-us-open-greens-shouldnt-be/",
+        "published": "2026-06-17T23:00:57+00:00",
+        "published_label": "Wed 17 Jun, 23:00",
+        "summary": "These are not Oakmont greens or Augusta National greens. They’re Shinnecock greens and they are more than ready for the test. The post If you’re worried about these U.S. Open greens (or anything else!), you shouldn’t be appeared first on Golf .",
+        "body": "SOUTHAMPTON, N.Y. — If you were worried about whether Rory McIlroy, the reigning Masters champion, would find suitable partners for some Wednesday-afternoon tune-up golf, here on the eve of the sixth U.S. Open at Shinnecock Hills, you can stop worrying.\n\nMcIlroy went off the 10th tee a little after 2 p.m., playing with Mason Howell and Hamilton Coleman. Both are 18-year-old native Georgians who will matriculate at the University of Georgia at the end of summer, where they will be roommates. Both had tour bags every bit as big as Rory McIlroy’s bag.",
+        "copy": "SOUTHAMPTON, N.Y. — If you were worried about whether Rory McIlroy, the reigning Masters champion, would find suitable partners for some Wednesday-afternoon tune-up golf, here on the eve of the sixth U.S. Open at Shinnecock Hills, you can stop worrying.\n\nMcIlroy went off the 10th tee a little after 2 p.m., playing with Mason Howell and Hamilton Coleman. Both are 18-year-old native Georgians who will matriculate at the University of Georgia at the end of summer, where they will be roommates. Both had tour bags every bit as big as Rory McIlroy’s bag.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Could windblown U.S. Open get out of control? There's a plan to prevent that",
+        "link": "https://golf.com/news/could-windblown-us-open-control-plan/",
+        "published": "2026-06-17T22:45:34+00:00",
+        "published_label": "Wed 17 Jun, 22:45",
+        "summary": "The USGA began to alter its U.S. Open setup plan last Friday, when the forecast took a turn for the worse — or, at least, the windier. The post Could windblown U.S. Open get out of control? There’s a plan to prevent that appeared first on Golf .",
+        "body": "SOUTHAMPTON, N.Y. — The last time the U.S. Open rolled through these parts, in 2018, Zach Johnson uttered a line that became the stuff of golf Twitter lore: “They’ve lost the golf course.” Johnson was referring, melodramatically, to the USGA’s management of Shinnecock Hills’ greens, which by the end of a dry and windy Saturday were crispier than burnt pita.\n\nEight years later, the Open is back, and with a forecast that could make the previous edition look like, well … a breeze. “Thursday, sustained winds throughout the day of 12 to 24,” John Bodenhamer, the USGA’s chief championships officer, said in a Wednesday press conference, rattling off the foreboding data like a meteorologist on the evening news. “More on the upper end of that with gusts from 24 to 36 miles an hour. When we start to talk about numbers in the mid-30s, that becomes problematic in a number of ways. Golf balls just staying still on the putting green.”",
+        "copy": "SOUTHAMPTON, N.Y. — The last time the U.S. Open rolled through these parts, in 2018, Zach Johnson uttered a line that became the stuff of golf Twitter lore: “They’ve lost the golf course.” Johnson was referring, melodramatically, to the USGA’s management of Shinnecock Hills’ greens, which by the end of a dry and windy Saturday were crispier than burnt pita.\n\nEight years later, the Open is back, and with a forecast that could make the previous edition look like, well … a breeze. “Thursday, sustained winds throughout the day of 12 to 24,” John Bodenhamer, the USGA’s chief championships officer, said in a Wednesday press conference, rattling off the foreboding data like a meteorologist on the evening news. “More on the upper end of that with gusts from 24 to 36 miles an hour. When we start to talk about numbers in the mid-30s, that becomes problematic in a number of ways. Golf balls just staying still on the putting green.”",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Scottie vs. Rory: Who has the better finish at the U.S. Open?",
+        "link": "https://golf.com/news/scheffler-mcilroy-us-open-prediction/",
+        "published": "2026-06-17T22:08:11+00:00",
+        "published_label": "Wed 17 Jun, 22:08",
+        "summary": "The U.S. Open begins Thursday at Shinnecock Hills with Scottie Scheffler and Rory McIlroy as favorites, but will they deliver? The post Scottie vs. Rory: Who has the better finish at the U.S. Open? appeared first on Golf .",
+        "body": "Check in to GOLF’s Tour Confidential every Sunday night for the unfiltered opinions of our writers and editors as they break down the hottest topics in the sport. This week, with the U.S. Open at Shinnecock Hills, we’ll hit one key topic every night.\n\nThe 126th U.S. Open begins on Thursday at Shinnecock Hills Golf Club, where Scottie Scheffler and Rory McIlroy are the betting favorites. While both have already won this season and been in contention several times, they have also exhibited flaws. Who has the better week at Shinny?",
+        "copy": "Check in to GOLF’s Tour Confidential every Sunday night for the unfiltered opinions of our writers and editors as they break down the hottest topics in the sport. This week, with the U.S. Open at Shinnecock Hills, we’ll hit one key topic every night.\n\nThe 126th U.S. Open begins on Thursday at Shinnecock Hills Golf Club, where Scottie Scheffler and Rory McIlroy are the betting favorites. While both have already won this season and been in contention several times, they have also exhibited flaws. Who has the better week at Shinny?",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "‘From Iceland, you’re not going to make it’: Meet a most unlikely U.S. Open player",
+        "link": "https://golf.com/news/from-iceland-unlikely-u-s-open-player/",
+        "published": "2026-06-17T22:07:29+00:00",
+        "published_label": "Wed 17 Jun, 22:07",
+        "summary": "Meet Gunnlaugur Arni Sveinsson, a most unlikely player at the U.S. Open at Shinnecock Hills. “From Iceland, you’re not going to make it.” The post ‘From Iceland, you’re not going to make it’: Meet a most unlikely U.S. Open player appeared first on Golf .",
+        "body": "SOUTHAMPTON, N.Y. — There’s steak. And then there’s Icelandic steak. And Icelandic steak, next to your knife and fork, looks much like what you’d ask for at the meat counter in your local supermarket. But, as you can surmise by this setup, an Icelandic steak’s distinctiveness is in its succulence. Which comes not by chance. The cows are built different on the island south of the Arctic Circle.\n\n“It’s just … fresh,” Gunnlaugur Arni Sveinsson said of the beef. It’s Tuesday afternoon at Shinnecock Hills Golf Club, two days before the U.S. Open, and Sveinsson is looking out from a bench, maybe a pitching wedge distance from the clubhouse. A few minutes earlier, Scottie Scheffler walked by. He’s playing for the career grand slam. In another direction, Adam Scott entered a support building. This week, he plays in his 100th-straight major. History. History makers, just like Sveinsson, who goes by Arni, which may call to mind Arnold Palmer, the King, and this Arni is a bit of golf royalty himself. Via final qualifying nine days ago, the 20-year-old became a U.S. Open golfer, which no one from his home country of Iceland had ever done, which is also understandable, given the circumstances. Golf is played in the Nordic country; according to Golf Iceland, it has about 60,000 players and just over 60 courses. It’s just the golf season that far north is about four months long, from May to September, meaning should you want to play any of the other eight months of a year, your golf bag better have a snow shovel.",
+        "copy": "SOUTHAMPTON, N.Y. — There’s steak. And then there’s Icelandic steak. And Icelandic steak, next to your knife and fork, looks much like what you’d ask for at the meat counter in your local supermarket. But, as you can surmise by this setup, an Icelandic steak’s distinctiveness is in its succulence. Which comes not by chance. The cows are built different on the island south of the Arctic Circle.\n\n“It’s just … fresh,” Gunnlaugur Arni Sveinsson said of the beef. It’s Tuesday afternoon at Shinnecock Hills Golf Club, two days before the U.S. Open, and Sveinsson is looking out from a bench, maybe a pitching wedge distance from the clubhouse. A few minutes earlier, Scottie Scheffler walked by. He’s playing for the career grand slam. In another direction, Adam Scott entered a support building. This week, he plays in his 100th-straight major. History. History makers, just like Sveinsson, who goes by Arni, which may call to mind Arnold Palmer, the King, and this Arni is a bit of golf royalty himself. Via final qualifying nine days ago, the 20-year-old became a U.S. Open golfer, which no one from his home country of Iceland had ever done, which is also understandable, given the circumstances. Golf is played in the Nordic country; according to Golf Iceland, it has about 60,000 players and just over 60 courses. It’s just the golf season that far north is about four months long, from May to September, meaning should you want to play any of the other eight months of a year, your golf bag better have a snow shovel.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Most majors post-Tiger? The list tells a remarkably simple story",
+        "link": "https://golf.com/news/most-majors-post-tiger-us-open/",
+        "published": "2026-06-17T20:57:08+00:00",
+        "published_label": "Wed 17 Jun, 20:57",
+        "summary": "As majors play on without Tiger or Phil, it's worth exploring: Who has the most men's majors since them? The list tells this generation's story. The post Most majors post-Tiger? The list tells a remarkably simple story appeared first on Golf .",
+        "body": "I’m watching the U.S. Open from home this week, which means I’m missing plenty of nuance about the sights and sounds of Shinnecock, arguably the greatest American golf course and an epic major championship host.\n\nBut if there’s an advantage to monitoring from my living room, it’s that it’s easier to focus on some of the big-picture stuff. While on-site pre-tournament conversation has included the typical glorious minutiae of the sport — syringing greens, rolling back the golf ball rollback, modifying two “tracks” of a Tour schedule — I’d like to direct our attention to a different major topic: Who’s got the most of ’em?",
+        "copy": "I’m watching the U.S. Open from home this week, which means I’m missing plenty of nuance about the sights and sounds of Shinnecock, arguably the greatest American golf course and an epic major championship host.\n\nBut if there’s an advantage to monitoring from my living room, it’s that it’s easier to focus on some of the big-picture stuff. While on-site pre-tournament conversation has included the typical glorious minutiae of the sport — syringing greens, rolling back the golf ball rollback, modifying two “tracks” of a Tour schedule — I’d like to direct our attention to a different major topic: Who’s got the most of ’em?",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Celebrate America's 250th birthday with this cool red, white and blue gear",
+        "link": "https://golf.com/gear/usa-250-golf-gear-and-accessories/",
+        "published": "2026-06-17T20:30:49+00:00",
+        "published_label": "Wed 17 Jun, 20:30",
+        "summary": "From equipment to accessories, there are multiple ways for golfers to celebrate America's 250th birthday on the golf course this year. The post Celebrate America’s 250th birthday with this cool red, white and blue gear appeared first on Golf .",
+        "body": "With this year’s U.S. Open at Shinnecock and America’s 250th birthday colliding into one big summer of red, white and blue, there are multiple ways for golfers to show off their patriotism with new gear!\n\nWe’ve compiled some of the coolest golf gear and accessories to help you celebrate America’s birthday while making sure you’re still performing at the top of your game. Who doesn’t love showing off some red, white and blue gear or decking out the bag with a few patriotic accessories?",
+        "copy": "With this year’s U.S. Open at Shinnecock and America’s 250th birthday colliding into one big summer of red, white and blue, there are multiple ways for golfers to show off their patriotism with new gear!\n\nWe’ve compiled some of the coolest golf gear and accessories to help you celebrate America’s birthday while making sure you’re still performing at the top of your game. Who doesn’t love showing off some red, white and blue gear or decking out the bag with a few patriotic accessories?",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "New rules to limit golf ball distance pushed back from 2028",
+        "link": "https://www.bbc.com/sport/golf/articles/cql16pn16k5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-06-17T18:40:07+00:00",
+        "published_label": "Wed 17 Jun, 18:40",
+        "summary": "Plans to limit how far golf balls can fly in the professional game are put on hold by rulesmakers the R&A and United States Golf Association.",
+        "body": "Plans to limit how far golf balls can fly in the professional game have been put on hold by the R&A and United States Golf Association, and other options are being considered to try to solve the game's distance problem.\n\nThere remains a lack of consensus among golf's stakeholders including the leading tours, their players, manufacturers and governing bodies who have been anxious to implement change.",
+        "copy": "Plans to limit how far golf balls can fly in the professional game have been put on hold by the R&A and United States Golf Association, and other options are being considered to try to solve the game's distance problem.\n\nThere remains a lack of consensus among golf's stakeholders including the leading tours, their players, manufacturers and governing bodies who have been anxious to implement change.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Min Woo Lee isn't afraid to use prototype clubs on the big stage | Bag Spy",
+        "link": "https://golf.com/gear/min-woo-2026-bag-spy/",
+        "published": "2026-06-17T18:28:32+00:00",
+        "published_label": "Wed 17 Jun, 18:28",
+        "summary": "Min Woo Lee is one of the most powerful players on Tour. Take a deep dive into his unique Callaway golf bag that allows him to hit bombs. The post Min Woo Lee isn’t afraid to use prototype clubs on the big stage | Bag Spy appeared first on Golf .",
+        "body": "Welcome to Bag Spy, a GOLF series devoted to understanding the crucial equipment choices that define a player’s bag. With the help of players and/or their expert fitters, we dig deep beyond the photos to examine setups, specs and the thinking behind them. In this installment, GOLF Associate Equipment Editor Jack Hirsh takes you inside Min Woo Lee’s bag as he gets set for the 2026 U.S. Open at Shinnecock Hills Golf Club.\n\nMin Woo Lee’s swing has gone through an overhaul during the past 18 months and his bag has evolved with it to meet the needs of one of the game’s fastest players. That bag ends up showing us a couple of things.",
+        "copy": "Welcome to Bag Spy, a GOLF series devoted to understanding the crucial equipment choices that define a player’s bag. With the help of players and/or their expert fitters, we dig deep beyond the photos to examine setups, specs and the thinking behind them. In this installment, GOLF Associate Equipment Editor Jack Hirsh takes you inside Min Woo Lee’s bag as he gets set for the 2026 U.S. Open at Shinnecock Hills Golf Club.\n\nMin Woo Lee’s swing has gone through an overhaul during the past 18 months and his bag has evolved with it to meet the needs of one of the game’s fastest players. That bag ends up showing us a couple of things.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "What’s in the bag: DeChambeau’s new driver at U.S. Open",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDdOaTJSaERON0std1ZjWjZOWXZWT3hqT2JFMlJ0ZlRmdnk3RDhUdEV4N1l1Y2E2RXFoU2NPdXhnZ2h4enhVRTk2T19jZ2lWdkotanY2UXZHbEV4cjQwbU5uUVBIWVl1cEFST3BNWThJY0ZLcnhCOVdwZGNtNE1BeWhOaE5SeGxrb0dkOHdXWnR1dnJjaHc?oc=5",
+        "published": "2026-06-17T18:23:17+00:00",
+        "published_label": "Wed 17 Jun, 18:23",
+        "summary": "What’s in the bag: DeChambeau’s new driver at U.S. Open LIV Golf",
+        "body": "What’s in the bag: DeChambeau’s new driver at U.S. Open Two-time U.S. Open champion Bryson DeChambeau will draw large galleries at Shinnecock Hills, and the Crushers GC captain will have a new club in his bag\n\nSOUTHAMPTON, N.Y. — Bryson DeChambeau arrives at Shinnecock Hills off the back of missed cuts in each of the year's first two majors, but the U.S. Open has long been the one event where his game has translated into major championship success. The Crushers GC captain has won two of the last six U.S. Opens — at Winged Foot in 2020 and Pinehurst in 2024 — and is seeking to become just the seventh golfer in history to capture three titles at the championship.",
+        "copy": "What’s in the bag: DeChambeau’s new driver at U.S. Open Two-time U.S. Open champion Bryson DeChambeau will draw large galleries at Shinnecock Hills, and the Crushers GC captain will have a new club in his bag\n\nSOUTHAMPTON, N.Y. — Bryson DeChambeau arrives at Shinnecock Hills off the back of missed cuts in each of the year's first two majors, but the U.S. Open has long been the one event where his game has translated into major championship success. The Crushers GC captain has won two of the last six U.S. Opens — at Winged Foot in 2020 and Pinehurst in 2024 — and is seeking to become just the seventh golfer in history to capture three titles at the championship.",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
         "title": "U.S. Open favorites: These 4 players are favored to win at Shinnecock Hills",
         "link": "https://golf.com/news/the-four-players-favored-win-u-s-open/",
         "published": "2026-06-17T17:59:45+00:00",
@@ -4567,6 +4827,19 @@
         "body": "Mitsubishi Golf has been stepping up their limited-edition game over the last few years with drops of their popular Diamana shaft profiles and some other gear. For the 2026 U.S. Open, they’re offering up a new Red, White, and Blue collection featuring a Diamana Blueboard shaft, a Branded Bills Diamana RWB hat, and a commemorative ball marker featuring the classic Diamana RWB surfboard logo.\n\nThe Diamana BB profile is a great mid-launch, mid-spin profile for players who prefer a smoother transition in the downswing and typically have a more relaxed tempo. The Diamana series of golf shafts started the trend of ‘profiles’ in the shaft industry with the original Whiteboard and Blueboard profiles that have since been joined by a Redboard profile. The surfboard and the plumeria flower band date back to a connection to Hawaii which is the middle ground between California and Japan. For the 2026 U.S. Open collection, they have added some nods to Shinnecock Hills within the flower band and finished off the design in their beautiful ion plating.",
         "copy": "Mitsubishi Golf has been stepping up their limited-edition game over the last few years with drops of their popular Diamana shaft profiles and some other gear. For the 2026 U.S. Open, they’re offering up a new Red, White, and Blue collection featuring a Diamana Blueboard shaft, a Branded Bills Diamana RWB hat, and a commemorative ball marker featuring the classic Diamana RWB surfboard logo.\n\nThe Diamana BB profile is a great mid-launch, mid-spin profile for players who prefer a smoother transition in the downswing and typically have a more relaxed tempo. The Diamana series of golf shafts started the trend of ‘profiles’ in the shaft industry with the original Whiteboard and Blueboard profiles that have since been joined by a Redboard profile. The surfboard and the plumeria flower band date back to a connection to Hawaii which is the middle ground between California and Japan. For the 2026 U.S. Open collection, they have added some nods to Shinnecock Hills within the flower band and finished off the design in their beautiful ion plating.",
         "first_seen": "2026-06-17T18:06:57.047907+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV golfer reveals how Bryson DeChambeau has actually behaved recently with the league's future uncertain",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcm5rc2RwRXVlai15bW5idTdRSC1JeWFVOEtIUGtGdWllR2hjWkNkOGpYVVNULUF2clJlUmtnOTV5Rk45XzRTckpBR0JqVXdVTHVVbm0zN0pmSzV5V1lwbGdBTXFzX2lFZm5FUllrRFhtOTFXWVpOMFYtRjEyVUNBZWZ0bXV4ak5RUEY0N1RYWmJ5VTcwMHVkTWZVVkQ5Z0JpS1lzMUZjQ0ZhU0xqdWxubGZfYlBQVEliUjllYmtnZVNnajVX?oc=5",
+        "published": "2026-06-17T17:00:00+00:00",
+        "published_label": "Wed 17 Jun, 17:00",
+        "summary": "LIV golfer reveals how Bryson DeChambeau has actually behaved recently with the league's future uncertain hitc.com",
+        "body": "Laurie Canter has confirmed that Bryson DeChambeau is the player making the biggest push to secure new investment for LIV Golf with the league’s future in doubt beyond this year.\n\nDeChambeau is LIV’s biggest star. And perhaps no player has seen a bigger rise in their stock since joining the league than the 32-year-old. Who will be the biggest name to miss the cut at the US Open?",
+        "copy": "Laurie Canter has confirmed that Bryson DeChambeau is the player making the biggest push to secure new investment for LIV Golf with the league’s future in doubt beyond this year.\n\nDeChambeau is LIV’s biggest star. And perhaps no player has seen a bigger rise in their stock since joining the league than the 32-year-old. Who will be the biggest name to miss the cut at the US Open?",
+        "first_seen": "2026-06-17T23:15:59.844323+00:00"
       },
       {
         "section": "Golf",
@@ -6459,5 +6732,5 @@
       }
     ]
   },
-  "total": 495
+  "total": 516
 }
