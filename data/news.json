@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T17:59:32.042478+00:00",
-  "generated_label": "Thursday 18 June 2026, 17:59 UTC",
+  "generated_at": "2026-06-18T18:28:34.571817+00:00",
+  "generated_label": "Thursday 18 June 2026, 18:28 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -102,6 +102,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-06-18T17:59:32.042478+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Nissan in talks over more UK government help for Sunderland plant",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2Q5Zm1XRFlMV0w5dlBibXdZOU0wbVZkUDZTc3NneVRJV29OZ0lmNDlxYmpuVjVTSmJpLXBIUGlITGI1MkU1ejlVakhDRnJJVDlmcEtmbVRqaVFSekVQS2JFMDNxX05laHNVOEZrWUxrcWZZbEZxZFo3bmpPUWNqY2RRV3U?oc=5",
+        "published": "2026-06-18T10:57:57+00:00",
+        "published_label": "Thu 18 Jun, 10:57",
+        "summary": "Nissan in talks over more UK government help for Sunderland plant Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-06-18T18:28:34.571817+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -4035,6 +4048,19 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Andy Murray admits he didn’t expect this level from Jack Draper",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRzJERXl3ZWcwVDFPWFdfc0k3TF9PSFFSMXNGRlNGdzNPd01lX2pfdHhqNDcxOXlXTnAwZHg1Rl9tWDdqcmZRbVJ5cC1GT0dRbWR6Ml8zeXhvNkpkdEFaNlpPbzBLUGo2c1V5TXJYWGtrVzVPUnk4SmtheUtnaF9UdHhvWDRYQUs1eGlvOGUza0pkX1BuYzFrM1phUG5CN1hnZlM0SXZaSF9OZUlBeHdiZ1YyeUl4REdoQ3NpMDJwOHdTZlAwcjdv?oc=5",
+        "published": "2026-06-18T18:00:30+00:00",
+        "published_label": "Thu 18 Jun, 18:00",
+        "summary": "Andy Murray admits he didn’t expect this level from Jack Draper Tennis World USA",
+        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "first_seen": "2026-06-18T18:28:34.571817+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "GB's Klugman beaten in Nottingham second round",
@@ -5348,6 +5374,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Playing golf in the wind? Focus on these 3 things to save your score",
+        "link": "https://golf.com/instruction/playing-golf-wind-focus-three-things-save-score-play-smart/",
+        "published": "2026-06-18T18:13:51+00:00",
+        "published_label": "Thu 18 Jun, 18:13",
+        "summary": "In this edition of Play Smart, we break down three of the most important things to do when playing golf in the wind. The post Playing golf in the wind? Focus on these 3 things to save your score appeared first on Golf .",
+        "body": "Welcome to Play Smart, a regular GOLF.com game-improvement column that will help you play smarter, better golf. If you’ve been tuned into the U.S. Open at all thus far, you know that the wind is howling at Shinnecock. With gusts of up to 40 mph in the forecast throughout the afternoon, players are battling not only the diabolical William Flynn design, but also Mother Nature.\n\nPlaying golf in the elements isn’t easy — and strong winds may be the most difficult of them all. When gusts are ripping across a golf course, controlling your ball becomes a near-impossible task.",
+        "copy": "Welcome to Play Smart, a regular GOLF.com game-improvement column that will help you play smarter, better golf. If you’ve been tuned into the U.S. Open at all thus far, you know that the wind is howling at Shinnecock. With gusts of up to 40 mph in the forecast throughout the afternoon, players are battling not only the diabolical William Flynn design, but also Mother Nature.\n\nPlaying golf in the elements isn’t easy — and strong winds may be the most difficult of them all. When gusts are ripping across a golf course, controlling your ball becomes a near-impossible task.",
+        "first_seen": "2026-06-18T18:28:34.571817+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -7226,6 +7265,19 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "Where to Watch: SANDS CHINA LTD Macau Open 2026",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWpZazdmYi02LVk1TXh3NDZZQ0t1U0ZQai1HYjdPWEZRR0FYc0lUdHh4Q01kdWdXWEktRjdId21LcHFOMm81dVlLaHdTSE52bmpRMTI3RnN0QWZudEZGck9IVGVadXBZSVB3aGF6TWRXeW8wTFZ5Mkw3dzVBVDBkTS1pVnB5Ry1aeXBuX0gtdU1kU0tVSGlj?oc=5",
+        "published": "2026-06-18T09:28:00+00:00",
+        "published_label": "Thu 18 Jun, 09:28",
+        "summary": "Where to Watch: SANDS CHINA LTD Macau Open 2026 BWF World Tour",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-06-18T18:28:34.571817+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "Members’ Exceptional Achievements Honoured",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWFab2xTMFFoRVZ0b1RNNjJhd05KYWgxd2RYTE5Bc09pSVRGVkNFendKQk5uSjA0NkxWNXZRSGZkSmJ0VzI3MmJtT0hKa1BBSnRLVjVfUWRGYUozY0plaUh1Mkx2WmpJbUNsY19EY3NaWXA1dzFOOTh2ZEpfYkw4S3BsVE9FUkhTWVhsU05HbzRpaTk4?oc=5",
         "published": "2026-06-18T05:14:54+00:00",
@@ -7655,5 +7707,5 @@
       }
     ]
   },
-  "total": 587
+  "total": 591
 }
