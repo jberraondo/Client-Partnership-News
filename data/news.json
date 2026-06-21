@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T12:34:05.357470+00:00",
-  "generated_label": "Sunday 21 June 2026, 12:34 UTC",
+  "generated_at": "2026-06-21T13:30:19.478573+00:00",
+  "generated_label": "Sunday 21 June 2026, 13:30 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "Queen's men's tennis final prize money: How much the winner and runner-up get",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRnl3N012SzhocWJkM2JLd3VFRmpXdUlxdTBEaHJHMXdSY0VLb3NJT3RvNncwVVdrNFhCOUxmSWxYd1gzenlweFpURzJ1UkdqdlRqS3BEUTUtYVMtSlA2UThWN0IxLXJpa1h2T2QyTjRjQm5MdUU2ODJnMzZpS0l4eFViVm1SSGNYTXFHQTdTR2NkYkFKb25uVDR30gGfAUFVX3lxTE05cTZqRkJWVWgzU2R3UGlVZEVwbjJyNWFHdTI3em10SS1PSURJNWdiQllJejYyTkRvNDQ2SkxfX2NJSy1NdjdlckJWOWpkQ3pQTXF2cjNzbGtyWDV0Z25rQXhBeTVjZDlUclZ5WDl2dV90UDBHQWRJeGZ0d1pTX05UTUpzMnlGRmVwTXQ2LVNuQ0F6R0k1Y2YtR0NOSUNRYw?oc=5",
+        "published": "2026-06-21T12:03:00+00:00",
+        "published_label": "Sun 21 Jun, 12:03",
+        "summary": "Queen's men's tennis final prize money: How much the winner and runner-up get Wales Online",
+        "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "first_seen": "2026-06-21T13:30:19.478573+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "HSBC watch",
@@ -2185,6 +2198,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Feyi-Waboso risked England place for Exeter return",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/cvg4162v3dno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-06-21T12:55:20+00:00",
+        "published_label": "Sun 21 Jun, 12:55",
+        "summary": "Exeter winger Immanuel Feyi-Waboso says he had no choice but to risk his England chances this summer by playing in the Prem final only three weeks after breaking his jaw.",
+        "body": "Exeter winger Immanuel Feyi-Waboso has said he had no choice but to risk his England chances this summer by playing in the Prem final only three weeks after suffering a broken jaw.\n\nThe 23-year-old had surgery having sustained the injury in Exeter's win at Leicester at the end of May but was cleared to play in Saturday's defeat by Northampton. Feyi-Waboso said the rapid turnaround was worth the gamble of potentially missing out on featuring in England's Nations Championship Tests against South Africa, Fiji and Argentina.",
+        "copy": "Exeter winger Immanuel Feyi-Waboso has said he had no choice but to risk his England chances this summer by playing in the Prem final only three weeks after suffering a broken jaw.\n\nThe 23-year-old had surgery having sustained the injury in Exeter's win at Leicester at the end of May but was cleared to play in Saturday's defeat by Northampton. Feyi-Waboso said the rapid turnaround was worth the gamble of potentially missing out on featuring in England's Nations Championship Tests against South Africa, Fiji and Argentina.",
+        "first_seen": "2026-06-21T13:30:19.478573+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Five Springboks who may never play for South Africa again",
+        "link": "https://www.rugbypass.com/news/five-springboks-who-may-never-play-for-south-africa-again/",
+        "published": "2026-06-21T12:44:41+00:00",
+        "published_label": "Sun 21 Jun, 12:44",
+        "summary": "The Springboks have named a 46-man squad for the 2026 Nations Championship that is as deep and as loaded as any Rassie Erasmus has assembled.",
+        "body": "The Springboks have named a 46-man squad for the 2026 Nations Championship that is – with the exception of the injured Sacha Feinberg-Mngomezulu – as deep and as loaded as any Rassie Erasmus has assembled.\n\nWith England, Scotland and Wales all to come before the Greatest Rivalry Series against the All Blacks, South Africa’s embarrassment of riches across every position is plain to see. But with that depth comes brutal selection reality.",
+        "copy": "The Springboks have named a 46-man squad for the 2026 Nations Championship that is – with the exception of the injured Sacha Feinberg-Mngomezulu – as deep and as loaded as any Rassie Erasmus has assembled.\n\nWith England, Scotland and Wales all to come before the Greatest Rivalry Series against the All Blacks, South Africa’s embarrassment of riches across every position is plain to see. But with that depth comes brutal selection reality.",
+        "first_seen": "2026-06-21T13:30:19.478573+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4758,45 +4797,6 @@
         "body": "Fin Smith insists Henry Pollock is energising Northampton’s Gallagher Prem title march through his “larger than life character”. Saints will collide with Exeter in Saturday’s final at Allianz Stadium following two gripping play-offs that saw Leicester and Bath bow out with their pride intact.\n\nSmith was named man of the match against Tigers with Steve Borthwick watching at Franklin’s Gardens and the England head coach will also have been impressed with a seismic contribution from Pollock.",
         "copy": "Fin Smith insists Henry Pollock is energising Northampton’s Gallagher Prem title march through his “larger than life character”. Saints will collide with Exeter in Saturday’s final at Allianz Stadium following two gripping play-offs that saw Leicester and Bath bow out with their pride intact.\n\nSmith was named man of the match against Tigers with Steve Borthwick watching at Franklin’s Gardens and the England head coach will also have been impressed with a seismic contribution from Pollock.",
         "first_seen": "2026-06-14T18:55:18.222961+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'You’ve set the precedent': Matatu begin Super Rugby Aupiki season with record crowd",
-        "link": "https://www.rugbypass.com/news/youve-set-the-precedent-matatu-begin-super-rugby-aupiki-season-with-record-crowd/",
-        "published": "2026-06-14T12:54:27+00:00",
-        "published_label": "Sun 14 Jun, 12:54",
-        "summary": "Matatu kicked off the new Super Rugby Aupiki season with a record attendance for a standalone domestic women's rugby fixture on Saturday.",
-        "body": "Matatu kicked off the new Super Rugby Aupiki season with a record attendance for a standalone domestic women’s rugby fixture on Saturday. Ahead of the fixture, the Christchurch team confirmed that 10,000 tickets had been sold for the 2026 season opener at One New Zealand Stadium.\n\nThis was more than double the record set in 2024 when the Blues hosted Chiefs Manawa at Eden Park when 4,800 supporters made their way to the venue. By the time Matatu’s game against the Chiefs Manawa got underway there were 11,793 supporters surrounding the field.",
-        "copy": "Matatu kicked off the new Super Rugby Aupiki season with a record attendance for a standalone domestic women’s rugby fixture on Saturday. Ahead of the fixture, the Christchurch team confirmed that 10,000 tickets had been sold for the 2026 season opener at One New Zealand Stadium.\n\nThis was more than double the record set in 2024 when the Blues hosted Chiefs Manawa at Eden Park when 4,800 supporters made their way to the venue. By the time Matatu’s game against the Chiefs Manawa got underway there were 11,793 supporters surrounding the field.",
-        "first_seen": "2026-06-14T13:22:26.683349+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Saints and Chiefs headline Gallagher PREM semifinal Team of the week",
-        "link": "https://www.rugbypass.com/news/gallagher-prem-semifinals-team-of-the-week/",
-        "published": "2026-06-14T12:37:55+00:00",
-        "published_label": "Sun 14 Jun, 12:37",
-        "summary": "For the seventh consecutive season, the Gallagher PREM will crown a new champion when the Northampton Saints and Exeter Chiefs clash on Jun 20th at Allianz Stadium Twickenham.",
-        "body": "For the seventh consecutive season, there will be no back-to-back Gallagher PREM champions, with Northampton Saints and Exeter Chiefs set to decide the title at Allianz Stadium, Twickenham on June 20.\n\nAfter a semifinal weekend loaded with rivalry, momentum swings and late drama, the final is now set. First came Friday night at Franklin’s Gardens, where Northampton and Leicester traded blows in a Midlands derby that delivered 12 tries and barely paused for breath. It was only in the 74th minute that Saints finally broke clear, with captain George Furbank racing away for the score that put the contest beyond Leicester.",
-        "copy": "For the seventh consecutive season, there will be no back-to-back Gallagher PREM champions, with Northampton Saints and Exeter Chiefs set to decide the title at Allianz Stadium, Twickenham on June 20.\n\nAfter a semifinal weekend loaded with rivalry, momentum swings and late drama, the final is now set. First came Friday night at Franklin’s Gardens, where Northampton and Leicester traded blows in a Midlands derby that delivered 12 tries and barely paused for breath. It was only in the 74th minute that Saints finally broke clear, with captain George Furbank racing away for the score that put the contest beyond Leicester.",
-        "first_seen": "2026-06-14T13:22:26.683349+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Moody starts 500-mile cycle after MND diagnosis",
-        "link": "https://www.bbc.com/news/articles/cy06p665k2yo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-14T12:35:57+00:00",
-        "published_label": "Sun 14 Jun, 12:35",
-        "summary": "The former England Rugby captain, aged 48, was diagnosed with Motor Neurone Disease last year.",
-        "body": "England's former rugby captain Lewis Moody is embarking on a 500-mile (804km) bike ride to raise awareness around Motor Neurone Disease (MND) following his own diagnosis. The 48-year-old, along with more than a dozen rugby players, friends and family, set off from Newcastle Red Bulls' stadium for Rugby HQ in Twickenham.\n\nMoody paid tribute to George \"Doddie\" Weir, who played for the Red Bulls and died from MND in 2022. He said the efforts of MND campaigners such as Kevin Sinfield meant there was hope that the discovery of a cure was getting closer.",
-        "copy": "England's former rugby captain Lewis Moody is embarking on a 500-mile (804km) bike ride to raise awareness around Motor Neurone Disease (MND) following his own diagnosis. The 48-year-old, along with more than a dozen rugby players, friends and family, set off from Newcastle Red Bulls' stadium for Rugby HQ in Twickenham.\n\nMoody paid tribute to George \"Doddie\" Weir, who played for the Red Bulls and died from MND in 2022. He said the efforts of MND campaigners such as Kevin Sinfield meant there was hope that the discovery of a cure was getting closer.",
-        "first_seen": "2026-06-14T18:55:18.222961+00:00"
       }
     ],
     "Tennis": [
@@ -6102,6 +6102,58 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Callaway's Father's Day ad spot reminds us what makes golf special",
+        "link": "https://golf.com/gear/callaways-fathers-day-ad/",
+        "published": "2026-06-21T13:22:53+00:00",
+        "published_label": "Sun 21 Jun, 13:22",
+        "summary": "During U.S. Open coverage this weekend, Callaway is showcasing golf's special moments with their new Father's Day ad spot. The post Callaway’s Father’s Day ad spot reminds us what makes golf special appeared first on Golf .",
+        "body": "Once again, the U.S. Open champion will be crowned on Father’s Day. But golf’s connection with Father’s Day extends far beyond the national open, and Callaway’s newest Father’s Day ad spot focuses in on the moments that make our game so special.\n\nThe ad, which is part of Callaway’s “Nothing Beats This” campaign, launched during Saturday’s broadcast of the U.S. Open and will air again during Sunday’s final round. The campaign isn’t specifically tied to Callaway’s lines of golf balls or clubs, but rather showcases why people love golf, and Callaway saw Father’s Day as the perfect time to highlight that message.",
+        "copy": "Once again, the U.S. Open champion will be crowned on Father’s Day. But golf’s connection with Father’s Day extends far beyond the national open, and Callaway’s newest Father’s Day ad spot focuses in on the moments that make our game so special.\n\nThe ad, which is part of Callaway’s “Nothing Beats This” campaign, launched during Saturday’s broadcast of the U.S. Open and will air again during Sunday’s final round. The campaign isn’t specifically tied to Callaway’s lines of golf balls or clubs, but rather showcases why people love golf, and Callaway saw Father’s Day as the perfect time to highlight that message.",
+        "first_seen": "2026-06-21T13:30:19.478573+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Unfortunate': Wyndham Clark troubled by lack of fans at U.S. Open",
+        "link": "https://golf.com/news/wyndham-clark-troubled-lack-us-open-fans-unfortunate/",
+        "published": "2026-06-21T13:12:43+00:00",
+        "published_label": "Sun 21 Jun, 13:12",
+        "summary": "Wyndham Clark admitted that a strange and \"unfortunate\" lack of fans on Saturday at the 2026 U.S. Open caused him to lose focus. The post ‘Unfortunate’: Wyndham Clark troubled by lack of fans at U.S. Open appeared first on Golf .",
+        "body": "As Wyndham Clark comes through the closing stretch at Shinnecock Hills on Sunday, he hopes to already have one hand on his second U.S. Open trophy. He also hopes that there are fans present to witness his moment of greatness, maybe even cheer for him.\n\nOn Saturday evening at Shinnecock, that was not the case. In a bizarre scene confirmed by GOLF reporters on-site, a distinct lack of spectators and a muted atmosphere greeted Clark as he secured his six-shot, 54-hole lead in the waning hours of Saturday’s third round.",
+        "copy": "As Wyndham Clark comes through the closing stretch at Shinnecock Hills on Sunday, he hopes to already have one hand on his second U.S. Open trophy. He also hopes that there are fans present to witness his moment of greatness, maybe even cheer for him.\n\nOn Saturday evening at Shinnecock, that was not the case. In a bizarre scene confirmed by GOLF reporters on-site, a distinct lack of spectators and a muted atmosphere greeted Clark as he secured his six-shot, 54-hole lead in the waning hours of Saturday’s third round.",
+        "first_seen": "2026-06-21T13:30:19.478573+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "5 things to know for Sunday's final round of the 2026 U.S. Open",
+        "link": "https://golf.com/news/5-things-know-sunday-final-round-2026-us-open/",
+        "published": "2026-06-21T13:06:40+00:00",
+        "published_label": "Sun 21 Jun, 13:06",
+        "summary": "The 2026 U.S. Open's final round tees off with some intriguing storylines to follow. Here are 5 things to know for Sunday. The post 5 things to know for Sunday’s final round of the 2026 U.S. Open appeared first on Golf .",
+        "body": "Only one round remains at the the 2026 U.S. Open, and by the looks of the leaderboard at the 54-hole mark, we’re in for one of two scenarios: a grand coronation, or complete chaos and carnage.\n\nLet’s break it all down. Here are five things to know for Sunday at Shinnecock. Over the last three rounds, Wyndham Clark has not lifted his foot from the gas pedal. The 32-year-old is seven under par and has opened a six-shot lead with one round remaining at Shinnecock. Sunday’s round represents a chance to add a second U.S. Open title to the first one he claimed in 2023 at Los Angeles Country Club. A win on Sunday would also mark the apex of quite the heater for Clark, who has finished 1-3-T11 in his last three starts.",
+        "copy": "Only one round remains at the the 2026 U.S. Open, and by the looks of the leaderboard at the 54-hole mark, we’re in for one of two scenarios: a grand coronation, or complete chaos and carnage.\n\nLet’s break it all down. Here are five things to know for Sunday at Shinnecock. Over the last three rounds, Wyndham Clark has not lifted his foot from the gas pedal. The 32-year-old is seven under par and has opened a six-shot lead with one round remaining at Shinnecock. Sunday’s round represents a chance to add a second U.S. Open title to the first one he claimed in 2023 at Los Angeles Country Club. A win on Sunday would also mark the apex of quite the heater for Clark, who has finished 1-3-T11 in his last three starts.",
+        "first_seen": "2026-06-21T13:30:19.478573+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Why Dustin Johnson is LIV Golf's only hope of avoiding further embarrassment after The Open Championship",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2dOZWhlREFCVlBGYlBucE9xQmp2Zm5mdzlsemo1cE5nWjJFdjc1V01KRHRXN1ZfajJzNUowRERYQ0ttWEdKaGp4RjlIcEU3V3p4bTB1bGdWUElhV0d1X0YwdS1raEF4c3Vod2xqd0gtXzJ2d0h4cWtMclFBdmM3a3RvRU82UUFtZTQyaGtnNHd1Z2g2R3Y4OEVqUVNRYTJRU3NtdExVNHl0S1RrRWRPU292elp5bXlydGVHMzl5S2dNREU?oc=5",
+        "published": "2026-06-21T13:00:00+00:00",
+        "published_label": "Sun 21 Jun, 13:00",
+        "summary": "Why Dustin Johnson is LIV Golf's only hope of avoiding further embarrassment after The Open Championship hitc.com",
+        "body": "Dustin Johnson still needs to qualify for The Open Championship to stand any chance of making the cut at all four majors in the same calendar year for the first time since 2019.\n\nJohnson was one of LIV Golf’s last men standing this week at the US Open. The two-time major champion got off to a flyer at Shinnecock Hills. However, an eight during his second round largely put paid to his hopes of winning the event for a second time.",
+        "copy": "Dustin Johnson still needs to qualify for The Open Championship to stand any chance of making the cut at all four majors in the same calendar year for the first time since 2019.\n\nJohnson was one of LIV Golf’s last men standing this week at the US Open. The two-time major champion got off to a flyer at Shinnecock Hills. However, an eight during his second round largely put paid to his hopes of winning the event for a second time.",
+        "first_seen": "2026-06-21T13:30:19.478573+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -9072,5 +9124,5 @@
       }
     ]
   },
-  "total": 696
+  "total": 700
 }
