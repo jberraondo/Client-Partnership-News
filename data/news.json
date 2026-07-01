@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T16:44:00.488765+00:00",
-  "generated_label": "Wednesday 01 July 2026, 16:44 UTC",
+  "generated_at": "2026-07-01T20:33:02.237962+00:00",
+  "generated_label": "Wednesday 01 July 2026, 20:33 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "F1 lands Flexjet as private aviation supplier; Mercedes and Vercel partner",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHNIM094MEtLNHdhY3JMLXd2NmVTMnFOemtjMDQ0NExPVWxycHlnTDlnT2RycERjMkFST0pOd1h5UHdtaHhRUG52Q1FlX3h3Y2VKa1o2RmZFRloxZE5Nbm43dDVpZEppcEFEd1hIOXk3SXpqVmdfYW91Vk13WWZYenhhNkZ4anFVQ3NqVkZKMHVrTVB0VTFyeXBzWWxYQUZFZ2cwUVJaVQ?oc=5",
+        "published": "2026-07-01T16:52:50+00:00",
+        "published_label": "Wed 01 Jul, 16:52",
+        "summary": "F1 lands Flexjet as private aviation supplier; Mercedes and Vercel partner Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Prem Rugby and Funding Circle renew; Black Knight completes Chiefs takeover",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbk9wZmh1VU9XNmoxSGRWRFBSSk0tbEczcXBrcW5IeXNIRnhpcXRfZzliUTlYTmlWaGpraDYyRTN6OUxaNzAzVUFMdWl3dFI0cXFSaG56bG5EbHl1VzZMMmJqOF9qb1ZEUzBmZm1sNW9PSE1lQWhuSVJMZVNXTXJ3NW9UYmhXczJVYnRrNmpQYkY4QjY3bkdDMWtZWjcxaV9MUnhEbElDRTk?oc=5",
+        "published": "2026-07-01T16:52:50+00:00",
+        "published_label": "Wed 01 Jul, 16:52",
+        "summary": "Prem Rugby and Funding Circle renew; Black Knight completes Chiefs takeover Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Sam Altman: This is how we can make AI safe for everyone",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91cmpqWEl2RHZDTE5uMGlTZm5vMXdJSXZkUGdFanZrY2dIWE1zaTh4c0diTngtazEzZHlWdGRhV1ZsR2hOQjJwOEVVbDVpR3BZNTJzNnJSMjktNDVFSVZYa0o3ejVwNml2SUs0bUVzUnk?oc=5",
+        "published": "2026-07-01T16:23:20+00:00",
+        "published_label": "Wed 01 Jul, 16:23",
+        "summary": "Sam Altman: This is how we can make AI safe for everyone Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -37,6 +76,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Scientists unveil synthetic cells to power low-carbon factories",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWZIYTlUR2J4WFB3XzRPN3pURURrM3hzT2RmREN5cVpiZGpRUmN3Q1NsMExRbG9aMlpzM21qczQtaG5VVEdxVDhQekJCdTZTR0hqVjNIalRZRzk1c0ZaTmN6WjcwdFVNMll3R3JBUEhLZjRsTzNtdkE4ZUNOa1lGTGF0ZUo?oc=5",
+        "published": "2026-07-01T14:00:07+00:00",
+        "published_label": "Wed 01 Jul, 14:00",
+        "summary": "Scientists unveil synthetic cells to power low-carbon factories Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -206,6 +258,32 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-01T14:00:36.595047+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Rewiring sport: How technology is helping athletes break barriers",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTJpNElYSU5FZ2d0Rl8wWVRsNktHcDE1YWxGQkJwcTZ2TnEzYk0wMFJvODB3VzdBRWNTeWdkcFRzNnBwam9wUFMyUFVOLTFZZmYxS3d5b1lSSlpmUXFSa0V5eURna2hReFlSZ0lqc2NpdVFuaVhlM0tMU2JaNVBfMmg1QWg?oc=5",
+        "published": "2026-07-01T04:15:21+00:00",
+        "published_label": "Wed 01 Jul, 04:15",
+        "summary": "Rewiring sport: How technology is helping athletes break barriers Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Wall Street’s $60tn nepo baby boom",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTJ3TzctVXNrSEsxcnpXSDlGUkV4QlJvUGcxQ3l4LUFBeWI4WVJOV3ZzMXZxWEVsOG9JWExTS0EwZVBJVXM2Y21UWW1pQ0d4S3pfRFhIVHk2SkxIaEFtMVJoRE9BX2Jsa181RkhaVmtGai1xYjlYcFJubl9HTnQ3aEliQlM?oc=5",
+        "published": "2026-07-01T04:01:42+00:00",
+        "published_label": "Wed 01 Jul, 04:01",
+        "summary": "Wall Street’s $60tn nepo baby boom Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1870,48 +1948,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "HSBC watch",
-        "kind": "gnews",
-        "title": "Toowoomba rugby talent retires on a high with international title win",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVXdOcUQyM05kZWNOcUxlTUdKZ3pWdzBWQWZwNVFteGJGaWw1bGt2bnpMNmZFbTZneF8wZFZVVGVXMjc1c3lDNUJQay14dHNxcTdDdXg2cnB3YkRlaVJ5SDVPNEhJeWdfUGl6bGpxWTZSU1EtQk1UX0FoX2stOHI0X3lLc2xhQjhpT3RnMGlORXpmV1JnNE5LVFB3bUxTRDZUUkEwX3pVRFhsSGVBTnpyYUNpQjU3TVlsVEtJUW5XdnFhSnk1M0dHam85M24xNGpVR3FydkVBSEpZdlFWWllfYjRGR3VvRnZrdF9UTWxTNNIB9AFBVV95cUxOMmdELUxhS2FzMkxuQ2NmeUQ4eXdESmhyS0pkd29XdTR3NzZ6aFJUU1ktZXVLeEpsWjBlS3VMOUJ5ekk5dDYzWVk0RGQ1VTg3STdPSHVoa2t5VkozdVdLVXFTZlF5UjROM2Z5ZGRSeC1xY29PcWpsTUVZMlpGM1Q0WXZvdmNIY2s2R0U5aU52N2Y1ZG5vWlFVdHdOQjRkRmZiaTRLMXRZSXJHNjZZX1MzTVlIMGltM0RhbUNidUZnbVlKUHFZZTRJbnM2WnYxdklXYUpqYzhqOHZxVUZyMzFCZklXOVBiNTBoWUZvbVBvbnVKVHdj?oc=5",
-        "published": "2026-06-24T19:00:00+00:00",
-        "published_label": "Wed 24 Jun, 19:00",
-        "summary": "Toowoomba rugby talent retires on a high with international title win The Chronicle | The Chronicle",
-        "body": "You might have been detected and blocked as a crawler bot! News Corp Australia uses software that manages crawler bot traffic on our websites. If you receive this message and are not a crawler bot (and are just a reader or subscriber), please try these steps first:\n\n- Ensure your browser supports JavaScript (this can be done via accessing https://www.whatismybrowser.com/detect/is-javascript-enabled in your browser) If you still need to be unlocked as a reader, subscriber or crawler bot, please e-mail us at accessissues@news.com.au and provide the IP address and reference number shown here along with why you require access.",
-        "copy": "You might have been detected and blocked as a crawler bot! News Corp Australia uses software that manages crawler bot traffic on our websites. If you receive this message and are not a crawler bot (and are just a reader or subscriber), please try these steps first:\n\n- Ensure your browser supports JavaScript (this can be done via accessing https://www.whatismybrowser.com/detect/is-javascript-enabled in your browser) If you still need to be unlocked as a reader, subscriber or crawler bot, please e-mail us at accessissues@news.com.au and provide the IP address and reference number shown here along with why you require access.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Wimbledon tennis stars plan protest despite 20% rise in prize money",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XN2VybHFlT0ZmTGRlNjRWVWdzRWZodUVSMnNUVElTazJCNDU0OEFHSjJDZmNfcUlWQlRtNzI0VDFQNlR4blRRcDk1UmkzSEpyY2NlUklXSTJ6X2JDaFN5VE5uR3I1SXBLV2NydHpRM1Y?oc=5",
-        "published": "2026-06-24T18:08:37+00:00",
-        "published_label": "Wed 24 Jun, 18:08",
-        "summary": "Wimbledon tennis stars plan protest despite 20% rise in prize money Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Wimbledon tennis stars plan protest despite 20% rise in prize money",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUdWbDJfYVpVeXVHZTJXQWNDTng0RHRGYVBMZDYzTHZIZXU1aGtzRmw0am9qWkczXzk4QUFlamN5UllRY2lPVE9zUUl6dmpSMjBsUDRzcDBfSzlob210dDcwVjZ0YUlUNEFObng0eU04UEVKZ0hhekV2VDg0VXpqeG42Qmg?oc=5",
-        "published": "2026-06-24T18:08:37+00:00",
-        "published_label": "Wed 24 Jun, 18:08",
-        "summary": "Wimbledon tennis stars plan protest despite 20% rise in prize money Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-06-25T16:38:34.372732+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Zackary to hit Eagles half century on Fourth of July against Springboks Women",
+        "link": "https://www.rugbypass.com/news/zackary-to-hit-eagles-half-century-on-fourth-of-july-against-springboks-women/",
+        "published": "2026-07-01T17:02:13+00:00",
+        "published_label": "Wed 01 Jul, 17:02",
+        "summary": "Kate Zackary will win her 50th cap for the USA Women's Eagles on the same day her country celebrates 250 years of independence.",
+        "body": "Kate Zackary will win her 50th cap for the USA Women’s Eagles on the same day her country celebrates 250 years of independence. The 36-year-old will play against the Springboks Women just six days after she captained Trailfinders Women in the Premiership Women’s Rugby Final loss to Saracens at the Twickenham Stoop.\n\nZackary, who will have a new club for the 2026/27 season, will play in the Ellis Park fixture ahead of South Africa men’s Nations Championship opener against England at the same venue. She has played for the USA women’s XVs side for the past decade and at three Women’s Rugby World Cups.",
+        "copy": "Kate Zackary will win her 50th cap for the USA Women’s Eagles on the same day her country celebrates 250 years of independence. The 36-year-old will play against the Springboks Women just six days after she captained Trailfinders Women in the Premiership Women’s Rugby Final loss to Saracens at the Twickenham Stoop.\n\nZackary, who will have a new club for the 2026/27 season, will play in the Ellis Park fixture ahead of South Africa men’s Nations Championship opener against England at the same venue. She has played for the USA women’s XVs side for the past decade and at three Women’s Rugby World Cups.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4238,71 +4290,6 @@
         "body": "While George North has been getting most of the attention this week, it is another Welsh international who starts for Barbarians against Wales on Saturday. Hooker Elliot Dee will be in the Baa-Baas line-up for the uncapped match at the Allianz Stadium in Twickenham, while North will bring down his glittering professional career when he comes off the replacements bench.\n\nThe two Welshmen are rooming together in London as they prepare to face the country they have represented for more than a decade. \"It's going to be interesting, something I've never done before.",
         "copy": "While George North has been getting most of the attention this week, it is another Welsh international who starts for Barbarians against Wales on Saturday. Hooker Elliot Dee will be in the Baa-Baas line-up for the uncapped match at the Allianz Stadium in Twickenham, while North will bring down his glittering professional career when he comes off the replacements bench.\n\nThe two Welshmen are rooming together in London as they prepare to face the country they have represented for more than a decade. \"It's going to be interesting, something I've never done before.",
         "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wales and Barbarians ready to add to rich history",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm2jemv81n9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-24T20:28:04+00:00",
-        "published_label": "Wed 24 Jun, 20:28",
-        "summary": "Wales and the Barbarians will add another chapter to their rich history in a double-header in London on Saturday.",
-        "body": "Wales will add another chapter to the historic fixture against the Barbarians when playing a double-header in Twickenham at the end of the month. Steve Tandy's men will warm up for their Nations Championship Tests when facing the invitational side at 14:00 BST on Saturday, 27 June before Sean Lynn's women take to the field at Allianz Stadium at 17:00 BST.\n\nThe teams played a double-header in Cardiff seven years ago and now meet at the home of English rugby in an event hosted by Barbarians. Before the start of another summer of international rugby, BBC Sport Wales looks back at the historic fixture.",
-        "copy": "Wales will add another chapter to the historic fixture against the Barbarians when playing a double-header in Twickenham at the end of the month. Steve Tandy's men will warm up for their Nations Championship Tests when facing the invitational side at 14:00 BST on Saturday, 27 June before Sean Lynn's women take to the field at Allianz Stadium at 17:00 BST.\n\nThe teams played a double-header in Cardiff seven years ago and now meet at the home of English rugby in an event hosted by Barbarians. Before the start of another summer of international rugby, BBC Sport Wales looks back at the historic fixture.",
-        "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Telusa Veainu: ‘There’s something spiritual, a feeling of home when I go back to the Tonga team’",
-        "link": "https://www.rugbypass.com/plus/telusa-veainu-theres-something-spiritual-a-feeling-of-home-when-i-go-back-to-the-tonga-team/",
-        "published": "2026-06-24T20:04:15+00:00",
-        "published_label": "Wed 24 Jun, 20:04",
-        "summary": "The veteran full-back thought his country \"might have run out of players\" when he was recalled for the Nations Cup, but is relishing his return.",
-        "body": "The trio of Telusa Veainu, Logo Mulipola and Semesa Rokoduguni have an affectionate nickname among their younger peers at Doncaster. Having ‘the pensioners’ around, combined age 112, comes with considerable benefits, passing on what it takes to play at the top.\n\n“We’re all mentally the same age [as the younger players], but physically, we are all probably feeling it a lot more, taking a lot more time to recover,” Veainu admits. There will be little opportunity to rest for the 35-year-old this summer. A recall by Tonga to play in the Nations Cup, two years after Veainu’s last cap against Spain, came as a most welcome surprise.",
-        "copy": "The trio of Telusa Veainu, Logo Mulipola and Semesa Rokoduguni have an affectionate nickname among their younger peers at Doncaster. Having ‘the pensioners’ around, combined age 112, comes with considerable benefits, passing on what it takes to play at the top.\n\n“We’re all mentally the same age [as the younger players], but physically, we are all probably feeling it a lot more, taking a lot more time to recover,” Veainu admits. There will be little opportunity to rest for the 35-year-old this summer. A recall by Tonga to play in the Nations Cup, two years after Veainu’s last cap against Spain, came as a most welcome surprise.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Beating the Barbarians would be everything",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cp8rwr49rx1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-24T17:33:51+00:00",
-        "published_label": "Wed 24 Jun, 17:33",
-        "summary": "Wales head coach Sean Lynn says beating the Barbarians on Saturday would mean everything to his side.",
-        "body": "Wales head coach Sean Lynn says beating the Barbarians on Saturday would mean everything to his side. Wales head to Allianz Stadium on a nine Test losing streak and will be without some of their Premiership Women's Rugby (PWR) stars for the double-header involving the Wales and Baa-baas men's teams.\n\nIt means Lynn will look to Wales' next generation of talent as they prepare to come up against some megastars of the women's game. \"You look at 10, 12, 13, they're very exciting for the Barbarians and then you've got Ruby Tui who's going to be explosive,\" said Lynn.",
-        "copy": "Wales head coach Sean Lynn says beating the Barbarians on Saturday would mean everything to his side. Wales head to Allianz Stadium on a nine Test losing streak and will be without some of their Premiership Women's Rugby (PWR) stars for the double-header involving the Wales and Baa-baas men's teams.\n\nIt means Lynn will look to Wales' next generation of talent as they prepare to come up against some megastars of the women's game. \"You look at 10, 12, 13, they're very exciting for the Barbarians and then you've got Ruby Tui who's going to be explosive,\" said Lynn.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'Devastating' Bermudez signs on for more with Loughborough",
-        "link": "https://www.rugbypass.com/news/devastating-bermudez-signs-on-for-more-with-loughborough/",
-        "published": "2026-06-24T17:08:03+00:00",
-        "published_label": "Wed 24 Jun, 17:08",
-        "summary": "Canada wing Fancy Bermudez claimed she had found a \"sense of family\" upon re-signing for Premiership Women's Rugby club Loughborough Lightning.",
-        "body": "Canada wing Fancy Bermudez claimed she had found a “sense of family” upon re-signing for Premiership Women’s Rugby club Loughborough Lightning. The 24-year-old made 12 appearances in her first season with the East Midlanders and scored 12 tries. Loughborough finished sixth in the PWR table and enjoyed a bright start to the campaign.\n\nBermudez also spent chunks of the season with Canada Women’s Sevens and competed in HSBC SVNS Series and World Championship competitions. “My main reason for re-signing was the culture and this environment,” Bermudez said. “It has been so refreshing for me; I’ve only been on a select few teams that have given me a sense of family.",
-        "copy": "Canada wing Fancy Bermudez claimed she had found a “sense of family” upon re-signing for Premiership Women’s Rugby club Loughborough Lightning. The 24-year-old made 12 appearances in her first season with the East Midlanders and scored 12 tries. Loughborough finished sixth in the PWR table and enjoyed a bright start to the campaign.\n\nBermudez also spent chunks of the season with Canada Women’s Sevens and competed in HSBC SVNS Series and World Championship competitions. “My main reason for re-signing was the culture and this environment,” Bermudez said. “It has been so refreshing for me; I’ve only been on a select few teams that have given me a sense of family.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'She is a natural leader': USA international to exit Trailfinders",
-        "link": "https://www.rugbypass.com/news/she-is-a-natural-leader-usa-international-to-exit-trailfinders/",
-        "published": "2026-06-24T17:05:19+00:00",
-        "published_label": "Wed 24 Jun, 17:05",
-        "summary": "Experienced USA Women's Eagles back-row Kate Zackary will leave Trailfinders Women after the Premiership Women's Rugby Final this Sunday.",
-        "body": "Experienced USA Women’s Eagles back-row Kate Zackary will leave Trailfinders Women after the Premiership Women’s Rugby Final this Sunday. The 37-year-old forward, who has represented her country at three Women’s Rugby World Cups, has spent the last three seasons in West London and has been a key player for Barney Maddison’s team.\n\nZackary joined Trailfinders after three years with Exeter Chiefs in Devon. Upon her arrival in London the forward became a fan favourite and could cap her time with the team with an English league title at the Twickenham Stoop this weekend.",
-        "copy": "Experienced USA Women’s Eagles back-row Kate Zackary will leave Trailfinders Women after the Premiership Women’s Rugby Final this Sunday. The 37-year-old forward, who has represented her country at three Women’s Rugby World Cups, has spent the last three seasons in West London and has been a key player for Barney Maddison’s team.\n\nZackary joined Trailfinders after three years with Exeter Chiefs in Devon. Upon her arrival in London the forward became a fan favourite and could cap her time with the team with an English league title at the Twickenham Stoop this weekend.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
       }
     ],
     "Tennis": [
@@ -4310,14 +4297,105 @@
         "section": "Tennis",
         "source": "BBC Sport",
         "kind": "direct",
-        "title": "Osaka proving showstopper on and off court",
+        "title": "Krejcikova stuns Andreeva on 'best court in world'",
         "link": "https://www.bbc.co.uk/sport/tennis/articles/cq61q1y82jzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-01T16:32:31+00:00",
-        "published_label": "Wed 01 Jul, 16:32",
-        "summary": "Naomi Osaka continues to prove a showstopper on and off the court at this year's Wimbledon, as she arrives in a new outfit before reaching the third round.",
-        "body": "Another day, another stunning Wimbledon outfit for Naomi Osaka. After the four-time Grand Slam champion arrived for her opening match at the All England Club in an elegant, full-length kimono - entirely white to adhere to the tournament's strict dress code - Osaka chose to \"mix it up a little bit\".\n\nReturning to action on Wednesday, the 28-year-old combined a white jacket with floral pattern with a long train that trailed behind her, attached to her waist by an obi - a large, decorative belt traditionally worn with a kimono.",
-        "copy": "Another day, another stunning Wimbledon outfit for Naomi Osaka. After the four-time Grand Slam champion arrived for her opening match at the All England Club in an elegant, full-length kimono - entirely white to adhere to the tournament's strict dress code - Osaka chose to \"mix it up a little bit\".\n\nReturning to action on Wednesday, the 28-year-old combined a white jacket with floral pattern with a long train that trailed behind her, attached to her waist by an obi - a large, decorative belt traditionally worn with a kimono.",
+        "published": "2026-07-01T19:53:12+00:00",
+        "published_label": "Wed 01 Jul, 19:53",
+        "summary": "Barbora Krejcikova dedicates her stunning Wimbledon second-round win over fifth seed Mirra Andreeva to her tennis-loving niece, who is back home with chickenpox.",
+        "body": "Barbora Krejcikova dedicated her thrilling three-set Wimbledon win over French Open champion Mirra Andreeva to her tennis-loving niece, who was stuck at home with chickenpox. The Czech, who won the women's singles title at Wimbledon in 2024, toppled the fifth seed 4-6 7-5 6-4 after almost three gruelling hours on court.\n\nKrejcikova came close to letting victory slip from her grasp as she missed six match points at 5-3 up in the deciding set, but she regained her composure to see out victory a game later as Andreeva's emotions got the better of her.",
+        "copy": "Barbora Krejcikova dedicated her thrilling three-set Wimbledon win over French Open champion Mirra Andreeva to her tennis-loving niece, who was stuck at home with chickenpox. The Czech, who won the women's singles title at Wimbledon in 2024, toppled the fifth seed 4-6 7-5 6-4 after almost three gruelling hours on court.\n\nKrejcikova came close to letting victory slip from her grasp as she missed six match points at 5-3 up in the deciding set, but she regained her composure to see out victory a game later as Andreeva's emotions got the better of her.",
         "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'A bit of magic!'",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/c8r21754pg5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T19:09:14+00:00",
+        "published_label": "Wed 01 Jul, 19:09",
+        "summary": "Enjoy the best shots from day three of Wimbledon 2026, featuring Coco Gauff and French Open champion Mirra Andreeva.",
+        "body": "",
+        "copy": "Enjoy the best shots from day three of Wimbledon 2026, featuring Coco Gauff and French Open champion Mirra Andreeva.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Kyrgios swears at umpire on Wimbledon return",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c2ky8e15l0go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T18:05:58+00:00",
+        "published_label": "Wed 01 Jul, 18:05",
+        "summary": "Nick Kyrgios swears at an umpire and says he does not care if he is fined as his return to Wimbledon ends in defeat in the men's doubles.",
+        "body": "Nick Kyrgios swore at an umpire and said he did not care if he was fined as his return to Wimbledon ended in defeat in the men's doubles. The Australian was contesting his first match at the All England Club since losing the 2022 final against Novak Djokovic, having been plagued by injury in recent years.\n\nThe 31-year-old, who has a current world ranking of 899, was not offered a wildcard for the singles competition. Partnering Alexander Bublik in the doubles, the pair lost 6-3 6-4 to sixth seeds Marcelo Arevalo and Mate Pavic.",
+        "copy": "Nick Kyrgios swore at an umpire and said he did not care if he was fined as his return to Wimbledon ended in defeat in the men's doubles. The Australian was contesting his first match at the All England Club since losing the 2022 final against Novak Djokovic, having been plagued by injury in recent years.\n\nThe 31-year-old, who has a current world ranking of 899, was not offered a wildcard for the singles competition. Partnering Alexander Bublik in the doubles, the pair lost 6-3 6-4 to sixth seeds Marcelo Arevalo and Mate Pavic.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Defending champion Sinner beats Borges to reach round three",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/cj6gdj8e04ro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T17:24:00+00:00",
+        "published_label": "Wed 01 Jul, 17:24",
+        "summary": "World number one Jannik Sinner overcomes a stern test against Portugal's Nuno Borges on Centre Court, securing a 7-6 (7-4), 7-6 (7-2), 6-4 victory to advance to the third round.",
+        "body": "",
+        "copy": "World number one Jannik Sinner overcomes a stern test against Portugal's Nuno Borges on Centre Court, securing a 7-6 (7-4), 7-6 (7-2), 6-4 victory to advance to the third round.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Full match replay: Serena returns alongside Mboko for memorable 2026 Queen's Club victory",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWXdoQ2d1R1h4R2I2NlVPZHFhQkVnSUVfMG8wSWhRYW9hekNlVlIxdHhSZ3o5VHlxcXJ5NFYtUEJWU3RoM3NpekVrMkQ4RUpxaHhUR2lZMzBUWDBaZFE5TlFZTnBVNjExTjRWek5ySXg5b01UYkN3MWtySFVTYVI3NUprWVhlS2QyN3EzNzNQMU5oVnBnWlpMcUhpbnBxdzR2UEpSbW5PNlZHVkMyTjhXek9hVkRsRDdtUThRU3RhOWNscHh2aXZv?oc=5",
+        "published": "2026-07-01T17:21:29+00:00",
+        "published_label": "Wed 01 Jul, 17:21",
+        "summary": "Full match replay: Serena returns alongside Mboko for memorable 2026 Queen's Club victory WTA Tennis",
+        "body": "We use cookies to enhance and personalize your experience with the WTA. Please let us know if you agree to the storing and use of cookies on your device. Cookie Policy Privacy Policy\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.",
+        "copy": "We use cookies to enhance and personalize your experience with the WTA. Please let us know if you agree to the storing and use of cookies on your device. Cookie Policy Privacy Policy\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Eastbourne withdrawal pays off for positive Fearnley",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cm20xre32y5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T16:59:14+00:00",
+        "published_label": "Wed 01 Jul, 16:59",
+        "summary": "Jacob Fearnley says his stunning comeback win over Alex Michelsen at Wimbledon justified his decision to pull out of Eastbourne with a back problem.",
+        "body": "Jacob Fearnley says his stunning comeback win over Alex Michelsen at Wimbledon justified his decision to pull out of Eastbourne last week with a back problem. The 24-year-old Scot beat the American 3-6 4-6 6-2 6-3 6-2 to set up a second-round match against Spain's Jaume Munar.\n\n\"Eastbourne is a big event, but I knew I wanted to be ready for Wimbledon and I wanted to play my best tennis at Wimbledon,\" Fearnley told the BBC when looking forward to Thursday afternoon's game on Court 12.",
+        "copy": "Jacob Fearnley says his stunning comeback win over Alex Michelsen at Wimbledon justified his decision to pull out of Eastbourne last week with a back problem. The 24-year-old Scot beat the American 3-6 4-6 6-2 6-3 6-2 to set up a second-round match against Spain's Jaume Munar.\n\n\"Eastbourne is a big event, but I knew I wanted to be ready for Wimbledon and I wanted to play my best tennis at Wimbledon,\" Fearnley told the BBC when looking forward to Thursday afternoon's game on Court 12.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "The 'bad boy with a good heart' waves farewell at Wimbledon",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cewqzq2dwr8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T16:52:59+00:00",
+        "published_label": "Wed 01 Jul, 16:52",
+        "summary": "Dan Evans bids an emotional farewell at Wimbledon as he and Henry Searle lose in the final match of the Briton's career.",
+        "body": "Dan Evans is the first to admit he is not everybody's cup of tea. The former British number one, who brought the curtain down on his career at Wimbledon on Wednesday, is never afraid to say what he thinks and wears his heart on his sleeve.\n\nEvans' outspoken nature has tended to annoy those in positions of power - and was perhaps one of the reasons why he did not receive a Wimbledon singles wildcard. The 36-year-old was given a place in the SW19 men's doubles with his protege Henry Searle, but fought back the tears as he waved an emotional goodbye following their 6-2 6-4 first-round defeat by Hugo Nys and Edouard Roger-Vasselin.",
+        "copy": "Dan Evans is the first to admit he is not everybody's cup of tea. The former British number one, who brought the curtain down on his career at Wimbledon on Wednesday, is never afraid to say what he thinks and wears his heart on his sleeve.\n\nEvans' outspoken nature has tended to annoy those in positions of power - and was perhaps one of the reasons why he did not receive a Wimbledon singles wildcard. The 36-year-old was given a place in the SW19 men's doubles with his protege Henry Searle, but fought back the tears as he waved an emotional goodbye following their 6-2 6-4 first-round defeat by Hugo Nys and Edouard Roger-Vasselin.",
+        "first_seen": "2026-07-01T14:00:36.595047+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Serena Williams comeback: What's next for 23-time Grand Slam champion after Wimbledon singles defeat - will she play US Open?",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOU9tUTRHVGRfdnFlT0E4ZWZoTUR1ZEtwYkZHSHRQb1lRY19WcXQtTkk5SHhscUowY29remRZSVdPWUExb1NzWlM0M285QXV0S3AyUlljbjNKOU9qbk1qdmswYlliNlpTSk9PZWVodWQwa2ZyS09rMG5lcmUyWWRiQU1Lekp3NjRBRVBBZ0tveFk4S0IxMUxFdmhpS2RjOU9CRzJZcjY4TGxTR0lJSDFhc0U2V1J0NTRwRU84QWJkTl9GZ0FEaVJnRFFNVnM1eHNBdENjdTlreFFCMUpXenQ0c2xibG5oUXFWSTZCdVJCZnI1elVvNnFhR3RyMnFldFJSUjFJ?oc=5",
+        "published": "2026-07-01T16:31:23+00:00",
+        "published_label": "Wed 01 Jul, 16:31",
+        "summary": "Serena Williams comeback: What's next for 23-time Grand Slam champion after Wimbledon singles defeat - will she play US Open? Sky Sports",
+        "body": "Serena Williams comeback: What's next for 23-time Grand Slam champion after Wimbledon singles defeat - will she play US Open? Serena Williams lost on her much-anticipated comeback at Wimbledon but showed flashes of her best after four-year absence, what does she do next? Watch the US Open live on Sky Sports Tennis and Sky Sports+ from Sunday August 23 to September 13\n\nSerena Williams rolled back the years as she treated the lucky ticket holders on Centre Court and the millions more watching on TV to a night of pure drama at Wimbledon in her comeback match on Tuesday evening.",
+        "copy": "Serena Williams comeback: What's next for 23-time Grand Slam champion after Wimbledon singles defeat - will she play US Open? Serena Williams lost on her much-anticipated comeback at Wimbledon but showed flashes of her best after four-year absence, what does she do next? Watch the US Open live on Sky Sports Tennis and Sky Sports+ from Sunday August 23 to September 13\n\nSerena Williams rolled back the years as she treated the lucky ticket holders on Centre Court and the millions more watching on TV to a night of pure drama at Wimbledon in her comeback match on Tuesday evening.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
       },
       {
         "section": "Tennis",
@@ -4362,19 +4440,6 @@
         "section": "Tennis",
         "source": "BBC Sport",
         "kind": "direct",
-        "title": "'Everything was worth it'",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cewqzq2dwr8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-01T12:44:45+00:00",
-        "published_label": "Wed 01 Jul, 12:44",
-        "summary": "Dan Evans bids an emotional farewell at Wimbledon as he and Henry Searle lose in the final match of the Briton's career.",
-        "body": "Dan Evans bid an emotional farewell to Wimbledon as his career came to an end after he and fellow Briton Henry Searle lost their men's doubles match. The 36-year-old announced in June that he would retire after the Championships, but he did not play in the singles after missing out on a wildcard and then losing in qualifying.\n\nEvans was left holding back tears as he signed autographs for those who had packed on to court 15 to watch his and Searle's 6-2 6-4 first-round loss to ninth seeds Hugo Nys and Edouard Roger-Vasselin.",
-        "copy": "Dan Evans bid an emotional farewell to Wimbledon as his career came to an end after he and fellow Briton Henry Searle lost their men's doubles match. The 36-year-old announced in June that he would retire after the Championships, but he did not play in the singles after missing out on a wildcard and then losing in qualifying.\n\nEvans was left holding back tears as he signed autographs for those who had packed on to court 15 to watch his and Searle's 6-2 6-4 first-round loss to ninth seeds Hugo Nys and Edouard Roger-Vasselin.",
-        "first_seen": "2026-07-01T14:00:36.595047+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
         "title": "Williams' knee injury leaves Wimbledon doubles in doubt",
         "link": "https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o?at_medium=RSS&at_campaign=rss",
         "published": "2026-07-01T12:41:57+00:00",
@@ -4396,6 +4461,19 @@
         "body": "Sky Sports commentary Jonathan Overend said Serena Williams' comeback last night was \"like being on the set of a movie\" and hopes to see her play at tune-up events for the US Open, where he expects her to play singles and doubles.\n\n\"She can talk about playing in front of her daughters, which must have been a very rewarding experience for them to see her play at that sort of level on the stage on which she's won so much.",
         "copy": "Sky Sports commentary Jonathan Overend said Serena Williams' comeback last night was \"like being on the set of a movie\" and hopes to see her play at tune-up events for the US Open, where he expects her to play singles and doubles.\n\n\"She can talk about playing in front of her daughters, which must have been a very rewarding experience for them to see her play at that sort of level on the stage on which she's won so much.",
         "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu withdraws from Wimbledon with right leg injury",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEU0YS00alYzSW9NdTZZeWRrVTFFMlhmTzIxbTNzZXhTY1QyUjg5U25VeS1KWXRpVkpxR1FPUm1qMWRyeFVwems2UllLN0pQdWtQbHNPZnZoWTN0dy05dnRMcC1YZGlnWFdUaFg5RFE3b2R0WnFyZi1WU0RmZkw4bGpGT2NEaFlENVF4SnllazNQdDQ0RkVkbQ?oc=5",
+        "published": "2026-07-01T11:51:00+00:00",
+        "published_label": "Wed 01 Jul, 11:51",
+        "summary": "Emma Raducanu withdraws from Wimbledon with right leg injury The New York Times",
+        "body": "ALL ENGLAND CLUB, London — Emma Raducanu has withdrawn from Wimbledon with a stress fracture in her lower leg. The highest-ranked British player in the women’s draw, Raducanu was seeded No. 30 and had been scheduled to play Croatia’s Antonia Ružić Monday. She said in a news conference Sunday afternoon that her plan was still to play the event despite what she called a “lower leg niggle”.\n\nAfter missing practice earlier in the week and then cutting a session short on Saturday, however, Raducanu wrote on Instagram Sunday night that: “I can’t believe I’m saying this, but sadly I’ve had to withdraw from this year’s Wimbledon.",
+        "copy": "ALL ENGLAND CLUB, London — Emma Raducanu has withdrawn from Wimbledon with a stress fracture in her lower leg. The highest-ranked British player in the women’s draw, Raducanu was seeded No. 30 and had been scheduled to play Croatia’s Antonia Ružić Monday. She said in a news conference Sunday afternoon that her plan was still to play the event despite what she called a “lower leg niggle”.\n\nAfter missing practice earlier in the week and then cutting a session short on Saturday, however, Raducanu wrote on Instagram Sunday night that: “I can’t believe I’m saying this, but sadly I’ve had to withdraw from this year’s Wimbledon.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
       },
       {
         "section": "Tennis",
@@ -6346,126 +6424,35 @@
         "body": "The All England Club say are \"surprised and disappointed\" after the world's leading players announced they will continue to protest the allocation of Grand Slam prize funds at the upcoming Wimbledon Grand Slam.\n\nEarlier this month it was announced that players will benefit from record prize-money increases at this year's event, with the total prize pot rising by 20 per cent (£10.7m) to £64.2m - the largest in the tournament's history.",
         "copy": "The All England Club say are \"surprised and disappointed\" after the world's leading players announced they will continue to protest the allocation of Grand Slam prize funds at the upcoming Wimbledon Grand Slam.\n\nEarlier this month it was announced that players will benefit from record prize-money increases at this year's event, with the total prize pot rising by 20 per cent (£10.7m) to £64.2m - the largest in the tournament's history.",
         "first_seen": "2026-06-26T13:37:39.430774+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "An orthopaedic boot raises doubts over Emma Raducanu at Wimbledon",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWMydHcyQU1EWlFhWk5oS0t2NVFvZU1ncTdEd3gxdHlnQVd3TE9UQ1BuYVpUNUs5V2RsVHVMNUREM1hQaGpYNnhlMkg2S2plLVlEdldXemhQVGVMM2huQ200R2tENU5ZeUNuYzUzNDh0WjRKd3pwMnZYYjkwS0RHOFBHNXdadVFNd21sOU82VFRabENDN2VvUGFFOWFGWjk1QTB3?oc=5",
-        "published": "2026-06-24T19:25:00+00:00",
-        "published_label": "Wed 24 Jun, 19:25",
-        "summary": "An orthopaedic boot raises doubts over Emma Raducanu at Wimbledon claytenis.com",
-        "body": "LONDON — Emma Raducanu has cast doubt over her participation at Wimbledon after she was spotted at the All England Club wearing an orthopaedic boot. On Wednesday at around six in the evening, the British star left Aorangi Park — Wimbledon’s official practice and warm-up area — with a grey immobilisation boot on her right leg.\n\nAccording to information provided to CLAY at the tournament, Raducanu did not practise today. The 2021 US Open champion is, however, scheduled to train this Thursday at midday on Court 10 in the northern section of the complex.",
-        "copy": "LONDON — Emma Raducanu has cast doubt over her participation at Wimbledon after she was spotted at the All England Club wearing an orthopaedic boot. On Wednesday at around six in the evening, the British star left Aorangi Park — Wimbledon’s official practice and warm-up area — with a grey immobilisation boot on her right leg.\n\nAccording to information provided to CLAY at the tournament, Raducanu did not practise today. The 2021 US Open champion is, however, scheduled to train this Thursday at midday on Court 10 in the northern section of the complex.",
-        "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Draper into last eight to continue injury comeback",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cp9l8pj9d21o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-24T19:00:15+00:00",
-        "published_label": "Wed 24 Jun, 19:00",
-        "summary": "Britain's Jack Draper says his recent injury problems left his confidence levels \"below the floor\" before he reached the quarter-finals in Eastbourne.",
-        "body": "Britain's Jack Draper says his recent injury problems left his confidence levels \"below the floor\". But the 24-year-old continued his comeback with an assured win over compatriot Jack Pinnington Jones to reach the Eastbourne quarter-finals.\n\nDraper played his first competitive match in more than two months on Monday after a knee injury sidelined him in April's Barcelona Open. That was the latest in a long list of injury issues which meant he has played just 13 matches in the past year.",
-        "copy": "Britain's Jack Draper says his recent injury problems left his confidence levels \"below the floor\". But the 24-year-old continued his comeback with an assured win over compatriot Jack Pinnington Jones to reach the Eastbourne quarter-finals.\n\nDraper played his first competitive match in more than two months on Monday after a knee injury sidelined him in April's Barcelona Open. That was the latest in a long list of injury issues which meant he has played just 13 matches in the past year.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Eastbourne: Jack Draper reaches quarter-finals to continue injury comeback",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GOG8wRGR6RlpTSnJMRmQwOVBkRERnYUREQkc2YVhXdlowbWNqQmp6SDNybGVDVlRiNmg5SmlKN3FkXzNiLXhxVWxyaFFHck5udDNaalFIOFc3R0g1a2JKbUdOdm81N0k?oc=5",
-        "published": "2026-06-24T19:00:15+00:00",
-        "published_label": "Wed 24 Jun, 19:00",
-        "summary": "Eastbourne: Jack Draper reaches quarter-finals to continue injury comeback BBC",
-        "body": "Britain's Jack Draper says his recent injury problems left his confidence levels \"below the floor\". But the 24-year-old continued his comeback with an assured win over compatriot Jack Pinnington Jones to reach the Eastbourne quarter-finals.\n\nDraper played his first competitive match in more than two months on Monday after a knee injury sidelined him in April's Barcelona Open. That was the latest in a long list of injury issues which meant he has played just 13 matches in the past year.",
-        "copy": "Britain's Jack Draper says his recent injury problems left his confidence levels \"below the floor\". But the 24-year-old continued his comeback with an assured win over compatriot Jack Pinnington Jones to reach the Eastbourne quarter-finals.\n\nDraper played his first competitive match in more than two months on Monday after a knee injury sidelined him in April's Barcelona Open. That was the latest in a long list of injury issues which meant he has played just 13 matches in the past year.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "'I love Eastbourne, thank you guys' - Jack Draper continues comeback with big win amid vocal support from Andy Murray",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYVQtYUdlV0NHLXM2Q1BkRGVUNnZ2NkpYR2FFUW5scWJQTDRQTTI5NE8wcGdpdVFrTGdRUlQwSmlYYzM3NExpX0pGY2lHM0k5a3h1b3JqUWdHWFdmbG9FUVJYNmZQREQtakhJRVJfcW1yYTVubF96cmpUQzMtZjJUS2doX0FZU0c1OC0xNjRNT2ltalh0ZGtvNi03MnJ5ajBuRG5TUzB2YmRWS3I4TnJyUy1KMHlRUGp1LURtTWZRalNMRlJvZVdXZ2hxc0JNc0x5akVLcktIRFBETkJxZ0VoLW9Ybm1Jc1pnVlVr?oc=5",
-        "published": "2026-06-24T18:49:00+00:00",
-        "published_label": "Wed 24 Jun, 18:49",
-        "summary": "'I love Eastbourne, thank you guys' - Jack Draper continues comeback with big win amid vocal support from Andy Murray SussexWorld",
-        "body": "Home favourite Jack Draper booked his place in the Eastbourne quarter-finals with a straight-sets victory over fellow Brit Jack Pinnington Jones, winning 7-5, 6-4 in an entertaining battle.\n\nDraper, 24, was forced to work hard for the win and was broken while serving for the opening set at 5-4, having also failed to close out his previous-round match against Marcos Giron at the first attempt.",
-        "copy": "Home favourite Jack Draper booked his place in the Eastbourne quarter-finals with a straight-sets victory over fellow Brit Jack Pinnington Jones, winning 7-5, 6-4 in an entertaining battle.\n\nDraper, 24, was forced to work hard for the win and was broken while serving for the opening set at 5-4, having also failed to close out his previous-round match against Marcos Giron at the first attempt.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper Reaches Last Eight Of Comeback Event In Eastbourne",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnJ0V2pVYnVuSXdvX1gxRWhoa3IxS29TakxvVEtXX3lNQ1VJVjNDMEZVa29samZiQXo2T0VXcFB6MGIyOUZFVTgyWnZsMnhEclAtQ0tiTXk5SXhqLUlUbnNXV2Jvc1pBS21GbDlWYTdyVHpxc2F2ekdvZkdSX2Z4N0o0NWNDZU9mTnFaMFVQUVJId3RubWNQM21TYjQzdw?oc=5",
-        "published": "2026-06-24T18:26:28+00:00",
-        "published_label": "Wed 24 Jun, 18:26",
-        "summary": "Jack Draper Reaches Last Eight Of Comeback Event In Eastbourne ubitennis.net",
-        "body": "Jack Draper has recorded back-to-back wins on the Tour for the first time since March after beating compatriot Jack Pinnington Jones in the second round of the Eastbourne Open.\n\nDraper, who until this week had been sidelined from action for two months due to a right knee tendon injury, edged out Pinnington Jones 7-5, 6-4. The Brit was given a stern test during the match, especially towards the end of the first set, when he was broken while serving at 5-4. Despite the blip, Draper regained control of the match by winning four consecutive games and didn’t face a break point throughout the second set.",
-        "copy": "Jack Draper has recorded back-to-back wins on the Tour for the first time since March after beating compatriot Jack Pinnington Jones in the second round of the Eastbourne Open.\n\nDraper, who until this week had been sidelined from action for two months due to a right knee tendon injury, edged out Pinnington Jones 7-5, 6-4. The Brit was given a stern test during the match, especially towards the end of the first set, when he was broken while serving at 5-4. Despite the blip, Draper regained control of the match by winning four consecutive games and didn’t face a break point throughout the second set.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Draper wins British battle against Pinnington Jones",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/cp8rwxpkjj5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-24T18:23:07+00:00",
-        "published_label": "Wed 24 Jun, 18:23",
-        "summary": "Watch Jack Draper's best shots as he beats fellow Brit Jack Pinnington Jones 7-5 6-4 to reach the quarter-finals at Eastbourne Open.",
-        "body": "",
-        "copy": "Watch Jack Draper's best shots as he beats fellow Brit Jack Pinnington Jones 7-5 6-4 to reach the quarter-finals at Eastbourne Open.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Draper continues successful return, reaches Eastbourne QFs",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLQmVIckUyLWh4OWNZdC1Sb2RoUU9Ha0d0TVgtc1lzQ0dMM2hHakV5eGlQTmU5X0M4Vi1Td0txNGFheUtmU1BYbi1LSkg0NUdoUV9kRFlPdU9HQlRCbkpPdk5EcUowbFB2RHVDTEpyN0Fndw?oc=5",
-        "published": "2026-06-24T17:47:56+00:00",
-        "published_label": "Wed 24 Jun, 17:47",
-        "summary": "Draper continues successful return, reaches Eastbourne QFs ATP Tour",
-        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
-        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper continues strong comeback to reach quarter-finals in Eastbourne",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUl3MWVubzhQWUhIbHZ0U0E0Y2VFcXpCODRTQ3NtUlR5anM1SWN0QTduMF9WWkFLTEp5aUpWXzNKU1FEbTZWYW5KTEplZnFIZDM2UWNYdVVKMkhRWEltbFRiVjh2Z21GbndmWDdMWll3T1NLbVEweFZYVXQxSnJYMjg0dTd5RUxxWWRELVl5eWx1Wm1PZDNwMnlKLUVCcHNrUnl4WDRzdmtRQnBnUEtuMVRNMHRDY1lncmt5ZGVn?oc=5",
-        "published": "2026-06-24T17:31:34+00:00",
-        "published_label": "Wed 24 Jun, 17:31",
-        "summary": "Jack Draper continues strong comeback to reach quarter-finals in Eastbourne LTA",
-        "body": "Former world No.4 Jack Draper’s impressive comeback continues after he overcame fellow British star Jack Pinnington Jones to reach the quarter-finals at the Lexus Eastbourne Open.\n\nDraper continued his winning return to action by clinching another straight sets victory over compatriot and good friend Pinnington Jones - winning 7-5, 6-4 to reach the final eight in Eastbourne for the second time in as many appearances.",
-        "copy": "Former world No.4 Jack Draper’s impressive comeback continues after he overcame fellow British star Jack Pinnington Jones to reach the quarter-finals at the Lexus Eastbourne Open.\n\nDraper continued his winning return to action by clinching another straight sets victory over compatriot and good friend Pinnington Jones - winning 7-5, 6-4 to reach the final eight in Eastbourne for the second time in as many appearances.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Players to expand prize money protest at Wimbledon despite 20% increase",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cx2x3x2x60eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-24T17:01:05+00:00",
-        "published_label": "Wed 24 Jun, 17:01",
-        "summary": "Leading tennis players will expand their prize money protest at Wimbledon - despite a 20% increase in this year's pot.",
-        "body": "Leading tennis players will expand their prize money protest at Wimbledon - despite a 20% increase in this year's pot. Some players limited pre-tournament media to 15 minutes at the recent French Open, but will go a step further at Wimbledon.\n\nThey will not only limit the time they offer at the forthcoming media weekend, but are also planning to restrict post-match appearances to 15 minutes throughout the first week of the Championships, which start on Monday.",
-        "copy": "Leading tennis players will expand their prize money protest at Wimbledon - despite a 20% increase in this year's pot. Some players limited pre-tournament media to 15 minutes at the recent French Open, but will go a step further at Wimbledon.\n\nThey will not only limit the time they offer at the forthcoming media weekend, but are also planning to restrict post-match appearances to 15 minutes throughout the first week of the Championships, which start on Monday.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Need new golf shoes? Here are 4 patriotic options for Fourth of July",
+        "link": "https://golf.com/gear/shoes/golf-shoes-fourth-july-red-white-blue-comfort/",
+        "published": "2026-07-01T20:13:09+00:00",
+        "published_label": "Wed 01 Jul, 20:13",
+        "summary": "With Fourth of July approaching, leading brands have marched out a parade of holiday-themed golf shoes. Here are some we like. The post Need new golf shoes? Here are 4 patriotic options for Fourth of July appeared first on Golf .",
+        "body": "Who doesn’t love a parade? Me, actually. But I do enjoy walking a golf course in fashionable footwear. This week, that means red, white and blue golf shoes. Here are four options we like and you might too.\n\n“Tortional rigidity.” That’s a term I hadn’t heard before I came across these kicks. It describes the comfort and support you get from shoes that minimize unnecessary movement, preventing slipping and sliding as you turn. That’s a nice trait. The color scheme and lightweight build are nifty, too.",
+        "copy": "Who doesn’t love a parade? Me, actually. But I do enjoy walking a golf course in fashionable footwear. This week, that means red, white and blue golf shoes. Here are four options we like and you might too.\n\n“Tortional rigidity.” That’s a term I hadn’t heard before I came across these kicks. It describes the comfort and support you get from shoes that minimize unnecessary movement, preventing slipping and sliding as you turn. That’s a nice trait. The color scheme and lightweight build are nifty, too.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This crucial sequencing move will improve your ball-striking consistency",
+        "link": "https://golf.com/instruction/crucial-sequencing-move-improve-ball-striking-consistency/",
+        "published": "2026-07-01T17:58:48+00:00",
+        "published_label": "Wed 01 Jul, 17:58",
+        "summary": "If you want to hit the ball like the pros do, you need to move your body like they do. Here's how it works. The post This crucial sequencing move will improve your ball-striking consistency appeared first on Golf .",
+        "body": "If you want to hit the ball like the pros do, you need to move your body like the pros do. When I say that, I’m not suggesting you need to rotate your hips like Rory McIlroy or shuffle your feet like Scottie Scheffler. Rather, what you need to strive for is to sequence your body the same way they do.\n\nSequencing is a popular buzzword in golf instruction, but all it means is the order in which each body part moves. Sequence your swing correctly and you’ll create crisp contact and effortless power. Do it incorrectly and you’ll introduce a variety of flaws and inconsistencies.",
+        "copy": "If you want to hit the ball like the pros do, you need to move your body like the pros do. When I say that, I’m not suggesting you need to rotate your hips like Rory McIlroy or shuffle your feet like Scottie Scheffler. Rather, what you need to strive for is to sequence your body the same way they do.\n\nSequencing is a popular buzzword in golf instruction, but all it means is the order in which each body part moves. Sequence your swing correctly and you’ll create crisp contact and effortless power. Do it incorrectly and you’ll introduce a variety of flaws and inconsistencies.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6738,6 +6725,19 @@
         "body": "Troon golfer Jack McDonald secured his place at the 154th Open Championship after coming through final qualifying at Dundonald Links. The 33-year-old carded rounds of 70 and 69 to finish five under par, one shot clear of England's Matthew Baldwin and Irish amateur David Howard.\n\nAmerican Marcus Plunkett and Dutch amateur Neville Ruiter claimed the other two qualifying places on offer in Ayrshire after finishing on three under. McDonald, who also qualified for The Open at Royal Troon from Dundonald Links two years ago, believes his familiarity with the course proved invaluable as difficult weather conditions tested the field.",
         "copy": "Troon golfer Jack McDonald secured his place at the 154th Open Championship after coming through final qualifying at Dundonald Links. The 33-year-old carded rounds of 70 and 69 to finish five under par, one shot clear of England's Matthew Baldwin and Irish amateur David Howard.\n\nAmerican Marcus Plunkett and Dutch amateur Neville Ruiter claimed the other two qualifying places on offer in Ayrshire after finishing on three under. McDonald, who also qualified for The Open at Royal Troon from Dundonald Links two years ago, believes his familiarity with the course proved invaluable as difficult weather conditions tested the field.",
         "first_seen": "2026-06-30T20:36:38.026581+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf holds meeting as star claims “we want to play more”",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzhMaEVnZFBoelctVl8xY0VHMUJORzRMM2wwRlZFczVCYlV4elQwVUc0cXFCdVRNeTJJeUtSSUZfaDM0ZHhOTHJaeEhJaUh1WC15M1VFdjhJekQzak5QczQxWlAzbktVZlpBYVNCNU1VMk95N05CZlZxdUdBbVJxNDdSdXZ0TG0xaGNhVWhjX1gtMnB3bTRkSDB2MXI?oc=5",
+        "published": "2026-06-30T16:58:02+00:00",
+        "published_label": "Tue 30 Jun, 16:58",
+        "summary": "LIV Golf holds meeting as star claims “we want to play more” bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV golfer Martin Kaymer has revealed that the league held a ‘really positive’ meeting last night, as uncertainty continues to loom over the future of the circuit.\n\nKaymer, who is playing in this week’s BMW International Open on home soil, said LIV bosses presented investors with a business plan for 2027 – and, notably, that there is interest in funding it.",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV golfer Martin Kaymer has revealed that the league held a ‘really positive’ meeting last night, as uncertainty continues to loom over the future of the circuit.\n\nKaymer, who is playing in this week’s BMW International Open on home soil, said LIV bosses presented investors with a business plan for 2027 – and, notably, that there is interest in funding it.",
+        "first_seen": "2026-07-01T20:33:02.237962+00:00"
       },
       {
         "section": "Golf",
@@ -8025,58 +8025,6 @@
         "body": "CHASKA, Minn. — With sincere apologies to 155 players in the field at this week’s KPMG Women’s PGA Championship at Hazeltine National, one storyline looms above all the others.\n\nKorda has already won the first two majors of 2026 — the Chevron Championship and the U.S. Women’s Open — and she’s now attempting to win a third straight. With a victory this week, she’d be just the third player to win the first three majors of the season (and first since Inbee Park in 2013). But just as importantly, she’d clinch her spot in the LPGA Hall of Fame. The LPGA has a unique points system to gain entry into its hall — no vote necessary — and a major win this week would be worth two points, which would be enough to give Korda the 27 necessary.",
         "copy": "CHASKA, Minn. — With sincere apologies to 155 players in the field at this week’s KPMG Women’s PGA Championship at Hazeltine National, one storyline looms above all the others.\n\nKorda has already won the first two majors of 2026 — the Chevron Championship and the U.S. Women’s Open — and she’s now attempting to win a third straight. With a victory this week, she’d be just the third player to win the first three majors of the season (and first since Inbee Park in 2013). But just as importantly, she’d clinch her spot in the LPGA Hall of Fame. The LPGA has a unique points system to gain entry into its hall — no vote necessary — and a major win this week would be worth two points, which would be enough to give Korda the 27 necessary.",
         "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "KPMG Women's PGA Championship: How to watch, featured groups",
-        "link": "https://golf.com/news/kpmg-womens-pga-championship-how-watch/",
-        "published": "2026-06-24T18:03:49+00:00",
-        "published_label": "Wed 24 Jun, 18:03",
-        "summary": "Here's how to watch the KPMG Women's PGA Championship, which includes streaming information and bonus featured-group coverage. The post KPMG Women’s PGA Championship: How to watch, featured groups appeared first on Golf .",
-        "body": "Nelly Korda’s historic run continues on Thursday at Hazeltine National in Chaska, Minn., and there are more ways than ever to watch it all unfold. The 27-year-old World No. 1 has already won the first two majors of the season, and if she can win the KPMG Women’s PGA Championship this week, she’ll become the third player in LPGA history to win the first three majors of the year. A win this week would also give her enough points to enter the LPGA Hall of Fame.\n\nYou can watch all of the action on NBC, Peacock and Golf Channel, but you can also stream even more live golf via featured groups, which are being powered by T-Mobile. It’s the second consecutive year that featured groups coverage will be offered at the KPMG Women’s PGA Championship, although this year there are twice as many groups as last year. T-Mobile is powering seven cameras that will roam Hazeltine National to provide the featured-group coverage, which will showcase stars like Korda, Brooke Henderson, Lydia Ko, Lottie Woad, Charley Hull, Jeeno Thitikul and more.",
-        "copy": "Nelly Korda’s historic run continues on Thursday at Hazeltine National in Chaska, Minn., and there are more ways than ever to watch it all unfold. The 27-year-old World No. 1 has already won the first two majors of the season, and if she can win the KPMG Women’s PGA Championship this week, she’ll become the third player in LPGA history to win the first three majors of the year. A win this week would also give her enough points to enter the LPGA Hall of Fame.\n\nYou can watch all of the action on NBC, Peacock and Golf Channel, but you can also stream even more live golf via featured groups, which are being powered by T-Mobile. It’s the second consecutive year that featured groups coverage will be offered at the KPMG Women’s PGA Championship, although this year there are twice as many groups as last year. T-Mobile is powering seven cameras that will roam Hazeltine National to provide the featured-group coverage, which will showcase stars like Korda, Brooke Henderson, Lydia Ko, Lottie Woad, Charley Hull, Jeeno Thitikul and more.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Trevor Immelman picks who is under more pressure to perform at The Open out of Bryson DeChambeau and Jon Rahm",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlZ3NTk1THZjMVMwNjVQb042dXQwWTBFanlUQndJR0x3NjB2QVRhQWdyVjE1ck9vUTdzeDdZWlk3Q0VRbjF5c09VMThxaTBXM3M5LXJvaEhQY01EWGNxWnlPcURqSGFLUERBNHVCZWZ5YkEwWFZwWk93LXVjOVl1cURoZ29fMTdCR2tfWUlhS0xSQnN4bUxzZWVSSWRrU2YzZEpGdHB1YnMzcXVSZzZGMzVrdXpka3lvRU5oMlY0Y2VzdUE1bU5hUHZoUQ?oc=5",
-        "published": "2026-06-24T18:00:00+00:00",
-        "published_label": "Wed 24 Jun, 18:00",
-        "summary": "Trevor Immelman picks who is under more pressure to perform at The Open out of Bryson DeChambeau and Jon Rahm hitc.com",
-        "body": "Trevor Immelman has explained why he believes that Bryson DeChambeau is under more pressure to impress at The Open Championship next month than Jon Rahm. The US Open proved to be another difficult week at the majors for those associated with LIV Golf.\n\nWhat do you make of the planned changes to the PGA Tour? What do you like? What concerns you about the changes? There were reasons for positivity. Joaquin Niemann and Tyrrell Hatton finished inside the top 10. Meanwhile, Dustin Johnson showed glimpses of his old form as he made a brilliant start at Shinnecock Hills.",
-        "copy": "Trevor Immelman has explained why he believes that Bryson DeChambeau is under more pressure to impress at The Open Championship next month than Jon Rahm. The US Open proved to be another difficult week at the majors for those associated with LIV Golf.\n\nWhat do you make of the planned changes to the PGA Tour? What do you like? What concerns you about the changes? There were reasons for positivity. Joaquin Niemann and Tyrrell Hatton finished inside the top 10. Meanwhile, Dustin Johnson showed glimpses of his old form as he made a brilliant start at Shinnecock Hills.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "The re-engineered Titleist Tour Soft delivers premium performance. Here's why",
-        "link": "https://golf.com/gear/titleist-tour-soft-golf-ball-review-trackman-testing/",
-        "published": "2026-06-24T17:08:38+00:00",
-        "published_label": "Wed 24 Jun, 17:08",
-        "summary": "I took the new Titleist Tour Soft golf ball to Lake Merced to test its downrange integrity, spin ceilings and consistency. Here's what I learned. The post The re-engineered Titleist Tour Soft delivers premium performance. Here’s why appeared first on Golf .",
-        "body": "In golf, the default assumption is that Titleist only builds equipment for the elite player. When you think of the brand, your mind automatically drifts to the Pro V1 and Pro V1x franchises.\n\nFor decades, those models have been the undisputed gold standard on global tours and the default choice for dedicated players seeking maximum green-side control. But that premium reputation creates an unintentional stigma that leaves recreational players wondering if they even belong in the Titleist ecosystem.",
-        "copy": "In golf, the default assumption is that Titleist only builds equipment for the elite player. When you think of the brand, your mind automatically drifts to the Pro V1 and Pro V1x franchises.\n\nFor decades, those models have been the undisputed gold standard on global tours and the default choice for dedicated players seeking maximum green-side control. But that premium reputation creates an unintentional stigma that leaves recreational players wondering if they even belong in the Titleist ecosystem.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "3 putting drills that will instantly improve your fundamentals",
-        "link": "https://golf.com/instruction/putting/become-better-putter-practice-like-this/",
-        "published": "2026-06-24T17:00:34+00:00",
-        "published_label": "Wed 24 Jun, 17:00",
-        "summary": "GOLF Top 100 Teacher Joey Wuertemberger explains the benefits of block practice when it comes to improving your putting. The post 3 putting drills that will instantly improve your fundamentals appeared first on Golf .",
-        "body": "Most golfers want to become better putters but lack a clear roadmap for developing the skill. Too often, their practice consists of rolling a few putts before a round or playing games on the putting green without a specific purpose. Effective improvement requires more than simply spending time on the green — it also requires a structured process.\n\nIn this three-part series, we’ll explore a systematic approach to putting practice that follows the same progression used in skill development across sports: first building the skill through focused repetition, then learning to transfer that skill to changing situations and finally testing it under pressure.",
-        "copy": "Most golfers want to become better putters but lack a clear roadmap for developing the skill. Too often, their practice consists of rolling a few putts before a round or playing games on the putting green without a specific purpose. Effective improvement requires more than simply spending time on the green — it also requires a structured process.\n\nIn this three-part series, we’ll explore a systematic approach to putting practice that follows the same progression used in skill development across sports: first building the skill through focused repetition, then learning to transfer that skill to changing situations and finally testing it under pressure.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
       }
     ],
     "Badminton": [
@@ -8086,11 +8034,11 @@
         "kind": "gnews",
         "title": "Smashing Stats: Canada Open 2026",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTnltUV9EZW04NkVPLTdWZUhRNE1FVmJObFFFbXQ0amdKZWZLUUNuYWtsREpxdFBwVGNrVTZUemI3RnZGNG4xbFpfcVhRb1k2Tldna3Y4LUU2VTcwZjVLbUo3Nk85eXJweDNmS0JMT005LXo5X3RqUUxacjkxbFNoQUYtVm8wS1ZJSVcxaWM4Q2N6V0pWZXJtNQ?oc=5",
-        "published": "2026-07-01T15:22:30+00:00",
-        "published_label": "Wed 01 Jul, 15:22",
+        "published": "2026-07-01T15:23:02+00:00",
+        "published_label": "Wed 01 Jul, 15:23",
         "summary": "Smashing Stats: Canada Open 2026 BWF World Tour",
-        "body": "Michelle Li celebrates winning the last of her four titles in 2022. Learn more about the Super 300 YONEX Canada Open 2026. Home favourite Michelle Li is the sole top seed to have previously aced her event.\n\nOther than Li, no singles player has won consecutive crowns from the beginning of the 2010s. She is also the only shuttler to win three on the spin this century (2014-2016). Li and Natsu Saito are just two former winners returning.",
-        "copy": "Michelle Li celebrates winning the last of her four titles in 2022. Learn more about the Super 300 YONEX Canada Open 2026. Home favourite Michelle Li is the sole top seed to have previously aced her event.\n\nOther than Li, no singles player has won consecutive crowns from the beginning of the 2010s. She is also the only shuttler to win three on the spin this century (2014-2016). Li and Natsu Saito are just two former winners returning.",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-07-01T16:44:00.488765+00:00"
       },
       {
@@ -8734,5 +8682,5 @@
       }
     ]
   },
-  "total": 670
+  "total": 666
 }
