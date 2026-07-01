@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T14:00:36.595047+00:00",
-  "generated_label": "Wednesday 01 July 2026, 14:00 UTC",
+  "generated_at": "2026-07-01T16:44:00.488765+00:00",
+  "generated_label": "Wednesday 01 July 2026, 16:44 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -14,6 +14,32 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "From founder-owned to franchise league: SailGP’s full team sell-out",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMC0tZWFyVnAzMTl6SldjMl9VUV9hZERQZVNLbEZweUc3b01ud1I5Z3NnQkE2X2V3UjNJWXRiOG82aVV5cDREU1YtWGYzWjlHTE52NXE0bGlmTzhXVUpjVHJFY2NYNGRRVlVNVlJMTXBuaGlMSXd5ZXEyT19FVjlYazlpZjZuRXB6RzF5a203ejNJZ1ZKRDh3aHJJemhOc2lWS29Dd0VRQkIxR3c?oc=5",
+        "published": "2026-07-01T15:52:49+00:00",
+        "published_label": "Wed 01 Jul, 15:52",
+        "summary": "From founder-owned to franchise league: SailGP’s full team sell-out Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Gasol completes €55m Liga F investment despite Real Madrid dissent",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNXVDazIzNDhRX0xLbmVBZGhVVjRYWHpYZk8tTFJMZnMtanNWYXBmY2dyNmgtMC11cldCQnVXc3IzRC1wR2x3YUR3TDhFUFF1YXpRNmRNTTB3QjNReXlpUGxra0RRQUZHYmprdHVFQ2V3aVZfUEIyUnhCcm54Q0g1XzN6cXlPUU5UanNma1RwSG94YWIwdDhkSnJ1UjgxQQ?oc=5",
+        "published": "2026-07-01T15:23:38+00:00",
+        "published_label": "Wed 01 Jul, 15:23",
+        "summary": "Gasol completes €55m Liga F investment despite Real Madrid dissent Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "SportsPro",
         "kind": "direct",
         "title": "ITV ‘agrees’ 2027 Rugby World Cup rights deal",
@@ -24,6 +50,19 @@
         "body": "Commercial broadcaster ITV has reportedly secured the UK live rights to the 2027 men’s Rugby World Cup, beating the BBC to the tournament, according to The Guardian. The BBC had explored a bid after strong viewing figures for last year’s Women’s Rugby World Cup. ITV, however, reportedly pushed for exclusive rather than shared rights, reflecting the strength of the advertising market around live rugby.\n\nAs a result, ITV now holds the rights to the major men’s international competitions through at least 2029. The free-to-air (FTA) broadcaster secured the rights to the first two editions of the Nations Championship in 2026 and 2028 in December last year, while it will continue to deliver every Six Nations match for the next three years.",
         "copy": "Commercial broadcaster ITV has reportedly secured the UK live rights to the 2027 men’s Rugby World Cup, beating the BBC to the tournament, according to The Guardian. The BBC had explored a bid after strong viewing figures for last year’s Women’s Rugby World Cup. ITV, however, reportedly pushed for exclusive rather than shared rights, reflecting the strength of the advertising market around live rugby.\n\nAs a result, ITV now holds the rights to the major men’s international competitions through at least 2029. The free-to-air (FTA) broadcaster secured the rights to the first two editions of the Nations Championship in 2026 and 2028 in December last year, while it will continue to deliver every Six Nations match for the next three years.",
         "first_seen": "2026-07-01T14:00:36.595047+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Lloyds scraps Halifax brand",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlN2ZlpYU3VUc2ZRb2kydmRVS05BN0hDZUJ5cWhieWNFSnFpZVE3dlB2OHZlNkxLYTMyZHBwcWVackFLUmpWWVhwTDdIcnBVbDJJNzhtRGlpUUVyMDNwZzQzSm10ZTlwUklJRXRKbjktaUVRWUFnRlRuZTlBbElpNENvRzY?oc=5",
+        "published": "2026-07-01T11:47:36+00:00",
+        "published_label": "Wed 01 Jul, 11:47",
+        "summary": "Lloyds scraps Halifax brand Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1870,61 +1909,100 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-06-25T16:38:34.372732+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Electrolit secures Canadian Open deal, Laver Cup nets Flexjet",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2tLVzVZWDBYUGNDTzRxSzByNWZDcTNrSXdrWHkzaGhrNVJFQkZWWHF3elc0QldVVU5lNngzZTNRRm1BZ0FpYk1TQzFyeWZlSk5KMTdNUktnM2ZfRTEwLUxQaGRVT01zWHFfVHJHUmpxVWxsTXNTd1BmSTRDVVQ5NWdaUUFuX3NRbmN3WS1BcUtialVNdUE?oc=5",
-        "published": "2026-06-24T15:22:19+00:00",
-        "published_label": "Wed 24 Jun, 15:22",
-        "summary": "Electrolit secures Canadian Open deal, Laver Cup nets Flexjet Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "HSBC watch",
-        "kind": "gnews",
-        "title": "Bengaluru Bravehearts enter HSBC Rugby Premier League semifinals",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFZlcEtDZ3RXTC1nX3BvSFRDc012VFZLeXhQY25hVVprRVJsaHVQS1lDMUxiYXJvUTN0bVRXZk5la1FJdGdtb21HcUR6cGtUUkY5NXA2T01CTFNVMkZJWFdWVGxNOFFCamRVeEtkTnluV1hya3gzc1hWTXkyWFBjZkNMNkhrRGVMRVBqWms3ekV1V08tWmc?oc=5",
-        "published": "2026-06-24T15:18:24+00:00",
-        "published_label": "Wed 24 Jun, 15:18",
-        "summary": "Bengaluru Bravehearts enter HSBC Rugby Premier League semifinals Telangana Today",
-        "body": "Bengaluru Bravehearts secured a place in the HSBC Rugby Premier League semifinals with a 26-21 victory over Kolkata Banga Tigers. Jonas Mikalcius starred for Bengaluru, while Vuiviwa Naduvalo scored a hat-trick for Kolkata in a closely contested encounter\n\nHyderabad: Bengaluru Bravehearts defeated Kolkata Banga Tigers 26-21 to qualify for the semifinals of the HSBC Rugby Premier League at the GMC Balayogi Stadium, Gachibowli, here on Wednesday.",
-        "copy": "Bengaluru Bravehearts secured a place in the HSBC Rugby Premier League semifinals with a 26-21 victory over Kolkata Banga Tigers. Jonas Mikalcius starred for Bengaluru, while Vuiviwa Naduvalo scored a hat-trick for Kolkata in a closely contested encounter\n\nHyderabad: Bengaluru Bravehearts defeated Kolkata Banga Tigers 26-21 to qualify for the semifinals of the HSBC Rugby Premier League at the GMC Balayogi Stadium, Gachibowli, here on Wednesday.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Why is getting to a World Cup game so hard?",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkVzM2libUxxNGpxX09tcHU2cHF5SjhCbFVpdXVtUGJqWm10RnZUT3ZMVEdQUlhGNE9jXzgwSkZ3aFdRYllnLXhNT3VjckZJcklKTzZJOWRjOE9mRTVWMzFrSG9hUXZnNThWS1M0NXBfa0pxUG5TMU91WXl3bUVaQUEySVU?oc=5",
-        "published": "2026-06-24T14:51:50+00:00",
-        "published_label": "Wed 24 Jun, 14:51",
-        "summary": "Why is getting to a World Cup game so hard? Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "World Rugby’s chief operating officer Samuelson moves to Prem Rugby",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY2lpejlncEJSeDJROUVyeVk2TjltZ0o5UUVkV1NkeW5oODZXdzJmbG9xaFFsSWFlNTFvcWphN1F0U1l0cHhqYTN0eUxTeDBKWEFIWm9pMGVUSHNpdkxRMXpuOTJ6dTZLLVNYR3NvU0xPQlpzWm5pM2xwZWVDYjg5R1VKRWFLbno1a1dCcEZTYURDelNpLXd3M2dSVG1tUQ?oc=5",
-        "published": "2026-06-24T14:22:19+00:00",
-        "published_label": "Wed 24 Jun, 14:22",
-        "summary": "World Rugby’s chief operating officer Samuelson moves to Prem Rugby Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Jake White: Henry Pollock reminds me of many Springboks legends",
+        "link": "https://www.rugbypass.com/news/jake-white-henry-pollock-reminds-me-of-many-springboks-legends-england-rugby/",
+        "published": "2026-07-01T16:30:33+00:00",
+        "published_label": "Wed 01 Jul, 16:30",
+        "summary": "I was watching some Test cricket the other day, specifically the England versus New Zealand. My interest was piqued because ever since the Ashes implosion, there have been growing calls for changes. Honestly, I can see certain parallels with England rugby.",
+        "body": "I was watching some Test cricket the other day, specifically the England versus New Zealand. My interest was piqued because ever since the Ashes implosion, there have been growing calls for changes. Honestly, I can see certain parallels with England rugby.\n\nWhen ‘Bazball’ was born, English cricket had a very successful period. The fans regaled at this innovative way of playing the game and then suddenly, they lost the Midas touch and now they’ve lost seven out of their last 11 Tests to leave English cricket in a state of uncertainty, only compounded by (Ben) Stokes walking away from international cricket mid-Test. Consequently, the tide is turning. The fans are now asking, ‘what are we going to do now? We either change or spiral into mediocrity.’",
+        "copy": "I was watching some Test cricket the other day, specifically the England versus New Zealand. My interest was piqued because ever since the Ashes implosion, there have been growing calls for changes. Honestly, I can see certain parallels with England rugby.\n\nWhen ‘Bazball’ was born, English cricket had a very successful period. The fans regaled at this innovative way of playing the game and then suddenly, they lost the Midas touch and now they’ve lost seven out of their last 11 Tests to leave English cricket in a state of uncertainty, only compounded by (Ben) Stokes walking away from international cricket mid-Test. Consequently, the tide is turning. The fans are now asking, ‘what are we going to do now? We either change or spiral into mediocrity.’",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Wales squad in dispute with WRU before Fiji opener",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c79y5g58pzxo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T16:20:38+00:00",
+        "published_label": "Wed 01 Jul, 16:20",
+        "summary": "Wales squad settle dispute with the Welsh Rugby Union over match fees three days before their Nations Championship opener with Fiji.",
+        "body": "The Wales squad's preparations for the Nations Championship have been disrupted by a dispute with the Welsh Rugby Union (WRU) over match fees. Steve Tandy's men play July Tests against Fiji, Argentina and South Africa but the build-up was impacted by off-field issues that were resolved just three days before the opening fixture.\n\nTalks were held between Welsh rugby's governing body and the Welsh Rugby Players' Association (WRPA) over \"employment terms\" and an agreement was reached late on Wednesday afternoon to ensure the Fiji game will go ahead.",
+        "copy": "The Wales squad's preparations for the Nations Championship have been disrupted by a dispute with the Welsh Rugby Union (WRU) over match fees. Steve Tandy's men play July Tests against Fiji, Argentina and South Africa but the build-up was impacted by off-field issues that were resolved just three days before the opening fixture.\n\nTalks were held between Welsh rugby's governing body and the Welsh Rugby Players' Association (WRPA) over \"employment terms\" and an agreement was reached late on Wednesday afternoon to ensure the Fiji game will go ahead.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Fly-half duel, debuts & NZ fortress beckon for Ireland",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9q253errp3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T16:00:50+00:00",
+        "published_label": "Wed 01 Jul, 16:00",
+        "summary": "With just over a year until the World Cup, injury-hit Ireland look to begin the inaugural Nations Championship with victories over Australia, Japan and New Zealand.",
+        "body": "It was at this point in the previous World Cup cycle - 14 months out from the tournament - when Ireland laid down an unmissable marker. In what some regard as the apogee of the Andy Farrell era, they travelled to New Zealand and came home with a Test series win.\n\nThat tour - which Ireland won 2-1 with historic, heart-stopping victories in Dunedin and Wellington - instilled enormous belief in Farrell's squad. They won 17 Tests in a row, collecting a Grand Slam along the way, before their world came crashing down when the All Blacks exacted revenge in one of the great World Cup quarter-finals.",
+        "copy": "It was at this point in the previous World Cup cycle - 14 months out from the tournament - when Ireland laid down an unmissable marker. In what some regard as the apogee of the Andy Farrell era, they travelled to New Zealand and came home with a Test series win.\n\nThat tour - which Ireland won 2-1 with historic, heart-stopping victories in Dunedin and Wellington - instilled enormous belief in Farrell's squad. They won 17 Tests in a row, collecting a Grand Slam along the way, before their world came crashing down when the All Blacks exacted revenge in one of the great World Cup quarter-finals.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "What Argentina horrorshow taught Scotland",
+        "link": "https://www.rugbypass.com/news/ewan-ashman-hopes-scotland-can-show-how-far-they-have-come-against-argentina/",
+        "published": "2026-07-01T15:24:20+00:00",
+        "published_label": "Wed 01 Jul, 15:24",
+        "summary": "Ewan Ashman hopes Scotland can demonstrate in Saturday’s Nations Championship opener away to Argentina how much they have grown since their capitulation against the Pumas last autumn.",
+        "body": "Ewan Ashman hopes Scotland can demonstrate in Saturday’s Nations Championship opener away to Argentina how much they have grown since their capitulation against the Pumas last autumn.\n\nThe Scots were left shellshocked in November after squandering a 21-0 lead to lose 33-24 to the South Americans at Murrayfield, a result that brought intense pressure on head coach Gregor Townsend and sparked a period of soul-searching in the dressing room.",
+        "copy": "Ewan Ashman hopes Scotland can demonstrate in Saturday’s Nations Championship opener away to Argentina how much they have grown since their capitulation against the Pumas last autumn.\n\nThe Scots were left shellshocked in November after squandering a 21-0 lead to lose 33-24 to the South Americans at Murrayfield, a result that brought intense pressure on head coach Gregor Townsend and sparked a period of soul-searching in the dressing room.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Meet the college wrestling star propelling the USA towards Rugby World Cup 2027",
+        "link": "https://www.rugbypass.com/plus/meet-the-college-wrestling-star-propelling-the-usa-towards-rugby-world-cup-2027/",
+        "published": "2026-07-01T14:18:19+00:00",
+        "published_label": "Wed 01 Jul, 14:18",
+        "summary": "Cory Daniel only took up rugby at 24, but has cemented his position as a dynamic and vital back-row forward for the USA Men's Eagles.",
+        "body": "For Cory Daniel and the USA Men’s Eagles, the inaugural Nations Cup arrives at a useful point in their journey to next year’s Rugby World Cup. The July window will give Scott Lawrence’s side three Tests against Portugal, Zimbabwe and Spain, with the wider competition also featuring Tonga. For the USA, it is a block that should offer a clearer read on where the squad is, which players are forcing their way into the picture, and how much progress has been made since the start of the year.\n\nFor Daniel, it is another chance to keep building. The Old Glory DC back-row has never had the standard rugby route. He came to the sport late, having first competed in wrestling and American football, and only started playing rugby when he was almost 24. His college wrestling coach connected him with the game, and although there was plenty to learn, Daniel found a way to digest it.",
+        "copy": "For Cory Daniel and the USA Men’s Eagles, the inaugural Nations Cup arrives at a useful point in their journey to next year’s Rugby World Cup. The July window will give Scott Lawrence’s side three Tests against Portugal, Zimbabwe and Spain, with the wider competition also featuring Tonga. For the USA, it is a block that should offer a clearer read on where the squad is, which players are forcing their way into the picture, and how much progress has been made since the start of the year.\n\nFor Daniel, it is another chance to keep building. The Old Glory DC back-row has never had the standard rugby route. He came to the sport late, having first competed in wrestling and American football, and only started playing rugby when he was almost 24. His college wrestling coach connected him with the game, and although there was plenty to learn, Daniel found a way to digest it.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Alex Coles puts positive spin on Maro Itoje's England absence",
+        "link": "https://www.rugbypass.com/news/alex-coles-encourages-england-team-to-fill-maro-itoje-void/",
+        "published": "2026-07-01T14:00:55+00:00",
+        "published_label": "Wed 01 Jul, 14:00",
+        "summary": "With captain rested this summer, Coles believes players should seize the opportunity to shine.",
+        "body": "Alex Coles insists England must be ready to fill the leadership and playing voids created by Maro Itoje’s absence when they clash with South Africa at Ellis Park on Saturday. Itoje has been rested for the July tour – the first time he has been stood down for a campaign since making his Test debut a decade ago – with Jamie George deputising as captain in his absence.\n\nSteve Borthwick names his team to take on the world champions on Thursday and with Itoje unavailable, the head coach is expected to pair Coles alongside George Martin in the second row with Ollie Chessum continuing at blindside flanker.",
+        "copy": "Alex Coles insists England must be ready to fill the leadership and playing voids created by Maro Itoje’s absence when they clash with South Africa at Ellis Park on Saturday. Itoje has been rested for the July tour – the first time he has been stood down for a campaign since making his Test debut a decade ago – with Jamie George deputising as captain in his absence.\n\nSteve Borthwick names his team to take on the world champions on Thursday and with Itoje unavailable, the head coach is expected to pair Coles alongside George Martin in the second row with Ollie Chessum continuing at blindside flanker.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Northampton & Bath handed tough Champions Cup assignments",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cewqzr1vvg1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T13:58:49+00:00",
+        "published_label": "Wed 01 Jul, 13:58",
+        "summary": "Northampton and Bath will compete for points in the same tough Champions Cup pool next season, having been drawn alongside the Pretoria-based Bulls and Top 14 runners-up Montpellier, while Leicester will face Leinster, Bristol against Bordeaux-Begles, and Saracens and Exeter are in the same group.",
+        "body": "Northampton and Bath will compete for points in the same tough Champions Cup pool next season, having been drawn alongside the Pretoria-based Bulls and Top 14 runners-up Montpellier.\n\nThe Bulls lost in the United Rugby Championship (URC) final against Leinster in June, while Montpellier were also one match from glory, beaten by Toulouse in France's showpiece league competition.",
+        "copy": "Northampton and Bath will compete for points in the same tough Champions Cup pool next season, having been drawn alongside the Pretoria-based Bulls and Top 14 runners-up Montpellier.\n\nThe Bulls lost in the United Rugby Championship (URC) final against Leinster in June, while Montpellier were also one match from glory, beaten by Toulouse in France's showpiece league competition.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4225,74 +4303,48 @@
         "body": "Experienced USA Women’s Eagles back-row Kate Zackary will leave Trailfinders Women after the Premiership Women’s Rugby Final this Sunday. The 37-year-old forward, who has represented her country at three Women’s Rugby World Cups, has spent the last three seasons in West London and has been a key player for Barney Maddison’s team.\n\nZackary joined Trailfinders after three years with Exeter Chiefs in Devon. Upon her arrival in London the forward became a fan favourite and could cap her time with the team with an English league title at the Twickenham Stoop this weekend.",
         "copy": "Experienced USA Women’s Eagles back-row Kate Zackary will leave Trailfinders Women after the Premiership Women’s Rugby Final this Sunday. The 37-year-old forward, who has represented her country at three Women’s Rugby World Cups, has spent the last three seasons in West London and has been a key player for Barney Maddison’s team.\n\nZackary joined Trailfinders after three years with Exeter Chiefs in Devon. Upon her arrival in London the forward became a fan favourite and could cap her time with the team with an English league title at the Twickenham Stoop this weekend.",
         "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Eagles set New York date with Red Roses for WXV Global Series finale",
-        "link": "https://www.rugbypass.com/news/eagles-set-new-york-date-with-red-roses-for-wxv-global-series-finale/",
-        "published": "2026-06-24T16:07:50+00:00",
-        "published_label": "Wed 24 Jun, 16:07",
-        "summary": "England's Red Roses will conclude their 2026 WXV Global Series campaign against the USA Women's Eagles at Sports Illustrated Stadium in October.",
-        "body": "England’s Red Roses will conclude their 2026 WXV Global Series campaign against the USA Women’s Eagles at Sports Illustrated Stadium in October. The fixture will be the sixth Test match that the Women’s Rugby World Cup 2025 champions play across the eight-week WXV Global Series window. In the fortnight before they are hosted by the Eagles, England will play two matches against Canada.\n\nLast August, England and the USA played in the Women’s Rugby World Cup’s opening fixture at Sunderland’s Stadium of Light. The fixture set a tournament record attendance with more than 42,000 in the stands for the Red Roses’ 69-7 win.",
-        "copy": "England’s Red Roses will conclude their 2026 WXV Global Series campaign against the USA Women’s Eagles at Sports Illustrated Stadium in October. The fixture will be the sixth Test match that the Women’s Rugby World Cup 2025 champions play across the eight-week WXV Global Series window. In the fortnight before they are hosted by the Eagles, England will play two matches against Canada.\n\nLast August, England and the USA played in the Women’s Rugby World Cup’s opening fixture at Sunderland’s Stadium of Light. The fixture set a tournament record attendance with more than 42,000 in the stands for the Red Roses’ 69-7 win.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Portugal squad missing two title-winning heroes but legend returns",
-        "link": "https://www.rugbypass.com/news/portugal-squad-missing-two-title-winning-heroes-but-legend-returns/",
-        "published": "2026-06-24T15:45:13+00:00",
-        "published_label": "Wed 24 Jun, 15:45",
-        "summary": "Portugal are heading to North America with a star-packed roster, as Samuel Marques, Manuel Vareiro, Cody Thomas, Vincent Pinto, and José Madeira are all set to feature for the Lobos at the inaugural World Rugby Nations Cup.",
-        "body": "Portugal are heading to North America with a star-packed roster, as Samuel Marques, Manuel Vareiro, Cody Thomas, Vincent Pinto, and José Madeira are all set to feature for the Lobos at the inaugural World Rugby Nations Cup.\n\nWith Portugal’s training camp having started two weeks ago, head coach Simon Mannix has only been able to count on his key players since Monday, with US Carcassonne’s Marques already working with the group.",
-        "copy": "Portugal are heading to North America with a star-packed roster, as Samuel Marques, Manuel Vareiro, Cody Thomas, Vincent Pinto, and José Madeira are all set to feature for the Lobos at the inaugural World Rugby Nations Cup.\n\nWith Portugal’s training camp having started two weeks ago, head coach Simon Mannix has only been able to count on his key players since Monday, with US Carcassonne’s Marques already working with the group.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Munster sign Australian playmaker to 'add balance to the squad'",
-        "link": "https://www.rugbypass.com/news/munster-sign-australian-playmaker-to-add-balance-to-the-squad/",
-        "published": "2026-06-24T15:39:34+00:00",
-        "published_label": "Wed 24 Jun, 15:39",
-        "summary": "Munster Rugby have confirmed the signing of Australian Will Harrison from Japanese side Kinetsu Liners on a one-year deal.",
-        "body": "Munster Rugby have confirmed the signing of Australian utility back Will Harrison from Japanese side Kinetsu Liners on a one-year deal. The left-footed playmaker, who is capable of playing at fly-half, full-back and centre, is a former Australian Schooboys and U20s captain, who led the Junior Wallabies to the final of the World Rugby Junior World Championship in 2019.\n\nThe youngest-ever player to debut for the NSW Waratahs in 2020, Harrison scored 257 points in 38 appearances for the Super Rugby side before making the move to Japan in 2024. “I’m extremely excited to be joining such a proud province. From my first conversations with the club, it felt like a place I wanted to be,” said Harrison.",
-        "copy": "Munster Rugby have confirmed the signing of Australian utility back Will Harrison from Japanese side Kinetsu Liners on a one-year deal. The left-footed playmaker, who is capable of playing at fly-half, full-back and centre, is a former Australian Schooboys and U20s captain, who led the Junior Wallabies to the final of the World Rugby Junior World Championship in 2019.\n\nThe youngest-ever player to debut for the NSW Waratahs in 2020, Harrison scored 257 points in 38 appearances for the Super Rugby side before making the move to Japan in 2024. “I’m extremely excited to be joining such a proud province. From my first conversations with the club, it felt like a place I wanted to be,” said Harrison.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "‘The hope is that it’s not a cruel summer for Wales and the good work of the Six Nations is not undone’",
-        "link": "https://www.rugbypass.com/plus/the-hope-is-that-its-not-a-cruel-summer-for-wales-and-the-good-work-of-the-six-nations-is-not-undone/",
-        "published": "2026-06-24T15:31:47+00:00",
-        "published_label": "Wed 24 Jun, 15:31",
-        "summary": "History underlines how daunting a task Wales face in the coming weeks, when Steve Tandy will need his leading lights to point the way.",
-        "body": "A lurch in form for Wales in the late 1980s prompted a Gren cartoon in the old Saturday evening Football Echo which saw the Ponty an’ Pop characters walk past a billboard that read: ‘Welsh trial match: Those Out Of Form v Those Out Of Position’.\n\nThose were the days, my friend, an era when Wales lost to Bridgend and changed coaches almost as often as the modern-day UK changes prime ministers. Let’s all agree tough times are not new to the game on the western side of the River Severn, then.",
-        "copy": "A lurch in form for Wales in the late 1980s prompted a Gren cartoon in the old Saturday evening Football Echo which saw the Ponty an’ Pop characters walk past a billboard that read: ‘Welsh trial match: Those Out Of Form v Those Out Of Position’.\n\nThose were the days, my friend, an era when Wales lost to Bridgend and changed coaches almost as often as the modern-day UK changes prime ministers. Let’s all agree tough times are not new to the game on the western side of the River Severn, then.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Two World Cup-winning Springboks to start for Barbarians against Wales",
-        "link": "https://www.rugbypass.com/news/two-world-cup-winning-springboks-to-start-for-barbarians-against-wales/",
-        "published": "2026-06-24T14:56:37+00:00",
-        "published_label": "Wed 24 Jun, 14:56",
-        "summary": "Faf de Klerk will captain the Barbarians when they take on Wales at Twickenham's Allianz Stadium on Saturday, a week after helping South Africa beat the invitational side in Gqeberha.",
-        "body": "Faf de Klerk will captain the Barbarians when they take on Wales at Twickenham’s Allianz Stadium on Saturday, a week after helping South Africa beat the invitational side in Gqeberha.\n\nThe two-time Rugby World Cup winner scored off the bench in the Springboks’ 80-31 victory last weekend, but will now lead his former opponents in a side featuring 19 internationals from 11 different nations.",
-        "copy": "Faf de Klerk will captain the Barbarians when they take on Wales at Twickenham’s Allianz Stadium on Saturday, a week after helping South Africa beat the invitational side in Gqeberha.\n\nThe two-time Rugby World Cup winner scored off the bench in the Springboks’ 80-31 victory last weekend, but will now lead his former opponents in a side featuring 19 internationals from 11 different nations.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Osaka proving showstopper on and off court",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cq61q1y82jzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T16:32:31+00:00",
+        "published_label": "Wed 01 Jul, 16:32",
+        "summary": "Naomi Osaka continues to prove a showstopper on and off the court at this year's Wimbledon, as she arrives in a new outfit before reaching the third round.",
+        "body": "Another day, another stunning Wimbledon outfit for Naomi Osaka. After the four-time Grand Slam champion arrived for her opening match at the All England Club in an elegant, full-length kimono - entirely white to adhere to the tournament's strict dress code - Osaka chose to \"mix it up a little bit\".\n\nReturning to action on Wednesday, the 28-year-old combined a white jacket with floral pattern with a long train that trailed behind her, attached to her waist by an obi - a large, decorative belt traditionally worn with a kimono.",
+        "copy": "Another day, another stunning Wimbledon outfit for Naomi Osaka. After the four-time Grand Slam champion arrived for her opening match at the All England Club in an elegant, full-length kimono - entirely white to adhere to the tournament's strict dress code - Osaka chose to \"mix it up a little bit\".\n\nReturning to action on Wednesday, the 28-year-old combined a white jacket with floral pattern with a long train that trailed behind her, attached to her waist by an obi - a large, decorative belt traditionally worn with a kimono.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "WTA Finals moves to Indian Wells after Saudi deal ended early",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c1kyg194w3go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T16:01:20+00:00",
+        "published_label": "Wed 01 Jul, 16:01",
+        "summary": "The Women's Tennis Association is ending its partnership with Saudi Arabia to host the season-ending Finals a year early, with the tournament to move to Indian Wells.",
+        "body": "The Women's Tennis Association (WTA) is ending its partnership with Saudi Arabia to host the season-ending Finals a year early, with the tournament to move to Indian Wells in California.\n\nThe tournament has been held in Riyadh for the past two years after the WTA signed a three-year agreement with the Saudi Tennis Federation (STF) in April 2024, a deal that included record prize money.",
+        "copy": "The Women's Tennis Association (WTA) is ending its partnership with Saudi Arabia to host the season-ending Finals a year early, with the tournament to move to Indian Wells in California.\n\nThe tournament has been held in Riyadh for the past two years after the WTA signed a three-year agreement with the Saudi Tennis Federation (STF) in April 2024, a deal that included record prize money.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'Just what the doctor ordered'",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cgjxzeqnn1vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-01T15:49:58+00:00",
+        "published_label": "Wed 01 Jul, 15:49",
+        "summary": "Jannik Sinner's tricky start to his Wimbledon title defence continues as he overcomes a stern second-round test against Portugal's Nuno Borges.",
+        "body": "Jannik Sinner's tricky start to his Wimbledon title defence continued as he overcame a stern second-round test against Nuno Borges. The world number one needed three-and-a-half hours to battle past an inspired Miomir Kecmanovic in five entertaining sets on Monday.\n\nBut the Italian looked more assured as he returned to Centre Court two days later and patiently ground out a 7-6 (7-4) 7-6 (7-2) 6-4 win against a resilient Borges. Ranked 48th in the world, Portugal's Borges thrilled the crowd and was the better player at times, but Sinner upped his level when it mattered before charging through the third set to seal his ninth straight victory at the All England Club.",
+        "copy": "Jannik Sinner's tricky start to his Wimbledon title defence continued as he overcame a stern second-round test against Nuno Borges. The world number one needed three-and-a-half hours to battle past an inspired Miomir Kecmanovic in five entertaining sets on Monday.\n\nBut the Italian looked more assured as he returned to Centre Court two days later and patiently ground out a 7-6 (7-4) 7-6 (7-2) 6-4 win against a resilient Borges. Ranked 48th in the world, Portugal's Borges thrilled the crowd and was the better player at times, but Sinner upped his level when it mattered before charging through the third set to seal his ninth straight victory at the All England Club.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4336,6 +4388,19 @@
         "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
+        "title": "Wimbledon Day Three LIVE! Scores, updates, news, results with Jannik Sinner, Novak Djokovic, Aryna Sabalenka, Coco Gauff, Naomi Osaka in action",
+        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQc2FDY2MzYkZscGN3TkpGNHUyRVZCVXlRdk9DREJXNXdSX3lYYjc4UXVXZUxJSnF0V1BFWk5qX2Q0UWk4eHF3aVZqYmVPbEM2STJfYTVDZldha2s0b3RwcHFJZkxPTUxZREJ3X29IZ2RjbnhDbHh6UUprUk9tMFJqLVF0TUdQVHRxdXBCZnZWajNUZmxHQ3pFZkVlNjJabEJGNTROTElMUnAwYmVsN2tGR2hCNUhLYzZFT0kyVkVGbVlzLUFvUHpjYWp3Z1REa19STEd0RktLLURfLVJ6dmp1TTFGaWdTbUVaSHdRWUlCT3Z2WnVMSkF0aEx1QnBXT2tJVGYtTzN1Zk9lTko2dXFidU5NX3hJcGV5bFdxVFBB?oc=5",
+        "published": "2026-07-01T12:28:42+00:00",
+        "published_label": "Wed 01 Jul, 12:28",
+        "summary": "Wimbledon Day Three LIVE! Scores, updates, news, results with Jannik Sinner, Novak Djokovic, Aryna Sabalenka, Coco Gauff, Naomi Osaka in action Sky Sports",
+        "body": "Sky Sports commentary Jonathan Overend said Serena Williams' comeback last night was \"like being on the set of a movie\" and hopes to see her play at tune-up events for the US Open, where he expects her to play singles and doubles.\n\n\"She can talk about playing in front of her daughters, which must have been a very rewarding experience for them to see her play at that sort of level on the stage on which she's won so much.",
+        "copy": "Sky Sports commentary Jonathan Overend said Serena Williams' comeback last night was \"like being on the set of a movie\" and hopes to see her play at tune-up events for the US Open, where he expects her to play singles and doubles.\n\n\"She can talk about playing in front of her daughters, which must have been a very rewarding experience for them to see her play at that sort of level on the stage on which she's won so much.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
         "title": "Wimbledon: Serena Williams suffers first-round defeat to Maya Joint in much-anticipated first singles match since 2022",
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ2lQeERGTmVtREpuXzVESUJFX242Q1ZFdW9qVG12Tk1SNFpVdEdXZTM2R0hWZHN2eGZCeDhOMDZPQ25iMkRHQWl6QVZDWThRVHVoeHpUV3FLTEhUclpsVWNmT3I5a2xMUVpmSk1sM3R2a3ZoSEQyanAyT0NjZjhFMU1YY2lINUUyZXk3dDFwNjlaRXJyTEVMaUFsT2lzanZ5bjBpT2IyeENianVicmUzTkxJZlFZSFlELTVOT01kT1NkRmkxY3dNT25UdWhwZXdQc1FiVThTWFBlRmRabF96Qy1McWk2ZDlFMGFJNlR3Wjd4c21zb1N4RnktczRFRHc?oc=5",
         "published": "2026-07-01T08:36:02+00:00",
@@ -4344,6 +4409,19 @@
         "body": "Serena Williams suffered defeat to Maya Joint in her much-anticipated return to Wimbledon following a four-year absence after an epic battle on Centre Court. The 23-time Grand Slam champion stunned the world of tennis when she announced her return to the sport earlier this month at the age of 44 - and there were faint hopes of a fairytale victory on her favourite grass-courts in west London when she avoided the big guns when the draw was made last week.\n\nWilliams showed flashes of brilliance against her 20-year-old opponent from Australia and dug deep to save a match point in the second set to force a decider. But she ultimately ran out of steam to suffer a 6-3 6-7 (6-8) 6-3 defeat.",
         "copy": "Serena Williams suffered defeat to Maya Joint in her much-anticipated return to Wimbledon following a four-year absence after an epic battle on Centre Court. The 23-time Grand Slam champion stunned the world of tennis when she announced her return to the sport earlier this month at the age of 44 - and there were faint hopes of a fairytale victory on her favourite grass-courts in west London when she avoided the big guns when the draw was made last week.\n\nWilliams showed flashes of brilliance against her 20-year-old opponent from Australia and dug deep to save a match point in the second set to force a decider. But she ultimately ran out of steam to suffer a 6-3 6-7 (6-8) 6-3 defeat.",
         "first_seen": "2026-07-01T14:00:36.595047+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Wimbledon Day Two LIVE! Scores, updates, news, results with Serena Williams, Katie Boulter and Iga Swiatek in action",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPb01MNDkxeElrczhlV1JuUzZFSWFhS3dHdEpQNXpOVFVuU3MtVERRQVJjRnl4VFluOV9aMnVaZU1Yb0pTZ19pUFM2VjNheHR2di10RzEyYnExQmNpLWVQWjJBS1p5dk9ja2E3eHRjbEJSbENncmIxVVd2OTlKZmtZRjN6MFVHZXlLZ01pT05Gem90UkllYlJjQ0x4VUYtN190dFBPOGM2REZGTjVCMW5zWGFUb3BfZTVhQlF5TmRrdzZ3V2ZETzFFX0J5VWJ3REVQeUVMR2NHTTZBak1MZHYtMXN2OWVQVld1S1JhT25uTFpaT2tDWWRiV1AwT240UQ?oc=5",
+        "published": "2026-07-01T07:20:43+00:00",
+        "published_label": "Wed 01 Jul, 07:20",
+        "summary": "Wimbledon Day Two LIVE! Scores, updates, news, results with Serena Williams, Katie Boulter and Iga Swiatek in action Sky Sports",
+        "body": "All the action from day two of Wimbledon, as Serena Williams falls short on her return, whilst Stan Wawrinka says farewell to tennis. All the action from day two of Wimbledon, as Serena Williams falls short on her return, whilst Stan Wawrinka says farewell to tennis.\n\nSerena Williams suffered defeat to Maya Joint in her much-anticipated return to Wimbledon following a four-year absence after an epic battle on Centre Court. What an effort from Serena Williams, whose return after four years away from pro tennis and at age of 44 felt surreal.",
+        "copy": "All the action from day two of Wimbledon, as Serena Williams falls short on her return, whilst Stan Wawrinka says farewell to tennis. All the action from day two of Wimbledon, as Serena Williams falls short on her return, whilst Stan Wawrinka says farewell to tennis.\n\nSerena Williams suffered defeat to Maya Joint in her much-anticipated return to Wimbledon following a four-year absence after an epic battle on Centre Court. What an effort from Serena Williams, whose return after four years away from pro tennis and at age of 44 felt surreal.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
       },
       {
         "section": "Tennis",
@@ -6385,35 +6463,61 @@
         "body": "Leading tennis players will expand their prize money protest at Wimbledon - despite a 20% increase in this year's pot. Some players limited pre-tournament media to 15 minutes at the recent French Open, but will go a step further at Wimbledon.\n\nThey will not only limit the time they offer at the forthcoming media weekend, but are also planning to restrict post-match appearances to 15 minutes throughout the first week of the Championships, which start on Monday.",
         "copy": "Leading tennis players will expand their prize money protest at Wimbledon - despite a 20% increase in this year's pot. Some players limited pre-tournament media to 15 minutes at the recent French Open, but will go a step further at Wimbledon.\n\nThey will not only limit the time they offer at the forthcoming media weekend, but are also planning to restrict post-match appearances to 15 minutes throughout the first week of the Championships, which start on Monday.",
         "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Evans 'happy with decision' to retire after Wimbledon",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/cpd393e0jyvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-24T15:32:01+00:00",
-        "published_label": "Wed 24 Jun, 15:32",
-        "summary": "Great Britain's Dan Evans says he is \"happy\" with his decision to retire after Wimbledon after his singles career came to an end as he suffered a defeat to Tristan Schoolkate in the second round of Wimbledon qualifying. Dan Evans, however, will still play at Wimbledon after being given a wildcard into the men's doubles with Henry Searle.",
-        "body": "This content is not available in your location. Great Britain's Dan Evans says he is \"happy\" with his decision to retire after Wimbledon after his singles career came to an end as he suffered a defeat to Tristan Schoolkate in the second round of Wimbledon qualifying.\n\nDan Evans, however, will still play at Wimbledon after being given a wildcard into the men's doubles with Henry Searle.",
-        "copy": "This content is not available in your location. Great Britain's Dan Evans says he is \"happy\" with his decision to retire after Wimbledon after his singles career came to an end as he suffered a defeat to Tristan Schoolkate in the second round of Wimbledon qualifying.\n\nDan Evans, however, will still play at Wimbledon after being given a wildcard into the men's doubles with Henry Searle.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper to wear Vuori at Wimbledon while Axel Arigato provides his footwear",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUmhUUENIX1BqZ0FueXZyWENrbDRrYVNpbmNIakVydmVuSFAzZEhzQ3N3b2Jpb25DX1k0WFZVWFY1V1BNa1R5TGx2ZWwyMTBBTThIMmJ1WEROaG9MblM1Wnc5UTQ2RU1DNk9Bc1FGdFFCZTBXR1IxTDJBekNXSHpRdU8wQW5RXzAyWWk1cWp2MDBXVU1OUl9MSVNhVGtyQWZnMFM3Y2M2dnpKVzBZa2NHU21ITUtDWEhTd0JZeVY2RmtJcEp4UVE?oc=5",
-        "published": "2026-06-24T15:10:59+00:00",
-        "published_label": "Wed 24 Jun, 15:10",
-        "summary": "Jack Draper to wear Vuori at Wimbledon while Axel Arigato provides his footwear FashionNetwork France",
-        "body": "Move over the World Cup. Tennis is about to take centre stage at Wimbledon where British player Jack Draper will (hopefully) star and provide a big boost for his partners Vuori and Axel Arigato.\n\nFirst, Draper will be dressed head to sock in Vuori throughout the Championships, “providing a highly visible platform to showcase Vuori at the forefront of tennis, showcasing the brand’s seamless blend of performance, leisure, and elevated lifestyle.”",
-        "copy": "Move over the World Cup. Tennis is about to take centre stage at Wimbledon where British player Jack Draper will (hopefully) star and provide a big boost for his partners Vuori and Axel Arigato.\n\nFirst, Draper will be dressed head to sock in Vuori throughout the Championships, “providing a highly visible platform to showcase Vuori at the forefront of tennis, showcasing the brand’s seamless blend of performance, leisure, and elevated lifestyle.”",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Johnson Wagner claims one LIV Golf star is pushing for a PGA Tour comeback",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQldBenQ5OExDNkNmSS1NUW5OX1BJZEpNeUZuU2NqVjZkZS1mM2VZeHJEWmoxMEVkbzZxc2pEYnhDX2E3WTZzdkpjdl9FRnRjV3B1V1d0djZmenI5Zlh2Z0hDTTFSNmh3Mi1vMVgxb0VHeW5ISW5XM1FaQkNxSi1pODl0Zy14aWgtR05OSmVSdnVCSVBmeEItZUZRRlREMUxXUVJ0anZXRGJOOUNKcm1hdFZTbUEycDF1R0w5WGtBZk1fNGM5emg3Tg?oc=5",
+        "published": "2026-07-01T16:17:41+00:00",
+        "published_label": "Wed 01 Jul, 16:17",
+        "summary": "Johnson Wagner claims one LIV Golf star is pushing for a PGA Tour comeback Tennis World USA",
+        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Improve your game from the office with these 2 drills",
+        "link": "https://golf.com/instruction/improve-game-2-office-drills/",
+        "published": "2026-07-01T15:55:49+00:00",
+        "published_label": "Wed 01 Jul, 15:55",
+        "summary": "Want to improve your game this summer but you're stuck at work? Drew Stoltz has two in-office drills to help you sharpen your skills. The post Improve your game from the office with these 2 drills appeared first on Golf .",
+        "body": "Want to improve your game this summer, but you’re stuck in the office fielding phone calls and returning e-mails? There’s a fix for that. In the latest and final episode of Cobra Golf’s Emergency Nine, Drew Stoltz, co-host of GOLF’s Subpar Podcast, broke down two drills you can do from the office to improve your game.\n\nThe first drill is a backswing drill you can do in your office doorway. “Find the end of the doorway,” Stolz says. “Go about a foot out, put your trail foot about a foot away. Set up normal like you are setting into a shot. Toes in line with the edge of the wall. Once you get that, we’re working on backswing. As I go back, my hands stay in by the clubhead stays out. If I do it properly, the club is going to contact the wall somwhere [by the middle] of the club. You get set up. Hands in, clubhead out — that’s going to get you in a really good position in your backswing.”",
+        "copy": "Want to improve your game this summer, but you’re stuck in the office fielding phone calls and returning e-mails? There’s a fix for that. In the latest and final episode of Cobra Golf’s Emergency Nine, Drew Stoltz, co-host of GOLF’s Subpar Podcast, broke down two drills you can do from the office to improve your game.\n\nThe first drill is a backswing drill you can do in your office doorway. “Find the end of the doorway,” Stolz says. “Go about a foot out, put your trail foot about a foot away. Set up normal like you are setting into a shot. Toes in line with the edge of the wall. Once you get that, we’re working on backswing. As I go back, my hands stay in by the clubhead stays out. If I do it properly, the club is going to contact the wall somwhere [by the middle] of the club. You get set up. Hands in, clubhead out — that’s going to get you in a really good position in your backswing.”",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Is this the secret to Viktor Hovland's driver switch?",
+        "link": "https://golf.com/gear/is-secret-viktor-hovlands-driver-switch/",
+        "published": "2026-07-01T15:30:58+00:00",
+        "published_label": "Wed 01 Jul, 15:30",
+        "summary": "Although Viktor Hovland's new driver head gets most of the smoke, we can't overlook how important the shaft was in the entire recipe. The post Is this the secret to Viktor Hovland’s driver switch? appeared first on Golf .",
+        "body": "I need to declare this at the top: In my opinion, the club head is most of the equation in terms of what makes a great driver. However two things can be true at the same time: The shaft is also VITAL to making that club head do what it’s designed to do. The club head has the responsibility of dictating spin, speed, launch, direction, start lines, etc. — and the shaft is what allows the player to find the middle of that club head. In my experience, shafts are very specific to the player, and when you find one you hit outta the guts time in and time out, fitters can cook the head to finish the job.\n\nWe had a fun case study in that with Viktor Hovland over the past few weeks. Someone I would call a “hard switcher,” Vik finally put his Ping G425 LST to the side and committed to the 440LST. There has been flirtations with the 440, but it was always on shaky ground — but after his win last week at the Travelers, I think it’s safe to say Viktor has his driver.",
+        "copy": "I need to declare this at the top: In my opinion, the club head is most of the equation in terms of what makes a great driver. However two things can be true at the same time: The shaft is also VITAL to making that club head do what it’s designed to do. The club head has the responsibility of dictating spin, speed, launch, direction, start lines, etc. — and the shaft is what allows the player to find the middle of that club head. In my experience, shafts are very specific to the player, and when you find one you hit outta the guts time in and time out, fitters can cook the head to finish the job.\n\nWe had a fun case study in that with Viktor Hovland over the past few weeks. Someone I would call a “hard switcher,” Vik finally put his Ping G425 LST to the side and committed to the 440LST. There has been flirtations with the 440, but it was always on shaky ground — but after his win last week at the Travelers, I think it’s safe to say Viktor has his driver.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'One of the stranger parts': Jordan Spieth sees weird quirk in PGA Tour's new schedule",
+        "link": "https://golf.com/news/jordan-spieth-pga-tour-new-schedule/",
+        "published": "2026-07-01T15:15:06+00:00",
+        "published_label": "Wed 01 Jul, 15:15",
+        "summary": "The PGA Tour's new reality will arrive in 2028. At this week's John Deere, Jordan Spieth sees a strange byproduct of the changes. The post ‘One of the stranger parts’: Jordan Spieth sees weird quirk in PGA Tour’s new schedule appeared first on Golf .",
+        "body": "A new era of the PGA Tour is upon us, but there are still questions about what the future holds, especially as it pertains to this week’s event and others like it. At last week’s Travelers Championship, PGA Tour CEO Brian Rolapp and the Future Competition Committee, headed by Tiger Woods, announced sweeping changes to the PGA Tour’s schedule, which were ratified by the membership. (GOLF.com’s Sean Zak has a detailed breakdown that you can find here.) The long and short of it is that, come 2028, the PGA Tour will adopt a two-track system. Track 1, which will be called the Championship Series, with roughly 130 players, and the Challenger Series, with more players. There will be promotion and relegation. The schedules will be trimmed down for each series. Players will play for $20 million purses on the Championship Series, while the Challenger Series will play for purses of around $4 million.\n\nBut what has yet to be determined is which events will be Championship events and which will be Challenger events. This week’s John Deere Classic is expected to be a Tier 2 event, and if that’s the case, Jordan Spieth, a two-time John Deere champion, sees another quirk in the new schedule: Players who win Track 2 events will likely not be back the next year to defend their title.",
+        "copy": "A new era of the PGA Tour is upon us, but there are still questions about what the future holds, especially as it pertains to this week’s event and others like it. At last week’s Travelers Championship, PGA Tour CEO Brian Rolapp and the Future Competition Committee, headed by Tiger Woods, announced sweeping changes to the PGA Tour’s schedule, which were ratified by the membership. (GOLF.com’s Sean Zak has a detailed breakdown that you can find here.) The long and short of it is that, come 2028, the PGA Tour will adopt a two-track system. Track 1, which will be called the Championship Series, with roughly 130 players, and the Challenger Series, with more players. There will be promotion and relegation. The schedules will be trimmed down for each series. Players will play for $20 million purses on the Championship Series, while the Challenger Series will play for purses of around $4 million.\n\nBut what has yet to be determined is which events will be Championship events and which will be Challenger events. This week’s John Deere Classic is expected to be a Tier 2 event, and if that’s the case, Jordan Spieth, a two-time John Deere champion, sees another quirk in the new schedule: Players who win Track 2 events will likely not be back the next year to defend their title.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -7973,113 +8077,22 @@
         "body": "Most golfers want to become better putters but lack a clear roadmap for developing the skill. Too often, their practice consists of rolling a few putts before a round or playing games on the putting green without a specific purpose. Effective improvement requires more than simply spending time on the green — it also requires a structured process.\n\nIn this three-part series, we’ll explore a systematic approach to putting practice that follows the same progression used in skill development across sports: first building the skill through focused repetition, then learning to transfer that skill to changing situations and finally testing it under pressure.",
         "copy": "Most golfers want to become better putters but lack a clear roadmap for developing the skill. Too often, their practice consists of rolling a few putts before a round or playing games on the putting green without a specific purpose. Effective improvement requires more than simply spending time on the green — it also requires a structured process.\n\nIn this three-part series, we’ll explore a systematic approach to putting practice that follows the same progression used in skill development across sports: first building the skill through focused repetition, then learning to transfer that skill to changing situations and finally testing it under pressure.",
         "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Why this mini driver could improve your game off the tee",
-        "link": "https://golf.com/gear/drivers/why-this-mini-driver-could-improve-game-off-tee/",
-        "published": "2026-06-24T16:36:44+00:00",
-        "published_label": "Wed 24 Jun, 16:36",
-        "summary": "What benefits can a mini driver offer your game? Drew Stoltz found out in the latest episode of Emergency 9. The post Why this mini driver could improve your game off the tee appeared first on Golf .",
-        "body": "That’s the lesson Drew Stoltz learned in the latest episode of Emergency 9, presented by Cobra, when he took the Cobra KING TEC mini driver out for a spin. What benefits can a mini driver offer you? The smaller head can help eliminate your big miss, leading to more fairways off the tee — and as a result, better approach opportunities and potential looks at birdie.\n\n“Take, for instance, you’re a guy who struggles off the tee with his driver,” Stoltz said. “I’ve seen people switch to this mini driver and immediately become infinitely better at driving the golf ball than they were before.",
-        "copy": "That’s the lesson Drew Stoltz learned in the latest episode of Emergency 9, presented by Cobra, when he took the Cobra KING TEC mini driver out for a spin. What benefits can a mini driver offer you? The smaller head can help eliminate your big miss, leading to more fairways off the tee — and as a result, better approach opportunities and potential looks at birdie.\n\n“Take, for instance, you’re a guy who struggles off the tee with his driver,” Stoltz said. “I’ve seen people switch to this mini driver and immediately become infinitely better at driving the golf ball than they were before.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Johan Lindeberg has a new luxury golf-fashion line. Here's the story behind it",
-        "link": "https://golf.com/gear/golf-apparel/story-behind-jay3lle-johan-lindeberg-new-brand/",
-        "published": "2026-06-24T15:59:34+00:00",
-        "published_label": "Wed 24 Jun, 15:59",
-        "summary": "Johan Lindeberg has launched a new golf-apparel brand: JAY3LLE, a collection intended to revolutionize modern golf style once again. The post Johan Lindeberg has a new luxury golf-fashion line. Here’s the story behind it appeared first on Golf .",
-        "body": "If you came of age in the pre-Tiger ’90s, there’s a good chance that Jesper Parnevik was among the first golfers to enter your consciousness — and not so much because of his five PGA Tour wins or three Ryder Cup appearances. The Swede was attention-grabbing because of his style. To this day, Parnevik’s name still calls to mind his trademark flipped-bill caps and brightly colored ensembles, courtesy of Swedish apparel brand J.Lindeberg, which was founded in 1996 by its namesake designer, Johan Lindeberg.\n\nParnevik was J.Lindeberg’s first PGA Tour ambassador, and his visibility helped launch the brand into the golf-fashion stratosphere. Parnevik’s sleek, tailored looks and performance fabrics stood in stark contrast to the billowy silhouettes of his peers and left an indelible imprint on the golf-apparel space.",
-        "copy": "If you came of age in the pre-Tiger ’90s, there’s a good chance that Jesper Parnevik was among the first golfers to enter your consciousness — and not so much because of his five PGA Tour wins or three Ryder Cup appearances. The Swede was attention-grabbing because of his style. To this day, Parnevik’s name still calls to mind his trademark flipped-bill caps and brightly colored ensembles, courtesy of Swedish apparel brand J.Lindeberg, which was founded in 1996 by its namesake designer, Johan Lindeberg.\n\nParnevik was J.Lindeberg’s first PGA Tour ambassador, and his visibility helped launch the brand into the golf-fashion stratosphere. Parnevik’s sleek, tailored looks and performance fabrics stood in stark contrast to the billowy silhouettes of his peers and left an indelible imprint on the golf-apparel space.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf's Jon Rahm, Tyrrell Hatton officially in field at Genesis Scottish Open",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWUc4R3U3QjVocnlaNGJZV2dmR1h1NnJJYnVGcFBiM3hNNUJ3QWlaZFhVS0lIODBJZWxOOG9LRk4xYk9HMGpLV3Jxa1JTRktrR2lMSnRfTEJ3RjlqMFNxSmpLb2lsb2xGeFpaWHMwWVFFX0x6Q1pYMVh0dTNzNkU?oc=5",
-        "published": "2026-06-24T15:50:36+00:00",
-        "published_label": "Wed 24 Jun, 15:50",
-        "summary": "LIV Golf's Jon Rahm, Tyrrell Hatton officially in field at Genesis Scottish Open Yahoo Sports UK",
-        "body": "In two weeks, a pair of LIV Golf players are set to tee it up in a PGA Tour event. Jon Rahm and Tyrrell Hatton, members of Rahm's Legion XIII LIV team, were officially announced as in the field for the Genesis Scottish Open next month at the Renaissance Club. The Scottish is a co-sanctioned event between the PGA Tour and the DP World Tour, with each tour's members making up roughly half of the field.\n\nAs DP World Tour members, Rahm and Hatton are eligible to compete in the event and will be two of numerous European Ryder Cup stars expected to play in North Berwick. It will be Rahm's first PGA Tour event (non-major) since the 2023 Tour Championship, where he finished T-18. Hatton teed it up in the 2024 Sentry and 2024 Sony Open in Hawaii, placing T-14 and T-13, respectively, before moving to LIV for its 2024 season.",
-        "copy": "In two weeks, a pair of LIV Golf players are set to tee it up in a PGA Tour event. Jon Rahm and Tyrrell Hatton, members of Rahm's Legion XIII LIV team, were officially announced as in the field for the Genesis Scottish Open next month at the Renaissance Club. The Scottish is a co-sanctioned event between the PGA Tour and the DP World Tour, with each tour's members making up roughly half of the field.\n\nAs DP World Tour members, Rahm and Hatton are eligible to compete in the event and will be two of numerous European Ryder Cup stars expected to play in North Berwick. It will be Rahm's first PGA Tour event (non-major) since the 2023 Tour Championship, where he finished T-18. Hatton teed it up in the 2024 Sentry and 2024 Sony Open in Hawaii, placing T-14 and T-13, respectively, before moving to LIV for its 2024 season.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf's Jon Rahm, Tyrrell Hatton officially in field at Genesis Scottish Open",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXMzWWplYjRCNjNsSXpBb1JLTDF4OTExSl9Dck4zNmZ4VnZ1Wlk1OU1YRnRaYzZvNEdtSHdPdU5WOUQwQlVJd3JTaTdmRnRvakxYUU0tZEZYbVhHN0ttU215M19PSXBqQkREOEYtVFVhUWZqbXRwSEdOekppclM4TV9JNGV3ZFlsOTJVWDl2V3FSZEpNLWpGcnc4Y3ZJU2kwZVl6STNoWEFTdnpuZExhLUZjbFdqcE1HUF9nbGdidko0UQ?oc=5",
-        "published": "2026-06-24T15:50:00+00:00",
-        "published_label": "Wed 24 Jun, 15:50",
-        "summary": "LIV Golf's Jon Rahm, Tyrrell Hatton officially in field at Genesis Scottish Open Golfweek",
-        "body": "In two weeks, a pair of LIV Golf players are set to tee it up in a PGA Tour event. Jon Rahm and Tyrrell Hatton, members of Rahm's Legion XIII LIV team, were officially announced as in the field for the Genesis Scottish Open next month at the Renaissance Club. The Scottish is a co-sanctioned event between the PGA Tour and the DP World Tour, with each tour's members making up roughly half of the field.\n\nAs DP World Tour members, Rahm and Hatton are eligible to compete in the event and will be two of numerous European Ryder Cup stars expected to play in North Berwick. It will be Rahm's first PGA Tour event (non-major) since the 2023 Tour Championship, where he finished T-18. Hatton teed it up in the 2024 Sentry and 2024 Sony Open in Hawaii, placing T-14 and T-13, respectively, before moving to LIV for its 2024 season.",
-        "copy": "In two weeks, a pair of LIV Golf players are set to tee it up in a PGA Tour event. Jon Rahm and Tyrrell Hatton, members of Rahm's Legion XIII LIV team, were officially announced as in the field for the Genesis Scottish Open next month at the Renaissance Club. The Scottish is a co-sanctioned event between the PGA Tour and the DP World Tour, with each tour's members making up roughly half of the field.\n\nAs DP World Tour members, Rahm and Hatton are eligible to compete in the event and will be two of numerous European Ryder Cup stars expected to play in North Berwick. It will be Rahm's first PGA Tour event (non-major) since the 2023 Tour Championship, where he finished T-18. Hatton teed it up in the 2024 Sentry and 2024 Sony Open in Hawaii, placing T-14 and T-13, respectively, before moving to LIV for its 2024 season.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Sweetens Cove's expansion aims to stay true to its cult-favorite roots",
-        "link": "https://golf.com/travel/sweetens-cove-bandon-dune-green-fees-travel/",
-        "published": "2026-06-24T15:44:24+00:00",
-        "published_label": "Wed 24 Jun, 15:44",
-        "summary": "Sweetens Cove has outgrown its underdog status. But even as it expands, the Tennessee facility looks to stay true to its roots. The post Sweetens Cove’s expansion aims to stay true to its cult-favorite roots appeared first on Golf .",
-        "body": "Sweetens Cove Golf Club, the beloved nine-hole course in rural Tennessee, faces a question familiar to punk-rock bands that hit commercial pay dirt: how to appeal to a growing market without compromising what made you popular in the first place?\n\nIt’s a fine line but Sweetens has been straddling it. Born in 2014 as a bootstrapping operation just west of Chattanooga, the course shed its underdog status soon enough. Instagram helped with that, flooding feeds with alluring posts from the game’s nascent influencer set. When, three years later, the New York Times rang in with feature coverage of the Rob Collins/Tad King design, Sweetens’ standing in the mainstream was firmly sealed. Never mind that golfers — and golf writers — continued to refer to it as a “cult favorite.” The course had become a juggernaut.",
-        "copy": "Sweetens Cove Golf Club, the beloved nine-hole course in rural Tennessee, faces a question familiar to punk-rock bands that hit commercial pay dirt: how to appeal to a growing market without compromising what made you popular in the first place?\n\nIt’s a fine line but Sweetens has been straddling it. Born in 2014 as a bootstrapping operation just west of Chattanooga, the course shed its underdog status soon enough. Instagram helped with that, flooding feeds with alluring posts from the game’s nascent influencer set. When, three years later, the New York Times rang in with feature coverage of the Rob Collins/Tad King design, Sweetens’ standing in the mainstream was firmly sealed. Never mind that golfers — and golf writers — continued to refer to it as a “cult favorite.” The course had become a juggernaut.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf star makes surprise move in response to league’s major problem",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjRxUjVESnhSLWtyeW5zc2pwdWk0Y0o5TkJwalJvd1lTbzUycE5wUmVNN2hyeC1QemNZRFRjUEJDeFFBY0x4bmt5QVRPZGxMY055bDF5MEp1UGFJRnBpNEJPQzdkWmRaeXU3OTJyT3pOVXN5S3dSYlpxdW9aZEZCdFJYSmNJYm54VjFoMGFjWXBtbENPcklSeg?oc=5",
-        "published": "2026-06-24T15:38:42+00:00",
-        "published_label": "Wed 24 Jun, 15:38",
-        "summary": "LIV Golf star makes surprise move in response to league’s major problem Today's Golfer",
-        "body": "Forty-five days. That’s how long LIV Golf players will need to wait between starts on the breakaway league during the height of the season. The postponement of LIV’s event in New Orleans has created an uncomfortably long gap in the calendar as uncertainty surrounding the league’s longevity continues. That there is no LIV tournament until the return to JCB Golf & Country Club in late July has at least enabled chief executive Scott O’Neil to focus his attention entirely on securing the $300 million in funding the league needs to survive beyond 2026.\n\nBut while those investor calls take place in the background, several LIV players have been forced to scope out other tournaments to remain sharp during a lengthy hiatus at a critical juncture of the season.",
-        "copy": "Forty-five days. That’s how long LIV Golf players will need to wait between starts on the breakaway league during the height of the season. The postponement of LIV’s event in New Orleans has created an uncomfortably long gap in the calendar as uncertainty surrounding the league’s longevity continues. That there is no LIV tournament until the return to JCB Golf & Country Club in late July has at least enabled chief executive Scott O’Neil to focus his attention entirely on securing the $300 million in funding the league needs to survive beyond 2026.\n\nBut while those investor calls take place in the background, several LIV players have been forced to scope out other tournaments to remain sharp during a lengthy hiatus at a critical juncture of the season.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf duo confirmed for Genesis Scottish Open after striking DP World Tour deals",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1ZWeVdBNEJRdlM5eThQVjVQdGJ6VEpSQkxkZjhpcmEwTzVQYlpqMXRSb21SWWZlZ1NWVXlLVjdMOTV0bmFCQzNHSDJXRTVIVnN5X1JGTXozWGpHUWNiRkx4M0gyVjhha0Z4WERPRnUzdkIyQWZxRTdudFVPYUQ4RTZ5NGtkTlZnYzdhVW93ZTdmWGZTRnVlMVRiSktwenUxTlhfNUEwamd0MGI1Y3NWV2VOeGw2VFZfdmVTeEM2NA?oc=5",
-        "published": "2026-06-24T14:59:00+00:00",
-        "published_label": "Wed 24 Jun, 14:59",
-        "summary": "LIV Golf duo confirmed for Genesis Scottish Open after striking DP World Tour deals The Scotsman",
-        "body": "LIV Golf stars Jon Rahm and Tyrrell Hatton have both been confirmed for next month’s Genesis Scottish Open at The Renaissance Club. Legion XIII team-mates Rahm and Hatton will be part of a strong European Ryder Cup contingent in the $9 million Rolex Series event in East Lothian.\n\nBoth players will be making their first appearances on the DP World Tour since striking a deal over outstanding fines for playing in LIV Golf events without an official release.",
-        "copy": "LIV Golf stars Jon Rahm and Tyrrell Hatton have both been confirmed for next month’s Genesis Scottish Open at The Renaissance Club. Legion XIII team-mates Rahm and Hatton will be part of a strong European Ryder Cup contingent in the $9 million Rolex Series event in East Lothian.\n\nBoth players will be making their first appearances on the DP World Tour since striking a deal over outstanding fines for playing in LIV Golf events without an official release.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Travelers Championship Thursday tee times: Round 1 groupings",
-        "link": "https://golf.com/news/2026-travelers-championship-thursday-tee-times-round-1/",
-        "published": "2026-06-24T14:46:25+00:00",
-        "published_label": "Wed 24 Jun, 14:46",
-        "summary": "2026 Travelers Championship tee times for Thursday's first round at TPC River Highlands, featuring Scottie Scheffler, Wyndham Clark and more. The post 2026 Travelers Championship Thursday tee times: Round 1 groupings appeared first on Golf .",
-        "body": "The 2026 Travelers Championship begins Thursday, June 25, with the opening round at TPC River Highlands. You can find full Travelers Championship tee times for Thursday’s first round at the bottom of this post.\n\nWith the major championship and national open season in full swing, it’s easy for “regular” Tour events to fly a bit under the radar. But that’s not the case for this week’s Travelers Championship. After a short commute from Shinnecock Hills, the world’s best are ready to tee it up once again for the eighth and final Signature Event of this PGA Tour season.",
-        "copy": "The 2026 Travelers Championship begins Thursday, June 25, with the opening round at TPC River Highlands. You can find full Travelers Championship tee times for Thursday’s first round at the bottom of this post.\n\nWith the major championship and national open season in full swing, it’s easy for “regular” Tour events to fly a bit under the radar. But that’s not the case for this week’s Travelers Championship. After a short commute from Shinnecock Hills, the world’s best are ready to tee it up once again for the eighth and final Signature Event of this PGA Tour season.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Smashing Stats: Canada Open 2026",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTnltUV9EZW04NkVPLTdWZUhRNE1FVmJObFFFbXQ0amdKZWZLUUNuYWtsREpxdFBwVGNrVTZUemI3RnZGNG4xbFpfcVhRb1k2Tldna3Y4LUU2VTcwZjVLbUo3Nk85eXJweDNmS0JMT005LXo5X3RqUUxacjkxbFNoQUYtVm8wS1ZJSVcxaWM4Q2N6V0pWZXJtNQ?oc=5",
+        "published": "2026-07-01T15:22:30+00:00",
+        "published_label": "Wed 01 Jul, 15:22",
+        "summary": "Smashing Stats: Canada Open 2026 BWF World Tour",
+        "body": "Michelle Li celebrates winning the last of her four titles in 2022. Learn more about the Super 300 YONEX Canada Open 2026. Home favourite Michelle Li is the sole top seed to have previously aced her event.\n\nOther than Li, no singles player has won consecutive crowns from the beginning of the 2010s. She is also the only shuttler to win three on the spin this century (2014-2016). Li and Natsu Saito are just two former winners returning.",
+        "copy": "Michelle Li celebrates winning the last of her four titles in 2022. Learn more about the Super 300 YONEX Canada Open 2026. Home favourite Michelle Li is the sole top seed to have previously aced her event.\n\nOther than Li, no singles player has won consecutive crowns from the beginning of the 2010s. She is also the only shuttler to win three on the spin this century (2014-2016). Li and Natsu Saito are just two former winners returning.",
+        "first_seen": "2026-07-01T16:44:00.488765+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -8703,32 +8716,6 @@
         "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Smashing Stats: US Open 2026",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcG0wU01IbjBpR1Jhajk4Ui04cUc5M1VIUjJ4NUZVdzU2VGt3SFFkaER3Nm9aLS1fR0JKRS0yYm5majAwbjRWT0xpNmh5NU1nM3RRUVdjcE1OOUN2UFlHYk0zdWJsZFFkaG9jMlluZnMwTXhBNlpoRUNYSHVsSDJUZF81dW5Pb19CZmxkdWJjN2RxM3c?oc=5",
-        "published": "2026-06-24T14:50:16+00:00",
-        "published_label": "Wed 24 Jun, 14:50",
-        "summary": "Smashing Stats: US Open 2026 BWF World Tour",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-06-24T16:06:27.295599+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Smashing Stats: US Open 2026",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlpqakhyaU5JMTdiVkdObDlnTDBNMlZVVUlWZlkzaGpRMXk5cmhsWnNkWC1SZVR0VzVfMmR2YUpka2xXQU9BR1hFdnA5T1VaTlotYWpsTkplWlRjUWM3ZlJ1cXJ1U2FYaTR6QjIyazVkYjVQWkhEZ1AySHl3dU40a2pzeHk2aVFtOTF1RU1LZkFrZw?oc=5",
-        "published": "2026-06-24T14:50:16+00:00",
-        "published_label": "Wed 24 Jun, 14:50",
-        "summary": "Smashing Stats: US Open 2026 BWF World Tour",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
       }
     ],
     "Competitor News": [
@@ -8744,21 +8731,8 @@
         "body": "The Hundred has secured a significant commercial partnership with digital banking leader Monzo, naming the UK fintech company as its official banking partner in a deal that further strengthens the competition’s sponsorship portfolio ahead of a new chapter for the tournament.\n\nThe agreement marks Monzo’s first major investment in cricket and brings together one of the United Kingdom’s fastest-growing financial institutions with one of the country’s most innovative sports properties. As The Hundred prepares for its next phase of development, the partnership is expected to enhance fan engagement while providing Monzo with extensive visibility across the competition’s broadcast, digital and live-event platforms.",
         "copy": "The Hundred has secured a significant commercial partnership with digital banking leader Monzo, naming the UK fintech company as its official banking partner in a deal that further strengthens the competition’s sponsorship portfolio ahead of a new chapter for the tournament.\n\nThe agreement marks Monzo’s first major investment in cricket and brings together one of the United Kingdom’s fastest-growing financial institutions with one of the country’s most innovative sports properties. As The Hundred prepares for its next phase of development, the partnership is expected to enhance fan engagement while providing Monzo with extensive visibility across the competition’s broadcast, digital and live-event platforms.",
         "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Competitor News",
-        "source": "Google News",
-        "kind": "gnews",
-        "title": "Partnership Playbook: Bundesliga, Monzo, Polymarket and more",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQlk5VFVKTjNWVk1MeVFwbUhFT1NkTXRQbXRnMi1seHpENUhFdUdjOFR2OXRzU2ZVMXloZkxEdi1zQkhaak91R1pJVGJTZGxMc0xMMmo3TzdWZWdaNjV0VjdvMTd6U2RORHdqczVnc2ZremstVXhBRFhQR3c4TDczV3djTdIBgwFBVV95cUxQQlk5VFVKTjNWVk1MeVFwbUhFT1NkTXRQbXRnMi1seHpENUhFdUdjOFR2OXRzU2ZVMXloZkxEdi1zQkhaak91R1pJVGJTZGxMc0xMMmo3TzdWZWdaNjV0VjdvMTd6U2RORHdqczVnc2ZremstVXhBRFhQR3c4TDczV3djTQ?oc=5",
-        "published": "2026-06-24T14:29:12+00:00",
-        "published_label": "Wed 24 Jun, 14:29",
-        "summary": "Partnership Playbook: Bundesliga, Monzo, Polymarket and more Insider Sport",
-        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
-        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
-        "first_seen": "2026-06-24T20:25:37.560073+00:00"
       }
     ]
   },
-  "total": 672
+  "total": 670
 }
