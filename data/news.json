@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T12:35:33.955990+00:00",
-  "generated_label": "Thursday 02 July 2026, 12:35 UTC",
+  "generated_at": "2026-07-02T13:25:04.916843+00:00",
+  "generated_label": "Thursday 02 July 2026, 13:25 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -89,6 +89,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-02T12:35:33.955990+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "PwC picks Canary Wharf for new London office",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1B1dUdNc056dnF2bmZfUl82RW9uZGdUNC12WlV5MndpQk1QOTBJRlgySEc5dXFxVmMwN0gybDk4S2FoRmFESjdPeUhiVTNlYTVXM0JaUzNMd1B4N3NKUUVWbWswZXJ3WXRzV0t0UllaWm1OdzY0eF9HX1JJcndVbjhmM18?oc=5",
+        "published": "2026-07-02T08:18:48+00:00",
+        "published_label": "Thu 02 Jul, 08:18",
+        "summary": "PwC picks Canary Wharf for new London office Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-02T13:25:04.916843+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1753,48 +1766,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-06-25T16:38:34.372732+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "F1 announces ticketing platform Fever as new official supplier",
-        "link": "https://www.sportspro.com/announcements/spotlight-agency/f1-announces-ticketing-platform-fever-as-new-official-supplier/",
-        "published": "2026-06-25T13:20:07+00:00",
-        "published_label": "Thu 25 Jun, 13:20",
-        "summary": "Formula One has announced that Fever, a leading global live-entertainment technology platform, will join the sport in a long-term global strategic partnership as its official supplier for races in 2027 and beyond. The post F1 announces ticketing platform Fever as new official supplier appeared first on SportsPro .",
-        "body": "As part of the new five-year agreement, Fever will provide a new ticketing platform for fans on F1.com for official general admission, local hospitality, and Paddock Club tickets, with a fresh new look and more sophisticated technology to improve discoverability, purchasing and customer service.\n\nThe agreement reflects the shared commitment from Formula One and Fever to develop cutting-edge innovative solutions that continue to enhance the fan experience and the global distribution of official Formula One tickets and hospitality packages.",
-        "copy": "As part of the new five-year agreement, Fever will provide a new ticketing platform for fans on F1.com for official general admission, local hospitality, and Paddock Club tickets, with a fresh new look and more sophisticated technology to improve discoverability, purchasing and customer service.\n\nThe agreement reflects the shared commitment from Formula One and Fever to develop cutting-edge innovative solutions that continue to enhance the fan experience and the global distribution of official Formula One tickets and hospitality packages.",
-        "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Untethered Goose Game",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lNm5pVFRBS3M5eHZ5YmFRbF9UNHhncklmVHZYNzNrUGJBa3ZKVzR5SDdVSnYweHlGemV4N3BvUlNrLUhvR0ZILUxILW9aODhvWHVyRjN5YVprelRPc291NG5EVExxTkJqUnJBcmRudFU?oc=5",
-        "published": "2026-06-25T13:09:37+00:00",
-        "published_label": "Thu 25 Jun, 13:09",
-        "summary": "Untethered Goose Game Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-06-25T16:38:34.372732+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Donald Trump faces off with angry Republican caucus",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVZYLTZyNDduQmhWNm9LUVpGbUdzZE9uQzJ4eHhQV1RMaExDT1JHT0FRVlRodS1Uck4yZ0lSXzNTU0tLaFM1ZWRvSUdnVDNnb3U3alRPbjMzTmdEX0Z0aDBTMWlqdHh3N3FCRnF5T1F4blRmbDlzZE9HSXJoQ3djbHM1TjY?oc=5",
-        "published": "2026-06-25T13:00:06+00:00",
-        "published_label": "Thu 25 Jun, 13:00",
-        "summary": "Donald Trump faces off with angry Republican caucus Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-06-26T13:37:39.430774+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Furbank to face Boks in first start in nearly two years",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c621kdzvvp2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-02T13:01:14+00:00",
+        "published_label": "Thu 02 Jul, 13:01",
+        "summary": "George Furbank will make his first England appearance in nearly two years in Saturday's Nations Championship opener against South Africa in Johannesburg.",
+        "body": "George Furbank will make his first England appearance in nearly two years in Saturday's Nations Championship opener against South Africa in Johannesburg. Furbank lines up in a back three with Cadan Murley and Immanuel Feyi-Waboso, with Tommy Freeman partnering Seb Atkinson at centre.\n\nIn the forwards, George Martin makes his first England start since the 2025 Six Nations, joining Alex Coles in the second row with Ollie Chessum on the blindside flank. Henry Pollock, who won back-to-back man-of-the-match awards as Northampton won the Prem title, is among the replacements.",
+        "copy": "George Furbank will make his first England appearance in nearly two years in Saturday's Nations Championship opener against South Africa in Johannesburg. Furbank lines up in a back three with Cadan Murley and Immanuel Feyi-Waboso, with Tommy Freeman partnering Seb Atkinson at centre.\n\nIn the forwards, George Martin makes his first England start since the 2025 Six Nations, joining Alex Coles in the second row with Ollie Chessum on the blindside flank. Henry Pollock, who won back-to-back man-of-the-match awards as Northampton won the Prem title, is among the replacements.",
+        "first_seen": "2026-07-02T13:25:04.916843+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Henry Pollock misses out on England XV to take on Springboks",
+        "link": "https://www.rugbypass.com/news/henry-pollock-misses-out-on-england-xv-to-take-on-springboks-nations-championship-steve-borthwick/",
+        "published": "2026-07-02T13:00:05+00:00",
+        "published_label": "Thu 02 Jul, 13:00",
+        "summary": "Henry Pollock has missed out on Steve Borthwick's starting XV to face South Africa on Saturday at Ellis Park in the opening round of the Nations Championship, having been selected on the bench, where he has been deployed for the majority of his Test career so far.",
+        "body": "Henry Pollock has missed out on Steve Borthwick’s starting XV to face South Africa on Saturday at Ellis Park in the opening round of the Nations Championship, having been selected on the bench, where he has been deployed for the majority of his Test career so far.\n\nLeading into the match, the 21-year-old’s name has dominated headlines in the land of the world champions, where he has proven to be a divisive character. While it may ostensibly appear Borthwick has removed the in-form Northampton Saints star from the firing line, it is more likely that he is attempting to replicate the XV that narrowly lost to France 48-46 at the end of the Guinness Six Nations this year. While there are some casualties from that evening in the French capital, there are equally a number of English stalwarts who have returned.",
+        "copy": "Henry Pollock has missed out on Steve Borthwick’s starting XV to face South Africa on Saturday at Ellis Park in the opening round of the Nations Championship, having been selected on the bench, where he has been deployed for the majority of his Test career so far.\n\nLeading into the match, the 21-year-old’s name has dominated headlines in the land of the world champions, where he has proven to be a divisive character. While it may ostensibly appear Borthwick has removed the in-form Northampton Saints star from the firing line, it is more likely that he is attempting to replicate the XV that narrowly lost to France 48-46 at the end of the Guinness Six Nations this year. While there are some casualties from that evening in the French capital, there are equally a number of English stalwarts who have returned.",
+        "first_seen": "2026-07-02T13:25:04.916843+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "No Russell but Gray back for Scotland in Argentina",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/clywjz18ke1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-02T12:45:45+00:00",
+        "published_label": "Thu 02 Jul, 12:45",
+        "summary": "Finn Russell will not feature for Scotland in their opening Nations Championship match of the summer series against Argentina, while Jonny Gray makes his return after missing this year's Six Nations.",
+        "body": "Finn Russell will not feature in Scotland's opening Nations Championship match of the summer series but could feature against South Africa, says head coach Gregor Townsend, who welcomes back Jonny Gray.\n\nFly-half Russell, 33, has not fully recovered from the calf injury that kept him out of the latter part of Bath's domestic campaign and was not considered for the match at Estadio Mario Alberto Kempes in Cordoba on Saturday (20:10 BST). The Scots face the Springboks in Pretoria on 11 July then Fiji at Murrayfield on 18 July.",
+        "copy": "Finn Russell will not feature in Scotland's opening Nations Championship match of the summer series but could feature against South Africa, says head coach Gregor Townsend, who welcomes back Jonny Gray.\n\nFly-half Russell, 33, has not fully recovered from the calf injury that kept him out of the latter part of Bath's domestic campaign and was not considered for the match at Estadio Mario Alberto Kempes in Cordoba on Saturday (20:10 BST). The Scots face the Springboks in Pretoria on 11 July then Fiji at Murrayfield on 18 July.",
+        "first_seen": "2026-07-02T12:35:33.955990+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -1819,19 +1832,6 @@
         "summary": "Babalwa Latsha will captain the Springbok Women on a permanent basis for the first time after being named skipper for Saturday's Test against the USA at Ellis Park, with Swys de Bruin selecting a settled side.",
         "body": "Babalwa Latsha will captain the Springbok Women on a permanent basis for the first time after being named skipper for Saturday’s Test against the USA at Ellis Park, with Swys de Bruin selecting a settled side.\n\nThe experienced tighthead prop succeeds long-serving captain Nolusindiso Booi, who retired from international rugby after last season. It will be the 41st Test cap for Latsha, making her South Africa’s most-capped tighthead prop, while she has previously captained the side on 15 occasions.",
         "copy": "Babalwa Latsha will captain the Springbok Women on a permanent basis for the first time after being named skipper for Saturday’s Test against the USA at Ellis Park, with Swys de Bruin selecting a settled side.\n\nThe experienced tighthead prop succeeds long-serving captain Nolusindiso Booi, who retired from international rugby after last season. It will be the 41st Test cap for Latsha, making her South Africa’s most-capped tighthead prop, while she has previously captained the side on 15 occasions.",
-        "first_seen": "2026-07-02T12:35:33.955990+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "No Russell but Gray back for Scotland in Argentina",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/clywjz18ke1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-02T12:08:15+00:00",
-        "published_label": "Thu 02 Jul, 12:08",
-        "summary": "Finn Russell will not feature for Scotland in their opening Nations Championship match of the summer series against Argentina, while Jonny Gray makes his return after missing this year's Six Nations.",
-        "body": "Finn Russell will not feature for Scotland in their opening Nations Championship match of the summer series against Argentina, while Jonny Gray makes his return after missing this year's Six Nations.\n\nRussell, 33, has not fully recovered from the calf injury that kept him out of the latter part of Bath's domestic campaign while Gray, 32, last played in a Scotland jersey in the 2025 Six Nations.",
-        "copy": "Finn Russell will not feature for Scotland in their opening Nations Championship match of the summer series against Argentina, while Jonny Gray makes his return after missing this year's Six Nations.\n\nRussell, 33, has not fully recovered from the calf injury that kept him out of the latter part of Bath's domestic campaign while Gray, 32, last played in a Scotland jersey in the 2025 Six Nations.",
         "first_seen": "2026-07-02T12:35:33.955990+00:00"
       },
       {
@@ -4173,32 +4173,6 @@
         "body": "Carys Phillips‘ selection for the Barbarians this weekend has seen her make a unique piece of history for the world famous invitational side. The 87-cap hooker has followed her father, Rowland, in gaining selection for the side. They are the first father-daughter team to represent the Barbarians.\n\nPhillips, 33, was previously coached by her father for Wales and captained the team during that time. Rowland Phillips is currently the head coach of Wales Deaf Men’s team. Earlier this year, Phillips gained selection to Sean Lynn’s Wales squad for the Guinness Women’s Six Nations, but did not gain selection for any of the team’s five defeats in the tournament. Her last cap came in Wales’ Women’s Rugby World Cup 2025 loss to Fiji.",
         "copy": "Carys Phillips‘ selection for the Barbarians this weekend has seen her make a unique piece of history for the world famous invitational side. The 87-cap hooker has followed her father, Rowland, in gaining selection for the side. They are the first father-daughter team to represent the Barbarians.\n\nPhillips, 33, was previously coached by her father for Wales and captained the team during that time. Rowland Phillips is currently the head coach of Wales Deaf Men’s team. Earlier this year, Phillips gained selection to Sean Lynn’s Wales squad for the Guinness Women’s Six Nations, but did not gain selection for any of the team’s five defeats in the tournament. Her last cap came in Wales’ Women’s Rugby World Cup 2025 loss to Fiji.",
         "first_seen": "2026-06-25T16:38:34.372732+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Why Alisha and Jasmine Joyce wanted to play domestic rugby in Wales next season",
-        "link": "https://www.rugbypass.com/news/why-alisha-and-jasmine-joyce-wanted-to-play-domestic-rugby-in-wales-next-season/",
-        "published": "2026-06-25T13:00:07+00:00",
-        "published_label": "Thu 25 Jun, 13:00",
-        "summary": "In choosing to leave Bristol Bears and return to Wales, Jasmine and Alisha Joyce made a clear decision: family over career. At least in the short term.",
-        "body": "In choosing to leave Bristol Bears and return to Wales, Jasmine and Alisha Joyce made a clear decision: family over career. At least in the short term. Not in the sense that returning to play on the ‘right’ side of the Severn dramatically hampers their rugby. They will line up in the Celtic Challenge. Both have already done so for the Brython Thunder. International duty, of course, is still in the picture.\n\nThe Joyces live in west Wales. In choosing to forego lengthy commutes to Bristol, they will be staying closer to family support now that their young son, Ralphie, has come along. They have chosen family over access to Premiership Women’s Rugby.",
-        "copy": "In choosing to leave Bristol Bears and return to Wales, Jasmine and Alisha Joyce made a clear decision: family over career. At least in the short term. Not in the sense that returning to play on the ‘right’ side of the Severn dramatically hampers their rugby. They will line up in the Celtic Challenge. Both have already done so for the Brython Thunder. International duty, of course, is still in the picture.\n\nThe Joyces live in west Wales. In choosing to forego lengthy commutes to Bristol, they will be staying closer to family support now that their young son, Ralphie, has come along. They have chosen family over access to Premiership Women’s Rugby.",
-        "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Argubly England's 2 best back-rows to lock horns in Top 14 Final",
-        "link": "https://www.rugbypass.com/news/argubly-englands-best-back-rows-to-lock-horns-in-top-14-final/",
-        "published": "2026-06-25T12:50:32+00:00",
-        "published_label": "Thu 25 Jun, 12:50",
-        "summary": "Stade Toulousain and Montpellier HR are just a few days away from finding out which of the two will take the Top 14 trophy home, with several UK players set to be involved in what’s expected to be a game for the ages.",
-        "body": "Stade Toulousain and Montpellier HR are just a few days away from finding out which of the two will take the Top 14 trophy home, with several UK players set to be involved in what’s expected to be a game for the ages.\n\nWith Jack Willis and Blair Kinghorn ready to help Ugo Mola’s Toulouse reach a 25th Bouclier de Brennus – in what would be their 4th consecutive title – Montpellier are bringing Adam Beard, Ali Price and Billy Vunipola to the Stade de France, hellbent on putting an end to Les Rouge et Noir’s reign.",
-        "copy": "Stade Toulousain and Montpellier HR are just a few days away from finding out which of the two will take the Top 14 trophy home, with several UK players set to be involved in what’s expected to be a game for the ages.\n\nWith Jack Willis and Blair Kinghorn ready to help Ugo Mola’s Toulouse reach a 25th Bouclier de Brennus – in what would be their 4th consecutive title – Montpellier are bringing Adam Beard, Ali Price and Billy Vunipola to the Stade de France, hellbent on putting an end to Les Rouge et Noir’s reign.",
-        "first_seen": "2026-06-25T13:42:17.284210+00:00"
       }
     ],
     "Tennis": [
@@ -6327,6 +6301,32 @@
         "section": "Golf",
         "source": "HSBC golf watch",
         "kind": "gnews",
+        "title": "Kaymer upbeat on LIV Golf future",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjRmJicW1pTnBOTUJ5VmptWWJVNFF6cldQV3VrbGFSdUwtbFIxbVJpOWo1TWluNndLNzRyeDBwZ19VendEekFjZUgxcWRHRkZTV1JrWFJqN2NNTGVPRUhiZ0ktVXptZEpUZVNJY0FqUUlaVHJBQzFnRmxISkRmQQ?oc=5",
+        "published": "2026-07-02T12:55:18+00:00",
+        "published_label": "Thu 02 Jul, 12:55",
+        "summary": "Kaymer upbeat on LIV Golf future Compleat Golfer",
+        "body": "Martin Kaymer struck an upbeat tone when asked about the latest investment update regarding the future of LIV Golf. The German is back on home soil for this week’s BMW International Open and quickly faced up to some questions as the captain of the Cleeks GC.\n\n“We had a good meeting yesterday,” Kaymer told bunkered.co.uk. “Scott O’Neil keeps us informed and it’s a very open conversation right now. The way it looked last night was really positive, there’s interest, I don’t know if they’ll pull through, but they presented a business plan and some kind of strategy for what 2027 can look like.",
+        "copy": "Martin Kaymer struck an upbeat tone when asked about the latest investment update regarding the future of LIV Golf. The German is back on home soil for this week’s BMW International Open and quickly faced up to some questions as the captain of the Cleeks GC.\n\n“We had a good meeting yesterday,” Kaymer told bunkered.co.uk. “Scott O’Neil keeps us informed and it’s a very open conversation right now. The way it looked last night was really positive, there’s interest, I don’t know if they’ll pull through, but they presented a business plan and some kind of strategy for what 2027 can look like.",
+        "first_seen": "2026-07-02T13:25:04.916843+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'That's a big deal': Jordan Spieth lays out risky strategy for Open repeat",
+        "link": "https://golf.com/news/jordan-spieth-risky-strategy-for-open-repeat/",
+        "published": "2026-07-02T12:41:14+00:00",
+        "published_label": "Thu 02 Jul, 12:41",
+        "summary": "Jordan Spieth is focused on repeating as Open champion at Royal Birkdale in two weeks. But it could come at the cost of his PGA Tour status. The post ‘That’s a big deal’: Jordan Spieth lays out risky strategy for Open repeat appeared first on Golf .",
+        "body": "In July 2017, Jordan Spieth was at the height of his powers, at least according to the man himself during his press conference at this week’s John Deere Classic. “That was probably the best I ever was at golf,” he revealed on Tuesday.\n\nThat month saw him capture his third major victory in three years, the Open Championship at Royal Birkdale. Swing issues and injuries have hobbled his career since. But the 13-time PGA Tour winner is finally fully healthy and feeling confident in his game, just in time for the Open’s return to Royal Birkdale two weeks from now.",
+        "copy": "In July 2017, Jordan Spieth was at the height of his powers, at least according to the man himself during his press conference at this week’s John Deere Classic. “That was probably the best I ever was at golf,” he revealed on Tuesday.\n\nThat month saw him capture his third major victory in three years, the Open Championship at Royal Birkdale. Swing issues and injuries have hobbled his career since. But the 13-time PGA Tour winner is finally fully healthy and feeling confident in his game, just in time for the Open’s return to Royal Birkdale two weeks from now.",
+        "first_seen": "2026-07-02T13:25:04.916843+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
         "title": "Jon Rahm’s latest DP World Tour plans revealed after taking LIV Golf deal",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVBLejRaeUhnN3g5aWtOTFAyN01JUVBxLWlqUHZNZEhsQ2g1RVh3VUxCaHdpaXgxMVdWNEd5WlR3aDN2b09qSTNHbk5iTndKOTB6YVNhM2gxcS14c2VBWkhMR1djc1hELTN3d0F6LS1kd211M2RhRFdxQjBLa0FJSndnUGtWdnJtX0tSU3hOUi1tTjI3Zl9TS2RGSmV3bDUwMDE5N1gtdWZNMVVzV2pV?oc=5",
         "published": "2026-07-02T11:14:55+00:00",
@@ -7895,35 +7895,61 @@
         "body": "The 2026 Travelers Championship kicks off Thursday with the first round at TPC River Highlands in Cromwell, Conn. Here’s everything you need to know to watch the tournament on Thursday, including full Travelers Championship TV coverage, streaming details and complete Round 1 tee times.\n\nWyndham Clark is hoping to continue the hottest streak of his career at this week’s Travelers Championship — the eighth and final Signature Event of the PGA Tour season. Clark’s record in his last four tournaments speaks for itself: Win, third, T11, and win at the U.S. Open. That’s quite a run! He’s now ranked eighth in the world, and is fourth in the FedEx Cup points standings.",
         "copy": "The 2026 Travelers Championship kicks off Thursday with the first round at TPC River Highlands in Cromwell, Conn. Here’s everything you need to know to watch the tournament on Thursday, including full Travelers Championship TV coverage, streaming details and complete Round 1 tee times.\n\nWyndham Clark is hoping to continue the hottest streak of his career at this week’s Travelers Championship — the eighth and final Signature Event of the PGA Tour season. Clark’s record in his last four tournaments speaks for itself: Win, third, T11, and win at the U.S. Open. That’s quite a run! He’s now ranked eighth in the world, and is fourth in the FedEx Cup points standings.",
         "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Sun Mountain's new 'pencil' golf bag makes sharp statement",
-        "link": "https://golf.com/gear/bags/sun-mountains-victus-bag/",
-        "published": "2026-06-25T13:15:26+00:00",
-        "published_label": "Thu 25 Jun, 13:15",
-        "summary": "Sun Mountain has undergone a brand transformation including several exciting collaborations. This \"pencil\" bag collab with Victus is one. The post Sun Mountain’s new ‘pencil’ golf bag makes sharp statement appeared first on Golf .",
-        "body": "When I heard Sun Mountain was making a “pencil” bag, this wasn’t exactly what I was expecting. But after a couple of rounds with the new Sun Mountain x Victus Pencil Gold Stand Bag, it’s definitely got the flare and function to make for a great golf bag.\n\nPerhaps no golf bag brand has had more of a rebirth over the past couple of years than Sun Mountain. From a new logo, completely new bag lines and some high-profile collaborations, Sun Mountain has come to play in the increasingly competitive golf bag space.",
-        "copy": "When I heard Sun Mountain was making a “pencil” bag, this wasn’t exactly what I was expecting. But after a couple of rounds with the new Sun Mountain x Victus Pencil Gold Stand Bag, it’s definitely got the flare and function to make for a great golf bag.\n\nPerhaps no golf bag brand has had more of a rebirth over the past couple of years than Sun Mountain. From a new logo, completely new bag lines and some high-profile collaborations, Sun Mountain has come to play in the increasingly competitive golf bag space.",
-        "first_seen": "2026-06-25T13:42:17.284210+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "PGA Tour chief insists LIV Golf chaos didn't affect major shake-up",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjJpU3ZDcUZJZExvMS15bkVYNzdScFBPR3BiT3laZ1M0eEtIV1lPeUFyNmRXRzZvZFd4LW5DZ1Y4aVdNbU90amZEaldQenI5aVMyV0ktTHBPajJxQTFRNHpkd1hMRm90cEVNeUp3TF9kLW5lSjNlLU5nN1hkMWlXZnltZjVUREZOdDZvdTVDM2RvUF9fWUZYbnFKUHVBSGlONGZocFpFaw?oc=5",
-        "published": "2026-06-25T13:03:45+00:00",
-        "published_label": "Thu 25 Jun, 13:03",
-        "summary": "PGA Tour chief insists LIV Golf chaos didn't affect major shake-up Golfmagic",
-        "body": "PGA Tour chief executive Brian Rolapp insists the Tiger Woods-chaired Future Competition Committee (FCC) did not change its approach after Saudi Arabia announced it will withdraw its multibillion dollar backing of LIV Golf.\n\nOn Tuesday, Rolapp outlined how promotion and relegation will be a key element of a revamped PGA Tour in 2028. The proposed schedule changes will mean that the best players will compete in the \"Championship Series\" in 120-man fields with a 36-hole cut and minimum purses of $20m.",
-        "copy": "PGA Tour chief executive Brian Rolapp insists the Tiger Woods-chaired Future Competition Committee (FCC) did not change its approach after Saudi Arabia announced it will withdraw its multibillion dollar backing of LIV Golf.\n\nOn Tuesday, Rolapp outlined how promotion and relegation will be a key element of a revamped PGA Tour in 2028. The proposed schedule changes will mean that the best players will compete in the \"Championship Series\" in 120-man fields with a 36-hole cut and minimum purses of $20m.",
-        "first_seen": "2026-06-25T13:42:17.284210+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "India adopts BWF's new 3x15 badminton scoring system ahead of 2027 global rollout",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1dxbmd0N01SQ295d3kzaUdmRlRiaWFZSW9RcXM0Rm9KNWNmdWZGRFYzamw1SUJ0djRhcFJYNHpLcXpSclRWS0VORDNXSkVucDMxTVZLTUFGSE92YmJoX1hKQTZPbXFWaC1MUFBkbVgxX1ptalNiQkplQWV2QnloXzRFY1U?oc=5",
+        "published": "2026-07-02T13:00:00+00:00",
+        "published_label": "Thu 02 Jul, 13:00",
+        "summary": "India adopts BWF's new 3x15 badminton scoring system ahead of 2027 global rollout olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-02T13:25:04.916843+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BAI to implement BWF's 3x15 scoring system from July onwards",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKME5qUTVrTWlma0ZWcEJURkJpVnNxTjlFZWJENDNKeDV5SEFMZ0E4M0VvZnNXcnkzdlg5Mm5kWTlINmxPU3JTM1NNX2pIanZ5YnU5NW56RW1KVEFMbG0zd0RIeEhrMVMteTFrY05Uam1DekVJcmE3QzRDTG3SAYIBQVVfeXFMT3UyN2ZpRjBLWmRXMzQzdDVPc19CTFpLYXdOcnhUMmlOS2pYNjlUT3FhNE8xTkRnN1pwNmE0TXJDUVQwVUswM2tEbHpDdnhFVGRLNHludThhRVE0cW1wMHZwN1JaVTliamtoY1VDT1JDRm1Ra0l1cnhEMXAtTHVSY01hZw?oc=5",
+        "published": "2026-07-02T12:33:08+00:00",
+        "published_label": "Thu 02 Jul, 12:33",
+        "summary": "BAI to implement BWF's 3x15 scoring system from July onwards Indian Sports Home",
+        "body": "In a proactive step to keep Indian badminton ahead of the curve, the Badminton Association of India (BAI) will implement the new Badminton World Federation (BWF) 3x15 scoring system across the domestic circuit from July 2026, starting with the Yonex-Sunrise All India Senior Ranking Badminton Tournament, scheduled to be held at the Regional Sports Centre, Ernakulam, from July 7 to 14, 2026.\n\nThe move is aimed at ensuring Indian shuttlers transition seamlessly into the new format, adapt early to its tactical and physical demands, and sustain the success and competitive edge that have defined India’s rise as a badminton powerhouse globally.",
+        "copy": "In a proactive step to keep Indian badminton ahead of the curve, the Badminton Association of India (BAI) will implement the new Badminton World Federation (BWF) 3x15 scoring system across the domestic circuit from July 2026, starting with the Yonex-Sunrise All India Senior Ranking Badminton Tournament, scheduled to be held at the Regional Sports Centre, Ernakulam, from July 7 to 14, 2026.\n\nThe move is aimed at ensuring Indian shuttlers transition seamlessly into the new format, adapt early to its tactical and physical demands, and sustain the success and competitive edge that have defined India’s rise as a badminton powerhouse globally.",
+        "first_seen": "2026-07-02T13:25:04.916843+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Three-Time World Champion Pookkham Retires",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGQxdUlTLVBQX3lzbHROTTg0T2dqVF96OF9ibGROeFJKREFiVzhYWi0wMXg4anJ0QjlIdGd4MTBnVkVLcnZPU19sLWV1d0ZjUUNhUGpkV0NQdTI4NWlPY0czMXdteFJaYUU1aGtidnFpMEJoel9DMHFEcTNYVTFyVlE1V21tZkZhUHl4WHdtaWNoZWxtLWc?oc=5",
+        "published": "2026-07-02T12:31:46+00:00",
+        "published_label": "Thu 02 Jul, 12:31",
+        "summary": "Three-Time World Champion Pookkham Retires BWF",
+        "body": "Sujirat Pookkham, one of Thailand’s most decorated Para badminton players, has officially retired from competition, closing a chapter on nearly two decades at the top of the sport.\n\nThe 40-year-old rose to prominence by winning gold at the 2009 World Championships in Seoul and went on to become a consistent podium finisher on the sport’s biggest stages, including the Paralympic Games and Asian Para Games.",
+        "copy": "Sujirat Pookkham, one of Thailand’s most decorated Para badminton players, has officially retired from competition, closing a chapter on nearly two decades at the top of the sport.\n\nThe 40-year-old rose to prominence by winning gold at the 2009 World Championships in Seoul and went on to become a consistent podium finisher on the sport’s biggest stages, including the Paralympic Games and Asian Para Games.",
+        "first_seen": "2026-07-02T13:25:04.916843+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Indian Badminton Adopts New 3x15 Scoring System Domestically",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlpzSnd5a2FVSjZDdjdKa2hsWVBsUUhLam52VHpWRFpWYXEzRWNMRjkzYzZkUDVMT0dXWHdwVDNDT19wR0dZUnFmd0VZUGtfQnlqUjdhaWZlcFIwZEt2NmFxUnRrazMxdnI1ZC1BTXhXZGxVelRmY1lESFZNR1k4OTdteXNzVnNnaW1GZWxFN1E4Q21vSzhUMlJGMTZvRTBIM0tN0gGmAUFVX3lxTE9sSF9LQkJ4d3M3NmRmNlQyV1psSjFqUHlRS04zN2ZJTmNGSXBfWGdzeTJzSVV4NWQ3cUlZS3Fpd1BJSzY4eWZEUE9nV1cxYXRNa0ZxX2cycWk1QVBmOUlSSXZWUGI4dW9qbW9GUmlNV2JsNjRzNi15SjRhTlFHbXB3V0tMNmtCWWM2ekdjUUpDcXplX2FiRlhhbGpLQnVpWDctcGI4VHc?oc=5",
+        "published": "2026-07-02T12:29:35+00:00",
+        "published_label": "Thu 02 Jul, 12:29",
+        "summary": "Indian Badminton Adopts New 3x15 Scoring System Domestically Rediff",
+        "body": "Discover how the Badminton Association of India is revolutionising domestic badminton by implementing the new BWF 3x15 scoring format, preparing Indian shuttlers for international competition.\n\n- The Badminton Association of India (BAI) is implementing the new 3x15 scoring format across domestic tournaments. - This revised system will apply to all domestic rankings, zonals, and national championships from this month.",
+        "copy": "Discover how the Badminton Association of India is revolutionising domestic badminton by implementing the new BWF 3x15 scoring format, preparing Indian shuttlers for international competition.\n\n- The Badminton Association of India (BAI) is implementing the new 3x15 scoring format across domestic tournaments. - This revised system will apply to all domestic rankings, zonals, and national championships from this month.",
+        "first_seen": "2026-07-02T13:25:04.916843+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -8525,5 +8551,5 @@
     ],
     "Competitor News": []
   },
-  "total": 654
+  "total": 656
 }
