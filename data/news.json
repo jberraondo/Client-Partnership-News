@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T16:45:21.727214+00:00",
-  "generated_label": "Tuesday 07 July 2026, 16:45 UTC",
+  "generated_at": "2026-07-07T20:34:31.036968+00:00",
+  "generated_label": "Tuesday 07 July 2026, 20:34 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -76,6 +76,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-07T13:58:44.734273+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Donald Trump’s intervention hangs over World Cup as US crashes out",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUZyTlJFTjJZREI5aUxPZ2JnSGhzXzUxR1NBQ1c3YkY3UWxacWtGRmJfeEtqS0NGMWlob2FnYy1aLXdZX3hFVlE4SExYZXVNcjFRUGlTQllGMjNid0pjdGVGRkNzdHJBQzZFVFVKYVQ1UGNpam8zUW9oQUpkSE1aVkRpR1E?oc=5",
+        "published": "2026-07-07T13:00:03+00:00",
+        "published_label": "Tue 07 Jul, 13:00",
+        "summary": "Donald Trump’s intervention hangs over World Cup as US crashes out Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1760,6 +1773,110 @@
         "section": "Rugby",
         "source": "Rugby Pass",
         "kind": "direct",
+        "title": "The Wallabies’ five crucial ‘what-if’ moments from the heartbreaking Ireland loss in Sydney",
+        "link": "https://www.rugbypass.com/plus/the-wallabies-five-crucial-what-if-moments-from-the-heartbreaking-ireland-loss-in-sydney/",
+        "published": "2026-07-07T20:31:46+00:00",
+        "published_label": "Tue 07 Jul, 20:31",
+        "summary": "Joe Schmidt's Australia side gave the world's No 3 ranked team an almighty scare and regrets should fuel them to deliver against France",
+        "body": "Wallabies fans, and probably the Wallabies themselves walked out of Allianz Stadium in Sydney with an all-too familiar feeling on Saturday night: deep frustration. Of course, the scoreboard will show the Wallabies led at half-time, but didn’t at full-time, and that is the source of the ‘one that got away’ feeling. Once again, they’ve shown plenty of promise that they really can take it to the best teams in the international game, but only up until a point.\n\nBut this was a very different start to the 2026 international season, compared to how they finished in 2025. There was a significant improvement in their attacking shape and punch, and they showed rugby instinct that had dropped off by the end of last year.",
+        "copy": "Wallabies fans, and probably the Wallabies themselves walked out of Allianz Stadium in Sydney with an all-too familiar feeling on Saturday night: deep frustration. Of course, the scoreboard will show the Wallabies led at half-time, but didn’t at full-time, and that is the source of the ‘one that got away’ feeling. Once again, they’ve shown plenty of promise that they really can take it to the best teams in the international game, but only up until a point.\n\nBut this was a very different start to the 2026 international season, compared to how they finished in 2025. There was a significant improvement in their attacking shape and punch, and they showed rugby instinct that had dropped off by the end of last year.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Hooper extends Exeter contract before Australia return",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c4gyl9ek9xko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T20:27:01+00:00",
+        "published_label": "Tue 07 Jul, 20:27",
+        "summary": "Australia flanker Tom Hooper extends his contract at Exeter by a further season before agreeing to return to Super Rugby.",
+        "body": "Australia flanker Tom Hooper has extended his contract at Exeter until the summer of 2028, but will then return to Australia. Under the deal the 25-year-old will join the Queensland Reds ahead of the start of the 2029 Super Rugby Pacific season.\n\nThe deal will keep him in his homeland until 2030. Hooper has enjoyed an impressive first season in England, helping the Chiefs reach the Prem final after finishing third in the league.",
+        "copy": "Australia flanker Tom Hooper has extended his contract at Exeter until the summer of 2028, but will then return to Australia. Under the deal the 25-year-old will join the Queensland Reds ahead of the start of the 2029 Super Rugby Pacific season.\n\nThe deal will keep him in his homeland until 2030. Hooper has enjoyed an impressive first season in England, helping the Chiefs reach the Prem final after finishing third in the league.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Springboks will provide rising Scots with true yardstick",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqx17gr922ro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T18:51:30+00:00",
+        "published_label": "Tue 07 Jul, 18:51",
+        "summary": "Scotland have risen to fifth in the world rankings after beating Argentina, but Saturday's visit to South Africa will be a true test of their perceived improvement, writes Andy Burke.",
+        "body": "Riding high at fifth in the world rankings after a stunning opening Nations Championship win in Argentina, Scotland are feeling pretty good about themselves, but what comes next will provide a true reflection of where they stand in the global game.\n\nA showdown with back-to-back world champions South Africa in Pretoria is the next assignment and the type of challenge that Scotland were all too rarely afforded before World Rugby's shake-up of the summer schedule.",
+        "copy": "Riding high at fifth in the world rankings after a stunning opening Nations Championship win in Argentina, Scotland are feeling pretty good about themselves, but what comes next will provide a true reflection of where they stand in the global game.\n\nA showdown with back-to-back world champions South Africa in Pretoria is the next assignment and the type of challenge that Scotland were all too rarely afforded before World Rugby's shake-up of the summer schedule.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "World Rugby Junior World Championship semi-final fixtures confirmed",
+        "link": "https://www.rugbypass.com/news/world-rugby-junior-world-championship-semi-final-fixtures-confirmed/",
+        "published": "2026-07-07T18:36:29+00:00",
+        "published_label": "Tue 07 Jul, 18:36",
+        "summary": "Reigning champions South Africa U20 have booked their place in the World Rugby Junior World Championship semi-finals following a winner-takes-all victory over Wales U20 in Tbilisi on Tuesday.",
+        "body": "Reigning champions South Africa U20 have booked their place in the World Rugby Junior World Championship semi-finals as top seeds following a winner-takes-all victory over Wales U20 in Tbilisi on Tuesday.\n\nThe Junior Boks overcame a 14-0 deficit in the first half to triumph 52-33 over Wales and secure top seeding heading into the semi-finals. The contest was one of three matches between unbeaten sides in round three of the Junior World Championship in Georgia, with England U20 and Argentina U20 putting their unbeaten records on the line in Pool C, and France U20 and Australia U20 doing the same in Pool D.",
+        "copy": "Reigning champions South Africa U20 have booked their place in the World Rugby Junior World Championship semi-finals as top seeds following a winner-takes-all victory over Wales U20 in Tbilisi on Tuesday.\n\nThe Junior Boks overcame a 14-0 deficit in the first half to triumph 52-33 over Wales and secure top seeding heading into the semi-finals. The contest was one of three matches between unbeaten sides in round three of the Junior World Championship in Georgia, with England U20 and Argentina U20 putting their unbeaten records on the line in Pool C, and France U20 and Australia U20 doing the same in Pool D.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Exeter recruit 'incredibly talented' Wales prop Davies for 2026/27",
+        "link": "https://www.rugbypass.com/news/exeter-recruit-incredibly-talented-wales-prop-davies-for-2026-27/",
+        "published": "2026-07-07T17:33:59+00:00",
+        "published_label": "Tue 07 Jul, 17:33",
+        "summary": "Exeter Chiefs have confirmed the signing of 17-cap Wales prop Maisie Davies ahead of the 2026/27 Premiership Women's Rugby season.",
+        "body": "Exeter Chiefs have confirmed the signing of 17-cap Wales prop Maisie Davies ahead of the 2026/27 Premiership Women’s Rugby season. Last season the 20-year-old loosehead prop made 10 appearances for Bristol Bears in her debut English top flight campaign.\n\nDavies made her Wales debut in 2024’s WXV 2 and represented her country at Women’s Rugby World Cup 2025, where she made three appearances. The 20-year-old had a rapid rise in women’s rugby after she converted from the back-row to the front-row ahead of the 2024 U20 Women’s Summer Series. Later that year Davies made her Test debut and enjoyed a strong 2024/25 Celtic Challenge season.",
+        "copy": "Exeter Chiefs have confirmed the signing of 17-cap Wales prop Maisie Davies ahead of the 2026/27 Premiership Women’s Rugby season. Last season the 20-year-old loosehead prop made 10 appearances for Bristol Bears in her debut English top flight campaign.\n\nDavies made her Wales debut in 2024’s WXV 2 and represented her country at Women’s Rugby World Cup 2025, where she made three appearances. The 20-year-old had a rapid rise in women’s rugby after she converted from the back-row to the front-row ahead of the 2024 U20 Women’s Summer Series. Later that year Davies made her Test debut and enjoyed a strong 2024/25 Celtic Challenge season.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "The Zimbabwe star pro clubs should be fighting over, according to Ian Prior",
+        "link": "https://www.rugbypass.com/news/the-zimbabwe-star-european-clubs-should-be-fighting-over-according-to-ian-prior/",
+        "published": "2026-07-07T17:00:35+00:00",
+        "published_label": "Tue 07 Jul, 17:00",
+        "summary": "The Nations Cup is in full swing, and Zimbabwe’s Sables took the fight to Tonga in their first game, pushing the Pacific Island nation to the limit.",
+        "body": "The Nations Cup is in full swing, and Zimbabwe’s Sables took the fight to Tonga in their first game, pushing the Pacific Island nation to the limit. While the African nation ended up conceding a 36-26 loss, they showed they aren’t in the competition to make up the numbers.\n\nWith the likes of Jason Fraser, Hilton Mudariki, Edward Sigauke and Simba Mandioma impressing, it looks like rugby fans can be thrilled over the next few games, a view endorsed by their veteran player Ian Prior.",
+        "copy": "The Nations Cup is in full swing, and Zimbabwe’s Sables took the fight to Tonga in their first game, pushing the Pacific Island nation to the limit. While the African nation ended up conceding a 36-26 loss, they showed they aren’t in the competition to make up the numbers.\n\nWith the likes of Jason Fraser, Hilton Mudariki, Edward Sigauke and Simba Mandioma impressing, it looks like rugby fans can be thrilled over the next few games, a view endorsed by their veteran player Ian Prior.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Justine Pelletier column: Inside Stade Bordelais' Élite 1 four-peat",
+        "link": "https://www.rugbypass.com/news/justine-pelletier-column-inside-stade-bordelais-elite-1-four-peat/",
+        "published": "2026-07-07T16:58:38+00:00",
+        "published_label": "Tue 07 Jul, 16:58",
+        "summary": "I didn’t think that we had won a fourth AXA Élite 1 title in a tow until the last 20 minutes. We had been defending on our own goal line for a while.",
+        "body": "I didn’t think that we had won a fourth AXA Élite 1 title in a row until the last 20 minutes. We had been defending on our own goal line for a while. ASM Romagnat had a lot of lineouts in our 22-metres and there were these little mistakes that they made, that finally made me chill. We had it. We still had to defend. We had to be calm and confident. We didn’t panic. Because when panic arrives that’s when stuff hits the fan.\n\nWhen the referee blew the final whistle I just hugged Rose Thomas. She was one of my first teammates when I arrived in Bordeaux six years ago and she has been coaching us since her retirement. Sunday was actually her last game with us. It really meant a lot to celebrate with her before I joined everyone else on the pitch.",
+        "copy": "I didn’t think that we had won a fourth AXA Élite 1 title in a row until the last 20 minutes. We had been defending on our own goal line for a while. ASM Romagnat had a lot of lineouts in our 22-metres and there were these little mistakes that they made, that finally made me chill. We had it. We still had to defend. We had to be calm and confident. We didn’t panic. Because when panic arrives that’s when stuff hits the fan.\n\nWhen the referee blew the final whistle I just hugged Rose Thomas. She was one of my first teammates when I arrived in Bordeaux six years ago and she has been coaching us since her retirement. Sunday was actually her last game with us. It really meant a lot to celebrate with her before I joined everyone else on the pitch.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Vakatawa close to comeback with Fiji after fearing Test career was over",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cdjk0xg37vgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T16:47:53+00:00",
+        "published_label": "Tue 07 Jul, 16:47",
+        "summary": "Virimi Vakatawa, whose power and pace graced France's midfield, could turn out for Fiji against England on Saturday.",
+        "body": "The 34-year-old centre was barred from playing in France in September 2022 after a panel of doctors said that his cardiac health had deteriorated, leaving him too vulnerable to play elite sport in the country.\n\nWhile the decision ruled out any return as a key part of France's midfield – where he started the 2019 Rugby World Cup quarter-final against Wales and was a Six Nations regular - it only applied domestically.",
+        "copy": "The 34-year-old centre was barred from playing in France in September 2022 after a panel of doctors said that his cardiac health had deteriorated, leaving him too vulnerable to play elite sport in the country.\n\nWhile the decision ruled out any return as a key part of France's midfield – where he started the 2019 Rugby World Cup quarter-final against Wales and was a Six Nations regular - it only applied domestically.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
         "title": "Junior Boks fight back from early scare to beat Wales U20",
         "link": "https://www.rugbypass.com/news/junior-boks-fight-back-from-early-scare-to-beat-wales-u20/",
         "published": "2026-07-07T16:14:25+00:00",
@@ -1768,6 +1885,19 @@
         "body": "Liam Van Wyk and Siphosethu Mnebelele scored two tries each to keep reigning champions South Africa on course for a third World Rugby Junior World Championship title with a 52-33 victory in their winner-takes-all Pool A clash with Wales.\n\nThe Boks booked their semi-final spot with a fantastic eight-try display, six of them converted by Western Province fly-half Yaqeen Ahmed, returning for his first game since being sent off for South Africa A against Zimbabwe last month.",
         "copy": "Liam Van Wyk and Siphosethu Mnebelele scored two tries each to keep reigning champions South Africa on course for a third World Rugby Junior World Championship title with a 52-33 victory in their winner-takes-all Pool A clash with Wales.\n\nThe Boks booked their semi-final spot with a fantastic eight-try display, six of them converted by Western Province fly-half Yaqeen Ahmed, returning for his first game since being sent off for South Africa A against Zimbabwe last month.",
         "first_seen": "2026-07-07T16:45:21.727214+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Tenacious Wales U20s beaten by junior Springboks",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c77y55xz533o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T16:10:47+00:00",
+        "published_label": "Tue 07 Jul, 16:10",
+        "summary": "Wales fail to make Junior World Championship semi-finals despite a spirited showing against champions South Africa in Georgia.",
+        "body": "Tenacious Wales were overpowered by eight-try South Africa in the shoot-out for the Junior World Championship semi-finals. Richard Whiffin's Wales side set up a shot at the last four by beating tournament hosts Georgia and Uruguay, but a meeting with the reigning champions meant a step up in class.\n\nThe Junior Springboks responded to a fast Welsh start at Avchala Stadium to book a place in the last four in the defence of their title. Flanker Caio James and centre Steffan Emanuel scored tries in the first half for Wales and were followed over by centre Osian Darwin-Lewis, wing Tom Bowen and full-back Lewis Edwards in a spirited showing.",
+        "copy": "Tenacious Wales were overpowered by eight-try South Africa in the shoot-out for the Junior World Championship semi-finals. Richard Whiffin's Wales side set up a shot at the last four by beating tournament hosts Georgia and Uruguay, but a meeting with the reigning champions meant a step up in class.\n\nThe Junior Springboks responded to a fast Welsh start at Avchala Stadium to book a place in the last four in the defence of their title. Flanker Caio James and centre Steffan Emanuel scored tries in the first half for Wales and were followed over by centre Osian Darwin-Lewis, wing Tom Bowen and full-back Lewis Edwards in a spirited showing.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
       },
       {
         "section": "Rugby",
@@ -1885,6 +2015,19 @@
         "body": "Ireland U20 player ratings: A ruthless display from the Irish U20s as they held nothing back, delivering a 73-22 win in their final showing in the group stages. With Charlie O’Shea and Sean Walsh each bagging a hat-trick, Ireland managed to gain some momentum ahead of the ranking knockouts. Here’s how the players rated:\n\nA few missteps here and there at scrum time, but an overall fine performance from loosehead prop Adam Cooper. Managed to bank a try of his own. Good command of the set-piece from Duinn Maguire, with the Irish hooker keeping his forward pack focused throughout the game while getting involved in a few critical plays that ended with the Irish celebrating.",
         "copy": "Ireland U20 player ratings: A ruthless display from the Irish U20s as they held nothing back, delivering a 73-22 win in their final showing in the group stages. With Charlie O’Shea and Sean Walsh each bagging a hat-trick, Ireland managed to gain some momentum ahead of the ranking knockouts. Here’s how the players rated:\n\nA few missteps here and there at scrum time, but an overall fine performance from loosehead prop Adam Cooper. Managed to bank a try of his own. Good command of the set-piece from Duinn Maguire, with the Irish hooker keeping his forward pack focused throughout the game while getting involved in a few critical plays that ended with the Irish celebrating.",
         "first_seen": "2026-07-07T13:58:44.734273+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Fogarty backs uncapped Ireland props Bohan and Illo",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cddlj938dj3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T11:00:44+00:00",
+        "published_label": "Tue 07 Jul, 11:00",
+        "summary": "Scrum coach John Fogarty says the Ireland backroom team have been impressed with uncapped props Billy Bohan and Sam Illo, who are hoping to make their Test debuts against Japan this week.",
+        "body": "Scrum coach John Fogarty says the Ireland backroom team have been impressed with uncapped props Billy Bohan and Sam Illo, who are hoping to make their Test debuts against Japan this week.\n\nBohan, 20, is pushing for a first outing at loose-head with Jeremy Loughman ruled out after sustaining a concussion in Saturday's win over Australia. Illo - Bohan's Connacht team-mate - could feature at tight-head if Tadhg Furlong is rested before the All Blacks game on 18 July.",
+        "copy": "Scrum coach John Fogarty says the Ireland backroom team have been impressed with uncapped props Billy Bohan and Sam Illo, who are hoping to make their Test debuts against Japan this week.\n\nBohan, 20, is pushing for a first outing at loose-head with Jeremy Loughman ruled out after sustaining a concussion in Saturday's win over Australia. Illo - Bohan's Connacht team-mate - could feature at tight-head if Tadhg Furlong is rested before the All Blacks game on 18 July.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
       },
       {
         "section": "Rugby",
@@ -4316,35 +4459,61 @@
         "body": "Wales begin the Nations Championship when they face Fiji in Cardiff on Saturday, before trips to Argentina and South Africa. The new tournament means a change from traditional tours at this time of year, but how well do you remember Wales' recent summer matches?\n\nTest yourself with our quiz on the past five summers of rugby for the men's national team. After more quizzes? Go to our dedicated Football Quizzes and Sports Quizzes pages and sign up for notifications to get the latest quizzes sent straight to your device.",
         "copy": "Wales begin the Nations Championship when they face Fiji in Cardiff on Saturday, before trips to Argentina and South Africa. The new tournament means a change from traditional tours at this time of year, but how well do you remember Wales' recent summer matches?\n\nTest yourself with our quiz on the past five summers of rugby for the men's national team. After more quizzes? Go to our dedicated Football Quizzes and Sports Quizzes pages and sign up for notifications to get the latest quizzes sent straight to your device.",
         "first_seen": "2026-07-01T14:00:36.595047+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Rugby Union Weekly",
-        "link": "https://www.bbc.co.uk/sounds/play/p0nw0q7q?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-30T18:42:00+00:00",
-        "published_label": "Tue 30 Jun, 18:42",
-        "summary": "Chris and Paul Grayson have made it to South Africa and catch up with Sir Kevin Sinfield.",
-        "body": "Chris and Paul Grayson are in Johannesburg ahead of England’s huge Nations Championship opener against South Africa. They are joined by the sport’s newest knight, Sir Kevin Sinfield, to talk about being awarded the knighthood and his determination to continue raising awareness for MND. Sinfield discusses England’s approach this weekend at Ellis Park and how they are dealing with the unique challenges of playing in the spiritual home of Springbok rugby.",
-        "copy": "Chris and Paul Grayson are in Johannesburg ahead of England’s huge Nations Championship opener against South Africa. They are joined by the sport’s newest knight, Sir Kevin Sinfield, to talk about being awarded the knighthood and his determination to continue raising awareness for MND. Sinfield discusses England’s approach this weekend at Ellis Park and how they are dealing with the unique challenges of playing in the spiritual home of Springbok rugby.",
-        "first_seen": "2026-06-30T20:36:38.026581+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Where's the power? And what to do with Sua'ali'i? The key questions facing the Wallabies",
-        "link": "https://www.rugbypass.com/plus/wheres-the-power-and-what-to-do-with-suaalii-the-key-questions-facing-the-wallabies/",
-        "published": "2026-06-30T18:34:27+00:00",
-        "published_label": "Tue 30 Jun, 18:34",
-        "summary": "As he prepares to hand the coaching reins to Les Kiss, Australia coach Joe Schmidt will look to provide answers to several selection quandaries.",
-        "body": "The first Wallabies squad of the year brings new excitement, with Australian fans trying to work out which parts will go where, as players switch from Super Rugby to international rugby.\n\nIt’s also the beginning of the end of the Joe Schmidt era. Schmidt will take charge for these first three Nations Championship Tests, with a concerted, gradual increase in Les Kiss’ presence ahead of the completed takeover for the Japan series and the not-Rugby Championship Tests in August and September.",
-        "copy": "The first Wallabies squad of the year brings new excitement, with Australian fans trying to work out which parts will go where, as players switch from Super Rugby to international rugby.\n\nIt’s also the beginning of the end of the Joe Schmidt era. Schmidt will take charge for these first three Nations Championship Tests, with a concerted, gradual increase in Les Kiss’ presence ahead of the completed takeover for the Japan series and the not-Rugby Championship Tests in August and September.",
-        "first_seen": "2026-06-30T20:36:38.026581+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Mboko withdraws from Canadian Open due to knee injury",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRW9ObGk5bTNBZzdyVE9rbkhybkdmeGd0dmpfaVVYNEJwb1dXaFNOdmVhRWg3X2tmcDFBOHJqZW1IM18tZW1MVXhJQkJHbXVibzFsMFUzbGV0TGM3REZkcFltRktUMEhNMHlKV2xYM0ZoZF9SR2ZKQXZTcHlnZTItSVRzd3Vyck1XZHdxSlJCLTJTVkJqRmVvOWpqOA?oc=5",
+        "published": "2026-07-07T20:07:43+00:00",
+        "published_label": "Tue 07 Jul, 20:07",
+        "summary": "Mboko withdraws from Canadian Open due to knee injury Reuters",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'Hogwarts stuff'",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/c4gydzk883ko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T19:07:51+00:00",
+        "published_label": "Tue 07 Jul, 19:07",
+        "summary": "Enjoy the best shots from day nine of Wimbledon 2026, featuring Coco Gauff and Great Britain's Alfie Hewitt.",
+        "body": "",
+        "copy": "Enjoy the best shots from day nine of Wimbledon 2026, featuring Coco Gauff and Great Britain's Alfie Hewitt.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Why do we see empty seats at Wimbledon's show courts?",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c3vy0pynvqyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T17:08:01+00:00",
+        "published_label": "Tue 07 Jul, 17:08",
+        "summary": "BBC Sport's Ask Me Anything team explains why there are often empty seats in the crowd at Wimbledon, despite high ticket sales",
+        "body": "It is not uncommon to see empty seats on Wimbledon's show courts throughout the tournament. The sight may come as a surprise given the huge queues and sold-out status of the event every year, but there are a few reasons why empty seats on Centre Court and Court One should be expected.\n\nOne main reason is that spectators are only allowed to either leave or return to their seats for any reason when players change ends every two games. This can lead to people being stuck for some time waiting to be allowed to re-enter the court.",
+        "copy": "It is not uncommon to see empty seats on Wimbledon's show courts throughout the tournament. The sight may come as a surprise given the huge queues and sold-out status of the event every year, but there are a few reasons why empty seats on Centre Court and Court One should be expected.\n\nOne main reason is that spectators are only allowed to either leave or return to their seats for any reason when players change ends every two games. This can lead to people being stuck for some time waiting to be allowed to re-enter the court.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "What is Wimbledon's Last 8 Club?",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c07d53xyydxo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T16:50:42+00:00",
+        "published_label": "Tue 07 Jul, 16:50",
+        "summary": "BBC Sport's Ask Me Anything team looks at what Wimbledon's Last 8 Club is and how players qualify for it.",
+        "body": "The Last 8 Club is an exclusive club for tennis players who have reached the quarter-finals or better in the men's and women's singles tournaments at Wimbledon. Starting as a tradition in 1986, joining the Last 8 Club allows players past and present to enter the Wimbledon grounds at their leisure for the rest of their lives, free tickets, entry to a designated hospitality suite and tickets on centre court and court one.\n\nThere is also an annual Last 8 Supper Party held for members. Given that the tournament is one that almost all current active players are involved in, it is common that players do not take advantage of the facilities they are entitled to until they have retired from playing professionally.",
+        "copy": "The Last 8 Club is an exclusive club for tennis players who have reached the quarter-finals or better in the men's and women's singles tournaments at Wimbledon. Starting as a tradition in 1986, joining the Last 8 Club allows players past and present to enter the Wimbledon grounds at their leisure for the rest of their lives, free tickets, entry to a designated hospitality suite and tickets on centre court and court one.\n\nThere is also an annual Last 8 Supper Party held for members. Given that the tournament is one that almost all current active players are involved in, it is common that players do not take advantage of the facilities they are entitled to until they have retired from playing professionally.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -5969,100 +6138,61 @@
         "body": "",
         "copy": "Maya Joint, 20, says she has been \"dreaming\" of playing on Centre Court since she was little, after overcoming \"legend\" Serena Williams to reach the second round of Wimbledon 2026.",
         "first_seen": "2026-07-01T14:00:36.595047+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Four British players win but 15 out in first round",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c5yzv717n49o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-30T19:13:44+00:00",
-        "published_label": "Tue 30 Jun, 19:13",
-        "summary": "Britons Katie Swan, Jacob Fearnley, Arthur Fery and Jan Choinski reach the Wimbledon second round - but 15 home players fall to opening-round defeats for the first time in 38 years.",
-        "body": "Katie Swan, Jacob Fearnley, Arthur Fery and Jan Choinski ensured there will be British representation in the Wimbledon singles second round - but 15 home players fell to opening-round defeats for the first time in 38 years.\n\nThe 10 losses by British players on the opening day of their home Grand Slam was the most at SW19 since daily records began in 2000. Defeats for Katie Boulter, Toby Samuel, Jack Pinnington Jones, Billy Harris and debutant Harry Wendelken on Tuesday meant the total number of first-round losses for home players was the most since 16 exited in 1988.",
-        "copy": "Katie Swan, Jacob Fearnley, Arthur Fery and Jan Choinski ensured there will be British representation in the Wimbledon singles second round - but 15 home players fell to opening-round defeats for the first time in 38 years.\n\nThe 10 losses by British players on the opening day of their home Grand Slam was the most at SW19 since daily records began in 2000. Defeats for Katie Boulter, Toby Samuel, Jack Pinnington Jones, Billy Harris and debutant Harry Wendelken on Tuesday meant the total number of first-round losses for home players was the most since 16 exited in 1988.",
-        "first_seen": "2026-06-30T12:35:28.799841+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Williams 'takes it all in' on Centre Court return",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/c932jy2qz24o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-30T19:07:34+00:00",
-        "published_label": "Tue 30 Jun, 19:07",
-        "summary": "Serena Williams receives a standing ovation from the Centre Court crowd as she walks out to play at Wimbledon for the first time in four years.",
-        "body": "",
-        "copy": "Serena Williams receives a standing ovation from the Centre Court crowd as she walks out to play at Wimbledon for the first time in four years.",
-        "first_seen": "2026-06-30T20:36:38.026581+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Wimbledon: News, updates, with Emma Raducanu, Jack Draper, Jannik Sinner, Aryna Sabalenka, Serena Williams preparing for Grand Slam",
-        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSmQ2WlRCQzcyZ3BoZ3BEaG5KVWZEY0trVXNsUllOMXZLeVV1VW9GZW9qVFVMbWNfVVdNNWRDZVk3dERzbU51aXpiMHRmd0dzck0xc0tlZWhpcU1Qb05wR0dHMkhRWjhEY0pKZzJqTzc2Z1RoOHBvUWdHM1VYWDZXc3BES2RNYmZwM2JESXJESHZiRWltZ3VQOFZOUVQ2bVpTQWExcW1XejloQjZ5YWc3RmRTcDFTVTJBbk5tckp4X2NFdEU2WG44UGhnWmpEREN1SWpqTVplc2J6YVpmbjlhbVJiNmlHNVp5MVVWREVobUF1bEJrLVQtYXBHVkptaU9YdklzUmRwR0k3WDJJNWNSZHpWWHQ5OHhPODhxSDBhUXc2UQ?oc=5",
-        "published": "2026-06-30T18:56:30+00:00",
-        "published_label": "Tue 30 Jun, 18:56",
-        "summary": "Wimbledon: News, updates, with Emma Raducanu, Jack Draper, Jannik Sinner, Aryna Sabalenka, Serena Williams preparing for Grand Slam Sky Sports",
-        "body": "Katie Swan halted the British exodus at Wimbledon by claiming only the second Grand Slam singles victory of a career she feared might be slipping away. At 12.29pm on day two of the Championships, the 27-year-old became the first home favourite to reach the second round with a 6-4 6-4 success over Romanian world No 173 Irina-Camelia Begu.\n\nHer Court 16 win in an hour and 23 minutes came after 11 British players crashed out, and leading stars Jack Draper and Emma Raducanu withdrew through injury. As well as providing some much-needed cheer for the home crowd in SW19, Swan's triumph - sealed by capitalising on her fifth match point - represented a significant personal milestone. She cried on the massage table when she learnt she had been awarded a wild card for her first Wimbledon appearance in three years, having feared recurrent back injuries might cut short her playing days.",
-        "copy": "Katie Swan halted the British exodus at Wimbledon by claiming only the second Grand Slam singles victory of a career she feared might be slipping away. At 12.29pm on day two of the Championships, the 27-year-old became the first home favourite to reach the second round with a 6-4 6-4 success over Romanian world No 173 Irina-Camelia Begu.\n\nHer Court 16 win in an hour and 23 minutes came after 11 British players crashed out, and leading stars Jack Draper and Emma Raducanu withdrew through injury. As well as providing some much-needed cheer for the home crowd in SW19, Swan's triumph - sealed by capitalising on her fifth match point - represented a significant personal milestone. She cried on the massage table when she learnt she had been awarded a wild card for her first Wimbledon appearance in three years, having feared recurrent back injuries might cut short her playing days.",
-        "first_seen": "2026-06-27T11:19:22.955281+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Fery uses 'dishonesty' row to fuel Wimbledon win",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cj3g2jxr027o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-30T18:54:23+00:00",
-        "published_label": "Tue 30 Jun, 18:54",
-        "summary": "Britain's Arthur Fery is accused of dishonesty by Bosnian opponent Damir Dzumhur following a row over a let call at Wimbledon",
-        "body": "Britain's Arthur Fery was accused of dishonesty by Bosnian opponent Damir Dzumhur following a row over a let call which proved instrumental in the home player's Wimbledon victory.\n\nWildcard Fery, 23, fought back from a set and 2-0 down to beat 34-year-old Dzumhur in a 3-6 6-2 6-2 6-1 victory. Afterwards Fery tried to downplay the incident, saying he feels Dzumhur creates controversy \"with everyone\".",
-        "copy": "Britain's Arthur Fery was accused of dishonesty by Bosnian opponent Damir Dzumhur following a row over a let call which proved instrumental in the home player's Wimbledon victory.\n\nWildcard Fery, 23, fought back from a set and 2-0 down to beat 34-year-old Dzumhur in a 3-6 6-2 6-2 6-1 victory. Afterwards Fery tried to downplay the incident, saying he feels Dzumhur creates controversy \"with everyone\".",
-        "first_seen": "2026-06-30T20:36:38.026581+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'How good was that?'",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/cx2xjq5p5d3o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-30T18:38:56+00:00",
-        "published_label": "Tue 30 Jun, 18:38",
-        "summary": "Watch the best shots from day two of Wimbledon 2026, featuring British hopeful Toby Samuel.",
-        "body": "'How good was that?' - best shots from Wimbledon day two This content is not available in your location. Watch the best shots from day two of Wimbledon 2026, featuring British hopeful Toby Samuel.\n\nWatch the best shots from day two of Wimbledon 2026, featuring British hopeful Toby Samuel.",
-        "copy": "'How good was that?' - best shots from Wimbledon day two This content is not available in your location. Watch the best shots from day two of Wimbledon 2026, featuring British hopeful Toby Samuel.\n\nWatch the best shots from day two of Wimbledon 2026, featuring British hopeful Toby Samuel.",
-        "first_seen": "2026-06-30T20:36:38.026581+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Emma Raducanu reveals the toughest opponent she has ever faced on the WTA Tour",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMl85MXF3X2VhYl84Z0QtLXRYempLdkxPMFBmb1JSTmNucUxiUGVtY1RQUFh3TUl0V29oSHMwd1hpa2NIMnZxZm9ZYUZKeHVGVFY1eWZic3lYYXRNeWJOUkRlMldXeXo0ZWlpUk5ENG84MnktVzNOQUllQzlaNTdhQVAxMnRfQ2s4MHUzbW5tZEZtYXRidFNGN0pPN0lFQ05waVpGRnV2bXY0WEtlX0RzZEVtR1RVZFd5UzRSRm51M0ZGQy1wRkVSQ3k2T21KWmVBdzVBeHctNA?oc=5",
-        "published": "2026-06-30T17:50:57+00:00",
-        "published_label": "Tue 30 Jun, 17:50",
-        "summary": "Emma Raducanu reveals the toughest opponent she has ever faced on the WTA Tour Tennis World USA",
-        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
-        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
-        "first_seen": "2026-06-30T20:36:38.026581+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'You can't walk out in an outfit and go out first round'",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c5yzg0y1wd8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-30T17:46:00+00:00",
-        "published_label": "Tue 30 Jun, 17:46",
-        "summary": "Taylor Fritz arrives for his first-round match in a statement all-white suit - and avoids looking \"really stupid\" by registering a dominant win.",
-        "body": "A first-round defeat at Wimbledon is something every player wants to avoid - especially after making a statement entrance on to court in a tailored suit. Fortunately for Taylor Fritz, he escaped that fate after stepping out on Court One in a suit reminiscent of Roger Federer's iconic outfit from 2007.\n\nThe American sixth seed arrived in style for his first-round match against Dusan Lajovic - wearing an all-white blazer and trouser combo over his usual tennis attire. He backed up his grand arrival with a dominant 6-3 6-4 6-3 win over the Serb, but later revealed the outfit had made him more nervous than usual.",
-        "copy": "A first-round defeat at Wimbledon is something every player wants to avoid - especially after making a statement entrance on to court in a tailored suit. Fortunately for Taylor Fritz, he escaped that fate after stepping out on Court One in a suit reminiscent of Roger Federer's iconic outfit from 2007.\n\nThe American sixth seed arrived in style for his first-round match against Dusan Lajovic - wearing an all-white blazer and trouser combo over his usual tennis attire. He backed up his grand arrival with a dominant 6-3 6-4 6-3 win over the Serb, but later revealed the outfit had made him more nervous than usual.",
-        "first_seen": "2026-06-30T20:36:38.026581+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "5 quick at-home drills that will help you hit the ball solid immediately",
+        "link": "https://golf.com/instruction/five-quick-drills-hit-ball-solidly-tony-ruggiero/",
+        "published": "2026-07-07T20:05:07+00:00",
+        "published_label": "Tue 07 Jul, 20:05",
+        "summary": "GOLF Top 100 Teacher Tony Ruggiero has five drills you can do in under a minute that will help you hit the ball more solidly. The post 5 quick at-home drills that will help you hit the ball solid immediately appeared first on Golf .",
+        "body": "I recently ran a golf school for a great group of members at Aronimink, working alongside their assistant, Tessa Teachman. Tessa, along with my fellow Dewsweepers Morgan Hale and Connor Luke, worked together to help a great group of members make some pretty dramatic improvements to their contact in less than a day.\n\nThe changes didn’t require anything drastic from a physical perspective. They all came down to helping players associate new feels for what the club can do when you get out of the way and stop working against it. Most amateurs don’t need a swing overhaul, they just need to find the ground in the right spot to get solid contact, and do it with a good pivot. That’s the whole battle for a huge percentage of golfers.",
+        "copy": "I recently ran a golf school for a great group of members at Aronimink, working alongside their assistant, Tessa Teachman. Tessa, along with my fellow Dewsweepers Morgan Hale and Connor Luke, worked together to help a great group of members make some pretty dramatic improvements to their contact in less than a day.\n\nThe changes didn’t require anything drastic from a physical perspective. They all came down to helping players associate new feels for what the club can do when you get out of the way and stop working against it. Most amateurs don’t need a swing overhaul, they just need to find the ground in the right spot to get solid contact, and do it with a good pivot. That’s the whole battle for a huge percentage of golfers.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Genesis Scottish Open: Jon Rahm on LIV Golf's future and whether players could offer their own money to help it continue",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb2ZjbU1waTE3cjVpUlVxaG5xQUdWejZDY0xSSngxZ3kxTXlPeGdTTzVqR2NlLVlXd3F6bjBja3hMY2EteFoyQTRKcVc1UnVxQ3RjV21vVnBvNVBsVnR6RW1ydnAta1JZc1dKTnJvT05NdERNUWNLR0w4Z0Q2OWxXWi1DVGlZWGxVbkJXRkxnYW1DVTRtYTBIbkRUeTJKMlRyUEN1Mk9XZXI2d1EzemdWYUZqRU9uVTRoYXp3Q09HNFNTeTMyNy1WakNBR1FFUWdxZkRyV3Q1b0R2a0ZPVGNaRVBnN1Vzek14RmtOLWw4LUt5Yi1KTDI3TmtwZzlqQQ?oc=5",
+        "published": "2026-07-07T18:41:05+00:00",
+        "published_label": "Tue 07 Jul, 18:41",
+        "summary": "Genesis Scottish Open: Jon Rahm on LIV Golf's future and whether players could offer their own money to help it continue Sky Sports",
+        "body": "Jon Rahm insists he has not been asked to contribute his own money to support LIV Golf's long-term future, but has refused to rule out doing so in the future. Saudi Arabia's Public Investment Fund (PIF) announced in April that they will end their funding for LIV Golf at the end of the 2026 season, leaving the league searching to find fresh investment.\n\nBryson DeChambeau has previously said he remains committed to the circuit and is \"giving all he can\" to help it continue, with LIV Golf seeking $300m in funding to ensure their survival beyond this year.",
+        "copy": "Jon Rahm insists he has not been asked to contribute his own money to support LIV Golf's long-term future, but has refused to rule out doing so in the future. Saudi Arabia's Public Investment Fund (PIF) announced in April that they will end their funding for LIV Golf at the end of the 2026 season, leaving the league searching to find fresh investment.\n\nBryson DeChambeau has previously said he remains committed to the circuit and is \"giving all he can\" to help it continue, with LIV Golf seeking $300m in funding to ensure their survival beyond this year.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "LIV Golf needs investors. Will one of them be Jon Rahm?",
+        "link": "https://golf.com/news/liv-golf-investors-jon-rahm/",
+        "published": "2026-07-07T17:44:53+00:00",
+        "published_label": "Tue 07 Jul, 17:44",
+        "summary": "LIV Golf needs investors after losing Saudi PIF backing. Will one of them be Jon Rahm? He talked about that at the Genesis Scottish Open. The post LIV Golf needs investors. Will one of them be Jon Rahm? appeared first on Golf .",
+        "body": "Jon Rahm says no, he hasn’t been asked to put his own money back into LIV Golf. But what if the league made the request? “Something I’ve learned in life, never say never,” he said Tuesday.\n\n“I’m not going to say absolutely no to anything that can happen in the future.” Speaking Tuesday ahead of this week’s Genesis Scottish Open, Rahm had been asked whether he’d help finance the prize fund for the league in which he plays, an idea that a reporter said could be an option while LIV seeks new investors as it’s been told it will no longer be backed by the Saudi Arabia Public Investment Fund. In December of 2023, Rahm left the PGA Tour and signed what has been reported as a nine-figure deal with LIV.",
+        "copy": "Jon Rahm says no, he hasn’t been asked to put his own money back into LIV Golf. But what if the league made the request? “Something I’ve learned in life, never say never,” he said Tuesday.\n\n“I’m not going to say absolutely no to anything that can happen in the future.” Speaking Tuesday ahead of this week’s Genesis Scottish Open, Rahm had been asked whether he’d help finance the prize fund for the league in which he plays, an idea that a reporter said could be an option while LIV seeks new investors as it’s been told it will no longer be backed by the Saudi Arabia Public Investment Fund. In December of 2023, Rahm left the PGA Tour and signed what has been reported as a nine-figure deal with LIV.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This week's Scottish Open features a quiet test for golf fans",
+        "link": "https://golf.com/news/scottish-open-renaissance-club-course-routing/",
+        "published": "2026-07-07T17:07:24+00:00",
+        "published_label": "Tue 07 Jul, 17:07",
+        "summary": "This week's Scottish Open will feature different faces, but the bigger change has to do with the golf holes down the stretch. The post This week’s Scottish Open features a quiet test for golf fans appeared first on Golf .",
+        "body": "NORTH BERWICK, Scotland — This week’s Scottish Open will be different, we can promise you that. For starters, LIV golfers Jon Rahm and Tyrrell Hatton are playing. That’s different. Former LIV player Brooks Koepka is competing as a sponsor’s exemption … out of necessity … on the DP World Tour half of the field. That’s different. And yet, one piece of newness simmers in the background, made with fans in mind.\n\nThe holes at Renaissance Club have been shifted around. And in a not-so-subtle way aimed at creating the most compelling product possible from an unchanged golf course. Normally, a rerouting of holes may not do much for excitement, particularly for the American crowd across the Atlantic Ocean. Often a rerouting is made out of necessity for a course renovation. But this one is simply to maximize the setting for fans on-site and construe the most excitement for a TV audience.",
+        "copy": "NORTH BERWICK, Scotland — This week’s Scottish Open will be different, we can promise you that. For starters, LIV golfers Jon Rahm and Tyrrell Hatton are playing. That’s different. Former LIV player Brooks Koepka is competing as a sponsor’s exemption … out of necessity … on the DP World Tour half of the field. That’s different. And yet, one piece of newness simmers in the background, made with fans in mind.\n\nThe holes at Renaissance Club have been shifted around. And in a not-so-subtle way aimed at creating the most compelling product possible from an unchanged golf course. Normally, a rerouting of holes may not do much for excitement, particularly for the American crowd across the Atlantic Ocean. Often a rerouting is made out of necessity for a course renovation. But this one is simply to maximize the setting for fans on-site and construe the most excitement for a TV audience.",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -6270,6 +6400,19 @@
         "body": "Sergio Garcia is highly confident LIV Golf will survive past 2027, even as the league prepares to lose its financial backing from Saudi Arabia's Public Investment Fund (PIF) at the end of this season.\n\nBut with LIV reportedly seeking up to $300 million in fresh investment and bracing for a smaller schedule next year, Garcia isn't leaving his own plans to chance. The Spaniard intends to secure his DP World Tour card back for 2027.",
         "copy": "Sergio Garcia is highly confident LIV Golf will survive past 2027, even as the league prepares to lose its financial backing from Saudi Arabia's Public Investment Fund (PIF) at the end of this season.\n\nBut with LIV reportedly seeking up to $300 million in fresh investment and bracing for a smaller schedule next year, Garcia isn't leaving his own plans to chance. The Spaniard intends to secure his DP World Tour card back for 2027.",
         "first_seen": "2026-07-07T13:58:44.734273+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "He went blind. Then he found golf through an unexpected hero: Grandpa",
+        "link": "https://golf.com/news/blind-golfer-competing-at-u-s-adaptive/",
+        "published": "2026-07-07T03:44:56+00:00",
+        "published_label": "Tue 07 Jul, 03:44",
+        "summary": "When Tyler Cashman lost his eyesight, he lost his way. That is, until he found golf and, with it, an unexpected wingman: his grandfather. The post He went blind. Then he found golf through an unexpected hero: Grandpa appeared first on Golf .",
+        "body": "WOODMONT, Md. — Tyler Cashman shares the news with a startling deadpan: He’s just fired his caddie. “To come and do it at this level, you have to have someone that you can trust and depend on,” Cashman says, pausing for a beat before delivering the knockout blow. “…I’m still looking for that.”\n\nFive feet away, Cashman’s caddie rolls his eyes. “You fire me five times a round,” the looper says, a neon-green bib over his shoulders. “You’re going to have to do better than that.”",
+        "copy": "WOODMONT, Md. — Tyler Cashman shares the news with a startling deadpan: He’s just fired his caddie. “To come and do it at this level, you have to have someone that you can trust and depend on,” Cashman says, pausing for a beat before delivering the knockout blow. “…I’m still looking for that.”\n\nFive feet away, Cashman’s caddie rolls his eyes. “You fire me five times a round,” the looper says, a neon-green bib over his shoulders. “You’re going to have to do better than that.”",
+        "first_seen": "2026-07-07T20:34:31.036968+00:00"
       },
       {
         "section": "Golf",
@@ -7596,45 +7739,6 @@
         "body": "If you would rather read about the big names who didn’t make it through, you can do so right here. Caleb Surratt, who plays for Jon Rahm’s LIV Golf team, Legion XIII, was among the five to get through on the Somerset links.\n\nMatthew Baldwin, a DP World Tour veteran who was born a pitch and putt from Royal Birkdale, will tee up in just his third Open in his hometown. Matthew Southgate, who finished T6 the last time The Open was at Birkdale, was among the five to get through in Kent, as was LIV Golf player Peter Uihlein.",
         "copy": "If you would rather read about the big names who didn’t make it through, you can do so right here. Caleb Surratt, who plays for Jon Rahm’s LIV Golf team, Legion XIII, was among the five to get through on the Somerset links.\n\nMatthew Baldwin, a DP World Tour veteran who was born a pitch and putt from Royal Birkdale, will tee up in just his third Open in his hometown. Matthew Southgate, who finished T6 the last time The Open was at Birkdale, was among the five to get through in Kent, as was LIV Golf player Peter Uihlein.",
         "first_seen": "2026-07-01T14:00:36.595047+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Are your golf shoes costing you strokes? Arccos data might soon tell you",
-        "link": "https://golf.com/gear/shoes/arccos-golf-shoes/",
-        "published": "2026-06-30T20:04:00+00:00",
-        "published_label": "Tue 30 Jun, 20:04",
-        "summary": "On this week's episode of GOLF's Fully Equipped, Arccos CEO Sal Syed explains the potential for the app to track shoes' impact on scoring. The post Are your golf shoes costing you strokes? Arccos data might soon tell you appeared first on Golf .",
-        "body": "Golfers spend hours and thousands of dollars ensuring their golf clubs and ball are perfectly dialed. So, why don’t they devote the same care and thought to a piece of equipment they use on every single shot?\n\nOn this week’s episode of GOLF’s Fully Equipped, co-host Jake Morrow sat down with Arccos CEO Sal Syed and discussed the possibility that the shot-tracking app could soon be able to offer you analytical guidance on which type of shoes you perform best in.",
-        "copy": "Golfers spend hours and thousands of dollars ensuring their golf clubs and ball are perfectly dialed. So, why don’t they devote the same care and thought to a piece of equipment they use on every single shot?\n\nOn this week’s episode of GOLF’s Fully Equipped, co-host Jake Morrow sat down with Arccos CEO Sal Syed and discussed the possibility that the shot-tracking app could soon be able to offer you analytical guidance on which type of shoes you perform best in.",
-        "first_seen": "2026-06-30T20:36:38.026581+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "McDonald joins MacIntyre as second Scot in Open field",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c78yx7pdyxyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-30T19:28:35+00:00",
-        "published_label": "Tue 30 Jun, 19:28",
-        "summary": "Troon golfer Jack McDonald secures his place at the 154th Open Championship after coming through final qualifying at Dundonald Links.",
-        "body": "Troon golfer Jack McDonald secured his place at the 154th Open Championship after coming through final qualifying at Dundonald Links. The 33-year-old carded rounds of 70 and 69 to finish five under par, one shot clear of England's Matthew Baldwin and Irish amateur David Howard.\n\nAmerican Marcus Plunkett and Dutch amateur Neville Ruiter claimed the other two qualifying places on offer in Ayrshire after finishing on three under. McDonald, who also qualified for The Open at Royal Troon from Dundonald Links two years ago, believes his familiarity with the course proved invaluable as difficult weather conditions tested the field.",
-        "copy": "Troon golfer Jack McDonald secured his place at the 154th Open Championship after coming through final qualifying at Dundonald Links. The 33-year-old carded rounds of 70 and 69 to finish five under par, one shot clear of England's Matthew Baldwin and Irish amateur David Howard.\n\nAmerican Marcus Plunkett and Dutch amateur Neville Ruiter claimed the other two qualifying places on offer in Ayrshire after finishing on three under. McDonald, who also qualified for The Open at Royal Troon from Dundonald Links two years ago, believes his familiarity with the course proved invaluable as difficult weather conditions tested the field.",
-        "first_seen": "2026-06-30T20:36:38.026581+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf holds meeting as star claims “we want to play more”",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzhMaEVnZFBoelctVl8xY0VHMUJORzRMM2wwRlZFczVCYlV4elQwVUc0cXFCdVRNeTJJeUtSSUZfaDM0ZHhOTHJaeEhJaUh1WC15M1VFdjhJekQzak5QczQxWlAzbktVZlpBYVNCNU1VMk95N05CZlZxdUdBbVJxNDdSdXZ0TG0xaGNhVWhjX1gtMnB3bTRkSDB2MXI?oc=5",
-        "published": "2026-06-30T16:58:02+00:00",
-        "published_label": "Tue 30 Jun, 16:58",
-        "summary": "LIV Golf holds meeting as star claims “we want to play more” bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV golfer Martin Kaymer has revealed that the league held a ‘really positive’ meeting last night, as uncertainty continues to loom over the future of the circuit.\n\nKaymer, who is playing in this week’s BMW International Open on home soil, said LIV bosses presented investors with a business plan for 2027 – and, notably, that there is interest in funding it.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV golfer Martin Kaymer has revealed that the league held a ‘really positive’ meeting last night, as uncertainty continues to loom over the future of the circuit.\n\nKaymer, who is playing in this week’s BMW International Open on home soil, said LIV bosses presented investors with a business plan for 2027 – and, notably, that there is interest in funding it.",
-        "first_seen": "2026-07-01T20:33:02.237962+00:00"
       }
     ],
     "Badminton": [
@@ -8018,5 +8122,5 @@
     ],
     "Competitor News": []
   },
-  "total": 615
+  "total": 623
 }
