@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T12:02:20.898263+00:00",
-  "generated_label": "Wednesday 08 July 2026, 12:02 UTC",
+  "generated_at": "2026-07-08T12:12:44.540484+00:00",
+  "generated_label": "Wednesday 08 July 2026, 12:12 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -128,6 +128,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-08T12:02:20.898263+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Transcript: Rewiring sport — is tech ruining sports fandom?",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQbklRZWUxaFZaS0RMVlN5aEpkMW83WlhXNUxDc2pNTzh2MHpSdmcxNmxlenUtcnVRQjlKMzRXeXJoSzB0eHpfamd5U3VPMm1kMWZEd0cyblJaX2JDSHYtbGlncl9XYU11QnM1ZWhBZEg?oc=5",
+        "published": "2026-07-08T04:57:08+00:00",
+        "published_label": "Wed 08 Jul, 04:57",
+        "summary": "Transcript: Rewiring sport — is tech ruining sports fandom? Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-08T12:12:44.540484+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -8031,5 +8044,5 @@
     ],
     "Competitor News": []
   },
-  "total": 616
+  "total": 617
 }
