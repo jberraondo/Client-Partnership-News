@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T15:41:37.834725+00:00",
-  "generated_label": "Sunday 12 July 2026, 15:41 UTC",
+  "generated_at": "2026-07-12T19:59:55.563015+00:00",
+  "generated_label": "Sunday 12 July 2026, 19:59 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -24,6 +24,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "US senator Lindsey Graham dies aged 71",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOek9yOGgwVUc1dmdjTlo1SkY1NzBEdzBXUmQtTEtnY3gzNGYwdmYyT0hJRENadDV5ZGJvNWtUUE90YlVLRGVrOUc4OXlXWFczdC1tcnNrcWhhVVQ5NmVaU1V6X2FPVncxWXdjVDdDeFZjekoyQUZpcEo2a3Q2OXJSd3dVaVk?oc=5",
+        "published": "2026-07-12T07:09:39+00:00",
+        "published_label": "Sun 12 Jul, 07:09",
+        "summary": "US senator Lindsey Graham dies aged 71 Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1691,6 +1704,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Wales took step back against Pumas",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8d2v4e0g4mo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T17:04:46+00:00",
+        "published_label": "Sun 12 Jul, 17:04",
+        "summary": "Try-scoring prop Rhys Carre feels Wales took a step back with their performance in defeat against Argentina in the Nations Championship.",
+        "body": "Rhys Carre is proving to be hard to stop with ball in hand but the try-scoring prop believes Wales took a step back in defeat by Argentina. Steve Tandy's men were beaten 35-21 by the Pumas in San Juan in round two of the Nations Championship.\n\nArgentina were convincing winners as they responded to a defeat by Scotland, while Wales' mini revival was ended after Test wins against Italy and Fiji either side of a success against the Barbarians.",
+        "copy": "Rhys Carre is proving to be hard to stop with ball in hand but the try-scoring prop believes Wales took a step back in defeat by Argentina. Steve Tandy's men were beaten 35-21 by the Pumas in San Juan in round two of the Nations Championship.\n\nArgentina were convincing winners as they responded to a defeat by Scotland, while Wales' mini revival was ended after Test wins against Italy and Fiji either side of a success against the Barbarians.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -4121,22 +4147,61 @@
         "body": "Wales will arrive in Argentina tired but buoyed by their 39-24 win against Fiji at the Cardiff City Stadium. It represented a second consecutive international success following the Six Nations finale victory against Italy, and a third successive win including the 33-31 uncapped success against Barbarians.\n\nSo what can Steve Tandy's side take from the victory at a half-full Cardiff City Stadium when it comes to trying to tame the Pumas in San Juan on Saturday? Argentina might have just lost 47-38 at home to Scotland but Wales will remember the 52-28 heavy loss to Felipe Contepomi's side in Cardiff in November 2025.",
         "copy": "Wales will arrive in Argentina tired but buoyed by their 39-24 win against Fiji at the Cardiff City Stadium. It represented a second consecutive international success following the Six Nations finale victory against Italy, and a third successive win including the 33-31 uncapped success against Barbarians.\n\nSo what can Steve Tandy's side take from the victory at a half-full Cardiff City Stadium when it comes to trying to tame the Pumas in San Juan on Saturday? Argentina might have just lost 47-38 at home to Scotland but Wales will remember the 52-28 heavy loss to Felipe Contepomi's side in Cardiff in November 2025.",
         "first_seen": "2026-07-06T17:20:18.705168+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Fin Smith offers scathing verdict on England loss to Boks",
-        "link": "https://www.rugbypass.com/news/fin-smith-admits-beaten-england-were-soft-in-defence-against-south-africa/",
-        "published": "2026-07-05T18:21:28+00:00",
-        "published_label": "Sun 05 Jul, 18:21",
-        "summary": "Fin Smith admitted England were “soft” in defence against South Africa as he offered an honest appraisal of the 45-21 mauling at Ellis Park on Saturday that registered a fifth straight Test defeat.",
-        "body": "Fin Smith admitted England were “soft” in defence against South Africa as he offered an honest appraisal of the 45-21 mauling at Ellis Park on Saturday that registered a fifth straight Test defeat.\n\nSmith refuses to take any reassurance from the second-quarter rally that saw the Springboks’ blistering 17-0 early lead pegged back to just three points at half-time following tries by Ellis Genge and George Martin.",
-        "copy": "Fin Smith admitted England were “soft” in defence against South Africa as he offered an honest appraisal of the 45-21 mauling at Ellis Park on Saturday that registered a fifth straight Test defeat.\n\nSmith refuses to take any reassurance from the second-quarter rally that saw the Springboks’ blistering 17-0 early lead pegged back to just three points at half-time following tries by Ellis Genge and George Martin.",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'It takes two'",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/c5yz1k3wj40o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T19:43:35+00:00",
+        "published_label": "Sun 12 Jul, 19:43",
+        "summary": "Jannik Sinner says Alexander Zverev can be a Wimbledon champion soon and promises to \"be very, very careful\" as the German challenges his world number one status, following a four-set win for Sinner in the final of the grass-court Grand Slam.",
+        "body": "This content is not available in your location. Jannik Sinner says Alexander Zverev can be a Wimbledon champion soon and promises to \"be very, very careful\" as the German challenges his world number one status, following a four-set win for Sinner in the final of the grass-court Grand Slam.",
+        "copy": "This content is not available in your location. Jannik Sinner says Alexander Zverev can be a Wimbledon champion soon and promises to \"be very, very careful\" as the German challenges his world number one status, following a four-set win for Sinner in the final of the grass-court Grand Slam.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Sinner holds off Zverev to defend Wimbledon title",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c78y2eqq317o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T19:42:41+00:00",
+        "published_label": "Sun 12 Jul, 19:42",
+        "summary": "Jannik Sinner underlines why he is the world's best player by holding off Alexander Zverev to win back-to-back Wimbledon men's singles titles.",
+        "body": "Jannik Sinner demonstrated once again why he is the world's best player after holding off Alexander Zverev to win back-to-back Wimbledon men's singles titles. Italy's Sinner gradually took control of an extremely tight contest to win 6-7 (7-9) 7-6 (7-2) 6-3 6-4 at the All England Club.\n\nGerman second seed Zverev played confidently and boldly as he looked to back up his maiden Grand Slam victory at the French Open last month. But it was still not enough to beat Sinner in an intense, high-quality encounter that gripped a star-studded Centre Court.",
+        "copy": "Jannik Sinner demonstrated once again why he is the world's best player after holding off Alexander Zverev to win back-to-back Wimbledon men's singles titles. Italy's Sinner gradually took control of an extremely tight contest to win 6-7 (7-9) 7-6 (7-2) 6-3 6-4 at the All England Club.\n\nGerman second seed Zverev played confidently and boldly as he looked to back up his maiden Grand Slam victory at the French Open last month. But it was still not enough to beat Sinner in an intense, high-quality encounter that gripped a star-studded Centre Court.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Wimbledon: World No 1 Jannik Sinner grinds down Alexander Zverev to successfully defend his title at the All England Club",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNdHh2dUlXUnNKM09Wdi1QcEE1M0h5RjZmbjNIdVJiN21IaTJGcGE1VlhLV0p3eUlFdS1veHFnYjFmUjFIZzFjR3BnUEQzRGt5NTZabTRldlI4MlBwNDFCbnBpNHF4U19kNEpucERrdzZrNmQ1ek1zNE1hYjBDcjhKTWNTUi05R2RwMVBSbVRkWGJZemNKbjhHanlqYWdlbW02Q1Jxck1pR3htWVpGNHpXenJ3TUM0SXdSeUNZMXVkMi1fQXVVTVNQZVVTTDBzOVozOXd1UGxKMEVZSnBkcUtiQjd1Q0x5cnRuWERiT3VRcW9ZYkNiTmhEOWFPZ0U4RVp6QWxlLXNoWUMtY3BsSVE?oc=5",
+        "published": "2026-07-12T19:40:30+00:00",
+        "published_label": "Sun 12 Jul, 19:40",
+        "summary": "Wimbledon: World No 1 Jannik Sinner grinds down Alexander Zverev to successfully defend his title at the All England Club Sky Sports",
+        "body": "Jannik Sinner successfully defended his Wimbledon title with a four-set victory against French Open champion Alexander Zverev on Centre Court. World No 1 Sinner bounced back after wilting in the Paris heatwave in the second round at Roland-Garros to claim his fifth Grand Slam title with a 10th straight victory over Zverev - 6-7 (7-9) 7-6 (7-2) 6-3 6-4.\n\nIt was also a 100th Grand Slam match win for the Italian, who earned royal approval from the Prince and Princess of Wales, Prince George and Princess Charlotte in the front row of the Royal Box.",
+        "copy": "Jannik Sinner successfully defended his Wimbledon title with a four-set victory against French Open champion Alexander Zverev on Centre Court. World No 1 Sinner bounced back after wilting in the Paris heatwave in the second round at Roland-Garros to claim his fifth Grand Slam title with a 10th straight victory over Zverev - 6-7 (7-9) 7-6 (7-2) 6-3 6-4.\n\nIt was also a 100th Grand Slam match win for the Italian, who earned royal approval from the Prince and Princess of Wales, Prince George and Princess Charlotte in the front row of the Royal Box.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Sinner's best shots as world number one retains Wimbledon title",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/c932rl3r324o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T19:24:19+00:00",
+        "published_label": "Sun 12 Jul, 19:24",
+        "summary": "Enjoy the best of Jannik Sinner's title-retaining performance, as the world number one defeats Alexander Zverev in four sets in the men's singles final at Wimbledon 2026.",
+        "body": "",
+        "copy": "Enjoy the best of Jannik Sinner's title-retaining performance, as the world number one defeats Alexander Zverev in four sets in the men's singles final at Wimbledon 2026.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -4149,6 +4214,19 @@
         "body": "",
         "copy": "Jannik Sinner says tennis was only his third sport growing up, behind skiing and football, except during Wimbledon, the one major he watched and the tournament that sparked his love of grass.",
         "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Wimbledon men's final LIVE! Scores, updates, news, results with Jannik Sinner and Alexander Zverev playing",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVmlaMjU3aW1XWEFMWTB5UlFEc1p4NGFHdTlZd1hFX3E3OThCY201enpNR25NRkVkYXJEZXJ1d2xtLXFQSFVkTlV0OUFVWTVKZUVfTFkySThSc3RiNUNlSEFiMGRhdzVTZEhoMFQ3a1pxd2FvU1ZYTWo2R2xaTU04aXUzYnotVGpLYUFfUzdPWjk4WEZEWGpxcnNVd015eEFhS1FGc3FXd3QyNU41TkVGSlcyYkoxWVUzYkpnam1OMXhHaVlLTWZ6WGR6eE8tMkhRZXE3cW1TVXRrTjBUWEthbUl6ejRsTlpJbVB6VER2Qk0?oc=5",
+        "published": "2026-07-12T14:00:52+00:00",
+        "published_label": "Sun 12 Jul, 14:00",
+        "summary": "Wimbledon men's final LIVE! Scores, updates, news, results with Jannik Sinner and Alexander Zverev playing Sky Sports",
+        "body": "Don't forget, there is plenty of tennis on Sky Sports throughout the year - and you can watch the men's and women's Tours on Sky Sports with a NOW Sports Month Membership. Alternatively, upgrade to Sky Sports for just £22 extra per month.\n\nYou can watch all of the biggest tennis stars in action live on Sky Sports as they compete across the season. Here's what's coming up on Sky Sports Tennis.",
+        "copy": "Don't forget, there is plenty of tennis on Sky Sports throughout the year - and you can watch the men's and women's Tours on Sky Sports with a NOW Sports Month Membership. Alternatively, upgrade to Sky Sports for just £22 extra per month.\n\nYou can watch all of the biggest tennis stars in action live on Sky Sports as they compete across the season. Here's what's coming up on Sky Sports Tennis.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
       },
       {
         "section": "Tennis",
@@ -6151,74 +6229,113 @@
         "body": "",
         "copy": "Naomi Osaka secures a brilliant straight sets win over world number one Aryna Sabalenka to reach the quarter-finals of Wimbledon 2026.",
         "first_seen": "2026-07-06T17:20:18.705168+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Simply brilliant'",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/c20yyzdznndo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-05T19:55:00+00:00",
-        "published_label": "Sun 05 Jul, 19:55",
-        "summary": "Enjoy the best shots from day seven at Wimbledon, featuring Great Britain's Heather Watson and Alejandro Davidovich Fokina.",
-        "body": "",
-        "copy": "Enjoy the best shots from day seven at Wimbledon, featuring Great Britain's Heather Watson and Alejandro Davidovich Fokina.",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Osaka stuns world number one Sabalenka to reach quarter-finals",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cyv00eegv32o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-05T18:45:06+00:00",
-        "published_label": "Sun 05 Jul, 18:45",
-        "summary": "A resurgent Naomi Osaka stuns world number one Aryna Sabalenka in a brilliant performance to reach the Wimbledon quarter-finals.",
-        "body": "A resurgent Naomi Osaka stunned world number one Aryna Sabalenka in a brilliant performance to reach the Wimbledon quarter-finals for the first time. Japan's Osaka out-served, out-hit and out-thought her fellow four-time Grand Slam champion to win 6-2 7-6 (7-2) on Centre Court.\n\nThis is Sabalenka's earliest exit at a Grand Slam since the 2022 French Open, and the first time she has exited one in straight sets for 122 matches. But she fell to an inspired performance by Osaka, who held her racquet to her head in disbelief after clinching victory on her second match point.",
-        "copy": "A resurgent Naomi Osaka stunned world number one Aryna Sabalenka in a brilliant performance to reach the Wimbledon quarter-finals for the first time. Japan's Osaka out-served, out-hit and out-thought her fellow four-time Grand Slam champion to win 6-2 7-6 (7-2) on Centre Court.\n\nThis is Sabalenka's earliest exit at a Grand Slam since the 2022 French Open, and the first time she has exited one in straight sets for 122 matches. But she fell to an inspired performance by Osaka, who held her racquet to her head in disbelief after clinching victory on her second match point.",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Record-breaking Djokovic sees off Safiullin to progress to quarter-finals",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/cy8dd3pp7jdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-05T18:35:40+00:00",
-        "published_label": "Sun 05 Jul, 18:35",
-        "summary": "Novak Djokovic defeats Roman Safiullin in four sets to reach the quarter-finals of Wimbledon 2026, overtaking Roger Federer to become the all-time wins leader in the men's singles competition at SW19.",
-        "body": "",
-        "copy": "Novak Djokovic defeats Roman Safiullin in four sets to reach the quarter-finals of Wimbledon 2026, overtaking Roger Federer to become the all-time wins leader in the men's singles competition at SW19.",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Move over Roger - Djokovic breaks Wimbledon all-time men's singles wins record",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/cgevv12gdqzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-05T18:23:51+00:00",
-        "published_label": "Sun 05 Jul, 18:23",
-        "summary": "Watch Novak Djokovic's best moments at Wimbledon, as the seven-time champion breaks Roger Federer's record for most men's singles wins after beating Romain Safiullin in his 106th victory.",
-        "body": "",
-        "copy": "Watch Novak Djokovic's best moments at Wimbledon, as the seven-time champion breaks Roger Federer's record for most men's singles wins after beating Romain Safiullin in his 106th victory.",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Djokovic breaks Federer's Wimbledon record to reach quarters",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-05T16:29:54+00:00",
-        "published_label": "Sun 05 Jul, 16:29",
-        "summary": "Novak Djokovic claims the all-time record for most men's singles match wins at Wimbledon by beating qualifier Roman Safiullin to reach the quarter-finals.",
-        "body": "Novak Djokovic claimed the all-time record for most men's singles match wins at Wimbledon, but had to overcome moments of visible frustration to beat qualifier Roman Safiullin and reach the quarter-finals.\n\nDjokovic had matched Roger Federer's record with his third-round victory on Friday, and the 39-year-old earned his 106th win at SW19 by defeating the 132nd-ranked Safiullin 7-6 (8-6) 6-3 3-6 6-3 on Sunday.",
-        "copy": "Novak Djokovic claimed the all-time record for most men's singles match wins at Wimbledon, but had to overcome moments of visible frustration to beat qualifier Roman Safiullin and reach the quarter-finals.\n\nDjokovic had matched Roger Federer's record with his third-round victory on Friday, and the 39-year-old earned his 106th win at SW19 by defeating the 132nd-ranked Safiullin 7-6 (8-6) 6-3 3-6 6-3 on Sunday.",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Late birdie seals Scottish Open victory for Kim",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/cvg421lvzzvo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T19:40:16+00:00",
+        "published_label": "Sun 12 Jul, 19:40",
+        "summary": "Tom Kim hits a brilliant approach shot to set up a birdie on the 16th hole of his final round of the Scottish Open, to effectively seal victory at The Renaissance Club.",
+        "body": "",
+        "copy": "Tom Kim hits a brilliant approach shot to set up a birdie on the 16th hole of his final round of the Scottish Open, to effectively seal victory at The Renaissance Club.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Perez qualifies for The Open Championship at Genesis Scottish Open on DP World Tour",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdWFwTm05ZFF6SFRGelJUX3hrQkgzT3IxdHBrd1ZBZmoyZXkxQzNVOUpnY25ka3U0OEcyck5acS03QlRRdjdzVy1JWUx2NnZBSUlXQ0VWRXBaYUxDanJ4Z3VyMFRRUE53cHBPWnItS1VTUU9tUE1uZlFYcElpMnFSeFhSaTllbU9xY3RJTUx3cmpkQ2FrTkQzTg?oc=5",
+        "published": "2026-07-12T19:30:52+00:00",
+        "published_label": "Sun 12 Jul, 19:30",
+        "summary": "Perez qualifies for The Open Championship at Genesis Scottish Open on DP World Tour LIV Golf",
+        "body": "Cleeks Golf Club’s Victor Perez finished tied for ninth at The Renaissance Club and will compete at The Open at Royal Birkdale after earning one of the three spots available to the top three finishers not already exempt.\n\nVictor Perez is going to Royal Birkdale. The Cleeks Golf Club standout closed out the Genesis Scottish Open with a 4-under 66 to finish at 11-under overall and T9 for the week. In doing so, Perez secured one of three Open Qualifying Series spots available to non-exempt finishers at The Renaissance Club.",
+        "copy": "Cleeks Golf Club’s Victor Perez finished tied for ninth at The Renaissance Club and will compete at The Open at Royal Birkdale after earning one of the three spots available to the top three finishers not already exempt.\n\nVictor Perez is going to Royal Birkdale. The Cleeks Golf Club standout closed out the Genesis Scottish Open with a 4-under 66 to finish at 11-under overall and T9 for the week. In doing so, Perez secured one of three Open Qualifying Series spots available to non-exempt finishers at The Renaissance Club.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Tour Confidential: What Scottie Scheffler's missed cut means for The Open",
+        "link": "https://golf.com/news/tour-confidential-scottie-scheffler-missed-cut-open-championship/",
+        "published": "2026-07-12T19:28:23+00:00",
+        "published_label": "Sun 12 Jul, 19:28",
+        "summary": "Scottie Scheffler arrives at The Open off a shocking missed cut. Our staff debates if it means anything for the week ahead. The post Tour Confidential: What Scottie Scheffler’s missed cut means for The Open appeared first on Golf .",
+        "body": "Check in every week for the unfiltered opinions of our writers and editors as they break down the hottest topics in the sport, and join the conversation by tweeting us at @golf_com. This week, we discuss the missed cuts of two World No. 1s and the other brewing storylines ahead of The Open Championship.\n\nScottie Scheffler missed the cut at the Genesis Scottish Open, ending what was the longest made-cut streak on the PGA Tour. Up next? The Open Championship at Royal Birkdale. Are you selling Scottie’s Open chances after his rough outing, or buying because it’s an outlier and now he’s even able to get to Royal Birkdale early?",
+        "copy": "Check in every week for the unfiltered opinions of our writers and editors as they break down the hottest topics in the sport, and join the conversation by tweeting us at @golf_com. This week, we discuss the missed cuts of two World No. 1s and the other brewing storylines ahead of The Open Championship.\n\nScottie Scheffler missed the cut at the Genesis Scottish Open, ending what was the longest made-cut streak on the PGA Tour. Up next? The Open Championship at Royal Birkdale. Are you selling Scottie’s Open chances after his rough outing, or buying because it’s an outlier and now he’s even able to get to Royal Birkdale early?",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Kim ends three-year title wait with Scottish Open triumph",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cx24ejkyvkyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T18:49:42+00:00",
+        "published_label": "Sun 12 Jul, 18:49",
+        "summary": "Tom Kim excels in the final round to claim his first title in three years with a two-shot victory at the 2026 Genesis Scottish Open.",
+        "body": "Tom Kim's drought is over. The South Korean shed tears of joy after excelling on a compelling final day at the Genesis Scottish Open to claim his first title in three years. Kim has endured a form and confidence crisis since his previous victory - as well as plummeting down the world rankings - but served a reminder of his talents with a faultless 64 to finish 17 under at the Renaissance Club.\n\nThe 24-year-old triumphed by two shots, with Min Woo Lee the runner-up as crowd favourite Bob MacIntyre faltered in pursuit of a second home title, ending four adrift alongside Matt Fitzpatrick.",
+        "copy": "Tom Kim's drought is over. The South Korean shed tears of joy after excelling on a compelling final day at the Genesis Scottish Open to claim his first title in three years. Kim has endured a form and confidence crisis since his previous victory - as well as plummeting down the world rankings - but served a reminder of his talents with a faultless 64 to finish 17 under at the Renaissance Club.\n\nThe 24-year-old triumphed by two shots, with Min Woo Lee the runner-up as crowd favourite Bob MacIntyre faltered in pursuit of a second home title, ending four adrift alongside Matt Fitzpatrick.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "A wayward shot stopped Rory McIlroy's Scottish Open charge. Then came 5 words",
+        "link": "https://golf.com/news/rory-mcilroy-scottish-open-bad-golf/",
+        "published": "2026-07-12T18:31:31+00:00",
+        "published_label": "Sun 12 Jul, 18:31",
+        "summary": "Rory McIlroy's Sunday charge at the Scottish Open came to a stop with a wayward shot. Then came 5 very relatable words. The post A wayward shot stopped Rory McIlroy’s Scottish Open charge. Then came 5 words appeared first on Golf .",
+        "body": "Rory McIlroy entered the weekend at the Scottish Open tied atop the leaderboard. He plays well at this event year in and year out. He won it in 2023 and admitted earlier this week that his relationship with the course has changed over the years.\n\n“Definitely this course has grown on me as the years have went by,” McIlroy said. “When I first came here, I think just because you come to Scotland and you play so many great golf courses, there are so many great golf courses in this area, I think we sometimes jump to maybe not liking a course because of how new it is or maybe some greens are a bit too slopey or whatever. But I must say, over the years, it has grown on me a lot, and I think it’s sort of become a really good venue for this tournament.”",
+        "copy": "Rory McIlroy entered the weekend at the Scottish Open tied atop the leaderboard. He plays well at this event year in and year out. He won it in 2023 and admitted earlier this week that his relationship with the course has changed over the years.\n\n“Definitely this course has grown on me as the years have went by,” McIlroy said. “When I first came here, I think just because you come to Scotland and you play so many great golf courses, there are so many great golf courses in this area, I think we sometimes jump to maybe not liking a course because of how new it is or maybe some greens are a bit too slopey or whatever. But I must say, over the years, it has grown on me a lot, and I think it’s sort of become a really good venue for this tournament.”",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "McIlroy berates himself as Scottish Open challenge fades",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/cn0vl5ke9lvo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T16:40:57+00:00",
+        "published_label": "Sun 12 Jul, 16:40",
+        "summary": "Rory McIlroy sends an approach shot into the rough as his challenge for the Scottish Open title falters, despite a six-under-par final round at The Renaissance Club.",
+        "body": "",
+        "copy": "Rory McIlroy sends an approach shot into the rough as his challenge for the Scottish Open title falters, despite a six-under-par final round at The Renaissance Club.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ryu claims second major of season at Evian Championship",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cvg42en7d3go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T15:54:48+00:00",
+        "published_label": "Sun 12 Jul, 15:54",
+        "summary": "South Korea's Haeran Ryu says it feels like she was in an \"unreal dream\" after claiming her second major title in the space of two weeks by defeating Brooke Henderson in a play-off at the Evian Championship.",
+        "body": "South Korea's Haeran Ryu says it felt like she was in an \"unreal dream\" as she claimed her second major title in the space of two weeks by defeating Brooke Henderson in a play-off at the Evian Championship.\n\nHaving made history with an 11-under 60 on Saturday to lead by three shots overnight at 18 under, Ryu signed for a 71 on Sunday, with her solitary birdie arriving on the 18th in the east of France.",
+        "copy": "South Korea's Haeran Ryu says it felt like she was in an \"unreal dream\" as she claimed her second major title in the space of two weeks by defeating Brooke Henderson in a play-off at the Evian Championship.\n\nHaving made history with an 11-under 60 on Saturday to lead by three shots overnight at 18 under, Ryu signed for a 71 on Sunday, with her solitary birdie arriving on the 18th in the east of France.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "History, tears and a playoff: How Haeran Ryu survived chaotic Sunday to win Evian",
+        "link": "https://golf.com/news/evian-championship-haeran-ryu-brooke-henderson-history-tears/",
+        "published": "2026-07-12T15:52:18+00:00",
+        "published_label": "Sun 12 Jul, 15:52",
+        "summary": "Chaos broke out on Sunday at the Evian Championship. When the dust settled Haeran Ryu had won her second consecutive major. Here's how it unfolded. The post History, tears and a playoff: How Haeran Ryu survived chaotic Sunday to win Evian appeared first on Golf .",
+        "body": "As Haeran Ryu tallied up her scorecard on Saturday, she was shocked to see that she had just made major championship history at the Evian. Nine birdies and an eagle saw her post a third-round 11-under 60, the lowest ever score in a women’s major championship, to take a three-shot lead into Sunday’s final round.\n\nRyu, who won the KPMG Women’s PGA Championship three weeks ago, was 18 holes away from winning consecutive major titles. It was in her grasp and felt like a foregone conclusion, especially after Aki Iwai double-bogeyed the third hole on Sunday to grow Ryu’s lead to five.",
+        "copy": "As Haeran Ryu tallied up her scorecard on Saturday, she was shocked to see that she had just made major championship history at the Evian. Nine birdies and an eagle saw her post a third-round 11-under 60, the lowest ever score in a women’s major championship, to take a three-shot lead into Sunday’s final round.\n\nRyu, who won the KPMG Women’s PGA Championship three weeks ago, was 18 holes away from winning consecutive major titles. It was in her grasp and felt like a foregone conclusion, especially after Aki Iwai double-bogeyed the third hole on Sunday to grow Ryu’s lead to five.",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -7882,61 +7999,22 @@
         "body": "At 39, Michael Hollick is not the typical rookie. In a game that often celebrates youth, his first season on the DP World Tour serves as a reminder that some journeys simply take longer to unfold — but that doesn’t make them any less meaningful.\n\nIn 2025, Hollick claimed the final available DP World Tour card by finishing seventh on the Sunshine Tour Order of Merit. After a career that had had a few unexpected turns — setbacks, a brief step away from competitive golf, and even a stint coaching — this was a chance to turn the page on a new chapter.",
         "copy": "At 39, Michael Hollick is not the typical rookie. In a game that often celebrates youth, his first season on the DP World Tour serves as a reminder that some journeys simply take longer to unfold — but that doesn’t make them any less meaningful.\n\nIn 2025, Hollick claimed the final available DP World Tour card by finishing seventh on the Sunshine Tour Order of Merit. After a career that had had a few unexpected turns — setbacks, a brief step away from competitive golf, and even a stint coaching — this was a chance to turn the page on a new chapter.",
         "first_seen": "2026-07-06T17:20:18.705168+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Brad Dalke's 'fun' DP World Tour week ends with hope and a message",
-        "link": "https://golf.com/news/brad-dalke-good-good-golf-pga-tour/",
-        "published": "2026-07-05T19:26:48+00:00",
-        "published_label": "Sun 05 Jul, 19:26",
-        "summary": "Brad Dalke played this week on the DP World Tour and finished T30. He left Germany hopeful that more pro starts will come his way. The post Brad Dalke’s ‘fun’ DP World Tour week ends with hope and a message appeared first on Golf .",
-        "body": "Brad Dalke is used to playing in a different arena. This past weekend in Germany, the YouTube golf creator, who recently left Good Good Golf, stepped back into the competitive professional arena for the first time in six years. The four-day experience at the BMW International Open, which Dalke played on a sponsor invitation, left him feeling a different sort of pressure than his fellow competitors.\n\n“It’s a weird mixture of there’s no stress because I’m not out here fighting for points and I’m not grinding every week on the [DP World Tour] season, but also I do kind of represent YouTube golf in a way,” Dalke said after Friday’s second round. “There’s a lot of people who love YouTube and love watching me, and they vouch for me, so I’m trying to prove it for them as well.”",
-        "copy": "Brad Dalke is used to playing in a different arena. This past weekend in Germany, the YouTube golf creator, who recently left Good Good Golf, stepped back into the competitive professional arena for the first time in six years. The four-day experience at the BMW International Open, which Dalke played on a sponsor invitation, left him feeling a different sort of pressure than his fellow competitors.\n\n“It’s a weird mixture of there’s no stress because I’m not out here fighting for points and I’m not grinding every week on the [DP World Tour] season, but also I do kind of represent YouTube golf in a way,” Dalke said after Friday’s second round. “There’s a lot of people who love YouTube and love watching me, and they vouch for me, so I’m trying to prove it for them as well.”",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Pro thinks he misses cut and boards train. Then things turn ‘eventful’",
-        "link": "https://golf.com/news/pro-cut-train-eventful/",
-        "published": "2026-07-05T19:03:10+00:00",
-        "published_label": "Sun 05 Jul, 19:03",
-        "summary": "Pro Jack Floydd thought he missed the cut at the HotelPlanner Tour’s Le Vaudreuil Golf Challenge. Then things turned “eventful.” The post Pro thinks he misses cut and boards train. Then things turn ‘eventful’ appeared first on Golf .",
-        "body": "Jack Floydd, this week at the Le Vaudreuil Golf Challenge, walked over 28,000 yards worth of course. In the end, Floydd tied for 44th at the event on the HotelPlanner Tour, the circuit below the DP World Tour. But the events that got him to that point were, as he said, “eventful.” After two rounds, he had been at even par at Golf PGA France du Vaudreuil golf course in Le Vaudreuil, France, and, believing his week was done, the Englishman boarded the bullet train back home.\n\nOf course, this site probably wouldn’t be writing about a basic missed cut. “Literally, we got wedged in on the train when we knew we were sort of going to make the cut,” Floydd told the HotelPlanner Tour’s social media team.",
-        "copy": "Jack Floydd, this week at the Le Vaudreuil Golf Challenge, walked over 28,000 yards worth of course. In the end, Floydd tied for 44th at the event on the HotelPlanner Tour, the circuit below the DP World Tour. But the events that got him to that point were, as he said, “eventful.” After two rounds, he had been at even par at Golf PGA France du Vaudreuil golf course in Le Vaudreuil, France, and, believing his week was done, the Englishman boarded the bullet train back home.\n\nOf course, this site probably wouldn’t be writing about a basic missed cut. “Literally, we got wedged in on the train when we knew we were sort of going to make the cut,” Floydd told the HotelPlanner Tour’s social media team.",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Harrington wins US Senior Open for third time",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cly99dze80yo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-05T18:41:15+00:00",
-        "published_label": "Sun 05 Jul, 18:41",
-        "summary": "Ireland's Padraig Harrington wins the US Senior Open for a record-equalling third time at Scioto Country Club in Ohio.",
-        "body": "Ireland's Padraig Harrington has won the US Senior Open for a record-equalling third time at Scioto Country Club in Ohio. Harrington joins Miller Barber as the only player to win the senior major for a third time as he added to triumphs in 2022 and 2025.\n\nThe 54-year-old won by four strokes ahead of home favourite Stewart Cink, who held a one-shot advantage heading into the final round. However, Harrington shot four under over the final 18 holes to end the competition on 12 under, while Cink faded over the closing round.",
-        "copy": "Ireland's Padraig Harrington has won the US Senior Open for a record-equalling third time at Scioto Country Club in Ohio. Harrington joins Miller Barber as the only player to win the senior major for a third time as he added to triumphs in 2022 and 2025.\n\nThe 54-year-old won by four strokes ahead of home favourite Stewart Cink, who held a one-shot advantage heading into the final round. However, Harrington shot four under over the final 18 holes to end the competition on 12 under, while Cink faded over the closing round.",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 John Deere Classic Sunday TV coverage: How to watch Round 4",
-        "link": "https://golf.com/news/2026-john-deere-classic-sunday-tv-coverage-watch/",
-        "published": "2026-07-05T17:06:10+00:00",
-        "published_label": "Sun 05 Jul, 17:06",
-        "summary": "How to watch the 2026 John Deere Classic on Sunday, including full TV coverage and streaming details for Round 4. The post 2026 John Deere Classic Sunday TV coverage: How to watch Round 4 appeared first on Golf .",
-        "body": "The final round of the 2026 John Deere Classic is in progress at TPC Deere Run in Illinois. Here’s everything you need to know to watch round four of the PGA Tour tournament, including a full John Deere Classic TV schedule, streaming information and complete tee times for the fourth round.\n\nHeading into the final round of the 2026 John Deere Classic, Lucas Glover and Lee Hodges share the lead at 16-under par. Soft conditions following heavy rain early Saturday morning gave Glover an opportunity to go low, helping him maintain a share of the lead after carding a two-under 69 in the third round.",
-        "copy": "The final round of the 2026 John Deere Classic is in progress at TPC Deere Run in Illinois. Here’s everything you need to know to watch round four of the PGA Tour tournament, including a full John Deere Classic TV schedule, streaming information and complete tee times for the fourth round.\n\nHeading into the final round of the 2026 John Deere Classic, Lucas Glover and Lee Hodges share the lead at 16-under par. Soft conditions following heavy rain early Saturday morning gave Glover an opportunity to go low, helping him maintain a share of the lead after carding a two-under 69 in the third round.",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Lee Zii Jia opens up about injury struggles and rejects possibility of retirement: “I wanted to go back to something simple”",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXUtaldzSUlIbGY0LXh6dS1INkZIa2FqblpFU1F5cnRKRlY1eVdYUnV4dHRHamlfWVRzSXg4X0MwZWZTdlU2blczSURNZTdrd3BiSHRyX2Zka1UtQXIyZktPTmJwMy1iWWZteXJ3djlYWmN1NUtXU3FxRnd5TWhBaUFnanZ5UzdNUC1NbW1vTjZaaUM4SzdCazh2Y2lPZlRGdVBiWUFGZWZkSzlxenln?oc=5",
+        "published": "2026-07-12T15:48:00+00:00",
+        "published_label": "Sun 12 Jul, 15:48",
+        "summary": "Lee Zii Jia opens up about injury struggles and rejects possibility of retirement: “I wanted to go back to something simple” olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-12T19:59:55.563015+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -8175,5 +8253,5 @@
       }
     ]
   },
-  "total": 627
+  "total": 633
 }
