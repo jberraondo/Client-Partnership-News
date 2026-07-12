@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T11:45:52.770138+00:00",
-  "generated_label": "Sunday 12 July 2026, 11:45 UTC",
+  "generated_at": "2026-07-12T15:41:37.834725+00:00",
+  "generated_label": "Sunday 12 July 2026, 15:41 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Why are China and India so bad at football?",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXpNd1QyUlpFcjVNMFUwZzNDQmZMRWZKakhaMVU1YmkzOFgzVlF0UmpSN1Fubm94WWFBbEl5bW9yWEp0VTZVWmQ4d3Zqdy1xLVJudEhKMEx4c1BfeFVpNkhaVU91VHJWa2lkZUprRWZBZXVScFhFWWtsa0NtVGJXay0zaHQ?oc=5",
+        "published": "2026-07-12T11:00:07+00:00",
+        "published_label": "Sun 12 Jul, 11:00",
+        "summary": "Why are China and India so bad at football? Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1675,22 +1688,87 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-06T17:20:18.705168+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Parliament watchdog urged to investigate Nigel Farage over benefits from fraudster",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYS14OF9zSFJRRHF5cGpvRG8tbVN1LW5jcVRZRHYwckpVNldvZm91R2w3QTZTRVhFTFppT0YtQXIxR3EwcGIwTzJmcWtoMFdVZ0RQdVVhcXM5Wk41MUg5REplcWVraUh4YWhqRUh1MThsbktNMy12V0s1OUFCUWdLWVNmYUs?oc=5",
-        "published": "2026-07-05T12:57:57+00:00",
-        "published_label": "Sun 05 Jul, 12:57",
-        "summary": "Parliament watchdog urged to investigate Nigel Farage over benefits from fraudster Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-05T20:22:36.323692+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Quirke gets England call-up for Argentina clash",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm2jlnkdxrjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T15:00:17+00:00",
+        "published_label": "Sun 12 Jul, 15:00",
+        "summary": "Scrum-half Raffi Quirke is called into the England squad for Saturday's Nations Championship match against Argentina.",
+        "body": "Scrum-half Raffi Quirke has been called into the England squad for their Nations Championship match against Argentina next Saturday. The 24-year-old also replaced Mitchell in this year's Six Nations squad when Mitchell was again ruled out through injury.\n\nQuirke has two international caps, becoming England's youngest scrum-half in more than 90 years when he made his debut in 2021. He also lined out for an England XV against a France XV in a Nations Championship warm-up in France last month.",
+        "copy": "Scrum-half Raffi Quirke has been called into the England squad for their Nations Championship match against Argentina next Saturday. The 24-year-old also replaced Mitchell in this year's Six Nations squad when Mitchell was again ruled out through injury.\n\nQuirke has two international caps, becoming England's youngest scrum-half in more than 90 years when he made his debut in 2021. He also lined out for an England XV against a France XV in a Nations Championship warm-up in France last month.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "England call-up Red Bull signing to replace injured Alex Mitchell",
+        "link": "https://www.rugbypass.com/news/england-call-up-red-bull-signing-to-replace-injured-alex-mitchell/",
+        "published": "2026-07-12T15:00:17+00:00",
+        "published_label": "Sun 12 Jul, 15:00",
+        "summary": "England have called up Newcastle Red Bulls scrum-half Raffi Quirke as injury cover for Alex Mitchell ahead of Saturday’s final Nations Championship clash against Argentina in Santiago del Estero.",
+        "body": "England have called up Newcastle Red Bulls scrum-half Raffi Quirke as injury cover for Alex Mitchell ahead of Saturday’s final Nations Championship clash against Argentina in Santiago del Estero.\n\nThe RFU confirmed on Sunday that Quirke had joined Steve Borthwick’s squad after Mitchell was ruled out with a hamstring injury sustained during England’s 73-8 victory over Fiji at the Hill Dickinson Stadium.",
+        "copy": "England have called up Newcastle Red Bulls scrum-half Raffi Quirke as injury cover for Alex Mitchell ahead of Saturday’s final Nations Championship clash against Argentina in Santiago del Estero.\n\nThe RFU confirmed on Sunday that Quirke had joined Steve Borthwick’s squad after Mitchell was ruled out with a hamstring injury sustained during England’s 73-8 victory over Fiji at the Hill Dickinson Stadium.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Scotland's great entertainers were scintillating and sloppy",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ce8k754pprro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T14:03:26+00:00",
+        "published_label": "Sun 12 Jul, 14:03",
+        "summary": "Once more, Scotland's fantastic ability to score epic tries is not enough as the chance for a first away win over South Africa slips through their fingers, writes Tom English.",
+        "body": "It was a masterpiece, a passage of rugby perfection towards the end of a monstrous Test match against the world champions in the altitude of Pretoria. The epic sweep of Ben White's try brought Scotland to within seven points of South Africa.\n\nBefore dealing with the defeat - as sore as any in their long list of near-misses - it's no harm to dwell on that score because it was one of the great ones from a Scottish team, a move that lasted one minute and fifty seconds and involved 10 different players, all making inroads with their power, their timing, their footwork, their skill-set, all making good decisions in an absolute maelstrom.",
+        "copy": "It was a masterpiece, a passage of rugby perfection towards the end of a monstrous Test match against the world champions in the altitude of Pretoria. The epic sweep of Ben White's try brought Scotland to within seven points of South Africa.\n\nBefore dealing with the defeat - as sore as any in their long list of near-misses - it's no harm to dwell on that score because it was one of the great ones from a Scottish team, a move that lasted one minute and fifty seconds and involved 10 different players, all making inroads with their power, their timing, their footwork, their skill-set, all making good decisions in an absolute maelstrom.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Toxic Springboks fans miss the point in struggle session against Scotland",
+        "link": "https://www.rugbypass.com/news/springboks-supporters-rank-among-the-most-toxic-rugby-fans-on-the-internet/",
+        "published": "2026-07-12T13:16:09+00:00",
+        "published_label": "Sun 12 Jul, 13:16",
+        "summary": "Damian Willemse doesn’t have the stopping power of most elite centres. The Springboks’ lock depth is not quite as bottomless as the mythology suggests.",
+        "body": "Damian Willemse doesn’t have the stopping power of most elite centres. The Springboks’ lock depth is not quite as bottomless as the mythology suggests. And their supporters can, on occasion, rank among the most toxic rugby fans on the internet.\n\nGive me a break. I am a South African who wants the Springboks to win every Test until the sun explodes. But even devotion occasionally requires an honest search for flaws. And part of this gig compels me to find holes in one of the most successful sporting organisations on the planet.",
+        "copy": "Damian Willemse doesn’t have the stopping power of most elite centres. The Springboks’ lock depth is not quite as bottomless as the mythology suggests. And their supporters can, on occasion, rank among the most toxic rugby fans on the internet.\n\nGive me a break. I am a South African who wants the Springboks to win every Test until the sun explodes. But even devotion occasionally requires an honest search for flaws. And part of this gig compels me to find holes in one of the most successful sporting organisations on the planet.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Okwemba shifts focus to mental strength after Bokoli’s historic Western rugby Sevens triumph - the-star.co.ke",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTV9yb3YyOWppRmxSRTlxMmlWQzB5dEdwWTMxLVNZM1hEdmVZQWs4WjF4ZVB6bXF2LVpLSzBiUUZlWGktZXlpVjlaZ3l6VFl3Q2NtdlYwMXNhRFc2YzVVcGdyLXdHNzg5Q3M3V3laNXZmaVVBaTdZRXhuNi1OMUdfUGJHYUtVSUl0djlrb0RKREZ2eUdySWxwZnRfNE4wOF93MEpZWU16QUlEZWhpTy1nQkpFMkdiR1dGX09SMjBKaG1mZDlwWHRHM3g4TEFhVVI1M1FxTTlaQ0ljTGls?oc=5",
+        "published": "2026-07-12T13:00:00+00:00",
+        "published_label": "Sun 12 Jul, 13:00",
+        "summary": "Okwemba shifts focus to mental strength after Bokoli’s historic Western rugby Sevens triumph the-star.co.ke",
+        "body": "Friends School Bokoli coach Eliud Okwemba has turned his attention to the mental and psychological preparedness of his players ahead of the Kenya Secondary Schools Sports Association (KSSSA) National Term Two Games following their historic Western Region rugby sevens title.\n\n“I now want to focus on the mental and psychological preparedness of the boys before the national championships,” said Okwemba, whose side will compete at the nationals for the first time when the games are held at the MPesa Foundation Academy in Thika from July 28 to August 1.",
+        "copy": "Friends School Bokoli coach Eliud Okwemba has turned his attention to the mental and psychological preparedness of his players ahead of the Kenya Secondary Schools Sports Association (KSSSA) National Term Two Games following their historic Western Region rugby sevens title.\n\n“I now want to focus on the mental and psychological preparedness of the boys before the national championships,” said Okwemba, whose side will compete at the nationals for the first time when the games are held at the MPesa Foundation Academy in Thika from July 28 to August 1.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Sione Tuipulotu describes what it's like playing Boks away from home for the first time",
+        "link": "https://www.rugbypass.com/news/scotlands-sione-tuipulotu-taking-positives-from-south-africa-defeat/",
+        "published": "2026-07-12T12:58:37+00:00",
+        "published_label": "Sun 12 Jul, 12:58",
+        "summary": "Sione Tuipulotu believes the resilience Scotland displayed against South Africa on their own patch will stand them in good stead for the challenges they will encounter at next year’s World Cup in Australia.",
+        "body": "Sione Tuipulotu believes the resilience Scotland displayed against South Africa on their own patch will stand them in good stead for the challenges they will encounter at next year’s World Cup in Australia.\n\nOn the back of impressive wins over England, France and Argentina this year, the Scots showed they are a team heading in the right direction once more as they recovered from periods of Springboks momentum to score four tries in a 42-28 Nations Championship defeat against the double world champions.",
+        "copy": "Sione Tuipulotu believes the resilience Scotland displayed against South Africa on their own patch will stand them in good stead for the challenges they will encounter at next year’s World Cup in Australia.\n\nOn the back of impressive wins over England, France and Argentina this year, the Scots showed they are a team heading in the right direction once more as they recovered from periods of Springboks momentum to score four tries in a 42-28 Nations Championship defeat against the double world champions.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4056,61 +4134,48 @@
         "body": "Fin Smith admitted England were “soft” in defence against South Africa as he offered an honest appraisal of the 45-21 mauling at Ellis Park on Saturday that registered a fifth straight Test defeat.\n\nSmith refuses to take any reassurance from the second-quarter rally that saw the Springboks’ blistering 17-0 early lead pegged back to just three points at half-time following tries by Ellis Genge and George Martin.",
         "copy": "Fin Smith admitted England were “soft” in defence against South Africa as he offered an honest appraisal of the 45-21 mauling at Ellis Park on Saturday that registered a fifth straight Test defeat.\n\nSmith refuses to take any reassurance from the second-quarter rally that saw the Springboks’ blistering 17-0 early lead pegged back to just three points at half-time following tries by Ellis Genge and George Martin.",
         "first_seen": "2026-07-05T20:22:36.323692+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Semi Radradra one two Fiji stars out for remainder of Nations Championship",
-        "link": "https://www.rugbypass.com/news/semi-radradra-one-two-fiji-stars-out-for-remainder-of-nations-championship/",
-        "published": "2026-07-05T15:27:56+00:00",
-        "published_label": "Sun 05 Jul, 15:27",
-        "summary": "Fiji have been dealt a double injury blow after Semi Radradra and Tim Hoyt both left the field during Saturday's 39-24 defeat to Wales at Cardiff City Stadium and will play no further part in the Nations Championship.",
-        "body": "Fiji have been dealt a double injury blow after Semi Radradra and Tim Hoyt both left the field during Saturday’s 39-24 defeat to Wales at Cardiff City Stadium and will play no further part in the Nations Championship.\n\nRadradra departed with a leg brace, while Worcester Warriors tighthead Hoyt was also removed from the field on a medical cart. Head coach Senirusi Seruvakula confirmed both players are expected to be sidelined for at least six weeks.",
-        "copy": "Fiji have been dealt a double injury blow after Semi Radradra and Tim Hoyt both left the field during Saturday’s 39-24 defeat to Wales at Cardiff City Stadium and will play no further part in the Nations Championship.\n\nRadradra departed with a leg brace, while Worcester Warriors tighthead Hoyt was also removed from the field on a medical cart. Head coach Senirusi Seruvakula confirmed both players are expected to be sidelined for at least six weeks.",
-        "first_seen": "2026-07-05T15:57:57.231205+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I never got the chance to play here... Villa Park was the biggest stadium I played in'",
-        "link": "https://www.rugbypass.com/news/aaron-wainwright-lives-out-childhood-football-dreams-in-wales-win/",
-        "published": "2026-07-05T15:14:02+00:00",
-        "published_label": "Sun 05 Jul, 15:14",
-        "summary": "Aaron Wainwright savoured Wales winning at a stadium where he never managed to play as a Cardiff footballer.",
-        "body": "Aaron Wainwright savoured Wales winning at a stadium where he never managed to play as a Cardiff footballer. Wainwright helped Wales open their Nations Championship campaign with a 39-24 victory over Fiji at Cardiff City Stadium – the third straight success for Steve Tandy’s improving team.\n\nIt was the first time Wales had played a Test match at the Sky Bet Championship ground close to their Principality Stadium home, with Fiji being the official hosts after switching their Nations Championship fixtures to the northern hemisphere.",
-        "copy": "Aaron Wainwright savoured Wales winning at a stadium where he never managed to play as a Cardiff footballer. Wainwright helped Wales open their Nations Championship campaign with a 39-24 victory over Fiji at Cardiff City Stadium – the third straight success for Steve Tandy’s improving team.\n\nIt was the first time Wales had played a Test match at the Sky Bet Championship ground close to their Principality Stadium home, with Fiji being the official hosts after switching their Nations Championship fixtures to the northern hemisphere.",
-        "first_seen": "2026-07-05T15:57:57.231205+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'We had five Lions not in our starting team... we have depth'",
-        "link": "https://www.rugbypass.com/news/gregor-townsend-hails-scotland-squad-depth-after-argentina-win/",
-        "published": "2026-07-05T13:13:00+00:00",
-        "published_label": "Sun 05 Jul, 13:13",
-        "summary": "Gregor Townsend was heartened by the sight of buoyant Scotland soaring to an emphatic Nations Championship triumph in Argentina without talisman Finn Russell and a string of his fellow back-line big hitters.",
-        "body": "Gregor Townsend was heartened by the sight of buoyant Scotland soaring to an emphatic Nations Championship triumph in Argentina without talisman Finn Russell and a string of his fellow back-line big hitters.\n\nSione Tuipulotu, Pierre Schoeman, Rory Hutchinson, Gregor Brown, Scott Cummings, debutant Gregor Hiddleston and Kyle Rowe all crossed the line in a stunning seven-try 47-38 victory for the Scots over a Pumas side ranked two places above them in Cordoba.",
-        "copy": "Gregor Townsend was heartened by the sight of buoyant Scotland soaring to an emphatic Nations Championship triumph in Argentina without talisman Finn Russell and a string of his fellow back-line big hitters.\n\nSione Tuipulotu, Pierre Schoeman, Rory Hutchinson, Gregor Brown, Scott Cummings, debutant Gregor Hiddleston and Kyle Rowe all crossed the line in a stunning seven-try 47-38 victory for the Scots over a Pumas side ranked two places above them in Cordoba.",
-        "first_seen": "2026-07-05T15:57:57.231205+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'Pathetic': England player targeted by Springboks fans in case of mistaken identity",
-        "link": "https://www.rugbypass.com/news/england-player-targed-by-springboks-fans-in-case-of-mistaken-identity/",
-        "published": "2026-07-05T12:06:12+00:00",
-        "published_label": "Sun 05 Jul, 12:06",
-        "summary": "In the lead-up to the Springboks playing England in the opening round of the Nations Championship, the South African public had spent the best part of a week making clear what they thought of Henry Pollock.",
-        "body": "In the lead-up to the Springboks playing England in the opening round of the Nations Championship, the South African public had spent the best part of a week making clear what they thought of Henry Pollock.\n\nIndeed, by the time England arrived at Ellis Park on Saturday, the 21-year-old Northampton Saints flanker had been declared “public enemy number one” and the stadium PA had even prepped the crowd, saying: “When Henry Pollock walks onto this park, you make him feel it.”",
-        "copy": "In the lead-up to the Springboks playing England in the opening round of the Nations Championship, the South African public had spent the best part of a week making clear what they thought of Henry Pollock.\n\nIndeed, by the time England arrived at Ellis Park on Saturday, the 21-year-old Northampton Saints flanker had been declared “public enemy number one” and the stadium PA had even prepped the crowd, saying: “When Henry Pollock walks onto this park, you make him feel it.”",
-        "first_seen": "2026-07-05T15:57:57.231205+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Why Wimbledon is more special to Sinner than other majors",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/cm2jlnmg9kyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T14:16:31+00:00",
+        "published_label": "Sun 12 Jul, 14:16",
+        "summary": "Jannik Sinner says tennis was only his third sport growing up, behind skiing and football, except during Wimbledon, the one major he watched and the tournament that sparked his love of grass.",
+        "body": "",
+        "copy": "Jannik Sinner says tennis was only his third sport growing up, behind skiing and football, except during Wimbledon, the one major he watched and the tournament that sparked his love of grass.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Oda beats GB's Hewett to retain Wimbledon wheelchair title",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/c5yz1e7yx12o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T13:15:22+00:00",
+        "published_label": "Sun 12 Jul, 13:15",
+        "summary": "Japan's Tokito Oda defeats Great Britain's Alfie Hewett in straight sets to retain his Wimbledon wheelchair men's singles title.",
+        "body": "",
+        "copy": "Japan's Tokito Oda defeats Great Britain's Alfie Hewett in straight sets to retain his Wimbledon wheelchair men's singles title.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Oda beats GB's Hewett in Wimbledon wheelchair singles final",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cp9ldz91yn7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T11:53:51+00:00",
+        "published_label": "Sun 12 Jul, 11:53",
+        "summary": "Great Britain's Alfie Hewett is beaten 6-1 6-1 by top seed Tokito Oda in the final of the men's wheelchair singles at Wimbledon.",
+        "body": "Japan's Tokito Oda beat Great Britain's Alfie Hewett to claim his third Wimbledon men's wheelchair singles title. Oda, the number one seed and defending champion, dominated Sunday's final on Court One to win 6-1 6-1.\n\nIt is a sixth successive Grand Slam singles title won by 20-year-old Oda, who is unbeaten at the four majors since his loss to Hewett in the 2025 Australian Open final. Hewett won a seventh men's wheelchair doubles title at Wimbledon alongside fellow Briton Gordon Reid on Saturday but, for the second year in succession, he was beaten by Oda in the singles final at SW19.",
+        "copy": "Japan's Tokito Oda beat Great Britain's Alfie Hewett to claim his third Wimbledon men's wheelchair singles title. Oda, the number one seed and defending champion, dominated Sunday's final on Court One to win 6-1 6-1.\n\nIt is a sixth successive Grand Slam singles title won by 20-year-old Oda, who is unbeaten at the four majors since his loss to Hewett in the 2025 Australian Open final. Hewett won a seventh men's wheelchair doubles title at Wimbledon alongside fellow Briton Gordon Reid on Saturday but, for the second year in succession, he was beaten by Oda in the singles final at SW19.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -4162,6 +4227,19 @@
         "body": "Recent history suggests Jannik Sinner should be entirely confident of retaining his Wimbledon title - but this Alexander Zverev is a different proposition. World number one Sinner is aiming to become just the 10th man in the Open era to retain the men's singles title at the All England Club, after beating Carlos Alcaraz to lift the trophy for the first time last summer.\n\nThe 24-year-old Italian has won each of his past nine meetings with Zverev - and the past six without losing a set. But Sinner is wary of the threat posed by Zverev, after the German ended his long wait for a maiden Grand Slam success at last month's French Open.",
         "copy": "Recent history suggests Jannik Sinner should be entirely confident of retaining his Wimbledon title - but this Alexander Zverev is a different proposition. World number one Sinner is aiming to become just the 10th man in the Open era to retain the men's singles title at the All England Club, after beating Carlos Alcaraz to lift the trophy for the first time last summer.\n\nThe 24-year-old Italian has won each of his past nine meetings with Zverev - and the past six without losing a set. But Sinner is wary of the threat posed by Zverev, after the German ended his long wait for a maiden Grand Slam success at last month's French Open.",
         "first_seen": "2026-07-12T11:02:56.354360+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "More Than The Score: A golden age of Italian tennis",
+        "link": "https://www.bbc.co.uk/sounds/play/p0ny3fzt?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T05:01:00+00:00",
+        "published_label": "Sun 12 Jul, 05:01",
+        "summary": "How Jannik Sinner and Italy rose to the very top of tennis",
+        "body": "Italy has six players inside the men's world top 50 including number one and four-time Grand Slam champion, Jannik Sinner. Jasmine Paolini is flying the flag on the women's side while Sara Errani - one of the most successful doubles players in recent history - is still winning tournaments at the age of 39. The country has also won the last three Davis Cups and won the Billie Jean King Cup back-to-back in 2024 and 2025. Delyth Lloyd is joined at Wimbledon by former player and current tournament director of the Italian Open and director of women's tennis at the Italian Tennis Federation, Paolo Lorenzi, to discuss what's behind the rise of the sport in the country. We also hear from Sinner and Paolini as well as Italian tennis journalist Ubaldo Scanagatta. More than the Score tells stories beyond the scoreline from all over the world of sport. From the World Cup to F1, golf to figure skating, and Grand Slam tennis to Diamond League athletics. We've got interviews with extraordinary athletes like heavyweight boxing champion Fabio Wardley, Tour de France winner Pauline Ferrand-Prévot, trailblazing Samoan athlete Alex Rose and cricket superstar Smriti Mandhana, as well as the experts working behind the scenes, from football super-agents to the coaches keeping athletes in peak form. Plus, we've got the expertise of the BBC's top journalists, who share their insights from decades of covering sport at all levels. And if you've got your own take on the stories we cover, we'd love to hear from you. Email morethanthescore@bbc.co.uk, or WhatsApp us on 0044 800 032 0470. You can find more information, along with our privacy notice, on our website: www.bbcworldservice.com/morethanthescore ________________________________________",
+        "copy": "Italy has six players inside the men's world top 50 including number one and four-time Grand Slam champion, Jannik Sinner. Jasmine Paolini is flying the flag on the women's side while Sara Errani - one of the most successful doubles players in recent history - is still winning tournaments at the age of 39. The country has also won the last three Davis Cups and won the Billie Jean King Cup back-to-back in 2024 and 2025. Delyth Lloyd is joined at Wimbledon by former player and current tournament director of the Italian Open and director of women's tennis at the Italian Tennis Federation, Paolo Lorenzi, to discuss what's behind the rise of the sport in the country. We also hear from Sinner and Paolini as well as Italian tennis journalist Ubaldo Scanagatta. More than the Score tells stories beyond the scoreline from all over the world of sport. From the World Cup to F1, golf to figure skating, and Grand Slam tennis to Diamond League athletics. We've got interviews with extraordinary athletes like heavyweight boxing champion Fabio Wardley, Tour de France winner Pauline Ferrand-Prévot, trailblazing Samoan athlete Alex Rose and cricket superstar Smriti Mandhana, as well as the experts working behind the scenes, from football super-agents to the coaches keeping athletes in peak form. Plus, we've got the expertise of the BBC's top journalists, who share their insights from decades of covering sport at all levels. And if you've got your own take on the stories we cover, we'd love to hear from you. Email morethanthescore@bbc.co.uk, or WhatsApp us on 0044 800 032 0470. You can find more information, along with our privacy notice, on our website: www.bbcworldservice.com/morethanthescore ________________________________________",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
       },
       {
         "section": "Tennis",
@@ -4474,6 +4552,19 @@
         "body": "British sensation Arthur Fery says he will consult the likes of compatriot Emma Raducanu following a memorable Wimbledon run that ended in defeat to Germany's Alexander Zverev in the semi-finals on Friday.\n\nFery was a wildcard entrant to the Wimbledon draw, but lit up his home tournament with a stirring run to the last four, defeating the likes of Grigor Dimitrov and French Open finalist Flavio Cobolli along the way.",
         "copy": "British sensation Arthur Fery says he will consult the likes of compatriot Emma Raducanu following a memorable Wimbledon run that ended in defeat to Germany's Alexander Zverev in the semi-finals on Friday.\n\nFery was a wildcard entrant to the Wimbledon draw, but lit up his home tournament with a stirring run to the last four, defeating the likes of Grigor Dimitrov and French Open finalist Flavio Cobolli along the way.",
         "first_seen": "2026-07-11T10:40:16.719936+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Wimbledon: News, updates, with Emma Raducanu, Jack Draper, Jannik Sinner, Aryna Sabalenka, Serena Williams preparing for Grand Slam",
+        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPVEMzNTEzRnAzdTViWXJJcWt4SzRmUk9fZEFOck5lSzFEcmlvM1NwdW1qbzNJTXh6Y0otTjhQUjRXRDNkVC1xMzl6QkFvNk1ZQVFpQ0NGblRTZENXc0pLLUtxRHZ6M09feXRrUzVTLTd6dzcyVG14bFd0TDNWQllqYmxRX1VOWFE1ZmNsUWxqOVgxWTRuRmNmcmk5M2dfQlhOMHg0UFRaeGFfS1NoTXRkV1VlTG0wRjN1bHZYZHc2bWw1M2tkRGNGb2xtcUJUdVV0R3gwTlJlWDhqcmZkaG9WWUFJbU12YXd2Q2xmOWw2QVhncmw1RlFxNDFXTi1Sa2RZekc3RXBLZFNvUUhCbmtCWXEzQXVUVWJfeW40R01Fb3BSZw?oc=5",
+        "published": "2026-07-10T19:27:45+00:00",
+        "published_label": "Fri 10 Jul, 19:27",
+        "summary": "Wimbledon: News, updates, with Emma Raducanu, Jack Draper, Jannik Sinner, Aryna Sabalenka, Serena Williams preparing for Grand Slam Sky Sports",
+        "body": "Alfie Hewett was comprehensively beaten by world No 1 Tokito Oda in the wheelchair singles final at Wimbledon. The 28-year-old from Norwich won a seventh doubles title with fellow Briton Gordon Reid against Oda and Gustavo Fernandez on Saturday.\n\nBut Japanese star Oda got his revenge in the singles with a 6-1 6-1 victory in just an hour and nine minutes on Court One. Hewett, beaten in three sets by Oda in last year's final, said: \"Obviously right now I'm just extremely disappointed.",
+        "copy": "Alfie Hewett was comprehensively beaten by world No 1 Tokito Oda in the wheelchair singles final at Wimbledon. The 28-year-old from Norwich won a seventh doubles title with fellow Briton Gordon Reid against Oda and Gustavo Fernandez on Saturday.\n\nBut Japanese star Oda got his revenge in the singles with a 6-1 6-1 victory in just an hour and nine minutes on Court One. Hewett, beaten in three sets by Oda in last year's final, said: \"Obviously right now I'm just extremely disappointed.",
+        "first_seen": "2026-07-08T17:15:21.236343+00:00"
       },
       {
         "section": "Tennis",
@@ -5701,19 +5792,6 @@
         "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
-        "title": "Wimbledon: News, updates, with Emma Raducanu, Jack Draper, Jannik Sinner, Aryna Sabalenka, Serena Williams preparing for Grand Slam",
-        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPVEMzNTEzRnAzdTViWXJJcWt4SzRmUk9fZEFOck5lSzFEcmlvM1NwdW1qbzNJTXh6Y0otTjhQUjRXRDNkVC1xMzl6QkFvNk1ZQVFpQ0NGblRTZENXc0pLLUtxRHZ6M09feXRrUzVTLTd6dzcyVG14bFd0TDNWQllqYmxRX1VOWFE1ZmNsUWxqOVgxWTRuRmNmcmk5M2dfQlhOMHg0UFRaeGFfS1NoTXRkV1VlTG0wRjN1bHZYZHc2bWw1M2tkRGNGb2xtcUJUdVV0R3gwTlJlWDhqcmZkaG9WWUFJbU12YXd2Q2xmOWw2QVhncmw1RlFxNDFXTi1Sa2RZekc3RXBLZFNvUUhCbmtCWXEzQXVUVWJfeW40R01Fb3BSZw?oc=5",
-        "published": "2026-07-07T13:52:56+00:00",
-        "published_label": "Tue 07 Jul, 13:52",
-        "summary": "Wimbledon: News, updates, with Emma Raducanu, Jack Draper, Jannik Sinner, Aryna Sabalenka, Serena Williams preparing for Grand Slam Sky Sports",
-        "body": "Aryna Sabalenka has urged Wimbledon chiefs to lift their ban on players' dogs. Players were allowed to take their pups into the French Open, with the pets even issued with accreditation.\n\nSabalenka - who owns a Cavalier King Charles Spaniel called Ash - Marta Kostyuk, Anastasia Potapova, Anna Kalinskaya and Hailey Baptiste are among the stars who were accompanied by their pooches in Paris.",
-        "copy": "Aryna Sabalenka has urged Wimbledon chiefs to lift their ban on players' dogs. Players were allowed to take their pups into the French Open, with the pets even issued with accreditation.\n\nSabalenka - who owns a Cavalier King Charles Spaniel called Ash - Marta Kostyuk, Anastasia Potapova, Anna Kalinskaya and Hailey Baptiste are among the stars who were accompanied by their pooches in Paris.",
-        "first_seen": "2026-07-08T17:15:21.236343+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
         "title": "Who is British tennis star Arthur Fery?",
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcW9QcVBQZGNTbnUtbU1RTkpXai1tTkNhcmtxMmFMalVwTWt1T0hQYnBOb1Y0T2ROeUFHa2wyNkpaZ1JJUzNzSkFZSFhWWkw1dUpyUC1fbVl5ME1QME9YVWdlSkNld0J0ZzJLOWtyU08yS3hMc1VJVW1qRDZtMVRGbnJuNS1XWGE5YlFpcWt0dkVRcTZtOVFxZGQ3SHB1dlFTQzF2eWQybGc4bkpnV0FyTEFzblBOdW5NT1hFd1V2ZVU1VzJRMkhTOFlfUXVUNmx4UXFaNTByR2Q3QUt6X0JVUXBCSW5KUEtFbG9NRjZPY29RNHZjVERiTkhaQjRwdw?oc=5",
         "published": "2026-07-07T12:49:05+00:00",
@@ -6141,6 +6219,45 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Mark Grace dishes on playing Pebble Beach with Bill Murray",
+        "link": "https://golf.com/news/mark-grace-bill-murray-pebble-beach/",
+        "published": "2026-07-12T12:56:03+00:00",
+        "published_label": "Sun 12 Jul, 12:56",
+        "summary": "Bill Murray has been a staple of the Pebble Beach Pro-Am for decades. Cubs legend Mark Grace explained what it's like to play with the comedian. The post Mark Grace dishes on playing Pebble Beach with Bill Murray appeared first on Golf .",
+        "body": "For years, Bill Murray has been the face of the Pebble Beach Pro Am. The legendary actor and comedian has delighted fans along the Monterey Peninsula since he arrived at the event in the early 1990s. He has had walk-off rules violations, won the pro-am portion in 2011, and even punted a teddy bear into the crowd during one round.\n\nPlaying with Murray at Pebble Beach is an experience, one Chicago Cubs legend, Mark Grace, detailed on the latest episode of GOLF’s Subpar Podcast with Colt Knost and Drew Stoltz.",
+        "copy": "For years, Bill Murray has been the face of the Pebble Beach Pro Am. The legendary actor and comedian has delighted fans along the Monterey Peninsula since he arrived at the event in the early 1990s. He has had walk-off rules violations, won the pro-am portion in 2011, and even punted a teddy bear into the crowd during one round.\n\nPlaying with Murray at Pebble Beach is an experience, one Chicago Cubs legend, Mark Grace, detailed on the latest episode of GOLF’s Subpar Podcast with Colt Knost and Drew Stoltz.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "2026 British Open Championship field: PGA Tour, LIV Golf and DP World Tour players, rankings",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSHZVMFZDQ2dXazJkcTY4Y3JkbnFLZ0ZyMVpUanVNcFo4Ml8xZ0tzMnRJVEJta2E4ZGRvQndzai1JajJJdlB5dHNXaEZNUlNYalJ5UjgxdmpzdDZESXE5V2dIUDA2Nm5EMmwySFZ2eWtIWXM4OUdLUkRSLU0wRVNESkpPT2pXYlVvbHJ0c3M2QUxoak5kbmtOU3BjZmtLY3Q1OEk3Y2EyVjBFM0lVTEpxSzdMbFkzRDVkYXFtT2RTREIzRExzM2Naa1k1Z1dDdllXTC1VMUszbnFsMVpHdUhpT0dKOVFnQQ?oc=5",
+        "published": "2026-07-12T12:52:29+00:00",
+        "published_label": "Sun 12 Jul, 12:52",
+        "summary": "2026 British Open Championship field: PGA Tour, LIV Golf and DP World Tour players, rankings Golf News Net",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Genesis Scottish Open purse: Payout breakdown, winner's share",
+        "link": "https://golf.com/news/2026-scottish-open-purse/",
+        "published": "2026-07-12T12:08:27+00:00",
+        "published_label": "Sun 12 Jul, 12:08",
+        "summary": "The 2026 Scottish Open at The Renaissance Club has a $9 million purse with the winner taking home $1.575 million. The post 2026 Genesis Scottish Open purse: Payout breakdown, winner’s share appeared first on Golf .",
+        "body": "After a fog-shortened Saturday, a marathon final day awaits the challengers at the Genesis Scottish Open. It began early Sunday morning, with Robert MacIntyre, Matt Fitzpatrick and Min Woo Lee finishing their third rounds tied atop the leaderboard at The Renaissance Club.\n\nMacIntyre, who won the championship in 2024, fired a bogey-free, five-under 65 in his third round to electrify the crowd in his home country. Lee, who won the tournament in 2021, carded a four-under 66, as did Fitzpatrick.",
+        "copy": "After a fog-shortened Saturday, a marathon final day awaits the challengers at the Genesis Scottish Open. It began early Sunday morning, with Robert MacIntyre, Matt Fitzpatrick and Min Woo Lee finishing their third rounds tied atop the leaderboard at The Renaissance Club.\n\nMacIntyre, who won the championship in 2024, fired a bogey-free, five-under 65 in his third round to electrify the crowd in his home country. Lee, who won the tournament in 2021, carded a four-under 66, as did Fitzpatrick.",
+        "first_seen": "2026-07-12T15:41:37.834725+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -7817,19 +7934,6 @@
         "body": "The final round of the 2026 John Deere Classic is in progress at TPC Deere Run in Illinois. Here’s everything you need to know to watch round four of the PGA Tour tournament, including a full John Deere Classic TV schedule, streaming information and complete tee times for the fourth round.\n\nHeading into the final round of the 2026 John Deere Classic, Lucas Glover and Lee Hodges share the lead at 16-under par. Soft conditions following heavy rain early Saturday morning gave Glover an opportunity to go low, helping him maintain a share of the lead after carding a two-under 69 in the third round.",
         "copy": "The final round of the 2026 John Deere Classic is in progress at TPC Deere Run in Illinois. Here’s everything you need to know to watch round four of the PGA Tour tournament, including a full John Deere Classic TV schedule, streaming information and complete tee times for the fourth round.\n\nHeading into the final round of the 2026 John Deere Classic, Lucas Glover and Lee Hodges share the lead at 16-under par. Soft conditions following heavy rain early Saturday morning gave Glover an opportunity to go low, helping him maintain a share of the lead after carding a two-under 69 in the third round.",
         "first_seen": "2026-07-05T20:22:36.323692+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 John Deere Classic purse: Payout info, winner’s share",
-        "link": "https://golf.com/news/2026-john-deere-classic-purse-payout-breakdown/",
-        "published": "2026-07-05T15:39:49+00:00",
-        "published_label": "Sun 05 Jul, 15:39",
-        "summary": "Here's the total purse, payout breakdown and winner's share for the 2026 John Deere Classic at TPC Deere Run. The post 2026 John Deere Classic purse: Payout info, winner’s share appeared first on Golf .",
-        "body": "Zach Johnson, we can presume, has never read this story. Two days before this week’s John Deere Classic, he’d been asked for his thoughts on the tournament potentially becoming “second tier” under upcoming changes on the PGA Tour, and Johnson went on to talk about his affection for the event. He said he appreciated the people who run it. He said he appreciated the work they do. He also said that should it become a spot below the first tier, there still will be “phenomenal athletes playing and opportunity galore.”\n\n“I’ll just say, you know, personally speaking, and I say this — this is my 24th start? I have no idea what the purse is,” Johnson said. “I have never looked at one in my entire tenure. I don’t know. I’ve had to look on the Champions Tour because they’ve asked me, but I honestly don’t know, and I don’t care.",
-        "copy": "Zach Johnson, we can presume, has never read this story. Two days before this week’s John Deere Classic, he’d been asked for his thoughts on the tournament potentially becoming “second tier” under upcoming changes on the PGA Tour, and Johnson went on to talk about his affection for the event. He said he appreciated the people who run it. He said he appreciated the work they do. He also said that should it become a spot below the first tier, there still will be “phenomenal athletes playing and opportunity galore.”\n\n“I’ll just say, you know, personally speaking, and I say this — this is my 24th start? I have no idea what the purse is,” Johnson said. “I have never looked at one in my entire tenure. I don’t know. I’ve had to look on the Champions Tour because they’ve asked me, but I honestly don’t know, and I don’t care.",
-        "first_seen": "2026-07-05T15:57:57.231205+00:00"
       }
     ],
     "Badminton": [
@@ -8071,5 +8175,5 @@
       }
     ]
   },
-  "total": 619
+  "total": 627
 }
