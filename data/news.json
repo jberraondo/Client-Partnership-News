@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T16:46:54.700679+00:00",
-  "generated_label": "Monday 13 July 2026, 16:46 UTC",
+  "generated_at": "2026-07-13T19:06:06.615994+00:00",
+  "generated_label": "Monday 13 July 2026, 19:06 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1532,22 +1532,113 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Prime Video sees huge NBA audience growth in key global territories",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUlZTzVhUVlIVjlZM0pyYklkRHRpQ004MDJWZ3hXZFBJTXh6ZUd3TE9ORFppVUU5dS1xOXp4UENpZ1UwTEFfazlHZ1ZBeGJxZ3NZaFJiQTY4WXdaOTBva285cHN5MS1pWXNQQW83QlRSNUwxa1huNWJoXzhfWEg3bkZfYlo4SlVvemh0eEZCaFEwMUNGZG5TLVYzZk05T2s?oc=5",
-        "published": "2026-07-06T16:59:43+00:00",
-        "published_label": "Mon 06 Jul, 16:59",
-        "summary": "Prime Video sees huge NBA audience growth in key global territories Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-06T17:51:43.582245+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "England U20 player ratings vs South Africa | World Rugby Junior World Championship 2026",
+        "link": "https://www.rugbypass.com/news/england-u20-player-ratings-vs-south-africa-world-rugby-junior-world-championship-2026/",
+        "published": "2026-07-13T18:54:21+00:00",
+        "published_label": "Mon 13 Jul, 18:54",
+        "summary": "England U20 player ratings: The second semi-final of the World Rugby Junior World Championship was set to be a cracker...",
+        "body": "England U20 player ratings: England’s U20s exploded out of the blocks in Tbilisi, playing direct, physical rugby and taking an early lead through tighthead Ollie Streeter. South Africa weathered that storm and gradually imposed themselves through a dominant set-piece and ferocious defence before the contest was turned completely on its head by Seb Kelly’s first-half red card.\n\nThe flanker’s needless headbutt left England with an almost impossible task and, despite an admirable effort from Andy Titterall’s side, the Junior Boks ruthlessly capitalised.",
+        "copy": "England U20 player ratings: England’s U20s exploded out of the blocks in Tbilisi, playing direct, physical rugby and taking an early lead through tighthead Ollie Streeter. South Africa weathered that storm and gradually imposed themselves through a dominant set-piece and ferocious defence before the contest was turned completely on its head by Seb Kelly’s first-half red card.\n\nThe flanker’s needless headbutt left England with an almost impossible task and, despite an admirable effort from Andy Titterall’s side, the Junior Boks ruthlessly capitalised.",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "2 red cards and 90 points as rampant Junior Boks book place in final",
+        "link": "https://www.rugbypass.com/news/2-red-cards-and-90-points-as-junior-boks-book-place-in-final/",
+        "published": "2026-07-13T18:50:19+00:00",
+        "published_label": "Mon 13 Jul, 18:50",
+        "summary": "Khuthadzo Rasivhaga scored a hat-trick as the Junior Springboks stayed on course to retain their World Rugby Junior World Championship title, with 14-man England suffering a second-half implosion to lose 53-37 in Tbilisi, Georgia.",
+        "body": "Khuthadzo Rasivhaga scored a hat-trick as the Junior Springboks stayed on course to retain their World Rugby Junior World Championship title, with 14-man England suffering a second-half implosion to lose 53-37 in Tbilisi, Georgia.\n\nAnd with Yaqeen Ahmed pulling the strings, they showed no mercy coming back from 20-12 down at the break to completely turn the game on its head with 28 unanswered points to book a place against France in the final.",
+        "copy": "Khuthadzo Rasivhaga scored a hat-trick as the Junior Springboks stayed on course to retain their World Rugby Junior World Championship title, with 14-man England suffering a second-half implosion to lose 53-37 in Tbilisi, Georgia.\n\nAnd with Yaqeen Ahmed pulling the strings, they showed no mercy coming back from 20-12 down at the break to completely turn the game on its head with 28 unanswered points to book a place against France in the final.",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "South Africa U20 player ratings vs England | World Rugby Junior World Championship 2026",
+        "link": "https://www.rugbypass.com/news/south-africa-u20-vs-england-world-rugby-junior-world-championship-2026/",
+        "published": "2026-07-13T18:34:34+00:00",
+        "published_label": "Mon 13 Jul, 18:34",
+        "summary": "South Africa U20 player ratings: The second semi-final of the World Rugby U20 Championship was billed as a blockbuster, with South Africa U20 looking to book their place in the final against a dangerous England side in a heavyweight showdown.",
+        "body": "South Africa U20 player ratings: The Junior Boks weathered England’s fast start before strangling the game through their set-piece, defensive pressure and superior physicality.\n\nThe Junior Boks were not flawless, but once Seb Kelly saw red, they sensed blood and went straight for England’s throat. Their outstanding lineout operation, powerful ball carriers and clinical back-three proved the difference as they secured their place in the final.",
+        "copy": "South Africa U20 player ratings: The Junior Boks weathered England’s fast start before strangling the game through their set-piece, defensive pressure and superior physicality.\n\nThe Junior Boks were not flawless, but once Seb Kelly saw red, they sensed blood and went straight for England’s throat. Their outstanding lineout operation, powerful ball carriers and clinical back-three proved the difference as they secured their place in the final.",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'Scotland swung for the king and missed",
+        "link": "https://www.rugbypass.com/plus/scotland-swung-for-the-king-and-missed-but-there-is-much-to-take-from-loftus-epic/",
+        "published": "2026-07-13T17:39:25+00:00",
+        "published_label": "Mon 13 Jul, 17:39",
+        "summary": "Scotland's high-tempo attack cut South Africa open, but familiar frustrations resurfaced to deny them a monumental scalp.",
+        "body": "There wasn’t enough Klippies and coke in all of Pretoria to settle the heads of the Scotland fans who witnessed the glorious chaos of their bout with the Springboks. This was their team in microcosm: effervescent and errant; wonderful yet wasteful; magnificent and, occasionally, maddening.\n\nScotland came to the Highveld to play. They kept the ball for nearly nine minutes longer than South Africa. They built 50 more rucks and had a 62% share of the territory. They asked the world champions to attempt an astronomical 261 tackles and forced them to miss 75. They made a ridiculous 17 line-breaks, just seven shy of the free-wheeling Fijians in Cardiff a week earlier. They kicked the ball only 17 times. Rassie Erasmus, the game’s thought-leading coach, labelled Scotland “the third-best team in the world” in his post-match press conference. While it’s best to take Rassie’s praise with a pinch of salt, his public appraisal of opposition teams is generally on the money.",
+        "copy": "There wasn’t enough Klippies and coke in all of Pretoria to settle the heads of the Scotland fans who witnessed the glorious chaos of their bout with the Springboks. This was their team in microcosm: effervescent and errant; wonderful yet wasteful; magnificent and, occasionally, maddening.\n\nScotland came to the Highveld to play. They kept the ball for nearly nine minutes longer than South Africa. They built 50 more rucks and had a 62% share of the territory. They asked the world champions to attempt an astronomical 261 tackles and forced them to miss 75. They made a ridiculous 17 line-breaks, just seven shy of the free-wheeling Fijians in Cardiff a week earlier. They kicked the ball only 17 times. Rassie Erasmus, the game’s thought-leading coach, labelled Scotland “the third-best team in the world” in his post-match press conference. While it’s best to take Rassie’s praise with a pinch of salt, his public appraisal of opposition teams is generally on the money.",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Wales hooker Jones joins Sale from Gloucester-Hartpury",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cvgl2j977pmo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-13T17:36:11+00:00",
+        "published_label": "Mon 13 Jul, 17:36",
+        "summary": "Wales hooker Kelsey Jones becomes the fourth player this summer to switch from Gloucester-Hartpury to Sale Sharks.",
+        "body": "Wales hooker Kelsey Jones has joined Sale Sharks ahead of the 2026-2027 season. The 28-year-old left Gloucester-Hartpury this summer after eight years, having made 69 appearances and scoring 25 tries.\n\nJones will link up with fellow Wales front row Gwenllian Pyrs, with whom she started every game of the 2026 Women's Six Nations. She is the fourth Gloucester-Hartpury player to swap Kingsholm for the Morson Stadium, following the signings of Red Roses Zoe Stratford, Sarah Beckett and Tatyana Heard.",
+        "copy": "Wales hooker Kelsey Jones has joined Sale Sharks ahead of the 2026-2027 season. The 28-year-old left Gloucester-Hartpury this summer after eight years, having made 69 appearances and scoring 25 tries.\n\nJones will link up with fellow Wales front row Gwenllian Pyrs, with whom she started every game of the 2026 Women's Six Nations. She is the fourth Gloucester-Hartpury player to swap Kingsholm for the Morson Stadium, following the signings of Red Roses Zoe Stratford, Sarah Beckett and Tatyana Heard.",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ireland genuinely believe they can beat us",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c7vy2gg0e6do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-13T17:08:07+00:00",
+        "published_label": "Mon 13 Jul, 17:08",
+        "summary": "New Zealand head coach Dave Rennie says his side is \"well aware of Ireland's ability\" as the two teams prepare to meet in Saturday's Nations Championship match in Auckland.",
+        "body": "New Zealand head coach Dave Rennie said his players are \"well aware of Ireland's ability\" as the two teams prepare to meet in Saturday's Nations Championship match in Auckland.\n\nAndy Farrell's side have registered two bonus-point wins so far, while the All Blacks are also undefeated in the Nations Championship after wins against Italy and France. Ireland have never won before at Eden Park and are aiming to end New Zealand's impressive 52-game unbeaten run at the venue (kick-off 08:10 BST).",
+        "copy": "New Zealand head coach Dave Rennie said his players are \"well aware of Ireland's ability\" as the two teams prepare to meet in Saturday's Nations Championship match in Auckland.\n\nAndy Farrell's side have registered two bonus-point wins so far, while the All Blacks are also undefeated in the Nations Championship after wins against Italy and France. Ireland have never won before at Eden Park and are aiming to end New Zealand's impressive 52-game unbeaten run at the venue (kick-off 08:10 BST).",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Rugby Union Weekly: Nations Championship -tries and tribulations",
+        "link": "https://www.bbc.co.uk/sounds/play/p0nyknyh?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-13T17:00:00+00:00",
+        "published_label": "Mon 13 Jul, 17:00",
+        "summary": "Danny, Ashy and Chris look back at round two of the Nation’s Championship.",
+        "body": "Danny, Ashy and Chris look back at round two of the Nation’s Championship with the north and south both on six wins each. Scotland scored four tries and pushed the Boks all the way in Pretoria. Did they show the England coaching team the best way to attack the double world champions? Danny reacts to Marcus Smith’s cameo at scrum-half against Fiji and we look ahead to England’s trip to Argentina as the injured Alex Mitchell is replaced by Raffi Quirke. We also look at the logistics issues hampering the tournament and discuss whether some teams are getting an unfair advantage. Will Jordan broke the All Blacks try record at the weekend, but does he make our all-time Nee Zealand back three? The game of the weekend sees Ireland head to Eden Park. Can Andy Farrell’s side finally end the All Blacks’ 32 year, 52 Test, unbeaten home record?",
+        "copy": "Danny, Ashy and Chris look back at round two of the Nation’s Championship with the north and south both on six wins each. Scotland scored four tries and pushed the Boks all the way in Pretoria. Did they show the England coaching team the best way to attack the double world champions? Danny reacts to Marcus Smith’s cameo at scrum-half against Fiji and we look ahead to England’s trip to Argentina as the injured Alex Mitchell is replaced by Raffi Quirke. We also look at the logistics issues hampering the tournament and discuss whether some teams are getting an unfair advantage. Will Jordan broke the All Blacks try record at the weekend, but does he make our all-time Nee Zealand back three? The game of the weekend sees Ireland head to Eden Park. Can Andy Farrell’s side finally end the All Blacks’ 32 year, 52 Test, unbeaten home record?",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Gloucester sign Champ tight-head as 'Proving Ground' bears fruit again",
+        "link": "https://www.rugbypass.com/news/gloucester-sign-champ-tight-head-as-proving-ground-bears-fruit-again/",
+        "published": "2026-07-13T16:50:19+00:00",
+        "published_label": "Mon 13 Jul, 16:50",
+        "summary": "Coventry tight-head Oliver Salt is the latest player to make the step up to the Gallagher PREM after establishing himself in the Champ.",
+        "body": "Coventry tight-head Oliver Salt is the latest player to make the step up to the Gallagher PREM after establishing himself in the Champ. The 26-year-old is the third player from Coventry alone to be snapped up by a PREM club, giving further credibility to the Champ’s reputation as the ‘proving ground’ for aspirational players.\n\nSalt has made 69 appearances over the past three seasons and joins winger David Opoku (Sale Sharks) and back-rower Allan Ferrie (Newcastle) in playing at a higher level next season.",
+        "copy": "Coventry tight-head Oliver Salt is the latest player to make the step up to the Gallagher PREM after establishing himself in the Champ. The 26-year-old is the third player from Coventry alone to be snapped up by a PREM club, giving further credibility to the Champ’s reputation as the ‘proving ground’ for aspirational players.\n\nSalt has made 69 appearances over the past three seasons and joins winger David Opoku (Sale Sharks) and back-rower Allan Ferrie (Newcastle) in playing at a higher level next season.",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4056,19 +4147,6 @@
         "body": "All Blacks assistant coach Neil Barnes has put to bed any doubts about Luke Jacobson’s selection last week against France, labelling his performance as “outstanding”. Jacobson, who was one of the most surprising match-day 23 selections from Dave Rennie, impressed in the second half against France after having a slow start, bouncing back from giving away two penalties.\n\nThe Chiefs captain led the All Blacks in tackles with 18 and provided Will Jordan with a superb try assist late on in the piece as he fended off a last-ditch French defender. Barnes, speaking to media in Auckland at the start of the Italy Test week, explained that the 29-year-old earned his selection.",
         "copy": "All Blacks assistant coach Neil Barnes has put to bed any doubts about Luke Jacobson’s selection last week against France, labelling his performance as “outstanding”. Jacobson, who was one of the most surprising match-day 23 selections from Dave Rennie, impressed in the second half against France after having a slow start, bouncing back from giving away two penalties.\n\nThe Chiefs captain led the All Blacks in tackles with 18 and provided Will Jordan with a superb try assist late on in the piece as he fended off a last-ditch French defender. Barnes, speaking to media in Auckland at the start of the Italy Test week, explained that the 29-year-old earned his selection.",
         "first_seen": "2026-07-06T22:46:44.329175+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Super Rugby Aupiki: Talking points after four rounds of the 2026 season",
-        "link": "https://www.rugbypass.com/news/super-rugby-aupiki-talking-points-after-four-rounds-of-the-2026-season/",
-        "published": "2026-07-06T17:00:27+00:00",
-        "published_label": "Mon 06 Jul, 17:00",
-        "summary": "Super Rugby Aupiki is four rounds down, and the biggest surprise are the surging Hurricanes Poua, who have won two matches in a row for the first time in their history.",
-        "body": "Super Rugby Aupiki is four rounds down, and the biggest surprise are the surging Hurricanes Poua, who have won two matches in a row for the first time in their history. Defending champions the Blues have lost two in a row for the first time since 2023. Matatu looks like the team to beat and Chiefs Manawa are struggling. What are some of the major themes emerging after a month of Super Rugby Aupiki?\n\nHurricanes Poua hinted they would be more competitive when they stretched Matatu in wet, blustery conditions at Maidstone Park on Sunday 21 June. A week later they rallied from 14-3 down and a red card to upset Chiefs Manawa for their first win in 12 matches and 840 days.",
-        "copy": "Super Rugby Aupiki is four rounds down, and the biggest surprise are the surging Hurricanes Poua, who have won two matches in a row for the first time in their history. Defending champions the Blues have lost two in a row for the first time since 2023. Matatu looks like the team to beat and Chiefs Manawa are struggling. What are some of the major themes emerging after a month of Super Rugby Aupiki?\n\nHurricanes Poua hinted they would be more competitive when they stretched Matatu in wet, blustery conditions at Maidstone Park on Sunday 21 June. A week later they rallied from 14-3 down and a red card to upset Chiefs Manawa for their first win in 12 matches and 840 days.",
-        "first_seen": "2026-07-06T17:20:18.705168+00:00"
       }
     ],
     "Tennis": [
@@ -6099,35 +6177,61 @@
         "body": "",
         "copy": "Great Britain's Arthur Fery expresses his excitement in reaching the quarter-finals of Wimbledon after beating Grigor Dimitrov.",
         "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Positivity is my superpower' - Paolini holds off Eala to reach quarter-finals",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c2lyyw2e4d7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-06T17:14:40+00:00",
-        "published_label": "Mon 06 Jul, 17:14",
-        "summary": "Jasmine Paolini secures a gritty win over Alexandra Eala to reach the Wimbledon quarter-finals and end the Filipina's historic run.",
-        "body": "Jasmine Paolini secured a gritty win over Alexandra Eala to reach the Wimbledon quarter-finals and end the Filipina's historic run. Eala became the first player from the Philippines to reach the fourth round of a major in the Open era when she beat defending champion Iga Swiatek on Saturday.\n\nDespite fighting hard to force a deciding set, the 21-year-old was unable to continue her dream run as she fell to a 6-4 4-6 6-3 defeat by the resilient Italian. It is the first time Paolini has reached the quarter-finals of a Grand Slam since she reached back-to-back finals at the French Open and Wimbledon in 2024.",
-        "copy": "Jasmine Paolini secured a gritty win over Alexandra Eala to reach the Wimbledon quarter-finals and end the Filipina's historic run. Eala became the first player from the Philippines to reach the fourth round of a major in the Open era when she beat defending champion Iga Swiatek on Saturday.\n\nDespite fighting hard to force a deciding set, the 21-year-old was unable to continue her dream run as she fell to a 6-4 4-6 6-3 defeat by the resilient Italian. It is the first time Paolini has reached the quarter-finals of a Grand Slam since she reached back-to-back finals at the French Open and Wimbledon in 2024.",
-        "first_seen": "2026-07-06T17:20:18.705168+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Wimbledon 2026: Order of Play and match schedule for Centre Court, No 1 Court, No 2 Court and more",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQVJkZzBVZHU4TWVoak1Dc292bERIOTRIWDNpSTA2cnpPNTdKdnFoWVF3Z1hxeEZZVGZhcWhXTllmZHNkM3ByZFduQ1YwZkt0aE1NMGFKXzNwdWpsWW1hUmNrRHJuN0N2V1Y1VGhxaUVsdFgxVFlVckktZS1kNUp3cm9NZVpCdllQMEFyZGpsTl9YZ3ptZUJUN2Ezb1I0cE9GMGNCQUt6aFlvOFVkdjVZc19hTEVYdEl5TlBjYnhRSVVpbUpGMDd6cGg5c3FNbjhHbS15dkpJamdUM2xvd0VldS1R?oc=5",
-        "published": "2026-07-06T17:11:31+00:00",
-        "published_label": "Mon 06 Jul, 17:11",
-        "summary": "Wimbledon 2026: Order of Play and match schedule for Centre Court, No 1 Court, No 2 Court and more Sky Sports",
-        "body": "Take a look at Tuesday's singles Order of Play in the Wimbledon Championships at the All England Club. Watch the ATP and WTA Tours, live on Sky Sports or stream with NOW and the Sky Sports app, giving Sky Sports customers access to over 50 per cent more live sport this year at no extra cost. Find out more here.",
-        "copy": "Take a look at Tuesday's singles Order of Play in the Wimbledon Championships at the All England Club. Watch the ATP and WTA Tours, live on Sky Sports or stream with NOW and the Sky Sports app, giving Sky Sports customers access to over 50 per cent more live sport this year at no extra cost. Find out more here.",
-        "first_seen": "2026-07-06T17:51:43.582245+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Gambling contributing to abuse of golfers",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c79y2py9p9do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-13T18:39:50+00:00",
+        "published_label": "Mon 13 Jul, 18:39",
+        "summary": "Matt Fitzpatrick says that sports betting is becoming a problem among golf fans and contributing to personal abuse hurled at players.",
+        "body": "Sports betting is becoming a problem among golf fans and contributing to personal abuse hurled at players, says Matt Fitzpatrick. The 2022 US Open champion was part of the European side that was barracked by hostile US fans at Bethpage Black last September in the Ryder Cup.\n\nEngland's Fitzpatrick was also subjected to pantomime boos from the partisan fans when he lost out to Cameron Young at the PGA Tour's flagship Players Championship in March. \"I would say every golfer that's played a professional tournament has had a message of abuse from someone that is related to gambling,\" said Fitzpatrick.",
+        "copy": "Sports betting is becoming a problem among golf fans and contributing to personal abuse hurled at players, says Matt Fitzpatrick. The 2022 US Open champion was part of the European side that was barracked by hostile US fans at Bethpage Black last September in the Ryder Cup.\n\nEngland's Fitzpatrick was also subjected to pantomime boos from the partisan fans when he lost out to Cameron Young at the PGA Tour's flagship Players Championship in March. \"I would say every golfer that's played a professional tournament has had a message of abuse from someone that is related to gambling,\" said Fitzpatrick.",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Five updates as Scott O’Neil’s LIV Golf rescue package takes shape amid $630m hurdle",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHcwWlJPSm9sRU4wRGtTZ2N6djc5enBMUVpRbll1blhJbzdJS21odVlHdWRTaDVLRDNpWGFmTUIwcE5mYTBLZ2ZyaEw5dU1wYTY0Rmo1R09RcF84R1VndFVxVnU4b3NUTENSNDJETlYwb3ZyLWpDOWdDdFlsM2xIUzc4NU0za2paajlvR3JScW5XQjUzYWpiMGp2WGJENkRnd3hhVC1n?oc=5",
+        "published": "2026-07-13T18:30:00+00:00",
+        "published_label": "Mon 13 Jul, 18:30",
+        "summary": "Five updates as Scott O’Neil’s LIV Golf rescue package takes shape amid $630m hurdle hitc.com",
+        "body": "Scott O’Neil is probably the busiest man in the sports business industry right now. Since the Saudi Public Investment Fund announced in April that they would pull their funding for LIV at the end of the season, O’Neil has been seeking a rescue package.\n\nThe LIV Golf CEO has called in restructuring experts and a team of mergers and acquisition veterans. He is said to be seeking about $300m in capital to keep the lights on into 2027 and beyond.",
+        "copy": "Scott O’Neil is probably the busiest man in the sports business industry right now. Since the Saudi Public Investment Fund announced in April that they would pull their funding for LIV at the end of the season, O’Neil has been seeking a rescue package.\n\nThe LIV Golf CEO has called in restructuring experts and a team of mergers and acquisition veterans. He is said to be seeking about $300m in capital to keep the lights on into 2027 and beyond.",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Former champ Louis Oosthuizen withdraws from Open",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVdOdzZLdS1lTWdiMnFDb1E2bWplYmNKejNZb09mMnpFNl9uU3JWejNtZjlUTmhocjR1bDdFaFhNYlR4VGUxLUZKQ2o0YTlOQTVpeFJkcHc3dzVjaDFHRWVFSWJyVjBWQ29wdTNsbl9CY3pQM0RHX2NOQWxjTV9UbFNYYktLVFhjYnB4N1VfQ1BLNXUwMVZmTnJwdXFXdw?oc=5",
+        "published": "2026-07-13T17:59:43+00:00",
+        "published_label": "Mon 13 Jul, 17:59",
+        "summary": "Former champ Louis Oosthuizen withdraws from Open Reuters",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Open Championship picks to win: Here’s who our staff is betting on",
+        "link": "https://golf.com/news/2026-british-open-picks-staff-betting-royal-birkdale/",
+        "published": "2026-07-13T17:40:55+00:00",
+        "published_label": "Mon 13 Jul, 17:40",
+        "summary": "The GOLF.com staff makes its picks to win the Open Championship at Royal Birkdale following Scottie Scheffler’s win at the event last year. The post 2026 Open Championship picks to win: Here’s who our staff is betting on appeared first on Golf .",
+        "body": "Jordan Spieth and Scottie Scheffler were stumped. Who, they wondered, would be considered the defending champion this week at the Open Championship: Scheffler, last year’s winner, or Spieth, the champion in 2017, the last time the Open was played at Royal Birkdale?\n\n“I said, ‘Well, are you the defending champ,’ Spieth said recently, “‘or am I the defending champ?’ “‘I was like, ‘No, no, no, you don’t get to do that. It’s you.” Whatever the case may be, consider Spieth’s mood light then, and if you’re backing him for a Birkdale defense, that’s welcomed, of course. Are there other positive signs? Maybe. This season on the PGA Tour, he’s missed just two cuts in 18 starts. His Strokes Gained stats are fair: 60th in total, 74th in tee to green, 73rd in off the tee, 83rd in approach the green, 85th in around the green and 53rd in putting.",
+        "copy": "Jordan Spieth and Scottie Scheffler were stumped. Who, they wondered, would be considered the defending champion this week at the Open Championship: Scheffler, last year’s winner, or Spieth, the champion in 2017, the last time the Open was played at Royal Birkdale?\n\n“I said, ‘Well, are you the defending champ,’ Spieth said recently, “‘or am I the defending champ?’ “‘I was like, ‘No, no, no, you don’t get to do that. It’s you.” Whatever the case may be, consider Spieth’s mood light then, and if you’re backing him for a Birkdale defense, that’s welcomed, of course. Are there other positive signs? Maybe. This season on the PGA Tour, he’s missed just two cuts in 18 starts. His Strokes Gained stats are fair: 60th in total, 74th in tee to green, 73rd in off the tee, 83rd in approach the green, 85th in around the green and 53rd in putting.",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -7986,58 +8090,6 @@
         "body": "Sergio Garcia is planning to rejoin the DP World Tour in 2027, but he’s still optimistic about LIV Golf’s precarious future. The Spaniard retains strong belief that LIV will survive – albeit in a different form next year – as the embattled league searches for the $300 million it requires from new investors to continue operating following the retreat of their sole financial backers, Saudi Arabia’s sovereign wealth fund.\n\nBut while the rampant uncertainty surrounding LIV continues, Garcia is set to revive his membership on the DP World Tour, his longtime domain which he first resigned from more than three years ago.",
         "copy": "Sergio Garcia is planning to rejoin the DP World Tour in 2027, but he’s still optimistic about LIV Golf’s precarious future. The Spaniard retains strong belief that LIV will survive – albeit in a different form next year – as the embattled league searches for the $300 million it requires from new investors to continue operating following the retreat of their sole financial backers, Saudi Arabia’s sovereign wealth fund.\n\nBut while the rampant uncertainty surrounding LIV continues, Garcia is set to revive his membership on the DP World Tour, his longtime domain which he first resigned from more than three years ago.",
         "first_seen": "2026-07-06T17:20:18.705168+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Report: Sergio Garcia eyeing return to DP World Tour in 2027",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXBGdHl0djZaNUdpeVUyWjFaTnhKNTZHQWloVktqdFBvbzJza2JUZklUUEx3Z2Fwa3ZMT21Ub3NqQk11c1ZBT0VjdnN5SGE1SEpPUXp3cXgtQTQxX0UwMmdXZkZudldmSWtzZ0tYTjlEa2JSdGxWTXE0aUF1ZWEzc1JXOVBkcWFIOUJOdmtfNzRrc1FqaXB4R1hLVllVVXRwZ3R1S0lYeW9EQU1UcmVqZG83ajhrWC1lTHVyRnF3?oc=5",
-        "published": "2026-07-06T18:57:00+00:00",
-        "published_label": "Mon 06 Jul, 18:57",
-        "summary": "Report: Sergio Garcia eyeing return to DP World Tour in 2027 Golfweek",
-        "body": "- Sergio Garcia reportedly plans to rejoin the DP World Tour in 2027 after a year away. - Garcia, a former Masters champion, joined LIV Golf in 2022 and has a 25-13-7 Ryder Cup record.\n\n- He intends to play about four more events on the European circuit this season. - Reports suggest LIV Golf is operating on loans for the rest of 2026 and seeking new investors for 2027.",
-        "copy": "- Sergio Garcia reportedly plans to rejoin the DP World Tour in 2027 after a year away. - Garcia, a former Masters champion, joined LIV Golf in 2022 and has a 25-13-7 Ryder Cup record.\n\n- He intends to play about four more events on the European circuit this season. - Reports suggest LIV Golf is operating on loans for the rest of 2026 and seeking new investors for 2027.",
-        "first_seen": "2026-07-06T22:46:44.329175+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Inside Cameron Young's breakthrough: How golf's intriguing star joined its elite",
-        "link": "https://golf.com/news/cameron-young-breakthrough-cover-story/",
-        "published": "2026-07-06T18:36:28+00:00",
-        "published_label": "Mon 06 Jul, 18:36",
-        "summary": "Where did Cameron Young come from — and how did he make his latest leap to golf's elite? Here's the story of golf's quiet, intriguing star. The post Inside Cameron Young’s breakthrough: How golf’s intriguing star joined its elite appeared first on Golf .",
-        "body": "True to form, Cameron Young arrives early and well prepared. Our production crew is finishing its setup behind the clubhouse at Dutchman’s Pipe, a well-to-do West Palm Beach golf club just a few miles south of Young’s home, when the cover star himself, the third-ranked golfer in the world, pulls up in a cart and offers a wave to our photographer. He looks more casual than we’re accustomed to seeing him at Tour events, wearing an unbuttoned white polo untucked over gray shorts. Several hangers swing from the back of his cart.\n\n“I brought options,” he says sheepishly, gesturing to a handful of logoed golf shirts and checked button-downs. He hops from the cart and shakes hands with each member of the GOLF team. For the next couple hours, he’s engaged and engaging — direct and forthright through a photo shoot, a sit-down chat and a one-sided battle with a bucket of balls.",
-        "copy": "True to form, Cameron Young arrives early and well prepared. Our production crew is finishing its setup behind the clubhouse at Dutchman’s Pipe, a well-to-do West Palm Beach golf club just a few miles south of Young’s home, when the cover star himself, the third-ranked golfer in the world, pulls up in a cart and offers a wave to our photographer. He looks more casual than we’re accustomed to seeing him at Tour events, wearing an unbuttoned white polo untucked over gray shorts. Several hangers swing from the back of his cart.\n\n“I brought options,” he says sheepishly, gesturing to a handful of logoed golf shirts and checked button-downs. He hops from the cart and shakes hands with each member of the GOLF team. For the next couple hours, he’s engaged and engaging — direct and forthright through a photo shoot, a sit-down chat and a one-sided battle with a bucket of balls.",
-        "first_seen": "2026-07-06T22:46:44.329175+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "3 things every golfer can learn from Chris Gotterup's unique swing",
-        "link": "https://golf.com/instruction/three-things-every-golfer-learn-chris-gotterup/",
-        "published": "2026-07-06T17:43:15+00:00",
-        "published_label": "Mon 06 Jul, 17:43",
-        "summary": "In this edition of Play Smart, GOLF Top 100 Teacher Jason Birnbaum breaks down the swing of star pupil Chris Gotterup. The post 3 things every golfer can learn from Chris Gotterup’s unique swing appeared first on Golf .",
-        "body": "Welcome to Play Smart, a regular GOLF.com game-improvement column that will help you play smarter, better golf. Chris Gotterup had a better Fourth of July weekend than most. With a win at the John Deere Classic, the 27-year-old claimed his third PGA Tour title of the season (and fifth over the past 12 months), bumping him to seventh in the OWGR and earning him $1.58 million for his efforts. Not bad for a week of work.\n\nThe interesting thing about Gotterup is that when you first watch him swing, you wouldn’t peg him as a Tour pro. It’s a powerful move, but it’s not one that’ll be taught in teaching bays across the country. It’s the textbook definition of “homegrown.”",
-        "copy": "Welcome to Play Smart, a regular GOLF.com game-improvement column that will help you play smarter, better golf. Chris Gotterup had a better Fourth of July weekend than most. With a win at the John Deere Classic, the 27-year-old claimed his third PGA Tour title of the season (and fifth over the past 12 months), bumping him to seventh in the OWGR and earning him $1.58 million for his efforts. Not bad for a week of work.\n\nThe interesting thing about Gotterup is that when you first watch him swing, you wouldn’t peg him as a Tour pro. It’s a powerful move, but it’s not one that’ll be taught in teaching bays across the country. It’s the textbook definition of “homegrown.”",
-        "first_seen": "2026-07-06T17:51:43.582245+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "I asked Tommy Fleetwood for iron-flighting advice. Here's what he told me",
-        "link": "https://golf.com/news/tommy-fleetwood-irons-tips/",
-        "published": "2026-07-06T17:42:33+00:00",
-        "published_label": "Mon 06 Jul, 17:42",
-        "summary": "How does Tommy Fleetwood dial in trajectory with his irons? It starts with this 5-ball drill he shared with us. The post I asked Tommy Fleetwood for iron-flighting advice. Here’s what he told me appeared first on Golf .",
-        "body": "It’s officially links golf season, folks. For the next few weeks, the golf world turns to the United Kingdomn for the Scottish Open (men’s and women’s) and the Open Championship (men’s, women’s, senior’s). We’re talking about the ball in the air and on the ground. We’re talking about holding shots off into a crosswind and flighting them down into a headwind. Really, we’re talking about controlling trajectory regardless of the vagaries the linksland throws at us.\n\nAnd our professor for this task? None other than Tommy Fleetwood, born and raised in Southport, on the west coast of England, down the street from Royal Birkdale, host of this year’s Open. We had the pleasure of putting Fleetwood to work in our “Pros Teaching Joes” series, focusing on a simple idea: How does one of the best irons players in the world control the trajectory of his irons shots?",
-        "copy": "It’s officially links golf season, folks. For the next few weeks, the golf world turns to the United Kingdomn for the Scottish Open (men’s and women’s) and the Open Championship (men’s, women’s, senior’s). We’re talking about the ball in the air and on the ground. We’re talking about holding shots off into a crosswind and flighting them down into a headwind. Really, we’re talking about controlling trajectory regardless of the vagaries the linksland throws at us.\n\nAnd our professor for this task? None other than Tommy Fleetwood, born and raised in Southport, on the west coast of England, down the street from Royal Birkdale, host of this year’s Open. We had the pleasure of putting Fleetwood to work in our “Pros Teaching Joes” series, focusing on a simple idea: How does one of the best irons players in the world control the trajectory of his irons shots?",
-        "first_seen": "2026-07-06T17:51:43.582245+00:00"
       }
     ],
     "Badminton": [
@@ -8053,6 +8105,19 @@
         "body": "The BWF World Championships will return to India after 17 years, with a new generation of Indian badminton players set to make their debuts on home soil. Established athletes such as PV Sindhu, Lakshya Sen, and the men’s doubles team Satwiksairaj Rankireddy and Chirag Shetty will lead the national contingent, while four emerging players will appear for the first time at the tournament.\n\nAyush Shetty, Unnati Hooda, and the women’s doubles duo of Simran Singhi and Kavipriya Selvam have secured their places through notable performances on the international circuit, as confirmed in a press release. This tournament represents a significant milestone as these young athletes commence competing among the world’s elite.",
         "copy": "The BWF World Championships will return to India after 17 years, with a new generation of Indian badminton players set to make their debuts on home soil. Established athletes such as PV Sindhu, Lakshya Sen, and the men’s doubles team Satwiksairaj Rankireddy and Chirag Shetty will lead the national contingent, while four emerging players will appear for the first time at the tournament.\n\nAyush Shetty, Unnati Hooda, and the women’s doubles duo of Simran Singhi and Kavipriya Selvam have secured their places through notable performances on the international circuit, as confirmed in a press release. This tournament represents a significant milestone as these young athletes commence competing among the world’s elite.",
         "first_seen": "2026-07-13T16:46:54.700679+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Ayush, Unnati and women's doubles duo of Simran and Kavipriya set for maiden BWF World C'ships appearance",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOVR1TzJ0LWU3TXUzMVlnc0l5dngzYkdSZi1WUlB2ZW1nUHluYWpQSnNtSnNLelU0bFJISGVIbWNjZHRWNlNHbGZiX0hCUEpTOEpZUFNXNmdTb2FfeHNscmctNktvLTd0T0x6TS1NRlR4THJKZURRUU1IMjZWbHdiM3paQVdvODl2ZmxvM1ZPd0RfZHBQSF9LRng1dERWM3lnaXVLZzlNU055bXNVTU1KMHBKMUFtbG9BZlNMYVZQQ2tISTBhbWNNVWM2bmFmQXZ6cGF4X0t6akhoX2VsSWh2MHo2ZWN2N1BUVlBkLS1mTQ?oc=5",
+        "published": "2026-07-13T15:57:00+00:00",
+        "published_label": "Mon 13 Jul, 15:57",
+        "summary": "Ayush, Unnati and women's doubles duo of Simran and Kavipriya set for maiden BWF World C'ships appearance ANI News",
+        "body": "New Delhi [India], July 13 (ANI): As the BWF World Championships return to India after 17 years, a new generation of Indian badminton stars is ready to step onto the biggest stage of their careers. Asian champion Jonatan Christie, and 2024 Paris Olympics silver medalist Kunlavut Vitidsarn before finishing with the silver medal.BWF World Championships will mark Ayush's first appearance at badminton's biggest tournament, capping a remarkable rise from World Junior medallist to one of India's leading men's singles players.BWF World Championships in New Delhi.\n\nThe Haryana shuttler first grabbed national attention in 2022 when, at the age of 14, she won the Odisha Open Super 100, becoming the youngest Indian to win a BWF 100 World Tour title. In the final, she defeated compatriot Samiya Imad Farooqui to claim her maiden senior international title.BWF World Championships will mark Unnati's first appearance at badminton's biggest tournament, as she joins India's squad for the event being hosted on home soil for the first time since 2009.Sports Club, the same academy that produced World Championships medallist Chirag Shetty. A dominant performer in the junior circuit, she successfully progressed into India's senior international setup before partnering with Kavipriya Selvam.BWF World Championships will mark the biggest milestone of their partnership so far, with the pair set to make their debut at badminton's biggest tournament.BWF World Championships returns to India for the first time since 2009, the spotlight will naturally fall on India's established stars. But alongside them, Ayush Shetty, Unnati Hooda, Simran Singhi and Kavipriya Selvam will take the court at the World Championships for the very first time, marking an important milestone in their careers and the beginning of their journey on badminton's biggest stage. (ANI)",
+        "copy": "New Delhi [India], July 13 (ANI): As the BWF World Championships return to India after 17 years, a new generation of Indian badminton stars is ready to step onto the biggest stage of their careers. Asian champion Jonatan Christie, and 2024 Paris Olympics silver medalist Kunlavut Vitidsarn before finishing with the silver medal.BWF World Championships will mark Ayush's first appearance at badminton's biggest tournament, capping a remarkable rise from World Junior medallist to one of India's leading men's singles players.BWF World Championships in New Delhi.\n\nThe Haryana shuttler first grabbed national attention in 2022 when, at the age of 14, she won the Odisha Open Super 100, becoming the youngest Indian to win a BWF 100 World Tour title. In the final, she defeated compatriot Samiya Imad Farooqui to claim her maiden senior international title.BWF World Championships will mark Unnati's first appearance at badminton's biggest tournament, as she joins India's squad for the event being hosted on home soil for the first time since 2009.Sports Club, the same academy that produced World Championships medallist Chirag Shetty. A dominant performer in the junior circuit, she successfully progressed into India's senior international setup before partnering with Kavipriya Selvam.BWF World Championships will mark the biggest milestone of their partnership so far, with the pair set to make their debut at badminton's biggest tournament.BWF World Championships returns to India for the first time since 2009, the spotlight will naturally fall on India's established stars. But alongside them, Ayush Shetty, Unnati Hooda, Simran Singhi and Kavipriya Selvam will take the court at the World Championships for the very first time, marking an important milestone in their careers and the beginning of their journey on badminton's biggest stage. (ANI)",
+        "first_seen": "2026-07-13T19:06:06.615994+00:00"
       },
       {
         "section": "Badminton",
@@ -8318,5 +8383,5 @@
       }
     ]
   },
-  "total": 638
+  "total": 643
 }
