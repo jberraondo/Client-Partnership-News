@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T17:13:50.745222+00:00",
-  "generated_label": "Tuesday 14 July 2026, 17:13 UTC",
+  "generated_at": "2026-07-14T19:16:16.510698+00:00",
+  "generated_label": "Tuesday 14 July 2026, 19:16 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "BGMEA signs MoU with HSBC to support new market expansion",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzNGR3dlUDM3eGs1MWduRFp1SmNFTDE0Z1VNZklUSXh3UXBtTXctVVpTam9aeTVsS0g0YWFZamM4Q2RFck83TjBxcnJNbm5WUWY1UjBUYnpremhGTFRLVkUxMWNzRXIzZ1pQVlg0N1Jvczk4c01Qb182cGl2bUljUTdhZFg1cXFLYkR5WGxzaVlPbzQ?oc=5",
+        "published": "2026-07-14T18:59:20+00:00",
+        "published_label": "Tue 14 Jul, 18:59",
+        "summary": "BGMEA signs MoU with HSBC to support new market expansion Textile Today",
+        "body": "The Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and HSBC Bangladesh have signed a strategic partnership to help Bangladesh's ready-made garment (RMG) industry expand into new and emerging international markets.\n\nThe two organizations signed a Memorandum of Understanding (MoU) on July 13 at the BGMEA Complex in Uttara, Dhaka. The agreement was signed by Mahmud Hasan Khan, President of BGMEA, and Md: Mahbub ur Rahman, Chief Executive Officer of HSBC Bangladesh.",
+        "copy": "The Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and HSBC Bangladesh have signed a strategic partnership to help Bangladesh's ready-made garment (RMG) industry expand into new and emerging international markets.\n\nThe two organizations signed a Memorandum of Understanding (MoU) on July 13 at the BGMEA Complex in Uttara, Dhaka. The agreement was signed by Mahmud Hasan Khan, President of BGMEA, and Md: Mahbub ur Rahman, Chief Executive Officer of HSBC Bangladesh.",
+        "first_seen": "2026-07-14T19:16:16.510698+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -1376,22 +1389,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-08T21:51:30.948856+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "How far can a ‘Messi strategy’ get Argentina?",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUFZc1lJNTFleVZZNWszX2FEcjdUT0VHcjdra0RoMmlRZFkyRGp1aFhEbVJIa2llNC1aMVlkeER2NWFGRVF0bG9VZUdWYXg2NUNvVTYyV1gzYjNGeWxQSmE4cFdGTU9jbXFTUDdydVBmTGw0Mm5ETUtpRTdhU1lCSVpRd2w?oc=5",
-        "published": "2026-07-07T19:12:54+00:00",
-        "published_label": "Tue 07 Jul, 19:12",
-        "summary": "How far can a ‘Messi strategy’ get Argentina? Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "£50,000 raised as Newport hosts British Rugby Sevens",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUG4teFVETzc4NWlfcjRwb1p5b1Q4S3RjU2I5SVliTGZEWXcwNkNUR0xMTTNUdVVLVDJiUW5hTWFydjJfRUw3OVd0bmt2c3d2RXZkNUFsWXhEU3drem9mbkxnVEpmNm9FRUdmaDZmcElRdy1tX0F2Z3RGNW1RekpBQTdfTDBzdGhWcDZ3ZVowR2dwWW9sd193ekV3M3o?oc=5",
+        "published": "2026-07-14T17:14:00+00:00",
+        "published_label": "Tue 14 Jul, 17:14",
+        "summary": "£50,000 raised as Newport hosts British Rugby Sevens Shropshire Star",
+        "body": "More than £50,000 was raised for charity as Newport hosted the British Rugby Sevens. The event on June 25 was hosted by Newport Rugby Club and welcomed more than 700 guests. Now in its third year, British Rugby Sevens has grown into one of the UK's leading business rugby events, bringing together companies, the local community and some of the country's top sevens talent for a day combining elite sport, fundraising and camaraderie among the local business community.\n\nOn the pitch, the British Army Rugby Sevens reclaimed the winning title, having previously won the tournament in 2024, in what organisers described as a fast-paced and closely fought competition despite the soaring temperatures.",
+        "copy": "More than £50,000 was raised for charity as Newport hosted the British Rugby Sevens. The event on June 25 was hosted by Newport Rugby Club and welcomed more than 700 guests. Now in its third year, British Rugby Sevens has grown into one of the UK's leading business rugby events, bringing together companies, the local community and some of the country's top sevens talent for a day combining elite sport, fundraising and camaraderie among the local business community.\n\nOn the pitch, the British Army Rugby Sevens reclaimed the winning title, having previously won the tournament in 2024, in what organisers described as a fast-paced and closely fought competition despite the soaring temperatures.",
+        "first_seen": "2026-07-14T19:16:16.510698+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4043,45 +4056,6 @@
         "body": "Australia flanker Tom Hooper has extended his contract at Exeter until the summer of 2028, but will then return to Australia. Under the deal the 25-year-old will join the Queensland Reds ahead of the start of the 2029 Super Rugby Pacific season.\n\nThe deal will keep him in his homeland until 2030. Hooper has enjoyed an impressive first season in England, helping the Chiefs reach the Prem final after finishing third in the league.",
         "copy": "Australia flanker Tom Hooper has extended his contract at Exeter until the summer of 2028, but will then return to Australia. Under the deal the 25-year-old will join the Queensland Reds ahead of the start of the 2029 Super Rugby Pacific season.\n\nThe deal will keep him in his homeland until 2030. Hooper has enjoyed an impressive first season in England, helping the Chiefs reach the Prem final after finishing third in the league.",
         "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Springboks will provide rising Scots with true yardstick",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqx17gr922ro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T18:51:30+00:00",
-        "published_label": "Tue 07 Jul, 18:51",
-        "summary": "Scotland have risen to fifth in the world rankings after beating Argentina, but Saturday's visit to South Africa will be a true test of their perceived improvement, writes Andy Burke.",
-        "body": "Riding high at fifth in the world rankings after a stunning opening Nations Championship win in Argentina, Scotland are feeling pretty good about themselves, but what comes next will provide a true reflection of where they stand in the global game.\n\nA showdown with back-to-back world champions South Africa in Pretoria is the next assignment and the type of challenge that Scotland were all too rarely afforded before World Rugby's shake-up of the summer schedule.",
-        "copy": "Riding high at fifth in the world rankings after a stunning opening Nations Championship win in Argentina, Scotland are feeling pretty good about themselves, but what comes next will provide a true reflection of where they stand in the global game.\n\nA showdown with back-to-back world champions South Africa in Pretoria is the next assignment and the type of challenge that Scotland were all too rarely afforded before World Rugby's shake-up of the summer schedule.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "World Rugby Junior World Championship semi-final fixtures confirmed",
-        "link": "https://www.rugbypass.com/news/world-rugby-junior-world-championship-semi-final-fixtures-confirmed/",
-        "published": "2026-07-07T18:36:29+00:00",
-        "published_label": "Tue 07 Jul, 18:36",
-        "summary": "Reigning champions South Africa U20 have booked their place in the World Rugby Junior World Championship semi-finals following a winner-takes-all victory over Wales U20 in Tbilisi on Tuesday.",
-        "body": "Reigning champions South Africa U20 have booked their place in the World Rugby Junior World Championship semi-finals as top seeds following a winner-takes-all victory over Wales U20 in Tbilisi on Tuesday.\n\nThe Junior Boks overcame a 14-0 deficit in the first half to triumph 52-33 over Wales and secure top seeding heading into the semi-finals. The contest was one of three matches between unbeaten sides in round three of the Junior World Championship in Georgia, with England U20 and Argentina U20 putting their unbeaten records on the line in Pool C, and France U20 and Australia U20 doing the same in Pool D.",
-        "copy": "Reigning champions South Africa U20 have booked their place in the World Rugby Junior World Championship semi-finals as top seeds following a winner-takes-all victory over Wales U20 in Tbilisi on Tuesday.\n\nThe Junior Boks overcame a 14-0 deficit in the first half to triumph 52-33 over Wales and secure top seeding heading into the semi-finals. The contest was one of three matches between unbeaten sides in round three of the Junior World Championship in Georgia, with England U20 and Argentina U20 putting their unbeaten records on the line in Pool C, and France U20 and Australia U20 doing the same in Pool D.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Exeter recruit 'incredibly talented' Wales prop Davies for 2026/27",
-        "link": "https://www.rugbypass.com/news/exeter-recruit-incredibly-talented-wales-prop-davies-for-2026-27/",
-        "published": "2026-07-07T17:33:59+00:00",
-        "published_label": "Tue 07 Jul, 17:33",
-        "summary": "Exeter Chiefs have confirmed the signing of 17-cap Wales prop Maisie Davies ahead of the 2026/27 Premiership Women's Rugby season.",
-        "body": "Exeter Chiefs have confirmed the signing of 17-cap Wales prop Maisie Davies ahead of the 2026/27 Premiership Women’s Rugby season. Last season the 20-year-old loosehead prop made 10 appearances for Bristol Bears in her debut English top flight campaign.\n\nDavies made her Wales debut in 2024’s WXV 2 and represented her country at Women’s Rugby World Cup 2025, where she made three appearances. The 20-year-old had a rapid rise in women’s rugby after she converted from the back-row to the front-row ahead of the 2024 U20 Women’s Summer Series. Later that year Davies made her Test debut and enjoyed a strong 2024/25 Celtic Challenge season.",
-        "copy": "Exeter Chiefs have confirmed the signing of 17-cap Wales prop Maisie Davies ahead of the 2026/27 Premiership Women’s Rugby season. Last season the 20-year-old loosehead prop made 10 appearances for Bristol Bears in her debut English top flight campaign.\n\nDavies made her Wales debut in 2024’s WXV 2 and represented her country at Women’s Rugby World Cup 2025, where she made three appearances. The 20-year-old had a rapid rise in women’s rugby after she converted from the back-row to the front-row ahead of the 2024 U20 Women’s Summer Series. Later that year Davies made her Test debut and enjoyed a strong 2024/25 Celtic Challenge season.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
       }
     ],
     "Tennis": [
@@ -5865,22 +5839,87 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Hogwarts stuff'",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/c4gydzk883ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T19:07:51+00:00",
-        "published_label": "Tue 07 Jul, 19:07",
-        "summary": "Enjoy the best shots from day nine of Wimbledon 2026, featuring Coco Gauff and Great Britain's Alfie Hewitt.",
-        "body": "",
-        "copy": "Enjoy the best shots from day nine of Wimbledon 2026, featuring Coco Gauff and Great Britain's Alfie Hewitt.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Wyndham Clark was using a coat hanger at the Open. Here's why",
+        "link": "https://golf.com/instruction/wyndham-clark-coat-hanger-open-explained/",
+        "published": "2026-07-14T18:59:45+00:00",
+        "published_label": "Tue 14 Jul, 18:59",
+        "summary": "Wyndham Clark was using a coat hanger at The Open Championship. Here’s how the unusual training aid helps his swing. The post Wyndham Clark was using a coat hanger at the Open. Here’s why appeared first on Golf .",
+        "body": "If you caught the video of Wyndham Clark on the range at The Open Championship, you probably did a double-take. That was, in fact, a coat hanger in his hands. And as odd as it looked, there was a purpose behind it.\n\nIn a press conference, Clark shared that Mondays are typically reserved for his technical work, and this week was no exception. Despite a T13 finish at the Genesis Scottish Open, Clark wasn’t satisfied with his ball striking during the final round. So, he arrived at Royal Birkdale — coat hanger in hand — and headed to the range to get things back on track.",
+        "copy": "If you caught the video of Wyndham Clark on the range at The Open Championship, you probably did a double-take. That was, in fact, a coat hanger in his hands. And as odd as it looked, there was a purpose behind it.\n\nIn a press conference, Clark shared that Mondays are typically reserved for his technical work, and this week was no exception. Despite a T13 finish at the Genesis Scottish Open, Clark wasn’t satisfied with his ball striking during the final round. So, he arrived at Royal Birkdale — coat hanger in hand — and headed to the range to get things back on track.",
+        "first_seen": "2026-07-14T19:16:16.510698+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Rory McIlroy says 'burnt out' Birkdale Open could play easier — and harder",
+        "link": "https://golf.com/news/open-championship-royal-birkdale-conditions-rory-mcilroy/",
+        "published": "2026-07-14T18:27:11+00:00",
+        "published_label": "Tue 14 Jul, 18:27",
+        "summary": "Royal Birkdale promises to be firm and fast for this Open Championship. Rory McIlroy sees two sides of a \"burnt out\" Open. The post Rory McIlroy says ‘burnt out’ Birkdale Open could play easier — and harder appeared first on Golf .",
+        "body": "The first two days of Open Championship week have been headlined by one thing: the firm and fast conditions at Royal Birkdale and the challenges they’ll present to the best players in the world.\n\nAs my colleague Sean Zak wrote, the arrival of The Brown™ this week suggests we are in store for a classic Open Championship to cap off the major season. That’s something that excites Rory McIlroy. But the two-time defending Masters champion also sees how the drying out of Royal Birkdale will alter the strategy for some chasing the Claret Jug this week.",
+        "copy": "The first two days of Open Championship week have been headlined by one thing: the firm and fast conditions at Royal Birkdale and the challenges they’ll present to the best players in the world.\n\nAs my colleague Sean Zak wrote, the arrival of The Brown™ this week suggests we are in store for a classic Open Championship to cap off the major season. That’s something that excites Rory McIlroy. But the two-time defending Masters champion also sees how the drying out of Royal Birkdale will alter the strategy for some chasing the Claret Jug this week.",
+        "first_seen": "2026-07-14T19:16:16.510698+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Open Championship picks to win: Our expert’s 6 favorite bets",
+        "link": "https://golf.com/lifestyle/2026-open-championship-picks-to-win-expert-6-bets/",
+        "published": "2026-07-14T18:19:39+00:00",
+        "published_label": "Tue 14 Jul, 18:19",
+        "summary": "The 2026 Open Championship begins Thursday at Royal Birkdale. Here are 6 picks our expert loves — and why he thinks you should too. The post 2026 Open Championship picks to win: Our expert’s 6 favorite bets appeared first on Golf .",
+        "body": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Open Championship, which gets underway on Thursday in Southport, England.\n\nIt is possible that we could have England winning in America this Sunday and an American winning in England. The World Cup Final will kickoff at 3:00 p.m. ET on Sunday afternoon in New Jersey — which ought to be around the same time that the 154th Open Championship is crowning its Champion Golfer of the Year at Royal Birkdale in Southport, England.",
+        "copy": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Open Championship, which gets underway on Thursday in Southport, England.\n\nIt is possible that we could have England winning in America this Sunday and an American winning in England. The World Cup Final will kickoff at 3:00 p.m. ET on Sunday afternoon in New Jersey — which ought to be around the same time that the 154th Open Championship is crowning its Champion Golfer of the Year at Royal Birkdale in Southport, England.",
+        "first_seen": "2026-07-14T19:16:16.510698+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This unheralded course 2 hours from Royal Birkdale deserves way more shine",
+        "link": "https://golf.com/travel/royal-birkdale-hollinwell-notts-england-world-top-100/",
+        "published": "2026-07-14T17:54:17+00:00",
+        "published_label": "Tue 14 Jul, 17:54",
+        "summary": "Hollinwell, though known to architectural aficionados, is a charming course in England that goes largely ignored by the American market. The post This unheralded course 2 hours from Royal Birkdale deserves way more shine appeared first on Golf .",
+        "body": "For most of my adult life, I have been searching for golf’s hidden gems. When I joined GOLF’s ranking panel decades ago, that search was productive. Some of the greatest courses in the world were hiding in plain sight. National Golf Links of America did not get the attention it deserved. North Berwick wasn’t even in the Top 100. Chicago Golf Club was admired by architectural devotees but hardly qualified as a household name.\n\nOver the last 30 years, golfers have become dramatically more sophisticated consumers of architecture. Rankings, books, websites, podcasts, social media and the ease of international travel have exposed golfers to great design in ways that would have been unimaginable when I first joined the panel. Information now moves instantly. A spectacular course no longer stays secret for very long.",
+        "copy": "For most of my adult life, I have been searching for golf’s hidden gems. When I joined GOLF’s ranking panel decades ago, that search was productive. Some of the greatest courses in the world were hiding in plain sight. National Golf Links of America did not get the attention it deserved. North Berwick wasn’t even in the Top 100. Chicago Golf Club was admired by architectural devotees but hardly qualified as a household name.\n\nOver the last 30 years, golfers have become dramatically more sophisticated consumers of architecture. Rankings, books, websites, podcasts, social media and the ease of international travel have exposed golfers to great design in ways that would have been unimaginable when I first joined the panel. Information now moves instantly. A spectacular course no longer stays secret for very long.",
+        "first_seen": "2026-07-14T19:16:16.510698+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'Weird stuff is going to happen' - Scheffler and McIlroy on sun-baked Birkdale",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cp9l94e9xr7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-14T17:28:26+00:00",
+        "published_label": "Tue 14 Jul, 17:28",
+        "summary": "Scottie Scheffler and Rory McIlroy discuss the firm and fiery conditions expected at Royal Birkdale for this week's Open Championship.",
+        "body": "The Open Championship has, so often down the years, been as much a battle with the elements as it has the swing for the world's top golfers. Recent Royal Birkdale Opens have been no different. When the Southport venue last staged the game's oldest championship in 2017, play was briefly suspended during the second round because of heavy wind and rain.\n\nIn 2008, at the end of a week largely dominated by horrendous weather, Padraig Harrington prevailed with a winning score of three over par, four shots clear of Ian Poulter. This week, however, it is shaping up to be a much different test, with firm and fiery conditions expected at a sun-baked Birkdale.",
+        "copy": "The Open Championship has, so often down the years, been as much a battle with the elements as it has the swing for the world's top golfers. Recent Royal Birkdale Opens have been no different. When the Southport venue last staged the game's oldest championship in 2017, play was briefly suspended during the second round because of heavy wind and rain.\n\nIn 2008, at the end of a week largely dominated by horrendous weather, Padraig Harrington prevailed with a winning score of three over par, four shots clear of Ian Poulter. This week, however, it is shaping up to be a much different test, with firm and fiery conditions expected at a sun-baked Birkdale.",
+        "first_seen": "2026-07-14T19:16:16.510698+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Sir Nick Faldo identifies missing piece to Bryson DeChambeau’s game after major struggles",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0FadlM1eHdCM2tWUS1sZmxDMVdwTTlsd1N1VFNHU0F4TTBrTmpUcHBwblpmWGpsdlIteWVtRExIaVNaVldvSzZCUnRCdU5mX1hnbDZ2NGwtRURQX2hmaFBFMHZVQzByRzlfZ2NBWDdDZ0x2Wi15WFROWW0yMFBwejJMUndBVVJwRE9ucnRQWDN4YnhqOUpMZEZrdGd3TDFWWmxpZlVYZERmUQ?oc=5",
+        "published": "2026-07-14T16:58:00+00:00",
+        "published_label": "Tue 14 Jul, 16:58",
+        "summary": "Sir Nick Faldo identifies missing piece to Bryson DeChambeau’s game after major struggles The Independent",
+        "body": "Three-time Open champion Sir Nick Faldo has criticised Bryson DeChambeau for having “zero clue of strategy” as the American looks to avoid a clean sweep of missed cuts at this year’s majors.\n\nDeChambeau won the US Open in 2020 and 2024 but after three top-10s in majors last year he has failed to make the weekend in any of the major tournaments in 2026. He arrives at Royal Birkdale trying to salvage something but Faldo does not have much confidence in the 32-year-old.",
+        "copy": "Three-time Open champion Sir Nick Faldo has criticised Bryson DeChambeau for having “zero clue of strategy” as the American looks to avoid a clean sweep of missed cuts at this year’s majors.\n\nDeChambeau won the US Open in 2020 and 2024 but after three top-10s in majors last year he has failed to make the weekend in any of the major tournaments in 2026. He arrives at Royal Birkdale trying to salvage something but Faldo does not have much confidence in the 32-year-old.",
+        "first_seen": "2026-07-14T19:16:16.510698+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -7855,45 +7894,6 @@
         "summary": "GOLF Top 100 Teacher Tony Ruggiero has five drills you can do in under a minute that will help you hit the ball more solidly. The post 5 quick at-home drills that will help you hit the ball solid immediately appeared first on Golf .",
         "body": "I recently ran a golf school for a great group of members at Aronimink, working alongside their assistant, Tessa Teachman. Tessa, along with my fellow Dewsweepers Morgan Hale and Connor Luke, worked together to help a great group of members make some pretty dramatic improvements to their contact in less than a day.\n\nThe changes didn’t require anything drastic from a physical perspective. They all came down to helping players associate new feels for what the club can do when you get out of the way and stop working against it. Most amateurs don’t need a swing overhaul, they just need to find the ground in the right spot to get solid contact, and do it with a good pivot. That’s the whole battle for a huge percentage of golfers.",
         "copy": "I recently ran a golf school for a great group of members at Aronimink, working alongside their assistant, Tessa Teachman. Tessa, along with my fellow Dewsweepers Morgan Hale and Connor Luke, worked together to help a great group of members make some pretty dramatic improvements to their contact in less than a day.\n\nThe changes didn’t require anything drastic from a physical perspective. They all came down to helping players associate new feels for what the club can do when you get out of the way and stop working against it. Most amateurs don’t need a swing overhaul, they just need to find the ground in the right spot to get solid contact, and do it with a good pivot. That’s the whole battle for a huge percentage of golfers.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Genesis Scottish Open: Jon Rahm on LIV Golf's future and whether players could offer their own money to help it continue",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb2ZjbU1waTE3cjVpUlVxaG5xQUdWejZDY0xSSngxZ3kxTXlPeGdTTzVqR2NlLVlXd3F6bjBja3hMY2EteFoyQTRKcVc1UnVxQ3RjV21vVnBvNVBsVnR6RW1ydnAta1JZc1dKTnJvT05NdERNUWNLR0w4Z0Q2OWxXWi1DVGlZWGxVbkJXRkxnYW1DVTRtYTBIbkRUeTJKMlRyUEN1Mk9XZXI2d1EzemdWYUZqRU9uVTRoYXp3Q09HNFNTeTMyNy1WakNBR1FFUWdxZkRyV3Q1b0R2a0ZPVGNaRVBnN1Vzek14RmtOLWw4LUt5Yi1KTDI3TmtwZzlqQQ?oc=5",
-        "published": "2026-07-07T18:41:05+00:00",
-        "published_label": "Tue 07 Jul, 18:41",
-        "summary": "Genesis Scottish Open: Jon Rahm on LIV Golf's future and whether players could offer their own money to help it continue Sky Sports",
-        "body": "Jon Rahm insists he has not been asked to contribute his own money to support LIV Golf's long-term future, but has refused to rule out doing so in the future. Saudi Arabia's Public Investment Fund (PIF) announced in April that they will end their funding for LIV Golf at the end of the 2026 season, leaving the league searching to find fresh investment.\n\nBryson DeChambeau has previously said he remains committed to the circuit and is \"giving all he can\" to help it continue, with LIV Golf seeking $300m in funding to ensure their survival beyond this year.",
-        "copy": "Jon Rahm insists he has not been asked to contribute his own money to support LIV Golf's long-term future, but has refused to rule out doing so in the future. Saudi Arabia's Public Investment Fund (PIF) announced in April that they will end their funding for LIV Golf at the end of the 2026 season, leaving the league searching to find fresh investment.\n\nBryson DeChambeau has previously said he remains committed to the circuit and is \"giving all he can\" to help it continue, with LIV Golf seeking $300m in funding to ensure their survival beyond this year.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf star withdraws on the eve of The Open",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUx0c2NZdl96c3pkV0tfVWhrSnRCcllpQ2E3M0hESi1sLVA4YnZwZUYxdndZLWNIMWJhUTBjVk9NV2t6eGhBaE55d1ZsUnUtTVFiY0FYbnh4MzYzNy1nMmFtbmdKVGxrVTZiUDBBREtPOXpfS3dhYkE0YlF5YnEzV1ZqNTBKRkdGNTBlT21wZGVUSS0ySTF0T19Md1J2UTdmQzVqT09PcE4zX0dT?oc=5",
-        "published": "2026-07-07T17:58:22+00:00",
-        "published_label": "Tue 07 Jul, 17:58",
-        "summary": "LIV Golf star withdraws on the eve of The Open Today's Golfer",
-        "body": "LIV Golf’s Elvis Smylie has withdrawn from The Open with a rib injury. The problem has also ruled the young Australian talent out of this week’s Genesis Scottish Open. Smylie, who had qualified for his third Open at Royal Birkdale after finishing 23rd in last year’s Race to Dubai rankings on the DP World Tour, has been dealing with the issue for a while now.\n\n“It is with great disappointment that I have to confirm that, due to a rib injury that has been causing me some discomfort, my medical team has advised me to take an extended break from golf to undergo the rehabilitation needed to return to full fitness,” Smylie wrote on Instagram.",
-        "copy": "LIV Golf’s Elvis Smylie has withdrawn from The Open with a rib injury. The problem has also ruled the young Australian talent out of this week’s Genesis Scottish Open. Smylie, who had qualified for his third Open at Royal Birkdale after finishing 23rd in last year’s Race to Dubai rankings on the DP World Tour, has been dealing with the issue for a while now.\n\n“It is with great disappointment that I have to confirm that, due to a rib injury that has been causing me some discomfort, my medical team has advised me to take an extended break from golf to undergo the rehabilitation needed to return to full fitness,” Smylie wrote on Instagram.",
-        "first_seen": "2026-07-08T12:02:20.898263+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "LIV Golf needs investors. Will one of them be Jon Rahm?",
-        "link": "https://golf.com/news/liv-golf-investors-jon-rahm/",
-        "published": "2026-07-07T17:44:53+00:00",
-        "published_label": "Tue 07 Jul, 17:44",
-        "summary": "LIV Golf needs investors after losing Saudi PIF backing. Will one of them be Jon Rahm? He talked about that at the Genesis Scottish Open. The post LIV Golf needs investors. Will one of them be Jon Rahm? appeared first on Golf .",
-        "body": "Jon Rahm says no, he hasn’t been asked to put his own money back into LIV Golf. But what if the league made the request? “Something I’ve learned in life, never say never,” he said Tuesday.\n\n“I’m not going to say absolutely no to anything that can happen in the future.” Speaking Tuesday ahead of this week’s Genesis Scottish Open, Rahm had been asked whether he’d help finance the prize fund for the league in which he plays, an idea that a reporter said could be an option while LIV seeks new investors as it’s been told it will no longer be backed by the Saudi Arabia Public Investment Fund. In December of 2023, Rahm left the PGA Tour and signed what has been reported as a nine-figure deal with LIV.",
-        "copy": "Jon Rahm says no, he hasn’t been asked to put his own money back into LIV Golf. But what if the league made the request? “Something I’ve learned in life, never say never,” he said Tuesday.\n\n“I’m not going to say absolutely no to anything that can happen in the future.” Speaking Tuesday ahead of this week’s Genesis Scottish Open, Rahm had been asked whether he’d help finance the prize fund for the league in which he plays, an idea that a reporter said could be an option while LIV seeks new investors as it’s been told it will no longer be backed by the Saudi Arabia Public Investment Fund. In December of 2023, Rahm left the PGA Tour and signed what has been reported as a nine-figure deal with LIV.",
         "first_seen": "2026-07-07T20:34:31.036968+00:00"
       }
     ],
