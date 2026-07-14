@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T13:28:40.041266+00:00",
-  "generated_label": "Tuesday 14 July 2026, 13:28 UTC",
+  "generated_at": "2026-07-14T15:23:53.138225+00:00",
+  "generated_label": "Tuesday 14 July 2026, 15:23 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "W-Sport launches in Nordics through HelloYou tie-up",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXFWQUF5Q001MHBERUlMUTJNeFllOEdZNkh0Y3k4bmRWaUNIYzliUk1nN0xOQi1PWVJrdy1VVW1JRVFZTnJ4aWVLLTVGOWJyczQ2ak1yaFBxZjNOLXN6amFBc3FFLVB4Y0dwTkk5d1hBSjRPZWU4eVBYZEhFQnp4bmFYdWY5YndaLUE?oc=5",
+        "published": "2026-07-14T13:51:17+00:00",
+        "published_label": "Tue 14 Jul, 13:51",
+        "summary": "W-Sport launches in Nordics through HelloYou tie-up Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-14T15:23:53.138225+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -1389,100 +1402,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-09T16:15:26.585400+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Apex enters women’s soccer with Northern Super League investment",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUdKWkhFcjJQazJBUldZX09EVkI5Mm9wczJHcDZic1NoS0lzSzVERmVMZ1BSbm9ZRjYwX294Z2VGVG9KTVUtcExuSU5kRDhTazNFRUJIRlJ6Rjd6QXkweVdZQ0I1cUhIT2hTUWVSc3pPX3VGOHltZGMzZUM5QXcxbUkzaklycVlIVXQtUk9LbnRKUmlwdzV0Wll3?oc=5",
-        "published": "2026-07-07T15:23:03+00:00",
-        "published_label": "Tue 07 Jul, 15:23",
-        "summary": "Apex enters women’s soccer with Northern Super League investment Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-08T17:15:21.236343+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "Versant buys Full Swing for US$530m to build out digital golf business",
-        "link": "https://www.sportspro.com/news/finance-investment/versant-full-swing-golf-technology-simulator-acquisition-july-2026/",
-        "published": "2026-07-07T15:09:11+00:00",
-        "published_label": "Tue 07 Jul, 15:09",
-        "summary": "Versant seeks to diversify away from linear television as Bruin secures another lucrative exit from its investment. The post Versant buys Full Swing for US$530m to build out digital golf business appeared first on SportsPro .",
-        "body": "Cable television group Versant is acquiring sports tech firm Full Swing from Bruin Capital in a US$530 million move designed to enhance its live coverage and diversify its revenue streams.\n\nFounded in 1986, Full Swing is best known for producing golf simulators used at commercial, residential and entertainment venues. The company is an official PGA Tour licensee and its products are used by several leading professionals, including Tiger Woods.",
-        "copy": "Cable television group Versant is acquiring sports tech firm Full Swing from Bruin Capital in a US$530 million move designed to enhance its live coverage and diversify its revenue streams.\n\nFounded in 1986, Full Swing is best known for producing golf simulators used at commercial, residential and entertainment venues. The company is an official PGA Tour licensee and its products are used by several leading professionals, including Tiger Woods.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "3ICE gets new global broadcaster as DAZN skates in",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkcxbFRSV0t0VjZUUlFobkJwd2hCVXNvcmJhYkFGdGdiWV9ia0ZkU3R6cnJfbGR1MHRyLThkeF8xb0hQTEpUQ05WZzR3QndJb09uTkZoT21OWkFDeUlMYWIySmpzQWZnTWFES1R2aHk2YkoxTHMycnd1bUZGUHJEUHdMTElGcTdF?oc=5",
-        "published": "2026-07-07T14:53:03+00:00",
-        "published_label": "Tue 07 Jul, 14:53",
-        "summary": "3ICE gets new global broadcaster as DAZN skates in Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Hawk-Eye wins five-year VAR contract with Croatian Football Federation",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcXdGSmt2dEhQSEFpSGhBNE95MGhXVzdoWV9janpiTmJPZGZBc2pZTUNUdVBxZUJ6SnJ6UHctNDZrLWQyMEtXMXRzbFc4ak1jbXVOWTMwR0lFT19VSjJtNnAzUHNFQWc2WldQTFg5UEtqMDVxM21ENlNOR2NWZ3QtejNNb0VsQmlKUDdzSFd5anJSZDNZdnRNMHpqZ21yR2Q5TXAw?oc=5",
-        "published": "2026-07-07T14:23:03+00:00",
-        "published_label": "Tue 07 Jul, 14:23",
-        "summary": "Hawk-Eye wins five-year VAR contract with Croatian Football Federation Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-08T12:02:20.898263+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "BTS are back — but will you be able to hear them over the screams?",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSm9RQWRMN2xNZWdEYjJabG1yRU16NjV4RW9DWGlYZ2EtSXdYUHFNcUxwbGo1VlphN0Q4ck1RemdyTFF4eGR6YkhPc3ZFMzE4RDVNLWJ6cnRjV1VFYWs0Z2lGaXVfZ2tnT25NaGg4Z25ZTVY5amtVZkZPdTFndFczbmh5ZmY?oc=5",
-        "published": "2026-07-07T14:09:47+00:00",
-        "published_label": "Tue 07 Jul, 14:09",
-        "summary": "BTS are back — but will you be able to hear them over the screams? Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-08T12:02:20.898263+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Le Havre hires Sportfive to manage commercial rights",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjh1VjdSR3VlRzhwenJ5b2RUSGVFZlFoUE5zcFhmX0daQnhSWmNFb1d0Y1VyN0V5SThmdXIyOFdKNVlLMm13a2dJRFJKZEI0bTBKZDRYdW9HU0JRX0p5UEtsZm5tcUdkc1RUVGZSS2NMYzRmeng5NHhaNFFIQ2h1bnhuVTFIejhwYVNv?oc=5",
-        "published": "2026-07-07T13:53:15+00:00",
-        "published_label": "Tue 07 Jul, 13:53",
-        "summary": "Le Havre hires Sportfive to manage commercial rights Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Canal Plus lands exclusive LaLiga rights in Poland through 2031",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1pFUVUxdm5hOUtiVE5RZEgwVWtZUEJJeWltRFEyc2FQTzhKR1N1SUtiOUxZMDROS2JsOE53X0RYY1VabTJCUXMwdE5Vc3hISWZRblhoWlJJQzZwanlfVUtuTHBZTVdkNVNSLUViZUs0UmNMTWJXVE9uM3VvRklKd045N05pQVFIYi0zWjd5SXllODhxWlllTVBn?oc=5",
-        "published": "2026-07-07T13:53:13+00:00",
-        "published_label": "Tue 07 Jul, 13:53",
-        "summary": "Canal Plus lands exclusive LaLiga rights in Poland through 2031 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Scotland rocked by triple injury blow ahead of Fiji clash",
+        "link": "https://www.rugbypass.com/news/scotland-rocked-by-triple-injury-blow-ahead-of-fiji-clash/",
+        "published": "2026-07-14T13:59:31+00:00",
+        "published_label": "Tue 14 Jul, 13:59",
+        "summary": "Alex Samuel (knee), Kyle Steyn (foot) and Rory Darge (concussion) have all been ruled out Saturday's match at Murrayfield.",
+        "body": "Glasgow trio, Alex Samuel, Kyle Steyn and Rory Darge, have been ruled out of Scotland’s Test against Fiji at Murrayfield on Saturday due to injury. Steyn and Darge both started last weekend’s 42-28 defeat to South Africa in Pretoria but are now unavailable.\n\nThe Fiji match will be the first one that they have missed this year, having been present in the starting line-up throughout the Guinness Men’s Six Nations and the first two rounds of the Nations Championship.",
+        "copy": "Glasgow trio, Alex Samuel, Kyle Steyn and Rory Darge, have been ruled out of Scotland’s Test against Fiji at Murrayfield on Saturday due to injury. Steyn and Darge both started last weekend’s 42-28 defeat to South Africa in Pretoria but are now unavailable.\n\nThe Fiji match will be the first one that they have missed this year, having been present in the starting line-up throughout the Guinness Men’s Six Nations and the first two rounds of the Nations Championship.",
+        "first_seen": "2026-07-14T15:23:53.138225+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Wales captain Lake in danger of missing South Africa Test",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cgev3ng5yrvo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-14T13:28:57+00:00",
+        "published_label": "Tue 14 Jul, 13:28",
+        "summary": "Wales captain Dewi Lake is in danger of missing the Nations Championship fixture against South Africa on Saturday because of a groin injury.",
+        "body": "Wales captain Dewi Lake is in danger of missing the Nations Championship fixture against South Africa on Saturday because of a groin injury. Ryan Elias would be line to start at hooker for Wales with Dragons' Elliot Dee flying to Durban as cover, alongside Gloucester lock Freddie Thomas who has been called in because Taine Plumtree is carrying an injury.\n\nLake is not going home with the squad being extended to 35 players for the week in South Africa. Wales have not yet ruled Lake out of facing the Springboks with the Gloucester-bound hooker having been in “light training today”.",
+        "copy": "Wales captain Dewi Lake is in danger of missing the Nations Championship fixture against South Africa on Saturday because of a groin injury. Ryan Elias would be line to start at hooker for Wales with Dragons' Elliot Dee flying to Durban as cover, alongside Gloucester lock Freddie Thomas who has been called in because Taine Plumtree is carrying an injury.\n\nLake is not going home with the squad being extended to 35 players for the week in South Africa. Wales have not yet ruled Lake out of facing the Springboks with the Gloucester-bound hooker having been in “light training today”.",
+        "first_seen": "2026-07-13T16:46:54.700679+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -1949,19 +1897,6 @@
         "summary": "New Zealand U20 player ratings: The opening semi-final of the World Rugby U20 Championship delivered everything it promised, as New Zealand U20 and France U20 served up a gripping, high-quality thriller...",
         "body": "New Zealand U20 player ratings: It was a nerve-wracking semi-final with the Baby Blacks coming close to clinching a spot in the Championship final, but France snatched the win in the dying minutes, claiming a 26-22 victory.\n\nWith the forward pack experiencing a mixed-bag afternoon, the Baby Blacks only found their mojo after the break, largely thanks to Micah Fale and Finn McLeod, both making a colossal impact off the bench.",
         "copy": "New Zealand U20 player ratings: It was a nerve-wracking semi-final with the Baby Blacks coming close to clinching a spot in the Championship final, but France snatched the win in the dying minutes, claiming a 26-22 victory.\n\nWith the forward pack experiencing a mixed-bag afternoon, the Baby Blacks only found their mojo after the break, largely thanks to Micah Fale and Finn McLeod, both making a colossal impact off the bench.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wales captain Lake set to miss South Africa Test",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cgev3ng5yrvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T16:00:17+00:00",
-        "published_label": "Mon 13 Jul, 16:00",
-        "summary": "Wales captain Dewi Lake is in danger of missing the Nations Championship fixture against South Africa on Saturday with a groin injury.",
-        "body": "Wales captain Dewi Lake is in danger of missing the Nations Championship fixture against South Africa on Saturday with a groin injury. Ryan Elias is likely to start at hooker for Wales with Dragons' Elliot Dee flying to Durban as cover, alongside Gloucester lock Freddie Thomas.\n\nLake is not going home, the squad being extended to 35 players for the week in South Africa. If Lake is ruled out, Jac Morgan would be expected to lead Wales for the final game of the season at Kings Park, having taken over the captaincy when Lake was forced off in the 35-21 defeat by Argentina.",
-        "copy": "Wales captain Dewi Lake is in danger of missing the Nations Championship fixture against South Africa on Saturday with a groin injury. Ryan Elias is likely to start at hooker for Wales with Dragons' Elliot Dee flying to Durban as cover, alongside Gloucester lock Freddie Thomas.\n\nLake is not going home, the squad being extended to 35 players for the week in South Africa. If Lake is ruled out, Jac Morgan would be expected to lead Wales for the final game of the season at Kings Park, having taken over the captaincy when Lake was forced off in the 35-21 defeat by Argentina.",
         "first_seen": "2026-07-13T16:46:54.700679+00:00"
       },
       {
@@ -4173,58 +4108,6 @@
         "body": "South Africa U20 player ratings: The reigning champions conceded the first two tries of the match at the Avchala Stadium in Tbilisi but rallied well to beat Wales 52-33 and go through to the semi-finals of the World Rugby Junior World Championship as the winners of Pool A with some ease.\n\nPatrolled the back field well and always looked for counter-attacking opportunities without properly managing to break through. Had one of those first halves as a winger where the ball never seemed to come his way. But he made an instant impact – good and bad – after the break, with a purposeful run followed by a try assist for Risima Khosa’s try and then a yellow card for a blatant deliberate knock-on. It cost his side seven points. But he redeemed himself with a big turnover in the wide channels as Wales sensed the game might not be up.",
         "copy": "South Africa U20 player ratings: The reigning champions conceded the first two tries of the match at the Avchala Stadium in Tbilisi but rallied well to beat Wales 52-33 and go through to the semi-finals of the World Rugby Junior World Championship as the winners of Pool A with some ease.\n\nPatrolled the back field well and always looked for counter-attacking opportunities without properly managing to break through. Had one of those first halves as a winger where the ball never seemed to come his way. But he made an instant impact – good and bad – after the break, with a purposeful run followed by a try assist for Risima Khosa’s try and then a yellow card for a blatant deliberate knock-on. It cost his side seven points. But he redeemed himself with a big turnover in the wide channels as Wales sensed the game might not be up.",
         "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wales prop Davies joins Exeter Chiefs",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ce8m548y7v5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T15:04:21+00:00",
-        "published_label": "Tue 07 Jul, 15:04",
-        "summary": "Exeter Chiefs Women sign Wales prop Maisie Davies from Bristol Bears.",
-        "body": "Exeter Chiefs Women have signed Wales prop Maisie Davies from Bristol Bears. The 20-year-old loosehead, who has won 17 caps for her country, moves to Sandy Park after a season at Ashton Gate.\n\nDavies will compete with United States international Hope Rogers and newly-signed Scotland player Demi Swann for a place in the front row of the PWR semi-finalists. She won her first cap last year and was part of the Wales squad at the last Women's World Cup.",
-        "copy": "Exeter Chiefs Women have signed Wales prop Maisie Davies from Bristol Bears. The 20-year-old loosehead, who has won 17 caps for her country, moves to Sandy Park after a season at Ashton Gate.\n\nDavies will compete with United States international Hope Rogers and newly-signed Scotland player Demi Swann for a place in the front row of the PWR semi-finalists. She won her first cap last year and was part of the Wales squad at the last Women's World Cup.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Paul Williams: 'The Nations Championship is right up there with any of the summer blockbusters.'",
-        "link": "https://www.rugbypass.com/plus/paul-williams-the-nations-championship-is-right-up-there-with-any-of-the-summer-blockbusters/",
-        "published": "2026-07-07T14:46:33+00:00",
-        "published_label": "Tue 07 Jul, 14:46",
-        "summary": "A new competition takes time to bed in but the signs with the Nations Championship were of a tournament that will soon become a fan favourite",
-        "body": "The Nations Championship flew out of the traps with six helter-skelter, rip-roaring fixtures that ensured rugby fans were glued to their seats for longer than is deemed sensible. Individual brilliance, teams pulling together with rearguard actions and genuine jeopardy from the starting gun meant it was an unforgettable weekend…\n\nThe Nations Championship was right up there with any of the summer blockbusters that’ll be launched in 2026 – The Odyssey and Toy Story 5 need to up their game. For the first time we had back-to-back summer Test rugby that didn’t feel like a set of discordant summer ‘friendlies’. From the very first game, the quality of rugby was fully dialled up to Mach 1 test level – which has not always been the case on traditional summer tours. On occasion, the opening fixtures of summer tours have fallen a bit flat. But the Nations Championship simply doesn’t allow for sluggishness. Every game now matters and has implications for the rest of the calendar year. You can’t simply lose a test match and ‘move on’ to next week like the previous week didn’t happen. Perhaps the greatest aspect of the weekend was seeing a table at the end it. This might seem a like a prosaic detail on which to dwell – given the quality of rugby on show. But those columns and rows, created in Excel, are important. They mean that the summer matches are now entwined with the Autumn Tests. Rugby finally has a sticky web of summer and autumn fixtures that have consequences – good or bad. And it’s fantastic for the game.",
-        "copy": "The Nations Championship flew out of the traps with six helter-skelter, rip-roaring fixtures that ensured rugby fans were glued to their seats for longer than is deemed sensible. Individual brilliance, teams pulling together with rearguard actions and genuine jeopardy from the starting gun meant it was an unforgettable weekend…\n\nThe Nations Championship was right up there with any of the summer blockbusters that’ll be launched in 2026 – The Odyssey and Toy Story 5 need to up their game. For the first time we had back-to-back summer Test rugby that didn’t feel like a set of discordant summer ‘friendlies’. From the very first game, the quality of rugby was fully dialled up to Mach 1 test level – which has not always been the case on traditional summer tours. On occasion, the opening fixtures of summer tours have fallen a bit flat. But the Nations Championship simply doesn’t allow for sluggishness. Every game now matters and has implications for the rest of the calendar year. You can’t simply lose a test match and ‘move on’ to next week like the previous week didn’t happen. Perhaps the greatest aspect of the weekend was seeing a table at the end it. This might seem a like a prosaic detail on which to dwell – given the quality of rugby on show. But those columns and rows, created in Excel, are important. They mean that the summer matches are now entwined with the Autumn Tests. Rugby finally has a sticky web of summer and autumn fixtures that have consequences – good or bad. And it’s fantastic for the game.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "High drama as England survive stirring Argentina comeback to maintain 100% record",
-        "link": "https://www.rugbypass.com/news/high-drama-as-england-survive-stirring-argentina-comeback-to-maintain-100-record/",
-        "published": "2026-07-07T13:56:48+00:00",
-        "published_label": "Tue 07 Jul, 13:56",
-        "summary": "Northampton Saints duo James Pater and Aiden Ainsworth-Cave scored a brace each as England booked their World Rugby Junior World Championship semi-final place with a nail-biting 40-38 win over Argentina in their winner-takes-all Pool C clash.",
-        "body": "Northampton Saints duo James Pater and Aiden Ainsworth-Cave scored a brace each as England booked their World Rugby Junior World Championship semi-final place with a nail-biting 40-38 win over Argentina in their winner-takes- all Pool C clash.\n\nEngland made Los Pumitas pay for slack discipline, with the South Americans losing Benjamin Ordiz to a 20-minute red card after 16 minutes for a dangerous clear-out on England skipper Connor Treacey.",
-        "copy": "Northampton Saints duo James Pater and Aiden Ainsworth-Cave scored a brace each as England booked their World Rugby Junior World Championship semi-final place with a nail-biting 40-38 win over Argentina in their winner-takes- all Pool C clash.\n\nEngland made Los Pumitas pay for slack discipline, with the South Americans losing Benjamin Ordiz to a 20-minute red card after 16 minutes for a dangerous clear-out on England skipper Connor Treacey.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "England U20 player ratings vs Argentina | World Rugby Junior World Championship 2026",
-        "link": "https://www.rugbypass.com/news/england-u20-player-ratings-vs-argentina-world-rugby-junior-world-championship-2026/",
-        "published": "2026-07-07T13:41:13+00:00",
-        "published_label": "Tue 07 Jul, 13:41",
-        "summary": "England U20 player ratings: England booked their place in the World Rugby Junior World Championship semi-finals with a 40-38 victory over Argentina U20 on Tuesday at Avchala Stadium.",
-        "body": "England U20 player ratings: England booked their place in the World Rugby Junior World Championship semi-finals with a 40-38 victory over Argentina U20 on Tuesday at Avchala Stadium.\n\nAfter a sloppy start from England, where they were close to going two tries down in the opening 15 minutes only for one try to be chalked off for obstruction, they regrouped and kicked on and led 28-12 at the break.",
-        "copy": "England U20 player ratings: England booked their place in the World Rugby Junior World Championship semi-finals with a 40-38 victory over Argentina U20 on Tuesday at Avchala Stadium.\n\nAfter a sloppy start from England, where they were close to going two tries down in the opening 15 minutes only for one try to be chalked off for obstruction, they regrouped and kicked on and led 28-12 at the break.",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
       }
     ],
     "Tennis": [
@@ -6099,22 +5982,61 @@
         "body": "Coco Gauff is through to her first Wimbledon semi-final after battling to a comeback victory over Jessica Pegula. Two-time Grand Slam singles champion Gauff had never previously gone beyond the fourth round at the All England Club and suffered a first-round exit last year.\n\nHowever, she recovered from an error-strewn start against world number four Pegula, who was the highest-ranked player left in the singles draw, to win 4-6 6-3 6-3. The 22-year-old is the youngest player to reach the semi-finals at all four Grand Slams since Maria Sharapova, who achieved that feat at the 2007 French Open.",
         "copy": "Coco Gauff is through to her first Wimbledon semi-final after battling to a comeback victory over Jessica Pegula. Two-time Grand Slam singles champion Gauff had never previously gone beyond the fourth round at the All England Club and suffered a first-round exit last year.\n\nHowever, she recovered from an error-strewn start against world number four Pegula, who was the highest-ranked player left in the singles draw, to win 4-6 6-3 6-3. The 22-year-old is the youngest player to reach the semi-finals at all four Grand Slams since Maria Sharapova, who achieved that feat at the 2007 French Open.",
         "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "GB's Hewett through in wheelchair singles",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cdjk0927xxxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T15:01:32+00:00",
-        "published_label": "Tue 07 Jul, 15:01",
-        "summary": "Britain's Alfie Hewett is through to a 10th Wimbledon wheelchair singles quarter-final - but compatriot Gordon Reid loses in the first round.",
-        "body": "Britain's Alfie Hewett is through to a 10th Wimbledon wheelchair singles quarter-final - but compatriot Gordon Reid suffered defeat in the first round. Hewett began his bid for a second SW19 title with a 6-1 6-3 win over Tom Egberink of the Netherlands.\n\nHewett completed the career Grand Slam in singles with his 2024 victory at Wimbledon. \"It is a privilege to be on these courts and it is certainly something I don't take for granted each year,\" said the 28-year-old, who made his Wimbledon debut in 2016.",
-        "copy": "Britain's Alfie Hewett is through to a 10th Wimbledon wheelchair singles quarter-final - but compatriot Gordon Reid suffered defeat in the first round. Hewett began his bid for a second SW19 title with a 6-1 6-3 win over Tom Egberink of the Netherlands.\n\nHewett completed the career Grand Slam in singles with his 2024 victory at Wimbledon. \"It is a privilege to be on these courts and it is certainly something I don't take for granted each year,\" said the 28-year-old, who made his Wimbledon debut in 2016.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Tom McKibbin",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ja19aTE9IdUt0eTlScER0Qm9TdGNLcDM0aWFnbDhfODc5OFRjXzAxbXlmWHNRMlAzZG5pTF9FYjlseEIwYlg3SHNYNUdkNTdYcnU2X1JmUU1lZXowbjZhNTg2dWk4OVl1?oc=5",
+        "published": "2026-07-14T14:39:04+00:00",
+        "published_label": "Tue 14 Jul, 14:39",
+        "summary": "Tom McKibbin LIV Golf",
+        "body": "Tom McKibbin won the 2023 European Open, impressed on the DP World Tour, and carried that form into his 2025 LIV Golf debut. Tom McKibbin will be making his third consecutive Open start, and seventh career major start at Royal Birkdale this week. He won The International Series’ Hong Kong Open - part of the Open Qualifying Series - in November, to earn his Open spot, after shooting rounds of 60-65-65-63 to win by seven strokes. He has finished between 15th and 25th in nine of his 15 worldwide starts in 2026 - prior to the Scottish Open last week (T38) - including a T21 in his most recent LIV Golf start in Andalucia.\n\nThe LIV Golf League welcomed another bright young talent to its roster when Tom McKibbin was unveiled as the latest recruit for Jon Rahm’s Legion XIII GC. The Northern Irishman was the 2023 European Open champion and last December was named Men’s Professional of the Year for the second time in a row by the Irish Golf Writers’ Association.",
+        "copy": "Tom McKibbin won the 2023 European Open, impressed on the DP World Tour, and carried that form into his 2025 LIV Golf debut. Tom McKibbin will be making his third consecutive Open start, and seventh career major start at Royal Birkdale this week. He won The International Series’ Hong Kong Open - part of the Open Qualifying Series - in November, to earn his Open spot, after shooting rounds of 60-65-65-63 to win by seven strokes. He has finished between 15th and 25th in nine of his 15 worldwide starts in 2026 - prior to the Scottish Open last week (T38) - including a T21 in his most recent LIV Golf start in Andalucia.\n\nThe LIV Golf League welcomed another bright young talent to its roster when Tom McKibbin was unveiled as the latest recruit for Jon Rahm’s Legion XIII GC. The Northern Irishman was the 2023 European Open champion and last December was named Men’s Professional of the Year for the second time in a row by the Irish Golf Writers’ Association.",
+        "first_seen": "2026-07-14T15:23:53.138225+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The best Open Championships all have 1 thing, and this week will deliver it",
+        "link": "https://golf.com/news/best-british-open-feature-brown-turf/",
+        "published": "2026-07-14T14:29:20+00:00",
+        "published_label": "Tue 14 Jul, 14:29",
+        "summary": "Anyone watching The Open at Royal Birkdale will witness the one thing that makes for fascinating golf. You won't have to look hard to see it. The post The best Open Championships all have 1 thing, and this week will deliver it appeared first on Golf .",
+        "body": "SOUTHPORT, England — At Open Championships, the sky can be blue or grey and it doesn’t matter. The buildings might be sandstone or ivy-covered, and it’s just an aesthetic. The bunkers can be raked flat or with a slight slope, and not much is changed; they’re still hazardous.\n\nBut the fairways? They can be green or olive or yellow and the difference is everything. At the best Opens, the fairways are — pick your descriptor — brown, hazelnut, granola.",
+        "copy": "SOUTHPORT, England — At Open Championships, the sky can be blue or grey and it doesn’t matter. The buildings might be sandstone or ivy-covered, and it’s just an aesthetic. The bunkers can be raked flat or with a slight slope, and not much is changed; they’re still hazardous.\n\nBut the fairways? They can be green or olive or yellow and the difference is everything. At the best Opens, the fairways are — pick your descriptor — brown, hazelnut, granola.",
+        "first_seen": "2026-07-14T15:23:53.138225+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Zero clue of strategy': Nick Faldo unloads on Bryson DeChambeau at Open Championship",
+        "link": "https://golf.com/news/nick-faldo-unloads-bryson-dechambeau-open-no-clue/",
+        "published": "2026-07-14T13:37:32+00:00",
+        "published_label": "Tue 14 Jul, 13:37",
+        "summary": "Nick Faldo harshly criticized Bryson DeChambeau's lack of links strategy in a podcast interview ahead of the 2026 Open Championship. The post ‘Zero clue of strategy’: Nick Faldo unloads on Bryson DeChambeau at Open Championship appeared first on Golf .",
+        "body": "Heading into the 2026 Open Championship, Bryson DeChambeau is trying to avoid an unfortunate blemish on his career resume. The two-time major winner has missed the cut in the first three majors of the year. Another one this week would give DeChambeau a dreaded Missed-Cut Slam.\n\nWhile DeChambeau hopes that ugly streak ends this week at Royal Birkdale, one golf legend isn’t betting on it. Not by a long shot. A six-time major winner and longtime golf TV analyst, Faldo joined the Sky Sports Golf Podcast this week and unloaded on DeChambeau for his lack of strategic awareness when playing links golf and for his poor record in majors recently.",
+        "copy": "Heading into the 2026 Open Championship, Bryson DeChambeau is trying to avoid an unfortunate blemish on his career resume. The two-time major winner has missed the cut in the first three majors of the year. Another one this week would give DeChambeau a dreaded Missed-Cut Slam.\n\nWhile DeChambeau hopes that ugly streak ends this week at Royal Birkdale, one golf legend isn’t betting on it. Not by a long shot. A six-time major winner and longtime golf TV analyst, Faldo joined the Sky Sports Golf Podcast this week and unloaded on DeChambeau for his lack of strategic awareness when playing links golf and for his poor record in majors recently.",
+        "first_seen": "2026-07-14T15:23:53.138225+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau makes another seismic equipment change on eve of The Open",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVG9sNWZCb3FlemQ4OUMwME9MTElpZXB5RlpFbDllOTNQTGdQMmI4RVJCaTMyS2VmQU5BNE1pQk1sdU1ZaDdtN0xTOEdtZHM1V0c4WW5heVlSVUlEQ25xOEl1aDZyRW5hT3ZkREo5bVR1NklTSlNZRkFzRGN1bkxlNXRuTV82Ykx6bzRHTHgzY2g4YTYxTXdpenEwR3JmbXRTZFNjMzIyRG5udw?oc=5",
+        "published": "2026-07-14T13:30:03+00:00",
+        "published_label": "Tue 14 Jul, 13:30",
+        "summary": "Bryson DeChambeau makes another seismic equipment change on eve of The Open Golfmagic",
+        "body": "The contents of Bryson DeChambeau's golf bag seem to be ever-changing, but Open week has seen a particularly large change befall the American's setup. Not far removed from a driver change that has brought a TaylorMade driver into his bag for the first time ever, DeChambeau has rung in the last major of the year with the debut of a brand new iron set.\n\nIt's been reported for some time that DeChambeau has been experimenting with building his own irons, using 3D Printing to create a set custom-tuned to his game. This follows on from a lengthy period in which he used Avoda Irons fitted with custom LA Golf graphite shafts.",
+        "copy": "The contents of Bryson DeChambeau's golf bag seem to be ever-changing, but Open week has seen a particularly large change befall the American's setup. Not far removed from a driver change that has brought a TaylorMade driver into his bag for the first time ever, DeChambeau has rung in the last major of the year with the debut of a brand new iron set.\n\nIt's been reported for some time that DeChambeau has been experimenting with building his own irons, using 3D Printing to create a set custom-tuned to his game. This follows on from a lengthy period in which he used Avoda Irons fitted with custom LA Golf graphite shafts.",
+        "first_seen": "2026-07-14T15:23:53.138225+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -8129,61 +8051,22 @@
         "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
         "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
         "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "TaylorMade 'Hits a Homerun' with their latest themed release",
-        "link": "https://golf.com/taylormade/taylormade-baseball-collection/",
-        "published": "2026-07-07T15:14:08+00:00",
-        "published_label": "Tue 07 Jul, 15:14",
-        "summary": "Whether you're grabbing a hot dog at the turn or in the 7th inning, TaylorMade's new baseball collection has what you need to celebrate. The post TaylorMade ‘Hits a Homerun’ with their latest themed release appeared first on Golf .",
-        "body": "TaylorMade released their new TaylorMade Baseball collection today featuring golf balls and accessories. Whether you’re grabbing a hot dog at the turn or during the 7th inning stretch, TaylorMade helps you celebrate. Let’s check out what items they have in the collection!\n\nThe TaylorMade Baseball collection includes offerings for a driver, mallet, and alignment stick head cover. TaylorMade also has both the TP5 and TP5x PIX offerings available in the new baseball theme. Imagine a bucket of these out on the driving range!",
-        "copy": "TaylorMade released their new TaylorMade Baseball collection today featuring golf balls and accessories. Whether you’re grabbing a hot dog at the turn or during the 7th inning stretch, TaylorMade helps you celebrate. Let’s check out what items they have in the collection!\n\nThe TaylorMade Baseball collection includes offerings for a driver, mallet, and alignment stick head cover. TaylorMade also has both the TP5 and TP5x PIX offerings available in the new baseball theme. Imagine a bucket of these out on the driving range!",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Patrick Reed offered PGA Tour invites after serving LIV Golf ban",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYV9sbHN2ZXp6Wm11SWhpNWswSFQzQU1KaUhNWEVaUk9va3JibVM4akdldDRwbG1pdXZBcmhOb3pwMDdlN0EyRkZBOE5uY3phNkw1Z0owcFF0M0tBd2pvOWVZUEFqTU5RVVNLLThZa3JtSUVjYTY4eWFHc0FrcVE5eWk5c093TWFSclVZUlJZQkhGS2s0bHRITERFcjNGdDdlU3JsYQ?oc=5",
-        "published": "2026-07-07T14:56:51+00:00",
-        "published_label": "Tue 07 Jul, 14:56",
-        "summary": "Patrick Reed offered PGA Tour invites after serving LIV Golf ban bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Patrick Reed has revealed that he has received numerous invites to play on the PGA Tour as part of the circuit’s FedEx Cup Fall series.\n\nReed will be able to accept tournament invitations from August, having been required to serve a one-year suspension following his departure from LIV Golf at the start of this year.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Patrick Reed has revealed that he has received numerous invites to play on the PGA Tour as part of the circuit’s FedEx Cup Fall series.\n\nReed will be able to accept tournament invitations from August, having been required to serve a one-year suspension following his departure from LIV Golf at the start of this year.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "LIV Golf",
-        "kind": "gnews",
-        "title": "LIV Golf | Official site, scores, schedule, teams and tickets",
-        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1QYW1zcWEwMzZ4Y2dwcWVlTnhXN2E3RXZGemlrczBLOWQxWUFHWUFybFVoeVg4NGxzd2FaWg?oc=5",
-        "published": "2026-07-07T14:16:28+00:00",
-        "published_label": "Tue 07 Jul, 14:16",
-        "summary": "LIV Golf | Official site, scores, schedule, teams and tickets LIV Golf",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-08T17:15:21.236343+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'It's great to be here': LIV star Jon Rahm has rare chance at PGA Tour win this week",
-        "link": "https://golf.com/news/liv-jon-rahm-rare-chance-pga-tour-win/",
-        "published": "2026-07-07T13:36:21+00:00",
-        "published_label": "Tue 07 Jul, 13:36",
-        "summary": "Jon Rahm won 11 PGA Tour events before joining LIV Golf. At the 2026 Genesis Scottish Open, he has a chance to be a PGA Tour winner again. The post ‘It’s great to be here’: LIV star Jon Rahm has rare chance at PGA Tour win this week appeared first on Golf .",
-        "body": "While it may not be the case next year (or even next month), Jon Rahm is currently a LIV Golf player. And this week he has a chance to do something no LIV pro has ever done: win a regular-season PGA Tour event while still playing with LIV.\n\nSince LIV Golf’s founding, its players have been banned from playing in regular PGA Tour events… except for one: the Genesis Scottish Open. For the past few years, the Scottish Open, historically a DP World Tour event, has been co-sanctioned by the PGA Tour.",
-        "copy": "While it may not be the case next year (or even next month), Jon Rahm is currently a LIV Golf player. And this week he has a chance to do something no LIV pro has ever done: win a regular-season PGA Tour event while still playing with LIV.\n\nSince LIV Golf’s founding, its players have been banned from playing in regular PGA Tour events… except for one: the Genesis Scottish Open. For the past few years, the Scottish Open, historically a DP World Tour event, has been co-sanctioned by the PGA Tour.",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "LA28: Two-Year Countdown Begins!",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3d3Y2NfNW4wNmxaUF9wT0lWY2ctZ3dpTUJpR3dpNjFZM2VQck54UFAzWU0zWDF1alZhMUFiMEN3ZHlUTjUwWkY5NEtuYUFNZ3BWV2QwdlBJbXZzbFFEWjlPVjM0SG5VbDFIMzVBdmpEQ0VkTTQ0MFR2dHNrQzVPVUJnNkhHcGhOQ2g3X1RtRjhGUQ?oc=5",
+        "published": "2026-07-14T13:42:32+00:00",
+        "published_label": "Tue 14 Jul, 13:42",
+        "summary": "LA28: Two-Year Countdown Begins! BWF Olympics",
+        "body": "On this day, exactly two years from now, the Olympic Games will begin. LA28 will mark the third time that Los Angeles will be hosting the Olympics, after 1932 and 1984. The Los Angeles Memorial Coliseum and the 2028 Stadium Inglewood will be the venues of the dual-location Opening Ceremony for the Games, set to be held 14-30 July 2028. The event will mark the Coliseum’s third time hosting Olympic ceremonies, having previously done so in 1932 and 1984, and will represent the first Olympic use of the Stadium in Inglewood.\n\nThe badminton competition at Galen Center will begin 8am local time on Saturday 15 July, and will conclude on Monday 24 July. For fans looking to partake of the Olympic experience up close, the second drop of tickets opens today. Register by 22 July for the opportunity. Check out all the details here: https://tickets.la28.org/",
+        "copy": "On this day, exactly two years from now, the Olympic Games will begin. LA28 will mark the third time that Los Angeles will be hosting the Olympics, after 1932 and 1984. The Los Angeles Memorial Coliseum and the 2028 Stadium Inglewood will be the venues of the dual-location Opening Ceremony for the Games, set to be held 14-30 July 2028. The event will mark the Coliseum’s third time hosting Olympic ceremonies, having previously done so in 1932 and 1984, and will represent the first Olympic use of the Stadium in Inglewood.\n\nThe badminton competition at Galen Center will begin 8am local time on Saturday 15 July, and will conclude on Monday 24 July. For fans looking to partake of the Olympic experience up close, the second drop of tickets opens today. Register by 22 July for the opportunity. Check out all the details here: https://tickets.la28.org/",
+        "first_seen": "2026-07-14T15:23:53.138225+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -8209,6 +8092,19 @@
         "body": "Brian Yang claimed his first big-name victim in a while as he fought to a three-game win over Loh Kean Yew to make the second round of the DAIHATSU Japan Open 2026. The Canadian, who has struggled to find form on the World Tour over the last year, last beat a top 10 player in January, at the India Open. Against the Singaporean world No.13, Yang kept his composure through an uneven third game, shaking off a mini-comeback by Loh to close it out 21-17 18-21 21-18.\n\n“Of course, we all know that Loh Kean Yew is a really talented player. So coming into today’s match, I think the pressure was more on him, he’s the higher seed, so that kind of helped me win today’s match,” said Yang. “I was able to play more patient, not too rushed, especially because this arena is really big, it’s hard to kill the shuttle. So patience is key.”",
         "copy": "Brian Yang claimed his first big-name victim in a while as he fought to a three-game win over Loh Kean Yew to make the second round of the DAIHATSU Japan Open 2026. The Canadian, who has struggled to find form on the World Tour over the last year, last beat a top 10 player in January, at the India Open. Against the Singaporean world No.13, Yang kept his composure through an uneven third game, shaking off a mini-comeback by Loh to close it out 21-17 18-21 21-18.\n\n“Of course, we all know that Loh Kean Yew is a really talented player. So coming into today’s match, I think the pressure was more on him, he’s the higher seed, so that kind of helped me win today’s match,” said Yang. “I was able to play more patient, not too rushed, especially because this arena is really big, it’s hard to kill the shuttle. So patience is key.”",
         "first_seen": "2026-07-14T07:59:05.170861+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Japan Open: Impressive Wins for Yang, Buhrova",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDZ4dlBaLS1hYUFpR25LOHdzQmV5TkRYTFhiVGR1WHhNNVA4Y05IbU5pcHZnZ3gxREU0QVBwTjlpUGxWcnpBZTZlWUNnVnJqbjR6TGJDVjNsUmR4ZVY4TmlrS1dFeW9NNHFsd3J2WVAzWFJ5b0VjckRvSk0xenpacGtuMjNxa1VwUG5hQXBMSG9MTTByUEJkTXNBdnQ2cHFJZ2hIUnNLdw?oc=5",
+        "published": "2026-07-14T07:50:07+00:00",
+        "published_label": "Tue 14 Jul, 07:50",
+        "summary": "Japan Open: Impressive Wins for Yang, Buhrova BWF World Tour",
+        "body": "Brian Yang claimed his first big-name victim in a while as he fought to a three-game win over Loh Kean Yew to make the second round of the DAIHATSU Japan Open 2026. The Canadian, who has struggled to find form on the World Tour over the last year, last beat a top 10 player in January, at the India Open. Against the Singaporean world No.13, Yang kept his composure through an uneven third game, shaking off a mini-comeback by Loh to close it out 21-17 18-21 21-18.\n\n“Of course, we all know that Loh Kean Yew is a really talented player. So coming into today’s match, I think the pressure was more on him, he’s the higher seed, so that kind of helped me win today’s match,” said Yang. “I was able to play more patient, not too rushed, especially because this arena is really big, it’s hard to kill the shuttle. So patience is key.”",
+        "copy": "Brian Yang claimed his first big-name victim in a while as he fought to a three-game win over Loh Kean Yew to make the second round of the DAIHATSU Japan Open 2026. The Canadian, who has struggled to find form on the World Tour over the last year, last beat a top 10 player in January, at the India Open. Against the Singaporean world No.13, Yang kept his composure through an uneven third game, shaking off a mini-comeback by Loh to close it out 21-17 18-21 21-18.\n\n“Of course, we all know that Loh Kean Yew is a really talented player. So coming into today’s match, I think the pressure was more on him, he’s the higher seed, so that kind of helped me win today’s match,” said Yang. “I was able to play more patient, not too rushed, especially because this arena is really big, it’s hard to kill the shuttle. So patience is key.”",
+        "first_seen": "2026-07-14T15:23:53.138225+00:00"
       },
       {
         "section": "Badminton",
@@ -8500,5 +8396,5 @@
       }
     ]
   },
-  "total": 652
+  "total": 644
 }
