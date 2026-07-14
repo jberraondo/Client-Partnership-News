@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T09:23:40.705916+00:00",
-  "generated_label": "Tuesday 14 July 2026, 09:23 UTC",
+  "generated_at": "2026-07-14T10:01:18.183362+00:00",
+  "generated_label": "Tuesday 14 July 2026, 10:01 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -14,6 +14,19 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "PFL switches to ESPN coverage in Brazil",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BR0g5V3JPc01PemlUZTc1bFZNYzFOVkc4UkRLMG84NlVVeC1PWUR4ZnlFc01lMXdsdE5fSTRSRWhld0ZnMWhuZzJ2QkpJcWRqeG9mZlRVbS1KX2FRYjdnVmM0VW92cV8tM19zRzZPbWZfQ3ZWVUZEamtn?oc=5",
+        "published": "2026-07-14T09:51:14+00:00",
+        "published_label": "Tue 14 Jul, 09:51",
+        "summary": "PFL switches to ESPN coverage in Brazil Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-14T10:01:18.183362+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "HSBC watch",
         "kind": "gnews",
         "title": "ClearScore Secures Major Debt Financing from HSBC Innovation Banking to Fuel Global Growth",
@@ -24,6 +37,19 @@
         "body": "ClearScore has secured a new debt financing package from HSBC Innovation Banking, consisting of a Senior Term Loan and Revolving Credit Facility. This strategic funding will accelerate the ClearScore growth strategy, supporting the fintech’s long-term vision and expansion within the global credit marketplace sector.\n\nHow Does the HSBC Partnership Support ClearScore? The ClearScore growth strategy receives a significant boost through this renewed collaboration with HSBC Innovation Banking. By providing a Senior Term Loan alongside a Revolving Credit Facility, HSBC offers the flexible capital structure necessary for a high-growth fintech to scale its operations. This financing allows ClearScore to invest in product innovation efforts and market expansion without diluting equity.",
         "copy": "ClearScore has secured a new debt financing package from HSBC Innovation Banking, consisting of a Senior Term Loan and Revolving Credit Facility. This strategic funding will accelerate the ClearScore growth strategy, supporting the fintech’s long-term vision and expansion within the global credit marketplace sector.\n\nHow Does the HSBC Partnership Support ClearScore? The ClearScore growth strategy receives a significant boost through this renewed collaboration with HSBC Innovation Banking. By providing a Senior Term Loan alongside a Revolving Credit Facility, HSBC offers the flexible capital structure necessary for a high-growth fintech to scale its operations. This financing allows ClearScore to invest in product innovation efforts and market expansion without diluting equity.",
         "first_seen": "2026-07-14T09:23:40.705916+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Give Wales more tax powers, first minister tells Burnham",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckRWZXdzc2ViZnhyN0Q5aDVZNDlMaDFGaEMwbWZuLV9jN3pQazhoWEFuNTdKT0FOTGdBTEJKVjJQbDI5aG9SOEtKMkxsd3FsSkpuRDA0dVdvSlhzYzhxNTdjTl9FNWRkSWhaT0lDeFdKcTA4LTQtTTNHLVdJdC03QlpONzM?oc=5",
+        "published": "2026-07-14T04:00:56+00:00",
+        "published_label": "Tue 14 Jul, 04:00",
+        "summary": "Give Wales more tax powers, first minister tells Burnham Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-14T10:01:18.183362+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1454,87 +1480,35 @@
         "body": "The collaboration enables HSBC clients to accept card payments through Noqoody acquiring infrastructure while benefiting from a more streamlined collection experience, enhanced visibility over receivables across collection channels, consolidated reporting and simplified settlement processes.\n\nHSBC Qatar announced the launch of a new merchant acquiring proposition for its corporate clients through a partnership with Noqoody, Qatar’s leading fintech and licensed payment service provider. An official signing ceremony took place on 1 July 2026 at HSBC’s headquarters in the presence of Mr. Abdul Hakeem Mostafawi, Chief Executive Officer, Qatar, HSBC Bank Middle East Limited, Mr. Nayef Rashwan, Chief Executive Officer, Noqoody and senior officials from HSBC and Noqoody.",
         "copy": "The collaboration enables HSBC clients to accept card payments through Noqoody acquiring infrastructure while benefiting from a more streamlined collection experience, enhanced visibility over receivables across collection channels, consolidated reporting and simplified settlement processes.\n\nHSBC Qatar announced the launch of a new merchant acquiring proposition for its corporate clients through a partnership with Noqoody, Qatar’s leading fintech and licensed payment service provider. An official signing ceremony took place on 1 July 2026 at HSBC’s headquarters in the presence of Mr. Abdul Hakeem Mostafawi, Chief Executive Officer, Qatar, HSBC Bank Middle East Limited, Mr. Nayef Rashwan, Chief Executive Officer, Noqoody and senior officials from HSBC and Noqoody.",
         "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Advantage, Wall Street? Why finance firms seek sports stars for advice",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZk1kX1plVWpZQmtGS3liWl9PNGhSUktrYVU2T1E4U2dKZTNOOUdhR3A3dFBieGF5NlNzbkh5Yk5WLWl5WURkbEV5bWZQM3hSM0RSbkZmOFdOM0ZNdFhKcFhpWVlmS2U3RjFzZWpkcy1seFB2ZFhzSUNrOGJWMWZlcmJ2WEE?oc=5",
-        "published": "2026-07-07T10:00:06+00:00",
-        "published_label": "Tue 07 Jul, 10:00",
-        "summary": "Advantage, Wall Street? Why finance firms seek sports stars for advice Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-08T12:02:20.898263+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Shorts: SELA, DAZN, Glasgow 2026",
-        "link": "https://sportindustry.co.uk/news-categories/news/sela-has-opened-its-international-headquarters-in-london/",
-        "published": "2026-07-07T09:51:48+00:00",
-        "published_label": "Tue 07 Jul, 09:51",
-        "summary": "SELA has opened its international headquarters in London as the Saudi-owned company expands its operations and partnerships in global sports and entertainment markets. The opening was attended by Prince Abdullah bin Khaled bin Sultan bin Abdulaziz, Saudi Arabia’s Ambassador to the United Kingdom, and Turki Alalshikh, Chairman of Saudi Arabia’s General Entertainment Authority (GEA). Senior […] The post Shorts: SELA, DAZN, Glasgow 2026 appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "SELA has opened its international headquarters in London as the Saudi-owned company expands its operations and partnerships in global sports and entertainment markets. The opening was attended by Prince Abdullah bin Khaled bin Sultan bin Abdulaziz, Saudi Arabia’s Ambassador to the United Kingdom, and Turki Alalshikh, Chairman of Saudi Arabia’s General Entertainment Authority (GEA). Senior […] The post Shorts: SELA, DAZN, Glasgow 2026 appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Mayor and Premier League launch Stewarding Academy",
-        "link": "https://sportindustry.co.uk/news-categories/news/the-premier-league-and-the-mayor-of-london-have-launched-a-1-2-million-stewarding-academy/",
-        "published": "2026-07-07T09:46:33+00:00",
-        "published_label": "Tue 07 Jul, 09:46",
-        "summary": "The Premier League and the Mayor of London have launched a £1.2 million stewarding academy aimed at training new event safety staff and addressing workforce shortages across the capital’s football sector. Backed by £1.2 million in joint funding, the Stewarding Academy will be delivered by Capital City College and is intended to provide training, qualifications […] The post Mayor and Premier League launch Stewarding Academy appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "The Premier League and the Mayor of London have launched a £1.2 million stewarding academy aimed at training new event safety staff and addressing workforce shortages across the capital’s football sector. Backed by £1.2 million in joint funding, the Stewarding Academy will be delivered by Capital City College and is intended to provide training, qualifications […] The post Mayor and Premier League launch Stewarding Academy appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Cisco extends McLaren partnership",
-        "link": "https://sportindustry.co.uk/news-categories/news/cisco-has-extended-its-partnership-with-the-mclaren-formula-1-team/",
-        "published": "2026-07-07T09:44:54+00:00",
-        "published_label": "Tue 07 Jul, 09:44",
-        "summary": "Cisco has extended its partnership with the McLaren Formula 1 team, expanding the agreement to focus on AI, observability and digital infrastructure technologies. The extended agreement builds on a long-running collaboration between the two organisations, which originally centred on Cisco’s Webex communications platform before expanding into networking and cybersecurity services. The latest phase will also […] The post Cisco extends McLaren partnership appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Cisco has extended its partnership with the McLaren Formula 1 team, expanding the agreement to focus on AI, observability and digital infrastructure technologies. The extended agreement builds on a long-running collaboration between the two organisations, which originally centred on Cisco’s Webex communications platform before expanding into networking and cybersecurity services. The latest phase will also […] The post Cisco extends McLaren partnership appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "SpaceX wins bullish recommendations from Wall Street banks",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmRMLW1kbVloc3loTUF6QnZwMlhVZUxBT1ktQUFkWjJvR1RucktDZE5QQzIxblJwWmZXaW1sdG4yaEtSdEJ5d0tRVGV5UW9KYU9TNUpIN2RxOVc0c21CbWdOZUJ3V2xiVjQ4azJGUmlQVmUtdWR5YWE0dnRuSFdTUGRCNVc?oc=5",
-        "published": "2026-07-07T09:32:57+00:00",
-        "published_label": "Tue 07 Jul, 09:32",
-        "summary": "SpaceX wins bullish recommendations from Wall Street banks Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Benchmark launches Team Marathon",
-        "link": "https://sportindustry.co.uk/news-categories/news/benchmark-sport-launches-team-marathon/",
-        "published": "2026-07-07T09:27:21+00:00",
-        "published_label": "Tue 07 Jul, 09:27",
-        "summary": "Benchmark has launched Team Marathon, a new event format built for the era of social running. The format will be brought to three cities in 2027, beginning with London on May 22nd at the Olympic Park. The launch builds on Benchmark’s experience in team-based running. Since 2008, the company has delivered 86 Bloomberg Square Mile Relay events across major cities worldwide, welcoming more […] The post Benchmark launches Team Marathon appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Benchmark has launched Team Marathon, a new event format built for the era of social running. The format will be brought to three cities in 2027, beginning with London on May 22nd at the Olympic Park. The launch builds on Benchmark’s experience in team-based running. Since 2008, the company has delivered 86 Bloomberg Square Mile Relay events across major cities worldwide, welcoming more […] The post Benchmark launches Team Marathon appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-02T12:35:33.955990+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Boks' rivals hailed as 'the team to beat at next year's World Cup' by 2007 winner",
+        "link": "https://www.rugbypass.com/news/the-team-to-beat-at-next-years-world-cup-springboks-rivals-tipped-by-2007-winner-victor-matfield-south-africa-france/",
+        "published": "2026-07-14T09:30:55+00:00",
+        "published_label": "Tue 14 Jul, 09:30",
+        "summary": "South African World Cup winner Victor Matfield has claimed only three teams can win the World Cup next year – the Springboks, the All Blacks or France.",
+        "body": "South African World Cup winner Victor Matfield has claimed only three teams can win the World Cup next year – the Springboks, the All Blacks or France. The former Springboks lock made the claim on his Rugby Rivals podcast following the latest round of Nations Championship rugby, where all three teams came out victorious.\n\nWhile the All Blacks were expected to beat Italy, as were the Boks against a Scotland side that have never won against the hosts on South African soil, France’s contest against Australia was harder to call. Fabien Galthie’s side overturned a 21-12 deficit at half-time in Brisbane to come away 26-42 victors, with Matthieu Jalibert starring at full-back.",
+        "copy": "South African World Cup winner Victor Matfield has claimed only three teams can win the World Cup next year – the Springboks, the All Blacks or France. The former Springboks lock made the claim on his Rugby Rivals podcast following the latest round of Nations Championship rugby, where all three teams came out victorious.\n\nWhile the All Blacks were expected to beat Italy, as were the Boks against a Scotland side that have never won against the hosts on South African soil, France’s contest against Australia was harder to call. Fabien Galthie’s side overturned a 21-12 deficit at half-time in Brisbane to come away 26-42 victors, with Matthieu Jalibert starring at full-back.",
+        "first_seen": "2026-07-14T10:01:18.183362+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "How France ran Australia off their feet at the Suncorp",
+        "link": "https://www.rugbypass.com/plus/how-france-ran-australia-off-their-feet-at-the-suncorp/",
+        "published": "2026-07-14T09:25:37+00:00",
+        "published_label": "Tue 14 Jul, 09:25",
+        "summary": "Fabien Galthie's men produced a blistering second half to douse any hopes of a home win for the Wallabies.",
+        "body": "If anyone had any lingering doubts, the second round of the inaugural Nation Championship would have surely banished them. In the two biggest games at the Suncorp in Brisbane and Loftus Versveld in the thin air of Pretoria, it was the two northern hemisphere sides who did most of the attacking with ball in hand, and the pair of nations from the south who embraced a more structured approach and played the game closer to set-piece. The world has truly turned on its head.\n\nIf you don’t believe me, take a look at some of the raw stats thrown up by both games – the figures usually associated with creative output in professional rugby. Now compare those stats with those generated by France and Scotland.",
+        "copy": "If anyone had any lingering doubts, the second round of the inaugural Nation Championship would have surely banished them. In the two biggest games at the Suncorp in Brisbane and Loftus Versveld in the thin air of Pretoria, it was the two northern hemisphere sides who did most of the attacking with ball in hand, and the pair of nations from the south who embraced a more structured approach and played the game closer to set-piece. The world has truly turned on its head.\n\nIf you don’t believe me, take a look at some of the raw stats thrown up by both games – the figures usually associated with creative output in professional rugby. Now compare those stats with those generated by France and Scotland.",
+        "first_seen": "2026-07-14T10:01:18.183362+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4198,32 +4172,6 @@
         "summary": "South Africa great Victor Matfield has described Springboks centre Damian de Allende as \"probably the most underrated player in world rugby\" following his performance against England in round one of the Nations Championship at Ellis Park.",
         "body": "South Africa great Victor Matfield has described Springboks centre Damian de Allende as “probably the most underrated player in world rugby” following his performance against England in round one of the Nations Championship at Ellis Park.\n\nThe abrasive centre was named player of the match in the victory in Johannesburg, albeit somewhat controversially, with many speculating that his namesake Damian Willemse was actually due to be given the accolade. It was nevertheless a typical performance from the inside centre, where he registered 16 tackles and one turnover.",
         "copy": "South Africa great Victor Matfield has described Springboks centre Damian de Allende as “probably the most underrated player in world rugby” following his performance against England in round one of the Nations Championship at Ellis Park.\n\nThe abrasive centre was named player of the match in the victory in Johannesburg, albeit somewhat controversially, with many speculating that his namesake Damian Willemse was actually due to be given the accolade. It was nevertheless a typical performance from the inside centre, where he registered 16 tackles and one turnover.",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "England forced into two squad changes as fallout from Bok loss continues",
-        "link": "https://www.rugbypass.com/news/england-forced-into-two-squad-changes-as-fallout-from-springboks-loss-continues-cadan-murley-chandler-cunningham-south-beno-obano-emmanuel-iyogun/",
-        "published": "2026-07-07T10:00:29+00:00",
-        "published_label": "Tue 07 Jul, 10:00",
-        "summary": "Northampton Saints loosehead prop Emmanuel Iyogun and Harlequins back-row Chandler Cunningham-South have been called into the England squad ahead of their Nations Championship fixture with Fiji this Saturday at Everton's Hill Dickinson Stadium.",
-        "body": "Northampton Saints loosehead prop Emmanuel Iyogun and Harlequins back-row Chandler Cunningham-South have been called into the England squad ahead of their Nations Championship fixture with Fiji this Saturday at Everton’s Hill Dickinson Stadium.\n\nThe pair will replace the duo of Beno Obano and Cadan Murley, who have both been ruled out with injuries. Obano featured from the bench in the final 25 minutes of England’s 45-21 loss to South Africa at Ellis Park on Saturday, playing until the final whistle. While there was no apparent injury in Johannesburg, an undisclosed injury will render him unavailable for this weekend and possibly the following fixture against Argentina at Estadio Único Madre de Ciudades in Santiago del Estero.",
-        "copy": "Northampton Saints loosehead prop Emmanuel Iyogun and Harlequins back-row Chandler Cunningham-South have been called into the England squad ahead of their Nations Championship fixture with Fiji this Saturday at Everton’s Hill Dickinson Stadium.\n\nThe pair will replace the duo of Beno Obano and Cadan Murley, who have both been ruled out with injuries. Obano featured from the bench in the final 25 minutes of England’s 45-21 loss to South Africa at Ellis Park on Saturday, playing until the final whistle. While there was no apparent injury in Johannesburg, an undisclosed injury will render him unavailable for this weekend and possibly the following fixture against Argentina at Estadio Único Madre de Ciudades in Santiago del Estero.",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Lutui pledges future to 'special club' after breakthrough Loughborough campaign",
-        "link": "https://www.rugbypass.com/news/lutui-pledges-future-to-special-club-after-breakthrough-loughborough-campaign/",
-        "published": "2026-07-07T09:36:01+00:00",
-        "published_label": "Tue 07 Jul, 09:36",
-        "summary": "After a breakthrough season England international Haineala Lutui has signed a new multi-year contract with club side Loughborough Lightning.",
-        "body": "After a breakthrough season England international Haineala Lutui has signed a new multi-year contract with club side Loughborough Lightning. The 19-year-old back-row and lock made her senior Lightning debut last August in the PWR: The Cup, and made her league debut against Harlequins in October’s 2025/26 season opener.\n\nAcross the PWR season, Lutui carried the ball more than any other player [247 times] and finished second in the stats charts for gain-line carries behind her club teammate Alev Kelter.",
-        "copy": "After a breakthrough season England international Haineala Lutui has signed a new multi-year contract with club side Loughborough Lightning. The 19-year-old back-row and lock made her senior Lightning debut last August in the PWR: The Cup, and made her league debut against Harlequins in October’s 2025/26 season opener.\n\nAcross the PWR season, Lutui carried the ball more than any other player [247 times] and finished second in the stats charts for gain-line carries behind her club teammate Alev Kelter.",
         "first_seen": "2026-07-07T13:58:44.734273+00:00"
       }
     ],
@@ -8116,19 +8064,6 @@
         "body": "Sergio Garcia joined LIV Golf from the PGA Tour back in June 2022. Garcia was one of the biggest names to make the jump at the time, and he has been one of LIV Golf’s biggest supporters over the last four years.\n\nThe 46-year-old from Spain has been a hugely controversial figure in the game of golf over the past two decades or so. Sergio Garcia has endured well-documented spats with Tiger Woods over the years, and his on-course behavior at times has been questionable to say the least.",
         "copy": "Sergio Garcia joined LIV Golf from the PGA Tour back in June 2022. Garcia was one of the biggest names to make the jump at the time, and he has been one of LIV Golf’s biggest supporters over the last four years.\n\nThe 46-year-old from Spain has been a hugely controversial figure in the game of golf over the past two decades or so. Sergio Garcia has endured well-documented spats with Tiger Woods over the years, and his on-course behavior at times has been questionable to say the least.",
         "first_seen": "2026-07-07T13:58:44.734273+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Why the DP World Tour could benefit massively from LIV Golf fully collapsing",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKOElKYlJPZnlyelo1MGNZZFE5T3hIZDl2TW9zUDh0TVRsdF9xQzUxVkMweElWMTR1aE5XZnkyQnlFbml2MWNiclNXcHg1czFDM3k1LWRfV2hsYWxBSnB5b0t3MjE2MFdvRzc4QzhzNlBzS1loT0Yxb2hWOXU?oc=5",
-        "published": "2026-07-07T09:30:00+00:00",
-        "published_label": "Tue 07 Jul, 09:30",
-        "summary": "Why the DP World Tour could benefit massively from LIV Golf fully collapsing Yahoo Sports",
-        "body": "The DP World Tour has its best field of the year at the Scottish Open. Not only are the usual European suspects teeing off on the tour like Rory McIlroy and Tommy Fleetwood, but as the PGA Tour players prepare for The Open Championship in this co-sanctioned event, the likes of Scottie Scheffler and Xander Schauffele are also playing at The Renaissance Club.\n\nAnd it gets even better for the DP World Tour, as some of LIV Golf's biggest stars, like Jon Rahm and Tyrrell Hatton, have also been allowed to play in the event, giving it a major championship feel.",
-        "copy": "The DP World Tour has its best field of the year at the Scottish Open. Not only are the usual European suspects teeing off on the tour like Rory McIlroy and Tommy Fleetwood, but as the PGA Tour players prepare for The Open Championship in this co-sanctioned event, the likes of Scottie Scheffler and Xander Schauffele are also playing at The Renaissance Club.\n\nAnd it gets even better for the DP World Tour, as some of LIV Golf's biggest stars, like Jon Rahm and Tyrrell Hatton, have also been allowed to play in the event, giving it a major championship feel.",
-        "first_seen": "2026-07-07T13:58:44.734273+00:00"
       }
     ],
     "Badminton": [
@@ -8448,5 +8383,5 @@
       }
     ]
   },
-  "total": 648
+  "total": 643
 }
