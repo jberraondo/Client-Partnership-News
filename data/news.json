@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T15:23:53.138225+00:00",
-  "generated_label": "Tuesday 14 July 2026, 15:23 UTC",
+  "generated_at": "2026-07-14T17:13:50.745222+00:00",
+  "generated_label": "Tuesday 14 July 2026, 17:13 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1389,22 +1389,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-09T16:15:26.585400+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "How AI is changing the world of retail investment",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0ZITnJZSWg2TW40MXNRVTlRa01zcllpTjAtYjNfR1pZMFRGZ1pxVm9taW16WlFfX1pCTmQxUXROX1RId0E2NTg1OEh5SVI5UTU4YVl3RXZVemdSYWJzSFg3LVBsaWk0alFuWFlDRXJhSUtNSktmaGp6V2tRM2F2WHQ1dG4?oc=5",
-        "published": "2026-07-07T17:10:46+00:00",
-        "published_label": "Tue 07 Jul, 17:10",
-        "summary": "How AI is changing the world of retail investment Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Key takeaways from the USA Women's Eagles and Springbok Women's two-game series",
+        "link": "https://www.rugbypass.com/news/key-takeaways-from-the-usa-womens-eagles-and-springbok-womens-two-game-series/",
+        "published": "2026-07-14T16:16:47+00:00",
+        "published_label": "Tue 14 Jul, 16:16",
+        "summary": "The two game series between the USA Women's Eagles and the Springbok Women ended on Saturday as a stalemate.",
+        "body": "The two game series between the USA Women’s Eagles and the Springbok Women ended on Saturday as a stalemate. It was the first time the USA have played on South African soil, began with the Springbok Women leaving the USA stunned at Ellis Park 34-21 after leading 29-0 at halftime. The following weekend in Pretoria, the Eagles fought to win 26-19.\n\nSandwiched between the end of club season and in preparation for the WXV Global Series, this series offered both teams the opportunity to build momentum. For USA head coach Jack Hanratty, it provided the chance to make a statement after taking over the team in January and picked up one win at the 2026 Pacific Four Series.",
+        "copy": "The two game series between the USA Women’s Eagles and the Springbok Women ended on Saturday as a stalemate. It was the first time the USA have played on South African soil, began with the Springbok Women leaving the USA stunned at Ellis Park 34-21 after leading 29-0 at halftime. The following weekend in Pretoria, the Eagles fought to win 26-19.\n\nSandwiched between the end of club season and in preparation for the WXV Global Series, this series offered both teams the opportunity to build momentum. For USA head coach Jack Hanratty, it provided the chance to make a statement after taking over the team in January and picked up one win at the 2026 Pacific Four Series.",
+        "first_seen": "2026-07-14T17:13:50.745222+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "England face potential logistical nightmare returning home from Argentina",
+        "link": "https://www.rugbypass.com/news/pumas-fans-have-football-crowd-mentality-but-we-can-shut-them-up-guy-pepper/",
+        "published": "2026-07-14T16:16:24+00:00",
+        "published_label": "Tue 14 Jul, 16:16",
+        "summary": "England take on Argentina looking to improve of their recent record of one win in six Tests.",
+        "body": "Argentina may feed off the energy of their fans, but Guy Pepper insists their football-style support can be silenced if England seize control in Santiago del Estero on Saturday.\n\nPepper made replacement appearances in La Plata and San Juan last year that included his Test debut and it was when sat on the bench that he was able to appreciate the passion brought by Pumas supporters.",
+        "copy": "Argentina may feed off the energy of their fans, but Guy Pepper insists their football-style support can be silenced if England seize control in Santiago del Estero on Saturday.\n\nPepper made replacement appearances in La Plata and San Juan last year that included his Test debut and it was when sat on the bench that he was able to appreciate the passion brought by Pumas supporters.",
+        "first_seen": "2026-07-14T17:13:50.745222+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Stand-in scrum-half Smith demands more from England",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c621265gl77o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-14T15:42:11+00:00",
+        "published_label": "Tue 14 Jul, 15:42",
+        "summary": "England still have plenty to improve on in spite of last weekend's 11-try win over Fiji, says utility back Marcus Smith.",
+        "body": "England still have plenty to improve on despite the 11-try win over Fiji, says Marcus Smith - who will only be satisfied with the side's summer work if they end Argentina's unbeaten run in Santiago del Estero this weekend.\n\nEngland face the Pumas on Saturday at Estadio Unico Madre de Ciudades, 600 miles north west of the country's capital Buenos Aires. Argentina have played twice at the 30,000-capacity stadium - which was opened in 2021 - and have won both matches, against Scotland and South Africa.",
+        "copy": "England still have plenty to improve on despite the 11-try win over Fiji, says Marcus Smith - who will only be satisfied with the side's summer work if they end Argentina's unbeaten run in Santiago del Estero this weekend.\n\nEngland face the Pumas on Saturday at Estadio Unico Madre de Ciudades, 600 miles north west of the country's capital Buenos Aires. Argentina have played twice at the 30,000-capacity stadium - which was opened in 2021 - and have won both matches, against Scotland and South Africa.",
+        "first_seen": "2026-07-14T17:13:50.745222+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Where Are They Now? When Charlie Hodgson bent it like Beckham",
+        "link": "https://www.rugbypass.com/news/where-are-they-now-when-charlie-hodgson-bent-it-like-beckham/",
+        "published": "2026-07-14T15:38:26+00:00",
+        "published_label": "Tue 14 Jul, 15:38",
+        "summary": "England and Argentina are set to face each other in football and rugby three days apart this week, bringing back memories of the summer of 2002.",
+        "body": "Memories of 2002 will be flooding back when England play Argentina in the FIFA World Cup semi-finals in Atlanta, Georgia, for the first of two major sporting clashes between the nations before the weekend.\n\nSteve Borthwick takes his side to the Estadio Único Madre de Ciudades on Saturday night for a must-win Nations Championship clash that could be a revenge mission depending on the result of the football tomorrow night.",
+        "copy": "Memories of 2002 will be flooding back when England play Argentina in the FIFA World Cup semi-finals in Atlanta, Georgia, for the first of two major sporting clashes between the nations before the weekend.\n\nSteve Borthwick takes his side to the Estadio Único Madre de Ciudades on Saturday night for a must-win Nations Championship clash that could be a revenge mission depending on the result of the football tomorrow night.",
+        "first_seen": "2026-07-14T17:13:50.745222+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Has Ilona Maher hinted that her return to rugby is around the corner?",
+        "link": "https://www.rugbypass.com/news/has-ilona-maher-hinted-that-her-return-to-rugby-is-around-the-corner/",
+        "published": "2026-07-14T15:28:25+00:00",
+        "published_label": "Tue 14 Jul, 15:28",
+        "summary": "The USA's Ilona Maher has hinted that her return to rugby could be just around the corner on social media.",
+        "body": "The USA’s Ilona Maher has hinted that her return to rugby could be just around the corner on social media. Last week the 29-year-old posted a selfie of herself wearing a USA Rugby t-shirt to her Instagram account that has 5.6 million followers. Behind Maher two pairs of rugby boots can be seen and the post has got tongues wagging about her future on a rugby field.\n\nThis included comments from Australia’s Maddison Levi, along with former USA teammates Nicole Heavirland and Lauren Doyle, with the latter writing “Sheeeeeeee’s baaaaaack”. Maher has not been seen on a rugby pitch since the USA Women’s Eagles exited Women’s Rugby World Cup 2025 at the group stage.",
+        "copy": "The USA’s Ilona Maher has hinted that her return to rugby could be just around the corner on social media. Last week the 29-year-old posted a selfie of herself wearing a USA Rugby t-shirt to her Instagram account that has 5.6 million followers. Behind Maher two pairs of rugby boots can be seen and the post has got tongues wagging about her future on a rugby field.\n\nThis included comments from Australia’s Maddison Levi, along with former USA teammates Nicole Heavirland and Lauren Doyle, with the latter writing “Sheeeeeeee’s baaaaaack”. Maher has not been seen on a rugby pitch since the USA Women’s Eagles exited Women’s Rugby World Cup 2025 at the group stage.",
+        "first_seen": "2026-07-14T17:13:50.745222+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4030,84 +4082,6 @@
         "body": "Exeter Chiefs have confirmed the signing of 17-cap Wales prop Maisie Davies ahead of the 2026/27 Premiership Women’s Rugby season. Last season the 20-year-old loosehead prop made 10 appearances for Bristol Bears in her debut English top flight campaign.\n\nDavies made her Wales debut in 2024’s WXV 2 and represented her country at Women’s Rugby World Cup 2025, where she made three appearances. The 20-year-old had a rapid rise in women’s rugby after she converted from the back-row to the front-row ahead of the 2024 U20 Women’s Summer Series. Later that year Davies made her Test debut and enjoyed a strong 2024/25 Celtic Challenge season.",
         "copy": "Exeter Chiefs have confirmed the signing of 17-cap Wales prop Maisie Davies ahead of the 2026/27 Premiership Women’s Rugby season. Last season the 20-year-old loosehead prop made 10 appearances for Bristol Bears in her debut English top flight campaign.\n\nDavies made her Wales debut in 2024’s WXV 2 and represented her country at Women’s Rugby World Cup 2025, where she made three appearances. The 20-year-old had a rapid rise in women’s rugby after she converted from the back-row to the front-row ahead of the 2024 U20 Women’s Summer Series. Later that year Davies made her Test debut and enjoyed a strong 2024/25 Celtic Challenge season.",
         "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "The Zimbabwe star pro clubs should be fighting over, according to Ian Prior",
-        "link": "https://www.rugbypass.com/news/the-zimbabwe-star-european-clubs-should-be-fighting-over-according-to-ian-prior/",
-        "published": "2026-07-07T17:00:35+00:00",
-        "published_label": "Tue 07 Jul, 17:00",
-        "summary": "The Nations Cup is in full swing, and Zimbabwe’s Sables took the fight to Tonga in their first game, pushing the Pacific Island nation to the limit.",
-        "body": "The Nations Cup is in full swing, and Zimbabwe’s Sables took the fight to Tonga in their first game, pushing the Pacific Island nation to the limit. While the African nation ended up conceding a 36-26 loss, they showed they aren’t in the competition to make up the numbers.\n\nWith the likes of Jason Fraser, Hilton Mudariki, Edward Sigauke and Simba Mandioma impressing, it looks like rugby fans can be thrilled over the next few games, a view endorsed by their veteran player Ian Prior.",
-        "copy": "The Nations Cup is in full swing, and Zimbabwe’s Sables took the fight to Tonga in their first game, pushing the Pacific Island nation to the limit. While the African nation ended up conceding a 36-26 loss, they showed they aren’t in the competition to make up the numbers.\n\nWith the likes of Jason Fraser, Hilton Mudariki, Edward Sigauke and Simba Mandioma impressing, it looks like rugby fans can be thrilled over the next few games, a view endorsed by their veteran player Ian Prior.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Justine Pelletier column: Inside Stade Bordelais' Élite 1 four-peat",
-        "link": "https://www.rugbypass.com/news/justine-pelletier-column-inside-stade-bordelais-elite-1-four-peat/",
-        "published": "2026-07-07T16:58:38+00:00",
-        "published_label": "Tue 07 Jul, 16:58",
-        "summary": "I didn’t think that we had won a fourth AXA Élite 1 title in a tow until the last 20 minutes. We had been defending on our own goal line for a while.",
-        "body": "I didn’t think that we had won a fourth AXA Élite 1 title in a row until the last 20 minutes. We had been defending on our own goal line for a while. ASM Romagnat had a lot of lineouts in our 22-metres and there were these little mistakes that they made, that finally made me chill. We had it. We still had to defend. We had to be calm and confident. We didn’t panic. Because when panic arrives that’s when stuff hits the fan.\n\nWhen the referee blew the final whistle I just hugged Rose Thomas. She was one of my first teammates when I arrived in Bordeaux six years ago and she has been coaching us since her retirement. Sunday was actually her last game with us. It really meant a lot to celebrate with her before I joined everyone else on the pitch.",
-        "copy": "I didn’t think that we had won a fourth AXA Élite 1 title in a row until the last 20 minutes. We had been defending on our own goal line for a while. ASM Romagnat had a lot of lineouts in our 22-metres and there were these little mistakes that they made, that finally made me chill. We had it. We still had to defend. We had to be calm and confident. We didn’t panic. Because when panic arrives that’s when stuff hits the fan.\n\nWhen the referee blew the final whistle I just hugged Rose Thomas. She was one of my first teammates when I arrived in Bordeaux six years ago and she has been coaching us since her retirement. Sunday was actually her last game with us. It really meant a lot to celebrate with her before I joined everyone else on the pitch.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Vakatawa close to comeback with Fiji after fearing Test career was over",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cdjk0xg37vgo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T16:47:53+00:00",
-        "published_label": "Tue 07 Jul, 16:47",
-        "summary": "Virimi Vakatawa, whose power and pace graced France's midfield, could turn out for Fiji against England on Saturday.",
-        "body": "The 34-year-old centre was barred from playing in France in September 2022 after a panel of doctors said that his cardiac health had deteriorated, leaving him too vulnerable to play elite sport in the country.\n\nWhile the decision ruled out any return as a key part of France's midfield – where he started the 2019 Rugby World Cup quarter-final against Wales and was a Six Nations regular - it only applied domestically.",
-        "copy": "The 34-year-old centre was barred from playing in France in September 2022 after a panel of doctors said that his cardiac health had deteriorated, leaving him too vulnerable to play elite sport in the country.\n\nWhile the decision ruled out any return as a key part of France's midfield – where he started the 2019 Rugby World Cup quarter-final against Wales and was a Six Nations regular - it only applied domestically.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Junior Boks fight back from early scare to beat Wales U20",
-        "link": "https://www.rugbypass.com/news/junior-boks-fight-back-from-early-scare-to-beat-wales-u20/",
-        "published": "2026-07-07T16:14:25+00:00",
-        "published_label": "Tue 07 Jul, 16:14",
-        "summary": "Liam Van Wyk and Siphosethu Mnebelele scored two tries each to keep reigning champions South Africa on course for a third World Rugby Junior World Championship title with a 52-33 victory in their winner-takes-all Pool A clash with Wales.",
-        "body": "Liam Van Wyk and Siphosethu Mnebelele scored two tries each to keep reigning champions South Africa on course for a third World Rugby Junior World Championship title with a 52-33 victory in their winner-takes-all Pool A clash with Wales.\n\nThe Boks booked their semi-final spot with a fantastic eight-try display, six of them converted by Western Province fly-half Yaqeen Ahmed, returning for his first game since being sent off for South Africa A against Zimbabwe last month.",
-        "copy": "Liam Van Wyk and Siphosethu Mnebelele scored two tries each to keep reigning champions South Africa on course for a third World Rugby Junior World Championship title with a 52-33 victory in their winner-takes-all Pool A clash with Wales.\n\nThe Boks booked their semi-final spot with a fantastic eight-try display, six of them converted by Western Province fly-half Yaqeen Ahmed, returning for his first game since being sent off for South Africa A against Zimbabwe last month.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Tenacious Wales U20s beaten by junior Springboks",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c77y55xz533o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T16:10:47+00:00",
-        "published_label": "Tue 07 Jul, 16:10",
-        "summary": "Wales fail to make Junior World Championship semi-finals despite a spirited showing against champions South Africa in Georgia.",
-        "body": "Tenacious Wales were overpowered by eight-try South Africa in the shoot-out for the Junior World Championship semi-finals. Richard Whiffin's Wales side set up a shot at the last four by beating tournament hosts Georgia and Uruguay, but a meeting with the reigning champions meant a step up in class.\n\nThe Junior Springboks responded to a fast Welsh start at Avchala Stadium to book a place in the last four in the defence of their title. Flanker Caio James and centre Steffan Emanuel scored tries in the first half for Wales and were followed over by centre Osian Darwin-Lewis, wing Tom Bowen and full-back Lewis Edwards in a spirited showing.",
-        "copy": "Tenacious Wales were overpowered by eight-try South Africa in the shoot-out for the Junior World Championship semi-finals. Richard Whiffin's Wales side set up a shot at the last four by beating tournament hosts Georgia and Uruguay, but a meeting with the reigning champions meant a step up in class.\n\nThe Junior Springboks responded to a fast Welsh start at Avchala Stadium to book a place in the last four in the defence of their title. Flanker Caio James and centre Steffan Emanuel scored tries in the first half for Wales and were followed over by centre Osian Darwin-Lewis, wing Tom Bowen and full-back Lewis Edwards in a spirited showing.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "South Africa U20 player ratings vs Wales | World Rugby Junior World Championship 2026",
-        "link": "https://www.rugbypass.com/news/south-africa-u20-player-ratings-vs-wales-world-rugby-junior-world-championship-2026/",
-        "published": "2026-07-07T16:04:57+00:00",
-        "published_label": "Tue 07 Jul, 16:04",
-        "summary": "South Africa U20 player ratings: The reigning champions conceded the first two tries of the match at the Avchala Stadium in Tbilisi but rallied well to beat Wales 52-33 and go through to the semi-finals of the World Rugby Junior World Championship as the winners of Pool A with some ease.",
-        "body": "South Africa U20 player ratings: The reigning champions conceded the first two tries of the match at the Avchala Stadium in Tbilisi but rallied well to beat Wales 52-33 and go through to the semi-finals of the World Rugby Junior World Championship as the winners of Pool A with some ease.\n\nPatrolled the back field well and always looked for counter-attacking opportunities without properly managing to break through. Had one of those first halves as a winger where the ball never seemed to come his way. But he made an instant impact – good and bad – after the break, with a purposeful run followed by a try assist for Risima Khosa’s try and then a yellow card for a blatant deliberate knock-on. It cost his side seven points. But he redeemed himself with a big turnover in the wide channels as Wales sensed the game might not be up.",
-        "copy": "South Africa U20 player ratings: The reigning champions conceded the first two tries of the match at the Avchala Stadium in Tbilisi but rallied well to beat Wales 52-33 and go through to the semi-finals of the World Rugby Junior World Championship as the winners of Pool A with some ease.\n\nPatrolled the back field well and always looked for counter-attacking opportunities without properly managing to break through. Had one of those first halves as a winger where the ball never seemed to come his way. But he made an instant impact – good and bad – after the break, with a purposeful run followed by a try assist for Risima Khosa’s try and then a yellow card for a blatant deliberate knock-on. It cost his side seven points. But he redeemed himself with a big turnover in the wide channels as Wales sensed the game might not be up.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
       }
     ],
     "Tennis": [
@@ -5904,84 +5878,6 @@
         "body": "",
         "copy": "Enjoy the best shots from day nine of Wimbledon 2026, featuring Coco Gauff and Great Britain's Alfie Hewitt.",
         "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Why do we see empty seats at Wimbledon's show courts?",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c3vy0pynvqyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T17:08:01+00:00",
-        "published_label": "Tue 07 Jul, 17:08",
-        "summary": "BBC Sport's Ask Me Anything team explains why there are often empty seats in the crowd at Wimbledon, despite high ticket sales",
-        "body": "It is not uncommon to see empty seats on Wimbledon's show courts throughout the tournament. The sight may come as a surprise given the huge queues and sold-out status of the event every year, but there are a few reasons why empty seats on Centre Court and Court One should be expected.\n\nOne main reason is that spectators are only allowed to either leave or return to their seats for any reason when players change ends every two games. This can lead to people being stuck for some time waiting to be allowed to re-enter the court.",
-        "copy": "It is not uncommon to see empty seats on Wimbledon's show courts throughout the tournament. The sight may come as a surprise given the huge queues and sold-out status of the event every year, but there are a few reasons why empty seats on Centre Court and Court One should be expected.\n\nOne main reason is that spectators are only allowed to either leave or return to their seats for any reason when players change ends every two games. This can lead to people being stuck for some time waiting to be allowed to re-enter the court.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "What is Wimbledon's Last 8 Club?",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c07d53xyydxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T16:50:42+00:00",
-        "published_label": "Tue 07 Jul, 16:50",
-        "summary": "BBC Sport's Ask Me Anything team looks at what Wimbledon's Last 8 Club is and how players qualify for it.",
-        "body": "The Last 8 Club is an exclusive club for tennis players who have reached the quarter-finals or better in the men's and women's singles tournaments at Wimbledon. Starting as a tradition in 1986, joining the Last 8 Club allows players past and present to enter the Wimbledon grounds at their leisure for the rest of their lives, free tickets, entry to a designated hospitality suite and tickets on centre court and court one.\n\nThere is also an annual Last 8 Supper Party held for members. Given that the tournament is one that almost all current active players are involved in, it is common that players do not take advantage of the facilities they are entitled to until they have retired from playing professionally.",
-        "copy": "The Last 8 Club is an exclusive club for tennis players who have reached the quarter-finals or better in the men's and women's singles tournaments at Wimbledon. Starting as a tradition in 1986, joining the Last 8 Club allows players past and present to enter the Wimbledon grounds at their leisure for the rest of their lives, free tickets, entry to a designated hospitality suite and tickets on centre court and court one.\n\nThere is also an annual Last 8 Supper Party held for members. Given that the tournament is one that almost all current active players are involved in, it is common that players do not take advantage of the facilities they are entitled to until they have retired from playing professionally.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Sinner beats Struff to reach Wimbledon semi-finals",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/czx5q0kzrkro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T16:03:08+00:00",
-        "published_label": "Tue 07 Jul, 16:03",
-        "summary": "Jannik Sinner moves a step closer to defending his Wimbledon title with victory over Germany's Jan-Lennard Struff to reach the semi-finals.",
-        "body": "Jannik Sinner moved a step closer to defending his Wimbledon title with a composed victory over Jan-Lennard Struff to reach the semi-finals. The world number one has yet to hit his best form at the Championships but acted decisively in key moments to secure a 7-5 7-6 (7-4) 6-3 win over Germany's 74th-ranked Struff.\n\nThe Italian also showed no signs of being affected by the 30C temperatures, following his struggles with the heat in his shock second-round exit at this year's French Open. Asked about struggling in the scorching conditions at Roland Garros, Sinner dryly responded: \"Thanks for reminding me!",
-        "copy": "Jannik Sinner moved a step closer to defending his Wimbledon title with a composed victory over Jan-Lennard Struff to reach the semi-finals. The world number one has yet to hit his best form at the Championships but acted decisively in key moments to secure a 7-5 7-6 (7-4) 6-3 win over Germany's 74th-ranked Struff.\n\nThe Italian also showed no signs of being affected by the 30C temperatures, following his struggles with the heat in his shock second-round exit at this year's French Open. Asked about struggling in the scorching conditions at Roland Garros, Sinner dryly responded: \"Thanks for reminding me!",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Gauff completes comeback over Pegula to reach first Wimbledon semi-final",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/cvgdlqg99qxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T16:01:28+00:00",
-        "published_label": "Tue 07 Jul, 16:01",
-        "summary": "Coco Gauff comes from a set down to beat compatriot Jessica Pegula 4-6 6-3 6-3, to reach her first ever Wimbledon semi-final.",
-        "body": "",
-        "copy": "Coco Gauff comes from a set down to beat compatriot Jessica Pegula 4-6 6-3 6-3, to reach her first ever Wimbledon semi-final.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Serena Williams plans to continue singles comeback and hopes to play in tournaments before potential US Open return",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdWFQT1BBWnFCOHpxc280aGNOVkEyMjBTTWdyaFlodlVUbWs3MnRHWHNFUVNOYi1CRmtjMXR6X3hKTlM1ZnRWM1BEaFBZMi1GTEZJc1FxWEQ5NnJaOFd4QzFXQnQtQmlhN1J3X2R5cGlKUFdiZFVrTHdmZEZaT20zZ1Q3YWVaeGV5Tkw2TVlQb3owaWJ0dER3TnZaT3lYVHd1TzZwMkJhMFVhUGVRR1ZfTmdaWnpPbVFucndERUFOeGh6RE1YNnc2Zk4tTUZKamdpYWJoWkdzUVUtdWEzd28tUjdfRGlCRkFUMW1PN3RlWnBtdVBvUHFiUU5YMHA?oc=5",
-        "published": "2026-07-07T15:51:02+00:00",
-        "published_label": "Tue 07 Jul, 15:51",
-        "summary": "Serena Williams plans to continue singles comeback and hopes to play in tournaments before potential US Open return Sky Sports",
-        "body": "Serena Williams hopes to play in a singles tournament before the US Open. The US Open, which begins on August 23 live on Sky Sports, is widely expected to welcome back the 44-year-old American superstar, if she has recovered from the knee injury she picked up at Wimbledon.\n\nThe 23-time Grand Slam champion returned to the singles court at the All England Club last week after being given a wild card. - Not got Sky? Get Sky Sports or stream with no contract",
-        "copy": "Serena Williams hopes to play in a singles tournament before the US Open. The US Open, which begins on August 23 live on Sky Sports, is widely expected to welcome back the 44-year-old American superstar, if she has recovered from the knee injury she picked up at Wimbledon.\n\nThe 23-time Grand Slam champion returned to the singles court at the All England Club last week after being given a wild card. - Not got Sky? Get Sky Sports or stream with no contract",
-        "first_seen": "2026-07-08T12:02:20.898263+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Am I a veteran now?' - Gauff through to first Wimbledon semi-final",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c0qyv12xyw5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T15:32:00+00:00",
-        "published_label": "Tue 07 Jul, 15:32",
-        "summary": "Coco Gauff is through to her first Wimbledon semi-final after battling to a comeback victory over fellow American Jessica Pegula.",
-        "body": "Coco Gauff is through to her first Wimbledon semi-final after battling to a comeback victory over Jessica Pegula. Two-time Grand Slam singles champion Gauff had never previously gone beyond the fourth round at the All England Club and suffered a first-round exit last year.\n\nHowever, she recovered from an error-strewn start against world number four Pegula, who was the highest-ranked player left in the singles draw, to win 4-6 6-3 6-3. The 22-year-old is the youngest player to reach the semi-finals at all four Grand Slams since Maria Sharapova, who achieved that feat at the 2007 French Open.",
-        "copy": "Coco Gauff is through to her first Wimbledon semi-final after battling to a comeback victory over Jessica Pegula. Two-time Grand Slam singles champion Gauff had never previously gone beyond the fourth round at the All England Club and suffered a first-round exit last year.\n\nHowever, she recovered from an error-strewn start against world number four Pegula, who was the highest-ranked player left in the singles draw, to win 4-6 6-3 6-3. The 22-year-old is the youngest player to reach the semi-finals at all four Grand Slams since Maria Sharapova, who achieved that feat at the 2007 French Open.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
       }
     ],
     "Golf": [
@@ -7999,61 +7895,22 @@
         "body": "Jon Rahm says no, he hasn’t been asked to put his own money back into LIV Golf. But what if the league made the request? “Something I’ve learned in life, never say never,” he said Tuesday.\n\n“I’m not going to say absolutely no to anything that can happen in the future.” Speaking Tuesday ahead of this week’s Genesis Scottish Open, Rahm had been asked whether he’d help finance the prize fund for the league in which he plays, an idea that a reporter said could be an option while LIV seeks new investors as it’s been told it will no longer be backed by the Saudi Arabia Public Investment Fund. In December of 2023, Rahm left the PGA Tour and signed what has been reported as a nine-figure deal with LIV.",
         "copy": "Jon Rahm says no, he hasn’t been asked to put his own money back into LIV Golf. But what if the league made the request? “Something I’ve learned in life, never say never,” he said Tuesday.\n\n“I’m not going to say absolutely no to anything that can happen in the future.” Speaking Tuesday ahead of this week’s Genesis Scottish Open, Rahm had been asked whether he’d help finance the prize fund for the league in which he plays, an idea that a reporter said could be an option while LIV seeks new investors as it’s been told it will no longer be backed by the Saudi Arabia Public Investment Fund. In December of 2023, Rahm left the PGA Tour and signed what has been reported as a nine-figure deal with LIV.",
         "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This week's Scottish Open features a quiet test for golf fans",
-        "link": "https://golf.com/news/scottish-open-renaissance-club-course-routing/",
-        "published": "2026-07-07T17:07:24+00:00",
-        "published_label": "Tue 07 Jul, 17:07",
-        "summary": "This week's Scottish Open will feature different faces, but the bigger change has to do with the golf holes down the stretch. The post This week’s Scottish Open features a quiet test for golf fans appeared first on Golf .",
-        "body": "NORTH BERWICK, Scotland — This week’s Scottish Open will be different, we can promise you that. For starters, LIV golfers Jon Rahm and Tyrrell Hatton are playing. That’s different. Former LIV player Brooks Koepka is competing as a sponsor’s exemption … out of necessity … on the DP World Tour half of the field. That’s different. And yet, one piece of newness simmers in the background, made with fans in mind.\n\nThe holes at Renaissance Club have been shifted around. And in a not-so-subtle way aimed at creating the most compelling product possible from an unchanged golf course. Normally, a rerouting of holes may not do much for excitement, particularly for the American crowd across the Atlantic Ocean. Often a rerouting is made out of necessity for a course renovation. But this one is simply to maximize the setting for fans on-site and construe the most excitement for a TV audience.",
-        "copy": "NORTH BERWICK, Scotland — This week’s Scottish Open will be different, we can promise you that. For starters, LIV golfers Jon Rahm and Tyrrell Hatton are playing. That’s different. Former LIV player Brooks Koepka is competing as a sponsor’s exemption … out of necessity … on the DP World Tour half of the field. That’s different. And yet, one piece of newness simmers in the background, made with fans in mind.\n\nThe holes at Renaissance Club have been shifted around. And in a not-so-subtle way aimed at creating the most compelling product possible from an unchanged golf course. Normally, a rerouting of holes may not do much for excitement, particularly for the American crowd across the Atlantic Ocean. Often a rerouting is made out of necessity for a course renovation. But this one is simply to maximize the setting for fans on-site and construe the most excitement for a TV audience.",
-        "first_seen": "2026-07-07T20:34:31.036968+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Rahm return & course changes",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c621xg057e0o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T16:19:46+00:00",
-        "published_label": "Tue 07 Jul, 16:19",
-        "summary": "Jon Rahm returns to PGA Tour action on a rejigged Renaissance Club layout at the 2026 Scottish Open.",
-        "body": "Rory McIlroy, Scottie Scheffler… and Jon Rahm. A world-class Genesis Scottish Open field has an extra twist of intrigue this week as Rahm plays his first PGA Tour event outside of majors since his controversial switch to LIV Golf in December 2023.\n\nFellow LIV player and Ryder Cup team-mate Tyrrell Hatton also tees it up at the Renaissance Club where the purse is a tidy £6.7m and the winner pockets £1.2m. America's Chris Gotterup is bidding to become the first back-to-back Scottish Open champion, while the course where he pipped McIlroy to glory last year has a new routing for the 2026 edition.",
-        "copy": "Rory McIlroy, Scottie Scheffler… and Jon Rahm. A world-class Genesis Scottish Open field has an extra twist of intrigue this week as Rahm plays his first PGA Tour event outside of majors since his controversial switch to LIV Golf in December 2023.\n\nFellow LIV player and Ryder Cup team-mate Tyrrell Hatton also tees it up at the Renaissance Club where the purse is a tidy £6.7m and the winner pockets £1.2m. America's Chris Gotterup is bidding to become the first back-to-back Scottish Open champion, while the course where he pipped McIlroy to glory last year has a new routing for the 2026 edition.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Jon Rahm refuses to rule out putting his own money into LIV Golf amid funding fears",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3JlUEUyTjJqUnhSWTF5Q0o1NFNGemlISE1INnllU3BVTlczeU1fTW83cHMxRUxZLVhKZ3NZd0NscHgzd1FOYTZyelRDMGZoX05aX1d2aDgtcEtNRHNfbFZVdFZxYXZXaFRvYW9oS29YNmw3TnJRRTYxWDIwR1pHdUEybml0NXlIUk82bUhvekZqWG52NnpKTE45M0x2Zw?oc=5",
-        "published": "2026-07-07T16:03:00+00:00",
-        "published_label": "Tue 07 Jul, 16:03",
-        "summary": "Jon Rahm refuses to rule out putting his own money into LIV Golf amid funding fears The Independent",
-        "body": "Jon Rahm has not ruled out personally investing in LIV Golf, as the breakaway series faces an uncertain future. The controversial tour is seeking new backing, with its current major supporter, Saudi Arabia’s Public Investment Fund, due to pull out at the end of the year. This uncertainty has fuelled speculation about the tour’s viability, to which Rahm is tied by a long-term contract.\n\n\"As far as putting my money into it, they have not asked me to do that yet,\" said the Spaniard. Asked if it was a possibility, the two-time major winner added: \"Something I’ve learned in life, never say never. I’m not going to say absolutely no to anything that can happen in the future.\"",
-        "copy": "Jon Rahm has not ruled out personally investing in LIV Golf, as the breakaway series faces an uncertain future. The controversial tour is seeking new backing, with its current major supporter, Saudi Arabia’s Public Investment Fund, due to pull out at the end of the year. This uncertainty has fuelled speculation about the tour’s viability, to which Rahm is tied by a long-term contract.\n\n\"As far as putting my money into it, they have not asked me to do that yet,\" said the Spaniard. Asked if it was a possibility, the two-time major winner added: \"Something I’ve learned in life, never say never. I’m not going to say absolutely no to anything that can happen in the future.\"",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Jon Rahm refuses to rule out investing his own money as LIV Golf battles for survival",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVm1KQjVuMnhjVm8tdTdycVhXWUxOdmZjdmhsQ1owOGVkMDA0dGtnNzFqejhJcjYzNWdGcDhCZlFXWElBVFhqcnpQbkc1cHZsOGliTXVZa1o4Y1dvLUNKUThWQWF6TVdQamZIMXNpU2xsbHFpZTlONTBOQS1qZjlFUzBQaF8zTGEyV29kTGhXbnJBUDVkeGJxSVl0QU5Ja3hIS1hyWVJaY29KVUxodm91UkJtbVZJbm1tcV9YUmFQUTFGLWJ1SzFYVk1UdWhzV2JieEtFZ2RpZw?oc=5",
-        "published": "2026-07-07T15:45:48+00:00",
-        "published_label": "Tue 07 Jul, 15:45",
-        "summary": "Jon Rahm refuses to rule out investing his own money as LIV Golf battles for survival Tennis World USA",
-        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
-        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
-        "first_seen": "2026-07-07T16:45:21.727214+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "The new faces of Indian badminton: Four debutants ready for biggest stage at BWF World Championships in Delhi",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRXpsalMwQXJnWHQ1V1g0NHZmb2VnMXlPOWhMOTgxM2xYeDROMWxjNGVPazFSWm5acWx2RFhKM19hMjdleGhvV3ZrT1VRbGVGc0p0c2ZMUXY5U2lod1NpMjhneDBVckZwLXlfdFFfUjM3WTVKZUpFanRUVTNXcURXblFfdnN5T1F4eWw5cm1DeEN1TmpNSG1IS1gtTFJmSVk5NGxZRk83QzBkUlJDZ3dleHBGeGNjT3hqZjhRaUplOTQyd0p2M3BoZkd5eDJ4bWc3ajhVaWNFT2R5UTA5bi1Lc1RCU2oyaXRhSFlQelp2Z3RwUdIB9wFBVV95cUxNN1BmdmNLVXUxUWJUbXhsUmd5djVGaklad3Z1STJFd1JNMmUyNTBGeng0QWhwTzc0THVha2daS0o0bEo2dmNFVFR1cm5EcVV1SEV2a01FNnZmbHR0ZTRUeTVVWlpFNkdRVFRRNTRHUnRPcTI0QXdJWjc1RktLUG5ZeURhSDhYNDhreU00cFVxXzFNRi1ISDdCSjE0YlZINW52NzFnbWVDNlhwTGFSSUg5d0FrcG8xR3diTVZtWjlubUxpNjJIdmF4dHMtTmhmVy1ENVNKamp5RWtPOHhyUzJjWkRPNGpoQmw5VmpTSEYzMllqWGk3NDh3?oc=5",
+        "published": "2026-07-14T13:51:00+00:00",
+        "published_label": "Tue 14 Jul, 13:51",
+        "summary": "The new faces of Indian badminton: Four debutants ready for biggest stage at BWF World Championships in Delhi The Statesman",
+        "body": "When the BWF World Championships return to India after 17 years, much of the spotlight will naturally fall on established stars such as PV Sindhu, Lakshya Sen and the celebrated men’s doubles pair of Satwiksairaj Rankireddy and Chirag Shetty.\n\nBut beyond the familiar names, another story is set to unfold in New Delhi. Four Indian shuttlers – Ayush Shetty, Unnati Hooda, Simran Singhi and Kavipriya Selvam – are preparing to make their maiden appearance at badminton’s biggest tournament. Each has earned their place through breakthrough performances on the international circuit, and the home World Championships present an opportunity to announce themselves on one of the sport’s grandest stages.",
+        "copy": "When the BWF World Championships return to India after 17 years, much of the spotlight will naturally fall on established stars such as PV Sindhu, Lakshya Sen and the celebrated men’s doubles pair of Satwiksairaj Rankireddy and Chirag Shetty.\n\nBut beyond the familiar names, another story is set to unfold in New Delhi. Four Indian shuttlers – Ayush Shetty, Unnati Hooda, Simran Singhi and Kavipriya Selvam – are preparing to make their maiden appearance at badminton’s biggest tournament. Each has earned their place through breakthrough performances on the international circuit, and the home World Championships present an opportunity to announce themselves on one of the sport’s grandest stages.",
+        "first_seen": "2026-07-14T17:13:50.745222+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -8396,5 +8253,5 @@
       }
     ]
   },
-  "total": 644
+  "total": 633
 }
