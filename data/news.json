@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T08:05:32.366361+00:00",
-  "generated_label": "Wednesday 15 July 2026, 08:05 UTC",
+  "generated_at": "2026-07-15T09:28:54.154988+00:00",
+  "generated_label": "Wednesday 15 July 2026, 09:28 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -14,6 +14,45 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Transcript: Rewiring sport — High-tech cheating",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sbHFoUlA5RHVXaVpiUWpkQ1YxVDZaTjYzUU5fVkRLaDIySkl6MldxXzJVVDhsVFJZdC1ESTM0blpBVUR3X092U0ozZTdpOXRNb2ttd25vUmdkYlBTaGhNclVFSU5KdHgtb3FCMlhYTTc?oc=5",
+        "published": "2026-07-15T04:31:41+00:00",
+        "published_label": "Wed 15 Jul, 04:31",
+        "summary": "Transcript: Rewiring sport — High-tech cheating Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "BYD can take Toyota’s crown without the US market, says top executive",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZV85d1I5S2UtS3Qwai10R21Oa1hCNGpmQWREN2FfOVpYNmFwZEtQY0kyc2p2Tlk3R19FX1NIMV9VeDhnRDFlcW5MOEFjWW5ZWFNFSzJJdEYyYjZDOURya3BwU1JKWm1jaXZiZjE0d3VMbENxR3hzcEdoSUoyV1A2RUtNN00?oc=5",
+        "published": "2026-07-15T04:00:42+00:00",
+        "published_label": "Wed 15 Jul, 04:00",
+        "summary": "BYD can take Toyota’s crown without the US market, says top executive Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Rewiring sport: Hi-tech cheating",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2T0hoMEpfdEp6SzdFUzQzaWFuc2pXZklYYUo4cFFPME1qWTd0UnpVUnFqamZCRXZVLXlBaE5naS1pMGh1YU5FZmFteWhLcmhIZlI5bFlmcjE4a3NIU0dQLUtBaXVaN2Rxb1NmNjFQWko?oc=5",
+        "published": "2026-07-15T04:00:00+00:00",
+        "published_label": "Wed 15 Jul, 04:00",
+        "summary": "Rewiring sport: Hi-tech cheating Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "HSBC watch",
         "kind": "gnews",
         "title": "BGMEA signs MoU with HSBC to support new market expansion",
@@ -24,6 +63,19 @@
         "body": "The Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and HSBC Bangladesh have signed a strategic partnership to help Bangladesh's ready-made garment (RMG) industry expand into new and emerging international markets.\n\nThe two organizations signed a Memorandum of Understanding (MoU) on July 13 at the BGMEA Complex in Uttara, Dhaka. The agreement was signed by Mahmud Hasan Khan, President of BGMEA, and Md: Mahbub ur Rahman, Chief Executive Officer of HSBC Bangladesh.",
         "copy": "The Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and HSBC Bangladesh have signed a strategic partnership to help Bangladesh's ready-made garment (RMG) industry expand into new and emerging international markets.\n\nThe two organizations signed a Memorandum of Understanding (MoU) on July 13 at the BGMEA Complex in Uttara, Dhaka. The agreement was signed by Mahmud Hasan Khan, President of BGMEA, and Md: Mahbub ur Rahman, Chief Executive Officer of HSBC Bangladesh.",
         "first_seen": "2026-07-14T19:16:16.510698+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Tour de France on TNT Sports up double-digits in first year of exclusivity",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkhFaGVfV3pVZ0NOc1JlSm04UWZXa2pZRjdfWGMzWTNDVExaSTN3WE01R3ZnWU9lWks3NFBRektmUnBEZ08xQ29RU0VUUVhHN1FHdTJjTEhoang2YmFudUNvYUtyd01WUTFWekJBc3Atay1tVlJJUElSNVBLT0tMSElha1ZEQ3VzUGZQbkd1RXZXMFl1ZFlGckREMTA2TWF3blV1NjEwWks?oc=5",
+        "published": "2026-07-14T15:21:18+00:00",
+        "published_label": "Tue 14 Jul, 15:21",
+        "summary": "Tour de France on TNT Sports up double-digits in first year of exclusivity Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1394,6 +1446,19 @@
       },
       {
         "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Blueprint for Gold: Top 25 schoolgirl Rugby Sevens stars ranked",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNE5TTmJ1RHFCRjlUakdnWWhQdUdRTk1EZFlYdENPSi1BZU5NQnk1M1lZWThvdHA5UUFiVDVqOGdrYWRjdzd4a0RuQ1NCbXNCWDRnZzMtQVhyX1ZhcVNkbUZtaVpYanhwcFBWR1ltNjdHZHQzT3hYbGk3bnZzSU5uZWc4SVVYQmJBclAxc3YxbFJucjFSakZiV0lvZUNJQlBjUWpiQTJFN2tJeHF0YnpRTi1yRXdwaGFTeUtzSUJXUEFvNlNNWUlWcVViNEVGOFk1VFZ5UXd6X0ZwQU56OEZTN25UTDVZUEhkS3ZpZTRVM3dMTEozZk9IZGR3Q2RaVkJW0gGGAkFVX3lxTFBYdmI1emQ3aVQtTWh5ZzhwM1VobWh2dF9NQmFucDV6Sy1SWWdDTDVtUTlfNTJTaVIycUFhanJrOEV0U185dnlKZElDanVlWjd2OW1TWXJfRml3cV9EenFIVXphemd4N21pSHI0c3RGM20tb2NLVGJrWEZkbmpyRkU2VmpiNXVTVjM3VExWTkRNeW1FbzlNLXdEclRmX1dhNUJNQnh2ZXNLNS1BSzVVYnFDZEJxQmtDeW5Ob0F5dVB6WXdxVy0tWjF6dU5EbDZCZEhFUUY1ZWFwMmxCcG1pTUFpUXRnVUY2X1pvcVNhTXlwRE0xd1NlMHhQYUhxbHAzX01HMFYwMlE?oc=5",
+        "published": "2026-07-15T03:35:08+00:00",
+        "published_label": "Wed 15 Jul, 03:35",
+        "summary": "Blueprint for Gold: Top 25 schoolgirl Rugby Sevens stars ranked The Daily Telegraph",
+        "body": "You might have been detected and blocked as a crawler bot! News Corp Australia uses software that manages crawler bot traffic on our websites. If you receive this message and are not a crawler bot (and are just a reader or subscriber), please try these steps first:\n\n- Ensure your browser supports JavaScript (this can be done via accessing https://www.whatismybrowser.com/detect/is-javascript-enabled in your browser) If you still need to be unlocked as a reader, subscriber or crawler bot, please e-mail us at accessissues@news.com.au and provide the IP address and reference number shown here along with why you require access.",
+        "copy": "You might have been detected and blocked as a crawler bot! News Corp Australia uses software that manages crawler bot traffic on our websites. If you receive this message and are not a crawler bot (and are just a reader or subscriber), please try these steps first:\n\n- Ensure your browser supports JavaScript (this can be done via accessing https://www.whatismybrowser.com/detect/is-javascript-enabled in your browser) If you still need to be unlocked as a reader, subscriber or crawler bot, please e-mail us at accessissues@news.com.au and provide the IP address and reference number shown here along with why you require access.",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
+      {
+        "section": "Rugby",
         "source": "Rugby Pass",
         "kind": "direct",
         "title": "The All Blacks star one coach says is among world’s best in his position",
@@ -1482,6 +1547,19 @@
         "body": "In the wake of South Africa's win over Scotland in Pretoria on Saturday, head coach Rassie Erasmus, in full tummy-tickling mode, praised the visitors to the hilt, listing their big wins against Argentina, France and England this year before calling them the third best team in the world.\n\nKind words, but nonsense, of course. Scotland were terrific for large parts in Pretoria, but they lost. And, as Scotland forwards coach John Dalziel said on Tuesday, such praise isn't really worth a damn to them anymore, not unless it comes with the breakthrough victories they now desperately crave.",
         "copy": "In the wake of South Africa's win over Scotland in Pretoria on Saturday, head coach Rassie Erasmus, in full tummy-tickling mode, praised the visitors to the hilt, listing their big wins against Argentina, France and England this year before calling them the third best team in the world.\n\nKind words, but nonsense, of course. Scotland were terrific for large parts in Pretoria, but they lost. And, as Scotland forwards coach John Dalziel said on Tuesday, such praise isn't really worth a damn to them anymore, not unless it comes with the breakthrough victories they now desperately crave.",
         "first_seen": "2026-07-15T08:05:32.366361+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Senegal – JOJ DAKAR 2026 : Eight rugby sevens teams qualified",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWm5tdVZsc2Ytb0RwR3cwY0J2ODJMckl4bkhtNkZOZm15TGotTWs4cVZyTk9WQjF5OVdpSWFhNlcwSHFEa3BHUm9ZZ2VMNUk2Y1MyNGFOaTRmZ1gwemVPNUpnZkc0elFFUzlhcjFuU3JETkI4MkkwWXBtNy03d0xwSDFtZ0UxUmY0?oc=5",
+        "published": "2026-07-14T19:05:53+00:00",
+        "published_label": "Tue 14 Jul, 19:05",
+        "summary": "Senegal – JOJ DAKAR 2026 : Eight rugby sevens teams qualified Africa24 TV",
+        "body": "Rugby sevens is one of the 25 sports featured at the Youth Olympic Games in Dakar. It aims to boost the development of the sport on the African continent by inspiring a new generation of young local athletes. The competition, which brings together eight teams including Senegal, also hopes to provide a high-performance global showcase to reveal the future international talents of the sport.\n\nMy name is Abdelaziz Touré, a rugby player for the Yoff club. I will represent Senegal on the U18 national team at the Dakar 2026 Youth Olympic Games. Africa is preparing to be thrilled by the Dakar 2026 Youth Olympic Games. Among the 25 competitive sports on the program for the Dakar 2026 Youth Olympic Games is rugby sevens. Of the eight teams participating in this competition, host country Senegal is holding numerous training camps to refine the skills of its players.",
+        "copy": "Rugby sevens is one of the 25 sports featured at the Youth Olympic Games in Dakar. It aims to boost the development of the sport on the African continent by inspiring a new generation of young local athletes. The competition, which brings together eight teams including Senegal, also hopes to provide a high-performance global showcase to reveal the future international talents of the sport.\n\nMy name is Abdelaziz Touré, a rugby player for the Yoff club. I will represent Senegal on the U18 national team at the Dakar 2026 Youth Olympic Games. Africa is preparing to be thrilled by the Dakar 2026 Youth Olympic Games. Among the 25 competitive sports on the program for the Dakar 2026 Youth Olympic Games is rugby sevens. Of the eight teams participating in this competition, host country Senegal is holding numerous training camps to refine the skills of its players.",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
       },
       {
         "section": "Rugby",
@@ -4004,48 +4082,22 @@
         "body": "“You’re my hero,” said the souvenir-hunting local in his 20s to Mefin Davies after Wales played Argentina in Tucuman in 2004, following up the compliment with a request that the hooker from Nantgaredig hand over the socks that he had just worn against the Pumas.\n\nNot entirely convinced by the chap’s show of adulation, Davies replied: “What’s my name, then?” Argentina can be an interesting place for rugby players to visit, a point Gavin Henson will doubtless vouch for after memorably being pelted by a toilet roll while attempting a conversion in the opening Test on that tour. Maybe it wasn’t the supporter hurling the said bathroom paper that truly sticks in the mind, but the way Henson untangled the stream of tissue from around his body before coolly bisecting the posts from wide out. As a riposte, it took some beating.",
         "copy": "“You’re my hero,” said the souvenir-hunting local in his 20s to Mefin Davies after Wales played Argentina in Tucuman in 2004, following up the compliment with a request that the hooker from Nantgaredig hand over the socks that he had just worn against the Pumas.\n\nNot entirely convinced by the chap’s show of adulation, Davies replied: “What’s my name, then?” Argentina can be an interesting place for rugby players to visit, a point Gavin Henson will doubtless vouch for after memorably being pelted by a toilet roll while attempting a conversion in the opening Test on that tour. Maybe it wasn’t the supporter hurling the said bathroom paper that truly sticks in the mind, but the way Henson untangled the stream of tissue from around his body before coolly bisecting the posts from wide out. As a riposte, it took some beating.",
         "first_seen": "2026-07-08T12:02:20.898263+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I wanted to challenge myself': Lightning add sixth Canada international to squad",
-        "link": "https://www.rugbypass.com/news/i-wanted-to-challenge-myself-lightning-add-sixth-canada-international-to-squad/",
-        "published": "2026-07-08T09:00:05+00:00",
-        "published_label": "Wed 08 Jul, 09:00",
-        "summary": "Loughborough Lightning have added a sixth Canadian to their squad for the 2026/27 Premiership Women's Rugby season.",
-        "body": "Loughborough Lightning have added a sixth Canadian to their squad for the 2026/27 Premiership Women’s Rugby season. Olympic silver medalist Florence Symonds will join her international teammates Pamphinette Buisa, Chloe Daniels, Brooke Rempel, Kiki Idowu and Rachel Smith at cinch Stadium at Franklin’s Gardens next season.\n\nThe 24-year-old has been on the international rugby scene since 2021 when she made her HSBC SVNS debut. In 2022 she helped her country to a bronze medal at the 2022 Commonwealth Games in Birmingham and Olympic silver in Paris two years later.",
-        "copy": "Loughborough Lightning have added a sixth Canadian to their squad for the 2026/27 Premiership Women’s Rugby season. Olympic silver medalist Florence Symonds will join her international teammates Pamphinette Buisa, Chloe Daniels, Brooke Rempel, Kiki Idowu and Rachel Smith at cinch Stadium at Franklin’s Gardens next season.\n\nThe 24-year-old has been on the international rugby scene since 2021 when she made her HSBC SVNS debut. In 2022 she helped her country to a bronze medal at the 2022 Commonwealth Games in Birmingham and Olympic silver in Paris two years later.",
-        "first_seen": "2026-07-08T12:02:20.898263+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "130kg, 6'8 giant among three new signings unveiled by PREM champions Northampton",
-        "link": "https://www.rugbypass.com/news/prem-champions-northampton-announce-three-new-signings/",
-        "published": "2026-07-08T08:50:02+00:00",
-        "published_label": "Wed 08 Jul, 08:50",
-        "summary": "Northampton Saints have handed full-time contracts to three triallists ahead of the 2026/27 PREM season, further underlining their ability to unearth raw talent from the lower leagues and student rugby.",
-        "body": "Northampton Saints have handed full-time contracts to three triallists ahead of the 2026/27 PREM season, further underlining their ability to unearth raw talent from the lower leagues and student rugby.\n\nLock James Bennett and winger Thomas Rowe spent the majority of the 2025/26 campaign within Saints’ set-up, combining their studies at Loughborough University with regular training sessions at Franklin’s Gardens.",
-        "copy": "Northampton Saints have handed full-time contracts to three triallists ahead of the 2026/27 PREM season, further underlining their ability to unearth raw talent from the lower leagues and student rugby.\n\nLock James Bennett and winger Thomas Rowe spent the majority of the 2025/26 campaign within Saints’ set-up, combining their studies at Loughborough University with regular training sessions at Franklin’s Gardens.",
-        "first_seen": "2026-07-08T12:02:20.898263+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Richard Wigglesworth is clear on what England need to fix for Fiji",
-        "link": "https://www.rugbypass.com/news/richard-wigglesworth-is-clear-on-what-england-need-to-fix-fiji/",
-        "published": "2026-07-08T08:09:50+00:00",
-        "published_label": "Wed 08 Jul, 08:09",
-        "summary": "The pressure on head coach Steve Borthwick dialled up further on Saturday as South Africa turned on the power at Ellis Park to emerge emphatic 45-21 winners.",
-        "body": "England expect new boy Benhard Janse van Rensburg to bring “an all-court game” to his potential debut against Fiji. The South Africa-born utility back’s eligibility to play for England on residency grounds will be confirmed on Wednesday, and the 29-year-old is set for an immediate Test start.\n\nEngland will confirm their starting team against Fiji on Thursday as they seek to bounce back from an opening Nations Championship defeat by South Africa in the unusual surroundings of Everton’s Hill Dickinson Stadium.",
-        "copy": "England expect new boy Benhard Janse van Rensburg to bring “an all-court game” to his potential debut against Fiji. The South Africa-born utility back’s eligibility to play for England on residency grounds will be confirmed on Wednesday, and the 29-year-old is set for an immediate Test start.\n\nEngland will confirm their starting team against Fiji on Thursday as they seek to bounce back from an opening Nations Championship defeat by South Africa in the unusual surroundings of Everton’s Hill Dickinson Stadium.",
-        "first_seen": "2026-07-08T12:02:20.898263+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Grass court season review 2026: British success, new champions & epic finals",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rZFRjMG12SDJ3c0F5NnYxNXVmb2x3NkxKUUhCaUtYQ1YtM29hblZIaUNiTFEyWWFMWEl6N21TcDRYSTgtVHptWjJGMnNzeDhyM3lkRHZkZXpud1ZDNFhwWHFZVGNxeG1vYVpJ?oc=5",
+        "published": "2026-07-14T14:23:08+00:00",
+        "published_label": "Tue 14 Jul, 14:23",
+        "summary": "Grass court season review 2026: British success, new champions & epic finals LTA",
+        "body": "The 2026 grass court season has come to an end – and what a ride it’s been. From Birmingham to Wimbledon, this summer, we’ve seen it all, British champions, emerging stars, familiar favourites, and more. It has been be a grass court summer to remember.\n\nWe look back at all the highlights, best moments, title winners and more from the 2026 grass court season. The grass court season got off to an action-packed start at the Lexus Birmingham Open, with headlines across both the women’s and men’s draws.",
+        "copy": "The 2026 grass court season has come to an end – and what a ride it’s been. From Birmingham to Wimbledon, this summer, we’ve seen it all, British champions, emerging stars, familiar favourites, and more. It has been be a grass court summer to remember.\n\nWe look back at all the highlights, best moments, title winners and more from the 2026 grass court season. The grass court season got off to an action-packed start at the Lexus Birmingham Open, with headlines across both the women’s and men’s draws.",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4084,6 +4136,19 @@
         "body": "Wimbledon is always a very special tournament and one of the crown jewels of the British summer of sport. The 2026 tournament has been no different - full of excitement, great stories and, after a slow start for the home nation, some great British success.\n\nWith a high level of tennis, the gorgeous weather and the addition of England doing well in the World Cup, I think it truly has been a great Championships. In my final column this year, I have picked out the best bits of the past fortnight and you can also pick your favourite match.",
         "copy": "Wimbledon is always a very special tournament and one of the crown jewels of the British summer of sport. The 2026 tournament has been no different - full of excitement, great stories and, after a slow start for the home nation, some great British success.\n\nWith a high level of tennis, the gorgeous weather and the addition of England doing well in the World Cup, I think it truly has been a great Championships. In my final column this year, I have picked out the best bits of the past fortnight and you can also pick your favourite match.",
         "first_seen": "2026-07-13T13:44:02.739751+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Emma Raducanu tennis schedule, next match, ranking, latest results, video and how to watch live on Sky Sports Tennis",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc1ktdllGc1kxUUY4N1lSUFAwcWxoLWE1UWJQT1FqT1M4VF96RlJFV09uVHdYWlZsTlloZmVQTjZGYjhKTy1mTXFobmpqdTN5ZWc3SVp2d0hNU3hlNFF4RmZQWlc2bnRxb0ZjS1VSd05lY0NlVDR1Uk9KcUlXWDNyVVl3bEdld2VrejhleHp3a1k1M0JUYjFoZ2hNRDZZTEY3eExsM0NhMzVHYXlVeEtseDJaQ0sxSmV4R0tIZ0VDZFVHZ05sYl9jamw0RVMwSm9JY0VpQy0yMzMxTW9ydE9GN2hiRjhmcHpzWkcwN3BDaGFpazFTdF9qOXhfX1VsdzQ?oc=5",
+        "published": "2026-07-13T11:05:17+00:00",
+        "published_label": "Mon 13 Jul, 11:05",
+        "summary": "Emma Raducanu tennis schedule, next match, ranking, latest results, video and how to watch live on Sky Sports Tennis Sky Sports",
+        "body": "Best known for coaching former top five players Amanda Coetzer, Daniela Hantuchova, Anett Kontaveit and Ana Ivanovic, Sears joined her team in April 2021 and oversaw her incredible breakthrough run to the Wimbledon fourth round.\n\nGuided Raducanu to her historic Grand Slam title at the US Open as a qualifier. Raducanu opted not to extend his trial contract immediately after the victory. Angelique Kerber's former coach lasted only five months. They split in April 2022 with Raducanu transitioning towards a new training model involving LTA coaching support.",
+        "copy": "Best known for coaching former top five players Amanda Coetzer, Daniela Hantuchova, Anett Kontaveit and Ana Ivanovic, Sears joined her team in April 2021 and oversaw her incredible breakthrough run to the Wimbledon fourth round.\n\nGuided Raducanu to her historic Grand Slam title at the US Open as a qualifier. Raducanu opted not to extend his trial contract immediately after the victory. Angelique Kerber's former coach lasted only five months. They split in April 2022 with Raducanu transitioning towards a new training model involving LTA coaching support.",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
       },
       {
         "section": "Tennis",
@@ -5688,6 +5753,32 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau: If I don't win The Open I'll be disappointed",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaGFnSURkTzNCeFJ5SGl1ZHh4cXFld1NOM2EwUTJlSXQtWWFlS1NxVEJaZXl5ZVdlS213amJkNWN6UVpzal92ZmRoTTI4YWlJcTBGTElxTXlYd3RTTDMzQ3NsUTctSGhsTkxFdnhfekU5cU1uVTRlUzFfcWx6UVBnc0JZTHA3RlNReEE0YVl0UFJiVl9hRkF3TmE3dGZsR3VpZi1HVkxIdzk?oc=5",
+        "published": "2026-07-15T08:08:59+00:00",
+        "published_label": "Wed 15 Jul, 08:08",
+        "summary": "Bryson DeChambeau: If I don't win The Open I'll be disappointed Golfmagic",
+        "body": "Bryson DeChambeau says he'll be disappointed if he doesn't win The Open. DeChambeau, 32, enters the final men's major of the year at Royal Birkdale facing plenty of criticism.\n\nSir Nick Faldo, a three-time Open champion, was among those to take aim at the American, insisting the LIV Golf recruit has \"zero clue\" about strategy. Golf Channel's Brandel Chamblee also twisted the knife on DeChambeau in a segment on Live From The Open on Tuesday by saying the two-time U.S. Open winner \"wants to outdo every YouTuber in the game instead of out play everybody in the game of golf.\"",
+        "copy": "Bryson DeChambeau says he'll be disappointed if he doesn't win The Open. DeChambeau, 32, enters the final men's major of the year at Royal Birkdale facing plenty of criticism.\n\nSir Nick Faldo, a three-time Open champion, was among those to take aim at the American, insisting the LIV Golf recruit has \"zero clue\" about strategy. Golf Channel's Brandel Chamblee also twisted the knife on DeChambeau in a segment on Live From The Open on Tuesday by saying the two-time U.S. Open winner \"wants to outdo every YouTuber in the game instead of out play everybody in the game of golf.\"",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "LIV Golf",
+        "kind": "gnews",
+        "title": "LIV Golf | Official site, scores, schedule, teams and tickets",
+        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1QYW1zcWEwMzZ4Y2dwcWVlTnhXN2E3RXZGemlrczBLOWQxWUFHWUFybFVoeVg4NGxzd2FaWg?oc=5",
+        "published": "2026-07-15T07:05:32+00:00",
+        "published_label": "Wed 15 Jul, 07:05",
+        "summary": "LIV Golf | Official site, scores, schedule, teams and tickets LIV Golf",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
         "title": "Scottie Scheffler explains what people got wrong about his viral reflection",
@@ -5698,6 +5789,32 @@
         "body": "Scottie Scheffler made it clear early on in this year’s pre-Open press conference: He did not want a repeat performance from last year. “I think I’ll try to keep that stuff to myself this week,” he said with a smile.\n\nBrace yourself — this whole topic is a bit meta. It’s about Scottie Scheffler talking about Scottie Scheffler talking. It’s the exact sort of thing Scottie Scheffler rolls his eyes at. It’s also the sort of thing that Scottie Scheffler thinks a lot about. Which brings us back to the beginning.",
         "copy": "Scottie Scheffler made it clear early on in this year’s pre-Open press conference: He did not want a repeat performance from last year. “I think I’ll try to keep that stuff to myself this week,” he said with a smile.\n\nBrace yourself — this whole topic is a bit meta. It’s about Scottie Scheffler talking about Scottie Scheffler talking. It’s the exact sort of thing Scottie Scheffler rolls his eyes at. It’s also the sort of thing that Scottie Scheffler thinks a lot about. Which brings us back to the beginning.",
         "first_seen": "2026-07-15T08:05:32.366361+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "'He Has Zero Clue': Nick Faldo Delivers Scathing Verdict on Bryson DeChambeau's Major Collapse",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkFNb3NaQnZIaW41R3pKVXl4Y1JjdVdaMmVxUEZTQUVyeHpQYWtkckhDNVk0R1FwM3RjNXAwVXJGT3pFTlZkdXkxUXNxWm83N2RCOHREekVxTWQ2VDFQc1EtY05FdnlhM3pmZzdJU016UElzU3F0eEtqelRxU0E2TmJNWTA?oc=5",
+        "published": "2026-07-14T22:03:52+00:00",
+        "published_label": "Tue 14 Jul, 22:03",
+        "summary": "'He Has Zero Clue': Nick Faldo Delivers Scathing Verdict on Bryson DeChambeau's Major Collapse Yahoo Sports",
+        "body": "Bryson DeChambeau has won twice on LIV Golf this season, but at the majors he has not survived a single cut. Days before he tees up at the Royal Birkdale for the final major of 2026, one that could complete an unwanted sweep of all four missed cuts, the two-time US Open champion finds himself under fire. Former World No. 1, Sir Nick Faldo, speaking to Sky Sports Golf, did not hold back on what he believes is really going wrong with the American's game.\n\n\"I'd say it to his face; he has zero clue of strategy,\" Sir Faldo said on the show. \"He said it last year, I think on TV, he said, \"I'm going to go out and attack the links.\" Well, I've never attacked a link; you thread it, don't you? You feed it down the fairway; it's really important. You look at humps and bumps and what have you. If I send it over and feed it, it nudges back into play.\"",
+        "copy": "Bryson DeChambeau has won twice on LIV Golf this season, but at the majors he has not survived a single cut. Days before he tees up at the Royal Birkdale for the final major of 2026, one that could complete an unwanted sweep of all four missed cuts, the two-time US Open champion finds himself under fire. Former World No. 1, Sir Nick Faldo, speaking to Sky Sports Golf, did not hold back on what he believes is really going wrong with the American's game.\n\n\"I'd say it to his face; he has zero clue of strategy,\" Sir Faldo said on the show. \"He said it last year, I think on TV, he said, \"I'm going to go out and attack the links.\" Well, I've never attacked a link; you thread it, don't you? You feed it down the fairway; it's really important. You look at humps and bumps and what have you. If I send it over and feed it, it nudges back into play.\"",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "What Bryson DeChambeau did on the third tee at Royal Birkdale in practice ahead of The Open Championship",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORGVFMFlsVS1GWW1XdzQ2cjdpeV9fQXBvTmtFSl9IMWkxMTNtRzdjdmI4Ym5mc2laNHRxVklMSHNrYjRPRGw1T2FfQlVnV1lycFRmaVJtazkzUXJnUHQ0NUhrNUhHMzB4UFo4Qzd0c3RoYXA1bUppdEtTSWFmX1RoYmRxS0FOcHBUQ3FpLVNKNjVicExPS3NsckNNUWVycjIyQS00U1M3MnpWMWoteUtLdkR6NzFnUTRqZk11dEFNTFNHRlo5?oc=5",
+        "published": "2026-07-14T22:00:00+00:00",
+        "published_label": "Tue 14 Jul, 22:00",
+        "summary": "What Bryson DeChambeau did on the third tee at Royal Birkdale in practice ahead of The Open Championship hitc.com",
+        "body": "Practice rounds may be the best time to make mistakes, but some may be a little concerned to hear about how Bryson DeChambeau fared on one particular tee at Royal Birkdale ahead of The Open Championship.\n\nThere is real pressure on DeChambeau heading into the final major of the year. The LIV Golf star has missed the cut at all three majors so far in 2026. How would you feel about a major taking place in Australia?",
+        "copy": "Practice rounds may be the best time to make mistakes, but some may be a little concerned to hear about how Bryson DeChambeau fared on one particular tee at Royal Birkdale ahead of The Open Championship.\n\nThere is real pressure on DeChambeau heading into the final major of the year. The LIV Golf star has missed the cut at all three majors so far in 2026. How would you feel about a major taking place in Australia?",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
       },
       {
         "section": "Golf",
@@ -7713,22 +7830,22 @@
         "body": "The 2026 Genesis Scottish Open begins Thursday, July 9, with the opening round at the Renaissance Club in North Berwick. You can find full Genesis Scottish Open tee times for Thursday’s first round at the bottom of this post.\n\nScottie Scheffler has accomplished a lot this season. He won in his very first start, capturing his 20th PGA Tour victory at the American Express in February. That was the first of an impressive nine top-5 finishes Scheffler has earned in only 14 starts this year, easily putting him in first in the FedEx Cup standings.",
         "copy": "The 2026 Genesis Scottish Open begins Thursday, July 9, with the opening round at the Renaissance Club in North Berwick. You can find full Genesis Scottish Open tee times for Thursday’s first round at the bottom of this post.\n\nScottie Scheffler has accomplished a lot this season. He won in his very first start, capturing his 20th PGA Tour victory at the American Express in February. That was the first of an impressive nine top-5 finishes Scheffler has earned in only 14 starts this year, easily putting him in first in the FedEx Cup standings.",
         "first_seen": "2026-07-08T12:02:20.898263+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Injured LIV Golf star withdraws from The Open",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUpwZzlkM3l4cnpFazhtZ2ZTNUhXcDdPYTdReUhHNUxKcnM5c2o3VGhqTmZFeElFTHI4eV9sY3ZURS04RXU2czJ3TUQxUl95bzRnNlRDanhNVEl4SGFfTDFPeVZCOUdhTjhYOHNMbzQtTGV0NF9yRkdZTnI4TDctV1BONWxqWThsVTZQS2FkSDZPOFk?oc=5",
-        "published": "2026-07-08T09:14:54+00:00",
-        "published_label": "Wed 08 Jul, 09:14",
-        "summary": "Injured LIV Golf star withdraws from The Open bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf star Elvis Smylie has been forced to withdraw from The Open due to injury.\n\nThe Ripper GC golfer has been ruled out of the final men’s major of the year at Royal Birkdale due to a rib injury. The issue has also forced the 24-year-old out of this week’s Genesis Scottish Open at the Renaissance Club in North Berwick.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf star Elvis Smylie has been forced to withdraw from The Open due to injury.\n\nThe Ripper GC golfer has been ruled out of the final men’s major of the year at Royal Birkdale due to a rib injury. The issue has also forced the 24-year-old out of this week’s Genesis Scottish Open at the Renaissance Club in North Berwick.",
-        "first_seen": "2026-07-08T12:02:20.898263+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Japan Open 2026 badminton: Lakshya Sen, Ayush Shetty out in first round",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODJMVUpiYTZVdDlIMEdDRlgxSUVHaVhmaGZzT0NNOHZVWG5pTU52NFZ6M3JhWkNYdm1BaUdEc0ZJdjh4WG5uZ3UzeEVfZTQzLS02dEFnajFRbmhWNW1KcnN3a0dlcFU5SFRwUW1rcnNodGM2Yk9kSHBvMnhTVUtaUlVNWQ?oc=5",
+        "published": "2026-07-15T07:28:00+00:00",
+        "published_label": "Wed 15 Jul, 07:28",
+        "summary": "Japan Open 2026 badminton: Lakshya Sen, Ayush Shetty out in first round olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7754,6 +7871,19 @@
         "body": "On this day, exactly two years from now, the Olympic Games will begin. LA28 will mark the third time that Los Angeles will be hosting the Olympics, after 1932 and 1984. The Los Angeles Memorial Coliseum and the 2028 Stadium Inglewood will be the venues of the dual-location Opening Ceremony for the Games, set to be held 14-30 July 2028. The event will mark the Coliseum’s third time hosting Olympic ceremonies, having previously done so in 1932 and 1984, and will represent the first Olympic use of the Stadium in Inglewood.\n\nThe badminton competition at Galen Center will begin 8am local time on Saturday 15 July, and will conclude on Monday 24 July. For fans looking to partake of the Olympic experience up close, the second drop of tickets opens today. Register by 22 July for the opportunity. Check out all the details here: https://tickets.la28.org/",
         "copy": "On this day, exactly two years from now, the Olympic Games will begin. LA28 will mark the third time that Los Angeles will be hosting the Olympics, after 1932 and 1984. The Los Angeles Memorial Coliseum and the 2028 Stadium Inglewood will be the venues of the dual-location Opening Ceremony for the Games, set to be held 14-30 July 2028. The event will mark the Coliseum’s third time hosting Olympic ceremonies, having previously done so in 1932 and 1984, and will represent the first Olympic use of the Stadium in Inglewood.\n\nThe badminton competition at Galen Center will begin 8am local time on Saturday 15 July, and will conclude on Monday 24 July. For fans looking to partake of the Olympic experience up close, the second drop of tickets opens today. Register by 22 July for the opportunity. Check out all the details here: https://tickets.la28.org/",
         "first_seen": "2026-07-14T15:23:53.138225+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "LA28: Two-Year Countdown Begins!",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcTBhdGwtV1RESUpUZmZwMFJRMW5XV2I4c0t3WnUwck04NFBiamdwakpneDhrZnd5MlNsM0RIOTctaWd3X0pUSEdfWlVlNGFBVm93TVpwWlBuQjJmVDBMLTJ1RUZJMFNWSnFaaUFrTE14UFRIMzhRdXNTSDRqMFlMY1hBZUQtTWN3eEp6ZVlQTC0?oc=5",
+        "published": "2026-07-14T13:42:32+00:00",
+        "published_label": "Tue 14 Jul, 13:42",
+        "summary": "LA28: Two-Year Countdown Begins! BWF Olympics",
+        "body": "On this day, exactly two years from now, the Olympic Games will begin. LA28 will mark the third time that Los Angeles will be hosting the Olympics, after 1932 and 1984. The Los Angeles Memorial Coliseum and the 2028 Stadium Inglewood will be the venues of the dual-location opening ceremony for the Games, set to be held 14-30 July 2028. The event will mark the Coliseum’s third time hosting Olympic ceremonies, having previously done so in 1932 and 1984, and will represent the first Olympic use of the Stadium in Inglewood.\n\nThe badminton competition at Galen Center will begin 8am local time on Saturday 15 July, and will conclude on Monday 24 July. For fans looking to partake of the Olympic experience up close, the second drop of tickets opens today. Register by 22 July for the opportunity. Check out all the details here: tickets.la28.org",
+        "copy": "On this day, exactly two years from now, the Olympic Games will begin. LA28 will mark the third time that Los Angeles will be hosting the Olympics, after 1932 and 1984. The Los Angeles Memorial Coliseum and the 2028 Stadium Inglewood will be the venues of the dual-location opening ceremony for the Games, set to be held 14-30 July 2028. The event will mark the Coliseum’s third time hosting Olympic ceremonies, having previously done so in 1932 and 1984, and will represent the first Olympic use of the Stadium in Inglewood.\n\nThe badminton competition at Galen Center will begin 8am local time on Saturday 15 July, and will conclude on Monday 24 July. For fans looking to partake of the Olympic experience up close, the second drop of tickets opens today. Register by 22 July for the opportunity. Check out all the details here: tickets.la28.org",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
       },
       {
         "section": "Badminton",
@@ -8047,6 +8177,19 @@
         "section": "Competitor News",
         "source": "Google News",
         "kind": "gnews",
+        "title": "USA Water Polo and iHeartMedia Announce Multi-Platform Partnership to Grow the Sport Nationwide",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUW9Va1c4QnJnZWZJV1JnUEJwa2M4SVZwZ1ZId19YZEg2V2lLTC1JQ0xWeXRvM092Q0FFSk43Yzh0MUxLa3pIdy1DYXJNSGpzYzRNdjNIak5DM3preVJ5Z1hmY2dFckxIWmhFRkRqQ0FzT3B4dS12dlYwV2lvSndhZHZEcXB2RC1WVUtibHEwZHpGb1hwQ09pbGZsSnQ1Y3lCQTAyOGt6d1Y5WGN0RTBMQk1YdUNVZi1pWS1JcldBUlpTVzByeWRMX0labWRQeGRFbTJVXzJ4aEpZN08tT3ZrbXRB?oc=5",
+        "published": "2026-07-14T19:35:37+00:00",
+        "published_label": "Tue 14 Jul, 19:35",
+        "summary": "USA Water Polo and iHeartMedia Announce Multi-Platform Partnership to Grow the Sport Nationwide USA Water Polo",
+        "body": "Irvine, CA - July 14 - USA Water Polo announced today a new multi-platform marketing partnership with iHeartMedia, naming the company the Official Radio Partner of USA Water Polo in an agreement designed to expand the sport's reach, inspire new participants, and engage fans across the country during one of the most significant eras in the organization's history.\n\nThe partnership will bring together the national governing body for water polo in the United States with iHeartMedia, America's leading audio company with nine out of ten Americans listening to iHeart broadcast radio in every month, to tell the stories of Team USA athletes, promote grassroots participation, and introduce more families to the sport through a fully integrated national marketing campaign. As excitement continues to build toward the Los Angeles 2028 Olympic Games, the collaboration represents a shared commitment to elevating Olympic sport and creating meaningful connections with fans both inside and outside the aquatic community.",
+        "copy": "Irvine, CA - July 14 - USA Water Polo announced today a new multi-platform marketing partnership with iHeartMedia, naming the company the Official Radio Partner of USA Water Polo in an agreement designed to expand the sport's reach, inspire new participants, and engage fans across the country during one of the most significant eras in the organization's history.\n\nThe partnership will bring together the national governing body for water polo in the United States with iHeartMedia, America's leading audio company with nine out of ten Americans listening to iHeart broadcast radio in every month, to tell the stories of Team USA athletes, promote grassroots participation, and introduce more families to the sport through a fully integrated national marketing campaign. As excitement continues to build toward the Los Angeles 2028 Olympic Games, the collaboration represents a shared commitment to elevating Olympic sport and creating meaningful connections with fans both inside and outside the aquatic community.",
+        "first_seen": "2026-07-15T09:28:54.154988+00:00"
+      },
+      {
+        "section": "Competitor News",
+        "source": "Google News",
+        "kind": "gnews",
         "title": "NBA: Victor Wembanyama signs $252 Million \"Discount\" Deal with Spurs",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbm9KWTAwNGZndzNfRUtZMlNfUXJDbUhqQnVObGNGMmxmX3V6SjJTRkhPakFGbTBnOF8tYkxLSXRsU1ItQU84UHJRTW5lNXdBQXJIQ1U2Vmd1MjJyNF9senhsX3lGSkM4WDFxWlNSeFBJcFlqNG9WM3dvODBYZjA1dVNCa2hWTFV6WUFlTTVYbEJiWl9wU3VVSTVoako0RFhySXlGcw?oc=5",
         "published": "2026-07-11T17:07:36+00:00",
@@ -8058,5 +8201,5 @@
       }
     ]
   },
-  "total": 618
+  "total": 629
 }
