@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T17:16:29.056535+00:00",
-  "generated_label": "Wednesday 15 July 2026, 17:16 UTC",
+  "generated_at": "2026-07-15T19:08:00.226071+00:00",
+  "generated_label": "Wednesday 15 July 2026, 19:08 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1379,6 +1379,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Referee Barrett-Theron stands down after cancer diagnosis",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwyq399xvv1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-15T17:32:52+00:00",
+        "published_label": "Wed 15 Jul, 17:32",
+        "summary": "One of the world's leading female referees, Aimee Barrett-Theron, has stood down from officiating after being diagnosed with breast cancer.",
+        "body": "Aimee Barrett-Theron, one of the world's leading female referees, has stood down from officiating after being diagnosed with breast cancer. The 39 year-old South African is the most-capped female international referee after taking charge of 52 Tests.\n\n\"I've recently been diagnosed with breast cancer,\" she said in a statement. \"The good news is that it's treatable, and I'm working with an incredible team of specialists who are fully aligned with the goal of getting me healthy and back on the field in a few months' time.\"",
+        "copy": "Aimee Barrett-Theron, one of the world's leading female referees, has stood down from officiating after being diagnosed with breast cancer. The 39 year-old South African is the most-capped female international referee after taking charge of 52 Tests.\n\n\"I've recently been diagnosed with breast cancer,\" she said in a statement. \"The good news is that it's treatable, and I'm working with an incredible team of specialists who are fully aligned with the goal of getting me healthy and back on the field in a few months' time.\"",
+        "first_seen": "2026-07-15T19:08:00.226071+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4108,32 +4121,6 @@
         "body": "Wales are considering giving Exeter back-row forward Kane James a Test debut against Argentina in the Nations Championship. The 21-year-old is in contention for a place on the bench to face the Pumas in San Juan on Saturday (20:10 BST).\n\nHead coach Steve Tandy is poised to freshen up his side after starting the Nations Championship with a win against Fiji at Cardiff City Stadium. Wales fielded a starting trio of Alex Mann, Jac Morgan and Aaron Wainwright in the back row with James Botham and Taine Plumtree coming off the bench.",
         "copy": "Wales are considering giving Exeter back-row forward Kane James a Test debut against Argentina in the Nations Championship. The 21-year-old is in contention for a place on the bench to face the Pumas in San Juan on Saturday (20:10 BST).\n\nHead coach Steve Tandy is poised to freshen up his side after starting the Nations Championship with a win against Fiji at Cardiff City Stadium. Wales fielded a starting trio of Alex Mann, Jac Morgan and Aaron Wainwright in the back row with James Botham and Taine Plumtree coming off the bench.",
         "first_seen": "2026-07-08T21:51:30.948856+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Eagles make seven changes for Springbok Women clash in Pretoria",
-        "link": "https://www.rugbypass.com/news/eagles-make-seven-changes-for-springbok-women-clash-in-pretoria/",
-        "published": "2026-07-08T18:28:30+00:00",
-        "published_label": "Wed 08 Jul, 18:28",
-        "summary": "Jack Hanratty has made six changes for the USA Women's Eagles' second Test with South Africa on Saturday afternoon in Pretoria.",
-        "body": "Jack Hanratty has made seven changes for the USA Women’s Eagles’ second Test with South Africa on Saturday afternoon in Pretoria. Last weekend the Eagles lost 34-21 against the Springbok Women at Ellis Park in Johannesburg. All three try scorers – Ashley Cowdrey, Elizabeth Cook and Freda Tafuna – have all been named as starters.\n\nIn the pack, Cook has earned her first USA start, with Reece Woods taking a place among the replacements, Emerson Allen is promoted to a starting role in the second row and Hann Humphreys has replaced Kate Zackary in the back-row.",
-        "copy": "Jack Hanratty has made seven changes for the USA Women’s Eagles’ second Test with South Africa on Saturday afternoon in Pretoria. Last weekend the Eagles lost 34-21 against the Springbok Women at Ellis Park in Johannesburg. All three try scorers – Ashley Cowdrey, Elizabeth Cook and Freda Tafuna – have all been named as starters.\n\nIn the pack, Cook has earned her first USA start, with Reece Woods taking a place among the replacements, Emerson Allen is promoted to a starting role in the second row and Hann Humphreys has replaced Kate Zackary in the back-row.",
-        "first_seen": "2026-07-08T21:51:30.948856+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wales fly-half Evans returns to Cardiff from Quins",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cvgdlg3gn01o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-08T18:00:09+00:00",
-        "published_label": "Wed 08 Jul, 18:00",
-        "summary": "Cardiff bring fly-half Jarrod Evans back to the Arms Park after three seasons in England with Harlequins.",
-        "body": "Wales fly-half Jarrod Evans has returned to Cardiff after three seasons with Harlequins. The 29-year-old will play for the United Rugby Championship (URC) quarter-finalists and look to add to his 17 caps.\n\nEvans made 126 appearances for the Blue and Blacks in his first stint, scoring 765 points and winning the Challenge Cup in 2018. The playmaker moved to Harlequins in 2023 and made 48 appearances when battling for the 10 jersey with England and British and Irish Lions fly-half Marcus Smith.",
-        "copy": "Wales fly-half Jarrod Evans has returned to Cardiff after three seasons with Harlequins. The 29-year-old will play for the United Rugby Championship (URC) quarter-finalists and look to add to his 17 caps.\n\nEvans made 126 appearances for the Blue and Blacks in his first stint, scoring 765 points and winning the Challenge Cup in 2018. The playmaker moved to Harlequins in 2023 and made 48 appearances when battling for the 10 jersey with England and British and Irish Lions fly-half Marcus Smith.",
-        "first_seen": "2026-07-08T21:51:30.948856+00:00"
       }
     ],
     "Tennis": [
@@ -5657,48 +5644,35 @@
         "body": "Wimbledon: Can Arthur Fery follow in Emma Raducanu's footsteps and become the latest Brit to win a Grand Slam title as a rank outsider? Given Britain's Arthur Fery is now only two victories away from achieving what looked to be mission impossible before Wimbledon started, it is only fair to draw comparisons.\n\nWhat had started as a whisper after the world No 114's fourth-round victory over Grigor Dimitrov has become more of a talking point among pundits and fans alike. Can Fery emulate Emma Raducanu and go on to win his first Grand Slam title from seemingly out of nowhere?",
         "copy": "Wimbledon: Can Arthur Fery follow in Emma Raducanu's footsteps and become the latest Brit to win a Grand Slam title as a rank outsider? Given Britain's Arthur Fery is now only two victories away from achieving what looked to be mission impossible before Wimbledon started, it is only fair to draw comparisons.\n\nWhat had started as a whisper after the world No 114's fourth-round victory over Grigor Dimitrov has become more of a talking point among pundits and fans alike. Can Fery emulate Emma Raducanu and go on to win his first Grand Slam title from seemingly out of nowhere?",
         "first_seen": "2026-07-08T21:51:30.948856+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wildcard Fery storms past Cobolli and makes Wimbledon history",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/czdemd6mrjeo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-08T18:44:42+00:00",
-        "published_label": "Wed 08 Jul, 18:44",
-        "summary": "Arthur Fery makes history at Wimbledon by defeating Italy's Flavio Cobolli in straight sets to become the first British wildcard and only the second in tournament history, to reach the semi-finals.",
-        "body": "",
-        "copy": "Arthur Fery makes history at Wimbledon by defeating Italy's Flavio Cobolli in straight sets to become the first British wildcard and only the second in tournament history, to reach the semi-finals.",
-        "first_seen": "2026-07-08T21:51:30.948856+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Zverev defeats injured Fritz to set up Fery meeting",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cn4dneky1lgo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-08T17:43:46+00:00",
-        "published_label": "Wed 08 Jul, 17:43",
-        "summary": "Alexander Zverev produces a dominant display to end his dismal losing streak against Taylor Fritz and reach his first semi-final at Wimbledon.",
-        "body": "Alexander Zverev produced a dominant display to end his dismal losing streak against an injured Taylor Fritz and reach his first Wimbledon semi-final. The second seed had lost his previous seven encounters with Fritz and trailed 10-5 in their head-to-head, which included two defeats at the All England Club.\n\nBut with the American hampered by a knee injury, Zverev capitalised with a near-perfect performance to claim a 6-4 6-4 6-2 victory on Court One - his first win over Fritz in more than two years.",
-        "copy": "Alexander Zverev produced a dominant display to end his dismal losing streak against an injured Taylor Fritz and reach his first Wimbledon semi-final. The second seed had lost his previous seven encounters with Fritz and trailed 10-5 in their head-to-head, which included two defeats at the All England Club.\n\nBut with the American hampered by a knee injury, Zverev capitalised with a near-perfect performance to claim a 6-4 6-4 6-2 victory on Court One - his first win over Fritz in more than two years.",
-        "first_seen": "2026-07-08T17:15:21.236343+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Emotions I hadn't experienced before' - Fery on 'incredible' quarter-final win",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/c74yg4mxw3no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-08T17:31:33+00:00",
-        "published_label": "Wed 08 Jul, 17:31",
-        "summary": "Arthur Fery is through to his first Wimbledon semi-final after an \"incredible\" victory over Italy's Flavio Cobolli on Centre Court. The British wildcard revealed he was always confident of pulling off a quarter-final win over Cobolli, having already defeated the Italian at the Australian Open earlier this year.",
-        "body": "This content is not available in your location. Arthur Fery is through to his first Wimbledon semi-final after an \"incredible\" victory over Italy's Flavio Cobolli on Centre Court. The British wildcard revealed he was always confident of pulling off a quarter-final win over Cobolli, having already defeated the Italian at the Australian Open earlier this year.",
-        "copy": "This content is not available in your location. Arthur Fery is through to his first Wimbledon semi-final after an \"incredible\" victory over Italy's Flavio Cobolli on Centre Court. The British wildcard revealed he was always confident of pulling off a quarter-final win over Cobolli, having already defeated the Italian at the Australian Open earlier this year.",
-        "first_seen": "2026-07-08T21:51:30.948856+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Who does a 'burnt out' Royal Birkdale favor at Open Championship?",
+        "link": "https://golf.com/news/who-burnt-out-royal-birkdale-favor-open/",
+        "published": "2026-07-15T19:02:31+00:00",
+        "published_label": "Wed 15 Jul, 19:02",
+        "summary": "Royal Birkdale will play fast and firm for the Open Championship, but who do those conditions favor? We asked our writers. The post Who does a ‘burnt out’ Royal Birkdale favor at Open Championship? appeared first on Golf .",
+        "body": "Check in to GOLF’s Tour Confidential every Sunday night for the unfiltered opinions of our writers and editors as they break down the hottest topics in the sport. This week, with the Open Championship at Royal Birkdale, we’ll hit one key topic each night.\n\nThe 154th Open Championship begins on Thursday, although this version of Royal Birkdale looks much different (read: browner) than the 2017 edition here. Rory McIlroy called the conditions “burnt out” and players are expecting a course where the ball rolls forever with little rain in the forecast. Who do these conditions favor?",
+        "copy": "Check in to GOLF’s Tour Confidential every Sunday night for the unfiltered opinions of our writers and editors as they break down the hottest topics in the sport. This week, with the Open Championship at Royal Birkdale, we’ll hit one key topic each night.\n\nThe 154th Open Championship begins on Thursday, although this version of Royal Birkdale looks much different (read: browner) than the 2017 edition here. Rory McIlroy called the conditions “burnt out” and players are expecting a course where the ball rolls forever with little rain in the forecast. Who do these conditions favor?",
+        "first_seen": "2026-07-15T19:08:00.226071+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "At Open Championship, golf's stars face unique opponent for final time",
+        "link": "https://golf.com/news/open-championship-existential-questions-rory-mcilroy-scottie-scheffler/",
+        "published": "2026-07-15T17:23:58+00:00",
+        "published_label": "Wed 15 Jul, 17:23",
+        "summary": "The Open Championship is a celebration. As the year's final major, it's also now the final time golf's stars face a unique opponent. The post At Open Championship, golf’s stars face unique opponent for final time appeared first on Golf .",
+        "body": "The Open Championship is a celebration — of golf’s beginnings, its past champions, its DNA, its homelands. For the last seven years, since the PGA Championship moved to May, it has also served as the final chapter of golf’s major season — the last chance for players to etch their names into history before the eight-and-a-half-month wait for the Masters begins.\n\nIt’s also the final time of the year that the faces of golf, the players around whom the sport revolves, face a unique opponent: grand, existential, possibly unanswerable questions about dreams, legacy, the long arc of pro golf, mortality and everything in between.",
+        "copy": "The Open Championship is a celebration — of golf’s beginnings, its past champions, its DNA, its homelands. For the last seven years, since the PGA Championship moved to May, it has also served as the final chapter of golf’s major season — the last chance for players to etch their names into history before the eight-and-a-half-month wait for the Masters begins.\n\nIt’s also the final time of the year that the faces of golf, the players around whom the sport revolves, face a unique opponent: grand, existential, possibly unanswerable questions about dreams, legacy, the long arc of pro golf, mortality and everything in between.",
+        "first_seen": "2026-07-15T19:08:00.226071+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -5750,6 +5724,19 @@
         "body": "Go inside the stats to see which of the 15 LIV Golf players in this week’s Open Championship field have the best chance of claiming the Claret Jug at Royal Birkdale. Driving Accuracy: Royal Birkdale is an intriguing driving golf course. It doesn’t reward the longest driver, it doesn’t reward the straightest driver, it rewards the player who can pick there best lines and controls the ball the best for four days. Birkdale will make players and caddies make decisions to use less than driver, lay back of the traps, accept longer approaches and avoid running out into rough. Position is more important than inaccurate length.\n\n150-200 yard approaches: The strategy off the tee here will result in longer approach shots. There are two par 3 holes over 220 yards, three par 4 holes over 500 yards as well as five that are over 450 yards. The 150-200 yard range will be key this week and whoever can execute well from here will be teeing off late on Sunday.",
         "copy": "Go inside the stats to see which of the 15 LIV Golf players in this week’s Open Championship field have the best chance of claiming the Claret Jug at Royal Birkdale. Driving Accuracy: Royal Birkdale is an intriguing driving golf course. It doesn’t reward the longest driver, it doesn’t reward the straightest driver, it rewards the player who can pick there best lines and controls the ball the best for four days. Birkdale will make players and caddies make decisions to use less than driver, lay back of the traps, accept longer approaches and avoid running out into rough. Position is more important than inaccurate length.\n\n150-200 yard approaches: The strategy off the tee here will result in longer approach shots. There are two par 3 holes over 220 yards, three par 4 holes over 500 yards as well as five that are over 450 yards. The 150-200 yard range will be key this week and whoever can execute well from here will be teeing off late on Sunday.",
         "first_seen": "2026-07-15T17:16:29.056535+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "5 Live Sport: All About...",
+        "link": "https://www.bbc.co.uk/sounds/play/m002zl7k?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-15T15:24:00+00:00",
+        "published_label": "Wed 15 Jul, 15:24",
+        "summary": "Kat Downes presents from Royal Birkdale as the 5 Live golf team preview this year's Open.",
+        "body": "Kat Downes and the 5 Live Golf team are on the course at Royal Birkdale to preview The 154th Open. 57 years have passed since an Englishman won The Open on English soil, who is best placed to change that? 2008 European Ryder Cup team member Oli Wilson, 2009 Women's Open Champion Catriona Matthew and European Tour winners Andrew Murray and Graeme Storm share their thoughts. It's a homecoming tournament for Tommy Fleetwood, how will he handle that pressure? Plus, hear from the newest English major winner, Aaron Rai, the Masters Champion Rory McIlroy and the defending Open champion Scottie Scheffler. TIMECODES: 4'43 Matt Baldwin 6'40 Tommy Fleetwood 13'50 Justin Rose 21'49 Aaron Rai 41'09 Rory McIlroy 47'28 Scottie Scheffler",
+        "copy": "Kat Downes and the 5 Live Golf team are on the course at Royal Birkdale to preview The 154th Open. 57 years have passed since an Englishman won The Open on English soil, who is best placed to change that? 2008 European Ryder Cup team member Oli Wilson, 2009 Women's Open Champion Catriona Matthew and European Tour winners Andrew Murray and Graeme Storm share their thoughts. It's a homecoming tournament for Tommy Fleetwood, how will he handle that pressure? Plus, hear from the newest English major winner, Aaron Rai, the Masters Champion Rory McIlroy and the defending Open champion Scottie Scheffler. TIMECODES: 4'43 Matt Baldwin 6'40 Tommy Fleetwood 13'50 Justin Rose 21'49 Aaron Rai 41'09 Rory McIlroy 47'28 Scottie Scheffler",
+        "first_seen": "2026-07-15T19:08:00.226071+00:00"
       },
       {
         "section": "Golf",
@@ -7882,45 +7869,6 @@
         "body": "Ever finish a round of golf and feel like nothing went right? It’s a frustrating feeling, but simply saying, “I played badly,” won’t help you improve. To get better, you need to understand the types of mistakes you’re making. Once you can identify your errors, you can focus on the right things in practice and on the course.\n\nI typically break down the mistakes golfers make into three categories. These are the most obvious errors and the ones most golfers think of first. They are the dreaded mishits — chunks, tops, slices and hooks. They happen when your swing doesn’t quite match your intention, leading to a poor result.",
         "copy": "Ever finish a round of golf and feel like nothing went right? It’s a frustrating feeling, but simply saying, “I played badly,” won’t help you improve. To get better, you need to understand the types of mistakes you’re making. Once you can identify your errors, you can focus on the right things in practice and on the course.\n\nI typically break down the mistakes golfers make into three categories. These are the most obvious errors and the ones most golfers think of first. They are the dreaded mishits — chunks, tops, slices and hooks. They happen when your swing doesn’t quite match your intention, leading to a poor result.",
         "first_seen": "2026-07-08T21:51:30.948856+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Jon Rahm’s response to being asked about investing in LIV Golf himself told its own story",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRk5XYnBUcFNxMHY4OThNVnhieGFmSlUybVRTOEZhWV9VNGZKaWQyS1lYUmNiTVZvTDJ3VHJ4OUdmZTU5a0VNMkVEOVZiYjdFWnBWZ2EtX3BGZ0F5Mi1YTTN3ZGdhQnRuaVQ5Mng1YVpqaEhXcjRDSVdzdHhWWlZObENZdXc5RkliVXR0LTQ2OWFEVjdEeXdzdDNybF9vYXhSRElUamJVVDk2MzZDMFBZ?oc=5",
-        "published": "2026-07-08T19:00:00+00:00",
-        "published_label": "Wed 08 Jul, 19:00",
-        "summary": "Jon Rahm’s response to being asked about investing in LIV Golf himself told its own story hitc.com",
-        "body": "Jon Rahm did LIV Golf few favours with his response to being asked whether he would be prepared to put his own money into the league as they seek fresh investment. The golfing world seems to be no closer to learning what the future holds for LIV, with the Public Investment Fund of Saudi Arabia set to walk away at the end of the season.\n\nHow do you think Jon Rahm will get on at the Scottish Open? Ultimately, Scott O’Neil appears to face an uphill battle convincing anyone to part with the significant sums the league is trying to raise.",
-        "copy": "Jon Rahm did LIV Golf few favours with his response to being asked whether he would be prepared to put his own money into the league as they seek fresh investment. The golfing world seems to be no closer to learning what the future holds for LIV, with the Public Investment Fund of Saudi Arabia set to walk away at the end of the season.\n\nHow do you think Jon Rahm will get on at the Scottish Open? Ultimately, Scott O’Neil appears to face an uphill battle convincing anyone to part with the significant sums the league is trying to raise.",
-        "first_seen": "2026-07-08T21:51:30.948856+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "R&A announce new code of conduct for Open",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cn8kn822pp8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-08T18:09:49+00:00",
-        "published_label": "Wed 08 Jul, 18:09",
-        "summary": "Fans at next week's Open are being asked to abide by a new code of conduct brought in by the R&A.",
-        "body": "Fans at next week's Open are being asked to abide by a new code of conduct brought in by the R&A. More than 300,000 spectators are expected at Royal Birkdale for the week of the championship, amid growing concerns over the general behaviour of golf fans.\n\nNow the R&A has published 'The Open Commitment', which \"encourages everyone attending to play their part in protecting traditions\". In a statement, R&A chief executive Mark Darbon said: \"The atmosphere at The Open is unlike any other major sporting event and one of the things that makes it so unique.",
-        "copy": "Fans at next week's Open are being asked to abide by a new code of conduct brought in by the R&A. More than 300,000 spectators are expected at Royal Birkdale for the week of the championship, amid growing concerns over the general behaviour of golf fans.\n\nNow the R&A has published 'The Open Commitment', which \"encourages everyone attending to play their part in protecting traditions\". In a statement, R&A chief executive Mark Darbon said: \"The atmosphere at The Open is unlike any other major sporting event and one of the things that makes it so unique.",
-        "first_seen": "2026-07-08T21:51:30.948856+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Looking for the perfect gift? Here are 3 great deals available now",
-        "link": "https://golf.com/gear/3-great-golf-deals-available-now/",
-        "published": "2026-07-08T17:50:50+00:00",
-        "published_label": "Wed 08 Jul, 17:50",
-        "summary": "Looking for the perfect golf item to add to your collection, or gift to someone else? Here are three good options on sale right now. The post Looking for the perfect gift? Here are 3 great deals available now appeared first on Golf .",
-        "body": "Whether you’re shopping for the golfer who seems to have everything (or maybe you’re looking to treat yourself!) these three picks deliver on performance, practice and fun. From tech-forward gear that can help lower scores to unique gifts that go beyond the ordinary, each of these products stands out as a great choice for golfers of every skill level. Best of all, they’re all on sale!\n\nBring a fun twist to practice sessions and family game nights with the Golfers Billiard Game. Combining the strategy of golf with the gameplay of pool, it’s quick to set up and can be played on carpet or a putting green. The set includes six putting cups and a full rack of billiard-style golf balls for up to four players.",
-        "copy": "Whether you’re shopping for the golfer who seems to have everything (or maybe you’re looking to treat yourself!) these three picks deliver on performance, practice and fun. From tech-forward gear that can help lower scores to unique gifts that go beyond the ordinary, each of these products stands out as a great choice for golfers of every skill level. Best of all, they’re all on sale!\n\nBring a fun twist to practice sessions and family game nights with the Golfers Billiard Game. Combining the strategy of golf with the gameplay of pool, it’s quick to set up and can be played on carpet or a putting green. The set includes six putting cups and a full rack of billiard-style golf balls for up to four players.",
-        "first_seen": "2026-07-08T21:51:30.948856+00:00"
       }
     ],
     "Badminton": [
@@ -8318,5 +8266,5 @@
       }
     ]
   },
-  "total": 638
+  "total": 634
 }
