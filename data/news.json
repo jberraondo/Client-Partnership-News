@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T15:38:52.330359+00:00",
-  "generated_label": "Thursday 16 July 2026, 15:38 UTC",
+  "generated_at": "2026-07-16T17:13:53.702430+00:00",
+  "generated_label": "Thursday 16 July 2026, 17:13 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -141,6 +141,19 @@
         "body": "",
         "copy": "West Bromwich Albion have partnered with parcel delivery company DPD. The multi-year agreement sees the firm become the Championship club’s official delivery partner and back-of-shirt partner, with branding appearing on the back of match shirts worn by the men’s, women’s and academy teams. The deal brings together two organisations with established links to the Black […] The post West Bromwich Albion partners with DPD appeared first on Sport Industry Group .",
         "first_seen": "2026-07-16T11:39:31.467731+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Eli Lilly buys psychedelic biotech backed by Peter Thiel",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEJMdW8yTXkxX2xDc1I1LXdOVUlHQ0tyMDRhcXNiQmotLUlCUGx6NzdlRm1FNVd1VWZWUFJpcjRzaXNZSVJXZ09vZDhMVjZRc1RmZmZVSkhqVXR4V3ZVRVVVRWFsVU1pWld5T3RXbFlmYXRqZGNYay1CUk5fY2REMlYwdzU?oc=5",
+        "published": "2026-07-16T11:13:25+00:00",
+        "published_label": "Thu 16 Jul, 11:13",
+        "summary": "Eli Lilly buys psychedelic biotech backed by Peter Thiel Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1402,22 +1415,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-11T10:40:16.719936+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Banijay picks London as new HQ for TV maker after $8bn merger",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaC00enA5S1l0WTdzemo0N1R1Nmd3S202MlJoM0tka3FoREJWNm9yaGF4VEk2a1QybUZFdmVBR1FWcHAyakpnazlKWDVBV3hXbHU4NlBfNXhjckZFNXczcWh0V3JLOTRfdW15ODQ2VFB4NXVYTjNfQldCbG5qZlQwalJGaGc?oc=5",
-        "published": "2026-07-09T15:40:03+00:00",
-        "published_label": "Thu 09 Jul, 15:40",
-        "summary": "Banijay picks London as new HQ for TV maker after $8bn merger Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-09T22:54:18.650582+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "I've not found my feet back in rugby - Rees-Zammit",
+        "link": "https://www.bbc.co.uk/sport/articles/c8020yxd2r5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-16T17:00:16+00:00",
+        "published_label": "Thu 16 Jul, 17:00",
+        "summary": "Wales wing Louis Rees-Zammit ready to make a bigger impact next season after a first year back in rugby.",
+        "body": "Louis Rees-Zammit says he has not settled back into rugby as quickly as he would have liked during his first year back in the sport. The 25-year-old announced almost 12 months ago that he was returning to his original sport from American football after trying to break into the NFL.\n\nRees-Zammit has featured in 10 out of the 11 Wales internationals played in the 2025-26 campaign, with eight starts and two replacement appearances. The Bristol back only missed the 73-0 defeat against South Africa in November 2025 because he was ineligible as he played for an English club and the match fell outside World Rugby's international window.",
+        "copy": "Louis Rees-Zammit says he has not settled back into rugby as quickly as he would have liked during his first year back in the sport. The 25-year-old announced almost 12 months ago that he was returning to his original sport from American football after trying to break into the NFL.\n\nRees-Zammit has featured in 10 out of the 11 Wales internationals played in the 2025-26 campaign, with eight starts and two replacement appearances. The Bristol back only missed the 73-0 defeat against South Africa in November 2025 because he was ineligible as he played for an English club and the match fell outside World Rugby's international window.",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Tommy Freeman: ‘I always had to work really hard to get what I wanted. I always felt like I was up against it’",
+        "link": "https://www.rugbypass.com/plus/tommy-freeman-i-always-had-to-work-really-hard-to-get-what-i-wanted-i-always-felt-i-was-up-against-it/",
+        "published": "2026-07-16T16:01:40+00:00",
+        "published_label": "Thu 16 Jul, 16:01",
+        "summary": "The versatile wing or centre may be a first-choice for England now but his route to the top has not always been smooth.",
+        "body": "There are easier weeks to be in Argentina as an England international. England’s team hotel sits on Avenida 9 de Julio, one of the busiest roads in Buenos Aires, where the celebrations following Argentina’s dramatic World Cup semi-final victory over England on Wednesday carried on long into the night.\n\nFor Tommy Freeman, the backdrop has provided a timely reminder of what it means to represent your country. “I kind of have to pinch myself on game day. You’re doing what you love, you’ve grown up doing it and you’re doing it to represent not only yourself, but everyone who supports the country and is part of it. Especially now, it’s probably heightened, with the football at the front of mind.”",
+        "copy": "There are easier weeks to be in Argentina as an England international. England’s team hotel sits on Avenida 9 de Julio, one of the busiest roads in Buenos Aires, where the celebrations following Argentina’s dramatic World Cup semi-final victory over England on Wednesday carried on long into the night.\n\nFor Tommy Freeman, the backdrop has provided a timely reminder of what it means to represent your country. “I kind of have to pinch myself on game day. You’re doing what you love, you’ve grown up doing it and you’re doing it to represent not only yourself, but everyone who supports the country and is part of it. Especially now, it’s probably heightened, with the football at the front of mind.”",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Smith to wear special jersey as Scotland remember Hastings",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c4g4x5pvxd0o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-16T15:35:30+00:00",
+        "published_label": "Thu 16 Jul, 15:35",
+        "summary": "Scott Hastings, who died in May aged 61, will be remembered at Murrayfield on Saturday as Scotland host Fiji in their final game of the summer series.",
+        "body": "Scott Hastings will be remembered at Murrayfield on Saturday as Scotland host Fiji in their final game of the Nations Championship. The centre, a much-loved and much-decorated player, passed away suddenly in May aged 61. The tributes that came after his passing said much about his reputation across the rugby world.\n\nWarm and gregarious, Hastings made 65 Test appearances for his country, a record at the time. He wore the number 13 jersey with distinction. Against Fiji, Ollie Smith will wear a special version of that 13 shirt. The number 13 will be done in gold and inside the numbers will be the names of the teams Hastings turned out for in his career as well as some of his notable achievements.",
+        "copy": "Scott Hastings will be remembered at Murrayfield on Saturday as Scotland host Fiji in their final game of the Nations Championship. The centre, a much-loved and much-decorated player, passed away suddenly in May aged 61. The tributes that came after his passing said much about his reputation across the rugby world.\n\nWarm and gregarious, Hastings made 65 Test appearances for his country, a record at the time. He wore the number 13 jersey with distinction. Against Fiji, Ollie Smith will wear a special version of that 13 shirt. The number 13 will be done in gold and inside the numbers will be the names of the teams Hastings turned out for in his career as well as some of his notable achievements.",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4316,45 +4355,6 @@
         "body": "Montpellier’s Domingo Miotti is looking to change national teams, as announced by Pumas head coach Felipe Contepomi. Speaking at a press conference ahead of Argentina’s clash with Wales, Contepomi revealed that he had approached Miotti following Santiago Chocobares’ unavailability for the July window of the Nations Championship, but the Montpellier back ultimately declined the call-up.\n\n“We had a great talk, but he [Miotti] has said that he sees more opportunities to play for Italy. It is a decision that we have accepted. We understand that it wasn’t an easy decision to make.”",
         "copy": "Montpellier’s Domingo Miotti is looking to change national teams, as announced by Pumas head coach Felipe Contepomi. Speaking at a press conference ahead of Argentina’s clash with Wales, Contepomi revealed that he had approached Miotti following Santiago Chocobares’ unavailability for the July window of the Nations Championship, but the Montpellier back ultimately declined the call-up.\n\n“We had a great talk, but he [Miotti] has said that he sees more opportunities to play for Italy. It is a decision that we have accepted. We understand that it wasn’t an easy decision to make.”",
         "first_seen": "2026-07-09T22:54:18.650582+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Wales boss Steve Tandy reveals real reason why Louis Rees-Zammit dropped",
-        "link": "https://www.rugbypass.com/news/wales-boss-steve-tandy-reveals-why-louis-rees-zammit-missed-out-to-ellis-mee/",
-        "published": "2026-07-09T16:15:12+00:00",
-        "published_label": "Thu 09 Jul, 16:15",
-        "summary": "Wales head coach Steve Tandy insists Scarlets wing Ellis Mee has been picked ahead of Louis Rees-Zammit on merit for Saturday’s Nations Championship match against Argentina in San Juan.",
-        "body": "Wales head coach Steve Tandy insists Scarlets wing Ellis Mee has been picked ahead of Louis Rees-Zammit on merit for Saturday’s Nations Championship match against Argentina in San Juan.\n\nRees-Zammit played in all of Wales’ Six Nations matches earlier this year at full-back having returned to rugby union after a stint trying to make it in the NFL. The 25-year-old returned to the wing for last week’s opening Nations Championship win against Fiji in Cardiff, but must look to make an impact off the bench against Argentina.",
-        "copy": "Wales head coach Steve Tandy insists Scarlets wing Ellis Mee has been picked ahead of Louis Rees-Zammit on merit for Saturday’s Nations Championship match against Argentina in San Juan.\n\nRees-Zammit played in all of Wales’ Six Nations matches earlier this year at full-back having returned to rugby union after a stint trying to make it in the NFL. The 25-year-old returned to the wing for last week’s opening Nations Championship win against Fiji in Cardiff, but must look to make an impact off the bench against Argentina.",
-        "first_seen": "2026-07-09T16:49:10.070790+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "It's 'make or bench' for Ireland's new-look half-backs against Japan",
-        "link": "https://www.rugbypass.com/plus/its-make-or-bench-for-irelands-new-look-half-backs-against-japan/",
-        "published": "2026-07-09T16:00:22+00:00",
-        "published_label": "Thu 09 Jul, 16:00",
-        "summary": "Craig Casey and Ciaran Frawley have been starved of international starts and must seize their chance to show Andy Farrell they are viable options.",
-        "body": "“It’s business time now,” Andy Farrell said of Ireland’s four potential debutants after naming his team to face Japan. “They need to rip in.” Connacht’s Sean Jansen is locked in for that Test bow – starting at number eight in a back-row which features Jack Conan at blindside and Nick Timoney at openside. Billy Bohan, Sam Illo and Bryn Ward are the others hoping Saturday in Newcastle will mark their first caps. That quartet may need to form a mini boy band to rip through the post-match songs that accompany Irish debuts.\n\n“There’s a reason they’re here,” Ireland scrum coach John Fogarty said of rookie props, Bohan and Illo. “Billy and Sam have performed well throughout the season. They’ve put their hands up and we’re seeing that form in training.” The pair are not even internationals yet and have already been subjected to some Eddie Jones mind games. “Particularly in the second half, we expect to dominate the Irish scrum,” Japan’s coach declared.",
-        "copy": "“It’s business time now,” Andy Farrell said of Ireland’s four potential debutants after naming his team to face Japan. “They need to rip in.” Connacht’s Sean Jansen is locked in for that Test bow – starting at number eight in a back-row which features Jack Conan at blindside and Nick Timoney at openside. Billy Bohan, Sam Illo and Bryn Ward are the others hoping Saturday in Newcastle will mark their first caps. That quartet may need to form a mini boy band to rip through the post-match songs that accompany Irish debuts.\n\n“There’s a reason they’re here,” Ireland scrum coach John Fogarty said of rookie props, Bohan and Illo. “Billy and Sam have performed well throughout the season. They’ve put their hands up and we’re seeing that form in training.” The pair are not even internationals yet and have already been subjected to some Eddie Jones mind games. “Particularly in the second half, we expect to dominate the Irish scrum,” Japan’s coach declared.",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Rugby sevens tournament returns to Glendale",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CeG96UFRCTHlVQmx2MzJqSHpTdFppcHYyNWpnU1NjLUNqSm5sTWc5V3hZVzhYVEZSRm9KUDd5UFNOQ1FCQTVfZE53R2xrZXktWGxONXZJNHpLWjVDcHVacnNJWVBGc3RlV2lSRWxSYS1pbmFSZUFjTGZoWQ?oc=5",
-        "published": "2026-07-09T15:51:00+00:00",
-        "published_label": "Thu 09 Jul, 15:51",
-        "summary": "Rugby sevens tournament returns to Glendale Thirst Colorado",
-        "body": "If you’re picking up something from Target or the Home Depot in Glendale during the third week of August, you’re bound to run into droves of rugby players wandering around the city.\n\nThey are in town for the annual RugbyTown 7s tournament. This year marks the 14th season that the City of Glendale will host what has transformed into one of the premier sevens rugby events in the United States.",
-        "copy": "If you’re picking up something from Target or the Home Depot in Glendale during the third week of August, you’re bound to run into droves of rugby players wandering around the city.\n\nThey are in town for the annual RugbyTown 7s tournament. This year marks the 14th season that the City of Glendale will host what has transformed into one of the premier sevens rugby events in the United States.",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
       }
     ],
     "Tennis": [
@@ -5605,74 +5605,87 @@
         "body": "Karolina Muchova saved a match point to beat Coco Gauff 6-2 1-6 7-6 (12-10) after an epic deciding set tie-break to set up an all-Czech final against compatriot Linda Noskova.\n\nA topsy-turvy first semi-final became a battle of attrition and character as neither player was able to break the other in a tight final set, so a 10-point tie-break was required to separate the pair.",
         "copy": "Karolina Muchova saved a match point to beat Coco Gauff 6-2 1-6 7-6 (12-10) after an epic deciding set tie-break to set up an all-Czech final against compatriot Linda Noskova.\n\nA topsy-turvy first semi-final became a battle of attrition and character as neither player was able to break the other in a tight final set, so a 10-point tie-break was required to separate the pair.",
         "first_seen": "2026-07-09T22:54:18.650582+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Muchova saves match point on way to epic semi-final win over Gauff",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/c5yzd26512qo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-09T16:53:50+00:00",
-        "published_label": "Thu 09 Jul, 16:53",
-        "summary": "Karolina Muchova fights back from the brink of defeat to secure victory over Coco Gauff after a thrilling third-set tie break, to reach the women's singles final at Wimbledon 2026.",
-        "body": "",
-        "copy": "Karolina Muchova fights back from the brink of defeat to secure victory over Coco Gauff after a thrilling third-set tie break, to reach the women's singles final at Wimbledon 2026.",
-        "first_seen": "2026-07-10T13:30:24.232139+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Muchova saves match point in epic tie-break to beat Gauff and reach final",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c74yk1qp4dko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-09T16:00:55+00:00",
-        "published_label": "Thu 09 Jul, 16:00",
-        "summary": "Karolina Muchova recovers from match point down to win an epic deciding-set tie-break against Coco Gauff and reach the final at Wimbledon.",
-        "body": "Karolina Muchova saved a match point before coming through an epic deciding-set tie-break to beat Coco Gauff and reach a first Wimbledon final. Muchova started the semi-final the stronger of the pair but Gauff hit back, and they could barely be separated in a high-quality third set.\n\nTwo-time Grand Slam champion Gauff came back from 4-1 down in the resulting tie-break and had match point on her serve, before sending a simple forehand into the net tape. Muchova also missed her first match point but it was she who stood triumphant at the end after an astonishing 6-2 1-6 7-6 (12-10) win in sweltering conditions on Centre Court.",
-        "copy": "Karolina Muchova saved a match point before coming through an epic deciding-set tie-break to beat Coco Gauff and reach a first Wimbledon final. Muchova started the semi-final the stronger of the pair but Gauff hit back, and they could barely be separated in a high-quality third set.\n\nTwo-time Grand Slam champion Gauff came back from 4-1 down in the resulting tie-break and had match point on her serve, before sending a simple forehand into the net tape. Muchova also missed her first match point but it was she who stood triumphant at the end after an astonishing 6-2 1-6 7-6 (12-10) win in sweltering conditions on Centre Court.",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'We were screaming in the bunker!' How Muchova beat Gauff in thriller",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/cn754e47x7do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-09T15:59:39+00:00",
-        "published_label": "Thu 09 Jul, 15:59",
-        "summary": "BBC Sport's Naomi Broady analyses how Karolina Muchova came out on top in a thrilling three-set women's singles semi-final against Coco Gauff after a dramatic deciding tie-break.",
-        "body": "'We were screaming in the bunker!' How Muchova beat Gauff in thriller This content is not available in your location. BBC Sport's Naomi Broady analyses how Karolina Muchova came out on top in a thrilling three-set women's singles semi-final against Coco Gauff after a dramatic deciding tie-break.",
-        "copy": "'We were screaming in the bunker!' How Muchova beat Gauff in thriller This content is not available in your location. BBC Sport's Naomi Broady analyses how Karolina Muchova came out on top in a thrilling three-set women's singles semi-final against Coco Gauff after a dramatic deciding tie-break.",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Muchova pips Gauff in thrilling third-set tie-break",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/cj0g6egy138o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-09T15:57:39+00:00",
-        "published_label": "Thu 09 Jul, 15:57",
-        "summary": "Watch the dramatic third-set tiebreak on Centre Court between Karolina Muchova and Coco Gauff which secures Muchova's place in the Wimbledon 2026 final.",
-        "body": "",
-        "copy": "Watch the dramatic third-set tiebreak on Centre Court between Karolina Muchova and Coco Gauff which secures Muchova's place in the Wimbledon 2026 final.",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Muchova pleased to get through 'rollercoaster' semi-final against Gauff",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/c70ydj786n0o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-09T15:45:38+00:00",
-        "published_label": "Thu 09 Jul, 15:45",
-        "summary": "Karolina Muchova describes playing on Centre Court for the first time in her career as an \"incredible\" moment, following her third set tiebreak battle with Coco Gauff in the semi-finals of Wimbledon 2026.",
-        "body": "This content is not available in your location. Karolina Muchova describes playing on Centre Court for the first time in her career as an \"incredible\" moment, following her third set tiebreak battle with Coco Gauff in the semi-finals of Wimbledon 2026.",
-        "copy": "This content is not available in your location. Karolina Muchova describes playing on Centre Court for the first time in her career as an \"incredible\" moment, following her third set tiebreak battle with Coco Gauff in the semi-finals of Wimbledon 2026.",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "The Open: Bryson DeChambeau ‘strategy’ war takes fresh twist",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzhrdlNuV2ppVXlQMnZsOW9KZjd4Y0tnNEdMalRTLXo0MDdOTlRFakEtYkwtOUNSLWdsbUdtZDVBSFFHNDEzdWNHV25XSGh4NjJjdkxKdXBsQU5zWDR4OXdPTDFmTnJzVl96MlBaTjVub1B3SEFLTGRGeG16WlBYb01XNUQ5LTRCWVFuamJYLTZQQURBNlM0S1Jiaw?oc=5",
+        "published": "2026-07-16T17:08:07+00:00",
+        "published_label": "Thu 16 Jul, 17:08",
+        "summary": "The Open: Bryson DeChambeau ‘strategy’ war takes fresh twist bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau didn’t change on Thursday at The Open. At least not off the course here on the Sefton coast at Royal Birkdale.\n\nDespite signing for a three-under-par 67, he declined to speak to nearly 50 media members waiting in the Mixed Zone. That is now five consecutive major championship rounds he has done so.",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau didn’t change on Thursday at The Open. At least not off the course here on the Sefton coast at Royal Birkdale.\n\nDespite signing for a three-under-par 67, he declined to speak to nearly 50 media members waiting in the Mixed Zone. That is now five consecutive major championship rounds he has done so.",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Ukraine's first major player got Open lesson from Brooks Koepka. Then, he gave 1 of his own",
+        "link": "https://golf.com/news/ukraine-first-major-player-lesson-koepka-lev-grinberg/",
+        "published": "2026-07-16T16:47:21+00:00",
+        "published_label": "Thu 16 Jul, 16:47",
+        "summary": "18-year-old Lev Grinberg became the first Ukrainian-born player to tee it up at a major. He got advice from Brooks Koepka but had his own lesson for all of us. The post Ukraine’s first major player got Open lesson from Brooks Koepka. Then, he gave 1 of his own appeared first on Golf .",
+        "body": "Lev Grinberg saw Brooks Koepka coming down the 10th fairway at Royal Birkdale earlier this week and went for it. The 18-year-old amateur who became the first Ukrainian-born player to tee it up in a major on Thursday wanted a tip from one of golf’s preeminent major winners about what he was about to face.\n\n“He said, ‘When you’re in trouble, just get out as fast as you can and make bogey. Bogeys don’t hurt you but doubles really do,'” Grinberg said on Thursday after shooting one over.",
+        "copy": "Lev Grinberg saw Brooks Koepka coming down the 10th fairway at Royal Birkdale earlier this week and went for it. The 18-year-old amateur who became the first Ukrainian-born player to tee it up in a major on Thursday wanted a tip from one of golf’s preeminent major winners about what he was about to face.\n\n“He said, ‘When you’re in trouble, just get out as fast as you can and make bogey. Bogeys don’t hurt you but doubles really do,'” Grinberg said on Thursday after shooting one over.",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "The Open: Bryson DeChambeau responds to 'no strategy' comments by making fast start and snubbing media at Royal Birkdale",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZExxTVhVUzFxU2Q1aVhTY1BUQ1pmRUdyd1p2TWwyNGtIT0R0MHJuZEpKcXlTUWtIbjAzQ29DUzlTbnZhemdVd1dJWm80M2Y0WHBpT1hFX0M4THNBSlhmY1NPUFR0ZktscTdOWWsxU3FFYktGaG05MS1CamlQSndVdkwyVk9aeHdHMlBESEVpZU1EQ28wM3h1UTdoQ1pXclJMRU0yWEFpYmc3MGxINm1oMXVmb0ZfdDNQYTBlNXRxNkI0Z3FyRmpkVWh6NFd6RHZ4NEFxbXc5LVBqdFJHN2s4S2picFJubVN3NEhkQ0dZN1JseVVOdVlJNWZROUc?oc=5",
+        "published": "2026-07-16T16:44:05+00:00",
+        "published_label": "Thu 16 Jul, 16:44",
+        "summary": "The Open: Bryson DeChambeau responds to 'no strategy' comments by making fast start and snubbing media at Royal Birkdale Sky Sports",
+        "body": "Bryson DeChambeau has hit back at claims he has \"zero clue of strategy\" by making an impressive start to The 154th Open at Royal Birkdale. DeChambeau, who is looking to avoid the 'Bryson Slam' of missing all four major cuts in a calendar year, charged into contention after mixing five birdies with two bogeys in an opening-round 67.\n\nThe two-time US Open champion was heavily criticised by Sir Nick Faldo on this week's Sky Sports Golf podcast, where the six-time major winner questioned DeChambeau's aggressive play and strategy for links golf.",
+        "copy": "Bryson DeChambeau has hit back at claims he has \"zero clue of strategy\" by making an impressive start to The 154th Open at Royal Birkdale. DeChambeau, who is looking to avoid the 'Bryson Slam' of missing all four major cuts in a calendar year, charged into contention after mixing five birdies with two bogeys in an opening-round 67.\n\nThe two-time US Open champion was heavily criticised by Sir Nick Faldo on this week's Sky Sports Golf podcast, where the six-time major winner questioned DeChambeau's aggressive play and strategy for links golf.",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau opens up on PGA Tour future as LIV Golf uncertainty grows during The Open",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWlsejhleFhBVXlnM3hXQWZXRG5EMWNuTTVNdDBZWFEwR0hwYXJNcUVjZ0RXb2Vqd2xDdjFCUllNeENZWDBveVlpRUhBLWRYRlI5d3l2YmE4ZU9BcW9pV3NOTkU5THBXdnZKbHhCeUZ0T1RLR1htLXhlMFdBanJ4OXd6N0xnVzFsMUp4ZEhfYWtJOWw5REJGckRmMmxzc0VESUVLOUlseVhOVHljZnJ0cUVZZmUzUjBfRGc?oc=5",
+        "published": "2026-07-16T16:20:00+00:00",
+        "published_label": "Thu 16 Jul, 16:20",
+        "summary": "Bryson DeChambeau opens up on PGA Tour future as LIV Golf uncertainty grows during The Open Golfmagic",
+        "body": "Bryson DeChambeau has responded to suggestions that LIV Golf players should be forced to return to the PGA Tour through the Korn Ferry Tour, insisting there are \"other options\" available.\n\nThe two-time U.S. Open champion was asked about comments made by 1996 Open champion Tom Lehman, who recently argued that any LIV player seeking a PGA Tour return should have to start on the developmental circuit or come through Q-School.",
+        "copy": "Bryson DeChambeau has responded to suggestions that LIV Golf players should be forced to return to the PGA Tour through the Korn Ferry Tour, insisting there are \"other options\" available.\n\nThe two-time U.S. Open champion was asked about comments made by 1996 Open champion Tom Lehman, who recently argued that any LIV player seeking a PGA Tour return should have to start on the developmental circuit or come through Q-School.",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Open Championship Friday tee times: Round 2 groupings",
+        "link": "https://golf.com/news/2026-open-championship-friday-tee-times-round-2/",
+        "published": "2026-07-16T16:01:42+00:00",
+        "published_label": "Thu 16 Jul, 16:01",
+        "summary": "Full 2026 Open Championship tee times for Friday's second round at Royal Birkdale, featuring Scottie Scheffler, Bryson DeChambeau and more. The post 2026 Open Championship Friday tee times: Round 2 groupings appeared first on Golf .",
+        "body": "The 2026 Open Championship continues on Friday, July 17, with the second round at Royal Birkdale in Southport, England. You can find full Open Championship tee times for Friday’s second round at the bottom of this post.\n\nMuch was made of Scottie Scheffler’s missed cut at last week’s Genesis Scottish Open. After all, it was the first time he hadn’t played the weekend of a pro event since 2022. But shortly into the early-morning hours of the first round at Royal Birkdale, the World No. 1 showed why he’s still the betting favorite at this week’s Open Championship.",
+        "copy": "The 2026 Open Championship continues on Friday, July 17, with the second round at Royal Birkdale in Southport, England. You can find full Open Championship tee times for Friday’s second round at the bottom of this post.\n\nMuch was made of Scottie Scheffler’s missed cut at last week’s Genesis Scottish Open. After all, it was the first time he hadn’t played the weekend of a pro event since 2022. But shortly into the early-morning hours of the first round at Royal Birkdale, the World No. 1 showed why he’s still the betting favorite at this week’s Open Championship.",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau ends major struggle with strong first round at The Open",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSThKZExVQzI0VVRaRmZsOGJlUVc4NUFLSWwtRFB2US1FRjVKeWE4T2ZRbWFwQV9xZUlWU01ZU1FzV0ZHRFdXTC1qTVA2aFdrTk9RMmpCa25Pc2FJR3VrRk1LcjJ1U2d1QXZwSm1yck9meXJSM2wwOWVXZmN4WkJvZ0Z5Yy0xeXIzR3IyZXVFVjZsWENuSjEwU1RWTk8zSlBKSDF1cUFrQUZNQzFCY0pBbHd6RmxTMDc5?oc=5",
+        "published": "2026-07-16T15:47:15+00:00",
+        "published_label": "Thu 16 Jul, 15:47",
+        "summary": "Bryson DeChambeau ends major struggle with strong first round at The Open Somerset County Gazette",
+        "body": "Bryson DeChambeau finally found his major form to challenge the leaders on the first day of The Open at Royal Birkdale. The American, a two-time US Open champion, is attempting to avoid an unwanted personal grand slam of missing the cut in all four of golf’s premier events in a calendar year.\n\nAnd while he is by no means out of the woods, five birdies and two bogeys in a three under par round of 67 saw him sit just one shot behind Yorkshireman Dan Brown – first-round leader for the second time in three years – and South Korea’s Sungjae Im.",
+        "copy": "Bryson DeChambeau finally found his major form to challenge the leaders on the first day of The Open at Royal Birkdale. The American, a two-time US Open champion, is attempting to avoid an unwanted personal grand slam of missing the cut in all four of golf’s premier events in a calendar year.\n\nAnd while he is by no means out of the woods, five birdies and two bogeys in a three under par round of 67 saw him sit just one shot behind Yorkshireman Dan Brown – first-round leader for the second time in three years – and South Korea’s Sungjae Im.",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -5685,6 +5698,19 @@
         "body": "SOUTHPORT, England — Robert Duncan MacIntyre, 29-year-old lefthanded Scottish golfer with an endearing more-chips-less-fish approach to life, shot an opening 67 here. The first player to come to mind, at least for this reporter, was Tom Weiskopf. Weiskopf had a perfect look and a perfect swing, but he could run hot. Bobby Mac, a hugely inventive golfer, can run hot, too. Weiskopf won one major — the 1973 Open at Troon. MacIntyre is looking to win his first major.\n\nYou might remember the middle finger he gave the pond at 15 at Augusta National this year. It’s happened before and it will happen again, in some form or another. Maybe you saw MacIntyre on 18 at Royal Birkdale on Thursday, or heard his in-the-heat-of-the-moment analysis of it: “Such a shite hole, isn’t it?” And still, from a bad lie, he made an up-and-down 4. The hole is a par-4 on the card that was playing almost like a short par-5 in Thursday’s wind, but all together now: Par is just a name, and links golf will throw everything at you. MacIntyre knows this, of course. It’s easy to forget it from time to time.",
         "copy": "SOUTHPORT, England — Robert Duncan MacIntyre, 29-year-old lefthanded Scottish golfer with an endearing more-chips-less-fish approach to life, shot an opening 67 here. The first player to come to mind, at least for this reporter, was Tom Weiskopf. Weiskopf had a perfect look and a perfect swing, but he could run hot. Bobby Mac, a hugely inventive golfer, can run hot, too. Weiskopf won one major — the 1973 Open at Troon. MacIntyre is looking to win his first major.\n\nYou might remember the middle finger he gave the pond at 15 at Augusta National this year. It’s happened before and it will happen again, in some form or another. Maybe you saw MacIntyre on 18 at Royal Birkdale on Thursday, or heard his in-the-heat-of-the-moment analysis of it: “Such a shite hole, isn’t it?” And still, from a bad lie, he made an up-and-down 4. The hole is a par-4 on the card that was playing almost like a short par-5 in Thursday’s wind, but all together now: Par is just a name, and links golf will throw everything at you. MacIntyre knows this, of course. It’s easy to forget it from time to time.",
         "first_seen": "2026-07-16T15:38:52.330359+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Sir Nick Faldo reacts to Bryson DeChambeau being near the top of the leaderboard after day one at The Open",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTh1OUdrYmlnWmNhV3hqU1dtTjlNUmZKajJ6UEd3YW5GVGZ2RFNKbWotNUZWVVlqRjMtazZoajQwdUxWR1NqUFdRQXM1dF9pNWxndDFoT0FrUW9tRDAtZ0VldVBqSnUxVWMzM3dqUkR4Rk5tYzQ0MHQ3bGhXTFY0Qlp5R2dybFZ3TDFUMmdaRWU4eXNPeUdmT2lRSll1U3NzTXdYaWtaTlF0YWFfQjh6Q01hamFVbVAxTDZaRzItU0pRdUJIWi0w?oc=5",
+        "published": "2026-07-16T15:20:00+00:00",
+        "published_label": "Thu 16 Jul, 15:20",
+        "summary": "Sir Nick Faldo reacts to Bryson DeChambeau being near the top of the leaderboard after day one at The Open hitc.com",
+        "body": "Sir Nick Faldo has seemingly given himself the credit for Bryson DeChambeau’s impressive start to The Open Championship, with the American one shot off the lead as the morning wave concluded on Thursday.\n\nIt was an outstanding start to the final major of the year for DeChambeau, who went into the week at Royal Birkdale having missed the cut at The Masters, the PGA Championship, and the US Open.",
+        "copy": "Sir Nick Faldo has seemingly given himself the credit for Bryson DeChambeau’s impressive start to The Open Championship, with the American one shot off the lead as the morning wave concluded on Thursday.\n\nIt was an outstanding start to the final major of the year for DeChambeau, who went into the week at Royal Birkdale having missed the cut at The Masters, the PGA Championship, and the US Open.",
+        "first_seen": "2026-07-16T17:13:53.702430+00:00"
       },
       {
         "section": "Golf",
@@ -8084,6 +8110,19 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "Japan Open: Sensational Day for USA",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHBlMkE5bERVMUhYdTM3MUVzV0JfREp3cU55eXJoMTByTnJWYUpWWW8xT1NaRmdpUXI2LWZ6ak01d01taFJvampVb2RsWE9NNFNUOVp2b0RoWl93WVRGV3RtMm9iYktBWmpieVZEMU56czNwMkhNVzN5ck5GdlRuNU91b0VFc3lnWklHMnllLTZPSmpJdUZaRVZXZkF3RThrRWwwNnZKaEdzV1dsSS1wYjNXNVlCUTROa2Jv?oc=5",
+        "published": "2026-07-16T14:58:48+00:00",
+        "published_label": "Thu 16 Jul, 14:58",
+        "summary": "Japan Open: Sensational Day for USA BWF World Tour",
+        "body": "At the end of a day in which Lauren Lam/Allison Lee had pulled off the sensational upset of third seeds Baek Na Na/Lee So Hee, there was more good news for USA at the DAIHATSU Japan Open 2026.\n\nChen Zhi Yi and Presley Smith followed up in the last match with an upset of their own, knocking out world No.16 Daniel Lundgaard/Mads Vestergaard in straight games. For Team USA, it couldn’t have been scripted better, with both pairs making the quarterfinals of an HSBC BWF World Tour Super 750 event for the first time.",
+        "copy": "At the end of a day in which Lauren Lam/Allison Lee had pulled off the sensational upset of third seeds Baek Na Na/Lee So Hee, there was more good news for USA at the DAIHATSU Japan Open 2026.\n\nChen Zhi Yi and Presley Smith followed up in the last match with an upset of their own, knocking out world No.16 Daniel Lundgaard/Mads Vestergaard in straight games. For Team USA, it couldn’t have been scripted better, with both pairs making the quarterfinals of an HSBC BWF World Tour Super 750 event for the first time.",
+        "first_seen": "2026-07-16T15:38:52.330359+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "Five men’s singles players to watch at BWF World Championships India 2026",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzU4VjVVOUcyZGZnUG1JZkY5TjBHaWNnOWFhTU56MlkzbDdiUDRpSEhZWWpYOVdXNEJ4WGRrOTJxN0gyOEZzaW5ac245QThtMFFCRmdXd2NVYkRQZUpDQ2JiellkcnV5SlBmcTBWN1NGdl9zUnkzU1dVdjA1V1JHSVNqTXNHbk4zUWVHLU5TOFhiVE5DUXYtSXBDZEF0QXdzRHhCR2V6am8?oc=5",
         "published": "2026-07-16T09:17:46+00:00",
@@ -8118,19 +8157,6 @@
         "body": "Lauren Lam and Allison Lee delivered the biggest result of their nascent career to achieve their first HSBC BWF World Tour Super 750 quarterfinals at the DAIHATSU Japan Open 2026.\n\nThe USA pair were a game and 1-9 down to world No.3 Baek Ha Na/Lee So Hee before staging the turnaround. Chipping away at the deficit and pulling level at 12, the underdogs gained in confidence with each point and had the Koreans under pressure.",
         "copy": "Lauren Lam and Allison Lee delivered the biggest result of their nascent career to achieve their first HSBC BWF World Tour Super 750 quarterfinals at the DAIHATSU Japan Open 2026.\n\nThe USA pair were a game and 1-9 down to world No.3 Baek Ha Na/Lee So Hee before staging the turnaround. Chipping away at the deficit and pulling level at 12, the underdogs gained in confidence with each point and had the Koreans under pressure.",
         "first_seen": "2026-07-16T09:35:31.099226+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Japan Open: Sensational Day for USA as Lam/Lee Author Upset",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHBlMkE5bERVMUhYdTM3MUVzV0JfREp3cU55eXJoMTByTnJWYUpWWW8xT1NaRmdpUXI2LWZ6ak01d01taFJvampVb2RsWE9NNFNUOVp2b0RoWl93WVRGV3RtMm9iYktBWmpieVZEMU56czNwMkhNVzN5ck5GdlRuNU91b0VFc3lnWklHMnllLTZPSmpJdUZaRVZXZkF3RThrRWwwNnZKaEdzV1dsSS1wYjNXNVlCUTROa2Jv?oc=5",
-        "published": "2026-07-16T08:26:02+00:00",
-        "published_label": "Thu 16 Jul, 08:26",
-        "summary": "Japan Open: Sensational Day for USA as Lam/Lee Author Upset BWF World Tour",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-16T15:38:52.330359+00:00"
       },
       {
         "section": "Badminton",
@@ -8539,5 +8565,5 @@
       }
     ]
   },
-  "total": 655
+  "total": 657
 }
