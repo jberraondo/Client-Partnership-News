@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T08:09:22.009682+00:00",
-  "generated_label": "Thursday 16 July 2026, 08:09 UTC",
+  "generated_at": "2026-07-16T09:35:31.099226+00:00",
+  "generated_label": "Thursday 16 July 2026, 09:35 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -24,6 +24,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-16T08:09:22.009682+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Is China’s economic slowdown here to stay?",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlJQb0JPc04xakVVS3lXSFFOZDNaVnhPZmIwYU16ZEIxMjB0TjZBeUh6Z0dLMmo2MFNtNXdoSTcwRFJCNFhEYi15M0hoei02aGwxRnlPYUFvU0FEZHBSR3RiaDVZeVFoMm9lc1AtZkpralJmbG5GR2R1aVVQSW5IODd5S18?oc=5",
+        "published": "2026-07-16T04:00:00+00:00",
+        "published_label": "Thu 16 Jul, 04:00",
+        "summary": "Is China’s economic slowdown here to stay? Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1392,6 +1405,45 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Force name matchday 23 for first-ever Super Rugby Women's semi-final",
+        "link": "https://www.rugbypass.com/news/force-name-matchday-23-for-first-ever-super-rugby-womens-semi-final/",
+        "published": "2026-07-16T09:13:06+00:00",
+        "published_label": "Thu 16 Jul, 09:13",
+        "summary": "The Western Force have named their matchday squad for an historic Swyftx Super Rugby Women's semi-final against the NSW Waratahs.",
+        "body": "The Western Force have named their matchday squad for an historic Swyftx Super Rugby Women’s semi-final against the NSW Waratahs. Zoe Elliott and Atawhai Hotene have been given their starting debuts for the winner-takes-all encounter at Perth’s HBF Park.\n\nOriginally due to be played at Wanneroo Rugby Club, last week it was confirmed that the Force’s first-ever knockout game of rugby would form part of a doubleheader ahead of the Wallabies’ Round 3 Nations Championship clash with Italy.",
+        "copy": "The Western Force have named their matchday squad for an historic Swyftx Super Rugby Women’s semi-final against the NSW Waratahs. Zoe Elliott and Atawhai Hotene have been given their starting debuts for the winner-takes-all encounter at Perth’s HBF Park.\n\nOriginally due to be played at Wanneroo Rugby Club, last week it was confirmed that the Force’s first-ever knockout game of rugby would form part of a doubleheader ahead of the Wallabies’ Round 3 Nations Championship clash with Italy.",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Fiji Prime Minister responds to Flying Fijians' poor start to Nations Championship",
+        "link": "https://www.rugbypass.com/news/fiji-prime-minister-reacts-to-flying-fijians-poor-start-to-nations-championship/",
+        "published": "2026-07-16T08:40:00+00:00",
+        "published_label": "Thu 16 Jul, 08:40",
+        "summary": "Fiji Prime Minister Sitiveni Rabuka has defended the appointment of interim Flying Fijians head coach Senirusi Seruvakula and insists two games is too soon to deliver a verdict on his leadership of the squad that has suffered losses to Wales and England.",
+        "body": "Fiji Prime Minister Sitiveni Rabuka has defended the appointment of interim Flying Fijians head coach Senirusi Seruvakula and insists two games is too soon to deliver a verdict on his leadership of the squad that has suffered losses to Wales and England.\n\nSeruvakula replaced former head coach Mick Byrne and Rabuka told Fiji media he had always supported the idea of a local coach to lead the Flying Fijians. “We should give the process time,” said Rabuka, the former Flying Fijians player. “Let’s see whether the argument that a local coach better understands the players, and the players better understand the coach, proves correct.",
+        "copy": "Fiji Prime Minister Sitiveni Rabuka has defended the appointment of interim Flying Fijians head coach Senirusi Seruvakula and insists two games is too soon to deliver a verdict on his leadership of the squad that has suffered losses to Wales and England.\n\nSeruvakula replaced former head coach Mick Byrne and Rabuka told Fiji media he had always supported the idea of a local coach to lead the Flying Fijians. “We should give the process time,” said Rabuka, the former Flying Fijians player. “Let’s see whether the argument that a local coach better understands the players, and the players better understand the coach, proves correct.",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "LRZ back in one of six changes as Wales get huge relief for Bok challenge",
+        "link": "https://www.rugbypass.com/news/louis-rees-zammit-back-in-one-of-six-changes-as-wales-get-huge-relief-for-springboks-challenge-south-africa-nations-championship/",
+        "published": "2026-07-16T08:35:17+00:00",
+        "published_label": "Thu 16 Jul, 08:35",
+        "summary": "Louis Rees-Zammit has been recalled as one of six changes to the Wales starting XV for Saturday's Nations Championship clash with South Africa, with Dewi Lake passed fit to captain the side despite being an injury doubt throughout the week.",
+        "body": "Louis Rees-Zammit has been recalled as one of six changes to the Wales starting XV for Saturday’s Nations Championship clash with South Africa, with Dewi Lake passed fit to captain the side despite being an injury doubt throughout the week.\n\nLake had been struggling with a groin injury in the build-up, prompting Wales to call Elliot Dee into the squad as hooker cover. However, the incoming Gloucester hooker has recovered in time to retain both his starting place and the captaincy against the world champions.",
+        "copy": "Louis Rees-Zammit has been recalled as one of six changes to the Wales starting XV for Saturday’s Nations Championship clash with South Africa, with Dewi Lake passed fit to captain the side despite being an injury doubt throughout the week.\n\nLake had been struggling with a groin injury in the build-up, prompting Wales to call Elliot Dee into the squad as hooker cover. However, the incoming Gloucester hooker has recovered in time to retain both his starting place and the captaincy against the world champions.",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4225,19 +4277,6 @@
         "body": "Female rugby players are 69% more likely to experience social media abuse than their male counterparts, according to findings by World Rugby. Misogyny, gender identity, sexuality and body-shaming are the most common types of abuse.\n\nEight cases have been referred to law enforcement and platforms to focus on action. Female athletes suffering abuse online is a growing issue, with tennis player Katie Boulter and Wales number eight Georgia Evans among those who have spoken out about the issue.",
         "copy": "Female rugby players are 69% more likely to experience social media abuse than their male counterparts, according to findings by World Rugby. Misogyny, gender identity, sexuality and body-shaming are the most common types of abuse.\n\nEight cases have been referred to law enforcement and platforms to focus on action. Female athletes suffering abuse online is a growing issue, with tennis player Katie Boulter and Wales number eight Georgia Evans among those who have spoken out about the issue.",
         "first_seen": "2026-07-09T16:15:26.585400+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Why Ultimate Sevens’ marquee group is a huge win for rugby sevens",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWUcySnRwdkUwdFhfYldXVGd4a1dDMURPZXNscHI4NFlXX0tjeEVwYVhMTXJOYjAzZXhMVkFoZHpxT0oydjFYZXZnejVXYUhQSVp5QmpuWGt5eWpRS01wVEJTM25qOHlPOHBiYkZrSHFHUzdPNzhTSHJOR2sydnZKcVpuVmE2cnhJSjlHQzVobVRhMDRtbG53R3BuSEVaV25zVjFR?oc=5",
-        "published": "2026-07-09T08:26:37+00:00",
-        "published_label": "Thu 09 Jul, 08:26",
-        "summary": "Why Ultimate Sevens’ marquee group is a huge win for rugby sevens Rugbypass.com",
-        "body": "Since the end of the COVID-19 pandemic, the world of Sevens rugby has changed considerably, with new formats, tiered tournaments, and a world calendar designed to increase cross-pollination between the short and long formats of rugby.\n\nThe recent conclusion of the World Championship and the promotion of several SVNS 2 sides suggest that the format changes have a good opportunity to bear fruit quickly, turning sevens into another viable pathway players can use to achieve higher honours.",
-        "copy": "Since the end of the COVID-19 pandemic, the world of Sevens rugby has changed considerably, with new formats, tiered tournaments, and a world calendar designed to increase cross-pollination between the short and long formats of rugby.\n\nThe recent conclusion of the World Championship and the promotion of several SVNS 2 sides suggest that the format changes have a good opportunity to bear fruit quickly, turning sevens into another viable pathway players can use to achieve higher honours.",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
       }
     ],
     "Tennis": [
@@ -5605,22 +5644,48 @@
         "body": "Jack Draper is poised to make a swift return to action at the DC Open in Washington after missing Wimbledon through injury. Draper's withdrawal from his home major due to a recurrence of bone bruising in his left arm was the low point of a disastrous first day which also saw all 10 home players in action lose.\n\nBut Britain is now celebrating a hugely unexpected semi-finalist in Arthur Fery, while Draper has been announced as a wild card entrant into the US tournament beginning on July 27.",
         "copy": "Jack Draper is poised to make a swift return to action at the DC Open in Washington after missing Wimbledon through injury. Draper's withdrawal from his home major due to a recurrence of bone bruising in his left arm was the low point of a disastrous first day which also saw all 10 home players in action lose.\n\nBut Britain is now celebrating a hugely unexpected semi-finalist in Arthur Fery, while Draper has been announced as a wild card entrant into the US tournament beginning on July 27.",
         "first_seen": "2026-07-09T16:15:26.585400+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Arthur Fery Channels Emma Raducanu's US Open Spirit: 'Incredible How She Kept Her Cool' - Tennis Temple",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHIwbG9zei1mdGlBVlZUUXJtbTI1VjJxOHZxOUhZSUhLMkxCS0hJYzM3NmQ1R0xZS1ZfYkYxZzZHYWJNZzRRMlVKWTU3T0hMMXpPa1ZpbURjZkN6UjB0RF9sazI0NFNiMzRNSjByNThLMC14N0lCRktxeUNKaUNBM1p6Q2JSUnZFRXR6c2xxbjl6UQ?oc=5",
-        "published": "2026-07-09T09:28:55+00:00",
-        "published_label": "Thu 09 Jul, 09:28",
-        "summary": "Arthur Fery Channels Emma Raducanu's US Open Spirit: 'Incredible How She Kept Her Cool' Tennis Temple - Live tennis",
-        "body": "Arthur Fery continues to surprise at the US Open. The Briton qualified for the semifinals by eliminating Flavio Cobolli. In a press conference, he explained how he draws inspiration from Emma Raducanu's run at the US Open in 2021, where she prevailed against all odds.\n\n“I remember how impressive it was to see how Emma kept her cool under pressure. She went from match to match, playing exceptional tennis, beating the best opponents, and ultimately winning the US Open.",
-        "copy": "Arthur Fery continues to surprise at the US Open. The Briton qualified for the semifinals by eliminating Flavio Cobolli. In a press conference, he explained how he draws inspiration from Emma Raducanu's run at the US Open in 2021, where she prevailed against all odds.\n\n“I remember how impressive it was to see how Emma kept her cool under pressure. She went from match to match, playing exceptional tennis, beating the best opponents, and ultimately winning the US Open.",
-        "first_seen": "2026-07-09T16:15:26.585400+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "What channel is the 2026 Open Championship on? How to watch the Open at Royal Birkdale",
+        "link": "https://golf.com/news/what-channel-2026-open-how-tv/",
+        "published": "2026-07-16T09:08:31+00:00",
+        "published_label": "Thu 16 Jul, 09:08",
+        "summary": "What channel is the 2026 Open Championship on? Find out how to watch all the action from Royal Birkdale on TV here. The post What channel is the 2026 Open Championship on? How to watch the Open at Royal Birkdale appeared first on Golf .",
+        "body": "The 2026 Open Championship at Royal Birkdale is underway in England. But what channel is the Open on? Here’s everything you need to know to watch the 2026 Open action on TV. NBC and USA will be the TV channels televising the 154th Open Championship this week.\n\nUSA will open the coverage on TV with a lengthy telecast of Thursday’s opening round starting at 4 a.m. ET and ending at 3:30 p.m. ET. USA’s coverage for Friday’s second round will be the same as on Thursday. USA will also provide early TV coverage for Saturday’s third and Sunday’s final rounds.",
+        "copy": "The 2026 Open Championship at Royal Birkdale is underway in England. But what channel is the Open on? Here’s everything you need to know to watch the 2026 Open action on TV. NBC and USA will be the TV channels televising the 154th Open Championship this week.\n\nUSA will open the coverage on TV with a lengthy telecast of Thursday’s opening round starting at 4 a.m. ET and ending at 3:30 p.m. ET. USA’s coverage for Friday’s second round will be the same as on Thursday. USA will also provide early TV coverage for Saturday’s third and Sunday’s final rounds.",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "I followed Bryson DeChambeau for two days – his behaviour surprised me",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDhvcEVLZW9TeUNoYm5KV2hIUXQyem9xbXljUV9IUHgycGpESWRVUi16V01iMmUxWDhma0thLXRYdktHaVVkemtRZEotUXJKYm9IWm1ZOHNpUG1ka010enBoM2lSeVhLaXhaYWVlOU5mR0RBS1ZOTGhlZVdyazkwWWN3?oc=5",
+        "published": "2026-07-16T09:00:00+00:00",
+        "published_label": "Thu 16 Jul, 09:00",
+        "summary": "I followed Bryson DeChambeau for two days – his behaviour surprised me The i Paper",
+        "body": "ROYAL BIRKDALE — Bryson DeChambeau is two days away from an ignominious achievement. Should the American find himself outside the top 70 after play on Friday, he will not make the weekend’s play and achieve the “cut slam”: he will have missed the cut at all four slams.\n\nYou could argue he would be the best player ever to do it: no multiple major winner (under the age of 40, since some of the exempt veterans have managed it) has ever done it. Perhaps the best previous entry is Sergio Garcia, who in 2018 missed all four cuts as reigning Masters champion.",
+        "copy": "ROYAL BIRKDALE — Bryson DeChambeau is two days away from an ignominious achievement. Should the American find himself outside the top 70 after play on Friday, he will not make the weekend’s play and achieve the “cut slam”: he will have missed the cut at all four slams.\n\nYou could argue he would be the best player ever to do it: no multiple major winner (under the age of 40, since some of the exempt veterans have managed it) has ever done it. Perhaps the best previous entry is Sergio Garcia, who in 2018 missed all four cuts as reigning Masters champion.",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau aims to salvage major season at The Open as LIV Golf contract nears expiration",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0h3dFF6VTVGaU9VRDVJVjViQlhYU21CZUd1MXAtUld1a3hHaFNfWTZHRVZ1TnpfQS1vSXBmaWlsd0hrOUlUYzB5R19tRzVhaTA0NzUtMUE0c2NVMGIyb3pwd29QN1JGSE9XVXNRNWhHcUQ4UEpsMkd4ZmdIcm0yYlpWUTRSclE?oc=5",
+        "published": "2026-07-16T08:06:30+00:00",
+        "published_label": "Thu 16 Jul, 08:06",
+        "summary": "Bryson DeChambeau aims to salvage major season at The Open as LIV Golf contract nears expiration CBS Sports",
+        "body": "Ever since the PGA Championship moved to May, has presented the world's best golfers with one last shot at major championship glory. Everyone in the field is looking to end the major season on a high note, but no one is feeling more pressure to get something out of their week at Royal Birkdale than Bryson DeChambeau.\n\nDeChambeau came into the 2026 major championship season with the world at his fingertips. Three top-10 finishes in majors in 2025 secured his spot among the top four in the world alongside Scottie Scheffler, Rory McIlroy and Jon Rahm, and after a dominant start to the LIV Golf season, he seemed primed to win his third major title at some point in 2026.",
+        "copy": "Ever since the PGA Championship moved to May, has presented the world's best golfers with one last shot at major championship glory. Everyone in the field is looking to end the major season on a high note, but no one is feeling more pressure to get something out of their week at Royal Birkdale than Bryson DeChambeau.\n\nDeChambeau came into the 2026 major championship season with the world at his fingertips. Three top-10 finishes in majors in 2025 secured his spot among the top four in the world alongside Scottie Scheffler, Rory McIlroy and Jon Rahm, and after a dominant start to the LIV Golf season, he seemed primed to win his third major title at some point in 2026.",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -7939,6 +8004,45 @@
     "Badminton": [
       {
         "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Five men’s singles players to watch at BWF World Championships India 2026",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzU4VjVVOUcyZGZnUG1JZkY5TjBHaWNnOWFhTU56MlkzbDdiUDRpSEhZWWpYOVdXNEJ4WGRrOTJxN0gyOEZzaW5ac245QThtMFFCRmdXd2NVYkRQZUpDQ2JiellkcnV5SlBmcTBWN1NGdl9zUnkzU1dVdjA1V1JHSVNqTXNHbk4zUWVHLU5TOFhiVE5DUXYtSXBDZEF0QXdzRHhCR2V6am8?oc=5",
+        "published": "2026-07-16T09:17:46+00:00",
+        "published_label": "Thu 16 Jul, 09:17",
+        "summary": "Five men’s singles players to watch at BWF World Championships India 2026 The News Mill",
+        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Japan Open: Sensational Day for USA as Lam/Lee Author Upset",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlBzaU9mdHlFWEZUNUw4Mlgzdi03Q3NlUG9vRFpTZDJIWkZUd25wQmdpQUhWTVVEeTUzT3VuRTdvN1MwRDdfUmkxNDl4a3gxTTFGX19kcHN6aTZyM2NSNHhOcFZaNlFWV1RyQXQtWGc2TVhCdU1kRVM5aTN5OUlNWTFzenE2aE1QVS1CR2VlZ2tTeTlWMnQ1RTcwd2RDaVZlRHh6dXY1UUctQmVHMnlOc3QwN21IMnozcFZrcQ?oc=5",
+        "published": "2026-07-16T08:26:02+00:00",
+        "published_label": "Thu 16 Jul, 08:26",
+        "summary": "Japan Open: Sensational Day for USA as Lam/Lee Author Upset BWF World Tour",
+        "body": "Lauren Lam and Allison Lee delivered the biggest result of their nascent career to achieve their first HSBC BWF World Tour Super 750 quarterfinals at the DAIHATSU Japan Open 2026.\n\nThe USA pair were a game and 1-9 down to world No.3 Baek Ha Na/Lee So Hee before staging the turnaround. Chipping away at the deficit and pulling level at 12, the underdogs gained in confidence with each point and had the Koreans under pressure.",
+        "copy": "Lauren Lam and Allison Lee delivered the biggest result of their nascent career to achieve their first HSBC BWF World Tour Super 750 quarterfinals at the DAIHATSU Japan Open 2026.\n\nThe USA pair were a game and 1-9 down to world No.3 Baek Ha Na/Lee So Hee before staging the turnaround. Chipping away at the deficit and pulling level at 12, the underdogs gained in confidence with each point and had the Koreans under pressure.",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF Japan Open 2026: Resurgent Kunlavut Vitidsarn into last eight; world No. 1 Shi Yuqi survives Brian Yang encounter",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcXNyZnNMdWpNUW9nVnNpckdEZVlOQTBwYTVDTnNmT1AwQk5QVDNYZTRzU3RIT2VvMFF0X3U1VUp5X3liUV94UzNjSnE0LTNja1dCMHF0eGNKMkRvSzVRS3RCZzlSZWhCa296RUwyZXdFUW54enMxdS1tOG12WjFmSkdHcw?oc=5",
+        "published": "2026-07-16T08:14:00+00:00",
+        "published_label": "Thu 16 Jul, 08:14",
+        "summary": "BWF Japan Open 2026: Resurgent Kunlavut Vitidsarn into last eight; world No. 1 Shi Yuqi survives Brian Yang encounter olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-16T09:35:31.099226+00:00"
+      },
+      {
+        "section": "Badminton",
         "source": "Olympics",
         "kind": "gnews",
         "title": "Japan Open 2026 badminton: PV Sindhu stuns world No. 5, to face Nozomi Okuhara in quarter-finals",
@@ -8331,5 +8435,5 @@
       }
     ]
   },
-  "total": 639
+  "total": 647
 }
