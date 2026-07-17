@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T17:10:32.876316+00:00",
-  "generated_label": "Friday 17 July 2026, 17:10 UTC",
+  "generated_at": "2026-07-17T19:04:07.758236+00:00",
+  "generated_label": "Friday 17 July 2026, 19:04 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Lionel Messi, Argentine legend with nothing left to prove",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXY4SFhOenJ0OGR2V2QzMTlyS0xoS0VQdFc3QmR4TE9maEdUNW5ibnNnWmxZT0tjME5jVXM1QzhnZjl5MmM0REV1UFlHTlVTZ2trdDVwTWJ6VlBfRVJlX2FUWHVBb3EzRDJibGhDTjlyTEdWLU9sYmoxeWZSS0tqRzZDMG8?oc=5",
+        "published": "2026-07-17T15:49:48+00:00",
+        "published_label": "Fri 17 Jul, 15:49",
+        "summary": "Lionel Messi, Argentine legend with nothing left to prove Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "SportsPro",
@@ -76,6 +89,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "America’s great World Cup",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlBlNVN0N0xzU0RWdm1kYkQ3RGVtbGNBZUlWUFBJcjhfSVQ0OWtxTGVKMENyVHFIMTJCd3A2TC1WM2JFdzFqOFlXdGZZVndWcHMxdEZMME5LcXdGN3RRTXEwZkw2SXBvSUJUV2FQcXF2OUxENldNTGo4dmhvWXZhZk4xYzc?oc=5",
+        "published": "2026-07-17T13:00:06+00:00",
+        "published_label": "Fri 17 Jul, 13:00",
+        "summary": "America’s great World Cup Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1405,6 +1431,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "All Blacks injury opens the door for Top 14 move for Hamish Watson",
+        "link": "https://www.rugbypass.com/news/all-black-injury-opens-the-door-for-top-14-move-for-hamish-watson/",
+        "published": "2026-07-17T18:11:26+00:00",
+        "published_label": "Fri 17 Jul, 18:11",
+        "summary": "Top 14 outfit Castres have signed Scotland flanker Hamish Watson for the 2026/27 season to help cover the loss of Dalton Papali'i who has undergone surgery on a ruptured Achilles.",
+        "body": "Top 14 outfit Castres have signed Scotland flanker Hamish Watson for the 2026/27 season to help cover the loss of Dalton Papali’i who has undergone surgery on a ruptured Achilles.\n\nCastres marquee signing Papali’i suffered the injury during training at the very start of his career in France and had surgery on Wednesday. Watson has been on the lookout for a new club after his short-term deal at Leicester expired at the end of last season. He made six appearances for his former academy club between March and June after joining from Edinburgh, where he’d fallen out of favour under head coach Sean Everitt.",
+        "copy": "Top 14 outfit Castres have signed Scotland flanker Hamish Watson for the 2026/27 season to help cover the loss of Dalton Papali’i who has undergone surgery on a ruptured Achilles.\n\nCastres marquee signing Papali’i suffered the injury during training at the very start of his career in France and had surgery on Wednesday. Watson has been on the lookout for a new club after his short-term deal at Leicester expired at the end of last season. He made six appearances for his former academy club between March and June after joining from Edinburgh, where he’d fallen out of favour under head coach Sean Everitt.",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Five pointers as England aim to maintain psychological ‘stranglehold’ over Pumas",
+        "link": "https://www.rugbypass.com/plus/five-pointers-as-england-aim-to-maintain-psychological-stranglehold-over-pumas/",
+        "published": "2026-07-17T17:51:36+00:00",
+        "published_label": "Fri 17 Jul, 17:51",
+        "summary": "Benching Caluori, classy Slade, Martin's return, 'different animal' Heyes and a lurking threat to Van Poortvliet as England prepare for Pumas.",
+        "body": "If England can manage to inflict a measure of revenge on Argentina for their football counterparts’ defeat in the Fifa World Cup semi-final this weekend, it will be their sixth successive win over the Pumas.\n\nEngland’s recent record against Argentina is better than that of any other nation – including world champions South Africa. The stranglehold they have exerted in the fixture of late extends back to a 30-29 defeat at Twickenham in November 2022.",
+        "copy": "If England can manage to inflict a measure of revenge on Argentina for their football counterparts’ defeat in the Fifa World Cup semi-final this weekend, it will be their sixth successive win over the Pumas.\n\nEngland’s recent record against Argentina is better than that of any other nation – including world champions South Africa. The stranglehold they have exerted in the fixture of late extends back to a 30-29 defeat at Twickenham in November 2022.",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4428,6 +4480,19 @@
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "Emma Raducanu Dealt Fresh Ranking Blow Before the US Open",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMllWQk5DQThhbUdyWUIyaWNzb3RsNkg2Y05zakJBYjBNMDZfZm85SUs4Ti1XbGF1dVM1V2p0cW0zMGswUEQ1SGh0emxKb0xPaGdMLU1QVEF5dVVydFF0YTYteVJBOEhMVDg1VVlmRElzemQtNUtla0Z4ZS1NTEFCbmJ1LWJYYmdrSlE?oc=5",
+        "published": "2026-07-17T18:06:10+00:00",
+        "published_label": "Fri 17 Jul, 18:06",
+        "summary": "Emma Raducanu Dealt Fresh Ranking Blow Before the US Open Yahoo Sports",
+        "body": "British tennis star Emma Raducanu enjoyed a strong start to the grass-court season, reaching the final of the Queen's Club Championships before eventually losing to Donna Vekic in straight sets.\n\nHeading into Wimbledon as the British No. 1, many expected Raducanu to carry that momentum into the year's third Grand Slam. However, her hopes of making a deep run came to an abrupt end. Raducanu was forced to withdraw from Wimbledon after suffering a Grade 4 stress fracture in her lower right leg.",
+        "copy": "British tennis star Emma Raducanu enjoyed a strong start to the grass-court season, reaching the final of the Queen's Club Championships before eventually losing to Donna Vekic in straight sets.\n\nHeading into Wimbledon as the British No. 1, many expected Raducanu to carry that momentum into the year's third Grand Slam. However, her hopes of making a deep run came to an abrupt end. Raducanu was forced to withdraw from Wimbledon after suffering a Grade 4 stress fracture in her lower right leg.",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu Dealt Fresh Ranking Blow Before the US Open",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjFnN3FPc21UX0JKb3NaRGp2TVFVd0pNXzBkS2JxdnJLeFdUMVNCMVFqaHhCSjNSejFObkRuNEN3RndlZWVJMmhZa3loeUFhbXhjRlFOcGp3RHFjX3dNM2lEVUd1UVNPS1UyUm11YXh2U1Z3WXYwc1FCVXZpUXBVaFR1NzRMajJOU1J2LWFRZ2x3a3pCQjBNY3BCUFFVa1NM?oc=5",
         "published": "2026-07-17T15:00:00+00:00",
         "published_label": "Fri 17 Jul, 15:00",
@@ -5293,74 +5358,87 @@
         "body": "",
         "copy": "Enjoy the best shots from day 12 of Wimbledon, featuring Great Britain's Arthur Fery and defending men's singles champion Jannik Sinner.",
         "first_seen": "2026-07-11T10:40:16.719936+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Novak Djokovic says he wants to play at Wimbledon 'at least one more time' after semi-final defeat to Jannik Sinner",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS25IQnFGYXlUdmRKZVh1M3RMem9RdTFJdHp4NnhnV2tzYzFIWnN2Qy13WGI3UmtZRXZWTWtfSEwxWmsybUxxU1ZkY0hZSnVsLXZ4MnJrbi1OWW85MjVPTWo2cTUyRW5HeVZjY19GbFZyU2EwaHpFRUVlVDBXb3JXSVdrX213OFFaaTlvS2VxVTBEdGVQNVhFV1ZHLXBoZVlXZzNMMUc5dUQtV05CZ0daZS1SSUhFeG5kQ0Y5TUVyN0thWThCc3NCaldfTVlzYjNEOUVlT1AxX01QRjVKMU5Sc1lONGhjVUVxNjhJVHdTN1Vvd3FSeWVNSFlR?oc=5",
-        "published": "2026-07-10T18:50:43+00:00",
-        "published_label": "Fri 10 Jul, 18:50",
-        "summary": "Novak Djokovic says he wants to play at Wimbledon 'at least one more time' after semi-final defeat to Jannik Sinner Sky Sports",
-        "body": "Novak Djokovic says he wants to return to Wimbledon \"at least one more time\" and does not feel any pressure to continue his tennis career. Djokovic has been trying to win a record-breaking 25th Grand Slam singles title - the most of any man or woman - for the last two years and his latest attempt came to an end on Friday when he was defeated in straight sets by Jannik Sinner in the semi-finals.\n\nThe 39-year-old beat Sinner in the last four of the Australian Open earlier this year but lost the final to Carlos Alcaraz. - Not got Sky? Get Sky Sports or stream with no contract",
-        "copy": "Novak Djokovic says he wants to return to Wimbledon \"at least one more time\" and does not feel any pressure to continue his tennis career. Djokovic has been trying to win a record-breaking 25th Grand Slam singles title - the most of any man or woman - for the last two years and his latest attempt came to an end on Friday when he was defeated in straight sets by Jannik Sinner in the semi-finals.\n\nThe 39-year-old beat Sinner in the last four of the Australian Open earlier this year but lost the final to Carlos Alcaraz. - Not got Sky? Get Sky Sports or stream with no contract",
-        "first_seen": "2026-07-11T10:40:16.719936+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wimbledon Daily: Zverev ends Fery's run as Sinner sails into the final",
-        "link": "https://www.bbc.co.uk/sounds/play/p0ny4llh?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T18:47:00+00:00",
-        "published_label": "Fri 10 Jul, 18:47",
-        "summary": "Reaction to Day 12 of Wimbledon as Zverev & Sinner reach the gentlemen's singles final.",
-        "body": "Gigi Salmon presents reaction to the Wimbledon men's singles semi-finals after Alexander Zverev ended Arthur Fery's incredible run to the final four and Jannik Sinner eased past Novak Djokovic. Leon Smith and Naomi Cavaday are with Gigi to reflect on the positives for Arthur Fery, Alexander Zverev growing as a grand slam champion and the manner of Novak Djokovic's defeat to Jannik Sinner. Timecodes: 00:35 - Positives for Arthur Fery 06:40 - Arthur Fery interview 12:13 - Zverev's growth as a grand slam champion 13:30 - Djokovic's struggles against Sinner",
-        "copy": "Gigi Salmon presents reaction to the Wimbledon men's singles semi-finals after Alexander Zverev ended Arthur Fery's incredible run to the final four and Jannik Sinner eased past Novak Djokovic. Leon Smith and Naomi Cavaday are with Gigi to reflect on the positives for Arthur Fery, Alexander Zverev growing as a grand slam champion and the manner of Novak Djokovic's defeat to Jannik Sinner. Timecodes: 00:35 - Positives for Arthur Fery 06:40 - Arthur Fery interview 12:13 - Zverev's growth as a grand slam champion 13:30 - Djokovic's struggles against Sinner",
-        "first_seen": "2026-07-10T19:11:49.809526+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Superb Sinner ends Djokovic's latest bid for history",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T18:36:13+00:00",
-        "published_label": "Fri 10 Jul, 18:36",
-        "summary": "Jannik Sinner produces a devastating display to end Novak Djokovic's latest bid for history and set up a Wimbledon final against Alexander Zverev.",
-        "body": "Defending champion Jannik Sinner produced a devastating display to end Novak Djokovic's latest bid for a standalone record 25th Grand Slam title and reach the Wimbledon final against Alexander Zverev.\n\nJust as he did at this stage last year, Sinner produced a display of power and precision to deny Djokovic in his pursuit of equalling Roger Federer's record eight men's singles titles at the All England Club.",
-        "copy": "Defending champion Jannik Sinner produced a devastating display to end Novak Djokovic's latest bid for a standalone record 25th Grand Slam title and reach the Wimbledon final against Alexander Zverev.\n\nJust as he did at this stage last year, Sinner produced a display of power and precision to deny Djokovic in his pursuit of equalling Roger Federer's record eight men's singles titles at the All England Club.",
-        "first_seen": "2026-07-10T19:11:49.809526+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "GB's Hewett into fifth straight Wimbledon final",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cj0glje20d2o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T18:34:53+00:00",
-        "published_label": "Fri 10 Jul, 18:34",
-        "summary": "Britain's Alfie Hewett reaches his fifth successive wheelchair singles final at Wimbledon after fighting from a set down to beat Gustavo Fernandez.",
-        "body": "Great Britain's Alfie Hewett is into his fifth successive wheelchair singles final at Wimbledon after he fought back from a set down to beat Gustavo Fernandez. Hewett, the second seed, was edged out in a first-set tie-break but recovered well and stormed to a 6-7 (2-7) 6-0 6-3 victory against the Argentine.\n\n\"It was a rollercoaster of a match. I seem to always have these sorts of matches in the semi-final against Gustavo,\" said 2024 champion Hewett. \"It's these sort of matches that I believe puts wheelchair tennis on the map a lot more.\"",
-        "copy": "Great Britain's Alfie Hewett is into his fifth successive wheelchair singles final at Wimbledon after he fought back from a set down to beat Gustavo Fernandez. Hewett, the second seed, was edged out in a first-set tie-break but recovered well and stormed to a 6-7 (2-7) 6-0 6-3 victory against the Argentine.\n\n\"It was a rollercoaster of a match. I seem to always have these sorts of matches in the semi-final against Gustavo,\" said 2024 champion Hewett. \"It's these sort of matches that I believe puts wheelchair tennis on the map a lot more.\"",
-        "first_seen": "2026-07-10T19:11:49.809526+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Why is Zverev allowed to use his phone at Wimbledon?",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/czx5jrgvj0eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T18:20:11+00:00",
-        "published_label": "Fri 10 Jul, 18:20",
-        "summary": "Our Ask Me Anything team explain why Zverev is exempt from Wimbledon's in-match mobile phone ban.",
-        "body": "Many of you have been in touch to ask why Alexander Zverev has been seen using his phone multiple times during matches at this year's Wimbledon - despite a ban on players doing so.\n\nThe reason is because Zverev is type 1 diabetic, and therefore has a medical exemption from the rule in order to check his glucose levels. The All England Club has told BBC Sport that Grand Slam tournaments have a list of players that are diabetic, and those players are permitted to use their phones during matches in order to monitor their glucose and inject insulin if needed.",
-        "copy": "Many of you have been in touch to ask why Alexander Zverev has been seen using his phone multiple times during matches at this year's Wimbledon - despite a ban on players doing so.\n\nThe reason is because Zverev is type 1 diabetic, and therefore has a medical exemption from the rule in order to check his glucose levels. The All England Club has told BBC Sport that Grand Slam tournaments have a list of players that are diabetic, and those players are permitted to use their phones during matches in order to monitor their glucose and inject insulin if needed.",
-        "first_seen": "2026-07-10T19:11:49.809526+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How the Open influenced Matt Fitzpatrick's putter change",
+        "link": "https://golf.com/gear/putters/bettinardi-bb1ff-putter-the-open/",
+        "published": "2026-07-17T18:12:36+00:00",
+        "published_label": "Fri 17 Jul, 18:12",
+        "summary": "Matthew Fitzpatrick had a unique problem at the Open this year. Bettinardi helped him solve it, and now the everyday golfer benefits. The post How the Open influenced Matt Fitzpatrick’s putter change appeared first on Golf .",
+        "body": "A few months ago, Bettinardi released the BB1 Fitz Flow putter alongside the BB48 FITZ as offerings that were built to the standards of what Matthew Fitzpatrick has in the bag.\n\nFitzpatrick’s normal gamer, the BB1 FF, has been holding strong for “Team Blade” out there on Tour, and the BB48 model is a great offering for players looking for Fitz’s preferred face milling in a more forgiving mallet shape.",
+        "copy": "A few months ago, Bettinardi released the BB1 Fitz Flow putter alongside the BB48 FITZ as offerings that were built to the standards of what Matthew Fitzpatrick has in the bag.\n\nFitzpatrick’s normal gamer, the BB1 FF, has been holding strong for “Team Blade” out there on Tour, and the BB48 model is a great offering for players looking for Fitz’s preferred face milling in a more forgiving mallet shape.",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Why Bryson DeChambeau – and the numbers – have proved Sir Nick Faldo very wrong",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMFM2T2xEUlBNcE5oMkhNOHQ3Rm9HTkpkOVgtc0xtQXk5QUQ0aklaV0h6N29YMEtFOUNWS24yRHJ2UkNrRV9fMUhkdnAwNzl4dk43bE5fbWpsU1NIOFVlU3ozYXBVakNmeHpTdjZsbnNxNV84UmhBUjFCWlVxTWVmQ3BYWDM2MVdud1BlOHFVaC1EVDFBVjZVcmFnd0x5c2E2ZjE2TTFoeGlhZUtqWktwQ0dQTm5wd2Y0VHZGSHZvbXZxcERvWGw3NmtKQ1VfNEpJa2hydHdpUnIta1hU?oc=5",
+        "published": "2026-07-17T18:10:56+00:00",
+        "published_label": "Fri 17 Jul, 18:10",
+        "summary": "Why Bryson DeChambeau – and the numbers – have proved Sir Nick Faldo very wrong Today's Golfer",
+        "body": "The three-time Champion Golfer blasted Bryson DeChambeau for having ‘zero clue of strategy’ – but the stats tell a different story. Bryson DeChambeau arrived at Royal Birkdale with a point to prove.\n\nHaving missed the cut in each of the first three majors of the season, questions were beginning to grow louder about whether the two-time US Open champion’s power-first philosophy had finally reached its limits at golf’s biggest events.",
+        "copy": "The three-time Champion Golfer blasted Bryson DeChambeau for having ‘zero clue of strategy’ – but the stats tell a different story. Bryson DeChambeau arrived at Royal Birkdale with a point to prove.\n\nHaving missed the cut in each of the first three majors of the season, questions were beginning to grow louder about whether the two-time US Open champion’s power-first philosophy had finally reached its limits at golf’s biggest events.",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "3 simple steps for hitting more consistent chip shots",
+        "link": "https://golf.com/instruction/short-game/three-simple-steps-hitting-more-consistent-chips/",
+        "published": "2026-07-17T17:41:56+00:00",
+        "published_label": "Fri 17 Jul, 17:41",
+        "summary": "GOLF Top 100 Teacher Joe Hallett has three simple keys you can rely on to hit more consistent chip shots around the greens. The post 3 simple steps for hitting more consistent chip shots appeared first on Golf .",
+        "body": "Every golfer has experienced the feeling. One day you’re clipping crisp chip shots that finish in tap-in range, and the next you’re wondering where that touch disappeared to. Whether you’re struggling around the greens or simply looking for a dependable technique to simplify your short game, having a reliable reset can make all the difference.\n\nThe good news is that it doesn’t have to be complicated. This three-step plan is easy to remember and can quickly get you back to making solid, consistent contact. Better yet, it helps the club do what it was designed to do instead of forcing the shot with unnecessary motion.",
+        "copy": "Every golfer has experienced the feeling. One day you’re clipping crisp chip shots that finish in tap-in range, and the next you’re wondering where that touch disappeared to. Whether you’re struggling around the greens or simply looking for a dependable technique to simplify your short game, having a reliable reset can make all the difference.\n\nThe good news is that it doesn’t have to be complicated. This three-step plan is easy to remember and can quickly get you back to making solid, consistent contact. Better yet, it helps the club do what it was designed to do instead of forcing the shot with unnecessary motion.",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "I tried each of Billy Horschel's Ralph Lauren looks for this week's Open Championship",
+        "link": "https://golf.com/gear/golf-apparel/ralph-lauren-rlx-open-championship/",
+        "published": "2026-07-17T17:28:47+00:00",
+        "published_label": "Fri 17 Jul, 17:28",
+        "summary": "If you're looking for a classic look in premium materials, RLX has it covered. Here's how they're scripting Billy Horschel for the Open. The post I tried each of Billy Horschel’s Ralph Lauren looks for this week’s Open Championship appeared first on Golf .",
+        "body": "A few weeks ago, I had an incredible experience at Pebble Beach with the Ralph Lauren team. We were given a golf outfit to walk 18 holes at Pebble Beach Golf Links, and I was really impressed by the gear, so naturally I had to reach out and see if I could get my hands on some more.\n\nSince it’s The Open week, the RLX team and I had the idea to showcase what Billy Horschel is scripted in this week, as his style is one that I really connect with. So here’s what Billy — and me! — are wearing this weekend.",
+        "copy": "A few weeks ago, I had an incredible experience at Pebble Beach with the Ralph Lauren team. We were given a golf outfit to walk 18 holes at Pebble Beach Golf Links, and I was really impressed by the gear, so naturally I had to reach out and see if I could get my hands on some more.\n\nSince it’s The Open week, the RLX team and I had the idea to showcase what Billy Horschel is scripted in this week, as his style is one that I really connect with. So here’s what Billy — and me! — are wearing this weekend.",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "He was a top Open favorite. After missed cut, he bemoans bad links luck at Birkdale",
+        "link": "https://golf.com/news/matt-fitzpatrick-open-championship-bad-luck/",
+        "published": "2026-07-17T17:25:44+00:00",
+        "published_label": "Fri 17 Jul, 17:25",
+        "summary": "Matt Fitzpatrick arrived as an Open favorite. He missed the cut at Royal Birkdale and bemoaned bad links luck on the way out. The post He was a top Open favorite. After missed cut, he bemoans bad links luck at Birkdale appeared first on Golf .",
+        "body": "Matt Fitzpatrick has been one of the best golfers in the world this year. He arrived at the Open Championship at Royal Birkdale with three wins under his belt in 2026 and was coming off a tie for third at the Genesis Scottish Open. Combine all that with his tie for fourth at last year’s Open at Royal Portrush, and Fitzpatrick was one of the trendiest picks to win this Open Championship.\n\nBut after back-to-back rounds of 72, Fitzpatrick will not play the weekend at Royal Birkdale, finishing with a two-day score of four-over to miss his first cut of the season. After signing his scorecard, Fitzpatrick briefly chatted with the media, pointing to bad links-golf luck and not poor play as the reason his major season will end in disappointing fashion.",
+        "copy": "Matt Fitzpatrick has been one of the best golfers in the world this year. He arrived at the Open Championship at Royal Birkdale with three wins under his belt in 2026 and was coming off a tie for third at the Genesis Scottish Open. Combine all that with his tie for fourth at last year’s Open at Royal Portrush, and Fitzpatrick was one of the trendiest picks to win this Open Championship.\n\nBut after back-to-back rounds of 72, Fitzpatrick will not play the weekend at Royal Birkdale, finishing with a two-day score of four-over to miss his first cut of the season. After signing his scorecard, Fitzpatrick briefly chatted with the media, pointing to bad links-golf luck and not poor play as the reason his major season will end in disappointing fashion.",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Rules debate swirls during Open leader's historic round, caddie shuts it down",
+        "link": "https://golf.com/news/rules-debate-historic-open-round-caddie/",
+        "published": "2026-07-17T17:13:58+00:00",
+        "published_label": "Fri 17 Jul, 17:13",
+        "summary": "During Lucas Herbert’s history-making Open round Friday, a rules question surfaced when viewers spotted his caddie using a rangefinder. The post Rules debate swirls during Open leader’s historic round, caddie shuts it down appeared first on Golf .",
+        "body": "SOUTHPORT, England — If you’re looking for a new caddie — that is, a caddie you can root for, as you maybe once did for Golf Ball (Adolphus Hull) or Fluff (Mike Cowan) or Bones (Jim Mackay) — we are proud to shine our special GOLF.com CaddieLight (trademark pending) on Nick Pugh, white-bearded Englishman bagman for Lucas Herbert, Australian golfer who carded a bogey-on-the-last 62 on Friday, here at the Royal Birkdale breezeway. Sixty-two! This LIV Golf Ripper is good. As for his caddie, Nick Pugh, he is, to recycle an old phrase, of golf. When a guy is, you know.\n\nTo go right to the “news” and please note the quotation marks: During Herbert’s round, TV viewers and viewer viewers could see Pugh using a rangefinder. You can use a rangefinder in LIV Golf play. You can’t use a rangefinder at PGA Tour events or the Masters or the U.S. Open or the British Open. (You can at a PGA Championship.) So people, including the broadcasters calling the action for Sky Sports, were asking: What is going on here — is this legal?",
+        "copy": "SOUTHPORT, England — If you’re looking for a new caddie — that is, a caddie you can root for, as you maybe once did for Golf Ball (Adolphus Hull) or Fluff (Mike Cowan) or Bones (Jim Mackay) — we are proud to shine our special GOLF.com CaddieLight (trademark pending) on Nick Pugh, white-bearded Englishman bagman for Lucas Herbert, Australian golfer who carded a bogey-on-the-last 62 on Friday, here at the Royal Birkdale breezeway. Sixty-two! This LIV Golf Ripper is good. As for his caddie, Nick Pugh, he is, to recycle an old phrase, of golf. When a guy is, you know.\n\nTo go right to the “news” and please note the quotation marks: During Herbert’s round, TV viewers and viewer viewers could see Pugh using a rangefinder. You can use a rangefinder in LIV Golf play. You can’t use a rangefinder at PGA Tour events or the Masters or the U.S. Open or the British Open. (You can at a PGA Championship.) So people, including the broadcasters calling the action for Sky Sports, were asking: What is going on here — is this legal?",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -7999,61 +8077,22 @@
         "body": "The 2026 Genesis Scottish Open hits the weekend on Saturday, July 11, with the third round at the Renaissance Club in North Berwick, Scotland. You can find full Genesis Scottish Open tee times for Saturday’s third round at the bottom of this post.\n\nWith two rounds done and dusted at the Genesis Scottish Open, Rory McIlroy finds himself locked in a three-way tie for the lead. The World No. 2 made five birdies against one bogey for a 66 in Friday’s second round, leaving him at nine under for the tournament at the halfway point.",
         "copy": "The 2026 Genesis Scottish Open hits the weekend on Saturday, July 11, with the third round at the Renaissance Club in North Berwick, Scotland. You can find full Genesis Scottish Open tee times for Saturday’s third round at the bottom of this post.\n\nWith two rounds done and dusted at the Genesis Scottish Open, Rory McIlroy finds himself locked in a three-way tie for the lead. The World No. 2 made five birdies against one bogey for a 66 in Friday’s second round, leaving him at nine under for the tournament at the halfway point.",
         "first_seen": "2026-07-11T10:40:16.719936+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Why Tommy Fleetwood is playing 2 clubs that fly same distance | Tour Report",
-        "link": "https://golf.com/gear/fairway-woods/tommy-fleetwood-9-wood-in-scotland/",
-        "published": "2026-07-10T18:48:53+00:00",
-        "published_label": "Fri 10 Jul, 18:48",
-        "summary": "In this week's Tour Report, find out why Tommy Fleetwood made the curious decision to add a 3-iron while keeping his 9-wood for links golf. The post Why Tommy Fleetwood is playing 2 clubs that fly same distance | Tour Report appeared first on Golf .",
-        "body": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nDespite the move to breezy links golf this week at the Genesis Scottish Open, Tommy Fleetwood is still playing a club designed to hit moon balls. Yes, Fleetwood still has his trusty 9-wood in the bag at Renaissance Club and plans to keep it in the bag for next week’s Open Championship as well. But that doesn’t mean his bag setup is unchanged.",
-        "copy": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nDespite the move to breezy links golf this week at the Genesis Scottish Open, Tommy Fleetwood is still playing a club designed to hit moon balls. Yes, Fleetwood still has his trusty 9-wood in the bag at Renaissance Club and plans to keep it in the bag for next week’s Open Championship as well. But that doesn’t mean his bag setup is unchanged.",
-        "first_seen": "2026-07-10T19:11:49.809526+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "McIlroy shoots four under par 66 to share Scottish Open lead",
-        "link": "https://www.bbc.co.uk/sport/golf/videos/ce8mrenj33lo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T18:34:45+00:00",
-        "published_label": "Fri 10 Jul, 18:34",
-        "summary": "Rory McIlroy shoots a four-under-par round of 66 to share the lead at the end of day two of the Scottish Open at the Renaissance Club.",
-        "body": "",
-        "copy": "Rory McIlroy shoots a four-under-par round of 66 to share the lead at the end of day two of the Scottish Open at the Renaissance Club.",
-        "first_seen": "2026-07-10T19:11:49.809526+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Woad leads Evian Championship heading into weekend",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c75ypw722epo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T18:11:21+00:00",
-        "published_label": "Fri 10 Jul, 18:11",
-        "summary": "England's Lottie Woad shoots a seven-under 64 to take the second round lead at the Evian Championship as world number one Nelly Korda misses the cut.",
-        "body": "England's Lottie Woad shot a seven-under-par 64 to take the second-round lead at the Evian Championship as world number one Nelly Korda missed the cut. Woad, who is back at the venue where she secured her LPGA Tour card 12 months ago, sits at 11 under overall. That is a stroke clear of Japan's Aki Iwai, who had led overnight.\n\n\"I've got obviously nice memories from last year here and I like the golf course, so I think that definitely helps,\" said Woad, who finished in a tie for third in 2025. \"I think I've just got slightly better in all areas. Nothing too different. I think just mentally been in these positions a bit more so I think I'm a little calmer under pressure.\"",
-        "copy": "England's Lottie Woad shot a seven-under-par 64 to take the second-round lead at the Evian Championship as world number one Nelly Korda missed the cut. Woad, who is back at the venue where she secured her LPGA Tour card 12 months ago, sits at 11 under overall. That is a stroke clear of Japan's Aki Iwai, who had led overnight.\n\n\"I've got obviously nice memories from last year here and I like the golf course, so I think that definitely helps,\" said Woad, who finished in a tie for third in 2025. \"I think I've just got slightly better in all areas. Nothing too different. I think just mentally been in these positions a bit more so I think I'm a little calmer under pressure.\"",
-        "first_seen": "2026-07-10T19:11:49.809526+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "The next frontier of putter customization is upon us",
-        "link": "https://golf.com/gear/putters/putter-customization-next-frontier/",
-        "published": "2026-07-10T17:18:30+00:00",
-        "published_label": "Fri 10 Jul, 17:18",
-        "summary": "Choosing the right putter is about way more than just looks and feel. The next level of customization gets into the nitty gritty. The post The next frontier of putter customization is upon us appeared first on Golf .",
-        "body": "After years of resisting, I’ve finally retired my blade putter and settled into a mallet. Turns out (shocker!) that I make more putts with a flatstick that’s more forgiving and easier to line up. More specifically, my putter of choice, a Ping Scottsdale TEC Ally Blue Onset— the standard length version of Wyndham Clark’s model — has helped me fight my dreaded pull miss and also apply more top spin to keep my putts on target.\n\nBut what I want to highlight in this piece is another component of the putter that has become a key tech talking point across the putter industry: its center of gravity. My old putter had a forward CG, and I struggled at times with both my start line and roll. My Ally Blue, with its shaft well behind the face, has a much deeper CG, which has helped me improve both these deficiencies.",
-        "copy": "After years of resisting, I’ve finally retired my blade putter and settled into a mallet. Turns out (shocker!) that I make more putts with a flatstick that’s more forgiving and easier to line up. More specifically, my putter of choice, a Ping Scottsdale TEC Ally Blue Onset— the standard length version of Wyndham Clark’s model — has helped me fight my dreaded pull miss and also apply more top spin to keep my putts on target.\n\nBut what I want to highlight in this piece is another component of the putter that has become a key tech talking point across the putter industry: its center of gravity. My old putter had a forward CG, and I struggled at times with both my start line and roll. My Ally Blue, with its shaft well behind the face, has a much deeper CG, which has helped me improve both these deficiencies.",
-        "first_seen": "2026-07-10T19:11:49.809526+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Japan Open: Yamaguchi Leads Home Surge",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEdqU1V4Q05wWnlMR3VyU2xyZHhydnlWLVBDYXZCa2gwVm9xa2l2LWFya1ByVGQ3NVhLXzZnUmZRcFoxM2Q2aUVjVjNYN19wQWZYYnNXcFI0N01rUVlILUVfaUJRSUJLSHZsRml1azc3aGxyTGxSSlZRQkkxUWxHQnU0dWtlTDhzcWNkRGdaM1ZYTndmSUlWUWx6OXV3Um8?oc=5",
+        "published": "2026-07-17T12:26:38+00:00",
+        "published_label": "Fri 17 Jul, 12:26",
+        "summary": "Japan Open: Yamaguchi Leads Home Surge BWF World Tour",
+        "body": "Once Akane Yamaguchi had staged a surreal comeback, there was no looking back for Japan. The home fans’ reigning deity, nearly down and out against Kim Ga Eun, broke her opponent’s heart as she completed her 11th straight victory over the Korean.\n\nWhat followed was a dream day for Japan, with Yushi Tanaka upstaging No.2 seed Kunlavut Vitidsarn to enter his maiden Super 750 semifinal, Koki Watanabe taking down third seed Anders Antonsen, and Kodai Naraoka prevailing in a 98-minute marathon against Alwi Farhan.",
+        "copy": "Once Akane Yamaguchi had staged a surreal comeback, there was no looking back for Japan. The home fans’ reigning deity, nearly down and out against Kim Ga Eun, broke her opponent’s heart as she completed her 11th straight victory over the Korean.\n\nWhat followed was a dream day for Japan, with Yushi Tanaka upstaging No.2 seed Kunlavut Vitidsarn to enter his maiden Super 750 semifinal, Koki Watanabe taking down third seed Anders Antonsen, and Kodai Naraoka prevailing in a 98-minute marathon against Alwi Farhan.",
+        "first_seen": "2026-07-17T19:04:07.758236+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -8552,5 +8591,5 @@
       }
     ]
   },
-  "total": 656
+  "total": 659
 }
