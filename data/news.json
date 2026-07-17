@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T08:05:41.400454+00:00",
-  "generated_label": "Friday 17 July 2026, 08:05 UTC",
+  "generated_at": "2026-07-17T09:28:17.788360+00:00",
+  "generated_label": "Friday 17 July 2026, 09:28 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "World Cup paradox: Why sport thrives in an age of cultural fragmentation",
+        "link": "https://www.sportspro.com/opinions/decision-makers/politics-and-governance/world-cup-paradox-why-sport-thrives-in-an-age-of-cultural-fragmentation/",
+        "published": "2026-07-17T08:31:02+00:00",
+        "published_label": "Fri 17 Jul, 08:31",
+        "summary": "As media and entertainment fragment into localised niches, global sport thrives by uniting diverse identities without erasing cultural differences. The post World Cup paradox: Why sport thrives in an age of cultural fragmentation appeared first on SportsPro .",
+        "body": "In its June 13–19 edition, The Economist published an article titled “A World Cup Paradox.” Despite the sport-centric headline, the article wasn’t really about soccer but more about media and culture.\n\nFor much of the 20th century, American entertainment enjoyed unparalleled global influence. Hollywood studios, television networks and record labels produced cultural products consumed around the world. Whether one lived in Brisbane, Berlin, Buenos Aires or Bangkok, there was a good chance people were watching, listening or discussing the same movies, music or TV shows.",
+        "copy": "In its June 13–19 edition, The Economist published an article titled “A World Cup Paradox.” Despite the sport-centric headline, the article wasn’t really about soccer but more about media and culture.\n\nFor much of the 20th century, American entertainment enjoyed unparalleled global influence. Hollywood studios, television networks and record labels produced cultural products consumed around the world. Whether one lived in Brisbane, Berlin, Buenos Aires or Bangkok, there was a good chance people were watching, listening or discussing the same movies, music or TV shows.",
+        "first_seen": "2026-07-17T09:28:17.788360+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportBusiness",
+        "kind": "direct",
+        "title": "Eleven out of Ten(der): Uefa set to move on from CAA era",
+        "link": "https://www.sportbusiness.com/2026/07/eleven-out-of-tender-uefa-set-to-move-on-from-caa-era/?utm_source=rss&utm_medium=rss&utm_campaign=eleven-out-of-tender-uefa-set-to-move-on-from-caa-era",
+        "published": "2026-07-17T08:27:34+00:00",
+        "published_label": "Fri 17 Jul, 08:27",
+        "summary": "This week on The SportBusiness Podcast, Jonathan Rest and Martin Ross discuss a major development in the commercialisation of European football as the World Cup enters the final straight",
+        "body": "",
+        "copy": "This week on The SportBusiness Podcast, Jonathan Rest and Martin Ross discuss a major development in the commercialisation of European football as the World Cup enters the final straight",
+        "first_seen": "2026-07-17T09:28:17.788360+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1402,22 +1428,35 @@
         "body": "",
         "copy": "In a change to the usual format, the SportBusiness Podcast comes live from the city of London",
         "first_seen": "2026-07-10T13:30:24.232139+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "A mountain runner’s guide to Mallorca",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92Q1FiRWNLTjBud05vellsaERBZnY0dXpEVzlQR1VhM085SURyeDdjQk9GWXpua3hFLW1MSW5YU2FpTlA3RUlXQzVGV0kydDU0Rm5BQnZMVHY1Zkt0MVdsOE43RXlEcVdudVI4ZE10SkM?oc=5",
-        "published": "2026-07-10T08:30:05+00:00",
-        "published_label": "Fri 10 Jul, 08:30",
-        "summary": "A mountain runner’s guide to Mallorca Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-10T13:30:24.232139+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "England make late change to Argentina plans to block out the outside noise",
+        "link": "https://www.rugbypass.com/news/england-make-late-change-to-argentina-plans-to-block-out-the-outside-noise/",
+        "published": "2026-07-17T08:25:50+00:00",
+        "published_label": "Fri 17 Jul, 08:25",
+        "summary": "Hundreds of thousands of Argentina fans gathered in the capital on Wednesday night to celebrate the semi-final win over Thomas Tuchel’s side.",
+        "body": "England have been forced to change hotel in Buenos Aires on Sunday night to avoid being caught up in any celebrations should Argentina win the World Cup. Hundreds of thousands of fans gathered around the famous Obelisk on the Plaza de la Republica on Wednesday night to celebrate the 2-1 semi-final victory over Thomas Tuchel’s side – right outside where England have been based in the Argentinian capital.\n\nFireworks were let off throughout the night and earplugs were issued to players and staff to help with sleep amid the noise, while steel fencing was erected around the hotel as a precautionary measure.",
+        "copy": "England have been forced to change hotel in Buenos Aires on Sunday night to avoid being caught up in any celebrations should Argentina win the World Cup. Hundreds of thousands of fans gathered around the famous Obelisk on the Plaza de la Republica on Wednesday night to celebrate the 2-1 semi-final victory over Thomas Tuchel’s side – right outside where England have been based in the Argentinian capital.\n\nFireworks were let off throughout the night and earplugs were issued to players and staff to help with sleep amid the noise, while steel fencing was erected around the hotel as a precautionary measure.",
+        "first_seen": "2026-07-17T09:28:17.788360+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ireland must 'make our own history' in NZ",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cx2ln27xzldo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-17T08:24:30+00:00",
+        "published_label": "Fri 17 Jul, 08:24",
+        "summary": "Ireland captain Dan Sheehan says Andy Farrell's side must \"make our own history\" when they take on New Zealand at Eden Park in the Nations Championship on Saturday [08:10 BST].",
+        "body": "Ireland captain Dan Sheehan says Andy Farrell's side must \"make our own history\" when they take on New Zealand at Eden Park in the Nations Championship on Saturday [08:10 BST].\n\nThe All Blacks have not been beaten at their Auckland fortress since 1994 and while Ireland won a Test series on away soil in 2022, they lost at Eden Park in the first of a three-match series.",
+        "copy": "Ireland captain Dan Sheehan says Andy Farrell's side must \"make our own history\" when they take on New Zealand at Eden Park in the Nations Championship on Saturday [08:10 BST].\n\nThe All Blacks have not been beaten at their Auckland fortress since 1994 and while Ireland won a Test series on away soil in 2022, they lost at Eden Park in the first of a three-match series.",
+        "first_seen": "2026-07-17T09:28:17.788360+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4433,48 +4472,22 @@
         "body": "Lagi Tuima has signed for Leicester Tigers after her seven-year stay with Harlequins came to an end this summer. During her time in West London the 28-year-old was a JAECOO Premiership Women’s Rugby champion in 2021 [then Premier 15s] and scored 381 points across her 107 appearances.\n\nTuima is another experienced addition to a Leicester team that finished at the foot of the PWR table in 2025/26. Already the club have announced the signing of senior internationals Abbie Fleming [Wales] and Tabua Tuinakauvadra [Australia].",
         "copy": "Lagi Tuima has signed for Leicester Tigers after her seven-year stay with Harlequins came to an end this summer. During her time in West London the 28-year-old was a JAECOO Premiership Women’s Rugby champion in 2021 [then Premier 15s] and scored 381 points across her 107 appearances.\n\nTuima is another experienced addition to a Leicester team that finished at the foot of the PWR table in 2025/26. Already the club have announced the signing of senior internationals Abbie Fleming [Wales] and Tabua Tuinakauvadra [Australia].",
         "first_seen": "2026-07-10T13:30:24.232139+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Steve Borthwick responds to growing disquiet, puts Jack Willis rumours to bed",
-        "link": "https://www.rugbypass.com/news/steve-borthwick-focused-on-fiji-as-criticism-of-england-head-coach-grows/",
-        "published": "2026-07-10T09:27:55+00:00",
-        "published_label": "Fri 10 Jul, 09:27",
-        "summary": "The Hill Dickinson Stadium appointment with the Islanders is a must-win encounter ahead of a tricky clash against Argentina on July 18.",
-        "body": "Steve Borthwick understands the scrutiny of his position amid England’s five-Test losing run but is concentrating only on Saturday’s collision with Fiji. A 45-21 defeat by South Africa opened the July tour, turning the Hill Dickinson Stadium appointment with the Islanders into a must-win encounter ahead of a tricky clash against Argentina on July 18.\n\nIn a clear indication of the stakes, Borthwick has opted against rotating his team for the middle fixture of a 25,000-mile expedition across three continents and instead named his strongest available starting XV.",
-        "copy": "Steve Borthwick understands the scrutiny of his position amid England’s five-Test losing run but is concentrating only on Saturday’s collision with Fiji. A 45-21 defeat by South Africa opened the July tour, turning the Hill Dickinson Stadium appointment with the Islanders into a must-win encounter ahead of a tricky clash against Argentina on July 18.\n\nIn a clear indication of the stakes, Borthwick has opted against rotating his team for the middle fixture of a 25,000-mile expedition across three continents and instead named his strongest available starting XV.",
-        "first_seen": "2026-07-10T13:30:24.232139+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Rare world rankings opportunity opens up for Springboks",
-        "link": "https://www.rugbypass.com/news/rare-world-rankings-opportunity-opens-up-for-springboks/",
-        "published": "2026-07-10T09:08:28+00:00",
-        "published_label": "Fri 10 Jul, 09:08",
-        "summary": "Springbok supporters aghast to find out that their 45-21 destruction of England wasn't rewarded in the rankings, will be pleased to know that some form of gain, albeit minimal, is possible against Scotland.",
-        "body": "Springbok supporters aghast to find out that their 45-21 destruction of England in the opening round of the Nations Championship wasn’t rewarded in the World Rugby Men’s Rankings, will be pleased to know that some form of gain, albeit minimal, is possible if they beat Scotland at Loftus Versveld this Saturday.\n\nScotland have been to South Africa seven times and have been defeated on every trip, and there is little to suggest that the formbook will be ripped up at the Springboks’ most impregnable fortress, where their winning record touches 79%.",
-        "copy": "Springbok supporters aghast to find out that their 45-21 destruction of England in the opening round of the Nations Championship wasn’t rewarded in the World Rugby Men’s Rankings, will be pleased to know that some form of gain, albeit minimal, is possible if they beat Scotland at Loftus Versveld this Saturday.\n\nScotland have been to South Africa seven times and have been defeated on every trip, and there is little to suggest that the formbook will be ripped up at the Springboks’ most impregnable fortress, where their winning record touches 79%.",
-        "first_seen": "2026-07-10T13:30:24.232139+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Andy Farrell responds to Eddie Jones prediction for Japan’s clash with Ireland",
-        "link": "https://www.rugbypass.com/news/andy-farrell-responds-to-eddie-jones-prediction-for-japans-clash-with-ireland/",
-        "published": "2026-07-10T08:25:36+00:00",
-        "published_label": "Fri 10 Jul, 08:25",
-        "summary": "Andy Farrell has brushed off Eddie Jones’ pre-match mind games ahead of Ireland’s Nations Championship clash with Japan...",
-        "body": "Andy Farrell has brushed off Eddie Jones’ pre-match mind games ahead of Ireland’s Nations Championship clash with Japan on Saturday. Jones, who will return from a four-match ban imposed by the Japanese federation for abusing match officials earlier this year, has said he expects his pack to dominate the Irish scrum in the second half when the two sides meet in Newcastle, Australia.\n\nBut Farrell, who knows Jones well from their time together at Saracens, took the comments with good humour. “In the first and second half especially, we expect to dominate in all areas of the game,” Farrell told reporters.",
-        "copy": "Andy Farrell has brushed off Eddie Jones’ pre-match mind games ahead of Ireland’s Nations Championship clash with Japan on Saturday. Jones, who will return from a four-match ban imposed by the Japanese federation for abusing match officials earlier this year, has said he expects his pack to dominate the Irish scrum in the second half when the two sides meet in Newcastle, Australia.\n\nBut Farrell, who knows Jones well from their time together at Saracens, took the comments with good humour. “In the first and second half especially, we expect to dominate in all areas of the game,” Farrell told reporters.",
-        "first_seen": "2026-07-10T13:30:24.232139+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Famous West London tennis club plans two new squash courts including one for doubles",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaG9ZRm1zVWY3bHo0RC0wV3Q5OG5KRjdRSFBJUnU5d1NGUkk0MGdiX1dXR0c3RExuZkVKUHBrYi1fWFM5OTE4Y1dWX0VFalVCemxlOTlqYkplM1gyZVRZelh5WGpjbnRVZE9jWW90NG5McjM5dEFYRzFSdTBqb0ZGeXk3Xzk3dFBzNWZyOEZrVy1HQdIBlwFBVV95cUxPa2hiSEJJV3VyZk1vX0wyYzI5aVNHVWdmcHBteHo2b1k4Xy1xMkpjeEpsWmVCZTVEOWloSUIyNVlIV0tRR3VFc0EwVU5walptUjV2c1NUYzhpQ3dtXy1NRzV3dndqQkJsWDNSMS10aXViUDh6dDBvTUVjdkNKNzl3OUhwV1EtMFpySkY2SDViZEdZODBseWxJ?oc=5",
+        "published": "2026-07-17T09:00:00+00:00",
+        "published_label": "Fri 17 Jul, 09:00",
+        "summary": "Famous West London tennis club plans two new squash courts including one for doubles My London",
+        "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "first_seen": "2026-07-17T09:28:17.788360+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -5553,22 +5566,22 @@
         "body": "Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
         "copy": "Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
         "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "What is the secret behind Czech women's Wimbledon success?",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOd1BxTDlkNzNRMmtlYjVqQ0Q3aXZYVkQwUnpnOTVONUNHTE5kLXZrTDVtN0lqeFhnR3FuY3VWaXRFb1JBMkhqd29sT0tueEs0UGswazBBaVprMTVEcFRLWDNGcDM5cHVRNjhHRThtVlJZcEhCQjhsemtCd0JmSGE2TnhzcmRDZEUtRUFFbm4tVEQ5M2ZkRURsRlZJeFRLSkJWVl9vakN4UEd6TUc4clJ5cmMwVklDNUs3QkxoWTU2MF9HZGxFbDZPeUdYUXhXUTJnR2FpWU5lRkZXX3RUQUtSSzg0clJSX3g1TUNHUU0wSVFrX0hXeUNFaVAzcTBDdw?oc=5",
-        "published": "2026-07-10T09:01:14+00:00",
-        "published_label": "Fri 10 Jul, 09:01",
-        "summary": "What is the secret behind Czech women's Wimbledon success? Sky Sports",
-        "body": "The last time two women from the same nation contested the singles final at Wimbledon was back in 2009. It will come as little surprise that it was Serena Williams taking on sister Venus for the Venus Rosewater Dish.\n\nOn that day, Serena came through in straight sets, ending the reign of two-time defending champion Venus as the American clinched her third Wimbledon title and 11th major overall.",
-        "copy": "The last time two women from the same nation contested the singles final at Wimbledon was back in 2009. It will come as little surprise that it was Serena Williams taking on sister Venus for the Venus Rosewater Dish.\n\nOn that day, Serena came through in straight sets, ending the reign of two-time defending champion Venus as the American clinched her third Wimbledon title and 11th major overall.",
-        "first_seen": "2026-07-10T19:11:49.809526+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau makes another driver switch on the hunt for Open glory",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVhabTdsZ3FuR3pNRWE2RHVjRzRnVlFNSkNZTm8wS1ppWTQ5bDY5VXFUOHlvOXBpMzYyWkdBWlBJMVRVMUJwRmF2WEc2bUlOQ0s4ekxXb21tdm9MNFk1bU1DVjNpaC11Y0NLVDBBcjZPNGpIV0R1NGYzVFoyNndlRjN4LUlvbUlFOC1TOUhpcW5OUnVaSXlvZWF2QThtZWl4TXdPTg?oc=5",
+        "published": "2026-07-17T08:41:32+00:00",
+        "published_label": "Fri 17 Jul, 08:41",
+        "summary": "Bryson DeChambeau makes another driver switch on the hunt for Open glory Golfmagic",
+        "body": "Bryson DeChambeau is in the midst of a gear upheaval right now. In addition to switching out both his driver and his wedges in recent months, the American caught eyes earlier this week, revealing a brand new set of custom-produced irons he 3D printed to suit his own game.\n\nHowever it appears not all of his recent changes have quite stuck just yet. After making a high-profile switch into a prototype TaylorMade Qi4D driver shortly before the U.S. Open, DeChambeau switched back into his former driver, a Krank Formula Fire that he adopted during his time competing in long drive events.",
+        "copy": "Bryson DeChambeau is in the midst of a gear upheaval right now. In addition to switching out both his driver and his wedges in recent months, the American caught eyes earlier this week, revealing a brand new set of custom-produced irons he 3D printed to suit his own game.\n\nHowever it appears not all of his recent changes have quite stuck just yet. After making a high-profile switch into a prototype TaylorMade Qi4D driver shortly before the U.S. Open, DeChambeau switched back into his former driver, a Krank Formula Fire that he adopted during his time competing in long drive events.",
+        "first_seen": "2026-07-17T09:28:17.788360+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -8225,6 +8238,32 @@
     "Badminton": [
       {
         "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships 2026: Chirag Shetty says focus is on World Championships and Asian Games",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNazRqUTNpcjFNZnBTbkxqS0dOYURvRzEyM05rQXFUc240cENTRnphMUdOUjlCaWhmRk1aczBqckFrVXE5YlhWR3NMZ0pnc1A1R0NvY0owSWdqMmFHeEZpSm1lREFwd1k2X1BvRXY5ckU4RWNHSXB2ZlAyNHpOLWtHakJWaThxcWVmNFNoME96d1FfMFFuWV9qX1V1ZmM1dmJoN3lOQXFyU0FlcE8zV0lQeVZOeVhJMWxONllMX2VMUQ?oc=5",
+        "published": "2026-07-17T09:00:14+00:00",
+        "published_label": "Fri 17 Jul, 09:00",
+        "summary": "BWF World Championships 2026: Chirag Shetty says focus is on World Championships and Asian Games Telangana Today",
+        "body": "India's men's doubles star Chirag Shetty says he and partner Satwiksairaj Rankireddy are focused on peaking for the BWF World Championships and the Asian Games. The duo will also look to defend their historic men's doubles gold at the 2026 Asian Games.\n\nNew Delhi: India’s star doubles shuttler Chirag Shetty says he and long-time partner Satwiksairaj Rankireddy are fully focused on making the most of two of the biggest events on the badminton calendar this year, the BWF World Championships and the Asian Games.",
+        "copy": "India's men's doubles star Chirag Shetty says he and partner Satwiksairaj Rankireddy are focused on peaking for the BWF World Championships and the Asian Games. The duo will also look to defend their historic men's doubles gold at the 2026 Asian Games.\n\nNew Delhi: India’s star doubles shuttler Chirag Shetty says he and long-time partner Satwiksairaj Rankireddy are fully focused on making the most of two of the biggest events on the badminton calendar this year, the BWF World Championships and the Asian Games.",
+        "first_seen": "2026-07-17T09:28:17.788360+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Japan Open: Malaysians Spring Surprise",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOam9lbXRTSnc2VllRYjFkdnM2bkh5V2I0OFJGak1Wd0REd2ZZTHR3UFVWcV90V1QtS3pkU2p6anpNU0R2ZUJsQnhMZ0RQT1BqWUlfc2t1OUtyUzBiWWRjM1UxTnZZUTlMdkk1MDlzMzRFTmE0cFZTeGF6TXFjSW5UN3huQTl5Ynl2MWNFQVpkdktsc3Z4em1MVWhxMzRjU0t5ZXJr?oc=5",
+        "published": "2026-07-17T08:19:34+00:00",
+        "published_label": "Fri 17 Jul, 08:19",
+        "summary": "Japan Open: Malaysians Spring Surprise BWF World Tour",
+        "body": "Just five tournaments into their partnership, Jimmy Wong and Cheng Su Yin knocked out in-form pair Mathias Christiansen and Alexandra Boje on their way to a first semifinal. It was Christiansen and Boje’s earliest defeat since the All England in March, after which they had embarked on a brilliant run which saw them win four titles from five finals.\n\nWong and Cheng, whose partnership started at the Malaysia Masters where they ran into the Danes, turned it around today with a calm performance, disallowing the Danes any substantial opening.",
+        "copy": "Just five tournaments into their partnership, Jimmy Wong and Cheng Su Yin knocked out in-form pair Mathias Christiansen and Alexandra Boje on their way to a first semifinal. It was Christiansen and Boje’s earliest defeat since the All England in March, after which they had embarked on a brilliant run which saw them win four titles from five finals.\n\nWong and Cheng, whose partnership started at the Malaysia Masters where they ran into the Danes, turned it around today with a calm performance, disallowing the Danes any substantial opening.",
+        "first_seen": "2026-07-17T09:28:17.788360+00:00"
+      },
+      {
+        "section": "Badminton",
         "source": "Olympics",
         "kind": "gnews",
         "title": "BWF Japan Open 2026: World No. 2 Kunlavut Vitidsarn denied semi-final spot by Japan's Tanaka Yushi",
@@ -8669,5 +8708,5 @@
       }
     ]
   },
-  "total": 665
+  "total": 668
 }
