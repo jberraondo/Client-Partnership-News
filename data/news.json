@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T13:22:08.745205+00:00",
-  "generated_label": "Friday 17 July 2026, 13:22 UTC",
+  "generated_at": "2026-07-17T15:12:42.741928+00:00",
+  "generated_label": "Friday 17 July 2026, 15:12 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "SURJ enters venue-focused JV with Live Nation, Oak View Group",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2xMbnBBeDBRUHJWNUdMZ0NWTEhXbjZFY0ttcUpDSDh3V1NqZEZNbXlJeHZhVzR5UFFmVDdwZEItOFBFWkxMMkhJSGVoSmEtLUdScHdBYU9jcVdyZExVZFZuOVpGN2NiYmQtUDY5NGJsZlNMcFJieldWTDdaYUkwZ1VWV3oyZGl0RHQ3dDhJWVhpUURQS1E?oc=5",
+        "published": "2026-07-17T14:50:18+00:00",
+        "published_label": "Fri 17 Jul, 14:50",
+        "summary": "SURJ enters venue-focused JV with Live Nation, Oak View Group Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "ATP Finals to stay in Turin through 2027",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IZ3UxQlYwakFGM0xVNmtySk14VVgxMkFyTWQ0WDctS0VSUlZrcmwtbUVKQk1SR2hVem4tRzgyUC1OX0E3bUpHcm0tNmJ2Wm41NWZZZDJVWEY3Z1g4dXoyM1ZHSzdPV2xhSWp1bHo2ZGRDZmNncUdyV2w4QQ?oc=5",
+        "published": "2026-07-17T14:50:16+00:00",
+        "published_label": "Fri 17 Jul, 14:50",
+        "summary": "ATP Finals to stay in Turin through 2027 Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "SportsPro",
@@ -1350,35 +1376,87 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Disney exec Bowen to replace long-serving Gandler as Fubo chief",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWlzeVhYQTBhd1JZOThHNlZndXJuZnFLc2JxbGlkM2k0NlpkU3ROZ2FVbDNhMUtpQmZQMXlWeTlXRS04TmZldmJNMGl2MzBqcHFZS1J2aUY2ak1nQ1E4Z3ZLNVpIaWg1d0RkZklKNFdXTGpZbnpIT2hMTVd1U3dTM2VBVllvQWY1YTlIT3BDbHN4c2JITVdvUHRR?oc=5",
-        "published": "2026-07-10T14:23:48+00:00",
-        "published_label": "Fri 10 Jul, 14:23",
-        "summary": "Disney exec Bowen to replace long-serving Gandler as Fubo chief Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "La Vuelta tucks into Noel Alimentaria sponsorship deal",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUp2RzNBT1M2cWt4dFR6THBnb2NYTGw2MjgwdGVSNE9iZmR3anNBSFZWbVRNU2NvRUpiMDA4RGFTeE83b2txY3FrTlBVNllZLVAtbUV5NFY2SXN2S1lJUzU1a2YxUEFQcUZzYnNqYjltZHc4WUI0dW9vYnZWN1llVUJwTXI1Wkl1ZnFXeVFR?oc=5",
-        "published": "2026-07-10T14:23:48+00:00",
-        "published_label": "Fri 10 Jul, 14:23",
-        "summary": "La Vuelta tucks into Noel Alimentaria sponsorship deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "England could walk off if players racially abused in Argentina",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cx2k46n7x1ko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-17T14:47:30+00:00",
+        "published_label": "Fri 17 Jul, 14:47",
+        "summary": "Captain Jamie George says England are considering the prospect of walking off the pitch should any of their players suffer racial abuse against Argentina.",
+        "body": "Captain Jamie George says England are considering the prospect of walking off the pitch should any of their players suffer racial abuse against Argentina on Saturday. Last year's win in San Juan was marred by abuse targeting England replacements Asher Opoku-Fordjour and Chandler Cunningham-South.\n\nGoverning body World Rugby condemned the incident but were unable to identify any perpetrators. The last meeting between the teams, in November, ended in a heated exchange, with Argentina coach Felipe Contepomi calling England flanker Tom Curry a \"bully\" who swore at him and pushed him in the tunnel at Allianz Stadium.",
+        "copy": "Captain Jamie George says England are considering the prospect of walking off the pitch should any of their players suffer racial abuse against Argentina on Saturday. Last year's win in San Juan was marred by abuse targeting England replacements Asher Opoku-Fordjour and Chandler Cunningham-South.\n\nGoverning body World Rugby condemned the incident but were unable to identify any perpetrators. The last meeting between the teams, in November, ended in a heated exchange, with Argentina coach Felipe Contepomi calling England flanker Tom Curry a \"bully\" who swore at him and pushed him in the tunnel at Allianz Stadium.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'There's still so much more to come': Wales' Pyrs re-signs with Gloucester Hartpury",
+        "link": "https://www.rugbypass.com/news/theres-still-so-much-more-to-come-wales-lock-re-signs-with-gloucester-hartpury/",
+        "published": "2026-07-17T14:25:18+00:00",
+        "published_label": "Fri 17 Jul, 14:25",
+        "summary": "Wales lock Alaw Pyrs has re-signed with Gloucester Hartpury for the 2026/27 JAECOO Premiership Women's Rugby campaign.",
+        "body": "Wales lock Alaw Pyrs has re-signed with Gloucester Hartpury for the 2026/27 JAECOO Premiership Women’s Rugby campaign. The 20-year-old joined Gloucester Hartpury last year after a breakout season. Pyrs had made her debut for Wales against Scotland in a warm-up fixture for WXV 2 in October 2024.\n\nWhile in South Africa Pyrs made two more appearances for her country and then had a strong Celtic Challenge and Guinness Women’s Six Nations campaigns afterward. In her debut PWR campaign, Pyrs made five league appearances and scored one try as the West Country club failed to win a fourth English league title in a row.",
+        "copy": "Wales lock Alaw Pyrs has re-signed with Gloucester Hartpury for the 2026/27 JAECOO Premiership Women’s Rugby campaign. The 20-year-old joined Gloucester Hartpury last year after a breakout season. Pyrs had made her debut for Wales against Scotland in a warm-up fixture for WXV 2 in October 2024.\n\nWhile in South Africa Pyrs made two more appearances for her country and then had a strong Celtic Challenge and Guinness Women’s Six Nations campaigns afterward. In her debut PWR campaign, Pyrs made five league appearances and scored one try as the West Country club failed to win a fourth English league title in a row.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Louis Rees-Zammit makes candid admission about return to rugby",
+        "link": "https://www.rugbypass.com/news/louis-rees-zammit-makes-candid-admission-about-return-to-rugby/",
+        "published": "2026-07-17T13:52:02+00:00",
+        "published_label": "Fri 17 Jul, 13:52",
+        "summary": ".The 25-year-old speedster finishes his first season back in rugby after an 18-month spell in the NFL on Saturday when Wales meet world champions South Africa in the Nations Championship.",
+        "body": "Louis Rees-Zammit admits he has taken time to find his feet again after returning to rugby from American Football. The 25-year-old speedster finishes his first season back in rugby after an 18-month spell in the NFL on Saturday when Wales meet world champions South Africa in the Nations Championship.\n\nRees-Zammit has been restored to the wing at Durban after being left out of last weekend’s defeat to Argentina in San Juan. “I haven’t settled in as quickly as I wanted to back into rugby,” said Rees-Zammit, who has floated between full-back and wing for both Bristol and Wales.",
+        "copy": "Louis Rees-Zammit admits he has taken time to find his feet again after returning to rugby from American Football. The 25-year-old speedster finishes his first season back in rugby after an 18-month spell in the NFL on Saturday when Wales meet world champions South Africa in the Nations Championship.\n\nRees-Zammit has been restored to the wing at Durban after being left out of last weekend’s defeat to Argentina in San Juan. “I haven’t settled in as quickly as I wanted to back into rugby,” said Rees-Zammit, who has floated between full-back and wing for both Bristol and Wales.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Jamie George promises 'strongest of actions' if behaviour is repeated",
+        "link": "https://www.rugbypass.com/news/jamie-george-promises-strongest-of-actions-if-behaviour-is-repeated/",
+        "published": "2026-07-17T13:39:13+00:00",
+        "published_label": "Fri 17 Jul, 13:39",
+        "summary": "Asher Opoku-Fordjour and Chandler Cunningham-South were targeted by a small group of fans during England’s 22-17 victory in San Juan a year ago.",
+        "body": "Jamie George has threatened to lead his England team off the pitch against the Pumas on Saturday if there is a recurrence of the racial abuse that marred their last appearance in Argentina.\n\nAsher Opoku-Fordjour and Chandler Cunningham-South were targeted by a small group of fans when warming up with their fellow replacements during the first half of England’s 22-17 victory in San Juan a year ago.",
+        "copy": "Jamie George has threatened to lead his England team off the pitch against the Pumas on Saturday if there is a recurrence of the racial abuse that marred their last appearance in Argentina.\n\nAsher Opoku-Fordjour and Chandler Cunningham-South were targeted by a small group of fans when warming up with their fellow replacements during the first half of England’s 22-17 victory in San Juan a year ago.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Elliot Williams: 'A few of us were a bit annoyed after the South Africa game. We want to right those wrongs.'",
+        "link": "https://www.rugbypass.com/plus/elliot-williams-a-few-of-us-were-a-bit-annoyed-after-the-south-africa-game-we-want-to-right-those-wrongs/",
+        "published": "2026-07-17T13:34:51+00:00",
+        "published_label": "Fri 17 Jul, 13:34",
+        "summary": "The powerful Harlequins and England U20 second-row discusses his rugby journey and having Austin Healey question his age.",
+        "body": "Keith and Sarah Williams were talented basketball players in their youth, before setting down roots in the leafy environs of Staines-upon-Thames, but with a growing brood, there was no obvious outlet to mould them into the next LeBron James or Victor Wembanyama, so with five children climbing the walls, they agreed the next best thing would be to ferry those willing to the nearest rugby club: London Irish Amateurs.\n\nElliot, the second eldest, had a natural disposition for rugby and 14 years later, will be staring down the Haka tomorrow as England U20s look to secure a third-placed finish at the Junior World Championship.",
+        "copy": "Keith and Sarah Williams were talented basketball players in their youth, before setting down roots in the leafy environs of Staines-upon-Thames, but with a growing brood, there was no obvious outlet to mould them into the next LeBron James or Victor Wembanyama, so with five children climbing the walls, they agreed the next best thing would be to ferry those willing to the nearest rugby club: London Irish Amateurs.\n\nElliot, the second eldest, had a natural disposition for rugby and 14 years later, will be staring down the Haka tomorrow as England U20s look to secure a third-placed finish at the Junior World Championship.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Georgian connection excites Rob Baxter as prop re-signs",
+        "link": "https://www.rugbypass.com/news/georgian-connection-excites-rob-baxter-as-prop-re-signs/",
+        "published": "2026-07-17T13:21:48+00:00",
+        "published_label": "Fri 17 Jul, 13:21",
+        "summary": "Georgia international tight-head Bachuki Tchumbadze admits that he is delighted to have signed a one-year extension to his Exeter Chiefs contract, that will tie him to Sandy Park until 2028.",
+        "body": "Georgia international tight-head Bachuki Tchumbadze admits that he is delighted to have signed a one-year extension to his Exeter Chiefs contract, that will tie him to Sandy Park until 2028.\n\nTchumbadze, 24, made an immediate impact in Devon last season following his move from Black Lion, making 28 appearances and scoring two tries and came off the bench in their Prem Final defeat at the hands of Northampton Saints.",
+        "copy": "Georgia international tight-head Bachuki Tchumbadze admits that he is delighted to have signed a one-year extension to his Exeter Chiefs contract, that will tie him to Sandy Park until 2028.\n\nTchumbadze, 24, made an immediate impact in Devon last season following his move from Black Lion, making 28 appearances and scoring two tries and came off the bench in their Prem Final defeat at the hands of Northampton Saints.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -4277,113 +4355,22 @@
         "body": "It is fair to say that talk of one sporting event has dominated in Argentina this week. And it has not been Wales' Nations Championship game against the Pumas, which takes place in San Juan on Saturday evening.\n\nThe main story in town for the football-mad locals has been Argentina's attempt to win the round-ball World Cup for the second time in succession. Wales face the Pumas at 16:10 local time on Saturday (20:10 BST), with the match finishing about four hours before Lionel Messi and Co play Switzerland in the World Cup quarter-final.",
         "copy": "It is fair to say that talk of one sporting event has dominated in Argentina this week. And it has not been Wales' Nations Championship game against the Pumas, which takes place in San Juan on Saturday evening.\n\nThe main story in town for the football-mad locals has been Argentina's attempt to win the round-ball World Cup for the second time in succession. Wales face the Pumas at 16:10 local time on Saturday (20:10 BST), with the match finishing about four hours before Lionel Messi and Co play Switzerland in the World Cup quarter-final.",
         "first_seen": "2026-07-11T10:40:16.719936+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "What Borthwick must do if he wants to save his job – Andy Goode",
-        "link": "https://www.rugbypass.com/news/borthwick-needs-to-go-on-attack-if-he-wants-to-save-his-job-andy-goode/",
-        "published": "2026-07-10T14:55:51+00:00",
-        "published_label": "Fri 10 Jul, 14:55",
-        "summary": "Steve Borthwick needs a win against Fiji to keep his job and the best way to secure that is by going on the attack.",
-        "body": "Steve Borthwick needs a win against Fiji to keep his job and the best way to secure that is by going on the attack. Despite the fact they seem to have several defensive coaches on the staff, England’s defence has been woeful of late, conceding 24 tries in their last 5 Tests, and this Fiji side will have a field day if they go into their shells.\n\nFiji beat 42 defenders and had 32 offloads in Cardiff last week and the likes of Jiuta Wainiqolo, Kalaveti Ravouvou, Salesi Rayasi, Josua Tuisova and co will run riot if they’re allowed to so England need to manage the game and show their own attacking prowess.",
-        "copy": "Steve Borthwick needs a win against Fiji to keep his job and the best way to secure that is by going on the attack. Despite the fact they seem to have several defensive coaches on the staff, England’s defence has been woeful of late, conceding 24 tries in their last 5 Tests, and this Fiji side will have a field day if they go into their shells.\n\nFiji beat 42 defenders and had 32 offloads in Cardiff last week and the likes of Jiuta Wainiqolo, Kalaveti Ravouvou, Salesi Rayasi, Josua Tuisova and co will run riot if they’re allowed to so England need to manage the game and show their own attacking prowess.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Jamie George: 'I’ve genuinely never seen anything like it'",
-        "link": "https://www.rugbypass.com/news/jamie-george-ive-genuinely-never-seen-anything-like-it/",
-        "published": "2026-07-10T14:43:24+00:00",
-        "published_label": "Fri 10 Jul, 14:43",
-        "summary": "Jamie George has urged England fans to enjoy a unique talent when ‘Air Caluori’ is unleashed upon Fiji at Hill Dickinson Stadium on Saturday.",
-        "body": "Jamie George has urged England fans to enjoy a unique talent when ‘Air Caluori’ is unleashed upon Fiji at Hill Dickinson Stadium on Saturday. Saracens prodigy Noah Caluori is poised to make his debut off the bench to continue a stellar debut season that has seen him crowned the Gallagher Prem’s breakthrough player for 2025-26 and its leading try scorer.\n\nThe towering 19-year-old wing with an infatuation for playing golf on his VR headset is being mentored by Owen Farrell, who is helping smooth the rough edges of a player who is devastating in the air and already has a highlights reel of acrobatic finishes.",
-        "copy": "Jamie George has urged England fans to enjoy a unique talent when ‘Air Caluori’ is unleashed upon Fiji at Hill Dickinson Stadium on Saturday. Saracens prodigy Noah Caluori is poised to make his debut off the bench to continue a stellar debut season that has seen him crowned the Gallagher Prem’s breakthrough player for 2025-26 and its leading try scorer.\n\nThe towering 19-year-old wing with an infatuation for playing golf on his VR headset is being mentored by Owen Farrell, who is helping smooth the rough edges of a player who is devastating in the air and already has a highlights reel of acrobatic finishes.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'There's plenty more to come': High-potential Aiono re-signs with Gloucester Hartpury",
-        "link": "https://www.rugbypass.com/news/theres-plenty-more-to-come-high-potential-aiono-re-signs-with-gloucester-hartpury/",
-        "published": "2026-07-10T14:42:11+00:00",
-        "published_label": "Fri 10 Jul, 14:42",
-        "summary": "Teenage Wales international Jorja Aiono has re-signed with JAECOO Premiership Women's Rugby club Gloucester Hartpury.",
-        "body": "Teenage Wales international Jorja Aiono has re-signed with JAECOO Premiership Women’s Rugby club Gloucester Hartpury. In 2025/26 the 19-year-old made her international and PWR league debuts. She also represented Great Britain in HSBC SVNS Series competition and Brython Thunder in the Celtic Challenge.\n\nTo date Aiono has earned five caps for Wales, which came in the form of five starts in the 2026 Guinness Women’s Six Nations. Following her breakthrough at Test level Aiono made her full Gloucester Hartpury against Bristol Bears in the club’s final regular season fixture of the season.",
-        "copy": "Teenage Wales international Jorja Aiono has re-signed with JAECOO Premiership Women’s Rugby club Gloucester Hartpury. In 2025/26 the 19-year-old made her international and PWR league debuts. She also represented Great Britain in HSBC SVNS Series competition and Brython Thunder in the Celtic Challenge.\n\nTo date Aiono has earned five caps for Wales, which came in the form of five starts in the 2026 Guinness Women’s Six Nations. Following her breakthrough at Test level Aiono made her full Gloucester Hartpury against Bristol Bears in the club’s final regular season fixture of the season.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Bristol re-sign Caulfield for 2026-27",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq81n28z7pqo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T14:25:56+00:00",
-        "published_label": "Fri 10 Jul, 14:25",
-        "summary": "Bristol re-sign second-row forward Josh Caulfield from Champ rugby side Ealing Trailfinders.",
-        "body": "Bristol have re-signed second-row forward Josh Caulfield from Ealing Trailfinders for the 2026-27 season. Caufield left the Bears last summer and has spent the past season with the Champ rugby club.\n\nThe 29-year-old previously made 36 appearances for his hometown club between 2023 and 2026. \"He already understands our environment, our culture and the way we want to play, so he's a natural fit for the group,\" said director of rugby Pat Lam.",
-        "copy": "Bristol have re-signed second-row forward Josh Caulfield from Ealing Trailfinders for the 2026-27 season. Caufield left the Bears last summer and has spent the past season with the Champ rugby club.\n\nThe 29-year-old previously made 36 appearances for his hometown club between 2023 and 2026. \"He already understands our environment, our culture and the way we want to play, so he's a natural fit for the group,\" said director of rugby Pat Lam.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Sione Tuipulotu admits to last man standing 'reality check' ahead of Boks Test",
-        "link": "https://www.rugbypass.com/news/sione-tuipulotu-admits-to-last-man-standing-reality-check-ahead-of-boks-test/",
-        "published": "2026-07-10T14:24:20+00:00",
-        "published_label": "Fri 10 Jul, 14:24",
-        "summary": "The 29-year-old is relishing the chance to lead the Scots out for their first away game against the Springboks in 12 years.",
-        "body": "Sione Tuipulotu believes Scotland have “evolved into the team they wanted to become” but the captain has learned from experience not to make any bold claims about their chances of turning over double world champions South Africa in the Nations Championship on Saturday.\n\nThe 29-year-old is relishing the chance to lead the Scots out for their first away game against the Springboks in 12 years at a time when they are in good form and have risen back up to fifth in the world rankings.",
-        "copy": "Sione Tuipulotu believes Scotland have “evolved into the team they wanted to become” but the captain has learned from experience not to make any bold claims about their chances of turning over double world champions South Africa in the Nations Championship on Saturday.\n\nThe 29-year-old is relishing the chance to lead the Scots out for their first away game against the Springboks in 12 years at a time when they are in good form and have risen back up to fifth in the world rankings.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Mannini looking forward to playing at the 'highest level' with Harlequins",
-        "link": "https://www.rugbypass.com/news/mannini-looking-forward-to-playing-at-the-highest-level-with-harlequins/",
-        "published": "2026-07-10T14:15:42+00:00",
-        "published_label": "Fri 10 Jul, 14:15",
-        "summary": "Italy international Sara Mannini will call the Twickenham Stoop home next season after she signed for Harlequins.",
-        "body": "Italy international Sara Mannini will call the Twickenham Stoop home next season after she signed for Harlequins. The 20-year-old, who played in all five of her team’s 2026 Guinness Women’s Six Nations fixtures, represented her country at Women’s Rugby World Cup 2025 and was named Serie A Elite Player of the Season for her 2025/26 efforts with Rugby Colorno 1975.\n\nMannini has won 17 Italy caps since her 2024 debut and can play at fly-half or centre. She joins fellow Italy international Silvia Turani at the JAECOO Premiership Women’s Rugby club.",
-        "copy": "Italy international Sara Mannini will call the Twickenham Stoop home next season after she signed for Harlequins. The 20-year-old, who played in all five of her team’s 2026 Guinness Women’s Six Nations fixtures, represented her country at Women’s Rugby World Cup 2025 and was named Serie A Elite Player of the Season for her 2025/26 efforts with Rugby Colorno 1975.\n\nMannini has won 17 Italy caps since her 2024 debut and can play at fly-half or centre. She joins fellow Italy international Silvia Turani at the JAECOO Premiership Women’s Rugby club.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Bristol recruit one of their own to beef up second row stocks",
-        "link": "https://www.rugbypass.com/news/bristol-recruit-one-of-their-own-to-beef-up-second-row-stocks/",
-        "published": "2026-07-10T14:00:38+00:00",
-        "published_label": "Fri 10 Jul, 14:00",
-        "summary": "Proud Bristolian Josh Caulfield is returning to Bristol Bears and Prem Rugby after one season in the Champ at Ealing Trailfinders.",
-        "body": "Proud Bristolian Josh Caulfield is returning to Bristol Bears and PREM Rugby after one season in the Champ at Ealing Trailfinders. The 29-year-old lock, who departed the Bears in 2025, returns to the West Country to bolster Pat Lam’s second row stocks ahead of the new campaign.\n\nA powerful set-piece operator and industrious ball carrier, Caulfield made 36 appearances for the West Country between 2023 and 2025, but failed to make it onto the pitch last season.",
-        "copy": "Proud Bristolian Josh Caulfield is returning to Bristol Bears and PREM Rugby after one season in the Champ at Ealing Trailfinders. The 29-year-old lock, who departed the Bears in 2025, returns to the West Country to bolster Pat Lam’s second row stocks ahead of the new campaign.\n\nA powerful set-piece operator and industrious ball carrier, Caulfield made 36 appearances for the West Country between 2023 and 2025, but failed to make it onto the pitch last season.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wales lock Aiono re-signs with Gloucester-Hartpury",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ce8mrdmj582o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T13:29:14+00:00",
-        "published_label": "Fri 10 Jul, 13:29",
-        "summary": "Wales lock Jorja Aiono signs a new contract to stay with Premiership Women's Rugby side Gloucester-Hartpury.",
-        "body": "Wales lock Jorja Aiono has signed a new contract to stay with Premiership Women's Rugby side Gloucester-Hartpury. The 19-year-old enjoyed a breakthrough season in 2025-26, winning her first international caps for Wales during the Six Nations.\n\nThe second-row forward, who is a student at Hartpury University, also made her first appearance for her club in June. \"She has all the attributes we're looking for to add to our back five,\" said head of rugby Dan Murphy.",
-        "copy": "Wales lock Jorja Aiono has signed a new contract to stay with Premiership Women's Rugby side Gloucester-Hartpury. The 19-year-old enjoyed a breakthrough season in 2025-26, winning her first international caps for Wales during the Six Nations.\n\nThe second-row forward, who is a student at Hartpury University, also made her first appearance for her club in June. \"She has all the attributes we're looking for to add to our back five,\" said head of rugby Dan Murphy.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu Dealt Fresh Ranking Blow Before the US Open",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjFnN3FPc21UX0JKb3NaRGp2TVFVd0pNXzBkS2JxdnJLeFdUMVNCMVFqaHhCSjNSejFObkRuNEN3RndlZWVJMmhZa3loeUFhbXhjRlFOcGp3RHFjX3dNM2lEVUd1UVNPS1UyUm11YXh2U1Z3WXYwc1FCVXZpUXBVaFR1NzRMajJOU1J2LWFRZ2x3a3pCQjBNY3BCUFFVa1NM?oc=5",
+        "published": "2026-07-17T15:00:00+00:00",
+        "published_label": "Fri 17 Jul, 15:00",
+        "summary": "Emma Raducanu Dealt Fresh Ranking Blow Before the US Open Athlon Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -5397,22 +5384,100 @@
         "body": "Australia's Cruz Hewitt has reached the Wimbledon boys' final - 24 years after his father, Lleyton, claimed the men's singles title. The 17-year-old beat Dutch player Thijs Boogaard 6-4 6-4 to set up a title decider on Sunday against American Jordan Lee.\n\nIt was Hewitt's fifth successive straight-set win at this year's championships, and he has been taken to a tie-break just once in that impressive run. Hewitt has been supported at court-side during the tournament by Lleyton, who beat David Nalbandian in the 2002 Wimbledon final.",
         "copy": "Australia's Cruz Hewitt has reached the Wimbledon boys' final - 24 years after his father, Lleyton, claimed the men's singles title. The 17-year-old beat Dutch player Thijs Boogaard 6-4 6-4 to set up a title decider on Sunday against American Jordan Lee.\n\nIt was Hewitt's fifth successive straight-set win at this year's championships, and he has been taken to a tie-break just once in that impressive run. Hewitt has been supported at court-side during the tournament by Lleyton, who beat David Nalbandian in the 2002 Wimbledon final.",
         "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Wimbledon women's final LIVE! Scores, updates, news, results with Karolina Muchova and Linda Noskova playing",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX2hFVUNIQ2Zvd1dCdGZjMzlXS1ZNOHhIM05FVjJBekE4MXZzd1hyMFBGcURFRFE4Tm1DNHNoaUF0UlBmd2Q2LWVjWnBaZ2FHbWtCNWotMEZ6NDRvMllUaFplYVNxYmVRMjlib3NrMWNkSnNxZGdPUUFPV3Jzdy12ZEJCRVN6VXMwTXdZc0V3Y1k2TllMRHgzZEVxaV92cTZfelVKMm5LbVhrbTZrOS02OWFoRUJvZHl5N1pxTzRmMEZwMUNvMlk4VmM1MUJ0ZTN2YjU5clN3UFJDbEFZbUh4SENhY3ZRaEVmeTIzSmJHSVZ3anc?oc=5",
-        "published": "2026-07-10T14:33:40+00:00",
-        "published_label": "Fri 10 Jul, 14:33",
-        "summary": "Wimbledon women's final LIVE! Scores, updates, news, results with Karolina Muchova and Linda Noskova playing Sky Sports",
-        "body": "\"In the second set, it was very tough for me. My hand kind of froze at certain moments. My feet were not as quick as they had been before. \"On the last match point, I didn't even realise that I had a match point. I kept going. That's what really won it for me, that I didn't exactly put it into my head.\"\n\n\"I was just telling myself that the match is starting over. I was in the bathroom. I just splashed some cold water on me, started over again. \"But what really helped me, like the first step I took off court, the trophies were there. I was like, I'm not going to take the small one, I'm taking the big one. I have been so close. This will probably be the heartbreak of my life.",
-        "copy": "\"In the second set, it was very tough for me. My hand kind of froze at certain moments. My feet were not as quick as they had been before. \"On the last match point, I didn't even realise that I had a match point. I kept going. That's what really won it for me, that I didn't exactly put it into my head.\"\n\n\"I was just telling myself that the match is starting over. I was in the bathroom. I just splashed some cold water on me, started over again. \"But what really helped me, like the first step I took off court, the trophies were there. I was like, I'm not going to take the small one, I'm taking the big one. I have been so close. This will probably be the heartbreak of my life.",
-        "first_seen": "2026-07-12T11:02:56.354360+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Why Collin Morikawa tested irons off a cart path for The Open",
+        "link": "https://golf.com/gear/irons/collin-morikawa-irons-off-cart-path-open-championship/",
+        "published": "2026-07-17T15:04:50+00:00",
+        "published_label": "Fri 17 Jul, 15:04",
+        "summary": "In this week's Tour Report, the reason why Collin Morikawa tested irons off a cart path to get ready for the Open Championship. The post Why Collin Morikawa tested irons off a cart path for The Open appeared first on Golf .",
+        "body": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nCollin Morikawa is using the same blueprint that won him the Claret Jug in 2021. At Royal St. George’s five years ago, Morikawa benched nearly his entire set of TaylorMade P730s for a set of P7MCs.",
+        "copy": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nCollin Morikawa is using the same blueprint that won him the Claret Jug in 2021. At Royal St. George’s five years ago, Morikawa benched nearly his entire set of TaylorMade P730s for a set of P7MCs.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Two record-equalling 62s at The Open",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/ckg3n04n0v0o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-17T14:40:37+00:00",
+        "published_label": "Fri 17 Jul, 14:40",
+        "summary": "Australia's Lucas Herbert and Sam Burns of the United States both shoot eight-under 62s to equal the lowest rounds in men's major history.",
+        "body": "In the space of about 20 minutes, two players added to men's major golf history at Royal Birkdale - but the reactions on the 18th green could not have been more contrasting. When Australia's Lucas Herbert missed a five-foot par putt on the last, there was a grimace from him and a groan from the galleries.\n\nThe bogey meant he had missed a golden chance to become the first man to shoot 61 at one of the sport's blue-riband events. Shortly afterwards, Sam Burns of the United States chipped in from a greenside bunker to also record an eight-under-par round.",
+        "copy": "In the space of about 20 minutes, two players added to men's major golf history at Royal Birkdale - but the reactions on the 18th green could not have been more contrasting. When Australia's Lucas Herbert missed a five-foot par putt on the last, there was a grimace from him and a groan from the galleries.\n\nThe bogey meant he had missed a golden chance to become the first man to shoot 61 at one of the sport's blue-riband events. Shortly afterwards, Sam Burns of the United States chipped in from a greenside bunker to also record an eight-under-par round.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Herbert feels 'all the emotions' after record-equalling round at The Open",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/cvg0d7kr4ygo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-17T14:38:32+00:00",
+        "published_label": "Fri 17 Jul, 14:38",
+        "summary": "Australia's Lucas Herbert admits to experiencing a whirlwind of 'emotions' at Royal Birkdale after his sensational, record-equalling eight-under-par 62. The 30-year-old came close to making golf history by reaching nine under through 17 holes, only for a closing bogey to cost him the first ever 61 in a men's major championship.",
+        "body": "This content is not available in your location. Australia's Lucas Herbert admits to experiencing a whirlwind of 'emotions' at Royal Birkdale after his sensational, record-equalling eight-under-par 62. The 30-year-old came close to making golf history by reaching nine under through 17 holes, only for a closing bogey to cost him the first 61 in a men's major championship.",
+        "copy": "This content is not available in your location. Australia's Lucas Herbert admits to experiencing a whirlwind of 'emotions' at Royal Birkdale after his sensational, record-equalling eight-under-par 62. The 30-year-old came close to making golf history by reaching nine under through 17 holes, only for a closing bogey to cost him the first 61 in a men's major championship.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'Fantastic finish'",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/ckg3n8dzvyko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-17T14:34:05+00:00",
+        "published_label": "Fri 17 Jul, 14:34",
+        "summary": "Sam Burns joins Lucas Herbert in equalling the record for lowest round at a men's major, with a score of 62 during the second round of the 2026 Open Championship at Royal Birkdale golf club.",
+        "body": "",
+        "copy": "Sam Burns joins Lucas Herbert in equalling the record for lowest round at a men's major, with a score of 62 during the second round of the 2026 Open Championship at Royal Birkdale golf club.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'Oh dear' - Herbert bogeys 18th to miss out on record-breaking round of 61",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/cy748kgm55zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-17T14:11:36+00:00",
+        "published_label": "Fri 17 Jul, 14:11",
+        "summary": "Australia's Lucas Herbert misses a golden chance to secure the lowest round of golf at a men's major, pulling his five-foot putt wide to finish with a second round score of 62 at the 2026 Open Championship at Royal Birkdale Golf Club.",
+        "body": "This content is not available in your location. Australia's Lucas Herbert misses a golden chance to secure the lowest round of golf at a men's major, pulling his five-foot putt wide to finish with a second round score of 62 at the 2026 Open Championship at Royal Birkdale Golf Club.",
+        "copy": "This content is not available in your location. Australia's Lucas Herbert misses a golden chance to secure the lowest round of golf at a men's major, pulling his five-foot putt wide to finish with a second round score of 62 at the 2026 Open Championship at Royal Birkdale Golf Club.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Iajl1Z1JQUEpDcnNkRFBPd2xfR20tN24xZUxKeFdqWkJTbVUxYkQ4MHFnVm9kbncxWkw0cFNXZkNaV25Dcm83WElrWWd1b015UmJyaXBlNlBHMThhbmQ3SkJWajlCcVJmODdpZ0tmMGVXSkk?oc=5",
+        "published": "2026-07-17T13:49:05+00:00",
+        "published_label": "Fri 17 Jul, 13:49",
+        "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Padraig Harrington shot 80 at the Open. Then came an even bigger surprise",
+        "link": "https://golf.com/news/padraig-harrington-open-assessment-classic/",
+        "published": "2026-07-17T13:24:40+00:00",
+        "published_label": "Fri 17 Jul, 13:24",
+        "summary": "Padraig Harrington wasn’t embarrassed by his first-round 80 at the Open, nor particularly impressed by his second-round 69. The post Padraig Harrington shot 80 at the Open. Then came an even bigger surprise appeared first on Golf .",
+        "body": "SOUTHPORT, England — I’m staying near the course with some friends, one of whom has such a good grip it would give Lucas Glover grip envy. In other words, he knows golf. He said, speaking of Padraig Harrington’s first-round 80, “He must be so embarrassed.”\n\n“I can almost guarantee you, he’s not,” I said. We were both doing the same math. Harrington won the Open, here at Royal Birkdale, in 2008, playing the final round in the final twosome with Greg Norman his own self. (Nick Faldo, doing TV commentary, looked at Norman’s yip-free putting stroke, at age 53, and said, “It’s not fair.”) Earlier this month, Harrington won the U.S. Open at Scioto, the senior one, for the 50-and-over crowd. Paddy is 54.",
+        "copy": "SOUTHPORT, England — I’m staying near the course with some friends, one of whom has such a good grip it would give Lucas Glover grip envy. In other words, he knows golf. He said, speaking of Padraig Harrington’s first-round 80, “He must be so embarrassed.”\n\n“I can almost guarantee you, he’s not,” I said. We were both doing the same math. Harrington won the Open, here at Royal Birkdale, in 2008, playing the final round in the final twosome with Greg Norman his own self. (Nick Faldo, doing TV commentary, looked at Norman’s yip-free putting stroke, at age 53, and said, “It’s not fair.”) Earlier this month, Harrington won the U.S. Open at Scioto, the senior one, for the 50-and-over crowd. Paddy is 54.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -5438,6 +5503,19 @@
         "body": "This content is not available in your location. Australia's Lucas Herbert equals a British Open course record with a six-under par 28 on the front nine, to move to the top of the leaderboard during the second round of the 2026 Championship at Royal Birkdale Golf Club.",
         "copy": "This content is not available in your location. Australia's Lucas Herbert equals a British Open course record with a six-under par 28 on the front nine, to move to the top of the leaderboard during the second round of the 2026 Championship at Royal Birkdale Golf Club.",
         "first_seen": "2026-07-17T13:22:08.745205+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau plays well at Open Championship then fires back at Sir Nick Faldo",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkNGNWN1bjF0MUZGVV91eXRLR3F0bVpTeFlWWi1fd0lpQTN2WG5pSExqMkU2aFVxY3BlZjlPMDVoQk9kLWtkRDdsTXVvcDRfYWVnNXg4NE9KUTN0Wk1ja1JGMkh3OXMyUGpxLVlGcTF3MWszLWZlRVhWM1NPZXZvR1NEZkJWUFZOanRCNkI4dmR4alowYWllSW9BS2RJWDUt?oc=5",
+        "published": "2026-07-17T11:56:00+00:00",
+        "published_label": "Fri 17 Jul, 11:56",
+        "summary": "Bryson DeChambeau plays well at Open Championship then fires back at Sir Nick Faldo The New York Times",
+        "body": "The Athletic has live coverage of Round 2 at The Open Championship 2026. SOUTHPORT, England — Bryson DeChambeau is a two-time major winner, yet there was surprise from fans looking up at The Open Championship scoreboard to see him in contention as he walked down the 18th fairway to dig his ball out of long grass for an eventual bogey.\n\nThe last time the 32-year-old made the cut at a golf tournament was one year ago at The Open in Royal Portrush. Every major the LIV golfer/YouTuber has played in this year, he has failed to make it to the business end.",
+        "copy": "The Athletic has live coverage of Round 2 at The Open Championship 2026. SOUTHPORT, England — Bryson DeChambeau is a two-time major winner, yet there was surprise from fans looking up at The Open Championship scoreboard to see him in contention as he walked down the 18th fairway to dig his ball out of long grass for an eventual bogey.\n\nThe last time the 32-year-old made the cut at a golf tournament was one year ago at The Open in Royal Portrush. Every major the LIV golfer/YouTuber has played in this year, he has failed to make it to the business end.",
+        "first_seen": "2026-07-17T08:05:41.400454+00:00"
       },
       {
         "section": "Golf",
@@ -5554,19 +5632,6 @@
         "summary": "Bryson DeChambeau takes subtle swipe at Nick Faldo as Jackson Suber sets Open pace The Guardian",
         "body": "From no clue and no strategy to no explanation. Who or what is eating Bryson DeChambeau? Maybe the coming days will reveal all. Then again … A fine and widely unexpected start to the 154th Open Championship was not sufficient to alter DeChambeau’s uncommunicative approach towards anybody who may not be inclined to tickle his tummy. Following a fifth major round in a row, DeChambeau declined the opportunity to speak to eagerly assembled media. One once so garrulous has lost his tongue.\n\nThere was plenty to ask. Nick Faldo, who knows a thing or two about the claiming of the Claret Jug, asserted before an Open ball was struck. “I’d say it to his face, DeChambeau has zero clue of strategy,” Faldo said. Ouch.",
         "copy": "From no clue and no strategy to no explanation. Who or what is eating Bryson DeChambeau? Maybe the coming days will reveal all. Then again … A fine and widely unexpected start to the 154th Open Championship was not sufficient to alter DeChambeau’s uncommunicative approach towards anybody who may not be inclined to tickle his tummy. Following a fifth major round in a row, DeChambeau declined the opportunity to speak to eagerly assembled media. One once so garrulous has lost his tongue.\n\nThere was plenty to ask. Nick Faldo, who knows a thing or two about the claiming of the Claret Jug, asserted before an Open ball was struck. “I’d say it to his face, DeChambeau has zero clue of strategy,” Faldo said. Ouch.",
-        "first_seen": "2026-07-17T08:05:41.400454+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau plays well at Open Championship then fires back at Sir Nick Faldo",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkNGNWN1bjF0MUZGVV91eXRLR3F0bVpTeFlWWi1fd0lpQTN2WG5pSExqMkU2aFVxY3BlZjlPMDVoQk9kLWtkRDdsTXVvcDRfYWVnNXg4NE9KUTN0Wk1ja1JGMkh3OXMyUGpxLVlGcTF3MWszLWZlRVhWM1NPZXZvR1NEZkJWUFZOanRCNkI4dmR4alowYWllSW9BS2RJWDUt?oc=5",
-        "published": "2026-07-16T20:47:36+00:00",
-        "published_label": "Thu 16 Jul, 20:47",
-        "summary": "Bryson DeChambeau plays well at Open Championship then fires back at Sir Nick Faldo The New York Times",
-        "body": "SOUTHPORT, England — Bryson DeChambeau is a two-time major winner, yet there was surprise from fans looking up at The Open Championship scoreboard to see him in contention as he walked down the 18th fairway to dig his ball out of long grass for an eventual bogey.\n\nThe last time the 32-year-old made the cut at a golf tournament was one year ago at The Open in Royal Portrush. Every major the LIV golfer/YouTuber has played in this year, he has failed to make it to the business end.",
-        "copy": "SOUTHPORT, England — Bryson DeChambeau is a two-time major winner, yet there was surprise from fans looking up at The Open Championship scoreboard to see him in contention as he walked down the 18th fairway to dig his ball out of long grass for an eventual bogey.\n\nThe last time the 32-year-old made the cut at a golf tournament was one year ago at The Open in Royal Portrush. Every major the LIV golfer/YouTuber has played in this year, he has failed to make it to the business end.",
         "first_seen": "2026-07-17T08:05:41.400454+00:00"
       },
       {
@@ -7973,74 +8038,22 @@
         "body": "NORTH BERWICK, Scotland — There once was a time when Scottie Scheffler and Jon Rahm competed against each other constantly. Think back to the spring of 2023, when Scheffler and Rahm were trading wins on the PGA Tour, and the latter snatched the World’s Best Golfer title from the former.\n\nRahm was then in the middle of a Tour-best 25-straight cuts-made streak that expired only because he had to withdraw from the Players Championship with an illness. Scottie Scheffler won that week, by five. In the process, Scheffler made the weekend for the 11th-straight time, and until this week here at the Genesis Scottish Open, he had played every weekend of every one of his starts since. All 67 tournaments between then and now, amounting to a total of 78 straight cuts made, a run that came to an end when he didn’t birdie the 9th hole at Renaissance Club Friday afternoon.",
         "copy": "NORTH BERWICK, Scotland — There once was a time when Scottie Scheffler and Jon Rahm competed against each other constantly. Think back to the spring of 2023, when Scheffler and Rahm were trading wins on the PGA Tour, and the latter snatched the World’s Best Golfer title from the former.\n\nRahm was then in the middle of a Tour-best 25-straight cuts-made streak that expired only because he had to withdraw from the Players Championship with an illness. Scottie Scheffler won that week, by five. In the process, Scheffler made the weekend for the 11th-straight time, and until this week here at the Genesis Scottish Open, he had played every weekend of every one of his starts since. All 67 tournaments between then and now, amounting to a total of 78 straight cuts made, a run that came to an end when he didn’t birdie the 9th hole at Renaissance Club Friday afternoon.",
         "first_seen": "2026-07-10T19:11:49.809526+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "My iron journey has been an experiment on my game | Fully Fit 2026",
-        "link": "https://golf.com/gear/irons/iron-journey-experiment-fully-fit-2026/",
-        "published": "2026-07-10T14:43:42+00:00",
-        "published_label": "Fri 10 Jul, 14:43",
-        "summary": "During Fully Fit 2026, Johnny Wunder has found multiple iron sets that could work with him and he's learning about his game from it. The post My iron journey has been an experiment on my game | Fully Fit 2026 appeared first on Golf .",
-        "body": "Welcome to Fully Fit 2026, GOLF’s new platform for providing you with real-golfer insights into what 2026 gear might be best suited for your game. To this end, we assembled six GOLF content creators of varying abilities and ran them through the gauntlet of six full-bag fittings (driver to putter!) at six major club manufacturers in Phoenix and Carlsbad, Calif. Our hope: that you might see shades of your own game in one of our panelists and take some learnings and inspiration from their fitting experiences. In this installment (below), Johnny Wunder details his iron journey around Fully Fit 2026. You may browse each of our panelists’ full 2026 dream bags here:\n\nJake Morrow (+0.3 handicap) | Jack Hirsh (1.0) | Wadeh Maroun (1.1) | Johnny Wunder (2.8) | Maddi MacClurg (5.7) | Sean Zak (7.6) The quest for the perfect iron set is never really a straight line.",
-        "copy": "Welcome to Fully Fit 2026, GOLF’s new platform for providing you with real-golfer insights into what 2026 gear might be best suited for your game. To this end, we assembled six GOLF content creators of varying abilities and ran them through the gauntlet of six full-bag fittings (driver to putter!) at six major club manufacturers in Phoenix and Carlsbad, Calif. Our hope: that you might see shades of your own game in one of our panelists and take some learnings and inspiration from their fitting experiences. In this installment (below), Johnny Wunder details his iron journey around Fully Fit 2026. You may browse each of our panelists’ full 2026 dream bags here:\n\nJake Morrow (+0.3 handicap) | Jack Hirsh (1.0) | Wadeh Maroun (1.1) | Johnny Wunder (2.8) | Maddi MacClurg (5.7) | Sean Zak (7.6) The quest for the perfect iron set is never really a straight line.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Stunned Scheffler misses first cut in four years",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cy06rn6e19jo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T14:33:51+00:00",
-        "published_label": "Fri 10 Jul, 14:33",
-        "summary": "World number one Scottie Scheffler misses a cut for the first time since 2022 as he slumps to an early exit at the Scottish Open.",
-        "body": "Seventy-eight events. Four years. 1,428 days. Scottie Scheffler's long and impressive run of cuts made is now over. Nobody can say they saw this coming. The world number one hadn't even finished outside the top 25 in any tournament since 2024.\n\nThe four-time major winner arrived at the Renaissance Club this week targeting a first win on Scottish soil to further burnish a gleaming CV and send him into his Open Championship defence on a high.",
-        "copy": "Seventy-eight events. Four years. 1,428 days. Scottie Scheffler's long and impressive run of cuts made is now over. Nobody can say they saw this coming. The world number one hadn't even finished outside the top 25 in any tournament since 2024.\n\nThe four-time major winner arrived at the Renaissance Club this week targeting a first win on Scottish soil to further burnish a gleaming CV and send him into his Open Championship defence on a high.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This Scotland muni is my happy place. Better yet, it's FREE",
-        "link": "https://golf.com/travel/scotland-muni-bruntsfield-links-free/",
-        "published": "2026-07-10T14:29:17+00:00",
-        "published_label": "Fri 10 Jul, 14:29",
-        "summary": "The Bruntsfield Links, in the center of Edinburgh, is one of the best golf places in the world. A place you'd only find in Scotland. The post This Scotland muni is my happy place. Better yet, it’s FREE appeared first on Golf .",
-        "body": "EDINBURGH, Scotland — They come from all directions, really, which is what you get when the 1st tee is in the center of the city. From the left, a full family of five — mom, dad, three kids — spending their evening together on the course. From the right, a six-some fresh off the workday, dressed in slacks and button-downs, ready to play an alternate-shot three ball.\n\nFrom behind the tee came a date — it had to be a date — between twenty-somethings, each carrying a putter and a wedge in their left hands, and to-go pints of lager in their right. They scooped the beers at an aptly named pub across the street, Ye Olde Golf Tavern. I basked in this scene for 20 minutes, waiting for my playing partner to arrive. This was his first experience of the Bruntsfield Links. He shared his thoughts before I could even ask for them. This place is amazing.",
-        "copy": "EDINBURGH, Scotland — They come from all directions, really, which is what you get when the 1st tee is in the center of the city. From the left, a full family of five — mom, dad, three kids — spending their evening together on the course. From the right, a six-some fresh off the workday, dressed in slacks and button-downs, ready to play an alternate-shot three ball.\n\nFrom behind the tee came a date — it had to be a date — between twenty-somethings, each carrying a putter and a wedge in their left hands, and to-go pints of lager in their right. They scooped the beers at an aptly named pub across the street, Ye Olde Golf Tavern. I basked in this scene for 20 minutes, waiting for my playing partner to arrive. This was his first experience of the Bruntsfield Links. He shared his thoughts before I could even ask for them. This place is amazing.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Scheffler misses cut at Scottish Open",
-        "link": "https://www.bbc.co.uk/sport/golf/videos/c8j2z70zkm7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-10T14:13:29+00:00",
-        "published_label": "Fri 10 Jul, 14:13",
-        "summary": "World number one Scottie Scheffler misses the cut for the first time in 79 tournaments as he bogeys the final hole of his second round of the Scottish Open.",
-        "body": "",
-        "copy": "World number one Scottie Scheffler misses the cut for the first time in 79 tournaments as he bogeys the final hole of his second round of the Scottish Open.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Scott O’Neil’s recent comments show what Bryson DeChambeau asked of LIV Golf was laughable",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQel9COVdwM2FPT0J5Yk1UMjZiTzJLQm9KUS1PYy1BOG12LVVlSlBUZWJDVzRXbllWQnpWbzY2NmlQM0ZjOWhyb0xxS29tV3ZzOWpnRTNoaUxiN1BqdHAzRVFHX3B4TUR2RzFRcXg3d0NiU3VLVENiRWlFX0Rpd2pKUjJn?oc=5",
-        "published": "2026-07-10T13:30:00+00:00",
-        "published_label": "Fri 10 Jul, 13:30",
-        "summary": "Scott O’Neil’s recent comments show what Bryson DeChambeau asked of LIV Golf was laughable Yahoo Sports UK",
-        "body": "As LIV Golf desperately seeks to secure funding for 2027 and beyond, its CEO, Scott O’Neil, has made yet another plea to potential investors. The Saudi Public Investment Fund shockingly withdrew its support of the breakaway golf tour this year, leaving it without investment starting from next season. The league risks collapsing entirely if it cannot secure new funding.\n\nO’Neil, on a recent media tour, told Sportico why investors should support the tour, claiming they are seeking up to $350 million to continue operating. Worryingly, one of these reasons was that LIV’s operating losses were so high that investment was an “unbelievable tax opportunity”. Enticing.",
-        "copy": "As LIV Golf desperately seeks to secure funding for 2027 and beyond, its CEO, Scott O’Neil, has made yet another plea to potential investors. The Saudi Public Investment Fund shockingly withdrew its support of the breakaway golf tour this year, leaving it without investment starting from next season. The league risks collapsing entirely if it cannot secure new funding.\n\nO’Neil, on a recent media tour, told Sportico why investors should support the tour, claiming they are seeking up to $350 million to continue operating. Worryingly, one of these reasons was that LIV’s operating losses were so high that investment was an “unbelievable tax opportunity”. Enticing.",
-        "first_seen": "2026-07-10T16:12:37.411053+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Japan Open: Yamaguchi Leads Home Surge",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVZqUG1TaEZqREs1N0ZqYUx3VWVQbFVCajVEbVNGVEhURkhHX1QzQXdYOU04R2d4NEJheGluaXdKdTlYQ3hoMlNrXzYwZEJzWFRRU2NPNS1rM3FVRkNady1VWU5nMWhJSUdHMzlmV2FfdnhHUkJzdG14R3IteGJrX3NSd19XVWg5a1JnY0JRcXBsbHhKX1pjTXJZOWlpek5x?oc=5",
+        "published": "2026-07-17T12:22:07+00:00",
+        "published_label": "Fri 17 Jul, 12:22",
+        "summary": "Japan Open: Yamaguchi Leads Home Surge BWF World Tour",
+        "body": "Once Akane Yamaguchi had staged a surreal comeback, there was no looking back for Japan. The home fans’ reigning deity, nearly down and out against Kim Ga Eun, broke her opponent’s heart as she completed her 11th straight victory over the Korean.\n\nWhat followed was a dream day for Japan, with Yushi Tanaka upstaging No.2 seed Kunlavut Vitidsarn to enter his maiden Super 750 semifinal, Koki Watanabe taking down third seed Anders Antonsen, and Kodai Naraoka prevailing in a 98-minute marathon against Alwi Farhan.",
+        "copy": "Once Akane Yamaguchi had staged a surreal comeback, there was no looking back for Japan. The home fans’ reigning deity, nearly down and out against Kim Ga Eun, broke her opponent’s heart as she completed her 11th straight victory over the Korean.\n\nWhat followed was a dream day for Japan, with Yushi Tanaka upstaging No.2 seed Kunlavut Vitidsarn to enter his maiden Super 750 semifinal, Koki Watanabe taking down third seed Anders Antonsen, and Kodai Naraoka prevailing in a 98-minute marathon against Alwi Farhan.",
+        "first_seen": "2026-07-17T15:12:42.741928+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -8526,5 +8539,5 @@
       }
     ]
   },
-  "total": 654
+  "total": 655
 }
