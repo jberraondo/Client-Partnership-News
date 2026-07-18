@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T16:55:57.345625+00:00",
-  "generated_label": "Saturday 18 July 2026, 16:55 UTC",
+  "generated_at": "2026-07-18T19:00:34.912896+00:00",
+  "generated_label": "Saturday 18 July 2026, 19:00 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Telecom Italia backs Poste Italiane takeover bid",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0YTU3aGlXM1k3ZmF5OVR3eGkybmZpalpDQk42M3J1bnFLODdaYUVmSVVtVVVjN1BkdkRyMWNjMkpjYXpUaWlkc0NZOXB3dk9GWnI5RHIxNkdCMlpTa0NQS18zYXJqbTg4MzdiblNnR24?oc=5",
+        "published": "2026-07-18T14:48:24+00:00",
+        "published_label": "Sat 18 Jul, 14:48",
+        "summary": "Telecom Italia backs Poste Italiane takeover bid Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1418,6 +1431,71 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Wales held pointless again by seven-try South Africa",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckg9mprjrvjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-18T18:31:59+00:00",
+        "published_label": "Sat 18 Jul, 18:31",
+        "summary": "South Africa ease to a seven-try bonus-point victory over Wales in the third round of the Nations Championship in Durban.",
+        "body": "South Africa eased to a seven-try bonus-point victory against Wales in the third round of the Nations Championship in Durban. Number eight Jasper Wiese, scrum-half Cobus Reinach, centre Jessie Kriel, wings Jaco Williams and Kurt-Lee Arendse, scrum-half Herschel Jantjies and flanker Paul de Villiers scored the tries for the double world champions.\n\nThe Springboks managed this comfortable success without star names like captain Siya Kolisi, Cheslin Kolbe, Ox Nche and Eben Etzebeth, who was one of seven locks missing. It was not as humiliating for Wales as the 73-0 record home loss to South Africa in Cardiff last November but the victory highlighted the gulf between the two nations.",
+        "copy": "South Africa eased to a seven-try bonus-point victory against Wales in the third round of the Nations Championship in Durban. Number eight Jasper Wiese, scrum-half Cobus Reinach, centre Jessie Kriel, wings Jaco Williams and Kurt-Lee Arendse, scrum-half Herschel Jantjies and flanker Paul de Villiers scored the tries for the double world champions.\n\nThe Springboks managed this comfortable success without star names like captain Siya Kolisi, Cheslin Kolbe, Ox Nche and Eben Etzebeth, who was one of seven locks missing. It was not as humiliating for Wales as the 73-0 record home loss to South Africa in Cardiff last November but the victory highlighted the gulf between the two nations.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Nations Championship highlights: South Africa 43-0 Wales",
+        "link": "https://www.bbc.co.uk/programmes/p0nzls2z?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-18T18:03:29+00:00",
+        "published_label": "Sat 18 Jul, 18:03",
+        "summary": "Highlights as South Africa beat Wales 43-0 in the Nations Championship.",
+        "body": "",
+        "copy": "Highlights as South Africa beat Wales 43-0 in the Nations Championship.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Sloppy Springboks overpower Wales to top Nations Championship table",
+        "link": "https://www.rugbypass.com/news/wales-suffer-heavy-nations-championship-defeat-against-six-try-south-africa/",
+        "published": "2026-07-18T17:39:14+00:00",
+        "published_label": "Sat 18 Jul, 17:39",
+        "summary": "South Africa had won their previous meeting 73-0 in November when Wales suffered their heaviest home loss.",
+        "body": "Wales failed to score a single point once more against South Africa as the Springboks ran out convincing 43-0 Nations Championship winners in Durban. South Africa won their previous meeting 73-0 in November when Wales, without England and France-based players in a Test played outside World Rugby’s official window, conceded 11 tries and suffered their heaviest home defeat.\n\nThe world champions were nowhere near as ruthless on home soil, but still scored seven tries with Jasper Wiese, Cobus Reinach, Jesse Kriel, Jaco Williams, Herschel Jantjies, Kurt-Lee Arendse and Paul de Villiers crossing.",
+        "copy": "Wales failed to score a single point once more against South Africa as the Springboks ran out convincing 43-0 Nations Championship winners in Durban. South Africa won their previous meeting 73-0 in November when Wales, without England and France-based players in a Test played outside World Rugby’s official window, conceded 11 tries and suffered their heaviest home defeat.\n\nThe world champions were nowhere near as ruthless on home soil, but still scored seven tries with Jasper Wiese, Cobus Reinach, Jesse Kriel, Jaco Williams, Herschel Jantjies, Kurt-Lee Arendse and Paul de Villiers crossing.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Wales player ratings vs Springboks | Nations Championship 2026",
+        "link": "https://www.rugbypass.com/news/wales-player-ratings-vs-springboks-nations-championship-2026/",
+        "published": "2026-07-18T17:26:52+00:00",
+        "published_label": "Sat 18 Jul, 17:26",
+        "summary": "Steve Tandy's Wales side were handed a jarring reminder of where they currently find themselves on their journey to Rugby World Cup 2027 with a 43 - 0 loss in Durban to the Springboks.",
+        "body": "Steve Tandy’s Wales side were handed a jarring reminder of where they currently find themselves on their journey to Rugby World Cup 2027 with a 43 – 0 loss in Durban to the Springboks.\n\nConceding their first try in the 4th minute to a rampaging Jasper Wiese, Wales had no answers to the physicality of the back-to-back World Champions. This score opened the floodgates for the home side who secured a bonus point fourth try before half-time.",
+        "copy": "Steve Tandy’s Wales side were handed a jarring reminder of where they currently find themselves on their journey to Rugby World Cup 2027 with a 43 – 0 loss in Durban to the Springboks.\n\nConceding their first try in the 4th minute to a rampaging Jasper Wiese, Wales had no answers to the physicality of the back-to-back World Champions. This score opened the floodgates for the home side who secured a bonus point fourth try before half-time.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Springboks player ratings vs Wales | Nations Championship 2026",
+        "link": "https://www.rugbypass.com/news/springboks-player-ratings-vs-wales-nations-championship-2026/",
+        "published": "2026-07-18T17:26:38+00:00",
+        "published_label": "Sat 18 Jul, 17:26",
+        "summary": "South Africa player ratings: South Africa made it three from three in the Nations Championship with a seven-try 43-0 win over Wales in Durban, but this was not a vintage display.",
+        "body": "South Africa player ratings: South Africa made it three from three in the Nations Championship with a seven-try 43-0 win over Wales in Durban on Saturday, but it was not a vintage display.\n\nWhile the score suggests this was a routine win for the world champions, they were far from their best, and let plenty of points go begging as a result of some sloppy handling.",
+        "copy": "South Africa player ratings: South Africa made it three from three in the Nations Championship with a seven-try 43-0 win over Wales in Durban on Saturday, but it was not a vintage display.\n\nWhile the score suggests this was a routine win for the world champions, they were far from their best, and let plenty of points go begging as a result of some sloppy handling.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4290,110 +4368,6 @@
         "body": "This content is not available in your location. Watch highlights as Argentina overpower Wales in the Nations Championship. Wales scored three tries in San Juan, but the Pumas brushed aside their defeat to Scotland on the opening weekend of the tournament with a dominant five-try display.",
         "copy": "This content is not available in your location. Watch highlights as Argentina overpower Wales in the Nations Championship. Wales scored three tries in San Juan, but the Pumas brushed aside their defeat to Scotland on the opening weekend of the tournament with a dominant five-try display.",
         "first_seen": "2026-07-12T11:02:56.354360+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Rugby Union Weekly: Pollock hat-trick helps England end losing run",
-        "link": "https://www.bbc.co.uk/sounds/play/p0ny8qgp?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-11T18:38:00+00:00",
-        "published_label": "Sat 11 Jul, 18:38",
-        "summary": "Chris and Ashy react to England thrashing Fiji to end their five-match losing streak.",
-        "body": "Ashy and Chris bring you instant reaction from the Hill Dickinson stadium as England thrashed Fiji in Liverpool to end their five-match unbeaten run. But what are the positives for England after such a one-sided victory over a disjointed Fiji? We hear from Steve Borthwick who heaps praise on his defence despite scoring 73 points. Noah Caluori is back on the pod after a devastating Test debut. He set up a try with his first touch in international rugby and scored a try with his second. Ashy was impressed with the young winger but it was Tommy Freeman who caught his eye. Should Freeman continue on the wing? And Henry Pollock came on to score an impressive second-half hat-trick. Does he now start in Argentina or was his impact exactly why he’s suited to coming off the bench?",
-        "copy": "Ashy and Chris bring you instant reaction from the Hill Dickinson stadium as England thrashed Fiji in Liverpool to end their five-match unbeaten run. But what are the positives for England after such a one-sided victory over a disjointed Fiji? We hear from Steve Borthwick who heaps praise on his defence despite scoring 73 points. Noah Caluori is back on the pod after a devastating Test debut. He set up a try with his first touch in international rugby and scored a try with his second. Ashy was impressed with the young winger but it was Tommy Freeman who caught his eye. Should Freeman continue on the wing? And Henry Pollock came on to score an impressive second-half hat-trick. Does he now start in Argentina or was his impact exactly why he’s suited to coming off the bench?",
-        "first_seen": "2026-07-12T11:02:56.354360+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Scotland player ratings vs South Africa | Nations Championship 2026",
-        "link": "https://www.rugbypass.com/news/scotland-player-ratings-vs-south-africa-nations-championship-2026/",
-        "published": "2026-07-11T18:05:29+00:00",
-        "published_label": "Sat 11 Jul, 18:05",
-        "summary": "Scotland player ratings: Scotland’s hopes of a first ever win over the Springboks in South Africa - and first against the world champions since 2010 - ultimately fell short despite a bravura display in defeat in Pretoria.",
-        "body": "Scotland player ratings: Scotland’s hopes of a first ever win over the Springboks in South Africa – and first against the world champions since 2010 – ultimately fell short despite a bravura display in defeat in Pretoria.\n\nThe Scots fell 14-0 down inside the opening quarter as the Boks’ early physical barrage yielded tries for Embrose Papier and Evan Roos, but Gregor Townsend’s side remained calm to level the scores by half-time with well-worked tries for Matt Fagerson and Kyle Rowe.",
-        "copy": "Scotland player ratings: Scotland’s hopes of a first ever win over the Springboks in South Africa – and first against the world champions since 2010 – ultimately fell short despite a bravura display in defeat in Pretoria.\n\nThe Scots fell 14-0 down inside the opening quarter as the Boks’ early physical barrage yielded tries for Embrose Papier and Evan Roos, but Gregor Townsend’s side remained calm to level the scores by half-time with well-worked tries for Matt Fagerson and Kyle Rowe.",
-        "first_seen": "2026-07-11T18:41:07.387948+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Pollock's show-stopping England treble makes his case to start",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c70ypvrp212o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-11T18:02:49+00:00",
-        "published_label": "Sat 11 Jul, 18:02",
-        "summary": "Henry Pollock's second-half hat-trick for England put his name up in lights. Should it also be on the list when Steve Borthwick draws up his next starting line-up?",
-        "body": "When Jude Bellingham scored an injury-time equaliser against Slovakia to keep England in Euro 2024, the midfielder raced towards the stands shouting that phrase in celebration.\n\nHenry Pollock chose Bellingham's more familiar outstretched-arms celebration to mark his hat-trick in England's 73-8 rout of Fiji, but there was that same feeling of inevitability.",
-        "copy": "When Jude Bellingham scored an injury-time equaliser against Slovakia to keep England in Euro 2024, the midfielder raced towards the stands shouting that phrase in celebration.\n\nHenry Pollock chose Bellingham's more familiar outstretched-arms celebration to mark his hat-trick in England's 73-8 rout of Fiji, but there was that same feeling of inevitability.",
-        "first_seen": "2026-07-11T18:41:07.387948+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Scotland fall short in 10-try thriller with South Africa",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cly807lylwzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-11T17:57:54+00:00",
-        "published_label": "Sat 11 Jul, 17:57",
-        "summary": "Scotland run in four tries at Loftus Versfeld Stadium but fall to a pulsating 42-28 Nations Championship defeat against a much-changed South Africa.",
-        "body": "Scotland pushed a much-changed South Africa all the way in a thrilling Nations Championship contest but were left to rue wasted opportunities in Pretoria. Seeking a first win on South African soil, Scotland scored four tries to gain a bonus point.\n\nAnd they might have matched the home tally of six if they had been slightly more clinical in attack. The world champions made 10 starting alterations after flattening England in Johannesburg and such is their strength in depth they could extend their winning streak against Scotland to 10 Tests, finding the killer touch at the right moments.",
-        "copy": "Scotland pushed a much-changed South Africa all the way in a thrilling Nations Championship contest but were left to rue wasted opportunities in Pretoria. Seeking a first win on South African soil, Scotland scored four tries to gain a bonus point.\n\nAnd they might have matched the home tally of six if they had been slightly more clinical in attack. The world champions made 10 starting alterations after flattening England in Johannesburg and such is their strength in depth they could extend their winning streak against Scotland to 10 Tests, finding the killer touch at the right moments.",
-        "first_seen": "2026-07-11T18:41:07.387948+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "South Africa pushed all the way in Pretoria by Scotland",
-        "link": "https://www.rugbypass.com/news/battling-scotland-fall-short-as-south-africa-hold-on-for-victory-in-pretoria/",
-        "published": "2026-07-11T17:52:09+00:00",
-        "published_label": "Sat 11 Jul, 17:52",
-        "summary": "Gregor Townsend’s resurgent side made the Springboks fight to the end for their victory.",
-        "body": "Scotland produced another big performance against top-tier opposition but their wait for a first-ever win in South Africa continues after they went down 42-28 to the double world champions in a thrilling Nations Championship showdown in Pretoria.\n\nHaving seen off England, France and Argentina in impressive fashion already this year, Gregor Townsend’s resurgent side made the Springboks fight to the end for their victory.",
-        "copy": "Scotland produced another big performance against top-tier opposition but their wait for a first-ever win in South Africa continues after they went down 42-28 to the double world champions in a thrilling Nations Championship showdown in Pretoria.\n\nHaving seen off England, France and Argentina in impressive fashion already this year, Gregor Townsend’s resurgent side made the Springboks fight to the end for their victory.",
-        "first_seen": "2026-07-11T18:41:07.387948+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Springboks player ratings vs Scotland | Nations Championship 2026",
-        "link": "https://www.rugbypass.com/news/springboks-player-ratings-vs-scotland-nations-championship-2026/",
-        "published": "2026-07-11T17:36:38+00:00",
-        "published_label": "Sat 11 Jul, 17:36",
-        "summary": "Springboks player ratings: The blistering start from Rassie Erasmus' men suggested this might be a long afternoon for Scotland as the Springboks surged...",
-        "body": "Springboks player ratings: The blistering start from Rassie Erasmus’ men suggested this might be a long afternoon for Scotland as the Springboks surged into a 14-0 lead and had the visitors firmly on the ropes. Yet momentum swung back violently in the second quarter, with Scotland striking twice in quick succession to drag themselves level at 14-14 by half-time. As they so often do, however, the Boks found another gear after the break.\n\nA deluge of second-half tries restored order and ultimately, despite a Scotland fightback, put the visitors to bed in Pretoria on a 42-28 scoreline. Put a grubber straight out on 28 minutes and you could see he was annoyed at himself immediately. It wasn’t a game packed with attacking touches for the full-back, but he recovered well enough and was generally decent under the high ball thereafter as Scotland kicked plenty of traffic his way.",
-        "copy": "Springboks player ratings: The blistering start from Rassie Erasmus’ men suggested this might be a long afternoon for Scotland as the Springboks surged into a 14-0 lead and had the visitors firmly on the ropes. Yet momentum swung back violently in the second quarter, with Scotland striking twice in quick succession to drag themselves level at 14-14 by half-time. As they so often do, however, the Boks found another gear after the break.\n\nA deluge of second-half tries restored order and ultimately, despite a Scotland fightback, put the visitors to bed in Pretoria on a 42-28 scoreline. Put a grubber straight out on 28 minutes and you could see he was annoyed at himself immediately. It wasn’t a game packed with attacking touches for the full-back, but he recovered well enough and was generally decent under the high ball thereafter as Scotland kicked plenty of traffic his way.",
-        "first_seen": "2026-07-11T18:41:07.387948+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Pollock scores hat-trick as 11-try England thrash Fiji",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cz0jv2y07m1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-11T17:25:32+00:00",
-        "published_label": "Sat 11 Jul, 17:25",
-        "summary": "Replacement Henry Pollock scores a second-half hat-trick as England score eleven tries to thrash Fiji in Liverpool and end a five-Test losing streak.",
-        "body": "",
-        "copy": "Replacement Henry Pollock scores a second-half hat-trick as England score eleven tries to thrash Fiji in Liverpool and end a five-Test losing streak.",
-        "first_seen": "2026-07-11T18:41:07.387948+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Steve Borthwick confirms series-ending injury to take sheen off England win",
-        "link": "https://www.rugbypass.com/news/injured-alex-mitchell-ruled-out-of-argentina-clash-after-england-hammer-fiji/",
-        "published": "2026-07-11T17:10:23+00:00",
-        "published_label": "Sat 11 Jul, 17:10",
-        "summary": "Alex Mitchell has been ruled out of England’s final Nations Championship match against Argentina after sustaining a hamstring injury in the 73-8 rout of Fiji at Hill Dickinson Stadium.",
-        "body": "Alex Mitchell has been ruled out of England’s final Nations Championship match against Argentina after sustaining a hamstring injury in the 73-8 rout of Fiji at Hill Dickinson Stadium.\n\nMitchell came on as a second-half replacement for Jack van Poortvliet but lasted just nine minutes before limping off and cut a frustrated figure as he left the field. The British and Irish Lions scrum-half’s season has been hampered by two previous hamstring injuries, the first of which ruled him out of the Six Nations, and he will now miss the climax to the July tour in Santiago del Estero.",
-        "copy": "Alex Mitchell has been ruled out of England’s final Nations Championship match against Argentina after sustaining a hamstring injury in the 73-8 rout of Fiji at Hill Dickinson Stadium.\n\nMitchell came on as a second-half replacement for Jack van Poortvliet but lasted just nine minutes before limping off and cut a frustrated figure as he left the field. The British and Irish Lions scrum-half’s season has been hampered by two previous hamstring injuries, the first of which ruled him out of the Six Nations, and he will now miss the climax to the July tour in Santiago del Estero.",
-        "first_seen": "2026-07-11T18:41:07.387948+00:00"
       }
     ],
     "Tennis": [
@@ -5176,22 +5150,113 @@
         "body": "Reaction from Wimbledon after Linda Noskova beat Karolina Muchova to the women's singles title. Pat Cash and correspondent Russell Fuller join Gigi Salmon to reflect on Linda Noskova's win. They also look ahead to Sunday's men's final as Jannik Sinner looks to defend his Wimbledon title against Alexander Zverev. Plus, there's British success in the doubles - hear from Gordon Reid and Alfie Hewett after their 7th Wimbledon doubles title and hear from Henry Patten and Finland's Harry Heliovaara after they defended their men's doubles title... Time Codes: 02:00 - Linda Noskova Interview 10:20 - Karolina Muchova Interview 17:30 - Men's Final Preview 26:02 - Alfie Hewett and Gordon Reid Interview 29:00 - Henry Patten and Harry Heliovaara Interview",
         "copy": "Reaction from Wimbledon after Linda Noskova beat Karolina Muchova to the women's singles title. Pat Cash and correspondent Russell Fuller join Gigi Salmon to reflect on Linda Noskova's win. They also look ahead to Sunday's men's final as Jannik Sinner looks to defend his Wimbledon title against Alexander Zverev. Plus, there's British success in the doubles - hear from Gordon Reid and Alfie Hewett after their 7th Wimbledon doubles title and hear from Henry Patten and Finland's Harry Heliovaara after they defended their men's doubles title... Time Codes: 02:00 - Linda Noskova Interview 10:20 - Karolina Muchova Interview 17:30 - Men's Final Preview 26:02 - Alfie Hewett and Gordon Reid Interview 29:00 - Henry Patten and Harry Heliovaara Interview",
         "first_seen": "2026-07-12T11:02:56.354360+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Noskova recovers from five missed championship points to beat Muchova",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/c75yp99vr5do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-11T17:53:53+00:00",
-        "published_label": "Sat 11 Jul, 17:53",
-        "summary": "Linda Noskova recovers from missing five championship points in the second set to take the deciding set 6-3 to win her first Wimbledon title.",
-        "body": "",
-        "copy": "Linda Noskova recovers from missing five championship points in the second set to take the deciding set 6-3 to win her first Wimbledon title.",
-        "first_seen": "2026-07-11T18:41:07.387948+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'I'm not particularly fond of DeChambeau'",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/ce8517jj93yo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-18T18:48:38+00:00",
+        "published_label": "Sat 18 Jul, 18:48",
+        "summary": "Rory McIlroy describes Bryson DeChambeau's behaviour after receiving a two stroke penalty in the second round of the 2026 Open Championship as \"performative\" and \"for attention,\" as his discussions with tournament officials delayed the release of the tee times for the third round.",
+        "body": "Rory McIlroy describes Bryson DeChambeau's behaviour after receiving a two stroke penalty in the second round of the 2026 Open Championship as \"performative\" and \"for attention,\" as his discussions with tournament officials delayed the release of the tee times for the third round.",
+        "copy": "Rory McIlroy describes Bryson DeChambeau's behaviour after receiving a two stroke penalty in the second round of the 2026 Open Championship as \"performative\" and \"for attention,\" as his discussions with tournament officials delayed the release of the tee times for the third round.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "R&A chief calls Bryson DeChambeau penalty 'clear-cut', hasn't heard from Trump",
+        "link": "https://golf.com/news/bryson-dechambeau-open-penalty-trump/",
+        "published": "2026-07-18T18:02:18+00:00",
+        "published_label": "Sat 18 Jul, 18:02",
+        "summary": "R&A CEO Mark Darbon says that Bryson DeChambeau's two-shot penalty was a \"clear-cut\" rules violation at Royal Birkdale. The post R&A chief calls Bryson DeChambeau penalty ‘clear-cut’, hasn’t heard from Trump appeared first on Golf .",
+        "body": "The Open Championship devolved into chaos Friday night at Royal Birkdale when the R&A notified Bryson DeChambeau after his round that he was being assessed a two-shot penalty for inadvertently improving his lie on the 5th hole.\n\nThe scene that unfolded over the next two hours will be burned into major-championship history. DeChambeau and R&A officials went back out to the scene of the infraction and television cameras caught him wildly gesticulating as his case fell on deaf ears. He then threatened not to continue to play in the tournament if he was docked two shots.",
+        "copy": "The Open Championship devolved into chaos Friday night at Royal Birkdale when the R&A notified Bryson DeChambeau after his round that he was being assessed a two-shot penalty for inadvertently improving his lie on the 5th hole.\n\nThe scene that unfolded over the next two hours will be burned into major-championship history. DeChambeau and R&A officials went back out to the scene of the infraction and television cameras caught him wildly gesticulating as his case fell on deaf ears. He then threatened not to continue to play in the tournament if he was docked two shots.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Bit of a joke': Pro laments chaos set off by Bryson DeChambeau's Open penalty",
+        "link": "https://golf.com/news/marco-penge-open-championship-bryson-dechambeau-penalty/",
+        "published": "2026-07-18T17:37:11+00:00",
+        "published_label": "Sat 18 Jul, 17:37",
+        "summary": "English golfer Marco Penge was among the players left in a holding pattern while waiting for Saturday tee times to be released. The post ‘Bit of a joke’: Pro laments chaos set off by Bryson DeChambeau’s Open penalty appeared first on Golf .",
+        "body": "As if the vagaries of links golf weren’t unsettling enough, the chaotic close to Friday’s second round of the Open Championship at baked-out Royal Birkdale added another layer of volatility into the mix.\n\nBy now, you know the Bryson DeChambeau saga — his adventure wide right of the par-4 5th hole, the two-shot penalty he was assessed for inadvertently improving his lie, and his reaction to the R&A’s decision, including his threat to pull out of the competition.",
+        "copy": "As if the vagaries of links golf weren’t unsettling enough, the chaotic close to Friday’s second round of the Open Championship at baked-out Royal Birkdale added another layer of volatility into the mix.\n\nBy now, you know the Bryson DeChambeau saga — his adventure wide right of the par-4 5th hole, the two-shot penalty he was assessed for inadvertently improving his lie, and his reaction to the R&A’s decision, including his threat to pull out of the competition.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The simple swing thought that led to this pro's unlikely Open win",
+        "link": "https://golf.com/news/todd-hamilton-open-championship-royal-troon/",
+        "published": "2026-07-18T17:26:23+00:00",
+        "published_label": "Sat 18 Jul, 17:26",
+        "summary": "On GOLF's Subpar podcast, 2004 Open champ Todd Hamilton detailed the tiny tweak he made before his improbable win at Royal Troon. The post The simple swing thought that led to this pro’s unlikely Open win appeared first on Golf .",
+        "body": "Todd Hamilton’s victory at the 2004 Open Championship surprised a lot of people, including him. Heading into the event, Hamilton was a little-known journeyman who’d spent more than a decade on the Japan Golf Tour. After trying — and failing — eight times to earn his PGA Tour card, he finally made the big stage in 2003, at age 38.\n\nIn early 2004, Hamilton captured his first Tour title at the Honda Classic. But the week before the Open, he wasn’t at his best, posting a middling finish at the John Deere Classic. His cross-Atlantic trip didn’t bode well either. Delayed while connecting through Chicago, Hamilton arrived at Royal Troon late Tuesday afternoon, leaving little time to prepare. In his opening round, he ground out a 71, birdieing the last for an even-par round, which put him in a better frame of mind.",
+        "copy": "Todd Hamilton’s victory at the 2004 Open Championship surprised a lot of people, including him. Heading into the event, Hamilton was a little-known journeyman who’d spent more than a decade on the Japan Golf Tour. After trying — and failing — eight times to earn his PGA Tour card, he finally made the big stage in 2003, at age 38.\n\nIn early 2004, Hamilton captured his first Tour title at the Honda Classic. But the week before the Open, he wasn’t at his best, posting a middling finish at the John Deere Classic. His cross-Atlantic trip didn’t bode well either. Delayed while connecting through Chicago, Hamilton arrived at Royal Troon late Tuesday afternoon, leaving little time to prepare. In his opening round, he ground out a 71, birdieing the last for an even-par round, which put him in a better frame of mind.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Rory McIlroy takes swipe at Bryson DeChambeau for holding The Open ‘hostage’ with ‘performative’ outrage",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW9mNkR1LWZCV2xjYlczaVdpXzhfcTRfT3c4aWF2MUl0OXBrNXRoRHVHTWlxM01PSF9FV29oVG9lWUJ4SWV3SzBsNFY2S0xmd1lKbHc5UEdvS0hXN3ZhQlVKNFNaUnQ5b09OdHVkQ0NqT0F1ZVdUMnJ6ZVVBbXlJSmNTNjlFN2xkaHVuOHBOUTRTcjF0RmJjdk95ejBGdHY4aHNENmxyTkxwXzA?oc=5",
+        "published": "2026-07-18T17:19:00+00:00",
+        "published_label": "Sat 18 Jul, 17:19",
+        "summary": "Rory McIlroy takes swipe at Bryson DeChambeau for holding The Open ‘hostage’ with ‘performative’ outrage The Independent",
+        "body": "Rory McIlroy has delivered a stinging shot at Bryson DeChambeau over his “performative” behaviour after a controversial two-shot penalty at The Open on Friday. The Masters champion also accused the American of holding The Open hostage, with players and officials waiting on him to settle his dispute over the rules infringement before third round tee times were released at 11pm BST.\n\nJustin Thomas and Marco Penge, who labelled the situation a “joke,” were among the players upset at a lack of clarity over the Saturday schedule, due to the hold-up surrounding the drama involving DeChambeau.",
+        "copy": "Rory McIlroy has delivered a stinging shot at Bryson DeChambeau over his “performative” behaviour after a controversial two-shot penalty at The Open on Friday. The Masters champion also accused the American of holding The Open hostage, with players and officials waiting on him to settle his dispute over the rules infringement before third round tee times were released at 11pm BST.\n\nJustin Thomas and Marco Penge, who labelled the situation a “joke,” were among the players upset at a lack of clarity over the Saturday schedule, due to the hold-up surrounding the drama involving DeChambeau.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "All that Royal Birkdale brown? Meet the guy (and dog) in charge of it",
+        "link": "https://golf.com/news/royal-birkdale-brown-charge/",
+        "published": "2026-07-18T17:18:53+00:00",
+        "published_label": "Sat 18 Jul, 17:18",
+        "summary": "Sean McLean, Royal Birkdale’s course manager, will tell you that brown is the great color of linksland golf. The post All that Royal Birkdale brown? Meet the guy (and dog) in charge of it appeared first on Golf .",
+        "body": "SOUTHPORT, England — In a bustling R&A tent Friday afternoon, at tea/beer/toasty time, two Scotsmen with deep connections to Royal Birkdale were having a wee chat. The older gent, Alastair Johnston, wearing a tailored linen sport coat, was talking about a man he knew well, Arnold Palmer, winner of the 1961 British Open at Royal Birkdale. Johnston managed Palmer’s business affairs for more than four years. The younger man, Sean McLean, wearing shorts and sneakers and a workingman’s golf shirt, was all ears. McLean knew the precise location of the plaque at Birkdale that memorializes the 6-iron Palmer hit from thick rough near a bush en route to winning here 65 years ago. McLean is the course manager here.\n\nMcLean’s joy — from this chance meeting with one of golf’s secret legends, from this lovely July afternoon, from the rugged grandeur of this 154th Open, from this unique life in greenkeeping (and brownkeeping) he has made for himself — was inspiring. When McLean worked in the United States, at Southern Hills and Oak Hill, among other places, the term of art was superintendent. When he got the top job at Birkdale, succeeding another secret legend of the game, Chris Whittle, he was assigned a title, course manager. But the term he prefers is greenkeeper, no s. Old Tom Morris was a greenkeeper. A keeper of the green. The green was the course, all of it, as in the phrase through the green.",
+        "copy": "SOUTHPORT, England — In a bustling R&A tent Friday afternoon, at tea/beer/toasty time, two Scotsmen with deep connections to Royal Birkdale were having a wee chat. The older gent, Alastair Johnston, wearing a tailored linen sport coat, was talking about a man he knew well, Arnold Palmer, winner of the 1961 British Open at Royal Birkdale. Johnston managed Palmer’s business affairs for more than four years. The younger man, Sean McLean, wearing shorts and sneakers and a workingman’s golf shirt, was all ears. McLean knew the precise location of the plaque at Birkdale that memorializes the 6-iron Palmer hit from thick rough near a bush en route to winning here 65 years ago. McLean is the course manager here.\n\nMcLean’s joy — from this chance meeting with one of golf’s secret legends, from this lovely July afternoon, from the rugged grandeur of this 154th Open, from this unique life in greenkeeping (and brownkeeping) he has made for himself — was inspiring. When McLean worked in the United States, at Southern Hills and Oak Hill, among other places, the term of art was superintendent. When he got the top job at Birkdale, succeeding another secret legend of the game, Chris Whittle, he was assigned a title, course manager. But the term he prefers is greenkeeper, no s. Old Tom Morris was a greenkeeper. A keeper of the green. The green was the course, all of it, as in the phrase through the green.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "‘Not particularly fond of him’: Rory McIlroy rips Bryson DeChambeau at Open",
+        "link": "https://golf.com/news/not-fond-rory-mcilroy-bryson-dechambeau-open/",
+        "published": "2026-07-18T17:14:05+00:00",
+        "published_label": "Sat 18 Jul, 17:14",
+        "summary": "Rory McIlroy, in response to Bryson DeChambeau’s rules controversy, ripped him at the Open Championship at Royal Birkdale. The post ‘Not particularly fond of him’: Rory McIlroy rips Bryson DeChambeau at Open appeared first on Golf .",
+        "body": "Rory McIlroy, when asked about Bryson DeChambeau’s Open Championship rules controversy, says it was “pretty obvious” why DeChambeau was penalized and criticized his reaction. “Yeah, look, I won’t pretend to be up here and defend Bryson,” McIlroy said. “I’m not particularly fond of him. I think a lot of it’s performative. I think a lot of it’s for attention.\n\n“To hold the tournament hostage like that, and to have all of us, players, volunteers, everyone waiting on him to depart, I didn’t feel like it was a great look.” McIlroy’s comments came Saturday after his Open third round, one round after DeChambeau was penalized two strokes for his actions in the fescue grass to the right of Royal Birkdale’s 5th hole. DeChambeau had found his ball in that area after a wayward tee shot and, as he measured how to play it, stepped on and around the grass before hitting his second shot. USA Network cameras showed the sequence, and after the round, rules officials questioned whether DeChambeau, in maneuvering, had improved the area around the ball, which isn’t allowed under Rule 8.1b of the Rules of Golf.",
+        "copy": "Rory McIlroy, when asked about Bryson DeChambeau’s Open Championship rules controversy, says it was “pretty obvious” why DeChambeau was penalized and criticized his reaction. “Yeah, look, I won’t pretend to be up here and defend Bryson,” McIlroy said. “I’m not particularly fond of him. I think a lot of it’s performative. I think a lot of it’s for attention.\n\n“To hold the tournament hostage like that, and to have all of us, players, volunteers, everyone waiting on him to depart, I didn’t feel like it was a great look.” McIlroy’s comments came Saturday after his Open third round, one round after DeChambeau was penalized two strokes for his actions in the fescue grass to the right of Royal Birkdale’s 5th hole. DeChambeau had found his ball in that area after a wayward tee shot and, as he measured how to play it, stepped on and around the grass before hitting his second shot. USA Network cameras showed the sequence, and after the round, rules officials questioned whether DeChambeau, in maneuvering, had improved the area around the ball, which isn’t allowed under Rule 8.1b of the Rules of Golf.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Rory McIlroy accuses Bryson DeChambeau of ‘holding the Open hostage’",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDFrVF8zR1RnZi1xN0FqUEJJWVBoR3VMOTF5aUp4MHEwRXBTTzRCLXlqTlpSeExnVTJlTERQdXAwbWw2bzd3X1dWQXVtT1RkTUtBRVlENHZMVk1JeWhpYWxFWFJZTnc4LXQ4TlhtZ3pyMVdnQ2pqQkF6aFFKU3EyOWZISGh1TVl3dlFXbk1KZzhycWd1MUNtRXQ2dm8wQjNZQlE?oc=5",
+        "published": "2026-07-18T16:58:00+00:00",
+        "published_label": "Sat 18 Jul, 16:58",
+        "summary": "Rory McIlroy accuses Bryson DeChambeau of ‘holding the Open hostage’ The Telegraph",
+        "body": "McIlroy’s 69 left him on two under, six off the clubhouse lead set by Ryan Fox, the Kiwi who shot the third 62 of the week. “I probably feel like I’m a little too far behind, but never say never.\n\n“There’s been a few 62s and if I go out tomorrow and get to double digits, you never know. But yeah, I certainly am not going out tomorrow thinking like I’ve got a great chance to win.”",
+        "copy": "McIlroy’s 69 left him on two under, six off the clubhouse lead set by Ryan Fox, the Kiwi who shot the third 62 of the week. “I probably feel like I’m a little too far behind, but never say never.\n\n“There’s been a few 62s and if I go out tomorrow and get to double digits, you never know. But yeah, I certainly am not going out tomorrow thinking like I’ve got a great chance to win.”",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -5204,6 +5269,19 @@
         "body": "This content is not available in your location. Rory McIlroy says the consensus amongst the players competing at the 2026 Open Championship is that the two shot penalty given to Bryson DeChambeau for a rule infringement in the second round is \"justified.\"",
         "copy": "This content is not available in your location. Rory McIlroy says the consensus amongst the players competing at the 2026 Open Championship is that the two shot penalty given to Bryson DeChambeau for a rule infringement in the second round is \"justified.\"",
         "first_seen": "2026-07-18T16:55:57.345625+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Rory McIlroy accuses Bryson DeChambeau of holding Open ‘hostage’ after penalty",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWdEMWJtcU51a2NUelVFOEROYzJ5Wk1mNVR1cGRVdkdCZm5WdHJjVzJ4MGloRFFXT1ZsanFyTVNIWjNKZnNMV01OQlRFTm5xeGhWREw2bWYwc29nQWFUTUxhUlU1Vmh6ZjgzMVdZc0xoRkR1OUV6NHhEYUt0bGo5S2dwa3ZzSTgzVDhZd1ZrS3d1TGU2T2tNaGNrUkRPN3ZUYnh3bmlYQ3hlcWlxNF8yd25ybWhMMmZHVmRqb0g3VzQ?oc=5",
+        "published": "2026-07-18T16:46:14+00:00",
+        "published_label": "Sat 18 Jul, 16:46",
+        "summary": "Rory McIlroy accuses Bryson DeChambeau of holding Open ‘hostage’ after penalty Somerset County Gazette",
+        "body": "Masters champion Rory McIlroy delivered an extraordinary rebuke to a “performative” Bryson DeChambeau and accused the American of holding the tournament “hostage” over his rules controversy at The Open.\n\nThe Northern Irishman’s dislike of the two-time US Open winner is well known and he refused to speak to him when they played together during the final round of his 2025 win at Augusta which brought him the career grand slam.",
+        "copy": "Masters champion Rory McIlroy delivered an extraordinary rebuke to a “performative” Bryson DeChambeau and accused the American of holding the tournament “hostage” over his rules controversy at The Open.\n\nThe Northern Irishman’s dislike of the two-time US Open winner is well known and he refused to speak to him when they played together during the final round of his 2025 win at Augusta which brought him the career grand slam.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
       },
       {
         "section": "Golf",
@@ -8350,19 +8428,6 @@
         "body": "Over a 16-year major league baseball career, Mark Grace became known as one of baseball’s purest line-drive hitters. After he retired and found a second home on the celebrity golf circuit, he had an eye-opening encounter with a kindred spirit—another athlete adept at producing frozen ropes.\n\nSpeaking on this week’s Subpar podcast, Grace, a longtime AT&T Pebble Beach Pro-Am participant, recalled an unforgettable range session alongside Vijay Singh, who offered a masterclass in one of golf’s most valuable shots.",
         "copy": "Over a 16-year major league baseball career, Mark Grace became known as one of baseball’s purest line-drive hitters. After he retired and found a second home on the celebrity golf circuit, he had an eye-opening encounter with a kindred spirit—another athlete adept at producing frozen ropes.\n\nSpeaking on this week’s Subpar podcast, Grace, a longtime AT&T Pebble Beach Pro-Am participant, recalled an unforgettable range session alongside Vijay Singh, who offered a masterclass in one of golf’s most valuable shots.",
         "first_seen": "2026-07-12T11:02:56.354360+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Borderline': Timing of Scottish Open fog delay spotlights interesting golf rule",
-        "link": "https://golf.com/news/scottish-open-fog-boderline-conditi/",
-        "published": "2026-07-11T17:58:36+00:00",
-        "published_label": "Sat 11 Jul, 17:58",
-        "summary": "J.J. Spaun called it \"borderline.\" Viktor Hovland could barely see. But there was an interesting reason why the Scottish Open waited to call a fog delay. The post ‘Borderline’: Timing of Scottish Open fog delay spotlights interesting golf rule appeared first on Golf .",
-        "body": "When J.J. Spaun put his tee in the ground at 9:28 a.m. local time in Scotland on Saturday, he could barely see his target. With the Scottish haar rolling in off the ocean, visibility was poor at a fog-covered Renaissance Club as the third round began. Spaun, who was in the third group off alongside Adam Scott, peered out over the first hole, barely clocked his target line, and let his tee shot fly into the Scottish fog. Five holes later, when Spaun and Scott reached the fifth hole at a higher point on the property, play at the Scottish Open was officially paused for fog.\n\nThe delay lasted two and a half hours, but Spaun thinks they probably could’ve called play earlier given what he faced on the first hole. “Yeah, I think the first tee shot was borderline,” Spaun, who shot a three-under 67 on Saturday, said after his round when asked if the delay should’ve come sooner. “You could barely see that bunker down the left about 300 yards. It’s just hard to picture the hole when you can’t even see 300 yards out. But the first four holes it was OK. But then once we got to five, there was no chance.”",
-        "copy": "When J.J. Spaun put his tee in the ground at 9:28 a.m. local time in Scotland on Saturday, he could barely see his target. With the Scottish haar rolling in off the ocean, visibility was poor at a fog-covered Renaissance Club as the third round began. Spaun, who was in the third group off alongside Adam Scott, peered out over the first hole, barely clocked his target line, and let his tee shot fly into the Scottish fog. Five holes later, when Spaun and Scott reached the fifth hole at a higher point on the property, play at the Scottish Open was officially paused for fog.\n\nThe delay lasted two and a half hours, but Spaun thinks they probably could’ve called play earlier given what he faced on the first hole. “Yeah, I think the first tee shot was borderline,” Spaun, who shot a three-under 67 on Saturday, said after his round when asked if the delay should’ve come sooner. “You could barely see that bunker down the left about 300 yards. It’s just hard to picture the hole when you can’t even see 300 yards out. But the first four holes it was OK. But then once we got to five, there was no chance.”",
-        "first_seen": "2026-07-11T18:41:07.387948+00:00"
       }
     ],
     "Badminton": [
@@ -8378,6 +8443,19 @@
         "body": "BWF World Championships to kick-off, organisers on Saturday promised a trouble-free tournament after last year's India Open was marred by pigeon droppings, a monkey intrusion, dust and facility concerns. TOI has learnt that cost-effective hybrid shuttlecocks will also be used, amid soaring feather shuttle prices.\n\nBadminton Association of India (BAI) general secretary Sanjay Mishra said the shortcomings exposed during the India Open have been comprehensively addressed ahead of the Aug 17-23 event, which is expected to cost the federation anywhere between Rs 15-20 crore to host.",
         "copy": "BWF World Championships to kick-off, organisers on Saturday promised a trouble-free tournament after last year's India Open was marred by pigeon droppings, a monkey intrusion, dust and facility concerns. TOI has learnt that cost-effective hybrid shuttlecocks will also be used, amid soaring feather shuttle prices.\n\nBadminton Association of India (BAI) general secretary Sanjay Mishra said the shortcomings exposed during the India Open have been comprehensively addressed ahead of the Aug 17-23 event, which is expected to cost the federation anywhere between Rs 15-20 crore to host.",
         "first_seen": "2026-07-18T16:55:57.345625+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Hybrid shuttles, bird nets as BWF World Championships plug India Open glitches",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRnRqaFlBcnEwQk9UZjZpZjVicW1Pd0kwcFRZRDRaNmZSRGZidEQ0RElTd3VvQnZpT0ZGLUFTcUV1YjRuVkFQT09EYk8tOGJDdEoyV3ZySU9kSVhkOFNKN3N2Z1BZbE84Vmk1R3lWUVh5U0YyTWx6UWVGNm1CT3RiSEVhZU9aYTZhaUpnM2M5UDh1ZldUNkd6RjR1dDFTaUpGVUFoSTNEV3ExbUNUUDJGR2ZkTzlPQklUR0FQUmI5ek9vUy03SjlidVdJSVhHenZMdmRidy10eTZPdzZnS2lia3BOWEJSbHBlRWZybQ?oc=5",
+        "published": "2026-07-18T16:07:00+00:00",
+        "published_label": "Sat 18 Jul, 16:07",
+        "summary": "Hybrid shuttles, bird nets as BWF World Championships plug India Open glitches The Times of India",
+        "body": "BWF World Championships to kick-off, organisers on Saturday promised a trouble-free tournament after last year's India Open was marred by pigeon droppings, a monkey intrusion, dust and facility concerns. TOI has learnt that cost-effective hybrid shuttlecocks will also be used, amid soaring feather shuttle prices.\n\nBadminton Association of India (BAI) general secretary Sanjay Mishra said the shortcomings exposed during the India Open have been comprehensively addressed ahead of the Aug 17-23 event, which is expected to cost the federation anywhere between Rs 15-20 crore to host.",
+        "copy": "BWF World Championships to kick-off, organisers on Saturday promised a trouble-free tournament after last year's India Open was marred by pigeon droppings, a monkey intrusion, dust and facility concerns. TOI has learnt that cost-effective hybrid shuttlecocks will also be used, amid soaring feather shuttle prices.\n\nBadminton Association of India (BAI) general secretary Sanjay Mishra said the shortcomings exposed during the India Open have been comprehensively addressed ahead of the Aug 17-23 event, which is expected to cost the federation anywhere between Rs 15-20 crore to host.",
+        "first_seen": "2026-07-18T19:00:34.912896+00:00"
       },
       {
         "section": "Badminton",
@@ -8965,21 +9043,8 @@
         "body": "Irvine, CA - July 14 - USA Water Polo announced today a new multi-platform marketing partnership with iHeartMedia, naming the company the Official Radio Partner of USA Water Polo in an agreement designed to expand the sport's reach, inspire new participants, and engage fans across the country during one of the most significant eras in the organization's history.\n\nThe partnership will bring together the national governing body for water polo in the United States with iHeartMedia, America's leading audio company with nine out of ten Americans listening to iHeart broadcast radio in every month, to tell the stories of Team USA athletes, promote grassroots participation, and introduce more families to the sport through a fully integrated national marketing campaign. As excitement continues to build toward the Los Angeles 2028 Olympic Games, the collaboration represents a shared commitment to elevating Olympic sport and creating meaningful connections with fans both inside and outside the aquatic community.",
         "copy": "Irvine, CA - July 14 - USA Water Polo announced today a new multi-platform marketing partnership with iHeartMedia, naming the company the Official Radio Partner of USA Water Polo in an agreement designed to expand the sport's reach, inspire new participants, and engage fans across the country during one of the most significant eras in the organization's history.\n\nThe partnership will bring together the national governing body for water polo in the United States with iHeartMedia, America's leading audio company with nine out of ten Americans listening to iHeart broadcast radio in every month, to tell the stories of Team USA athletes, promote grassroots participation, and introduce more families to the sport through a fully integrated national marketing campaign. As excitement continues to build toward the Los Angeles 2028 Olympic Games, the collaboration represents a shared commitment to elevating Olympic sport and creating meaningful connections with fans both inside and outside the aquatic community.",
         "first_seen": "2026-07-15T09:28:54.154988+00:00"
-      },
-      {
-        "section": "Competitor News",
-        "source": "Google News",
-        "kind": "gnews",
-        "title": "NBA: Victor Wembanyama signs $252 Million \"Discount\" Deal with Spurs",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbm9KWTAwNGZndzNfRUtZMlNfUXJDbUhqQnVObGNGMmxmX3V6SjJTRkhPakFGbTBnOF8tYkxLSXRsU1ItQU84UHJRTW5lNXdBQXJIQ1U2Vmd1MjJyNF9senhsX3lGSkM4WDFxWlNSeFBJcFlqNG9WM3dvODBYZjA1dVNCa2hWTFV6WUFlTTVYbEJiWl9wU3VVSTVoako0RFhySXlGcw?oc=5",
-        "published": "2026-07-11T17:07:36+00:00",
-        "published_label": "Sat 11 Jul, 17:07",
-        "summary": "NBA: Victor Wembanyama signs $252 Million \"Discount\" Deal with Spurs Citi Sports Online",
-        "body": "Basketball star Victor Wembanyama has signed a five year contract extension with the San Antonio Spurs with the deal set to extend his stay with the NBA franchise. The 22 year signed the deal according to the Spurs on Friday, July 10 with the contract including a player option in the fifth year.\n\nBy extending his contract this offseason, Wembanyama truned down the chance to sign an even more lucrative contract to stick with the Spurs. As a two time NBA All-Star and reigning NBA Defensive Player of the Year, Wembanyama was eligible to sign a contract worth $302 million representing 30% of the salary cap but opted to sign a deal that pays him an average annual salary of $50.4 million representing 25% of the salary cap.",
-        "copy": "Basketball star Victor Wembanyama has signed a five year contract extension with the San Antonio Spurs with the deal set to extend his stay with the NBA franchise. The 22 year signed the deal according to the Spurs on Friday, July 10 with the contract including a player option in the fifth year.\n\nBy extending his contract this offseason, Wembanyama truned down the chance to sign an even more lucrative contract to stick with the Spurs. As a two time NBA All-Star and reigning NBA Defensive Player of the Year, Wembanyama was eligible to sign a contract worth $302 million representing 30% of the salary cap but opted to sign a deal that pays him an average annual salary of $50.4 million representing 25% of the salary cap.",
-        "first_seen": "2026-07-12T11:02:56.354360+00:00"
       }
     ]
   },
-  "total": 689
+  "total": 694
 }
