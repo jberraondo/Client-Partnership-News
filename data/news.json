@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T09:27:18.638519+00:00",
-  "generated_label": "Sunday 19 July 2026, 09:27 UTC",
+  "generated_at": "2026-07-19T11:09:41.574813+00:00",
+  "generated_label": "Sunday 19 July 2026, 11:09 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1389,22 +1389,87 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-13T13:44:02.739751+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Why are China and India so bad at football?",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXpNd1QyUlpFcjVNMFUwZzNDQmZMRWZKakhaMVU1YmkzOFgzVlF0UmpSN1Fubm94WWFBbEl5bW9yWEp0VTZVWmQ4d3Zqdy1xLVJudEhKMEx4c1BfeFVpNkhaVU91VHJWa2lkZUprRWZBZXVScFhFWWtsa0NtVGJXay0zaHQ?oc=5",
-        "published": "2026-07-12T11:00:07+00:00",
-        "published_label": "Sun 12 Jul, 11:00",
-        "summary": "Why are China and India so bad at football? Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-12T15:41:37.834725+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "The Rassie Erasmus verdict on Vusi Moyo and a wider Boks report card",
+        "link": "https://www.rugbypass.com/news/the-rassie-erasmus-verdict-on-vusi-moyo-and-a-wider-boks-report-card/",
+        "published": "2026-07-19T10:55:13+00:00",
+        "published_label": "Sun 19 Jul, 10:55",
+        "summary": "Rassie Erasmus handed the Springboks a positive report card after their 43-0 victory over Wales in Durban, praising Vusi Moyo's composure...",
+        "body": "Rassie Erasmus handed the Springboks a positive report card after their 43-0 victory over Wales in Durban, praising Vusi Moyo’s composure on debut while insisting there is still room for growth ahead of the Rugby Championship clashes with Argentina.\n\nSouth Africa scored six tries and kept Wales scoreless in difficult conditions, with Erasmus particularly pleased by the defensive improvement shown by a heavily rotated side.",
+        "copy": "Rassie Erasmus handed the Springboks a positive report card after their 43-0 victory over Wales in Durban, praising Vusi Moyo’s composure on debut while insisting there is still room for growth ahead of the Rugby Championship clashes with Argentina.\n\nSouth Africa scored six tries and kept Wales scoreless in difficult conditions, with Erasmus particularly pleased by the defensive improvement shown by a heavily rotated side.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'There were questions about who we are and whether we deserve to be here'",
+        "link": "https://www.rugbypass.com/news/how-hong-kong-china-reacted-to-arguably-the-biggest-scalp-in-their-history/",
+        "published": "2026-07-19T10:50:07+00:00",
+        "published_label": "Sun 19 Jul, 10:50",
+        "summary": "Hong Kong China hailed the biggest result in the nation's rugby history after an astonishing 42-40 comeback victory over Uruguay in Montevideo...",
+        "body": "Hong Kong China hailed the biggest result in the nation’s rugby history after an astonishing 42-40 comeback victory over Uruguay in Montevideo, a win that secured their first-ever World Rugby Nations Cup triumph and saw them defeat the world No.17 side on home soil.\n\nHaving trailed 26-13 at half-time and 33-20 early in the second half, Hong Kong produced a stunning fightback before Paul Altier landed an 81st-minute penalty to snatch victory.",
+        "copy": "Hong Kong China hailed the biggest result in the nation’s rugby history after an astonishing 42-40 comeback victory over Uruguay in Montevideo, a win that secured their first-ever World Rugby Nations Cup triumph and saw them defeat the world No.17 side on home soil.\n\nHaving trailed 26-13 at half-time and 33-20 early in the second half, Hong Kong produced a stunning fightback before Paul Altier landed an 81st-minute penalty to snatch victory.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "The 'part' that Gregor Townsend has 'been most impressed with and pleased' with Scotland",
+        "link": "https://www.rugbypass.com/news/gregor-townsend-happy-with-how-scotland-handled-momentum-in-fiji-clash/",
+        "published": "2026-07-19T10:26:44+00:00",
+        "published_label": "Sun 19 Jul, 10:26",
+        "summary": "Gregor Townsend reflected on the strides his Scotland side have made since their collapse against Argentina last autumn as they rounded off a long season with a comeback win over Fiji.",
+        "body": "Gregor Townsend reflected on the strides his Scotland side have made since their collapse against Argentina last autumn as they rounded off a long season with a comeback win over Fiji.\n\nScotland somehow let a 21-0 half-time lead slip when they lost to the Pumas at Murrayfield in November. They soon lost in Italy in their Guinness Six Nations opener to leave Townsend facing criticism but they bounced back in impressive fashion and have now won five of their seven games since.",
+        "copy": "Gregor Townsend reflected on the strides his Scotland side have made since their collapse against Argentina last autumn as they rounded off a long season with a comeback win over Fiji.\n\nScotland somehow let a 21-0 half-time lead slip when they lost to the Pumas at Murrayfield in November. They soon lost in Italy in their Guinness Six Nations opener to leave Townsend facing criticism but they bounced back in impressive fashion and have now won five of their seven games since.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "The Springboks may have just found their skeleton key",
+        "link": "https://www.rugbypass.com/news/the-springboks-may-have-just-found-their-skeleton-key-in-paul-de-villiers/",
+        "published": "2026-07-19T10:21:18+00:00",
+        "published_label": "Sun 19 Jul, 10:21",
+        "summary": "After a succession of penalties, Wales are camped inside South Africa’s 22. It is the 50th minute of a game the Springboks have dominated, but the visitors are enjoying a rare period on the front foot.",
+        "body": "After a succession of penalties, Wales are camped inside South Africa’s 22. It is the 50th minute of a game the Springboks have dominated, but the visitors are enjoying a rare period on the front foot. At 26-0 down, they are chasing their first points against the world champions in more than two hours of rugby. They might not get another chance before the final whistle.\n\nAlex Mann carries and is nailed. Jac Morgan is drilled in contact. James Botham has a dart and is upended. Then, obscured in Tomos Williams’ blind spot, Paul de Villiers, in only his third Test, stoops low over the ball five metres from his own line. The whistle sounds. South African penalty. Pressure released.",
+        "copy": "After a succession of penalties, Wales are camped inside South Africa’s 22. It is the 50th minute of a game the Springboks have dominated, but the visitors are enjoying a rare period on the front foot. At 26-0 down, they are chasing their first points against the world champions in more than two hours of rugby. They might not get another chance before the final whistle.\n\nAlex Mann carries and is nailed. Jac Morgan is drilled in contact. James Botham has a dart and is upended. Then, obscured in Tomos Williams’ blind spot, Paul de Villiers, in only his third Test, stoops low over the ball five metres from his own line. The whistle sounds. South African penalty. Pressure released.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Fissler Confidential: French superstar's future unclear, England ace to snub return?",
+        "link": "https://www.rugbypass.com/news/fissler-confidential-french-superstar-deal-stalls-england-star-to-snub-return/",
+        "published": "2026-07-19T10:06:22+00:00",
+        "published_label": "Sun 19 Jul, 10:06",
+        "summary": "French superstar Louis Bielle-Biarrey, who has been able to speak to rival clubs since July 1, has rejected Bordeaux’s opening offer of a four-year extension to his contract that runs out in the summer of 2027.",
+        "body": "French superstar Louis Bielle-Biarrey, who has been able to speak to rival clubs since July 1, has rejected Bordeaux’s opening offer of a four-year extension to his contract that runs out in the summer of 2027.\n\nMidi Olympique is reporting that Bielle-Biarrey, who scored 34 tries in 31 games for club and country last season, is keen to stay with Bordeaux beyond the end of the season but has turned down an initial offer from the Gironde president, Laurent Marti.",
+        "copy": "French superstar Louis Bielle-Biarrey, who has been able to speak to rival clubs since July 1, has rejected Bordeaux’s opening offer of a four-year extension to his contract that runs out in the summer of 2027.\n\nMidi Olympique is reporting that Bielle-Biarrey, who scored 34 tries in 31 games for club and country last season, is keen to stay with Bordeaux beyond the end of the season but has turned down an initial offer from the Gironde president, Laurent Marti.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Argentina coach accuses England of lack of respect",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cn4nvx0zxzqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-19T09:47:34+00:00",
+        "published_label": "Sun 19 Jul, 09:47",
+        "summary": "Argentina heach coach Felipe Contepomi walks out of his news conference after the 31-24 defeat by England in the Nations Championship.",
+        "body": "Argentina heach coach Felipe Contepomi walked out of his news conference after the 31-24 defeat by England in the Nations Championship. He said England's celebrations in the changing room next door showed a \"lack of respect\".\n\nContepomi had asked an England representative to stop the noise of the music and celebrations. Argentina were denied a try by the television match official in the final play of a chaotic match in Santiago del Estero.",
+        "copy": "Argentina heach coach Felipe Contepomi walked out of his news conference after the 31-24 defeat by England in the Nations Championship. He said England's celebrations in the changing room next door showed a \"lack of respect\".\n\nContepomi had asked an England representative to stop the noise of the music and celebrations. Argentina were denied a try by the television match official in the final play of a chaotic match in Santiago del Estero.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4420,35 +4485,22 @@
         "body": "Noah Caluori is satisfied with a successful debut against Fiji but starting for England remains his ultimate objective. Caluori’s Test career was just seven minutes old when he finished in the right corner with a flamboyant dive as the Islanders were overwhelmed 73-8 at Hill Dickinson Stadium.\n\nThe electric 19-year-old was also presented with a half chance soon after stepping off the bench, but instead passed inside for Henry Slade to touch down. Argentina in Santiago del Estero concludes England’s July tour and while Caluori is unlikely to dislodge Tommy Freeman or Immanuel Feyi-Waboso from the starting wings for that assignment, he has a clear vision for his future.",
         "copy": "Noah Caluori is satisfied with a successful debut against Fiji but starting for England remains his ultimate objective. Caluori’s Test career was just seven minutes old when he finished in the right corner with a flamboyant dive as the Islanders were overwhelmed 73-8 at Hill Dickinson Stadium.\n\nThe electric 19-year-old was also presented with a half chance soon after stepping off the bench, but instead passed inside for Henry Slade to touch down. Argentina in Santiago del Estero concludes England’s July tour and while Caluori is unlikely to dislodge Tommy Freeman or Immanuel Feyi-Waboso from the starting wings for that assignment, he has a clear vision for his future.",
         "first_seen": "2026-07-12T11:45:52.770138+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Fissler Confidential: Stormers in talks with Bok, wandering Wallaby's new home?",
-        "link": "https://www.rugbypass.com/news/fissler-confidential-rugby-transfers-stormers-in-talks-with-bok-wandering-wallabys-new-home/",
-        "published": "2026-07-12T10:59:16+00:00",
-        "published_label": "Sun 12 Jul, 10:59",
-        "summary": "The Lions have agreed a deal to sign towering lock JP du Preez as they look to replace Darrien Landsberg, who is bound to join Exeter Chiefs in the Gallagher Prem next season.",
-        "body": "The Lions have agreed a deal to sign towering lock JP du Preez as they look to replace Darrien Landsberg, who is bound to join Exeter Chiefs in the Gallagher Prem next season.\n\nDu Preez, who stands at 6 ft 10 in and started his career with the Lions, is leaving the Red Hurricanes in Japan Rugby League One, and his career, which has included spells with the Cheetahs, Sale Sharks and Glasgow Warriors, will come full circle.",
-        "copy": "The Lions have agreed a deal to sign towering lock JP du Preez as they look to replace Darrien Landsberg, who is bound to join Exeter Chiefs in the Gallagher Prem next season.\n\nDu Preez, who stands at 6 ft 10 in and started his career with the Lions, is leaving the Red Hurricanes in Japan Rugby League One, and his career, which has included spells with the Cheetahs, Sale Sharks and Glasgow Warriors, will come full circle.",
-        "first_seen": "2026-07-12T11:45:52.770138+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "3 up, 6 down as World Rankings get shaken up",
-        "link": "https://www.rugbypass.com/news/3-up-6-down-as-world-rankings-get-shaken-up/",
-        "published": "2026-07-12T09:44:25+00:00",
-        "published_label": "Sun 12 Jul, 09:44",
-        "summary": "England, Japan and Spain will all have improved positions when the rankings are officially updated at 12pm on Monday (BST).",
-        "body": "Having gone into the weekend facing the prospect of falling to a 20-year rankings low, England will find themselves higher up the World Rugby Men’s Rankings when they are officially updated on Monday.\n\nEngland’s record 73-8 hammering of Fiji combined with Scotland’s brave 42-28 defeat to the Springboks will result in the oldest of international rivals swapping places, with England now the side ranked fifth and Scotland in sixth.",
-        "copy": "Having gone into the weekend facing the prospect of falling to a 20-year rankings low, England will find themselves higher up the World Rugby Men’s Rankings when they are officially updated on Monday.\n\nEngland’s record 73-8 hammering of Fiji combined with Scotland’s brave 42-28 defeat to the Springboks will result in the oldest of international rivals swapping places, with England now the side ranked fifth and Scotland in sixth.",
-        "first_seen": "2026-07-12T11:02:56.354360+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Former ATP star is genuinely concerned about Emma Raducanu's future",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNFA4MDE5LWI5T1hVckRfR2tGbUpxR0pYMmdsZmNQNzBxUkI2Z3BoR3h3VUdmaWF1Vl9LSDdpbUV4SkEwZHVMUkZBeUloT3RDVXRUSERlWmxHdFdsdXNWaUlzQVU5bWhTTUJ6UmFlZllQUzFDNjJpM21PMk5ucnlXRi1acE5DVXJFSDI0QkpMaDgzS1RMMzBvM3h6TXE3bVR4cFoxZ0swR0VLb2RNSU1zTVNqbHBvajRmSW9TdVUwZUdWSFJkaldpcw?oc=5",
+        "published": "2026-07-19T10:00:00+00:00",
+        "published_label": "Sun 19 Jul, 10:00",
+        "summary": "Former ATP star is genuinely concerned about Emma Raducanu's future Tennis World USA",
+        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -5046,22 +5098,35 @@
         "body": "Japan's Tokito Oda beat Great Britain's Alfie Hewett to claim his third Wimbledon men's wheelchair singles title. Oda, the number one seed and defending champion, dominated Sunday's final on Court One to win 6-1 6-1.\n\nIt is a sixth successive Grand Slam singles title won by 20-year-old Oda, who is unbeaten at the four majors since his loss to Hewett in the 2025 Australian Open final. Hewett won a seventh men's wheelchair doubles title at Wimbledon alongside fellow Briton Gordon Reid on Saturday but, for the second year in succession, he was beaten by Oda in the singles final at SW19.",
         "copy": "Japan's Tokito Oda beat Great Britain's Alfie Hewett to claim his third Wimbledon men's wheelchair singles title. Oda, the number one seed and defending champion, dominated Sunday's final on Court One to win 6-1 6-1.\n\nIt is a sixth successive Grand Slam singles title won by 20-year-old Oda, who is unbeaten at the four majors since his loss to Hewett in the 2025 Australian Open final. Hewett won a seventh men's wheelchair doubles title at Wimbledon alongside fellow Briton Gordon Reid on Saturday but, for the second year in succession, he was beaten by Oda in the singles final at SW19.",
         "first_seen": "2026-07-12T15:41:37.834725+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "What is the difference between quad and wheelchair tennis?",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ced4jyq234zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-12T10:04:25+00:00",
-        "published_label": "Sun 12 Jul, 10:04",
-        "summary": "Our Ask Me Anything team answer your questions on wheelchair tennis at Wimbledon.",
-        "body": "It's been a strong week for the Brits in Wimbledon's wheelchair tennis, with Alfie Hewett and Gordon Reid winning their seventh title at SW19 as a doubles partnership at the tournament as well as Hewett reaching the final of the men's singles.\n\nYou've sent in lots of questions about the sport, and our expert pundits, former professional players Jayant Mistry and Louise Hunt Skelley, have been on hand to answer them. Question: What's the difference between wheelchair tennis and quad wheelchair tennis?",
-        "copy": "It's been a strong week for the Brits in Wimbledon's wheelchair tennis, with Alfie Hewett and Gordon Reid winning their seventh title at SW19 as a doubles partnership at the tournament as well as Hewett reaching the final of the men's singles.\n\nYou've sent in lots of questions about the sport, and our expert pundits, former professional players Jayant Mistry and Louise Hunt Skelley, have been on hand to answer them. Question: What's the difference between wheelchair tennis and quad wheelchair tennis?",
-        "first_seen": "2026-07-12T11:02:56.354360+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Todd Hamilton explains how his hybrid helped him win the 2004 Open Championship",
+        "link": "https://golf.com/news/todd-hamilton-hybrid-helped-win-2004-open-championship/",
+        "published": "2026-07-19T09:50:26+00:00",
+        "published_label": "Sun 19 Jul, 09:50",
+        "summary": "On this week's episode of Subpar, Todd Hamilton revisited his 2004 Open Championship win — and the hybrid that helped him get the job done. The post Todd Hamilton explains how his hybrid helped him win the 2004 Open Championship appeared first on Golf .",
+        "body": "It’s been 22 years since Todd Hamilton claimed the Open Championship at Royal Troon to become the 2004 Champion Golfer of the Year, but the 60-year-old still remembers just about every detail of his week in Scotland.\n\nOn this week’s episode of Subpar, Hamilton — who says he doesn’t play much golf anymore in his home of Norman, Okla., and instead spends his time helping out his local high school golf team — reminisced with hosts Colt Knost and Drew Stoltz about the definitive achievement of his professional career.",
+        "copy": "It’s been 22 years since Todd Hamilton claimed the Open Championship at Royal Troon to become the 2004 Champion Golfer of the Year, but the 60-year-old still remembers just about every detail of his week in Scotland.\n\nOn this week’s episode of Subpar, Hamilton — who says he doesn’t play much golf anymore in his home of Norman, Okla., and instead spends his time helping out his local high school golf team — reminisced with hosts Colt Knost and Drew Stoltz about the definitive achievement of his professional career.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 British Open Sunday channel: How to watch Round 4 on TV",
+        "link": "https://golf.com/news/2026-british-open-sunday-channel-watch-round-4-tv/",
+        "published": "2026-07-19T09:34:50+00:00",
+        "published_label": "Sun 19 Jul, 09:34",
+        "summary": "What channel is the 2026 British Open on Sunday? Here is the complete British Open TV schedule and viewer's guide for Round 4. The post 2026 British Open Sunday channel: How to watch Round 4 on TV appeared first on Golf .",
+        "body": "The 2026 British Open will name its champion on Sunday at Royal Birkdale, as the game’s top players fight for the final major title of the year. If you’re wondering what channel the British Open is on Sunday, we’ve got you covered. Here’s the full 2026 British Open Sunday TV schedule and streaming information.\n\nNBC and USA will again provide TV coverage for Sunday’s final round of the 2026 British Open, but the coverage starts and ends earlier than it did on Saturday. USA begins the early coverage at 4 a.m. ET on Sunday with a three-hour telecast. After that, NBC will take over for the primary final-round broadcast from 7 a.m.-2 p.m. ET.",
+        "copy": "The 2026 British Open will name its champion on Sunday at Royal Birkdale, as the game’s top players fight for the final major title of the year. If you’re wondering what channel the British Open is on Sunday, we’ve got you covered. Here’s the full 2026 British Open Sunday TV schedule and streaming information.\n\nNBC and USA will again provide TV coverage for Sunday’s final round of the 2026 British Open, but the coverage starts and ends earlier than it did on Saturday. USA begins the early coverage at 4 a.m. ET on Sunday with a three-hour telecast. After that, NBC will take over for the primary final-round broadcast from 7 a.m.-2 p.m. ET.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -5087,6 +5152,19 @@
         "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "first_seen": "2026-07-19T08:12:47.125279+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau gets brutal 'cheat' dig at The Open after Rory McIlroy tears into him",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWJtN3RTVWVRSElqWmhtdVN0SXdwOHRhZGhva00xa3p0MmhSanRLbEVwUUJENy1ncWlBVm4wWlpublgyUUk4eGlSMG5ZR1NDLW02QlJ3aVVKNGZ5TE0wT2FYN3FRVkpUa1NoZGJEOFl6bDVxSXFhaWRnZ0RzV3hDU3puMWZXQdIBiwFBVV95cUxNcVE5bjlhYXZiZEVqdnQ0bW5oc0ZudmdERlNoOUFtbnJ1X2NTVkU3SXVKeThYcU42Y29OOUZVcUlWY2JESTdfNndWVmc0YU95a2RMclozc0ZXcHczRXAwUURyNlRLem82c0xYREpsSUNOR1B1VnFwOGowTGJUTUZkTEgxNEZBNU95aXhR?oc=5",
+        "published": "2026-07-19T07:18:00+00:00",
+        "published_label": "Sun 19 Jul, 07:18",
+        "summary": "Bryson DeChambeau gets brutal 'cheat' dig at The Open after Rory McIlroy tears into him The Mirror",
+        "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
       },
       {
         "section": "Golf",
@@ -8454,35 +8532,35 @@
         "body": "Are you looking to adjust the weight in your rear? A lot of people are trying with a doctor’s help these days. But here’s a way to do it at a bargain that doesn’t involve discounted GLPs.\n\nThere’s no need for a prescription. Just click this link to Fairway Jockey, where you’ll find a great deal on the Srixon ZXi Max, the company’s most forgiving driver. It’s available for more than 25% off the list price.",
         "copy": "Are you looking to adjust the weight in your rear? A lot of people are trying with a doctor’s help these days. But here’s a way to do it at a bargain that doesn’t involve discounted GLPs.\n\nThere’s no need for a prescription. Just click this link to Fairway Jockey, where you’ll find a great deal on the Srixon ZXi Max, the company’s most forgiving driver. It’s available for more than 25% off the list price.",
         "first_seen": "2026-07-12T11:45:52.770138+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "The Scottish Open is special. How long can it stay that way?",
-        "link": "https://golf.com/news/scottish-open-special-how-long-will-it-be/",
-        "published": "2026-07-12T10:13:46+00:00",
-        "published_label": "Sun 12 Jul, 10:13",
-        "summary": "The Scottish Open is one of the best events in all of pro golf. But its future may look a lot different than it does this week. The post The Scottish Open is special. How long can it stay that way? appeared first on Golf .",
-        "body": "NORTH BERWICK, Scotland – Times are changing in pro golf. You’ve heard all about it, how the status quo at the top of the game has gone from Elevated Events to Designated Events to Signature events to … the Championship Series and Challenger Series. All of that in about four, confusing years.\n\nYes, the future of the PGA Tour has been difficult to pin down for a while, but it feels about 80% baked now. Only a smattering — though still very significant — details still need to be ironed out. To create a more-simple-than-ever, more-lucrative-than-ever television product viewers will enjoy, the PGA Tour will split into two tiers, stratified with rigid boundaries, and predictable schedules and fields.",
-        "copy": "NORTH BERWICK, Scotland – Times are changing in pro golf. You’ve heard all about it, how the status quo at the top of the game has gone from Elevated Events to Designated Events to Signature events to … the Championship Series and Challenger Series. All of that in about four, confusing years.\n\nYes, the future of the PGA Tour has been difficult to pin down for a while, but it feels about 80% baked now. Only a smattering — though still very significant — details still need to be ironed out. To create a more-simple-than-ever, more-lucrative-than-ever television product viewers will enjoy, the PGA Tour will split into two tiers, stratified with rigid boundaries, and predictable schedules and fields.",
-        "first_seen": "2026-07-12T11:02:56.354360+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "MacIntyre & Fitzpatrick share Scottish Open lead",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cpv3g37el93o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-12T09:34:22+00:00",
-        "published_label": "Sun 12 Jul, 09:34",
-        "summary": "Home favourite Bob MacIntyre brings the thunder after fog disruption at the Genesis Scottish Open to seize a share of the lead alongside Matt Fitzpatrick and Min Woo Lee heading into the final round.",
-        "body": "Home favourite Bob MacIntyre brought the thunder after fog disruption at the Genesis Scottish Open to seize a share of the lead heading into the final round. MacIntyre completed his third round on Sunday morning, posting a superb blemish-free 65 to reach 12 under.\n\nEngland's Matt Fitzpatrick - who had led alongside Michael Thorbjornsen on Saturday evening when play was suspended for a second time because of fog - birdied the last for a 66 to tie at the top with MacIntyre and Min Woo Lee.",
-        "copy": "Home favourite Bob MacIntyre brought the thunder after fog disruption at the Genesis Scottish Open to seize a share of the lead heading into the final round. MacIntyre completed his third round on Sunday morning, posting a superb blemish-free 65 to reach 12 under.\n\nEngland's Matt Fitzpatrick - who had led alongside Michael Thorbjornsen on Saturday evening when play was suspended for a second time because of fog - birdied the last for a 66 to tie at the top with MacIntyre and Min Woo Lee.",
-        "first_seen": "2026-07-12T11:02:56.354360+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "PV Sindhu scripts history, becomes first Indian to win BWF Japan Open",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHdrc3EtOXVnZjhhVUhKRllOUnQ1ZGFCS3I5VmtFajRaeDBOU25Tb0NHbVd3azhkRkNxUU41RFhFeV9OQ3puaDFYZzdOWGllQUpnakN1OXJnRVRMUFJkLTVCdWpGdW9OR2o0Z1hLWmNkTHR2aXh6TFBjajVqN2NwYkVISFNYLVRBeWVEaWd2V25USmlnRXlrMVlmQm1iSi1QT0czVVk2TzhWLXVFUEl0X0p3d9IBuAFBVV95cUxQNXBiUzBJQ204aU1MUnpnWFFNVE5ybFlSWUNKQ0U3SmJEc1ZSV2NJSzdnT2FfWkpXSkJ2a3M4ZS1Eb1REYUJNbi1vVTh4aDdEQ0hqU1lXX0c5SVNRZ0l5VWNuc0REYkNUYXFaUG96OHpLajJKeDc2SFRjNmo5U3RyNWJMcFlyeWVha1FUMGxPdnZwbGtZLUljaVVlYjlfdUk4TGk0UmdoTkVTVjNiZkNEeUNVLVNsYXBy?oc=5",
+        "published": "2026-07-19T10:29:00+00:00",
+        "published_label": "Sun 19 Jul, 10:29",
+        "summary": "PV Sindhu scripts history, becomes first Indian to win BWF Japan Open WION",
+        "body": "Two-time Olympic medallist PV Sindhu delivered a throwback performance, defeating Akane Yamaguchi in straight games and capturing her maiden Super 750 title at the Japan Open on Sunday. She became the first Indian to win the tournament, sealing a 21-17, 21-17 victory over the three-time world champion and ending a title drought of more than two years. It also marked her biggest triumph since the World Championships crown in 2019, with her previous title coming at the Syed Modi International in 2024.\n\nYamaguchi, playing her sixth Japan Open final, had enjoyed the upper hand in recent meetings, Sindhu had not beaten her in a completed match in four years, with their last full-match win dating back to the Thailand Open in 2022. Their earlier clash at the Malaysia Open this year ended prematurely after Yamaguchi retired following the opening game.",
+        "copy": "Two-time Olympic medallist PV Sindhu delivered a throwback performance, defeating Akane Yamaguchi in straight games and capturing her maiden Super 750 title at the Japan Open on Sunday. She became the first Indian to win the tournament, sealing a 21-17, 21-17 victory over the three-time world champion and ending a title drought of more than two years. It also marked her biggest triumph since the World Championships crown in 2019, with her previous title coming at the Syed Modi International in 2024.\n\nYamaguchi, playing her sixth Japan Open final, had enjoyed the upper hand in recent meetings, Sindhu had not beaten her in a completed match in four years, with their last full-match win dating back to the Thailand Open in 2022. Their earlier clash at the Malaysia Open this year ended prematurely after Yamaguchi retired following the opening game.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Japan Open: Kong Makes Triumphant Return After Surgery",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU5NdHBwdE1FLVNJY0F2Z0o4bUxQRXNRNkcwZTIxNm1lVkUybjBDaG1DT2tVZmhKdEhXdm5yUzhYSXkzY2dES3JtQThrVlJGZk14WVBCU2NkYWw3dnFZRThJeTl5NUFub3VWVTROaG9pcC1oYlNFV0pqaF81TU5ReUxjVzJFMFFvd1d4M2ZJM1hmMXIyQzNnSlAtME1WY3lqS2hVSEhqcTgzVnNCMzRRaWROYklRdw?oc=5",
+        "published": "2026-07-19T09:39:40+00:00",
+        "published_label": "Sun 19 Jul, 09:39",
+        "summary": "Japan Open: Kong Makes Triumphant Return After Surgery BWF World Tour",
+        "body": "Kong Hee Yong’s return to competitive badminton following a right knee surgery culminated in a dream title, with the women’s doubles final among the most dramatic in recent times.\n\nKong was out of action after the Badminton Asia Team Championships in February for the knee surgery and rehab; the world No.8 making a return with Kim Hye Jeong only at the DAIHATSU Japan Open 2026. The high point of the return was in the final game against Jia Yi Fan/Zhang Shu Xian, which went the Koreans’ way, 14-21 21-15 30-29. The see-sawing final game saw either side have six match points before Zhang Shu Xian blew a kill just wide, and the Koreans collapsing in a flood of emotions.",
+        "copy": "Kong Hee Yong’s return to competitive badminton following a right knee surgery culminated in a dream title, with the women’s doubles final among the most dramatic in recent times.\n\nKong was out of action after the Badminton Asia Team Championships in February for the knee surgery and rehab; the world No.8 making a return with Kim Hye Jeong only at the DAIHATSU Japan Open 2026. The high point of the return was in the final game against Jia Yi Fan/Zhang Shu Xian, which went the Koreans’ way, 14-21 21-15 30-29. The see-sawing final game saw either side have six match points before Zhang Shu Xian blew a kill just wide, and the Koreans collapsing in a flood of emotions.",
+        "first_seen": "2026-07-19T11:09:41.574813+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -8544,8 +8622,8 @@
         "published": "2026-07-19T02:47:23+00:00",
         "published_label": "Sun 19 Jul, 02:47",
         "summary": "BWF World Championships 2026 Countdown Begins with Mascot Peacko and Official Anthem Launch Daily Pioneer",
-        "body": "",
-        "copy": "",
+        "body": "Sports is not simply about winning medals; it is about nurturing talent, building a vibrant sporting culture and strengthening the ecosystem that enables athletes to thrive. Echoing this vision, the countdown to the BWF World Championships 2026 officially commenced with the unveiling of the tournament’s official mascot and official anthem on Saturday, July 18, 2026 at New Delhi.\n\nThe championship, scheduled to be held at the Indira Gandhi Indoor Stadium from August 17 to 23, 2026, will bring together the world’s finest shuttlers and mark the first time India will host badminton’s premier event.",
+        "copy": "Sports is not simply about winning medals; it is about nurturing talent, building a vibrant sporting culture and strengthening the ecosystem that enables athletes to thrive. Echoing this vision, the countdown to the BWF World Championships 2026 officially commenced with the unveiling of the tournament’s official mascot and official anthem on Saturday, July 18, 2026 at New Delhi.\n\nThe championship, scheduled to be held at the Indira Gandhi Indoor Stadium from August 17 to 23, 2026, will bring together the world’s finest shuttlers and mark the first time India will host badminton’s premier event.",
         "first_seen": "2026-07-19T09:27:18.638519+00:00"
       },
       {
@@ -9163,5 +9241,5 @@
       }
     ]
   },
-  "total": 703
+  "total": 709
 }
