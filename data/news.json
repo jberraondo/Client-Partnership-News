@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T08:12:47.125279+00:00",
-  "generated_label": "Sunday 19 July 2026, 08:12 UTC",
+  "generated_at": "2026-07-19T09:27:18.638519+00:00",
+  "generated_label": "Sunday 19 July 2026, 09:27 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Is Fifa’s hyper-commercialised World Cup here to stay?",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWJubmJJU1FQd0pmUVQ2aVluaWpKZW0zMmwxbGxVQmt5LUJjUW1YQV9La05EM3dlMVZhZkJIaHZSU1IycWJZQmIyMlhOb1p6Rm1YX0tQV3Q2M2pkMmpFMGpiUW9RUURNczRmWTNQeURGaUEtb3AwazEzbldkWWtfM0p2cmo?oc=5",
+        "published": "2026-07-19T08:05:30+00:00",
+        "published_label": "Sun 19 Jul, 08:05",
+        "summary": "Is Fifa’s hyper-commercialised World Cup here to stay? Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-19T09:27:18.638519+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1392,6 +1405,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Steve Tandy: 'You’re coming up against the best team'",
+        "link": "https://www.rugbypass.com/news/steve-tandy-admits-wales-must-tough-it-out-after-latest-south-africa-drubbing/",
+        "published": "2026-07-19T08:14:53+00:00",
+        "published_label": "Sun 19 Jul, 08:14",
+        "summary": "Steve Tandy admitted Wales can not yet avoid pain on the Test stage after being nilled by South Africa for the second time in eight months.",
+        "body": "Steve Tandy admitted Wales can not yet avoid pain on the Test stage after being nilled by South Africa for the second time in eight months. Wales were thrashed 43-0 by the Springboks on Saturday and rarely looked like scoring any points in Durban.\n\nThe Nations Championship defeat came after South Africa hammered them 73-0 in November, albeit Wales were without their England and France-based players on that occasion as the Cardiff clash was played outside the official Test window.",
+        "copy": "Steve Tandy admitted Wales can not yet avoid pain on the Test stage after being nilled by South Africa for the second time in eight months. Wales were thrashed 43-0 by the Springboks on Saturday and rarely looked like scoring any points in Durban.\n\nThe Nations Championship defeat came after South Africa hammered them 73-0 in November, albeit Wales were without their England and France-based players on that occasion as the Cardiff clash was played outside the official Test window.",
+        "first_seen": "2026-07-19T09:27:18.638519+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "World Rankings: Boks lead cut, Six Nations team at 3-year low",
+        "link": "https://www.rugbypass.com/news/world-rankings-boks-lead-cut-six-nations-team-at-3-year-low/",
+        "published": "2026-07-19T08:12:25+00:00",
+        "published_label": "Sun 19 Jul, 08:12",
+        "summary": "The latest round of Nations Championship and Nations Cup matches will again have a big impact on the World Rugby Men's Rankings.",
+        "body": "The latest round of Nations Championship and Nations Cup matches will again have a big impact on the World Rugby Men’s Rankings once they are officially updated at 12:00 on Monday (BST).\n\nSix of the 24 teams involved are set to climb the rankings, while six will fall, including Italy, who will find themselves ranked in their lowest position for nearly three years.",
+        "copy": "The latest round of Nations Championship and Nations Cup matches will again have a big impact on the World Rugby Men’s Rankings once they are officially updated at 12:00 on Monday (BST).\n\nSix of the 24 teams involved are set to climb the rankings, while six will fall, including Italy, who will find themselves ranked in their lowest position for nearly three years.",
+        "first_seen": "2026-07-19T09:27:18.638519+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -5079,13 +5118,13 @@
         "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
-        "title": "Tommy Fleetwood keeps dreaming. So does everyone else at the Open",
+        "title": "Tommy Fleetwood keeps dreaming. So does everyone at Birkdale",
         "link": "https://golf.com/news/tommy-fleetwood-keeps-dreaming-open-championship/",
         "published": "2026-07-18T23:34:41+00:00",
         "published_label": "Sat 18 Jul, 23:34",
-        "summary": "Tommy Fleetwood's dreams are playing out at the Open Championship. On Sunday, they'll mean something completely different. The post Tommy Fleetwood keeps dreaming. So does everyone else at the Open appeared first on Golf .",
-        "body": "SOUTHPORT, England — There’s a popular phrase in golf that says there are no pictures on scorecards; just numbers. It’s all about the integers written and the sums they create. The phrase is popular because it’s true most of the time.\n\nJust not on Saturday for Tommy Fleetwood in the town where he was raised. We needed pictures on the scorecard, because 18 holes came and went and, somehow, he’s one shot further away from the Open Championship lead (5) than when his day began (4). And because that score tells us precisely nothing about one of the most utterly thrilling rounds of any player at the Open in recent memory.",
-        "copy": "SOUTHPORT, England — There’s a popular phrase in golf that says there are no pictures on scorecards; just numbers. It’s all about the integers written and the sums they create. The phrase is popular because it’s true most of the time.\n\nJust not on Saturday for Tommy Fleetwood in the town where he was raised. We needed pictures on the scorecard, because 18 holes came and went and, somehow, he’s one shot further away from the Open Championship lead (5) than when his day began (4). And because that score tells us precisely nothing about one of the most utterly thrilling rounds of any player at the Open in recent memory.",
+        "summary": "Tommy Fleetwood's dreams are playing out at the Open Championship. On Sunday, they'll mean something completely different. The post Tommy Fleetwood keeps dreaming. So does everyone at Birkdale appeared first on Golf .",
+        "body": "SOUTHPORT, England — There’s a popular phrase in golf that says there are no pictures on scorecards; just numbers. It’s all about the integers written and the sums they create. The phrase is popular because it’s true most of the time.\n\nJust not on Saturday for Tommy Fleetwood in the town where he was raised. We needed pictures on the scorecard, because 18 holes came and went and, somehow, he’s one shot further away from the Open Championship lead (5) than when his day began (4). And because that score tells us precisely nothing about one of the most thrilling scenes pro golf can make. Royal Birkdale is blanketed by dreamers.",
+        "copy": "SOUTHPORT, England — There’s a popular phrase in golf that says there are no pictures on scorecards; just numbers. It’s all about the integers written and the sums they create. The phrase is popular because it’s true most of the time.\n\nJust not on Saturday for Tommy Fleetwood in the town where he was raised. We needed pictures on the scorecard, because 18 holes came and went and, somehow, he’s one shot further away from the Open Championship lead (5) than when his day began (4). And because that score tells us precisely nothing about one of the most thrilling scenes pro golf can make. Royal Birkdale is blanketed by dreamers.",
         "first_seen": "2026-07-19T08:12:47.125279+00:00"
       },
       {
@@ -5100,6 +5139,19 @@
         "body": "SOUTHPORT, England — The most revealing words from Bryson DeChambeau’s sport-trembling two-shot penalty on Friday night at the Open Championship didn’t come from DeChambeau at all.\n\nThey came from his manager, Brett Falkoff, informing the world that his client was considering withdrawing from the Open. “He’s a lot of things,” Falkoff told a group of reporters as the sun descended low into the horizon next to the practice range at Royal Birkdale. “He’s not a cheater.”",
         "copy": "SOUTHPORT, England — The most revealing words from Bryson DeChambeau’s sport-trembling two-shot penalty on Friday night at the Open Championship didn’t come from DeChambeau at all.\n\nThey came from his manager, Brett Falkoff, informing the world that his client was considering withdrawing from the Open. “He’s a lot of things,” Falkoff told a group of reporters as the sun descended low into the horizon next to the practice range at Royal Birkdale. “He’s not a cheater.”",
         "first_seen": "2026-07-19T08:12:47.125279+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau overcomes tantrums to stay in hunt at the Open",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWxhbEUwSWxqSHA1UTNZTFlSNml4blVvbnlxeHpybXVxVnBISUxhVjRkc2hxT2t3N24zUlFQbWZTVVd4dnlJdmFMVkc3MW9hVEhoODFjbDZxUUFPbUVIWnVRLWJyVmE3R3lLbi1WRG9mMVJZNEtzLU9jRVUxdTY0OGI2TXFUVWh2VEs3QTc4VFI1cDZEWGFPYnkwUXJ2LWduZzZLd2s5YkpwR1NTSEpnSVc3WGVyNWF5OHVOT1A0QmxEUjJvdzhR?oc=5",
+        "published": "2026-07-18T21:10:05+00:00",
+        "published_label": "Sat 18 Jul, 21:10",
+        "summary": "Bryson DeChambeau overcomes tantrums to stay in hunt at the Open The Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-19T09:27:18.638519+00:00"
       },
       {
         "section": "Golf",
@@ -8487,6 +8539,32 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "BWF World Championships 2026 Countdown Begins with Mascot Peacko and Official Anthem Launch",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHhRbEdtNXE2SzNWTWVFWkNKcklUbl80S3pVOFZScHEyX1o2UHlvZ0lsdkdCTTA1b3ZtTlNta2Z6RTNCQlVHVG9UM3drcmkwZkxlTzd3S2ZzbWdRXzdLd3JfLUtYdWN4RF8tWDBGX3dXMnpjVElmeGFpUVNPMTBiSVhoZVFpVVRQaTRnODV0YWQ5WW8zekNGRnd3R0ZXNFhoVWRHS1BQQmY?oc=5",
+        "published": "2026-07-19T02:47:23+00:00",
+        "published_label": "Sun 19 Jul, 02:47",
+        "summary": "BWF World Championships 2026 Countdown Begins with Mascot Peacko and Official Anthem Launch Daily Pioneer",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-19T09:27:18.638519+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Gymnastics: 2026 U.S. Classic - full schedule and all results",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTNBSklyd19BZGJKbEJMR21CaTQ5aVdDdzM5NmdCOEFRU0lKeGRjdzNMeWltYzNDQVZ3eEpQQjk2VW5uWEtfdmxTZWlWMDVBUHd3WDVmSUJpVTR4aUxJTmFTZnZEOXBRVHduM0FmRFZEQlFqalREUTVBdDNiLW5zMXR2QTFxcVU2NkQtcTdR?oc=5",
+        "published": "2026-07-19T01:47:00+00:00",
+        "published_label": "Sun 19 Jul, 01:47",
+        "summary": "Gymnastics: 2026 U.S. Classic - full schedule and all results olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-19T09:27:18.638519+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "Hybrid shuttles, bird nets as BWF World Championships plug India Open glitches",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRnRqaFlBcnEwQk9UZjZpZjVicW1Pd0kwcFRZRDRaNmZSRGZidEQ0RElTd3VvQnZpT0ZGLUFTcUV1YjRuVkFQT09EYk8tOGJDdEoyV3ZySU9kSVhkOFNKN3N2Z1BZbE84Vmk1R3lWUVh5U0YyTWx6UWVGNm1CT3RiSEVhZU9aYTZhaUpnM2M5UDh1ZldUNkd6RjR1dDFTaUpGVUFoSTNEV3ExbUNUUDJGR2ZkTzlPQklUR0FQUmI5ek9vUy03SjlidVdJSVhHenZMdmRidy10eTZPdzZnS2lia3BOWEJSbHBlRWZybdIB8gFBVV95cUxONXN0V0JaTVBPcGlINTQyRjBZUmdydlJvb3RPbnJ4UXBWUGEzclA4MFFNZXNzYUw2eG1jY0IzSk52eTMtMVROSTlHbEtSSklPR1l2Xzd6bXA1el9lVU9iQndqNWhtNEZLSzZXQzVjanFELVFSYWFCWlZhYXM5OWtMb2FLODVLUXZDcEg4dExkR005Zi01QTc2VkRHV3pCN3FOY3R3RW53cHg0RXJlQm9nblRCQXlESUh1XzJTZDZnZHBXbEhlMVFNZVRrZ01SMlB6RjUtaElFUWlLMGlPUExleldDcnBBOW5WTkRRbm9aNDl1QQ?oc=5",
         "published": "2026-07-18T16:07:00+00:00",
@@ -9085,5 +9163,5 @@
       }
     ]
   },
-  "total": 697
+  "total": 703
 }
