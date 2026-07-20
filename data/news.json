@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T15:49:50.199157+00:00",
-  "generated_label": "Monday 20 July 2026, 15:49 UTC",
+  "generated_at": "2026-07-20T18:00:01.939648+00:00",
+  "generated_label": "Monday 20 July 2026, 18:00 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -37,6 +37,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "First night of the BBC Proms review — Yunchan Lim’s virtuosity crowns a solid start to the season",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU28tMG5VRmpPYUZZREFZM2wxRlp1N0g3UDN5Rmw2bHYtVUgwaG9lZU5QWmp5ZjRUaFFMck9XSE9rc0tRMjlIR3QxcWdWajdYOXczVTNwSTFUOTZxTklrdGpxWC05NzlxckZjNFppWkFPLTlsNnpPLVNTVERheVJ1dHJEUlA?oc=5",
+        "published": "2026-07-20T13:11:45+00:00",
+        "published_label": "Mon 20 Jul, 13:11",
+        "summary": "First night of the BBC Proms review — Yunchan Lim’s virtuosity crowns a solid start to the season Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-20T18:00:01.939648+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1272,35 +1285,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-14T07:59:05.170861+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Democratic states sue to block Paramount’s $110bn Warner Bros acquisition",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUE0a0N0azZPbXdMODNFVGdNdVRBcC1McHVzbVp0NFNmS3dZOHpwN0xhQ0Jva0FEUUVYQWZpbkc5Z0pNUlo3VWc2dV9FYjdiNUptQlB4M1BGMVFmSVBsXzc5WURJc3h4ZlJmUmw3ODZPWFc5d2w4Y1lQUHVkR3JySUZKYks?oc=5",
-        "published": "2026-07-13T16:38:32+00:00",
-        "published_label": "Mon 13 Jul, 16:38",
-        "summary": "Democratic states sue to block Paramount’s $110bn Warner Bros acquisition Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-14T07:59:05.170861+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "All articles by Daniel Sasu",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUGk5RUswUkdLdHVJdEVfUGVRMkNOQVdZZXhEV1ZMeTFtYTBHWm1HaG1ZUTBLZ0c1WURtUElHdFd5NjhsSlVvT1h1SFc2ZXpqTE1TMEtB?oc=5",
-        "published": "2026-07-13T15:56:16+00:00",
-        "published_label": "Mon 13 Jul, 15:56",
-        "summary": "All articles by Daniel Sasu Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ambitious Carpenter commits to Sale long-term",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm2gm24ekw2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-20T17:34:08+00:00",
+        "published_label": "Mon 20 Jul, 17:34",
+        "summary": "Sale full-back Joe Carpenter extends his contract with the Sharks until 2029.",
+        "body": "Sale full-back Joe Carpenter has extended his contract with the Sharks until 2029 with the aim of landing the silverware that has proved so elusive in recent seasons. The 24-year-old, who made his England debut last July against the USA, had one year remaining on his deal but has signed on for more, confident that last season's seventh-place Prem finish was a blip.\n\n\"I'm absolutely buzzing to be committing my future to this club,\" said Carpenter. \"It's a club and a group that I cherish in so many different ways and one that I truly believe will achieve something special in the near future.",
+        "copy": "Sale full-back Joe Carpenter has extended his contract with the Sharks until 2029 with the aim of landing the silverware that has proved so elusive in recent seasons. The 24-year-old, who made his England debut last July against the USA, had one year remaining on his deal but has signed on for more, confident that last season's seventh-place Prem finish was a blip.\n\n\"I'm absolutely buzzing to be committing my future to this club,\" said Carpenter. \"It's a club and a group that I cherish in so many different ways and one that I truly believe will achieve something special in the near future.",
+        "first_seen": "2026-07-20T18:00:01.939648+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Contest or no contest? The eternal struggle between the Springboks and All Blacks",
+        "link": "https://www.rugbypass.com/plus/contest-or-no-contest-the-eternal-struggle-between-the-springboks-and-all-blacks/",
+        "published": "2026-07-20T17:07:33+00:00",
+        "published_label": "Mon 20 Jul, 17:07",
+        "summary": "As Dave Rennie's new attacking ethos takes shape, Rassie Erasmus wants to ensure the grunt and skill of a true set-piece battle does not wane.",
+        "body": "When rugby union finally bit the bullet and turned professional on 26th August 1995, it was trending exactly 100 years behind rugby league, which had first rounded the same corner back in 1895. The underlying connection between the two codes still informs the game as it approaches its 31st anniversary as a professional sport.\n\nLeague did away with lineouts and the scrums are strictly symbolic, just another way to restart the game with all the forwards in one place. There is no contest for the ball permitted either during or after the tackle. A change of possession is only mandated by law after a six-tackle ‘set’ has been completed. The game is less complex and a lot easier to referee than its cousin.",
+        "copy": "When rugby union finally bit the bullet and turned professional on 26th August 1995, it was trending exactly 100 years behind rugby league, which had first rounded the same corner back in 1895. The underlying connection between the two codes still informs the game as it approaches its 31st anniversary as a professional sport.\n\nLeague did away with lineouts and the scrums are strictly symbolic, just another way to restart the game with all the forwards in one place. There is no contest for the ball permitted either during or after the tackle. A change of possession is only mandated by law after a six-tackle ‘set’ has been completed. The game is less complex and a lot easier to referee than its cousin.",
+        "first_seen": "2026-07-20T18:00:01.939648+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Ireland report card: All 34 Nations Championship players rated",
+        "link": "https://www.rugbypass.com/news/ireland-report-card-all-34-nations-championship-players-rated/",
+        "published": "2026-07-20T16:47:34+00:00",
+        "published_label": "Mon 20 Jul, 16:47",
+        "summary": "Ireland emerged from an inaugural Nations Championship campaign with two wins from three, beating Australia and Japan before falling short against New Zealand at Eden Park.",
+        "body": "Ireland emerged from an inaugural Nations Championship campaign with two wins from three, beating Australia and Japan before falling short against New Zealand at Eden Park. There were positives to leave Andy Farrell encouraged: Joe McCarthy’s physical authority, Hugo Keenan’s return to form and the emergence of Nick Timoney and Sean Jansen offer a succession plan in the back-row.\n\nYet familiar concerns remain. The lineout malfunctioned far too often, the scrum could charitably be described as barely competent, and several senior figures looked like a summer off would have done them the world of good.",
+        "copy": "Ireland emerged from an inaugural Nations Championship campaign with two wins from three, beating Australia and Japan before falling short against New Zealand at Eden Park. There were positives to leave Andy Farrell encouraged: Joe McCarthy’s physical authority, Hugo Keenan’s return to form and the emergence of Nick Timoney and Sean Jansen offer a succession plan in the back-row.\n\nYet familiar concerns remain. The lineout malfunctioned far too often, the scrum could charitably be described as barely competent, and several senior figures looked like a summer off would have done them the world of good.",
+        "first_seen": "2026-07-20T18:00:01.939648+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4186,123 +4212,6 @@
         "body": "South Africa U20 player ratings: The Junior Boks weathered England’s fast start before strangling the game through their set-piece, defensive pressure and superior physicality.\n\nThe Junior Boks were not flawless, but once Seb Kelly saw red, they sensed blood and went straight for England’s throat. Their outstanding lineout operation, powerful ball carriers and clinical back-three proved the difference as they secured their place in the final.",
         "copy": "South Africa U20 player ratings: The Junior Boks weathered England’s fast start before strangling the game through their set-piece, defensive pressure and superior physicality.\n\nThe Junior Boks were not flawless, but once Seb Kelly saw red, they sensed blood and went straight for England’s throat. Their outstanding lineout operation, powerful ball carriers and clinical back-three proved the difference as they secured their place in the final.",
         "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'Scotland swung for the king and missed",
-        "link": "https://www.rugbypass.com/plus/scotland-swung-for-the-king-and-missed-but-there-is-much-to-take-from-loftus-epic/",
-        "published": "2026-07-13T17:39:25+00:00",
-        "published_label": "Mon 13 Jul, 17:39",
-        "summary": "Scotland's high-tempo attack cut South Africa open, but familiar frustrations resurfaced to deny them a monumental scalp.",
-        "body": "There wasn’t enough Klippies and coke in all of Pretoria to settle the heads of the Scotland fans who witnessed the glorious chaos of their bout with the Springboks. This was their team in microcosm: effervescent and errant; wonderful yet wasteful; magnificent and, occasionally, maddening.\n\nScotland came to the Highveld to play. They kept the ball for nearly nine minutes longer than South Africa. They built 50 more rucks and had a 62% share of the territory. They asked the world champions to attempt an astronomical 261 tackles and forced them to miss 75. They made a ridiculous 17 line-breaks, just seven shy of the free-wheeling Fijians in Cardiff a week earlier. They kicked the ball only 17 times. Rassie Erasmus, the game’s thought-leading coach, labelled Scotland “the third-best team in the world” in his post-match press conference. While it’s best to take Rassie’s praise with a pinch of salt, his public appraisal of opposition teams is generally on the money.",
-        "copy": "There wasn’t enough Klippies and coke in all of Pretoria to settle the heads of the Scotland fans who witnessed the glorious chaos of their bout with the Springboks. This was their team in microcosm: effervescent and errant; wonderful yet wasteful; magnificent and, occasionally, maddening.\n\nScotland came to the Highveld to play. They kept the ball for nearly nine minutes longer than South Africa. They built 50 more rucks and had a 62% share of the territory. They asked the world champions to attempt an astronomical 261 tackles and forced them to miss 75. They made a ridiculous 17 line-breaks, just seven shy of the free-wheeling Fijians in Cardiff a week earlier. They kicked the ball only 17 times. Rassie Erasmus, the game’s thought-leading coach, labelled Scotland “the third-best team in the world” in his post-match press conference. While it’s best to take Rassie’s praise with a pinch of salt, his public appraisal of opposition teams is generally on the money.",
-        "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wales hooker Jones joins Sale from Gloucester-Hartpury",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cvgl2j977pmo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T17:36:11+00:00",
-        "published_label": "Mon 13 Jul, 17:36",
-        "summary": "Wales hooker Kelsey Jones becomes the fourth player this summer to switch from Gloucester-Hartpury to Sale Sharks.",
-        "body": "Wales hooker Kelsey Jones has joined Sale Sharks ahead of the 2026-2027 season. The 28-year-old left Gloucester-Hartpury this summer after eight years, having made 69 appearances and scoring 25 tries.\n\nJones will link up with fellow Wales front row Gwenllian Pyrs, with whom she started every game of the 2026 Women's Six Nations. She is the fourth Gloucester-Hartpury player to swap Kingsholm for the Morson Stadium, following the signings of Red Roses Zoe Stratford, Sarah Beckett and Tatyana Heard.",
-        "copy": "Wales hooker Kelsey Jones has joined Sale Sharks ahead of the 2026-2027 season. The 28-year-old left Gloucester-Hartpury this summer after eight years, having made 69 appearances and scoring 25 tries.\n\nJones will link up with fellow Wales front row Gwenllian Pyrs, with whom she started every game of the 2026 Women's Six Nations. She is the fourth Gloucester-Hartpury player to swap Kingsholm for the Morson Stadium, following the signings of Red Roses Zoe Stratford, Sarah Beckett and Tatyana Heard.",
-        "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Ireland genuinely believe they can beat us",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c7vy2gg0e6do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T17:08:07+00:00",
-        "published_label": "Mon 13 Jul, 17:08",
-        "summary": "New Zealand head coach Dave Rennie says his side is \"well aware of Ireland's ability\" as the two teams prepare to meet in Saturday's Nations Championship match in Auckland.",
-        "body": "New Zealand head coach Dave Rennie said his players are \"well aware of Ireland's ability\" as the two teams prepare to meet in Saturday's Nations Championship match in Auckland.\n\nAndy Farrell's side have registered two bonus-point wins so far, while the All Blacks are also undefeated in the Nations Championship after wins against Italy and France. Ireland have never won before at Eden Park and are aiming to end New Zealand's impressive 52-game unbeaten run at the venue (kick-off 08:10 BST).",
-        "copy": "New Zealand head coach Dave Rennie said his players are \"well aware of Ireland's ability\" as the two teams prepare to meet in Saturday's Nations Championship match in Auckland.\n\nAndy Farrell's side have registered two bonus-point wins so far, while the All Blacks are also undefeated in the Nations Championship after wins against Italy and France. Ireland have never won before at Eden Park and are aiming to end New Zealand's impressive 52-game unbeaten run at the venue (kick-off 08:10 BST).",
-        "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Rugby Union Weekly: Nations Championship -tries and tribulations",
-        "link": "https://www.bbc.co.uk/sounds/play/p0nyknyh?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T17:00:00+00:00",
-        "published_label": "Mon 13 Jul, 17:00",
-        "summary": "Danny, Ashy and Chris look back at round two of the Nation’s Championship.",
-        "body": "Danny, Ashy and Chris look back at round two of the Nation’s Championship with the north and south both on six wins each. Scotland scored four tries and pushed the Boks all the way in Pretoria. Did they show the England coaching team the best way to attack the double world champions? Danny reacts to Marcus Smith’s cameo at scrum-half against Fiji and we look ahead to England’s trip to Argentina as the injured Alex Mitchell is replaced by Raffi Quirke. We also look at the logistics issues hampering the tournament and discuss whether some teams are getting an unfair advantage. Will Jordan broke the All Blacks try record at the weekend, but does he make our all-time Nee Zealand back three? The game of the weekend sees Ireland head to Eden Park. Can Andy Farrell’s side finally end the All Blacks’ 32 year, 52 Test, unbeaten home record?",
-        "copy": "Danny, Ashy and Chris look back at round two of the Nation’s Championship with the north and south both on six wins each. Scotland scored four tries and pushed the Boks all the way in Pretoria. Did they show the England coaching team the best way to attack the double world champions? Danny reacts to Marcus Smith’s cameo at scrum-half against Fiji and we look ahead to England’s trip to Argentina as the injured Alex Mitchell is replaced by Raffi Quirke. We also look at the logistics issues hampering the tournament and discuss whether some teams are getting an unfair advantage. Will Jordan broke the All Blacks try record at the weekend, but does he make our all-time Nee Zealand back three? The game of the weekend sees Ireland head to Eden Park. Can Andy Farrell’s side finally end the All Blacks’ 32 year, 52 Test, unbeaten home record?",
-        "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Gloucester sign Champ tight-head as 'Proving Ground' bears fruit again",
-        "link": "https://www.rugbypass.com/news/gloucester-sign-champ-tight-head-as-proving-ground-bears-fruit-again/",
-        "published": "2026-07-13T16:50:19+00:00",
-        "published_label": "Mon 13 Jul, 16:50",
-        "summary": "Coventry tight-head Oliver Salt is the latest player to make the step up to the Gallagher PREM after establishing himself in the Champ.",
-        "body": "Coventry tight-head Oliver Salt is the latest player to make the step up to the Gallagher PREM after establishing himself in the Champ. The 26-year-old is the third player from Coventry alone to be snapped up by a PREM club, giving further credibility to the Champ’s reputation as the ‘proving ground’ for aspirational players.\n\nSalt has made 69 appearances over the past three seasons and joins winger David Opoku (Sale Sharks) and back-rower Allan Ferrie (Newcastle) in playing at a higher level next season.",
-        "copy": "Coventry tight-head Oliver Salt is the latest player to make the step up to the Gallagher PREM after establishing himself in the Champ. The 26-year-old is the third player from Coventry alone to be snapped up by a PREM club, giving further credibility to the Champ’s reputation as the ‘proving ground’ for aspirational players.\n\nSalt has made 69 appearances over the past three seasons and joins winger David Opoku (Sale Sharks) and back-rower Allan Ferrie (Newcastle) in playing at a higher level next season.",
-        "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Fourth Gloucester Hartpury stalwart signs for Sale Sharks",
-        "link": "https://www.rugbypass.com/news/fourth-gloucester-hartpury-stalwart-signs-for-sale-sharks/",
-        "published": "2026-07-13T16:34:08+00:00",
-        "published_label": "Mon 13 Jul, 16:34",
-        "summary": "A fourth player has traded Gloucester Hartpury for Sale Sharks ahead of the 2026/27 JAECOO Premiership Women's Rugby season.",
-        "body": "A fourth player has traded Gloucester Hartpury for Sale Sharks ahead of the 2026/27 JAECOO Premiership Women’s Rugby season. Wales hooker Kelsey Jones has spent eight seasons with the three-time English top flight champions. Across those eight years, the 28-year-old made 69 appearances and scored 25 tries for the Kingsholm Stadium club.\n\nShe joins Sarah Beckett, Tatyana Heard and Zoe Stratford to Morson Stadium from the West Country this summer. This season, Jones started all five of Wales’ matches at the Guinness Women’s Six Nations and scored three tries.",
-        "copy": "A fourth player has traded Gloucester Hartpury for Sale Sharks ahead of the 2026/27 JAECOO Premiership Women’s Rugby season. Wales hooker Kelsey Jones has spent eight seasons with the three-time English top flight champions. Across those eight years, the 28-year-old made 69 appearances and scored 25 tries for the Kingsholm Stadium club.\n\nShe joins Sarah Beckett, Tatyana Heard and Zoe Stratford to Morson Stadium from the West Country this summer. This season, Jones started all five of Wales’ matches at the Guinness Women’s Six Nations and scored three tries.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Semi-final heartache for New Zealand as French finally find their flair",
-        "link": "https://www.rugbypass.com/news/semi-final-heartache-for-new-zealand-as-french-finally-find-their-flair/",
-        "published": "2026-07-13T16:15:35+00:00",
-        "published_label": "Mon 13 Jul, 16:15",
-        "summary": "Adrien Drault’s 76th-minute try was enough for France to secure a 26-22 win over New Zealand to book a place in this weekend’s World Rugby Junior World Championship Final.",
-        "body": "Adrien Drault’s 76th-minute try was enough for France to secure a 26-22 win over New Zealand to book a place in this weekend’s World Rugby Junior World Championship Final. France, who have won three of the last five tournaments in 2018, 2019 and 2023, snatched victory from the jaws of defeat when they cut New Zealand apart and Drault scored his last-gasp try.\n\nNew Zealand made a fantastic start, opening the scoring after seven minutes when Ethan Webber finished a driving lineout move off the training ground, and Cohen Norrie added the conversion.",
-        "copy": "Adrien Drault’s 76th-minute try was enough for France to secure a 26-22 win over New Zealand to book a place in this weekend’s World Rugby Junior World Championship Final. France, who have won three of the last five tournaments in 2018, 2019 and 2023, snatched victory from the jaws of defeat when they cut New Zealand apart and Drault scored his last-gasp try.\n\nNew Zealand made a fantastic start, opening the scoring after seven minutes when Ethan Webber finished a driving lineout move off the training ground, and Cohen Norrie added the conversion.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "New Zealand U20 player ratings vs France | World Rugby Junior World Championship 2026",
-        "link": "https://www.rugbypass.com/news/new-zealand-u20-player-ratings-vs-france-world-rugby-junior-world-championship-2026/",
-        "published": "2026-07-13T16:11:25+00:00",
-        "published_label": "Mon 13 Jul, 16:11",
-        "summary": "New Zealand U20 player ratings: The opening semi-final of the World Rugby U20 Championship delivered everything it promised, as New Zealand U20 and France U20 served up a gripping, high-quality thriller...",
-        "body": "New Zealand U20 player ratings: It was a nerve-wracking semi-final with the Baby Blacks coming close to clinching a spot in the Championship final, but France snatched the win in the dying minutes, claiming a 26-22 victory.\n\nWith the forward pack experiencing a mixed-bag afternoon, the Baby Blacks only found their mojo after the break, largely thanks to Micah Fale and Finn McLeod, both making a colossal impact off the bench.",
-        "copy": "New Zealand U20 player ratings: It was a nerve-wracking semi-final with the Baby Blacks coming close to clinching a spot in the Championship final, but France snatched the win in the dying minutes, claiming a 26-22 victory.\n\nWith the forward pack experiencing a mixed-bag afternoon, the Baby Blacks only found their mojo after the break, largely thanks to Micah Fale and Finn McLeod, both making a colossal impact off the bench.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "France U20 player ratings vs New Zealand | World Rugby Junior World Championship 2026",
-        "link": "https://www.rugbypass.com/news/france-u20-player-ratings-vs-new-zealand-world-rugby-junior-world-championship-2026/",
-        "published": "2026-07-13T15:55:55+00:00",
-        "published_label": "Mon 13 Jul, 15:55",
-        "summary": "France's hopes of a fourth Junior World Championship title remain alive after a tense 26-22 semi-final win over New Zealand in Tbilisi.",
-        "body": "France and New Zealand are familiar semi-final opponents at the World Rugby Junior World Championship and for long periods they cancelled each other out at the Avchala Stadium in Tbilisi.\n\nAfter an error-prone first half, Les Bleuets held a 14-12 half-time lead and the nip-and-tuck nature of the match continued throughout the second half with extra-time looking a real possibility.",
-        "copy": "France and New Zealand are familiar semi-final opponents at the World Rugby Junior World Championship and for long periods they cancelled each other out at the Avchala Stadium in Tbilisi.\n\nAfter an error-prone first half, Les Bleuets held a 14-12 half-time lead and the nip-and-tuck nature of the match continued throughout the second half with extra-time looking a real possibility.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
       }
     ],
     "Tennis": [
@@ -4700,6 +4609,32 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This Srixon driver isn't even out yet and already has a major title",
+        "link": "https://golf.com/gear/drivers/ryan-fox-srixon-driver/",
+        "published": "2026-07-20T17:44:14+00:00",
+        "published_label": "Mon 20 Jul, 17:44",
+        "summary": "Ryan Fox won the Open Championship on Sunday using a Srixon ZXi RKT LS+ prototype driver that isn't even out yet. The post This Srixon driver isn’t even out yet and already has a major title appeared first on Golf .",
+        "body": "Ryan Fox’s Open Championship win came with a couple of clubs at the top of his bag that Srixon hasn’t even released yet. But now they already have major championship validation.\n\nThe most crucial to his win was undoubtedly his ZXi RKT (pronounced “Rocket”) LS+ driver. Needing a par to tie and birdie to win the championship on Royal Birkdale’s second-most-difficult hole on Sunday, Fox stepped up and delivered a 330-yard missile down the right side of the fairway, setting up his decisive walk-off birdie.",
+        "copy": "Ryan Fox’s Open Championship win came with a couple of clubs at the top of his bag that Srixon hasn’t even released yet. But now they already have major championship validation.\n\nThe most crucial to his win was undoubtedly his ZXi RKT (pronounced “Rocket”) LS+ driver. Needing a par to tie and birdie to win the championship on Royal Birkdale’s second-most-difficult hole on Sunday, Fox stepped up and delivered a 330-yard missile down the right side of the fairway, setting up his decisive walk-off birdie.",
+        "first_seen": "2026-07-20T18:00:01.939648+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf hit with $1 million lawsuit days before UK event over alleged contract breach",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWE1WQlVGZVBVVlNoY19ZZkNRQzVBT2YtWmNwNVBBYW00UWVUbWVmVzlyeHR6a01mVE03VUd4dlpkR2N0elZLTHR1ak1WRndDNXZpUHFQTHZCZ21URTc3UmJaZU50aU94TUV4d21Sc3h0c0xFY0RSX2tMdEdoVXdpMWZqZS1hV0p6MHducW5QOHF4VnB6QkwzZ3Z4VFcxaUdqWk9VYXZxWEd0TThDNDcwelBPcw?oc=5",
+        "published": "2026-07-20T17:22:56+00:00",
+        "published_label": "Mon 20 Jul, 17:22",
+        "summary": "LIV Golf hit with $1 million lawsuit days before UK event over alleged contract breach Golfmagic",
+        "body": "LIV Golf is facing a legal battle just days before its return to action in England, with a technology company suing the league for more than $1 million over alleged unpaid invoices and breach of contract.\n\nCanadian-based Mobii Systems Group Limited has filed a lawsuit against LIV Golf in the U.S. District Court in Miami, claiming the league failed to fulfil its financial obligations under a two-year agreement covering the technology behind its popular “Any Shot, Any Time” broadcast feature.",
+        "copy": "LIV Golf is facing a legal battle just days before its return to action in England, with a technology company suing the league for more than $1 million over alleged unpaid invoices and breach of contract.\n\nCanadian-based Mobii Systems Group Limited has filed a lawsuit against LIV Golf in the U.S. District Court in Miami, claiming the league failed to fulfil its financial obligations under a two-year agreement covering the technology behind its popular “Any Shot, Any Time” broadcast feature.",
+        "first_seen": "2026-07-20T18:00:01.939648+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "HSBC golf watch",
         "kind": "gnews",
         "title": "First Look: LIV Golf United Kingdom Presented by JCB",
@@ -4801,6 +4736,19 @@
         "body": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media? I think Bryson DeChambeau is entertaining and is always box office, but this caper at The Open this week was not for me.\n\nRory McIlroy has always been the one that has been sticking up for the PGA Tour and I think he just gets fed up with the likes of DeChambeau. I just think he's had enough of the circus and I don't blame him.",
         "copy": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media? I think Bryson DeChambeau is entertaining and is always box office, but this caper at The Open this week was not for me.\n\nRory McIlroy has always been the one that has been sticking up for the PGA Tour and I think he just gets fed up with the likes of DeChambeau. I just think he's had enough of the circus and I don't blame him.",
         "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media?",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNHlqZmxiRkdjajFyX3NzQlZZX1EyX1RiTzBpaHUtSmJkdVV2M2IxVk92RFltWm1RTEktUGNzeGtLWEE3azZrQWc4RThvbEtkamJ2V2o0Njl5cDN1TjhqSVpXaC03cFA0V0JMOGxJb09UYVJLVFdoMnVlVFJfVVBRX29paFprU1VCQTlKWldHZGF5UDJ5dHA2QnlPM2llODdPWUxBNzZvRjZwNEZhcDBtOEFiWE5OamJqdEV6YXBJNE9KOXNmUmZIWWMyTTlOcGJUcTVYald1cTJiWVFkSENrRWhkRkJWVnBnYVY0YzNMbG1lQQ?oc=5",
+        "published": "2026-07-20T11:33:18+00:00",
+        "published_label": "Mon 20 Jul, 11:33",
+        "summary": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media? Sky Sports",
+        "body": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media? I think Bryson DeChambeau is entertaining and is always box office, but this caper at The Open this week was not for me.\n\nRory McIlroy has always been the one that has been sticking up for the PGA Tour and I think he just gets fed up with the likes of DeChambeau. I just think he's had enough of the circus and I don't blame him.",
+        "copy": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media? I think Bryson DeChambeau is entertaining and is always box office, but this caper at The Open this week was not for me.\n\nRory McIlroy has always been the one that has been sticking up for the PGA Tour and I think he just gets fed up with the likes of DeChambeau. I just think he's had enough of the circus and I don't blame him.",
+        "first_seen": "2026-07-20T18:00:01.939648+00:00"
       },
       {
         "section": "Golf",
@@ -4996,6 +4944,19 @@
         "body": "Check in every week for the unfiltered opinions of our writers and editors as they break down the hottest topics in the sport, and join the conversation by tweeting us at @golf_com. This week, we discuss Ryan Fox’s dramatic Open win, Rory and Bryson’s feud and everything else from Royal Birkdale.\n\nRyan Fox birdied four of his last six holes to shoot 68 and win the Open Championship by one over Cameron Young and claim his first major title. How did Fox, who shot 62 on Saturday, rule the weekend and win the Claret Jug?",
         "copy": "Check in every week for the unfiltered opinions of our writers and editors as they break down the hottest topics in the sport, and join the conversation by tweeting us at @golf_com. This week, we discuss Ryan Fox’s dramatic Open win, Rory and Bryson’s feud and everything else from Royal Birkdale.\n\nRyan Fox birdied four of his last six holes to shoot 68 and win the Open Championship by one over Cameron Young and claim his first major title. How did Fox, who shot 62 on Saturday, rule the weekend and win the Claret Jug?",
         "first_seen": "2026-07-20T08:54:08.285231+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Ryan Fox Wins The 154th Open - by Geoff Shackelford",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VX2pnbWNTUkhyei1lNVVfVmFTMU5tX2xIYnQwblYwZXNSZThYd0tITTBLVHJENVNhSDJZaE9IaXVySExiT0J5N3p6eFd4aGpuVlBZYmhTM0tnZkhiTUI4TWhQbWRVRUI5WW5lMnRabTRDWms?oc=5",
+        "published": "2026-07-19T20:58:42+00:00",
+        "published_label": "Sun 19 Jul, 20:58",
+        "summary": "Ryan Fox Wins The 154th Open - by Geoff Shackelford The Quadrilateral",
+        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "first_seen": "2026-07-20T18:00:01.939648+00:00"
       },
       {
         "section": "Golf",
@@ -8467,32 +8428,6 @@
         "body": "Scott O’Neil is probably the busiest man in the sports business industry right now. Since the Saudi Public Investment Fund announced in April that they would pull their funding for LIV at the end of the season, O’Neil has been seeking a rescue package.\n\nThe LIV Golf CEO has called in restructuring experts and a team of mergers and acquisition veterans. He is said to be seeking about $300m in capital to keep the lights on into 2027 and beyond.",
         "copy": "Scott O’Neil is probably the busiest man in the sports business industry right now. Since the Saudi Public Investment Fund announced in April that they would pull their funding for LIV at the end of the season, O’Neil has been seeking a rescue package.\n\nThe LIV Golf CEO has called in restructuring experts and a team of mergers and acquisition veterans. He is said to be seeking about $300m in capital to keep the lights on into 2027 and beyond.",
         "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Former champ Louis Oosthuizen withdraws from Open",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVdOdzZLdS1lTWdiMnFDb1E2bWplYmNKejNZb09mMnpFNl9uU3JWejNtZjlUTmhocjR1bDdFaFhNYlR4VGUxLUZKQ2o0YTlOQTVpeFJkcHc3dzVjaDFHRWVFSWJyVjBWQ29wdTNsbl9CY3pQM0RHX2NOQWxjTV9UbFNYYktLVFhjYnB4N1VfQ1BLNXUwMVZmTnJwdXFXdw?oc=5",
-        "published": "2026-07-13T17:59:43+00:00",
-        "published_label": "Mon 13 Jul, 17:59",
-        "summary": "Former champ Louis Oosthuizen withdraws from Open Reuters",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Open Championship picks to win: Here’s who our staff is betting on",
-        "link": "https://golf.com/news/2026-british-open-picks-staff-betting-royal-birkdale/",
-        "published": "2026-07-13T17:40:55+00:00",
-        "published_label": "Mon 13 Jul, 17:40",
-        "summary": "The GOLF.com staff makes its picks to win the Open Championship at Royal Birkdale following Scottie Scheffler’s win at the event last year. The post 2026 Open Championship picks to win: Here’s who our staff is betting on appeared first on Golf .",
-        "body": "Jordan Spieth and Scottie Scheffler were stumped. Who, they wondered, would be considered the defending champion this week at the Open Championship: Scheffler, last year’s winner, or Spieth, the champion in 2017, the last time the Open was played at Royal Birkdale?\n\n“I said, ‘Well, are you the defending champ,’ Spieth said recently, “‘or am I the defending champ?’ “‘I was like, ‘No, no, no, you don’t get to do that. It’s you.” Whatever the case may be, consider Spieth’s mood light then, and if you’re backing him for a Birkdale defense, that’s welcomed, of course. Are there other positive signs? Maybe. This season on the PGA Tour, he’s missed just two cuts in 18 starts. His Strokes Gained stats are fair: 60th in total, 74th in tee to green, 73rd in off the tee, 83rd in approach the green, 85th in around the green and 53rd in putting.",
-        "copy": "Jordan Spieth and Scottie Scheffler were stumped. Who, they wondered, would be considered the defending champion this week at the Open Championship: Scheffler, last year’s winner, or Spieth, the champion in 2017, the last time the Open was played at Royal Birkdale?\n\n“I said, ‘Well, are you the defending champ,’ Spieth said recently, “‘or am I the defending champ?’ “‘I was like, ‘No, no, no, you don’t get to do that. It’s you.” Whatever the case may be, consider Spieth’s mood light then, and if you’re backing him for a Birkdale defense, that’s welcomed, of course. Are there other positive signs? Maybe. This season on the PGA Tour, he’s missed just two cuts in 18 starts. His Strokes Gained stats are fair: 60th in total, 74th in tee to green, 73rd in off the tee, 83rd in approach the green, 85th in around the green and 53rd in putting.",
-        "first_seen": "2026-07-13T19:06:06.615994+00:00"
       }
     ],
     "Badminton": [
@@ -9223,32 +9158,6 @@
         "body": "Tomoka Miyazaki, face of Gen Z in Japanese women’s singles, is the prominent presence on the posters of the DAIHATSU Japan Open 2026. Her seniors Akane Yamaguchi and Nozomi Okuhara are still in the thick of things, but Miyazaki appeals to a different demographic.\n\nHowever, there is one Gen Z talent coming to the Japan Open on the back of her biggest triumph — Riko Gunji, winner of the YONEX Canada Open earlier this month, her first HSBC BWF World Tour title.",
         "copy": "Tomoka Miyazaki, face of Gen Z in Japanese women’s singles, is the prominent presence on the posters of the DAIHATSU Japan Open 2026. Her seniors Akane Yamaguchi and Nozomi Okuhara are still in the thick of things, but Miyazaki appeals to a different demographic.\n\nHowever, there is one Gen Z talent coming to the Japan Open on the back of her biggest triumph — Riko Gunji, winner of the YONEX Canada Open earlier this month, her first HSBC BWF World Tour title.",
         "first_seen": "2026-07-14T07:59:05.170861+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Ayush, Unnati and doubles pair Simran and Kavipriya to debut at BWF World Championships",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEJYcmxyVXpNdC11YjVDRVRCT2dmZXhVNTB4c0xBVHFLYl9lc2lzUWlXR1puQWFxQUlGQlM4d1duT2cta2lvMk03SEVwcS05cy1Vb1dJcWdSajZydlJITnhkcHRsMGhFQ0c5cFVNVVZHeXdKOTFXVk9Ddm16dTdackFSbHlrVFYtZlY5SU1ZdmFiUmxURUVKS0xWNlJFeVBnT29CMjNZdExkVWQyQ2JQTEVhX2ZJQWp5RDNJ?oc=5",
-        "published": "2026-07-13T16:02:29+00:00",
-        "published_label": "Mon 13 Jul, 16:02",
-        "summary": "Ayush, Unnati and doubles pair Simran and Kavipriya to debut at BWF World Championships The News Mill",
-        "body": "The BWF World Championships will return to India after 17 years, with a new generation of Indian badminton players set to make their debuts on home soil. Established athletes such as PV Sindhu, Lakshya Sen, and the men’s doubles team Satwiksairaj Rankireddy and Chirag Shetty will lead the national contingent, while four emerging players will appear for the first time at the tournament.\n\nAyush Shetty, Unnati Hooda, and the women’s doubles duo of Simran Singhi and Kavipriya Selvam have secured their places through notable performances on the international circuit, as confirmed in a press release. This tournament represents a significant milestone as these young athletes commence competing among the world’s elite.",
-        "copy": "The BWF World Championships will return to India after 17 years, with a new generation of Indian badminton players set to make their debuts on home soil. Established athletes such as PV Sindhu, Lakshya Sen, and the men’s doubles team Satwiksairaj Rankireddy and Chirag Shetty will lead the national contingent, while four emerging players will appear for the first time at the tournament.\n\nAyush Shetty, Unnati Hooda, and the women’s doubles duo of Simran Singhi and Kavipriya Selvam have secured their places through notable performances on the international circuit, as confirmed in a press release. This tournament represents a significant milestone as these young athletes commence competing among the world’s elite.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Ayush, Unnati and women's doubles duo of Simran and Kavipriya set for maiden BWF World C'ships appearance",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOVR1TzJ0LWU3TXUzMVlnc0l5dngzYkdSZi1WUlB2ZW1nUHluYWpQSnNtSnNLelU0bFJISGVIbWNjZHRWNlNHbGZiX0hCUEpTOEpZUFNXNmdTb2FfeHNscmctNktvLTd0T0x6TS1NRlR4THJKZURRUU1IMjZWbHdiM3paQVdvODl2ZmxvM1ZPd0RfZHBQSF9LRng1dERWM3lnaXVLZzlNU055bXNVTU1KMHBKMUFtbG9BZlNMYVZQQ2tISTBhbWNNVWM2bmFmQXZ6cGF4X0t6akhoX2VsSWh2MHo2ZWN2N1BUVlBkLS1mTQ?oc=5",
-        "published": "2026-07-13T15:57:00+00:00",
-        "published_label": "Mon 13 Jul, 15:57",
-        "summary": "Ayush, Unnati and women's doubles duo of Simran and Kavipriya set for maiden BWF World C'ships appearance ANI News",
-        "body": "New Delhi [India], July 13 (ANI): As the BWF World Championships return to India after 17 years, a new generation of Indian badminton stars is ready to step onto the biggest stage of their careers. Asian champion Jonatan Christie, and 2024 Paris Olympics silver medalist Kunlavut Vitidsarn before finishing with the silver medal.BWF World Championships will mark Ayush's first appearance at badminton's biggest tournament, capping a remarkable rise from World Junior medallist to one of India's leading men's singles players.BWF World Championships in New Delhi.\n\nThe Haryana shuttler first grabbed national attention in 2022 when, at the age of 14, she won the Odisha Open Super 100, becoming the youngest Indian to win a BWF 100 World Tour title. In the final, she defeated compatriot Samiya Imad Farooqui to claim her maiden senior international title.BWF World Championships will mark Unnati's first appearance at badminton's biggest tournament, as she joins India's squad for the event being hosted on home soil for the first time since 2009.Sports Club, the same academy that produced World Championships medallist Chirag Shetty. A dominant performer in the junior circuit, she successfully progressed into India's senior international setup before partnering with Kavipriya Selvam.BWF World Championships will mark the biggest milestone of their partnership so far, with the pair set to make their debut at badminton's biggest tournament.BWF World Championships returns to India for the first time since 2009, the spotlight will naturally fall on India's established stars. But alongside them, Ayush Shetty, Unnati Hooda, Simran Singhi and Kavipriya Selvam will take the court at the World Championships for the very first time, marking an important milestone in their careers and the beginning of their journey on badminton's biggest stage. (ANI)",
-        "copy": "New Delhi [India], July 13 (ANI): As the BWF World Championships return to India after 17 years, a new generation of Indian badminton stars is ready to step onto the biggest stage of their careers. Asian champion Jonatan Christie, and 2024 Paris Olympics silver medalist Kunlavut Vitidsarn before finishing with the silver medal.BWF World Championships will mark Ayush's first appearance at badminton's biggest tournament, capping a remarkable rise from World Junior medallist to one of India's leading men's singles players.BWF World Championships in New Delhi.\n\nThe Haryana shuttler first grabbed national attention in 2022 when, at the age of 14, she won the Odisha Open Super 100, becoming the youngest Indian to win a BWF 100 World Tour title. In the final, she defeated compatriot Samiya Imad Farooqui to claim her maiden senior international title.BWF World Championships will mark Unnati's first appearance at badminton's biggest tournament, as she joins India's squad for the event being hosted on home soil for the first time since 2009.Sports Club, the same academy that produced World Championships medallist Chirag Shetty. A dominant performer in the junior circuit, she successfully progressed into India's senior international setup before partnering with Kavipriya Selvam.BWF World Championships will mark the biggest milestone of their partnership so far, with the pair set to make their debut at badminton's biggest tournament.BWF World Championships returns to India for the first time since 2009, the spotlight will naturally fall on India's established stars. But alongside them, Ayush Shetty, Unnati Hooda, Simran Singhi and Kavipriya Selvam will take the court at the World Championships for the very first time, marking an important milestone in their careers and the beginning of their journey on badminton's biggest stage. (ANI)",
-        "first_seen": "2026-07-13T19:06:06.615994+00:00"
       }
     ],
     "Competitor News": [
@@ -9267,5 +9176,5 @@
       }
     ]
   },
-  "total": 711
+  "total": 704
 }
