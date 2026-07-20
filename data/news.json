@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T12:17:29.269641+00:00",
-  "generated_label": "Monday 20 July 2026, 12:17 UTC",
+  "generated_at": "2026-07-20T15:49:50.199157+00:00",
+  "generated_label": "Monday 20 July 2026, 15:49 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Ekstraklasa appoints Hawk-Eye to enhance tech services",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHNiUGh0MVN3TFFmNDlaUDZLc1JBQnhNMDJPUEZkUnFEVFNhZzUtaW1ZN1prblRUQ0F4MW1fMkxyVDNOSmFiVmI2QVU3TzBSSjNEdG5na2xuZzU4VmxaYXA3RVdLVUZ5b1h1WkxZWnU4NldmUERzSk0yOXNtN2tkcFRoRE10aTVocDhCQmlR?oc=5",
+        "published": "2026-07-20T15:34:27+00:00",
+        "published_label": "Mon 20 Jul, 15:34",
+        "summary": "Ekstraklasa appoints Hawk-Eye to enhance tech services Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Lakers land Albert as new jersey sponsor in lucrative deal",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONndTVDF4dDNnUTdJWmZvTGNBUjlMMlZUQkhGZ0NSaDgydFBwektRaUZUYllmX3YzdTdvNnBxd0UtTERPY2RhY3hQM083Ynd3NDB1MlUyWkxPUzlDeXJuckw5UGVqRExGU2VxbTB2RDZNMmR2R0RUSk9UNU5qMWV4d3djSlg4QUtYT19LQjhVSmcxNnc?oc=5",
+        "published": "2026-07-20T14:19:26+00:00",
+        "published_label": "Mon 20 Jul, 14:19",
+        "summary": "Lakers land Albert as new jersey sponsor in lucrative deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "Live World Cup matches on TikTok generate 465m streams as Fifa continues social push",
+        "link": "https://www.sportspro.com/news/sponsorship-marketing/fifa-world-cup-2026-tiktok-live-streams-meta-social-media-july-2026/",
+        "published": "2026-07-20T12:44:27+00:00",
+        "published_label": "Mon 20 Jul, 12:44",
+        "summary": "Broadcasters were able to show up to ten minutes of each game on the short-form video platform. The post Live World Cup matches on TikTok generate 465m streams as Fifa continues social push appeared first on SportsPro .",
+        "body": "- World Cup players added 213.6m Instagram followers during tournament Rights holders were permitted to stream up to ten minutes of each match on the short form video service as part of a preferred platform agreement signed between Fifa and TikTok prior to the tournament.\n\nBroadcasters were also allowed to post more curated clips to the platform and monetise engagement through TikTok’s advertising solutions, ensuring they, rather than third parties, could benefit from their investment.",
+        "copy": "- World Cup players added 213.6m Instagram followers during tournament Rights holders were permitted to stream up to ten minutes of each match on the short form video service as part of a preferred platform agreement signed between Fifa and TikTok prior to the tournament.\n\nBroadcasters were also allowed to post more curated clips to the platform and monetise engagement through TikTok’s advertising solutions, ensuring they, rather than third parties, could benefit from their investment.",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -37,6 +76,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-20T12:17:29.269641+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "The World Cup half-time show — a Fifa fever dream that united the world in bafflement",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzV2NXFLYWJhNHdCc3EzMkNPVGRrb2F5ZTBhS0tiRnZ2bHNTQmNZa2J6ZkJHVm4wcmF6MmZYdlFieUl1eTNsZmcxbENEUWNOcXpubWpBUFh2dzVPN3Y2REJ3YXpGbXp3cjQtRU82OTZ0UE5rYkJ3S1pUNm9DREpoMWZCcmQ?oc=5",
+        "published": "2026-07-20T10:15:38+00:00",
+        "published_label": "Mon 20 Jul, 10:15",
+        "summary": "The World Cup half-time show — a Fifa fever dream that united the world in bafflement Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1246,100 +1298,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "AI partnerships in the Premier League – a growing opportunity",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYzZZeVZweHJlazVqSFU4c3VaeGYtY00xNnJWMXFWbC1SMk9hT2Rhb1V0YVhBcFNLOXZMTjQ0Q2NmUnU0WkFRZzktN2kyeF9feTBsMFBnNVU5d3JhZ3QzXzh1WDFzNXhfZFhsRWluam1IQVByYVNyRm1SVUR2WjA5WC0yOUdWTFU0ZEJBYjYtSzJNZWhfRTFPRzJQZUstS25rbWow?oc=5",
-        "published": "2026-07-13T15:31:09+00:00",
-        "published_label": "Mon 13 Jul, 15:31",
-        "summary": "AI partnerships in the Premier League – a growing opportunity Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "World Cup audiences impress for quarter-final winners",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemJDMWRtdDBFTUtjMlAwWmpfNmRaTGZLYlpFU3JZS3hscWpybjd1Q05tVE1DYnhWMURYYkVzNjZXbkdMbExwMG1SMTg2NnRwYVY2bUVLYlU4V25YM1F3Tm9vcV93QlZKdUlPQ2FaTEZtNF9YU1lBMm1pREU3T1hqeU1sRzZsUUtaeUVXSg?oc=5",
-        "published": "2026-07-13T15:21:09+00:00",
-        "published_label": "Mon 13 Jul, 15:21",
-        "summary": "World Cup audiences impress for quarter-final winners Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "KKR and Arctos: The sports-based rationale behind the acquisition",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjhXMmhSU1l5Z0xXMTVSdnJrcXBOclFoeUMydnM2S0ZUN1Z3TXloS0ZUellMWlNXX3hkUmNIZUp2R0ZzQUg5YmtGS3B2Tk15bnctUWFIazdGcEY1LURXQUpYUVlJNEpjQ255bEV2dVRRSDRpd25vM0Q5WGRreEszRURqT3UweWZfbUJBS1NDSUdHdGY5RTV5eHNudXFJenEydHByVFpScnNYZw?oc=5",
-        "published": "2026-07-13T14:31:08+00:00",
-        "published_label": "Mon 13 Jul, 14:31",
-        "summary": "KKR and Arctos: The sports-based rationale behind the acquisition Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "AFF adds Vietjet, Vikki Bank to ASEAN United FC sponsorship slate",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUVBUElGWGZjck5CY1J6Q1hhRkpmNkp6UlJpcWk0Qmx1VGl6Q0gyRkpDM2Q5c3VMTmpnUXJHV29PeTVSeXN5OHdvaWwyTjdXdkpoT0RuaHFPLU1FRWJrcnJrWDFBQ2N4ZGIxZ0R0UGxCZlBPb2MtNk5JaVk0cEcwWUs1LUhCazdvU1pnNzhWd3YyYUhnZm5IYTl0OA?oc=5",
-        "published": "2026-07-13T14:21:08+00:00",
-        "published_label": "Mon 13 Jul, 14:21",
-        "summary": "AFF adds Vietjet, Vikki Bank to ASEAN United FC sponsorship slate Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "AFF adds Vietjet, Vikki Bank to ASEAN United FC sponsorship slate",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3Q4dDJBUmpPczBpSWJ4d1A0SlEzb1ktRUlldnFwSnkwZTNXeEl5SlJ0aG1nM0RFUTVkSWxwQzZNdzdPU1FDRElOdmlua0NXV1NOc1R6YXZ1NEtHaUwwWFZxMWlqcHVVTUVFRlMwOGw5RDM3aU1oRWIxMjZKQThmbW5CSHh0TnRCdnJoTDNJZTJ1NjB5UHhHRlg1X0VsVFNId19iVQ?oc=5",
-        "published": "2026-07-13T14:21:08+00:00",
-        "published_label": "Mon 13 Jul, 14:21",
-        "summary": "AFF adds Vietjet, Vikki Bank to ASEAN United FC sponsorship slate Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-15T13:31:36.956049+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "How western Europe became a formidable football factory",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmdZdVE1Wk9TMlhTZ2hJYWpWMFVNTFJZMi11SmlQbEM0dGEwSE11YmdCQmY1OFdBRktYMk9TVkl0d3RuQ05hSFA1MEJoQ3ZKSUlfSjNkR0FhUUZDRTd1V291SXdScXFMQUlRYzVsMnBlY0FUTjlUX2NYUUFLR2hwZWEwSnM?oc=5",
-        "published": "2026-07-13T13:31:59+00:00",
-        "published_label": "Mon 13 Jul, 13:31",
-        "summary": "How western Europe became a formidable football factory Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-14T07:59:05.170861+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "Seattle Seahawks sold for NFL record ‘US$9.61bn’ as US franchise valuations soar",
-        "link": "https://www.sportspro.com/news/finance-investment/seattle-seahawks-nfl-sale-vinod-khosla-family-july-2026/",
-        "published": "2026-07-13T12:36:02+00:00",
-        "published_label": "Mon 13 Jul, 12:36",
-        "summary": "Vinod Khosla agrees deal for Super Bowl LX champions as soaring media rights deals reset valuations across the NFL and beyond. The post Seattle Seahawks sold for NFL record ‘US$9.61bn’ as US franchise valuations soar appeared first on SportsPro .",
-        "body": "- Previous NFL team record sale was US$6.05bn The Allen family have sold the Seattle Seahawks to a group led by San Francisco 49ers minority owner Vinod Khosla for a National Football League (NFL) record US$9.61 billion.\n\nIn becoming the controlling owners of the Super Bowl LX champions, the Khosla family will be obligated to sell their 3.1 per cent stake in the 49ers to comply with NFL rules that prohibit owners from holding shares in multiple franchises.",
-        "copy": "- Previous NFL team record sale was US$6.05bn The Allen family have sold the Seattle Seahawks to a group led by San Francisco 49ers minority owner Vinod Khosla for a National Football League (NFL) record US$9.61 billion.\n\nIn becoming the controlling owners of the Super Bowl LX champions, the Khosla family will be obligated to sell their 3.1 per cent stake in the 49ers to comply with NFL rules that prohibit owners from holding shares in multiple franchises.",
-        "first_seen": "2026-07-13T13:44:02.739751+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Mick Cleary: 'There was plenty to admire in England’s showing, even if the madcap finish scrambled many minds.'",
+        "link": "https://www.rugbypass.com/plus/mick-cleary-there-was-plenty-to-admire-in-englands-showing-even-if-the-madcap-finish-scrambled-many-minds/",
+        "published": "2026-07-20T14:37:20+00:00",
+        "published_label": "Mon 20 Jul, 14:37",
+        "summary": "Steve Borthwick brought to a close an inconsistent season with a helter-skelter Test and just about emerged victorious",
+        "body": "The Sound of Silence, music to the ears of Steve Borthwick. If only the soundtrack of a subdued away stadium could play for ever and a day for the England head coach. But it didn’t last in the match itself as England came perishingly close to following their footballing counterparts and throwing the result late on. Nor have the critical murmurings been completely stilled at Twickenham as England’s long summer labours come to an end, a grafting, initially uplifting, performance yielding Borthwick’s men their first victory on the road in a year. As Thomas Tuchel discovered when boos greeted his name being announced at the Bronze match in Miami, the relationship with a support base can be a delicate affair, yet Borthwick, with two wins from three Nations Championship matches, can afford to rest, recuperate and plan ahead. But, despite 25,000 miles travelled over the last three weeks, England have somehow managed to take only half a step forward. If only they could bottle their first half display and put it out on the field for the full 80.\n\nTheir dynamic, purposeful opening salvo in Santiago del Estero showed the potential that is there. But it remains a half-built edifice. One puff of turbulence and panic set in. Admittedly, it’s dangerous to read too much into press conferences but the manner in which Borthwick snapped at his critics when questioned about the towering tally on England yellow cards, four in this match to take the haul to 14 across the last ten tests, indicates the strain he’s been under. The line of inquiry is wholly legitimate. England will not advance to the upper echelons of the world game unless they tighten their discipline. But fair enough. Borthwick has been under pressure. And rightly so after England’s worst Six Nations for eons and a thumping defeat in Johannesburg on the opening Nations weekend. Credit where it is due though. This was a match that had to be won. And, for all the misgivings, it was.",
+        "copy": "The Sound of Silence, music to the ears of Steve Borthwick. If only the soundtrack of a subdued away stadium could play for ever and a day for the England head coach. But it didn’t last in the match itself as England came perishingly close to following their footballing counterparts and throwing the result late on. Nor have the critical murmurings been completely stilled at Twickenham as England’s long summer labours come to an end, a grafting, initially uplifting, performance yielding Borthwick’s men their first victory on the road in a year. As Thomas Tuchel discovered when boos greeted his name being announced at the Bronze match in Miami, the relationship with a support base can be a delicate affair, yet Borthwick, with two wins from three Nations Championship matches, can afford to rest, recuperate and plan ahead. But, despite 25,000 miles travelled over the last three weeks, England have somehow managed to take only half a step forward. If only they could bottle their first half display and put it out on the field for the full 80.\n\nTheir dynamic, purposeful opening salvo in Santiago del Estero showed the potential that is there. But it remains a half-built edifice. One puff of turbulence and panic set in. Admittedly, it’s dangerous to read too much into press conferences but the manner in which Borthwick snapped at his critics when questioned about the towering tally on England yellow cards, four in this match to take the haul to 14 across the last ten tests, indicates the strain he’s been under. The line of inquiry is wholly legitimate. England will not advance to the upper echelons of the world game unless they tighten their discipline. But fair enough. Borthwick has been under pressure. And rightly so after England’s worst Six Nations for eons and a thumping defeat in Johannesburg on the opening Nations weekend. Credit where it is due though. This was a match that had to be won. And, for all the misgivings, it was.",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Amarante Sititi: 'Growing up in a rugby family definitely inspired me'",
+        "link": "https://www.rugbypass.com/news/amarante-sititi-growing-up-in-a-rugby-family-definitely-inspired-me/",
+        "published": "2026-07-20T13:11:07+00:00",
+        "published_label": "Mon 20 Jul, 13:11",
+        "summary": "When Amarante Sititi, 19, goes shopping with her good friend, Black Ferns World Rugby Breakthrough Player of the Year Braxton Sorensen-McGee, she often has to pause to satisfy requests for selfies.",
+        "body": "When Amarante Sititi, 19, goes shopping with her good friend, Black Ferns World Rugby Breakthrough Player of the Year Braxton Sorensen-McGee, she often has to pause to satisfy requests for selfies.\n\n“I’m always the one taking the picture,” Sititi laughed. Soon Amarante could be the one in front of the camera. The Blues loose forward, whose name means ‘the flower that never fades’, is blossoming into one of the most promising prospects in Super Rugby Aupiki.",
+        "copy": "When Amarante Sititi, 19, goes shopping with her good friend, Black Ferns World Rugby Breakthrough Player of the Year Braxton Sorensen-McGee, she often has to pause to satisfy requests for selfies.\n\n“I’m always the one taking the picture,” Sititi laughed. Soon Amarante could be the one in front of the camera. The Blues loose forward, whose name means ‘the flower that never fades’, is blossoming into one of the most promising prospects in Super Rugby Aupiki.",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Newcastle Red Bulls agree to new signing u-turn",
+        "link": "https://www.rugbypass.com/news/newcastle-red-bulls-agree-to-new-signing-u-turn/",
+        "published": "2026-07-20T13:00:47+00:00",
+        "published_label": "Mon 20 Jul, 13:00",
+        "summary": "After careful consideration, Newcastle Red Bulls have agreed to release Joji Nasova from his contract for next season.",
+        "body": "After careful consideration, Newcastle Red Bulls have agreed to release Joji Nasova from his contract for next season, for personal reasons. The Fijian, capped in 15s and sevens, had agreed terms to join the club ahead of the 2026/27 campaign. However, the 26-year-old will not move to the Gallagher PREM and will remain with his current team, Fijian Drua.\n\nIn a press release, Newcastle said: “The club has worked constructively with the player, Fijian Drua and the Fiji Rugby Players Association to reach a resolution that recognises Joji’s personal circumstances, while also respecting the importance of contractual stability within the RFU and World Rugby frameworks.”",
+        "copy": "After careful consideration, Newcastle Red Bulls have agreed to release Joji Nasova from his contract for next season, for personal reasons. The Fijian, capped in 15s and sevens, had agreed terms to join the club ahead of the 2026/27 campaign. However, the 26-year-old will not move to the Gallagher PREM and will remain with his current team, Fijian Drua.\n\nIn a press release, Newcastle said: “The club has worked constructively with the player, Fijian Drua and the Fiji Rugby Players Association to reach a resolution that recognises Joji’s personal circumstances, while also respecting the importance of contractual stability within the RFU and World Rugby frameworks.”",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -4303,71 +4303,6 @@
         "body": "France and New Zealand are familiar semi-final opponents at the World Rugby Junior World Championship and for long periods they cancelled each other out at the Avchala Stadium in Tbilisi.\n\nAfter an error-prone first half, Les Bleuets held a 14-12 half-time lead and the nip-and-tuck nature of the match continued throughout the second half with extra-time looking a real possibility.",
         "copy": "France and New Zealand are familiar semi-final opponents at the World Rugby Junior World Championship and for long periods they cancelled each other out at the Avchala Stadium in Tbilisi.\n\nAfter an error-prone first half, Les Bleuets held a 14-12 half-time lead and the nip-and-tuck nature of the match continued throughout the second half with extra-time looking a real possibility.",
         "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Scarlets sign WRU deal but peace is temporary",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/czrx5x5e3rlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T13:52:37+00:00",
-        "published_label": "Mon 13 Jul, 13:52",
-        "summary": "All four regions have now signed the Professional Rugby Agreement but uncertainty remains with the deal expiring in June 2028.",
-        "body": "Scarlets have signed the Professional Rugby Agreement (PRA) following more than a year of wrangling with the Welsh Rugby Union (WRU). The agreement ends a lengthy stand-off between the Llanelli-based club and governing body and means all four regions have now signed the deal.\n\nUncertainty remains over the long-term future of the professional game in Wales, with the deal expiring at the end of the 2027-28 season. All four regions were on track to sign a new deal before Cardiff were rescued from going bust when the WRU took them over in 2025.",
-        "copy": "Scarlets have signed the Professional Rugby Agreement (PRA) following more than a year of wrangling with the Welsh Rugby Union (WRU). The agreement ends a lengthy stand-off between the Llanelli-based club and governing body and means all four regions have now signed the deal.\n\nUncertainty remains over the long-term future of the professional game in Wales, with the deal expiring at the end of the 2027-28 season. All four regions were on track to sign a new deal before Cardiff were rescued from going bust when the WRU took them over in 2025.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Pollock and Caluori target starting for England",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c2ey8ldn8jdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T13:46:23+00:00",
-        "published_label": "Mon 13 Jul, 13:46",
-        "summary": "England's young stars Henry Pollock and Noah Caluori are targeting starting for their country after scoring tries in Saturday's 73-8 thrashing of Fiji.",
-        "body": "England's young stars Henry Pollock and Noah Caluori are targeting starting for their country after scoring tries in Saturday's 73-8 thrashing of Fiji. Pollock, 21, claimed a hat-trick after being introduced as a 48th-minute replacement at Hill Dickinson Stadium, while 19-year-old Caluori, making his debut off the bench, set up a score for Henry Slade before diving over himself.\n\n\"A big thing for me at the minute is wanting to get that starting shirt,\" said Pollock, who has started only once in 12 Test appearances for England. \"Steve [Borthwick] said to me before the Fiji game to just go out there and be myself. I hope I did that and hope he saw enough in me.\"",
-        "copy": "England's young stars Henry Pollock and Noah Caluori are targeting starting for their country after scoring tries in Saturday's 73-8 thrashing of Fiji. Pollock, 21, claimed a hat-trick after being introduced as a 48th-minute replacement at Hill Dickinson Stadium, while 19-year-old Caluori, making his debut off the bench, set up a score for Henry Slade before diving over himself.\n\n\"A big thing for me at the minute is wanting to get that starting shirt,\" said Pollock, who has started only once in 12 Test appearances for England. \"Steve [Borthwick] said to me before the Fiji game to just go out there and be myself. I hope I did that and hope he saw enough in me.\"",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Saracens sign Tongan centre Va'enuku",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cx2dwd9nex2o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T13:09:22+00:00",
-        "published_label": "Mon 13 Jul, 13:09",
-        "summary": "Saracens sign Tongan centre Sione Va'enuku from English Champ side Amptill Rugby Club.",
-        "body": "Saracens have signed Tongan centre Sione Va'enuku from English Champ side Amptill. Va'enuku, 26, initially began his career in rugby league with Australian side Sydney Roosters but switched codes when he moved to the UK.\n\nFollowing a trial at Northampton Saints, he joined Amptill midway through the 2024-25 campaign but will now sign his first professional contract. \"I'm honoured to join such a historic club and excited for the opportunity ahead,\" he said.",
-        "copy": "Saracens have signed Tongan centre Sione Va'enuku from English Champ side Amptill. Va'enuku, 26, initially began his career in rugby league with Australian side Sydney Roosters but switched codes when he moved to the UK.\n\nFollowing a trial at Northampton Saints, he joined Amptill midway through the 2024-25 campaign but will now sign his first professional contract. \"I'm honoured to join such a historic club and excited for the opportunity ahead,\" he said.",
-        "first_seen": "2026-07-13T13:44:02.739751+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Saracens sign 104kg cross-code 'Tongan Torpedo' from Champ Rugby",
-        "link": "https://www.rugbypass.com/news/saracens-sign-cross-code-tongan-torpedo-from-champ-rugby/",
-        "published": "2026-07-13T13:06:47+00:00",
-        "published_label": "Mon 13 Jul, 13:06",
-        "summary": "Saracens have signed former rugby league player Sione Va'enuku after the centre impressed during his two-season stay at Champ Rugby partners Ampthill.",
-        "body": "Saracens have signed former rugby league player Sione Va’enuku after the centre impressed during his two-season stay at Champ Rugby partners Ampthill. Described by his management company as the ‘Tongan Torpedo’, Va’enuku played for the Sydney Roosters in Australia before switching codes in 2024.\n\nThe 24-year-old, who predominantly plays 13, scored 17 tries in 39 appearances for ‘The Mob’ across the Elior Champ and PREM Rugby Cup, including 10 tries in 20 league games last season.",
-        "copy": "Saracens have signed former rugby league player Sione Va’enuku after the centre impressed during his two-season stay at Champ Rugby partners Ampthill. Described by his management company as the ‘Tongan Torpedo’, Va’enuku played for the Sydney Roosters in Australia before switching codes in 2024.\n\nThe 24-year-old, who predominantly plays 13, scored 17 tries in 39 appearances for ‘The Mob’ across the Elior Champ and PREM Rugby Cup, including 10 tries in 20 league games last season.",
-        "first_seen": "2026-07-13T13:44:02.739751+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Leicester add sixth international signing to 2026/27 PWR squad",
-        "link": "https://www.rugbypass.com/news/leicester-add-sixth-international-signing-to-2026-27-pwr-squad/",
-        "published": "2026-07-13T12:59:14+00:00",
-        "published_label": "Mon 13 Jul, 12:59",
-        "summary": "Leicester Tigers have added a sixth capped international to their squad for the 2026/27 JAECOO Premiership Women's Rugby campaign.",
-        "body": "Leicester Tigers have added a sixth capped international to their squad for the 2026/27 JAECOO Premiership Women’s Rugby campaign. USA Women’s Eagles lock forward Rachel Ehrecke has crossed the East Midlands divide to join Tigers from Loughborough Lightning.\n\nThe 30-year-old spent one season with Loughborough, where she made 12 PWR appearances and scored two tries. Ehrecke, who has also represented Darlington Mowden Park Sharks, is the latest international to have signed on at Mattioli Woods Welford Road.",
-        "copy": "Leicester Tigers have added a sixth capped international to their squad for the 2026/27 JAECOO Premiership Women’s Rugby campaign. USA Women’s Eagles lock forward Rachel Ehrecke has crossed the East Midlands divide to join Tigers from Loughborough Lightning.\n\nThe 30-year-old spent one season with Loughborough, where she made 12 PWR appearances and scored two tries. Ehrecke, who has also represented Darlington Mowden Park Sharks, is the latest international to have signed on at Mattioli Woods Welford Road.",
-        "first_seen": "2026-07-13T13:44:02.739751+00:00"
       }
     ],
     "Tennis": [
@@ -4760,22 +4695,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-14T07:59:05.170861+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Arthur Fery: New British No 1 ready for 'attention' like Emma Raducanu after run to Wimbledon semi-finals",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSGNoMzlvNDdvMHFqZ1dwRUZCUnB3bzRuWmEzYjNXMk9MczV1UnQ5M0dFS19RLU1xMjcxVHkxZTJqVWpINFFCOFg0ZUUzNVRSVnRrMjBwTnNGUmhFZVAyRHh4V3hCLWdXZG9NT1VQeWE5cjhrVWlPY1pwTVhiRl9FMTZ1WHViR1ZOMVdDVlc5VEtWM0tCVXBkQ3l2bE1hTm9sSEYyVTVaWHdJS3J6bUxMU29QbU5qRXY3dW04SU9DSURFeHl4dGFaN1lQcDJHeDdEUVR2RENtcmJuQVpLdjYtemhZbW1WU2ZBV1E4?oc=5",
-        "published": "2026-07-13T15:00:55+00:00",
-        "published_label": "Mon 13 Jul, 15:00",
-        "summary": "Arthur Fery: New British No 1 ready for 'attention' like Emma Raducanu after run to Wimbledon semi-finals Sky Sports",
-        "body": "Arthur Fery admits he might be plunged into the media spotlight in a similar manner to Emma Raducanu following his fairy tale run at Wimbledon. The 24-year-old, who received a wild card entry to the tournament, defeated Zizou Bergs, Grigor Dimitrov and Flavio Cobolli before a semi-final loss at the hands of French Open champion Alexander Zverev.\n\nFery has surged up to No 36 in the world after entering as No 114 with only two Grand Slam victories to his name and recognises that his profile has skyrocketed, just as Raducanu's did after her US Open triumph in 2021.",
-        "copy": "Arthur Fery admits he might be plunged into the media spotlight in a similar manner to Emma Raducanu following his fairy tale run at Wimbledon. The 24-year-old, who received a wild card entry to the tournament, defeated Zizou Bergs, Grigor Dimitrov and Flavio Cobolli before a semi-final loss at the hands of French Open champion Alexander Zverev.\n\nFery has surged up to No 36 in the world after entering as No 114 with only two Grand Slam victories to his name and recognises that his profile has skyrocketed, just as Raducanu's did after her US Open triumph in 2021.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "First Look: LIV Golf United Kingdom Presented by JCB",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUs5X0NFZlZjS0ZlQWpVY0lzVDFzUnA1bXZiMkRLdE9mdTBMNGtMZUp1Zy1ya0trNHp2SXhQNEZqWUpfZHVPRGVROFE3RkFJWi11UzY5UHVydWZfd1gzZTdMMExlOENnNWN2bUx3R21GWXNjZTB4TExiNENySmZZR1R6RzB5UFIxMDI2RFFR?oc=5",
+        "published": "2026-07-20T14:05:07+00:00",
+        "published_label": "Mon 20 Jul, 14:05",
+        "summary": "First Look: LIV Golf United Kingdom Presented by JCB LIV Golf",
+        "body": "LIV Golf returns to action at this week’s LIV Golf United Kingdom Presented by JCB, the 10th tournament of the 2026 regular season. Thursday, Rd. 1 - 1:15 p.m. (8:15 a.m. ET) Friday, Rd. 2 - 1:15 p.m. (8:15 a.m. ET)\n\nSaturday, Rd. 3 - 1:15 p.m. (8:15 a.m. ET) Sunday, Rd. 4 - 1:05 p.m. (8:05 a.m. ET) Joaquin Niemann poses with fans after winning the individual title at LIV Golf United Kingdom presented by JCB in 2025. (Photo by Charles Laberge)",
+        "copy": "LIV Golf returns to action at this week’s LIV Golf United Kingdom Presented by JCB, the 10th tournament of the 2026 regular season. Thursday, Rd. 1 - 1:15 p.m. (8:15 a.m. ET) Friday, Rd. 2 - 1:15 p.m. (8:15 a.m. ET)\n\nSaturday, Rd. 3 - 1:15 p.m. (8:15 a.m. ET) Sunday, Rd. 4 - 1:05 p.m. (8:05 a.m. ET) Joaquin Niemann poses with fans after winning the individual title at LIV Golf United Kingdom presented by JCB in 2025. (Photo by Charles Laberge)",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "8AM Golf has been riding the golf boom. Its CEO explains how",
+        "link": "https://golf.com/news/8am-golf-6-takeaways-hoyt-mcgarity/",
+        "published": "2026-07-20T13:46:44+00:00",
+        "published_label": "Mon 20 Jul, 13:46",
+        "summary": "On The Deal podcast, Hoyt McGarity shared his insights on 8AM Golf's business investments, strategy and what will drive the game's future. The post 8AM Golf has been riding the golf boom. Its CEO explains how appeared first on Golf .",
+        "body": "Golf has been booming over the last decade, and among the executives in the middle of that investment and activity has been 8AM Golf president and CEO Hoyt McGarity. 8AM Golf was founded in 2018 by Howard Milstein, and the holding company now boasts a portfolio that includes 15 businesses, including GOLF.com, GOLF Magazine, True Spec Golf, Miura Golf and the newly-opened Bounty Club in Nashville, which was built in partnership with 8AM partner Justin Timberlake.\n\nIn the latest episode of “The Deal” podcast with Jason Kelly and Alex Rodriguez, McGarity shared his insights on 8AM Golf’s business investments and strategy, and what he believes will drive the game’s future. Below, you can read 6 takeaways (lightly edited for clarity) from McGarity’s conversation with Kelly and Rodriguez.",
+        "copy": "Golf has been booming over the last decade, and among the executives in the middle of that investment and activity has been 8AM Golf president and CEO Hoyt McGarity. 8AM Golf was founded in 2018 by Howard Milstein, and the holding company now boasts a portfolio that includes 15 businesses, including GOLF.com, GOLF Magazine, True Spec Golf, Miura Golf and the newly-opened Bounty Club in Nashville, which was built in partnership with 8AM partner Justin Timberlake.\n\nIn the latest episode of “The Deal” podcast with Jason Kelly and Alex Rodriguez, McGarity shared his insights on 8AM Golf’s business investments and strategy, and what he believes will drive the game’s future. Below, you can read 6 takeaways (lightly edited for clarity) from McGarity’s conversation with Kelly and Rodriguez.",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Not a cheater': Scottie Scheffler defends Bryson DeChambeau, calls for stricter rules",
+        "link": "https://golf.com/news/scottie-scheffler-defends-bryson-dechambeau-cheater/",
+        "published": "2026-07-20T13:00:47+00:00",
+        "published_label": "Mon 20 Jul, 13:00",
+        "summary": "Scottie Scheffler, following his near-miss at 2026 Open Championship, defended Bryson DeChambeau over his controversial penalty. The post ‘Not a cheater’: Scottie Scheffler defends Bryson DeChambeau, calls for stricter rules appeared first on Golf .",
+        "body": "When Scottie Scheffler was asked about Bryson DeChambeau’s controversial penalty on the eve of the 2026 Open Championship final round, the World No. 1 admitted he had “a lot to say.” But he declined to share his thoughts, given that he was in the hunt to win the final major of the year.\n\nOnce Scheffler had suffered another major near-miss in the final round at Royal Birkdale, however, circumstances had changed. On Sunday night, with his pursuit of a second straight Open title over, and with Ryan Fox clutching the trophy that had been in his grasp for the past year, Scheffler was ready to talk.",
+        "copy": "When Scottie Scheffler was asked about Bryson DeChambeau’s controversial penalty on the eve of the 2026 Open Championship final round, the World No. 1 admitted he had “a lot to say.” But he declined to share his thoughts, given that he was in the hunt to win the final major of the year.\n\nOnce Scheffler had suffered another major near-miss in the final round at Royal Birkdale, however, circumstances had changed. On Sunday night, with his pursuit of a second straight Open title over, and with Ryan Fox clutching the trophy that had been in his grasp for the past year, Scheffler was ready to talk.",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf UK 2026: Prize money payout in full",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nVElQVlJ5YnlyTnJzVUp3bFJBZlJveFZJU2pmZkRpaFZRbWFMZXRBb1I4TzBrLTVqMTBGOF9TMENQR3hRcUw3V2tNMnR5M1VzYnl1b1Y4dUpkdzlGbjZTZTdrTHpVTl9NOEtZaXZSWF9aTmI5SEFPM2R0cGhOQQ?oc=5",
+        "published": "2026-07-20T12:57:37+00:00",
+        "published_label": "Mon 20 Jul, 12:57",
+        "summary": "LIV Golf UK 2026: Prize money payout in full bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. For the first time in seven weeks, a LIV Golf event will take place as the circuit descends on JCB Country Club.\n\nFresh off the final major of the season at Royal Birkdale, some of the biggest names in the sport will be back in action at LIV Golf UK. It’s the rival circuits’ first event since LIV Golf Andalucia at the start of June, which was won by Tyrrell Hatton.",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. For the first time in seven weeks, a LIV Golf event will take place as the circuit descends on JCB Country Club.\n\nFresh off the final major of the season at Royal Birkdale, some of the biggest names in the sport will be back in action at LIV Golf UK. It’s the rival circuits’ first event since LIV Golf Andalucia at the start of June, which was won by Tyrrell Hatton.",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "‘Get Trump on the phone!’ Bryson DeChambeau ‘sought presidential help’ after explosive Open rules row",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0trQ2REZFFpQzdVNnFPb3c2SXQ3cnNMYnhsMWFjNzJHRVVDSXpFRzduelBQV0NVTkI0b0QxdVBVSHBOVjVrSi1INjR3UExYcmhwOEQ4YWFwbTNXNDdBa09yemFKQzVib3o3XzRzVGJtLUdYOVVNRW5OZEZuUXE2ZVpVeTQ5Z09mVWwtOUtmR1Jaa2c4TWRFMm93?oc=5",
+        "published": "2026-07-20T12:30:54+00:00",
+        "published_label": "Mon 20 Jul, 12:30",
+        "summary": "‘Get Trump on the phone!’ Bryson DeChambeau ‘sought presidential help’ after explosive Open rules row lbc.co.uk",
+        "body": "‘Get Trump on the phone!’ Bryson DeChambeau ‘sought presidential help’ after explosive Open rules row The two-time major winner was handed a two-shot penalty late on Friday night after officials decided he had improved the area of his backswing by flattening down some long grass on Royal Birkdale’s fifth hole.\n\nBryson DeChambeau wanted to involve United States President Donald Trump in his rules controversy at The Open, it has been claimed. The two-time major winner was handed a two-shot penalty late on Friday night after officials reviewed footage and decided he had improved the area of his backswing by flattening down some long grass on Royal Birkdale’s fifth hole.",
+        "copy": "‘Get Trump on the phone!’ Bryson DeChambeau ‘sought presidential help’ after explosive Open rules row The two-time major winner was handed a two-shot penalty late on Friday night after officials decided he had improved the area of his backswing by flattening down some long grass on Royal Birkdale’s fifth hole.\n\nBryson DeChambeau wanted to involve United States President Donald Trump in his rules controversy at The Open, it has been claimed. The two-time major winner was handed a two-shot penalty late on Friday night after officials reviewed footage and decided he had improved the area of his backswing by flattening down some long grass on Royal Birkdale’s fifth hole.",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -4801,6 +4788,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-20T12:17:29.269641+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media?",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12UXE4dE16Ym5TS19QLURFa2UtejNPczYwbnhwVl9MTjgzNGVFeGJnRHNZaFhWWWswZThwdUQyazA5ZzJPYWRpS3JUTmNJbE5rRmFLN25vMWJXUW9KeklPczJMYkhiLXJ2SDlN?oc=5",
+        "published": "2026-07-20T11:33:32+00:00",
+        "published_label": "Mon 20 Jul, 11:33",
+        "summary": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media? Sky Sports",
+        "body": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media? I think Bryson DeChambeau is entertaining and is always box office, but this caper at The Open this week was not for me.\n\nRory McIlroy has always been the one that has been sticking up for the PGA Tour and I think he just gets fed up with the likes of DeChambeau. I just think he's had enough of the circus and I don't blame him.",
+        "copy": "The Open: Rory McIlroy right to criticise Bryson DeChambeau 'circus' - should players have to speak with the media? I think Bryson DeChambeau is entertaining and is always box office, but this caper at The Open this week was not for me.\n\nRory McIlroy has always been the one that has been sticking up for the PGA Tour and I think he just gets fed up with the likes of DeChambeau. I just think he's had enough of the circus and I don't blame him.",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
       },
       {
         "section": "Golf",
@@ -8493,126 +8493,22 @@
         "body": "Jordan Spieth and Scottie Scheffler were stumped. Who, they wondered, would be considered the defending champion this week at the Open Championship: Scheffler, last year’s winner, or Spieth, the champion in 2017, the last time the Open was played at Royal Birkdale?\n\n“I said, ‘Well, are you the defending champ,’ Spieth said recently, “‘or am I the defending champ?’ “‘I was like, ‘No, no, no, you don’t get to do that. It’s you.” Whatever the case may be, consider Spieth’s mood light then, and if you’re backing him for a Birkdale defense, that’s welcomed, of course. Are there other positive signs? Maybe. This season on the PGA Tour, he’s missed just two cuts in 18 starts. His Strokes Gained stats are fair: 60th in total, 74th in tee to green, 73rd in off the tee, 83rd in approach the green, 85th in around the green and 53rd in putting.",
         "copy": "Jordan Spieth and Scottie Scheffler were stumped. Who, they wondered, would be considered the defending champion this week at the Open Championship: Scheffler, last year’s winner, or Spieth, the champion in 2017, the last time the Open was played at Royal Birkdale?\n\n“I said, ‘Well, are you the defending champ,’ Spieth said recently, “‘or am I the defending champ?’ “‘I was like, ‘No, no, no, you don’t get to do that. It’s you.” Whatever the case may be, consider Spieth’s mood light then, and if you’re backing him for a Birkdale defense, that’s welcomed, of course. Are there other positive signs? Maybe. This season on the PGA Tour, he’s missed just two cuts in 18 starts. His Strokes Gained stats are fair: 60th in total, 74th in tee to green, 73rd in off the tee, 83rd in approach the green, 85th in around the green and 53rd in putting.",
         "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Rd. 1-2 tee times for LIV Golf players at The Open",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmltTmQ5anQ4MmpHdFlxTF90NGVFMHlXd2t6QnFOTy1UNEY0d2ZaYTh6MzJvSzVSeUswdHdLSWRkaTJralZCdk53emFQMUdHbmpMenFsOFVHYlA1QnJsM2pRb1NURUtjUHFfazhqUGk4S1BHdkZGVzlSNFJid3V5SVl3NV9TT3U5RHE5Mm5GeFBxYWJQVmVXTmp6Z1A5UQ?oc=5",
-        "published": "2026-07-13T15:33:51+00:00",
-        "published_label": "Mon 13 Jul, 15:33",
-        "summary": "Rd. 1-2 tee times for LIV Golf players at The Open LIV Golf",
-        "body": "Rd. 1-2 tee times for LIV Golf players at The Open LIV Golf stars Bryson DeChambeau and Tyrrell Hatton will join defending champion and world No. 1 Scottie Scheffler in one of the featured groups for the first two rounds of this week’s Open Championship at Royal Birkdale.\n\nSeason-long points leader Jon Rahm is also in a featured group with Tommy Fleetwood and Jordan Spieth, the latter having won the Open in 2017 when it was last held at Royal Birkdale.",
-        "copy": "Rd. 1-2 tee times for LIV Golf players at The Open LIV Golf stars Bryson DeChambeau and Tyrrell Hatton will join defending champion and world No. 1 Scottie Scheffler in one of the featured groups for the first two rounds of this week’s Open Championship at Royal Birkdale.\n\nSeason-long points leader Jon Rahm is also in a featured group with Tommy Fleetwood and Jordan Spieth, the latter having won the Open in 2017 when it was last held at Royal Birkdale.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Tom Kim's move back to Scotty Cameron blade putter proves worth it",
-        "link": "https://golf.com/gear/putters/tom-kims-scotty-cameron-blade-putter/",
-        "published": "2026-07-13T15:16:16+00:00",
-        "published_label": "Mon 13 Jul, 15:16",
-        "summary": "Tom Kim won the Genesis Scottish Open after switching back to a Scotty Cameron blade putter earlier this season. The post Tom Kim’s move back to Scotty Cameron blade putter proves worth it appeared first on Golf .",
-        "body": "Like everyone, Tom Kim has seen how successful mallet putters have become at the highest levels of professional golf. For a player who won his first three PGA Tour events with a blade-model putter, Kim started experimenting with different putters over the past three seasons, including both mallets and blades.\n\nBut earlier this spring, Kim decided to go back to what works and switched back to a Scotty Cameron Newport 2-style blade with a custom LA Golf graphite shaft. That decision paid off big time as Kim has regained his form this summer, culminating in a two-shot victory last week at the Genesis Scottish Open, breaking a three-year winless drought.",
-        "copy": "Like everyone, Tom Kim has seen how successful mallet putters have become at the highest levels of professional golf. For a player who won his first three PGA Tour events with a blade-model putter, Kim started experimenting with different putters over the past three seasons, including both mallets and blades.\n\nBut earlier this spring, Kim decided to go back to what works and switched back to a Scotty Cameron Newport 2-style blade with a custom LA Golf graphite shaft. That decision paid off big time as Kim has regained his form this summer, culminating in a two-shot victory last week at the Genesis Scottish Open, breaking a three-year winless drought.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'It is FIRM out here': Pro warns of tough conditions at Open Championship",
-        "link": "https://golf.com/news/pro-warns-tough-conditions-open-championship-firm/",
-        "published": "2026-07-13T15:13:37+00:00",
-        "published_label": "Mon 13 Jul, 15:13",
-        "summary": "PGA Tour pro Michael Kim warned of \"firm\" and difficult conditions at Royal Birkdale ahead of the 2026 Open Championship on Monday. The post ‘It is FIRM out here’: Pro warns of tough conditions at Open Championship appeared first on Golf .",
-        "body": "Open Championship week has descended upon Royal Birkdale, with the 11th Open contested at the historic English club set to begin on Thursday. On Monday, many pros got their first peek at the newly-renovated links course. One of those competitors, Michael Kim, provided his first-look review to the masses.\n\nAnd Kim’s review should serve as a warning for the rest of the players in the field. To sum it up in one word, Kim found the current conditions at Royal Birkdale so “FIRM” as to be worthy of all caps. But he also revealed a surprising take on Birkdale’s many pot bunkers that could prove key to the competition.",
-        "copy": "Open Championship week has descended upon Royal Birkdale, with the 11th Open contested at the historic English club set to begin on Thursday. On Monday, many pros got their first peek at the newly-renovated links course. One of those competitors, Michael Kim, provided his first-look review to the masses.\n\nAnd Kim’s review should serve as a warning for the rest of the players in the field. To sum it up in one word, Kim found the current conditions at Royal Birkdale so “FIRM” as to be worthy of all caps. But he also revealed a surprising take on Birkdale’s many pot bunkers that could prove key to the competition.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Which LIV Golf members are playing in the Open Championship?",
-        "link": "https://golf.com/news/liv-golf-members-playing-open-championship-2026/",
-        "published": "2026-07-13T15:05:41+00:00",
-        "published_label": "Mon 13 Jul, 15:05",
-        "summary": "The final men's major of the season has arrived and 16 members of LIV Golf will tee it up. Here's who they are and how they qualified. The post Which LIV Golf members are playing in the Open Championship? appeared first on Golf .",
-        "body": "The final men’s major of the 2026 season has arrived as the best players in the world descend on Royal Birkdale this week for the 154th playing of the Open Championship. It’s also the final time this year that the best of the PGA Tour and the best from LIV Golf will share the same field before LIV Golf enters an uncertain future.\n\nJon Rahm and Bryson DeChambeau headline the LIV Golf members who will tee it up at Royal Birkdale. But several other former major champions are not in the field, including Dustin Johnson and Sergio Garcia. Johnson was scheduled to take part in Final Open Qualifying but withdrew at the last minute. This will be the first Open Championship Johnson hasn’t played since his debut in 2009. It also snaps a streak of 38 consecutive majors with Johnson in the field. Garcia tried to make it through Final Qualifying but came up short, ultimately blaming some sketchy lasagna he had for lunch for his poor second round.",
-        "copy": "The final men’s major of the 2026 season has arrived as the best players in the world descend on Royal Birkdale this week for the 154th playing of the Open Championship. It’s also the final time this year that the best of the PGA Tour and the best from LIV Golf will share the same field before LIV Golf enters an uncertain future.\n\nJon Rahm and Bryson DeChambeau headline the LIV Golf members who will tee it up at Royal Birkdale. But several other former major champions are not in the field, including Dustin Johnson and Sergio Garcia. Johnson was scheduled to take part in Final Open Qualifying but withdrew at the last minute. This will be the first Open Championship Johnson hasn’t played since his debut in 2009. It also snaps a streak of 38 consecutive majors with Johnson in the field. Garcia tried to make it through Final Qualifying but came up short, ultimately blaming some sketchy lasagna he had for lunch for his poor second round.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "First Look: LIV Golf players at The Open",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMlJhZjM2N3dCYUw5cTAwVjRtTldHRm1Ba3dGTF9jTUpKeGI0a2ttUERNNl9XWHV2SkgwVlNkNGNuYW9DYmpJWjNYME83YjlyRTYycmRvWWNudzdRWHlwOFFSQWNUNE1ZVDk1X2ZYYTJPNzlEbTFxRks0bnZfTzlFQ2plbWppLVk3dEY1dm5QVWRmTlBTVWxjUFpFLW80X3M?oc=5",
-        "published": "2026-07-13T15:00:19+00:00",
-        "published_label": "Mon 13 Jul, 15:00",
-        "summary": "First Look: LIV Golf players at The Open LIV Golf",
-        "body": "Sixteen LIV Golf players will compete in this week’s Open Championship at Royal Birkdale. Click here for Rd. 1-2 tee times. - BRYSON DeCHAMBEAU (Crushers GC) – 2024 U.S. Open win\n\nRahm is hoping to claim the third leg of a career grand slam, having previously won the U.S. Open in 2021 and Masters in 2023 Joaquin Niemann (No. 3 in points) earned the LIV Golf exemption for the Open as the highest-ranked player in points after LIV Golf Andalucia otherwise not exempt; he also earned a LIV Golf exemption for the U.S. Open in June and produced a career major-best T7 finish",
-        "copy": "Sixteen LIV Golf players will compete in this week’s Open Championship at Royal Birkdale. Click here for Rd. 1-2 tee times. - BRYSON DeCHAMBEAU (Crushers GC) – 2024 U.S. Open win\n\nRahm is hoping to claim the third leg of a career grand slam, having previously won the U.S. Open in 2021 and Masters in 2023 Joaquin Niemann (No. 3 in points) earned the LIV Golf exemption for the Open as the highest-ranked player in points after LIV Golf Andalucia otherwise not exempt; he also earned a LIV Golf exemption for the U.S. Open in June and produced a career major-best T7 finish",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "The Open Championship tee-times: Rounds one and two",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cy73r483knvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T14:49:36+00:00",
-        "published_label": "Mon 13 Jul, 14:49",
-        "summary": "The tee-times for the first two rounds of the 154th Open Championship, held at Royal Birkdale in Southport.",
-        "body": "Rory McIlroy's latest Open Championship tilt will get under way at 15:15 BST on Thursday at Royal Birkdale. The six-time major winner, ranked second in the world, will play alongside number three Matt Fitzpatrick and 2024 champion Xander Schauffele, with their second round starting at 10:09 on Friday.\n\nWorld number one and defending champion Scottie Scheffler is in the other half of the draw, teeing off alongside fellow American Bryson DeChambeau and England's Tyrrell Hatton on Thursday at 09:58 and at 15:04 on Friday.",
-        "copy": "Rory McIlroy's latest Open Championship tilt will get under way at 15:15 BST on Thursday at Royal Birkdale. The six-time major winner, ranked second in the world, will play alongside number three Matt Fitzpatrick and 2024 champion Xander Schauffele, with their second round starting at 10:09 on Friday.\n\nWorld number one and defending champion Scottie Scheffler is in the other half of the draw, teeing off alongside fellow American Bryson DeChambeau and England's Tyrrell Hatton on Thursday at 09:58 and at 15:04 on Friday.",
-        "first_seen": "2026-07-13T13:44:02.739751+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Meet the 16 LIV Golf players competing in the 2026 Open Championship at Royal Birkdale",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VekRtRW1RZExNOF9nNW5vX0NzSUs3QmNyQ1hEV3dhS1kydGFXLWZleUhwVkN4RUVWTGR3VExGalFjZkpSd1hiNEpTN0RwU2hidjVnQXc3WlBjUHZ5aUV5RWdJNkkza3pkdzBjeWJ2WjJsZHJwOU9UOE44ZmM?oc=5",
-        "published": "2026-07-13T14:30:34+00:00",
-        "published_label": "Mon 13 Jul, 14:30",
-        "summary": "Meet the 16 LIV Golf players competing in the 2026 Open Championship at Royal Birkdale Yahoo Sports Canada",
-        "body": "A little more than 10 percent of the field at the 2026 Open Championship calls LIV Golf home. The final men's major championship of the year heads to Royal Birkdale in Southport, England. The last time the Open was contested at the venue, Jordan Spieth took home the title.\n\nA field of 156 players will take the course this week, and 16 of those play golf at LIV. Among them are a couple past champions and another making his debut in the oldest major championship.",
-        "copy": "A little more than 10 percent of the field at the 2026 Open Championship calls LIV Golf home. The final men's major championship of the year heads to Royal Birkdale in Southport, England. The last time the Open was contested at the venue, Jordan Spieth took home the title.\n\nA field of 156 players will take the course this week, and 16 of those play golf at LIV. Among them are a couple past champions and another making his debut in the oldest major championship.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'I'll sleep in the car if I have to'",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cwyd74d0nk3o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T13:48:35+00:00",
-        "published_label": "Mon 13 Jul, 13:48",
-        "summary": "Joe Dean jokes he may have to camp by the practice putting green after winning The Open's inaugural Last Chance Qualifier at Royal Birkdale.",
-        "body": "Does anybody in the Southport area have a spare tent? Joe Dean, the final man to qualify for this week's Open Championship, needs somewhere to stay. The Sheffield golfer shot a two-under-par round of 68 on Monday to win by one shot the inaugural Last Chance Qualifier - 12 players competing for the final spot in the 154th staging of golf's oldest major.\n\nSinking a winning putt, in front of the iconic art deco clubhouse at Royal Birkdale on Sunday will be followed by the immortal words 'Champion Golfer of the Year'. For Dean, the prize of simply qualifying for The Open is one he'll cherish, and now send him house hunting.",
-        "copy": "Does anybody in the Southport area have a spare tent? Joe Dean, the final man to qualify for this week's Open Championship, needs somewhere to stay. The Sheffield golfer shot a two-under-par round of 68 on Monday to win by one shot the inaugural Last Chance Qualifier - 12 players competing for the final spot in the 154th staging of golf's oldest major.\n\nSinking a winning putt, in front of the iconic art deco clubhouse at Royal Birkdale on Sunday will be followed by the immortal words 'Champion Golfer of the Year'. For Dean, the prize of simply qualifying for The Open is one he'll cherish, and now send him house hunting.",
-        "first_seen": "2026-07-13T16:46:54.700679+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau Tipped for Humiliating Major 'Grand Slam' at The Open",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcF8wYkxkMHJBZXljXzZraU85cXB1X1dwV2xSS3o1WUc5MEZMbUdjRHQ5VEh6M2xEajJIUHFnVVZOMXp4cVpkY3pGQWY2SzdYNktfRnZYcWhQS0ZrOVNPN3pZeVZwbC1YaHRtWGhDWlR2Xzg3cHp1dmpQbWNhLWtQdm1aMWF6X3VnTVZZUFlRLUd2ajdxZTNraDJDdUZqRGh2RlROdE1INjU?oc=5",
-        "published": "2026-07-13T13:07:05+00:00",
-        "published_label": "Mon 13 Jul, 13:07",
-        "summary": "Bryson DeChambeau Tipped for Humiliating Major 'Grand Slam' at The Open dailyclubgolf.com",
-        "body": "Three majors. Three missed cuts. And CBS Sports analyst Johnson Wagner says a fourth missed cut is inevitable. Bryson DeChambeau is facing the threat of completing an unwanted 'missed cut Grand Slam' this season after failing to make the weekend at the first three majors of the year.\n\n“Miss cut for sure,” Wagner said while appearing on the Golf on CBS Podcast. \"This is not a good setup for him. He does not play well in high winds. I think Bryson misses the cut and goes for the DeChambeau Grand Slam of MCs in the majors this year.\"",
-        "copy": "Three majors. Three missed cuts. And CBS Sports analyst Johnson Wagner says a fourth missed cut is inevitable. Bryson DeChambeau is facing the threat of completing an unwanted 'missed cut Grand Slam' this season after failing to make the weekend at the first three majors of the year.\n\n“Miss cut for sure,” Wagner said while appearing on the Golf on CBS Podcast. \"This is not a good setup for him. He does not play well in high winds. I think Bryson misses the cut and goes for the DeChambeau Grand Slam of MCs in the majors this year.\"",
-        "first_seen": "2026-07-13T13:44:02.739751+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "China Open: Chen Into Pole Position",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQV9iWXd1b0pxY053dWg1enNTMWl1dEJreER2OTVCTXh6VW9vS3k3eE12SEx5ZjlyZFVwVWlYbnozRG8xR1pRSHJlZE9XNU1vWml4WGw0NUp4V0RLcEZPNEZ0UmM1ZGVvWDRqbWdqR3cxTGRaZHpPbHh2a0E0ajdDc1ZIbndiWlBSdm41NjEzamZVSndHbHA1bmRRcW0?oc=5",
+        "published": "2026-07-20T13:51:32+00:00",
+        "published_label": "Mon 20 Jul, 13:51",
+        "summary": "China Open: Chen Into Pole Position BWF World Tour",
+        "body": "Chen Yu Fei will contest her home event at VICTOR China Open 2026 – the season’s final Super 1000 – from Position 1 in the women’s singles draw following the withdrawal of injured world No.1 An Se Young.\n\nThat Seed Withdrawal Movement has also reshaped the draw, setting up several enticing early matchups in the discipline. Should they both progress past the opening round, Chen will face Pusarla V. Sindhu, who just claimed the Japan Open title on Sunday. Chen retired in their semifinal duel in Tokyo last week.",
+        "copy": "Chen Yu Fei will contest her home event at VICTOR China Open 2026 – the season’s final Super 1000 – from Position 1 in the women’s singles draw following the withdrawal of injured world No.1 An Se Young.\n\nThat Seed Withdrawal Movement has also reshaped the draw, setting up several enticing early matchups in the discipline. Should they both progress past the opening round, Chen will face Pusarla V. Sindhu, who just claimed the Japan Open title on Sunday. Chen retired in their semifinal duel in Tokyo last week.",
+        "first_seen": "2026-07-20T15:49:50.199157+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -9353,19 +9249,6 @@
         "body": "New Delhi [India], July 13 (ANI): As the BWF World Championships return to India after 17 years, a new generation of Indian badminton stars is ready to step onto the biggest stage of their careers. Asian champion Jonatan Christie, and 2024 Paris Olympics silver medalist Kunlavut Vitidsarn before finishing with the silver medal.BWF World Championships will mark Ayush's first appearance at badminton's biggest tournament, capping a remarkable rise from World Junior medallist to one of India's leading men's singles players.BWF World Championships in New Delhi.\n\nThe Haryana shuttler first grabbed national attention in 2022 when, at the age of 14, she won the Odisha Open Super 100, becoming the youngest Indian to win a BWF 100 World Tour title. In the final, she defeated compatriot Samiya Imad Farooqui to claim her maiden senior international title.BWF World Championships will mark Unnati's first appearance at badminton's biggest tournament, as she joins India's squad for the event being hosted on home soil for the first time since 2009.Sports Club, the same academy that produced World Championships medallist Chirag Shetty. A dominant performer in the junior circuit, she successfully progressed into India's senior international setup before partnering with Kavipriya Selvam.BWF World Championships will mark the biggest milestone of their partnership so far, with the pair set to make their debut at badminton's biggest tournament.BWF World Championships returns to India for the first time since 2009, the spotlight will naturally fall on India's established stars. But alongside them, Ayush Shetty, Unnati Hooda, Simran Singhi and Kavipriya Selvam will take the court at the World Championships for the very first time, marking an important milestone in their careers and the beginning of their journey on badminton's biggest stage. (ANI)",
         "copy": "New Delhi [India], July 13 (ANI): As the BWF World Championships return to India after 17 years, a new generation of Indian badminton stars is ready to step onto the biggest stage of their careers. Asian champion Jonatan Christie, and 2024 Paris Olympics silver medalist Kunlavut Vitidsarn before finishing with the silver medal.BWF World Championships will mark Ayush's first appearance at badminton's biggest tournament, capping a remarkable rise from World Junior medallist to one of India's leading men's singles players.BWF World Championships in New Delhi.\n\nThe Haryana shuttler first grabbed national attention in 2022 when, at the age of 14, she won the Odisha Open Super 100, becoming the youngest Indian to win a BWF 100 World Tour title. In the final, she defeated compatriot Samiya Imad Farooqui to claim her maiden senior international title.BWF World Championships will mark Unnati's first appearance at badminton's biggest tournament, as she joins India's squad for the event being hosted on home soil for the first time since 2009.Sports Club, the same academy that produced World Championships medallist Chirag Shetty. A dominant performer in the junior circuit, she successfully progressed into India's senior international setup before partnering with Kavipriya Selvam.BWF World Championships will mark the biggest milestone of their partnership so far, with the pair set to make their debut at badminton's biggest tournament.BWF World Championships returns to India for the first time since 2009, the spotlight will naturally fall on India's established stars. But alongside them, Ayush Shetty, Unnati Hooda, Simran Singhi and Kavipriya Selvam will take the court at the World Championships for the very first time, marking an important milestone in their careers and the beginning of their journey on badminton's biggest stage. (ANI)",
         "first_seen": "2026-07-13T19:06:06.615994+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Japan Open: Set to Make a Mark",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWW8tQW9XMWxBdXBDUFplWHVSOWVBVjVBUGR4akg3dDUxV0lkcE9UX0tQRldRbjdRRlU3Ti1IbWtUTEkyZWMtQmVUWFlzV2xCUUpQRVRJYUlhQU9yaEFwY3dUMHlmb2EyOUFtbGxCT2Vfa3k5ZTlZbzZBUVBhaHBOQ2xiR2FSek8zUG1qTjZIeHBic3kyQXc?oc=5",
-        "published": "2026-07-13T13:12:47+00:00",
-        "published_label": "Mon 13 Jul, 13:12",
-        "summary": "Japan Open: Set to Make a Mark BWF World Tour",
-        "body": "Tomoka Miyazaki, face of Gen Z in Japanese women’s singles, is the prominent presence on the posters of the DAIHATSU Japan Open 2026. Her seniors Akane Yamaguchi and Nozomi Okuhara are still in the thick of things, but Miyazaki appeals to a different demographic.\n\nHowever, there is one Gen Z talent coming to the Japan Open on the back of her biggest triumph — Riko Gunji, winner of the YONEX Canada Open earlier this month, her first HSBC BWF World Tour title.",
-        "copy": "Tomoka Miyazaki, face of Gen Z in Japanese women’s singles, is the prominent presence on the posters of the DAIHATSU Japan Open 2026. Her seniors Akane Yamaguchi and Nozomi Okuhara are still in the thick of things, but Miyazaki appeals to a different demographic.\n\nHowever, there is one Gen Z talent coming to the Japan Open on the back of her biggest triumph — Riko Gunji, winner of the YONEX Canada Open earlier this month, her first HSBC BWF World Tour title.",
-        "first_seen": "2026-07-13T13:44:02.739751+00:00"
       }
     ],
     "Competitor News": [
@@ -9384,5 +9267,5 @@
       }
     ]
   },
-  "total": 720
+  "total": 711
 }
