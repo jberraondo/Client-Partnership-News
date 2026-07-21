@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T17:16:09.778097+00:00",
-  "generated_label": "Tuesday 21 July 2026, 17:16 UTC",
+  "generated_at": "2026-07-21T19:17:53.430978+00:00",
+  "generated_label": "Tuesday 21 July 2026, 19:17 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Op-Ed: Connecting the world with the beautiful game",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd05hNl92cWZybGhKN3h5YzFYLV9MeUJQS1hIMmRzRnBoZm5Ld0VCUXh3dGxUQlI0YXIwSWhnVmtUclMzQXFWQUVDcnZxblRIekFKVmoycThRdmJBbW5UeElFamdLMGJEekhpbWpCbjc0Nl82ZF90emhJeG80Z2JhU0o0cm9LRjZha1VUdTFB?oc=5",
+        "published": "2026-07-21T17:15:52+00:00",
+        "published_label": "Tue 21 Jul, 17:15",
+        "summary": "Op-Ed: Connecting the world with the beautiful game Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-21T19:17:53.430978+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -180,6 +193,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-21T11:46:41.028839+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "RTE secures Irish rights for 2030 FIFA World Cup",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2ZWU3JudjFWaGpqUkg0V094YW5lX3c5LUpIS3BFdzF4cHZnTlVrRWNmbnM0REpqd2V6N2JaNkh3bmtFQkpuN085SlEzMjhjY2hSdHV6d09vSGFpSF9IQWV5NTlMaloxMnh1Q0FwX2Q4ZmxsZWR5NDdGZkF5VkxYeXp4R09zX00?oc=5",
+        "published": "2026-07-21T10:49:30+00:00",
+        "published_label": "Tue 21 Jul, 10:49",
+        "summary": "RTE secures Irish rights for 2030 FIFA World Cup Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-21T19:17:53.430978+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1428,22 +1454,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-15T13:31:36.956049+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "HSBC watch",
-        "kind": "gnews",
-        "title": "BGMEA signs MoU with HSBC to support new market expansion",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzNGR3dlUDM3eGs1MWduRFp1SmNFTDE0Z1VNZklUSXh3UXBtTXctVVpTam9aeTVsS0g0YWFZamM4Q2RFck83TjBxcnJNbm5WUWY1UjBUYnpremhGTFRLVkUxMWNzRXIzZ1pQVlg0N1Jvczk4c01Qb182cGl2bUljUTdhZFg1cXFLYkR5WGxzaVlPbzQ?oc=5",
-        "published": "2026-07-14T18:59:20+00:00",
-        "published_label": "Tue 14 Jul, 18:59",
-        "summary": "BGMEA signs MoU with HSBC to support new market expansion Textile Today",
-        "body": "The Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and HSBC Bangladesh have signed a strategic partnership to help Bangladesh's ready-made garment (RMG) industry expand into new and emerging international markets.\n\nThe two organizations signed a Memorandum of Understanding (MoU) on July 13 at the BGMEA Complex in Uttara, Dhaka. The agreement was signed by Mahmud Hasan Khan, President of BGMEA, and Md: Mahbub ur Rahman, Chief Executive Officer of HSBC Bangladesh.",
-        "copy": "The Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and HSBC Bangladesh have signed a strategic partnership to help Bangladesh's ready-made garment (RMG) industry expand into new and emerging international markets.\n\nThe two organizations signed a Memorandum of Understanding (MoU) on July 13 at the BGMEA Complex in Uttara, Dhaka. The agreement was signed by Mahmud Hasan Khan, President of BGMEA, and Md: Mahbub ur Rahman, Chief Executive Officer of HSBC Bangladesh.",
-        "first_seen": "2026-07-14T19:16:16.510698+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Halfpenny commits coaching future to Cardiff",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cn5n4lvk566o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-21T18:03:45+00:00",
+        "published_label": "Tue 21 Jul, 18:03",
+        "summary": "Former Wales and British and Irish Lions full-back Leigh Halfpenny commits his coaching career to Cardiff.",
+        "body": "Former Wales and British and Irish Lions full-back Leigh Halfpenny has committed his coaching career to Cardiff. The 37-year-old was Wales' kicking coach during the recent three-game Nations Championship summer campaign.\n\nBut, having ended his glittering playing career as a Cardiff player-coach as the 2025-26 season came to a close, Halfpenny will remain at the Arms Park working with their senior players and aspiring academy talent as a skills coach.",
+        "copy": "Former Wales and British and Irish Lions full-back Leigh Halfpenny has committed his coaching career to Cardiff. The 37-year-old was Wales' kicking coach during the recent three-game Nations Championship summer campaign.\n\nBut, having ended his glittering playing career as a Cardiff player-coach as the 2025-26 season came to a close, Halfpenny will remain at the Arms Park working with their senior players and aspiring academy talent as a skills coach.",
+        "first_seen": "2026-07-21T19:17:53.430978+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4199,35 +4225,35 @@
         "body": "A handful of Welsh players are finishing up their kicking session beneath a crisp winter sky, the tops of the Andes visible above the stands of the Estadio del Bicentenario in San Juan. One of them is Joe Hawkins, who finds time to crack a couple of jokes with his teammates between shots at goal. Our conversation, which begins at the side of the pitch, has to move indoors when the stadium speakers crackle into life with the opening bars of Hen Wlad Fy Nhadau. For Hawkins, who spent two years watching Wales from afar after his move to Exeter, it is a reminder of why he came home.\n\nFew recent transfers have sparked more debate than Hawkins’ decision to leave the Ospreys for Exeter in 2023. One of the country’s brightest young talents accepted that the move would make him unavailable for international selection, just months before the Rugby World Cup. San Juan is nearly 7,000 miles from Wales, yet it was the 160-mile journey from Swansea to Exeter that forced Hawkins to spend two years watching these occasions from afar.",
         "copy": "A handful of Welsh players are finishing up their kicking session beneath a crisp winter sky, the tops of the Andes visible above the stands of the Estadio del Bicentenario in San Juan. One of them is Joe Hawkins, who finds time to crack a couple of jokes with his teammates between shots at goal. Our conversation, which begins at the side of the pitch, has to move indoors when the stadium speakers crackle into life with the opening bars of Hen Wlad Fy Nhadau. For Hawkins, who spent two years watching Wales from afar after his move to Exeter, it is a reminder of why he came home.\n\nFew recent transfers have sparked more debate than Hawkins’ decision to leave the Ospreys for Exeter in 2023. One of the country’s brightest young talents accepted that the move would make him unavailable for international selection, just months before the Rugby World Cup. San Juan is nearly 7,000 miles from Wales, yet it was the 160-mile journey from Swansea to Exeter that forced Hawkins to spend two years watching these occasions from afar.",
         "first_seen": "2026-07-15T08:05:32.366361+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Scotland braced for Fiji backlash after learning lessons in Pretoria",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5150jpjpno?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-14T19:14:17+00:00",
-        "published_label": "Tue 14 Jul, 19:14",
-        "summary": "Scotland have had enough of praise without results, says forwards coach John Dalziel, as they prepare for a Fiji backlash at Murrayfield.",
-        "body": "In the wake of South Africa's win over Scotland in Pretoria on Saturday, head coach Rassie Erasmus, in full tummy-tickling mode, praised the visitors to the hilt, listing their big wins against Argentina, France and England this year before calling them the third best team in the world.\n\nKind words, but nonsense, of course. Scotland were terrific for large parts in Pretoria, but they lost. And, as Scotland forwards coach John Dalziel said on Tuesday, such praise isn't really worth a damn to them anymore, not unless it comes with the breakthrough victories they now desperately crave.",
-        "copy": "In the wake of South Africa's win over Scotland in Pretoria on Saturday, head coach Rassie Erasmus, in full tummy-tickling mode, praised the visitors to the hilt, listing their big wins against Argentina, France and England this year before calling them the third best team in the world.\n\nKind words, but nonsense, of course. Scotland were terrific for large parts in Pretoria, but they lost. And, as Scotland forwards coach John Dalziel said on Tuesday, such praise isn't really worth a damn to them anymore, not unless it comes with the breakthrough victories they now desperately crave.",
-        "first_seen": "2026-07-15T08:05:32.366361+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Senegal – JOJ DAKAR 2026 : Eight rugby sevens teams qualified",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWm5tdVZsc2Ytb0RwR3cwY0J2ODJMckl4bkhtNkZOZm15TGotTWs4cVZyTk9WQjF5OVdpSWFhNlcwSHFEa3BHUm9ZZ2VMNUk2Y1MyNGFOaTRmZ1gwemVPNUpnZkc0elFFUzlhcjFuU3JETkI4MkkwWXBtNy03d0xwSDFtZ0UxUmY0?oc=5",
-        "published": "2026-07-14T19:05:53+00:00",
-        "published_label": "Tue 14 Jul, 19:05",
-        "summary": "Senegal – JOJ DAKAR 2026 : Eight rugby sevens teams qualified Africa24 TV",
-        "body": "Rugby sevens is one of the 25 sports featured at the Youth Olympic Games in Dakar. It aims to boost the development of the sport on the African continent by inspiring a new generation of young local athletes. The competition, which brings together eight teams including Senegal, also hopes to provide a high-performance global showcase to reveal the future international talents of the sport.\n\nMy name is Abdelaziz Touré, a rugby player for the Yoff club. I will represent Senegal on the U18 national team at the Dakar 2026 Youth Olympic Games. Africa is preparing to be thrilled by the Dakar 2026 Youth Olympic Games. Among the 25 competitive sports on the program for the Dakar 2026 Youth Olympic Games is rugby sevens. Of the eight teams participating in this competition, host country Senegal is holding numerous training camps to refine the skills of its players.",
-        "copy": "Rugby sevens is one of the 25 sports featured at the Youth Olympic Games in Dakar. It aims to boost the development of the sport on the African continent by inspiring a new generation of young local athletes. The competition, which brings together eight teams including Senegal, also hopes to provide a high-performance global showcase to reveal the future international talents of the sport.\n\nMy name is Abdelaziz Touré, a rugby player for the Yoff club. I will represent Senegal on the U18 national team at the Dakar 2026 Youth Olympic Games. Africa is preparing to be thrilled by the Dakar 2026 Youth Olympic Games. Among the 25 competitive sports on the program for the Dakar 2026 Youth Olympic Games is rugby sevens. Of the eight teams participating in this competition, host country Senegal is holding numerous training camps to refine the skills of its players.",
-        "first_seen": "2026-07-15T09:28:54.154988+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Nearly one year after reaching No.4, Jack Draper begins rebuild from Challenger level",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMEI2b1ZkekhNUFliZEM1Y0oxQUs4eVo5YTVYSDJnOHVtOHE4NEdHLVpoN2Y5QUpxVTl5dDhVdTkyZDIwMlZ2LTl2ZER4MEdWWGEzdzUybkhNZ2JIeTNpOWdtVXlMdGxTTVdfTmJJUjV6WGFiVkxFdFg0cGZTOGQ2YlNaVGZtRGlfZGJ1YVYyOTBZLWNTTF9ua3BqWU43cnlOSlBhZ3N3VWNvSWYwT0RadGZkQjFlR1RpQ3hkTjhGYm82ajktT2c5eDBCM2JnSnk3MHdPRE9OamRhOVBf?oc=5",
+        "published": "2026-07-21T18:36:36+00:00",
+        "published_label": "Tue 21 Jul, 18:36",
+        "summary": "Nearly one year after reaching No.4, Jack Draper begins rebuild from Challenger level Yardbarker",
+        "body": "Just a year after reaching the ATP Top 5, Jack Draper is facing one of the biggest rebuilding challenges of his career. The Briton has entered the Brownsburg Challenger, scheduled for August 10-16, as he looks to recover his ranking, confidence and competitive rhythm after a difficult period marked by injuries.\n\nDraper’s presence at Challenger level would have been almost impossible to imagine months ago. The 24-year-old was one of the biggest rising stars in tennis, reaching a career-high No. 4 ranking and becoming a Grand Slam semifinalist before physical setbacks interrupted the momentum of a breakthrough period.",
+        "copy": "Just a year after reaching the ATP Top 5, Jack Draper is facing one of the biggest rebuilding challenges of his career. The Briton has entered the Brownsburg Challenger, scheduled for August 10-16, as he looks to recover his ranking, confidence and competitive rhythm after a difficult period marked by injuries.\n\nDraper’s presence at Challenger level would have been almost impossible to imagine months ago. The 24-year-old was one of the biggest rising stars in tennis, reaching a career-high No. 4 ranking and becoming a Grand Slam semifinalist before physical setbacks interrupted the momentum of a breakthrough period.",
+        "first_seen": "2026-07-21T19:17:53.430978+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Full match replay: Vekic outlasts Raducanu to win HSBC Championships",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3hhWnF5aU1oWkIxakVTU25ONFNyTEpkTXo0dWkzTXU5OXhhVkhpSnkyRTlCNTh3OWZaU3BVVTdCWlM5Sk94R2FCT1d1UnNvUkhxbXctYnNsQVVXQlFWajlVX0VZa2V3MGQ0QTlYVDFxbHdpZGhnMk9zZnprcVJUcHNrUzhHS2tNZlMzVWJUaTFLSjh5MHlSRm94MVVEVWFtb2FESklVSjJIRWdW?oc=5",
+        "published": "2026-07-21T17:41:47+00:00",
+        "published_label": "Tue 21 Jul, 17:41",
+        "summary": "Full match replay: Vekic outlasts Raducanu to win HSBC Championships WTA Tennis",
+        "body": "6-0, 7-6 (6) in 1 hour and 48 minutes to win the HSBC Championships at Queen's Club. The victory earned Vekic her fifth career singles title and first at the WTA 500 level. We use cookies to enhance and personalize your experience with the WTA. Please let us know if you agree to the storing and use of cookies on your device. Cookie Policy Privacy Policy\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.",
+        "copy": "6-0, 7-6 (6) in 1 hour and 48 minutes to win the HSBC Championships at Queen's Club. The victory earned Vekic her fifth career singles title and first at the WTA 500 level. We use cookies to enhance and personalize your experience with the WTA. Please let us know if you agree to the storing and use of cookies on your device. Cookie Policy Privacy Policy\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.",
+        "first_seen": "2026-07-21T19:17:53.430978+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4674,6 +4700,19 @@
       },
       {
         "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "PGA Tour, DP World Tour & Asian Tour alliance puts pressure on LIV",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qNGxJQ1JNLXEydmxZSVJaSUdnVG5BZDhkcFVrZ21WOVZ4ZlliTnE4M19DSzh5eGIzd0t1ay1iUkpUdVhrcnBjNWFwbHF5aTByeVl1cVFwYUpCUlRKRFpBb3JIcjM?oc=5",
+        "published": "2026-07-21T16:49:10+00:00",
+        "published_label": "Tue 21 Jul, 16:49",
+        "summary": "PGA Tour, DP World Tour & Asian Tour alliance puts pressure on LIV BBC",
+        "body": "LIV Golf has suffered another blow with the announcement of a global alliance between the leading men's professional tours. Masters champion Rory McIlroy has welcomed the partnership that the PGA Tour and DP World Tour have struck with the Asian Tour, which had been linked with the LIV circuit.\n\nLIV, whose next event starts at the JCB Club in Staffordshire on Thursday, is already reeling from the withdrawal of Saudi Arabian financial backing after the Kingdom ploughed in more than £3.75bn to bankroll its first three years.",
+        "copy": "LIV Golf has suffered another blow with the announcement of a global alliance between the leading men's professional tours. Masters champion Rory McIlroy has welcomed the partnership that the PGA Tour and DP World Tour have struck with the Asian Tour, which had been linked with the LIV circuit.\n\nLIV, whose next event starts at the JCB Club in Staffordshire on Thursday, is already reeling from the withdrawal of Saudi Arabian financial backing after the Kingdom ploughed in more than £3.75bn to bankroll its first three years.",
+        "first_seen": "2026-07-21T19:17:53.430978+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
         "title": "These stylish gloves are on sale for only $20!",
@@ -4723,6 +4762,19 @@
         "body": "Jon Rahm has stopped short of confirming whether he will be a LIV Golf player next season. Rahm was directly asked about LIV’s future here at the league’s event at JCB Golf & Country Club in England’s Staffordshire, where the league is returning after a seven-week break.\n\nThe league is searching for the $300 million in funding it requires to remain operational next season, with the clock now ticking for investment after the retreat of Saudi Arabia’s sovereign wealth fund.",
         "copy": "Jon Rahm has stopped short of confirming whether he will be a LIV Golf player next season. Rahm was directly asked about LIV’s future here at the league’s event at JCB Golf & Country Club in England’s Staffordshire, where the league is returning after a seven-week break.\n\nThe league is searching for the $300 million in funding it requires to remain operational next season, with the clock now ticking for investment after the retreat of Saudi Arabia’s sovereign wealth fund.",
         "first_seen": "2026-07-21T15:42:54.496083+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Poulter, Majesticks hoping for breakthrough on English soil",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0VpNDN3MkNHMDdJaDRfREkwQWQ3WmV1TkNaR09Gd3VYTEFLME9VbnZtUFl2Vm8yYVc3NEh1bk9leVgwOEpTZmxmRGJxcktZNEFGQTFpZXZqZVJFWjg2QV83OW42dGdDRm05bjdXaXdIb2VYTEcxSnZpa1QxYTZENDljbHZLWEtRZ0JtLUVwYWJWRWRHa3BvdkFwdmhNXzRMcGxZVGhR?oc=5",
+        "published": "2026-07-21T13:38:02+00:00",
+        "published_label": "Tue 21 Jul, 13:38",
+        "summary": "Poulter, Majesticks hoping for breakthrough on English soil LIV Golf",
+        "body": "ROCESTER, England – Ian Poulter has 17 career professional wins spread across 12 different countries. Surprisingly, he’s never won a pro tournament in his home country of England.\n\nHe has fellow Majesticks Golf Club Co-Captain Lee Westwood partially to blame. Poulter and Westwood entered the final round of the 2007 British Masters at The Belfry tied for second behind fellow Englishman Mark Foster. Westwood ended up winning the title with a superb final-round 65 while Poulter’s 70 left him in solo second.",
+        "copy": "ROCESTER, England – Ian Poulter has 17 career professional wins spread across 12 different countries. Surprisingly, he’s never won a pro tournament in his home country of England.\n\nHe has fellow Majesticks Golf Club Co-Captain Lee Westwood partially to blame. Poulter and Westwood entered the final round of the 2007 British Masters at The Belfry tied for second behind fellow Englishman Mark Foster. Westwood ended up winning the title with a superb final-round 65 while Poulter’s 70 left him in solo second.",
+        "first_seen": "2026-07-21T19:17:53.430978+00:00"
       },
       {
         "section": "Golf",
@@ -8233,74 +8285,22 @@
         "body": "Few things can turn heads on the first tee like an all-black finish, and if that sounds like your kind of vibe, you’re going to love the latest drop from Titleist. The popular T100, T150, T250 and T350 Titleist irons are now available for pre-order in a gorgeous Black Vapor finish. The deeper, darker look is achieved via a vapor-deposition process that bonds a uniform coating to every clubhead and is specially engineered to last.\n\nThe all-black look is complemented by True Temper AMT Tour White Onyx shafts, finished with a matching onyx powder coat, and paired with Golf Pride Tour Velvet Blackout grips.",
         "copy": "Few things can turn heads on the first tee like an all-black finish, and if that sounds like your kind of vibe, you’re going to love the latest drop from Titleist. The popular T100, T150, T250 and T350 Titleist irons are now available for pre-order in a gorgeous Black Vapor finish. The deeper, darker look is achieved via a vapor-deposition process that bonds a uniform coating to every clubhead and is specially engineered to last.\n\nThe all-black look is complemented by True Temper AMT Tour White Onyx shafts, finished with a matching onyx powder coat, and paired with Golf Pride Tour Velvet Blackout grips.",
         "first_seen": "2026-07-15T08:05:32.366361+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Wyndham Clark was using a coat hanger at the Open. Here's why",
-        "link": "https://golf.com/instruction/wyndham-clark-coat-hanger-open-explained/",
-        "published": "2026-07-14T18:59:45+00:00",
-        "published_label": "Tue 14 Jul, 18:59",
-        "summary": "Wyndham Clark was using a coat hanger at The Open Championship. Here’s how the unusual training aid helps his swing. The post Wyndham Clark was using a coat hanger at the Open. Here’s why appeared first on Golf .",
-        "body": "If you caught the video of Wyndham Clark on the range at The Open Championship, you probably did a double-take. That was, in fact, a coat hanger in his hands. And as odd as it looked, there was a purpose behind it.\n\nIn a press conference, Clark shared that Mondays are typically reserved for his technical work, and this week was no exception. Despite a T13 finish at the Genesis Scottish Open, Clark wasn’t satisfied with his ball striking during the final round. So, he arrived at Royal Birkdale — coat hanger in hand — and headed to the range to get things back on track.",
-        "copy": "If you caught the video of Wyndham Clark on the range at The Open Championship, you probably did a double-take. That was, in fact, a coat hanger in his hands. And as odd as it looked, there was a purpose behind it.\n\nIn a press conference, Clark shared that Mondays are typically reserved for his technical work, and this week was no exception. Despite a T13 finish at the Genesis Scottish Open, Clark wasn’t satisfied with his ball striking during the final round. So, he arrived at Royal Birkdale — coat hanger in hand — and headed to the range to get things back on track.",
-        "first_seen": "2026-07-14T19:16:16.510698+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Rory McIlroy says 'burnt out' Birkdale Open could play easier — and harder",
-        "link": "https://golf.com/news/open-championship-royal-birkdale-conditions-rory-mcilroy/",
-        "published": "2026-07-14T18:27:11+00:00",
-        "published_label": "Tue 14 Jul, 18:27",
-        "summary": "Royal Birkdale promises to be firm and fast for this Open Championship. Rory McIlroy sees two sides of a \"burnt out\" Open. The post Rory McIlroy says ‘burnt out’ Birkdale Open could play easier — and harder appeared first on Golf .",
-        "body": "The first two days of Open Championship week have been headlined by one thing: the firm and fast conditions at Royal Birkdale and the challenges they’ll present to the best players in the world.\n\nAs my colleague Sean Zak wrote, the arrival of The Brown™ this week suggests we are in store for a classic Open Championship to cap off the major season. That’s something that excites Rory McIlroy. But the two-time defending Masters champion also sees how the drying out of Royal Birkdale will alter the strategy for some chasing the Claret Jug this week.",
-        "copy": "The first two days of Open Championship week have been headlined by one thing: the firm and fast conditions at Royal Birkdale and the challenges they’ll present to the best players in the world.\n\nAs my colleague Sean Zak wrote, the arrival of The Brown™ this week suggests we are in store for a classic Open Championship to cap off the major season. That’s something that excites Rory McIlroy. But the two-time defending Masters champion also sees how the drying out of Royal Birkdale will alter the strategy for some chasing the Claret Jug this week.",
-        "first_seen": "2026-07-14T19:16:16.510698+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Open Championship picks to win: Our expert’s 6 favorite bets",
-        "link": "https://golf.com/lifestyle/2026-open-championship-picks-to-win-expert-6-bets/",
-        "published": "2026-07-14T18:19:39+00:00",
-        "published_label": "Tue 14 Jul, 18:19",
-        "summary": "The 2026 Open Championship begins Thursday at Royal Birkdale. Here are 6 picks our expert loves — and why he thinks you should too. The post 2026 Open Championship picks to win: Our expert’s 6 favorite bets appeared first on Golf .",
-        "body": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Open Championship, which gets underway on Thursday in Southport, England.\n\nIt is possible that we could have England winning in America this Sunday and an American winning in England. The World Cup Final will kickoff at 3:00 p.m. ET on Sunday afternoon in New Jersey — which ought to be around the same time that the 154th Open Championship is crowning its Champion Golfer of the Year at Royal Birkdale in Southport, England.",
-        "copy": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Open Championship, which gets underway on Thursday in Southport, England.\n\nIt is possible that we could have England winning in America this Sunday and an American winning in England. The World Cup Final will kickoff at 3:00 p.m. ET on Sunday afternoon in New Jersey — which ought to be around the same time that the 154th Open Championship is crowning its Champion Golfer of the Year at Royal Birkdale in Southport, England.",
-        "first_seen": "2026-07-14T19:16:16.510698+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This unheralded course 2 hours from Royal Birkdale deserves way more shine",
-        "link": "https://golf.com/travel/royal-birkdale-hollinwell-notts-england-world-top-100/",
-        "published": "2026-07-14T17:54:17+00:00",
-        "published_label": "Tue 14 Jul, 17:54",
-        "summary": "Hollinwell, though known to architectural aficionados, is a charming course in England that goes largely ignored by the American market. The post This unheralded course 2 hours from Royal Birkdale deserves way more shine appeared first on Golf .",
-        "body": "For most of my adult life, I have been searching for golf’s hidden gems. When I joined GOLF’s ranking panel decades ago, that search was productive. Some of the greatest courses in the world were hiding in plain sight. National Golf Links of America did not get the attention it deserved. North Berwick wasn’t even in the Top 100. Chicago Golf Club was admired by architectural devotees but hardly qualified as a household name.\n\nOver the last 30 years, golfers have become dramatically more sophisticated consumers of architecture. Rankings, books, websites, podcasts, social media and the ease of international travel have exposed golfers to great design in ways that would have been unimaginable when I first joined the panel. Information now moves instantly. A spectacular course no longer stays secret for very long.",
-        "copy": "For most of my adult life, I have been searching for golf’s hidden gems. When I joined GOLF’s ranking panel decades ago, that search was productive. Some of the greatest courses in the world were hiding in plain sight. National Golf Links of America did not get the attention it deserved. North Berwick wasn’t even in the Top 100. Chicago Golf Club was admired by architectural devotees but hardly qualified as a household name.\n\nOver the last 30 years, golfers have become dramatically more sophisticated consumers of architecture. Rankings, books, websites, podcasts, social media and the ease of international travel have exposed golfers to great design in ways that would have been unimaginable when I first joined the panel. Information now moves instantly. A spectacular course no longer stays secret for very long.",
-        "first_seen": "2026-07-14T19:16:16.510698+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Weird stuff is going to happen' - Scheffler and McIlroy on sun-baked Birkdale",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cp9l94e9xr7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-14T17:28:26+00:00",
-        "published_label": "Tue 14 Jul, 17:28",
-        "summary": "Scottie Scheffler and Rory McIlroy discuss the firm and fiery conditions expected at Royal Birkdale for this week's Open Championship.",
-        "body": "The Open Championship has, so often down the years, been as much a battle with the elements as it has the swing for the world's top golfers. Recent Royal Birkdale Opens have been no different. When the Southport venue last staged the game's oldest championship in 2017, play was briefly suspended during the second round because of heavy wind and rain.\n\nIn 2008, at the end of a week largely dominated by horrendous weather, Padraig Harrington prevailed with a winning score of three over par, four shots clear of Ian Poulter. This week, however, it is shaping up to be a much different test, with firm and fiery conditions expected at a sun-baked Birkdale.",
-        "copy": "The Open Championship has, so often down the years, been as much a battle with the elements as it has the swing for the world's top golfers. Recent Royal Birkdale Opens have been no different. When the Southport venue last staged the game's oldest championship in 2017, play was briefly suspended during the second round because of heavy wind and rain.\n\nIn 2008, at the end of a week largely dominated by horrendous weather, Padraig Harrington prevailed with a winning score of three over par, four shots clear of Ian Poulter. This week, however, it is shaping up to be a much different test, with firm and fiery conditions expected at a sun-baked Birkdale.",
-        "first_seen": "2026-07-14T19:16:16.510698+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "On the back of her historic title run at the Japan Open, PV Sindhu has jumped two spots to return to the top 8 in women's singles rankings. 🇮🇳🙌 Only Indian in the top 8 of BWF Singles Rankings! 👑🏸",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPXy0tcGZqYnUzM2hLNEtKcUpHWS1FWmg0Q1Q2N3NjS0JWYmNNMGw4aWdLNUZ4UGx3V040bGJCc2dMby1Yc0xkMDlTc3ZCYV8tbkc0aVpjWDYwWmd3SFVkMFJmcGNwbWFpdEFLcUlRMHNrY0QtWC02VFczNVNOekZqVlhZbDFmN2puQzRaOHNwYVp5UUg4NVJvRmlXY2NEX1Q3OTZqelkxUk9KVGJ3OTQ0QTNHUmpEZjV6NV9sclhGM1FvRnFtNEdFanVRMUJJLXB3SENN?oc=5",
+        "published": "2026-07-21T18:17:02+00:00",
+        "published_label": "Tue 21 Jul, 18:17",
+        "summary": "On the back of her historic title run at the Japan Open, PV Sindhu has jumped two spots to return to the top 8 in women's singles rankings. 🇮🇳🙌 Only Indian in the top 8 of BWF Singles Rankings! 👑🏸 facebook.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-21T19:17:53.430978+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
