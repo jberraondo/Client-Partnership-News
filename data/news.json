@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T13:45:55.295234+00:00",
-  "generated_label": "Wednesday 22 July 2026, 13:45 UTC",
+  "generated_at": "2026-07-22T15:40:12.565208+00:00",
+  "generated_label": "Wednesday 22 July 2026, 15:40 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "What will be the legacy of the FIFA World Cup 2026?",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmtaMVNHRFhaQk9DSzluNUk0TDJDNHhxUktYbUJzRGFpRXZTMDBfNW4yNVE1YnhkZ3RTMFc2eU5HQzdraWVxMlBPbG1QbWMzbW1peFBXTEtXdWx2ZFRobkk0MXF3cEN4QW12Y0tlRVNJZXZMNlFwNTZFSDcxbFpxaWZGS0VaYnRwS3gwdzd3OWZKYURZREgw?oc=5",
+        "published": "2026-07-22T15:29:50+00:00",
+        "published_label": "Wed 22 Jul, 15:29",
+        "summary": "What will be the legacy of the FIFA World Cup 2026? Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportBusiness",
+        "kind": "direct",
+        "title": "Capturing the biggest-ever Fifa World Cup: The operation behind the images",
+        "link": "https://www.sportbusiness.com/2026/07/capturing-the-biggest-ever-fifa-world-cup-the-operation-behind-the-images/?utm_source=rss&utm_medium=rss&utm_campaign=capturing-the-biggest-ever-fifa-world-cup-the-operation-behind-the-images",
+        "published": "2026-07-22T14:46:17+00:00",
+        "published_label": "Wed 22 Jul, 14:46",
+        "summary": "Getty Images was given the mammoth task of documenting this year’s expanded edition. Source",
+        "body": "",
+        "copy": "Getty Images was given the mammoth task of documenting this year’s expanded edition. Source",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Nestlé nears deal to sell stake in €5bn Perrier unit",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTk5GV0NlN2psUUp1cmJsVnhvRE1wNy1uUy12c1I1MzBvVFhqT19mX1RPVklEbE1lVElwWUJkaWRFeGZXUWZlWDdBSVV1WTlxMy1TTzlBV05qR0Q1VmRhU044M1lLS3E1ZnN5T19pZ1U4X1Z6ajI3LXdrOERVbmZHaVBEYWQ?oc=5",
+        "published": "2026-07-22T13:30:50+00:00",
+        "published_label": "Wed 22 Jul, 13:30",
+        "summary": "Nestlé nears deal to sell stake in €5bn Perrier unit Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -128,6 +167,19 @@
         "body": "Independent communications agency Mutant has been appointed for two sporting events in Singapore: the Singapore Tennis Open (STO) 2026 and HSBC SVNS Singapore 2027, a leg of the World Rugby Sevens Series. The appointments continue Mutant’s partnership with The Kallang.\n\nThe agency previously worked on STO in 2024 and HSBC SVNS Singapore in 2023. The appointments follow Mutant’s expansion into MICE and live events capabilities. “Singapore is punching above its weight as a destination for world-class sporting events, and we’re proud to be part of what makes them land well,” said Lina Marican, Regional Managing Director, Mutant.",
         "copy": "Independent communications agency Mutant has been appointed for two sporting events in Singapore: the Singapore Tennis Open (STO) 2026 and HSBC SVNS Singapore 2027, a leg of the World Rugby Sevens Series. The appointments continue Mutant’s partnership with The Kallang.\n\nThe agency previously worked on STO in 2024 and HSBC SVNS Singapore in 2023. The appointments follow Mutant’s expansion into MICE and live events capabilities. “Singapore is punching above its weight as a destination for world-class sporting events, and we’re proud to be part of what makes them land well,” said Lina Marican, Regional Managing Director, Mutant.",
         "first_seen": "2026-07-22T09:57:00.362785+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Nike to reduce online distribution channels in China sales overhaul",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcksycHdhOGVIRlEydVZTTUlaZlRHLXY3S0drLWNZTDExQVJHcllxUi00ZHFQenFzSUxoa0RpM3F5cTUzTHFieDFpSDZOckRjeWFkM3ZPdmlZSzRqcENxZEtlWWh1YTdQSXlrcmNKZGxrdE84dUlxaVFFMWdLeUdzT0E0aUI?oc=5",
+        "published": "2026-07-22T04:16:53+00:00",
+        "published_label": "Wed 22 Jul, 04:16",
+        "summary": "Nike to reduce online distribution channels in China sales overhaul Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1363,35 +1415,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-16T13:44:21.737049+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "LA28 adds Cooley as second legal services provider",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmJiY3c2RlQ2NjRrZ01mRWJpSDlpdU5ZQ0h6R3JSSndlZVNQbmpwaGtsOV9halBJdHdVVFZ1QWJYY05yVTFBZWZKdWZQMnItajBFUVFGbzVQYkNILWQxMmtOWnBvZ1hfUUVjSUFnSlZsTGswT0lXN3VteGlrOEI5T044VFJDb0xZ?oc=5",
-        "published": "2026-07-15T14:53:43+00:00",
-        "published_label": "Wed 15 Jul, 14:53",
-        "summary": "LA28 adds Cooley as second legal services provider Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "The UK finally has a blueprint for innovation — now it must act on it",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUYxYkRrTUdGOGdoc0hxTlJ1VEFBYnNLVkNaUE14eHdER1VhQzdYcnJJLVFnbWl2bWhXajdKajRLazdjZzRkVy14NmgxTVhsdUJQdzlxMVktZmNOSVExU3VpUEhFWE0wR21nM3R5eHBqWHBIVWJlckpMb3RaREdOcGxKTUY?oc=5",
-        "published": "2026-07-15T14:42:22+00:00",
-        "published_label": "Wed 15 Jul, 14:42",
-        "summary": "The UK finally has a blueprint for innovation — now it must act on it Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-16T08:09:22.009682+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Exclusive: Bordeaux Begles to compete in London rugby sevens tournament",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUxNVWQ2SzNwdGtxNnBxbnNwZXJHZmwzTmdicnowSkh3STZSRWowbUVIallHVFRweFlIZzFGVmNOenViXzA3cF9odl96SUJ3aVpwR3kwNkpZZXJkUjYwQ0xzakZXWEo3aVFPcEN2Z2R2ZjdyNG05QWpJUlBGdEFWeDVGbDJZSGJSeEh6NmExQlBzeHNaTGhTWXVn?oc=5",
+        "published": "2026-07-22T14:30:00+00:00",
+        "published_label": "Wed 22 Jul, 14:30",
+        "summary": "Exclusive: Bordeaux Begles to compete in London rugby sevens tournament City AM",
+        "body": "Investec Champions Cup winners Bordeaux Begles will send a team to the London City 7s in a major coup for the Square Mile tournament. The showstopping French Top 14 outfit, who in May won their second consecutive European title, will participate in the second edition of the London sevens tournament, which takes place in September at the Honourable Artillery Company.\n\nLast year’s event was won by London club Harlequins, who beat Saracens in the final, but this year will have an international flair with Bordeaux Begles joining the roster. The outfit – which features a range of domestic French and wider international stars – beat Leinster to lift their second European trophy two months ago.",
+        "copy": "Investec Champions Cup winners Bordeaux Begles will send a team to the London City 7s in a major coup for the Square Mile tournament. The showstopping French Top 14 outfit, who in May won their second consecutive European title, will participate in the second edition of the London sevens tournament, which takes place in September at the Honourable Artillery Company.\n\nLast year’s event was won by London club Harlequins, who beat Saracens in the final, but this year will have an international flair with Bordeaux Begles joining the roster. The outfit – which features a range of domestic French and wider international stars – beat Leinster to lift their second European trophy two months ago.",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "PWR champion and Olympian swaps Saracens for Exeter Chiefs",
+        "link": "https://www.rugbypass.com/news/pwr-champion-and-olympian-swaps-saracens-for-exeter-chiefs/",
+        "published": "2026-07-22T14:07:06+00:00",
+        "published_label": "Wed 22 Jul, 14:07",
+        "summary": "Deborah Wills has traded Saracens for Exeter Chiefs ahead of the 2026/27 JAECOO Premiership Women's Rugby season.",
+        "body": "Deborah Wills has traded Saracens for Exeter Chiefs ahead of the 2026/27 JAECOO Premiership Women’s Rugby season. The 35-year-old had two spells in North London, the most recent of which being a one season stay for the 2025/26 campaign as Saracens won the PWR Cup and league. Last season Wills made eight appearances and scored one try.\n\nWills spent the better part of a decade playing elite rugby sevens after finding rugby aged 21. She spent numerous seasons on the HSBC SVNS Series, won a Commonwealth Games bronze medal in 2018 and represented Team GB at the 2020 Olympic Games in Tokyo.",
+        "copy": "Deborah Wills has traded Saracens for Exeter Chiefs ahead of the 2026/27 JAECOO Premiership Women’s Rugby season. The 35-year-old had two spells in North London, the most recent of which being a one season stay for the 2025/26 campaign as Saracens won the PWR Cup and league. Last season Wills made eight appearances and scored one try.\n\nWills spent the better part of a decade playing elite rugby sevens after finding rugby aged 21. She spent numerous seasons on the HSBC SVNS Series, won a Commonwealth Games bronze medal in 2018 and represented Team GB at the 2020 Olympic Games in Tokyo.",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -4069,113 +4121,22 @@
         "body": "Reading Time: 4min | Wed. 15.07.26. | 18:39 The stage is set for another thrilling chapter in Kenya Secondary Schools Sports Association (KSSSA) Rugby Sevens as the country's best boys' and girls' teams prepare to battle for national honors at the 2026 Term Two Games in Thika.\n\nUnlike last year, this edition arrives with both competitions wide open. The defending boys' champions, St. Peter's Mumias, will not be part of the national championship after their title defense ended in the Western Region semifinals, while the girls' competition promises another fascinating battle as Kinale Girls seek to retain the title they won in 2025.",
         "copy": "Reading Time: 4min | Wed. 15.07.26. | 18:39 The stage is set for another thrilling chapter in Kenya Secondary Schools Sports Association (KSSSA) Rugby Sevens as the country's best boys' and girls' teams prepare to battle for national honors at the 2026 Term Two Games in Thika.\n\nUnlike last year, this edition arrives with both competitions wide open. The defending boys' champions, St. Peter's Mumias, will not be part of the national championship after their title defense ended in the Western Region semifinals, while the girls' competition promises another fascinating battle as Kinale Girls seek to retain the title they won in 2025.",
         "first_seen": "2026-07-15T17:16:29.056535+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Halse 'buzzing' to ignite Waratahs season after six injury-plagued months",
-        "link": "https://www.rugbypass.com/news/halse-buzzing-to-ignite-waratahs-season-after-six-injury-plagued-months/",
-        "published": "2026-07-15T15:09:19+00:00",
-        "published_label": "Wed 15 Jul, 15:09",
-        "summary": "Caitlyn Halse bombastically celebrating to the crowd after scoring against the United States has gone down as one of the iconic images of Women's Rugby World Cup 2025.",
-        "body": "Caitlyn Halse bombastically celebrating to the crowd after scoring against the United States has gone down as one of the iconic images of Women’s Rugby World Cup 2025. It also signalled her arrival on the international stage.\n\nNow, after a long sideline stint, the young full-back – affectionately known as “The Kid” by her Wallaroos teammates – is set to finally make her return off the bench this weekend against the Western Force in Perth, and her return comes at a critical time for the NSW Waratahs.",
-        "copy": "Caitlyn Halse bombastically celebrating to the crowd after scoring against the United States has gone down as one of the iconic images of Women’s Rugby World Cup 2025. It also signalled her arrival on the international stage.\n\nNow, after a long sideline stint, the young full-back – affectionately known as “The Kid” by her Wallaroos teammates – is set to finally make her return off the bench this weekend against the Western Force in Perth, and her return comes at a critical time for the NSW Waratahs.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Dean Richards assembles all-Prem coaching ticket in Champ",
-        "link": "https://www.rugbypass.com/news/dean-richards-assembles-all-prem-coaching-ticket-in-champ-doncaster-knights-alan-dickens/",
-        "published": "2026-07-15T14:57:53+00:00",
-        "published_label": "Wed 15 Jul, 14:57",
-        "summary": "Doncaster Knights director of rugby Dean Richards is pulling together an experienced coaching team to launch an assault on the Champ next season, with Carl Hogg and Alan Dickens joining his coaching staff.",
-        "body": "Doncaster Knights director of rugby Dean Richards is pulling together an experienced coaching team to launch an assault on the Champ next season, with Carl Hogg and Alan Dickens joining his coaching staff.\n\nTwo weeks ago, ambitious Doncaster appointed former Newcastle Falcons, Leicester Tigers and Harlequins boss Richards, who had been working with Norfolk-based London 2 Anglia outfit Wymondham as their new top man.",
-        "copy": "Doncaster Knights director of rugby Dean Richards is pulling together an experienced coaching team to launch an assault on the Champ next season, with Carl Hogg and Alan Dickens joining his coaching staff.\n\nTwo weeks ago, ambitious Doncaster appointed former Newcastle Falcons, Leicester Tigers and Harlequins boss Richards, who had been working with Norfolk-based London 2 Anglia outfit Wymondham as their new top man.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Cobus Reinach's 'not an individual sport' message to Bok debutant",
-        "link": "https://www.rugbypass.com/news/cobus-reinachs-not-an-individual-sport-message-to-bok-debutant/",
-        "published": "2026-07-15T14:43:50+00:00",
-        "published_label": "Wed 15 Jul, 14:43",
-        "summary": "Reinach, who came on in the 51st minute of that Cardiff cake walk, has been practising with Moyo and is confident the partnership will be seamless even in the daunting Test arena.",
-        "body": "Experienced scrum half Cobus Reinach is backing Springbok new boy Vusi Moyo to thrive in the No.10 jersey but is steering clear of predicting another hammering of Wales. The last time the Springboks played Wales they delivered a 73-0 thrashing in Cardiff, which may explain why head coach Rassie Erasmus believes the time is right to give Moyo a debut, particularly on his home ground.\n\nReinach, who came on in the 51st minute of that Cardiff cake walk, has been practising with Moyo and is confident the partnership will be seamless even in the daunting Test arena.",
-        "copy": "Experienced scrum half Cobus Reinach is backing Springbok new boy Vusi Moyo to thrive in the No.10 jersey but is steering clear of predicting another hammering of Wales. The last time the Springboks played Wales they delivered a 73-0 thrashing in Cardiff, which may explain why head coach Rassie Erasmus believes the time is right to give Moyo a debut, particularly on his home ground.\n\nReinach, who came on in the 51st minute of that Cardiff cake walk, has been practising with Moyo and is confident the partnership will be seamless even in the daunting Test arena.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I really want to enjoy my rugby': Phillips trades London for the South West",
-        "link": "https://www.rugbypass.com/news/i-really-want-to-enjoy-my-rugby-phillips-trades-london-for-the-south-west/",
-        "published": "2026-07-15T14:33:14+00:00",
-        "published_label": "Wed 15 Jul, 14:33",
-        "summary": "Carys Phillips has swapped Harlequins for Exeter Chiefs ahead of the 2026/27 JAECOO Premiership Women's Rugby season.",
-        "body": "Carys Phillips has swapped Harlequins for Exeter Chiefs ahead of the 2026/27 JAECOO Premiership Women’s Rugby season. The 87-cap, 12-year Wales international joined Harlequins in 2023 from Worcester Warriors.\n\nThe 33-year-old’s arrival is timely following Emily Tuttosi’s departure from Devon for a coaching role in her native Canada. As Harlequins missed out on a play-off space in 2025/26, Phillips made 15 appearances for the West London club and scored four tries.",
-        "copy": "Carys Phillips has swapped Harlequins for Exeter Chiefs ahead of the 2026/27 JAECOO Premiership Women’s Rugby season. The 87-cap, 12-year Wales international joined Harlequins in 2023 from Worcester Warriors.\n\nThe 33-year-old’s arrival is timely following Emily Tuttosi’s departure from Devon for a coaching role in her native Canada. As Harlequins missed out on a play-off space in 2025/26, Phillips made 15 appearances for the West London club and scored four tries.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I think Pollock is our best player... he should be starting'",
-        "link": "https://www.rugbypass.com/news/i-think-henry-pollock-is-our-best-player-he-is-a-freak-show-england-rugby-steve-borthwick/",
-        "published": "2026-07-15T14:09:33+00:00",
-        "published_label": "Wed 15 Jul, 14:09",
-        "summary": "Former Wales fly-half Dan Biggar has praised England head coach Steve Borthwick for the way he has managed back-row Henry Pollock so far in his Test career, saying the 21-year-old is suited to playing from the bench.",
-        "body": "Former Wales fly-half Dan Biggar has praised England head coach Steve Borthwick for the way he has managed back-row Henry Pollock so far in his Test career, saying the 21-year-old is suited to playing from the bench.\n\nPollock has started only one of his 12 Test appearances since making his debut against Wales in the 2025 Six Nations, which came this year against Ireland, a match Biggar has described as his “poorest outing”.",
-        "copy": "Former Wales fly-half Dan Biggar has praised England head coach Steve Borthwick for the way he has managed back-row Henry Pollock so far in his Test career, saying the 21-year-old is suited to playing from the bench.\n\nPollock has started only one of his 12 Test appearances since making his debut against Wales in the 2025 Six Nations, which came this year against Ireland, a match Biggar has described as his “poorest outing”.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Rob Baxter explains why he thinks Julian Heaven will come good at Exeter",
-        "link": "https://www.rugbypass.com/news/rob-baxter-explains-why-he-thinks-julian-heaven-will-come-good-at-exeter/",
-        "published": "2026-07-15T13:57:11+00:00",
-        "published_label": "Wed 15 Jul, 13:57",
-        "summary": "Heaven signed from the NSW Waratahs, making three starts in 13 appearances last season.",
-        "body": "Julian Heaven had a difficult first season with Exeter Chiefs, but Director of Rugby Rob Baxter admits that he has seen a lot of players in the same situation in his years at the club, only for them to bounce back in their second campaign.\n\nBaxter says it happens a lot to players who move to Devon from abroad, like Heaven, 25, who was one of three Australians who moved to Sandy Park last season, all with varying degrees of success, the most successful being Tom Hooper.",
-        "copy": "Julian Heaven had a difficult first season with Exeter Chiefs, but Director of Rugby Rob Baxter admits that he has seen a lot of players in the same situation in his years at the club, only for them to bounce back in their second campaign.\n\nBaxter says it happens a lot to players who move to Devon from abroad, like Heaven, 25, who was one of three Australians who moved to Sandy Park last season, all with varying degrees of success, the most successful being Tom Hooper.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wales hooker Phillips moves to Exeter",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3wywwqx1qlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-15T13:56:27+00:00",
-        "published_label": "Wed 15 Jul, 13:56",
-        "summary": "Exeter Chiefs sign Wales hooker Carys Phillips for the 2026-27 Premiership Women's Rugby season.",
-        "body": "Exeter Chiefs have signed Wales hooker Carys Phillips for the 2026-27 Premiership Women's Rugby season. The 33-year-old, who joins from Harlequins, has played in four Women's World Cups and won 87 caps for Wales since making her debut in 2013.\n\nShe recently followed in the footsteps of her father Rowland when she played for the Barbarians, becoming the first daughter and father to play for the famous team. Phillips is the second Wales forward to move to Sandy Park this month after prop Maisie Davies agreed a move.",
-        "copy": "Exeter Chiefs have signed Wales hooker Carys Phillips for the 2026-27 Premiership Women's Rugby season. The 33-year-old, who joins from Harlequins, has played in four Women's World Cups and won 87 caps for Wales since making her debut in 2013.\n\nShe recently followed in the footsteps of her father Rowland when she played for the Barbarians, becoming the first daughter and father to play for the famous team. Phillips is the second Wales forward to move to Sandy Park this month after prop Maisie Davies agreed a move.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Why Bromley-born Aaron Grandidier-Nkanang, France's two try debutant, owes a debt to English rugby",
-        "link": "https://www.rugbypass.com/plus/why-bromley-born-aaron-grandidier-nkanang-frances-two-try-debutant-owes-a-debt-to-english-rugby/",
-        "published": "2026-07-15T13:55:55+00:00",
-        "published_label": "Wed 15 Jul, 13:55",
-        "summary": "Olympic Gold medallist, Aaron Grandidier-Nkanang's two-try debut is a tale of being honed in England but going to French finishing school",
-        "body": "Aaron Grandidier Nkanang marked his debut for France with a brace of tries in their 42-26 thrashing of Australia last week. It was a momentous day for the 26-year-old winger, and an emotional one. In a live pitchside interview shortly after the match, Grandidier Nkanang was asked what was going through his mind. “I’m thinking about the journey, about rugby sevens, because without rugby sevens I wouldn’t be here today.,” he replied. “I’m thinking of my partner, my parents and my mates in London.”\n\nThat must be a first, a Frenchman thanking his friends in London for getting him to where he is today. But Grandidier Nkanang is not your run of the mill Bleu. Grandidier Nkanang was born in Bromley, Kent, to a British-Nigerian father and French mother. All his youth rugby was played in England, including some matches for Kent U18, and then in his nineteenth year he signed terms with Brive. For the first years of his professional career, Grandidier Nkanang’s speciality was Sevens and he was a member of the French squad that won gold in the 2024 Paris Olympics.",
-        "copy": "Aaron Grandidier Nkanang marked his debut for France with a brace of tries in their 42-26 thrashing of Australia last week. It was a momentous day for the 26-year-old winger, and an emotional one. In a live pitchside interview shortly after the match, Grandidier Nkanang was asked what was going through his mind. “I’m thinking about the journey, about rugby sevens, because without rugby sevens I wouldn’t be here today.,” he replied. “I’m thinking of my partner, my parents and my mates in London.”\n\nThat must be a first, a Frenchman thanking his friends in London for getting him to where he is today. But Grandidier Nkanang is not your run of the mill Bleu. Grandidier Nkanang was born in Bromley, Kent, to a British-Nigerian father and French mother. All his youth rugby was played in England, including some matches for Kent U18, and then in his nineteenth year he signed terms with Brive. For the first years of his professional career, Grandidier Nkanang’s speciality was Sevens and he was a member of the French squad that won gold in the 2024 Paris Olympics.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper’s Challenger Tour record as he is forced to drop back down due to his ranking",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3dGSzZDT1hKRnlJNGZKVEx0MW91cE9lNC1SQlRqMVZHVUdWZXdmbTBWNDItRWRkdjI4TkxWcEctSFhYdjNxaGxjZUhrNjcwT3MzVlNUWDVkNkRiU0JBSmZTUm9nX0tuMVJfWFVVc3RXZzMwZTdrQmo4MzdEQUF6QmVUdzYtejBFemFlV0pmeGJ6YzJTT3EtWHJ6RUEyWmlWZmtkR3RlcmlGY0pFZ29zbFhR?oc=5",
+        "published": "2026-07-22T15:00:00+00:00",
+        "published_label": "Wed 22 Jul, 15:00",
+        "summary": "Jack Draper’s Challenger Tour record as he is forced to drop back down due to his ranking Tennishead",
+        "body": "Jack Draper is expected to play his first Challenger Tour event since 2023 at next month’s Indiana Hard Court Championships. Ranked inside the top five just over a year ago, Draper now finds himself well outside the top 100 and needs to play smaller events.\n\nHe is on the official entry list for the Indiana Hard Court Championships, a Challenger 75 event which begins on Monday, August 10. Who is the best hard-court player in tennis today?",
+        "copy": "Jack Draper is expected to play his first Challenger Tour event since 2023 at next month’s Indiana Hard Court Championships. Ranked inside the top five just over a year ago, Draper now finds himself well outside the top 100 and needs to play smaller events.\n\nHe is on the official entry list for the Indiana Hard Court Championships, a Challenger 75 event which begins on Monday, August 10. Who is the best hard-court player in tennis today?",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4266,6 +4227,19 @@
         "body": "The presence of Jack Draper in the entry list of the Brownsburg Challenger, which will take place from August 10 to 16, has caught the attention of the tennis world. It is not common to see a player who just a few months ago was competing in the final rounds of major tournaments sign up for an event of this category, especially when it coincides with the conclusion of the Masters 1000 in Canada and the start of Cincinnati. However, the decision makes sense when analyzing the difficult moment the British player is going through.\n\nContinuous injuries have led to such a sharp decline that Draper currently holds the 147th position in the ATP ranking, a far cry from the player who reached world number 4 and was a Grand Slam finalist. Now, a completely different stage begins: that of rebuilding a career from scratch.",
         "copy": "The presence of Jack Draper in the entry list of the Brownsburg Challenger, which will take place from August 10 to 16, has caught the attention of the tennis world. It is not common to see a player who just a few months ago was competing in the final rounds of major tournaments sign up for an event of this category, especially when it coincides with the conclusion of the Masters 1000 in Canada and the start of Cincinnati. However, the decision makes sense when analyzing the difficult moment the British player is going through.\n\nContinuous injuries have led to such a sharp decline that Draper currently holds the 147th position in the ATP ranking, a far cry from the player who reached world number 4 and was a Grand Slam finalist. Now, a completely different stage begins: that of rebuilding a career from scratch.",
         "first_seen": "2026-07-22T08:24:55.832128+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWlVQUGJVU0FDdUR5ZzhCUk81ZHJuYWVBSzhJNHFBMk5CNncyYzVRZkVlUmFmSWh0Nk9UOGJVUGlWTHhrYVBMbDNfWXYtUFFudjY1OFhoYzQ2bHhuQjA1ZHl1blBfOTNiQ1JXMDdfT0FGazFUTTdhMWVPQlZlb0lEX011TjF6Tk9rWXU2WDFaYVY?oc=5",
+        "published": "2026-07-21T13:55:14+00:00",
+        "published_label": "Tue 21 Jul, 13:55",
+        "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
       },
       {
         "section": "Tennis",
@@ -4656,22 +4630,48 @@
         "body": "Emma Raducanu’s stop-start tennis career hit another roadblock earlier this summer. The British number one was playing some of her best tennis heading into this year’s Wimbledon Championships; illustrated by her run to the Queen’s Club final.\n\nIn a cruel twist of fate, Raducanu suffered a stress fracture in her leg shortly before Wimbledon, forcing her to withdraw. How concerned are you about Emma Raducanu’s latest injury setback?",
         "copy": "Emma Raducanu’s stop-start tennis career hit another roadblock earlier this summer. The British number one was playing some of her best tennis heading into this year’s Wimbledon Championships; illustrated by her run to the Queen’s Club final.\n\nIn a cruel twist of fate, Raducanu suffered a stress fracture in her leg shortly before Wimbledon, forcing her to withdraw. How concerned are you about Emma Raducanu’s latest injury setback?",
         "first_seen": "2026-07-16T08:09:22.009682+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Sports News, Transfers, Scores | Watch Live Sport",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHVMdzRuXzBLWElHMS0tRzJxY2VtVF81TWpOR1Bkejloek13WWtvTXNWeDE1dEc1TGVKaHNpeXhvQW82c0pBM0szTzk5VHRUeGxjdzVTejU5VGQ0eG5kZjV2Qi1vTDlsTGxBSERaRTFXTFNLR1lqczFuMGZ3WG9vdGJaT3I0cGU2Vl9jM09XdEFFSlhUSWlXSHZpMW9Fdw?oc=5",
-        "published": "2026-07-15T14:25:15+00:00",
-        "published_label": "Wed 15 Jul, 14:25",
-        "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-16T11:39:31.467731+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "7 great summer golf polos to keep you cool and looking sharp",
+        "link": "https://golf.com/gear/golf-apparel/7-great-summer-golf-polos-cool/",
+        "published": "2026-07-22T13:54:53+00:00",
+        "published_label": "Wed 22 Jul, 13:54",
+        "summary": "If you are looking to upgrade your collection of golf polos, here are seven great options that blend style and performance. The post 7 great summer golf polos to keep you cool and looking sharp appeared first on Golf .",
+        "body": "Has your golf shirt collection become a little stale? Maybe some of your collars are starting to curl, fabrics ripped, or even faded. Luckily, we’ve done the hard work for you to help you refresh your whole wardrobe with seven great new polos from PGA TOUR Superstore. These offer a winning mix of performance, style and value.\n\nWhy choose between stripes and a geometric print? The Final State polo delivers both, finished with a two-button placket and a soft cotton-blend fabric with added stretch. TravisMathew shirts are notorious for their durability and retaining their good looks and structure after several wearings/washings.",
+        "copy": "Has your golf shirt collection become a little stale? Maybe some of your collars are starting to curl, fabrics ripped, or even faded. Luckily, we’ve done the hard work for you to help you refresh your whole wardrobe with seven great new polos from PGA TOUR Superstore. These offer a winning mix of performance, style and value.\n\nWhy choose between stripes and a geometric print? The Final State polo delivers both, finished with a two-button placket and a soft cotton-blend fabric with added stretch. TravisMathew shirts are notorious for their durability and retaining their good looks and structure after several wearings/washings.",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf UK betting tips: Selections and picks for JCB Golf & Country Club",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWakpHUWVtclp0OXRNck84d2R2Mm5OWUFmeHlUX1ppWl80TmxGTXpUekYzR1JLWm5vZE5MOXc4elhfQXc3Q09rYTJmOWxiLWtIdFBwUnc3YmVUQ19IazZGRS1oU3FhNUZ6ZWJvXzhsMmRHSEh0T05RR2Zkcw?oc=5",
+        "published": "2026-07-22T13:45:05+00:00",
+        "published_label": "Wed 22 Jul, 13:45",
+        "summary": "LIV Golf UK betting tips: Selections and picks for JCB Golf & Country Club talkSPORT",
+        "body": "The 10th event of the LIV Golf season takes place at the JCB Golf and Country Club in Rocester, Staffordshire this week. And Spaniard Jon Rahm, who leads the individual standings, has been installed as favourite for the UK tournament.\n\nBryson DeChambeau, who was involved in a tetchy altercation with the R&A officials at last week's Open Championship which culminated in a two-shot penalty, is priced at 13/2, ahead of Joaquin Niemann and Tyrrell Hatton, who are both available at 7/1.",
+        "copy": "The 10th event of the LIV Golf season takes place at the JCB Golf and Country Club in Rocester, Staffordshire this week. And Spaniard Jon Rahm, who leads the individual standings, has been installed as favourite for the UK tournament.\n\nBryson DeChambeau, who was involved in a tetchy altercation with the R&A officials at last week's Open Championship which culminated in a two-shot penalty, is priced at 13/2, ahead of Joaquin Niemann and Tyrrell Hatton, who are both available at 7/1.",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 3M Open Thursday tee times: Round 1 groupings",
+        "link": "https://golf.com/news/2026-3m-open-thursday-tee-times-round-1-groupings/",
+        "published": "2026-07-22T13:44:15+00:00",
+        "published_label": "Wed 22 Jul, 13:44",
+        "summary": "2026 3M Open tee times for Thursday's first round at TPC Twin Cities, featuring Scottie Scheffler, Kurt Kitayama and more. The post 2026 3M Open Thursday tee times: Round 1 groupings appeared first on Golf .",
+        "body": "The 2026 3M Open begins Thursday with the opening round at TPC Twin Cities in Blaine, Minn. You can find full 3M Open tee times for Thursday’s first round at the bottom of this post.\n\nScottie Scheffler’s 2026 PGA Tour season has been a weird one. The World No. 1 won his first tournament of the year. Since then, he’s contended in nearly every tournament he’s played, earning four runner-up finishes among 10 top 5s.",
+        "copy": "The 2026 3M Open begins Thursday with the opening round at TPC Twin Cities in Blaine, Minn. You can find full 3M Open tee times for Thursday’s first round at the bottom of this post.\n\nScottie Scheffler’s 2026 PGA Tour season has been a weird one. The World No. 1 won his first tournament of the year. Since then, he’s contended in nearly every tournament he’s played, earning four runner-up finishes among 10 top 5s.",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -5022,6 +5022,19 @@
         "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. The Asian Tour has announced a landmark agreement with the DP World Tour and PGA Tour, leaving behind its partnership with LIV Golf.\n\nThe Asian Tour’s International Series had initially provided a pathway for golfers to the LIV setup, but the circuit have now gone into partnership with the PGA Tour and DP World Tour.",
         "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. The Asian Tour has announced a landmark agreement with the DP World Tour and PGA Tour, leaving behind its partnership with LIV Golf.\n\nThe Asian Tour’s International Series had initially provided a pathway for golfers to the LIV setup, but the circuit have now gone into partnership with the PGA Tour and DP World Tour.",
         "first_seen": "2026-07-21T15:42:54.496083+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "A global golf shakeup has the Asian Tour partnering with the PGA Tour, DP World Tour—and leaving behind LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVJvWVhxWUNPRE5iTWZmNUh0NkRIZS1hd2UwUG80NmNoR1VEU0pZdUlEWk5Sd01HbUxvSmR2TDZMTXVhbkpmUHhHaXI5RUxYVmRyWUhsNlJYeE9jNERLVWg2UlhhZFJEQjhqUUVwbjlqYkZ1TTNqSUw0WHBRZTRmclJQbzhsMU5wRmt3R3VyQzBKSFo2SERFTXlCZ0NmbW9jQmFHNkhn?oc=5",
+        "published": "2026-07-21T11:30:00+00:00",
+        "published_label": "Tue 21 Jul, 11:30",
+        "summary": "A global golf shakeup has the Asian Tour partnering with the PGA Tour, DP World Tour—and leaving behind LIV Golf Golf Digest",
+        "body": "Asian Tour CEO and Commissioner Cho Minn Thant says a new deal with the PGA Tour and DP World Tour will provide important pathways for his members. The Asian Tour is set to re-align with the DP World Tour and the PGA Tour in a formal partnership underlined by pathways and co-sanctioned tournaments, a move that means it will no longer act as LIV Golf’s important second tier.\n\nThe Asian Tour had partnered with LIV in 2021 before the league’s launch in 2022, when it created a lucrative group of tournaments called the International Series, which LIV golfers frequently teed up in. The series was central to the promotion and relegation element of LIV Golf, including the top two on its Order of Merit being promoted to LIV for the 2026 season.",
+        "copy": "Asian Tour CEO and Commissioner Cho Minn Thant says a new deal with the PGA Tour and DP World Tour will provide important pathways for his members. The Asian Tour is set to re-align with the DP World Tour and the PGA Tour in a formal partnership underlined by pathways and co-sanctioned tournaments, a move that means it will no longer act as LIV Golf’s important second tier.\n\nThe Asian Tour had partnered with LIV in 2021 before the league’s launch in 2022, when it created a lucrative group of tournaments called the International Series, which LIV golfers frequently teed up in. The series was central to the promotion and relegation element of LIV Golf, including the top two on its Order of Merit being promoted to LIV for the 2026 season.",
+        "first_seen": "2026-07-22T15:40:12.565208+00:00"
       },
       {
         "section": "Golf",
@@ -8129,58 +8142,6 @@
         "body": "Whether you like him or not, everyone seems to have an opinion about Bryson DeChambeau - and most of it in the build-up to the Open Championship has been negative. Is it because he plays on LIV Golf? Is it his obsession with YouTube? Could it actually be that his 3D printed irons and single length shafts are all just too technical for pursists to understand?\n\n\"You always fear what you don't understand\" is a great quote from the movies (Batman Begins I think?) and that could well apply here - as critics pile on Bryson's baffling equipment setup as a reason for missing all three cuts in the Majors this year.",
         "copy": "Whether you like him or not, everyone seems to have an opinion about Bryson DeChambeau - and most of it in the build-up to the Open Championship has been negative. Is it because he plays on LIV Golf? Is it his obsession with YouTube? Could it actually be that his 3D printed irons and single length shafts are all just too technical for pursists to understand?\n\n\"You always fear what you don't understand\" is a great quote from the movies (Batman Begins I think?) and that could well apply here - as critics pile on Bryson's baffling equipment setup as a reason for missing all three cuts in the Majors this year.",
         "first_seen": "2026-07-16T08:09:22.009682+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "5 Live Sport: All About...",
-        "link": "https://www.bbc.co.uk/sounds/play/m002zl7k?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-15T15:24:00+00:00",
-        "published_label": "Wed 15 Jul, 15:24",
-        "summary": "Kat Downes presents from Royal Birkdale as the 5 Live golf team preview this year's Open.",
-        "body": "Kat Downes and the 5 Live Golf team are on the course at Royal Birkdale to preview The 154th Open. 57 years have passed since an Englishman won The Open on English soil, who is best placed to change that? 2008 European Ryder Cup team member Oli Wilson, 2009 Women's Open Champion Catriona Matthew and European Tour winners Andrew Murray and Graeme Storm share their thoughts. It's a homecoming tournament for Tommy Fleetwood, how will he handle that pressure? Plus, hear from the newest English major winner, Aaron Rai, the Masters Champion Rory McIlroy and the defending Open champion Scottie Scheffler. TIMECODES: 4'43 Matt Baldwin 6'40 Tommy Fleetwood 13'50 Justin Rose 21'49 Aaron Rai 41'09 Rory McIlroy 47'28 Scottie Scheffler",
-        "copy": "Kat Downes and the 5 Live Golf team are on the course at Royal Birkdale to preview The 154th Open. 57 years have passed since an Englishman won The Open on English soil, who is best placed to change that? 2008 European Ryder Cup team member Oli Wilson, 2009 Women's Open Champion Catriona Matthew and European Tour winners Andrew Murray and Graeme Storm share their thoughts. It's a homecoming tournament for Tommy Fleetwood, how will he handle that pressure? Plus, hear from the newest English major winner, Aaron Rai, the Masters Champion Rory McIlroy and the defending Open champion Scottie Scheffler. TIMECODES: 4'43 Matt Baldwin 6'40 Tommy Fleetwood 13'50 Justin Rose 21'49 Aaron Rai 41'09 Rory McIlroy 47'28 Scottie Scheffler",
-        "first_seen": "2026-07-15T19:08:00.226071+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Zero tolerance': Open reins in unruly fans with new conduct rules",
-        "link": "https://golf.com/news/open-unruly-fans-new-conduct-rules-zero-tolerance/",
-        "published": "2026-07-15T15:14:26+00:00",
-        "published_label": "Wed 15 Jul, 15:14",
-        "summary": "Ahead of the 2026 Open Championship, the R&A announced a set of new conduct rules to prevent unruly fans from impacting the event. The post ‘Zero tolerance’: Open reins in unruly fans with new conduct rules appeared first on Golf .",
-        "body": "Pro golf has experienced a growing problem with unruly fans in recent years. While some of golf’s governing bodies have failed to act, the organizers of the 2026 Open Championship are taking action.\n\nFollowing highly publicized incidents of spectators harassing players at the 2025 Ryder Cup and 2026 U.S. Open, the R&A is instituting a new code of conduct for fans at this week’s Open at Royal Birkdale.",
-        "copy": "Pro golf has experienced a growing problem with unruly fans in recent years. While some of golf’s governing bodies have failed to act, the organizers of the 2026 Open Championship are taking action.\n\nFollowing highly publicized incidents of spectators harassing players at the 2025 Ryder Cup and 2026 U.S. Open, the R&A is instituting a new code of conduct for fans at this week’s Open at Royal Birkdale.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "5 reasons every golfer should consider getting fit for clubs",
-        "link": "https://golf.com/gear/five-reasons-every-golfer-consider-club-fitting/",
-        "published": "2026-07-15T14:39:12+00:00",
-        "published_label": "Wed 15 Jul, 14:39",
-        "summary": "GOLF Top 100 Teacher Kellie Stenzel explains why every golfer should consider getting clubs that are tailor made for their games. The post 5 reasons every golfer should consider getting fit for clubs appeared first on Golf .",
-        "body": "I often hear golfers say they aren’t good enough for a club fitting or that they’re going to wait until they’re playing better before investing in new clubs. I actually think the opposite is true. A proper club fitting may be exactly what you need to take your game to the next level.\n\nAs I recently watched my son, Matthew, get fit for a new set of irons, I was reminded just how important it is for every golfer to play with clubs that truly fit their game. Here are five reasons that every golfer should consider getting fit for clubs.",
-        "copy": "I often hear golfers say they aren’t good enough for a club fitting or that they’re going to wait until they’re playing better before investing in new clubs. I actually think the opposite is true. A proper club fitting may be exactly what you need to take your game to the next level.\n\nAs I recently watched my son, Matthew, get fit for a new set of irons, I was reminded just how important it is for every golfer to play with clubs that truly fit their game. Here are five reasons that every golfer should consider getting fit for clubs.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "How to shoot lower scores without swinging your best",
-        "link": "https://golf.com/instruction/shoot-lower-scores-without-best-swing/",
-        "published": "2026-07-15T14:35:36+00:00",
-        "published_label": "Wed 15 Jul, 14:35",
-        "summary": "GOLF Teacher to Watch Chad Gibbs explains how you can shoot low scores without necessarily having your best swing. The post How to shoot lower scores without swinging your best appeared first on Golf .",
-        "body": "Most golfers believe they should shoot their handicap — or better — every time they tee it up. Part of golf’s magic is the belief that today could be the day you shoot a personal best. Even when someone tells you to temper your expectations, it rarely quiets the desire to play your absolute best.\n\nOne of the most common frustrations golfers express is that they can’t take their range game to the course. They flush shots during practice, only to struggle once the scorecard comes out. But expecting your range game to translate directly to the course, or believing you should beat your handicap every round, is a flawed way of thinking. Looking at your game through a different lens can help you become a more consistent scorer.",
-        "copy": "Most golfers believe they should shoot their handicap — or better — every time they tee it up. Part of golf’s magic is the belief that today could be the day you shoot a personal best. Even when someone tells you to temper your expectations, it rarely quiets the desire to play your absolute best.\n\nOne of the most common frustrations golfers express is that they can’t take their range game to the course. They flush shots during practice, only to struggle once the scorecard comes out. But expecting your range game to translate directly to the course, or believing you should beat your handicap every round, is a flawed way of thinking. Looking at your game through a different lens can help you become a more consistent scorer.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
       }
     ],
     "Badminton": [
@@ -9020,5 +8981,5 @@
       }
     ]
   },
-  "total": 692
+  "total": 689
 }
