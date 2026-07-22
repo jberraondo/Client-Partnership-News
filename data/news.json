@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T09:57:00.362785+00:00",
-  "generated_label": "Wednesday 22 July 2026, 09:57 UTC",
+  "generated_at": "2026-07-22T11:47:45.319576+00:00",
+  "generated_label": "Wednesday 22 July 2026, 11:47 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -14,6 +14,45 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "Shorts: Special Olympics, British Cycling, Manchester United",
+        "link": "https://sportindustry.co.uk/interest-categories/sponsorship/shorts-special-olympics-british-cycling-manchester-united/",
+        "published": "2026-07-22T11:36:58+00:00",
+        "published_label": "Wed 22 Jul, 11:36",
+        "summary": "Special Olympics Great Britain has agreed an expanded partnership with Toyota, naming the automotive brand as an official sponsor of the 2026 National Summer Games. This agreement secures Toyota’s support for SOGB’s first National Summer Games in nine years. Toyota (GB) has acted as the official mobility partner of SOGB since 2023, while the wider […] The post Shorts: Special Olympics, British Cycling, Manchester United appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "Special Olympics Great Britain has agreed an expanded partnership with Toyota, naming the automotive brand as an official sponsor of the 2026 National Summer Games. This agreement secures Toyota’s support for SOGB’s first National Summer Games in nine years. Toyota (GB) has acted as the official mobility partner of SOGB since 2023, while the wider […] The post Shorts: Special Olympics, British Cycling, Manchester United appeared first on Sport Industry Group .",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Leicester City owners explore sale a decade after Premier League title",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTJzSHBVX2l3eGYtWGtEQ2RoZkpkWGFXU1dWaUtzTEtqd041OV9SOFY4cDhzT1ZBdHFTSHVRVU4wRFpYY1JRVWlLam1oYUtNSzE5dWgweWp5S3VvVVdxTVllY0lQSmt6SkZIZjBTbUtkZElwWVA5czBGLS1KVXNfbmhXSTE?oc=5",
+        "published": "2026-07-22T11:20:03+00:00",
+        "published_label": "Wed 22 Jul, 11:20",
+        "summary": "Leicester City owners explore sale a decade after Premier League title Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "AIS to land UEFA men’s club rights in Thailand, Laos, Cambodia",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXJ1WlhlWGNETTUxbnl2VkhCcXF1aFAyS0V3Y0lGMTZEZndXbjhralk5aGdSTU9sRDJqYW5WUXhINzF5Y3Q3R1BuQS1OUGdLY1VCbHdkb1UwRzJzTTZxUTVqWEJ5X05rOVFEX2VPdkttVDA2VkEyUE9xdmhXbTdjQ0ZBUkdGbFJpMjJtRzVlZ1JyR0FF?oc=5",
+        "published": "2026-07-22T10:20:14+00:00",
+        "published_label": "Wed 22 Jul, 10:20",
+        "summary": "AIS to land UEFA men’s club rights in Thailand, Laos, Cambodia Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "HSBC watch",
         "kind": "gnews",
         "title": "Mutant Wins Singapore Tennis Open and HSBC SVNS Singapore",
@@ -21,8 +60,8 @@
         "published": "2026-07-22T08:34:38+00:00",
         "published_label": "Wed 22 Jul, 08:34",
         "summary": "Mutant Wins Singapore Tennis Open and HSBC SVNS Singapore Branding in Asia",
-        "body": "",
-        "copy": "",
+        "body": "Independent communications agency Mutant has been appointed for two sporting events in Singapore: the Singapore Tennis Open (STO) 2026 and HSBC SVNS Singapore 2027, a leg of the World Rugby Sevens Series. The appointments continue Mutant’s partnership with The Kallang.\n\nThe agency previously worked on STO in 2024 and HSBC SVNS Singapore in 2023. The appointments follow Mutant’s expansion into MICE and live events capabilities. “Singapore is punching above its weight as a destination for world-class sporting events, and we’re proud to be part of what makes them land well,” said Lina Marican, Regional Managing Director, Mutant.",
+        "copy": "Independent communications agency Mutant has been appointed for two sporting events in Singapore: the Singapore Tennis Open (STO) 2026 and HSBC SVNS Singapore 2027, a leg of the World Rugby Sevens Series. The appointments continue Mutant’s partnership with The Kallang.\n\nThe agency previously worked on STO in 2024 and HSBC SVNS Singapore in 2023. The appointments follow Mutant’s expansion into MICE and live events capabilities. “Singapore is punching above its weight as a destination for world-class sporting events, and we’re proud to be part of what makes them land well,” said Lina Marican, Regional Managing Director, Mutant.",
         "first_seen": "2026-07-22T09:57:00.362785+00:00"
       },
       {
@@ -362,6 +401,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-21T08:24:12.843988+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "HSBC Innovation Banking UK and Oxbridge AI X Partner to Support the Next Generation of AI Founders",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEdtNXJIN21OTWpzME9Qa0Q4QW8wQTlyZjhUMXoySzZHZk1wdnQteS1nRmtOZm1yU0s2UXREUkdUSEgyVzJTYl9KeFhUbS1abTFaTi1aMnd5SU5tMmtuOFozemZ4Q3pmeDJSS29YRUVqQ0V0Qk5DOFdYOFg4M1NSUnNtM1kwcU1iSnZiMXIwcDBfc0tDMWNYMmt5dFFVUFB2ZENkU3RWM29oTHM2TlBvR21yb00wNGpnd0E?oc=5",
+        "published": "2026-07-20T15:35:38+00:00",
+        "published_label": "Mon 20 Jul, 15:35",
+        "summary": "HSBC Innovation Banking UK and Oxbridge AI X Partner to Support the Next Generation of AI Founders Financial IT",
+        "body": "HSBC Innovation Banking UK and Oxbridge AI X have entered into a partnership to support AI founders emerging from Oxford, Cambridge and Imperial College London, three of the world's leading universities and a powerful source of UK technology and AI innovation.\n\nThe partnership will connect founders, startups and alumni within Oxbridge AI X's community with HSBC Innovation Banking's specialists, helping entrepreneurs access the knowledge, networks and banking support they need as they build and scale AI companies.",
+        "copy": "HSBC Innovation Banking UK and Oxbridge AI X have entered into a partnership to support AI founders emerging from Oxford, Cambridge and Imperial College London, three of the world's leading universities and a powerful source of UK technology and AI innovation.\n\nThe partnership will connect founders, startups and alumni within Oxbridge AI X's community with HSBC Innovation Banking's specialists, helping entrepreneurs access the knowledge, networks and banking support they need as they build and scale AI companies.",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1311,126 +1363,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-17T08:05:41.400454+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Amelia Dimoldenberg returns for Formula 1 series",
-        "link": "https://sportindustry.co.uk/news-categories/news/formula-1-renews-passenger-princess-youtube-series/",
-        "published": "2026-07-15T11:39:40+00:00",
-        "published_label": "Wed 15 Jul, 11:39",
-        "summary": "Formula 1 has renewed its Passenger Princess YouTube series with Amelia Dimoldenberg for a second season featuring current drivers. The six-part series, produced by Dimz Inc. in collaboration with Formula 1, will premiere in July 2026 and be released weekly through Amelia Dimoldenberg’s YouTube channel. The new season will feature interviews with Charles Leclerc, Franco […] The post Amelia Dimoldenberg returns for Formula 1 series appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Formula 1 has renewed its Passenger Princess YouTube series with Amelia Dimoldenberg for a second season featuring current drivers. The six-part series, produced by Dimz Inc. in collaboration with Formula 1, will premiere in July 2026 and be released weekly through Amelia Dimoldenberg’s YouTube channel. The new season will feature interviews with Charles Leclerc, Franco […] The post Amelia Dimoldenberg returns for Formula 1 series appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-15T13:31:36.956049+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Shorts: Premier Padel, DAZN, Team GB",
-        "link": "https://sportindustry.co.uk/news-categories/news/premier-padel-signs-global-licensing-deal-with-fanatics/",
-        "published": "2026-07-15T11:38:25+00:00",
-        "published_label": "Wed 15 Jul, 11:38",
-        "summary": "Premier Padel has signed a long-term global licensing deal with digital sports platform Fanatics. Under the terms of the multi-year agreement, Fanatics will act as master licensee covering e-commerce, in-venue retail, wholesale, product and memorabilia. The collaboration will also see Fanatics run in-venue retail at tour events, starting with the Premier Padel Finals in Barcelona […] The post Shorts: Premier Padel, DAZN, Team GB appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Premier Padel has signed a long-term global licensing deal with digital sports platform Fanatics. Under the terms of the multi-year agreement, Fanatics will act as master licensee covering e-commerce, in-venue retail, wholesale, product and memorabilia. The collaboration will also see Fanatics run in-venue retail at tour events, starting with the Premier Padel Finals in Barcelona […] The post Shorts: Premier Padel, DAZN, Team GB appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-15T13:31:36.956049+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Brentford retain two-year kit cycle with Joma",
-        "link": "https://sportindustry.co.uk/sports-categories/football/brentford-retain-two-year-kit-cycle-with-joma/",
-        "published": "2026-07-15T11:24:27+00:00",
-        "published_label": "Wed 15 Jul, 11:24",
-        "summary": "Brentford FC have launched a home kit that will remain in use for two seasons as the club continues its policy of reducing the frequency of shirt changes. The Premier League club’s new home strip, produced with official technical partner Joma, will be worn during the 2026/27 and 2027/28 campaigns. Brentford introduced a two-year kit […] The post Brentford retain two-year kit cycle with Joma appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Brentford FC have launched a home kit that will remain in use for two seasons as the club continues its policy of reducing the frequency of shirt changes. The Premier League club’s new home strip, produced with official technical partner Joma, will be worn during the 2026/27 and 2027/28 campaigns. Brentford introduced a two-year kit […] The post Brentford retain two-year kit cycle with Joma appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "Aston Villa sign ‘UK£20m-a-year’ Visit Rwanda shirt sponsorship despite sportswashing concerns",
-        "link": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
-        "published": "2026-07-15T11:21:26+00:00",
-        "published_label": "Wed 15 Jul, 11:21",
-        "summary": "Villa sign controversial deal as betting sponsor ban and new financial rules come into force. The post Aston Villa sign ‘UK£20m-a-year’ Visit Rwanda shirt sponsorship despite sportswashing concerns appeared first on SportsPro .",
-        "body": "Aston Villa have signed up Visit Rwanda as their new main sponsor, with the partnership considered the most lucrative deal in the club’s history. Visit Rwanda’s branding will appear on the front of all men’s, women’s, and academy teams’ shirts as part of the deal. The east African country’s tourism board will replace Betano, which had been Villa’s principal partner since 2024 as part of a reported UK£40 million (US$53.5 million) deal.\n\nAccording to The Athletic, the new deal is worth up to UK£20 million (US$26.7 million) each year if bonuses are met. “This is a very exciting partnership for Aston Villa Football Club and a symbol of the club’s continuing expansion and growth into international markets,” said Francesco Calvo, Aston Villa president of business operations.",
-        "copy": "Aston Villa have signed up Visit Rwanda as their new main sponsor, with the partnership considered the most lucrative deal in the club’s history. Visit Rwanda’s branding will appear on the front of all men’s, women’s, and academy teams’ shirts as part of the deal. The east African country’s tourism board will replace Betano, which had been Villa’s principal partner since 2024 as part of a reported UK£40 million (US$53.5 million) deal.\n\nAccording to The Athletic, the new deal is worth up to UK£20 million (US$26.7 million) each year if bonuses are met. “This is a very exciting partnership for Aston Villa Football Club and a symbol of the club’s continuing expansion and growth into international markets,” said Francesco Calvo, Aston Villa president of business operations.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Aston Villa secures Visit Rwanda Front-of-Shirt deal",
-        "link": "https://sportindustry.co.uk/sports-categories/football/aston-villa-have-partnered-with-visit-rwanda/",
-        "published": "2026-07-15T11:15:50+00:00",
-        "published_label": "Wed 15 Jul, 11:15",
-        "summary": "Aston Villa have partnered with Visit Rwanda in a record-breaking principal partnership agreement. The deal, which is the most significant sponsorship agreement in the club’s history, will see the Rwanda Development Board’s branding feature on the front of all men’s, women’s, and academy shirts starting from the 2026/27 season. Alongside shirt branding, Visit Rwanda will […] The post Aston Villa secures Visit Rwanda Front-of-Shirt deal appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Aston Villa have partnered with Visit Rwanda in a record-breaking principal partnership agreement. The deal, which is the most significant sponsorship agreement in the club’s history, will see the Rwanda Development Board’s branding feature on the front of all men’s, women’s, and academy shirts starting from the 2026/27 season. Alongside shirt branding, Visit Rwanda will […] The post Aston Villa secures Visit Rwanda Front-of-Shirt deal appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Podcast: FIFA’s World Cup 2026 media rights bonanza",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXU5MU01OU5kd1Q1ME1pSEpHM1d6Q25DdklZQlpOa3B6dXhRT0d4dFFYeU1OS3N5Qy1zNnV5TmZ0RVFJaEpmSEVpRDF4ZmZHZEtKMWxJRC1oQlNlTG85RmVWa3hZaVpnUm05alVRekJNRjdsYzF1Nm5YcTN0OVJUQVZJcjJ6Mjg?oc=5",
-        "published": "2026-07-15T11:06:31+00:00",
-        "published_label": "Wed 15 Jul, 11:06",
-        "summary": "Podcast: FIFA’s World Cup 2026 media rights bonanza Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "FIFA House opens in New York",
-        "link": "https://sportindustry.co.uk/news-categories/news/fifa-house-opens-in-new-york/",
-        "published": "2026-07-15T11:05:47+00:00",
-        "published_label": "Wed 15 Jul, 11:05",
-        "summary": "London-based iLUKA Collective has delivered FIFA’s hospitality hub for the World Cup finals week in New York, placing a UK sports business at the centre of the tournament’s commercial programme. FIFA House will open in Manhattan ahead of the FIFA World Cup final, serving as a venue for sponsors, broadcasters and executives attending the closing […] The post FIFA House opens in New York appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "London-based iLUKA Collective has delivered FIFA’s hospitality hub for the World Cup finals week in New York, placing a UK sports business at the centre of the tournament’s commercial programme. FIFA House will open in Manhattan ahead of the FIFA World Cup final, serving as a venue for sponsors, broadcasters and executives attending the closing […] The post FIFA House opens in New York appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Top US lawmaker demands briefing from Lisa Nandy on ‘news prominence’ plan",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkdNbUNlVW5Qc1lvWUFFSk5CUzZMVlAtTUt6NTBKQkYtSnkxMzMxT3V4S0ViYVlYX0h1bS1MUmFIRDN0eVE4Y1RldEcxNThYNWVBUFNaU1VVbW5HUG5aWURKVXRrOWxvLU0xbS1jb3IxbzlpUXpOSnlnYjRnWGRCTWwwUDY?oc=5",
-        "published": "2026-07-15T10:59:04+00:00",
-        "published_label": "Wed 15 Jul, 10:59",
-        "summary": "Top US lawmaker demands briefing from Lisa Nandy on ‘news prominence’ plan Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-16T08:09:22.009682+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Premier Padel teams up with Fanatics in global licensing deal",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeV85R3c0c1U5aXNwc1gxR3FfY3BSbmtqRF9FSHk2NWpnQTlWdE05Z05QSFJaakp0ZHhWbmZIczRCRnZZYjhzdEFJQW4yUTBSSFdEYkdxS293Z05sSVNJWDRsQmtqYzU0THRQNWRBdWhMWHVwdHV5X0QzLWFMakRoWDJBTmlob1hkbVpZMm9UdWo5VXBNOVFR?oc=5",
-        "published": "2026-07-15T10:51:31+00:00",
-        "published_label": "Wed 15 Jul, 10:51",
-        "summary": "Premier Padel teams up with Fanatics in global licensing deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Boks release 5 from squad ahead of Argentina and Greatest Rivalry Tests",
+        "link": "https://www.rugbypass.com/news/boks-cut-5-from-squad-ahead-of-argentina-and-greatest-rivalry-tests/",
+        "published": "2026-07-22T10:53:48+00:00",
+        "published_label": "Wed 22 Jul, 10:53",
+        "summary": "Rassie Erasmus has named a streamlined squad of 43 players ahead of the upcoming Tests against Argentina and New Zealand.",
+        "body": "Springboks boss Rassie Erasmus has named a streamlined squad of 43 players ahead of the upcoming Tests against Argentina and New Zealand, the latter forming ‘Rugby’s Greatest Rivalry’ (RGR) series.\n\nThe group, which has been cut by five, will assemble in Johannesburg on Sunday to start preparing for the Test aaginst Los Pumas in Buenos Aires on August 8. The Springboks will then face the All Blacks in four Tests – at Ellis Park in Johannesburg (22 August), the DHL Stadium in Cape Town (29 August), FNB Stadium in Johannesburg (5 September), and the M&T Bank Stadium in Baltimore, USA (12 September).",
+        "copy": "Springboks boss Rassie Erasmus has named a streamlined squad of 43 players ahead of the upcoming Tests against Argentina and New Zealand, the latter forming ‘Rugby’s Greatest Rivalry’ (RGR) series.\n\nThe group, which has been cut by five, will assemble in Johannesburg on Sunday to start preparing for the Test aaginst Los Pumas in Buenos Aires on August 8. The Springboks will then face the All Blacks in four Tests – at Ellis Park in Johannesburg (22 August), the DHL Stadium in Cape Town (29 August), FNB Stadium in Johannesburg (5 September), and the M&T Bank Stadium in Baltimore, USA (12 September).",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Pamela Santos: 'I kept working and believing that I would get there'",
+        "link": "https://www.rugbypass.com/news/pamela-santos-i-kept-working-and-believing-that-i-would-get-there/",
+        "published": "2026-07-22T10:04:07+00:00",
+        "published_label": "Wed 22 Jul, 10:04",
+        "summary": "How many times would you be willing to go to a national team camp, not get selected to play, go back home and wait for another chance?",
+        "body": "How many times would you be willing to go to a national team camp, not get selected to play, go back home and wait for another chance? Most would say a handful of times; a few potentially would say for a couple of years, but no one would be available to go for it for over half a decade.\n\nWell, almost not everyone, with Brazilian prop Pâmela dos Santos Soares being the exception. After enduring six years of unsuccessful attempts, she finally made the cut and became a full-fledged Yara.",
+        "copy": "How many times would you be willing to go to a national team camp, not get selected to play, go back home and wait for another chance? Most would say a handful of times; a few potentially would say for a couple of years, but no one would be available to go for it for over half a decade.\n\nWell, almost not everyone, with Brazilian prop Pâmela dos Santos Soares being the exception. After enduring six years of unsuccessful attempts, she finally made the cut and became a full-fledged Yara.",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4173,71 +4134,6 @@
         "body": "“Physicality lover, hard-worker and total rugby enthusiast! That’s who Inger Jongerius is!” If you are here to find out what type of player Inger Jongerius is, the Dutch utility forward can quickly sum it up. However, if you are looking to discover more about one of the biggest threats to the women’s Oranje side, then stick around as the FC Grenoble Amazones operator shares her story and thoughts in the following paragraphs.\n\nSo, let’s backtrack to 2008, the year that Jongerius first ventured into the world of rugby. After moving from Muiden to Purmerend at the age of 13, she was invited to try the sport by a friend.",
         "copy": "“Physicality lover, hard-worker and total rugby enthusiast! That’s who Inger Jongerius is!” If you are here to find out what type of player Inger Jongerius is, the Dutch utility forward can quickly sum it up. However, if you are looking to discover more about one of the biggest threats to the women’s Oranje side, then stick around as the FC Grenoble Amazones operator shares her story and thoughts in the following paragraphs.\n\nSo, let’s backtrack to 2008, the year that Jongerius first ventured into the world of rugby. After moving from Muiden to Purmerend at the age of 13, she was invited to try the sport by a friend.",
         "first_seen": "2026-07-15T13:31:36.956049+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "England bunker down in Buenos Aires wary of backlash",
-        "link": "https://www.rugbypass.com/news/england-bunker-down-in-buenos-aires-wary-of-backlash/",
-        "published": "2026-07-15T11:12:02+00:00",
-        "published_label": "Wed 15 Jul, 11:12",
-        "summary": "England's rugby squad is not wearing any team-branded kit in public as FIFA World Cup fever grips the Argentinian capital.",
-        "body": "Tommy Freeman fears a Pumas backlash on Saturday if England win their football World Cup semi-final against Argentina. Steve Borthwick’s squad are based in Buenos Aires until Thursday when they head to Santiago del Estero in the north of the country for the final assignment of their 25,000-mile July tour.\n\nAs a precautionary step, they are not wearing any team-branded kit in public as interest in the clash between Thomas Tuchel’s side and the current World Cup holders grips the Argentinian capital.",
-        "copy": "Tommy Freeman fears a Pumas backlash on Saturday if England win their football World Cup semi-final against Argentina. Steve Borthwick’s squad are based in Buenos Aires until Thursday when they head to Santiago del Estero in the north of the country for the final assignment of their 25,000-mile July tour.\n\nAs a precautionary step, they are not wearing any team-branded kit in public as interest in the clash between Thomas Tuchel’s side and the current World Cup holders grips the Argentinian capital.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Daughter of ex-Springbok back included in Junior Springbok Women squad",
-        "link": "https://www.rugbypass.com/news/daughter-of-ex-springbok-back-included-in-junior-springbok-women-squad/",
-        "published": "2026-07-15T11:09:16+00:00",
-        "published_label": "Wed 15 Jul, 11:09",
-        "summary": "The daughter of 38-cap Springbok Men international Andre Snyman has been included in a Junior Springbok Women squad ahead of a series against the USA Women U20.",
-        "body": "The daughter of 38-cap Springbok Men international Andre Snyman has been included in a Junior Springbok Women squad ahead of a series against the USA Women U20. Keira Snyman, 18, has been included as an additional player in the 30-player squad and can play on the wing or at centre. She has also spent time in England Rugby and USA Rugby age grade camps. The teenager was born in Durban but raised in the USA and England.\n\nAfter a number of standout performances for invitational sevens teams last summer, Snyman caught the eye of England selectors. Already she had been named in USA U18 sevens camps but has spent the majority of this season in England.",
-        "copy": "The daughter of 38-cap Springbok Men international Andre Snyman has been included in a Junior Springbok Women squad ahead of a series against the USA Women U20. Keira Snyman, 18, has been included as an additional player in the 30-player squad and can play on the wing or at centre. She has also spent time in England Rugby and USA Rugby age grade camps. The teenager was born in Durban but raised in the USA and England.\n\nAfter a number of standout performances for invitational sevens teams last summer, Snyman caught the eye of England selectors. Already she had been named in USA U18 sevens camps but has spent the majority of this season in England.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Impressive win over Springboks helps USA climb World Rugby rankings",
-        "link": "https://www.rugbypass.com/news/impressive-win-over-springboks-helps-usa-climb-world-rugby-rankings/",
-        "published": "2026-07-15T11:02:54+00:00",
-        "published_label": "Wed 15 Jul, 11:02",
-        "summary": "The USA Women's Eagles have climbed back to eighth in the World Rugby rankings thanks to their 26-19 win against the Springbok Women last weekend.",
-        "body": "The USA Women’s Eagles have climbed back to eighth in the World Rugby rankings thanks to their 26-19 win against the Springbok Women last weekend. A 34-21 defeat against South Africa one week earlier in Johannesburg had seen Jack Hanratty’s team fall to ninth behind their Pacific Four Series rivals the Wallaroos.\n\nAn instant return to winning ways in Pretoria means that the World Rugby rankings read the same as they did a fortnight ago. Hanratty made seven changes to his starting XV for the Pretoria Test and quickly reaped the rewards as braces for Hope Rogers and Telesi Uhatafe provided the North Americans with a suitable buffer between themselves and their hosts.",
-        "copy": "The USA Women’s Eagles have climbed back to eighth in the World Rugby rankings thanks to their 26-19 win against the Springbok Women last weekend. A 34-21 defeat against South Africa one week earlier in Johannesburg had seen Jack Hanratty’s team fall to ninth behind their Pacific Four Series rivals the Wallaroos.\n\nAn instant return to winning ways in Pretoria means that the World Rugby rankings read the same as they did a fortnight ago. Hanratty made seven changes to his starting XV for the Pretoria Test and quickly reaped the rewards as braces for Hope Rogers and Telesi Uhatafe provided the North Americans with a suitable buffer between themselves and their hosts.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Stage set for Faf de Klerk return against the Lions",
-        "link": "https://www.rugbypass.com/news/stage-set-for-faf-de-klerk-return-against-the-lions-springboks-south-africa-currie-cup-cheetahs/",
-        "published": "2026-07-15T10:40:15+00:00",
-        "published_label": "Wed 15 Jul, 10:40",
-        "summary": "South Africa scrum-half Faf de Klerk is set to make his Cheetahs debut this Sunday in round one of the Currie Cup against the Lions.",
-        "body": "South Africa scrum-half Faf de Klerk is set to make his Cheetahs debut this Sunday in round one of the Currie Cup against the Lions. The 34-year-old’s return to South Africa was confirmed in April following four years with the Yokohama Canon Eagles in Japan Rugby League One. Prior to that, the double World Cup winner spent four years with Sale Sharks in England, meaning his Cheetahs debut will be his first club game in South Africa in almost a decade.\n\nThe 60-cap Springbok was omitted from Rassie Erasmus’ South Africa squad for the Nations Championship last month, with the world number ones facing Wales on Saturday in round three following victories over England and Scotland.",
-        "copy": "South Africa scrum-half Faf de Klerk is set to make his Cheetahs debut this Sunday in round one of the Currie Cup against the Lions. The 34-year-old’s return to South Africa was confirmed in April following four years with the Yokohama Canon Eagles in Japan Rugby League One. Prior to that, the double World Cup winner spent four years with Sale Sharks in England, meaning his Cheetahs debut will be his first club game in South Africa in almost a decade.\n\nThe 60-cap Springbok was omitted from Rassie Erasmus’ South Africa squad for the Nations Championship last month, with the world number ones facing Wales on Saturday in round three following victories over England and Scotland.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Two-time Olympian Brown among 10 Loughborough Lightning re-signings",
-        "link": "https://www.rugbypass.com/news/two-time-olympian-brown-among-10-loughborough-lightning-re-signings/",
-        "published": "2026-07-15T10:07:27+00:00",
-        "published_label": "Wed 15 Jul, 10:07",
-        "summary": "GB Sevens captain Abbie Brown is among 10 Loughborough Lightning re-signings ahead of the 2026/27 edition of JAECOO Premiership Women's Rugby.",
-        "body": "GB Sevens captain Abbie Brown is among 10 Loughborough Lightning re-signings ahead of the 2026/27 edition of JAECOO Premiership Women’s Rugby. Brown, 30, is the second longest serving member of Nathan Smith’s squad at cinch Stadium at Franklin’s Gardens, although she has only made 15 appearances in African Violet since her October 2020 arrival.\n\nShe was selected for the 2016 and 2020 Olympic Games, but missed out on 2024 selection with a hamstring injury. Last season Brown had initially intended to step away from elite rugby sevens but ultimately made her Great Britain return at the HSBC SVNS Series and at all three HSBC SVNS World Championship events.",
-        "copy": "GB Sevens captain Abbie Brown is among 10 Loughborough Lightning re-signings ahead of the 2026/27 edition of JAECOO Premiership Women’s Rugby. Brown, 30, is the second longest serving member of Nathan Smith’s squad at cinch Stadium at Franklin’s Gardens, although she has only made 15 appearances in African Violet since her October 2020 arrival.\n\nShe was selected for the 2016 and 2020 Olympic Games, but missed out on 2024 selection with a hamstring injury. Last season Brown had initially intended to step away from elite rugby sevens but ultimately made her Great Britain return at the HSBC SVNS Series and at all three HSBC SVNS World Championship events.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
       }
     ],
     "Tennis": [
@@ -4737,6 +4633,32 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Stage set for LIV Golf’s UK event at JCB",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjNGTWNfMnhtYW9majdUTTlMMmsxVVcyUk55aHNSdEVDcUpQNHBkbFUzb2ZDazY0aU51NWdOdWtxYldTRHVRNm9jdVFMRzh3V21uX3NCRjZXUGF5Zzg0RnJQVzhxNldZdVMzT3FqZWJ0RlhQajJkeU5KNjMyLVZyQ2lISmFIUDRvQjJoLTZtLUhtLWU2cjZKUkZBcWNJUQ?oc=5",
+        "published": "2026-07-22T11:03:48+00:00",
+        "published_label": "Wed 22 Jul, 11:03",
+        "summary": "Stage set for LIV Golf’s UK event at JCB Golf Business News",
+        "body": "LIV Golf action returns to the UK this week when the 11th tournament of the league’s 14-tournament schedule tees off at JCB Golf & Country Club in Staffordshire from July 23-26.\n\nThe league is making its fifth visit to England, having played its inaugural tournament at Centurion Club in 2022 and then again in 2023, before moving to JCB in 2023. Fresh from competing at The Open Championship, English fans can look forward to seeing a host of major stars among the 57-player field, including Bryson DeChambeau, Jon Rahm and Tyrrell Hatton, while former Ryder Cup legends Lee Westwood, Ian Poulter and Paul Casey will also be in action on home soil.",
+        "copy": "LIV Golf action returns to the UK this week when the 11th tournament of the league’s 14-tournament schedule tees off at JCB Golf & Country Club in Staffordshire from July 23-26.\n\nThe league is making its fifth visit to England, having played its inaugural tournament at Centurion Club in 2022 and then again in 2023, before moving to JCB in 2023. Fresh from competing at The Open Championship, English fans can look forward to seeing a host of major stars among the 57-player field, including Bryson DeChambeau, Jon Rahm and Tyrrell Hatton, while former Ryder Cup legends Lee Westwood, Ian Poulter and Paul Casey will also be in action on home soil.",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Rory McIlroy reacts as Asian Tour ditches LIV Golf for PGA Tour partnership",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUEF4R0tBVng4bVhZZ1V4RkZnQzA3V3lSWjRybHFIZHBwVkVaTEs0eEQ4ZjduTDByYUFSQWpuY0pmSzhfVWdyVG5Fa0Ezc0tzYkV1Sy1fTHg2aEk5YUlKZk5iTDZxVFM4V3RXWlVTVEt0VkhZcTEzU0c2bmJabWNGR3VUQ0Rkb05QN09TZEc1YjRGSTRNLUdZ0gGcAUFVX3lxTE9nZDZlRnpmTU41WjdKZDBOWUlQN3Y0SURxN0U5ZFlvVTVORV94THN4MkRtSnAtY0dDWDk2VUlBaG03SFAzTlFURk05QW9BQnE4V0dHVWVxdXpRVFM1YkFRbm1LblJoLTV0dUlneExRUjdqSU5kbEFYZzFuMy10b1VqdDlNM2l3UTkwcFpnSHY4MnU2UW9qZmZyNVpEdg?oc=5",
+        "published": "2026-07-22T09:43:00+00:00",
+        "published_label": "Wed 22 Jul, 09:43",
+        "summary": "Rory McIlroy reacts as Asian Tour ditches LIV Golf for PGA Tour partnership Belfast Live",
+        "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -8272,139 +8194,22 @@
         "body": "Talk about stating the bleedin’ obvious! I am not a huge fan of Nick Faldo but he got it spot on when he suggested that Bryson DeChambeau has no clue when it comes to course strategy.\n\nThat may seem like a pretty strange thing to say about a two-time major champion but it reflects something I have been saying about the American for years. When will the penny drop? When will he finally realise that there is more to golf at this level than trying to bully courses into submission?",
         "copy": "Talk about stating the bleedin’ obvious! I am not a huge fan of Nick Faldo but he got it spot on when he suggested that Bryson DeChambeau has no clue when it comes to course strategy.\n\nThat may seem like a pretty strange thing to say about a two-time major champion but it reflects something I have been saying about the American for years. When will the penny drop? When will he finally realise that there is more to golf at this level than trying to bully courses into submission?",
         "first_seen": "2026-07-15T13:31:36.956049+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "R&A 'pretty close' to taking Open outside of UK for first time",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/ckg7gj67x73o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-15T11:47:36+00:00",
-        "published_label": "Wed 15 Jul, 11:47",
-        "summary": "Chief executive Mark Darbon says the R&A is \"getting pretty close\" to bringing the Open Championship to Portmarnock Golf Club in Dublin.",
-        "body": "Chief executive Mark Darbon says the R&A is \"getting pretty close\" to staging an Open Championship outside of the United Kingdom for the first time, at Portmarnock Golf Club in Dublin.\n\nThe R&A - the governing body which organises and runs the Open - first revealed the possibility of Portmarnock hosting golf's oldest championship in 2023, with the Irish government announcing its support of up to 40 million euro (£34m) in 2024.",
-        "copy": "Chief executive Mark Darbon says the R&A is \"getting pretty close\" to staging an Open Championship outside of the United Kingdom for the first time, at Portmarnock Golf Club in Dublin.\n\nThe R&A - the governing body which organises and runs the Open - first revealed the possibility of Portmarnock hosting golf's oldest championship in 2023, with the Irish government announcing its support of up to 40 million euro (£34m) in 2024.",
-        "first_seen": "2026-07-15T13:31:36.956049+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Decision on changing Open final round timings to follow England World Cup semi-final",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c8d2d31yn04o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-15T11:35:50+00:00",
-        "published_label": "Wed 15 Jul, 11:35",
-        "summary": "Any change to The Open's final round timings, to avoid a clash with the World Cup final should England get there, will be made in \"the next 48 hours\" and be \"subtle\" says R&A chief Mark Darbon.",
-        "body": "A decision on whether to move the final round of The Open to avoid a clash with the World Cup final will be made after England's semi-final against Argentina on Wednesday. If England beat Argentina - which kicks off at 20:00 BST and will be shown live across the BBC - they will reach Sunday's World Cup final for the first time since winning it in 1966.\n\nSunday's play at Royal Birkdale is scheduled to finish around 90 minutes before football's showpiece match kicks off in New Jersey at 20:00, with Spain already in the final. Should the golf go to a play-off, the two events are at risk of overlapping, creating a quandary for fans and broadcasters.",
-        "copy": "A decision on whether to move the final round of The Open to avoid a clash with the World Cup final will be made after England's semi-final against Argentina on Wednesday. If England beat Argentina - which kicks off at 20:00 BST and will be shown live across the BBC - they will reach Sunday's World Cup final for the first time since winning it in 1966.\n\nSunday's play at Royal Birkdale is scheduled to finish around 90 minutes before football's showpiece match kicks off in New Jersey at 20:00, with Spain already in the final. Should the golf go to a play-off, the two events are at risk of overlapping, creating a quandary for fans and broadcasters.",
-        "first_seen": "2026-07-15T13:31:36.956049+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Which Open golfer are you?",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cgrkv4l0ylko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-15T11:06:30+00:00",
-        "published_label": "Wed 15 Jul, 11:06",
-        "summary": "With the Open Championship poised to begin at Royal Birkdale, take our personality quiz to discover which male golfer you are most like.",
-        "body": "",
-        "copy": "With the Open Championship poised to begin at Royal Birkdale, take our personality quiz to discover which male golfer you are most like.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Why Royal Birkdale could mark the beginning of the end for LIV Golf amid $433m cash crisis",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObTV6cXlTMFZqU3VLaDNCMWFoT0pGSnlfM1FCZmE0Mi1RWFNYaUMtMkl4cnpEVENvN2E1S1dnSkZCdlNNUkt0enZ3QlkyYzhMVGVIU2paeUQ2dGYzekVsald6aUdGamp5TWUzZEdsa1pwc29SUTJVMzA2YXhhOEEtMk84VnF1MWJqV2RMeFZ6XzF1d1NxRVp6TzVtM2kwOHBGMmFETEQ2VUJoT1QtSVlaVVJfNWtHVzBFZGZVMFhnWVpyMTRKODY3R0dCSUNaMTZnVFM3ZnVR?oc=5",
-        "published": "2026-07-15T11:04:30+00:00",
-        "published_label": "Wed 15 Jul, 11:04",
-        "summary": "Why Royal Birkdale could mark the beginning of the end for LIV Golf amid $433m cash crisis dailyclubgolf.com",
-        "body": "The Open Championship tees off at Royal Birkdale this week with the world's best players in the field, but it could also be the last major where LIV Golf still exists as a functioning league.\n\nLIV Golf CEO Scott O'Neil is racing to raise between US$250 million and US$300 million, equivalent to $361 million to $433 million Australian, by September 1, according to Fox Sports on July 15. Saudi Arabia's Public Investment Fund announced in April it will not fund LIV beyond this season. Bloomberg reported in May that LIV has begun laying the groundwork to potentially file for bankruptcy in the United States at season's end.",
-        "copy": "The Open Championship tees off at Royal Birkdale this week with the world's best players in the field, but it could also be the last major where LIV Golf still exists as a functioning league.\n\nLIV Golf CEO Scott O'Neil is racing to raise between US$250 million and US$300 million, equivalent to $361 million to $433 million Australian, by September 1, according to Fox Sports on July 15. Saudi Arabia's Public Investment Fund announced in April it will not fund LIV beyond this season. Bloomberg reported in May that LIV has begun laying the groundwork to potentially file for bankruptcy in the United States at season's end.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Confident MacIntyre eyes Open Championship glory",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cp8r8jp0jyyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-15T11:00:21+00:00",
-        "published_label": "Wed 15 Jul, 11:00",
-        "summary": "Scotland's number one Robert MacIntyre believes he is a much improved golfer from the one who teed up at his first Open Championship at Royal Portrush in 2019.",
-        "body": "Scotland's number one Robert MacIntyre believes he is a much improved golfer from the one who teed up at his first Open Championship at Royal Portrush in 2019. That was MacIntyre's debut appearance at a major and he finished sixth behind home favourite Shane Lowry.\n\nSince then, the 29-year-old has become a top 20 player in the world rankings and heads into this week's tournament after finishing third at the Scottish Open. \"In 2019, I felt like I was just being part of the tournament,\" MacIntyre said. \"I was making up the numbers. I was just seeing how well I could do in this event.",
-        "copy": "Scotland's number one Robert MacIntyre believes he is a much improved golfer from the one who teed up at his first Open Championship at Royal Portrush in 2019. That was MacIntyre's debut appearance at a major and he finished sixth behind home favourite Shane Lowry.\n\nSince then, the 29-year-old has become a top 20 player in the world rankings and heads into this week's tournament after finishing third at the Scottish Open. \"In 2019, I felt like I was just being part of the tournament,\" MacIntyre said. \"I was making up the numbers. I was just seeing how well I could do in this event.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Need a golf getaway? Consider these Open Championship venues",
-        "link": "https://golf.com/travel/need-golf-getaway-consider-these-open-venues/",
-        "published": "2026-07-15T10:44:01+00:00",
-        "published_label": "Wed 15 Jul, 10:44",
-        "summary": "Few can have a scorecard playoff with Rory at Augusta, but anyone boarding a plane to the UK can tee off at 14 of the Open's storied venues. The post Need a golf getaway? Consider these Open Championship venues appeared first on Golf .",
-        "body": "Baked fairways, stiff breezes, iconic clubhouses and the smell of the sea. Along with unmistakable yellow scoreboards and massive crowds, all are memories of Open Championships past — links golf’s greatest test, staged at world-class venues.\n\nFew can have a scorecard playoff with Rory at Augusta, but anyone boarding a plane to the UK can tee off at some of the game’s most storied venues. Fourteen Open tracks are there for the taking. That would be an ambitious itinerary, but for a group that can spare a week, the northwest coast of England will more than deliver.",
-        "copy": "Baked fairways, stiff breezes, iconic clubhouses and the smell of the sea. Along with unmistakable yellow scoreboards and massive crowds, all are memories of Open Championships past — links golf’s greatest test, staged at world-class venues.\n\nFew can have a scorecard playoff with Rory at Augusta, but anyone boarding a plane to the UK can tee off at some of the game’s most storied venues. Fourteen Open tracks are there for the taking. That would be an ambitious itinerary, but for a group that can spare a week, the northwest coast of England will more than deliver.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Open Championship Thursday tee times: Round 1 groupings",
-        "link": "https://golf.com/news/2026-open-championship-thursday-tee-times-round-1/",
-        "published": "2026-07-15T10:36:07+00:00",
-        "published_label": "Wed 15 Jul, 10:36",
-        "summary": "2026 Open Championship tee times for Thursday's first round at Royal Birkdale, featuring Tommy Fleetwood, Rory McIlroy and more. The post 2026 Open Championship Thursday tee times: Round 1 groupings appeared first on Golf .",
-        "body": "The 2026 Open Championship begins Thursday, July 16, with the opening round at Royal Birkdale in Southport, England. You can find full Open Championship tee times for Thursday’s first round at the bottom of this post.\n\nIf there’s one tournament Tommy Fleetwood would like to win in his career, it’s probably the 2026 Open Championship. Why? Because the PGA Tour star grew up nearby, sometimes sneaking onto host course Royal Birkdale with his father.",
-        "copy": "The 2026 Open Championship begins Thursday, July 16, with the opening round at Royal Birkdale in Southport, England. You can find full Open Championship tee times for Thursday’s first round at the bottom of this post.\n\nIf there’s one tournament Tommy Fleetwood would like to win in his career, it’s probably the 2026 Open Championship. Why? Because the PGA Tour star grew up nearby, sometimes sneaking onto host course Royal Birkdale with his father.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "How to watch the 2026 Open Championship: TV schedule, streaming, tee times",
-        "link": "https://golf.com/news/watch-2026-open-championship-tv-streaming-tee-times/",
-        "published": "2026-07-15T10:18:05+00:00",
-        "published_label": "Wed 15 Jul, 10:18",
-        "summary": "How to watch the 2026 Open Championship at Royal Birkdale this week, with complete Open TV coverage, streaming info, tee times and more. The post How to watch the 2026 Open Championship: TV schedule, streaming, tee times appeared first on Golf .",
-        "body": "The 2026 Open Championship kicks off this week at historic Royal Birkdale on the coast of England. Here’s everything you need to know to watch the Open Championship all week long.\n\nWe’ve finally reached the final major of the year, the 154th Open at Royal Birkdale. A hard and fiery course awaits the game’s best players in their last attempt at major glory this season.",
-        "copy": "The 2026 Open Championship kicks off this week at historic Royal Birkdale on the coast of England. Here’s everything you need to know to watch the Open Championship all week long.\n\nWe’ve finally reached the final major of the year, the 154th Open at Royal Birkdale. A hard and fiery course awaits the game’s best players in their last attempt at major glory this season.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "The Open: Can Bryson DeChambeau avoid missing every major cut at Birkdale?",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb3k1UWFxd3F6N1p0SWZvcGNlNTJFelpXb0syZkg1a2QtR3lRUmRYN0JKUS1UaFdXN1Jrc19iaUNIc1VYZUs1UzhDcnNBVGhEZmlpTnpocGJRcnBXYm5QdEFSaTdTUTVNZDQ1eWhMN3JsUVhlTkx2Q3FEYlo2Z181NEJTdUlqTGliRFBLMFNPVWVvelZ6eGVhMGFobWhSZ213U1FXQ1ZLWG5ybmRlSGszcVFmdG8yNXk0alFvbUVVNkpHRDBDR08tVHlmTnlsaG1HWWpNZw?oc=5",
-        "published": "2026-07-15T10:15:35+00:00",
-        "published_label": "Wed 15 Jul, 10:15",
-        "summary": "The Open: Can Bryson DeChambeau avoid missing every major cut at Birkdale? Sky Sports",
-        "body": "The Open: Can Bryson DeChambeau avoid missing every major cut at Birkdale? Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
-        "copy": "The Open: Can Bryson DeChambeau avoid missing every major cut at Birkdale? Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
-        "first_seen": "2026-07-15T15:26:12.039147+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Open Championship streaming: How to watch the Birkdale Open online",
-        "link": "https://golf.com/news/2026-open-championship-streaming-watch-online/",
-        "published": "2026-07-15T10:05:53+00:00",
-        "published_label": "Wed 15 Jul, 10:05",
-        "summary": "You can watch the 2026 Open Championship online all week via Peacock. Here's the full Open streaming schedule for Royal Birkdale. The post 2026 Open Championship streaming: How to watch the Birkdale Open online appeared first on Golf .",
-        "body": "The 2026 Open Championship at Royal Birkdale is about to get underway. If you’re not in Southport, England, for the tournament, or you don’t have a TV, you’re in luck. You can watch the entire tournament streaming live online. Here’s the complete Open Championship streaming schedule and everything else you need to know.\n\nPeacock will provide extensive streaming coverage of this week’s Open Championship online. Peacock will stream exclusive early coverage of Thursday’s opening round, as well as early coverage of Friday’s second round. On the weekend, Peacock will provide live simulcasts of NBC’s third- and final-round broadcasts. Additionally, you can stream featured group live streams in the morning and afternoon of all four rounds via Peacock.",
-        "copy": "The 2026 Open Championship at Royal Birkdale is about to get underway. If you’re not in Southport, England, for the tournament, or you don’t have a TV, you’re in luck. You can watch the entire tournament streaming live online. Here’s the complete Open Championship streaming schedule and everything else you need to know.\n\nPeacock will provide extensive streaming coverage of this week’s Open Championship online. Peacock will stream exclusive early coverage of Thursday’s opening round, as well as early coverage of Friday’s second round. On the weekend, Peacock will provide live simulcasts of NBC’s third- and final-round broadcasts. Additionally, you can stream featured group live streams in the morning and afternoon of all four rounds via Peacock.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Ayush Shetty admits nerves during decider against Alwi Farhan | China Open 2026 badminton",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHdmd0kyOXVzZWhHWllYU0lMc2cwdkVUUy01SkZHRlA3RWNOdUhMa09Kd1hXSkhEQVNiaFVWUFNfTjByMkYtcURzbjBjUDdubmV0c3F1MXdWTndtc3pjU0pKcVRSTmpuSjVzbVN2cmloQ0RoMFdfVXBoa0c0cENHM29FbFZnWklmdFRCV0RGNjk2TUp4RnFpVQ?oc=5",
+        "published": "2026-07-22T09:52:30+00:00",
+        "published_label": "Wed 22 Jul, 09:52",
+        "summary": "Ayush Shetty admits nerves during decider against Alwi Farhan | China Open 2026 badminton olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -8443,6 +8248,19 @@
         "body": "Sindhu must remember that the Phoenix bird rises from its own ashes.God has given her the finest physique to conquer the world. Like Arjuna let her practice against all odds to conquer the world. Best wishes of all the 1.4 billion people r with her.\n\nSindhu must remember that the Phoenix bird rises from its own ashes.God has given her the finest physique to conquer the world. Like Arjuna let her practice against all odds to conquer the world. Best wishes of all the 1.4 billion people r with her.",
         "copy": "Sindhu must remember that the Phoenix bird rises from its own ashes.God has given her the finest physique to conquer the world. Like Arjuna let her practice against all odds to conquer the world. Best wishes of all the 1.4 billion people r with her.\n\nSindhu must remember that the Phoenix bird rises from its own ashes.God has given her the finest physique to conquer the world. Like Arjuna let her practice against all odds to conquer the world. Best wishes of all the 1.4 billion people r with her.",
         "first_seen": "2026-07-21T19:17:53.430978+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Athletics: How to watch Sha'Carri Richardson live at 2026 USA Track and Field Championships - Full schedule",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmlySkpRTFBZbndqd1Q3Y3lhOUhwUHVCcHYwS1J3UDlrQ1B3NF9JdkViaGl1a3BvbkxQaXMwNGM2c3R2Q3d2bWhfNERHZ0otQTVOZ0tBdVBVVkl2bXpIcmJydm1VMHpwU0luUmlHcmF6a0Q3cFNRTkJra3NKQ3FSTXU2Ymw2UzVQSGlLdWFPd2VWM3hwYVR5cTR6dFR5VmZyaV83RVpyRGphREJJcGF6YmZPaWRxQQ?oc=5",
+        "published": "2026-07-21T18:46:00+00:00",
+        "published_label": "Tue 21 Jul, 18:46",
+        "summary": "Athletics: How to watch Sha'Carri Richardson live at 2026 USA Track and Field Championships - Full schedule olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
       },
       {
         "section": "Badminton",
@@ -9171,35 +8989,23 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-16T08:09:22.009682+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Japan Open: Vitidsarn Passes Stiff Opening Test",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWFjTHJzeDB0eml3NXlqenVieDhhZ2xsSFNaOEZXME91Rm5mdkc5S1ZWdTM1Ny1ISy1VZTA4b1h1dEwtRnRmOVFNNW5FWTA3UGYxM2FNYVZzT1VTUzJ2dnVZczBKbzUtVjkwOXlPVFp6SG9fXzhWOTRJVWlTQmZ6OEpGejNQb1dMT1I5cWpWUWxsZUVWQkJFS01TSVdHMUhlVlBQMDh1NWtoMW1R?oc=5",
-        "published": "2026-07-15T10:07:55+00:00",
-        "published_label": "Wed 15 Jul, 10:07",
-        "summary": "Japan Open: Vitidsarn Passes Stiff Opening Test BWF World Tour",
-        "body": "Returning to the circuit after a back muscle tear disrupted his last two tournaments, Kunlavut Vitidsarn survived a stiff opening test from Ayush Shetty at the DAIHATSU Japan Open 2026.\n\nThe No.2 seed had retired from his last two matches, at the Singapore Open and Indonesia Open, and said he was feeling much better, although he had yet to fully recover. Against Shetty, who had beaten him during their last contest at the Badminton Asia Championships in April. Vitidsarn took his time to find the answers, before he eventually pulled away in the third game.",
-        "copy": "Returning to the circuit after a back muscle tear disrupted his last two tournaments, Kunlavut Vitidsarn survived a stiff opening test from Ayush Shetty at the DAIHATSU Japan Open 2026.\n\nThe No.2 seed had retired from his last two matches, at the Singapore Open and Indonesia Open, and said he was feeling much better, although he had yet to fully recover. Against Shetty, who had beaten him during their last contest at the Badminton Asia Championships in April. Vitidsarn took his time to find the answers, before he eventually pulled away in the third game.",
-        "first_seen": "2026-07-15T17:16:29.056535+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Japan Open: Vitidsarn Passes Opening Test",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTJNQnBOOEp4YzNmakl2VkVaNV9hczU3MzQ5aGJVcWVKUDZjZEVBVHgwdEtzdklldGx0TFdkNTYzcE5mMmRPWkNla1p4VWgtZEdOZkNZWGFhWE5ZeWVyMlk4YVBZSmpNdnlJSHpvRHIzbUhrX294amRKX05HWUVpNG9qbXJOTkRmZmxYOUdWMXo0UTM4MjVPSzk3ODJFNk5UR2FRaVMtODVUb2phYXc?oc=5",
-        "published": "2026-07-15T10:04:41+00:00",
-        "published_label": "Wed 15 Jul, 10:04",
-        "summary": "Japan Open: Vitidsarn Passes Opening Test BWF World Tour",
-        "body": "Returning to the circuit after a back muscle tear disrupted his last two tournaments, Kunlavut Vitidsarn survived a stiff opening test from Ayush Shetty at the DAIHATSU Japan Open 2026.\n\nThe No.2 seed had retired from his last two matches, at the Singapore Open and Indonesia Open, and said he was feeling much better, although he had yet to fully recover. Against Shetty, who had beaten him during their last contest at the Badminton Asia Championships in April. Vitidsarn took his time to find the answers, before he eventually pulled away in the third game.",
-        "copy": "Returning to the circuit after a back muscle tear disrupted his last two tournaments, Kunlavut Vitidsarn survived a stiff opening test from Ayush Shetty at the DAIHATSU Japan Open 2026.\n\nThe No.2 seed had retired from his last two matches, at the Singapore Open and Indonesia Open, and said he was feeling much better, although he had yet to fully recover. Against Shetty, who had beaten him during their last contest at the Badminton Asia Championships in April. Vitidsarn took his time to find the answers, before he eventually pulled away in the third game.",
-        "first_seen": "2026-07-15T11:29:00.029025+00:00"
       }
     ],
-    "Competitor News": []
+    "Competitor News": [
+      {
+        "section": "Competitor News",
+        "source": "Google News",
+        "kind": "gnews",
+        "title": "Ritter Sport UK accelerates its convenience expansion through nationwide Parfetts partnership",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNTlwUmtCY0RwVFpQM1JMMkR5bGpRbjZZU1N2clJpWWZLd0pMVHBMM3U3MzdMWXhBMVJacnZSV28yRDJ2RmVfdHV4bVhLbzV0THJhclRRWGlSZXhkM3BRaUsxT1BpOFBHdDd0QnZld1RaaWdFSmtYN1RnQnpuY21VRm1yLWZJcFNYTkZadGRVMURUT0J4M1M3eEFMdmVyZzNuZEN3WE1KQlo2Zjl1bE43eW5lckgwV3FUeUtKNA?oc=5",
+        "published": "2026-07-22T11:30:35+00:00",
+        "published_label": "Wed 22 Jul, 11:30",
+        "summary": "Ritter Sport UK accelerates its convenience expansion through nationwide Parfetts partnership Retail Times",
+        "body": "Ritter Sport UK is accelerating its expansion across the convenience channel through a new permanent wholesale partnership with Parfetts, bringing five of its bestselling block chocolate flavours to all nine depots nationwide from this month.\n\nThe move forms part of Ritter Sport’s wider strategy to significantly grow its presence within the UK’s 50,000-strong convenience sector, making the brand more accessible to shoppers wherever they choose to buy chocolate. By increasing physical availability across convenience and independent retail, Ritter Sport aims to recruit new shoppers, build brand awareness and drive long-term category growth.",
+        "copy": "Ritter Sport UK is accelerating its expansion across the convenience channel through a new permanent wholesale partnership with Parfetts, bringing five of its bestselling block chocolate flavours to all nine depots nationwide from this month.\n\nThe move forms part of Ritter Sport’s wider strategy to significantly grow its presence within the UK’s 50,000-strong convenience sector, making the brand more accessible to shoppers wherever they choose to buy chocolate. By increasing physical availability across convenience and independent retail, Ritter Sport aims to recruit new shoppers, build brand awareness and drive long-term category growth.",
+        "first_seen": "2026-07-22T11:47:45.319576+00:00"
+      }
+    ]
   },
-  "total": 706
+  "total": 691
 }
