@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T13:31:35.142668+00:00",
-  "generated_label": "Friday 24 July 2026, 13:31 UTC",
+  "generated_at": "2026-07-24T15:25:43.326051+00:00",
+  "generated_label": "Friday 24 July 2026, 15:25 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "M&C Saatchi Sport & Entertainment restructures leadership team",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmZVbENpR0hmS0FGaUJlUE1XMmloeEpkVGxnQnhRN0NsU2ZPVlJKRXItTlEtR0ZydU1XNV9iVEtGeUxKbzlpOXB4Yk9rRnBIdnJ3a3RDVnZJeUt1ejdHTlpwTDRLNmplcUxrWnB1RU1pbHF1STZIdVBwTmN1OEdWLVVEMlJ2V2E5X2JvMlhOb1FQSjJR?oc=5",
+        "published": "2026-07-24T15:21:13+00:00",
+        "published_label": "Fri 24 Jul, 15:21",
+        "summary": "M&C Saatchi Sport & Entertainment restructures leadership team Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -105,6 +118,19 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Volkswagen warns of weaker revenues ahead of record job cuts",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlQwUHZwT3RPcWdDS3daVzJ3b3hhR25pYlRQa21jM2JaZlROYUFRVlRsWUhTa1g3UGI3UFhRRGJ0elc0SVp4RHpRQkhYem96di1ObWJWZ2F1aWl1ckhvWV80aDBzZWIwZUlPMnJtc3ZDUHYwekxMaWkyNUFUc3BjZUpoTm4?oc=5",
+        "published": "2026-07-24T10:03:47+00:00",
+        "published_label": "Fri 24 Jul, 10:03",
+        "summary": "Volkswagen warns of weaker revenues ahead of record job cuts Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "SportBusiness",
         "kind": "direct",
         "title": "Doing the Fandango: Bundesliga’s new US deals",
@@ -128,6 +154,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-24T11:42:00.213797+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "BOA renews Panthers stadium naming rights deal amid $1.3bn upgrade",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVFiX0dHNzZKdmJvOFRnck1sa2gxamZuZzF5bzY3d2pTYm8wVkJ2N2xHMWo0bnZ2Q1NKOGw5VjVBVlVwN3Ryd0pKMkticURxdzNEamhMVzlDUGdwc1ZpZWpVWmRtZnRCWHZEOFQ5NWNTSEpseTFLUzRoQzhqV1dMVFMxY1U5emVVcE1uSl9ZQ0ZkbllqYllITnhuNGg?oc=5",
+        "published": "2026-07-24T09:12:03+00:00",
+        "published_label": "Fri 24 Jul, 09:12",
+        "summary": "BOA renews Panthers stadium naming rights deal amid $1.3bn upgrade Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1480,61 +1519,22 @@
         "body": "ESPN chairman Jimmy Pitaro has confirmed the pay-TV sports network will bid for the US broadcast rights to the next Fifa World Cup. The 2026 Fifa World Cup held in North America has been a huge success for Fox, which has enjoyed huge ratings and significant demand from advertisers. Fox and Telemundo, which owns the Spanish language rights, are anticipating US$850 million in advertising revenue.\n\nFifa hopes this growth will attract multiple bidders and allow it to demand a significant premium on the $485 million Fox currently pays – a sum many believe is below market value.",
         "copy": "ESPN chairman Jimmy Pitaro has confirmed the pay-TV sports network will bid for the US broadcast rights to the next Fifa World Cup. The 2026 Fifa World Cup held in North America has been a huge success for Fox, which has enjoyed huge ratings and significant demand from advertisers. Fox and Telemundo, which owns the Spanish language rights, are anticipating US$850 million in advertising revenue.\n\nFifa hopes this growth will attract multiple bidders and allow it to demand a significant premium on the $485 million Fox currently pays – a sum many believe is below market value.",
         "first_seen": "2026-07-17T17:10:32.876316+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "DAZN and ADI Predictstreet partner to widen prediction market proliferation",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0pkckFlcVBQNzNndFFuMGVOZW5WR1hlM3kwMUVkeFRnelF1N1hyUkhQY3ZsOXJKbHF6alFKcjNVa3RZdk4weV9QSlJsY2RvbWdCNGl3aFdlalZaYmJKMm1PT1lGdkF6QmhqTXVnNVhVWXVjOHp5bVRuX2VkUDRSMHRlSlFIbExWXzdQM2lHQmN2V0dCLWhXdWR0OVlndENtUkZqNm9aMGFVZw?oc=5",
-        "published": "2026-07-17T15:19:38+00:00",
-        "published_label": "Fri 17 Jul, 15:19",
-        "summary": "DAZN and ADI Predictstreet partner to widen prediction market proliferation Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-17T17:10:32.876316+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "SURJ enters venue-focused JV with Live Nation, Oak View Group",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2xMbnBBeDBRUHJWNUdMZ0NWTEhXbjZFY0ttcUpDSDh3V1NqZEZNbXlJeHZhVzR5UFFmVDdwZEItOFBFWkxMMkhJSGVoSmEtLUdScHdBYU9jcVdyZExVZFZuOVpGN2NiYmQtUDY5NGJsZlNMcFJieldWTDdaYUkwZ1VWV3oyZGl0RHQ3dDhJWVhpUURQS1E?oc=5",
-        "published": "2026-07-17T14:50:18+00:00",
-        "published_label": "Fri 17 Jul, 14:50",
-        "summary": "SURJ enters venue-focused JV with Live Nation, Oak View Group Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "ATP Finals to stay in Turin through 2027",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IZ3UxQlYwakFGM0xVNmtySk14VVgxMkFyTWQ0WDctS0VSUlZrcmwtbUVKQk1SR2hVem4tRzgyUC1OX0E3bUpHcm0tNmJ2Wm41NWZZZDJVWEY3Z1g4dXoyM1ZHSzdPV2xhSWp1bHo2ZGRDZmNncUdyV2w4QQ?oc=5",
-        "published": "2026-07-17T14:50:16+00:00",
-        "published_label": "Fri 17 Jul, 14:50",
-        "summary": "ATP Finals to stay in Turin through 2027 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Burnham eyes Jonathan Reynolds to lead beefed-up business department",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3hnMjhhSkt2MTJMb2FsaFBkVkxGMFFmOGpwTkdtREpXZUttYlg3bFk0OU1ETEVrOVlPVFVWZmx3LWN1ZEx4enJFVXdNQ3h1T0hlTWZ1QXAwS053SWk3cmlJZWxEOGZyQmg4YVJfZ2ktR0JwdjVqV3o1SUJ0dzN4NnktUE8?oc=5",
-        "published": "2026-07-17T14:06:09+00:00",
-        "published_label": "Fri 17 Jul, 14:06",
-        "summary": "Burnham eyes Jonathan Reynolds to lead beefed-up business department Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-18T07:45:17.344378+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "New European club competition set to launch next month",
+        "link": "https://www.rugbypass.com/news/new-european-club-competition-set-to-launch-next-month/",
+        "published": "2026-07-24T14:36:41+00:00",
+        "published_label": "Fri 24 Jul, 14:36",
+        "summary": "A new central European club competition designed to fill the gap between Rugby Europe's Super Cup and the domestic leagues of the five countries involved will launch in Frankfurt next month.",
+        "body": "A new central European club competition designed to fill the gap between Rugby Europe’s Super Cup and the domestic leagues of the five countries involved will launch in Frankfurt next month.\n\nInitially, Ascent Rugby will involve seven teams, two each from Germany (SC Frankfurt 1880 and Adler XV) and the Netherlands (The Dukes and RC Eemland), and one from Czechia (RC Tatra Smíchov), Poland (Pogo Siedlce) and Belgium (Boitsfort Rugby Club).",
+        "copy": "A new central European club competition designed to fill the gap between Rugby Europe’s Super Cup and the domestic leagues of the five countries involved will launch in Frankfurt next month.\n\nInitially, Ascent Rugby will involve seven teams, two each from Germany (SC Frankfurt 1880 and Adler XV) and the Netherlands (The Dukes and RC Eemland), and one from Czechia (RC Tatra Smíchov), Poland (Pogo Siedlce) and Belgium (Boitsfort Rugby Club).",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3796,71 +3796,6 @@
         "body": "Italy head coach Gonzalo Quesada has received an update one-match suspension and a formal warning following an independent disciplinary hearing into comments he made about match officials after Italy’s Nations Championship defeat to New Zealand.\n\nQuesada said referee Luc Ramos was “super poor” and implied the margin of the defeat was increased due to the officiating of the French referee. Quesada was initially handed an automatic two-match ban under World Rugby’s Match Official Abuse Sanction Process, which was introduced to deal with public criticism of referees and other match officials. However, the former Argentina international exercised his right to refer the case to an independent disciplinary committee for a full de novo hearing.",
         "copy": "Italy head coach Gonzalo Quesada has received an update one-match suspension and a formal warning following an independent disciplinary hearing into comments he made about match officials after Italy’s Nations Championship defeat to New Zealand.\n\nQuesada said referee Luc Ramos was “super poor” and implied the margin of the defeat was increased due to the officiating of the French referee. Quesada was initially handed an automatic two-match ban under World Rugby’s Match Official Abuse Sanction Process, which was introduced to deal with public criticism of referees and other match officials. However, the former Argentina international exercised his right to refer the case to an independent disciplinary committee for a full de novo hearing.",
         "first_seen": "2026-07-17T17:10:32.876316+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "England could walk off if players racially abused in Argentina",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cx2k46n7x1ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-17T14:47:30+00:00",
-        "published_label": "Fri 17 Jul, 14:47",
-        "summary": "Captain Jamie George says England are considering the prospect of walking off the pitch should any of their players suffer racial abuse against Argentina.",
-        "body": "Captain Jamie George says England are considering the prospect of walking off the pitch should any of their players suffer racial abuse against Argentina on Saturday. Last year's win in San Juan was marred by abuse targeting England replacements Asher Opoku-Fordjour and Chandler Cunningham-South.\n\nGoverning body World Rugby condemned the incident but were unable to identify any perpetrators. The last meeting between the teams, in November, ended in a heated exchange, with Argentina coach Felipe Contepomi calling England flanker Tom Curry a \"bully\" who swore at him and pushed him in the tunnel at Allianz Stadium.",
-        "copy": "Captain Jamie George says England are considering the prospect of walking off the pitch should any of their players suffer racial abuse against Argentina on Saturday. Last year's win in San Juan was marred by abuse targeting England replacements Asher Opoku-Fordjour and Chandler Cunningham-South.\n\nGoverning body World Rugby condemned the incident but were unable to identify any perpetrators. The last meeting between the teams, in November, ended in a heated exchange, with Argentina coach Felipe Contepomi calling England flanker Tom Curry a \"bully\" who swore at him and pushed him in the tunnel at Allianz Stadium.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'There's still so much more to come': Wales' Pyrs re-signs with Gloucester Hartpury",
-        "link": "https://www.rugbypass.com/news/theres-still-so-much-more-to-come-wales-lock-re-signs-with-gloucester-hartpury/",
-        "published": "2026-07-17T14:25:18+00:00",
-        "published_label": "Fri 17 Jul, 14:25",
-        "summary": "Wales lock Alaw Pyrs has re-signed with Gloucester Hartpury for the 2026/27 JAECOO Premiership Women's Rugby campaign.",
-        "body": "Wales lock Alaw Pyrs has re-signed with Gloucester Hartpury for the 2026/27 JAECOO Premiership Women’s Rugby campaign. The 20-year-old joined Gloucester Hartpury last year after a breakout season. Pyrs had made her debut for Wales against Scotland in a warm-up fixture for WXV 2 in October 2024.\n\nWhile in South Africa Pyrs made two more appearances for her country and then had a strong Celtic Challenge and Guinness Women’s Six Nations campaigns afterward. In her debut PWR campaign, Pyrs made five league appearances and scored one try as the West Country club failed to win a fourth English league title in a row.",
-        "copy": "Wales lock Alaw Pyrs has re-signed with Gloucester Hartpury for the 2026/27 JAECOO Premiership Women’s Rugby campaign. The 20-year-old joined Gloucester Hartpury last year after a breakout season. Pyrs had made her debut for Wales against Scotland in a warm-up fixture for WXV 2 in October 2024.\n\nWhile in South Africa Pyrs made two more appearances for her country and then had a strong Celtic Challenge and Guinness Women’s Six Nations campaigns afterward. In her debut PWR campaign, Pyrs made five league appearances and scored one try as the West Country club failed to win a fourth English league title in a row.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Louis Rees-Zammit makes candid admission about return to rugby",
-        "link": "https://www.rugbypass.com/news/louis-rees-zammit-makes-candid-admission-about-return-to-rugby/",
-        "published": "2026-07-17T13:52:02+00:00",
-        "published_label": "Fri 17 Jul, 13:52",
-        "summary": ".The 25-year-old speedster finishes his first season back in rugby after an 18-month spell in the NFL on Saturday when Wales meet world champions South Africa in the Nations Championship.",
-        "body": "Louis Rees-Zammit admits he has taken time to find his feet again after returning to rugby from American Football. The 25-year-old speedster finishes his first season back in rugby after an 18-month spell in the NFL on Saturday when Wales meet world champions South Africa in the Nations Championship.\n\nRees-Zammit has been restored to the wing at Durban after being left out of last weekend’s defeat to Argentina in San Juan. “I haven’t settled in as quickly as I wanted to back into rugby,” said Rees-Zammit, who has floated between full-back and wing for both Bristol and Wales.",
-        "copy": "Louis Rees-Zammit admits he has taken time to find his feet again after returning to rugby from American Football. The 25-year-old speedster finishes his first season back in rugby after an 18-month spell in the NFL on Saturday when Wales meet world champions South Africa in the Nations Championship.\n\nRees-Zammit has been restored to the wing at Durban after being left out of last weekend’s defeat to Argentina in San Juan. “I haven’t settled in as quickly as I wanted to back into rugby,” said Rees-Zammit, who has floated between full-back and wing for both Bristol and Wales.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Jamie George promises 'strongest of actions' if behaviour is repeated",
-        "link": "https://www.rugbypass.com/news/jamie-george-promises-strongest-of-actions-if-behaviour-is-repeated/",
-        "published": "2026-07-17T13:39:13+00:00",
-        "published_label": "Fri 17 Jul, 13:39",
-        "summary": "Asher Opoku-Fordjour and Chandler Cunningham-South were targeted by a small group of fans during England’s 22-17 victory in San Juan a year ago.",
-        "body": "Jamie George has threatened to lead his England team off the pitch against the Pumas on Saturday if there is a recurrence of the racial abuse that marred their last appearance in Argentina.\n\nAsher Opoku-Fordjour and Chandler Cunningham-South were targeted by a small group of fans when warming up with their fellow replacements during the first half of England’s 22-17 victory in San Juan a year ago.",
-        "copy": "Jamie George has threatened to lead his England team off the pitch against the Pumas on Saturday if there is a recurrence of the racial abuse that marred their last appearance in Argentina.\n\nAsher Opoku-Fordjour and Chandler Cunningham-South were targeted by a small group of fans when warming up with their fellow replacements during the first half of England’s 22-17 victory in San Juan a year ago.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Elliot Williams: 'A few of us were a bit annoyed after the South Africa game. We want to right those wrongs.'",
-        "link": "https://www.rugbypass.com/plus/elliot-williams-a-few-of-us-were-a-bit-annoyed-after-the-south-africa-game-we-want-to-right-those-wrongs/",
-        "published": "2026-07-17T13:34:51+00:00",
-        "published_label": "Fri 17 Jul, 13:34",
-        "summary": "The powerful Harlequins and England U20 second-row discusses his rugby journey and having Austin Healey question his age.",
-        "body": "Keith and Sarah Williams were talented basketball players in their youth, before setting down roots in the leafy environs of Staines-upon-Thames, but with a growing brood, there was no obvious outlet to mould them into the next LeBron James or Victor Wembanyama, so with five children climbing the walls, they agreed the next best thing would be to ferry those willing to the nearest rugby club: London Irish Amateurs.\n\nElliot, the second eldest, had a natural disposition for rugby and 14 years later, will be staring down the Haka tomorrow as England U20s look to secure a third-placed finish at the Junior World Championship.",
-        "copy": "Keith and Sarah Williams were talented basketball players in their youth, before setting down roots in the leafy environs of Staines-upon-Thames, but with a growing brood, there was no obvious outlet to mould them into the next LeBron James or Victor Wembanyama, so with five children climbing the walls, they agreed the next best thing would be to ferry those willing to the nearest rugby club: London Irish Amateurs.\n\nElliot, the second eldest, had a natural disposition for rugby and 14 years later, will be staring down the Haka tomorrow as England U20s look to secure a third-placed finish at the Junior World Championship.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
       }
     ],
     "Tennis": [
@@ -4305,22 +4240,48 @@
         "body": "British tennis star Emma Raducanu enjoyed a strong start to the grass-court season, reaching the final of the Queen's Club Championships before eventually losing to Donna Vekic in straight sets.\n\nHeading into Wimbledon as the British No. 1, many expected Raducanu to carry that momentum into the year's third Grand Slam. However, her hopes of making a deep run came to an abrupt end. Raducanu was forced to withdraw from Wimbledon after suffering a Grade 4 stress fracture in her lower right leg.",
         "copy": "British tennis star Emma Raducanu enjoyed a strong start to the grass-court season, reaching the final of the Queen's Club Championships before eventually losing to Donna Vekic in straight sets.\n\nHeading into Wimbledon as the British No. 1, many expected Raducanu to carry that momentum into the year's third Grand Slam. However, her hopes of making a deep run came to an abrupt end. Raducanu was forced to withdraw from Wimbledon after suffering a Grade 4 stress fracture in her lower right leg.",
         "first_seen": "2026-07-17T19:04:07.758236+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Emma Raducanu Dealt Fresh Ranking Blow Before the US Open",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjFnN3FPc21UX0JKb3NaRGp2TVFVd0pNXzBkS2JxdnJLeFdUMVNCMVFqaHhCSjNSejFObkRuNEN3RndlZWVJMmhZa3loeUFhbXhjRlFOcGp3RHFjX3dNM2lEVUd1UVNPS1UyUm11YXh2U1Z3WXYwc1FCVXZpUXBVaFR1NzRMajJOU1J2LWFRZ2x3a3pCQjBNY3BCUFFVa1NM?oc=5",
-        "published": "2026-07-17T15:00:00+00:00",
-        "published_label": "Fri 17 Jul, 15:00",
-        "summary": "Emma Raducanu Dealt Fresh Ranking Blow Before the US Open Athlon Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "These comfy slides are the perfect post-round shoes (and are on sale!)",
+        "link": "https://golf.com/gear/shoes/comfy-slides-perfect-post-round-shoes-sale/",
+        "published": "2026-07-24T15:04:27+00:00",
+        "published_label": "Fri 24 Jul, 15:04",
+        "summary": "Nothing makes you say ahhhh quite like kicking off your golf shoes and slipping into the world of airy comfort that is the slide sandal. The post These comfy slides are the perfect post-round shoes (and are on sale!) appeared first on Golf .",
+        "body": "Slides are all the rage right now, and it’s easy to see why. These casual footwear staples are easy to put on and take off, give your feet much-needed ventilation and offer supreme comfort.\n\nAs a pre- and post-round option, they’re a no brainer. Nothing makes you say ahhhh quite like kicking off your golf shoes and slipping into the world of airy comfort that is the slide sandal.",
+        "copy": "Slides are all the rage right now, and it’s easy to see why. These casual footwear staples are easy to put on and take off, give your feet much-needed ventilation and offer supreme comfort.\n\nAs a pre- and post-round option, they’re a no brainer. Nothing makes you say ahhhh quite like kicking off your golf shoes and slipping into the world of airy comfort that is the slide sandal.",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This putting aid hones your stroke — and mimics real-life lip-outs",
+        "link": "https://golf.com/gear/golf-accessories/this-putting-aid-hones-stroke-mimics-real-life-lip-outs/",
+        "published": "2026-07-24T15:01:01+00:00",
+        "published_label": "Fri 24 Jul, 15:01",
+        "summary": "PuttOUT's Premium Pressure Putt Trainer features a circular target the size of a regulation hole, with tapered sides to mimic lip-outs. The post This putting aid hones your stroke — and mimics real-life lip-outs appeared first on Golf .",
+        "body": "There’s no question that the fastest way to lower scores is by minimizing wasted shots on and around the green. And for players at every level, putting is often to blame when a hole — or round — goes sideways.\n\nThink about it this way: In a regulation round, you’re expected to hit around 14 drives, 22 or so shots with shorter clubs … and 36 putts! So if you’re looking to shave a few strokes from your score, putting is the most obvious area to focus on.",
+        "copy": "There’s no question that the fastest way to lower scores is by minimizing wasted shots on and around the green. And for players at every level, putting is often to blame when a hole — or round — goes sideways.\n\nThink about it this way: In a regulation round, you’re expected to hit around 14 drives, 22 or so shots with shorter clubs … and 36 putts! So if you’re looking to shave a few strokes from your score, putting is the most obvious area to focus on.",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Bettinardi turns the tables on the zero torque trend with new Hexperimental release",
+        "link": "https://golf.com/gear/putters/bettinardi-hexperimental-2-putter/",
+        "published": "2026-07-24T15:00:19+00:00",
+        "published_label": "Fri 24 Jul, 15:00",
+        "summary": "Bettinardi is flipping the script on the putter market and turning one of their 'zero torque' Antidote shapes into a traditional hosel. The post Bettinardi turns the tables on the zero torque trend with new Hexperimental release appeared first on Golf .",
+        "body": "Today’s putter market has been flooded with “zero torque” offerings. Earlier this year Bettinardi added more options to the market with 2 Hexperimental shapes, but this time they’re flipping the script. The new Bettinardi Hexperimental #2 adapts the high M.O.I. ‘Simply Balanced’ Antidote SB2 shape and converts it into traditional heel-shafted setup without “zero torque” technology.\n\n“We’ve had a wide range of players in our Tour Department, from pros to elite amateurs, fall in love with the Antidote SB2, but zero-torque isn’t for everyone,” said Sam Bettinardi, president of Bettinardi Golf. “That’s exactly the gap the Hexperimental #2 was designed to fill.”",
+        "copy": "Today’s putter market has been flooded with “zero torque” offerings. Earlier this year Bettinardi added more options to the market with 2 Hexperimental shapes, but this time they’re flipping the script. The new Bettinardi Hexperimental #2 adapts the high M.O.I. ‘Simply Balanced’ Antidote SB2 shape and converts it into traditional heel-shafted setup without “zero torque” technology.\n\n“We’ve had a wide range of players in our Tour Department, from pros to elite amateurs, fall in love with the Antidote SB2, but zero-torque isn’t for everyone,” said Sam Bettinardi, president of Bettinardi Golf. “That’s exactly the gap the Hexperimental #2 was designed to fill.”",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -4346,6 +4307,19 @@
         "body": "Follow live scores and results for every LIV Golf event. When you visit our website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is used to make the website work as you expect it to, to improve your experience, for functional and security reasons, and for targeted advertising purposes. In certain jurisdictions, certain use of your personal information for targeted advertising purposes may be considered a “sale” or “sharing” of your information. Because we respect your right to privacy, you can choose not to allow some types of cookies, including those used for targeted advertising – to opt out of the sale or sharing of your personal information, please reject non-essential cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the website and the services we are able to offer.\n\nFor more information about our privacy and cookie practices, please visit our Privacy Policy. To opt out of other types of disclosures that do not involve browser-based automated technologies, including some other types of selling or sharing of your personal information under certain applicable laws, please visit: Your Privacy Choices.",
         "copy": "Follow live scores and results for every LIV Golf event. When you visit our website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is used to make the website work as you expect it to, to improve your experience, for functional and security reasons, and for targeted advertising purposes. In certain jurisdictions, certain use of your personal information for targeted advertising purposes may be considered a “sale” or “sharing” of your information. Because we respect your right to privacy, you can choose not to allow some types of cookies, including those used for targeted advertising – to opt out of the sale or sharing of your personal information, please reject non-essential cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the website and the services we are able to offer.\n\nFor more information about our privacy and cookie practices, please visit our Privacy Policy. To opt out of other types of disclosures that do not involve browser-based automated technologies, including some other types of selling or sharing of your personal information under certain applicable laws, please visit: Your Privacy Choices.",
         "first_seen": "2026-07-24T11:42:00.213797+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau misses the point as he directly addresses Open Championship controversy at LIV UK",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3gtOHNYVi01blB6V3ZublBFakRyenJKaldwdEtqR1h1RmtRd3NYVVNoUjB5OEEzaHRpOGwyaEJ6RWpya2R2WHk0Z1hwTGU4WHVkWVBjb0pOYmNZTmhzZVNfZWNTVHpNLXpiWUFnQ3BzU1FBc191Z3pCVVZlcnhmcHlqaE9hcWdMRUNJRWs0UTRxWnB6QlpwZTVNVjlUb0VnNFI0WEtiaWNoTUZwaDExdkllYUJoeUNyTXR0UXRB?oc=5",
+        "published": "2026-07-24T10:00:00+00:00",
+        "published_label": "Fri 24 Jul, 10:00",
+        "summary": "Bryson DeChambeau misses the point as he directly addresses Open Championship controversy at LIV UK hitc.com",
+        "body": "Bryson DeChambeau bounced back well from the controversy he caused at The Open Championship last week with a round of 64 on day one at LIV Golf UK. DeChambeau was right in the mix to win The Open after he made a birdie on his final hole of the day on Friday to put him one shot adrift of the leader, Lucas Herbert.\n\nHowever, within minutes of leaving the 18th green at Royal Birkdale, he was informed that he had broken rule 8.1a on the fifth hole. Bryson DeChambeau was penalized two strokes by Open officials after he was deemed to have improved the playing area around his ball in the rough during his second round.",
+        "copy": "Bryson DeChambeau bounced back well from the controversy he caused at The Open Championship last week with a round of 64 on day one at LIV Golf UK. DeChambeau was right in the mix to win The Open after he made a birdie on his final hole of the day on Friday to put him one shot adrift of the leader, Lucas Herbert.\n\nHowever, within minutes of leaving the 18th green at Royal Birkdale, he was informed that he had broken rule 8.1a on the fifth hole. Bryson DeChambeau was penalized two strokes by Open officials after he was deemed to have improved the playing area around his ball in the rough during his second round.",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
       },
       {
         "section": "Golf",
@@ -4684,6 +4658,19 @@
         "body": "The 2026 U.S. Junior Amateur has moved on to match play, and so far much of the attention has been on a competitor who narrowly missed out on the final rounds: Charlie Woods. The 17-year-old son of three-time U.S. Junior Am champ Tiger Woods lost in a 14-man playoff on Wednesday for the final two spots in the match-play portion of the event. His effort was made harder by an intrusive camera click from a spectator.\n\nBut another competitor, James Nagle, saw his hopes of a U.S. Junior Amateur triumph end much earlier. Rather than a result of his play, Nagle’s exit came in the form of a DQ on Monday, a result of breaching a rare, recently adopted rule.",
         "copy": "The 2026 U.S. Junior Amateur has moved on to match play, and so far much of the attention has been on a competitor who narrowly missed out on the final rounds: Charlie Woods. The 17-year-old son of three-time U.S. Junior Am champ Tiger Woods lost in a 14-man playoff on Wednesday for the final two spots in the match-play portion of the event. His effort was made harder by an intrusive camera click from a spectator.\n\nBut another competitor, James Nagle, saw his hopes of a U.S. Junior Amateur triumph end much earlier. Rather than a result of his play, Nagle’s exit came in the form of a DQ on Monday, a result of breaching a rare, recently adopted rule.",
         "first_seen": "2026-07-23T13:51:26.631895+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "LIV Golf",
+        "kind": "gnews",
+        "title": "LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdURrZ29yMmZ6WmwyNXoyYkdrV0dfWG9MQmlCMjZESjRXTHd4WjVyaVVwbV9MclBLOHRUb21ZcDRIQlZ5X0ZGSjhxM2hCVW9tT0ZCLU5nckFJeEdDR2wzb3d2WHBKQXdZQU9rQ2xXbVJMLXQ2R2pmWnBMbG9qc18tRHZGMWFPZw?oc=5",
+        "published": "2026-07-23T11:47:29+00:00",
+        "published_label": "Thu 23 Jul, 11:47",
+        "summary": "LIV Golf LIV Golf",
+        "body": "Gain exclusive access to premium LIV content and never miss a beat. When you visit our website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is used to make the website work as you expect it to, to improve your experience, for functional and security reasons, and for targeted advertising purposes. In certain jurisdictions, certain use of your personal information for targeted advertising purposes may be considered a “sale” or “sharing” of your information. Because we respect your right to privacy, you can choose not to allow some types of cookies, including those used for targeted advertising – to opt out of the sale or sharing of your personal information, please reject non-essential cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the website and the services we are able to offer.\n\nFor more information about our privacy and cookie practices, please visit our Privacy Policy. To opt out of other types of disclosures that do not involve browser-based automated technologies, including some other types of selling or sharing of your personal information under certain applicable laws, please visit: Your Privacy Choices.",
+        "copy": "Gain exclusive access to premium LIV content and never miss a beat. When you visit our website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is used to make the website work as you expect it to, to improve your experience, for functional and security reasons, and for targeted advertising purposes. In certain jurisdictions, certain use of your personal information for targeted advertising purposes may be considered a “sale” or “sharing” of your information. Because we respect your right to privacy, you can choose not to allow some types of cookies, including those used for targeted advertising – to opt out of the sale or sharing of your personal information, please reject non-essential cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the website and the services we are able to offer.\n\nFor more information about our privacy and cookie practices, please visit our Privacy Policy. To opt out of other types of disclosures that do not involve browser-based automated technologies, including some other types of selling or sharing of your personal information under certain applicable laws, please visit: Your Privacy Choices.",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
       },
       {
         "section": "Golf",
@@ -7557,97 +7544,6 @@
         "body": "Eric Cole, one day after shooting an Open Championship score that bested only nine players, says he didn’t play that badly. He even felt he played “kind of good honestly.” As you can probably surmise, the circumstances were more than interesting.\n\n“Yesterday was a very interesting day for me,” Cole said. Friday, he was in good spirits to dish, after shooting one of the day’s best numbers at Royal Birkdale. On his second time around the English gem, Cole followed a 3rd-hole bogey with seven birdies for a six-under 64 that moved him inside the projected cutline when his round finished.",
         "copy": "Eric Cole, one day after shooting an Open Championship score that bested only nine players, says he didn’t play that badly. He even felt he played “kind of good honestly.” As you can probably surmise, the circumstances were more than interesting.\n\n“Yesterday was a very interesting day for me,” Cole said. Friday, he was in good spirits to dish, after shooting one of the day’s best numbers at Royal Birkdale. On his second time around the English gem, Cole followed a 3rd-hole bogey with seven birdies for a six-under 64 that moved him inside the projected cutline when his round finished.",
         "first_seen": "2026-07-17T17:10:32.876316+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Open Championship Saturday tee times: Round 3 pairings",
-        "link": "https://golf.com/news/2026-open-championship-saturday-tee-times-round-3-pairings/",
-        "published": "2026-07-17T15:12:34+00:00",
-        "published_label": "Fri 17 Jul, 15:12",
-        "summary": "2026 Open Championship tee times for Saturday's third round at Royal Birkdale, featuring Scottie Scheffler, Cameron Young and more. The post 2026 Open Championship Saturday tee times: Round 3 pairings appeared first on Golf .",
-        "body": "The 2026 Open Championship continues on Saturday, July 18, with Round 3 at Royal Birkdale in Southport, England. You can find full Open Championship tee times for Saturday’s third round at the bottom of this post once they are released Friday night.\n\nOnce the final putt falls Friday evening at the 2026 Open Championship, the cut will be made, and only then will we know the exact tee times for Saturday at Royal Birkdale. What we do know is that the players who make the cut will play the third round in pairings of two players based on leaderboard position. The leaders will tee off in the final pairings Saturday afternoon, with the players at the bottom of the leaderboard teeing off in the early morning.",
-        "copy": "The 2026 Open Championship continues on Saturday, July 18, with Round 3 at Royal Birkdale in Southport, England. You can find full Open Championship tee times for Saturday’s third round at the bottom of this post once they are released Friday night.\n\nOnce the final putt falls Friday evening at the 2026 Open Championship, the cut will be made, and only then will we know the exact tee times for Saturday at Royal Birkdale. What we do know is that the players who make the cut will play the third round in pairings of two players based on leaderboard position. The leaders will tee off in the final pairings Saturday afternoon, with the players at the bottom of the leaderboard teeing off in the early morning.",
-        "first_seen": "2026-07-17T17:10:32.876316+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Why Collin Morikawa tested irons off a cart path for The Open",
-        "link": "https://golf.com/gear/irons/collin-morikawa-irons-off-cart-path-open-championship/",
-        "published": "2026-07-17T15:04:50+00:00",
-        "published_label": "Fri 17 Jul, 15:04",
-        "summary": "In this week's Tour Report, the reason why Collin Morikawa tested irons off a cart path to get ready for the Open Championship. The post Why Collin Morikawa tested irons off a cart path for The Open appeared first on Golf .",
-        "body": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nCollin Morikawa is using the same blueprint that won him the Claret Jug in 2021. At Royal St. George’s five years ago, Morikawa benched nearly his entire set of TaylorMade P730s for a set of P7MCs.",
-        "copy": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nCollin Morikawa is using the same blueprint that won him the Claret Jug in 2021. At Royal St. George’s five years ago, Morikawa benched nearly his entire set of TaylorMade P730s for a set of P7MCs.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Two record-equalling 62s at The Open",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/ckg3n04n0v0o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-17T14:40:37+00:00",
-        "published_label": "Fri 17 Jul, 14:40",
-        "summary": "Australia's Lucas Herbert and Sam Burns of the United States both shoot eight-under 62s to equal the lowest rounds in men's major history.",
-        "body": "In the space of about 20 minutes, two players added to men's major golf history at Royal Birkdale - but the reactions on the 18th green could not have been more contrasting. When Australia's Lucas Herbert missed a five-foot par putt on the last, there was a grimace from him and a groan from the galleries.\n\nThe bogey meant he had missed a golden chance to become the first man to shoot 61 at one of the sport's blue-riband events. Shortly afterwards, Sam Burns of the United States chipped in from a greenside bunker to also record an eight-under-par round of 62.",
-        "copy": "In the space of about 20 minutes, two players added to men's major golf history at Royal Birkdale - but the reactions on the 18th green could not have been more contrasting. When Australia's Lucas Herbert missed a five-foot par putt on the last, there was a grimace from him and a groan from the galleries.\n\nThe bogey meant he had missed a golden chance to become the first man to shoot 61 at one of the sport's blue-riband events. Shortly afterwards, Sam Burns of the United States chipped in from a greenside bunker to also record an eight-under-par round of 62.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Herbert feels 'all the emotions' after record-equalling round at The Open",
-        "link": "https://www.bbc.co.uk/sport/golf/videos/cvg0d7kr4ygo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-17T14:38:32+00:00",
-        "published_label": "Fri 17 Jul, 14:38",
-        "summary": "Australia's Lucas Herbert admits to experiencing a whirlwind of 'emotions' at Royal Birkdale after his sensational, record-equalling eight-under-par 62. The 30-year-old came close to making golf history by reaching nine under through 17 holes, only for a closing bogey to cost him the first ever 61 in a men's major championship.",
-        "body": "This content is not available in your location. Australia's Lucas Herbert admits to experiencing a whirlwind of 'emotions' at Royal Birkdale after his sensational, record-equalling eight-under-par 62. The 30-year-old came close to making golf history by reaching nine under through 17 holes, only for a closing bogey to cost him the first 61 in a men's major championship.",
-        "copy": "This content is not available in your location. Australia's Lucas Herbert admits to experiencing a whirlwind of 'emotions' at Royal Birkdale after his sensational, record-equalling eight-under-par 62. The 30-year-old came close to making golf history by reaching nine under through 17 holes, only for a closing bogey to cost him the first 61 in a men's major championship.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Fantastic finish'",
-        "link": "https://www.bbc.co.uk/sport/golf/videos/ckg3n8dzvyko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-17T14:34:05+00:00",
-        "published_label": "Fri 17 Jul, 14:34",
-        "summary": "Sam Burns joins Lucas Herbert in equalling the record for lowest round at a men's major, with a score of 62 during the second round of the 2026 Open Championship at Royal Birkdale golf club.",
-        "body": "",
-        "copy": "Sam Burns joins Lucas Herbert in equalling the record for lowest round at a men's major, with a score of 62 during the second round of the 2026 Open Championship at Royal Birkdale golf club.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Oh dear' - Herbert bogeys 18th to miss out on record-breaking round of 61",
-        "link": "https://www.bbc.co.uk/sport/golf/videos/cy748kgm55zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-17T14:11:36+00:00",
-        "published_label": "Fri 17 Jul, 14:11",
-        "summary": "Australia's Lucas Herbert misses a golden chance to secure the lowest round of golf at a men's major, pulling his five-foot putt wide to finish with a second round score of 62 at the 2026 Open Championship at Royal Birkdale Golf Club.",
-        "body": "This content is not available in your location. Australia's Lucas Herbert misses a golden chance to secure the lowest round of golf at a men's major, pulling his five-foot putt wide to finish with a second round score of 62 at the 2026 Open Championship at Royal Birkdale Golf Club.",
-        "copy": "This content is not available in your location. Australia's Lucas Herbert misses a golden chance to secure the lowest round of golf at a men's major, pulling his five-foot putt wide to finish with a second round score of 62 at the 2026 Open Championship at Royal Birkdale Golf Club.",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Sports News, Transfers, Scores | Watch Live Sport",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Iajl1Z1JQUEpDcnNkRFBPd2xfR20tN24xZUxKeFdqWkJTbVUxYkQ4MHFnVm9kbncxWkw0cFNXZkNaV25Dcm83WElrWWd1b015UmJyaXBlNlBHMThhbmQ3SkJWajlCcVJmODdpZ0tmMGVXSkk?oc=5",
-        "published": "2026-07-17T13:49:05+00:00",
-        "published_label": "Fri 17 Jul, 13:49",
-        "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-17T15:12:42.741928+00:00"
       }
     ],
     "Badminton": [
@@ -7689,6 +7585,19 @@
         "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
         "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
         "first_seen": "2026-07-24T09:45:00.771486+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships 2026: 5 underdogs who could spring a surprise in New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXlVTzdHMngyMmxFcXYwN1hGbEtBMVc2Z2gwYTRxRWRNWllLbGdSWlBzNkd0NjJhb2pmSTRfdHh5b0sxZVNfMUVNRHpvOVpNTkUyc01XOTVkX1NTM2tuTFhPZTJIQTdOaDVqQVNndUpTVkhHZVVCNE1scFZnNmd0ZnlXMUdjTDh4QTNUQm5LSjNCVHBPUEsxT1dJVnI3VUkyNGtaeUhBdUFIYzZXNGZUUWpCVUtuQ0JpVmNmQjNhSDZCSWstaWpDUnU0WmRtNDM5d05F?oc=5",
+        "published": "2026-07-24T08:24:00+00:00",
+        "published_label": "Fri 24 Jul, 08:24",
+        "summary": "BWF World Championships 2026: 5 underdogs who could spring a surprise in New Delhi ANI News",
+        "body": "New Delhi [India], July 24 (ANI): Every BWF World Championships has its share of unforgettable upsets. While the biggest names often dominate the headlines, history has shown that young challengers can seize their moment and transform their careers in a single week. As New Delhi prepares to host the BWF World Championships from August 17-23, a new generation of players will arrive eager to test themselves against the sport's biggest stars.Badminton  Asia Championships. On that run, he defeated three top-10 players, including Paris Olympics Silver Medallist Kunlavut Vitidsarn, before finishing with the silver medal.Badminton  Asia Championships, where she defeated World No. 11 Supanida Katethong of Thailand in one of the biggest upsets of the opening round. These performances have shown that she is capable of handling pressure and competing with some of the world's best players. With home support behind her and growing confidence from her recent results, Unnati has the ability to put together another strong run and emerge as one of the surprise medallists in New Delhi.Badminton  Asia Badminton  Asia Mixed Team Championships title in 2025 and later defeated World No. 3 Anders Antonsen during the Sudirman Cup group stage.\n\nWinning the Macau Open Super 300 later that year further proved that he can deliver under pressure over an entire tournament. With his aggressive style, quick movement and growing confidence against top-ranked opponents, Alwi has all the ingredients to emerge as one of the surprise medal contenders in New Delhi.",
+        "copy": "New Delhi [India], July 24 (ANI): Every BWF World Championships has its share of unforgettable upsets. While the biggest names often dominate the headlines, history has shown that young challengers can seize their moment and transform their careers in a single week. As New Delhi prepares to host the BWF World Championships from August 17-23, a new generation of players will arrive eager to test themselves against the sport's biggest stars.Badminton  Asia Championships. On that run, he defeated three top-10 players, including Paris Olympics Silver Medallist Kunlavut Vitidsarn, before finishing with the silver medal.Badminton  Asia Championships, where she defeated World No. 11 Supanida Katethong of Thailand in one of the biggest upsets of the opening round. These performances have shown that she is capable of handling pressure and competing with some of the world's best players. With home support behind her and growing confidence from her recent results, Unnati has the ability to put together another strong run and emerge as one of the surprise medallists in New Delhi.Badminton  Asia Badminton  Asia Mixed Team Championships title in 2025 and later defeated World No. 3 Anders Antonsen during the Sudirman Cup group stage.\n\nWinning the Macau Open Super 300 later that year further proved that he can deliver under pressure over an entire tournament. With his aggressive style, quick movement and growing confidence against top-ranked opponents, Alwi has all the ingredients to emerge as one of the surprise medal contenders in New Delhi.",
+        "first_seen": "2026-07-24T15:25:43.326051+00:00"
       },
       {
         "section": "Badminton",
@@ -8617,5 +8526,5 @@
       }
     ]
   },
-  "total": 661
+  "total": 654
 }
