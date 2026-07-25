@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T08:04:06.962980+00:00",
-  "generated_label": "Saturday 25 July 2026, 08:04 UTC",
+  "generated_at": "2026-07-25T09:19:22.864574+00:00",
+  "generated_label": "Saturday 25 July 2026, 09:19 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Mexico’s Claudia Sheinbaum puts faith in petrol price cap",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUJKMXA4NHplR093a3pTMzV4RnY5VF91VHFVdkhqMFdoZXl4RnBnVEdLLWQzRW5DLUZIREFlYTR2T2g1eVJEMlMxNWJxYmZCOEJGNmRUZDBMZ3VzZVZqMWVVMWh3Uk8xTE5WUFhqcjMzSDlSUlJxMWt6QlpqTXV4UWNqMkk?oc=5",
+        "published": "2026-07-25T04:06:38+00:00",
+        "published_label": "Sat 25 Jul, 04:06",
+        "summary": "Mexico’s Claudia Sheinbaum puts faith in petrol price cap Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-25T09:19:22.864574+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -3731,61 +3744,22 @@
         "body": "With Eden Park’s record on the line, Ireland entered the contest in solid form, also winning their two Nations Championship fixtures as they looked to beat the All Blacks in Auckland.\n\nThe home side started strongly, leading 14-0 in the opening half hour before Ireland hit back through Jack Conan with Luke Jacobson in the bin. Both teams held each other out defensively in the second half, but the All Blacks managed to keep their cool in the final quarter to go three-from-three under Dave Rennie.",
         "copy": "With Eden Park’s record on the line, Ireland entered the contest in solid form, also winning their two Nations Championship fixtures as they looked to beat the All Blacks in Auckland.\n\nThe home side started strongly, leading 14-0 in the opening half hour before Ireland hit back through Jack Conan with Luke Jacobson in the bin. Both teams held each other out defensively in the second half, but the All Blacks managed to keep their cool in the final quarter to go three-from-three under Dave Rennie.",
         "first_seen": "2026-07-18T11:01:58.260013+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "All Blacks punish Ireland in dominant Eden Park win",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c4gk5exp8eko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-18T09:15:09+00:00",
-        "published_label": "Sat 18 Jul, 09:15",
-        "summary": "Ruthless New Zealand score five tries to overwhelm Ireland and preserve their 32-year unbeaten run at Eden Park in a largely one-sided Nations Championship contest.",
-        "body": "Ruthless New Zealand scored six tries to overwhelm Ireland and preserve their 32-year unbeaten run at Eden Park in a largely one-sided Nations Championship contest. Buoyed by victories over France and Italy, the All Blacks punished a litany of first-half Irish errors as Patrick Tuipulotu, Ardie Savea, Will Jordan and Asafo Aumua all crossed to secure the bonus point.\n\nIreland's solitary first-half score from Jack Conan came after Luke Jacobson was yellow carded for a dangerous clearout on Josh van der Flier, with the New Zealand flanker avoiding a red card following an off-field review.",
-        "copy": "Ruthless New Zealand scored six tries to overwhelm Ireland and preserve their 32-year unbeaten run at Eden Park in a largely one-sided Nations Championship contest. Buoyed by victories over France and Italy, the All Blacks punished a litany of first-half Irish errors as Patrick Tuipulotu, Ardie Savea, Will Jordan and Asafo Aumua all crossed to secure the bonus point.\n\nIreland's solitary first-half score from Jack Conan came after Luke Jacobson was yellow carded for a dangerous clearout on Josh van der Flier, with the New Zealand flanker avoiding a red card following an off-field review.",
-        "first_seen": "2026-07-18T11:01:58.260013+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Ireland player ratings vs New Zealand | Nations Championship 2026",
-        "link": "https://www.rugbypass.com/news/ireland-player-ratings-vs-new-zealand-nations-championship-2026/",
-        "published": "2026-07-18T09:14:33+00:00",
-        "published_label": "Sat 18 Jul, 09:14",
-        "summary": "Ireland player ratings: A mammoth task awaited Andy Farrell's men at Eden Park, but this was one in which Ireland repeatedly shot themselves in the proverbial foot.",
-        "body": "Ireland player ratings: A mammoth task awaited Andy Farrell’s men at Eden Park, but this was one in which Ireland repeatedly shot themselves in the proverbial foot. Endless errors, ill-discipline and basic execution failures meant they never really got a look-in, while the All Blacks were utterly ruthless whenever an opportunity presented itself. Ireland’s defensive system malfunctioned too often and too many tackles were slipped.\n\nTo their credit, they fought back valiantly and stopped the scoreboard from becoming truly ugly, but much of this 40-21 defeat felt like damage limitation. Not flawless, but deserves some credit for a scrum that held up better than many expected against quality opposition. There were a few costly pre-engagement penalties and he was partly implicated in the breakdown that led to New Zealand’s opening try, but there was enough set-piece stability to prevent things getting completely out of hand.",
-        "copy": "Ireland player ratings: A mammoth task awaited Andy Farrell’s men at Eden Park, but this was one in which Ireland repeatedly shot themselves in the proverbial foot. Endless errors, ill-discipline and basic execution failures meant they never really got a look-in, while the All Blacks were utterly ruthless whenever an opportunity presented itself. Ireland’s defensive system malfunctioned too often and too many tackles were slipped.\n\nTo their credit, they fought back valiantly and stopped the scoreboard from becoming truly ugly, but much of this 40-21 defeat felt like damage limitation. Not flawless, but deserves some credit for a scrum that held up better than many expected against quality opposition. There were a few costly pre-engagement penalties and he was partly implicated in the breakdown that led to New Zealand’s opening try, but there was enough set-piece stability to prevent things getting completely out of hand.",
-        "first_seen": "2026-07-18T09:22:28.168794+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "All Blacks player ratings vs Ireland | 2026 Nations Championship",
-        "link": "https://www.rugbypass.com/news/all-blacks-player-ratings-vs-ireland-2026-nations-championship/",
-        "published": "2026-07-18T09:10:17+00:00",
-        "published_label": "Sat 18 Jul, 09:10",
-        "summary": "The All Blacks' 52-game unbeaten run at Eden Park went on the line in front of 48,153 of the team's most devoted followers, and it was Ireland with the latest challenge to the historic record.",
-        "body": "The All Blacks‘ 52-game unbeaten run at Eden Park went on the line in front of 48,153 of the team’s most devoted followers, and it was Ireland with the latest challenge to the historic record.\n\nNew Zealand ran out to an early 14-0 lead before a yellow card to Luke Jacobson contributed to some momentum for Ireland, but the visitors were their own worst enemies after a try to Jack Conan and gifted Will Jordan a response, with Asafo Aumua following suit three minutes later to give the hosts a 28-7 lead at the break.",
-        "copy": "The All Blacks‘ 52-game unbeaten run at Eden Park went on the line in front of 48,153 of the team’s most devoted followers, and it was Ireland with the latest challenge to the historic record.\n\nNew Zealand ran out to an early 14-0 lead before a yellow card to Luke Jacobson contributed to some momentum for Ireland, but the visitors were their own worst enemies after a try to Jack Conan and gifted Will Jordan a response, with Asafo Aumua following suit three minutes later to give the hosts a 28-7 lead at the break.",
-        "first_seen": "2026-07-18T09:22:28.168794+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "All Blacks extend Eden Park unbeaten streak with clinical win over Ireland",
-        "link": "https://www.rugbypass.com/news/all-blacks-extend-eden-park-unbeaten-streak-with-clinical-win/",
-        "published": "2026-07-18T09:07:22+00:00",
-        "published_label": "Sat 18 Jul, 09:07",
-        "summary": "The All Blacks have extended their unbeaten streak at Eden Park to 53 Tests with a win over Ireland in the Nations Championship.",
-        "body": "The All Blacks have extended their unbeaten streak at Eden Park to 53 Tests with a 40-21 win over Ireland in the Nations Championship. It’s been 11,703 days since New Zealand last tasted defeat at the venue, but that record will stand for at least another three months.\n\nIreland and New Zealand fans made their way to The Garden for one of the most anticipated Tests of the Nations Championship so far. Both sides had spoken this week about their confidence and self-belief, but it was time for rugby to do the talking.",
-        "copy": "The All Blacks have extended their unbeaten streak at Eden Park to 53 Tests with a 40-21 win over Ireland in the Nations Championship. It’s been 11,703 days since New Zealand last tasted defeat at the venue, but that record will stand for at least another three months.\n\nIreland and New Zealand fans made their way to The Garden for one of the most anticipated Tests of the Nations Championship so far. Both sides had spoken this week about their confidence and self-belief, but it was time for rugby to do the talking.",
-        "first_seen": "2026-07-18T09:22:28.168794+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-25T08:39:57+00:00",
+        "published_label": "Sat 25 Jul, 08:39",
+        "summary": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pull out of the Masters 1000 event.",
+        "body": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pulled out of the Masters 1000 event.\n\nSinner, who beat Alexander Zverev to win the Wimbledon title this month, said he had withdrawn from the ATP tournament, which takes place from 2-13 August in Montreal, to prioritise his health.",
+        "copy": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pulled out of the Masters 1000 event.\n\nSinner, who beat Alexander Zverev to win the Wimbledon title this month, said he had withdrawn from the ATP tournament, which takes place from 2-13 August in Montreal, to prioritise his health.",
+        "first_seen": "2026-07-25T09:19:22.864574+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4178,6 +4152,32 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau gives an honest reflection on his season after missing three major cuts",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkI5cGhMQnUtY3NqODJnMnZ6LXVndDJobVVmX2ZTYURKcWFtNFlOeUdWdUJZVVRTOGxxeXZHajFPSER3WlBVRDJWM2RMU2RiQzBjZmNvOVVENUFkSEFmMWVlc2NrTW9oNmVmWEJKbVF3NXhCeFROYjFNUnI0bXc2SllKLTFZV1JWZ1ZzMjVBYUctdUx6YmpzUmo5eG9ac0Q3QTRZV1ljRk1DY1hfTk9OUg?oc=5",
+        "published": "2026-07-25T09:00:00+00:00",
+        "published_label": "Sat 25 Jul, 09:00",
+        "summary": "Bryson DeChambeau gives an honest reflection on his season after missing three major cuts hitc.com",
+        "body": "It’s been a disappointing season for someone of the talent of Bryson DeChambeau. The two-time US Open winner entered The Open Championship looking to avoid becoming the first multiple-time major winner under 40 to miss all four major cuts in a single season. He did so, finishing T14, but it only papered over what has been a poor year at the biggest events.\n\nIt’s been slightly better on LIV, where DeChambeau has won twice this season, but Jon Rahm is still threatening to run away with the individual title, winning for the third straight season. DeChambeau may be LIV’s biggest star, but Rahm is clearly LIV’s best player.",
+        "copy": "It’s been a disappointing season for someone of the talent of Bryson DeChambeau. The two-time US Open winner entered The Open Championship looking to avoid becoming the first multiple-time major winner under 40 to miss all four major cuts in a single season. He did so, finishing T14, but it only papered over what has been a poor year at the biggest events.\n\nIt’s been slightly better on LIV, where DeChambeau has won twice this season, but Jon Rahm is still threatening to run away with the individual title, winning for the third straight season. DeChambeau may be LIV’s biggest star, but Rahm is clearly LIV’s best player.",
+        "first_seen": "2026-07-25T09:19:22.864574+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "President Donald Trump dodges Bryson DeChambeau controversy after intervention claims",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUpJaFVNazNvRE90ZkZrUU5RRnd0RGszaHhyMzI4ZTVIWko4TWxtWlNmRjNTeEpfZVBzN2VsdHg5ZW5MSkRVSkctSE1XN3lCVnN6Vy1YM00wSkFiVEs2RXAxczBXM1p4akVZZ1pyQlMwdU82dVR5SGJpR2xuZV91OGZYaHdsLXBfanJ6LUpuRkVpc05OYlFQLXRCbWFNM3VNaU5xMy16NFdEdFBTVFZseXhqeFJzTW9kMXV1OTJmRjBBWEktekNnSTZVSVlueGprX3FJ?oc=5",
+        "published": "2026-07-25T08:23:27+00:00",
+        "published_label": "Sat 25 Jul, 08:23",
+        "summary": "President Donald Trump dodges Bryson DeChambeau controversy after intervention claims Sky Sports",
+        "body": "Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
+        "copy": "Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
+        "first_seen": "2026-07-25T09:19:22.864574+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -7154,48 +7154,48 @@
         "body": "The Open Championship returns to St. Andrews next year. Enough said, right? But should you need a few more words, Jack Nicklaus can expound. Five years ago at St. Andrews, at the 150th playing of the Open, the 18-time major winner was asked what made the Scottish course so magical.\n\n“When I came here in 1964, I couldn’t believe that St. Andrews was a golf course that would still test golfers of that time. Now, that’s, what, 60 years ago? Close. Anyway, I didn’t think — it still tests the golfers at this time,” Nicklaus said. “It’s a magical golf course.",
         "copy": "The Open Championship returns to St. Andrews next year. Enough said, right? But should you need a few more words, Jack Nicklaus can expound. Five years ago at St. Andrews, at the 150th playing of the Open, the 18-time major winner was asked what made the Scottish course so magical.\n\n“When I came here in 1964, I couldn’t believe that St. Andrews was a golf course that would still test golfers of that time. Now, that’s, what, 60 years ago? Close. Anyway, I didn’t think — it still tests the golfers at this time,” Nicklaus said. “It’s a magical golf course.",
         "first_seen": "2026-07-18T11:01:58.260013+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 British Open Saturday channel: How to watch Round 3 on TV",
-        "link": "https://golf.com/news/2026-british-open-saturday-channel-watch-tv/",
-        "published": "2026-07-18T09:09:49+00:00",
-        "published_label": "Sat 18 Jul, 09:09",
-        "summary": "What channel is the 2026 British Open on Saturday? Here is the complete British Open TV schedule and viewer's guide for Round 3. The post 2026 British Open Saturday channel: How to watch Round 3 on TV appeared first on Golf .",
-        "body": "The 2026 British Open cut has been made, and now the action continues on Saturday at Royal Birkdale as competitors inch closer to the Claret Jug. If you’re wondering what channel the British Open is on Saturday, we have you covered. Here’s the full 2026 British Open Saturday TV schedule and streaming information.\n\nWhat channel is British Open on Saturday? NBC and USA will offer TV coverage for Saturday’s third round of the 2026 British Open. USA opens the early coverage at 5 a.m. ET with a two-hour telecast. After that, NBC will take over for a long third-round broadcast from 7 a.m.-3 p.m. ET.",
-        "copy": "The 2026 British Open cut has been made, and now the action continues on Saturday at Royal Birkdale as competitors inch closer to the Claret Jug. If you’re wondering what channel the British Open is on Saturday, we have you covered. Here’s the full 2026 British Open Saturday TV schedule and streaming information.\n\nWhat channel is British Open on Saturday? NBC and USA will offer TV coverage for Saturday’s third round of the 2026 British Open. USA opens the early coverage at 5 a.m. ET with a two-hour telecast. After that, NBC will take over for a long third-round broadcast from 7 a.m.-3 p.m. ET.",
-        "first_seen": "2026-07-18T09:22:28.168794+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Graeme McDowell reacts to Bryson DeChambeau being handed a penalty at The Open",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2Vua0YwMXZ4eFlaSnJzNnBkb0tGaHJpTlF4eDh6NVhyeUcwZWFtajh3d0xCeThpN1J5cDlCSFJQT0l1c0ZIVW9PMnhRVHVOeFltbHlCb3JfN0pwb0M2MEpuQ3liN014VzVrcUMtejJacHQ2X3lOZFI3RnpobnFhZFZJNmd6d2d0SHBzelBkS19Nc242NGxIaXAyWTBtb1RYemc?oc=5",
-        "published": "2026-07-18T09:00:00+00:00",
-        "published_label": "Sat 18 Jul, 09:00",
-        "summary": "Graeme McDowell reacts to Bryson DeChambeau being handed a penalty at The Open hitc.com",
-        "body": "Graeme McDowell believes that Bryson DeChambeau did not mean to improve his lie on the fifth hole during the second round of The Open Championship, but probably did deserve a penalty over the incident.\n\nWhatever happens over the final two days at Royal Birkdale, the 2026 Open Championship is likely to be remembered for the trials and tribulations of Bryson DeChambeau. Drama has followed the LIV Golf star around Southport this week.",
-        "copy": "Graeme McDowell believes that Bryson DeChambeau did not mean to improve his lie on the fifth hole during the second round of The Open Championship, but probably did deserve a penalty over the incident.\n\nWhatever happens over the final two days at Royal Birkdale, the 2026 Open Championship is likely to be remembered for the trials and tribulations of Bryson DeChambeau. Drama has followed the LIV Golf star around Southport this week.",
-        "first_seen": "2026-07-18T11:01:58.260013+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Open Championship Saturday TV coverage: How to watch Round 3",
-        "link": "https://golf.com/news/2026-open-championship-saturday-tv-coverage-watch-3/",
-        "published": "2026-07-18T08:49:45+00:00",
-        "published_label": "Sat 18 Jul, 08:49",
-        "summary": "How to watch the 2026 Open Championship on Saturday, including full Open TV coverage and streaming info for Round 3 at Royal Birkdale. The post 2026 Open Championship Saturday TV coverage: How to watch Round 3 appeared first on Golf .",
-        "body": "The third round of the 2026 Open Championship kicks off Saturday morning at Royal Birkdale in England. Here’s everything you need to know to watch the tournament on Saturday, including full Open Championship TV coverage, streaming details and complete Round 3 tee times.\n\nThere are a host of stars in the mix heading into the third round of the 2026 Open at Royal Birkdale, but all eyes will be on one of them: Bryson DeChambeau. DeChambeau fired a stellar four-under 66 in Round 2 to charge into solo second place, one shot behind leader Lucas Herbert. But following an intense debate with rules officials after his round, DeChambeau was assessed to a two-shot penalty for improving his lie on the 5th hole.",
-        "copy": "The third round of the 2026 Open Championship kicks off Saturday morning at Royal Birkdale in England. Here’s everything you need to know to watch the tournament on Saturday, including full Open Championship TV coverage, streaming details and complete Round 3 tee times.\n\nThere are a host of stars in the mix heading into the third round of the 2026 Open at Royal Birkdale, but all eyes will be on one of them: Bryson DeChambeau. DeChambeau fired a stellar four-under 66 in Round 2 to charge into solo second place, one shot behind leader Lucas Herbert. But following an intense debate with rules officials after his round, DeChambeau was assessed to a two-shot penalty for improving his lie on the 5th hole.",
-        "first_seen": "2026-07-18T09:09:46.348127+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "China Open: Yamaguchi’s Constant Excellence",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1h0RGZEYnRRUUlFcVZTejhEUjZ0dk9wN05GTTRmbElTaWtaWG5kMVZ4NjNGS0doSXJZZENscmZfM3o3OWpEeHVZS1hZazZiLUFpM0VzanhwV2g3bjdRRVZUNnhENWg1UzdaVUVvaG1rbkNoZHJNb1FfNmNDa2poRjFSbnZ3M3d4WEtCYXFvMWlBYmZqMFRjc0RSMlRkenN2WkxzNzJB?oc=5",
+        "published": "2026-07-25T08:07:15+00:00",
+        "published_label": "Sat 25 Jul, 08:07",
+        "summary": "China Open: Yamaguchi’s Constant Excellence BWF World Tour",
+        "body": "Akane Yamaguchi‘s march through 2026 continued unabated on Saturday. At the Changzhou Olympic Sports Center Gymnasium, the Japanese star booked her place in a sixth consecutive final with a 21-10 6-21 21-16 victory over two-time defending champion Wang Zhi Yi at VICTOR China Open 2026.\n\nThe win marked Yamaguchi’s second straight win over Wang after she snapped a six-match losing run against the world No.2 at the Singapore Open in May. It also avenged last year’s semifinal defeat to Wang at the same venue.",
+        "copy": "Akane Yamaguchi‘s march through 2026 continued unabated on Saturday. At the Changzhou Olympic Sports Center Gymnasium, the Japanese star booked her place in a sixth consecutive final with a 21-10 6-21 21-16 victory over two-time defending champion Wang Zhi Yi at VICTOR China Open 2026.\n\nThe win marked Yamaguchi’s second straight win over Wang after she snapped a six-match losing run against the world No.2 at the Singapore Open in May. It also avenged last year’s semifinal defeat to Wang at the same venue.",
+        "first_seen": "2026-07-25T09:19:22.864574+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "USA Track and Field Championships 2026: Sha'Carri Richardson goes golden again, claiming third U.S. 100m title",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUNNZWY5WHoyYjVfR25lMkJUUWdkQTNpYXdEZGxzUjh0YmQybUkxZ25FS0EwZkUwSzNSQ1VSdDVkcjJ4bHVXYTYxS1dSbmdUX2ZERlI4QVA5dk9iaXVDTi1jNjc4aEdXUVJXaF81bTdobHBuRmxQLVpTZFhCc2k3czlhQzFyNDNwcUM4Qi04cjlHdFJ2clYtdlFOZkI5RnBGRGRweTZMb1FDYlphRjdvSUJVQXQ5Sm8?oc=5",
+        "published": "2026-07-25T00:35:00+00:00",
+        "published_label": "Sat 25 Jul, 00:35",
+        "summary": "USA Track and Field Championships 2026: Sha'Carri Richardson goes golden again, claiming third U.S. 100m title olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-25T09:19:22.864574+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "China Open: Chou Stops Shi Streak",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUQ0QnpsQzgydE5pbHNtUDktQklybVpTMEpFb01CV1FXTlYwWXN4dkdaTzl6VG5uekZkVVFmblZhS0JOb2ZWc3dPSkdBWFl2Slkzek5wenZVQXc3M0V1anZKREhzd0JoMU1Jc3o1TjcxQ0h6TERZaV8wRWN4Zy02MENGTlh2ZjdIRXdtVUNwbWVMYTlrbnZmSw?oc=5",
+        "published": "2026-07-24T15:19:12+00:00",
+        "published_label": "Fri 24 Jul, 15:19",
+        "summary": "China Open: Chou Stops Shi Streak BWF World Tour",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-07-24T13:31:35.142668+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7260,19 +7260,6 @@
         "body": "Three years of frustration finally gave way to triumph as Chou Tien Chen ended a nine-match losing streak against defending champion Shi Yu Qi, battling to a 21-14 12-21 21-15 victory in the VICTOR China Open 2026 quarterfinals on Friday.\n\nIt was the Chinese Taipei veteran’s first win over top seed Shi since the team event at the postponed 2022 Asian Games in September 2023, and one built on an aggressive game plan designed to unsettle the home favourite.",
         "copy": "Three years of frustration finally gave way to triumph as Chou Tien Chen ended a nine-match losing streak against defending champion Shi Yu Qi, battling to a 21-14 12-21 21-15 victory in the VICTOR China Open 2026 quarterfinals on Friday.\n\nIt was the Chinese Taipei veteran’s first win over top seed Shi since the team event at the postponed 2022 Asian Games in September 2023, and one built on an aggressive game plan designed to unsettle the home favourite.",
         "first_seen": "2026-07-24T09:45:00.771486+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "China Open: Chou Stops Shi Streak",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUQ0QnpsQzgydE5pbHNtUDktQklybVpTMEpFb01CV1FXTlYwWXN4dkdaTzl6VG5uekZkVVFmblZhS0JOb2ZWc3dPSkdBWFl2Slkzek5wenZVQXc3M0V1anZKREhzd0JoMU1Jc3o1TjcxQ0h6TERZaV8wRWN4Zy02MENGTlh2ZjdIRXdtVUNwbWVMYTlrbnZmSw?oc=5",
-        "published": "2026-07-24T07:26:57+00:00",
-        "published_label": "Fri 24 Jul, 07:26",
-        "summary": "China Open: Chou Stops Shi Streak BWF World Tour",
-        "body": "Three years of frustration finally gave way to triumph as Chou Tien Chen ended a nine-match losing streak against defending champion Shi Yu Qi, battling to a 21-14 12-21 21-15 victory in the VICTOR China Open 2026 quarterfinals on Friday.\n\nIt was the Chinese Taipei veteran’s first win over top seed Shi since the team event at the postponed 2022 Asian Games in September 2023, and one built on an aggressive game plan designed to unsettle the home favourite.",
-        "copy": "Three years of frustration finally gave way to triumph as Chou Tien Chen ended a nine-match losing streak against defending champion Shi Yu Qi, battling to a 21-14 12-21 21-15 victory in the VICTOR China Open 2026 quarterfinals on Friday.\n\nIt was the Chinese Taipei veteran’s first win over top seed Shi since the team event at the postponed 2022 Asian Games in September 2023, and one built on an aggressive game plan designed to unsettle the home favourite.",
-        "first_seen": "2026-07-24T13:31:35.142668+00:00"
       },
       {
         "section": "Badminton",
@@ -8066,19 +8053,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-18T11:01:58.260013+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Japan Open: Pusarla Back in Title Contention",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQUtrTFNzaTNwYy1YRUh5LVd3cW0wY0p0cDZ3VVhIQVJrTGw4OEtKVUFYVGx5UWFTbEg0cEp3Q1MtOW0xcHdxNFZTdklQMlV1M0d1STV4aWVLXzgwUFJjWDM0S3lJZXNNU1BzcXNnSXRsR3FfZnVyQk52TnZwVldjNU15UzNaWkdjRnBST2JRSkhxZktuekQ0V3lfcVczbEsycDhtemI2UXc?oc=5",
-        "published": "2026-07-18T08:19:31+00:00",
-        "published_label": "Sat 18 Jul, 08:19",
-        "summary": "Japan Open: Pusarla Back in Title Contention BWF World Tour",
-        "body": "It has been a while since Pusarla V Sindhu made a major final. Her last World Tour final at a Super 500 tournament was over 25 months ago – the Malaysia Masters in May 2024. For anything above that level, the clock has to be dialled back 55 months, when she was in the title round of the HSBC BWF World Tour Finals 2021.\n\nThe return to title contention came with her first victory over Chen Yu Fei in six matches. Chen retired with a pulled muscle in her right thigh, with the Indian leading 21-19 15-10, but the retirement took nothing away from Pusarla, who looked close to her best all match and had Chen fighting a rearguard battle throughout.",
-        "copy": "It has been a while since Pusarla V Sindhu made a major final. Her last World Tour final at a Super 500 tournament was over 25 months ago – the Malaysia Masters in May 2024. For anything above that level, the clock has to be dialled back 55 months, when she was in the title round of the HSBC BWF World Tour Finals 2021.\n\nThe return to title contention came with her first victory over Chen Yu Fei in six matches. Chen retired with a pulled muscle in her right thigh, with the Indian leading 21-19 15-10, but the retirement took nothing away from Pusarla, who looked close to her best all match and had Chen fighting a rearguard battle throughout.",
-        "first_seen": "2026-07-18T09:09:46.348127+00:00"
       }
     ],
     "Competitor News": [
@@ -8136,5 +8110,5 @@
       }
     ]
   },
-  "total": 624
+  "total": 622
 }
