@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T15:01:45.458211+00:00",
-  "generated_label": "Saturday 25 July 2026, 15:01 UTC",
+  "generated_at": "2026-07-25T16:55:46.945857+00:00",
+  "generated_label": "Saturday 25 July 2026, 16:55 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1496,6 +1496,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Channel Islands score six tries to beat Poland",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjwx2x8gwe6o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-25T15:55:57+00:00",
+        "published_label": "Sat 25 Jul, 15:55",
+        "summary": "The Channel Islands rugby union team beat Poland 38-27 in their second annual \"international\" match.",
+        "body": "The Channel Islands rugby union team beat Poland 38-27 in their second annual \"international\" match. Jack McFarlane crossed in the left corner to give the hosts a ninth-minute lead, but two Dan Tomanek penalties saw Poland go 6-5 up after 16 minutes.\n\nAnthony Armstrong went over on the right wing to put the islands 10-6 up midway through the first half. Charlie Wilkinson was mauled over shortly before half-time after Polish prop Peet Vorster had been sent to the sin-bin.",
+        "copy": "The Channel Islands rugby union team beat Poland 38-27 in their second annual \"international\" match. Jack McFarlane crossed in the left corner to give the hosts a ninth-minute lead, but two Dan Tomanek penalties saw Poland go 6-5 up after 16 minutes.\n\nAnthony Armstrong went over on the right wing to put the islands 10-6 up midway through the first half. Charlie Wilkinson was mauled over shortly before half-time after Polish prop Peet Vorster had been sent to the sin-bin.",
+        "first_seen": "2026-07-25T16:55:46.945857+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3536,84 +3549,6 @@
         "body": "South Africa player ratings: South Africa made it three from three in the Nations Championship with a seven-try 43-0 win over Wales in Durban on Saturday, but it was not a vintage display.\n\nWhile the score suggests this was a routine win for the world champions, they were far from their best, and let plenty of points go begging as a result of some sloppy handling.",
         "copy": "South Africa player ratings: South Africa made it three from three in the Nations Championship with a seven-try 43-0 win over Wales in Durban on Saturday, but it was not a vintage display.\n\nWhile the score suggests this was a routine win for the world champions, they were far from their best, and let plenty of points go begging as a result of some sloppy handling.",
         "first_seen": "2026-07-18T19:00:34.912896+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "England make late change to squad due to injury",
-        "link": "https://www.rugbypass.com/news/asher-opoku-fordjour-withdrawn-from-england-squad-with-concussion/",
-        "published": "2026-07-18T16:43:59+00:00",
-        "published_label": "Sat 18 Jul, 16:43",
-        "summary": "Asher Opoku-Fordjour has been withdrawn from England’s bench for their clash with Argentina in Santiago del Estero because of concussion.",
-        "body": "Asher Opoku-Fordjour has been withdrawn from England’s bench for their clash with Argentina in Santiago del Estero because of concussion. Opoku-Fordjour failed a HIA after taking a head knock in training so George Kloska returns to the replacements as tighthead prop cover after making his debut against Fiji last Saturday.\n\nKloska has had a reduced training load this week due to a tight back but is fit enough to participate in the final fixture of England’s July tour. Opoku-Fordjour, the Sale front row who covers both sides of the scrum, was set to make his first appearance in Argentina since being the target of racial abuse by a small group of Pumas fans in San Juan last year.",
-        "copy": "Asher Opoku-Fordjour has been withdrawn from England’s bench for their clash with Argentina in Santiago del Estero because of concussion. Opoku-Fordjour failed a HIA after taking a head knock in training so George Kloska returns to the replacements as tighthead prop cover after making his debut against Fiji last Saturday.\n\nKloska has had a reduced training load this week due to a tight back but is fit enough to participate in the final fixture of England’s July tour. Opoku-Fordjour, the Sale front row who covers both sides of the scrum, was set to make his first appearance in Argentina since being the target of racial abuse by a small group of Pumas fans in San Juan last year.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "New Zealand U20 break 9-year Junior World Championship England hoodoo",
-        "link": "https://www.rugbypass.com/news/new-zealand-u20-break-9-year-hoodoo-with-win-over-england/",
-        "published": "2026-07-18T16:16:20+00:00",
-        "published_label": "Sat 18 Jul, 16:16",
-        "summary": "Finn McLeod scored two tries and was sin-binned as the Baby Blacks won their first meeting against England for nine years to claim third place in the World Rugby Junior World Championship 2026 with a 41-26 victory.",
-        "body": "Finn McLeod scored two tries and was sin-binned as the Baby Blacks won their first meeting against England for nine years to claim third place in the World Rugby Junior World Championship 2026 with a 41-26 victory.\n\nEngland, who never finished third in the competition, were beaten in the 2017 final by the same opposition and returned to the Mikheil Meskhi Stadium on a revenge mission which they could have got if Sam Winters hadn’t had two tries disallowed.",
-        "copy": "Finn McLeod scored two tries and was sin-binned as the Baby Blacks won their first meeting against England for nine years to claim third place in the World Rugby Junior World Championship 2026 with a 41-26 victory.\n\nEngland, who never finished third in the competition, were beaten in the 2017 final by the same opposition and returned to the Mikheil Meskhi Stadium on a revenge mission which they could have got if Sam Winters hadn’t had two tries disallowed.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Scotland player ratings vs Fiji | Nations Championship 2026",
-        "link": "https://www.rugbypass.com/news/scotland-player-ratings-vs-fiji-nations-championship-2026/",
-        "published": "2026-07-18T15:38:35+00:00",
-        "published_label": "Sat 18 Jul, 15:38",
-        "summary": "Scotland player ratings: A side featuring 14 changes in personnel made heavy weather of dispatching a much-improved Fiji but still ended the first tranche of Nations Championship matches with a bonus-point win.",
-        "body": "Scotland player ratings: A Scotland side featuring 14 changes in personnel made heavy weather of dispatching a much-improved Fiji to end a largely positive first Nations Championship campaign with a bonus-point victory at Murrayfield.\n\nThe South Sea Islanders certainly made them work for it though, responding to an early Jonny Gray try with three excellent first-half scores, including one while they were down to 14 men, to earn a 17-7 half-time lead.",
-        "copy": "Scotland player ratings: A Scotland side featuring 14 changes in personnel made heavy weather of dispatching a much-improved Fiji to end a largely positive first Nations Championship campaign with a bonus-point victory at Murrayfield.\n\nThe South Sea Islanders certainly made them work for it though, responding to an early Jonny Gray try with three excellent first-half scores, including one while they were down to 14 men, to earn a 17-7 half-time lead.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Dobie double helps saves Scotland as Fiji find attacking form in Murrayfield",
-        "link": "https://www.rugbypass.com/news/jamie-dobie-double-sparks-fightback-as-scotland-overcome-fiji-challenge/",
-        "published": "2026-07-18T15:27:26+00:00",
-        "published_label": "Sat 18 Jul, 15:27",
-        "summary": "Replacements Pierre Schoeman and Scott Cummings also grabbed tries as Scotland overturned a 10-point deficit at Murrayfield.",
-        "body": "Jamie Dobie scored a double off the bench as Scotland’s replacements made their mark in a second-half comeback over Fiji. Replacements Pierre Schoeman and Scott Cummings also grabbed tries as Scotland overturned a 10-point deficit to triumph 33-17 in the Nations Championship at Murrayfield.\n\nJonny Gray had opened the scoring for Gregor Townsend’s side but Fiji responded with three first-half tries, the final one when they were temporarily down to 14 men. Scotland had been too predictable in the opening half after Townsend made 14 changes for their final summer encounter.",
-        "copy": "Jamie Dobie scored a double off the bench as Scotland’s replacements made their mark in a second-half comeback over Fiji. Replacements Pierre Schoeman and Scott Cummings also grabbed tries as Scotland overturned a 10-point deficit to triumph 33-17 in the Nations Championship at Murrayfield.\n\nJonny Gray had opened the scoring for Gregor Townsend’s side but Fiji responded with three first-half tries, the final one when they were temporarily down to 14 men. Scotland had been too predictable in the opening half after Townsend made 14 changes for their final summer encounter.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Scotland flirt with defeat before overpowering Fiji",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3w0p3wedj6o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-18T15:25:29+00:00",
-        "published_label": "Sat 18 Jul, 15:25",
-        "summary": "Scotland win a hard-fought bonus-point victory against a reborn Fiji in a pulsating Nations Championship battle at Murrayfield.",
-        "body": "Scotland won a hard-fought bonus-point victory against a reborn Fiji in a pulsating Nations Championship battle at Murrayfield. Gregor Townsend's team finished an impressive autumn campaign with a thunderous second half featuring huge contributions from his bench.\n\nSubstitutes Pierre Schoeman and Scott Cummings both scored when coming on to the field. Another replacement, Jamie Dobie, scored twice. Fiji had been destroyed by England last weekend but came to Murrayfield with a menace and brilliance that was painfully absent just seven days ago.",
-        "copy": "Scotland won a hard-fought bonus-point victory against a reborn Fiji in a pulsating Nations Championship battle at Murrayfield. Gregor Townsend's team finished an impressive autumn campaign with a thunderous second half featuring huge contributions from his bench.\n\nSubstitutes Pierre Schoeman and Scott Cummings both scored when coming on to the field. Another replacement, Jamie Dobie, scored twice. Fiji had been destroyed by England last weekend but came to Murrayfield with a menace and brilliance that was painfully absent just seven days ago.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Fiji player ratings vs Scotland | Nations Championship 2026",
-        "link": "https://www.rugbypass.com/news/fiji-player-ratings-vs-scotland-nations-championship-2026/",
-        "published": "2026-07-18T15:15:37+00:00",
-        "published_label": "Sat 18 Jul, 15:15",
-        "summary": "Fiji player ratings: Even in defeat to Scotland, this was much better from the Flying Fijians at Scottish Gas Murrayfield, their home away from home...",
-        "body": "Fiji player ratings: A massive turnaround after one of the saddest weekends for Fiji rugby, with Fiji contesting for the win until the last second, even though Scotland ended up running away with a 33-17 win at Murrayfield.\n\nIt was like a team was reborn from the ashes, with Fiji going into half-time in the lead thanks to the massive efforts of Josua Tuisova, Elia Canakaivata and Selestino Ravutaumada.",
-        "copy": "Fiji player ratings: A massive turnaround after one of the saddest weekends for Fiji rugby, with Fiji contesting for the win until the last second, even though Scotland ended up running away with a 33-17 win at Murrayfield.\n\nIt was like a team was reborn from the ashes, with Fiji going into half-time in the lead thanks to the massive efforts of Josua Tuisova, Elia Canakaivata and Selestino Ravutaumada.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
       }
     ],
     "Tennis": [
@@ -3996,6 +3931,32 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Lucas Herbert Has 4-Shot Lead On Bryson DeChambeau After Round 2 Of LIV Golf UK",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY2h4ZzFBTlNrOFpCY3pjaVRKLUlNLUM1UHgteUZZdV9qMTZmRHNwU2MxZ2dtMXJBYzZxZ1daaklXYThmSWF0aDhJNzFEWWZqM2xiVkhxcnVybG1MbklnWEIteUo2X3c0Zy1vdmZLVWxCQ1VWb0FjYmU2cVJobDJERzBIanFMcTQ5bFZheHh1d0Y2dTjSAZMBQVVfeXFMTWdfY3VTTlZ1LWxzOEFRdERDVXlIOC02emVhcUItOXhkckpjX1ZPTzJlbnNydjlHa1ZIaXdVdkVyby1zMVUwRGlfenpKLW1aUTVqQkdfaTdWYWptN0QyQlJXVVd6V2c5MXdUcTJGVmVodVFsX2FfdlZaLWo4MmNnb3p6TXpTUXFlWFFyM3R5T3M3V09v?oc=5",
+        "published": "2026-07-25T16:36:29+00:00",
+        "published_label": "Sat 25 Jul, 16:36",
+        "summary": "Lucas Herbert Has 4-Shot Lead On Bryson DeChambeau After Round 2 Of LIV Golf UK FOX Sports",
+        "body": "Lucas Herbert will take a four-shot advantage over Bryson DeChambeau entering this weekend at LIV Golf United Kingdom Presented by JCB. The next closest pursuer is Tyrrell Hatton, but he’s seven shots behind.\n\nHerbert, who went wire-to-wire in Virginia two months ago to claim his first LIV Golf title, hopes he and DeChambeau can continue to separate from the field, leaving them to go toe-to-toe in Sunday’s final round. Only one other scenario would please the Ripper GC star more.",
+        "copy": "Lucas Herbert will take a four-shot advantage over Bryson DeChambeau entering this weekend at LIV Golf United Kingdom Presented by JCB. The next closest pursuer is Tyrrell Hatton, but he’s seven shots behind.\n\nHerbert, who went wire-to-wire in Virginia two months ago to claim his first LIV Golf title, hopes he and DeChambeau can continue to separate from the field, leaving them to go toe-to-toe in Sunday’s final round. Only one other scenario would please the Ripper GC star more.",
+        "first_seen": "2026-07-25T16:55:46.945857+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'It was unreal': Underdog's improbable 3M Open run inspired by late grandma",
+        "link": "https://golf.com/news/underdog-improbable-3m-open-run-inspired-grandma/",
+        "published": "2026-07-25T16:15:28+00:00",
+        "published_label": "Sat 25 Jul, 16:15",
+        "summary": "Muzzy Donohue is contending in his PGA Tour debut at the 2026 3M Open days after his grandmother's death and with his cousin as caddie. The post ‘It was unreal’: Underdog’s improbable 3M Open run inspired by late grandma appeared first on Golf .",
+        "body": "This week is a dream come true for Muzzy Donohue, but it started like a nightmare. On Monday — days before teeing it up at the 2026 3M Open, his first-ever PGA Tour event — Donohue’s grandmother Marcey died.\n\nIt was a shock to the whole family, many of whom are in attendance this week to watch Muzzy, who grew up nearby, make his Tour debut. That includes his cousin Harrison, who is caddying for Muzzy this week.",
+        "copy": "This week is a dream come true for Muzzy Donohue, but it started like a nightmare. On Monday — days before teeing it up at the 2026 3M Open, his first-ever PGA Tour event — Donohue’s grandmother Marcey died.\n\nIt was a shock to the whole family, many of whom are in attendance this week to watch Muzzy, who grew up nearby, make his Tour debut. That includes his cousin Harrison, who is caddying for Muzzy this week.",
+        "first_seen": "2026-07-25T16:55:46.945857+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6829,126 +6790,22 @@
         "body": "McIlroy’s 69 left him on two under, six off the clubhouse lead set by Ryan Fox, the Kiwi who shot the third 62 of the week. “I probably feel like I’m a little too far behind, but never say never.\n\n“There’s been a few 62s and if I go out tomorrow and get to double digits, you never know. But yeah, I certainly am not going out tomorrow thinking like I’ve got a great chance to win.”",
         "copy": "McIlroy’s 69 left him on two under, six off the clubhouse lead set by Ryan Fox, the Kiwi who shot the third 62 of the week. “I probably feel like I’m a little too far behind, but never say never.\n\n“There’s been a few 62s and if I go out tomorrow and get to double digits, you never know. But yeah, I certainly am not going out tomorrow thinking like I’ve got a great chance to win.”",
         "first_seen": "2026-07-18T19:00:34.912896+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Penalty was justified'",
-        "link": "https://www.bbc.co.uk/sport/golf/videos/cm2gygy14w8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-18T16:51:50+00:00",
-        "published_label": "Sat 18 Jul, 16:51",
-        "summary": "Rory McIlroy says the consensus amongst the players competing at the 2026 Open Championship is that the two shot penalty given to Bryson DeChambeau for a rule infringement in the second round is \"justified.\"",
-        "body": "This content is not available in your location. Rory McIlroy says the consensus amongst the players competing at the 2026 Open Championship is that the two shot penalty given to Bryson DeChambeau for a rule infringement in the second round is \"justified.\"",
-        "copy": "This content is not available in your location. Rory McIlroy says the consensus amongst the players competing at the 2026 Open Championship is that the two shot penalty given to Bryson DeChambeau for a rule infringement in the second round is \"justified.\"",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Rory McIlroy accuses Bryson DeChambeau of holding Open ‘hostage’ after penalty",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWdEMWJtcU51a2NUelVFOEROYzJ5Wk1mNVR1cGRVdkdCZm5WdHJjVzJ4MGloRFFXT1ZsanFyTVNIWjNKZnNMV01OQlRFTm5xeGhWREw2bWYwc29nQWFUTUxhUlU1Vmh6ZjgzMVdZc0xoRkR1OUV6NHhEYUt0bGo5S2dwa3ZzSTgzVDhZd1ZrS3d1TGU2T2tNaGNrUkRPN3ZUYnh3bmlYQ3hlcWlxNF8yd25ybWhMMmZHVmRqb0g3VzQ?oc=5",
-        "published": "2026-07-18T16:46:14+00:00",
-        "published_label": "Sat 18 Jul, 16:46",
-        "summary": "Rory McIlroy accuses Bryson DeChambeau of holding Open ‘hostage’ after penalty Somerset County Gazette",
-        "body": "Masters champion Rory McIlroy delivered an extraordinary rebuke to a “performative” Bryson DeChambeau and accused the American of holding the tournament “hostage” over his rules controversy at The Open.\n\nThe Northern Irishman’s dislike of the two-time US Open winner is well known and he refused to speak to him when they played together during the final round of his 2025 win at Augusta which brought him the career grand slam.",
-        "copy": "Masters champion Rory McIlroy delivered an extraordinary rebuke to a “performative” Bryson DeChambeau and accused the American of holding the tournament “hostage” over his rules controversy at The Open.\n\nThe Northern Irishman’s dislike of the two-time US Open winner is well known and he refused to speak to him when they played together during the final round of his 2025 win at Augusta which brought him the career grand slam.",
-        "first_seen": "2026-07-18T19:00:34.912896+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "The Open: Rory McIlroy claims Bryson DeChambeau 'held the tournament hostage' over 'performative' rules drama delay",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeDBmcENzSGk4R3hiaEZDM2s3WXBuc213UjJ4Q2YtSzZIRmYxU0VaS1FoVV9JZmJjOXZPUXVEbDU2dzRMR0dtbXBCZnAtRXdHSUJBeHdkOHVqbEtKRGhVNXMzTTNQME9YdVg0amp4TmFNSHNFV3FYbEFoN0ZZTGZUVXdGZlBVd0pwNFg3RmVZa3JycTEya2tWaktualZSb0pFM0JJbC1CbF9yek81SXVRczhTWG81Nmo0amRTU2dPQVZNcU9BX0VDVjhlZWF3SzM4bjBSbzZpZUY2SFVXVWdHdjNRSm50cjlUV01CaGNESFpmQ1E?oc=5",
-        "published": "2026-07-18T16:27:14+00:00",
-        "published_label": "Sat 18 Jul, 16:27",
-        "summary": "The Open: Rory McIlroy claims Bryson DeChambeau 'held the tournament hostage' over 'performative' rules drama delay Sky Sports",
-        "body": "Rory McIlroy has issued a scathing attack on Bryson DeChambeau over his 'performative' behaviour and ‘holding the tournament hostage’ during his rules fiasco at The Open. DeChambeau appeared to have carded a four-under 66 at Royal Birkdale on Friday evening to move within a shot of the halfway lead, only to be involved in a lengthy ruled dispute with R&A officials.\n\nThe two-time major champion was adjudged to have improved the line of his swing in long grass at the par-four fifth, resulting in a two-shot penalty and dropping him back three strokes behind halfway leader Lucas Herbert.",
-        "copy": "Rory McIlroy has issued a scathing attack on Bryson DeChambeau over his 'performative' behaviour and ‘holding the tournament hostage’ during his rules fiasco at The Open. DeChambeau appeared to have carded a four-under 66 at Royal Birkdale on Friday evening to move within a shot of the halfway lead, only to be involved in a lengthy ruled dispute with R&A officials.\n\nThe two-time major champion was adjudged to have improved the line of his swing in long grass at the par-four fifth, resulting in a two-shot penalty and dropping him back three strokes behind halfway leader Lucas Herbert.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Save $30 on these popular wedges for a limited time",
-        "link": "https://golf.com/gear/wedges/save-30-popular-wedges-limited-time/",
-        "published": "2026-07-18T16:25:24+00:00",
-        "published_label": "Sat 18 Jul, 16:25",
-        "summary": "If your short game could use a boost this summer season, new wedges could be just what the swing doctor ordered. Shop these bargain prices! The post Save $30 on these popular wedges for a limited time appeared first on Golf .",
-        "body": "If your short game could use a boost this summer season, new wedges could be just what the swing doctor ordered. Fresh grooves and modern technology can give you much-needed forgiveness and spin that your current set of aging wedges may be lacking.\n\nSound like something you need? There’s good news: Fairway Jockey is currently offering a selection of wedges on sale for $30 off their regular retail price. You can choose from trusted brands like Titleist, Callaway and TaylorMade in the following models:",
-        "copy": "If your short game could use a boost this summer season, new wedges could be just what the swing doctor ordered. Fresh grooves and modern technology can give you much-needed forgiveness and spin that your current set of aging wedges may be lacking.\n\nSound like something you need? There’s good news: Fairway Jockey is currently offering a selection of wedges on sale for $30 off their regular retail price. You can choose from trusted brands like Titleist, Callaway and TaylorMade in the following models:",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'I'm not fond of him'",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/czdm1emd44no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-18T16:25:22+00:00",
-        "published_label": "Sat 18 Jul, 16:25",
-        "summary": "Rory McIlroy says he has \"no doubt\" over the R&A's decision to impose a two-stroke penalty on Bryson DeChambeau as he accuses the American of holding the Open Championship \"hostage\" at Royal Birkdale.",
-        "body": "Rory McIlroy has accused Bryson DeChambeau of holding the Open Championship \"hostage\" during the dramatic scenes at Royal Birkdale on Friday evening. DeChambeau was penalised two strokes for \"inadvertently improving his lie\" before hitting his second shot at the fifth during the second round.\n\nThe two-time US Open champion was involved in heated and lengthy discussions with R&A rules officials before the penalty was imposed, dropping him from one off the lead to three back, at five under par for the tournament.",
-        "copy": "Rory McIlroy has accused Bryson DeChambeau of holding the Open Championship \"hostage\" during the dramatic scenes at Royal Birkdale on Friday evening. DeChambeau was penalised two strokes for \"inadvertently improving his lie\" before hitting his second shot at the fifth during the second round.\n\nThe two-time US Open champion was involved in heated and lengthy discussions with R&A rules officials before the penalty was imposed, dropping him from one off the lead to three back, at five under par for the tournament.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Open 2026: Rory McIlroy accuses Bryson DeChambeau of holding tournament 'hostage'",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85M1IzS2ZyUkVzRlc0VE05Zy1RYlVsVENyWEM2T2RGRVdGNW55eXhmbVpzQ204WVZIdUZzN1FYcVU2OWNZOXhxRENhVjlfeE5iTzh0VVNteUxsWWZmcjNNQkpHWlI?oc=5",
-        "published": "2026-07-18T16:25:22+00:00",
-        "published_label": "Sat 18 Jul, 16:25",
-        "summary": "Open 2026: Rory McIlroy accuses Bryson DeChambeau of holding tournament 'hostage' BBC",
-        "body": "Rory McIlroy has accused Bryson DeChambeau of holding the Open Championship \"hostage\" during the dramatic scenes at Royal Birkdale on Friday evening. DeChambeau was penalised two strokes for \"inadvertently improving his lie\" before hitting his second shot at the fifth during the second round.\n\nThe two-time US Open champion was involved in heated and lengthy discussions with R&A rules officials before the penalty was imposed, dropping him from one off the lead to three back, at five under par for the tournament.",
-        "copy": "Rory McIlroy has accused Bryson DeChambeau of holding the Open Championship \"hostage\" during the dramatic scenes at Royal Birkdale on Friday evening. DeChambeau was penalised two strokes for \"inadvertently improving his lie\" before hitting his second shot at the fifth during the second round.\n\nThe two-time US Open champion was involved in heated and lengthy discussions with R&A rules officials before the penalty was imposed, dropping him from one off the lead to three back, at five under par for the tournament.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Fellow pros back Bryson DeChambeau following penalty",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnRVc1Vta2FDWi1Jd2ZaZXBIX0xMN2l0bm9mQmtoQkJoVmViUnUya1J0TU5YdnNiVF95QkRNQmw5VkpHUXE3NHYwUjhCUVZEd3lBbVlEd3ZNT1dxTXM1V05jaGl5M2NxWENQcWdwRTlJODZmdVowbHhxMjMxU1l1ZkdoWTJXNjFrMDluSHNn?oc=5",
-        "published": "2026-07-18T15:27:11+00:00",
-        "published_label": "Sat 18 Jul, 15:27",
-        "summary": "Fellow pros back Bryson DeChambeau following penalty bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. It’s late in the afternoon on Saturday at The 154th Open and Bryson DeChambeau’s two-shot penalty on Friday night continues to be the talk of a steamy Royal Birkdale.\n\nIf you’re unfamiliar with the details then, one, how is that possible? And two, read this. The R&A’s decision to dock DeChambeau two strokes has provoked much gnashing of teeth on social media. And now, as players complete their third rounds, it remains the week’s biggest talking point.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. It’s late in the afternoon on Saturday at The 154th Open and Bryson DeChambeau’s two-shot penalty on Friday night continues to be the talk of a steamy Royal Birkdale.\n\nIf you’re unfamiliar with the details then, one, how is that possible? And two, read this. The R&A’s decision to dock DeChambeau two strokes has provoked much gnashing of teeth on social media. And now, as players complete their third rounds, it remains the week’s biggest talking point.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "The Open crowd make Bryson DeChambeau feelings clear after punishment",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdDVmSHBNTFhFLTFub05WUHlhMWZhOWtNbG1JMkltMjd4eTN6MmN4Vk9IczZOaURFZmhBV1czMjRjTWdxVF9mU1FGZDVheG5iYktrdUxEVWQ1OVMwU1JNcDJjUDNHMnhNbmJLcDFwUG9RWEdQVFBSbmRNdTZHSmxFZTJiNEl1ekxGNTNNNVJrbWJ6OWZsU2dVakZpQ1VUOGFKZUk5VlFtZUcxNk95VmlPX0pPM3RKbFA0YldJQThxTGhzTnA3ZTIySG1ERmpNcFN3?oc=5",
-        "published": "2026-07-18T15:13:47+00:00",
-        "published_label": "Sat 18 Jul, 15:13",
-        "summary": "The Open crowd make Bryson DeChambeau feelings clear after punishment facebook.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Open Championship Sunday tee times: Round 4 pairings",
-        "link": "https://golf.com/news/2026-open-championship-sunday-tee-times-round-4-pairings/",
-        "published": "2026-07-18T15:04:17+00:00",
-        "published_label": "Sat 18 Jul, 15:04",
-        "summary": "2026 Open Championship tee times for Sunday's final round at Royal Birkdale, featuring Bryson DeChambeau, Scottie Scheffler and more. The post 2026 Open Championship Sunday tee times: Round 4 pairings appeared first on Golf .",
-        "body": "The 2026 Open Championship comes to an end on Sunday, July 19, with Round 4 at Royal Birkdale in Southport, England. You can find full Open Championship tee times for Sunday’s final round at the bottom of this post once they are released Saturday night.\n\nOnce the final pairing finishes Round 3 Saturday evening at Royal Birkdale, tournament officials will create the tee times for Sunday’s final round at the 2026 Open Championship. Until then, we won’t know what the exact tee times will be.",
-        "copy": "The 2026 Open Championship comes to an end on Sunday, July 19, with Round 4 at Royal Birkdale in Southport, England. You can find full Open Championship tee times for Sunday’s final round at the bottom of this post once they are released Saturday night.\n\nOnce the final pairing finishes Round 3 Saturday evening at Royal Birkdale, tournament officials will create the tee times for Sunday’s final round at the 2026 Open Championship. Until then, we won’t know what the exact tee times will be.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "China Open: Against the Drift, Into History",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOangzdFRWeTVpVG9GaVZGRmR0WXB6Um9lQkVpRjBGdjFmb1NBNXIyYWc3amh6XzloUmNhMjc1Y0dyZV9aOWtvMHA4VHdHbTNQN0RqeHdwZXpzU0t5SFQyRjlSODNBZmZzdGszYkEtemF1Qm0xSTh1SmN6SEEzTTRVTWtrYnBqck9FTmRVbS10dlZIR29tRWpZbUdudUg1dndjX09sMFpB?oc=5",
+        "published": "2026-07-25T16:22:26+00:00",
+        "published_label": "Sat 25 Jul, 16:22",
+        "summary": "China Open: Against the Drift, Into History BWF World Tour",
+        "body": "The drift may have dictated play all week at VICTOR China Open 2026 but on Saturday it carried Toma Junior Popov into uncharted territory. The Frenchman battled from a game down to defeat eighth seed Victor Lai 14-21 21-12 21-15, earning his first victory over the Canadian in three meetings.\n\nIn the process, Popov became the first French singles player to reach a Super 1000 final. Just 24 hours earlier, the 27-year-old had broken new ground by becoming the first singles player from his country in 22 years – after Pi Hongyan in 2004 – to make the China Open semifinals.",
+        "copy": "The drift may have dictated play all week at VICTOR China Open 2026 but on Saturday it carried Toma Junior Popov into uncharted territory. The Frenchman battled from a game down to defeat eighth seed Victor Lai 14-21 21-12 21-15, earning his first victory over the Canadian in three meetings.\n\nIn the process, Popov became the first French singles player to reach a Super 1000 final. Just 24 hours earlier, the 27-year-old had broken new ground by becoming the first singles player from his country in 22 years – after Pi Hongyan in 2004 – to make the China Open semifinals.",
+        "first_seen": "2026-07-25T16:55:46.945857+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6961,6 +6818,19 @@
         "body": "NEW DELHI: Every BWF World Championships throws up a few surprise packages, and the 2026 edition in New Delhi (August 17-23) could be no different. While the spotlight will be on the established stars, these five young shuttlers have the form and pedigree to challenge for a podium finish.\n\nAyush Shetty (India) – Men's SinglesThe 20-year-old has enjoyed a breakthrough campaign, winning the 2025 US Open Super 300 before finishing runner-up at the 2026 Badminton Asia Championships, where he stunned three top-10 players, including Olympic silver medallist Kunlavut Vitidsarn. Making his World Championships debut, Ayush remains an outsider but has already shown he can trouble the world's best. Backed by home support, the Karnataka youngster could emerge as India's dark horse.",
         "copy": "NEW DELHI: Every BWF World Championships throws up a few surprise packages, and the 2026 edition in New Delhi (August 17-23) could be no different. While the spotlight will be on the established stars, these five young shuttlers have the form and pedigree to challenge for a podium finish.\n\nAyush Shetty (India) – Men's SinglesThe 20-year-old has enjoyed a breakthrough campaign, winning the 2025 US Open Super 300 before finishing runner-up at the 2026 Badminton Asia Championships, where he stunned three top-10 players, including Olympic silver medallist Kunlavut Vitidsarn. Making his World Championships debut, Ayush remains an outsider but has already shown he can trouble the world's best. Backed by home support, the Karnataka youngster could emerge as India's dark horse.",
         "first_seen": "2026-07-25T15:01:45.458211+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "China Open: Yamaguchi’s Constant Excellence",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjRGb2NQUGNuZ0l6MHFEdTZjTkZsejVjWFZueExuS0VNelBlVDAxYnhVX1ZwaTl0dUlHMnJ1QzVyc29GcFplWjgxRXJLc0hOU1ZwZjEwTEl1Y2xGYzFOaGhMVF9sVGV2QU1pbU5zSHduamdncWQ3cUt4ZkhydGhCY1dNa0RrTy10a0hzekJVNVVxQU9qRlNXVEtnX0VUeUc4OVlkTQ?oc=5",
+        "published": "2026-07-25T08:07:23+00:00",
+        "published_label": "Sat 25 Jul, 08:07",
+        "summary": "China Open: Yamaguchi’s Constant Excellence BWF World Tour",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-07-25T16:55:46.945857+00:00"
       },
       {
         "section": "Badminton",
@@ -7741,32 +7611,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-19T13:11:25.141761+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Hybrid shuttles, bird nets as BWF World Championships plug India Open glitches",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRnRqaFlBcnEwQk9UZjZpZjVicW1Pd0kwcFRZRDRaNmZSRGZidEQ0RElTd3VvQnZpT0ZGLUFTcUV1YjRuVkFQT09EYk8tOGJDdEoyV3ZySU9kSVhkOFNKN3N2Z1BZbE84Vmk1R3lWUVh5U0YyTWx6UWVGNm1CT3RiSEVhZU9aYTZhaUpnM2M5UDh1ZldUNkd6RjR1dDFTaUpGVUFoSTNEV3ExbUNUUDJGR2ZkTzlPQklUR0FQUmI5ek9vUy03SjlidVdJSVhHenZMdmRidy10eTZPdzZnS2lia3BOWEJSbHBlRWZybdIB8gFBVV95cUxONXN0V0JaTVBPcGlINTQyRjBZUmdydlJvb3RPbnJ4UXBWUGEzclA4MFFNZXNzYUw2eG1jY0IzSk52eTMtMVROSTlHbEtSSklPR1l2Xzd6bXA1el9lVU9iQndqNWhtNEZLSzZXQzVjanFELVFSYWFCWlZhYXM5OWtMb2FLODVLUXZDcEg4dExkR005Zi01QTc2VkRHV3pCN3FOY3R3RW53cHg0RXJlQm9nblRCQXlESUh1XzJTZDZnZHBXbEhlMVFNZVRrZ01SMlB6RjUtaElFUWlLMGlPUExleldDcnBBOW5WTkRRbm9aNDl1QQ?oc=5",
-        "published": "2026-07-18T16:07:00+00:00",
-        "published_label": "Sat 18 Jul, 16:07",
-        "summary": "Hybrid shuttles, bird nets as BWF World Championships plug India Open glitches The Times of India",
-        "body": "BWF World Championships to kick-off, organisers on Saturday promised a trouble-free tournament after last year's India Open was marred by pigeon droppings, a monkey intrusion, dust and facility concerns. TOI has learnt that cost-effective hybrid shuttlecocks will also be used, amid soaring feather shuttle prices.\n\nBadminton Association of India (BAI) general secretary Sanjay Mishra said the shortcomings exposed during the India Open have been comprehensively addressed ahead of the Aug 17-23 event, which is expected to cost the federation anywhere between Rs 15-20 crore to host.",
-        "copy": "BWF World Championships to kick-off, organisers on Saturday promised a trouble-free tournament after last year's India Open was marred by pigeon droppings, a monkey intrusion, dust and facility concerns. TOI has learnt that cost-effective hybrid shuttlecocks will also be used, amid soaring feather shuttle prices.\n\nBadminton Association of India (BAI) general secretary Sanjay Mishra said the shortcomings exposed during the India Open have been comprehensively addressed ahead of the Aug 17-23 event, which is expected to cost the federation anywhere between Rs 15-20 crore to host.",
-        "first_seen": "2026-07-18T16:55:57.345625+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Hybrid shuttles, bird nets as BWF World Championships plug India Open glitches",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRnRqaFlBcnEwQk9UZjZpZjVicW1Pd0kwcFRZRDRaNmZSRGZidEQ0RElTd3VvQnZpT0ZGLUFTcUV1YjRuVkFQT09EYk8tOGJDdEoyV3ZySU9kSVhkOFNKN3N2Z1BZbE84Vmk1R3lWUVh5U0YyTWx6UWVGNm1CT3RiSEVhZU9aYTZhaUpnM2M5UDh1ZldUNkd6RjR1dDFTaUpGVUFoSTNEV3ExbUNUUDJGR2ZkTzlPQklUR0FQUmI5ek9vUy03SjlidVdJSVhHenZMdmRidy10eTZPdzZnS2lia3BOWEJSbHBlRWZybQ?oc=5",
-        "published": "2026-07-18T16:07:00+00:00",
-        "published_label": "Sat 18 Jul, 16:07",
-        "summary": "Hybrid shuttles, bird nets as BWF World Championships plug India Open glitches The Times of India",
-        "body": "BWF World Championships to kick-off, organisers on Saturday promised a trouble-free tournament after last year's India Open was marred by pigeon droppings, a monkey intrusion, dust and facility concerns. TOI has learnt that cost-effective hybrid shuttlecocks will also be used, amid soaring feather shuttle prices.\n\nBadminton Association of India (BAI) general secretary Sanjay Mishra said the shortcomings exposed during the India Open have been comprehensively addressed ahead of the Aug 17-23 event, which is expected to cost the federation anywhere between Rs 15-20 crore to host.",
-        "copy": "BWF World Championships to kick-off, organisers on Saturday promised a trouble-free tournament after last year's India Open was marred by pigeon droppings, a monkey intrusion, dust and facility concerns. TOI has learnt that cost-effective hybrid shuttlecocks will also be used, amid soaring feather shuttle prices.\n\nBadminton Association of India (BAI) general secretary Sanjay Mishra said the shortcomings exposed during the India Open have been comprehensively addressed ahead of the Aug 17-23 event, which is expected to cost the federation anywhere between Rs 15-20 crore to host.",
-        "first_seen": "2026-07-18T19:00:34.912896+00:00"
       }
     ],
     "Competitor News": [
@@ -7824,5 +7668,5 @@
       }
     ]
   },
-  "total": 600
+  "total": 588
 }
