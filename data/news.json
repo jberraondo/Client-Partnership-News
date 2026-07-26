@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T08:23:41.050099+00:00",
-  "generated_label": "Sunday 26 July 2026, 08:23 UTC",
+  "generated_at": "2026-07-26T09:32:02.487082+00:00",
+  "generated_label": "Sunday 26 July 2026, 09:32 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -6392,6 +6392,19 @@
     "Badminton": [
       {
         "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF Badminton China Open 2026: World champion Yamaguchi Akane downs home favourite Chen Yufei to win women's singles title",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ0M5SHd0MUlLaEVfbnM4SjVINjByWkF1d1Ezcms1S0dZZ3lKQzNQVHE1WDJJVnNvM1NCN1E3YlNCLTB1RlV4ZEU3NmZCRDRXM3hSSGZ0TEVacEJlY1RMeVdhNXBKb2Z6ZzZYczViTUVkUjVZX182X0R4UkVWbnNCcGpUYkxyU1JtdllwVTk3bllnRnp3Z2FrQlA5ODZRMUlOT0FZTjVxM3dsSlpzMnM0ZHktTGNKWDY0YUl5V25R?oc=5",
+        "published": "2026-07-26T09:09:00+00:00",
+        "published_label": "Sun 26 Jul, 09:09",
+        "summary": "BWF Badminton China Open 2026: World champion Yamaguchi Akane downs home favourite Chen Yufei to win women's singles title olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-26T09:32:02.487082+00:00"
+      },
+      {
+        "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
         "title": "China Open: Against the Drift, Into History",
@@ -7174,5 +7187,5 @@
       }
     ]
   },
-  "total": 550
+  "total": 551
 }
