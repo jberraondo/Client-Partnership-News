@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T16:17:12.526259+00:00",
-  "generated_label": "Monday 27 July 2026, 16:17 UTC",
+  "generated_at": "2026-07-27T19:24:06.304434+00:00",
+  "generated_label": "Monday 27 July 2026, 19:24 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -50,6 +50,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Fanatics acquires BGC Group assets to launch prediction market exchange",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3c2Rll3ZW1ZcE9ILUR3OVVwRVlkTkRlaks0RFBNVFpnUjhwR0hLS0RhZkNsODgyWjJDMmRtSVlvdW8tWnFSU3UyekJxNEFnSUw5b29ENnpmY0tQeVRUUkw3eWxDWElfZmxlWnREbVpqbHd2WHAtUERBT3NBbHBpZW5FUFV1bURoUHJyX2w0VDZHN1lhRVRER2RyT2E5MG5rUnFIaGZHUTA?oc=5",
+        "published": "2026-07-27T14:51:26+00:00",
+        "published_label": "Mon 27 Jul, 14:51",
+        "summary": "Fanatics acquires BGC Group assets to launch prediction market exchange Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T19:24:06.304434+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1509,6 +1522,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Rugby players finish 28-hour world record attempt in Sandbach",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mdW9weHRrZ3JYNi1GRW1rSGIycVFQOXlQR1JYZ2RsbDJUNTFHVFBDRzVVMzlmOTZVMjdkejN4dlRscm93V3J5cWR4M296MThPZ2h1OFN5dVFROFl3?oc=5",
+        "published": "2026-07-27T16:03:12+00:00",
+        "published_label": "Mon 27 Jul, 16:03",
+        "summary": "Rugby players finish 28-hour world record attempt in Sandbach BBC",
+        "body": "Provisional world records have been set simultaneously for the longest ever men and women's rugby sevens matches. The two games were played at Sandbach Rugby Club in Cheshire over Friday and Saturday, with both contests lasting 28 hours.\n\nFor the men's match, the duration was longer than the current Guinness World Record of 24 hours and 30 minutes set in 2017, while there was not an existing record for a women's match.",
+        "copy": "Provisional world records have been set simultaneously for the longest ever men and women's rugby sevens matches. The two games were played at Sandbach Rugby Club in Cheshire over Friday and Saturday, with both contests lasting 28 hours.\n\nFor the men's match, the duration was longer than the current Guinness World Record of 24 hours and 30 minutes set in 2017, while there was not an existing record for a women's match.",
+        "first_seen": "2026-07-27T19:24:06.304434+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3237,74 +3263,35 @@
         "body": "Ben Earl has called for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition. England had to play three Tests in three different continents on successive weekends and accumulated 25,000 miles of travel.\n\nVictory over Argentina on Saturday keeps Steve Borthwick's team in the hunt for a place in the final on 29 November at Twickenham's Allianz Stadium. However, four long haul and four short haul flights in the past four weeks have contributed to players losing sleep and a reduced training schedule.",
         "copy": "Ben Earl has called for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition. England had to play three Tests in three different continents on successive weekends and accumulated 25,000 miles of travel.\n\nVictory over Argentina on Saturday keeps Steve Borthwick's team in the hunt for a place in the final on 29 November at Twickenham's Allianz Stadium. However, four long haul and four short haul flights in the past four weeks have contributed to players losing sleep and a reduced training schedule.",
         "first_seen": "2026-07-21T08:24:12.843988+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Joe Schmidt leaves the Wallabies in a far better place",
-        "link": "https://www.rugbypass.com/plus/joe-schmidt-leaves-the-wallabies-in-a-far-better-place-but-key-questions-loom/",
-        "published": "2026-07-20T17:56:42+00:00",
-        "published_label": "Mon 20 Jul, 17:56",
-        "summary": "Joe Schmidt has improved Australian rugby on and off the field, but it remains to be seen what new coach Les Kiss will do with his legacy.",
-        "body": "The Joe Schmidt era has ended the way it started: comfortably beating a team which has caused the Wallabies more than a few headaches in previous years. In 2024, Schmidt opened his Wallabies account with wins over Wales in Sydney and Melbourne, after the Welsh ended Australia’s disastrous 2023 Rugby World Cup campaign, and Eddie Jones’ troubled return to the top job in the process.\n\nSo after Italy beat Australia in Florence in 2022, and again in Udine last season, there were plenty reasons for Wallabies fans to be nervous about the final game of the Schmidt reign.",
-        "copy": "The Joe Schmidt era has ended the way it started: comfortably beating a team which has caused the Wallabies more than a few headaches in previous years. In 2024, Schmidt opened his Wallabies account with wins over Wales in Sydney and Melbourne, after the Welsh ended Australia’s disastrous 2023 Rugby World Cup campaign, and Eddie Jones’ troubled return to the top job in the process.\n\nSo after Italy beat Australia in Florence in 2022, and again in Udine last season, there were plenty reasons for Wallabies fans to be nervous about the final game of the Schmidt reign.",
-        "first_seen": "2026-07-20T19:49:16.903043+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Rugby Union Weekly",
-        "link": "https://www.bbc.co.uk/sounds/play/p0nzwqp2?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T17:40:00+00:00",
-        "published_label": "Mon 20 Jul, 17:40",
-        "summary": "Ugo, Danny, Ashy and Chris discuss the fallout from Argentina.",
-        "body": "It’s a full house on the pod this week as Ugo, Danny, Ashy and Chris bring the curtain down on the summer window of the Nation’s Championship. There is plenty of fallout from England’s victory over Argentina. Ugo and Danny have their say on Felipe Contepomi’s criticism of England’s post-match celebration and Steve Borthwick hits back at the media. We ask if the All Blacks are back after they dismantled Ireland at Eden Park. And with Chris arriving fresh from The Open at Royal Birkdale, we discuss who is on par for the summer and if the past three weeks has shaken up the world order.",
-        "copy": "It’s a full house on the pod this week as Ugo, Danny, Ashy and Chris bring the curtain down on the summer window of the Nation’s Championship. There is plenty of fallout from England’s victory over Argentina. Ugo and Danny have their say on Felipe Contepomi’s criticism of England’s post-match celebration and Steve Borthwick hits back at the media. We ask if the All Blacks are back after they dismantled Ireland at Eden Park. And with Chris arriving fresh from The Open at Royal Birkdale, we discuss who is on par for the summer and if the past three weeks has shaken up the world order.",
-        "first_seen": "2026-07-20T19:49:16.903043+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Ambitious Carpenter commits to Sale long-term",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm2gm24ekw2o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T17:34:08+00:00",
-        "published_label": "Mon 20 Jul, 17:34",
-        "summary": "Sale full-back Joe Carpenter extends his contract with the Sharks until 2029.",
-        "body": "Sale full-back Joe Carpenter has extended his contract with the Sharks until 2029 with the aim of landing the silverware that has proved so elusive in recent seasons. The 24-year-old, who made his England debut last July against the USA, had one year remaining on his deal but has signed on for more, confident that last season's seventh-place Prem finish was a blip.\n\n\"I'm absolutely buzzing to be committing my future to this club,\" said Carpenter. \"It's a club and a group that I cherish in so many different ways and one that I truly believe will achieve something special in the near future.",
-        "copy": "Sale full-back Joe Carpenter has extended his contract with the Sharks until 2029 with the aim of landing the silverware that has proved so elusive in recent seasons. The 24-year-old, who made his England debut last July against the USA, had one year remaining on his deal but has signed on for more, confident that last season's seventh-place Prem finish was a blip.\n\n\"I'm absolutely buzzing to be committing my future to this club,\" said Carpenter. \"It's a club and a group that I cherish in so many different ways and one that I truly believe will achieve something special in the near future.",
-        "first_seen": "2026-07-20T18:00:01.939648+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Contest or no contest? The eternal struggle between the Springboks and All Blacks",
-        "link": "https://www.rugbypass.com/plus/contest-or-no-contest-the-eternal-struggle-between-the-springboks-and-all-blacks/",
-        "published": "2026-07-20T17:07:33+00:00",
-        "published_label": "Mon 20 Jul, 17:07",
-        "summary": "As Dave Rennie's new attacking ethos takes shape, Rassie Erasmus wants to ensure the grunt and skill of a true set-piece battle does not wane.",
-        "body": "When rugby union finally bit the bullet and turned professional on 26th August 1995, it was trending exactly 100 years behind rugby league, which had first rounded the same corner back in 1895. The underlying connection between the two codes still informs the game as it approaches its 31st anniversary as a professional sport.\n\nLeague did away with lineouts and the scrums are strictly symbolic, just another way to restart the game with all the forwards in one place. There is no contest for the ball permitted either during or after the tackle. A change of possession is only mandated by law after a six-tackle ‘set’ has been completed. The game is less complex and a lot easier to referee than its cousin.",
-        "copy": "When rugby union finally bit the bullet and turned professional on 26th August 1995, it was trending exactly 100 years behind rugby league, which had first rounded the same corner back in 1895. The underlying connection between the two codes still informs the game as it approaches its 31st anniversary as a professional sport.\n\nLeague did away with lineouts and the scrums are strictly symbolic, just another way to restart the game with all the forwards in one place. There is no contest for the ball permitted either during or after the tackle. A change of possession is only mandated by law after a six-tackle ‘set’ has been completed. The game is less complex and a lot easier to referee than its cousin.",
-        "first_seen": "2026-07-20T18:00:01.939648+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Ireland report card: All 34 Nations Championship players rated",
-        "link": "https://www.rugbypass.com/news/ireland-report-card-all-34-nations-championship-players-rated/",
-        "published": "2026-07-20T16:47:34+00:00",
-        "published_label": "Mon 20 Jul, 16:47",
-        "summary": "Ireland emerged from an inaugural Nations Championship campaign with two wins from three, beating Australia and Japan before falling short against New Zealand at Eden Park.",
-        "body": "Ireland emerged from an inaugural Nations Championship campaign with two wins from three, beating Australia and Japan before falling short against New Zealand at Eden Park. There were positives to leave Andy Farrell encouraged: Joe McCarthy’s physical authority, Hugo Keenan’s return to form and the emergence of Nick Timoney and Sean Jansen offer a succession plan in the back-row.\n\nYet familiar concerns remain. The lineout malfunctioned far too often, the scrum could charitably be described as barely competent, and several senior figures looked like a summer off would have done them the world of good.",
-        "copy": "Ireland emerged from an inaugural Nations Championship campaign with two wins from three, beating Australia and Japan before falling short against New Zealand at Eden Park. There were positives to leave Andy Farrell encouraged: Joe McCarthy’s physical authority, Hugo Keenan’s return to form and the emergence of Nick Timoney and Sean Jansen offer a succession plan in the back-row.\n\nYet familiar concerns remain. The lineout malfunctioned far too often, the scrum could charitably be described as barely competent, and several senior figures looked like a summer off would have done them the world of good.",
-        "first_seen": "2026-07-20T18:00:01.939648+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Mubadala DC Open: Jack Draper withdraws from DC Open with left arm injury ahead of US Open qualifying campaign",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRTkzOFRrNDhWU25ydFJwXzJic0pHUmtDLVhuOFVhY05SeUVKVEoxdXRROGJEWHRTRHdMVUxGRExGYlVTNGtUdGV1cWY3WlZ6SWlRRDVvQVB4bUNTdmhpdldQZ0s5TlN5RGVOLU9NVU13ZE5lMXQ3b1dVLXl5bUJXTG1HUnRPdlhsM0pFbVlPTmtrYlVIXzRXa1ZlQ1N4NzdVcUhJSlFSOHQ3TE5DVXJBNjgxRUppa3N6NmNTdkJ0OExVM0JLci1jZlV5MnRYNnN4Mjc2dzA1MFJsRFRTS1RueUt6QmR2VnliM1NTbGdYbklZS0Jq?oc=5",
+        "published": "2026-07-27T19:16:17+00:00",
+        "published_label": "Mon 27 Jul, 19:16",
+        "summary": "Mubadala DC Open: Jack Draper withdraws from DC Open with left arm injury ahead of US Open qualifying campaign Sky Sports",
+        "body": "Jack Draper has withdrawn from the DC Open with a left arm injury. The former world No 4 has endured a injury-strewn 2026 which saw him miss both the French Open and Wimbledon, with the withdrawal coming just days after Draper claiming that he feels \"really physically good\".\n\nThe Brit, who is coached by Sir Andy Murray, has dropped to world No 147 on the ATP Tour rankings and that will likely mean he will need to qualify if he is to play at this September's US Open, having missed out on the main draw for the event.",
+        "copy": "Jack Draper has withdrawn from the DC Open with a left arm injury. The former world No 4 has endured a injury-strewn 2026 which saw him miss both the French Open and Wimbledon, with the withdrawal coming just days after Draper claiming that he feels \"really physically good\".\n\nThe Brit, who is coached by Sir Andy Murray, has dropped to world No 147 on the ATP Tour rankings and that will likely mean he will need to qualify if he is to play at this September's US Open, having missed out on the main draw for the event.",
+        "first_seen": "2026-07-27T19:24:06.304434+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "US Open 2026 mixed doubles: Are Carlos Alcaraz and Emma Raducanu playing in star-studded event?",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3h1RnNlQlBKcUhTaTZPUkpUUVNlRlJ5U2xWbU5FdkdCOHczbzVvaHRPOUtqQkV0R1hlNzNjX0VPbHV4NHlqeU5YNmQ0cVBCN09oNWNmNWxEdXlhaEVEa1N6OXFXYXBreHlBTnEyWFZZN0Q4ak5zMndneFNfT3UtSmVXRDRkWDJ6NWlrcWNRSm9MVGZOMEl3SHBjUXF5V19PQTdETVRhbUJROFJWb2c?oc=5",
+        "published": "2026-07-27T19:11:19+00:00",
+        "published_label": "Mon 27 Jul, 19:11",
+        "summary": "US Open 2026 mixed doubles: Are Carlos Alcaraz and Emma Raducanu playing in star-studded event? London Evening Standard",
+        "body": "Last year saw some of the biggest names in both the men’s and women’s games join forces for a newly-shaped event aimed at bringing more eyes to doubles as a discipline. The US Tennis Association (USTA) confirmed that Arthur Ashe Stadium was sold out across the draw’s two days during ‘Fan Week’ at Flushing Meadows, which is held in the days leading up to the main singles competitions.\n\nNovak Djokovic was joined by compatriot Olga Danilovic while world No1 Jannik Sinner was set to play with doubles specialist Katerina Siniakova before the Italian withdrew, having retired from his Cincinnati final against Alcaraz with illness the day previously.",
+        "copy": "Last year saw some of the biggest names in both the men’s and women’s games join forces for a newly-shaped event aimed at bringing more eyes to doubles as a discipline. The US Tennis Association (USTA) confirmed that Arthur Ashe Stadium was sold out across the draw’s two days during ‘Fan Week’ at Flushing Meadows, which is held in the days leading up to the main singles competitions.\n\nNovak Djokovic was joined by compatriot Olga Danilovic while world No1 Jannik Sinner was set to play with doubles specialist Katerina Siniakova before the Italian withdrew, having retired from his Cincinnati final against Alcaraz with illness the day previously.",
+        "first_seen": "2026-07-27T19:24:06.304434+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -3868,6 +3855,45 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How Callaway rebuilt its golf ball and why the Chrome Tour X settled in my bag",
+        "link": "https://golf.com/gear/callaway-chrome-tour-x-rebuilt-golf-ball/",
+        "published": "2026-07-27T17:35:26+00:00",
+        "published_label": "Mon 27 Jul, 17:35",
+        "summary": "Callaway decided to build a golf ball program that took on all challengers. With the new Chrome Tour X, they have accomplished that mission. The post How Callaway rebuilt its golf ball and why the Chrome Tour X settled in my bag appeared first on Golf .",
+        "body": "There is something deeply satisfying about a global golf ball factory that doesn’t try to look like a spaceship. If you roll up to Callaway’s golf ball plant in Chicopee, Massachusetts, you aren’t greeted by hyper-futuristic glass facades or floor-to-ceiling LED screens. It’s a solid, weathered brick building sitting in a quiet New England town. It looks like a place where real work gets done by people who have spent their entire lives perfecting a trade.\n\nTruth is, they have — and like Callaway’s golf ball journey, this dedicated plant in Chicopee has seen its ups and downs. But since it started, the plant’s ethos has always been to evolve and grow the economy for the residents of this town. Needless to say, an evolution is precisely what has taken place. Inside these humble brick walls sits one of the most technologically advanced golf ball production lines in the world.",
+        "copy": "There is something deeply satisfying about a global golf ball factory that doesn’t try to look like a spaceship. If you roll up to Callaway’s golf ball plant in Chicopee, Massachusetts, you aren’t greeted by hyper-futuristic glass facades or floor-to-ceiling LED screens. It’s a solid, weathered brick building sitting in a quiet New England town. It looks like a place where real work gets done by people who have spent their entire lives perfecting a trade.\n\nTruth is, they have — and like Callaway’s golf ball journey, this dedicated plant in Chicopee has seen its ups and downs. But since it started, the plant’s ethos has always been to evolve and grow the economy for the residents of this town. Needless to say, an evolution is precisely what has taken place. Inside these humble brick walls sits one of the most technologically advanced golf ball production lines in the world.",
+        "first_seen": "2026-07-27T19:24:06.304434+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Jackson Koivun's 3M win? Scottie Scheffler's praise and Ted Scott's statement told the story",
+        "link": "https://golf.com/news/jackson-koivun-scottie-scheffler-ted-scott-3m/",
+        "published": "2026-07-27T17:25:48+00:00",
+        "published_label": "Mon 27 Jul, 17:25",
+        "summary": "Want to understand the importance of Jackson Koivun's 3M win? Scottie Scheffler and Ted Scott perfectly told the story. The post Jackson Koivun’s 3M win? Scottie Scheffler’s praise and Ted Scott’s statement told the story appeared first on Golf .",
+        "body": "Scottie Scheffler has never seen Jackson Koivun swing in person. The World No. 1 has heard the hype about the star amateur who turned pro, but his first glimpse of Koivun will have to wait.\n\n“I haven’t had a chance to see him hit a shot yet,” Scheffler said on Sunday at the 3M Open in Minnesota. “Obviously, I’ve heard about his pedigree in college, but I haven’t been able to see it in person yet. I’m looking forward to that.”",
+        "copy": "Scottie Scheffler has never seen Jackson Koivun swing in person. The World No. 1 has heard the hype about the star amateur who turned pro, but his first glimpse of Koivun will have to wait.\n\n“I haven’t had a chance to see him hit a shot yet,” Scheffler said on Sunday at the 3M Open in Minnesota. “Obviously, I’ve heard about his pedigree in college, but I haven’t been able to see it in person yet. I’m looking forward to that.”",
+        "first_seen": "2026-07-27T19:24:06.304434+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "First-time Tour winner's unique fishing celebration goes viral",
+        "link": "https://golf.com/news/first-time-tour-winner-unique-fishing-celebration-viral/",
+        "published": "2026-07-27T16:42:36+00:00",
+        "published_label": "Mon 27 Jul, 16:42",
+        "summary": "Jackson Koivun captured his first PGA Tour win at the 2026 3M Open, then celebrated in a unique way... by fishing the 18th hole. The post First-time Tour winner’s unique fishing celebration goes viral appeared first on Golf .",
+        "body": "Over the first two rounds of Jackson Koivun’s breakthrough PGA Tour win at the 2026 3M Open, one course feature at TPC Twin Cities had given the young pro fits: the pond guarding the par-5 18th hole.\n\nAfter cementing the first victory of his burgeoning career, however, Koivun chose that same lake as the location for a unique post-win celebration: some sunset fishing. While Koivun put on a clinic at TPC Twin Cities all week long, he didn’t make his hay at the par-5 closing hole.",
+        "copy": "Over the first two rounds of Jackson Koivun’s breakthrough PGA Tour win at the 2026 3M Open, one course feature at TPC Twin Cities had given the young pro fits: the pond guarding the par-5 18th hole.\n\nAfter cementing the first victory of his burgeoning career, however, Koivun chose that same lake as the location for a unique post-win celebration: some sunset fishing. While Koivun put on a clinic at TPC Twin Cities all week long, he didn’t make his hay at the par-5 closing hole.",
+        "first_seen": "2026-07-27T19:24:06.304434+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "HSBC golf watch",
         "kind": "gnews",
         "title": "Last Look LIV Golf United Kingdom presented by JCB: Notes, stats, superlatives and more",
@@ -3995,6 +4021,19 @@
         "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "first_seen": "2026-07-27T12:55:35.561610+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau teases shock DP World Tour appearance",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVlPTU45ck1hRUI1eXg1OWFCMHpfTVZ3Q1dPZ1hZWHFzMDN0MEZkdlh1enV1a0tzclozWGpETWVUWnh0aDFpMGNfSDc0NlNQN00wcmRXWW1fb3Z2blBDR21CT2xkbXRkeXBXX1Z3R2o3aUlQOVhjVzFKcE9hS29scXZQQkZBaW84bkc4bkZraw?oc=5",
+        "published": "2026-07-27T10:25:04+00:00",
+        "published_label": "Mon 27 Jul, 10:25",
+        "summary": "Bryson DeChambeau teases shock DP World Tour appearance bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau could be set for a shock appearance on the DP World Tour.\n\nThe LIV Golf superstar has hinted that he might tee off at the upcoming Irish Open in September. The event is taking place at Trump International Links, Doonbeg, which is, of course, owned by the US President.",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau could be set for a shock appearance on the DP World Tour.\n\nThe LIV Golf superstar has hinted that he might tee off at the upcoming Irish Open in September. The event is taking place at Trump International Links, Doonbeg, which is, of course, owned by the US President.",
+        "first_seen": "2026-07-27T19:24:06.304434+00:00"
       },
       {
         "section": "Golf",
@@ -6192,45 +6231,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-20T19:49:16.903043+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau told what he must now do if he ever wants to come back to the PGA Tour",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3VOUGFPZVpnaHFTUTZaV2xNeGZiOEdSUzY4SHlqZzF3OGhJUGJTeFM4S3NoYjEzTVZhWDFEUlMzOTNXWXZqY19PZTRjRVVEVXJ6R0FYdkFkb0xKaTByWDdTU2J3Zng4bXZaZUJfMTRlbVJPV0g4WVN1NmU4Z3NlT0xicm15d203alBOVHhuTlVsMEdKdGsyQURROHpPWmpIclF6aEJwZmx1MmhLcUhN?oc=5",
-        "published": "2026-07-20T19:00:00+00:00",
-        "published_label": "Mon 20 Jul, 19:00",
-        "summary": "Bryson DeChambeau told what he must now do if he ever wants to come back to the PGA Tour hitc.com",
-        "body": "Wayne Riley has insisted that Bryson DeChambeau has to change his attitude if he ever wants to be accepted back onto the PGA Tour following a dramatic week for the LIV Golf star at The Open Championship.\n\nRyan Fox’s victory at Royal Birkdale was a universally popular conclusion to a brilliant championship. However, the week is likely to be best remembered for the antics of DeChambeau.",
-        "copy": "Wayne Riley has insisted that Bryson DeChambeau has to change his attitude if he ever wants to be accepted back onto the PGA Tour following a dramatic week for the LIV Golf star at The Open Championship.\n\nRyan Fox’s victory at Royal Birkdale was a universally popular conclusion to a brilliant championship. However, the week is likely to be best remembered for the antics of DeChambeau.",
-        "first_seen": "2026-07-21T08:24:12.843988+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This Srixon driver isn't even out yet and already has a major title",
-        "link": "https://golf.com/gear/drivers/ryan-fox-srixon-driver/",
-        "published": "2026-07-20T17:44:14+00:00",
-        "published_label": "Mon 20 Jul, 17:44",
-        "summary": "Ryan Fox won the Open Championship on Sunday using a Srixon ZXi RKT LS+ prototype driver that isn't even out yet. The post This Srixon driver isn’t even out yet and already has a major title appeared first on Golf .",
-        "body": "Ryan Fox’s Open Championship win came with a couple of clubs at the top of his bag that Srixon hasn’t even released yet. But now they already have major championship validation.\n\nThe most crucial to his win was undoubtedly his ZXi RKT (pronounced “Rocket”) LS+ driver. Needing a par to tie and birdie to win the championship on Royal Birkdale’s second-most-difficult hole on Sunday, Fox stepped up and delivered a 330-yard missile down the right side of the fairway, setting up his decisive walk-off birdie.",
-        "copy": "Ryan Fox’s Open Championship win came with a couple of clubs at the top of his bag that Srixon hasn’t even released yet. But now they already have major championship validation.\n\nThe most crucial to his win was undoubtedly his ZXi RKT (pronounced “Rocket”) LS+ driver. Needing a par to tie and birdie to win the championship on Royal Birkdale’s second-most-difficult hole on Sunday, Fox stepped up and delivered a 330-yard missile down the right side of the fairway, setting up his decisive walk-off birdie.",
-        "first_seen": "2026-07-20T18:00:01.939648+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf hit with $1 million lawsuit days before UK event over alleged contract breach",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWE1WQlVGZVBVVlNoY19ZZkNRQzVBT2YtWmNwNVBBYW00UWVUbWVmVzlyeHR6a01mVE03VUd4dlpkR2N0elZLTHR1ak1WRndDNXZpUHFQTHZCZ21URTc3UmJaZU50aU94TUV4d21Sc3h0c0xFY0RSX2tMdEdoVXdpMWZqZS1hV0p6MHducW5QOHF4VnB6QkwzZ3Z4VFcxaUdqWk9VYXZxWEd0TThDNDcwelBPcw?oc=5",
-        "published": "2026-07-20T17:22:56+00:00",
-        "published_label": "Mon 20 Jul, 17:22",
-        "summary": "LIV Golf hit with $1 million lawsuit days before UK event over alleged contract breach Golfmagic",
-        "body": "LIV Golf is facing a legal battle just days before its return to action in England, with a technology company suing the league for more than $1 million over alleged unpaid invoices and breach of contract.\n\nCanadian-based Mobii Systems Group Limited has filed a lawsuit against LIV Golf in the U.S. District Court in Miami, claiming the league failed to fulfil its financial obligations under a two-year agreement covering the technology behind its popular “Any Shot, Any Time” broadcast feature.",
-        "copy": "LIV Golf is facing a legal battle just days before its return to action in England, with a technology company suing the league for more than $1 million over alleged unpaid invoices and breach of contract.\n\nCanadian-based Mobii Systems Group Limited has filed a lawsuit against LIV Golf in the U.S. District Court in Miami, claiming the league failed to fulfil its financial obligations under a two-year agreement covering the technology behind its popular “Any Shot, Any Time” broadcast feature.",
-        "first_seen": "2026-07-20T18:00:01.939648+00:00"
       }
     ],
     "Badminton": [
@@ -6246,6 +6246,19 @@
         "body": "YONEX Taipei Open 2026 will provide an early glimpse of several intriguing new partnerships as established names embark on fresh chapters across the doubles disciplines. In men’s doubles, former mixed doubles world No.7 Hiroki Midorikawa joins forces with 19-year-old Yuto Nakashizu, while Indonesia’s Muhammad Rian Ardianto begins a partnership with Daniel Edgar Marvino. Ardianto, a former world No.1 alongside Fajar Alfian, will be looking to build momentum after featuring in a few tournaments with Rahmat Hidayat. Singapore’s mixed doubles specialist Terry Hee also ventures into the discipline, teaming up with Wesley Koh in the qualifying rounds.\n\nThe women’s doubles draw sees Maya Taguchi return to the discipline just days after reaching the China Open mixed doubles quarterfinals with Yuta Watanabe. The Japanese youngster will partner Misaki Kurashima while also competing alongside Watanabe.",
         "copy": "YONEX Taipei Open 2026 will provide an early glimpse of several intriguing new partnerships as established names embark on fresh chapters across the doubles disciplines. In men’s doubles, former mixed doubles world No.7 Hiroki Midorikawa joins forces with 19-year-old Yuto Nakashizu, while Indonesia’s Muhammad Rian Ardianto begins a partnership with Daniel Edgar Marvino. Ardianto, a former world No.1 alongside Fajar Alfian, will be looking to build momentum after featuring in a few tournaments with Rahmat Hidayat. Singapore’s mixed doubles specialist Terry Hee also ventures into the discipline, teaming up with Wesley Koh in the qualifying rounds.\n\nThe women’s doubles draw sees Maya Taguchi return to the discipline just days after reaching the China Open mixed doubles quarterfinals with Yuta Watanabe. The Japanese youngster will partner Misaki Kurashima while also competing alongside Watanabe.",
         "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Taipei Open: Fresh Starts in Doubles",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUkRHWG5CLVN0My1IS0FpRVF0ZDNQY1R1eVNrSENzT0RQTkxxMm5QNk5BanZHZlFWbFJCOXdleHFDVlhTZHdiTXE5NkhyX3JKcTUwMUlDZHhyZEVmQmhLX0lOdDVpQ24yMnJvVVZ1SE1KMnFSUTdxQS1aUDI5MkowZFkxOVpNa1ZjLXZDUUxYV3Y5QXFjQ25QZlZsRlY?oc=5",
+        "published": "2026-07-27T14:10:23+00:00",
+        "published_label": "Mon 27 Jul, 14:10",
+        "summary": "Taipei Open: Fresh Starts in Doubles BWF World Tour",
+        "body": "YONEX Taipei Open 2026 will provide an early glimpse of several intriguing new partnerships as established names embark on fresh chapters across the doubles disciplines. In men’s doubles, former mixed doubles world No.7 Hiroki Midorikawa joins forces with 19-year-old Yuto Nakashizu, while Indonesia’s Muhammad Rian Ardianto begins a partnership with Daniel Edgar Marvino. Ardianto, a former world No.1 alongside Fajar Alfian, will be looking to build momentum after featuring in a few tournaments with Rahmat Hidayat. Singapore’s mixed doubles specialist Terry Hee also ventures into the discipline, teaming up with Wesley Koh in the qualifying rounds.\n\nThe women’s doubles draw sees Maya Taguchi return to the discipline just days after reaching the China Open mixed doubles quarterfinals with Yuta Watanabe. The Japanese youngster will partner Misaki Kurashima while also competing alongside Watanabe.",
+        "copy": "YONEX Taipei Open 2026 will provide an early glimpse of several intriguing new partnerships as established names embark on fresh chapters across the doubles disciplines. In men’s doubles, former mixed doubles world No.7 Hiroki Midorikawa joins forces with 19-year-old Yuto Nakashizu, while Indonesia’s Muhammad Rian Ardianto begins a partnership with Daniel Edgar Marvino. Ardianto, a former world No.1 alongside Fajar Alfian, will be looking to build momentum after featuring in a few tournaments with Rahmat Hidayat. Singapore’s mixed doubles specialist Terry Hee also ventures into the discipline, teaming up with Wesley Koh in the qualifying rounds.\n\nThe women’s doubles draw sees Maya Taguchi return to the discipline just days after reaching the China Open mixed doubles quarterfinals with Yuta Watanabe. The Japanese youngster will partner Misaki Kurashima while also competing alongside Watanabe.",
+        "first_seen": "2026-07-27T19:24:06.304434+00:00"
       },
       {
         "section": "Badminton",
@@ -7083,5 +7096,5 @@
       }
     ]
   },
-  "total": 543
+  "total": 544
 }
