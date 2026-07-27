@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T09:45:38.669515+00:00",
-  "generated_label": "Monday 27 July 2026, 09:45 UTC",
+  "generated_at": "2026-07-27T10:55:14.495077+00:00",
+  "generated_label": "Monday 27 July 2026, 10:55 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Tender for domestic Indian Super League TV rights launched",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU21HVlA5SldfZ285aThhZ21kLVBuZUFjbFVMeERDUWdrUDhoQzVTWEQ5M25XbnNFUDFBSlNGcnV0ZnJDazIxUllWQWxtZWNXcFlUYlREMFU3alJFUXFzSmU1Q3laQldyR09RVnVZVEhWNV82VV8xZVVMNkl1ME5DRGJoU2xSck8yaHk3d1oyZ1lON1k?oc=5",
+        "published": "2026-07-27T10:51:33+00:00",
+        "published_label": "Mon 27 Jul, 10:51",
+        "summary": "Tender for domestic Indian Super League TV rights launched Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "CAF secures last-minute deals with major broadcasters for 2026 WAFCON",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNG81ajJtQUcyZkpWMXNFRG9OY0JYeHVhUURWMXVvVjYwdG5iUkF2QzRKRlRQQ1lEeldXUGRDQ0x3T2tGb2J1c2UtOTFWV2VDSXE5YWVoaUo5YVAxWXZFVk93YWdwcno2RF8zbFRmMXBPM09GYWx2dGN6UFJTM0JyXzZFeHRmSjBMR1ZibnBQOXNuYUkySndKdWFjTVlGeHVlV2c?oc=5",
+        "published": "2026-07-27T10:51:32+00:00",
+        "published_label": "Mon 27 Jul, 10:51",
+        "summary": "CAF secures last-minute deals with major broadcasters for 2026 WAFCON Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "MI London added to Ten Toes’ partner stable",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVFNtdTkwRzI3NzR4WjRIRlpvVmxxb1BlT2Roa3Z4eTFSaVFITjRKSGVBS1cyckttbnU3N3VkRlQ4MXU2NnFmeVZGbmtJT3lYQXpMTUNaTFhINWtXa2xJM0tMdGpHMTRjUE03VjhWQjlra1pSZ094X1JxU1NfQQ?oc=5",
+        "published": "2026-07-27T09:51:20+00:00",
+        "published_label": "Mon 27 Jul, 09:51",
+        "summary": "MI London added to Ten Toes’ partner stable Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1493,74 +1532,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-20T12:17:29.269641+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "The World Cup half-time show — a Fifa fever dream that united the world in bafflement",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzV2NXFLYWJhNHdCc3EzMkNPVGRrb2F5ZTBhS0tiRnZ2bHNTQmNZa2J6ZkJHVm4wcmF6MmZYdlFieUl1eTNsZmcxbENEUWNOcXpubWpBUFh2dzVPN3Y2REJ3YXpGbXp3cjQtRU82OTZ0UE5rYkJ3S1pUNm9DREpoMWZCcmQ?oc=5",
-        "published": "2026-07-20T10:15:38+00:00",
-        "published_label": "Mon 20 Jul, 10:15",
-        "summary": "The World Cup half-time show — a Fifa fever dream that united the world in bafflement Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "V’landys takes charge at NRL as Abdo officially departs",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPREpBSllfSXBodUQ5VmM4bkNYQi1vQlU4WXJ6UW9vY2hkR0FPOXduT3c2N1ptMmVPSGlIUDhRRU5fallnanROcmpFUkhJcm8tWjBEaFllb2FIV05zQlE5VUxCRkVwd0hSOXhJbUNNemkyQVFib093UENza1hiQUdMZVd1Xy1lbUt3Vmd0cERB?oc=5",
-        "published": "2026-07-20T09:49:54+00:00",
-        "published_label": "Mon 20 Jul, 09:49",
-        "summary": "V’landys takes charge at NRL as Abdo officially departs Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-20T10:25:02.770588+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "NBC’s Telemundo acquires UEFA club competition rights for 27-30 cycle",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVlSalpfLUpQOUtWRlYxYXhOcHQyaGItbFVtV08yZENfc0k5RnUzbjlFdU1yclBLVzRpMEFrY19MZnVJZzZDODllaktBSkdBYzRCeVNhaG1XOHNUQUxfTURySGV6N3pSakppeG1KcG9YV3BpNDE0Q1ZhdkM4NEtHQnlEODhtNWZOMG1qR0syS1FoSDZzV0JWX3N1ZklsVWhu?oc=5",
-        "published": "2026-07-20T09:49:54+00:00",
-        "published_label": "Mon 20 Jul, 09:49",
-        "summary": "NBC’s Telemundo acquires UEFA club competition rights for 27-30 cycle Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-20T10:25:02.770588+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "NBC’s Telemundo acquires UEFA club competition rights for 2027-30 cycle",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGt1VFJ0Ym9BNEhKQ2FfN1l0cTlIMXBwYUNEVXNhdFl2dlVBQ2NVVzRpeFlmdGdtSlZsdlcyYk5pOGhiM3E5LWdJZEgtRnFER2x4elkzYzhEYXVQNDdjUjdJZV9WeTIzbE1OMEd4b0xjU1V3RTBzcGRhS3BfQzE5OEMzT29sR083aHAwWnpxZ28yeXFGVzNWZ1FibjFxc1EtMWc?oc=5",
-        "published": "2026-07-20T09:49:54+00:00",
-        "published_label": "Mon 20 Jul, 09:49",
-        "summary": "NBC’s Telemundo acquires UEFA club competition rights for 2027-30 cycle Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-21T08:24:12.843988+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Sport Industry Group: Members Only Event",
-        "link": "https://sportindustry.co.uk/sports-categories/padel/sport-industry-group-members-only-event/",
-        "published": "2026-07-20T09:48:01+00:00",
-        "published_label": "Mon 20 Jul, 09:48",
-        "summary": "Sport Industry Group is excited to invite all current Members to a free, informal padel evening at Georgians Padel Club in North London on Thursday 6th August. The event will kick off at 4pm sharp, with padel running through to 6pm, followed by a couple of hours of relaxed networking and drinks. We know summer […] The post Sport Industry Group: Members Only Event appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Sport Industry Group is excited to invite all current Members to a free, informal padel evening at Georgians Padel Club in North London on Thursday 6th August. The event will kick off at 4pm sharp, with padel running through to 6pm, followed by a couple of hours of relaxed networking and drinks. We know summer […] The post Sport Industry Group: Members Only Event appeared first on Sport Industry Group .",
-        "first_seen": "2026-07-21T08:24:12.843988+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Suntory Sungoliath confirm James Lowe as Cheslin Kolbe replacement",
+        "link": "https://www.rugbypass.com/news/suntory-sugoliath-confirm-james-lowe-as-cheslin-kolbe-replacement/",
+        "published": "2026-07-27T10:29:34+00:00",
+        "published_label": "Mon 27 Jul, 10:29",
+        "summary": "Tokyo Suntory Sungoliath have confirmed that Ireland and Lions star James Lowe will be replacing Springbok superstar Cheslin Kolbe in their Japan Rugby League One squad for the next two seasons.",
+        "body": "Tokyo Suntory Sungoliath have confirmed that Ireland and Lions star James Lowe will be replacing Springbok superstar Cheslin Kolbe in their Japan Rugby League One squad for the next two seasons.\n\nNew Zealand-born Lowe, 34, who has been capped 45 times for Ireland and was part of the Six Nations Championship triumphs in 2023 and 2024, as well as helping Leinster win the Champions Cup in 2018 and the United Rugby Championship last season.",
+        "copy": "Tokyo Suntory Sungoliath have confirmed that Ireland and Lions star James Lowe will be replacing Springbok superstar Cheslin Kolbe in their Japan Rugby League One squad for the next two seasons.\n\nNew Zealand-born Lowe, 34, who has been capped 45 times for Ireland and was part of the Six Nations Championship triumphs in 2023 and 2024, as well as helping Leinster win the Champions Cup in 2018 and the United Rugby Championship last season.",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "2026 Super Rugby Aupiki | RugbyPass' Team of the Season",
+        "link": "https://www.rugbypass.com/news/2026-super-rugby-aupiki-rugbypass-team-of-the-season/",
+        "published": "2026-07-27T10:10:58+00:00",
+        "published_label": "Mon 27 Jul, 10:10",
+        "summary": "The Blues successfully defended their Super Rugby Aupiki title for a third consecutive year with a thrilling 28-21 win over Matatu in the final at Te Kaha/One New Zealand Stadium in Christchurch.",
+        "body": "The Blues successfully defended their Super Rugby Aupiki title for a third consecutive year with a thrilling 28-21 win over Matatu in the final at Te Kaha/One New Zealand Stadium in Christchurch.\n\nWith 20 wins in 30 games, the Blues have the best record in the competition, but it took some late, daring rugby to prevail in 2026. While Matatu impressed by winning a club-record four consecutive matches to top the round-robin standings, the Hurricanes Poua were arguably the darlings of the competition, improving out of sight.",
+        "copy": "The Blues successfully defended their Super Rugby Aupiki title for a third consecutive year with a thrilling 28-21 win over Matatu in the final at Te Kaha/One New Zealand Stadium in Christchurch.\n\nWith 20 wins in 30 games, the Blues have the best record in the competition, but it took some late, daring rugby to prevail in 2026. While Matatu impressed by winning a club-record four consecutive matches to top the round-robin standings, the Hurricanes Poua were arguably the darlings of the competition, improving out of sight.",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "ITV confirmed as 2027 Rugby World Cup broadcaster",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckge2wv7jndo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-27T09:57:51+00:00",
+        "published_label": "Mon 27 Jul, 09:57",
+        "summary": "ITV will show next year's Rugby World Cup in Australia, extending the broadcaster's coverage of the tournament to a 10th successive edition.",
+        "body": "ITV will show next year's Rugby World Cup in Australia, extending the broadcaster's coverage of the tournament to a 10th successive edition. All 52 matches from the event, which features 24 teams and a last-16 knockout round, will be shown live.\n\n\"This is much more than a new agreement with a trusted partner, it is a statement of intent to ensure that everyone in the UK can experience and be inspired by one of the world's iconic sporting events, its action, drama and personalities,\" said World Rugby chief executive Alan Gilpin.",
+        "copy": "ITV will show next year's Rugby World Cup in Australia, extending the broadcaster's coverage of the tournament to a 10th successive edition. All 52 matches from the event, which features 24 teams and a last-16 knockout round, will be shown live.\n\n\"This is much more than a new agreement with a trusted partner, it is a statement of intent to ensure that everyone in the UK can experience and be inspired by one of the world's iconic sporting events, its action, drama and personalities,\" said World Rugby chief executive Alan Gilpin.",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "France and Poland claim Rugby Europe 7s titles",
+        "link": "https://www.rugbypass.com/news/france-and-poland-claim-european-7s-titles/",
+        "published": "2026-07-27T09:44:10+00:00",
+        "published_label": "Mon 27 Jul, 09:44",
+        "summary": "The France men’s and Poland women’s teams claimed the Rugby Europe 7s Championship Series 2026 titles, coming out on top after two highly competitive legs hosted by Hamburg and Split.",
+        "body": "The France men’s and Poland women’s teams claimed the Rugby Europe 7s Championship Series 2026 titles, coming out on top after two highly competitive legs hosted by Hamburg and Split.\n\nIn the men’s division, France managed to retain their European title once more despite finishing in second place in the opening leg of the series, with Germany taking the gold.",
+        "copy": "The France men’s and Poland women’s teams claimed the Rugby Europe 7s Championship Series 2026 titles, coming out on top after two highly competitive legs hosted by Hamburg and Split.\n\nIn the men’s division, France managed to retain their European title once more despite finishing in second place in the opening leg of the series, with Germany taking the gold.",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Exeter sign prop McArthur from Gloucester",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c4gj2vyg5lqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-27T09:41:02+00:00",
+        "published_label": "Mon 27 Jul, 09:41",
+        "summary": "Gloucester's loosehead prop joins last season's Prem runner's up as cover for the departing Scott Sio.",
+        "body": "Exeter Chiefs have signed loosehead prop Archie McArthur from Gloucester for the 2026-27 season. McArthur made 20 appearances for the Cherry and Whites during three campaigns while being dual-registered with Champ side Hartpury, who he also played 25 games for.\n\nThe 23-year-old began his career in Wasps' academy and has also represented England at under-20s level. \"He's played against us a few times interestingly, so we watched those games in detail and saw him doing very well,\" Exeter director of rugby Rob Baxter told the club website, external.",
+        "copy": "Exeter Chiefs have signed loosehead prop Archie McArthur from Gloucester for the 2026-27 season. McArthur made 20 appearances for the Cherry and Whites during three campaigns while being dual-registered with Champ side Hartpury, who he also played 25 games for.\n\nThe 23-year-old began his career in Wasps' academy and has also represented England at under-20s level. \"He's played against us a few times interestingly, so we watched those games in detail and saw him doing very well,\" Exeter director of rugby Rob Baxter told the club website, external.",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3211,19 +3250,6 @@
         "body": "Fijian star Joji Nasova will not be joining Newcastle next season after the Red Bulls agreed to release him from his contract. The 25-year-old wing, who won a sevens silver medal at the Paris Olympics, had signed to move to the ambitious Prem club but will now stay with Fijian Drua.\n\nA club statement put the collapse of the deal down to \"personal reasons\". \"While we were very much looking forward to welcoming Joji to Newcastle Red Bulls, we fully understand and respect the unique personal circumstances that have led to this decision,\" Red Bulls general manager Neil McIlroy told the club wesbite., external",
         "copy": "Fijian star Joji Nasova will not be joining Newcastle next season after the Red Bulls agreed to release him from his contract. The 25-year-old wing, who won a sevens silver medal at the Paris Olympics, had signed to move to the ambitious Prem club but will now stay with Fijian Drua.\n\nA club statement put the collapse of the deal down to \"personal reasons\". \"While we were very much looking forward to welcoming Joji to Newcastle Red Bulls, we fully understand and respect the unique personal circumstances that have led to this decision,\" Red Bulls general manager Neil McIlroy told the club wesbite., external",
         "first_seen": "2026-07-20T12:17:29.269641+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "SA Rugby statement: Junior Springboks",
-        "link": "https://www.rugbypass.com/news/sa-rugby-statement-junior-springboks/",
-        "published": "2026-07-20T09:53:40+00:00",
-        "published_label": "Mon 20 Jul, 09:53",
-        "summary": "The Junior Springboks have been praised by SA Rugby as they returned to South Africa on Monday after successfully defending the World Rugby U20 Championship title in Georgia.",
-        "body": "The Junior Springboks have been praised by SA Rugby as they returned to South Africa on Monday after successfully defending the World Rugby Junior World Championship title in Georgia.\n\nSouth Africa retained the crown with a 16-5 victory over France in Saturday’s final, backing up last year’s triumph in Italy, where they beat New Zealand 23-15. The squad and management were congratulated by South African Rugby Union president Mark Alexander, who praised the team’s courage, discipline and skill throughout the tournament.",
-        "copy": "The Junior Springboks have been praised by SA Rugby as they returned to South Africa on Monday after successfully defending the World Rugby Junior World Championship title in Georgia.\n\nSouth Africa retained the crown with a 16-5 victory over France in Saturday’s final, backing up last year’s triumph in Italy, where they beat New Zealand 23-15. The squad and management were congratulated by South African Rugby Union president Mark Alexander, who praised the team’s courage, discipline and skill throughout the tournament.",
-        "first_seen": "2026-07-20T10:25:02.770588+00:00"
       }
     ],
     "Tennis": [
@@ -3762,6 +3788,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf UK prize money payout: How much Lucas Herbert, others won",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDVxNkFWSWd5X0RvVllVek9fMzJacGw2NndyUF9ETUwtdUdtOVY0UC1uaFZQTjg4cm1zVkJ3dFdveXlPT2x0SzRYc05nV2ZLQWlzSk13Y1g3Qkx4Vl9NYzZJY3hYb084OEx6ZHVBQWN3S0hxTHcyeUJWeGdCMVU3RnBid01kbURVWTNHTHAzLXZKZ3NocklnMmFpSEVJVjRSM1UySGpTZw?oc=5",
+        "published": "2026-07-27T08:39:29+00:00",
+        "published_label": "Mon 27 Jul, 08:39",
+        "summary": "LIV Golf UK prize money payout: How much Lucas Herbert, others won Golfmagic",
+        "body": "Australia's Lucas Herbert cantered to victory at LIV Golf UK. The 30-year-old led throughout the event in Staffordshire and carried a three-stroke advantage into the final round.\n\nDespite pressure from England's Tyrrell Hatton, Herbert fired the round of the day - a 10-under 62 - to finish on 30-under overall and win by six. It represented the lowest winning score on the breakaway tour's history and Herbert's second overall LIV win.",
+        "copy": "Australia's Lucas Herbert cantered to victory at LIV Golf UK. The 30-year-old led throughout the event in Staffordshire and carried a three-stroke advantage into the final round.\n\nDespite pressure from England's Tyrrell Hatton, Herbert fired the round of the day - a 10-under 62 - to finish on 30-under overall and win by six. It represented the lowest winning score on the breakaway tour's history and Herbert's second overall LIV win.",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6153,35 +6192,22 @@
         "body": "With major season over, the PGA Tour returns this week with the 3M Open in Minnesota, and the Tour’s biggest star is once again the betting favorite. Here is everything you need to know about the 3M Open odds and other betting favorites to start the week.\n\nScottie Scheffler nearly fought off a cold putter to win the 2026 Open Championship on Sunday, eventually coming up short and settling for a T4 finish. Though he now will officially end the season majorless, Scheffler has another chance to add a PGA Tour win this week at the 3M Open.",
         "copy": "With major season over, the PGA Tour returns this week with the 3M Open in Minnesota, and the Tour’s biggest star is once again the betting favorite. Here is everything you need to know about the 3M Open odds and other betting favorites to start the week.\n\nScottie Scheffler nearly fought off a cold putter to win the 2026 Open Championship on Sunday, eventually coming up short and settling for a T4 finish. Though he now will officially end the season majorless, Scheffler has another chance to add a PGA Tour win this week at the 3M Open.",
         "first_seen": "2026-07-20T12:17:29.269641+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Report: Bryson DeChambeau wanted Donald Trump involved in Open penalty dispute",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFdXWFU3TmdoZG5JcEtabTJTNWtCWkZvOTZtcXpHaWpMR0xBR2FLbGR5RTJ5R1FyZzVQM1dsOGhwYVcwenFhaHRycUQxWTlzZGxXLVZHbEROc1BaVk8yeENoZnVfM0VZR2sxUzZ2bkdtS05IMWNCVmhpWHM1XzczV3o4R0dCcGM1ZjlsWUZFTWxfVjNZbGJLV3lkbFYzOFdKX0JDSXBrSklRMjdrUTB3cldzVUhZSF94bVZIakU4S3g?oc=5",
-        "published": "2026-07-20T10:45:00+00:00",
-        "published_label": "Mon 20 Jul, 10:45",
-        "summary": "Report: Bryson DeChambeau wanted Donald Trump involved in Open penalty dispute Golfmagic",
-        "body": "Bryson DeChambeau reportedly asked for U.S. President Donald Trump to be brought into discussions over the two-shot penalty that overshadowed his challenge at The Open, according to veteran golf writer Geoff Shackelford.\n\nThe LIV Golf star became the biggest talking point of Friday's second round at Royal Birkdale after being penalised two strokes for breaching Rule 8.1 by inadvertently improving the area of his intended swing before playing his second shot on the par-4 5th.",
-        "copy": "Bryson DeChambeau reportedly asked for U.S. President Donald Trump to be brought into discussions over the two-shot penalty that overshadowed his challenge at The Open, according to veteran golf writer Geoff Shackelford.\n\nThe LIV Golf star became the biggest talking point of Friday's second round at Royal Birkdale after being penalised two strokes for breaching Rule 8.1 by inadvertently improving the area of his intended swing before playing his second shot on the par-4 5th.",
-        "first_seen": "2026-07-20T12:17:29.269641+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "How fast Fox trumped divisive DeChambeau to win Open",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cn4n2r3de84o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T10:23:50+00:00",
-        "published_label": "Mon 20 Jul, 10:23",
-        "summary": "Ryan Fox's pacy play set him apart from his peers as he triumphed at a fiery Birkdale that threatened to be overshadowed by Bryson DeChambeau's penalty, writes Iain Carter.",
-        "body": "Commentating on the thrilling climax of this year's Open, there was barely a moment to describe the biggest putt of Ryan Fox's life because he struck it so quickly. There were only 22 seconds between Sam Burns completing his final round and Fox stroking home the 11-footer on Royal Birkdale's 18th green. The putt made him champion golfer of the year.\n\nIt provided a magnificent and wholesome climax to the 154th Open, a dramatic championship marked by class and controversy. Bryson DeChambeau's two-shot penalty for trampling rough that improved the line of his swing path last Friday will not be forgotten. It was another incident that illustrated why he has become golf's most divisive figure.",
-        "copy": "Commentating on the thrilling climax of this year's Open, there was barely a moment to describe the biggest putt of Ryan Fox's life because he struck it so quickly. There were only 22 seconds between Sam Burns completing his final round and Fox stroking home the 11-footer on Royal Birkdale's 18th green. The putt made him champion golfer of the year.\n\nIt provided a magnificent and wholesome climax to the 154th Open, a dramatic championship marked by class and controversy. Bryson DeChambeau's two-shot penalty for trampling rough that improved the line of his swing path last Friday will not be forgotten. It was another incident that illustrated why he has become golf's most divisive figure.",
-        "first_seen": "2026-07-20T12:17:29.269641+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "How to watch Lee Zii Jia live at BWF Taipei Open 2026 - Full schedule",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVVhMXk1OHY5Tzl5Mm50czVOYmdFU1NaUFBMMVBRYkdCZmRtck10TE12WnVEY3R2dzE4UFVXQ3BQMWlSVXl5Q0pyaWFKZm1UMHdfM3ktZVRKXzQ0RkVxV3F1UFVrZ21JOF9BTkpuNm15NUhuV2hZQlFnWW5LUUhVaEVxdTlZb3VhQzRvMQ?oc=5",
+        "published": "2026-07-27T10:09:00+00:00",
+        "published_label": "Mon 27 Jul, 10:09",
+        "summary": "How to watch Lee Zii Jia live at BWF Taipei Open 2026 - Full schedule olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T10:55:14.495077+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6992,5 +7018,5 @@
       }
     ]
   },
-  "total": 536
+  "total": 538
 }
