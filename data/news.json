@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T12:55:35.561610+00:00",
-  "generated_label": "Monday 27 July 2026, 12:55 UTC",
+  "generated_at": "2026-07-27T16:17:12.526259+00:00",
+  "generated_label": "Monday 27 July 2026, 16:17 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,58 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Coca-Cola returns to Brazilian soccer with sweeping sponsorship deal",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUVNVDgtTm9Ea2M3Ul8zR09HbnpITWRFaVkycHM1b2ZuSmNPMUE0UWRpQkpKRUo0amFTdjBzZ0diako0QnYzV2s1NWRYZEZXZVJwWWt5anA4R3pTeGRXRmZOMFo4UVFEMWFQOVFKQ0Q4YXBvQzZoWklULWlOcXdKUUlUTjFPbDVvVzdHQzhiMTM4ckhITmpjQ1A4YWpqTTNv?oc=5",
+        "published": "2026-07-27T15:32:24+00:00",
+        "published_label": "Mon 27 Jul, 15:32",
+        "summary": "Coca-Cola returns to Brazilian soccer with sweeping sponsorship deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Report: Providence close to taking ownership of The.Team",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGI5cGN2MVBCTGtFVW1TTS1WdGJmV3NFUkRIN2JYVkVSS3RzZFZQd2k2Q21QVVlKV0dlSGRaV3poaGEzY2tYZUphZHFxZWFpNVl0ZFJpN1ZEM2cyTVViMmVmSkFfV3ZVMGxRQ1oxbVBXQVdPZ1pTOUFEZEd5ZEJRanZPMGtOWllBS04wZHFocw?oc=5",
+        "published": "2026-07-27T15:21:26+00:00",
+        "published_label": "Mon 27 Jul, 15:21",
+        "summary": "Report: Providence close to taking ownership of The.Team Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Fanatics acquires BGC Group assets to launch prediction market exchange",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkdybWttYWFudkp6N0Z5UDczcjFZUFJlLW1TVDBwNW9QYUVGcUhTNmV1Rnkwc21CVWlRU2xjRTd5QVdKT01CNmRtdGJ4LU5DUTdObl9sVG8zX3JTTTU5XzVsYTNyT3FsWTZXaTR3SGRnQU4yek5GeDNwVFBVcTBORHVrTGJhQWJ5X0tLMlFGZ1VSak9kYVJ0ZmJ4WEZvRUVWX0RjYg?oc=5",
+        "published": "2026-07-27T14:51:26+00:00",
+        "published_label": "Mon 27 Jul, 14:51",
+        "summary": "Fanatics acquires BGC Group assets to launch prediction market exchange Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "U-Next secures DFB-Pokal, European preseason matches, and Zuffa Boxing",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTFpYmRuT0JyVHVidGhKQVQtbWlJNExQZkxmb00zTzlQWk1oeVlMdVBZM0ZqR2I4cFAwbkw0bEdzSkJxcWY3VWxpbDE1eDRmSjdHSE96Ry1wVVRpRVhjRm1wbmF4YUpPRWZGaGFzV0dxWG9PUnhoS2FBMzJPMHkxR3BvYUF6clg5d1BlX3pzN0d4V1lDckpiWWdvazdGNUYt?oc=5",
+        "published": "2026-07-27T14:21:24+00:00",
+        "published_label": "Mon 27 Jul, 14:21",
+        "summary": "U-Next secures DFB-Pokal, European preseason matches, and Zuffa Boxing Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -141,6 +193,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-27T12:55:35.561610+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Vodafone raises profit guidance as billionaire Xavier Niel takes stake",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1FvU1NOZzZ1Sjl3QTF5amZpSWxmWTBFZXZmVmkxdm9ra1RuUFVFenVsMEZjNXNDMFF0TVJpWTZGdURGS1N0NTFoRlJlV0U0aGpVMXBuS0hQLW0wX3BjWGs3YXJWZ3k2cW1nMU1NRFdHT1VVTkRyVGRoVkw1YThaUjJ6MXU?oc=5",
+        "published": "2026-07-27T08:30:07+00:00",
+        "published_label": "Mon 27 Jul, 08:30",
+        "summary": "Vodafone raises profit guidance as billionaire Xavier Niel takes stake Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1441,100 +1506,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-21T08:24:12.843988+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "HSBC watch",
-        "kind": "gnews",
-        "title": "HSBC Innovation Banking UK and Oxbridge AI X Partner to Support the Next Generation of AI Founders",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEdtNXJIN21OTWpzME9Qa0Q4QW8wQTlyZjhUMXoySzZHZk1wdnQteS1nRmtOZm1yU0s2UXREUkdUSEgyVzJTYl9KeFhUbS1abTFaTi1aMnd5SU5tMmtuOFozemZ4Q3pmeDJSS29YRUVqQ0V0Qk5DOFdYOFg4M1NSUnNtM1kwcU1iSnZiMXIwcDBfc0tDMWNYMmt5dFFVUFB2ZENkU3RWM29oTHM2TlBvR21yb00wNGpnd0E?oc=5",
-        "published": "2026-07-20T15:35:38+00:00",
-        "published_label": "Mon 20 Jul, 15:35",
-        "summary": "HSBC Innovation Banking UK and Oxbridge AI X Partner to Support the Next Generation of AI Founders Financial IT",
-        "body": "HSBC Innovation Banking UK and Oxbridge AI X have entered into a partnership to support AI founders emerging from Oxford, Cambridge and Imperial College London, three of the world's leading universities and a powerful source of UK technology and AI innovation.\n\nThe partnership will connect founders, startups and alumni within Oxbridge AI X's community with HSBC Innovation Banking's specialists, helping entrepreneurs access the knowledge, networks and banking support they need as they build and scale AI companies.",
-        "copy": "HSBC Innovation Banking UK and Oxbridge AI X have entered into a partnership to support AI founders emerging from Oxford, Cambridge and Imperial College London, three of the world's leading universities and a powerful source of UK technology and AI innovation.\n\nThe partnership will connect founders, startups and alumni within Oxbridge AI X's community with HSBC Innovation Banking's specialists, helping entrepreneurs access the knowledge, networks and banking support they need as they build and scale AI companies.",
-        "first_seen": "2026-07-22T11:47:45.319576+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Ekstraklasa appoints Hawk-Eye to enhance tech services",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHNiUGh0MVN3TFFmNDlaUDZLc1JBQnhNMDJPUEZkUnFEVFNhZzUtaW1ZN1prblRUQ0F4MW1fMkxyVDNOSmFiVmI2QVU3TzBSSjNEdG5na2xuZzU4VmxaYXA3RVdLVUZ5b1h1WkxZWnU4NldmUERzSk0yOXNtN2tkcFRoRE10aTVocDhCQmlR?oc=5",
-        "published": "2026-07-20T15:34:27+00:00",
-        "published_label": "Mon 20 Jul, 15:34",
-        "summary": "Ekstraklasa appoints Hawk-Eye to enhance tech services Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "John Deere steps up to the plate as MLB ‘Field of Dreams’ Game sponsor",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFNlLXJZVzBadVA2amtDTG1ueDVVOWxzRFE3WjN0eDBpNGRteW1zNWxuUktUbDd1XzZmM1F0bURzQjNhb0pIeWJYVHlhZ2RGNFlENEtYcDh1ZU9tNVE0LVY2eWxqNGZPdTZ5TksyMElBQ1ZEM1VfV1dQTG5oUk5MS2psZzMzUFc5d2ZPM0ZBRVdWMlVSUlE2UmU1MHkwc2otTXJvTGNtT1B2QQ?oc=5",
-        "published": "2026-07-20T15:34:27+00:00",
-        "published_label": "Mon 20 Jul, 15:34",
-        "summary": "John Deere steps up to the plate as MLB ‘Field of Dreams’ Game sponsor Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-22T08:24:55.832128+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Major audiences for World Cup final in Spain, Argentina, rest of Europe",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2F1YlhidW1ZQnMxNWJYU2lDVm9GUXc3QlJuXzh0N3pkd2FTa1VleXNMWUI4Y3cwZDIxRW42YV9RTnozenYxelg1LXFCMFZjdVJRNkhVVEhsQUxyRnlDczllTXc4Rjg0WmdqcTM0N2M4WmRqTGVzRk1UVFJOV0Fvb1FhOExpLVNKSjFLbUp2Q3Zmb0RsalRyZnNjZFFoMDE1VGo4?oc=5",
-        "published": "2026-07-20T14:49:26+00:00",
-        "published_label": "Mon 20 Jul, 14:49",
-        "summary": "Major audiences for World Cup final in Spain, Argentina, rest of Europe Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-22T08:24:55.832128+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Lakers land Albert as new jersey sponsor in lucrative deal",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONndTVDF4dDNnUTdJWmZvTGNBUjlMMlZUQkhGZ0NSaDgydFBwektRaUZUYllmX3YzdTdvNnBxd0UtTERPY2RhY3hQM083Ynd3NDB1MlUyWkxPUzlDeXJuckw5UGVqRExGU2VxbTB2RDZNMmR2R0RUSk9UNU5qMWV4d3djSlg4QUtYT19LQjhVSmcxNnc?oc=5",
-        "published": "2026-07-20T14:19:26+00:00",
-        "published_label": "Mon 20 Jul, 14:19",
-        "summary": "Lakers land Albert as new jersey sponsor in lucrative deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Lakers land Albert as new jersey sponsor in lucrative deal",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFM1YzhYeUI2VU0zblY2QVY0N25fOWdnMDhIcWk5V042dE9HVE1VbzZsdWVuTkxKWmp5Zm1nUkFyelo3OWJuaGJSbUk0cmdVc2FPMlJvX05ncjRIYWZRb2ZrRmhkeWxOU0JlRHFUMTZHdHBKRy1LLWw4d0hydHRYWWNyMEhuQXhfelpSRkFYeUc4bHloOXM0Nkc3Zm4?oc=5",
-        "published": "2026-07-20T14:19:26+00:00",
-        "published_label": "Mon 20 Jul, 14:19",
-        "summary": "Lakers land Albert as new jersey sponsor in lucrative deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-21T08:24:12.843988+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "First night of the BBC Proms review — Yunchan Lim’s virtuosity crowns a solid start to the season",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU28tMG5VRmpPYUZZREFZM2wxRlp1N0g3UDN5Rmw2bHYtVUgwaG9lZU5QWmp5ZjRUaFFMck9XSE9rc0tRMjlIR3QxcWdWajdYOXczVTNwSTFUOTZxTklrdGpxWC05NzlxckZjNFppWkFPLTlsNnpPLVNTVERheVJ1dHJEUlA?oc=5",
-        "published": "2026-07-20T13:11:45+00:00",
-        "published_label": "Mon 20 Jul, 13:11",
-        "summary": "First night of the BBC Proms review — Yunchan Lim’s virtuosity crowns a solid start to the season Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-20T18:00:01.939648+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Seilala Mapusua secures new job after Moana Pasifika exit",
+        "link": "https://www.rugbypass.com/news/seilala-mapusua-secures-new-job-after-moana-pasifika-exit/",
+        "published": "2026-07-27T13:54:05+00:00",
+        "published_label": "Mon 27 Jul, 13:54",
+        "summary": "Former Samoa centre and head coach Seilala Mapusua has joined Japan Rugby League One outfit, Kubota Spears, as an assistant coach.",
+        "body": "Former Samoa centre and head coach Seilala Mapusua has joined Japan Rugby League One outfit, Kubota Spears, as an assistant coach. It marks a return to Kubota for Mapusua, who played there in the latter stages of his decorated career.\n\nMapusua had been on the lookout for a new job since Moana Pasifika folded at the end of the Super Rugby season and is now part of head coach Frans Ludeke’s coaching team. “I feel immense joy and excitement at this new challenge, returning to Kubota Spears Funabashi Tokyo-Bay as a coach, 15 years after joining as a player,” said Mapusua, who moved to Kubota from London Irish in 2011 in his playing days.",
+        "copy": "Former Samoa centre and head coach Seilala Mapusua has joined Japan Rugby League One outfit, Kubota Spears, as an assistant coach. It marks a return to Kubota for Mapusua, who played there in the latter stages of his decorated career.\n\nMapusua had been on the lookout for a new job since Moana Pasifika folded at the end of the Super Rugby season and is now part of head coach Frans Ludeke’s coaching team. “I feel immense joy and excitement at this new challenge, returning to Kubota Spears Funabashi Tokyo-Bay as a coach, 15 years after joining as a player,” said Mapusua, who moved to Kubota from London Irish in 2011 in his playing days.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Former Great Britain captain Fergusson lands Celtic Challenge coaching role",
+        "link": "https://www.rugbypass.com/news/former-great-britain-captain-fergusson-lands-celtic-challenge-coaching-role/",
+        "published": "2026-07-27T13:50:23+00:00",
+        "published_label": "Mon 27 Jul, 13:50",
+        "summary": "Former Great Britain Sevens captain Robbie Fergusson has been named Glasgow Warriors head coach ahead of the 2026/27 Celtic Challenge season.",
+        "body": "Former Great Britain Sevens captain Robbie Fergusson has been named Glasgow Warriors head coach ahead of the 2026/27 Celtic Challenge season. The 32-year-old, who has most recently worked as an assistant with the Hong Kong China Sevens and has also worked as an assistant with Great Britain Women’s Sevens. He also spent two spells with Glasgow in his playing career.\n\nFergusson has also preciously been Director of Rugby of Ayr RFC and the Ayrshire Bulls. During his time with his hometown club he oversaw their senior and pathway programmes. He retired in 2024 to conclude his nine-year career. Fergusson made over 50 appearances on the HSBC SVNS Series, competed at the 2020 Olympic Games in Tokyo and at two Commonwealth Games for Scotland.",
+        "copy": "Former Great Britain Sevens captain Robbie Fergusson has been named Glasgow Warriors head coach ahead of the 2026/27 Celtic Challenge season. The 32-year-old, who has most recently worked as an assistant with the Hong Kong China Sevens and has also worked as an assistant with Great Britain Women’s Sevens. He also spent two spells with Glasgow in his playing career.\n\nFergusson has also preciously been Director of Rugby of Ayr RFC and the Ayrshire Bulls. During his time with his hometown club he oversaw their senior and pathway programmes. He retired in 2024 to conclude his nine-year career. Fergusson made over 50 appearances on the HSBC SVNS Series, competed at the 2020 Olympic Games in Tokyo and at two Commonwealth Games for Scotland.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "New NRL outfit lure back Zac Lomax but miss out on Aussie rugby union ace",
+        "link": "https://www.rugbypass.com/news/new-nrl-outfit-lure-back-zac-lomax-but-miss-out-on-aussie-rugby-union-ace/",
+        "published": "2026-07-27T13:44:46+00:00",
+        "published_label": "Mon 27 Jul, 13:44",
+        "summary": "Zac Lomax has vowed that the PNG Chiefs will shock the NRL when they enter the competition in 2028 after penning a three-year contract, but it is not all good news for the expansion outfit.",
+        "body": "Zac Lomax has vowed that the PNG Chiefs will shock the NRL when they enter the competition in 2028 after penning a three-year contract, but it is not all good news for the expansion outfit.\n\nThe Chiefs had made Queensland Reds rising star Treyvon Pritchard, who is tipped for superstardom, a target, but instead of switching codes, he has agreed a new deal with the Super Rugby outfit and Rugby Australia.",
+        "copy": "Zac Lomax has vowed that the PNG Chiefs will shock the NRL when they enter the competition in 2028 after penning a three-year contract, but it is not all good news for the expansion outfit.\n\nThe Chiefs had made Queensland Reds rising star Treyvon Pritchard, who is tipped for superstardom, a target, but instead of switching codes, he has agreed a new deal with the Super Rugby outfit and Rugby Australia.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Irish Sailing and Rugby Sevens Shine in Action-Packed Weekend",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTFQYzJkLUdxak5xWVczUFZmc2ZSbmpNT0lScHFtaWcwcVYwVmpnbzR2VmRLRklGUWFNbUw1TUZDSmlwYWZ6aFMtZkt5WGRwb3l2dVVLV1FqQi04eGt4cnJqc3JILUZxbllsalZ2Wi1xV2ZhWGlMaWFfYkU2ajBqRUR5dkdub1QwcFE?oc=5",
+        "published": "2026-07-27T13:31:01+00:00",
+        "published_label": "Mon 27 Jul, 13:31",
+        "summary": "Irish Sailing and Rugby Sevens Shine in Action-Packed Weekend Team Ireland",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "2026 Swyftx Super Rugby Women’s | RugbyPass' Team of the Season",
+        "link": "https://www.rugbypass.com/news/2026-swyftx-super-rugby-womens-rugbypass-team-of-the-season/",
+        "published": "2026-07-27T13:11:44+00:00",
+        "published_label": "Mon 27 Jul, 13:11",
+        "summary": "The NSW Waratahs claimed a third Super Rugby Women's title in a row with an emphatic 34-17 win over the Fijian Drua in Ba.",
+        "body": "The NSW Waratahs claimed a third Super Rugby Women’s title in a row with an emphatic 34-17 win over the Fijian Drua in Ba. A first-ever Final held on the islands the stage was set for Drua success as 4,097 supporters lined the stands. But when the final curtain fell, it was the Waratahs’ day as a third consecutive league title made its way back to Sydney.\n\nWallaroos stalwarts Maya Steward and Desiree Miller both made their way over the whitewash at Four R Stadium, teenage starlet Amelia Whitaker dotted down twice in the final 20 minutes and Rosie Ferguson scored one try.",
+        "copy": "The NSW Waratahs claimed a third Super Rugby Women’s title in a row with an emphatic 34-17 win over the Fijian Drua in Ba. A first-ever Final held on the islands the stage was set for Drua success as 4,097 supporters lined the stands. But when the final curtain fell, it was the Waratahs’ day as a third consecutive league title made its way back to Sydney.\n\nWallaroos stalwarts Maya Steward and Desiree Miller both made their way over the whitewash at Four R Stadium, teenage starlet Amelia Whitaker dotted down twice in the final 20 minutes and Rosie Ferguson scored one try.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3263,48 +3302,35 @@
         "body": "Ireland emerged from an inaugural Nations Championship campaign with two wins from three, beating Australia and Japan before falling short against New Zealand at Eden Park. There were positives to leave Andy Farrell encouraged: Joe McCarthy’s physical authority, Hugo Keenan’s return to form and the emergence of Nick Timoney and Sean Jansen offer a succession plan in the back-row.\n\nYet familiar concerns remain. The lineout malfunctioned far too often, the scrum could charitably be described as barely competent, and several senior figures looked like a summer off would have done them the world of good.",
         "copy": "Ireland emerged from an inaugural Nations Championship campaign with two wins from three, beating Australia and Japan before falling short against New Zealand at Eden Park. There were positives to leave Andy Farrell encouraged: Joe McCarthy’s physical authority, Hugo Keenan’s return to form and the emergence of Nick Timoney and Sean Jansen offer a succession plan in the back-row.\n\nYet familiar concerns remain. The lineout malfunctioned far too often, the scrum could charitably be described as barely competent, and several senior figures looked like a summer off would have done them the world of good.",
         "first_seen": "2026-07-20T18:00:01.939648+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Mick Cleary: 'There was plenty to admire in England’s showing, even if the madcap finish scrambled many minds.'",
-        "link": "https://www.rugbypass.com/plus/mick-cleary-there-was-plenty-to-admire-in-englands-showing-even-if-the-madcap-finish-scrambled-many-minds/",
-        "published": "2026-07-20T14:37:20+00:00",
-        "published_label": "Mon 20 Jul, 14:37",
-        "summary": "Steve Borthwick brought to a close an inconsistent season with a helter-skelter Test and just about emerged victorious",
-        "body": "The Sound of Silence, music to the ears of Steve Borthwick. If only the soundtrack of a subdued away stadium could play for ever and a day for the England head coach. But it didn’t last in the match itself as England came perishingly close to following their footballing counterparts and throwing the result late on. Nor have the critical murmurings been completely stilled at Twickenham as England’s long summer labours come to an end, a grafting, initially uplifting, performance yielding Borthwick’s men their first victory on the road in a year. As Thomas Tuchel discovered when boos greeted his name being announced at the Bronze match in Miami, the relationship with a support base can be a delicate affair, yet Borthwick, with two wins from three Nations Championship matches, can afford to rest, recuperate and plan ahead. But, despite 25,000 miles travelled over the last three weeks, England have somehow managed to take only half a step forward. If only they could bottle their first half display and put it out on the field for the full 80.\n\nTheir dynamic, purposeful opening salvo in Santiago del Estero showed the potential that is there. But it remains a half-built edifice. One puff of turbulence and panic set in. Admittedly, it’s dangerous to read too much into press conferences but the manner in which Borthwick snapped at his critics when questioned about the towering tally on England yellow cards, four in this match to take the haul to 14 across the last ten tests, indicates the strain he’s been under. The line of inquiry is wholly legitimate. England will not advance to the upper echelons of the world game unless they tighten their discipline. But fair enough. Borthwick has been under pressure. And rightly so after England’s worst Six Nations for eons and a thumping defeat in Johannesburg on the opening Nations weekend. Credit where it is due though. This was a match that had to be won. And, for all the misgivings, it was.",
-        "copy": "The Sound of Silence, music to the ears of Steve Borthwick. If only the soundtrack of a subdued away stadium could play for ever and a day for the England head coach. But it didn’t last in the match itself as England came perishingly close to following their footballing counterparts and throwing the result late on. Nor have the critical murmurings been completely stilled at Twickenham as England’s long summer labours come to an end, a grafting, initially uplifting, performance yielding Borthwick’s men their first victory on the road in a year. As Thomas Tuchel discovered when boos greeted his name being announced at the Bronze match in Miami, the relationship with a support base can be a delicate affair, yet Borthwick, with two wins from three Nations Championship matches, can afford to rest, recuperate and plan ahead. But, despite 25,000 miles travelled over the last three weeks, England have somehow managed to take only half a step forward. If only they could bottle their first half display and put it out on the field for the full 80.\n\nTheir dynamic, purposeful opening salvo in Santiago del Estero showed the potential that is there. But it remains a half-built edifice. One puff of turbulence and panic set in. Admittedly, it’s dangerous to read too much into press conferences but the manner in which Borthwick snapped at his critics when questioned about the towering tally on England yellow cards, four in this match to take the haul to 14 across the last ten tests, indicates the strain he’s been under. The line of inquiry is wholly legitimate. England will not advance to the upper echelons of the world game unless they tighten their discipline. But fair enough. Borthwick has been under pressure. And rightly so after England’s worst Six Nations for eons and a thumping defeat in Johannesburg on the opening Nations weekend. Credit where it is due though. This was a match that had to be won. And, for all the misgivings, it was.",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Amarante Sititi: 'Growing up in a rugby family definitely inspired me'",
-        "link": "https://www.rugbypass.com/news/amarante-sititi-growing-up-in-a-rugby-family-definitely-inspired-me/",
-        "published": "2026-07-20T13:11:07+00:00",
-        "published_label": "Mon 20 Jul, 13:11",
-        "summary": "When Amarante Sititi, 19, goes shopping with her good friend, Black Ferns World Rugby Breakthrough Player of the Year Braxton Sorensen-McGee, she often has to pause to satisfy requests for selfies.",
-        "body": "When Amarante Sititi, 19, goes shopping with her good friend, Black Ferns World Rugby Breakthrough Player of the Year Braxton Sorensen-McGee, she often has to pause to satisfy requests for selfies.\n\n“I’m always the one taking the picture,” Sititi laughed. Soon Amarante could be the one in front of the camera. The Blues loose forward, whose name means ‘the flower that never fades’, is blossoming into one of the most promising prospects in Super Rugby Aupiki.",
-        "copy": "When Amarante Sititi, 19, goes shopping with her good friend, Black Ferns World Rugby Breakthrough Player of the Year Braxton Sorensen-McGee, she often has to pause to satisfy requests for selfies.\n\n“I’m always the one taking the picture,” Sititi laughed. Soon Amarante could be the one in front of the camera. The Blues loose forward, whose name means ‘the flower that never fades’, is blossoming into one of the most promising prospects in Super Rugby Aupiki.",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Newcastle Red Bulls agree to new signing u-turn",
-        "link": "https://www.rugbypass.com/news/newcastle-red-bulls-agree-to-new-signing-u-turn/",
-        "published": "2026-07-20T13:00:47+00:00",
-        "published_label": "Mon 20 Jul, 13:00",
-        "summary": "After careful consideration, Newcastle Red Bulls have agreed to release Joji Nasova from his contract for next season.",
-        "body": "After careful consideration, Newcastle Red Bulls have agreed to release Joji Nasova from his contract for next season, for personal reasons. The Fijian, capped in 15s and sevens, had agreed terms to join the club ahead of the 2026/27 campaign. However, the 26-year-old will not move to the Gallagher PREM and will remain with his current team, Fijian Drua.\n\nIn a press release, Newcastle said: “The club has worked constructively with the player, Fijian Drua and the Fiji Rugby Players Association to reach a resolution that recognises Joji’s personal circumstances, while also respecting the importance of contractual stability within the RFU and World Rugby frameworks.”",
-        "copy": "After careful consideration, Newcastle Red Bulls have agreed to release Joji Nasova from his contract for next season, for personal reasons. The Fijian, capped in 15s and sevens, had agreed terms to join the club ahead of the 2026/27 campaign. However, the 26-year-old will not move to the Gallagher PREM and will remain with his current team, Fijian Drua.\n\nIn a press release, Newcastle said: “The club has worked constructively with the player, Fijian Drua and the Fiji Rugby Players Association to reach a resolution that recognises Joji’s personal circumstances, while also respecting the importance of contractual stability within the RFU and World Rugby frameworks.”",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Greg Rusedski suggests if he believes Jack Draper deserves a US Open wildcard this year",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWJuOEQ1ekEtTVdqWW56X0xkT1lqOFU2RUZsLTFSSEMxUzQxU3YwSXhqRndiUmh3VmxSRmFLUk1XNEktR05YcUVsR2Vmdm52cmEwbWUwRXhfRldhYloxZmVfaHZmd3A1bFBsTlRUUEc0ZXhBY3VSVGlDRlY4MTBJMkdXbTQ5UkU4aXVOY3JIVmpZTXZodTY1X2pXMmVyOW52d0pHcUtKUzRkQnlCTGNDQg?oc=5",
+        "published": "2026-07-27T15:00:00+00:00",
+        "published_label": "Mon 27 Jul, 15:00",
+        "summary": "Greg Rusedski suggests if he believes Jack Draper deserves a US Open wildcard this year Tennishead",
+        "body": "Jack Draper has had a torrid time of late, desperately unfortunate with his fitness routinely failing. It seems like every time he seemed to be reaching the light at the end of the tunnel, a new setback would occur from seemingly nowhere, resulting in a chain of events that has sent him falling down the world rankings with some speed.\n\nHis current position is not indicative of the player he is, and the hope is that he can prove that in the coming months. That being said, Draper’s decision to register for a Challenger event whilst the Canadian and Cincinnati Open are on is a bold one that will not help him rise any quicker. Minutes on the court are clearly his priority.",
+        "copy": "Jack Draper has had a torrid time of late, desperately unfortunate with his fitness routinely failing. It seems like every time he seemed to be reaching the light at the end of the tunnel, a new setback would occur from seemingly nowhere, resulting in a chain of events that has sent him falling down the world rankings with some speed.\n\nHis current position is not indicative of the player he is, and the hope is that he can prove that in the coming months. That being said, Draper’s decision to register for a Challenger event whilst the Canadian and Cincinnati Open are on is a bold one that will not help him rise any quicker. Minutes on the court are clearly his priority.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Will Jack Draper be a factor at the US Open? All details inside",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdkhuUDdtSndJUzdoMWFKb0VJeFg3ZTNTcldXb284a2N0ZlE3SV82SlpKZjVMRTFrQ283MnRJSHp5VmNEZ1cwRmxOQXNIbDdzV0lCR0ZnRmlOQ184OEN0ZFp3TDlXdl9MemlTZmhtT09rdk9heE9FcnNlS1FQOW1TYWFwMnVTQVlyWlY0ejJ3UWdOLUxSTnhVaUhhRWtGZEczUDNudms2dE9rSUVJSGNVZUZ6cXVwUG1rNGxyZGtRRDVTQzl5R29N?oc=5",
+        "published": "2026-07-27T13:00:00+00:00",
+        "published_label": "Mon 27 Jul, 13:00",
+        "summary": "Will Jack Draper be a factor at the US Open? All details inside Tennis World USA",
+        "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -3837,22 +3863,74 @@
         "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
         "copy": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
         "first_seen": "2026-07-21T08:24:12.843988+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "WTA: Tour announces mandatory SRY gene test for players to determine their sex in order to compete",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWXVSZGhUWlRzSFBsVkxUNUxxeFFuNDY3eS1mR3h2WTUzV0l0MEtmcEVvWVRTMmZWcHpKb0t3VU4tWlVpRnFiZnF4Mlhtc0EtVC1fM0c5NzJRd3BDeXlPUzREck40dzJIRkwwUXkxZkhyUk5kcDNxNlExSGR2YzU1UXhjYkZFVzYzREtZZUh1UzB5X3RvLVM0M2lkNEFkSFA4NXkyaUItM0daZlUtV0EyMTBCM0FBd0lQUVJIQ0NicWJONlVtY2pFWUxXTVV0VWx1cGp5WmJ3QWJZTElkdS1IUGxybXQ?oc=5",
-        "published": "2026-07-20T15:55:24+00:00",
-        "published_label": "Mon 20 Jul, 15:55",
-        "summary": "WTA: Tour announces mandatory SRY gene test for players to determine their sex in order to compete Sky Sports",
-        "body": "The WTA has announced that tennis players will have to undergo genetic sex testing to play on the women's tour. In an update to its eligibility policy, the WTA confirmed that athletes will have to undergo a one-time test for the SRY gene, which determines biological sex, coming into effect on Tuesday, with players facing disciplinary action should they refuse testing.\n\nPrevious WTA rules allowed the participation of transgender women provided their declared gender was female and they maintained a lower testosterone level for two years before competing.",
-        "copy": "The WTA has announced that tennis players will have to undergo genetic sex testing to play on the women's tour. In an update to its eligibility policy, the WTA confirmed that athletes will have to undergo a one-time test for the SRY gene, which determines biological sex, coming into effect on Tuesday, with players facing disciplinary action should they refuse testing.\n\nPrevious WTA rules allowed the participation of transgender women provided their declared gender was female and they maintained a lower testosterone level for two years before competing.",
-        "first_seen": "2026-07-21T08:24:12.843988+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Last Look LIV Golf United Kingdom presented by JCB: Notes, stats, superlatives and more",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiUTZYNFR1RmRJbG9kTFJ4aVNmVHBWeG5LVEJhazlMSy00RWdvOWROQVkxVG55aEMxVnBRckpRTkRVMXZJUHZIMWNMSUY4b2xaR01yR1BLWlh6WHNhWWgwZkRTRm5DT2NMa3hnTHVJcWFxY1lObUdkWg?oc=5",
+        "published": "2026-07-27T14:57:29+00:00",
+        "published_label": "Mon 27 Jul, 14:57",
+        "summary": "Last Look LIV Golf United Kingdom presented by JCB: Notes, stats, superlatives and more LIV Golf",
+        "body": "Lucas Herbert delivered one of the greatest performances in LIV Golf history at JCB Golf & Country Club, shooting 61-66-69-62 to finish at 30-under and win LIV Golf United Kingdom by six shots over Tyrrell Hatton.\n\nHerbert led from start to finish and set the record for the lowest winning score in LIV Golf history. The Australian also set league records with 30 birdies and 32 combined birdies and eagles during the tournament.",
+        "copy": "Lucas Herbert delivered one of the greatest performances in LIV Golf history at JCB Golf & Country Club, shooting 61-66-69-62 to finish at 30-under and win LIV Golf United Kingdom by six shots over Tyrrell Hatton.\n\nHerbert led from start to finish and set the record for the lowest winning score in LIV Golf history. The Australian also set league records with 30 birdies and 32 combined birdies and eagles during the tournament.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Koivun vs. Scheffler was dream 3M Open finish. Now comes the catch",
+        "link": "https://golf.com/news/koivun-scheffler-dream-sunday-problem-lingers/",
+        "published": "2026-07-27T14:12:55+00:00",
+        "published_label": "Mon 27 Jul, 14:12",
+        "summary": "Jackson Koivun beat Scottie Scheffler to win the 3M Open in Minnesota, but a dilemma awaits some PGA Tour stops come 2028. The post Koivun vs. Scheffler was dream 3M Open finish. Now comes the catch appeared first on Golf .",
+        "body": "BLAINE, Minn. — About an hour after he won the 3M Open on Sunday, a reporter asked Jackson Koivun an innocent question: What will you remember most from the weekend? “Just that I’ll be forever indebted to the 3M Open for helping me get my first PGA Tour win,” he said.\n\nIt was a good answer by the 21-year-old, newly turned pro, but it’s also an ironic one. It was a dream week for the 3M Open. World No. 1 Scottie Scheffler entered for the first time, ticket sales skyrocketed and then Scheffler and Koivun battled down the stretch. One of the game’s brightest young stars beat out its top performer, meaning the 3M Open would always hold a special place in his heart, no matter how many more wins he piles up.",
+        "copy": "BLAINE, Minn. — About an hour after he won the 3M Open on Sunday, a reporter asked Jackson Koivun an innocent question: What will you remember most from the weekend? “Just that I’ll be forever indebted to the 3M Open for helping me get my first PGA Tour win,” he said.\n\nIt was a good answer by the 21-year-old, newly turned pro, but it’s also an ironic one. It was a dream week for the 3M Open. World No. 1 Scottie Scheffler entered for the first time, ticket sales skyrocketed and then Scheffler and Koivun battled down the stretch. One of the game’s brightest young stars beat out its top performer, meaning the 3M Open would always hold a special place in his heart, no matter how many more wins he piles up.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Multiple major champion outlines LIV Golf's biggest mistake: \"I don't get it\"",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSk5LWkNLSDBvZTZGakZWTzVrOWpkSU1fdzBkaVQ1SWo4WmJBOHlmdXdrcGFtMm4zYWtPLVd6STF6dnc5S05PZ2FzWXBuNGI0QVJrNVpranhBTm9WR2VhTUN0R201dDIzdVZId0FpN3p5VGRnalUxa0NWS1hSY0tsYkY1U05vaWxjd2I1LVYtS0U2OVl4RXFfOHdBNHp1cThObndkeTZYTy1ZcThRbGViQnVB?oc=5",
+        "published": "2026-07-27T14:04:24+00:00",
+        "published_label": "Mon 27 Jul, 14:04",
+        "summary": "Multiple major champion outlines LIV Golf's biggest mistake: \"I don't get it\" Golfmagic",
+        "body": "Sir Nick Faldo says LIV Golf's biggest mistake of all was making unknown players \"mega rich\". The league is reeling from the withdrawal of Saudi Arabian financing and it remains to be seen whether the breakaway tour will carry on in 2027.\n\nLIV officials remain optimistic there is a future for the circuit, but reports from last week's event in the UK suggested at least seven players are expected to leave regardless of whether organisers secure around $350m from new investors.",
+        "copy": "Sir Nick Faldo says LIV Golf's biggest mistake of all was making unknown players \"mega rich\". The league is reeling from the withdrawal of Saudi Arabian financing and it remains to be seen whether the breakaway tour will carry on in 2027.\n\nLIV officials remain optimistic there is a future for the circuit, but reports from last week's event in the UK suggested at least seven players are expected to leave regardless of whether organisers secure around $350m from new investors.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Second again",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cm2ge4pv94lo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-27T13:06:46+00:00",
+        "published_label": "Mon 27 Jul, 13:06",
+        "summary": "World number one Scottie Scheffler has not won a tournament since January, but what's the reason?",
+        "body": "It has been six months since world number one Scottie Scheffler won a golf tournament. Given he earned 14 victories over the previous two seasons, it is a drought few could have conceived when he triumphed at the American Express Open on 27 January 2026.\n\nThe four majors have passed without a Scheffler victory - he won both the US PGA Championship and The Open in 2025 - while two weeks ago he missed his first cut in 78 events, ending the longest unbroken streak on the PGA Tour.",
+        "copy": "It has been six months since world number one Scottie Scheffler won a golf tournament. Given he earned 14 victories over the previous two seasons, it is a drought few could have conceived when he triumphed at the American Express Open on 27 January 2026.\n\nThe four majors have passed without a Scheffler victory - he won both the US PGA Championship and The Open in 2025 - while two weeks ago he missed his first cut in 78 events, ending the longest unbroken streak on the PGA Tour.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Turning point in my life': How COVID led to LPGA pro's first win in 10 years",
+        "link": "https://golf.com/news/how-covid-led-lpga-pro-first-win-10-years/",
+        "published": "2026-07-27T12:56:07+00:00",
+        "published_label": "Mon 27 Jul, 12:56",
+        "summary": "LPGA pro Jenny Shin ended a 10-year win drought Sunday at the 2026 Women's British Open, then revealed how COVID led to her victory. The post ‘Turning point in my life’: How COVID led to LPGA pro’s first win in 10 years appeared first on Golf .",
+        "body": "On Sunday at the 2026 ISPS HANDA Women’s Scottish Open, longtime pro Jenny Shin did something she hadn’t done in over 10 years: she won. However, just like her decade-long drought, Sunday’s win didn’t come easy. She fought off a three-bogey stretch and a charging A Lim Kim to shoot 75 and win by two shots.\n\n“I feel like I’ve done everything wrong, just wasn’t hitting it like I was the last three days and was hitting it into bunkers, bushes, and it wasn’t fun. With the three bogeys in a row, I thought, ‘Oh, boy, I don’t know where this is going to go?'” Shin said immediately after her round. “But yeah, I hung in there and so I’m quite proud of myself. Very happy.”",
+        "copy": "On Sunday at the 2026 ISPS HANDA Women’s Scottish Open, longtime pro Jenny Shin did something she hadn’t done in over 10 years: she won. However, just like her decade-long drought, Sunday’s win didn’t come easy. She fought off a three-bogey stretch and a charging A Lim Kim to shoot 75 and win by two shots.\n\n“I feel like I’ve done everything wrong, just wasn’t hitting it like I was the last three days and was hitting it into bunkers, bushes, and it wasn’t fun. With the three bogeys in a row, I thought, ‘Oh, boy, I don’t know where this is going to go?'” Shin said immediately after her round. “But yeah, I hung in there and so I’m quite proud of myself. Very happy.”",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6153,87 +6231,22 @@
         "body": "LIV Golf is facing a legal battle just days before its return to action in England, with a technology company suing the league for more than $1 million over alleged unpaid invoices and breach of contract.\n\nCanadian-based Mobii Systems Group Limited has filed a lawsuit against LIV Golf in the U.S. District Court in Miami, claiming the league failed to fulfil its financial obligations under a two-year agreement covering the technology behind its popular “Any Shot, Any Time” broadcast feature.",
         "copy": "LIV Golf is facing a legal battle just days before its return to action in England, with a technology company suing the league for more than $1 million over alleged unpaid invoices and breach of contract.\n\nCanadian-based Mobii Systems Group Limited has filed a lawsuit against LIV Golf in the U.S. District Court in Miami, claiming the league failed to fulfil its financial obligations under a two-year agreement covering the technology behind its popular “Any Shot, Any Time” broadcast feature.",
         "first_seen": "2026-07-20T18:00:01.939648+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "The Open: Did Bryson DeChambeau attempt to involve President Donald Trump during rules controversy at Royal Birkdale?",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTEI5UWtoODZidm5rNjFQbGdqR1p2VjdDbzJ5NFdXWFhKcFJ0aW40VFlrU1ZhSnlHMm4tVEZFZ3NhZkJiMDM5ZHU0ME5iYy1hTHl2UktxbDZaSk1scjRaYTh6VHZrVlNKd2lpS01zaE1ZYzlvb2hybXIzYTNTSmpNT2R4R3ozYlp6aUlpckRlRTJYbEtSQlFGN3dBclNkdHB5YVlGWjQxX1JHOWd2b19KTFRRT0JmalZiSzJ4cTBjVENDdm5GTXZ1eUd6ZmdTRGNHdzFISW1yZU5hUjE5b251QmdxdnBsQ0FiU3ZSQmlZNlgya2hCZkNCcU1n?oc=5",
-        "published": "2026-07-20T16:05:08+00:00",
-        "published_label": "Mon 20 Jul, 16:05",
-        "summary": "The Open: Did Bryson DeChambeau attempt to involve President Donald Trump during rules controversy at Royal Birkdale? Sky Sports",
-        "body": "The Open: Did Bryson DeChambeau attempt to involve President Donald Trump during rules controversy at Royal Birkdale? Bryson DeChambeau has been accused of wanting to involve United States President Donald Trump during his rules controversy at The Open, multiple media reports have claimed.\n\nThe two-time major winner was handed a two-shot penalty late on Friday night after officials reviewed footage and decided he had improved the area of his backswing by flattening down some long grass on Royal Birkdale's fifth hole.",
-        "copy": "The Open: Did Bryson DeChambeau attempt to involve President Donald Trump during rules controversy at Royal Birkdale? Bryson DeChambeau has been accused of wanting to involve United States President Donald Trump during his rules controversy at The Open, multiple media reports have claimed.\n\nThe two-time major winner was handed a two-shot penalty late on Friday night after officials reviewed footage and decided he had improved the area of his backswing by flattening down some long grass on Royal Birkdale's fifth hole.",
-        "first_seen": "2026-07-21T10:00:29.765541+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf team names replacement for injured Open champ",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN1hoUnFEVmRyV2dSYmlocHJoaW5PRUFEVjdiNXp1aHAzVUNXZkdBei1nbG4tZlp1LWgtTVlpREEwS0NnY0FPNnd5UDdKcXZ1S0J6RXdnQjhnRTEwZ1lyMHVPd2ttaGpMSTNqZ3FaS2ZYX0NQM1hic3ZPMngzYlBjeW1QSQ?oc=5",
-        "published": "2026-07-20T15:04:17+00:00",
-        "published_label": "Mon 20 Jul, 15:04",
-        "summary": "LIV Golf team names replacement for injured Open champ bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf team Southern Guards GC has confirmed its replacement for injured team captain Louis Oosthuizen.\n\nThe 2010 Champion Golfer of the Year pulled out of the 154th Open Championship on the eve of the tournament due to a back injury. In his announcement, the South African confirmed he would also miss this week’s LIV event at the JCB Golf & Country Club.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf team Southern Guards GC has confirmed its replacement for injured team captain Louis Oosthuizen.\n\nThe 2010 Champion Golfer of the Year pulled out of the 154th Open Championship on the eve of the tournament due to a back injury. In his announcement, the South African confirmed he would also miss this week’s LIV event at the JCB Golf & Country Club.",
-        "first_seen": "2026-07-20T19:49:16.903043+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "First Look: LIV Golf United Kingdom Presented by JCB",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUs5X0NFZlZjS0ZlQWpVY0lzVDFzUnA1bXZiMkRLdE9mdTBMNGtMZUp1Zy1ya0trNHp2SXhQNEZqWUpfZHVPRGVROFE3RkFJWi11UzY5UHVydWZfd1gzZTdMMExlOENnNWN2bUx3R21GWXNjZTB4TExiNENySmZZR1R6RzB5UFIxMDI2RFFR?oc=5",
-        "published": "2026-07-20T14:05:07+00:00",
-        "published_label": "Mon 20 Jul, 14:05",
-        "summary": "First Look: LIV Golf United Kingdom Presented by JCB LIV Golf",
-        "body": "LIV Golf returns to action at this week’s LIV Golf United Kingdom Presented by JCB, the 10th tournament of the 2026 regular season. Thursday, Rd. 1 - 1:15 p.m. (8:15 a.m. ET) Friday, Rd. 2 - 1:15 p.m. (8:15 a.m. ET)\n\nSaturday, Rd. 3 - 1:15 p.m. (8:15 a.m. ET) Sunday, Rd. 4 - 1:05 p.m. (8:05 a.m. ET) Joaquin Niemann poses with fans after winning the individual title at LIV Golf United Kingdom presented by JCB in 2025. (Photo by Charles Laberge)",
-        "copy": "LIV Golf returns to action at this week’s LIV Golf United Kingdom Presented by JCB, the 10th tournament of the 2026 regular season. Thursday, Rd. 1 - 1:15 p.m. (8:15 a.m. ET) Friday, Rd. 2 - 1:15 p.m. (8:15 a.m. ET)\n\nSaturday, Rd. 3 - 1:15 p.m. (8:15 a.m. ET) Sunday, Rd. 4 - 1:05 p.m. (8:05 a.m. ET) Joaquin Niemann poses with fans after winning the individual title at LIV Golf United Kingdom presented by JCB in 2025. (Photo by Charles Laberge)",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "8AM Golf has been riding the golf boom. Its CEO explains how",
-        "link": "https://golf.com/news/8am-golf-6-takeaways-hoyt-mcgarity/",
-        "published": "2026-07-20T13:46:44+00:00",
-        "published_label": "Mon 20 Jul, 13:46",
-        "summary": "On The Deal podcast, Hoyt McGarity shared his insights on 8AM Golf's business investments, strategy and what will drive the game's future. The post 8AM Golf has been riding the golf boom. Its CEO explains how appeared first on Golf .",
-        "body": "Golf has been booming over the last decade, and among the executives in the middle of that investment and activity has been 8AM Golf president and CEO Hoyt McGarity. 8AM Golf was founded in 2018 by Howard Milstein, and the holding company now boasts a portfolio that includes 15 businesses, including GOLF.com, GOLF Magazine, True Spec Golf, Miura Golf and the newly-opened Bounty Club in Nashville, which was built in partnership with 8AM partner Justin Timberlake.\n\nIn the latest episode of “The Deal” podcast with Jason Kelly and Alex Rodriguez, McGarity shared his insights on 8AM Golf’s business investments and strategy, and what he believes will drive the game’s future. Below, you can read 6 takeaways (lightly edited for clarity) from McGarity’s conversation with Kelly and Rodriguez.",
-        "copy": "Golf has been booming over the last decade, and among the executives in the middle of that investment and activity has been 8AM Golf president and CEO Hoyt McGarity. 8AM Golf was founded in 2018 by Howard Milstein, and the holding company now boasts a portfolio that includes 15 businesses, including GOLF.com, GOLF Magazine, True Spec Golf, Miura Golf and the newly-opened Bounty Club in Nashville, which was built in partnership with 8AM partner Justin Timberlake.\n\nIn the latest episode of “The Deal” podcast with Jason Kelly and Alex Rodriguez, McGarity shared his insights on 8AM Golf’s business investments and strategy, and what he believes will drive the game’s future. Below, you can read 6 takeaways (lightly edited for clarity) from McGarity’s conversation with Kelly and Rodriguez.",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Not a cheater': Scottie Scheffler defends Bryson DeChambeau, calls for stricter rules",
-        "link": "https://golf.com/news/scottie-scheffler-defends-bryson-dechambeau-cheater/",
-        "published": "2026-07-20T13:00:47+00:00",
-        "published_label": "Mon 20 Jul, 13:00",
-        "summary": "Scottie Scheffler, following his near-miss at 2026 Open Championship, defended Bryson DeChambeau over his controversial penalty. The post ‘Not a cheater’: Scottie Scheffler defends Bryson DeChambeau, calls for stricter rules appeared first on Golf .",
-        "body": "When Scottie Scheffler was asked about Bryson DeChambeau’s controversial penalty on the eve of the 2026 Open Championship final round, the World No. 1 admitted he had “a lot to say.” But he declined to share his thoughts, given that he was in the hunt to win the final major of the year.\n\nOnce Scheffler had suffered another major near-miss in the final round at Royal Birkdale, however, circumstances had changed. On Sunday night, with his pursuit of a second straight Open title over, and with Ryan Fox clutching the trophy that had been in his grasp for the past year, Scheffler was ready to talk.",
-        "copy": "When Scottie Scheffler was asked about Bryson DeChambeau’s controversial penalty on the eve of the 2026 Open Championship final round, the World No. 1 admitted he had “a lot to say.” But he declined to share his thoughts, given that he was in the hunt to win the final major of the year.\n\nOnce Scheffler had suffered another major near-miss in the final round at Royal Birkdale, however, circumstances had changed. On Sunday night, with his pursuit of a second straight Open title over, and with Ryan Fox clutching the trophy that had been in his grasp for the past year, Scheffler was ready to talk.",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf UK 2026: Prize money payout in full",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nVElQVlJ5YnlyTnJzVUp3bFJBZlJveFZJU2pmZkRpaFZRbWFMZXRBb1I4TzBrLTVqMTBGOF9TMENQR3hRcUw3V2tNMnR5M1VzYnl1b1Y4dUpkdzlGbjZTZTdrTHpVTl9NOEtZaXZSWF9aTmI5SEFPM2R0cGhOQQ?oc=5",
-        "published": "2026-07-20T12:57:37+00:00",
-        "published_label": "Mon 20 Jul, 12:57",
-        "summary": "LIV Golf UK 2026: Prize money payout in full bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. For the first time in seven weeks, a LIV Golf event will take place as the circuit descends on JCB Country Club.\n\nFresh off the final major of the season at Royal Birkdale, some of the biggest names in the sport will be back in action at LIV Golf UK. It’s the rival circuits’ first event since LIV Golf Andalucia at the start of June, which was won by Tyrrell Hatton.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. For the first time in seven weeks, a LIV Golf event will take place as the circuit descends on JCB Country Club.\n\nFresh off the final major of the season at Royal Birkdale, some of the biggest names in the sport will be back in action at LIV Golf UK. It’s the rival circuits’ first event since LIV Golf Andalucia at the start of June, which was won by Tyrrell Hatton.",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Taipei Open: Fresh Starts in Doubles",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZlplVUEySkdrUl9CeGtYU05BUk9Gb3E1OG1iaXhfNnZ5ZTU4VUY1cWpXRWdFaE1obTBaMV83ZW1WME85dzRxR1BxOWl5Qk5tM0laTEwtWE9FSkhVVVo3ZDNFc2k5dWFJX1hXSkpUVlVDc1RWYWRXaGdGejdEZTJOVUFoVlJfeERRUXpLdk5SdjBGRDRMelJ0RmRPb2lEUQ?oc=5",
+        "published": "2026-07-27T14:10:23+00:00",
+        "published_label": "Mon 27 Jul, 14:10",
+        "summary": "Taipei Open: Fresh Starts in Doubles BWF World Tour",
+        "body": "YONEX Taipei Open 2026 will provide an early glimpse of several intriguing new partnerships as established names embark on fresh chapters across the doubles disciplines. In men’s doubles, former mixed doubles world No.7 Hiroki Midorikawa joins forces with 19-year-old Yuto Nakashizu, while Indonesia’s Muhammad Rian Ardianto begins a partnership with Daniel Edgar Marvino. Ardianto, a former world No.1 alongside Fajar Alfian, will be looking to build momentum after featuring in a few tournaments with Rahmat Hidayat. Singapore’s mixed doubles specialist Terry Hee also ventures into the discipline, teaming up with Wesley Koh in the qualifying rounds.\n\nThe women’s doubles draw sees Maya Taguchi return to the discipline just days after reaching the China Open mixed doubles quarterfinals with Yuta Watanabe. The Japanese youngster will partner Misaki Kurashima while also competing alongside Watanabe.",
+        "copy": "YONEX Taipei Open 2026 will provide an early glimpse of several intriguing new partnerships as established names embark on fresh chapters across the doubles disciplines. In men’s doubles, former mixed doubles world No.7 Hiroki Midorikawa joins forces with 19-year-old Yuto Nakashizu, while Indonesia’s Muhammad Rian Ardianto begins a partnership with Daniel Edgar Marvino. Ardianto, a former world No.1 alongside Fajar Alfian, will be looking to build momentum after featuring in a few tournaments with Rahmat Hidayat. Singapore’s mixed doubles specialist Terry Hee also ventures into the discipline, teaming up with Wesley Koh in the qualifying rounds.\n\nThe women’s doubles draw sees Maya Taguchi return to the discipline just days after reaching the China Open mixed doubles quarterfinals with Yuta Watanabe. The Japanese youngster will partner Misaki Kurashima while also competing alongside Watanabe.",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6285,6 +6298,19 @@
         "body": "When Chou Tien Chen first stepped onto the international circuit in 2007, Sunday’s opponent Toma Junior Popov was just nine years old. Nineteen years later, the Chinese Taipei veteran showed that experience, resilience and discipline can still outlast youth.\n\nAt 36 years and 200 days, Chou became the oldest player to win a Super 1000 title, defeating Popov 21-15 7-21 21-13 to lift the VICTOR China Open 2026 crown. It capped one of the finest weeks of his long career, having also eliminated top-seeded defending champion Shi Yu Qi and All England winner Lin Chun-Yi en route to the title.",
         "copy": "When Chou Tien Chen first stepped onto the international circuit in 2007, Sunday’s opponent Toma Junior Popov was just nine years old. Nineteen years later, the Chinese Taipei veteran showed that experience, resilience and discipline can still outlast youth.\n\nAt 36 years and 200 days, Chou became the oldest player to win a Super 1000 title, defeating Popov 21-15 7-21 21-13 to lift the VICTOR China Open 2026 crown. It capped one of the finest weeks of his long career, having also eliminated top-seeded defending champion Shi Yu Qi and All England winner Lin Chun-Yi en route to the title.",
         "first_seen": "2026-07-27T09:45:38.669515+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Commonwealth Games 2026: Sensational Ellie Black wins all-around title eight years after her first",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1M0WDhVakExUXN5ZkdacTNaUmYwMHdBV2VDdE9lbXFBaDdfd2hPcS1GR29LYndudVFETlUxNlN6bVdlMFhEZzhWTTF0bHE1cmI0UUswNzNMT1I4eldjQXJYemxRaEtxVHhLUW1nWWlGQ0F4TXNYZzZZTWdiMXRKLTVmeFJtVFByYnpZNlNTa1FiMUtaM0taRTdnRGtGUjFoeE9BS3lQT3VxTmZkTnNOUk1GSXhxdjFpN0ZNOXo2Yzk2dmFaU0M4ZkV3?oc=5",
+        "published": "2026-07-26T20:14:00+00:00",
+        "published_label": "Sun 26 Jul, 20:14",
+        "summary": "Commonwealth Games 2026: Sensational Ellie Black wins all-around title eight years after her first olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-27T16:17:12.526259+00:00"
       },
       {
         "section": "Badminton",
@@ -7000,19 +7026,6 @@
         "body": "- Blackwall (ASX:BWF) climbed 7.69% to close at AUD 0.14. - The company carried a market capitalisation of approximately AUD 23.92 million. - Blackwall continues to manage a diversified investment and property portfolio.\n\n- Recent financial reporting highlighted ongoing asset management initiatives. Blackwall Limited (ASX:BWF) moved higher during the latest trading session, with its share price rising 7.69% to AUD 0.14. Trading turnover was modest at AUD 500, while the investment company ended the session with a market capitalisation of approximately AUD 23.92 million. Although the shares remain 65.00% below their level a year ago, the latest movement returned attention to the company's portfolio management strategy and capital allocation approach.",
         "copy": "- Blackwall (ASX:BWF) climbed 7.69% to close at AUD 0.14. - The company carried a market capitalisation of approximately AUD 23.92 million. - Blackwall continues to manage a diversified investment and property portfolio.\n\n- Recent financial reporting highlighted ongoing asset management initiatives. Blackwall Limited (ASX:BWF) moved higher during the latest trading session, with its share price rising 7.69% to AUD 0.14. Trading turnover was modest at AUD 500, while the investment company ended the session with a market capitalisation of approximately AUD 23.92 million. Although the shares remain 65.00% below their level a year ago, the latest movement returned attention to the company's portfolio management strategy and capital allocation approach.",
         "first_seen": "2026-07-21T08:24:12.843988+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "China Open: Chen Into Pole Position",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQV9iWXd1b0pxY053dWg1enNTMWl1dEJreER2OTVCTXh6VW9vS3k3eE12SEx5ZjlyZFVwVWlYbnozRG8xR1pRSHJlZE9XNU1vWml4WGw0NUp4V0RLcEZPNEZ0UmM1ZGVvWDRqbWdqR3cxTGRaZHpPbHh2a0E0ajdDc1ZIbndiWlBSdm41NjEzamZVSndHbHA1bmRRcW0?oc=5",
-        "published": "2026-07-20T13:51:32+00:00",
-        "published_label": "Mon 20 Jul, 13:51",
-        "summary": "China Open: Chen Into Pole Position BWF World Tour",
-        "body": "Chen Yu Fei will contest her home event at VICTOR China Open 2026 – the season’s final Super 1000 – from Position 1 in the women’s singles draw following the withdrawal of injured world No.1 An Se Young.\n\nThat Seed Withdrawal Movement has also reshaped the draw, setting up several enticing early matchups in the discipline. Should they both progress past the opening round, Chen will face Pusarla V. Sindhu, who just claimed the Japan Open title on Sunday. Chen retired in their semifinal duel in Tokyo last week.",
-        "copy": "Chen Yu Fei will contest her home event at VICTOR China Open 2026 – the season’s final Super 1000 – from Position 1 in the women’s singles draw following the withdrawal of injured world No.1 An Se Young.\n\nThat Seed Withdrawal Movement has also reshaped the draw, setting up several enticing early matchups in the discipline. Should they both progress past the opening round, Chen will face Pusarla V. Sindhu, who just claimed the Japan Open title on Sunday. Chen retired in their semifinal duel in Tokyo last week.",
-        "first_seen": "2026-07-20T15:49:50.199157+00:00"
       }
     ],
     "Competitor News": [
@@ -7070,5 +7083,5 @@
       }
     ]
   },
-  "total": 542
+  "total": 543
 }
