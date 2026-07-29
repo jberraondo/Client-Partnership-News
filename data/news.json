@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T17:15:18.272746+00:00",
-  "generated_label": "Wednesday 29 July 2026, 17:15 UTC",
+  "generated_at": "2026-07-29T19:12:34.524266+00:00",
+  "generated_label": "Wednesday 29 July 2026, 19:12 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "HSBC-Saudia partnership can boost aviation growth: minister",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZURWMjJGVHBXbGI0UzNDMGpfNXZaWnB1YTNsTmRqMkF3RlBFSDVRUkcxX3NndHBxVTdzNzNCb1ZIaU85cGFyLXpwN0N4LVVubl8xVjRwVkRTRmc2WThFOGhmTzhQRHFNdHRERHFJOUtFRkk3V3hRU29tZFBNM3BwcFlhcFB6bzhGRllGTUdOaDc3ZGNlNGE4dzFucGVLOTBfOTRpRktJZzUwWmpVWEJxTlZ0V01sY25xOXJWY2lNN1pWZTd5bEE?oc=5",
+        "published": "2026-07-29T17:22:28+00:00",
+        "published_label": "Wed 29 Jul, 17:22",
+        "summary": "HSBC-Saudia partnership can boost aviation growth: minister The Daily Star",
+        "body": "Bangladesh’s aviation sector can accelerate economic growth and strengthen global connectivity through greater collaboration between airlines and financial institutions, Civil Aviation and Tourism Minister Afroza Khanam said on Monday.\n\nShe made the remarks at a programme, titled “Powering Global Connectivity”, organised by the Hongkong and Shanghai Banking Corporation Limited (HSBC) Bangladesh at a Dhaka hotel, according to a press release.",
+        "copy": "Bangladesh’s aviation sector can accelerate economic growth and strengthen global connectivity through greater collaboration between airlines and financial institutions, Civil Aviation and Tourism Minister Afroza Khanam said on Monday.\n\nShe made the remarks at a programme, titled “Powering Global Connectivity”, organised by the Hongkong and Shanghai Banking Corporation Limited (HSBC) Bangladesh at a Dhaka hotel, according to a press release.",
+        "first_seen": "2026-07-29T19:12:34.524266+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "HSBC watch",
@@ -1698,19 +1711,6 @@
         "published": "2026-07-22T23:01:08+00:00",
         "published_label": "Wed 22 Jul, 23:01",
         "summary": "Why the US is losing Chinese AI stars Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-23T09:46:59.464813+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Aston Martin strikes £550mn debt deal despite creditor objections",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDltcUhDTENPRlZtT2cwd29MNTlFRVQ1T1BfSzBuWVIwanVmTnBVSTJ6VDk5TzM5WmlYRkxnRGdudUhoUWpuRkw4eDhTMlYwWElFVWlQUnZCZVNDUkFSQ3dQVXZSaWJtNVRjRTFsdnhDVGtQdFVkRWVncDZfMmsyTWlxSW8?oc=5",
-        "published": "2026-07-22T18:22:54+00:00",
-        "published_label": "Wed 22 Jul, 18:22",
-        "summary": "Aston Martin strikes £550mn debt deal despite creditor objections Financial Times",
         "body": "",
         "copy": "",
         "first_seen": "2026-07-23T09:46:59.464813+00:00"
@@ -3406,19 +3406,6 @@
         "body": "A superstar of both the Sevens and fifteens formats, Jorja Miller has extended her contract with New Zealand Rugby through to 2029. Still just 22 years old and already an Olympic gold medallist, two-time SVNS Series champion, a two-time World Rugby Sevens Player of the Year and the youngest Kelvin R. Tremain Memorial Player of the Year since Jonah Lomu, Miller says she’s as hungry as ever to take the next step in her career, adamant she’s got plenty more room to grow.\n\nExplaining her decision to re-sign beyond the 2028 Olympics, Miller shared her lofty goals in the sport. “I feel like I’m still just scraping the surface, and I don’t feel like I’ve reached my potential of the best I can be, so I’ll continue to strive to be better as a teammate and as a leader and in whatever role I’m doing,” she said.",
         "copy": "A superstar of both the Sevens and fifteens formats, Jorja Miller has extended her contract with New Zealand Rugby through to 2029. Still just 22 years old and already an Olympic gold medallist, two-time SVNS Series champion, a two-time World Rugby Sevens Player of the Year and the youngest Kelvin R. Tremain Memorial Player of the Year since Jonah Lomu, Miller says she’s as hungry as ever to take the next step in her career, adamant she’s got plenty more room to grow.\n\nExplaining her decision to re-sign beyond the 2028 Olympics, Miller shared her lofty goals in the sport. “I feel like I’m still just scraping the surface, and I don’t feel like I’ve reached my potential of the best I can be, so I’ll continue to strive to be better as a teammate and as a leader and in whatever role I’m doing,” she said.",
         "first_seen": "2026-07-23T08:26:39.393357+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Joe Schmidt bows out on a high",
-        "link": "https://www.rugbypass.com/plus/joe-schmidt-bows-out-on-a-high-but-can-the-wallabies-escape-the-twilight-zone/",
-        "published": "2026-07-22T17:28:36+00:00",
-        "published_label": "Wed 22 Jul, 17:28",
-        "summary": "The coach steps aside having made admirable progress across Australian rugby, but there is much to be done ahead of a home World Cup.",
-        "body": "Twilight is the time when day meets night and the light blends with the dark. Earth’s atmosphere disperses scattered shards of sunshine, and the world exists in a state of partial illumination. That is where the Wallabies are right now, living in the twilight zone. There is some light, but not enough to create a new dawn.\n\nThe definition of ‘success’ depends on the start point of the venture. When Eddie Jones was installed as head coach of England after a disastrous home World Cup in 2015, paradoxically he inherited a squad primed to succeed. The Red Rose promptly embarked upon an 18-match unbeaten run, and that became the foundation stone for the best win record in English coaching history.",
-        "copy": "Twilight is the time when day meets night and the light blends with the dark. Earth’s atmosphere disperses scattered shards of sunshine, and the world exists in a state of partial illumination. That is where the Wallabies are right now, living in the twilight zone. There is some light, but not enough to create a new dawn.\n\nThe definition of ‘success’ depends on the start point of the venture. When Eddie Jones was installed as head coach of England after a disastrous home World Cup in 2015, paradoxically he inherited a squad primed to succeed. The Red Rose promptly embarked upon an 18-match unbeaten run, and that became the foundation stone for the best win record in English coaching history.",
-        "first_seen": "2026-07-22T19:12:41.586826+00:00"
       }
     ],
     "Tennis": [
@@ -4113,6 +4100,32 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This simple fix had me reading greens like a pro | The Lab",
+        "link": "https://golf.com/instruction/putting/read-greens-like-golf-pro/",
+        "published": "2026-07-29T18:16:11+00:00",
+        "published_label": "Wed 29 Jul, 18:16",
+        "summary": "I entered my putting lesson with Stephen Sweeney thinking I was a terrible green-reader. I left ready to take on the world. Here's how. The post This simple fix had me reading greens like a pro | The Lab appeared first on Golf .",
+        "body": "We’re now on Episode 3 of The Lab with PGA Tour Putting Performance Advisor Stephen Sweeney, and I’ve not been shy about how this experience changed my game. In Episode 1 we talked all about setup, and Sweeney basically changed every single part of how my body sets up to the ball. In Episode 2 he walked me through the idea of capture speed, and how staying consistent with your intended speed can help make more putts, and now for Episode 3 we’re tackling green reading. I wasn’t shy about green reading being the worst part of my putting performance, but one simple sentence ended up turning it all around.\n\nAs we know from previous episodes there’s basically three reasons a player will miss a putt. There are technical reasons, which include a small portion of the actual equipment in your hands, there’s speed control, and there’s the read you decided on in the first place. As Sweeney explains in the video, the majority of the time the problem starts with the read the player thought they had in their head.",
+        "copy": "We’re now on Episode 3 of The Lab with PGA Tour Putting Performance Advisor Stephen Sweeney, and I’ve not been shy about how this experience changed my game. In Episode 1 we talked all about setup, and Sweeney basically changed every single part of how my body sets up to the ball. In Episode 2 he walked me through the idea of capture speed, and how staying consistent with your intended speed can help make more putts, and now for Episode 3 we’re tackling green reading. I wasn’t shy about green reading being the worst part of my putting performance, but one simple sentence ended up turning it all around.\n\nAs we know from previous episodes there’s basically three reasons a player will miss a putt. There are technical reasons, which include a small portion of the actual equipment in your hands, there’s speed control, and there’s the read you decided on in the first place. As Sweeney explains in the video, the majority of the time the problem starts with the read the player thought they had in their head.",
+        "first_seen": "2026-07-29T19:12:34.524266+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "What’s happening with LIV Golf’s Michigan tour stop? Here’s what we know",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEx5RWFyVFY1anNuVUtBNGEzX1dvQlVnb1Vab2RTNjBwdG5sT25xYVlQaEg3QmRGYkNaa1A4WUdlVFZCdVRwTHdUZjZwVmF2TGlVZF9WOG1WcWhoUkFzQkpWVFhScFZsakppYzM1bTVxYjVTY2RYbU43c1FjcVI5Zk1LNl9BUGJseXZXcGROaFFGeGlQSl85NGROdlNFeHNmOVJ0UkJsTzFqSGI5TjVlMXVhMWp2TlhqcU9pdV9NQQ?oc=5",
+        "published": "2026-07-29T18:03:46+00:00",
+        "published_label": "Wed 29 Jul, 18:03",
+        "summary": "What’s happening with LIV Golf’s Michigan tour stop? Here’s what we know ClickOnDetroit | WDIV Local 4",
+        "body": "This website utilises technologies such as cookies to enable essential site functionality, as well as for analytics, personalisation, and targeted advertising. To learn more, view the following link: Privacy Notice\n\nRumors have been circulating about whether or not LIV Golf’s Michigan tour stop will be canceled. The LIV Golf Team Championship is set to happen from Aug. 27 through Aug. 30, but the tournament setup can’t be seen at the Cardinal at St. Johns in Plymouth. Tickets can still be purchased online starting at $26.",
+        "copy": "This website utilises technologies such as cookies to enable essential site functionality, as well as for analytics, personalisation, and targeted advertising. To learn more, view the following link: Privacy Notice\n\nRumors have been circulating about whether or not LIV Golf’s Michigan tour stop will be canceled. The LIV Golf Team Championship is set to happen from Aug. 27 through Aug. 30, but the tournament setup can’t be seen at the Cardinal at St. Johns in Plymouth. Tickets can still be purchased online starting at $26.",
+        "first_seen": "2026-07-29T19:12:34.524266+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6413,22 +6426,35 @@
         "body": "You’ve probably seen it at your local driving range: golfers with headphones in, either taking a phone call or listening to their favorite playlist. Maybe they’re trying to relax, block out distractions, or make practice more enjoyable. While there’s nothing in the Rules of Golf that prohibits listening to music, as a coach, I recommend leaving the headphones in your bag during practice sessions.\n\nGolf is a game that demands concentration. One of the most important skills every player needs to develop is the ability to stay focused despite distractions. On the golf course, you can’t control the conditions. There may be noise from nearby groups, changing weather, unexpected delays, or simply long periods of waiting between shots. Learning to accept those moments instead of trying to eliminate them is an essential part of becoming a better player.",
         "copy": "You’ve probably seen it at your local driving range: golfers with headphones in, either taking a phone call or listening to their favorite playlist. Maybe they’re trying to relax, block out distractions, or make practice more enjoyable. While there’s nothing in the Rules of Golf that prohibits listening to music, as a coach, I recommend leaving the headphones in your bag during practice sessions.\n\nGolf is a game that demands concentration. One of the most important skills every player needs to develop is the ability to stay focused despite distractions. On the golf course, you can’t control the conditions. There may be noise from nearby groups, changing weather, unexpected delays, or simply long periods of waiting between shots. Learning to accept those moments instead of trying to eliminate them is an essential part of becoming a better player.",
         "first_seen": "2026-07-23T08:26:39.393357+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Save 25 percent on this simple yet effective training aid",
-        "link": "https://golf.com/gear/golf-accessories/save-25-percent-alignment-ball/",
-        "published": "2026-07-22T17:48:03+00:00",
-        "published_label": "Wed 22 Jul, 17:48",
-        "summary": "The Alignment Ball — a simple training aid that dials in your putting stroke, stance and ball position in 1 compact package — is on sale! The post Save 25 percent on this simple yet effective training aid appeared first on Golf .",
-        "body": "If you’re looking for a low-cost way to improve your game this summer season, check out the Alignment Ball — a simple training aid that allows you to dial in your putting stroke, stance and ball position in an easy-to-store and compact package.\n\nThe Alignment Ball fits in the palm of your hand, making it a cinch to store in your bag. Once you’re ready to use it, the ball splits into two halves and includes two prongs and nearly 20 feet of retractable cable to use however you see fit.",
-        "copy": "If you’re looking for a low-cost way to improve your game this summer season, check out the Alignment Ball — a simple training aid that allows you to dial in your putting stroke, stance and ball position in an easy-to-store and compact package.\n\nThe Alignment Ball fits in the palm of your hand, making it a cinch to store in your bag. Once you’re ready to use it, the ball splits into two halves and includes two prongs and nearly 20 feet of retractable cable to use however you see fit.",
-        "first_seen": "2026-07-22T19:12:41.586826+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Top 5 Women’s Singles Players at BWF World Championships 2023",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1NEdXhPYmhLRnVzbF9yazZyRzJZcWlHWjc5MENrTVU4czRWODItR3JnTnlDelk2aFdaYUlvRDVHamU4SXN6LUc3TUdELTNZaFZGdjhRSnB2c1lQMmhVeUZwUlVlZEN3czE1azdHWV9LbHl2Z3ZRby1yX3pBLUVWeUxNOFlISG1sTzlmc1BBejZZVDMycVdaWXB1VmN2VkR6RzROQUtGTVR5dw?oc=5",
+        "published": "2026-07-29T18:17:31+00:00",
+        "published_label": "Wed 29 Jul, 18:17",
+        "summary": "Top 5 Women’s Singles Players at BWF World Championships 2023 The News Mill",
+        "body": "As New Delhi prepares to host the Badminton World Federation (BWF) World Championships from August 17 to 23, some of the sport’s top women’s singles players will compete in the national capital. The tournament is expected to feature a mix of memorable upsets, emerging talents and seasoned athletes cementing their legacies. Here are five players to watch during the championships.\n\nReigning Olympic champion and former world number one, An Se Young enters the championships among the favourites for the title. She made history by becoming South Korea’s first women’s singles World Champion in 2023, then added Olympic gold at the Paris 2024 Games. Completing the career Grand Slam, she secured the Badminton Asia Championships title in 2026, establishing herself as one of the most accomplished players of her generation.",
+        "copy": "As New Delhi prepares to host the Badminton World Federation (BWF) World Championships from August 17 to 23, some of the sport’s top women’s singles players will compete in the national capital. The tournament is expected to feature a mix of memorable upsets, emerging talents and seasoned athletes cementing their legacies. Here are five players to watch during the championships.\n\nReigning Olympic champion and former world number one, An Se Young enters the championships among the favourites for the title. She made history by becoming South Korea’s first women’s singles World Champion in 2023, then added Olympic gold at the Paris 2024 Games. Completing the career Grand Slam, she secured the Badminton Asia Championships title in 2026, establishing herself as one of the most accomplished players of her generation.",
+        "first_seen": "2026-07-29T19:12:34.524266+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "5 women's singles players to watch out for at BWF World Championships in New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUVVEYkFKUFl3ZGVia29KU3FwcDVwV040WWZmdkIwbG05SEc4V2w0YlUtUUYwYkNBUDJheFM0Z1ZRbzU0RzNRTFE5ZktaNElmblhEdWo1QWlWTVlMLXJ1azlIbldWX3MyZFB1U3Y1cmFYako0TFNzVlJoYUQ0ZGs1N2R6R2p3X2pEZGJsd3FNNHBiYVpWam43Vi1CNjE3Y3FDUWZTRXlraGx6bXhrWERZbGk0V2VRNkZkMGJQaHBVWXFsVWQyV3RFd1ZjejJXQXJmMWlF?oc=5",
+        "published": "2026-07-29T18:07:00+00:00",
+        "published_label": "Wed 29 Jul, 18:07",
+        "summary": "5 women's singles players to watch out for at BWF World Championships in New Delhi ANI News",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-29T19:12:34.524266+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6451,8 +6477,8 @@
         "published": "2026-07-29T14:12:11+00:00",
         "published_label": "Wed 29 Jul, 14:12",
         "summary": "Taipei Open: Cheers Carry Lee Through BWF World Tour",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "body": "For 70 exhausting minutes, Lee Chia Hao slogged against Riki Takei, refusing to let an opportunity to regain his confidence slip away. Roared on by a passionate crowd, the Chinese Taipei men’s singles player survived a tense opening-round battle, sealing a 21-15 14-21 25-23 victory after seeing four consecutive match points erased.\n\nLee admitted he drew strength from the fans who had waited a year to see him compete at home. “It’s been a long time since I played here,” Lee said. “It feels different from playing abroad. Being on home ground, with so many fans cheering me on, makes me feel even more excited and gives me a greater sense of drive.”",
+        "copy": "For 70 exhausting minutes, Lee Chia Hao slogged against Riki Takei, refusing to let an opportunity to regain his confidence slip away. Roared on by a passionate crowd, the Chinese Taipei men’s singles player survived a tense opening-round battle, sealing a 21-15 14-21 25-23 victory after seeing four consecutive match points erased.\n\nLee admitted he drew strength from the fans who had waited a year to see him compete at home. “It’s been a long time since I played here,” Lee said. “It feels different from playing abroad. Being on home ground, with so many fans cheering me on, makes me feel even more excited and gives me a greater sense of drive.”",
         "first_seen": "2026-07-29T17:15:18.272746+00:00"
       },
       {
@@ -7161,5 +7187,5 @@
       }
     ]
   },
-  "total": 549
+  "total": 551
 }
