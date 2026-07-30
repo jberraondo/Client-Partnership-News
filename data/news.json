@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T11:52:19.561247+00:00",
-  "generated_label": "Thursday 30 July 2026, 11:52 UTC",
+  "generated_at": "2026-07-30T13:53:36.960173+00:00",
+  "generated_label": "Thursday 30 July 2026, 13:53 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "What if sport is growing because other institutions are failing?",
+        "link": "https://sportindustry.co.uk/news-categories/news/what-if-sport-is-growing-because-other-institutions-are-failing/",
+        "published": "2026-07-30T11:51:32+00:00",
+        "published_label": "Thu 30 Jul, 11:51",
+        "summary": "Nick Keller, Chairman Sport Industry Group. I wonder whether we have misdiagnosed sport’s growth. Industry conversations tend to focus on media rights, streaming, private equity investment, women’s sport, athlete influence and global distribution. All of those things matter. They may explain how sport is growing rather than why people continue to invest so much emotion […] The post What if sport is growing because other institutions are failing? appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "Nick Keller, Chairman Sport Industry Group. I wonder whether we have misdiagnosed sport’s growth. Industry conversations tend to focus on media rights, streaming, private equity investment, women’s sport, athlete influence and global distribution. All of those things matter. They may explain how sport is growing rather than why people continue to invest so much emotion […] The post What if sport is growing because other institutions are failing? appeared first on Sport Industry Group .",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -193,6 +206,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-30T08:22:38.691924+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Postcard from Morocco: learning to surf in a remote fishing town",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QMzFyRmp1YWdMY3YtY2NZd3d6RkE0QTc5dTRjbm54YWN6cW9yVU9FeTNWMTdab3VySE5Ncjh3emJmRnV6SVR4VzlxazJRQmI3NGhWVFVINVlBa0dqTy1ncno0Y0xMcXlseWQ2R1lXTUY?oc=5",
+        "published": "2026-07-30T04:00:11+00:00",
+        "published_label": "Thu 30 Jul, 04:00",
+        "summary": "Postcard from Morocco: learning to surf in a remote fishing town Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1727,35 +1753,61 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-24T08:24:08.088264+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Kings World Cup Clubs 2026 adds Coca-Cola, Powerade, Wingstop, Exodus",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVWxHckRwRmtJWXBBTUdFTXdKeHJHWGpXaHlFWHhZendabkctcUlqS2hyWi1Md01jbTJaY1IyOUdQOGZfUW5ZNFhwYmQ4dDVSWXlEU3BtampINS1hVlRzd01zUjlmb1NuV1dEa05MQUNHRUZwdzRQdlI1TE1hTllrekhaVnB0M1Vfa3N4REpxMUpfYkI1bFMxMFZ2b0hRQQ?oc=5",
-        "published": "2026-07-23T13:30:06+00:00",
-        "published_label": "Thu 23 Jul, 13:30",
-        "summary": "Kings World Cup Clubs 2026 adds Coca-Cola, Powerade, Wingstop, Exodus Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-23T13:51:26.631895+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Hard Rock Bet sweeps Florida sports sponsorships with Miami Marlins deal",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkJ5NnR6QVZjU2NuUFFaM2RvdkpkY2pKOUJHNVlIYUZJR3ZDejJYQUtrcWNGNFdYU3dHdm4xWVVqSUNyUkhSSDlNZ0pHUlRsRkRra1dUdU40eWhWZ0Z0dkRIdkFaOEt4eGlzZHZwZkNpSm5aVWVuNjhyNkpqOUtreXRqMUplYktabk1mTkh6aUtsb1l6aThaOWZoeHhZQTliaUJaN2NB?oc=5",
-        "published": "2026-07-23T13:30:06+00:00",
-        "published_label": "Thu 23 Jul, 13:30",
-        "summary": "Hard Rock Bet sweeps Florida sports sponsorships with Miami Marlins deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-23T13:51:26.631895+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Scottish Rugby chief executive sacked after investigation into his conduct",
+        "link": "https://www.rugbypass.com/news/scottish-rugby-chief-executive-sacked-after-investigation-into-his-conduct/",
+        "published": "2026-07-30T13:39:32+00:00",
+        "published_label": "Thu 30 Jul, 13:39",
+        "summary": "Scottish Rugby has sacked chief executive Alex Williamson following an independent investigation into his conduct.",
+        "body": "Scottish Rugby has sacked chief executive Alex Williamson following an independent investigation into his conduct. Williamson began work at Murrayfield in early 2025 after being appointed successor to Mark Dodson the previous September.\n\nHe was placed on extended leave in May this year, with Scottish Rugby giving no details at the time about the reasons behind the decision. Chairman of Scottish Rugby Limited, John McGuigan, said in a statement: “The board of Scottish Rugby has today dismissed Alex Williamson from his position as chief executive with immediate effect.",
+        "copy": "Scottish Rugby has sacked chief executive Alex Williamson following an independent investigation into his conduct. Williamson began work at Murrayfield in early 2025 after being appointed successor to Mark Dodson the previous September.\n\nHe was placed on extended leave in May this year, with Scottish Rugby giving no details at the time about the reasons behind the decision. Chairman of Scottish Rugby Limited, John McGuigan, said in a statement: “The board of Scottish Rugby has today dismissed Alex Williamson from his position as chief executive with immediate effect.",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Scottish Rugby sacks chief executive Williamson after inquiry",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c4gk8jd4dv9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-30T13:05:51+00:00",
+        "published_label": "Thu 30 Jul, 13:05",
+        "summary": "Scottish Rugby sacks its chief executive, Alex Williamson, after a months-long examination of his conduct in the role.",
+        "body": "Scottish Rugby has sacked its chief executive, Alex Williamson, after a months-long examination of his conduct in the role. Appointed as successor to Mark Dodson in September 2024, Williamson started work at Murrayfield in early 2025.\n\nA low-key figure, it was announced in late-May this year that he had been put on a period of extended leave. No explanation was offered as to the reason why. Now John McGuigan, chairman of Scottish Rugby Limited, has announced: \"The board of Scottish Rugby has today dismissed Alex Williamson from his position as chief executive with immediate effect.",
+        "copy": "Scottish Rugby has sacked its chief executive, Alex Williamson, after a months-long examination of his conduct in the role. Appointed as successor to Mark Dodson in September 2024, Williamson started work at Murrayfield in early 2025.\n\nA low-key figure, it was announced in late-May this year that he had been put on a period of extended leave. No explanation was offered as to the reason why. Now John McGuigan, chairman of Scottish Rugby Limited, has announced: \"The board of Scottish Rugby has today dismissed Alex Williamson from his position as chief executive with immediate effect.",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'I will hang up my boots': Lee Ka Shun looking forward to Hong Kong China goodbye on home soil",
+        "link": "https://www.rugbypass.com/news/i-will-hang-up-my-boots-lee-ka-shun-looking-forward-to-hong-kong-china-goodbye-on-home-soil/",
+        "published": "2026-07-30T12:24:44+00:00",
+        "published_label": "Thu 30 Jul, 12:24",
+        "summary": "2026 will mark the first time Hong Kong China hosts the WXV Global Series Challenger.",
+        "body": "2026 will mark the first time Hong Kong China hosts the WXV Global Series Challenger. A special occasion for the region, who have been working expeditiously to become a top level team in women’s rugby.\n\nHowever, the tournament will not be the only major development, as Lee Ka Shun — Hong Kong China’s most capped female player — has decided to take the next step in her life following a home WXV Global Series Challenger campaign.",
+        "copy": "2026 will mark the first time Hong Kong China hosts the WXV Global Series Challenger. A special occasion for the region, who have been working expeditiously to become a top level team in women’s rugby.\n\nHowever, the tournament will not be the only major development, as Lee Ka Shun — Hong Kong China’s most capped female player — has decided to take the next step in her life following a home WXV Global Series Challenger campaign.",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "The data shows Dave Rennie's All Blacks can test the all-conquering Springboks to the max",
+        "link": "https://www.rugbypass.com/plus/the-data-shows-dave-rennies-all-blacks-can-test-the-all-conquering-springboks-to-the-max/",
+        "published": "2026-07-30T11:47:07+00:00",
+        "published_label": "Thu 30 Jul, 11:47",
+        "summary": "The Nations Championship statistics show a drastic change in New Zealand's game plan - one South Africa must work hard to contain.",
+        "body": "The greatest rivalry in rugby, All Blacks versus Springboks, is the biggest draw the sport has to offer. With the rapid improvement of the All Blacks under new head coach Dave Rennie allied to the crushing weight of history, it could turn out to be the most searching test of Rassie Erasmus’ coaching career to date.\n\nA deep dive into the raw stats produced by the first three rounds of the Nations Championship only whets the appetite for the seven-week tour of the Republic which begins on 7 August, with a game between the Stormers and the visitors in the shadow of Cape Town’s Table Mountain.",
+        "copy": "The greatest rivalry in rugby, All Blacks versus Springboks, is the biggest draw the sport has to offer. With the rapid improvement of the All Blacks under new head coach Dave Rennie allied to the crushing weight of history, it could turn out to be the most searching test of Rassie Erasmus’ coaching career to date.\n\nA deep dive into the raw stats produced by the first three rounds of the Nations Championship only whets the appetite for the seven-week tour of the Republic which begins on 7 August, with a game between the Stormers and the visitors in the shadow of Cape Town’s Table Mountain.",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -1768,6 +1820,19 @@
         "body": "Win, lose or draw come the end of the Super Rugby Champions Final on Saturday evening, the 2026 Super Rugby Women’s domestic season has marked a line in the sand for Australian women’s rugby.\n\nThe NSW Waratahs will bring the curtain down on what has been a busy three months on Saturday 1 August, facing the Blues at Leichhardt Oval just over three weeks out from the Wallaroos’ 100th Test match against the Black Ferns in Auckland.",
         "copy": "Win, lose or draw come the end of the Super Rugby Champions Final on Saturday evening, the 2026 Super Rugby Women’s domestic season has marked a line in the sand for Australian women’s rugby.\n\nThe NSW Waratahs will bring the curtain down on what has been a busy three months on Saturday 1 August, facing the Blues at Leichhardt Oval just over three weeks out from the Wallaroos’ 100th Test match against the Black Ferns in Auckland.",
         "first_seen": "2026-07-30T11:52:19.561247+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Is Australia's merging of sevens and XVs already bearing fruit?",
+        "link": "https://www.rugbypass.com/news/is-australias-merging-of-sevens-and-xvs-already-bearing-fruit/",
+        "published": "2026-07-30T11:37:18+00:00",
+        "published_label": "Thu 30 Jul, 11:37",
+        "summary": "Win, lose or draw come the end of the Super Rugby Champions Final on Saturday evening, the 2026 Super Rugby Women’s domestic season has marked a line in the sand for Australian women’s rugby.",
+        "body": "Win, lose or draw come the end of the Super Rugby Champions Final on Saturday evening, the 2026 Super Rugby Women’s domestic season has marked a line in the sand for Australian women’s rugby.\n\nThe NSW Waratahs will bring the curtain down on what has been a busy three months on Saturday 1 August, facing the Blues at Leichhardt Oval just over three weeks out from the Wallaroos’ 100th Test match against the Black Ferns in Auckland.",
+        "copy": "Win, lose or draw come the end of the Super Rugby Champions Final on Saturday evening, the 2026 Super Rugby Women’s domestic season has marked a line in the sand for Australian women’s rugby.\n\nThe NSW Waratahs will bring the curtain down on what has been a busy three months on Saturday 1 August, facing the Blues at Leichhardt Oval just over three weeks out from the Wallaroos’ 100th Test match against the Black Ferns in Auckland.",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
       },
       {
         "section": "Rugby",
@@ -3419,35 +3484,35 @@
         "body": "Te Kaha/One New Zealand Stadium, New Zealand’s newest enclosed $683 million, 25,000-seat stadium, has electrified Christchurch. The All Blacks recently beat Six Nations champions France 34-32 in their first appearance at the venue on Saturday 4 July.\n\nThe Crusaders have turned the venue into a fortress, winning all five of their 2026 fixtures there. They only won three of 11 elsewhere. Even the Warriors National Rugby League team caught fire outside their usual fervent Auckland base, as they beat the North Queensland Cowboys 38-20 on June 20 with Charnze Nicoll-Klokstad scoring four tries.",
         "copy": "Te Kaha/One New Zealand Stadium, New Zealand’s newest enclosed $683 million, 25,000-seat stadium, has electrified Christchurch. The All Blacks recently beat Six Nations champions France 34-32 in their first appearance at the venue on Saturday 4 July.\n\nThe Crusaders have turned the venue into a fortress, winning all five of their 2026 fixtures there. They only won three of 11 elsewhere. Even the Warriors National Rugby League team caught fire outside their usual fervent Auckland base, as they beat the North Queensland Cowboys 38-20 on June 20 with Charnze Nicoll-Klokstad scoring four tries.",
         "first_seen": "2026-07-23T15:55:47.550016+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Springboks fans have never been humble",
-        "link": "https://www.rugbypass.com/news/springboks-rugby-fans-have-never-been-humble/",
-        "published": "2026-07-23T12:31:02+00:00",
-        "published_label": "Thu 23 Jul, 12:31",
-        "summary": "Springboks fans have never been humble... A few years ago, Henry Pollock told me that he wanted to be “spoken about as a great of the game”.",
-        "body": "A few years ago, Henry Pollock told me that he wanted to be “spoken about as a great of the game”. He explained that one goal was simply an opportunity to move the posts further back. Winning a junior World Cup, making his international debut, beating New Zealand, lifting the Webb Ellis Cup and being named World Player of the Year were all merely “stepping stones”.\n\nImagine the response if Pollock had actually said any of that. Picture the frothing replies, the bulging veins, the sudden concern for endangered values of rugby. Who does this blond English child think he is? Someone should wipe that smirk off his face.",
-        "copy": "A few years ago, Henry Pollock told me that he wanted to be “spoken about as a great of the game”. He explained that one goal was simply an opportunity to move the posts further back. Winning a junior World Cup, making his international debut, beating New Zealand, lifting the Webb Ellis Cup and being named World Player of the Year were all merely “stepping stones”.\n\nImagine the response if Pollock had actually said any of that. Picture the frothing replies, the bulging veins, the sudden concern for endangered values of rugby. Who does this blond English child think he is? Someone should wipe that smirk off his face.",
-        "first_seen": "2026-07-23T13:51:26.631895+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Scotland A team to play August fixture against European opposition",
-        "link": "https://www.rugbypass.com/news/scotland-a-team-to-play-august-fixture-against-european-opposition/",
-        "published": "2026-07-23T12:30:03+00:00",
-        "published_label": "Thu 23 Jul, 12:30",
-        "summary": "Scottish Rugby have announced that a Scotland Women A team will travel to Amsterdam to take on the Netherlands in late August.",
-        "body": "Scottish Rugby have announced that a Scotland Women A team will travel to Amsterdam to take on the Netherlands in late August. Scotland A will be coached by Claire Cruikshank, who was recently appointed as Women’s National Academy manager after several seasons leading Edinburgh Rugby in the Celtic Challenge.\n\nCruikshank’s new role will see the former Scotland international oversee the new National Academy Programme and National Talent Pathway. Prior to her role with Edinburgh Rugby, Cruikshank has served as Head of Women’s Rugby at Edinburgh University as an assistant coach with Scotland’s senior national team.",
-        "copy": "Scottish Rugby have announced that a Scotland Women A team will travel to Amsterdam to take on the Netherlands in late August. Scotland A will be coached by Claire Cruikshank, who was recently appointed as Women’s National Academy manager after several seasons leading Edinburgh Rugby in the Celtic Challenge.\n\nCruikshank’s new role will see the former Scotland international oversee the new National Academy Programme and National Talent Pathway. Prior to her role with Edinburgh Rugby, Cruikshank has served as Head of Women’s Rugby at Edinburgh University as an assistant coach with Scotland’s senior national team.",
-        "first_seen": "2026-07-23T13:51:26.631895+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Norrie beats Duckworth to reach Los Cabos quarters",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cpw9qjyj55qo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-30T12:46:23+00:00",
+        "published_label": "Thu 30 Jul, 12:46",
+        "summary": "Cameron Norrie books his place in the Los Cabos Open quarter-finals with a straight-set victory over James Duckworth in Mexico.",
+        "body": "Cameron Norrie booked his place in the Los Cabos Open quarter-finals with a straight-set victory over James Duckworth in Mexico. The British number two defeated Australia's Duckworth 6-4 6-4 to set up a meeting with former top-20 player Bernard Tomic in the last eight.\n\nNorrie, who ended a six-match losing streak with a first-round win over Aleksandar Kovacevic, had to fight back from 3-0 down to claim the first set against Duckworth. He broke twice in the second set to go 5-2 up, and survived a late wobble to serve out victory.",
+        "copy": "Cameron Norrie booked his place in the Los Cabos Open quarter-finals with a straight-set victory over James Duckworth in Mexico. The British number two defeated Australia's Duckworth 6-4 6-4 to set up a meeting with former top-20 player Bernard Tomic in the last eight.\n\nNorrie, who ended a six-match losing streak with a first-round win over Aleksandar Kovacevic, had to fight back from 3-0 down to claim the first set against Duckworth. He broke twice in the second set to go 5-2 up, and survived a late wobble to serve out victory.",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "I tried the Wilson Defyer racket that Jack Draper is changing to and this is what I thought",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNDQzdDRSdnVnMS1yV2pJVkVKUkFXa05CVl9zVlp2eUJQazJlSnpkNF83MUxjQ1FmMTVoR01Icm1XUE5DX0JlR0wtSjhTaWZoYWozRWVkRF9LRWQzX1FBSExYcW80WU13aFNrNFJWUjdoVTlGeUVraWU3dHVfclVJQjJwdEVQVnZLYkJpWlhEalNUcFc0Q0ltTlhKWnZzSlhET3lhWVNWeXJhNkF6SVRBdGJIQzktQQ?oc=5",
+        "published": "2026-07-30T12:00:00+00:00",
+        "published_label": "Thu 30 Jul, 12:00",
+        "summary": "I tried the Wilson Defyer racket that Jack Draper is changing to and this is what I thought Tennishead",
+        "body": "The Wilson Defyer is arguably the most hyped tennis racket in recent memory, and has both players and fans of the sport totally captivated. After all, there has been a huge gap in Wilson’s armoury for some time now, lacking a top-level spin racket to compete with the likes of Yonex and Babolat. This model has clearly been crafted specifically with this in mind.\n\nThe clamour surrounding this release does not simply come from a brand seeking to make a splash in the market, though. It is the sheer number of players who seem to be uprooting their entire games to pivot that has really caught the eye.",
+        "copy": "The Wilson Defyer is arguably the most hyped tennis racket in recent memory, and has both players and fans of the sport totally captivated. After all, there has been a huge gap in Wilson’s armoury for some time now, lacking a top-level spin racket to compete with the likes of Yonex and Babolat. This model has clearly been crafted specifically with this in mind.\n\nThe clamour surrounding this release does not simply come from a brand seeking to make a splash in the market, though. It is the sheer number of players who seem to be uprooting their entire games to pivot that has really caught the eye.",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
       {
         "section": "Tennis",
         "source": "Sky Sports",
@@ -4204,6 +4269,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Mini driver vs. 3-wood: Which one belongs in your bag?",
+        "link": "https://golf.com/gear/drivers/mini-driver-vs-3-wood-which-one-belongs-golf-bag/",
+        "published": "2026-07-30T12:01:31+00:00",
+        "published_label": "Thu 30 Jul, 12:01",
+        "summary": "Wondering if a mini driver would be a good fit for your game? True Spec's Matt Morin explains the popular club's benefits. The post Mini driver vs. 3-wood: Which one belongs in your bag? appeared first on Golf .",
+        "body": "You’ve likely been hearing a lot about mini drivers — a club category that exists in between regular drivers and 3-woods. What is a mini driver exactly? Mini drivers generally have stronger lofts than 3-woods but weaker lofts than drivers. They also have smaller heads and shorter shaft lengths than standard drivers, which makes them more forgiving and easier to hit off the tee.\n\n“Mini drivers have taken the world by storm over the last couple of years,” said True Spec VP of sales Matt Morin. “With the game of golf evolving, we have also seen a ‘turn-back-in-time’ movement. The traditional driver’s head size and shape from the early 2000s were always the smaller profile that allowed the better player to be able to utilize the club off the fairway and the tee. The mini driver profile has become smaller than your traditional driver head shape but bigger than your modern 3-wood, which allows for more forgiveness on tee shots that do not call for the driver.”",
+        "copy": "You’ve likely been hearing a lot about mini drivers — a club category that exists in between regular drivers and 3-woods. What is a mini driver exactly? Mini drivers generally have stronger lofts than 3-woods but weaker lofts than drivers. They also have smaller heads and shorter shaft lengths than standard drivers, which makes them more forgiving and easier to hit off the tee.\n\n“Mini drivers have taken the world by storm over the last couple of years,” said True Spec VP of sales Matt Morin. “With the game of golf evolving, we have also seen a ‘turn-back-in-time’ movement. The traditional driver’s head size and shape from the early 2000s were always the smaller profile that allowed the better player to be able to utilize the club off the fairway and the tee. The mini driver profile has become smaller than your traditional driver head shape but bigger than your modern 3-wood, which allows for more forgiveness on tee shots that do not call for the driver.”",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6374,61 +6452,35 @@
         "body": "Seven LIV Golf players have reportedly told Flushing It they intend to leave the breakaway circuit at the end of the 2026 season, regardless of whether the league secures fresh investment for next year.\n\nThe bombshell claim comes amid growing uncertainty over LIV Golf's long-term future after the Saudi Public Investment Fund (PIF) confirmed earlier this season it will end its financial backing of the league after 2026.",
         "copy": "Seven LIV Golf players have reportedly told Flushing It they intend to leave the breakaway circuit at the end of the 2026 season, regardless of whether the league secures fresh investment for next year.\n\nThe bombshell claim comes amid growing uncertainty over LIV Golf's long-term future after the Saudi Public Investment Fund (PIF) confirmed earlier this season it will end its financial backing of the league after 2026.",
         "first_seen": "2026-07-23T15:55:47.550016+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "‘Golf needs rivalries’: Rory McIlroy's former agent believes animosity between Masters champion and Bryson DeChambeau is good for the game",
-        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPT1RyeEd6MVZ1cUZrMmdXZW9tMDd3NG9lNFptVjZhRUNtaWtoNnhJR1pIY0dSSWNERFdFSE1hOE9QcGFac01mT0t4NjBqYzFONTc4UG5pSVE1V3dMZlJxUzRWTHlMNGswR2lKWC14N0RpUHZRVXhKTFBTUk1WMktIOU5VYjdNamZfMmtfajJYSHNjb2pDRGkzSXdpVGphM0tRcWFQS250eXJ6ZXFwQjhzbmpsbWhRVmhEd1BwXzRTUExlMlFfUk5JNEZxZmZGVXE0eDhzZVNHQzJVckt3a2pZMWw3dnEyTGdrMDd1MGcxS0xHcmwzOGpPak9FVzBPZkZtRjZQblZsandfbWhOX21uVFRBOEQxWl82VUFuLUJEMlVrenM?oc=5",
-        "published": "2026-07-23T13:04:20+00:00",
-        "published_label": "Thu 23 Jul, 13:04",
-        "summary": "‘Golf needs rivalries’: Rory McIlroy's former agent believes animosity between Masters champion and Bryson DeChambeau is good for the game Belfast Telegraph",
-        "body": "Rory McIlroy’s recent comments about Bryson DeChambeau at The Open Championship are exactly what golf needs, claims the Holywood star’s former agent Andrew ‘Chubby’ Chandler. McIlroy, in his usual forthright manner, described DeChambeau’s manner as ‘performative’ after the two-time US Open winner was involved in a rules dispute on day two at Royal Birkdale last week.\n\nDeChambeau was assessed a two-stroke penalty for inadvertently improving his lie on the fifth hole, but it was his actions following that which drew McIlroy’s ire, the big-hitting American threatening to withdraw from the tournament in protest while also trying to get US President Donald Trump involved, which delayed the release of the third round tee times.",
-        "copy": "Rory McIlroy’s recent comments about Bryson DeChambeau at The Open Championship are exactly what golf needs, claims the Holywood star’s former agent Andrew ‘Chubby’ Chandler. McIlroy, in his usual forthright manner, described DeChambeau’s manner as ‘performative’ after the two-time US Open winner was involved in a rules dispute on day two at Royal Birkdale last week.\n\nDeChambeau was assessed a two-stroke penalty for inadvertently improving his lie on the fifth hole, but it was his actions following that which drew McIlroy’s ire, the big-hitting American threatening to withdraw from the tournament in protest while also trying to get US President Donald Trump involved, which delayed the release of the third round tee times.",
-        "first_seen": "2026-07-23T13:51:26.631895+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf: Graeme McDowell has held 'positive' talks over DP World Tour return",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lRmQ0MGJIUTN6T0p0QkZMaWs4d1VvYkV4OUJQWlFZT3JIVnc3cEgwdW5wWUwtc0x6bXB1N0c5aVlsWlNRcGN3Q1dNTFlGWXUydjVSNGVfV1U5ay1NRVlHQ29qako?oc=5",
-        "published": "2026-07-23T12:37:20+00:00",
-        "published_label": "Thu 23 Jul, 12:37",
-        "summary": "LIV Golf: Graeme McDowell has held 'positive' talks over DP World Tour return BBC",
-        "body": "Graeme McDowell says he has held \"really positive\" talks about returning to the DP World Tour next season and believes he is \"fortunate\" to have a route back into mainstream competition.\n\nMcDowell told BBC Sport that he and the tour have agreed to meet again in November to finalise plans for 2027 amid ongoing uncertainty over LIV Golf's future. The 46-year-old, who joined LIV in 2022, won 11 tournaments on the DP World Tour between 2002 and 2020.",
-        "copy": "Graeme McDowell says he has held \"really positive\" talks about returning to the DP World Tour next season and believes he is \"fortunate\" to have a route back into mainstream competition.\n\nMcDowell told BBC Sport that he and the tour have agreed to meet again in November to finalise plans for 2027 amid ongoing uncertainty over LIV Golf's future. The 46-year-old, who joined LIV in 2022, won 11 tournaments on the DP World Tour between 2002 and 2020.",
-        "first_seen": "2026-07-23T15:55:47.550016+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf: Graeme McDowell has held 'positive' talks over DP World Tour return",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ReFRSM25OR2dSbG9lYnNmVVdWRVZDNzRtZGpNeFZ5cjRtelVoejU3WjNiMTBBUmhkd3NnamtrMFdXX2tfQVk3SjVxakhwYldtdnU4WFJsNjNpT2dVWTVLeDhR?oc=5",
-        "published": "2026-07-23T12:37:20+00:00",
-        "published_label": "Thu 23 Jul, 12:37",
-        "summary": "LIV Golf: Graeme McDowell has held 'positive' talks over DP World Tour return BBC",
-        "body": "Graeme McDowell says he has held \"really positive\" talks about returning to the DP World Tour next season and believes he is \"fortunate\" to have a route back into mainstream competition.\n\nMcDowell told BBC Sport that he and the tour have agreed to meet again in November to finalise plans for 2027 amid ongoing uncertainty over LIV Golf's future. The 46-year-old, who joined LIV in 2022, won 11 tournaments on the DP World Tour between 2002 and 2020.",
-        "copy": "Graeme McDowell says he has held \"really positive\" talks about returning to the DP World Tour next season and believes he is \"fortunate\" to have a route back into mainstream competition.\n\nMcDowell told BBC Sport that he and the tour have agreed to meet again in November to finalise plans for 2027 amid ongoing uncertainty over LIV Golf's future. The 46-year-old, who joined LIV in 2022, won 11 tournaments on the DP World Tour between 2002 and 2020.",
-        "first_seen": "2026-07-23T19:12:19.143714+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'I was not informed': H.S. golfer DQ'd from U.S. Junior Am for new rule breach",
-        "link": "https://golf.com/news/hs-golfer-dq-us-junior-amateur-new-rule-breach/",
-        "published": "2026-07-23T12:36:45+00:00",
-        "published_label": "Thu 23 Jul, 12:36",
-        "summary": "High school golfer James Nagle was disqualified from the 2026 U.S. Junior Amateur for multiple breaches of a recently adopted local rule. The post ‘I was not informed’: H.S. golfer DQ’d from U.S. Junior Am for new rule breach appeared first on Golf .",
-        "body": "The 2026 U.S. Junior Amateur has moved on to match play, and so far much of the attention has been on a competitor who narrowly missed out on the final rounds: Charlie Woods. The 17-year-old son of three-time U.S. Junior Am champ Tiger Woods lost in a 14-man playoff on Wednesday for the final two spots in the match-play portion of the event. His effort was made harder by an intrusive camera click from a spectator.\n\nBut another competitor, James Nagle, saw his hopes of a U.S. Junior Amateur triumph end much earlier. Rather than a result of his play, Nagle’s exit came in the form of a DQ on Monday, a result of breaching a rare, recently adopted rule.",
-        "copy": "The 2026 U.S. Junior Amateur has moved on to match play, and so far much of the attention has been on a competitor who narrowly missed out on the final rounds: Charlie Woods. The 17-year-old son of three-time U.S. Junior Am champ Tiger Woods lost in a 14-man playoff on Wednesday for the final two spots in the match-play portion of the event. His effort was made harder by an intrusive camera click from a spectator.\n\nBut another competitor, James Nagle, saw his hopes of a U.S. Junior Amateur triumph end much earlier. Rather than a result of his play, Nagle’s exit came in the form of a DQ on Monday, a result of breaching a rare, recently adopted rule.",
-        "first_seen": "2026-07-23T13:51:26.631895+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World C'ship 2026: Top five women's singles stars set to light up Delhi",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUFF6am9uTkNYSkpxOWJTUGNOX09RdVY2MzdUUWxRUG9KX0lLYWxVYnVNMFRNSk5DQ0F1UGZjSWhTY0gyS3RJRTdvalNROFBzUFREd0lSc1pHWjdJMUhYb05aMlJGRktqYV9jd1RzSnpHem9GcUpDeGdBNl82VlRycDhnZmdfMXdGRWhScEtEN3VjUlBCRTlRVDFoendCLTB1SWNTdEx6ZDdOMG40VTd5UHdmOUpUZU9tMHlQOWlSd3l0MlBxUnhoaWhyemJSSDV2Zm5oTW1lbHRFMzU4S0ZRZ1JJQi03aGJzMkFCOWRB0gHzAUFVX3lxTE1ReWJ3alY3VXgwY1N0QmdzNzdMM0NQQkF5c2RGLU1jNDc5Si1lWXdSY21rWHJUY0k1SDgxZjE0N0VidHViRXgxNDkxTzh3VTdwTTFJaU5rcGxOWW9fVUVjRjZrMFl5b1FXSXNPWG5HMkdzMXJEMDQ4SERBRlV0SHFsYkc4TEpNczBsRkk2d2lUWFJ0WmpyVUJZamRpTTNhcFU3RHJLWDVIb0pURUdJa0RKOXBmdF9fTVRMMDc1V2FtMEZmTlFsRTJBMk1FNk1zVEJHRDFpbHlxcndxX0JVMXpNTXU4Y3M0VUEyMmpxNmJOOWpIbw?oc=5",
+        "published": "2026-07-30T12:25:58+00:00",
+        "published_label": "Thu 30 Jul, 12:25",
+        "summary": "BWF World C'ship 2026: Top five women's singles stars set to light up Delhi Business Standard",
+        "body": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/bwf-world-c-ship-2026-top-five-women-s-singles-stars-set-to-light-up-new-delhi-126073001227_1.html\" on this server.\n\nReference #18.d8c83017.1785419586.2dbb1f3e https://errors.edgesuite.net/18.d8c83017.1785419586.2dbb1f3e",
+        "copy": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/bwf-world-c-ship-2026-top-five-women-s-singles-stars-set-to-light-up-new-delhi-126073001227_1.html\" on this server.\n\nReference #18.d8c83017.1785419586.2dbb1f3e https://errors.edgesuite.net/18.d8c83017.1785419586.2dbb1f3e",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Taipei Open 2026 badminton: HS Prannoy crashes out in second round",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFMzdGNQcmptR05JMFdfbTZhaHJjeVB1YUlja2NDOFg4dGlpR3VDb2J2ejJEdzhkcFUtM2I0Y1d5b0JMN1RhOURNdThpNE81c1pRZWNXQ2gtYnE4SnBudGt2TENRclY2SFo5VkRDei1LOHJrb3l0eGhFdVVZMTVocGhhNWtBQQ?oc=5",
+        "published": "2026-07-30T11:34:00+00:00",
+        "published_label": "Thu 30 Jul, 11:34",
+        "summary": "Taipei Open 2026 badminton: HS Prannoy crashes out in second round olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6441,6 +6493,19 @@
         "body": "You don't have permission to access \"http://sports.ndtv.com/badminton/5-womens-singles-players-to-watch-out-for-at-bwf-world-championships-in-new-delhi-11840216\" on this server.\n\nReference #18.ce06d217.1785412300.353cf1f8 https://errors.edgesuite.net/18.ce06d217.1785412300.353cf1f8",
         "copy": "You don't have permission to access \"http://sports.ndtv.com/badminton/5-womens-singles-players-to-watch-out-for-at-bwf-world-championships-in-new-delhi-11840216\" on this server.\n\nReference #18.ce06d217.1785412300.353cf1f8 https://errors.edgesuite.net/18.ce06d217.1785412300.353cf1f8",
         "first_seen": "2026-07-30T11:52:19.561247+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Commonwealth Games 2026: Neeraj Chopra qualifies for javelin throw final ahead of Arshad Nadeem",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQlptMVEwX0RyQnFWcFhQYnNpMXZ5cnJZel92ZmFQcHI3X05JTkZDTTJibFhsanh1TFBtVWpmTG8ybC1HbnoxNWFrSUQ2c3lMWHlkX29CUXpQT3pfMEZuMjBjQ2RTQ3hZWjJpRUR1eUJhQVkzOVR2dWY5V08td2V6V2ZlUUFGVUZqVF9uNl9vMmk3QkdjTXFVTWZrRDFqb2N0V3NN?oc=5",
+        "published": "2026-07-30T11:01:00+00:00",
+        "published_label": "Thu 30 Jul, 11:01",
+        "summary": "Commonwealth Games 2026: Neeraj Chopra qualifies for javelin throw final ahead of Arshad Nadeem olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-30T13:53:36.960173+00:00"
       },
       {
         "section": "Badminton",
@@ -7117,19 +7182,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-23T19:12:19.143714+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "China Open 2026 badminton: PV Sindhu squanders four match points in Chen Yufei loss; India’s campaign ends",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3lRWi1POEF1ZFZLam5iTDJhOXJoUGEwaFpfUzdHZW4zYnpfNFhrLWpJMTIyMm4yQ190Xzgxajg0LTc1cTlzRkxEOUxvQmxpWXpJR1hicUltSHRXT3FKZGFvWnpRVEdZMExaMlFpeERJdGVPM3dqRGt3U3g4RFVHOV9aaw?oc=5",
-        "published": "2026-07-23T12:01:00+00:00",
-        "published_label": "Thu 23 Jul, 12:01",
-        "summary": "China Open 2026 badminton: PV Sindhu squanders four match points in Chen Yufei loss; India’s campaign ends olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-23T13:51:26.631895+00:00"
       }
     ],
     "Competitor News": [
@@ -7226,5 +7278,5 @@
       }
     ]
   },
-  "total": 554
+  "total": 558
 }
