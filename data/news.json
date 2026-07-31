@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T08:46:37.332326+00:00",
-  "generated_label": "Friday 31 July 2026, 08:46 UTC",
+  "generated_at": "2026-07-31T10:06:08.345969+00:00",
+  "generated_label": "Friday 31 July 2026, 10:06 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "SportBusiness",
+        "kind": "direct",
+        "title": "Gianni sees stars and Ryder Cup earns Stripes",
+        "link": "https://www.sportbusiness.com/2026/07/gianni-sees-stars-and-ryder-cup-earns-stripes/?utm_source=rss&utm_medium=rss&utm_campaign=gianni-sees-stars-and-ryder-cup-earns-stripes",
+        "published": "2026-07-31T08:38:35+00:00",
+        "published_label": "Fri 31 Jul, 08:38",
+        "summary": "This week on The SportBusiness Podcast, we profile a new sponsor with big pockets that has landed Ryder Cup and Mercedes F1 deals while unpacking a seismic and damaging few days for global football",
+        "body": "",
+        "copy": "This week on The SportBusiness Podcast, we profile a new sponsor with big pockets that has landed Ryder Cup and Mercedes F1 deals while unpacking a seismic and damaging few days for global football",
+        "first_seen": "2026-07-31T10:06:08.345969+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "NatWest profits buoyed by retail and wealth units",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDhfRzZ1WGEwdW5MempSNmZaTVRqSDF5N2ZUZkNJWmVpajd5NXpBOWlWWUN4WWNoTTdVdll0M3ZDc0M2VVozQXZ3WWx2ajYwQTNHeUNWeWwxek50Vmc3dmRsdEUxODJGdXlMWS1xay1JTDBIWUZTdnRJVmM1aEdRSWxUN1E?oc=5",
+        "published": "2026-07-31T07:04:53+00:00",
+        "published_label": "Fri 31 Jul, 07:04",
+        "summary": "NatWest profits buoyed by retail and wealth units ft.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-31T10:06:08.345969+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1649,74 +1675,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-24T11:42:00.213797+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Volkswagen warns of weaker revenues ahead of record job cuts",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlQwUHZwT3RPcWdDS3daVzJ3b3hhR25pYlRQa21jM2JaZlROYUFRVlRsWUhTa1g3UGI3UFhRRGJ0elc0SVp4RHpRQkhYem96di1ObWJWZ2F1aWl1ckhvWV80aDBzZWIwZUlPMnJtc3ZDUHYwekxMaWkyNUFUc3BjZUpoTm4?oc=5",
-        "published": "2026-07-24T10:03:47+00:00",
-        "published_label": "Fri 24 Jul, 10:03",
-        "summary": "Volkswagen warns of weaker revenues ahead of record job cuts Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-24T15:25:43.326051+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportBusiness",
-        "kind": "direct",
-        "title": "Doing the Fandango: Bundesliga’s new US deals",
-        "link": "https://www.sportbusiness.com/2026/07/doing-the-fandango-bundesligas-new-us-deals/?utm_source=rss&utm_medium=rss&utm_campaign=doing-the-fandango-bundesligas-new-us-deals",
-        "published": "2026-07-24T10:02:20+00:00",
-        "published_label": "Fri 24 Jul, 10:02",
-        "summary": "This week on The SportBusiness Podcast, with the World Cup finished, Jonathan Rest and Martin Ross turn their attention to European club football with a major sponsorship deal on the horizon and a new…",
-        "body": "",
-        "copy": "This week on The SportBusiness Podcast, with the World Cup finished, Jonathan Rest and Martin Ross turn their attention to European club football with a major sponsorship deal on the horizon and a new…",
-        "first_seen": "2026-07-24T11:42:00.213797+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Soccer wrap: Aston Villa, Hull City, Real Betis, Osasuna, Juventus",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzBfdlJHaVNwc2ZNLURITi1aWC1hNkZvOFJVQzg3SmVUNjIxUnhiczkwRmU1d1hwLUd3TWRHdWNLbkVMSW5BbF9Tb1VaY2MySDN4M3VPSHh2R21UTFdGMEYwVUJtUnR6al9MdnMxMHpROVdxS1RlZkoySDRpcGxKcjVZaXJDVFJfM1RzeVdVdUN2VmF1QWxF?oc=5",
-        "published": "2026-07-24T09:50:36+00:00",
-        "published_label": "Fri 24 Jul, 09:50",
-        "summary": "Soccer wrap: Aston Villa, Hull City, Real Betis, Osasuna, Juventus Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-24T11:42:00.213797+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Soccer wrap: Aston Villa, Hull City, Real Betis, Osasuna, Juventus",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmUtcTFKaHNzemJKb2hUN2FJYTQxMnNadUhUbmhobVpTYXc0NHJPbHV2UXo3bUMyRGQ1Z1FZYUFFNGw0cWtKRWYxTTU0SHVqNEQ3VFNLeUltOWJPYy1aeERNdDVRdjkwZmpNemdFdHRNb1ROT01mM3lsMkQwcC0wbFM5TXJHYlBMYUI2QXdGMm44VXdySDFuR2Fya2dQaUY3?oc=5",
-        "published": "2026-07-24T09:50:36+00:00",
-        "published_label": "Fri 24 Jul, 09:50",
-        "summary": "Soccer wrap: Aston Villa, Hull City, Real Betis, Osasuna, Juventus Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-24T17:28:53.240545+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "BOA renews Panthers stadium naming rights deal amid $1.3bn upgrade",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVFiX0dHNzZKdmJvOFRnck1sa2gxamZuZzF5bzY3d2pTYm8wVkJ2N2xHMWo0bnZ2Q1NKOGw5VjVBVlVwN3Ryd0pKMkticURxdzNEamhMVzlDUGdwc1ZpZWpVWmRtZnRCWHZEOFQ5NWNTSEpseTFLUzRoQzhqV1dMVFMxY1U5emVVcE1uSl9ZQ0ZkbllqYllITnhuNGg?oc=5",
-        "published": "2026-07-24T09:12:03+00:00",
-        "published_label": "Fri 24 Jul, 09:12",
-        "summary": "BOA renews Panthers stadium naming rights deal amid $1.3bn upgrade Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-24T15:25:43.326051+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'It’s a special memory': Meet the players that set a rugby sevens world record",
+        "link": "https://www.rugbypass.com/news/its-a-special-memory-meet-the-players-that-set-a-rugby-sevens-world-record/",
+        "published": "2026-07-31T09:52:13+00:00",
+        "published_label": "Fri 31 Jul, 09:52",
+        "summary": "During the off season a lot of people involved in women’s rugby in Scotland have had a well-earned rest, but not a bit of it for Katelynn Ashford.",
+        "body": "During the off season a lot of people involved in women’s rugby in Scotland have had a well-earned rest, but not a bit of it for Katelynn Ashford as she decided to take part in a world record attempt and was involved in sevens match that lasted 28 hours.\n\nIt is certainly a different way that usual to get ready for the new campaign, but a very fulfilling one and the 23-year-old, who plays for Arnold Clark Caledonia East/Midlands Two outfit Kirkcaldy, says being part of the event was “a special memory that I will forever think of and cherish”.",
+        "copy": "During the off season a lot of people involved in women’s rugby in Scotland have had a well-earned rest, but not a bit of it for Katelynn Ashford as she decided to take part in a world record attempt and was involved in sevens match that lasted 28 hours.\n\nIt is certainly a different way that usual to get ready for the new campaign, but a very fulfilling one and the 23-year-old, who plays for Arnold Clark Caledonia East/Midlands Two outfit Kirkcaldy, says being part of the event was “a special memory that I will forever think of and cherish”.",
+        "first_seen": "2026-07-31T10:06:08.345969+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Truck loader turned Bok Lizo Gqoboka hangs up boots",
+        "link": "https://www.rugbypass.com/news/truck-loader-turned-bok-lizo-gqoboka-hangs-up-boots/",
+        "published": "2026-07-31T09:00:23+00:00",
+        "published_label": "Fri 31 Jul, 09:00",
+        "summary": "Lizo Gqoboka has announced his retirement from professional rugby at the age of 36, bringing the curtain down on a career that included more than a decade with the Bulls and two Springbok appearances.",
+        "body": "Lizo Gqoboka has announced his retirement from professional rugby at the age of 36, bringing the curtain down on a career that included more than a decade with the Bulls and two Springbok appearances.\n\nThe loosehead prop informed the Bulls of his decision a week after producing a man-of-the-match display against the Falcons in a pre-season fixture, scoring two tries and winning eight scrum penalties.",
+        "copy": "Lizo Gqoboka has announced his retirement from professional rugby at the age of 36, bringing the curtain down on a career that included more than a decade with the Bulls and two Springbok appearances.\n\nThe loosehead prop informed the Bulls of his decision a week after producing a man-of-the-match display against the Falcons in a pre-season fixture, scoring two tries and winning eight scrum penalties.",
+        "first_seen": "2026-07-31T10:06:08.345969+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Hooker Jibulu signs new Sale deal",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g15p9208o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-31T08:46:32+00:00",
+        "published_label": "Fri 31 Jul, 08:46",
+        "summary": "Nathan Jibulu signs a new long-term contract with Sale Sharks, aiming to keep him at the side until 2030.",
+        "body": "Nathan Jibulu has signed a new contract with Sale Sharks aiming to keep him at the club until 2030. The 23-year-old hooker, whose performances for the Sharks in his first season earned him a call-up to the England training squad in June, played 23 games with Sale after joining from Harlequins last summer.\n\nJibulu told the Sale website, external: \"We know the season didn't go as we wanted but the atmosphere has been really good and so many young lads got a lot of experience in big games.",
+        "copy": "Nathan Jibulu has signed a new contract with Sale Sharks aiming to keep him at the club until 2030. The 23-year-old hooker, whose performances for the Sharks in his first season earned him a call-up to the England training squad in June, played 23 games with Sale after joining from Harlequins last summer.\n\nJibulu told the Sale website, external: \"We know the season didn't go as we wanted but the atmosphere has been really good and so many young lads got a lot of experience in big games.",
+        "first_seen": "2026-07-31T10:06:08.345969+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -2119,6 +2119,19 @@
         "body": "More than a dozen current and former All Blacks Sevens representatives will feature in the opening round of the 2026 National Provincial Championship season, including a multi-time Olympian who is considered one of the all-time HSBC SVNS Series greats.\n\nJoe Webber is a three-time medalist at major international sporting events, helping New Zealand claim Olympic silver at the postponed Tokyo Games. NZ won two medals at the Commonwealth Games during Webber’s time with the team as well, in Glasgow 2014 and Birmingham 2022.",
         "copy": "More than a dozen current and former All Blacks Sevens representatives will feature in the opening round of the 2026 National Provincial Championship season, including a multi-time Olympian who is considered one of the all-time HSBC SVNS Series greats.\n\nJoe Webber is a three-time medalist at major international sporting events, helping New Zealand claim Olympic silver at the postponed Tokyo Games. NZ won two medals at the Commonwealth Games during Webber’s time with the team as well, in Glasgow 2014 and Birmingham 2022.",
         "first_seen": "2026-07-30T08:22:38.691924+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "2026/2027 HSBC SVNS World Series calendar confirmed",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZklUTFpHRmJwRU5jN3E0cUprc0s2Y2hqTXZMN1VyVjZLVTdPbHIxbnBJS011cDFZZlFWaWJQQmgyTEVXNzZJSWh3bFgwVXY3dy1OclYwYTIxVEM5NVN1ODhnS2dDdDhfcXJkd3NOMS1KWXpZQ1RzM2ZmOTlnWGNEQXJ4TURXRm1CQnV6TFdMVEFNVk1OMGJ3?oc=5",
+        "published": "2026-07-30T02:58:47+00:00",
+        "published_label": "Thu 30 Jul, 02:58",
+        "summary": "2026/2027 HSBC SVNS World Series calendar confirmed Fijivillage",
+        "body": "The 2026/2027 HSBC SVNS World Series will once again visit Dubai, Cape Town, Singapore, Perth, Vancouver and New York before culminating in the HSBC SVNS World Championship, which will be held across Hong Kong, Valladolid and Bordeaux.\n\nThe Dubai 7s will kick off the series on the 28th and 29th of November this year, followed by the Cape Town 7s on the 5th and 6th of December. The Singapore 7s will be played on the 30th and 31st of January 2027, followed by the Perth 7s on the 6th and 7th of February, the Vancouver 7s on the 6th and 7th of March, and the New York 7s on the 13th and 14th of March.",
+        "copy": "The 2026/2027 HSBC SVNS World Series will once again visit Dubai, Cape Town, Singapore, Perth, Vancouver and New York before culminating in the HSBC SVNS World Championship, which will be held across Hong Kong, Valladolid and Bordeaux.\n\nThe Dubai 7s will kick off the series on the 28th and 29th of November this year, followed by the Cape Town 7s on the 5th and 6th of December. The Singapore 7s will be played on the 30th and 31st of January 2027, followed by the Perth 7s on the 6th and 7th of February, the Vancouver 7s on the 6th and 7th of March, and the New York 7s on the 13th and 14th of March.",
+        "first_seen": "2026-07-31T10:06:08.345969+00:00"
       },
       {
         "section": "Rugby",
@@ -3432,32 +3445,6 @@
         "body": "Just 16 minutes into Layla Sae’s Harlequins and Premiership Women’s Rugby debut last November she was tackled and heard a pop in her knee. The New Zealand international got back to her feet and tried to continue but she was taken off and later told she had a grade three ACL tear.\n\nSae’s first reaction to the news was shock and she was “gutted”. Because just a week after relocating to London, alongside international teammate Liana Mikaele-Tu’u, her PWR journey was over.",
         "copy": "Just 16 minutes into Layla Sae’s Harlequins and Premiership Women’s Rugby debut last November she was tackled and heard a pop in her knee. The New Zealand international got back to her feet and tried to continue but she was taken off and later told she had a grade three ACL tear.\n\nSae’s first reaction to the news was shock and she was “gutted”. Because just a week after relocating to London, alongside international teammate Liana Mikaele-Tu’u, her PWR journey was over.",
         "first_seen": "2026-07-24T11:42:00.213797+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Monaco Rugby Federation, Monaco rugby, U18 rugby, Rugby Sevens, European Championship",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0FBbjFGUE55MjFZYXExVGVDbVZGblJ3X0ZGWUZLa1lkTUxLTjVid01BemJkTGJyODNRWG85ejllX0JlRGd0bUlJYngxZ0lwb1gxX1luZXdaaU4zMHBndU9FRHQyNDhNVGgzdlMzTkp0b2dkSkpFUVU1NzU5YjNBb3Y3S04yYWl1NGl2U19WUHNKQ3g2TVhCdTBRaUlxdVBIQno4YUpUSHA?oc=5",
-        "published": "2026-07-24T08:58:44+00:00",
-        "published_label": "Fri 24 Jul, 08:58",
-        "summary": "Monaco Rugby Federation, Monaco rugby, U18 rugby, Rugby Sevens, European Championship Monaco Life",
-        "body": "The Monaco Rugby Federation’s U18 team was crowned European runners-up last weekend in Budapest, securing promotion to the Championship, the highest division of European rugby sevens. This historic achievement puts Monaco among the 12 best nations in European U18 rugby sevens.\n\nOnly one year after winning the Trophy 2 title to earn promotion to Trophy 1, the young team claimed a silver medal in Hungary. Following a strong tournament, the team was beaten only by Latvia in the final. Despite not claiming the title, Monaco still secured promotion to the Championship alongside Latvia.",
-        "copy": "The Monaco Rugby Federation’s U18 team was crowned European runners-up last weekend in Budapest, securing promotion to the Championship, the highest division of European rugby sevens. This historic achievement puts Monaco among the 12 best nations in European U18 rugby sevens.\n\nOnly one year after winning the Trophy 2 title to earn promotion to Trophy 1, the young team claimed a silver medal in Hungary. Following a strong tournament, the team was beaten only by Latvia in the final. Despite not claiming the title, Monaco still secured promotion to the Championship alongside Latvia.",
-        "first_seen": "2026-07-24T09:45:00.771486+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Seven Nations Championship stars who got their start in SVNS",
-        "link": "https://www.rugbypass.com/news/seven-nations-championship-stars-who-got-their-start-in-svns/",
-        "published": "2026-07-24T08:58:10+00:00",
-        "published_label": "Fri 24 Jul, 08:58",
-        "summary": "RugbyPass gives you seven of the biggest stars in World Rugby who got their start in the shorter format of the game.",
-        "body": "The Nations Championship has hit the ground running with an exciting opening three weeks of action across the world, and the tournament now takes a break before the northern hemisphere series gets underway in November.\n\nWhile the global calendar has been shaken up, what is easier to forget is how many of the big stars of the last few weeks, established names in their national jerseys, actually got their start in the HSBC SVNS Series.",
-        "copy": "The Nations Championship has hit the ground running with an exciting opening three weeks of action across the world, and the tournament now takes a break before the northern hemisphere series gets underway in November.\n\nWhile the global calendar has been shaken up, what is easier to forget is how many of the big stars of the last few weeks, established names in their national jerseys, actually got their start in the HSBC SVNS Series.",
-        "first_seen": "2026-07-24T09:45:00.771486+00:00"
       }
     ],
     "Tennis": [
@@ -4191,6 +4178,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf UK continues to champion Youth Impact, Sustainability & Enhanced Fan Experiences",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT2dDN0xIVG1JOVhWNE15UzRZeG5ISUdPYTJPdUYyTzFCYzQ2OHVwMWkyRm5jLTV4UGtLNUxGYXVZYXRfdDBHanZpWmFXUGJDMnE4ZUNkTi00V1ZOQ244eVU2LXZqOUI5M2gwWXhUWFhXN0ctUDh3T3p3WlNnaW1TYjc0Y0RuMFdOTXo4OFpUTFNhYmlEZ3FsVS1la3V6NGJ2VElQZnZMaXRoT2VESHRVTTZVQXhFWU9YdnB3?oc=5",
+        "published": "2026-07-31T10:01:04+00:00",
+        "published_label": "Fri 31 Jul, 10:01",
+        "summary": "LIV Golf UK continues to champion Youth Impact, Sustainability & Enhanced Fan Experiences LIV Golf",
+        "body": "ROCESTER – 31 July 2026 – LIV Golf recently returned to the renowned JCB Golf & Country Club for its third year, bringing with it a renewed commitment to local community impact, environmental stewardship, alongside world-class fan experiences and elite golf competition.\n\nLIV Golf UK Presented by JCB served as a key example of the impact of LIV For Good, the League’s global impact and sustainability strategy designed to drive meaningful, measurable change across three interconnected pillars: Game, Community, and Planet. To date, LIV Golf has impacted over one million youth lives through golf initiatives and educational programming around golf values, achieved 13 GEO-event certifications, and become the only golf body with an ISO 20121 certification from the British Standards Institute.",
+        "copy": "ROCESTER – 31 July 2026 – LIV Golf recently returned to the renowned JCB Golf & Country Club for its third year, bringing with it a renewed commitment to local community impact, environmental stewardship, alongside world-class fan experiences and elite golf competition.\n\nLIV Golf UK Presented by JCB served as a key example of the impact of LIV For Good, the League’s global impact and sustainability strategy designed to drive meaningful, measurable change across three interconnected pillars: Game, Community, and Planet. To date, LIV Golf has impacted over one million youth lives through golf initiatives and educational programming around golf values, achieved 13 GEO-event certifications, and become the only golf body with an ISO 20121 certification from the British Standards Institute.",
+        "first_seen": "2026-07-31T10:06:08.345969+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6322,87 +6322,22 @@
         "body": "The second round of the 2026 3M Open gets underway Friday morning at TPC Twin Cities in Minnesota. Here’s everything you need to know to watch the tournament on Friday, including full 3M Open TV coverage, streaming details and complete Round 2 tee times.\n\nDespite dominating the FedEx Cup standings all year, somehow World No. 1 Scottie Scheffler has only one PGA Tour win this season. But after a hot start at the 3M Open, that could be about to change.",
         "copy": "The second round of the 2026 3M Open gets underway Friday morning at TPC Twin Cities in Minnesota. Here’s everything you need to know to watch the tournament on Friday, including full 3M Open TV coverage, streaming details and complete Round 2 tee times.\n\nDespite dominating the FedEx Cup standings all year, somehow World No. 1 Scottie Scheffler has only one PGA Tour win this season. But after a hot start at the 3M Open, that could be about to change.",
         "first_seen": "2026-07-24T11:42:00.213797+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "LIV Golf",
-        "kind": "gnews",
-        "title": "Leaderboard",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jbzdZcWlTaEJqMXdWTVp3Z0J4T3FaR2lXVnMtUFlJX3lXMGkxNG54RWlhbTV5eEVVU0xodzMwMDVlQURueHFkSTJXNDhESTFRVlhCQ3BzcEpsZWRt?oc=5",
-        "published": "2026-07-24T10:01:49+00:00",
-        "published_label": "Fri 24 Jul, 10:01",
-        "summary": "Leaderboard LIV Golf",
-        "body": "Follow live scores and results for every LIV Golf event. When you visit our website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is used to make the website work as you expect it to, to improve your experience, for functional and security reasons, and for targeted advertising purposes. In certain jurisdictions, certain use of your personal information for targeted advertising purposes may be considered a “sale” or “sharing” of your information. Because we respect your right to privacy, you can choose not to allow some types of cookies, including those used for targeted advertising – to opt out of the sale or sharing of your personal information, please reject non-essential cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the website and the services we are able to offer.\n\nFor more information about our privacy and cookie practices, please visit our Privacy Policy. To opt out of other types of disclosures that do not involve browser-based automated technologies, including some other types of selling or sharing of your personal information under certain applicable laws, please visit: Your Privacy Choices.",
-        "copy": "Follow live scores and results for every LIV Golf event. When you visit our website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is used to make the website work as you expect it to, to improve your experience, for functional and security reasons, and for targeted advertising purposes. In certain jurisdictions, certain use of your personal information for targeted advertising purposes may be considered a “sale” or “sharing” of your information. Because we respect your right to privacy, you can choose not to allow some types of cookies, including those used for targeted advertising – to opt out of the sale or sharing of your personal information, please reject non-essential cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the website and the services we are able to offer.\n\nFor more information about our privacy and cookie practices, please visit our Privacy Policy. To opt out of other types of disclosures that do not involve browser-based automated technologies, including some other types of selling or sharing of your personal information under certain applicable laws, please visit: Your Privacy Choices.",
-        "first_seen": "2026-07-24T11:42:00.213797+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau misses the point as he directly addresses Open Championship controversy at LIV UK",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3gtOHNYVi01blB6V3ZublBFakRyenJKaldwdEtqR1h1RmtRd3NYVVNoUjB5OEEzaHRpOGwyaEJ6RWpya2R2WHk0Z1hwTGU4WHVkWVBjb0pOYmNZTmhzZVNfZWNTVHpNLXpiWUFnQ3BzU1FBc191Z3pCVVZlcnhmcHlqaE9hcWdMRUNJRWs0UTRxWnB6QlpwZTVNVjlUb0VnNFI0WEtiaWNoTUZwaDExdkllYUJoeUNyTXR0UXRB?oc=5",
-        "published": "2026-07-24T10:00:00+00:00",
-        "published_label": "Fri 24 Jul, 10:00",
-        "summary": "Bryson DeChambeau misses the point as he directly addresses Open Championship controversy at LIV UK hitc.com",
-        "body": "Bryson DeChambeau bounced back well from the controversy he caused at The Open Championship last week with a round of 64 on day one at LIV Golf UK. DeChambeau was right in the mix to win The Open after he made a birdie on his final hole of the day on Friday to put him one shot adrift of the leader, Lucas Herbert.\n\nHowever, within minutes of leaving the 18th green at Royal Birkdale, he was informed that he had broken rule 8.1a on the fifth hole. Bryson DeChambeau was penalized two strokes by Open officials after he was deemed to have improved the playing area around his ball in the rough during his second round.",
-        "copy": "Bryson DeChambeau bounced back well from the controversy he caused at The Open Championship last week with a round of 64 on day one at LIV Golf UK. DeChambeau was right in the mix to win The Open after he made a birdie on his final hole of the day on Friday to put him one shot adrift of the leader, Lucas Herbert.\n\nHowever, within minutes of leaving the 18th green at Royal Birkdale, he was informed that he had broken rule 8.1a on the fifth hole. Bryson DeChambeau was penalized two strokes by Open officials after he was deemed to have improved the playing area around his ball in the rough during his second round.",
-        "first_seen": "2026-07-24T15:25:43.326051+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau ends media blackout: \"I was passionate about what I believed\"",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3Q1Zy1CdkJIRkxoU3dJdU9vZkVHN0RWSDI4TThUM3Y5enFPUnBRY0JuOUE4bnozd0hHTnVqcDNoXzhnMWk2czZsQk81Q3BKZ29EV05aWjZYalIycWNuMTlKcGVRZC1DazhtWG1jVnRZM2lFclljS2tTdmt0QVBaYmw5M1dTNU9fWjJTOHcwN2NMc2VseU9hMWkyUy1UMlNHVElzd3dnM25XQTRoak5lRThDdVBFNkk?oc=5",
-        "published": "2026-07-24T09:50:37+00:00",
-        "published_label": "Fri 24 Jul, 09:50",
-        "summary": "Bryson DeChambeau ends media blackout: \"I was passionate about what I believed\" Golfmagic",
-        "body": "Bryson DeChambeau has spoken publicly for the first time since he was assessed a two-shot penalty during the second round of The Open at Royal Birkdale. DeChambeau, 32, was docked two strokes after Friday's second round he was judged to have inadvertently improved his swing path on the fifth hole before playing his second shot.\n\nR&A officials said DeChambeau broke the rules by trampling down knee-high rough behind his ball. A furious DeChambeau mulled withdrawing from the final men's major of the year and even threatened to get US president Donald Trump involved in proceedings when he was informed of the penalty after walking off the 18th green.",
-        "copy": "Bryson DeChambeau has spoken publicly for the first time since he was assessed a two-shot penalty during the second round of The Open at Royal Birkdale. DeChambeau, 32, was docked two strokes after Friday's second round he was judged to have inadvertently improved his swing path on the fifth hole before playing his second shot.\n\nR&A officials said DeChambeau broke the rules by trampling down knee-high rough behind his ball. A furious DeChambeau mulled withdrawing from the final men's major of the year and even threatened to get US president Donald Trump involved in proceedings when he was informed of the penalty after walking off the 18th green.",
-        "first_seen": "2026-07-24T11:42:00.213797+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "‘Two holes and I’m there for the Claret Jug’: DeChambeau says two-shot penalty cost him Open",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWElQanVxaWFMcmdibFVBaVF3R3RJSDVxdVdPYm9raVpvdkZGLTZRUWdjWjhMc0M0RzNPNkJSZWxNVmtKbGV2c1hDMTd1aFZCY0k5d1FPUU5UbEJOS1U2bnNjQ3FjdkpQTVQtVVZ0Z3ZncGJ1OWRoYVgtZUxxWENmQlE0WWNwRUk3MHplRlA4QUJvWnlRb1FhMDBVZ2ZDRWhVLVBBOVFhdVhiZ2hq?oc=5",
-        "published": "2026-07-24T09:46:00+00:00",
-        "published_label": "Fri 24 Jul, 09:46",
-        "summary": "‘Two holes and I’m there for the Claret Jug’: DeChambeau says two-shot penalty cost him Open The Guardian",
-        "body": "Bryson DeChambeau believes he would have been “right there for the Claret Jug” if he had not received a two-shot penalty in the Open Championship last week at Royal Birkdale. DeChambeau made a positive start to last week’s tournament after opening with a 67 and then a 66 on Friday, but his second-round score was later adjusted to 68 after he was handed a retrospective two-stroke penalty at the 5th hole after a video review. The 32-year-old was punished after match officials ruled he had improved the area of his backswing by standing on and flattening some long grass.\n\nDeChambeau was in the mix at the top of the leaderboard but he dropped from second to fifth in the standings after his bogey was subsequently turned into a triple bogey. The American protested against the decision and even threatened to pull out of the tournament, but he played through the weekend and made 69 in the third round before a final-day 72.",
-        "copy": "Bryson DeChambeau believes he would have been “right there for the Claret Jug” if he had not received a two-shot penalty in the Open Championship last week at Royal Birkdale. DeChambeau made a positive start to last week’s tournament after opening with a 67 and then a 66 on Friday, but his second-round score was later adjusted to 68 after he was handed a retrospective two-stroke penalty at the 5th hole after a video review. The 32-year-old was punished after match officials ruled he had improved the area of his backswing by standing on and flattening some long grass.\n\nDeChambeau was in the mix at the top of the leaderboard but he dropped from second to fifth in the standings after his bogey was subsequently turned into a triple bogey. The American protested against the decision and even threatened to pull out of the tournament, but he played through the weekend and made 69 in the third round before a final-day 72.",
-        "first_seen": "2026-07-24T11:42:00.213797+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau breaks silence on controversial Open penalty",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNDZTUVZjam04QTBBMmdzbHZJY21ReDlmMmpaNDZ1VWZhelRSOFllLXJ6cV9sSThBX09abXlUdUZoSlBzZEhUSUNhbHhQNkZBVVUzVkZPLXhZX1QxM0VFMlRsVWNFeTVvYzg1czRNRUpFbGpxNmpfcmE3WGhIUkFFSHdDSk5QUUotSVM0ZEJJU0NMamh1clg5TTBKWE5CeEtqb0E?oc=5",
-        "published": "2026-07-24T09:10:08+00:00",
-        "published_label": "Fri 24 Jul, 09:10",
-        "summary": "Bryson DeChambeau breaks silence on controversial Open penalty bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau has spoken publicly for the first time since he was awarded a two-shot penalty at The Open last week.\n\nDeChambeau, 32, was penalised at Royal Birkdale for ‘inadvertently improving’ his lie on the fifth hole during the second round. After returning to the scene of the incident on Friday evening to plead his innocence, the American threatened to quit the tournament.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau has spoken publicly for the first time since he was awarded a two-shot penalty at The Open last week.\n\nDeChambeau, 32, was penalised at Royal Birkdale for ‘inadvertently improving’ his lie on the fifth hole during the second round. After returning to the scene of the incident on Friday evening to plead his innocence, the American threatened to quit the tournament.",
-        "first_seen": "2026-07-24T09:45:00.771486+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "LIV Golf",
-        "kind": "gnews",
-        "title": "Chase & Status set to perform at LIV Golf UK Presented by JCB",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmtEVmVaOWlrbjBQZXZEWUNwTk50T3R6alJYZFU0aFN6bmZhTDloTkx5QkNfcF8yREY0djg3cGI0ZEVMenZpaFNXazZUSmVHcXVzOGZjdGZPY015N0Z3d09XNjctMTFBODBROWd0VTVSZjNkTjVjcjliSkFiMGFLMm5Pa0dFYkhUVmpfQVg5QmpINHIzWXZFMkw2ekVXQQ?oc=5",
-        "published": "2026-07-24T08:55:31+00:00",
-        "published_label": "Fri 24 Jul, 08:55",
-        "summary": "Chase & Status set to perform at LIV Golf UK Presented by JCB LIV Golf",
-        "body": "Tickets, hospitality and concert packages for LIV Golf UK Presented by JCB, taking place 23-26 July at JCB Golf & Country Club, are available at LIVGolf.com. LONDON, UK – LIV Golf today announced that chart-topping UK duo Chase & Status will perform at LIV Golf UK Presented by JCB on Saturday, 25 July, taking the stage immediately following the conclusion of the third round of play at JCB Golf & Country Club in Rocester, England. The After Play concert will add a major entertainment moment for LIV Golf’s return to the UK this summer.\n\nFans in attendance on Saturday can enjoy the performance by Chase & Status as part of their entry to world-class golf and immersive fan entertainment, with concert access included in all Saturday ticket and hospitality offerings. An upgraded Stagefront concert ticket is also available for purchase HERE.",
-        "copy": "Tickets, hospitality and concert packages for LIV Golf UK Presented by JCB, taking place 23-26 July at JCB Golf & Country Club, are available at LIVGolf.com. LONDON, UK – LIV Golf today announced that chart-topping UK duo Chase & Status will perform at LIV Golf UK Presented by JCB on Saturday, 25 July, taking the stage immediately following the conclusion of the third round of play at JCB Golf & Country Club in Rocester, England. The After Play concert will add a major entertainment moment for LIV Golf’s return to the UK this summer.\n\nFans in attendance on Saturday can enjoy the performance by Chase & Status as part of their entry to world-class golf and immersive fan entertainment, with concert access included in all Saturday ticket and hospitality offerings. An upgraded Stagefront concert ticket is also available for purchase HERE.",
-        "first_seen": "2026-07-24T13:31:35.142668+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Badminton Europe",
+        "kind": "gnews",
+        "title": "2026 European Junior Team Championships: here are the seedings",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzRlclR4TVFHWTNRdlI4R01yQUFHQkpDNFJ2c1dKMmxVMkd6RW45MkJnbm9lUWs0NHlMRUJ4ZDhuMmplWDRDbkU2Q1cxVVNiazdWdkE1aDk1STBnQXQ2LS0xc0p1TzhtSDZILVJYd2E2U2dqY0Fad0dWRG5ndWN2ZlBvLXllMWZXeXRhVGs4X0JfUHlBdEE?oc=5",
+        "published": "2026-07-31T09:20:40+00:00",
+        "published_label": "Fri 31 Jul, 09:20",
+        "summary": "2026 European Junior Team Championships: here are the seedings Badminton Europe",
+        "body": "SecondsThe team seedings are now confirmed for the 2026 European Junior Team Championships, taking place in Tatabánya, Hungary, from 18 to 22 August. With just over three weeks to go until the event kicks off, 30 nations are preparing to compete for the European junior team title.\n\nFrance will be the top seeds for this year's edition. The French team have finished as runners-up in each of the last three editions and are aiming to go one step further after lifting the title twice in the event's history.",
+        "copy": "SecondsThe team seedings are now confirmed for the 2026 European Junior Team Championships, taking place in Tatabánya, Hungary, from 18 to 22 August. With just over three weeks to go until the event kicks off, 30 nations are preparing to compete for the European junior team title.\n\nFrance will be the top seeds for this year's edition. The French team have finished as runners-up in each of the last three editions and are aiming to go one step further after lifting the title twice in the event's history.",
+        "first_seen": "2026-07-31T10:06:08.345969+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7039,19 +6974,6 @@
         "body": "Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
         "copy": "Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
         "first_seen": "2026-07-24T13:31:35.142668+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "5 Underdogs Who Could Spring Surprise In BWF World Championships 2026",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblZXbGtYeU54VWl1dzhqbDJIZFBtTmNobHRjZkpMOFpJd19XT093czg1Ti1yZENINDdDRFhsNFJCVlV2a1hjVmlZRThNN1hVR0lydHhUeXpvd1lWcERfTHktcFhqd1lKamg2bXg5VURUZExpMVBfckJiWXc0OUMtaXczRmZLblFOaEZvZnVNaGFMX3RTQVhiNDU1NXVoS2h6b05JV3FwblVkTlhhY0NPSzJEU0VJQ3RtdHhuSEE5S3lqZw?oc=5",
-        "published": "2026-07-24T10:00:46+00:00",
-        "published_label": "Fri 24 Jul, 10:00",
-        "summary": "5 Underdogs Who Could Spring Surprise In BWF World Championships 2026 NDTV Sports",
-        "body": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-world-championships-2026-5-underdogs-who-could-spring-a-surprise-in-new-delhi-11815506\" on this server.\n\nReference #18.2951db17.1784893293.b79d4bbe https://errors.edgesuite.net/18.2951db17.1784893293.b79d4bbe",
-        "copy": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-world-championships-2026-5-underdogs-who-could-spring-a-surprise-in-new-delhi-11815506\" on this server.\n\nReference #18.2951db17.1784893293.b79d4bbe https://errors.edgesuite.net/18.2951db17.1784893293.b79d4bbe",
-        "first_seen": "2026-07-24T11:42:00.213797+00:00"
       }
     ],
     "Competitor News": [
@@ -7148,5 +7070,5 @@
       }
     ]
   },
-  "total": 548
+  "total": 542
 }
