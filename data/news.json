@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T14:04:04.503188+00:00",
-  "generated_label": "Friday 31 July 2026, 14:04 UTC",
+  "generated_at": "2026-07-31T17:28:30.744886+00:00",
+  "generated_label": "Friday 31 July 2026, 17:28 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Buccaneers swap Coca-Cola for PepsiCo after 50 years",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUUoxV2diTjllc0FWbzNfbk05NHlxWXBSbml1V21KVHF4N2E1Uk9VRUlXT3pHRVZ1YmdrTzFGVTA2Q1NGVllFN2w1Wm1SNWV4ZzUtS0xoRUdZVzYzVWxiTlBYYXJZNF9HeFN4RHloUkswWE1pdkFacW5JSFJlMDdqUkp0WnpSZ2Vzdmsw?oc=5",
+        "published": "2026-07-31T15:50:44+00:00",
+        "published_label": "Fri 31 Jul, 15:50",
+        "summary": "Buccaneers swap Coca-Cola for PepsiCo after 50 years sportcal.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -115,6 +128,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-31T11:58:47.483294+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Seven renews, expands NFL FTA rights ahead of Melbourne game",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNblJNZ1BXd0lwSlJnNjh1RENlSEt3d2plRzFxNC1GNVBzZ3RxWUs0cGdWa1BzVDJKcjZvellIaG54bmUzQ3MyWUFiN2ZIbWliSE5iai1RbHZibU5heDNTeUlwU0lzemNMNTdVRW5XYkkyWTJEUUVnNFowTGFNWl9xeDQxV2VyVjQtSEdUQVU4cFlBczhDbFI0Zkd3Q1JhcUk?oc=5",
+        "published": "2026-07-31T10:20:39+00:00",
+        "published_label": "Fri 31 Jul, 10:20",
+        "summary": "Seven renews, expands NFL FTA rights ahead of Melbourne game sportcal.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -222,6 +248,19 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "PFL and MVP merge to form new combat sports heavyweight",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFhYLXBNZFAyclBFT1dfT1RFT09kNS0zdkZHNUlZSklWY3NqdWV5WUhHcW05R09LaVlFclNmOElRaFBXQlVmckh4RWJ2czlyN0t6Mm14NUFEdm8zYUZEOUlvMFQ3R1MyWlpZVWVFX0RPYXc5QnpQclFQeVFyWWRWU1VsTVVpdW9LLTdqYlBobw?oc=5",
+        "published": "2026-07-30T15:50:29+00:00",
+        "published_label": "Thu 30 Jul, 15:50",
+        "summary": "PFL and MVP merge to form new combat sports heavyweight sportcal.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
         "title": "European nations to boycott World Cup in protest at Fifa’s plans",
@@ -258,6 +297,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-30T15:52:43.994776+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Notre Dame, Ohio State secure lucrative jersey patch deals",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNemx5aURZOG9QbTVFZEc2S1hTdUlNU0ZoekxmaW1aUmVWSHVyM0FaRGZmekw2UEpJTFFFdXJyNkVNbkhQcEpHbzBSbVNKRFlzcm85eXg5dXpmM0hzdUx1aWd6UmJHazRXd1ExMkZtMzdMcC1PaVRpUVl4LW1DMkxWdkN6YlVweW1QazFTUkxXN2RpQQ?oc=5",
+        "published": "2026-07-30T14:20:29+00:00",
+        "published_label": "Thu 30 Jul, 14:20",
+        "summary": "Notre Dame, Ohio State secure lucrative jersey patch deals sportcal.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1662,61 +1714,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-25T19:04:40.075288+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "FIBA relocates Asia office to Kuala Lumpur, Khan in as Khajirian successor",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUmhPQ1Q0NHdDVGtEYXZpc181a3MtMFd0UG90RmVsYnZ3SlpQUDNHQ1JYaFBDLV9JSWE0Z3NlNG9famZUcmEydGNXR2ZmakpEdHVIT2ZUQlFsMEU2ZWczMnNiR3FhSkVVSy0wNllWMFJRSDVmNWlSSklDdGpCb1doNW1ESUNqS3dfT0Jzdk5UNXNKekJrZktwSjFKZVRHeHJlNUd0Mk9FWQ?oc=5",
-        "published": "2026-07-24T17:11:26+00:00",
-        "published_label": "Fri 24 Jul, 17:11",
-        "summary": "FIBA relocates Asia office to Kuala Lumpur, Khan in as Khajirian successor Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-25T19:04:40.075288+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Socios to launch first fan tokens in US through Playfly Sports tie-up",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcS1rbFZXdkpfb0xUNGJRWE0xbV9LZnZLR2NVZ0VnbHdYeUhsVTlDVXBkd1Q5WTlRYnB6Y1lQWXBUV0JNMVoySnZwVTdVZnE0MTFDQlNNNXBmVWtTbUVNQVdPdGx4MlUtOS1zZVhfUU1SYVVZLTgzdF9WOExrY1NHVU5zaGx0TFRPMXJib1NuOHduckQwUEVIajRlWmxjdlVvdXc?oc=5",
-        "published": "2026-07-24T17:11:26+00:00",
-        "published_label": "Fri 24 Jul, 17:11",
-        "summary": "Socios to launch first fan tokens in US through Playfly Sports tie-up Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-26T13:14:52.948933+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "WWE launches SiriusXM channel; expands Mattel deal",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONm9oWi11NlNFYUtGWE1uNGEzRmlFdktweVY1d24yOXJiV3FNMWxxV3ZBNXQ1MHhhT0ZBc2lBdUpNMnM1c0pXMXdnazMwR21BZDQyeVFvWGJwaU1JdU9HZFZ4MmNCVko5cUctWFVKbWxaX2FjeUpHNmV6ZzVDeHFXNE92bFIxMWs?oc=5",
-        "published": "2026-07-24T15:50:44+00:00",
-        "published_label": "Fri 24 Jul, 15:50",
-        "summary": "WWE launches SiriusXM channel; expands Mattel deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-24T17:28:53.240545+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "M&C Saatchi Sport & Entertainment restructures leadership team",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmZVbENpR0hmS0FGaUJlUE1XMmloeEpkVGxnQnhRN0NsU2ZPVlJKRXItTlEtR0ZydU1XNV9iVEtGeUxKbzlpOXB4Yk9rRnBIdnJ3a3RDVnZJeUt1ejdHTlpwTDRLNmplcUxrWnB1RU1pbHF1STZIdVBwTmN1OEdWLVVEMlJ2V2E5X2JvMlhOb1FQSjJR?oc=5",
-        "published": "2026-07-24T15:21:13+00:00",
-        "published_label": "Fri 24 Jul, 15:21",
-        "summary": "M&C Saatchi Sport & Entertainment restructures leadership team Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-24T15:25:43.326051+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Scarlets vow to remain at heart of west Wales",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwyeq2n79n9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-31T16:35:03+00:00",
+        "published_label": "Fri 31 Jul, 16:35",
+        "summary": "Scarlets and Ospreys are in a fight for survival in west Wales following plans by the Welsh Rugby Union to cut to three teams.",
+        "body": "Scarlets say they intend to remain \"at the heart of west Wales\" after being plunged into in a battle for survival with Ospreys by Welsh Rugby Union (WRU) plans. Welsh rugby's governing body has given the timeframe for their plans to cut its four professional teams to three by 2028, and confirmed on Wednesday that Cardiff and Dragons will be given licences.\n\nThat leaves Llanelli-based Scarlets and Swansea-based Ospreys fighting to be the side in the west, unless there is to be a merger. \"It is our mission, as it has always been, to be at the forefront of a strong, meaningful and sustainable future for rugby in west Wales. Our focus remains unchanged and unhindered,\" said Scarlets in a message to supporters.",
+        "copy": "Scarlets say they intend to remain \"at the heart of west Wales\" after being plunged into in a battle for survival with Ospreys by Welsh Rugby Union (WRU) plans. Welsh rugby's governing body has given the timeframe for their plans to cut its four professional teams to three by 2028, and confirmed on Wednesday that Cardiff and Dragons will be given licences.\n\nThat leaves Llanelli-based Scarlets and Swansea-based Ospreys fighting to be the side in the west, unless there is to be a merger. \"It is our mission, as it has always been, to be at the forefront of a strong, meaningful and sustainable future for rugby in west Wales. Our focus remains unchanged and unhindered,\" said Scarlets in a message to supporters.",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Five big-name Springboks return in 26-man squad for Argentina",
+        "link": "https://www.rugbypass.com/news/five-big-name-springboks-stars-returns-in-26-man-squad-for-argentina/",
+        "published": "2026-07-31T15:39:23+00:00",
+        "published_label": "Fri 31 Jul, 15:39",
+        "summary": "Five big-name Springboks have all been included in a 26-man South Africa squad for next weekend’s Test against Argentina in Buenos Aires after recovering from injury.",
+        "body": "Five big-name Springboks have all been included in a 26-man South Africa squad for next weekend’s Test against Argentina in Buenos Aires after recovering from injury. Rassie Erasmus named a group featuring a number of returning players as the Springboks prepare for their one-off clash against Los Pumas on August 8, with captain Siya Kolisi, Sacha Feinberg-Mngomezulu, Lood de Jager, Eben Etzebeth and Morne van den Berg all return to the play after various amounts of time on the sidelines.\n\nSeveral senior players, including Cheslin Kolbe, Damian Willemse, Jesse Kriel and Ruan Nortje, will remain in South Africa and reassemble in Johannesburg on Sunday ahead of preparations for the Rugby’s Greatest Rivalry Tour against New Zealand.",
+        "copy": "Five big-name Springboks have all been included in a 26-man South Africa squad for next weekend’s Test against Argentina in Buenos Aires after recovering from injury. Rassie Erasmus named a group featuring a number of returning players as the Springboks prepare for their one-off clash against Los Pumas on August 8, with captain Siya Kolisi, Sacha Feinberg-Mngomezulu, Lood de Jager, Eben Etzebeth and Morne van den Berg all return to the play after various amounts of time on the sidelines.\n\nSeveral senior players, including Cheslin Kolbe, Damian Willemse, Jesse Kriel and Ruan Nortje, will remain in South Africa and reassemble in Johannesburg on Sunday ahead of preparations for the Rugby’s Greatest Rivalry Tour against New Zealand.",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3523,32 +3549,6 @@
         "body": "It’s a little dramatic and cliched but there is no other way to frame what lies ahead as the All Blacks’ moment of truth. Having won three successive July Tests under new coach Dave Rennie, the All Blacks now face an eight-game tour of South Africa featuring four matches against the Stormers, Sharks, Bulls and Lions, and four Tests against the Springboks – three in the Republic and one in Baltimore, USA.\n\nThe tour is being marketed under the tagline The Greatest Rivalry and is the focal point of the 2026 season. It’s a nostalgic throwback and a test-the-waters play to see if there is fan appetite for an old-fashioned tour of this nature.",
         "copy": "It’s a little dramatic and cliched but there is no other way to frame what lies ahead as the All Blacks’ moment of truth. Having won three successive July Tests under new coach Dave Rennie, the All Blacks now face an eight-game tour of South Africa featuring four matches against the Stormers, Sharks, Bulls and Lions, and four Tests against the Springboks – three in the Republic and one in Baltimore, USA.\n\nThe tour is being marketed under the tagline The Greatest Rivalry and is the focal point of the 2026 season. It’s a nostalgic throwback and a test-the-waters play to see if there is fan appetite for an old-fashioned tour of this nature.",
         "first_seen": "2026-07-25T08:04:06.962980+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Brentford to host Ultimate Sevens rugby final at Gtech Community Stadium",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGtYNXRfSEY5QUR6cVo0VDdBSUJoVVhIR1lETlZvYjFoU3NkUUs5MVhKT3p1SmJPeFRFZWtua3JQcnNSSVFBNWVoYmM5OEROMC1vOGs5SHZIcDd4ekNkOGdxSGMwRlNsX0dOX0IwQkNYVTdLVG50N0tPYmRVeVVLN0NKMVZuRnV1WEQ3UEtiU3ZBX2hucmVsXzR4QXBOSnVDZE9abjd3N3dtbHpTRUlzcWZGTUM?oc=5",
-        "published": "2026-07-24T15:32:17+00:00",
-        "published_label": "Fri 24 Jul, 15:32",
-        "summary": "Brentford to host Ultimate Sevens rugby final at Gtech Community Stadium Brentford FC",
-        "body": "Brentford’s Gtech Community Stadium will host the final of the inaugural Ultimate Sevens Championship, a new rugby sevens competitive tournament. Tickets for the final at the Gtech on Thursday 24 September are available now on the Ultimate Sevens website.\n\nSix clubs, each with a men’s and women’s team, will compete for the championship across four dates in Madrid, Cardiff, Biarritz and London. The world’s best rugby sevens players have signed up to play in the championship, alongside the most promising talents in the 15-a-side game.",
-        "copy": "Brentford’s Gtech Community Stadium will host the final of the inaugural Ultimate Sevens Championship, a new rugby sevens competitive tournament. Tickets for the final at the Gtech on Thursday 24 September are available now on the Ultimate Sevens website.\n\nSix clubs, each with a men’s and women’s team, will compete for the championship across four dates in Madrid, Cardiff, Biarritz and London. The world’s best rugby sevens players have signed up to play in the championship, alongside the most promising talents in the 15-a-side game.",
-        "first_seen": "2026-07-25T08:04:06.962980+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "New European club competition set to launch next month",
-        "link": "https://www.rugbypass.com/news/new-european-club-competition-set-to-launch-next-month/",
-        "published": "2026-07-24T14:36:41+00:00",
-        "published_label": "Fri 24 Jul, 14:36",
-        "summary": "A new central European club competition designed to fill the gap between Rugby Europe's Super Cup and the domestic leagues of the five countries involved will launch in Frankfurt next month.",
-        "body": "A new central European club competition designed to fill the gap between Rugby Europe’s Super Cup and the domestic leagues of the five countries involved will launch in Frankfurt next month.\n\nInitially, Ascent Rugby will involve seven teams, two each from Germany (SC Frankfurt 1880 and Adler XV) and the Netherlands (The Dukes and RC Eemland), and one from Czechia (RC Tatra Smíchov), Poland (Pogo Siedlce) and Belgium (Boitsfort Rugby Club).",
-        "copy": "A new central European club competition designed to fill the gap between Rugby Europe’s Super Cup and the domestic leagues of the five countries involved will launch in Frankfurt next month.\n\nInitially, Ascent Rugby will involve seven teams, two each from Germany (SC Frankfurt 1880 and Adler XV) and the Netherlands (The Dukes and RC Eemland), and one from Czechia (RC Tatra Smíchov), Poland (Pogo Siedlce) and Belgium (Boitsfort Rugby Club).",
-        "first_seen": "2026-07-24T15:25:43.326051+00:00"
       }
     ],
     "Tennis": [
@@ -3561,8 +3561,8 @@
         "published": "2026-07-31T13:49:00+00:00",
         "published_label": "Fri 31 Jul, 13:49",
         "summary": "Raducanu out of GB squad as Boulter named captain TNT Sports",
-        "body": "",
-        "copy": "",
+        "body": "British No. 1 Emma Raducanu, who was forced out of Wimbledon by injury, is out of Great Britain's squad for the Billie Jean King Cup finals in China as she continues to recover from her latest setback.\n\nRaducanu withdrew from Wimbledon hours before the tournament started because of a lower leg stress fracture. Katie Boulter, Harriet Dart, Mika Stojsavljevic and Jodie Burrage have all been named in the squad for the event in Shenzhen, which runs between September 22-27.",
+        "copy": "British No. 1 Emma Raducanu, who was forced out of Wimbledon by injury, is out of Great Britain's squad for the Billie Jean King Cup finals in China as she continues to recover from her latest setback.\n\nRaducanu withdrew from Wimbledon hours before the tournament started because of a lower leg stress fracture. Katie Boulter, Harriet Dart, Mika Stojsavljevic and Jodie Burrage have all been named in the squad for the event in Shenzhen, which runs between September 22-27.",
         "first_seen": "2026-07-31T14:04:04.503188+00:00"
       },
       {
@@ -3616,6 +3616,19 @@
         "body": "Cameron Norrie's resurgent form continued as he overpowered Bernard Tomic in just 50 minutes to progress to the semi-finals of the Los Cabos Open in Mexico. Fifth-seed Norrie won 12 straight games to defeat his Australian opponent 6-1 6-0 and set up a semi-final meeting with defending champion Denis Shapovalov.\n\nThe British number two travelled to Mexico on a run of six consecutive defeats, having not won a match since April, but has put together a run of three successive straight-set victories.",
         "copy": "Cameron Norrie's resurgent form continued as he overpowered Bernard Tomic in just 50 minutes to progress to the semi-finals of the Los Cabos Open in Mexico. Fifth-seed Norrie won 12 straight games to defeat his Australian opponent 6-1 6-0 and set up a semi-final meeting with defending champion Denis Shapovalov.\n\nThe British number two travelled to Mexico on a run of six consecutive defeats, having not won a match since April, but has put together a run of three successive straight-set victories.",
         "first_seen": "2026-07-31T11:58:47.483294+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Cameron Norrie vs Bernard Tomic | Los Cabos Open highlights",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaE82U1NOV19PRGZFTnNWaHQ5N0xRQ1puV3U2d0JERWNyZDVISkFuLTZ6M19iWXVzVkZUTTNqeGg2X1F6QVpNcUcxWkIxYVZPNjQtZUpDRmR4SjVOYkxTM0hSSHdGRlBlMWU1Zlk5aUxwV203a2pVSkt1TVo1dWxWNW56QWRoTWE2TEV0VlhmNWpKR0FLMXgtcjlka1N1ekF5U0ktbGp4OGw5eFZuWnA4aw?oc=5",
+        "published": "2026-07-31T09:00:55+00:00",
+        "published_label": "Fri 31 Jul, 09:00",
+        "summary": "Cameron Norrie vs Bernard Tomic | Los Cabos Open highlights Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
       },
       {
         "section": "Tennis",
@@ -4336,6 +4349,32 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf Is On The Cusp Of A New Funding Deal—And Bankruptcy Is On The Table",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRUl0V2NCTC01YTRRSDlSWHY5b3lXTkpaNkdRbFpidTFPUG9OTWEwMEtNV0diV2FZcmV5ZzVqOGFXNFR6d2NOeWRSMWZmd1lKSTZtTGRUTWR6MldtYnl3TEQyRmFqRDl1M2ozSDR3U3g1SEFGRlMtSzU3dW9qUV85NDBPWm04ZTB1WWdtV09qeVVjYzduRXRCQ3ZZVnR3eGttQWx1ajdfcFVTbXE2U2RZdWVOZGdIYVh1ZnBZUE1sM2F4bjlIZ2txUTh3?oc=5",
+        "published": "2026-07-31T16:27:23+00:00",
+        "published_label": "Fri 31 Jul, 16:27",
+        "summary": "LIV Golf Is On The Cusp Of A New Funding Deal—And Bankruptcy Is On The Table Forbes",
+        "body": "The embattled LIV Golf league is well on its way to a deal worth between $250 million and $350 million that would save it from what once looked like an inevitable folding after Saudi Arabia’s Public Investment Fund backed away from its promise to support the league through 2032.\n\nCEO Scott O’Neil, who joined the league last year, is close to completing a deal that will support the league through at least 2027 and fund the creation of “LIV 2.0,” a scaled-down version of the league, a source familiar with talks told Forbes on Friday.",
+        "copy": "The embattled LIV Golf league is well on its way to a deal worth between $250 million and $350 million that would save it from what once looked like an inevitable folding after Saudi Arabia’s Public Investment Fund backed away from its promise to support the league through 2032.\n\nCEO Scott O’Neil, who joined the league last year, is close to completing a deal that will support the league through at least 2027 and fund the creation of “LIV 2.0,” a scaled-down version of the league, a source familiar with talks told Forbes on Friday.",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Can a YouTuber get the PGA Tour out of its own way?",
+        "link": "https://golf.com/news/can-youtube-golfer-force-pga-tour-change/",
+        "published": "2026-07-31T16:17:01+00:00",
+        "published_label": "Fri 31 Jul, 16:17",
+        "summary": "The PGA Tour did something new Thursday with a player best known for his work on YouTube. It could be a sign of things to come. The post Can a YouTuber get the PGA Tour out of its own way? appeared first on Golf .",
+        "body": "There’s legitimate bristling to be had on the inclusion of Brad Dalke in this week’s Rocket Classic. Dalke is one helluva golfer, but he is firstly a YouTube Golfer. That term isn’t nearly as disparaging as it may have once been, but he was invited as a sponsor’s exemption for that reason far more than any other. It’s okay to say it out loud.\n\nIt’s also particularly okay to acknowledge it after what went down Thursday afternoon. Dalke had a very bad day at Detroit Golf Club. The former U.S. Am runner-up hit a handful of bad shots, earned a few bad breaks, made just a single birdie and saw his name near the bottom of the leaderboard: 81, 11 over. Most importantly, though, he did it all in front of a special set of roving cameras that were tracking his every shot.",
+        "copy": "There’s legitimate bristling to be had on the inclusion of Brad Dalke in this week’s Rocket Classic. Dalke is one helluva golfer, but he is firstly a YouTube Golfer. That term isn’t nearly as disparaging as it may have once been, but he was invited as a sponsor’s exemption for that reason far more than any other. It’s okay to say it out loud.\n\nIt’s also particularly okay to acknowledge it after what went down Thursday afternoon. Dalke had a very bad day at Detroit Golf Club. The former U.S. Am runner-up hit a handful of bad shots, earned a few bad breaks, made just a single birdie and saw his name near the bottom of the leaderboard: 81, 11 over. Most importantly, though, he did it all in front of a special set of roving cameras that were tracking his every shot.",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
         "title": "'It is a bummer': Rickie Fowler mourns Rocket Classic's demise while in contention",
@@ -4492,6 +4531,19 @@
       },
       {
         "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf: Saudi-backed league's season finale in Michigan to go ahead as planned amid cancellation rumours",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdTZEUDlXek1pelp3aEZtdVk0ekVralA0eDBaS2haaE9IeUM2Rk5kQVZEbUhBcmlHQWVQZ0tqdFpSQjJ2bUNwWG1xOHRuN2FvLXRyQzJLeFFJWU1IekozY0VoT18xelpYZmZhOHJNUXJ4LTdablp4RVo4Y1FpOTU1UUJTSENXb2dhUXNrejZaVzFKS280QkRJS3g4UWE3X0RTRktaT1Q2TEswTlhTdGRzb1czXzNQcUc1MXN1S1lTVTFqYnd4ZnpseVU3Ry04UGxmdUVIYTg4NkNxdjhnbkFDOFVMWXFOd0puOVl3?oc=5",
+        "published": "2026-07-30T19:32:31+00:00",
+        "published_label": "Thu 30 Jul, 19:32",
+        "summary": "LIV Golf: Saudi-backed league's season finale in Michigan to go ahead as planned amid cancellation rumours Sky Sports",
+        "body": "LIV Golf's season finale in Michigan has not been cancelled, Sky Sports News understands. Sources close to LIV Golf have told Sky Sports News that the event is currently going ahead as planned, with the league preparing for individual and team events.\n\nLIV Michigan is scheduled for the end of August and sources indicated that while it has not been cancelled, alternative events are being planned. The news comes after the Saudi-backed PIF said that the \"substantial investment required is no longer consistent\" with the fund's investment strategy moving forward in April.",
+        "copy": "LIV Golf's season finale in Michigan has not been cancelled, Sky Sports News understands. Sources close to LIV Golf have told Sky Sports News that the event is currently going ahead as planned, with the league preparing for individual and team events.\n\nLIV Michigan is scheduled for the end of August and sources indicated that while it has not been cancelled, alternative events are being planned. The news comes after the Saudi-backed PIF said that the \"substantial investment required is no longer consistent\" with the fund's investment strategy moving forward in April.",
+        "first_seen": "2026-07-30T17:25:23.236689+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
         "title": "PGA Tour's new broadcast feed is weird, great, and could be even better",
@@ -4593,19 +4645,6 @@
         "body": "The most terrifying sound in golf is silence—the quiet that falls when you stand over your ball with all eyes on you. The absence of noise can unsettle even seasoned players. And nowhere does it ring out louder than on the 1st tee of the East Course at Merion Golf Club.\n\nOn the scorecard, the par-4 opener is a friendly handshake. At 358 yards, it can be tackled with a long iron and a wedge. But consider the location of the tee box, directly alongside the clubhouse terrace, where glasses clink and silverware clatters amid the buzz of conversation. That is, until someone steps up to hit.",
         "copy": "The most terrifying sound in golf is silence—the quiet that falls when you stand over your ball with all eyes on you. The absence of noise can unsettle even seasoned players. And nowhere does it ring out louder than on the 1st tee of the East Course at Merion Golf Club.\n\nOn the scorecard, the par-4 opener is a friendly handshake. At 358 yards, it can be tackled with a long iron and a wedge. But consider the location of the tee box, directly alongside the clubhouse terrace, where glasses clink and silverware clatters amid the buzz of conversation. That is, until someone steps up to hit.",
         "first_seen": "2026-07-30T19:22:40.425595+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf: Saudi-backed league's season finale in Michigan to go ahead as planned amid cancellation rumours",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdTZEUDlXek1pelp3aEZtdVk0ekVralA0eDBaS2haaE9IeUM2Rk5kQVZEbUhBcmlHQWVQZ0tqdFpSQjJ2bUNwWG1xOHRuN2FvLXRyQzJLeFFJWU1IekozY0VoT18xelpYZmZhOHJNUXJ4LTdablp4RVo4Y1FpOTU1UUJTSENXb2dhUXNrejZaVzFKS280QkRJS3g4UWE3X0RTRktaT1Q2TEswTlhTdGRzb1czXzNQcUc1MXN1S1lTVTFqYnd4ZnpseVU3Ry04UGxmdUVIYTg4NkNxdjhnbkFDOFVMWXFOd0puOVl3?oc=5",
-        "published": "2026-07-30T16:49:38+00:00",
-        "published_label": "Thu 30 Jul, 16:49",
-        "summary": "LIV Golf: Saudi-backed league's season finale in Michigan to go ahead as planned amid cancellation rumours Sky Sports",
-        "body": "LIV Golf's season finale in Michigan has not been cancelled, Sky Sports News understands. Sources close to LIV Golf have told Sky Sports News that the event is currently going ahead as planned, with the league preparing for individual and team events.\n\nLIV Michigan is scheduled for the end of August and sources indicated that while it has not been cancelled, alternative events are being planned. - LIV Golf Q&A: What does the future hold without Saudi backing?",
-        "copy": "LIV Golf's season finale in Michigan has not been cancelled, Sky Sports News understands. Sources close to LIV Golf have told Sky Sports News that the event is currently going ahead as planned, with the league preparing for individual and team events.\n\nLIV Michigan is scheduled for the end of August and sources indicated that while it has not been cancelled, alternative events are being planned. - LIV Golf Q&A: What does the future hold without Saudi backing?",
-        "first_seen": "2026-07-30T17:25:23.236689+00:00"
       },
       {
         "section": "Golf",
@@ -6465,61 +6504,22 @@
         "body": "Rd. 2 recap: Herbert, Ripper GC hold big leads at LIV Golf UK Presented by JCB Red-hot Lucas Herbert leads by four shots entering the weekend at JCB Golf & Country Club, but Bryson DeChambeau is lurking and looking to charge.\n\nLucas Herbert cannot be stopped right now. The Ripper GC star followed his record-setting opening 61 with a 6-under 66 in the second round of LIV Golf UK Presented by JCB 2026, extending his individual score to 17 under through 36 holes while grabbing a four-shot lead.",
         "copy": "Rd. 2 recap: Herbert, Ripper GC hold big leads at LIV Golf UK Presented by JCB Red-hot Lucas Herbert leads by four shots entering the weekend at JCB Golf & Country Club, but Bryson DeChambeau is lurking and looking to charge.\n\nLucas Herbert cannot be stopped right now. The Ripper GC star followed his record-setting opening 61 with a 6-under 66 in the second round of LIV Golf UK Presented by JCB 2026, extending his individual score to 17 under through 36 holes while grabbing a four-shot lead.",
         "first_seen": "2026-07-24T19:22:11.580297+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "These comfy slides are the perfect post-round shoes (and are on sale!)",
-        "link": "https://golf.com/gear/shoes/comfy-slides-perfect-post-round-shoes-sale/",
-        "published": "2026-07-24T15:04:27+00:00",
-        "published_label": "Fri 24 Jul, 15:04",
-        "summary": "Nothing makes you say ahhhh quite like kicking off your golf shoes and slipping into the world of airy comfort that is the slide sandal. The post These comfy slides are the perfect post-round shoes (and are on sale!) appeared first on Golf .",
-        "body": "Slides are all the rage right now, and it’s easy to see why. These casual footwear staples are easy to put on and take off, give your feet much-needed ventilation and offer supreme comfort.\n\nAs a pre- and post-round option, they’re a no brainer. Nothing makes you say ahhhh quite like kicking off your golf shoes and slipping into the world of airy comfort that is the slide sandal.",
-        "copy": "Slides are all the rage right now, and it’s easy to see why. These casual footwear staples are easy to put on and take off, give your feet much-needed ventilation and offer supreme comfort.\n\nAs a pre- and post-round option, they’re a no brainer. Nothing makes you say ahhhh quite like kicking off your golf shoes and slipping into the world of airy comfort that is the slide sandal.",
-        "first_seen": "2026-07-24T15:25:43.326051+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This putting aid hones your stroke — and mimics real-life lip-outs",
-        "link": "https://golf.com/gear/golf-accessories/this-putting-aid-hones-stroke-mimics-real-life-lip-outs/",
-        "published": "2026-07-24T15:01:01+00:00",
-        "published_label": "Fri 24 Jul, 15:01",
-        "summary": "PuttOUT's Premium Pressure Putt Trainer features a circular target the size of a regulation hole, with tapered sides to mimic lip-outs. The post This putting aid hones your stroke — and mimics real-life lip-outs appeared first on Golf .",
-        "body": "There’s no question that the fastest way to lower scores is by minimizing wasted shots on and around the green. And for players at every level, putting is often to blame when a hole — or round — goes sideways.\n\nThink about it this way: In a regulation round, you’re expected to hit around 14 drives, 22 or so shots with shorter clubs … and 36 putts! So if you’re looking to shave a few strokes from your score, putting is the most obvious area to focus on.",
-        "copy": "There’s no question that the fastest way to lower scores is by minimizing wasted shots on and around the green. And for players at every level, putting is often to blame when a hole — or round — goes sideways.\n\nThink about it this way: In a regulation round, you’re expected to hit around 14 drives, 22 or so shots with shorter clubs … and 36 putts! So if you’re looking to shave a few strokes from your score, putting is the most obvious area to focus on.",
-        "first_seen": "2026-07-24T15:25:43.326051+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Bettinardi turns the tables on the zero torque trend with new Hexperimental release",
-        "link": "https://golf.com/gear/putters/bettinardi-hexperimental-2-putter/",
-        "published": "2026-07-24T15:00:19+00:00",
-        "published_label": "Fri 24 Jul, 15:00",
-        "summary": "Bettinardi is flipping the script on the putter market and turning one of their 'zero torque' Antidote shapes into a traditional hosel. The post Bettinardi turns the tables on the zero torque trend with new Hexperimental release appeared first on Golf .",
-        "body": "Today’s putter market has been flooded with “zero torque” offerings. Earlier this year Bettinardi added more options to the market with 2 Hexperimental shapes, but this time they’re flipping the script. The new Bettinardi Hexperimental #2 adapts the high M.O.I. ‘Simply Balanced’ Antidote SB2 shape and converts it into traditional heel-shafted setup without “zero torque” technology.\n\n“We’ve had a wide range of players in our Tour Department, from pros to elite amateurs, fall in love with the Antidote SB2, but zero-torque isn’t for everyone,” said Sam Bettinardi, president of Bettinardi Golf. “That’s exactly the gap the Hexperimental #2 was designed to fill.”",
-        "copy": "Today’s putter market has been flooded with “zero torque” offerings. Earlier this year Bettinardi added more options to the market with 2 Hexperimental shapes, but this time they’re flipping the script. The new Bettinardi Hexperimental #2 adapts the high M.O.I. ‘Simply Balanced’ Antidote SB2 shape and converts it into traditional heel-shafted setup without “zero torque” technology.\n\n“We’ve had a wide range of players in our Tour Department, from pros to elite amateurs, fall in love with the Antidote SB2, but zero-torque isn’t for everyone,” said Sam Bettinardi, president of Bettinardi Golf. “That’s exactly the gap the Hexperimental #2 was designed to fill.”",
-        "first_seen": "2026-07-24T15:25:43.326051+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf United Kingdom Round 2 - All the latest from Rocester as Bryson DeChambeau hunts the lead",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHhDRU9ScFh5REprMzRaUVk1TXJkZ3F6NXQzdlhpcU9JMDd0WEdmR1FGVFNhbTlKc1BET05BbUFuWTd4N0diYk5ZTnlYM1psTEVZMmNlSXVTMV9LRjQ1VkJVYkduZF9DTjlnTWgzcDNEbzBkdmt3bVB1a2IwX3d3OFRqd1NtTmg1S1pkay1HUl9qckJaV3pHLXJhelhEQQ?oc=5",
-        "published": "2026-07-24T14:07:00+00:00",
-        "published_label": "Fri 24 Jul, 14:07",
-        "summary": "LIV Golf United Kingdom Round 2 - All the latest from Rocester as Bryson DeChambeau hunts the lead TNT Sports",
-        "body": "LIV Golf is back in the United Kingdom. League leader Jon Rahm could seal his third successive Individual Championship weekend with victory at Rocester. It was Lucas Herbert who took the headlines with a brilliant performance in Round 1 and 2 to take a four-shot lead.\n\n\"I played okay, I had seven weeks off coming into this, so I feel a bit rusty. These greens are pretty firm and it is a long golf course. \"I made three bogeys in the middle of the round, but other than that I am pretty pleased.",
-        "copy": "LIV Golf is back in the United Kingdom. League leader Jon Rahm could seal his third successive Individual Championship weekend with victory at Rocester. It was Lucas Herbert who took the headlines with a brilliant performance in Round 1 and 2 to take a four-shot lead.\n\n\"I played okay, I had seven weeks off coming into this, so I feel a bit rusty. These greens are pretty firm and it is a long golf course. \"I made three bogeys in the middle of the round, but other than that I am pretty pleased.",
-        "first_seen": "2026-07-24T19:22:11.580297+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Taipei Open: Steady Progress Gathers Pace",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNak4xSjBlcEhaOGM0M1ViT3RJMTRNbFRDUzJKREQzc1hhcEhJckFJamhYcTdXMU1odGpwN2NQVUsxRFhDTFlqdmYybG12blYwWVZtZU1vWnk1N01ZRjJqbUcyaEs4c2ZONFk1TnhCeWNIMjdQMjdwNjI0MlZjTGxSdkptMXdpQWk2MkJFcE9DN1cxWm41d25uYS14REJNTlE0WVNaSw?oc=5",
+        "published": "2026-07-31T14:04:45+00:00",
+        "published_label": "Fri 31 Jul, 14:04",
+        "summary": "Taipei Open: Steady Progress Gathers Pace BWF World Tour",
+        "body": "Nine months of rehabilitation and countless hours rebuilding confidence have finally delivered a breakthrough for Rehan Naufal Kusharjanto/Gloria Emanuelle Widjaja at YONEX Taipei Open 2026.\n\nThe mixed pair reached their first semifinal since Kusharjanto’s return from a serious knee injury after defeating world No.55s Supak Jomkoh/Ornnicha Jongsathapornparn, opponents ranked 40 places above them, 17-21 21-16 21-10.",
+        "copy": "Nine months of rehabilitation and countless hours rebuilding confidence have finally delivered a breakthrough for Rehan Naufal Kusharjanto/Gloria Emanuelle Widjaja at YONEX Taipei Open 2026.\n\nThe mixed pair reached their first semifinal since Kusharjanto’s return from a serious knee injury after defeating world No.55s Supak Jomkoh/Ornnicha Jongsathapornparn, opponents ranked 40 places above them, 17-21 21-16 21-10.",
+        "first_seen": "2026-07-31T17:28:30.744886+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -7156,19 +7156,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-25T09:19:22.864574+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "China Open: Chou Stops Shi Streak",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUQ0QnpsQzgydE5pbHNtUDktQklybVpTMEpFb01CV1FXTlYwWXN4dkdaTzl6VG5uekZkVVFmblZhS0JOb2ZWc3dPSkdBWFl2Slkzek5wenZVQXc3M0V1anZKREhzd0JoMU1Jc3o1TjcxQ0h6TERZaV8wRWN4Zy02MENGTlh2ZjdIRXdtVUNwbWVMYTlrbnZmSw?oc=5",
-        "published": "2026-07-24T15:19:12+00:00",
-        "published_label": "Fri 24 Jul, 15:19",
-        "summary": "China Open: Chou Stops Shi Streak BWF World Tour",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-07-24T13:31:35.142668+00:00"
       }
     ],
     "Competitor News": [
@@ -7265,5 +7252,5 @@
       }
     ]
   },
-  "total": 557
+  "total": 556
 }
