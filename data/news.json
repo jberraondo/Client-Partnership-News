@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T17:28:30.744886+00:00",
-  "generated_label": "Friday 31 July 2026, 17:28 UTC",
+  "generated_at": "2026-07-31T19:21:34.633835+00:00",
+  "generated_label": "Friday 31 July 2026, 19:21 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "The week that shook football",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEp5M2hJSzRZS3R0MlpwZEkzcDgwbGtjcExZLUl3bDA3NEdzRENPT29GNWdtR1ctQUdrRzlHRGYzQ1EzY2E2MzN1NzZuUkFZSzhpMWZremV3LTJGV3BBeWRCUGp6QS1aS2VENzAxcnNoVWtZZGUyRUtJT0ZJMnpPWlJQa1Q?oc=5",
+        "published": "2026-07-31T16:30:00+00:00",
+        "published_label": "Fri 31 Jul, 16:30",
+        "summary": "The week that shook football Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-31T19:21:34.633835+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -2018,6 +2031,19 @@
       },
       {
         "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Joey urges clubs to target rugby sevens",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUlZkazBrSDl4NFYxVkw0aC1ra0NqSURmNzZLOU9XbXp1eGk0NFdEbTQzam1pSnUxVkNIbDlndlZKYmNib3VSbFZkRE5JUHZ3Tm10bW1vN3BUQUo3WnE2cVBDcVg0akpiUGhCMHN1VmdxNEFWakdUN0cwdko1UGhhZjdJd1Nwa1RoLVlMSHA2ZFhsWlBkaW1xVFVRd2o?oc=5",
+        "published": "2026-07-31T01:01:07+00:00",
+        "published_label": "Fri 31 Jul, 01:01",
+        "summary": "Joey urges clubs to target rugby sevens theage.com.au",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-07-31T19:21:34.633835+00:00"
+      },
+      {
+        "section": "Rugby",
         "source": "Rugby Pass",
         "kind": "direct",
         "title": "‘Evolution not revolution’: Wallabies assistant coach reveals key difference",
@@ -3554,6 +3580,45 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Dog walk and expletive text - key findings in Vondrousova anti-doping case",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cn0nrgp7nqlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-31T18:30:43+00:00",
+        "published_label": "Fri 31 Jul, 18:30",
+        "summary": "The full report into 2023 Wimbledon champion Marketa Vondrousova's four-year ban for refusing a doping test has been released - BBC Sport analyses the key findings.",
+        "body": "Recent Wimbledon champion Marketa Vondrousova receiving a four-year ban for refusing to take a doping test was a punishment which sent shockwaves through tennis. The Czech, who became the first unseeded player to win the Wimbledon women's singles title in 2023, would not let a doping control officer into her Prague home to conduct the test in December 2025.\n\nIn June, it was announced the 27-year-old would be suspended for four years - the starting point for any player who refuses or evades a test. On Friday, the independent tribunal which imposed the punishment released its full written report about the case - which it described as a \"very unfortunate matter\" but which offered \"no compelling justification\" for a shorter ban.",
+        "copy": "Recent Wimbledon champion Marketa Vondrousova receiving a four-year ban for refusing to take a doping test was a punishment which sent shockwaves through tennis. The Czech, who became the first unseeded player to win the Wimbledon women's singles title in 2023, would not let a doping control officer into her Prague home to conduct the test in December 2025.\n\nIn June, it was announced the 27-year-old would be suspended for four years - the starting point for any player who refuses or evades a test. On Friday, the independent tribunal which imposed the punishment released its full written report about the case - which it described as a \"very unfortunate matter\" but which offered \"no compelling justification\" for a shorter ban.",
+        "first_seen": "2026-07-31T19:21:34.633835+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "List of Players Missing in Canadian Open 2026 Draw, Including Emma Raducanu, Carlos Alcaraz, Jannik Sinner",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFhvS3N3MHdfOW8waUYyTXNvQTVtYzFEU1ZNVGphdkpNSlBQZEktbUhTYzg0czlaTFI5SnFQUDhrWVZERHg0cEdRbC1aVWgyLUZhaFRQeWcxaDVhbkFRa2NyMFdLTVhlM1ZwT0xRaE5fTVp6eDNUNlNKZlBYU0lHSmpnRDdYTjM0WF9F?oc=5",
+        "published": "2026-07-31T17:50:25+00:00",
+        "published_label": "Fri 31 Jul, 17:50",
+        "summary": "List of Players Missing in Canadian Open 2026 Draw, Including Emma Raducanu, Carlos Alcaraz, Jannik Sinner Yahoo Sports",
+        "body": "The 2026 Canadian Open is nearly underway, with the main draw set to run from August 3 to 13. It marks the first major event of the North American hardcourt swing leading into the US Open. This year, Toronto will host the women's tournament, while the men will compete in Montréal.\n\nSeveral top players are set to entertain Canadian fans during the 11-day events, with Alexander Zverev and Félix Auger-Aliassime leading the men's draw as the top two seeds, while Aryna Sabalenka and Elena Rybakina headline the women's field. Other players featuring in the line-up are Coco Gauff, Ben Shelton, Jessica Pegula, and Taylor Fritz.",
+        "copy": "The 2026 Canadian Open is nearly underway, with the main draw set to run from August 3 to 13. It marks the first major event of the North American hardcourt swing leading into the US Open. This year, Toronto will host the women's tournament, while the men will compete in Montréal.\n\nSeveral top players are set to entertain Canadian fans during the 11-day events, with Alexander Zverev and Félix Auger-Aliassime leading the men's draw as the top two seeds, while Aryna Sabalenka and Elena Rybakina headline the women's field. Other players featuring in the line-up are Coco Gauff, Ben Shelton, Jessica Pegula, and Taylor Fritz.",
+        "first_seen": "2026-07-31T19:21:34.633835+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu has just missed a golden opportunity to help make history for her country",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDk2WXBVLXNPZzNZVFVKdENFcWZ3VWt1UHBibmNscnljUFQ1WjJFUWdsZXQ5dGpjRVJYUFNBZldBNlJpdzAxOEpCUWxkeHdkWTNPU21OWW1IS3BrZEZTbGowZU9DM0pROXJzX1c1NHJZd05QMl9WVVhUc3BpREpBeEpRc1hsRDNScTN4ODdvTFYtSS13VDBXNjk5anBnMWJ0ZmlMd2Qwb19aY3ZsLUNYZA?oc=5",
+        "published": "2026-07-31T17:30:00+00:00",
+        "published_label": "Fri 31 Jul, 17:30",
+        "summary": "Emma Raducanu has just missed a golden opportunity to help make history for her country Tennishead",
+        "body": "Emma Raducanu won’t join up with Team Great Britain at the Billie Jean King Cup Finals in Shenzhen, China. Great Britain’s Billie Jean King Cup captain, Anne Keothavong, has selected Katie Boulter, Harriet Dart, Mika Stojsavljevic, and Jodie Burrage as the four women to represent their country later this year.\n\nIn the 63-year history of the competition, Great Britain have never won the title, although they have come close recently, reaching the semi-finals in 2025, 2024, and 2022. Despite the ‘big three’ era ending, tennis is better now than it was 10 years ago – Prove me wrong!",
+        "copy": "Emma Raducanu won’t join up with Team Great Britain at the Billie Jean King Cup Finals in Shenzhen, China. Great Britain’s Billie Jean King Cup captain, Anne Keothavong, has selected Katie Boulter, Harriet Dart, Mika Stojsavljevic, and Jodie Burrage as the four women to represent their country later this year.\n\nIn the 63-year history of the competition, Great Britain have never won the title, although they have come close recently, reaching the semi-finals in 2025, 2024, and 2022. Despite the ‘big three’ era ending, tennis is better now than it was 10 years ago – Prove me wrong!",
+        "first_seen": "2026-07-31T19:21:34.633835+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "Raducanu out of GB squad as Boulter named captain",
@@ -4347,6 +4412,45 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Korda produces 'special' second round to recover from day one woes",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/ce97337ljzjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-31T19:09:31+00:00",
+        "published_label": "Fri 31 Jul, 19:09",
+        "summary": "World number one Nelly Korda returns to form on day two of the Women's Open, carding three-under-par 68 to erase her opening round struggles. Her bounce-back leaves her one under par total and just five shots behind leader Haeran Ryu, setting up an exciting weekend chase at Royal Lytham & St. Annes Golf Course.",
+        "body": "This content is not available in your location. World number one Nelly Korda returns to form on day two of the Women's Open, carding three-under-par 68 to erase her opening round struggles. Her bounce-back leaves her one under par total and just five shots behind leader Haeran Ryu, setting up an exciting weekend chase at Royal Lytham & St. Annes Golf Course.",
+        "copy": "This content is not available in your location. World number one Nelly Korda returns to form on day two of the Women's Open, carding three-under-par 68 to erase her opening round struggles. Her bounce-back leaves her one under par total and just five shots behind leader Haeran Ryu, setting up an exciting weekend chase at Royal Lytham & St. Annes Golf Course.",
+        "first_seen": "2026-07-31T19:21:34.633835+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ryu leads Open in pursuit of third straight major",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c0qvlle2348o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-31T18:42:52+00:00",
+        "published_label": "Fri 31 Jul, 18:42",
+        "summary": "South Korea's Haeran Ryu bounces back from a poor start to end the second round as leader of the AIG Women's Open at Royal Lytham & St Annes.",
+        "body": "South Korea's Haeran Ryu birdied the 18th to bounce back from a poor start and end the second round as leader of the AIG Women's Open at Royal Lytham & St Annes. The 25-year-old, aiming to become only the fifth woman in history to claim three majors in a calendar year, is one shot clear of Japan's Shiho Kuwaki.\n\nEarlier this month, Ryu claimed her second major in the space of two weeks at the Evian Championship, and her remarkable major form has continued at the Open. Despite being three over for the day through five holes, she sank five birdies to shoot two under par and build on her opening-round score of 66.",
+        "copy": "South Korea's Haeran Ryu birdied the 18th to bounce back from a poor start and end the second round as leader of the AIG Women's Open at Royal Lytham & St Annes. The 25-year-old, aiming to become only the fifth woman in history to claim three majors in a calendar year, is one shot clear of Japan's Shiho Kuwaki.\n\nEarlier this month, Ryu claimed her second major in the space of two weeks at the Evian Championship, and her remarkable major form has continued at the Open. Despite being three over for the day through five holes, she sank five birdies to shoot two under par and build on her opening-round score of 66.",
+        "first_seen": "2026-07-31T19:21:34.633835+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'Absolute dime'",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/cwye55wp2jlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-31T18:35:32+00:00",
+        "published_label": "Fri 31 Jul, 18:35",
+        "summary": "Enjoy the best shots from day two at the Women's Open, featuring Nelly Korda and England's Charley Hull.",
+        "body": "",
+        "copy": "Enjoy the best shots from day two at the Women's Open, featuring Nelly Korda and England's Charley Hull.",
+        "first_seen": "2026-07-31T19:21:34.633835+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6465,45 +6569,6 @@
         "body": "BLAINE, Minn. — Sometimes, it behoves players to not think about the big picture. One shot at a time. Lots of golf left. Don’t look at the leaderboard. That sort of thing. A couple of weeks ago at the Evian Championship, Haeran Ryu tallied up her scorecard on the 18th green and was shocked when she realized she shot 60, the lowest major round in women’s golf history.\n\nBut as for Michael Kim? He knew exactly where he stood on Friday. The 33-year-old, world No. 57 torched TPC Twin Cities, never made a bogey and birdied his last four to shoot a 12-under 59 — just the 16th sub-60 score in PGA Tour history. At 14 under, he leads the 3M Open with the afternoon wave still to finish.",
         "copy": "BLAINE, Minn. — Sometimes, it behoves players to not think about the big picture. One shot at a time. Lots of golf left. Don’t look at the leaderboard. That sort of thing. A couple of weeks ago at the Evian Championship, Haeran Ryu tallied up her scorecard on the 18th green and was shocked when she realized she shot 60, the lowest major round in women’s golf history.\n\nBut as for Michael Kim? He knew exactly where he stood on Friday. The 33-year-old, world No. 57 torched TPC Twin Cities, never made a bogey and birdied his last four to shoot a 12-under 59 — just the 16th sub-60 score in PGA Tour history. At 14 under, he leads the 3M Open with the afternoon wave still to finish.",
         "first_seen": "2026-07-25T08:04:06.962980+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Kim feels 'pretty cool' after carding historic 59",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cpvw4kev14mo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-24T19:17:21+00:00",
-        "published_label": "Fri 24 Jul, 19:17",
-        "summary": "Michael Kim is thrilled to be \"part of the history books\" after a superb 12-under par round of 59 at the 3M Open in Minnesota.",
-        "body": "Michael Kim is thrilled to be \"part of the history books\" after a superb 12-under-par round of 59 at the 3M Open in Minnesota. The American drained a 24-foot birdie putt at the final hole to post just the 16th sub-60 round ever on the US PGA Tour.\n\nKim birdied the last four holes at TPC Twin Cities course in Blaine, lifting both arms in triumph when the putt on 18 rolled in before unleashing a mighty fist-pump. The 33-year-old had 12 birdies without a bogey to finish his second round in the lead, three shots in front of compatriot Ben Kohles.",
-        "copy": "Michael Kim is thrilled to be \"part of the history books\" after a superb 12-under-par round of 59 at the 3M Open in Minnesota. The American drained a 24-foot birdie putt at the final hole to post just the 16th sub-60 round ever on the US PGA Tour.\n\nKim birdied the last four holes at TPC Twin Cities course in Blaine, lifting both arms in triumph when the putt on 18 rolled in before unleashing a mighty fist-pump. The 33-year-old had 12 birdies without a bogey to finish his second round in the lead, three shots in front of compatriot Ben Kohles.",
-        "first_seen": "2026-07-24T19:22:11.580297+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "4 winning habits from Ryan Fox that you should steal for your golf game",
-        "link": "https://golf.com/instruction/four-winning-habits-ryan-fox-steal-golf-game/",
-        "published": "2026-07-24T18:24:07+00:00",
-        "published_label": "Fri 24 Jul, 18:24",
-        "summary": "GOLF Top 100 Teacher Christopher Smith shares four traits from Ryan Fox's golf game that you should steal to shoot lower scores. The post 4 winning habits from Ryan Fox that you should steal for your golf game appeared first on Golf .",
-        "body": "Open champion (and speed golfer in disguise) Ryan Fox has captured the hearts of golf fans worldwide with his unique swing and play style. His no-nonsense pre-shot routine and rapid pace of play are refreshing qualities for a pro golfer in an age where overthinking and over-analysis routinely lead to five-hour rounds, all while his unorthodox (yet highly effective) swing has caught everyone’s attention.\n\nAfter watching the Kiwi claim the Claret Jug last weekend, I got to thinking about four factors that undoubtedly helped him on his quest to become a major champion. Check them out below and apply them to your own game. They may just help you shoot lower scores.",
-        "copy": "Open champion (and speed golfer in disguise) Ryan Fox has captured the hearts of golf fans worldwide with his unique swing and play style. His no-nonsense pre-shot routine and rapid pace of play are refreshing qualities for a pro golfer in an age where overthinking and over-analysis routinely lead to five-hour rounds, all while his unorthodox (yet highly effective) swing has caught everyone’s attention.\n\nAfter watching the Kiwi claim the Claret Jug last weekend, I got to thinking about four factors that undoubtedly helped him on his quest to become a major champion. Check them out below and apply them to your own game. They may just help you shoot lower scores.",
-        "first_seen": "2026-07-24T19:22:11.580297+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Rd. 2 recap: Herbert, Ripper GC hold big leads at LIV Golf UK Presented by JCB",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTVZWEpNT2Z5bTFnc0VUaGNHUExjclNWZmZFTXN6c0ZZVHRRMkc0S1Z4RW9ZZ0JCd2hGUjl6RjBmT0pudUxVdTBlS3U4UUFSU29lZHo2b0poRG1yMkNSOGoxWU80OWRxd2E0U09nTm5yR2N2TjJDN0c0NWNrN1p4czEycHFocEZ4S2NZckJ0eDUtVmVLMV8w?oc=5",
-        "published": "2026-07-24T17:55:08+00:00",
-        "published_label": "Fri 24 Jul, 17:55",
-        "summary": "Rd. 2 recap: Herbert, Ripper GC hold big leads at LIV Golf UK Presented by JCB LIV Golf",
-        "body": "Rd. 2 recap: Herbert, Ripper GC hold big leads at LIV Golf UK Presented by JCB Red-hot Lucas Herbert leads by four shots entering the weekend at JCB Golf & Country Club, but Bryson DeChambeau is lurking and looking to charge.\n\nLucas Herbert cannot be stopped right now. The Ripper GC star followed his record-setting opening 61 with a 6-under 66 in the second round of LIV Golf UK Presented by JCB 2026, extending his individual score to 17 under through 36 holes while grabbing a four-shot lead.",
-        "copy": "Rd. 2 recap: Herbert, Ripper GC hold big leads at LIV Golf UK Presented by JCB Red-hot Lucas Herbert leads by four shots entering the weekend at JCB Golf & Country Club, but Bryson DeChambeau is lurking and looking to charge.\n\nLucas Herbert cannot be stopped right now. The Ripper GC star followed his record-setting opening 61 with a 6-under 66 in the second round of LIV Golf UK Presented by JCB 2026, extending his individual score to 17 under through 36 holes while grabbing a four-shot lead.",
-        "first_seen": "2026-07-24T19:22:11.580297+00:00"
       }
     ],
     "Badminton": [
@@ -7252,5 +7317,5 @@
       }
     ]
   },
-  "total": 556
+  "total": 561
 }
