@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T13:13:49.653091+00:00",
-  "generated_label": "Saturday 01 August 2026, 13:13 UTC",
+  "generated_at": "2026-08-01T14:59:30.090604+00:00",
+  "generated_label": "Saturday 01 August 2026, 14:59 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -3679,19 +3679,6 @@
         "body": "The Channel Islands rugby union team beat Poland 38-27 in their second annual \"international\" match. Jack McFarlane crossed in the left corner to give the hosts a ninth-minute lead, but two Dan Tomanek penalties saw Poland go 6-5 up after 16 minutes.\n\nAnthony Armstrong went over on the right wing to put the islands 10-6 up midway through the first half. Charlie Wilkinson was mauled over shortly before half-time after Polish prop Peet Vorster had been sent to the sin-bin.",
         "copy": "The Channel Islands rugby union team beat Poland 38-27 in their second annual \"international\" match. Jack McFarlane crossed in the left corner to give the hosts a ninth-minute lead, but two Dan Tomanek penalties saw Poland go 6-5 up after 16 minutes.\n\nAnthony Armstrong went over on the right wing to put the islands 10-6 up midway through the first half. Charlie Wilkinson was mauled over shortly before half-time after Polish prop Peet Vorster had been sent to the sin-bin.",
         "first_seen": "2026-07-25T16:55:46.945857+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Fissler Confidential: James O'Connor deal close; French points-machine in big demand",
-        "link": "https://www.rugbypass.com/news/fissler-confidential-james-oconnor-deal-close-french-points-machine-in-big-demand/",
-        "published": "2026-07-25T14:00:23+00:00",
-        "published_label": "Sat 25 Jul, 14:00",
-        "summary": "James O’Connor is understood to be set to return to Western Force to finish his career where it began, when he became the youngest-ever Super Rugby debutant at 17 in 2008.",
-        "body": "James O’Connor is understood to be set to return to Western Force to finish his career where it began, when he became the youngest-ever Super Rugby debutant at 17 in 2008. The veteran Wallaby, who spent last season with Leicester Tigers, had been linked with one of his former club’s Queensland Reds, the NSW Waratahs and United Rugby Championship outfit the Sharks, since it was announced that he was leaving Welford Road.\n\nHe picked up the Western Force ‘Rookie of the Year’ award in 2009, winning the first of his Wallabies caps while at the club, where he spent three seasons before moving to the Melbourne Rebels, but his career is set to come full circle.",
-        "copy": "James O’Connor is understood to be set to return to Western Force to finish his career where it began, when he became the youngest-ever Super Rugby debutant at 17 in 2008. The veteran Wallaby, who spent last season with Leicester Tigers, had been linked with one of his former club’s Queensland Reds, the NSW Waratahs and United Rugby Championship outfit the Sharks, since it was announced that he was leaving Welford Road.\n\nHe picked up the Western Force ‘Rookie of the Year’ award in 2009, winning the first of his Wallabies caps while at the club, where he spent three seasons before moving to the Melbourne Rebels, but his career is set to come full circle.",
-        "first_seen": "2026-07-25T15:01:45.458211+00:00"
       }
     ],
     "Tennis": [
@@ -4529,6 +4516,45 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "At American Century Championship, there was gold medal karaoke",
+        "link": "https://golf.com/news/american-century-championship-tkachuk/",
+        "published": "2026-08-01T14:13:54+00:00",
+        "published_label": "Sat 01 Aug, 14:13",
+        "summary": "The American Century Championship was filled with the normal celebrity high jinks, but two gold medal stars stole the show at karaoke. The post At American Century Championship, there was gold medal karaoke appeared first on Golf .",
+        "body": "The American Century Championship at Lake Tahoe is always filled with celebrity high jinks, and this year’s edition was no different. Brothers Brady and Matthew Tkachuk, two stars of the United States’ gold-medal-winning hockey team, were in the field along with Matthew Boldy. Former U.S. Men’s National Team forward and current MLS announcer Taylor Twellman was also at Lake Tahoe and joined the latest edition of GOLF’s Subpar podcast with Colt Knost and Drew Stoltz to detail the event and discuss the World Cup.\n\nMardy Fish won the tournament, but the Tkachuk brothers stole the show at karaoke, according to Twellman. “The Tkachucks killed it,” Twellman told Knost and Stoltz. “Dream On was a no-brainer. But the best part was that they did not know that they had to sing the next night. So Matt and Brady were like, ‘Hold on, we’ve got to do this again?’ No voices. Obviously, they’ve been going at it for a couple of nights. So the second rendition may not have been as good as the first one. But listen, Boldy marked his ball with his gold medal.",
+        "copy": "The American Century Championship at Lake Tahoe is always filled with celebrity high jinks, and this year’s edition was no different. Brothers Brady and Matthew Tkachuk, two stars of the United States’ gold-medal-winning hockey team, were in the field along with Matthew Boldy. Former U.S. Men’s National Team forward and current MLS announcer Taylor Twellman was also at Lake Tahoe and joined the latest edition of GOLF’s Subpar podcast with Colt Knost and Drew Stoltz to detail the event and discuss the World Cup.\n\nMardy Fish won the tournament, but the Tkachuk brothers stole the show at karaoke, according to Twellman. “The Tkachucks killed it,” Twellman told Knost and Stoltz. “Dream On was a no-brainer. But the best part was that they did not know that they had to sing the next night. So Matt and Brady were like, ‘Hold on, we’ve got to do this again?’ No voices. Obviously, they’ve been going at it for a couple of nights. So the second rendition may not have been as good as the first one. But listen, Boldy marked his ball with his gold medal.",
+        "first_seen": "2026-08-01T14:59:30.090604+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "What happens to Bryson DeChambeau, Jon Rahm, others if LIV Golf revive fails",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeENjZy1VSXZ4THU4YmFKT3BOMGw0VGtwWkF4ajFGT3RSN1hhNVpmVG9VckY3SVctSHFpdUc3NUFmSW1TVk4yRG0wdzVRQlZQVkNNNmI2aFFxWVJYRURON0RaZ2FUOG51VWRCY0swZ1ZNN2Z2VldHYnpGQWZwb1pRMTY2QVd3NmZYd2NOeEJhVTlwTHhiWGFPNjR0Rl9mR0dCaUYxMmZCSjR3Q2QzNXBHSGlmeENwUDI0M2pxSE10TnZsRDEzU3pNZlk2Y3Z0SmJscU1JZQ?oc=5",
+        "published": "2026-08-01T14:01:00+00:00",
+        "published_label": "Sat 01 Aug, 14:01",
+        "summary": "What happens to Bryson DeChambeau, Jon Rahm, others if LIV Golf revive fails Golfweek",
+        "body": "- LIV Golf, which launched in 2022 with backing from Saudi Arabia's Public Investment Fund, may be ending after the 2026 season. - The PGA Tour has established pathways for former members who left for LIV Golf to return.\n\n- Brooks Koepka rejoined the PGA Tour through a \"Returning Member Program\" created for recent major champions. LIV Golf disrupted professional golf's status quo when it began poaching players and holding its own tournaments in 2022, backed by the hefty wallet of Saudi Arabia’s Public Investment Fund (PIF). It created division within the sport as several notable former major tournament winners elected to take historic paydays to defect from the PGA Tour.",
+        "copy": "- LIV Golf, which launched in 2022 with backing from Saudi Arabia's Public Investment Fund, may be ending after the 2026 season. - The PGA Tour has established pathways for former members who left for LIV Golf to return.\n\n- Brooks Koepka rejoined the PGA Tour through a \"Returning Member Program\" created for recent major champions. LIV Golf disrupted professional golf's status quo when it began poaching players and holding its own tournaments in 2022, backed by the hefty wallet of Saudi Arabia’s Public Investment Fund (PIF). It created division within the sport as several notable former major tournament winners elected to take historic paydays to defect from the PGA Tour.",
+        "first_seen": "2026-08-01T14:59:30.090604+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Tony Finau's 'low season' has had lessons and 1 rare occurrence",
+        "link": "https://golf.com/news/tony-finau-fed-ex-cup-playoffs/",
+        "published": "2026-08-01T13:41:30+00:00",
+        "published_label": "Sat 01 Aug, 13:41",
+        "summary": "Tony Finau has struggled in 2026. That season came with a rare occurrence and a lot of lessons that he's using to fight to make the playoffs. The post Tony Finau’s ‘low season’ has had lessons and 1 rare occurrence appeared first on Golf .",
+        "body": "It has been a season to forget for Tony Finau. The six-time PGA Tour winner has made 14 of 20 cuts this year, but has just one top 10. He hasn’t been in the mix on the weekend since the CJ Cup Byron Nelson in May. After missing the cut at the 3M Open, Finau arrived at this week’s Rocket Classic, an event he won in 2022, sitting at 87 in the FedEx Cup Playoffs standings and needing to do some work over the final two weeks to secure his postseason bid.\n\n“I don’t know if pressure’s the right word, more than I haven’t been happy with the results, I haven’t played the way I know I can play,” Finau said on Friday at the Rocket Classic. “For whatever reason it’s been a low season for me, but I continue to stay enthusiastic about each week and the future. I feel like my future’s still bright even on a season like this.”",
+        "copy": "It has been a season to forget for Tony Finau. The six-time PGA Tour winner has made 14 of 20 cuts this year, but has just one top 10. He hasn’t been in the mix on the weekend since the CJ Cup Byron Nelson in May. After missing the cut at the 3M Open, Finau arrived at this week’s Rocket Classic, an event he won in 2022, sitting at 87 in the FedEx Cup Playoffs standings and needing to do some work over the final two weeks to secure his postseason bid.\n\n“I don’t know if pressure’s the right word, more than I haven’t been happy with the results, I haven’t played the way I know I can play,” Finau said on Friday at the Rocket Classic. “For whatever reason it’s been a low season for me, but I continue to stay enthusiastic about each week and the future. I feel like my future’s still bright even on a season like this.”",
+        "first_seen": "2026-08-01T14:59:30.090604+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6569,22 +6595,22 @@
         "body": "Lucas Herbert is on the verge of making history at LIV Golf UK Presented by JCB, holding a four-shot lead over Bryson DeChambeau as he heads into the back nine of Round 3 at JCB Golf & Country Club in Rocester, Staffordshire. Should the 30-year-old Australian close out Sunday's final round from the front, it would mark his second wire-to-wire victory of the 2026 LIV Golf season.\n\nHerbert arrived at the Staffordshire venue in fine form, having spoken of carrying momentum from The Open the previous week, and he wasted no time stamping his authority on the field. His opening 61 — nine birdies and an eagle, bogey-free — shattered the course record at JCB Golf & Country Club, which had previously stood at 62. \"If you were going to pick days you were going to shoot 59, I wouldn't have thought today would've been the day,\" he said. \"The golf course is a little firm...a bit of breeze out there kind of moved around. I'm pretty incredibly happy with 61.\"",
         "copy": "Lucas Herbert is on the verge of making history at LIV Golf UK Presented by JCB, holding a four-shot lead over Bryson DeChambeau as he heads into the back nine of Round 3 at JCB Golf & Country Club in Rocester, Staffordshire. Should the 30-year-old Australian close out Sunday's final round from the front, it would mark his second wire-to-wire victory of the 2026 LIV Golf season.\n\nHerbert arrived at the Staffordshire venue in fine form, having spoken of carrying momentum from The Open the previous week, and he wasted no time stamping his authority on the field. His opening 61 — nine birdies and an eagle, bogey-free — shattered the course record at JCB Golf & Country Club, which had previously stood at 62. \"If you were going to pick days you were going to shoot 59, I wouldn't have thought today would've been the day,\" he said. \"The golf course is a little firm...a bit of breeze out there kind of moved around. I'm pretty incredibly happy with 61.\"",
         "first_seen": "2026-07-25T19:04:40.075288+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Donald Trump breaks silence on Bryson DeChambeau’s explosive Open penalty row",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTk3dlpRcDFORW04VlRReWhIWTdvUmplaHg4enJWcTlFbk83aWtVaVlzeUtQQm0tS3dOYzhPYVloY19qX2hXQnpvaUNUWFlmMVI0Tjl6bF83V09TdnBDbW5ONXVldHNRTTE0NzNQUTRKMWdDeG1mbzdMRjZiNXJONDVhaTVhNnZaRVZuSloyV2hjbEZvaUFDUExYVDR4dnRRd2U2RGVFMG9HUUgwQkNZa2Q1VmczeUVrdjB5NXJLVQ?oc=5",
-        "published": "2026-07-25T13:23:09+00:00",
-        "published_label": "Sat 25 Jul, 13:23",
-        "summary": "Donald Trump breaks silence on Bryson DeChambeau’s explosive Open penalty row Golfmagic",
-        "body": "Donald Trump has finally given his verdict on the controversial two-shot penalty that overshadowed Bryson DeChambeau’s Open Championship at Royal Birkdale, admitting he believed the ruling against the American was a “tough call”.\n\nDeChambeau, 32, found himself at the centre of one of The Open's biggest controversies last Friday after officials penalised him two strokes after his second round. The LIV Golf star was deemed to have inadvertently improved the area of his intended swing while preparing to hit his ball from the deep rough on the par-4 5th.",
-        "copy": "Donald Trump has finally given his verdict on the controversial two-shot penalty that overshadowed Bryson DeChambeau’s Open Championship at Royal Birkdale, admitting he believed the ruling against the American was a “tough call”.\n\nDeChambeau, 32, found himself at the centre of one of The Open's biggest controversies last Friday after officials penalised him two strokes after his second round. The LIV Golf star was deemed to have inadvertently improved the area of his intended swing while preparing to hit his ball from the deep rough on the par-4 5th.",
-        "first_seen": "2026-07-25T15:01:45.458211+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "How to watch Tanvi Sharma's Taipei Open 2026 final against Nguyen Thuy Linh live",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMkxBeW9yenlWUE1SUDFHMDA2d1B6SDVGNEFCTUJLTXYzakY3RjhOQW42QU1QbkxsWmgxQzZjSkV0YXB6NUNVWlkxdUY3dEJrOExPWmFRdXA3WXpQUlVubUNQNlFuWlJxWDJKM2xjR1hoZ3VzeWxWWmZieTBrMEFxbWh2OHNXZm16aDIxUmJaUkNzdFVBV29pVUZKNVdGUlhhSHBkc1N6LW00M1lTMzZlaEg4ZjI1SzJYUG5uUjhneUVySDc3SERWQ09pakI0TndPdFdpajlLS2NVUdIB4AFBVV95cUxNc2Y3RzNDNlRFZ1lnWTVsSXlPWEU4ekV3dVBnZFR6UGJMcjM5X1B0VlRHcGhuM0N6V3pjUXpPQi1SZ1ZDYTFFZW94cjVjZkp3WkR1YXJRTDk2aFNRS3d0RTJISTJGLTZjaWtRYnhidUVNVXExVWpERWkyblFuX0RfdVExNGQwVzFUcy1BYURYSkhHYWJLVVFSXzIzVWNRVlBkSVNXTmluZ2FUUzAtZE52ZWhDYjNMNWxtRWU2R21kSGlpSG0xMDhZU29HYllVeDR6a0FOVkZJVElIT1hwbE1Pag?oc=5",
+        "published": "2026-08-01T13:28:44+00:00",
+        "published_label": "Sat 01 Aug, 13:28",
+        "summary": "How to watch Tanvi Sharma's Taipei Open 2026 final against Nguyen Thuy Linh live Sportstar",
+        "body": "Indian badminton sensation Tanvi Sharma will be aiming for her maiden BWF World Tour title when she takes on Vietnam’s Nguyen Thuy Linh in the women’s singles final of the Taipei Open 2026 on Sunday at the Taipei Arena.\n\nFans in India can watch the title clash live online, but there will be no television broadcast of the tournament. The match is scheduled to start at 9:30am IST. Tanvi, the world No. 34, booked her place in the final after defeating Huang Yu-Hsun in straight games, while Nguyen Thuy Linh ended Unnati Hooda’s campaign in the other semifinal. The Indian teenager will be chasing her first BWF World Tour crown in what will be her second Super 300 final.",
+        "copy": "Indian badminton sensation Tanvi Sharma will be aiming for her maiden BWF World Tour title when she takes on Vietnam’s Nguyen Thuy Linh in the women’s singles final of the Taipei Open 2026 on Sunday at the Taipei Arena.\n\nFans in India can watch the title clash live online, but there will be no television broadcast of the tournament. The match is scheduled to start at 9:30am IST. Tanvi, the world No. 34, booked her place in the final after defeating Huang Yu-Hsun in straight games, while Nguyen Thuy Linh ended Unnati Hooda’s campaign in the other semifinal. The Indian teenager will be chasing her first BWF World Tour crown in what will be her second Super 300 final.",
+        "first_seen": "2026-08-01T14:59:30.090604+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6604,11 +6630,11 @@
         "kind": "gnews",
         "title": "Taipei Open: Teen Trailblazer Tanvi’s Time",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcVg2dkpGOGhYS0VNcEZXYVJOcVl0b09PSGt4YXNIT09kM29mZk40TzRUNEpDekd1aHdHMkp2ZVF1UFJnaFhHNVphOUxudE1hdU5YbGYtbVE5dW5vbXRKSGVpa2NLWmlHZnJoYmozb0V1WFVwcG9hQ2VkdEJFcVdGNlQ0eUFCOEp1SnV3YmxVbzJ4MnM2Vmt6QWVtRmxvaEpkd2oyZw?oc=5",
-        "published": "2026-08-01T09:53:01+00:00",
-        "published_label": "Sat 01 Aug, 09:53",
+        "published": "2026-08-01T09:55:18+00:00",
+        "published_label": "Sat 01 Aug, 09:55",
         "summary": "Taipei Open: Teen Trailblazer Tanvi’s Time BWF World Tour",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "body": "For all the records she rewrote on Saturday, Tanvi Sharma‘s focus barely drifted beyond the next match. The 17-year-old Indian produced another composed display at YONEX Taipei Open 2026 to defeat fifth-seeded home favourite Huang Yu-Hsun 21-17 21-11 in just 33 minutes to book her place in the women’s singles final.\n\nIt is only the second HSBC BWF World Tour title match of Sharma’s young career, coming slightly over a year after she finished runner-up to Beiwen Zhang at the US Open. While the milestone meant plenty, the teenager made it clear she has unfinished business.",
+        "copy": "For all the records she rewrote on Saturday, Tanvi Sharma‘s focus barely drifted beyond the next match. The 17-year-old Indian produced another composed display at YONEX Taipei Open 2026 to defeat fifth-seeded home favourite Huang Yu-Hsun 21-17 21-11 in just 33 minutes to book her place in the women’s singles final.\n\nIt is only the second HSBC BWF World Tour title match of Sharma’s young career, coming slightly over a year after she finished runner-up to Beiwen Zhang at the US Open. While the milestone meant plenty, the teenager made it clear she has unfinished business.",
         "first_seen": "2026-08-01T11:16:09.268477+00:00"
       },
       {
@@ -6672,8 +6698,8 @@
         "published": "2026-08-01T01:32:06+00:00",
         "published_label": "Sat 01 Aug, 01:32",
         "summary": "Where To Watch: YONEX Taipei Open 2026 BWF World Tour",
-        "body": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
-        "copy": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-08-01T08:16:52.543359+00:00"
       },
       {
@@ -7299,19 +7325,6 @@
         "body": "SecondsToma Junior Popov produced the finest result of his career at Super 1000 level on Saturday, recovering from a slow start to defeat Canada’s Victor Lai 14-21, 21-12, 21-15 and become the first Frenchman to reach a men’s singles final at this level.\n\nIt was a performance built less on spectacle than adjustment. Lai controlled the opening game with his speed and directness, but Popov gradually changed the shape of the contest, extending the rallies, finding greater depth and forcing the Canadian to work harder for his attacking opportunities. By the deciding game, the Frenchman looked the more settled of the two and closed out a historic victory after another demanding three-game match.",
         "copy": "SecondsToma Junior Popov produced the finest result of his career at Super 1000 level on Saturday, recovering from a slow start to defeat Canada’s Victor Lai 14-21, 21-12, 21-15 and become the first Frenchman to reach a men’s singles final at this level.\n\nIt was a performance built less on spectacle than adjustment. Lai controlled the opening game with his speed and directness, but Popov gradually changed the shape of the contest, extending the rallies, finding greater depth and forcing the Canadian to work harder for his attacking opportunities. By the deciding game, the Frenchman looked the more settled of the two and closed out a historic victory after another demanding three-game match.",
         "first_seen": "2026-07-26T11:18:47.300328+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Five dark horses to watch at BWF World Championships India 2026",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbXBnNGZCanptNUhpZ080eVN3a3pyeEJvRDRkWlRwaC1ydHBudjgwZTdkNDk4TkR1OU9rYzFZcjJjZ2RxYU4wVVg0YVF6M1kzczBjYmp6SnFUZDVEakttaWtyRXRJRFlBZGRqZV9oRkhzOUpJNjBFSjN6VElUb0g2dVctTlVMTW1vZ25TWlFieTdqN2JpNS1QejNaMm9GaGNYeHRXZ0tzYUd0WkUyQUI1Qkttei0xLVZVdFJhcnVSYUF2YlBRdEdVQzd4VW5jN1J0RlIxc1ZGWEVPQdIB3wFBVV95cUxOV2F5am9HYjFteEstZFNESGY4b1o2d243Z0dCQk1aZ21NMDU3TW1BamN1RUxiTURNVkNDbXpVelZTM0h5QjBfUmt5VDNaUk55cDNtdnhWc3FnRW1ST0ZWODdoWWJRc21Qd0c5QU81Z1hUTkRpd21tLWpON0hHRXFiWk5KVm1jUTgwaDhxNk5hSlcwSEtKeDJvR1FXdWo5azF5SjZyT3FJRmxnZmJ0QjRrUkNpM2tjWUlrdFhYS3dvMWJqZXdnVTVNeUIwdUNwX3RRT1FGLTA5WnIySExiYjE4?oc=5",
-        "published": "2026-07-25T14:10:00+00:00",
-        "published_label": "Sat 25 Jul, 14:10",
-        "summary": "Five dark horses to watch at BWF World Championships India 2026 The Times of India",
-        "body": "NEW DELHI: Every BWF World Championships throws up a few surprise packages, and the 2026 edition in New Delhi (August 17-23) could be no different. While the spotlight will be on the established stars, these five young shuttlers have the form and pedigree to challenge for a podium finish.\n\nAyush Shetty (India) – Men's SinglesThe 20-year-old has enjoyed a breakthrough campaign, winning the 2025 US Open Super 300 before finishing runner-up at the 2026 Badminton Asia Championships, where he stunned three top-10 players, including Olympic silver medallist Kunlavut Vitidsarn. Making his World Championships debut, Ayush remains an outsider but has already shown he can trouble the world's best. Backed by home support, the Karnataka youngster could emerge as India's dark horse.",
-        "copy": "NEW DELHI: Every BWF World Championships throws up a few surprise packages, and the 2026 edition in New Delhi (August 17-23) could be no different. While the spotlight will be on the established stars, these five young shuttlers have the form and pedigree to challenge for a podium finish.\n\nAyush Shetty (India) – Men's SinglesThe 20-year-old has enjoyed a breakthrough campaign, winning the 2025 US Open Super 300 before finishing runner-up at the 2026 Badminton Asia Championships, where he stunned three top-10 players, including Olympic silver medallist Kunlavut Vitidsarn. Making his World Championships debut, Ayush remains an outsider but has already shown he can trouble the world's best. Backed by home support, the Karnataka youngster could emerge as India's dark horse.",
-        "first_seen": "2026-07-25T15:01:45.458211+00:00"
       }
     ],
     "Competitor News": [
@@ -7408,5 +7421,5 @@
       }
     ]
   },
-  "total": 568
+  "total": 569
 }
