@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T11:16:09.268477+00:00",
-  "generated_label": "Saturday 01 August 2026, 11:16 UTC",
+  "generated_at": "2026-08-01T13:13:49.653091+00:00",
+  "generated_label": "Saturday 01 August 2026, 13:13 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -76,6 +76,32 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-01T08:16:52.543359+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "DAZN to stream Timberwolves games in exclusive local rights deal",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFF5bDQzbTlQWHhKczVZS1RnSUZNSzZhNHljRlNIZVoweEl4bTNiT0ZKMXd2YnJ1T1VIWmFnbV96M09DbUJJN1RyMjJ0U3QxNnI5ZjFnQl9iYklzcFotc2FUWFAzeFcyMVVjaTQyUDBWeUNXYUI1TzlTNmhIdU54dUlwRk9IQWNGTFp1UFdqY1Z1X20tSXUyNnFmTQ?oc=5",
+        "published": "2026-07-31T14:50:44+00:00",
+        "published_label": "Fri 31 Jul, 14:50",
+        "summary": "DAZN to stream Timberwolves games in exclusive local rights deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Aser mulling sale of DAZN stake; DACH carriage deal extended with WBD",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNzBYM0hSdmFMUkhVU3hpU0VhSUZHa3U4Z0JkeTNJY1hIcVJ3bGRBOS1ZemRTUkV3X2k2bDZQSzlRZmN4a1dWX1BSd05lZFViOHhDQ3Q2Z2lSaFl3Wk5ZcC1yMTd1NXEwZVluZXY2YlpLZ3NabmJSUGNaN1JZQjJZMGJ1LVZrcjV5WWZ1RmRISkgwY1B4cVZHREJHVkI0Tzhj?oc=5",
+        "published": "2026-07-31T14:50:44+00:00",
+        "published_label": "Fri 31 Jul, 14:50",
+        "summary": "Aser mulling sale of DAZN stake; DACH carriage deal extended with WBD Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1745,6 +1771,32 @@
     "Rugby": [
       {
         "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Leicester back row Ilione out until 2027",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c78gz075568o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-01T12:02:37+00:00",
+        "published_label": "Sat 01 Aug, 12:02",
+        "summary": "Leicester Tigers back row Emeka Ilione is ruled out with a shoulder problem until \"at least\" the end of 2026.",
+        "body": "Leicester Tigers back row Emeka Ilione has been ruled out until \"at least\" the end of 2026. The 24-year-old has not played since January because of a shoulder injury. Meanwhile, lock Harry Palmer, 20, will not feature until November after undergoing a knee operation.\n\n\"Unfortunately, Emeka's shoulder injury is complex and hasn't recovered as we hoped,\" head coach Geoff Parling told the club website., external \"He will see the specialist again in November, but for now we know that he will be out until at least the New Year.\"",
+        "copy": "Leicester Tigers back row Emeka Ilione has been ruled out until \"at least\" the end of 2026. The 24-year-old has not played since January because of a shoulder injury. Meanwhile, lock Harry Palmer, 20, will not feature until November after undergoing a knee operation.\n\n\"Unfortunately, Emeka's shoulder injury is complex and hasn't recovered as we hoped,\" head coach Geoff Parling told the club website., external \"He will see the specialist again in November, but for now we know that he will be out until at least the New Year.\"",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Quade Cooper throws cat among Wallabies pigeons with World Cup comments",
+        "link": "https://www.rugbypass.com/news/quade-cooper-throws-cat-among-the-wallabies-pigeons-with-world-cup-comments/",
+        "published": "2026-08-01T11:33:30+00:00",
+        "published_label": "Sat 01 Aug, 11:33",
+        "summary": "Quade Cooper has reignited debate around Australia's fly-half stocks after declaring he is interested in playing at the 2027 Rugby World Cup, insisting he never retired despite taking up a coaching role in Japan.",
+        "body": "Quade Cooper has reignited debate around Australia’s fly-half stocks after declaring he is interested in playing at the 2027 Rugby World Cup, insisting he never retired despite taking up a coaching role in Japan.\n\nThe veteran Wallabies playmaker, now 38, was widely assumed to have called time on his playing career when he joined Japanese club Kintetsu Liners in a coaching capacity for the 2025-26 season.",
+        "copy": "Quade Cooper has reignited debate around Australia’s fly-half stocks after declaring he is interested in playing at the 2027 Rugby World Cup, insisting he never retired despite taking up a coaching role in Japan.\n\nThe veteran Wallabies playmaker, now 38, was widely assumed to have called time on his playing career when he joined Japanese club Kintetsu Liners in a coaching capacity for the 2025-26 season.",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
+      },
+      {
+        "section": "Rugby",
         "source": "Rugby Pass",
         "kind": "direct",
         "title": "Blues hold nerve as Tahs fall achingly short of trans-Tasman glory",
@@ -2220,8 +2272,8 @@
         "published": "2026-07-31T01:01:07+00:00",
         "published_label": "Fri 31 Jul, 01:01",
         "summary": "Joey urges clubs to target rugby sevens SMH.com.au",
-        "body": "",
-        "copy": "",
+        "body": "Teagan Levi's brilliant start to her NRLW career has led to Andrew Johns calling for more players to move codes. Beginning of dialog window. Escape will cancel and close the window.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
+        "copy": "Teagan Levi's brilliant start to her NRLW career has led to Andrew Johns calling for more players to move codes. Beginning of dialog window. Escape will cancel and close the window.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
         "first_seen": "2026-07-31T08:46:37.332326+00:00"
       },
       {
@@ -3640,22 +3692,35 @@
         "body": "James O’Connor is understood to be set to return to Western Force to finish his career where it began, when he became the youngest-ever Super Rugby debutant at 17 in 2008. The veteran Wallaby, who spent last season with Leicester Tigers, had been linked with one of his former club’s Queensland Reds, the NSW Waratahs and United Rugby Championship outfit the Sharks, since it was announced that he was leaving Welford Road.\n\nHe picked up the Western Force ‘Rookie of the Year’ award in 2009, winning the first of his Wallabies caps while at the club, where he spent three seasons before moving to the Melbourne Rebels, but his career is set to come full circle.",
         "copy": "James O’Connor is understood to be set to return to Western Force to finish his career where it began, when he became the youngest-ever Super Rugby debutant at 17 in 2008. The veteran Wallaby, who spent last season with Leicester Tigers, had been linked with one of his former club’s Queensland Reds, the NSW Waratahs and United Rugby Championship outfit the Sharks, since it was announced that he was leaving Welford Road.\n\nHe picked up the Western Force ‘Rookie of the Year’ award in 2009, winning the first of his Wallabies caps while at the club, where he spent three seasons before moving to the Melbourne Rebels, but his career is set to come full circle.",
         "first_seen": "2026-07-25T15:01:45.458211+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Peebles Rugby Sevens Festival partners with community groups",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUt1ZVZNTHRmcFNwdmlKNERIUFZhelo2ZmlvazYwWng1MDNqZ19nbDU2bF9SMkpMSzlJdEg1QmNxWEc5QUlraUJMeDUteFFYUEIwMUdvWlZwX0lRLW9tWi1Ka000N0xzdUNBYnA0cExOdFV6Y3M4cHB4VWhhdFVNM2l3dXFabnlUUEc1MHUyVDN2ODRsWW94a1VHZmszWEd0RmZRUw?oc=5",
-        "published": "2026-07-25T12:03:52+00:00",
-        "published_label": "Sat 25 Jul, 12:03",
-        "summary": "Peebles Rugby Sevens Festival partners with community groups Peeblesshire News",
-        "body": "PEEBLES Rugby Sevens Festival returns from Friday (July 31) to Sunday, August 2, bringing a fantastic weekend of rugby, entertainment and community spirit to the Gytes. This year, Peebles Rugby Football Club is delighted to support three local groups who will be taking part in the festival while raising funds for their own exciting initiatives.\n\nNewlands Centre, a fantastic local community hub offering services, activities and events, will be hosting a bouncy castle for younger festival-goers. The Peebles High School Tanzania Expedition 2027 group will also be fundraising as 32 students prepare to visit Moshi, Tanzania, where they will work alongside local communities by helping to build houses, supporting schools and planting trees to help combat climate change.",
-        "copy": "PEEBLES Rugby Sevens Festival returns from Friday (July 31) to Sunday, August 2, bringing a fantastic weekend of rugby, entertainment and community spirit to the Gytes. This year, Peebles Rugby Football Club is delighted to support three local groups who will be taking part in the festival while raising funds for their own exciting initiatives.\n\nNewlands Centre, a fantastic local community hub offering services, activities and events, will be hosting a bouncy castle for younger festival-goers. The Peebles High School Tanzania Expedition 2027 group will also be fundraising as 32 students prepare to visit Moshi, Tanzania, where they will work alongside local communities by helping to build houses, supporting schools and planting trees to help combat climate change.",
-        "first_seen": "2026-07-25T13:19:32.766254+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "The reason why Jack Draper withdrew from the Washington Open is now clear after Cincinnati release their wildcards",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0RVYzl5WGpHdGhEMzV6b0ItQlhLd0hNVzJXXzd5Y0M4eS1kT3ZwanF0Sjg1U09taHJZNVpDNnRUamlXMnpTS1Q4eWhoQWhmMWlQS1ZKbXhtSXplc3M2QzgzT2VuZGFxUlM3WTBvaHE3bVdNcFh3enhUM0tBQVhhMlBDRWdqM0Ztc2VvZXJoVXdkR0JGaVFZWHFETXZGVXFBTTJQcy1JdWpkSTNKaWtGQkg4RDZSVy1RT3BsY2VzbGdncG1uQXVGVndIRENlZ0QxNGFJRA?oc=5",
+        "published": "2026-08-01T12:00:00+00:00",
+        "published_label": "Sat 01 Aug, 12:00",
+        "summary": "The reason why Jack Draper withdrew from the Washington Open is now clear after Cincinnati release their wildcards Tennishead",
+        "body": "Jack Draper’s decision to miss Wimbledon marked a hammer blow for British tennis, which was to be without its top prospect at the home event. Just a year ago, many were tipping the Englishman as the next in line to truly challenge Carlos Alcaraz and Jannik Sinner. Sadly, since then, he has had the opportunity to even try brutally ripped from him.\n\nVarious physical ailments have completely halted his promising career, and these issues have bled into 2026 as well, allowing him to feature in just a handful of tournaments. So, when it was confirmed that Jack Draper would be making his return to tennis in Washington, hopes were high, particularly given how positively he was speaking about his recovery.",
+        "copy": "Jack Draper’s decision to miss Wimbledon marked a hammer blow for British tennis, which was to be without its top prospect at the home event. Just a year ago, many were tipping the Englishman as the next in line to truly challenge Carlos Alcaraz and Jannik Sinner. Sadly, since then, he has had the opportunity to even try brutally ripped from him.\n\nVarious physical ailments have completely halted his promising career, and these issues have bled into 2026 as well, allowing him to feature in just a handful of tournaments. So, when it was confirmed that Jack Draper would be making his return to tennis in Washington, hopes were high, particularly given how positively he was speaking about his recovery.",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Cameron Norrie defeated by Denis Shapovalov at Los Cabos Open as losing streak continues",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORV9rUWZncmFObm5PbkNYUmNQVTBUTm9CQVJZTFlWdmZpdkI3cFlWWV8yTlBzdTRPYUt2d2lGN19oTlUwdS16dnhoZXdKSWo1Ulh4VngwSU9VVHRYVktSck5LQUw1dUtEcDlrRERlOUY2eFUzRUtVTk9rbWFONklMLWRnVk5NN1huWFpucEJRVE9sbWxFZ2pBX2xKMWhNY2d3SEM4dDU1ZE1IMHBGUWVON0NEbFBzZEVQNElfdTRDZHpMVnZqNGhJRy11ZEhYclBmLXEtbFdvNUY?oc=5",
+        "published": "2026-08-01T09:36:51+00:00",
+        "published_label": "Sat 01 Aug, 09:36",
+        "summary": "Cameron Norrie defeated by Denis Shapovalov at Los Cabos Open as losing streak continues Sky Sports",
+        "body": "Cameron Norrie exited the Los Cabos Open in the early hours of Saturday morning as he was beaten by Denis Shapovalov. The British No 2 had lost his last six competitive matches, but was showing promise in Mexico and making the semi-final.\n\nNorrie came back to win the second set but ultimately lost 6-3 5-7 6-4 to reigning champion Shapovalov. The 30-year-old was broken in his first service game of the match to go 2-0 down before going on to lose the first set.",
+        "copy": "Cameron Norrie exited the Los Cabos Open in the early hours of Saturday morning as he was beaten by Denis Shapovalov. The British No 2 had lost his last six competitive matches, but was showing promise in Mexico and making the semi-final.\n\nNorrie came back to win the second set but ultimately lost 6-3 5-7 6-4 to reigning champion Shapovalov. The 30-year-old was broken in his first service game of the match to go 2-0 down before going on to lose the first set.",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -4464,6 +4529,32 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "3 habits good putters have that can help you avoid three-putts",
+        "link": "https://golf.com/instruction/putting/habits-good-putters-have-that-can-help-eliminate-3-putts/",
+        "published": "2026-08-01T12:19:22+00:00",
+        "published_label": "Sat 01 Aug, 12:19",
+        "summary": "Learn the three habits good putters use to avoid three-putts, improve distance control and become more consistent on the greens. The post 3 habits good putters have that can help you avoid three-putts appeared first on Golf .",
+        "body": "Few things are more frustrating than walking off the green with a three-putt. But you don’t need to rebuild your stroke or spend hundreds on the latest training aid to avoid these scorecard killers. More often than not, becoming a better putter comes down to building better habits.\n\nThat’s exactly what GOLF Top 100 Teacher David Armitage says more amateurs need to focus on if they want to cut these score-killers out of their rounds. According to Armitage, the best putters all share three simple habits that improve distance control, produce a more reliable stroke and reduce their chances of three-putting.",
+        "copy": "Few things are more frustrating than walking off the green with a three-putt. But you don’t need to rebuild your stroke or spend hundreds on the latest training aid to avoid these scorecard killers. More often than not, becoming a better putter comes down to building better habits.\n\nThat’s exactly what GOLF Top 100 Teacher David Armitage says more amateurs need to focus on if they want to cut these score-killers out of their rounds. According to Armitage, the best putters all share three simple habits that improve distance control, produce a more reliable stroke and reduce their chances of three-putting.",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How many wedges should you carry? Ask yourself these questions",
+        "link": "https://golf.com/gear/wedges/how-many-wedges-carry-ask-yourself-these-questions/",
+        "published": "2026-08-01T12:06:19+00:00",
+        "published_label": "Sat 01 Aug, 12:06",
+        "summary": "How should you decide what number of wedges to carry? True Spec's Matt Morin shares the questions you should ask yourself to find out. The post How many wedges should you carry? Ask yourself these questions appeared first on Golf .",
+        "body": "According to the Rules of Golf, the maximum number of clubs you can carry in a given round is 14. But the set makeup is totally up to you. Maybe you’re a long bomber and choose to carry a number of wedge lofts at the bottom of your bag. Or maybe you’re a shorter hitter, and prefer to load up on the top end with hybrids and fairway woods instead.\n\nA “standard” set of 14 clubs generally consists of a driver, two fairway woods, one or two hybrids, five or six irons, three wedges (Gap, PW, SW) and a putter. But of course, there are endless variations which are entirely dependent on a player’s preferences. Still, many players are curious about how many wedges they should have in their bag — especially when it comes to carrying a scoring club like a lob wedge. What’s a perplexed player to do? I asked True Spec VP of Sales Matt Morin for his take.",
+        "copy": "According to the Rules of Golf, the maximum number of clubs you can carry in a given round is 14. But the set makeup is totally up to you. Maybe you’re a long bomber and choose to carry a number of wedge lofts at the bottom of your bag. Or maybe you’re a shorter hitter, and prefer to load up on the top end with hybrids and fairway woods instead.\n\nA “standard” set of 14 clubs generally consists of a driver, two fairway woods, one or two hybrids, five or six irons, three wedges (Gap, PW, SW) and a putter. But of course, there are endless variations which are entirely dependent on a player’s preferences. Still, many players are curious about how many wedges they should have in their bag — especially when it comes to carrying a scoring club like a lob wedge. What’s a perplexed player to do? I asked True Spec VP of Sales Matt Morin for his take.",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6491,74 +6582,22 @@
         "body": "Donald Trump has finally given his verdict on the controversial two-shot penalty that overshadowed Bryson DeChambeau’s Open Championship at Royal Birkdale, admitting he believed the ruling against the American was a “tough call”.\n\nDeChambeau, 32, found himself at the centre of one of The Open's biggest controversies last Friday after officials penalised him two strokes after his second round. The LIV Golf star was deemed to have inadvertently improved the area of his intended swing while preparing to hit his ball from the deep rough on the par-4 5th.",
         "copy": "Donald Trump has finally given his verdict on the controversial two-shot penalty that overshadowed Bryson DeChambeau’s Open Championship at Royal Birkdale, admitting he believed the ruling against the American was a “tough call”.\n\nDeChambeau, 32, found himself at the centre of one of The Open's biggest controversies last Friday after officials penalised him two strokes after his second round. The LIV Golf star was deemed to have inadvertently improved the area of his intended swing while preparing to hit his ball from the deep rough on the par-4 5th.",
         "first_seen": "2026-07-25T15:01:45.458211+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Tyrrell Hatton’s response when asked how the crowds at LIV Golf UK have impacted his golf",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2wtSEI3ZFJpdUNpN1V3TVoyZXdTNnoxa0xpUzlqRmdBSHF5OW9CNEVOQzFOX1ItSzRSYlkzbnVjdVFxSWtsdkNHeVVJMWNRb1ZGclctYXFFU0ZQbngwcno5NU51S25Hd1A0WFBQNWRKNGMwTU1MVFFhVTZWMnBIQU9XY0tRTHJMNGFvbjFWTUpCYktCZ3ZhVV9FS29tcGstOHBPUnVENGJsbUw5eDE0?oc=5",
-        "published": "2026-07-25T13:09:17+00:00",
-        "published_label": "Sat 25 Jul, 13:09",
-        "summary": "Tyrrell Hatton’s response when asked how the crowds at LIV Golf UK have impacted his golf hitc.com",
-        "body": "Tyrrell Hatton followed up his opening-round 66 with a second-round 68 at LIV Golf UK on Friday. Hatton has played some very solid golf this week in his homeland, but he’s still a long way behind the leaders.\n\nLucas Herbert leads the way at 17-under after two rounds, while Bryson DeChambeau sits at 13-under par at the halfway point. However, Tyrrell Hatton is certainly capable of getting hot, and it would be no surprise if he forces his way back into contention on Saturday at LIV Golf UK.",
-        "copy": "Tyrrell Hatton followed up his opening-round 66 with a second-round 68 at LIV Golf UK on Friday. Hatton has played some very solid golf this week in his homeland, but he’s still a long way behind the leaders.\n\nLucas Herbert leads the way at 17-under after two rounds, while Bryson DeChambeau sits at 13-under par at the halfway point. However, Tyrrell Hatton is certainly capable of getting hot, and it would be no surprise if he forces his way back into contention on Saturday at LIV Golf UK.",
-        "first_seen": "2026-07-25T13:19:32.766254+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "5 drills to improve your short-game distance control",
-        "link": "https://golf.com/instruction/short-game/5-drills-improve-short-game-distance-control/",
-        "published": "2026-07-25T13:03:45+00:00",
-        "published_label": "Sat 25 Jul, 13:03",
-        "summary": "GOLF Top 100 Teacher Kellie Stenzel shares five drills you can use for improved distance control around the greens. The post 5 drills to improve your short-game distance control appeared first on Golf .",
-        "body": "Most golfers believe it takes years to master distance control around the greens. The truth is, with a little focused practice you can improve quickly and start lowering your scores.\n\nA few simple drills and a small investment of practice time can help you hit your short game shots closer to the target, convert more up-and-downs and gain confidence around the greens. Real improvement is possible in a surprisingly short amount of time.",
-        "copy": "Most golfers believe it takes years to master distance control around the greens. The truth is, with a little focused practice you can improve quickly and start lowering your scores.\n\nA few simple drills and a small investment of practice time can help you hit your short game shots closer to the target, convert more up-and-downs and gain confidence around the greens. Real improvement is possible in a surprisingly short amount of time.",
-        "first_seen": "2026-07-25T13:19:32.766254+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Star amateur goes 14 under to make Saturday's U.S. Junior Amateur final",
-        "link": "https://golf.com/news/star-amateur-14-under-saturday-us-junior-amateur-final/",
-        "published": "2026-07-25T12:09:26+00:00",
-        "published_label": "Sat 25 Jul, 12:09",
-        "summary": "Star amateur Miles Russell put on a show on Friday at the 2026 U.S. Junior Amateur, going 14 under over 30 holes to make Saturday's finale. The post Star amateur goes 14 under to make Saturday’s U.S. Junior Amateur final appeared first on Golf .",
-        "body": "This week’s 2026 U.S. Junior Amateur at Saucon Valley Country Club has provided plenty of headlines. On Monday, a promising high school player was disqualified for multiple breaches of a recently adopted rule.\n\nOn Wednesday, Charlie Woods nearly qualified for the match-play portion of the event his famous father won three times, only to be thwarted in a playoff by a fan with a camera phone.",
-        "copy": "This week’s 2026 U.S. Junior Amateur at Saucon Valley Country Club has provided plenty of headlines. On Monday, a promising high school player was disqualified for multiple breaches of a recently adopted rule.\n\nOn Wednesday, Charlie Woods nearly qualified for the match-play portion of the event his famous father won three times, only to be thwarted in a playoff by a fan with a camera phone.",
-        "first_seen": "2026-07-25T13:19:32.766254+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'How many cart paths?': Bryson DeChambeau burns LIV teammate over shocking stat",
-        "link": "https://golf.com/news/bryson-dechambeau-burns-liv-teammate-driving-distance/",
-        "published": "2026-07-25T11:41:01+00:00",
-        "published_label": "Sat 25 Jul, 11:41",
-        "summary": "Bryson DeChambeau took a dig at one of his LIV teammates over a bizarre stat as he and his team contend for the win at the 2026 LIV U.K. event. The post ‘How many cart paths?’: Bryson DeChambeau burns LIV teammate over shocking stat appeared first on Golf .",
-        "body": "LIV Golf is playing its first event in a month and a half this week in England. Naturally, the league’s biggest star, Bryson DeChambeau, is in the field following a disappointing swoon last weekend at the Open Championship.\n\nThrough two rounds, DeChambeau is in solo second place behind another contender from Royal Birkdale. Bryson’s LIV team, Crushers GC, is also in second place with two rounds to go.",
-        "copy": "LIV Golf is playing its first event in a month and a half this week in England. Naturally, the league’s biggest star, Bryson DeChambeau, is in the field following a disappointing swoon last weekend at the Open Championship.\n\nThrough two rounds, DeChambeau is in solo second place behind another contender from Royal Birkdale. Bryson’s LIV team, Crushers GC, is also in second place with two rounds to go.",
-        "first_seen": "2026-07-25T13:19:32.766254+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf United Kingdom Round 3 LIVE - Herbert leads DeChambeau by four",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaUpXcjVkeVQyV0ZMU2YzUGVUVnoyQnlieWdMYnFhNmVveE5taktkNEp5ZGY0cDc3dUE2UWo0a3RkNUYxTkd4MjhsOGZLdVZqVVBvQTgxYV85ZVBuTThRajVfQ2kyOTl3eUllUkd5RHZWWmlpcUt4VG50bFRaaWVpTDBKRmJ2cHBmSU96dXNpZ19BM0hKLTNXQjk1RTNzbHZ5RjQzTExlQ3ZWcUFVMDJqS1JDMmlWNVVmbVYxRFYzWFRobXBPanQ0MTU4VHlscnRiOGtBeUZYSmRCMzJWVGNPVldiRl9tS2NT?oc=5",
-        "published": "2026-07-25T11:27:00+00:00",
-        "published_label": "Sat 25 Jul, 11:27",
-        "summary": "LIV Golf United Kingdom Round 3 LIVE - Herbert leads DeChambeau by four TNT Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-25T13:19:32.766254+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Tanvi Sharma vs Nguyen Thuy Linh head-to-head: Taipei Open 2026 final record, previous meeting, stats",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZjBlSmpuaHVzeHd3aGl1TllJa19aVDlxOFJJT01EZGlPVHUyZXNkY0t5bEpTU3E1TXBWMWttbFYyb0N4dmNmamxaT2RjeEdlUm5pXzNIVENOd1ZsTEh0VmpKTnBnd1VpLXZES2dvNC1meVp2Ujg4M1MtbDcycnFqeEhLUFAtLUpKSWpqY0xoNjh1NGdhS1R0YzlfR0FkRTVDc2g0SnRBS3pNcDB4eXlJS3k2dV82ZVNqYkVPdmlpdEhQM0Z2aV8xZdIBzwFBVV95cUxOdVlzMjNkb183dDl0WmdkNVUxOVR3SlJaSFpoak15NmlhNmE2OW5HWnRCWnlDMjMwMWMtTG45QTNvb1lwZXloN1J3MzdpMzBpeHU4aDRUV0g5Nm9iS3o5bUM1MGE4aHJmTW5JU3FfM293LVh3T1V6Zl9CaGN4Ml9Oel9PR3RsVTdHd05TQmZ2amFHak1uN3pOdGNIZXpKWGc4cEwtSTN0STliNDBtUVJKWGNCMWNlM01ONl9VQUsxM0ppU3phRzRRUVVBeGdxSUU?oc=5",
+        "published": "2026-08-01T11:38:55+00:00",
+        "published_label": "Sat 01 Aug, 11:38",
+        "summary": "Tanvi Sharma vs Nguyen Thuy Linh head-to-head: Taipei Open 2026 final record, previous meeting, stats sportstar.thehindu.com",
+        "body": "World No. 34 Tanvi Sharma will look to cap a dream week with the biggest title of her young career when she takes on Vietnam’s Nguyen Thuy Linh in the women’s singles final of the Taipei Open 2026 BWF Super 300 tournament on Sunday.\n\nThe 17-year-old Indian reached her second BWF World Tour final after a dominant 21-17, 21-11 victory over fifth seed Huang Yu-Hsun in just 33 minutes. Nguyen, meanwhile, denied India an all-Indian final by beating third seed Unnati Hooda 21-15, 21-18.",
+        "copy": "World No. 34 Tanvi Sharma will look to cap a dream week with the biggest title of her young career when she takes on Vietnam’s Nguyen Thuy Linh in the women’s singles final of the Taipei Open 2026 BWF Super 300 tournament on Sunday.\n\nThe 17-year-old Indian reached her second BWF World Tour final after a dominant 21-17, 21-11 victory over fifth seed Huang Yu-Hsun in just 33 minutes. Nguyen, meanwhile, denied India an all-Indian final by beating third seed Unnati Hooda 21-15, 21-18.",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6571,6 +6610,19 @@
         "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-08-01T11:16:09.268477+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Tanvi Sharma enters Taipei Open final, Indian shuttler marks second BWF World Tour Super 300 final appearance",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV2hOa2pheXUwMHN1MzJRSnAxVjdkSzBBRzlfS3hOZ0J3cGRBMlZrYUMyRkEybm1PYVdaOTNTSXNnOEgyY25sdkRwdDFfQ3M1b2J1NG1wdDNteWVOMnNHdXJHSVo4Q2t1ZkJnWHNYcU5URS1oSV9vWFFkcXh1NTVnazlCckJVTlIxakFRR19tVDdZdWItRkN6UUZGdVFiNjltT3AxNFM0SEN3bEZoV21HQTV6QnhaZ3hZeVEyOUlMeDFhOHRIOTlVX2JIMGJ0VmdXaTF2bUVrTVRHQmJxakxZdS1YWEo5a3NvMUMyWkR5djbSAegBQVVfeXFMTklZT1FvNmFYSjI4clBiMGNjbU04eHJPaDFkdXUxcW04cUtwQUFsem51TGF5MHdZWHpGNTN6TEJfUW4zbGU0bWFvLThrdHlDa1l4V3dHdWNBaG1BYkpJcmFsVy1nQWJnV2ZER3ZsOXZjVGVsQ3F4N2FiZVRYblBHSG9mR0g3OFdGU3J0UXFNTFFTZC1Rd2EtbldXMUFaNzdXS1JYTi0xcWVtdnhYVzJsckpIUXNiU1ZBNFEzTE1FNEJ3eWlXZmlVQk1peFR3YmdpQ18wN2VkSXdqSFRIZVFLbXJRcWJoUE53dw?oc=5",
+        "published": "2026-08-01T09:03:19+00:00",
+        "published_label": "Sat 01 Aug, 09:03",
+        "summary": "Tanvi Sharma enters Taipei Open final, Indian shuttler marks second BWF World Tour Super 300 final appearance The Tribune",
+        "body": "Taipei [Taiwan], August 1 (ANI): Tanvi Sharma reached the women's singles final of the Taipei Open Super 300 after beating fifth seed Huang Yu-Hsun of Chinese Taipei 21-17, 21-11 in the semifinals on Saturday.\n\nWith this victory Tanvi, World Junior Championships Silver medallist marks her final appearance for the second time at a BWF World Tour Super 300 event after her runner-up finish at the US Open in 2025.",
+        "copy": "Taipei [Taiwan], August 1 (ANI): Tanvi Sharma reached the women's singles final of the Taipei Open Super 300 after beating fifth seed Huang Yu-Hsun of Chinese Taipei 21-17, 21-11 in the semifinals on Saturday.\n\nWith this victory Tanvi, World Junior Championships Silver medallist marks her final appearance for the second time at a BWF World Tour Super 300 event after her runner-up finish at the US Open in 2025.",
+        "first_seen": "2026-08-01T13:13:49.653091+00:00"
       },
       {
         "section": "Badminton",
@@ -7356,5 +7408,5 @@
       }
     ]
   },
-  "total": 564
+  "total": 568
 }
