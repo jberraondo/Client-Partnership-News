@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T08:16:52.543359+00:00",
-  "generated_label": "Saturday 01 August 2026, 08:16 UTC",
+  "generated_at": "2026-08-01T09:32:48.134275+00:00",
+  "generated_label": "Saturday 01 August 2026, 09:32 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1743,6 +1743,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Fissler Confidential: Tommy Freeman becomes PREM's highest paid wing",
+        "link": "https://www.rugbypass.com/news/fissler-confidential-tommy-freeman-becomes-gallagher-prems-highest-paid-wing/",
+        "published": "2026-08-01T08:45:08+00:00",
+        "published_label": "Sat 01 Aug, 08:45",
+        "summary": "England star Tommy Freeman has signed a new two-year deal with Northampton Saints, which is alleged to make him the best-paid winger in the Gallagher Prem.",
+        "body": "England star Tommy Freeman has signed a new two-year deal with Northampton Saints, which is alleged to make him the best-paid winger in the Gallagher PREM. Freeman, who also plays outside centre, scored in the Prem final win over Exeter and is a target for Great Britain, who are planning a crack at Olympic gold in Los Angeles in 2028, and is in the final year of his current deal.\n\nMeanwhile, Saints have won the race to sign former Harlequins loosehead Jordan Els, who became a free agent when his contract at the Twickenham Stoop ran out at the end of last month.",
+        "copy": "England star Tommy Freeman has signed a new two-year deal with Northampton Saints, which is alleged to make him the best-paid winger in the Gallagher PREM. Freeman, who also plays outside centre, scored in the Prem final win over Exeter and is a target for Great Britain, who are planning a crack at Olympic gold in Los Angeles in 2028, and is in the final year of his current deal.\n\nMeanwhile, Saints have won the race to sign former Harlequins loosehead Jordan Els, who became a free agent when his contract at the Twickenham Stoop ran out at the end of last month.",
+        "first_seen": "2026-08-01T09:32:48.134275+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4422,19 +4435,6 @@
         "body": "Chasing her dream of becoming a world tennis champion, teen athlete Maristella Torrecampo and her father took a gruelling 13-hour bus from her sleepy hillside hometown for her latest match in Manila.\n\nThe 14-year-old's mum and four siblings could not join to watch her play; her crowdfunded budget was only enough for two round-trip bus tickets and a few days' worth of meals.",
         "copy": "Chasing her dream of becoming a world tennis champion, teen athlete Maristella Torrecampo and her father took a gruelling 13-hour bus from her sleepy hillside hometown for her latest match in Manila.\n\nThe 14-year-old's mum and four siblings could not join to watch her play; her crowdfunded budget was only enough for two round-trip bus tickets and a few days' worth of meals.",
         "first_seen": "2026-07-26T08:23:41.050099+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-25T08:39:57+00:00",
-        "published_label": "Sat 25 Jul, 08:39",
-        "summary": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pull out of the Masters 1000 event.",
-        "body": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pulled out of the Masters 1000 event.\n\nSinner, who beat Alexander Zverev to win the Wimbledon title this month, said he had withdrawn from the ATP tournament, which takes place from 2-13 August in Montreal, to prioritise his health.",
-        "copy": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pulled out of the Masters 1000 event.\n\nSinner, who beat Alexander Zverev to win the Wimbledon title this month, said he had withdrawn from the ATP tournament, which takes place from 2-13 August in Montreal, to prioritise his health.",
-        "first_seen": "2026-07-25T09:19:22.864574+00:00"
       }
     ],
     "Golf": [
@@ -6543,35 +6543,35 @@
         "body": "The third round of the 2026 3M Open begins Saturday, July 25, at TPC Twin Cities in Minnesota. Here’s everything you need to know to watch the tournament on Saturday, including full 3M Open TV coverage, streaming details and complete Round 3 tee times.\n\nPopular pro Michael Kim put on a show in Round 2 of the 3M Open, and he made some history in the process. Kim birdied his final four holes to shoot a 12-under 69, marking the 16th sub-60 score in PGA Tour history. The incredible round rocketed Kim into first place. He holds a three-shot lead over Ben Kohles, Emiliano Grillo and Chandler Phillips heading into Round 3.",
         "copy": "The third round of the 2026 3M Open begins Saturday, July 25, at TPC Twin Cities in Minnesota. Here’s everything you need to know to watch the tournament on Saturday, including full 3M Open TV coverage, streaming details and complete Round 3 tee times.\n\nPopular pro Michael Kim put on a show in Round 2 of the 3M Open, and he made some history in the process. Kim birdied his final four holes to shoot a 12-under 69, marking the 16th sub-60 score in PGA Tour history. The incredible round rocketed Kim into first place. He holds a three-shot lead over Ben Kohles, Emiliano Grillo and Chandler Phillips heading into Round 3.",
         "first_seen": "2026-07-25T11:08:48.721458+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau gives an honest reflection on his season after missing three major cuts",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkI5cGhMQnUtY3NqODJnMnZ6LXVndDJobVVmX2ZTYURKcWFtNFlOeUdWdUJZVVRTOGxxeXZHajFPSER3WlBVRDJWM2RMU2RiQzBjZmNvOVVENUFkSEFmMWVlc2NrTW9oNmVmWEJKbVF3NXhCeFROYjFNUnI0bXc2SllKLTFZV1JWZ1ZzMjVBYUctdUx6YmpzUmo5eG9ac0Q3QTRZV1ljRk1DY1hfTk9OUg?oc=5",
-        "published": "2026-07-25T09:00:00+00:00",
-        "published_label": "Sat 25 Jul, 09:00",
-        "summary": "Bryson DeChambeau gives an honest reflection on his season after missing three major cuts hitc.com",
-        "body": "It’s been a disappointing season for someone of the talent of Bryson DeChambeau. The two-time US Open winner entered The Open Championship looking to avoid becoming the first multiple-time major winner under 40 to miss all four major cuts in a single season. He did so, finishing T14, but it only papered over what has been a poor year at the biggest events.\n\nIt’s been slightly better on LIV, where DeChambeau has won twice this season, but Jon Rahm is still threatening to run away with the individual title, winning for the third straight season. DeChambeau may be LIV’s biggest star, but Rahm is clearly LIV’s best player.",
-        "copy": "It’s been a disappointing season for someone of the talent of Bryson DeChambeau. The two-time US Open winner entered The Open Championship looking to avoid becoming the first multiple-time major winner under 40 to miss all four major cuts in a single season. He did so, finishing T14, but it only papered over what has been a poor year at the biggest events.\n\nIt’s been slightly better on LIV, where DeChambeau has won twice this season, but Jon Rahm is still threatening to run away with the individual title, winning for the third straight season. DeChambeau may be LIV’s biggest star, but Rahm is clearly LIV’s best player.",
-        "first_seen": "2026-07-25T09:19:22.864574+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "President Donald Trump dodges Bryson DeChambeau controversy after intervention claims",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUpJaFVNazNvRE90ZkZrUU5RRnd0RGszaHhyMzI4ZTVIWko4TWxtWlNmRjNTeEpfZVBzN2VsdHg5ZW5MSkRVSkctSE1XN3lCVnN6Vy1YM00wSkFiVEs2RXAxczBXM1p4akVZZ1pyQlMwdU82dVR5SGJpR2xuZV91OGZYaHdsLXBfanJ6LUpuRkVpc05OYlFQLXRCbWFNM3VNaU5xMy16NFdEdFBTVFZseXhqeFJzTW9kMXV1OTJmRjBBWEktekNnSTZVSVlueGprX3FJ?oc=5",
-        "published": "2026-07-25T08:23:27+00:00",
-        "published_label": "Sat 25 Jul, 08:23",
-        "summary": "President Donald Trump dodges Bryson DeChambeau controversy after intervention claims Sky Sports",
-        "body": "Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
-        "copy": "Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.\n\nThis is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
-        "first_seen": "2026-07-25T09:19:22.864574+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Tanvi Sharma Advances to Taipei Open Final, Faces Nguyen Thuy Linh",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0RTYlYtcUMwaTF3NkVxcFl5eXQxS1psNU5QTXg2ZTcxTUJIajFVWG9IbW5BVnNDc0pjdGJzQUVPRUwwTGJWYXdURmdMamVFbmp0NXNYaWJLYkprQUZVV1N0VjRRWXUwWUZjVzU4TWRVY0tsQUxWMG42YTNzcXZrU2xtZlNqcmc4QzA5Ums2SXk4TlphOVpZZkIwNkl1bGUtT1l3U3hPbjdlR3lGZVUzYWdnZm5vcFRv?oc=5",
+        "published": "2026-08-01T09:03:16+00:00",
+        "published_label": "Sat 01 Aug, 09:03",
+        "summary": "Tanvi Sharma Advances to Taipei Open Final, Faces Nguyen Thuy Linh The News Mill",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-01T09:32:48.134275+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Taipei Open 2026 badminton: Tanvi Sharma reaches final; Unnati Hooda bows out",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdV9zLUFiMktVSFI1dV9SNjczS3A4a2xINU0tRUFPdjhMR1VaUXVsdm5SOVQxTzY2Ynp0NXRhMUNWZVk0NjY4dG5aaWYwS3VsR0JhOVVCaWVKZGxiMjJrVXd0X2xDZDJocVlHYW1fbWJUWmROMjJkaGU3OEN6cGFfOVFRejRJWDJxUVE5UlY4QVg?oc=5",
+        "published": "2026-08-01T08:12:00+00:00",
+        "published_label": "Sat 01 Aug, 08:12",
+        "summary": "Taipei Open 2026 badminton: Tanvi Sharma reaches final; Unnati Hooda bows out olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-01T09:32:48.134275+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
