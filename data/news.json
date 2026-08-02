@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T16:56:48.378428+00:00",
-  "generated_label": "Sunday 02 August 2026, 16:56 UTC",
+  "generated_at": "2026-08-02T19:05:52.106290+00:00",
+  "generated_label": "Sunday 02 August 2026, 19:05 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "A red card for the boss of world football",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWgybExEU0xjRW92NnBibWlyaGVfRktKbkpFVmxPYTNuZGhrNEVIS09OdWhvWVJmdXhmcUgyNVJweEgzQkF6dnNOWXhiZjBmbVVfZl9kSVpCc0ZBa0RkRUNjb1pHNGhKV0RtbG1lYWp3WDdlYnVGRGwzZ2J6NjE1YmxoVFA?oc=5",
+        "published": "2026-08-02T16:17:32+00:00",
+        "published_label": "Sun 02 Aug, 16:17",
+        "summary": "A red card for the boss of world football Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-02T19:05:52.106290+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1750,19 +1763,6 @@
         "published": "2026-07-27T04:01:48+00:00",
         "published_label": "Mon 27 Jul, 04:01",
         "summary": "TeamSystem’s private equity owners discuss stake sale at €8bn valuation Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-27T09:45:38.669515+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Central bankers take centre stage",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVG9CeTdDOXUtcHhKQlo1Rnk5d2RJSEhqY0RJNU1PVnJzYmFrNUxWeXh1NGtqTkEtZExPbE54bU1zQ0ZxY0QxTUJoMnZoeVVVZ3hweVNOb0oyUmR2cVpoQ0ZDR0N0cHJDWlR2WURVejk3VzR6ckZZYWV1UXc3dUZpUjNfUzY?oc=5",
-        "published": "2026-07-26T17:15:10+00:00",
-        "published_label": "Sun 26 Jul, 17:15",
-        "summary": "Central bankers take centre stage Financial Times",
         "body": "",
         "copy": "",
         "first_seen": "2026-07-27T09:45:38.669515+00:00"
@@ -4435,48 +4435,35 @@
         "body": "Jack Draper details Andy Murray impact as former British No. 1 makes injury comeback at Mubadala DC Open - 'He really believes in me and my tennis' Jack Draper has explained how Andy Murray's influence has given him renewed belief as the former British No. 1 prepares to return from injury at the Mubadala DC Open. Draper's injury struggles have seen his world ranking fall to No. 147 and forced him to miss all three Grand Slam events in 2026.\n\nThe 24-year-old, who was absent at the Australian Open, Roland-Garros and Wimbledon, will now aim to rebuild momentum on the North American hard-court swing with Murray by his side as he faces Alex Michelsen in the first round on Monday.",
         "copy": "Jack Draper details Andy Murray impact as former British No. 1 makes injury comeback at Mubadala DC Open - 'He really believes in me and my tennis' Jack Draper has explained how Andy Murray's influence has given him renewed belief as the former British No. 1 prepares to return from injury at the Mubadala DC Open. Draper's injury struggles have seen his world ranking fall to No. 147 and forced him to miss all three Grand Slam events in 2026.\n\nThe 24-year-old, who was absent at the Australian Open, Roland-Garros and Wimbledon, will now aim to rebuild momentum on the North American hard-court swing with Murray by his side as he faces Alex Michelsen in the first round on Monday.",
         "first_seen": "2026-07-27T09:45:38.669515+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper entrusts himself to Andy Murray to become himself again: \"He believes a lot in me\"",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVGRGbXFTQzZ4V1lIQWhzbDQzOXFsTDhIZmY3U0dfTkpya0x6UDYtd0ZFYjkyR1FodHdoem5qV2JaZndtSnJib254d3ZYcWdNcGQybTJHX1RpN195c0ppRUFuVlJrbkdKcC1iTjFPQW92aDZxWkRjZDBlcTVRVUprYWtmdnhfemFIOHBHZDNRRmxrOGtZLVk1VldWZ2xBZGNVOV9ZQlk3TkQwLTRPRGtPSHhsd0NSanB4czBwdGQzbFdBSWZCR3BLNA?oc=5",
-        "published": "2026-07-26T18:23:01+00:00",
-        "published_label": "Sun 26 Jul, 18:23",
-        "summary": "Jack Draper entrusts himself to Andy Murray to become himself again: \"He believes a lot in me\" Punto de Break",
-        "body": "Jack Draper faces alongside Andy Murray a decisive stage to relaunch his career after injuries have slowed down his progress. The British player will make his return at the ATP 500 in Washington thanks to a wildcard, currently ranked 147th in the world, and acknowledges that working with one of his big idols is giving him confidence and new perspectives.\n\nThere are few players whose current ranking reflects their true potential worse than Jack Draper. The Brit has shown that, when his body allows him to compete consistently, he has the weapons to establish himself among the elite. However, recurrent physical issues have turned that consistency into his major challenge and have pushed him far from the positions that would correspond to his tennis level.",
-        "copy": "Jack Draper faces alongside Andy Murray a decisive stage to relaunch his career after injuries have slowed down his progress. The British player will make his return at the ATP 500 in Washington thanks to a wildcard, currently ranked 147th in the world, and acknowledges that working with one of his big idols is giving him confidence and new perspectives.\n\nThere are few players whose current ranking reflects their true potential worse than Jack Draper. The Brit has shown that, when his body allows him to compete consistently, he has the weapons to establish himself among the elite. However, recurrent physical issues have turned that consistency into his major challenge and have pushed him far from the positions that would correspond to his tennis level.",
-        "first_seen": "2026-07-26T19:07:02.687273+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper shares what he has been telling his team about his current level ahead of the Washington Open",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRXB3YWpTNkdKNDItM2ZTV1BFTklkQVJRNl9kNGZhb1Zpcy1BWm5tSTVoT0FjUDNtcHpQUzNFd0xTaTRteW1XUlR0aGRCN0ZUTy1DdzAzUTNVU0tydXlRb21RS19IQ1JiNFdHTVNBcTByRk9DbW9lQWkycnZOSDdXUnpyQ2NGckppbUktc1FEVHdNRElzVkliVUMyTHA1a3BfaTZyVUV6WUI5cnlrXzF5NVlqLXJvS3VIVUFIYlVRczJFODJMdWJLWQ?oc=5",
-        "published": "2026-07-26T18:00:00+00:00",
-        "published_label": "Sun 26 Jul, 18:00",
-        "summary": "Jack Draper shares what he has been telling his team about his current level ahead of the Washington Open Tennishead",
-        "body": "Jack Draper’s injury record is a lengthy one, which makes for worrying reading given his relative youth. With a huge frame and an unlikely play style that demands an unflinching work ethic, the former top-ranked British player is naturally at greater risk of suffering physical setbacks.\n\nHowever, even he could not have predicted the nightmare he has endured over the last year or so, even if some of the best moments of his career thus far have been littered throughout such struggles.",
-        "copy": "Jack Draper’s injury record is a lengthy one, which makes for worrying reading given his relative youth. With a huge frame and an unlikely play style that demands an unflinching work ethic, the former top-ranked British player is naturally at greater risk of suffering physical setbacks.\n\nHowever, even he could not have predicted the nightmare he has endured over the last year or so, even if some of the best moments of his career thus far have been littered throughout such struggles.",
-        "first_seen": "2026-07-26T19:07:02.687273+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper Looks Ahead To Latest Comeback In Washington",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjFncXg0YVlhejlzRzNhVVVvbEZpbGxoS2dRM2Uzdm5vS2dHVThMY3BQbFNBYV80RF85TW5mQm5qaHR6VmdqckxuMW9FTlVXaUJVRmx4MU9uWDNMWm9iTGlQVm9HNjdBRmR6RTlkLXhaOXYzY2h5VGREVmtUeXZydTNIdjRVMmJaT1NjT3Z0NnJzMUNkamc?oc=5",
-        "published": "2026-07-26T17:32:08+00:00",
-        "published_label": "Sun 26 Jul, 17:32",
-        "summary": "Jack Draper Looks Ahead To Latest Comeback In Washington ubitennis.net",
-        "body": "Jack Draper says he is feeling physically better than at any other stage during the past 12 months ahead of his return to action at an ATP 500 event in Washington. The former world No.4 has been troubled by injury setbacks in recent times, which have resulted in him only being able to play five tournaments so far this year. Draper suffered bone bruising in his serving arm last summer and ended up missing a chunk of the Tour between 2025 and 2026. Then during this year’s European clay swing, he picked up a knee injury that sidelined him for a few more weeks.\n\nDraper, who has won one Masters 1000 title so far in his career, looked to be getting back in shape towards the end of June after reaching the semi-finals in Eastbourne. He then travelled to Wimbledon to conduct his usual pre-tournament media commitments before withdrawing from his home Grand Slam due to a flare-up of his arm issue.",
-        "copy": "Jack Draper says he is feeling physically better than at any other stage during the past 12 months ahead of his return to action at an ATP 500 event in Washington. The former world No.4 has been troubled by injury setbacks in recent times, which have resulted in him only being able to play five tournaments so far this year. Draper suffered bone bruising in his serving arm last summer and ended up missing a chunk of the Tour between 2025 and 2026. Then during this year’s European clay swing, he picked up a knee injury that sidelined him for a few more weeks.\n\nDraper, who has won one Masters 1000 title so far in his career, looked to be getting back in shape towards the end of June after reaching the semi-finals in Eastbourne. He then travelled to Wimbledon to conduct his usual pre-tournament media commitments before withdrawing from his home Grand Slam due to a flare-up of his arm issue.",
-        "first_seen": "2026-07-26T19:07:02.687273+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Yealimi Noh suffered Women's Open heartbreak — but found what she'd been missing",
+        "link": "https://golf.com/news/yealimi-noh-womens-open-heartbreak-found-what-missing/",
+        "published": "2026-08-02T18:57:16+00:00",
+        "published_label": "Sun 02 Aug, 18:57",
+        "summary": "Yealimi Noh watched her AIG Women's Open dreams slip away on Sunday, but she left Royal Lytham with something she'd been missing. The post Yealimi Noh suffered Women’s Open heartbreak — but found what she’d been missing appeared first on Golf .",
+        "body": "Yealimi Noh had envisioned herself winning the AIG Women’s Open. As all talented pros do, Yealimi Noh had drawn herself in the stars before she even started to climb the pro golf ladder.\n\nBut she arrived at this year’s AIG Women’s Open “unsure” about her game. After a brutal season that saw her go six events without breaking par in a single round, the 25-year-old Noh found herself no longer enjoying golf as she once did. Golf had always been a “job,” but it was different when the game no longer loved you back. When your hard work isn’t being rewarded and when the course only brings you stress and hurt. After missing back-to-back cuts at the KPMG Women’s PGA Championship and Amundi Evian Championship, Yealimi Noh found herself lost, adrift as she looked to rediscover her world-class game and the motivation to hone it.",
+        "copy": "Yealimi Noh had envisioned herself winning the AIG Women’s Open. As all talented pros do, Yealimi Noh had drawn herself in the stars before she even started to climb the pro golf ladder.\n\nBut she arrived at this year’s AIG Women’s Open “unsure” about her game. After a brutal season that saw her go six events without breaking par in a single round, the 25-year-old Noh found herself no longer enjoying golf as she once did. Golf had always been a “job,” but it was different when the game no longer loved you back. When your hard work isn’t being rewarded and when the course only brings you stress and hurt. After missing back-to-back cuts at the KPMG Women’s PGA Championship and Amundi Evian Championship, Yealimi Noh found herself lost, adrift as she looked to rediscover her world-class game and the motivation to hone it.",
+        "first_seen": "2026-08-02T19:05:52.106290+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "SWAG's new 'Essentials' collection has something for everyone",
+        "link": "https://golf.com/gear/golf-accessories/swag-golf-essentials-collection/",
+        "published": "2026-08-02T17:12:11+00:00",
+        "published_label": "Sun 02 Aug, 17:12",
+        "summary": "SWAG Golf's new \"Essentials\" collection expands their in-stock catalog with something for everyone. The post SWAG’s new ‘Essentials’ collection has something for everyone appeared first on Golf .",
+        "body": "If you’ve heard of SWAG Golf, you may have heard of the 45-second sellouts, the one-of-one special search for headcovers, or the exclusive groups where SWAG fans buy sell and trade their gear in hopes of creating the ultimate collection. If you’ve followed the brand over the past few years, you have started to see them transition to more in-stock product and a wider catalog of products to get more SWAG into more hands. Recently they introduced the ‘SWAG Essentials’ collection, so let’s take a look at their new lineup of in-stock accessories.\n\nThe SWAG Golf Essentials Shoe Bag is made from a polyester/vinyl style material that’s durable and water-resistant while providing ventilation so there’s no stinky shoe problems on the drive home from the course. I also think it’s the perfect size. It’s large enough that it’s easy to get shoes in an out of the bag without any problems, but it’s streamlined enough to not be a pain to travel with. I’ve actually been using it even when I’m flying. I just throw my shoes in the bag and then throw the bag in my travel bag with no issues.",
+        "copy": "If you’ve heard of SWAG Golf, you may have heard of the 45-second sellouts, the one-of-one special search for headcovers, or the exclusive groups where SWAG fans buy sell and trade their gear in hopes of creating the ultimate collection. If you’ve followed the brand over the past few years, you have started to see them transition to more in-stock product and a wider catalog of products to get more SWAG into more hands. Recently they introduced the ‘SWAG Essentials’ collection, so let’s take a look at their new lineup of in-stock accessories.\n\nThe SWAG Golf Essentials Shoe Bag is made from a polyester/vinyl style material that’s durable and water-resistant while providing ventilation so there’s no stinky shoe problems on the drive home from the course. I also think it’s the perfect size. It’s large enough that it’s easy to get shoes in an out of the bag without any problems, but it’s streamlined enough to not be a pain to travel with. I’ve actually been using it even when I’m flying. I just throw my shoes in the bag and then throw the bag in my travel bag with no issues.",
+        "first_seen": "2026-08-02T19:05:52.106290+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6413,45 +6400,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-27T09:45:38.669515+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau reacts to finishing nine shots behind Lucas Herbert despite coming third at LIV Golf UK",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnBOZDRkSmtOLV9WbkExaFIwTjBZQVpVdkl5ZjJ3TEZtOUVMM2h6d3B1R3pWNTB6OGJScHdPemZ2NTY4VUZPakpiczE3ZGVRVk9yLVNqWS1WcXpmRV9wQ0hBOTNiR1VUaDU1eV9Mb0pmNXJLNjAwM09LYkRLdmIxSk9hVmFxbENnVFFyNVE2aFNZUm80ZjVQWEdZenprR1Viai1EaGZNUDZ6ZVYyX3l3NzRNM055Z0wwTFBLOHNRZ1F4cHhHVFE?oc=5",
-        "published": "2026-07-26T18:15:00+00:00",
-        "published_label": "Sun 26 Jul, 18:15",
-        "summary": "Bryson DeChambeau reacts to finishing nine shots behind Lucas Herbert despite coming third at LIV Golf UK hitc.com",
-        "body": "Bryson DeChambeau bemoaned his lack of luck over the final three days at LIV Golf UK after finishing nine shots adrift of Lucas Herbert at JCB. DeChambeau was able to gain ground on Jon Rahm at the top of the individual standings on LIV this season, with the two-time US Open champion finishing third in Staffordshire.\n\nIf you were Bryson DeChambeau, what would you be thinking if LIV's Team Championship finale was cancelled? Herbert had gone into the final day just three shots clear of DeChambeau. However, the Australian took the sting out of the last round by making a birdie on his first two holes on Sunday.",
-        "copy": "Bryson DeChambeau bemoaned his lack of luck over the final three days at LIV Golf UK after finishing nine shots adrift of Lucas Herbert at JCB. DeChambeau was able to gain ground on Jon Rahm at the top of the individual standings on LIV this season, with the two-time US Open champion finishing third in Staffordshire.\n\nIf you were Bryson DeChambeau, what would you be thinking if LIV's Team Championship finale was cancelled? Herbert had gone into the final day just three shots clear of DeChambeau. However, the Australian took the sting out of the last round by making a birdie on his first two holes on Sunday.",
-        "first_seen": "2026-07-26T19:07:02.687273+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Herbert rolls in monster birdie putt to seal six-shot LIV Golf UK win",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSml5WHA3R1Z6NTBfSWFzX1ZiMnY5VG91Vk0wMzU5cFhnVldRakh5WGlVc2F0UTUxU3dRMHZ4NVpWWlZvYTdMYVlHM1lZUXk4YWF1ekVRUmRGcFlyZFBSVmFGb1Vod3oyaVliUzgtWXV6NjVnTHBmNXhqQ1Bxek15OWNUUGlPUTM3YkoyeHNZTElPTnlybzBvdnNkcm5GMDM3NHhuMi1qRnU2OG54R0VzeFR5cHFxSlNpYWNaeG9RWGZBeWVpQVJBT3A5aw?oc=5",
-        "published": "2026-07-26T17:33:32+00:00",
-        "published_label": "Sun 26 Jul, 17:33",
-        "summary": "Herbert rolls in monster birdie putt to seal six-shot LIV Golf UK win TNT Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-26T19:07:02.687273+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 3M Open money: Total purse, payout breakdown, winner's share",
-        "link": "https://golf.com/news/2026-3m-open-money-total-purse-payout/",
-        "published": "2026-07-26T17:23:34+00:00",
-        "published_label": "Sun 26 Jul, 17:23",
-        "summary": "Here's the total purse, payout breakdown and winner's share for the 3M Open at TPC Twin Cities in Blaine, Minn. The post 2026 3M Open money: Total purse, payout breakdown, winner’s share appeared first on Golf .",
-        "body": "BLAINE, Minn. — Jackson Koivun heads into the final round of the 3M Open at TPC Twin Cities with a three-shot lead over Emiliano Grillo and Ben Kohles, and the 21-year-old pro is looking for his first PGA Tour victory in just his third professional start.\n\nKoivun sits at 20 under after Saturday’s 10-under 61. He’ll have plenty of chasers during Sunday’s final round, though, especially since this course gives up plenty of birdies.",
-        "copy": "BLAINE, Minn. — Jackson Koivun heads into the final round of the 3M Open at TPC Twin Cities with a three-shot lead over Emiliano Grillo and Ben Kohles, and the 21-year-old pro is looking for his first PGA Tour victory in just his third professional start.\n\nKoivun sits at 20 under after Saturday’s 10-under 61. He’ll have plenty of chasers during Sunday’s final round, though, especially since this course gives up plenty of birdies.",
-        "first_seen": "2026-07-26T19:07:02.687273+00:00"
       }
     ],
     "Badminton": [
@@ -6467,6 +6415,19 @@
         "body": "India’s 17-year-old Tanvi Sharma won her maiden BWF World Tour title after defeating Vietnam’s sixth-seeded Thuy Linh Nguyen in straight games to clinch the women’s singles crown at the Taipei Open Super 300 badminton tournament on Sunday.\n\nThe teenage shuttler produced a commanding performance in the final, defeating Nguyen 21-16, 21-16 in just 36 minutes to secure the biggest title of her career. Tanvi, who was the runner-up at last year’s US Open Super 300, continued her impressive rise with a composed display against the experienced Vietnamese player.",
         "copy": "India’s 17-year-old Tanvi Sharma won her maiden BWF World Tour title after defeating Vietnam’s sixth-seeded Thuy Linh Nguyen in straight games to clinch the women’s singles crown at the Taipei Open Super 300 badminton tournament on Sunday.\n\nThe teenage shuttler produced a commanding performance in the final, defeating Nguyen 21-16, 21-16 in just 36 minutes to secure the biggest title of her career. Tanvi, who was the runner-up at last year’s US Open Super 300, continued her impressive rise with a composed display against the experienced Vietnamese player.",
         "first_seen": "2026-08-02T15:01:17.460476+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "🏆 History made at just 17🏸 Tanvi Sharma became the youngest-ever Taipei Open champion!🏅 She is only the second Indian woman to win the women's singles title.🏆",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSG1sdHA0SUN1ZGhlOGVaQnAtQXdLdmZfTUNBM3FZNmh4R3c2MHZLMlRMZzlXbEVZOF81WWlRVzNIeEk4b2l0VXpqM3UxOTZMTTNkS1I1SWZRQ29HV0pfcnhxZ29LRmQwMUVDcGlaZGMyb3drNENWeDRkb3l4WWNkcVI3UUZydGFHWlcyb3NNZ2dLLXpxTWFMQUlSc2t6V2x5UmJjRzJKNGpxcTc2V0hNeUx0T29lN1QzTTdEMzh2YjFqX1B1MFNJOHJkRE9OSGJqem4w?oc=5",
+        "published": "2026-08-02T08:15:09+00:00",
+        "published_label": "Sun 02 Aug, 08:15",
+        "summary": "🏆 History made at just 17🏸 Tanvi Sharma became the youngest-ever Taipei Open champion!🏅 She is only the second Indian woman to win the women's singles title.🏆 facebook.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-02T19:05:52.106290+00:00"
       },
       {
         "section": "Badminton",
@@ -6545,6 +6506,19 @@
         "body": "Teen Indian shuttler Tanvi Sharma clinched her maiden BWF World Tour title after defeating Vietnam's sixth seed Nguyen Thuy Linh 21-16 21-16 in the women's singles final of the Taipei Open Super 300 on Sunday.\n\nThe 17-year-old from Punjab needed just 36 minutes to overcome Nguyen and became the first Indian woman to win the Taipei Open title since Saina Nehwal triumphed in 2008. Coached by former PV Sindhu mentor Park Tae-sang, Tanvi controlled the match with her deceptive drops and powerful smashes to secure a straight-game victory.",
         "copy": "Teen Indian shuttler Tanvi Sharma clinched her maiden BWF World Tour title after defeating Vietnam's sixth seed Nguyen Thuy Linh 21-16 21-16 in the women's singles final of the Taipei Open Super 300 on Sunday.\n\nThe 17-year-old from Punjab needed just 36 minutes to overcome Nguyen and became the first Indian woman to win the Taipei Open title since Saina Nehwal triumphed in 2008. Coached by former PV Sindhu mentor Park Tae-sang, Tanvi controlled the match with her deceptive drops and powerful smashes to secure a straight-game victory.",
         "first_seen": "2026-08-02T08:19:08.541279+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Tanvi Sharma wins maiden BWF Super 300 title at Taipei Open 2026",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX1NLSkJXdmFIOF9LX0s2ZktHN0hrbGpQNlVNZmlYRVhoVUM0aHI3U3RiamVNaE9PRmQtel80R3BSeDNhRThvcUlHOFJLMVJEUGFvR2VzUzUzNldzN0stMDMzaHJYSEhTa2dqd0dZVnBqOWN6UEx1a2pFeldsLXB6VnZPamFPVGR4UTZMWS1XU3NYLU9BVTNQdm5fSDgtLU5zUmdoYjZHeXpqZWUwc2ZySGJFZFpmMUR1ODBBRkJMWllMMGtFX1FfaVBOUUzSAdMBQVVfeXFMUDFDM1ZkSVdzQUZjY3J5WjNGR095MVZmeDFkcUJQdHRiQkw3XzFVTjB1WjJmbU15Sm51ODcxcXF1dmVqLTg3bnQxcmd1UnFlYXBNZmdiVFMxZzFJVEtSX2hPSjhBR2hIeTNZNUVZSDhIeXVlY2FLY0o3T2tpZDI1UjNPcy1ndGZ1V0ZTTERKNFJRbWhEb2pSNmtNV1ZqSmFJcnlsUDhESTRaS2ZOTjdVcWhteV9sSHdrRjJZVGYzY1ZReXhBNEJjeGNvSWtCWkNPYU9iQQ?oc=5",
+        "published": "2026-08-02T06:17:45+00:00",
+        "published_label": "Sun 02 Aug, 06:17",
+        "summary": "Tanvi Sharma wins maiden BWF Super 300 title at Taipei Open 2026 The Hindu",
+        "body": "Teen Indian sensation Tanvi Sharma won her maiden BWF World Tour title after defeating Vietnam's sixth seed Thuy Linh Nguyen 21-16 21-16 in the women's singles final of the Taipei Open Super 300 badminton tournament in Taipei on Sunday (August 2, 2026).\n\nThe 17-year-old from Punjab, who had finished runner-up at last year's U.S. Open Super 300, needed just 36 minutes to outclass Nguyen in the summit clash.",
+        "copy": "Teen Indian sensation Tanvi Sharma won her maiden BWF World Tour title after defeating Vietnam's sixth seed Thuy Linh Nguyen 21-16 21-16 in the women's singles final of the Taipei Open Super 300 badminton tournament in Taipei on Sunday (August 2, 2026).\n\nThe 17-year-old from Punjab, who had finished runner-up at last year's U.S. Open Super 300, needed just 36 minutes to outclass Nguyen in the summit clash.",
+        "first_seen": "2026-08-02T19:05:52.106290+00:00"
       },
       {
         "section": "Badminton",
@@ -7356,5 +7330,5 @@
       }
     ]
   },
-  "total": 564
+  "total": 562
 }
