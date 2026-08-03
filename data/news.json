@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T16:22:54.011417+00:00",
-  "generated_label": "Monday 03 August 2026, 16:22 UTC",
+  "generated_at": "2026-08-03T19:28:22.911743+00:00",
+  "generated_label": "Monday 03 August 2026, 19:28 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "PFL’s merger with Jake Paul’s MVP is latest convergence of boxing and MMA but can it take on UFC?",
+        "link": "https://www.sportspro.com/opinions/finance-investment/pfls-merger-with-jake-pauls-mvp/",
+        "published": "2026-08-03T16:25:51+00:00",
+        "published_label": "Mon 03 Aug, 16:25",
+        "summary": "A new deal uniting Jake Paul’s MVP with MMA promoter Professional Fighters League reflects growing trends of scale and consolidation across once disparate combat sports disciplines. The post PFL’s merger with Jake Paul’s MVP is latest convergence of boxing and MMA but can it take on UFC? appeared first on SportsPro .",
+        "body": "The Ultimate Fighting Championship’s (UFC) dominance of mixed martial arts (MMA) was once so great that it became synonymous with a sport that many believed could eventually rival boxing as the world’s most popular combat discipline.\n\nBut the advent of rival MMA promotions and a revival in prize fighting have done much to challenge these assumptions. Between shifting promotional alliances, rising regional powerbases, new media priorities and emerging sources of capital, change has become a constant in the combat sports business.",
+        "copy": "The Ultimate Fighting Championship’s (UFC) dominance of mixed martial arts (MMA) was once so great that it became synonymous with a sport that many believed could eventually rival boxing as the world’s most popular combat discipline.\n\nBut the advent of rival MMA promotions and a revival in prize fighting have done much to challenge these assumptions. Between shifting promotional alliances, rising regional powerbases, new media priorities and emerging sources of capital, change has become a constant in the combat sports business.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "SportsPro",
@@ -37,6 +50,19 @@
         "body": "Ahead of the Fifa World Cup, Coca-Cola brought together an ecosystem of partners – connecting our own editorial leadership with Google Cloud’s AI technology, GRAiL’s creative and entertainment capabilities, and José Mourinho’s collaboration – to create José vs. Mourinho.\n\nThe series shares insights and humorous takes from one of the most brilliant minds in the sport, using a highly realistic AI-powered virtual replica of José Mourinho to deliver fresh perspectives every day throughout the Fifa World Cup.",
         "copy": "Ahead of the Fifa World Cup, Coca-Cola brought together an ecosystem of partners – connecting our own editorial leadership with Google Cloud’s AI technology, GRAiL’s creative and entertainment capabilities, and José Mourinho’s collaboration – to create José vs. Mourinho.\n\nThe series shares insights and humorous takes from one of the most brilliant minds in the sport, using a highly realistic AI-powered virtual replica of José Mourinho to deliver fresh perspectives every day throughout the Fifa World Cup.",
         "first_seen": "2026-08-03T16:22:54.011417+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Inside the grey market for online accounts",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVRXSHpRN1kyYmphOTVkSHNCN2xkeUg1Vmw5RlZjdjN3VVVjYTVERHY1MjhQNmpRbDdybFJ1czJFbncwVTFjMmEta083bUp5UnRkTnk3MVZxc2ZlTXVSN1RFbWdoMVpKYVZGbDZCcWotVnpNZXJfenpnUXJibTJ1ME1Bd1Q?oc=5",
+        "published": "2026-08-03T14:00:10+00:00",
+        "published_label": "Mon 03 Aug, 14:00",
+        "summary": "Inside the grey market for online accounts Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1743,6 +1769,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Former England prop and Exeter coach Robin Cowling dies, aged 82",
+        "link": "https://www.rugbypass.com/news/former-england-prop-and-exeter-coach-robin-cowling-dies/",
+        "published": "2026-08-03T19:19:43+00:00",
+        "published_label": "Mon 03 Aug, 19:19",
+        "summary": "Capped eight times by England in the 1970s, Cowling won four National Cups, one with Gloucester and three with Leicester.",
+        "body": "Former England prop Robin Cowling has died aged 82 after a lifetime devoted to rugby. Capped eight times by England in the 1970s, Cowling won four National Cups, one with Gloucester and three with Leicester, as well as playing in four County Championship finals for Gloucestershire.\n\nCowling made his international debut in a 26-6 win over Scotland in 1977, in a front row containing Peter Wheeler and Fran Cotton. He credited the move to Leicester in 1974 for the improvements that led to Test recognition.",
+        "copy": "Former England prop Robin Cowling has died aged 82 after a lifetime devoted to rugby. Capped eight times by England in the 1970s, Cowling won four National Cups, one with Gloucester and three with Leicester, as well as playing in four County Championship finals for Gloucestershire.\n\nCowling made his international debut in a 26-6 win over Scotland in 1977, in a front row containing Peter Wheeler and Fran Cotton. He credited the move to Leicester in 1974 for the improvements that led to Test recognition.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "KSSSA: Laiser Hill, Bokoli and St. Anthony's make strong starts in rugby sevens",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW9ueEVubUJ3NDVKNWtCLVotanFTYmlOTEJrSXF1WXBJd3EyY2YzQnBvY0xUQmdUZGxaQlJ3UnByU0JqajYxQk9EeTBUcXhiaGNzT0g2aWZ6UFFtUkoteGlsTWlDV1VOcUdnZ0pUX2IwU0d0UThrMmJYY0tMY0hvSFdpUUpOazExUlN2bXh2RjA0ZTEyQ0otdXBwWFNzbEdNcUg5WndoNF9SV0pSR0dvREduRXNBckNyVGthb1NrYks?oc=5",
+        "published": "2026-08-03T17:35:35+00:00",
+        "published_label": "Mon 03 Aug, 17:35",
+        "summary": "KSSSA: Laiser Hill, Bokoli and St. Anthony's make strong starts in rugby sevens Mozzart Sport Kenya",
+        "body": "KSSSA: Laiser Hill, Bokoli and St. Anthony's make strong starts in rugby sevens Reading Time: 3min | Mon. 03.08.26. | 20:44 Laiser Hill Academy, Bokoli Boys and St. Anthony's Kitale opened their 2026 Kenya Secondary Schools Sports Association (KSSSA) National Term Two Games campaigns with impressive victories as the race for the Rugby Sevens titles got underway.\n\nThe opening day of rugby action in Thika saw several former champions underline their credentials, while a number of emerging sides also announced themselves with commanding performances in both the boys' and girls' competitions.",
+        "copy": "KSSSA: Laiser Hill, Bokoli and St. Anthony's make strong starts in rugby sevens Reading Time: 3min | Mon. 03.08.26. | 20:44 Laiser Hill Academy, Bokoli Boys and St. Anthony's Kitale opened their 2026 Kenya Secondary Schools Sports Association (KSSSA) National Term Two Games campaigns with impressive victories as the race for the Rugby Sevens titles got underway.\n\nThe opening day of rugby action in Thika saw several former champions underline their credentials, while a number of emerging sides also announced themselves with commanding performances in both the boys' and girls' competitions.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3608,6 +3660,136 @@
         "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
+        "title": "Tennis: Emma Raducanu to miss U.S. Open 2026 with stress fracture",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFBQQWVnX0pWeDZRMFFUVm1faDFURFJqODc4RVAtNGJKaFJVNzRCb2h5SzhYTXFYRGRyVkpCbUZmdWJVb3F5U3BtUTNJbUlaMHJxZnFCd3RUdzY4SUpHa21QLUc2VE9HTXNxc043MlBoc3ozM1p3QVozS3pjbVlmS2FDQUVOaU4talBJcGdNbjg?oc=5",
+        "published": "2026-08-03T19:06:46+00:00",
+        "published_label": "Mon 03 Aug, 19:06",
+        "summary": "Tennis: Emma Raducanu to miss U.S. Open 2026 with stress fracture olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Alexandra Eala: Rising Filipina star beats Jessica Pegula in DC Open final to claim first WTA Tour title",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObkVKQkJPSGZRZVVtQ2hGNEgzamNpU3Fod1lSUHJLUEllTUJGRTZqUHJPejVwY1pUVDVXRk1SYU1LZlNKcFJ0YXIzWFR0X1R1eW5Hc1NkN2FlZVVYNFcwbTRTMERuX1NnOG1RSlh6UXZqOV9fQkhtSFQxTlowcy1ETnhFRk1OM2x4bFRTTHI5aUpQSjU1UXRRMHVnODd5TERhLXVmNGczbVpSY2tteTNIZE13b3RXbmFTQ0k5bkVVSjdtWTNLaVNzaGpOWWlPNlRBTXdnZ1ZfRjdVc0YzNjFBX2FkMGc3aWNrVzQxcw?oc=5",
+        "published": "2026-08-03T18:35:16+00:00",
+        "published_label": "Mon 03 Aug, 18:35",
+        "summary": "Alexandra Eala: Rising Filipina star beats Jessica Pegula in DC Open final to claim first WTA Tour title Sky Sports",
+        "body": "Rising Filipina star Alexandra Eala came from a set down against Jessica Pegula to claim the first WTA Tour singles title of her career at the DC Open. Eala had trailed by a set when the match was suspended because of heavy rain on Sunday, but the 21-year-old turned the contest round on Monday to claim a 4-6 6-4 6-0 victory.\n\nThe victory made Eala the first Filipina to win a singles title on the tour, completing the same career-defining breakthrough that the Washington tournament once gave Pegula when she claimed her first WTA Tour title in 2019.",
+        "copy": "Rising Filipina star Alexandra Eala came from a set down against Jessica Pegula to claim the first WTA Tour singles title of her career at the DC Open. Eala had trailed by a set when the match was suspended because of heavy rain on Sunday, but the 21-year-old turned the contest round on Monday to claim a 4-6 6-4 6-0 victory.\n\nThe victory made Eala the first Filipina to win a singles title on the tour, completing the same career-defining breakthrough that the Washington tournament once gave Pegula when she claimed her first WTA Tour title in 2019.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Williams sisters set to play Cincinnati Open doubles",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce97d0ygzkmo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-03T18:20:56+00:00",
+        "published_label": "Mon 03 Aug, 18:20",
+        "summary": "Serena Williams and Venus Williams are given a wildcard entry for the women's doubles at the Cincinnati Open.",
+        "body": "Serena and Venus Williams have been given a wildcard entry for the women's doubles at the Cincinnati Open. The sisters were scheduled to play together at Wimbledon in July until Serena, 44, picked up a knee injury in her singles comeback loss to Australia's Maya Joint.\n\nThe WTA 1000 event which runs from 11-23 August in Ohio will be the first time the siblings have played doubles together since the 2022 US Open. It could also pave the way for Serena to return to play in the US Open this year.",
+        "copy": "Serena and Venus Williams have been given a wildcard entry for the women's doubles at the Cincinnati Open. The sisters were scheduled to play together at Wimbledon in July until Serena, 44, picked up a knee injury in her singles comeback loss to Australia's Maya Joint.\n\nThe WTA 1000 event which runs from 11-23 August in Ohio will be the first time the siblings have played doubles together since the 2022 US Open. It could also pave the way for Serena to return to play in the US Open this year.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Eala becomes first Filipino to win WTA singles title",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cvglr1pr1gxo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-03T18:18:39+00:00",
+        "published_label": "Mon 03 Aug, 18:18",
+        "summary": "Alexandra Eala becomes the first Filipino to win a WTA singles title as she beats top seed Jessica Pegula in a delayed Washington Open final.",
+        "body": "Alexandra Eala became the first Filipino to win a WTA singles title as she beat top seed Jessica Pegula in a delayed Washington Open final. The WTA showpiece was postponed from Sunday to Monday because of bad weather in the US capital.\n\nRain and lightning meant the start was pushed back on Sunday, before world number three Pegula took the first set 6-4. Eala, 21, was leading 2-1 in the second set when further bad weather meant play was halted and then cancelled for the rest of the day.",
+        "copy": "Alexandra Eala became the first Filipino to win a WTA singles title as she beat top seed Jessica Pegula in a delayed Washington Open final. The WTA showpiece was postponed from Sunday to Monday because of bad weather in the US capital.\n\nRain and lightning meant the start was pushed back on Sunday, before world number three Pegula took the first set 6-4. Eala, 21, was leading 2-1 in the second set when further bad weather meant play was halted and then cancelled for the rest of the day.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu ruled out of US Open",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczNZX1ZTRVE2RWVKUWxyQmdpYnltZGV2ZERnZkR1YV9kTWJpTWhHU3pfRy01UUdMM2wtQ1FVZDZvdS1iWHcydmZLYUFpRm9naEpDVEZPMzNaRzgzNUVqU0tCSDFKbmFoS3BVcGd0OFJJZk9BWkdSTEgwYnhDY3FYRVBIeGpfX29m?oc=5",
+        "published": "2026-08-03T18:16:00+00:00",
+        "published_label": "Mon 03 Aug, 18:16",
+        "summary": "Emma Raducanu ruled out of US Open The Telegraph",
+        "body": "Raducanu appears to have developed this stress fracture during her otherwise impressive run to the final of Queen’s in early June. While speaking to reporters at Wimbledon a fortnight later, she described it as “a lower-leg niggle that I’ve been dealing with since … the back end of the clay-court season”.\n\nWithout access to medical records, it is difficult to know exactly how Raducanu managed to develop such a serious injury shortly before the biggest tournament of the year. Scans on the eve of Wimbledon were understood to reveal a “grade four” stress fracture, meaning that a line was visible on the MRI scan. After reviewing the evidence, she withdrew from the event at around 10pm the night before it started.",
+        "copy": "Raducanu appears to have developed this stress fracture during her otherwise impressive run to the final of Queen’s in early June. While speaking to reporters at Wimbledon a fortnight later, she described it as “a lower-leg niggle that I’ve been dealing with since … the back end of the clay-court season”.\n\nWithout access to medical records, it is difficult to know exactly how Raducanu managed to develop such a serious injury shortly before the biggest tournament of the year. Scans on the eve of Wimbledon were understood to reveal a “grade four” stress fracture, meaning that a line was visible on the MRI scan. After reviewing the evidence, she withdrew from the event at around 10pm the night before it started.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu Out Of US Open With Stress Fracture",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGZsWnpicFE0LVB4bEFmaTZHNGdQNjZwRUdxejdEVjJQdTNsaGR2VDJfRVdJS0F3eV95NmxpN2piUlVoN01GMWw1UER6N2tDdXZnT2d3b0ItRS1qRE54djdFN3A0YmtjQ2kwTFZ2Y000a0pIY0gzOVFnTGoyTG90QW1yb0IwYV9sOEIwVQ?oc=5",
+        "published": "2026-08-03T18:06:46+00:00",
+        "published_label": "Mon 03 Aug, 18:06",
+        "summary": "Emma Raducanu Out Of US Open With Stress Fracture ubitennis.net",
+        "body": "Emma Raducanu will not be playing at the US Open later this month due to an ongoing stress fracture in her lower right leg. The Press Association and The Times newspaper have both confirmed Raducanu’s withdrawal from the Grand Slam, which she won in 2021. It will be the second consecutive major event she has missed after Wimbledon and the last time she played on the Tour was in the final of the HSBC Championships in June.\n\nIt is understood that Raducanu’s decision to miss Flushing Meadows was made following a medical consultation. The exact issue she is dealing with is a grade-four stress fracture in her shin. She is currently rehabbing in St Moritz, Switzerland and posted a video of her hitting on a clay court yesterday on Instagram. In the video, she was still wearing a protective boot over the lower part of her leg.",
+        "copy": "Emma Raducanu will not be playing at the US Open later this month due to an ongoing stress fracture in her lower right leg. The Press Association and The Times newspaper have both confirmed Raducanu’s withdrawal from the Grand Slam, which she won in 2021. It will be the second consecutive major event she has missed after Wimbledon and the last time she played on the Tour was in the final of the HSBC Championships in June.\n\nIt is understood that Raducanu’s decision to miss Flushing Meadows was made following a medical consultation. The exact issue she is dealing with is a grade-four stress fracture in her shin. She is currently rehabbing in St Moritz, Switzerland and posted a video of her hitting on a clay court yesterday on Instagram. In the video, she was still wearing a protective boot over the lower part of her leg.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Raducanu to miss US Open to continue recovery",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cn4njxg33l7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-03T17:45:48+00:00",
+        "published_label": "Mon 03 Aug, 17:45",
+        "summary": "Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture.",
+        "body": "Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture. The British number one suffered the injury to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon.\n\nThe 2021 US Open champion will now sit out this year's event at Flushing Meadows, which begins on 23 August. The decision was made after the 23-year-old's latest consultations with her medical team. She had only recently stepped back on court wearing a protective boot.",
+        "copy": "Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture. The British number one suffered the injury to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon.\n\nThe 2021 US Open champion will now sit out this year's event at Flushing Meadows, which begins on 23 August. The decision was made after the 23-year-old's latest consultations with her medical team. She had only recently stepped back on court wearing a protective boot.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "US Open: Emma Raducanu will not compete as she continues recovery from stress fracture",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZUk1YXFHejlJcmNoZUd3MHBVaTlxMW5Vb2duZUQ0V3p0T005aEpqT21rbmgtWkMwenBKanhreEdRZnFhWmZHMUV4ejA0QzBZRHA0bVgwZC1FaVczXzdqbndOM0lDMUE?oc=5",
+        "published": "2026-08-03T17:45:48+00:00",
+        "published_label": "Mon 03 Aug, 17:45",
+        "summary": "US Open: Emma Raducanu will not compete as she continues recovery from stress fracture BBC",
+        "body": "Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture. The British number one suffered the injury to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon.\n\nThe 2021 US Open champion will now sit out this year's event at Flushing Meadows, which begins on 23 August. The decision was made after the 23-year-old's latest consultations with her medical team. She had only recently stepped back on court wearing a protective boot.",
+        "copy": "Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture. The British number one suffered the injury to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon.\n\nThe 2021 US Open champion will now sit out this year's event at Flushing Meadows, which begins on 23 August. The decision was made after the 23-year-old's latest consultations with her medical team. She had only recently stepped back on court wearing a protective boot.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu to miss US Open with leg injury in latest fitness setback",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUndLd01lWEVlcnE3T0hqblRkYlYwU0Y2aG50Y21IVS1VdGVCeEFQRmRFejFfMHlFc2lISTZiMktzTWlUQ1ItNmJnS3NROGNDdlhRa090N0JfaEo0ZWpGWGR4bGZabG9IQ1VrWWFQWlpTaXlkODJUSkxwSTU3bWtqVHByQ1kxQjRhaU5oZVZ3?oc=5",
+        "published": "2026-08-03T17:40:00+00:00",
+        "published_label": "Mon 03 Aug, 17:40",
+        "summary": "Emma Raducanu to miss US Open with leg injury in latest fitness setback The Guardian",
+        "body": "Emma Raducanu will miss the US Open because of the stress fracture in her right leg that she sustained during the grass-court season and forced her to pull out of Wimbledon. It is understood that following consultation with her medical team, Raducanu has concluded she will be unable to play in New York this month.\n\nWhile the news comes as no surprise given the nature of the injury and the fact Raducanu has only recently taken her first tentative steps back on court wearing a protective boot, it is another blow to the 23-year-old.",
+        "copy": "Emma Raducanu will miss the US Open because of the stress fracture in her right leg that she sustained during the grass-court season and forced her to pull out of Wimbledon. It is understood that following consultation with her medical team, Raducanu has concluded she will be unable to play in New York this month.\n\nWhile the news comes as no surprise given the nature of the injury and the fact Raducanu has only recently taken her first tentative steps back on court wearing a protective boot, it is another blow to the 23-year-old.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Emma Raducanu: Former champion to miss 2026 US Open with stress fracture in right leg as injury woes continue",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSTd4dVExMnd0TnlkZHAwTVl5Q042UUx5Sy0weG5JTmhILUpzczhKY21fSTdtOTRfN2dzQ2Foc29ldExMZkwyUXlWQVRyWW41Q2p2Q2VpSzdtSkJVTS1MbWNDeWlhQzdfZHdaVFVETWM3QlozeUhhcHljRUlvUTBUMXVXaXhvMnBKX0lPYUpha21nczl3d29iQlZtV3E2VDZjMm1SR0huWHVpczlLazdzVi1YTkxSRWdDT2oxSWQ3M2RDRzE0eGtjbjJkV0EtVnJWZWtNVWVwVlAzOHhCcXpBYW9CT0hTSUZkbWtmNXhHTVJhNVU?oc=5",
+        "published": "2026-08-03T17:31:30+00:00",
+        "published_label": "Mon 03 Aug, 17:31",
+        "summary": "Emma Raducanu: Former champion to miss 2026 US Open with stress fracture in right leg as injury woes continue Sky Sports",
+        "body": "Emma Raducanu's stress fracture will force her to miss the US Open. The British No 1 suffered the injury to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon.\n\nAccording to the Press Association, following consultation with her medical team, Raducanu has concluded she will be unable to play in New York later this month. - Not got Sky? Get Sky Sports or stream with no contract on NOW 📺",
+        "copy": "Emma Raducanu's stress fracture will force her to miss the US Open. The British No 1 suffered the injury to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon.\n\nAccording to the Press Association, following consultation with her medical team, Raducanu has concluded she will be unable to play in New York later this month. - Not got Sky? Get Sky Sports or stream with no contract on NOW 📺",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
         "title": "Jack Draper responds after Boris Becker’s criticism",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzVsTUdqOXFSei12S2gwZU1fVm1vbENEQVRVTHBYTmp4V1AxaG4xSXV3d1BIY2Vmckc2QnZHNGpINHplZ25FdTJWbWpjLWVQbzM2Zm5US25PNnhWQkhGWUl4NGh3TGxvVXI2blJkRkdsV182ZktiM0lITHh2dFRjLUE0OEowYnA2Snpsa0hlLWFKR2VFbkRmekFjTFNoakd4cHRnNjF6bm4xektGMUYzWjBXRW1jU0k?oc=5",
         "published": "2026-08-03T13:30:30+00:00",
@@ -4331,48 +4513,35 @@
         "body": "Novak Djokovic and Aryna Sabalenka are set to play together in the upcoming US Open mixed doubles, which was controversially revamped last year to include superstar pairings. Serbia's Djokovic, 39, and 28-year-old Belarusian Sabalenka are set to join forces for the two-day event, which starts on 25 August in New York.\n\nFormer British number one Jack Draper is planning to reunite with American Jessica Pegula after they made the 2025 semi-finals, while Poland's Iga Swiatek and Norway's Casper Ruud - last year's runners-up - will also team up again.",
         "copy": "Novak Djokovic and Aryna Sabalenka are set to play together in the upcoming US Open mixed doubles, which was controversially revamped last year to include superstar pairings. Serbia's Djokovic, 39, and 28-year-old Belarusian Sabalenka are set to join forces for the two-day event, which starts on 25 August in New York.\n\nFormer British number one Jack Draper is planning to reunite with American Jessica Pegula after they made the 2025 semi-finals, while Poland's Iga Swiatek and Norway's Casper Ruud - last year's runners-up - will also team up again.",
         "first_seen": "2026-07-28T08:30:30.488309+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Mubadala DC Open: Jack Draper withdraws from DC Open with left arm injury ahead of US Open qualifying campaign",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRTkzOFRrNDhWU25ydFJwXzJic0pHUmtDLVhuOFVhY05SeUVKVEoxdXRROGJEWHRTRHdMVUxGRExGYlVTNGtUdGV1cWY3WlZ6SWlRRDVvQVB4bUNTdmhpdldQZ0s5TlN5RGVOLU9NVU13ZE5lMXQ3b1dVLXl5bUJXTG1HUnRPdlhsM0pFbVlPTmtrYlVIXzRXa1ZlQ1N4NzdVcUhJSlFSOHQ3TE5DVXJBNjgxRUppa3N6NmNTdkJ0OExVM0JLci1jZlV5MnRYNnN4Mjc2dzA1MFJsRFRTS1RueUt6QmR2VnliM1NTbGdYbklZS0Jq?oc=5",
-        "published": "2026-07-27T19:16:17+00:00",
-        "published_label": "Mon 27 Jul, 19:16",
-        "summary": "Mubadala DC Open: Jack Draper withdraws from DC Open with left arm injury ahead of US Open qualifying campaign Sky Sports",
-        "body": "Jack Draper has withdrawn from the DC Open with a left arm injury. The former world No 4 has endured a injury-strewn 2026 which saw him miss both the French Open and Wimbledon, with the withdrawal coming just days after Draper claiming that he feels \"really physically good\".\n\nThe Brit, who is coached by Sir Andy Murray, has dropped to world No 147 on the ATP Tour rankings and that will likely mean he will need to qualify if he is to play at this September's US Open, having missed out on the main draw for the event.",
-        "copy": "Jack Draper has withdrawn from the DC Open with a left arm injury. The former world No 4 has endured a injury-strewn 2026 which saw him miss both the French Open and Wimbledon, with the withdrawal coming just days after Draper claiming that he feels \"really physically good\".\n\nThe Brit, who is coached by Sir Andy Murray, has dropped to world No 147 on the ATP Tour rankings and that will likely mean he will need to qualify if he is to play at this September's US Open, having missed out on the main draw for the event.",
-        "first_seen": "2026-07-27T19:24:06.304434+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "US Open 2026 mixed doubles: Are Carlos Alcaraz and Emma Raducanu playing in star-studded event?",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3h1RnNlQlBKcUhTaTZPUkpUUVNlRlJ5U2xWbU5FdkdCOHczbzVvaHRPOUtqQkV0R1hlNzNjX0VPbHV4NHlqeU5YNmQ0cVBCN09oNWNmNWxEdXlhaEVEa1N6OXFXYXBreHlBTnEyWFZZN0Q4ak5zMndneFNfT3UtSmVXRDRkWDJ6NWlrcWNRSm9MVGZOMEl3SHBjUXF5V19PQTdETVRhbUJROFJWb2c?oc=5",
-        "published": "2026-07-27T19:11:19+00:00",
-        "published_label": "Mon 27 Jul, 19:11",
-        "summary": "US Open 2026 mixed doubles: Are Carlos Alcaraz and Emma Raducanu playing in star-studded event? London Evening Standard",
-        "body": "Last year saw some of the biggest names in both the men’s and women’s games join forces for a newly-shaped event aimed at bringing more eyes to doubles as a discipline. The US Tennis Association (USTA) confirmed that Arthur Ashe Stadium was sold out across the draw’s two days during ‘Fan Week’ at Flushing Meadows, which is held in the days leading up to the main singles competitions.\n\nNovak Djokovic was joined by compatriot Olga Danilovic while world No1 Jannik Sinner was set to play with doubles specialist Katerina Siniakova before the Italian withdrew, having retired from his Cincinnati final against Alcaraz with illness the day previously.",
-        "copy": "Last year saw some of the biggest names in both the men’s and women’s games join forces for a newly-shaped event aimed at bringing more eyes to doubles as a discipline. The US Tennis Association (USTA) confirmed that Arthur Ashe Stadium was sold out across the draw’s two days during ‘Fan Week’ at Flushing Meadows, which is held in the days leading up to the main singles competitions.\n\nNovak Djokovic was joined by compatriot Olga Danilovic while world No1 Jannik Sinner was set to play with doubles specialist Katerina Siniakova before the Italian withdrew, having retired from his Cincinnati final against Alcaraz with illness the day previously.",
-        "first_seen": "2026-07-27T19:24:06.304434+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "US Open: Novak Djokovic and Aryna Sabalenka team up for mixed doubles, no Carlos Alcaraz or Jannik Sinner yet",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZEZjbXBoWmdTWUtGMUpNc09CdmVtN294akFFVGRIN2VFSE1qRFU4akI1a3QydlJueXljTVl6U2FXdzFCWE5rSFA0aC1TclBrR0U2U3E5WHhiNzRVMG8xSWpweXYweVo5eGptdFQydk9GSm9EamhNM05pSDJneFR3WU0xZ1RxeTlreXBvRFI3M193Q29wbm9oZnFBMkROS0Z1d05YeWR3SGY1MUt4eTlWemhPR0VEc0lhRGNURWpEdFpNSHN4Uk1ocE1hbEVSM25nekxHRnc0MW9MQmJuUUdvWHZZdjJFQ2h1NmFVTEIyakxNZzBSMVNVUGcyQzRUNmJrVmFhSw?oc=5",
-        "published": "2026-07-27T18:16:03+00:00",
-        "published_label": "Mon 27 Jul, 18:16",
-        "summary": "US Open: Novak Djokovic and Aryna Sabalenka team up for mixed doubles, no Carlos Alcaraz or Jannik Sinner yet Sky Sports",
-        "body": "Novak Djokovic and Aryna Sabalenka will pair up in the mixed doubles at the US Open. Women's world No 1 Sabalenka and 24-time Grand Slam champion Djokovic will join forces in the mixed doubles event, which was won by Sara Errani and Andrea Vavassori in both 2024 and 2025.\n\nBetween them, the pair have won six singles titles at Arthur Ashe Stadium and will hope to add another piece of New York silverware when the tournament gets under way on August 30, live on Sky Sports.",
-        "copy": "Novak Djokovic and Aryna Sabalenka will pair up in the mixed doubles at the US Open. Women's world No 1 Sabalenka and 24-time Grand Slam champion Djokovic will join forces in the mixed doubles event, which was won by Sara Errani and Andrea Vavassori in both 2024 and 2025.\n\nBetween them, the pair have won six singles titles at Arthur Ashe Stadium and will hope to add another piece of New York silverware when the tournament gets under way on August 30, live on Sky Sports.",
-        "first_seen": "2026-07-28T08:30:30.488309+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Wyndham Championship: TV schedule, streaming info, how to watch, tee times",
+        "link": "https://golf.com/news/2026-wyndham-championship-tv-schedule-watch/",
+        "published": "2026-08-03T18:05:48+00:00",
+        "published_label": "Mon 03 Aug, 18:05",
+        "summary": "How to watch the 2026 Wyndham Championship at Sedgefield Country Club this week, including a full Wyndham Championship TV schedule and more. The post 2026 Wyndham Championship: TV schedule, streaming info, how to watch, tee times appeared first on Golf .",
+        "body": "The 2026 Wyndham Championship goes down this week at Sedgefield Country Club in North Carolina. Here’s everything you need to know to watch the PGA Tour tournament, including a full Wyndham Championship TV schedule, streaming information and complete tee times for the first and second rounds once they are released.\n\nAfter several busy months, the PGA Tour’s regular season comes to an end at the Wyndham Championship. That means this week is the final chance for players to qualify for the FedEx Cup playoffs.",
+        "copy": "The 2026 Wyndham Championship goes down this week at Sedgefield Country Club in North Carolina. Here’s everything you need to know to watch the PGA Tour tournament, including a full Wyndham Championship TV schedule, streaming information and complete tee times for the first and second rounds once they are released.\n\nAfter several busy months, the PGA Tour’s regular season comes to an end at the Wyndham Championship. That means this week is the final chance for players to qualify for the FedEx Cup playoffs.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau’s key tips to help amateur golfers hit his trademark high power draw off the tee",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2dPT2Y3bkRiTjhtS0swZ1RXd01WeVMwSllWMkdqd19zWFlsZG4yaTNKdEdSMzY1UFhoN01kXzFrNlhZRkFNNkloTlEyallJUzBJMjJzTm4zdU5QeWJETzJqZ2tDRERwWWhXb2x0WlpidVM5TUZzd0g0VmJCSHE2czZtUmF4dw?oc=5",
+        "published": "2026-08-03T16:30:00+00:00",
+        "published_label": "Mon 03 Aug, 16:30",
+        "summary": "Bryson DeChambeau’s key tips to help amateur golfers hit his trademark high power draw off the tee Yahoo Sports UK",
+        "body": "Bryson DeChambeau is unquestionably one of the very best drivers of the golf ball on the planet, if not the best. DeChambeau began speed training in 2019 and quickly became the longest driver of the ball in 2020.\n\nAs a result of his added speed and distance, the 32-year-old American blew away the field at the US Open six years ago at Winged Foot. And ever since then, Bryson DeChambeau's patented high power draw with his driver has made him one of the most popular players to watch.",
+        "copy": "Bryson DeChambeau is unquestionably one of the very best drivers of the golf ball on the planet, if not the best. DeChambeau began speed training in 2019 and quickly became the longest driver of the ball in 2020.\n\nAs a result of his added speed and distance, the 32-year-old American blew away the field at the US Open six years ago at Winged Foot. And ever since then, Bryson DeChambeau's patented high power draw with his driver has made him one of the most popular players to watch.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6192,71 +6361,6 @@
         "body": "But for those who have seen that story before — the PGA Tour devotees who are always watching, always listening, etc. — it was Scheffler’s thoughts from earlier in the week that I found most entertaining.\n\nWhen asked about Rory McIlroy and Bryson DeChambeau and the basis for rivalries in golf, Scheffler proved (once again) he does not think like TV executives, media members or marketing managers. He doesn’t even think like a golf fan. No, rivalries between players are not for him. Jabs between players are not for him. His rival, every week, is the golf course. Nothing more, nothing less.",
         "copy": "But for those who have seen that story before — the PGA Tour devotees who are always watching, always listening, etc. — it was Scheffler’s thoughts from earlier in the week that I found most entertaining.\n\nWhen asked about Rory McIlroy and Bryson DeChambeau and the basis for rivalries in golf, Scheffler proved (once again) he does not think like TV executives, media members or marketing managers. He doesn’t even think like a golf fan. No, rivalries between players are not for him. Jabs between players are not for him. His rival, every week, is the golf course. Nothing more, nothing less.",
         "first_seen": "2026-07-28T08:30:30.488309+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "‘I don’t have an ego’: LIV Golf star prepared to head to Q School if league folds",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEdzQ3VxR1ZUTzJpSlVHNVFKTnVKMkdDakM2enZTY3dXdFdNdmtzaGE0aHJVUHRxc1hfRko5ZUROTmtnclkxMnRlUFdRVExEdnB3T1R5MmJlUFpibnVPeWRqX29yTG8wRmx5aE5zeVdpa1QwQnJYS2M5Ry1RZXVsMUYzZEdGTkxZRHhtaEZKdzVzWm0ybmFCbzF3cG1hakRxb2xxRkZkS2RBOUJnNGZj?oc=5",
-        "published": "2026-07-27T19:22:38+00:00",
-        "published_label": "Mon 27 Jul, 19:22",
-        "summary": "‘I don’t have an ego’: LIV Golf star prepared to head to Q School if league folds Today's Golfer",
-        "body": "Some LIV Golf players are making contingency plans for 2027, including Thomas Pieters. But the Belgian remains hopeful… When the bombshell first dropped in Mexico and LIV Golf players learned they were about to lose their financial backing, Thomas Pieters suggested he was “ready to retire”. Pieters sensed a “grim atmosphere” as rumors swirled over the Saudi Arabian Public Investment Fund’s imminent withdrawal and checked out as his frenzied colleagues began refreshing social media for updates.\n\nAt that stage, Pieters was certainly not agonizing over LIV’s perilous future. And three months on as the league returned from a long hiatus at JCB Golf & Country Club, it seemed very little has changed. Pieters is still relaxed as he awaits a final verdict from LIV’s chief executive Scott O’Neil, who is currently attempting to raise $350 million in new investment for the embattled league to continue operations in 2027.",
-        "copy": "Some LIV Golf players are making contingency plans for 2027, including Thomas Pieters. But the Belgian remains hopeful… When the bombshell first dropped in Mexico and LIV Golf players learned they were about to lose their financial backing, Thomas Pieters suggested he was “ready to retire”. Pieters sensed a “grim atmosphere” as rumors swirled over the Saudi Arabian Public Investment Fund’s imminent withdrawal and checked out as his frenzied colleagues began refreshing social media for updates.\n\nAt that stage, Pieters was certainly not agonizing over LIV’s perilous future. And three months on as the league returned from a long hiatus at JCB Golf & Country Club, it seemed very little has changed. Pieters is still relaxed as he awaits a final verdict from LIV’s chief executive Scott O’Neil, who is currently attempting to raise $350 million in new investment for the embattled league to continue operations in 2027.",
-        "first_seen": "2026-07-28T08:30:30.488309+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf’s Future Faces New Questions As Finale Appears in Doubt",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHF0bGctZHpRS0FpMG5ZQ3NGd3J4NXJTUzVrclFTY3pQODR3TGlsbGt4cGNORlhHQWRHMVlfWW12aEtrcWZZRHlZdnVTNzJtcjNlUG9EVWJ6RF9mQ2NEMU03a0VYckZERnVvWm1LRXYzdFU2a2xoS0dGMjYtcWZwYU1BMlg3Y2dOTWVnWTBQMFI4Z1BONklWWk53?oc=5",
-        "published": "2026-07-27T18:57:01+00:00",
-        "published_label": "Mon 27 Jul, 18:57",
-        "summary": "LIV Golf’s Future Faces New Questions As Finale Appears in Doubt Front Office Sports",
-        "body": "LIV Golf’s U.K. event this past weekend—the league’s return from a 47-day summer break—went off without a hitch, but as the action played out on the course, more questions emerged about LIV’s immediate and long-term future.\n\nCrowd sizes at JCB Golf & Country Club in Staffordshire, England, were noticeable—nearly 20,000 fans were on site for the tournament’s third round Saturday, according to LIV announcer Arlo White. Popular British electronic music duo Chase & Status performed a concert Saturday after play concluded, as is typical at most LIV events. Total attendance numbers for the four-day event have not been released but could likely surpass last year’s 43,000-person figure, which was across three days.",
-        "copy": "LIV Golf’s U.K. event this past weekend—the league’s return from a 47-day summer break—went off without a hitch, but as the action played out on the course, more questions emerged about LIV’s immediate and long-term future.\n\nCrowd sizes at JCB Golf & Country Club in Staffordshire, England, were noticeable—nearly 20,000 fans were on site for the tournament’s third round Saturday, according to LIV announcer Arlo White. Popular British electronic music duo Chase & Status performed a concert Saturday after play concluded, as is typical at most LIV events. Total attendance numbers for the four-day event have not been released but could likely surpass last year’s 43,000-person figure, which was across three days.",
-        "first_seen": "2026-07-29T08:37:32.315354+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "How Callaway rebuilt its golf ball and why the Chrome Tour X settled in my bag",
-        "link": "https://golf.com/gear/callaway-chrome-tour-x-rebuilt-golf-ball/",
-        "published": "2026-07-27T17:35:26+00:00",
-        "published_label": "Mon 27 Jul, 17:35",
-        "summary": "Callaway decided to build a golf ball program that took on all challengers. With the new Chrome Tour X, they have accomplished that mission. The post How Callaway rebuilt its golf ball and why the Chrome Tour X settled in my bag appeared first on Golf .",
-        "body": "There is something deeply satisfying about a global golf ball factory that doesn’t try to look like a spaceship. If you roll up to Callaway’s golf ball plant in Chicopee, Massachusetts, you aren’t greeted by hyper-futuristic glass facades or floor-to-ceiling LED screens. It’s a solid, weathered brick building sitting in a quiet New England town. It looks like a place where real work gets done by people who have spent their entire lives perfecting a trade.\n\nTruth is, they have — and like Callaway’s golf ball journey, this dedicated plant in Chicopee has seen its ups and downs. But since it started, the plant’s ethos has always been to evolve and grow the economy for the residents of this town. Needless to say, an evolution is precisely what has taken place. Inside these humble brick walls sits one of the most technologically advanced golf ball production lines in the world.",
-        "copy": "There is something deeply satisfying about a global golf ball factory that doesn’t try to look like a spaceship. If you roll up to Callaway’s golf ball plant in Chicopee, Massachusetts, you aren’t greeted by hyper-futuristic glass facades or floor-to-ceiling LED screens. It’s a solid, weathered brick building sitting in a quiet New England town. It looks like a place where real work gets done by people who have spent their entire lives perfecting a trade.\n\nTruth is, they have — and like Callaway’s golf ball journey, this dedicated plant in Chicopee has seen its ups and downs. But since it started, the plant’s ethos has always been to evolve and grow the economy for the residents of this town. Needless to say, an evolution is precisely what has taken place. Inside these humble brick walls sits one of the most technologically advanced golf ball production lines in the world.",
-        "first_seen": "2026-07-27T19:24:06.304434+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Jackson Koivun's 3M win? Scottie Scheffler's praise and Ted Scott's statement told the story",
-        "link": "https://golf.com/news/jackson-koivun-scottie-scheffler-ted-scott-3m/",
-        "published": "2026-07-27T17:25:48+00:00",
-        "published_label": "Mon 27 Jul, 17:25",
-        "summary": "Want to understand the importance of Jackson Koivun's 3M win? Scottie Scheffler and Ted Scott perfectly told the story. The post Jackson Koivun’s 3M win? Scottie Scheffler’s praise and Ted Scott’s statement told the story appeared first on Golf .",
-        "body": "Scottie Scheffler has never seen Jackson Koivun swing in person. The World No. 1 has heard the hype about the star amateur who turned pro, but his first glimpse of Koivun will have to wait.\n\n“I haven’t had a chance to see him hit a shot yet,” Scheffler said on Sunday at the 3M Open in Minnesota. “Obviously, I’ve heard about his pedigree in college, but I haven’t been able to see it in person yet. I’m looking forward to that.”",
-        "copy": "Scottie Scheffler has never seen Jackson Koivun swing in person. The World No. 1 has heard the hype about the star amateur who turned pro, but his first glimpse of Koivun will have to wait.\n\n“I haven’t had a chance to see him hit a shot yet,” Scheffler said on Sunday at the 3M Open in Minnesota. “Obviously, I’ve heard about his pedigree in college, but I haven’t been able to see it in person yet. I’m looking forward to that.”",
-        "first_seen": "2026-07-27T19:24:06.304434+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "First-time Tour winner's unique fishing celebration goes viral",
-        "link": "https://golf.com/news/first-time-tour-winner-unique-fishing-celebration-viral/",
-        "published": "2026-07-27T16:42:36+00:00",
-        "published_label": "Mon 27 Jul, 16:42",
-        "summary": "Jackson Koivun captured his first PGA Tour win at the 2026 3M Open, then celebrated in a unique way... by fishing the 18th hole. The post First-time Tour winner’s unique fishing celebration goes viral appeared first on Golf .",
-        "body": "Over the first two rounds of Jackson Koivun’s breakthrough PGA Tour win at the 2026 3M Open, one course feature at TPC Twin Cities had given the young pro fits: the pond guarding the par-5 18th hole.\n\nAfter cementing the first victory of his burgeoning career, however, Koivun chose that same lake as the location for a unique post-win celebration: some sunset fishing. While Koivun put on a clinic at TPC Twin Cities all week long, he didn’t make his hay at the par-5 closing hole.",
-        "copy": "Over the first two rounds of Jackson Koivun’s breakthrough PGA Tour win at the 2026 3M Open, one course feature at TPC Twin Cities had given the young pro fits: the pond guarding the par-5 18th hole.\n\nAfter cementing the first victory of his burgeoning career, however, Koivun chose that same lake as the location for a unique post-win celebration: some sunset fishing. While Koivun put on a clinic at TPC Twin Cities all week long, he didn’t make his hay at the par-5 closing hole.",
-        "first_seen": "2026-07-27T19:24:06.304434+00:00"
       }
     ],
     "Badminton": [
@@ -6272,6 +6376,19 @@
         "body": "Fresh from their conquest of the YONEX Taipei Open 2026 on Sunday, four of the five winners will be seen in action at the VICTOR Korea Masters 2026. Yudai Okimoto, Tanvi Sharma, Sumire Nakade/Miyu Takahashi and Yuta Watanabe/Maya Taguchi will hope to continue their winning form in Asan this week at the HSBC BWF World Tour Super 300 tournament.\n\nWorld No.26 Okimoto, who earlier won the Canada Open last month, will take on Saneeth Dayanand in the first round. The top seed is likely to run into fifth seed Jason Gunawan in the quarterfinals.",
         "copy": "Fresh from their conquest of the YONEX Taipei Open 2026 on Sunday, four of the five winners will be seen in action at the VICTOR Korea Masters 2026. Yudai Okimoto, Tanvi Sharma, Sumire Nakade/Miyu Takahashi and Yuta Watanabe/Maya Taguchi will hope to continue their winning form in Asan this week at the HSBC BWF World Tour Super 300 tournament.\n\nWorld No.26 Okimoto, who earlier won the Canada Open last month, will take on Saneeth Dayanand in the first round. The top seed is likely to run into fifth seed Jason Gunawan in the quarterfinals.",
         "first_seen": "2026-08-03T12:55:22.826318+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Korea Masters: Okimoto, Sharma in Action",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSlBfb0EwVFlNOXNSUlRzcnlYd1VrSExFMk15Sml1aU9jWmU2bTlfZElzei1IMktjWTVKRWFuS0FuUFBoRnRQZ3FMb0phaV9sWENoZnVFMlc0RXpReTZiYjR4R3RqQnluakVaakVkVHpLRGRsMEtfbC1USWZsNVQ3S1VaODdhd2gyLU9TZ2RiN2RrSGtVRTlYQnlpb0lXM05h?oc=5",
+        "published": "2026-08-03T12:03:21+00:00",
+        "published_label": "Mon 03 Aug, 12:03",
+        "summary": "Korea Masters: Okimoto, Sharma in Action BWF World Tour",
+        "body": "Fresh from their conquest of the YONEX Taipei Open 2026 on Sunday, four of the five winners will be seen in action at the VICTOR Korea Masters 2026. Yudai Okimoto, Tanvi Sharma, Sumire Nakade/Miyu Takahashi and Yuta Watanabe/Maya Taguchi will hope to continue their winning form in Asan this week at the HSBC BWF World Tour Super 300 tournament.\n\nWorld No.26 Okimoto, who earlier won the Canada Open last month, will take on Saneeth Dayanand in the first round. The top seed is likely to run into fifth seed Jason Gunawan in the quarterfinals.",
+        "copy": "Fresh from their conquest of the YONEX Taipei Open 2026 on Sunday, four of the five winners will be seen in action at the VICTOR Korea Masters 2026. Yudai Okimoto, Tanvi Sharma, Sumire Nakade/Miyu Takahashi and Yuta Watanabe/Maya Taguchi will hope to continue their winning form in Asan this week at the HSBC BWF World Tour Super 300 tournament.\n\nWorld No.26 Okimoto, who earlier won the Canada Open last month, will take on Saneeth Dayanand in the first round. The top seed is likely to run into fifth seed Jason Gunawan in the quarterfinals.",
+        "first_seen": "2026-08-03T19:28:22.911743+00:00"
       },
       {
         "section": "Badminton",
@@ -7145,21 +7262,8 @@
         "body": "Italian Serie A club Como 1907 has announced global fintech company Revolut to become its new front-of-shirt partner for the upcoming 2026/27 season. Officially unveiled alongside the launch of the club’s striking new adidas home shirt, the agreement marks an evolution from an initial partnership established in 2025, during which Revolut served as the official banking and foreign exchange partner supporting the organisation’s core financial operations, supplier transactions, and player transfer payments.\n\nThe upgraded front-of-shirt positioning places Revolut at the very centre of Como’s global brand presentation during a milestone year that will see the club compete in the prestigious UEFA Champions League for the first time in its history.",
         "copy": "Italian Serie A club Como 1907 has announced global fintech company Revolut to become its new front-of-shirt partner for the upcoming 2026/27 season. Officially unveiled alongside the launch of the club’s striking new adidas home shirt, the agreement marks an evolution from an initial partnership established in 2025, during which Revolut served as the official banking and foreign exchange partner supporting the organisation’s core financial operations, supplier transactions, and player transfer payments.\n\nThe upgraded front-of-shirt positioning places Revolut at the very centre of Como’s global brand presentation during a milestone year that will see the club compete in the prestigious UEFA Champions League for the first time in its history.",
         "first_seen": "2026-07-28T08:30:30.488309+00:00"
-      },
-      {
-        "section": "Competitor News",
-        "source": "Google News",
-        "kind": "gnews",
-        "title": "Revolut becomes Como 1907’s Official Front-of-Shirt Partner",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGUxZEcwd1p6M1dYVE9keWdVcEZvTHF6ajdoc01BVDdMNWpGRm9peEZrWHhOZVpMSWF1WnBOM3E2SHJUb0t2TTZEWUhxNW9VLWVZY3FONDdPUEd5dWZEd0hrMmtuemZHQW1MUXVYcl9IOFhBUzNkT01UZEdxWFNwMXdMMFE5RGdmS3pUZXQyRHNqdw?oc=5",
-        "published": "2026-07-27T19:05:03+00:00",
-        "published_label": "Mon 27 Jul, 19:05",
-        "summary": "Revolut becomes Como 1907’s Official Front-of-Shirt Partner Como 1907",
-        "body": "Como, July 27th 2026 – Revolut, the global fintech company with more than 75 million customers worldwide, and Como 1907 have today announced the expansion of their partnership, with Revolut becoming the club’s Official Front-of-Shirt Partner from the 2026/27 season onward. The agreement unites two challenger brands that have evolved beyond their core industries to become lifestyle-driven powerhouses, combining innovation, culture, and community to redefine how modern audiences engage with finance and football. Since the partnership launched in 2025, with Revolut serving as Como 1907's Global Banking and FX Partner, the two companies have built a robust operational foundation. With Revolut Business fully integrated into its financial operations, Como 1907 manages everything from supplier payments to complex foreign exchange transactions through a single, seamless financial platform. Revolut’s logo will now feature on the men’s first-team shirts across Italian and European competitions. This next phase marks the natural evolution of their partnership’s success, taking Revolut to the heart of the club's supporter journey.\n\nThe new 2026/27 Como 1907 kit featuring Revolut is available to purchase now. Building on a strong foundation, the partnership will now focus on deeper product integration and innovative fan experiences that strengthen the connection between supporters and the club. Fans can look forward to exclusive ticket discounts, co-branded products, tailored merchandise offers, and matchday activations featuring the Como 1907 team and coach Cesc Fàbregas.",
-        "copy": "Como, July 27th 2026 – Revolut, the global fintech company with more than 75 million customers worldwide, and Como 1907 have today announced the expansion of their partnership, with Revolut becoming the club’s Official Front-of-Shirt Partner from the 2026/27 season onward. The agreement unites two challenger brands that have evolved beyond their core industries to become lifestyle-driven powerhouses, combining innovation, culture, and community to redefine how modern audiences engage with finance and football. Since the partnership launched in 2025, with Revolut serving as Como 1907's Global Banking and FX Partner, the two companies have built a robust operational foundation. With Revolut Business fully integrated into its financial operations, Como 1907 manages everything from supplier payments to complex foreign exchange transactions through a single, seamless financial platform. Revolut’s logo will now feature on the men’s first-team shirts across Italian and European competitions. This next phase marks the natural evolution of their partnership’s success, taking Revolut to the heart of the club's supporter journey.\n\nThe new 2026/27 Como 1907 kit featuring Revolut is available to purchase now. Building on a strong foundation, the partnership will now focus on deeper product integration and innovative fan experiences that strengthen the connection between supporters and the club. Fans can look forward to exclusive ticket discounts, co-branded products, tailored merchandise offers, and matchday activations featuring the Como 1907 team and coach Cesc Fàbregas.",
-        "first_seen": "2026-07-28T08:30:30.488309+00:00"
       }
     ]
   },
-  "total": 549
+  "total": 557
 }
