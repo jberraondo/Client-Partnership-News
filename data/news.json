@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T08:33:29.763458+00:00",
-  "generated_label": "Tuesday 04 August 2026, 08:33 UTC",
+  "generated_at": "2026-08-04T10:08:57.239697+00:00",
+  "generated_label": "Tuesday 04 August 2026, 10:08 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -37,6 +37,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-04T08:33:29.763458+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Can cool be cool? The rise of air-conditioned clothing",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYjhxNkJCTjhORm4tT1RNeUR0TnZpcW9VZjh0QlFGMXoxYkFMTDlOWVhZSUlCWVNXOTQ1TjhMMVAzemxvTE5Gdi1nM0lYWkFqejlUbDAtMGdJcVVqMV9aTHRJZll0a1I0S1pqeFhBSE4?oc=5",
+        "published": "2026-08-04T04:00:53+00:00",
+        "published_label": "Tue 04 Aug, 04:00",
+        "summary": "Can cool be cool? The rise of air-conditioned clothing Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-04T10:08:57.239697+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1743,6 +1756,45 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Two Englishmen on referee panel for Greatest Rivalry Series",
+        "link": "https://www.rugbypass.com/news/two-englishmen-on-referee-panel-for-greatest-rivalry-series/",
+        "published": "2026-08-04T10:01:55+00:00",
+        "published_label": "Tue 04 Aug, 10:01",
+        "summary": "A four-strong referee panel has been named for the Gretest Rivalry Series, including the four provincial tour matches.",
+        "body": "The four referees for the Greatest Rivalry Series between South Africa and New Zealand have been announced by World Rugby, with Matt Carley taking charge of the first Test at Ellis Park in Johannesburg on 22 August.\n\nGroundbreaking Georgian official Nika Amashukeli has been handed the second Test at the DHL Stadium Cape Town a week later, while Australian official Angus Gardner will run the rule over the third Test, which takes place at the FNB Stadium in Johannesburg on 5 September.",
+        "copy": "The four referees for the Greatest Rivalry Series between South Africa and New Zealand have been announced by World Rugby, with Matt Carley taking charge of the first Test at Ellis Park in Johannesburg on 22 August.\n\nGroundbreaking Georgian official Nika Amashukeli has been handed the second Test at the DHL Stadium Cape Town a week later, while Australian official Angus Gardner will run the rule over the third Test, which takes place at the FNB Stadium in Johannesburg on 5 September.",
+        "first_seen": "2026-08-04T10:08:57.239697+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "South African rugby 'family secret' adds extra spice to Boks vs All Blacks series",
+        "link": "https://www.rugbypass.com/news/conspiracy-theory-resurfaces-to-add-extra-spice-to-boks-vs-all-blacks-series/",
+        "published": "2026-08-04T09:01:25+00:00",
+        "published_label": "Tue 04 Aug, 09:01",
+        "summary": "Great rivalries need more than close matches. They need inherited grievance, disputed memories and old wounds that can be pressed for fun. They need a little bad blood.",
+        "body": "Does your family have a secret? A rumour that, if it were true, would shatter relationships? Perhaps an extra-marital affair or a link to organised crime. Maybe your uncle really is a gambling addict. What if your gran really did embezzle from that nursing home?\n\nBest not to think about it. No need to air the dirty laundry. Pour yourself another drink and make small talk with your cousins. Why let the truth get in the way of a good time?",
+        "copy": "Does your family have a secret? A rumour that, if it were true, would shatter relationships? Perhaps an extra-marital affair or a link to organised crime. Maybe your uncle really is a gambling addict. What if your gran really did embezzle from that nursing home?\n\nBest not to think about it. No need to air the dirty laundry. Pour yourself another drink and make small talk with your cousins. Why let the truth get in the way of a good time?",
+        "first_seen": "2026-08-04T10:08:57.239697+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Scotland forward pack bolstered and England U20 cap included in WXV squad",
+        "link": "https://www.rugbypass.com/news/scotland-forward-pack-bolstered-and-england-u20-cap-included-in-wxv-squad/",
+        "published": "2026-08-04T08:33:46+00:00",
+        "published_label": "Tue 04 Aug, 08:33",
+        "summary": "Scotland have been able to recall a number of senior forwards upon the announcement of their WXV Global Series squad.",
+        "body": "Scotland have been able to recall a number of senior forwards upon the announcement of their WXV Global Series squad. Rachel Malcolm, who missed three matches at the 2026 Guinness Women’s Six Nations, returns to the squad as captain. As does Evie Gallagher, Sarah Bonar and Anne Young, who each missed the entire Championship with injury.\n\nThis squad has been named just 24 hours after the bombshell confirmation that Sione Fukofuka has left his post as head coach just shy of eight months in the role. Dave Butcher will lead Scotland as interim head coach.",
+        "copy": "Scotland have been able to recall a number of senior forwards upon the announcement of their WXV Global Series squad. Rachel Malcolm, who missed three matches at the 2026 Guinness Women’s Six Nations, returns to the squad as captain. As does Evie Gallagher, Sarah Bonar and Anne Young, who each missed the entire Championship with injury.\n\nThis squad has been named just 24 hours after the bombshell confirmation that Sione Fukofuka has left his post as head coach just shy of eight months in the role. Dave Butcher will lead Scotland as interim head coach.",
+        "first_seen": "2026-08-04T10:08:57.239697+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3588,32 +3640,6 @@
         "body": "Blues assistant coach Carlos Spencer has revealed his emotions during Tara Turner’s decision to take a quick tap in the 82nd minute of the Super Rugby Aupiki final against Matatu.\n\nThey did, however, benefit from the decision, clinching their third straight Super Rugby Aupiki title at the new One New Zealand Stadium. Their triumph, a nail-biting 28-21 victory over the Christchurch-based side, came after the Blues earned a penalty deep inside Matatu’s 22-metre line, a minute after the final hooter, with the scores equal at 21 apiece.",
         "copy": "Blues assistant coach Carlos Spencer has revealed his emotions during Tara Turner’s decision to take a quick tap in the 82nd minute of the Super Rugby Aupiki final against Matatu.\n\nThey did, however, benefit from the decision, clinching their third straight Super Rugby Aupiki title at the new One New Zealand Stadium. Their triumph, a nail-biting 28-21 victory over the Christchurch-based side, came after the Blues earned a penalty deep inside Matatu’s 22-metre line, a minute after the final hooter, with the scores equal at 21 apiece.",
         "first_seen": "2026-07-28T11:57:16.185915+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "2026 WXV Global Series Challenger: Every single fixture and kick-off time",
-        "link": "https://www.rugbypass.com/news/2026-wxv-global-series-challenger-every-single-fixture-and-kick-off-time/",
-        "published": "2026-07-28T10:00:12+00:00",
-        "published_label": "Tue 28 Jul, 10:00",
-        "summary": "Fixtures and kick-off times have been confirmed for the first-ever WXV Global Series Challenger event in Hong Kong China have been confirmed.",
-        "body": "Fixtures and kick-off times have been confirmed for the first-ever WXV Global Series Challenger event in Hong Kong China have been confirmed. Kai Tak Youth Sports Ground will host the three-week competition contested between the Brazil, Fiji, Hong Kong China, the Netherlands, Samoa and Spain, which forms peer of the newly formatted WXV Global Series.\n\nIt has also been confirmed that Mitsubishi Electric have joined the competition as its presenting partner. Across the coming three year cycle ahead of Women’s Rugby World Cup 2029 over 100 Test matches will be played.",
-        "copy": "Fixtures and kick-off times have been confirmed for the first-ever WXV Global Series Challenger event in Hong Kong China have been confirmed. Kai Tak Youth Sports Ground will host the three-week competition contested between the Brazil, Fiji, Hong Kong China, the Netherlands, Samoa and Spain, which forms peer of the newly formatted WXV Global Series.\n\nIt has also been confirmed that Mitsubishi Electric have joined the competition as its presenting partner. Across the coming three year cycle ahead of Women’s Rugby World Cup 2029 over 100 Test matches will be played.",
-        "first_seen": "2026-07-28T11:57:16.185915+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Aseza Hele back for Springbok Women's two-Test tour of Fiji",
-        "link": "https://www.rugbypass.com/news/aseza-hele-back-for-springbok-womens-two-test-tour-of-fiji/",
-        "published": "2026-07-28T09:36:59+00:00",
-        "published_label": "Tue 28 Jul, 09:36",
-        "summary": "Aseza Hele is back in Swys de Bruin's Springbok Women squad for the first time since Women's Rugby World Cup 2025.",
-        "body": "Aseza Hele is back in Swys de Bruin’s Springbok Women squad for the first time since Women’s Rugby World Cup 2025. Last time the back-row played Test rugby was when South Africa exited the Women’s Rugby World Cup with a quarter-final loss to the Black Ferns.\n\nShe has been named in a 26-player squad that will travel to Fiji to take on the Fijiana XV in a two-match Test series. This year Hele has missed the Rugby Africa Women’s Cup and a two-match Test series against the USA Women’s Eagles in Johannesburg and Pretoria with a hand injury.",
-        "copy": "Aseza Hele is back in Swys de Bruin’s Springbok Women squad for the first time since Women’s Rugby World Cup 2025. Last time the back-row played Test rugby was when South Africa exited the Women’s Rugby World Cup with a quarter-final loss to the Black Ferns.\n\nShe has been named in a 26-player squad that will travel to Fiji to take on the Fijiana XV in a two-match Test series. This year Hele has missed the Rugby Africa Women’s Cup and a two-match Test series against the USA Women’s Eagles in Johannesburg and Pretoria with a hand injury.",
-        "first_seen": "2026-07-28T10:05:14.499157+00:00"
       }
     ],
     "Tennis": [
@@ -4344,32 +4370,6 @@
         "body": "By his own admission, the arm injury which has derailed Jack Draper's career is \"complicated\". Former British number one Draper withdrew from a planned comeback in Washington on Monday after feeling more discomfort from bone bruising in his serving arm.\n\nIt is a similar situation to what happened at Wimbledon last month, where the 24-year-old Englishman also spoke positively about his fitness - and seemingly practised well - before pulling out on the eve of the tournament.",
         "copy": "By his own admission, the arm injury which has derailed Jack Draper's career is \"complicated\". Former British number one Draper withdrew from a planned comeback in Washington on Monday after feeling more discomfort from bone bruising in his serving arm.\n\nIt is a similar situation to what happened at Wimbledon last month, where the 24-year-old Englishman also spoke positively about his fitness - and seemingly practised well - before pulling out on the eve of the tournament.",
         "first_seen": "2026-07-28T16:07:58.998694+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper withdraws on eve of match again as injury worries mount",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDZTWEctYTRRSDNOSk05UE5IUjBILTdMM2pqUFh1cHhEV2VnME9uWTVvdnR5SWdrSDNwQjQzZFlkRVJfMzZ1cXRUM2dCMjB0SGJ3Ykx4MmpqVEVhNHRnc3BoM1MzX1lTdW00bXA5TTM5MlpBUGIyLVBEazZDTFpWa094aG5QWTQ?oc=5",
-        "published": "2026-07-28T09:51:05+00:00",
-        "published_label": "Tue 28 Jul, 09:51",
-        "summary": "Jack Draper withdraws on eve of match again as injury worries mount Yahoo Sports",
-        "body": "Jack Draper's injury concerns have deepened after he withdrew on the eve of a match for the second time in a row. Draper pulled out of an ATP Tour event in Washington on Monday, the day before his first-round match. It followed the 24-year-old ruling himself out of Wimbledon on the eve of the tournament, despite saying he felt positive about his fitness.\n\nThe former British No 1 has a long-term arm injury and has played just 14 matches in the past 12 months. He continues to be hampered by a bruised humerus. Draper is in a race against time to prove his fitness, with the US Open mixed doubles event taking place on August 25 and 26, where he is paired with Jessica Pegula. The singles draw starts on August 30. He is targeting tournaments in Montreal and Cincinnati as part of his preparations.",
-        "copy": "Jack Draper's injury concerns have deepened after he withdrew on the eve of a match for the second time in a row. Draper pulled out of an ATP Tour event in Washington on Monday, the day before his first-round match. It followed the 24-year-old ruling himself out of Wimbledon on the eve of the tournament, despite saying he felt positive about his fitness.\n\nThe former British No 1 has a long-term arm injury and has played just 14 matches in the past 12 months. He continues to be hampered by a bruised humerus. Draper is in a race against time to prove his fitness, with the US Open mixed doubles event taking place on August 25 and 26, where he is paired with Jessica Pegula. The singles draw starts on August 30. He is targeting tournaments in Montreal and Cincinnati as part of his preparations.",
-        "first_seen": "2026-07-30T08:22:38.691924+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper withdraws on eve of match again as injury worries mount",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjFBMEtWRTRtcXhrNWRXSE8tYXMwaTVpX2tVU1FZSTJXa1BMeWZGdHF0VDQ4bFRlZldSR0pPUC14elhoeVF1dVJObmIwYk5jNHExSUlMSW1zTXhWcVZCbGRmS2JLeDZxNVk2cWhWUlBOLWZacVp2WWM5X3VsRE9yU1dHejUteV94Ql8zU0F3RTJINm9xRHFoLXpkV2Q?oc=5",
-        "published": "2026-07-28T09:51:00+00:00",
-        "published_label": "Tue 28 Jul, 09:51",
-        "summary": "Jack Draper withdraws on eve of match again as injury worries mount The Telegraph",
-        "body": "Jack Draper’s injury concerns have deepened after he withdrew on the eve of a match for the second time in a row. Draper pulled out of an ATP Tour event in Washington, DC on Monday, the day before his first-round match. It followed the 24-year-old ruling himself out of Wimbledon on the eve of the tournament, despite saying he felt positive about his fitness.\n\nThe former British No 1 has a long-term arm injury and has played just 14 matches in the past 12 months. He continues to be hampered by a bruised humerus. Draper is in a race against time to prove his fitness, with the US Open mixed doubles event taking place on August 25 and 26, where he is paired with Jessica Pegula. The singles draw starts on August 30. He is targeting tournaments in Montreal and Cincinnati as part of his preparations.",
-        "copy": "Jack Draper’s injury concerns have deepened after he withdrew on the eve of a match for the second time in a row. Draper pulled out of an ATP Tour event in Washington, DC on Monday, the day before his first-round match. It followed the 24-year-old ruling himself out of Wimbledon on the eve of the tournament, despite saying he felt positive about his fitness.\n\nThe former British No 1 has a long-term arm injury and has played just 14 matches in the past 12 months. He continues to be hampered by a bruised humerus. Draper is in a race against time to prove his fitness, with the US Open mixed doubles event taking place on August 25 and 26, where he is paired with Jessica Pegula. The singles draw starts on August 30. He is targeting tournaments in Montreal and Cincinnati as part of his preparations.",
-        "first_seen": "2026-07-28T10:05:14.499157+00:00"
       }
     ],
     "Golf": [
@@ -6257,22 +6257,22 @@
         "body": "Two-time major champion Martin Kaymer has become the latest LIV Golf player to outline his intentions to return to the DP World Tour. Kaymer was among the first wave of players to be recruited by the breakaway tour in 2022 alongside his former Ryder Cup teammates Ian Poulter, Lee Westwood, Sergio Garcia, Graeme McDowell and Henrik Stenson.\n\nThe German resigned his membership to avoid racking up fines from the Wentworth-based circuit for competing in 'conflicting events' but is now open to a return. Kaymer, 41, told bunkered that he's \"really interested\" in going back even if LIV Golf survives in 2027.",
         "copy": "Two-time major champion Martin Kaymer has become the latest LIV Golf player to outline his intentions to return to the DP World Tour. Kaymer was among the first wave of players to be recruited by the breakaway tour in 2022 alongside his former Ryder Cup teammates Ian Poulter, Lee Westwood, Sergio Garcia, Graeme McDowell and Henrik Stenson.\n\nThe German resigned his membership to avoid racking up fines from the Wentworth-based circuit for competing in 'conflicting events' but is now open to a return. Kaymer, 41, told bunkered that he's \"really interested\" in going back even if LIV Golf survives in 2027.",
         "first_seen": "2026-07-28T11:57:16.185915+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf UK 2026: Prize money payout in full",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nVElQVlJ5YnlyTnJzVUp3bFJBZlJveFZJU2pmZkRpaFZRbWFMZXRBb1I4TzBrLTVqMTBGOF9TMENQR3hRcUw3V2tNMnR5M1VzYnl1b1Y4dUpkdzlGbjZTZTdrTHpVTl9NOEtZaXZSWF9aTmI5SEFPM2R0cGhOQQ?oc=5",
-        "published": "2026-07-28T09:51:37+00:00",
-        "published_label": "Tue 28 Jul, 09:51",
-        "summary": "LIV Golf UK 2026: Prize money payout in full bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Lucas Herbert cruised to victory at LIV Golf UK.\n\nThe Australian led the event wire-to-wire at JCB Country Club and carded an impressive 10-under 62 on Sunday to finish on 30 under par. His victory comes a week after a T6 finish at the Open Championship where he also shot a record-equalling round of 62.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Lucas Herbert cruised to victory at LIV Golf UK.\n\nThe Australian led the event wire-to-wire at JCB Country Club and carded an impressive 10-under 62 on Sunday to finish on 30 under par. His victory comes a week after a T6 finish at the Open Championship where he also shot a record-equalling round of 62.",
-        "first_seen": "2026-07-28T16:07:58.998694+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "'A few players will be wiped off': Pullela Gopichand warns BWF's new scoring system could change badminto",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNX24xUHlNN0drWUtvbDMwZTl4MmZSVzJPQnFUdkp0RHpHTzl6blo1cnVxbktPWnEzTlBaVVdjbFZFQThsaDFzVHgzSzBHX3BBckN2WFo3eDNsUmwxTFctOWRnd2hUTVlERkh3SEhWVkhibFp0WWJuOXZtUW41b1RCZ0NKeHNleGhsZUEzeExtcWNCWVFSMHlkRGQyOExDcURiejByVFRVdTdoeVl3YVVaVFBDNVZvZW5rYm9GN3pLYTA0VjNjN1BMVEUzTnJGMlRUSFFuWElXYlY0VnRyLVlDdlliNF9CT2pKaDdBdjhycFhsZHRjbnI5TThKR1Y4b0djTHd4SXZDMXBjRjhsUnhpUE9FQzJZb2N30gGeAkFVX3lxTE11d1ZoaFVrdmMyanFWVVFRTzh5MXAwUmtEcVVMMUtwcWE1WUN2RTlvVnJraC1WM0xUckZrV3Q1aUNXbmxQSFJjdUVFZmpRT2NkOVczcnFXWlBkb20yYXQxb3VuRFZfMFpFelNGR2xwOUJwVzV0Y3J2a3d5REJsX3R6c3AyMjdKSDVQb3RfdmsyamFhNHUtdmFtMFZLWmE0bzJ3V2xCTEpqQmFwZm1LdjI5S0lwRGNoRWFmOHhxSTFvUFFDU3lSZ1ZsekdZM3hUZVc1VGJTMDNGV3JUeTJ3YWw1Mk03VE1zdHV4ZU5iSzBkUDhYTnpnRkd2dGZWQzlUYTgzUFRINGRCSzdUOWw5RTJLZ3UzeVZVR2hlRkxxZ0E?oc=5",
+        "published": "2026-08-04T06:48:00+00:00",
+        "published_label": "Tue 04 Aug, 06:48",
+        "summary": "'A few players will be wiped off': Pullela Gopichand warns BWF's new scoring system could change badminto The Times of India",
+        "body": "believes badminton's switch to the 15-point scoring format could dramatically reshape the sport, warning that while some players will thrive, others may struggle to survive the tactical transformation.\n\nThe Badminton World Federation (BWF) has approved the introduction of the 15x3 scoring system from next year, replacing the current best-of-three games to 21 points. The world body has argued that the shorter format will help reduce player workload amid an increasingly packed international calendar.",
+        "copy": "believes badminton's switch to the 15-point scoring format could dramatically reshape the sport, warning that while some players will thrive, others may struggle to survive the tactical transformation.\n\nThe Badminton World Federation (BWF) has approved the introduction of the 15x3 scoring system from next year, replacing the current best-of-three games to 21 points. The world body has argued that the shorter format will help reduce player workload amid an increasingly packed international calendar.",
+        "first_seen": "2026-08-04T10:08:57.239697+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6298,6 +6298,19 @@
         "body": "India and Brazil were the most successful teams at the Brazil Para Badminton International 2026 that concluded in Sao Paolo on Saturday. India finished with nine gold medals, just ahead of hosts Brazil, who had eight.\n\nPrem Chand Potnuru and Manisha Patel did the star turn for India, winning all their three categories. They started finals day on the perfect note, winning the mixed doubles Short Stature (SH6) gold beating Germany’s Robin Weiler/Julia Schramm in straight games.",
         "copy": "India and Brazil were the most successful teams at the Brazil Para Badminton International 2026 that concluded in Sao Paolo on Saturday. India finished with nine gold medals, just ahead of hosts Brazil, who had eight.\n\nPrem Chand Potnuru and Manisha Patel did the star turn for India, winning all their three categories. They started finals day on the perfect note, winning the mixed doubles Short Stature (SH6) gold beating Germany’s Robin Weiler/Julia Schramm in straight games.",
         "first_seen": "2026-08-04T08:33:29.763458+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Brazil Para: Big Haul for India, Brazil",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcWxmamRCY1VEai1ZbVN3eHNJSHh4R3VURko3YjVDd0QzVF93VmlxTnY1Q08xSzhIYTNndkxIRUx4V2hSRVlMYjZMZVZCX3g5UHN0ejFPLTVfOFZhWGg0TV9aX0lTMkFBTlQzYTZrQlVFVW93Z2tZVVAzdjhZT0ZNdW44czF6clg5M1I0bGlB?oc=5",
+        "published": "2026-08-04T01:09:49+00:00",
+        "published_label": "Tue 04 Aug, 01:09",
+        "summary": "Brazil Para: Big Haul for India, Brazil BWF",
+        "body": "India and Brazil were the most successful teams at the Brazil Para Badminton International 2026 that concluded in Sao Paolo on Saturday. India finished with nine gold medals, just ahead of hosts Brazil, who had eight.\n\nPrem Chand Potnuru and Manisha Patel did the star turn for India, winning all their three categories. They started finals day on the perfect note, winning the mixed doubles Short Stature (SH6) gold beating Germany’s Robin Weiler/Julia Schramm in straight games.",
+        "copy": "India and Brazil were the most successful teams at the Brazil Para Badminton International 2026 that concluded in Sao Paolo on Saturday. India finished with nine gold medals, just ahead of hosts Brazil, who had eight.\n\nPrem Chand Potnuru and Manisha Patel did the star turn for India, winning all their three categories. They started finals day on the perfect note, winning the mixed doubles Short Stature (SH6) gold beating Germany’s Robin Weiler/Julia Schramm in straight games.",
+        "first_seen": "2026-08-04T10:08:57.239697+00:00"
       },
       {
         "section": "Badminton",
@@ -7078,19 +7091,6 @@
         "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-07-29T12:01:40.040062+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Junior badminton team flies to Philippines for BWF tournament",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Dbmd3U3R1dklSTEpLRjMzMUlBbm5abE9EMXpLZnZpQlhPOWRXdmo0YkZIbzRiN1gyVW8zSXB5amw4c0hyOFJnRmVyRE5NeHVsVUVpRDQ2LTR0N2VJbWotdw?oc=5",
-        "published": "2026-07-28T10:00:46+00:00",
-        "published_label": "Tue 28 Jul, 10:00",
-        "summary": "Junior badminton team flies to Philippines for BWF tournament Edition.mv",
-        "body": "The Maldives' junior badminton team has left for Philippines to join the BWF Junior International Series scheduled to be held in Manila from August  4 to 9. The tournament will be held at the Gameville Central Park in Manila. Maldives will be participating in the Under-15 and Under-19 categories in this tournament.\n\nThe Under-15 squad includes Risham Abdul Faththah, Laiba Ahmed Mahloof and Yalvy Hussain Zuhury. Under-19 players participating in the tournament are Ahmed Falah Faruzan, Izyan Abdulla Saeed, Mohamed Aidhin Anwar and Aminath Amna Ali Amir.",
-        "copy": "The Maldives' junior badminton team has left for Philippines to join the BWF Junior International Series scheduled to be held in Manila from August  4 to 9. The tournament will be held at the Gameville Central Park in Manila. Maldives will be participating in the Under-15 and Under-19 categories in this tournament.\n\nThe Under-15 squad includes Risham Abdul Faththah, Laiba Ahmed Mahloof and Yalvy Hussain Zuhury. Under-19 players participating in the tournament are Ahmed Falah Faruzan, Izyan Abdulla Saeed, Mohamed Aidhin Anwar and Aminath Amna Ali Amir.",
-        "first_seen": "2026-07-28T11:57:16.185915+00:00"
       }
     ],
     "Competitor News": [
