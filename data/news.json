@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T17:46:42.299171+00:00",
-  "generated_label": "Tuesday 04 August 2026, 17:46 UTC",
+  "generated_at": "2026-08-04T19:29:07.271065+00:00",
+  "generated_label": "Tuesday 04 August 2026, 19:29 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Wall Street’s insurance takeover presents circular risks and rewards",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcG04a2lNN2pScVQ0YTZtNFE1MDQ2UUQ4XzQ3UUlILUlLOWY0cHcyZEZ4RGp6bjF2SXcyRmJJajhJcTA3dFJNWjJOT212emoxMVpBRng4WUt4QXNlQmxCQ3FOTXZsUUJGWmI1RUM4dU5FWGJiVkJfNmVpRmFxeXZNU29qUUg?oc=5",
+        "published": "2026-08-04T15:53:02+00:00",
+        "published_label": "Tue 04 Aug, 15:53",
+        "summary": "Wall Street’s insurance takeover presents circular risks and rewards Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-04T19:29:07.271065+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -1652,6 +1665,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Siya Kolisi returns to lead much-changed Springbok team in Buenos Aires",
+        "link": "https://www.rugbypass.com/news/siya-kolisi-returns-to-lead-much-changed-springbok-team-in-buenos-aires/",
+        "published": "2026-08-04T18:19:20+00:00",
+        "published_label": "Tue 04 Aug, 18:19",
+        "summary": "Rassie Erasmus has made 13 changes to the team that started the 43-0 win over Wales in round three of the Nations Championship in July.",
+        "body": "Rassie Erasmus has made 13 changes to the team that started the 43-0 win over Wales in round three of the Nations Championship in July for Saturday’s clash with the Pumas at Estadio José Amalfitani in Buenos Aires.\n\nDouble World Cup-wining captain Siya Kolisi missed the first three Tests of the year, but is back to lead the team from blindside. The 35-year-old is joined in the starting line-up by other experienced internationals, such as fit-again lock duo, Eben Etzebeth, Lood de Jager, who’ve also been absent in 2026 and bring over 200 caps worth of experience to the team.",
+        "copy": "Rassie Erasmus has made 13 changes to the team that started the 43-0 win over Wales in round three of the Nations Championship in July for Saturday’s clash with the Pumas at Estadio José Amalfitani in Buenos Aires.\n\nDouble World Cup-wining captain Siya Kolisi missed the first three Tests of the year, but is back to lead the team from blindside. The 35-year-old is joined in the starting line-up by other experienced internationals, such as fit-again lock duo, Eben Etzebeth, Lood de Jager, who’ve also been absent in 2026 and bring over 200 caps worth of experience to the team.",
+        "first_seen": "2026-08-04T19:29:07.271065+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "KSSSA: Defending champions Kinale and unbeaten Upper Hill march into rugby sevens semis",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObXpZQWluX1VsWE5IUTZwMVJfSUlkZXg0RmF2LUIzVE9ZU3h1cUtiVUNOUDhKQnVzYlNvMm1sU1BLbC1yWFdKN1RrU3pITU9qSHBQc05OWmY0OHdteTRFUURZU1c0a3NXOE9ueXpLMl9JWlF1R2gtZngxczYwN3I3aW1JTWlPN0QzTFA5c2E1S3kzY0xLRGhoNnBTYVZvODR5MzVGbENic192TTljRDhncnk1c2QzSGZZMTdaeldaSTBySnI5dElXTHNCdzQ3YkU?oc=5",
+        "published": "2026-08-04T18:03:00+00:00",
+        "published_label": "Tue 04 Aug, 18:03",
+        "summary": "KSSSA: Defending champions Kinale and unbeaten Upper Hill march into rugby sevens semis Mozzart Sport Kenya",
+        "body": "Reading Time: 2min | Tue. 04.08.26. | 21:02 Western Region champions Bokoli Boys produced one of the standout performances of the quarterfinals by defeating Rift Valley champions St. Anthony's Kitale\n\nDefending champions Kinale Girls remained firmly on course to retain their Kenya Secondary Schools Sports Association (KSSSA) rugby sevens title, while unbeaten Upper Hill School continued their impressive run into the boys' semifinals after another commanding victory at the M-Pesa Foundation Academy.",
+        "copy": "Reading Time: 2min | Tue. 04.08.26. | 21:02 Western Region champions Bokoli Boys produced one of the standout performances of the quarterfinals by defeating Rift Valley champions St. Anthony's Kitale\n\nDefending champions Kinale Girls remained firmly on course to retain their Kenya Secondary Schools Sports Association (KSSSA) rugby sevens title, while unbeaten Upper Hill School continued their impressive run into the boys' semifinals after another commanding victory at the M-Pesa Foundation Academy.",
+        "first_seen": "2026-08-04T19:29:07.271065+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -3647,6 +3686,19 @@
         "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
+        "title": "Camilo Ugo Carabelli vs Cam Norrie | Canadian Open highlights",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSTJuQXY5NGNiTm56NDl1RkdMSHBmMXJRR1Q0R2E4NW9Sa3lkRVU2VWx1T2N1WWt2OVphYkxIcnFTRkE2d0pTSGJpeDFKbGRDd1ZhMnpYRDk3OUtmSzdSS1FNN0RUSGZqRTdzZEo5ejVRcGo3eXRMVXNreHZUdkpWZEFHNVgtMjlGRFU1aXBiOEd0Y1dTeTVzMzZsZ1dQU04wdnpwZW54UzRuc0VvOUR3UlZLdw?oc=5",
+        "published": "2026-08-04T05:42:19+00:00",
+        "published_label": "Tue 04 Aug, 05:42",
+        "summary": "Camilo Ugo Carabelli vs Cam Norrie | Canadian Open highlights Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-04T19:29:07.271065+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
         "title": "US Open: Novak Djokovic and Aryna Sabalenka team up for mixed doubles, no Carlos Alcaraz or Jannik Sinner yet",
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMm1kQk9XazhPNVAwQW9Hbks4YTNVdDFqSVRqcVE3aGJVWkFhNVBjMmZTOUM1ZUxicXJ0WnVaaS03QWdaUUlZWG5TU0ZUd3g0UmNIYV9yeXR3SmpHZDNIV1JFUVBKcWdUZ3EwY3o1dkNibWJwejFnNDFoclZmMXM5Q2lBcUktMEhRMXNMenczQnk3aWFTaVN5MUlqYS1Ub2ZuNmZHdGcwM0tKYUZiU3NSUXhXQ21UVEx4b2loQTRJMTZYODZuNERaTE9td2xITmVTRWNibnlxWDFFZ3haOE4xQXdhTVlVQW9aeUNzUHJBZnRHZF95WVhYdW40Nk5Cbi1HZVlyRg?oc=5",
         "published": "2026-08-04T05:40:42+00:00",
@@ -4347,6 +4399,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf star with a major top-10 finish in 2026 confirms his manager has discussed PGA Tour return",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRU8zYXQ4dFhCQjF1WjlkaWdlaGc4VVpXeHpScWJHZjNIY193U00xeGcyX2VIT280aG9hbmU5OHRhcGFBMERqaGtoU2hJS2JKNGxiZmw4VmhNQTlIZ1hoS09aNVVsZFN0UVlEclR3WmE3ejFocVlDR0I4MDY1SGVLMGYzb1g5TG9iSy0wbFNUQmMxb0tNaFN2b2JCQW1Wb2xVSk9qN2o5SFY4UGlTSGs5UFZyNGx0bi00NkxkN3hB?oc=5",
+        "published": "2026-08-04T19:00:00+00:00",
+        "published_label": "Tue 04 Aug, 19:00",
+        "summary": "LIV Golf star with a major top-10 finish in 2026 confirms his manager has discussed PGA Tour return hitc.com",
+        "body": "If LIV Golf does continue beyond the end of this season, there is absolutely no doubt whatsoever that the landscape of the league will shift significantly moving forward. Back in April, Saudi Arabia’s Public Investment Fund announced that they would be withdrawing their funding from LIV Golf at the end of the 2026 season.\n\nAnd now, LIV Golf CEO Scott O’Neil is frantically searching for new investment in the league. Brooks Koepka has already left LIV Golf and returned to the PGA Tour, while Patrick Reed is set to follow in his footsteps, having left the Saudi-backed league earlier this year.",
+        "copy": "If LIV Golf does continue beyond the end of this season, there is absolutely no doubt whatsoever that the landscape of the league will shift significantly moving forward. Back in April, Saudi Arabia’s Public Investment Fund announced that they would be withdrawing their funding from LIV Golf at the end of the 2026 season.\n\nAnd now, LIV Golf CEO Scott O’Neil is frantically searching for new investment in the league. Brooks Koepka has already left LIV Golf and returned to the PGA Tour, while Patrick Reed is set to follow in his footsteps, having left the Saudi-backed league earlier this year.",
+        "first_seen": "2026-08-04T19:29:07.271065+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6218,58 +6283,6 @@
         "body": "There are no guarantees that LIV Golf will still exist once the 2027 season gets going, with the league still fighting to secure fresh investment. It has been, by far, the most turbulent season in LIV Golf’s history this year. The league has struggled to regain stability at any stage following the decision from Brooks Koepka to try and return to the PGA Tour at the end of 2025.\n\nRumours kicked into overdrive during The Masters that the Public Investment Fund of Saudi Arabia were set to walk away and leave the league to fend for themselves. What was the biggest error LIV Golf ever made?",
         "copy": "There are no guarantees that LIV Golf will still exist once the 2027 season gets going, with the league still fighting to secure fresh investment. It has been, by far, the most turbulent season in LIV Golf’s history this year. The league has struggled to regain stability at any stage following the decision from Brooks Koepka to try and return to the PGA Tour at the end of 2025.\n\nRumours kicked into overdrive during The Masters that the Public Investment Fund of Saudi Arabia were set to walk away and leave the league to fend for themselves. What was the biggest error LIV Golf ever made?",
         "first_seen": "2026-07-29T08:37:32.315354+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Don't make this common mistake when practicing your golf swing",
-        "link": "https://golf.com/instruction/dont-make-common-mistake-practicing-golf-swing/",
-        "published": "2026-07-28T18:58:13+00:00",
-        "published_label": "Tue 28 Jul, 18:58",
-        "summary": "GOLF Top 100 Teacher Kevin Sprecher explains the right — and wrong — ways to practice your golf swing on the range. The post Don’t make this common mistake when practicing your golf swing appeared first on Golf .",
-        "body": "When golfers practice, most become overly focused on hitting the ball. They may start with the intention of working on a swing change, but as soon as the ball is placed in front of them, their attention shifts to making contact and producing a “good” shot.\n\nThe result is usually the same familiar swing. When you are working on your mechanics, the goal should not be to hit the ball. Instead, the goal is to make the new swing and observe how that motion affects the ball. The ball provides feedback, but it should not control the movement.",
-        "copy": "When golfers practice, most become overly focused on hitting the ball. They may start with the intention of working on a swing change, but as soon as the ball is placed in front of them, their attention shifts to making contact and producing a “good” shot.\n\nThe result is usually the same familiar swing. When you are working on your mechanics, the goal should not be to hit the ball. Instead, the goal is to make the new swing and observe how that motion affects the ball. The ball provides feedback, but it should not control the movement.",
-        "first_seen": "2026-07-28T19:20:23.519258+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf set to cancel Michigan tournament",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNODhwMjhaajB6VEdhT1JoVzI3YkVZLUZaNzdTelRrMTBQWkRHd0xXcUpNX3VJdm80TkJsTldTMTlxV04zQ2llOVlqLUR3NXljQVNxNG4yT1QxZFk2S3JZWGQ1SG95OC1kZDJkUWwtX0xvVU11R2VsQUJQQjc2N3RnYlR2aFBjZTBnWl9sVWJVU0pCS3NWbXVDYlZsM3RPZmhpY1diR2Jvek5wRDlISlN2VlB3cw?oc=5",
-        "published": "2026-07-28T18:56:15+00:00",
-        "published_label": "Tue 28 Jul, 18:56",
-        "summary": "LIV Golf set to cancel Michigan tournament Sports Business Journal",
-        "body": "LIV Golf is planning to announce on Wednesday that it won’t hold its season-ending event in Michigan, the league’s Team Championship, according to sources who were briefed on the league’s plans.\n\nThe move comes just a week after LIV player Martin Kaymer told multiple outlets it was “highly unlikely” the tournament would take place amid the league’s search for new investment. The Detroit News also reported last week that there had been no infrastructure buildout at The Cardinal at Saint John’s Resort for the tournament, which was set for Aug. 27-30. It wasn’t clear if LIV would try and make one of its remaining two tournaments into a team championship-style event.",
-        "copy": "LIV Golf is planning to announce on Wednesday that it won’t hold its season-ending event in Michigan, the league’s Team Championship, according to sources who were briefed on the league’s plans.\n\nThe move comes just a week after LIV player Martin Kaymer told multiple outlets it was “highly unlikely” the tournament would take place amid the league’s search for new investment. The Detroit News also reported last week that there had been no infrastructure buildout at The Cardinal at Saint John’s Resort for the tournament, which was set for Aug. 27-30. It wasn’t clear if LIV would try and make one of its remaining two tournaments into a team championship-style event.",
-        "first_seen": "2026-07-28T19:20:23.519258+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "PGA Tour's latest schedule shakeup features a new sponsor (and surprise venue)",
-        "link": "https://golf.com/news/pga-tour-major-schedule-change-napa-tournament/",
-        "published": "2026-07-28T18:35:17+00:00",
-        "published_label": "Tue 28 Jul, 18:35",
-        "summary": "The PGA Tour announced a major shakeup to its future schedule on Tuesday, with a specific focus on its annual event in Napa. The post PGA Tour’s latest schedule shakeup features a new sponsor (and surprise venue) appeared first on Golf .",
-        "body": "When the PGA Tour descended upon the Travelers Championship in June to announce major changes to the future of professional golf, at least some in the golf world rolled their eyes.\n\nThe changes as outlined by the Tour had been in the works for months … and expected by many inside the sport’s orbit for roughly as long. The real excitement wasn’t going to be laid out in a carefully choreographed press conference, it was going to be scrapped, clawed and cudgeled over in the back rooms and board meetings where golf’s business really gets done. In other words, it was going to be up to the sponsors.",
-        "copy": "When the PGA Tour descended upon the Travelers Championship in June to announce major changes to the future of professional golf, at least some in the golf world rolled their eyes.\n\nThe changes as outlined by the Tour had been in the works for months … and expected by many inside the sport’s orbit for roughly as long. The real excitement wasn’t going to be laid out in a carefully choreographed press conference, it was going to be scrapped, clawed and cudgeled over in the back rooms and board meetings where golf’s business really gets done. In other words, it was going to be up to the sponsors.",
-        "first_seen": "2026-07-28T19:20:23.519258+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Scott O’Neil set to hold meeting with LIV Golf players this week over future of the league",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0hKbWFRUGJwMUVXSFRfQ1lGZXBLMy05TEZiUmVKMnlOamljX2M5ZENYNE5QN1cxbXg3VFB2VkR0b2RyZFVYUy1tY0RjYUUzYmNSQ2NyUXpYZ01UWERyQjZ1S1JYVFBaLUJLZUI4UEtERV9MTWJIQ0tJM2pGX19vNFB4cllYYXBGLWJCcDVYTk5aNHhwcDZRUkt5NVBDWU1hMmZkb3pWbjlsVW04WHBMcg?oc=5",
-        "published": "2026-07-28T18:00:00+00:00",
-        "published_label": "Tue 28 Jul, 18:00",
-        "summary": "Scott O’Neil set to hold meeting with LIV Golf players this week over future of the league hitc.com",
-        "body": "Scott O’Neil is set to meet with LIV Golf players later this week to provide them with an update as he prepares to hold further talks with potential investors in the coming days.\n\nTime seems to be running out for LIV Golf to find a way out of its current predicament. As things stand, it would appear that the league is still yet to find the investment to keep it running into 2027.",
-        "copy": "Scott O’Neil is set to meet with LIV Golf players later this week to provide them with an update as he prepares to hold further talks with potential investors in the coming days.\n\nTime seems to be running out for LIV Golf to find a way out of its current predicament. As things stand, it would appear that the league is still yet to find the investment to keep it running into 2027.",
-        "first_seen": "2026-07-28T19:20:23.519258+00:00"
       }
     ],
     "Badminton": [
@@ -6285,6 +6298,19 @@
         "body": "Two-time Olympic medallist PV Sindhu was on Tuesday, August 4, seeded ninth in women's singles, while the star men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty were handed the fifth seeding for the upcoming BWF World Championships, to be held at the Indira Gandhi Stadium here from August 17-23.\n\nSindhu is the current Japan Open champion, while Satwik and Chirag are the 2022 Asian Games gold medallists. India have two entries each in all five categories of the championships, with at least one seeded entry in four of the five categories.",
         "copy": "Two-time Olympic medallist PV Sindhu was on Tuesday, August 4, seeded ninth in women's singles, while the star men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty were handed the fifth seeding for the upcoming BWF World Championships, to be held at the Indira Gandhi Stadium here from August 17-23.\n\nSindhu is the current Japan Open champion, while Satwik and Chirag are the 2022 Asian Games gold medallists. India have two entries each in all five categories of the championships, with at least one seeded entry in four of the five categories.",
         "first_seen": "2026-08-04T17:46:42.299171+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "PV Sindhu among four seeded Indian entries at BWF World Championships 2026",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb1pWUEFGaEh6ZV9ONktiM1JSM3NhMHphem1LT0ljSXFGRVBvTXhIYUJaVnB0dmRVcUFzM3FNYXVmX2FuUHdYOTY2NWxnbGsxYUtOb0JQX0x3cVdXM3A1dWNORy1xVDc3ZS1zZl9qZnhIcTJ2NDRISExUcjA4Yzk2TVpORkVrc1lVS1djTFV5M0xvN2N6NXJCWV9LNHFMRDFaanFEQ0gyMHNTMHZhbnJaU2pFbFFOeTM2NEF1SDJ0dEhNYVpUSU9XbWlJcEQxbVNLMFhVTlp1Um84UHfSAeABQVVfeXFMUEk4T0JLck9hNmwxZzkycFhRdU96bW5qd3VTX3RtSUVQRFh6NG84UE5MMFNIRUFfTVFlQlN5aFBJeUpQem1LVFVsMFo1LTAwcE1NTkFJSkgwaHZKR2wzaXZpa0ZxanJlNFZWb0VRdnl0ZnppYXJjSWd3bVJSREFzY2NDSUxiSXg2aGxYSzVGbGVJejUtek5wZG0tR00wOUt5T2VTRDVLa29RMndfNkZKZ2pQa3RrXzBNcHF2cElsRWRwd0R1MDZ6WkIyOGFKbnhISkg2QU5mVnowdnYxOG9DZGk?oc=5",
+        "published": "2026-08-04T14:24:30+00:00",
+        "published_label": "Tue 04 Aug, 14:24",
+        "summary": "PV Sindhu among four seeded Indian entries at BWF World Championships 2026 India Today",
+        "body": "PV Sindhu and Lakshya Sen are the lone seeded entries in singles as India look to make a mark at the home World Championships, starting August 17 in New Delhi. Shi Yuqi of China and An Se Young of Korea are the top seeds in singles at the world meet.\n\nTwo-time Olympic medallist PV Sindhu has been handed the ninth seeding in women's singles, while the former Asian Games gold medal-winning pair of Satwiksairaj Rankireddy and Chirag Shetty will start as fifth seeds in men's doubles for the upcoming BWF World Championships, scheduled to be held at the Indira Gandhi Stadium from August 17 to 23.",
+        "copy": "PV Sindhu and Lakshya Sen are the lone seeded entries in singles as India look to make a mark at the home World Championships, starting August 17 in New Delhi. Shi Yuqi of China and An Se Young of Korea are the top seeds in singles at the world meet.\n\nTwo-time Olympic medallist PV Sindhu has been handed the ninth seeding in women's singles, while the former Asian Games gold medal-winning pair of Satwiksairaj Rankireddy and Chirag Shetty will start as fifth seeds in men's doubles for the upcoming BWF World Championships, scheduled to be held at the Indira Gandhi Stadium from August 17 to 23.",
+        "first_seen": "2026-08-04T19:29:07.271065+00:00"
       },
       {
         "section": "Badminton",
@@ -6350,6 +6376,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-04T14:37:29.723904+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Korea Masters 2026 badminton: Pruthvi Krishnamurthy Roy-Krishna Prasad Garaga stun fourth seeds in opener",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRWxZWmRoWlh6NzAzaTZzeDdMazhFdW9sSGlLb3ZGWkF0SG1LdzRWMFRYcUw2c0tiZ0pndTdWTXFMY3dQNVE2UjRDU1RhQ2ZxN1A1Z2tTNkFZanZTWEpvak50Y1lvaGx2dUpaYUZ5M2xkVHB2a0U1R2ZjX19xeXNpSU5KLXpFNEE?oc=5",
+        "published": "2026-08-04T11:44:00+00:00",
+        "published_label": "Tue 04 Aug, 11:44",
+        "summary": "Korea Masters 2026 badminton: Pruthvi Krishnamurthy Roy-Krishna Prasad Garaga stun fourth seeds in opener olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-04T19:29:07.271065+00:00"
       },
       {
         "section": "Badminton",
@@ -7197,21 +7236,8 @@
         "body": "Ohio State Buckeyes head coach Ryan Day had reservations about the team’s deal with JPMorganChase. The deal, which was struck on Tuesday, makes JPMorganChase the official bank sponsor of Ohio State Athletics.\n\nMoreover, the deal sees the bank becoming the first jersey patch sponsor in Buckeyes history. Day initially opposed the idea before one color theme changed his mind. “I do want to say, in full disclosure, when I first heard about this, I knew about the reputation of JPMorganChase, and I was excited. But then I saw the logo, and I said, ‘Absolutely not, we’re not doing this,'” Day told reporters about the conversation he had with Ohio State’s AD Ross Bjork.",
         "copy": "Ohio State Buckeyes head coach Ryan Day had reservations about the team’s deal with JPMorganChase. The deal, which was struck on Tuesday, makes JPMorganChase the official bank sponsor of Ohio State Athletics.\n\nMoreover, the deal sees the bank becoming the first jersey patch sponsor in Buckeyes history. Day initially opposed the idea before one color theme changed his mind. “I do want to say, in full disclosure, when I first heard about this, I knew about the reputation of JPMorganChase, and I was excited. But then I saw the logo, and I said, ‘Absolutely not, we’re not doing this,'” Day told reporters about the conversation he had with Ohio State’s AD Ross Bjork.",
         "first_seen": "2026-07-30T08:22:38.691924+00:00"
-      },
-      {
-        "section": "Competitor News",
-        "source": "Google News",
-        "kind": "gnews",
-        "title": "Jersey Patch Madness Shows Deion Sanders' Value to Colorado Buffaloes",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGJ1eDlmaHFBb1BlalBSYmRSSEdUS0d2bnN3MUlGaW1sWW5kWlNPMkZPSi1MazBGUGFLMjVtY084WUd6V0JlOXFYd0tNWl9mdzV1Mlg3S2xteEI3bTJLY3o2bV9hVURlVWJFelM0dENBM3ROUmFHeFdVX0hyRmVsUWVjZERhS2xXc1p3allDNVZlazkyYmNCeVFqVExMblZ3RmR4cjJUQzM4U29BYm5v?oc=5",
-        "published": "2026-07-28T18:07:22+00:00",
-        "published_label": "Tue 28 Jul, 18:07",
-        "summary": "Jersey Patch Madness Shows Deion Sanders' Value to Colorado Buffaloes Sports Illustrated",
-        "body": "With the Ohio State Buckeyes reportedly signing a jersey patch deal with JP Morgan Chase worth $17 million annually, the Big 12's conference-wide agreement to add Monster Energy patches for $20 million across 16 schools has been called into question. Shortly after news of Ohio State's deal broke, Notre Dame announced a sponsorship deal with SoFi, reportedly worth $20 million per year, according to insider Ross Dellenger.\n\nIn the 2026-27 football and basketball seasons, Colorado Buffaloes fans can expect to see a bright green M patched onto the team's jerseys like the rest of the Big 12. The conference's deal is the first of its kind across college sports, and Monster will reportedly pay a lump sum of $20 million that will be divided across the 16 teams in the Big 12.",
-        "copy": "With the Ohio State Buckeyes reportedly signing a jersey patch deal with JP Morgan Chase worth $17 million annually, the Big 12's conference-wide agreement to add Monster Energy patches for $20 million across 16 schools has been called into question. Shortly after news of Ohio State's deal broke, Notre Dame announced a sponsorship deal with SoFi, reportedly worth $20 million per year, according to insider Ross Dellenger.\n\nIn the 2026-27 football and basketball seasons, Colorado Buffaloes fans can expect to see a bright green M patched onto the team's jerseys like the rest of the Big 12. The conference's deal is the first of its kind across college sports, and Monster will reportedly pay a lump sum of $20 million that will be divided across the 16 teams in the Big 12.",
-        "first_seen": "2026-07-30T08:22:38.691924+00:00"
       }
     ]
   },
-  "total": 553
+  "total": 555
 }
