@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T08:32:45.796329+00:00",
-  "generated_label": "Wednesday 05 August 2026, 08:32 UTC",
+  "generated_at": "2026-08-05T10:06:53.307385+00:00",
+  "generated_label": "Wednesday 05 August 2026, 10:06 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1649,35 +1649,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-29T12:01:40.040062+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Aston Martin defends contentious £550mn debt deal",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS08ya1BWRm11MVFRZnlqZTd3aFRGY05BckF0X1FIWFQ3M2FXTGxySHZ0Ql9fSlpRMXlRWnVMQTlvR21Zc09ZR1FScGQ2MWJGdzZmTVplOEF4OVZDNjRUVXhKNDBsemNDcldKdG56M3NFM2NtYkQtLTlfellLdVBvUWN3c3c?oc=5",
-        "published": "2026-07-29T09:18:51+00:00",
-        "published_label": "Wed 29 Jul, 09:18",
-        "summary": "Aston Martin defends contentious £550mn debt deal Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-30T08:22:38.691924+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "HSBC watch",
-        "kind": "gnews",
-        "title": "World Rugby confirms return of HSBC SVNS Series to Cape Town in December",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2djZjBleGZPbnJFOS1aazd2RlZma2pEU0FvNHJyREVLcFR6T21zN3J1WnpBVlB5WU8tc1k1aXlqNUY2WndxZW9iYlBRMVoyUWVoeGdkd2hLMEIzM2JwWVRheFpLNzRZbnprS3VPblR6bURDTUdEMmVtOFh0VXNaYXU2VzJUZkZxY09yeGNaaC1kek1SV2RIWks1QUhXVnV4WWhYZnhWeHN6RTFHR3c?oc=5",
-        "published": "2026-07-29T09:07:18+00:00",
-        "published_label": "Wed 29 Jul, 09:07",
-        "summary": "World Rugby confirms return of HSBC SVNS Series to Cape Town in December SABC Sport",
-        "body": "The 2027 Series will once again visit Dubai, Cape Town, Singapore, Perth, Vancouver and New York before culminating in the HSBC SVNS World Championship across Hong Kong, Valladolid and Bordeaux.\n\nThe announcement follows a landmark 2026 competition which saw New Zealand's women and South Africa's men claim the HSBC SVNS Series titles in New York, before Australia's women and South Africa's men were crowned HSBC SVNS World Champions, capping another memorable season of world-class rugby sevens.",
-        "copy": "The 2027 Series will once again visit Dubai, Cape Town, Singapore, Perth, Vancouver and New York before culminating in the HSBC SVNS World Championship across Hong Kong, Valladolid and Bordeaux.\n\nThe announcement follows a landmark 2026 competition which saw New Zealand's women and South Africa's men claim the HSBC SVNS Series titles in New York, before Australia's women and South Africa's men were crowned HSBC SVNS World Champions, capping another memorable season of world-class rugby sevens.",
-        "first_seen": "2026-07-29T12:01:40.040062+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Janse van Rensburg given captaincy ahead of Bok Women's clash with Fiji",
+        "link": "https://www.rugbypass.com/news/janse-van-rensburg-given-captaincy-ahead-of-bok-womens-clash-with-fiji/",
+        "published": "2026-08-05T09:34:35+00:00",
+        "published_label": "Wed 05 Aug, 09:34",
+        "summary": "Libbie Janse van Rensburg will captain South Africa ahead of their second-ever encounter with Fiji this weekend in Suva.",
+        "body": "Libbie Janse van Rensburg will captain South Africa ahead of their second-ever encounter with Fiji this weekend in Suva. The 31-year-old will become just the 12th player to captain the Springbok Women since their Test debut in 2004 and is the only backline player retained from their last game against the USA Women’s Eagles in mid-July.\n\nIn the pack, only Vainah Ubisi and Sizophila Solontsi have retained their starting places from the clash at Loftus Versfeld. Aseza Hele and Lindelwa Gwala will both play for South Africa for the first time since Women’s Rugby World Cup 2025.",
+        "copy": "Libbie Janse van Rensburg will captain South Africa ahead of their second-ever encounter with Fiji this weekend in Suva. The 31-year-old will become just the 12th player to captain the Springbok Women since their Test debut in 2004 and is the only backline player retained from their last game against the USA Women’s Eagles in mid-July.\n\nIn the pack, only Vainah Ubisi and Sizophila Solontsi have retained their starting places from the clash at Loftus Versfeld. Aseza Hele and Lindelwa Gwala will both play for South Africa for the first time since Women’s Rugby World Cup 2025.",
+        "first_seen": "2026-08-05T10:06:53.307385+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "World Rankings: Springboks' place at No.1 under threat in Buenos Aires",
+        "link": "https://www.rugbypass.com/news/world-rankings-springboks-place-at-no-1-under-threat-in-buenos-aires/",
+        "published": "2026-08-05T09:28:05+00:00",
+        "published_label": "Wed 05 Aug, 09:28",
+        "summary": "The All Blacks could go into the four-Test Greatest Rivalry Series as the number one ranked team in the world.",
+        "body": "The All Blacks could go into the four-Test Greatest Rivalry Series (22 August-12 September) as the number one ranked team in the world. South Africa are closing in on an unbroken year-long run at the top, having dethroned the All Blacks last September. But a defeat to Argentina in Buenos Aires this Saturday would result in the All Blacks taking over again.\n\nRassie Erasmus’ side go into the match at Estadio José Amalfitani with a rankings rating of 93.96, giving them a lead of 1.68 points over the All Blacks, who begin their tour of South Africa against the Stormers in Cape Town on Friday night.",
+        "copy": "The All Blacks could go into the four-Test Greatest Rivalry Series (22 August-12 September) as the number one ranked team in the world. South Africa are closing in on an unbroken year-long run at the top, having dethroned the All Blacks last September. But a defeat to Argentina in Buenos Aires this Saturday would result in the All Blacks taking over again.\n\nRassie Erasmus’ side go into the match at Estadio José Amalfitani with a rankings rating of 93.96, giving them a lead of 1.68 points over the All Blacks, who begin their tour of South Africa against the Stormers in Cape Town on Friday night.",
+        "first_seen": "2026-08-05T10:06:53.307385+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'There wasn't even a hesitation': Butcher ready to lead Scotland at WXV Global Series",
+        "link": "https://www.rugbypass.com/news/there-wasnt-even-a-hesitation-butcher-ready-to-lead-scotland-at-wxv-global-series/",
+        "published": "2026-08-05T09:08:46+00:00",
+        "published_label": "Wed 05 Aug, 09:08",
+        "summary": "Dave Butcher says there “wasn't even a hesitation” when he was asked if he would take up the role as Scotland women’s interim head coach ahead of the WXV Global Series.",
+        "body": "Dave Butcher says there “wasn’t even a hesitation” when he was asked if he would take up the role as Scotland women’s interim head coach ahead of the WXV Global Series. There is never a dull day in Scottish rugby and, on Monday morning, the governing body announced that head coach Sione Fukofuka was leaving his post after eight months and was returning home to Australia for family and personal reasons.\n\nAt that time it was explained that Butcher, who had been an assistant under Fukofuka, was to become interim head coach. Later in the day, Scottish Rugby announced that senior assistant coach Ioan Cunningham was leaving too and that Chris Laidlaw from Harlequins and Tom Luke from Bristol Bears were joining as assistants for the upcoming quintet of Test matches.",
+        "copy": "Dave Butcher says there “wasn’t even a hesitation” when he was asked if he would take up the role as Scotland women’s interim head coach ahead of the WXV Global Series. There is never a dull day in Scottish rugby and, on Monday morning, the governing body announced that head coach Sione Fukofuka was leaving his post after eight months and was returning home to Australia for family and personal reasons.\n\nAt that time it was explained that Butcher, who had been an assistant under Fukofuka, was to become interim head coach. Later in the day, Scottish Rugby announced that senior assistant coach Ioan Cunningham was leaving too and that Chris Laidlaw from Harlequins and Tom Luke from Bristol Bears were joining as assistants for the upcoming quintet of Test matches.",
+        "first_seen": "2026-08-05T10:06:53.307385+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3588,19 +3601,6 @@
         "body": "Coaches always want to leave the organisation they work for in a better place once they move on, and Estonian Rugby will have no complaints on that front when Graham Smith’s time with them officially comes to an end next week.\n\nSmith, a Rugby World Cup-winning coach with England Women in 2014, has spent the last four years in the Baltic country, having been given the all-encompassing task of building the sport up there from pretty much ground zero.",
         "copy": "Coaches always want to leave the organisation they work for in a better place once they move on, and Estonian Rugby will have no complaints on that front when Graham Smith’s time with them officially comes to an end next week.\n\nSmith, a Rugby World Cup-winning coach with England Women in 2014, has spent the last four years in the Baltic country, having been given the all-encompassing task of building the sport up there from pretty much ground zero.",
         "first_seen": "2026-07-29T12:01:40.040062+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Les qualifications du rugby à 7 pour les JO de LA28 passeront par la France",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU0xsa3Y1SDJGN0dWendBbWJSdmY5S2ZoNTlEaUdzaUlKanRMenJHRXIxYVZOOXZISU9fNEJUbm5JVWNXQ1o2WVVuQ1NQS21UeUZqN0ZKN2EyWk12Rk42bmNOZHliZGVJR1g0blJ5M1ZxZjlvUVIwRWlhczM1bU9MWll1NjdYemJ5LXhRbGNBM0JaSXBvQWU3YTlVZXN3b2NwMmZOMWJTQ0M3Y1lrYS00MA?oc=5",
-        "published": "2026-07-29T09:35:00+00:00",
-        "published_label": "Wed 29 Jul, 09:35",
-        "summary": "Les qualifications du rugby à 7 pour les JO de LA28 passeront par la France olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-29T10:06:37.569361+00:00"
       }
     ],
     "Tennis": [
@@ -3629,6 +3629,19 @@
         "body": "A tearful Jack Draper was knocked out of the Canadian Open amid “upsetting” scenes as the Briton’s chronic arm injury appeared to resurface during his three-set defeat to Terence Atmane.\n\nDraper, who was playing in his first tournament since withdrawing from Wimbledon, appeared to be sobbing uncontrollably during the changeover while trailing 4-1 in the third set.",
         "copy": "A tearful Jack Draper was knocked out of the Canadian Open amid “upsetting” scenes as the Briton’s chronic arm injury appeared to resurface during his three-set defeat to Terence Atmane.\n\nDraper, who was playing in his first tournament since withdrawing from Wimbledon, appeared to be sobbing uncontrollably during the changeover while trailing 4-1 in the third set.",
         "first_seen": "2026-08-05T08:32:45.796329+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "'So hard to watch' - Jack Draper in tears during defeat on return from injury",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa3NMdlJLLXN4QjhPWjd6UkprbklVVlN2UHZGaWNBcmQ0TzdTcUlEQUtEQkhwdzc4QTRSVFdhMXRTUUxQZGxmUHJMSmwyXzk3enpVWXJoOS0wUjJOaldid1V2OXRjTXV2WVJka0kxc1YwbTBZOHhwa2hxTlFaOU1QajNoNGQ5UQ?oc=5",
+        "published": "2026-08-05T06:49:00+00:00",
+        "published_label": "Wed 05 Aug, 06:49",
+        "summary": "'So hard to watch' - Jack Draper in tears during defeat on return from injury The Sun",
+        "body": "JACK DRAPER sobbed on court as his latest injury comeback ebbed towards defeat. The former world No4 was playing just his sixth tournament since Wimbledon 2025 as he took on Terence Atmane at the Canadian Open.\n\nDraper, 24, has suffered with bone bruising in his left arm for more than 12 months. The Londoner was a late withdrawal at Wimbledon earlier this summer and was also forced to pull out at the last minute in Washington last week.",
+        "copy": "JACK DRAPER sobbed on court as his latest injury comeback ebbed towards defeat. The former world No4 was playing just his sixth tournament since Wimbledon 2025 as he took on Terence Atmane at the Canadian Open.\n\nDraper, 24, has suffered with bone bruising in his left arm for more than 12 months. The Londoner was a late withdrawal at Wimbledon earlier this summer and was also forced to pull out at the last minute in Washington last week.",
+        "first_seen": "2026-08-05T10:06:53.307385+00:00"
       },
       {
         "section": "Tennis",
@@ -4494,6 +4507,58 @@
         "section": "Golf",
         "source": "HSBC golf watch",
         "kind": "gnews",
+        "title": "Bryson DeChambeau leads LIV Golf player meeting over uncertain future",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmQxTDBNVWJ3b1RMcEhmeDNDSGZSME9TVmRiMTdabTd5ZWI2cllCMV9nT2hVTk1mSEloWlI1bXZuNHdYQjd3ZEd2ekJUWVM3YUZqalJPNTRQTHhtWG5aYWh4MW5YVGgzTTBlT2x5V1FqR1BWY2pCeDJMVWRySXYzTFZSS2RyYzdnNjNqTlZqSUZZamx6NkFlV2xOcUsyb3AwX0pZTVZPTlB5R28?oc=5",
+        "published": "2026-08-05T09:41:05+00:00",
+        "published_label": "Wed 05 Aug, 09:41",
+        "summary": "Bryson DeChambeau leads LIV Golf player meeting over uncertain future bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau took charge of a player meeting on site at LIV Golf New York at Trump Bedminster on Tuesday.\n\nDeChambeau gathered his fellow LIV members for a player-only meeting after league CEO, Scott O’Neil led a talk of his own with LIV executives and team captains. It came with major uncertainty looming over the league. After losing the financial backing of the Public Investment Fund of Saudi Arabia (PIF) earlier this year, LIV has been on the hunt for new investors to take them into 2027 and beyond.",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau took charge of a player meeting on site at LIV Golf New York at Trump Bedminster on Tuesday.\n\nDeChambeau gathered his fellow LIV members for a player-only meeting after league CEO, Scott O’Neil led a talk of his own with LIV executives and team captains. It came with major uncertainty looming over the league. After losing the financial backing of the Public Investment Fund of Saudi Arabia (PIF) earlier this year, LIV has been on the hunt for new investors to take them into 2027 and beyond.",
+        "first_seen": "2026-08-05T10:06:53.307385+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf New York prize money 2026: How much they're playing for",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNV9iV1FWT2pzdHEwUTF5WXNNYTlhQXRvUERsdDd2Vk9yQ29QeHdqdDNzZ0lURXlybm5wWWZWSFdnb2VFcTc2ZGh6R2hLUWttZ2tZUHh2UG1zNzcxODU1UVhOOTJibnlBWkxEMnNzMVZDNUpaQ0U5c095UDg4eTlZc2pmOXhzaGkxejJ5NHAtdVhUcWtsT1FHeDRnMVRuTE0?oc=5",
+        "published": "2026-08-05T08:40:50+00:00",
+        "published_label": "Wed 05 Aug, 08:40",
+        "summary": "LIV Golf New York prize money 2026: How much they're playing for Golfmagic",
+        "body": "LIV Golf heads back to the United States for the 10th event of the 2026 campaign in New York. As things stand, Jon Rahm has a healthy lead in the individual standings and looks set to claim his third season-long individual championship in a row.\n\nBut Bryson DeChambeau will be looking to stop the 31-year-old Spaniard. Once again, though, a LIV event will be played amid the backdrop of what is happening off the course. Reports suggest LIV Golf New York could be the penultimate event of the season as the Team Championship in Michigan may not go ahead.",
+        "copy": "LIV Golf heads back to the United States for the 10th event of the 2026 campaign in New York. As things stand, Jon Rahm has a healthy lead in the individual standings and looks set to claim his third season-long individual championship in a row.\n\nBut Bryson DeChambeau will be looking to stop the 31-year-old Spaniard. Once again, though, a LIV event will be played amid the backdrop of what is happening off the course. Reports suggest LIV Golf New York could be the penultimate event of the season as the Team Championship in Michigan may not go ahead.",
+        "first_seen": "2026-08-05T10:06:53.307385+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau’s LIV Golf meeting came with ‘no updates’ on league’s future",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2EyV2RuXzluYzBJRlkwM0JsYWw2RVhvank3MUEtZ0ZDMzh6bHd3TjNjeVJ5dUFGUDJnRXg1ay16ZGJxMDI5SUdnekhDMTBEYW5Ib1FGOXFSZ3ZjMW14MV8zOU1rLVY0NWxYTlVndmZJRWFpTXJFY3dtUFY2N2ZhMGJwSEI3M1ZEU1E?oc=5",
+        "published": "2026-08-05T08:13:08+00:00",
+        "published_label": "Wed 05 Aug, 08:13",
+        "summary": "Bryson DeChambeau’s LIV Golf meeting came with ‘no updates’ on league’s future uk.sports.yahoo.com",
+        "body": "Bryson DeChambeau led a meeting with all LIV Golf members at the Trump National Bedminster Golf Club for over 90 minutes. With the future of LIV Golf coming under threat over the last few months due to the financial issues faced by the Saudi Arabian Public Investment Fund (PIF), there is concern about the future and continuity of the tour.\n\nAs a result, Bryson DeChambeau led a 90-minute meeting with all the LIV Golf members to try and understand where they stand. Several members of LIV Golf spoke to Front Office Sports about the 90-minute meeting Bryson DeChambeau conducted at the Trump National Bedminster Golf Club.",
+        "copy": "Bryson DeChambeau led a meeting with all LIV Golf members at the Trump National Bedminster Golf Club for over 90 minutes. With the future of LIV Golf coming under threat over the last few months due to the financial issues faced by the Saudi Arabian Public Investment Fund (PIF), there is concern about the future and continuity of the tour.\n\nAs a result, Bryson DeChambeau led a 90-minute meeting with all the LIV Golf members to try and understand where they stand. Several members of LIV Golf spoke to Front Office Sports about the 90-minute meeting Bryson DeChambeau conducted at the Trump National Bedminster Golf Club.",
+        "first_seen": "2026-08-05T10:06:53.307385+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "DeChambeau leads player meeting on LIV Golf's future",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOVdHWWtuQUs0elNYQzRORS02Z2VZNkdJVW94S0tnYVQzaW9WczFCbUtLbllBeksyWXZZdmtacXN2SXptTEZVVUJkb1o4aUpUVEJWdjRqb1RGWl9ZSHVUaktfRk02d0gxYUJvYWtZdThTbG10Z1pXazF6RGVRM1pkNWI5eDRDaXlFbnRqUnFxSnl2ZUlBbnZkcEJCVnBhTUtwOUFtdDlXRWZOWWhNYWZ1M0gzU1B5Y1FZU2NzOVBkejBDSUhOX2tKZllRa1EzX0Z3TUdRUmdiQkp2Q1R2UDZiQTJ3aXdBaFM2dHlXY19KMDNQc1NIaVE?oc=5",
+        "published": "2026-08-05T07:41:21+00:00",
+        "published_label": "Wed 05 Aug, 07:41",
+        "summary": "DeChambeau leads player meeting on LIV Golf's future Sky Sports",
+        "body": "Cameron Smith says he is expecting LIV Golf's season-ending Team Championship to go ahead as Bryson DeChambeau led a player meeting to discuss the future of the league. Uncertainty over LIV's final tournament of the season, which takes place on August 27-30 in Michigan, has lingered, major winner Martin Kaymer previously suggesting that he did not think the event would occur, giving it just a five per cent chance of happening.\n\nThe creation of LIV Golf sent shockwaves through the golfing world following its inception in 2021, where it was positioned as a rival to the PGA Tour and DP World Tour. But now, the future of the breakaway golf league beyond the end of this season also remains in doubt after the Saudi Arabia Public Investment Fund confirmed in April it is ending its funding for the series. LIV is now bidding to seek alternative investment.",
+        "copy": "Cameron Smith says he is expecting LIV Golf's season-ending Team Championship to go ahead as Bryson DeChambeau led a player meeting to discuss the future of the league. Uncertainty over LIV's final tournament of the season, which takes place on August 27-30 in Michigan, has lingered, major winner Martin Kaymer previously suggesting that he did not think the event would occur, giving it just a five per cent chance of happening.\n\nThe creation of LIV Golf sent shockwaves through the golfing world following its inception in 2021, where it was positioned as a rival to the PGA Tour and DP World Tour. But now, the future of the breakaway golf league beyond the end of this season also remains in doubt after the Saudi Arabia Public Investment Fund confirmed in April it is ending its funding for the series. LIV is now bidding to seek alternative investment.",
+        "first_seen": "2026-08-05T10:06:53.307385+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
         "title": "LIV Golf: Cameron Smith expecting season-ending competition to go ahead as Bryson DeChambeau leads player meeting",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEYxNHdpTXh3QVVpcWZUU19zbm9XcDFjNWJZbEljaTUyem5fS2c3YXJkQUc4alNsVUdLS3JIWmhuOG5LZ3FkejBwaUJBRlRqZkU1MmQ4UUhIVk84TkMxdDM2V19ld3d2aWd5cWtONUg0Q2taVkVSd1VaTlIxT1A0LUlxRW1JcmI1VVZnbmZyTXBNLVk5bXNSVTFUdzM?oc=5",
         "published": "2026-08-05T07:30:00+00:00",
@@ -4502,6 +4567,19 @@
         "body": "Cameron Smith says he is expecting LIV Golf's season-ending Team Championship to go ahead as Bryson DeChambeau led a player meeting to discuss the future of the league. Uncertainty over LIV's final tournament of the season, which takes place on August 27-30 in Michigan, has lingered, major winner Martin Kaymer previously suggesting that he did not think the event would occur, giving it just a five per cent chance of happening.\n\nThe creation of LIV Golf sent shockwaves through the golfing world following its inception in 2021, where it was positioned as a rival to the PGA Tour and DP World Tour. But now, the future of the breakaway golf league beyond the end of this season also remains in doubt after the Saudi Arabia Public Investment Fund confirmed in April it is ending its funding for the series. LIV is now bidding to seek alternative investment.",
         "copy": "Cameron Smith says he is expecting LIV Golf's season-ending Team Championship to go ahead as Bryson DeChambeau led a player meeting to discuss the future of the league. Uncertainty over LIV's final tournament of the season, which takes place on August 27-30 in Michigan, has lingered, major winner Martin Kaymer previously suggesting that he did not think the event would occur, giving it just a five per cent chance of happening.\n\nThe creation of LIV Golf sent shockwaves through the golfing world following its inception in 2021, where it was positioned as a rival to the PGA Tour and DP World Tour. But now, the future of the breakaway golf league beyond the end of this season also remains in doubt after the Saudi Arabia Public Investment Fund confirmed in April it is ending its funding for the series. LIV is now bidding to seek alternative investment.",
         "first_seen": "2026-08-05T08:32:45.796329+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "LIV Golf",
+        "kind": "gnews",
+        "title": "Tickets - LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GMjVSRmpvdk9nTjM2RUpPQjhsU1liMk1jc29udGtSQWk0YjIyQVkwbkQzeERudm93anJJcEd3Wmw4a2xiNmhYbWVJSWtSU1dzOWMwcjRkMUJxZnRjUkNfYmRsdDd3X2VIZTJZSThn?oc=5",
+        "published": "2026-08-05T07:20:30+00:00",
+        "published_label": "Wed 05 Aug, 07:20",
+        "summary": "Tickets - LIV Golf mytickets.livgolf.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-05T10:06:53.307385+00:00"
       },
       {
         "section": "Golf",
@@ -6400,19 +6478,6 @@
         "body": "Twenty-two years after one of professional golf's most memorable fashion moments, Ian Poulter walked onto the final round of LIV Golf UK on July 26 wearing his iconic Union Jack trousers — and delivered his strongest performance of the 2026 season in front of a home crowd at Rocester, England.\n\nThe flag-print design was a direct echo of his appearance at the 133rd Open Championship at Royal Troon on July 15, 2004, where Poulter wore the same ensemble, challenging professional golf's strict dress codes and establishing his reputation as the sport's most daring dresser. The look at Royal Troon — where he tied for 25th place — became one of the most celebrated fashion moments in golf history and inspired his IJP clothing line. FOX Sports documented the outfit during final-round coverage at JCB Golf & Country Club, where the scenes drew an unmistakable line back to that defining day two decades ago.",
         "copy": "Twenty-two years after one of professional golf's most memorable fashion moments, Ian Poulter walked onto the final round of LIV Golf UK on July 26 wearing his iconic Union Jack trousers — and delivered his strongest performance of the 2026 season in front of a home crowd at Rocester, England.\n\nThe flag-print design was a direct echo of his appearance at the 133rd Open Championship at Royal Troon on July 15, 2004, where Poulter wore the same ensemble, challenging professional golf's strict dress codes and establishing his reputation as the sport's most daring dresser. The look at Royal Troon — where he tied for 25th place — became one of the most celebrated fashion moments in golf history and inspired his IJP clothing line. FOX Sports documented the outfit during final-round coverage at JCB Golf & Country Club, where the scenes drew an unmistakable line back to that defining day two decades ago.",
         "first_seen": "2026-07-29T14:22:51.666308+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Harrington named as Ryder Cup vice-captain",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/czxew6enzxeo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-29T09:50:27+00:00",
-        "published_label": "Wed 29 Jul, 09:50",
-        "summary": "Three-time major champion Padraig Harrington has been named as one of Luke Donald's vice-captains for the Ryder Cup at Adare Manor in 2027.",
-        "body": "Three-time major champion Padraig Harrington has been named as one of Luke Donald's vice-captains for the Ryder Cup at Adare Manor, in the Republic of Ireland, in 2027. The 54-year-old Dubliner joins the Molinari brothers Edoardo and Francesco in Team Europe's backroom team as they bid for a third consecutive victory over USA.\n\nHarrington played in six Ryder Cups for Team Europe and was a vice-captain on three occasions before captaining the side for the unsuccessful 2021 Ryder Cup at Whistling Straits.",
-        "copy": "Three-time major champion Padraig Harrington has been named as one of Luke Donald's vice-captains for the Ryder Cup at Adare Manor, in the Republic of Ireland, in 2027. The 54-year-old Dubliner joins the Molinari brothers Edoardo and Francesco in Team Europe's backroom team as they bid for a third consecutive victory over USA.\n\nHarrington played in six Ryder Cups for Team Europe and was a vice-captain on three occasions before captaining the side for the unsuccessful 2021 Ryder Cup at Whistling Straits.",
-        "first_seen": "2026-07-29T10:06:37.569361+00:00"
       }
     ],
     "Badminton": [
@@ -6425,8 +6490,8 @@
         "published": "2026-08-05T06:00:00+00:00",
         "published_label": "Wed 05 Aug, 06:00",
         "summary": "Match-fixing probe casts shadow over Indonesia’s badminton World C’ships campaign The Straits Times",
-        "body": "PETALING JAYA – The Indonesia Badminton Association (PBSI) has withdrawn two mixed doubles pairs from the upcoming World Championships amid a match-fixing investigation by the sport’s world governing body.\n\nThe two pairings are world No. 13 Jafar Hidayatullah-Felisha Pasaribu and world No. 24 Adnan Maulana-Indah Cahya Sari Jamil. Although there has been no official confirmation linking the pairs to the probe, their withdrawal from the World Championships, which will be held from Aug 17-23 in New Delhi, has fuelled speculation.",
-        "copy": "PETALING JAYA – The Indonesia Badminton Association (PBSI) has withdrawn two mixed doubles pairs from the upcoming World Championships amid a match-fixing investigation by the sport’s world governing body.\n\nThe two pairings are world No. 13 Jafar Hidayatullah-Felisha Pasaribu and world No. 24 Adnan Maulana-Indah Cahya Sari Jamil. Although there has been no official confirmation linking the pairs to the probe, their withdrawal from the World Championships, which will be held from Aug 17-23 in New Delhi, has fuelled speculation.",
+        "body": "PETALING JAYA – The Badminton Association of Indonesia (PBSI) has withdrawn two mixed doubles pairs from the upcoming World Championships amid a match-fixing investigation by the sport’s world governing body.\n\nThe two pairings are world No. 13 Jafar Hidayatullah-Felisha Pasaribu and world No. 24 Adnan Maulana-Indah Cahya Sari Jamil. Although there has been no official confirmation linking the pairs to the probe, their withdrawal from the tournament, which will be held from Aug 17 to Aug 23 in New Delhi, has fuelled speculation.",
+        "copy": "PETALING JAYA – The Badminton Association of Indonesia (PBSI) has withdrawn two mixed doubles pairs from the upcoming World Championships amid a match-fixing investigation by the sport’s world governing body.\n\nThe two pairings are world No. 13 Jafar Hidayatullah-Felisha Pasaribu and world No. 24 Adnan Maulana-Indah Cahya Sari Jamil. Although there has been no official confirmation linking the pairs to the probe, their withdrawal from the tournament, which will be held from Aug 17 to Aug 23 in New Delhi, has fuelled speculation.",
         "first_seen": "2026-08-05T08:32:45.796329+00:00"
       },
       {
@@ -7338,19 +7403,6 @@
         "body": "For 70 exhausting minutes, Lee Chia Hao slogged against Riki Takei, refusing to let an opportunity to regain his confidence slip away. Roared on by a passionate crowd, the Chinese Taipei men’s singles player survived a tense opening-round battle, sealing a 21-15 14-21 25-23 victory after seeing four consecutive match points erased.\n\nLee admitted he drew strength from the fans who had waited a year to see him compete at home. “It’s been a long time since I played here,” Lee said. “It feels different from playing abroad. Being on home ground, with so many fans cheering me on, makes me feel even more excited and gives me a greater sense of drive.”",
         "copy": "For 70 exhausting minutes, Lee Chia Hao slogged against Riki Takei, refusing to let an opportunity to regain his confidence slip away. Roared on by a passionate crowd, the Chinese Taipei men’s singles player survived a tense opening-round battle, sealing a 21-15 14-21 25-23 victory after seeing four consecutive match points erased.\n\nLee admitted he drew strength from the fans who had waited a year to see him compete at home. “It’s been a long time since I played here,” Lee said. “It feels different from playing abroad. Being on home ground, with so many fans cheering me on, makes me feel even more excited and gives me a greater sense of drive.”",
         "first_seen": "2026-07-29T17:15:18.272746+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Titleholders Tang Jie-Ee Wei withdraw from World C’ships",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmtMeEowY2Jnc3hMMjY2WjNlWHpGMkFmZzQ4cW8zRUxYSnB5dFBMT2phR3czOHA1cV9uS0NYMWtoYXBxcHF4RDhYTlpzdHltbXlZQk5mMUhhR0xWcnJDSW9JWU1wWTRyNVlCZ2FqcmxlQUhGZWF2ZUVrOW8zd090dlptcFpyLWx4UTBkcGJjWHVvdWwtazBYQm05RUw5MFktVndMdUljOUtMWGlJS0xIRWJnN0ZVR2xP?oc=5",
-        "published": "2026-07-29T08:34:00+00:00",
-        "published_label": "Wed 29 Jul, 08:34",
-        "summary": "Titleholders Tang Jie-Ee Wei withdraw from World C’ships Free Malaysia Today",
-        "body": "The Badminton Association of Malaysia confirmed their withdrawal today, saying Ee Wei is continuing her rehabilitation following knee surgery after suffering an anterior cruciate ligament injury to her left knee during the 2026 Singapore Open in May.\n\n“The decision was made based on medical advice, with Ee Wei’s long-term recovery remaining the priority,” BAM said in the statement. It also said it has submitted an application to the Badminton World Federation (BWF) to protect Ee Wei’s world ranking while she undergoes rehabilitation.",
-        "copy": "The Badminton Association of Malaysia confirmed their withdrawal today, saying Ee Wei is continuing her rehabilitation following knee surgery after suffering an anterior cruciate ligament injury to her left knee during the 2026 Singapore Open in May.\n\n“The decision was made based on medical advice, with Ee Wei’s long-term recovery remaining the priority,” BAM said in the statement. It also said it has submitted an application to the Badminton World Federation (BWF) to protect Ee Wei’s world ranking while she undergoes rehabilitation.",
-        "first_seen": "2026-07-29T14:22:51.666308+00:00"
       }
     ],
     "Competitor News": [
@@ -7382,5 +7434,5 @@
       }
     ]
   },
-  "total": 566
+  "total": 570
 }
