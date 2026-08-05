@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T17:28:09.237503+00:00",
-  "generated_label": "Wednesday 05 August 2026, 17:28 UTC",
+  "generated_at": "2026-08-05T19:27:40.991213+00:00",
+  "generated_label": "Wednesday 05 August 2026, 19:27 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -3504,6 +3504,19 @@
         "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
+        "title": "What has gone wrong for Jack Draper and Emma Raducanu?",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmxVMlVreG93c2Z0SldnWXhodUVzdjU4cGdnRFhKWnVqaF83T21EVGx6clJqYkd0RGMtejRJLUZuZzAwR2xEZ3lSNDZDSmJGUE5QSFNidUNYRk04UWNMQlA1T21pMUZLbF9qUmZjR2VIQlhwdXpWcVd4VTFDb1lFMVIyVTVVM2g4dFBycnVXTEZYd01qWlJMYm5VVTZmckRteFE?oc=5",
+        "published": "2026-08-05T18:11:00+00:00",
+        "published_label": "Wed 05 Aug, 18:11",
+        "summary": "What has gone wrong for Jack Draper and Emma Raducanu? The Telegraph",
+        "body": "Draper’s elbow sounds considerably more complicated. Yes, scans did show bone bruising on the end of his humerus – the big bone that runs from the elbow to the shoulder – when his initial pain was checked out last summer. But he is evidently not receiving such clear diagnoses anymore, because he keeps trying – and failing – to play tournaments. In the last 18 months, he has moved from the acute injury phase to something more chronic.\n\nIn that same Sky Sports interview in Montreal, Draper explained that “it’s important for people to recognise that the injury I have is very complex, it’s very complicated and everyone around me is doing everything we can to help this keep moving along”.",
+        "copy": "Draper’s elbow sounds considerably more complicated. Yes, scans did show bone bruising on the end of his humerus – the big bone that runs from the elbow to the shoulder – when his initial pain was checked out last summer. But he is evidently not receiving such clear diagnoses anymore, because he keeps trying – and failing – to play tournaments. In the last 18 months, he has moved from the acute injury phase to something more chronic.\n\nIn that same Sky Sports interview in Montreal, Draper explained that “it’s important for people to recognise that the injury I have is very complex, it’s very complicated and everyone around me is doing everything we can to help this keep moving along”.",
+        "first_seen": "2026-08-05T19:27:40.991213+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
         "title": "Andy Roddick reacts to Emma Raducanu missing the US Open: It just stinks",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcGhoZkp6V0xINGNZUTBCbm9WSFBQU2ptM0J2YV85by12TjJXX2JpTFRsZjRwdE5KU1ptVDA2eHAxVk96WUE2WnU0Y19UN1hhOGRBX0pVcVRXZGpDQjhqaExCM2hvX1gzVW94LVNUZlBIX0lhQS0tSWh4QzRHcEViOTFoaHZjY2pSY0xDVXhzNjkxSl9wX1gzNFgxUDNBcHJBUUVkS0hXbzJnQlM2b1ppQzVDdlkydURkTnBrWjhXcWYzRHEyc3FUSVIwOXBlQQ?oc=5",
         "published": "2026-08-05T13:30:43+00:00",
@@ -4451,6 +4464,84 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf secures ‘lead investor’ until 2030 but future of star names still uncertain",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZuVTFqYl8yN2pBZVpsd3EzYmg3YmRiTnNWel9Oek9oMnhFWVZpNDk4eTRPemhRU2pXejZ0OUY5Wll4c25nbkh2T3Nvblp0cVJNcEtXeS1HRllmOWd4dUQ5b3VuZlJSaXR3R0lwQnMxaVNtZDE4Z1IySkNUQmJfQ2JITzRkZHI2WEpWTDVOVE1SVk81cFJVN1Z2Y1BVVnhFeWs1V2V6NW5RRVNvUklNMGxCYw?oc=5",
+        "published": "2026-08-05T18:58:00+00:00",
+        "published_label": "Wed 05 Aug, 18:58",
+        "summary": "LIV Golf secures ‘lead investor’ until 2030 but future of star names still uncertain The Guardian",
+        "body": "LIV Golf has secured a “lead investor” to safeguard its existence until 2030, although the agreement is unlikely to prevent a batch of high-profile players departing by the end of this year.\n\nScott O’Neil, LIV’s chief executive, announced basic plans for the “next generation” of the tour on Wednesday while refusing to disclose the new funders of the business. After the withdrawal of backing from Saudi Arabia’s Public Investment Fund, O’Neil has been engaged in a race against time to save his business.",
+        "copy": "LIV Golf has secured a “lead investor” to safeguard its existence until 2030, although the agreement is unlikely to prevent a batch of high-profile players departing by the end of this year.\n\nScott O’Neil, LIV’s chief executive, announced basic plans for the “next generation” of the tour on Wednesday while refusing to disclose the new funders of the business. After the withdrawal of backing from Saudi Arabia’s Public Investment Fund, O’Neil has been engaged in a race against time to save his business.",
+        "first_seen": "2026-08-05T19:27:40.991213+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "In PGA Tour schedule shakeup, a playoff host won’t be in Championship Series",
+        "link": "https://golf.com/news/pga-tour-schedule-shakeup-playoff-host-championship/",
+        "published": "2026-08-05T18:40:48+00:00",
+        "published_label": "Wed 05 Aug, 18:40",
+        "summary": "Memphis, which has hosted a PGA Tour playoff event since 2022, won’t stage a PGA Tour Championship Series tournament. The post In PGA Tour schedule shakeup, a playoff host won’t be in Championship Series appeared first on Golf .",
+        "body": "Memphis has hosted PGA Tour tournaments since 1958 and a Tour playoff event since 2022, but the city will not be part of the Tour’s top-level circuit slated to start in 2028. The schedule shakeup, first reported by the Memphis Commercial Appeal, was confirmed in statements given to GOLF.com by the Tour and FedEx, a longtime Tour sponsor and whose name is attached to the current Memphis event, the FedEx St. Jude Championship. That tournament will be played next week at TPC Southwind and next year as well, but then no more in its current role.\n\nThe news comes two months after the Tour announced it would be creating a Championship Series, featuring 23 to 24 events and its highest-rated players, and a lower-tier Challenger Series starting in 2028. The Tour’s sponsorship deal with FedEx — which includes the backing of the Memphis event and the Tour’s seasonlong points race and postseason — is set to end at the end of next year.",
+        "copy": "Memphis has hosted PGA Tour tournaments since 1958 and a Tour playoff event since 2022, but the city will not be part of the Tour’s top-level circuit slated to start in 2028. The schedule shakeup, first reported by the Memphis Commercial Appeal, was confirmed in statements given to GOLF.com by the Tour and FedEx, a longtime Tour sponsor and whose name is attached to the current Memphis event, the FedEx St. Jude Championship. That tournament will be played next week at TPC Southwind and next year as well, but then no more in its current role.\n\nThe news comes two months after the Tour announced it would be creating a Championship Series, featuring 23 to 24 events and its highest-rated players, and a lower-tier Challenger Series starting in 2028. The Tour’s sponsorship deal with FedEx — which includes the backing of the Memphis event and the Tour’s seasonlong points race and postseason — is set to end at the end of next year.",
+        "first_seen": "2026-08-05T19:27:40.991213+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "LIV Golf says it has a lifeline. Here are 9 questions you might be asking",
+        "link": "https://golf.com/news/liv-golf-lifeline-questions-you-might-be-asking/",
+        "published": "2026-08-05T18:24:34+00:00",
+        "published_label": "Wed 05 Aug, 18:24",
+        "summary": "LIV Golf CEO Scott O'Neil said Wednesday that the league has an agreement in place with a lead investor. So, what now? The post LIV Golf says it has a lifeline. Here are 9 questions you might be asking appeared first on Golf .",
+        "body": "BEDMINSTER, N.J. — Will LIV Golf really live to see another season? An answer to that question came into focus — well, sort of — Wednesday morning when the league’s CEO, Scott O’Neil, made a hastily scheduled appearance in the media center here at Trump Bedminster and announced to a room full of reporters, LIV staffers and other interested observers that the league has an agreement in place with a “lead” investor to fund the operation beyond the 2026 season.\n\nO’Neil’s presser was light on detail in terms of the particulars of the deal, but between his remarks and additional information GOLF.com has learned, here’s what we know (and don’t know):",
+        "copy": "BEDMINSTER, N.J. — Will LIV Golf really live to see another season? An answer to that question came into focus — well, sort of — Wednesday morning when the league’s CEO, Scott O’Neil, made a hastily scheduled appearance in the media center here at Trump Bedminster and announced to a room full of reporters, LIV staffers and other interested observers that the league has an agreement in place with a “lead” investor to fund the operation beyond the 2026 season.\n\nO’Neil’s presser was light on detail in terms of the particulars of the deal, but between his remarks and additional information GOLF.com has learned, here’s what we know (and don’t know):",
+        "first_seen": "2026-08-05T19:27:40.991213+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "LIV Golf secures unnamed lead investor for 2027",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c1e14g1d192o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-05T17:36:53+00:00",
+        "published_label": "Wed 05 Aug, 17:36",
+        "summary": "After the withdrawal of Saudi Arabian financial backing earlier this year, LIV Golf says it has secured a deal with an unnamed lead investor to continue next season.",
+        "body": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief exeuctive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
+        "copy": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief exeuctive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
+        "first_seen": "2026-08-05T19:27:40.991213+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf secures unnamed lead investor for 2027 season",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MZE93clZZRDZvaHRnZVpQeHFHZTF2LXlxbzJrMlpiSVRyUXExYUxpbmZyUjlZV2RJdWdvUE9pVXg2MWRuWTg5NmJYOGVkaEs5UlFORWY4WEhjalJFS19BSVN1dWU?oc=5",
+        "published": "2026-08-05T17:36:53+00:00",
+        "published_label": "Wed 05 Aug, 17:36",
+        "summary": "LIV Golf secures unnamed lead investor for 2027 season BBC",
+        "body": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief exeuctive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
+        "copy": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief exeuctive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
+        "first_seen": "2026-08-05T19:27:40.991213+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ryder Cup stars join Irish Open field",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cvgljn1wvxro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-05T17:19:58+00:00",
+        "published_label": "Wed 05 Aug, 17:19",
+        "summary": "Robert MacIntyre, Patrick Reed, Francesco Molinari and Sepp Straka will play the Irish Open at the Trump International Golf Links & Hotel in Doonbeg, County Clare from 9-13 September.",
+        "body": "Robert MacIntyre, Patrick Reed, Francesco Molinari and Sepp Straka will play the Irish Open at the Trump International Golf Links & Hotel in Doonbeg from 9-13 September. Defending champion Rory McIlroy and two-time major winner John Rahm are the headline attractions in a field that also contains home favourites Shane Lowry and Padraig Harrington, as well as Luke Donald, Tyrrell Hatton, and the Hojgaard brothers, Rasmus and Nicolai.\n\nAmerican Reed, who won the Masters in 2018, currently leads the Race to Dubai and has won twice on the DP World Tour this year. The 36-year-old announced his departure from LIV Golf in January and is eligible to return to the PGA Tour this month.",
+        "copy": "Robert MacIntyre, Patrick Reed, Francesco Molinari and Sepp Straka will play the Irish Open at the Trump International Golf Links & Hotel in Doonbeg from 9-13 September. Defending champion Rory McIlroy and two-time major winner John Rahm are the headline attractions in a field that also contains home favourites Shane Lowry and Padraig Harrington, as well as Luke Donald, Tyrrell Hatton, and the Hojgaard brothers, Rasmus and Nicolai.\n\nAmerican Reed, who won the Masters in 2018, currently leads the Race to Dubai and has won twice on the DP World Tour this year. The 36-year-old announced his departure from LIV Golf in January and is eligible to return to the PGA Tour this month.",
+        "first_seen": "2026-08-05T19:27:40.991213+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6426,35 +6517,22 @@
         "body": "The LIV schedule could be on the brink of retracting even further. According to a pair of reports, the latest from the Wall Street Journal, LIV is on the brink of canceling its “team championship” event, which was originally scheduled to conclude the league’s season at the end of August. The news marks the latest in a string of cost-cutting measures from LIV as the league continues its dire push for outside investment necessary to keep it afloat.\n\nThe team championship, which was originally scheduled for Michigan in the last week of August, would be the second event to be canceled since the league’s initial financial backer, the Saudi Public Investment Fund, announced plans to cease its funding of LIV at the conclusion of the 2026 season.",
         "copy": "The LIV schedule could be on the brink of retracting even further. According to a pair of reports, the latest from the Wall Street Journal, LIV is on the brink of canceling its “team championship” event, which was originally scheduled to conclude the league’s season at the end of August. The news marks the latest in a string of cost-cutting measures from LIV as the league continues its dire push for outside investment necessary to keep it afloat.\n\nThe team championship, which was originally scheduled for Michigan in the last week of August, would be the second event to be canceled since the league’s initial financial backer, the Saudi Public Investment Fund, announced plans to cease its funding of LIV at the conclusion of the 2026 season.",
         "first_seen": "2026-07-30T08:22:38.691924+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This simple fix had me reading greens like a pro | The Lab",
-        "link": "https://golf.com/instruction/putting/read-greens-like-golf-pro/",
-        "published": "2026-07-29T18:16:11+00:00",
-        "published_label": "Wed 29 Jul, 18:16",
-        "summary": "I entered my putting lesson with Stephen Sweeney thinking I was a terrible green-reader. I left ready to take on the world. Here's how. The post This simple fix had me reading greens like a pro | The Lab appeared first on Golf .",
-        "body": "We’re now on Episode 3 of The Lab with PGA Tour Putting Performance Advisor Stephen Sweeney, and I’ve not been shy about how this experience changed my game. In Episode 1 we talked all about setup, and Sweeney basically changed every single part of how my body sets up to the ball. In Episode 2 he walked me through the idea of capture speed, and how staying consistent with your intended speed can help make more putts, and now for Episode 3 we’re tackling green reading. I wasn’t shy about green reading being the worst part of my putting performance, but one simple sentence ended up turning it all around.\n\nAs we know from previous episodes there’s basically three reasons a player will miss a putt. There are technical reasons, which include a small portion of the actual equipment in your hands, there’s speed control, and there’s the read you decided on in the first place. As Sweeney explains in the video, the majority of the time the problem starts with the read the player thought they had in their head.",
-        "copy": "We’re now on Episode 3 of The Lab with PGA Tour Putting Performance Advisor Stephen Sweeney, and I’ve not been shy about how this experience changed my game. In Episode 1 we talked all about setup, and Sweeney basically changed every single part of how my body sets up to the ball. In Episode 2 he walked me through the idea of capture speed, and how staying consistent with your intended speed can help make more putts, and now for Episode 3 we’re tackling green reading. I wasn’t shy about green reading being the worst part of my putting performance, but one simple sentence ended up turning it all around.\n\nAs we know from previous episodes there’s basically three reasons a player will miss a putt. There are technical reasons, which include a small portion of the actual equipment in your hands, there’s speed control, and there’s the read you decided on in the first place. As Sweeney explains in the video, the majority of the time the problem starts with the read the player thought they had in their head.",
-        "first_seen": "2026-07-29T19:12:34.524266+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "What’s happening with LIV Golf’s Michigan tour stop? Here’s what we know",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEx5RWFyVFY1anNuVUtBNGEzX1dvQlVnb1Vab2RTNjBwdG5sT25xYVlQaEg3QmRGYkNaa1A4WUdlVFZCdVRwTHdUZjZwVmF2TGlVZF9WOG1WcWhoUkFzQkpWVFhScFZsakppYzM1bTVxYjVTY2RYbU43c1FjcVI5Zk1LNl9BUGJseXZXcGROaFFGeGlQSl85NGROdlNFeHNmOVJ0UkJsTzFqSGI5TjVlMXVhMWp2TlhqcU9pdV9NQQ?oc=5",
-        "published": "2026-07-29T18:03:46+00:00",
-        "published_label": "Wed 29 Jul, 18:03",
-        "summary": "What’s happening with LIV Golf’s Michigan tour stop? Here’s what we know ClickOnDetroit | WDIV Local 4",
-        "body": "This website utilises technologies such as cookies to enable essential site functionality, as well as for analytics, personalisation, and targeted advertising. To learn more, view the following link: Privacy Notice\n\nRumors have been circulating about whether or not LIV Golf’s Michigan tour stop will be canceled. The LIV Golf Team Championship is set to happen from Aug. 27 through Aug. 30, but the tournament setup can’t be seen at the Cardinal at St. Johns in Plymouth. Tickets can still be purchased online starting at $26.",
-        "copy": "This website utilises technologies such as cookies to enable essential site functionality, as well as for analytics, personalisation, and targeted advertising. To learn more, view the following link: Privacy Notice\n\nRumors have been circulating about whether or not LIV Golf’s Michigan tour stop will be canceled. The LIV Golf Team Championship is set to happen from Aug. 27 through Aug. 30, but the tournament setup can’t be seen at the Cardinal at St. Johns in Plymouth. Tickets can still be purchased online starting at $26.",
-        "first_seen": "2026-07-29T19:12:34.524266+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF Satisfied With Upgrades At World Championships Venue After India Open Backlash",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXhGNDBqSXhIbDRfempJcFRPMWVBOWE4T0VaYlhsaElfd1VQbDdsODVZT0hXeXdmUV9yMzNIVEQyUUZrRzRHOXE2bUp4dlFmdmxLclVDRkt2dVJLeG1ycXFuVm8yQ1F0VlpuLW1MUm5TYUpJbFduQWpValJSQWJqbUlac2w1NFIzOVNyTVRmWDMyX2wtcFBYeGhlVUUzZEtxeDdXd3pQSmwtQzNLVk1PMXBlTnJkRkJXUXl0R2pRanJYLWs?oc=5",
+        "published": "2026-08-05T18:39:23+00:00",
+        "published_label": "Wed 05 Aug, 18:39",
+        "summary": "BWF Satisfied With Upgrades At World Championships Venue After India Open Backlash NDTV Sports",
+        "body": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-satisfied-with-upgrades-at-world-championships-venue-after-india-open-backlash-11871708\" on this server.\n\nReference #18.e818d017.1785958057.5557a4be https://errors.edgesuite.net/18.e818d017.1785958057.5557a4be",
+        "copy": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-satisfied-with-upgrades-at-world-championships-venue-after-india-open-backlash-11871708\" on this server.\n\nReference #18.e818d017.1785958057.5557a4be https://errors.edgesuite.net/18.e818d017.1785958057.5557a4be",
+        "first_seen": "2026-08-05T19:27:40.991213+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7429,32 +7507,6 @@
         "body": "At the Badminton World Federation (BWF), we recognise that badminton’s impact extends far beyond the field of play. It has the unique ability to promote inclusion, strengthen communities, create opportunities, and contribute to addressing important social challenges.\n\nThrough the new BWF Social & Humanitarian Grant Programme, we aim to empower our Member Associations (MAs) to harness the power of badminton as a vehicle for meaningful social change, delivering sustainable and measurable outcomes that benefit individuals, communities, and the broader badminton ecosystem.",
         "copy": "At the Badminton World Federation (BWF), we recognise that badminton’s impact extends far beyond the field of play. It has the unique ability to promote inclusion, strengthen communities, create opportunities, and contribute to addressing important social challenges.\n\nThrough the new BWF Social & Humanitarian Grant Programme, we aim to empower our Member Associations (MAs) to harness the power of badminton as a vehicle for meaningful social change, delivering sustainable and measurable outcomes that benefit individuals, communities, and the broader badminton ecosystem.",
         "first_seen": "2026-07-30T08:22:38.691924+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Top 5 Women’s Singles Players at BWF World Championships 2023",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1NEdXhPYmhLRnVzbF9yazZyRzJZcWlHWjc5MENrTVU4czRWODItR3JnTnlDelk2aFdaYUlvRDVHamU4SXN6LUc3TUdELTNZaFZGdjhRSnB2c1lQMmhVeUZwUlVlZEN3czE1azdHWV9LbHl2Z3ZRby1yX3pBLUVWeUxNOFlISG1sTzlmc1BBejZZVDMycVdaWXB1VmN2VkR6RzROQUtGTVR5dw?oc=5",
-        "published": "2026-07-29T18:17:31+00:00",
-        "published_label": "Wed 29 Jul, 18:17",
-        "summary": "Top 5 Women’s Singles Players at BWF World Championships 2023 The News Mill",
-        "body": "As New Delhi prepares to host the Badminton World Federation (BWF) World Championships from August 17 to 23, some of the sport’s top women’s singles players will compete in the national capital. The tournament is expected to feature a mix of memorable upsets, emerging talents and seasoned athletes cementing their legacies. Here are five players to watch during the championships.\n\nReigning Olympic champion and former world number one, An Se Young enters the championships among the favourites for the title. She made history by becoming South Korea’s first women’s singles World Champion in 2023, then added Olympic gold at the Paris 2024 Games. Completing the career Grand Slam, she secured the Badminton Asia Championships title in 2026, establishing herself as one of the most accomplished players of her generation.",
-        "copy": "As New Delhi prepares to host the Badminton World Federation (BWF) World Championships from August 17 to 23, some of the sport’s top women’s singles players will compete in the national capital. The tournament is expected to feature a mix of memorable upsets, emerging talents and seasoned athletes cementing their legacies. Here are five players to watch during the championships.\n\nReigning Olympic champion and former world number one, An Se Young enters the championships among the favourites for the title. She made history by becoming South Korea’s first women’s singles World Champion in 2023, then added Olympic gold at the Paris 2024 Games. Completing the career Grand Slam, she secured the Badminton Asia Championships title in 2026, establishing herself as one of the most accomplished players of her generation.",
-        "first_seen": "2026-07-29T19:12:34.524266+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "5 women's singles players to watch out for at BWF World Championships in New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUVVEYkFKUFl3ZGVia29KU3FwcDVwV040WWZmdkIwbG05SEc4V2w0YlUtUUYwYkNBUDJheFM0Z1ZRbzU0RzNRTFE5ZktaNElmblhEdWo1QWlWTVlMLXJ1azlIbldWX3MyZFB1U3Y1cmFYako0TFNzVlJoYUQ0ZGs1N2R6R2p3X2pEZGJsd3FNNHBiYVpWam43Vi1CNjE3Y3FDUWZTRXlraGx6bXhrWERZbGk0V2VRNkZkMGJQaHBVWXFsVWQyV3RFd1ZjejJXQXJmMWlF?oc=5",
-        "published": "2026-07-29T18:07:00+00:00",
-        "published_label": "Wed 29 Jul, 18:07",
-        "summary": "5 women's singles players to watch out for at BWF World Championships in New Delhi ANI News",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-29T19:12:34.524266+00:00"
       }
     ],
     "Competitor News": [
@@ -7486,5 +7538,5 @@
       }
     ]
   },
-  "total": 574
+  "total": 578
 }
