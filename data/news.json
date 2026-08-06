@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T08:31:49.933522+00:00",
-  "generated_label": "Thursday 06 August 2026, 08:31 UTC",
+  "generated_at": "2026-08-06T10:08:02.798284+00:00",
+  "generated_label": "Thursday 06 August 2026, 10:08 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "SportBusiness",
+        "kind": "direct",
+        "title": "Global leaders, one room: all eyes on Melbourne’s SportNXT",
+        "link": "https://www.sportbusiness.com/2026/08/global-leaders-one-room-all-eyes-on-melbournes-sportnxt/?utm_source=rss&utm_medium=rss&utm_campaign=global-leaders-one-room-all-eyes-on-melbournes-sportnxt",
+        "published": "2026-08-06T09:00:00+00:00",
+        "published_label": "Thu 06 Aug, 09:00",
+        "summary": "SportNXT arrives in September, bringing together some of the most interesting voices in sport. Source",
+        "body": "",
+        "copy": "SportNXT arrives in September, bringing together some of the most interesting voices in sport. Source",
+        "first_seen": "2026-08-06T10:08:02.798284+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1467,22 +1480,35 @@
         "body": "",
         "copy": "With an increasing number of courses that all promise the world, this takes some thought. Source",
         "first_seen": "2026-07-30T11:52:19.561247+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "DP World Tour and Axi strike three-year deal",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzdzRGxRUjRjX1VTSGIxX0NzcXpOMDVPUGVZSV9lQmQ0OGtFclBLTzFXa0laRmYwemo3djdoSUhCRXphMl9YcnVVWUdBQmx0bUZTY1pobTgtUWE2SXJFcVRwMEprcW4zbGJVemJnMFBsSlRNOUVfaXpsSWI2LWtNag?oc=5",
-        "published": "2026-07-30T08:50:27+00:00",
-        "published_label": "Thu 30 Jul, 08:50",
-        "summary": "DP World Tour and Axi strike three-year deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-30T10:00:08.159136+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Fijiana include two debutants for first-ever Ubuntu–Bula Trophy clash with Springboks",
+        "link": "https://www.rugbypass.com/news/fijiana-include-two-debutants-for-first-ever-ubuntu-bula-trophy-clash-with-springboks/",
+        "published": "2026-08-06T09:29:25+00:00",
+        "published_label": "Thu 06 Aug, 09:29",
+        "summary": "The Fijiana XV have named two debutants for their encounter with the Springbok Women this weekend in Suva.",
+        "body": "The Fijiana XV have named two debutants for their encounter with the Springbok Women this weekend in Suva. In the 2026 Super Rugby Women’s season, Buleki scored four tries as the Western Force secured a home play-off clash for the first time.\n\nBuleki was a silver medal winner with Fiji Women Sevens at the 2022 Commonwealth Games and spent a season with the Canterbury-Bankstown Bulldogs in NRLW. Fijian Drua midfielder Ruth Raketekete, who was named her team’s Community Champion of the Year, will also earn her first Test cap for Fiji on Saturday afternoon.",
+        "copy": "The Fijiana XV have named two debutants for their encounter with the Springbok Women this weekend in Suva. In the 2026 Super Rugby Women’s season, Buleki scored four tries as the Western Force secured a home play-off clash for the first time.\n\nBuleki was a silver medal winner with Fiji Women Sevens at the 2022 Commonwealth Games and spent a season with the Canterbury-Bankstown Bulldogs in NRLW. Fijian Drua midfielder Ruth Raketekete, who was named her team’s Community Champion of the Year, will also earn her first Test cap for Fiji on Saturday afternoon.",
+        "first_seen": "2026-08-06T10:08:02.798284+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Former England fly-half Freddie Burns retires rom rugby",
+        "link": "https://www.rugbypass.com/news/former-england-fly-half-freddie-burns-retires-rom-rugby/",
+        "published": "2026-08-06T09:18:54+00:00",
+        "published_label": "Thu 06 Aug, 09:18",
+        "summary": "Former England fly-half Freddie Burns has called time on his rugby career after nearly two decades.",
+        "body": "Former England fly-half Freddie Burns has called time on his rugby career after nearly two decades. The 36-year-old, who signed for Romanian side Dinamo Bucuresti last summer, thanked supporters and took a jab at his early-career critics in an announcement on Instagram.\n\nBurns, who won the Premiership title with Leicester in 2022 and played five times for his country, enjoyed a continent-spanning career that also included spells in England, Japan and New Zealand.",
+        "copy": "Former England fly-half Freddie Burns has called time on his rugby career after nearly two decades. The 36-year-old, who signed for Romanian side Dinamo Bucuresti last summer, thanked supporters and took a jab at his early-career critics in an announcement on Instagram.\n\nBurns, who won the Premiership title with Leicester in 2022 and played five times for his country, enjoyed a continent-spanning career that also included spells in England, Japan and New Zealand.",
+        "first_seen": "2026-08-06T10:08:02.798284+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3419,58 +3445,6 @@
         "body": "Andre Snyman revealed he had “no expectation” that his daughter, Keira, would ever wear a Springboks jersey. In July the 38-cap, 10 try former South Africa back watched his 18-year-old daughter represent the Junior Springbok Women for the first time.\n\nBy full-time Snyman and her newest teammates had lost 60-17 against a free-flowing USA U20 side, but has taken the first steps to representing the senior Springbok Women. Already her performance has landed her in Cecil Afrika’s Springbok Women’s Sevens training squad. It is not a bad return for a player whose talents were curated at the foot of Colorado’s Rocky Mountains, with her father as coach.",
         "copy": "Andre Snyman revealed he had “no expectation” that his daughter, Keira, would ever wear a Springboks jersey. In July the 38-cap, 10 try former South Africa back watched his 18-year-old daughter represent the Junior Springbok Women for the first time.\n\nBy full-time Snyman and her newest teammates had lost 60-17 against a free-flowing USA U20 side, but has taken the first steps to representing the senior Springbok Women. Already her performance has landed her in Cecil Afrika’s Springbok Women’s Sevens training squad. It is not a bad return for a player whose talents were curated at the foot of Colorado’s Rocky Mountains, with her father as coach.",
         "first_seen": "2026-07-30T11:52:19.561247+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'Just us for us': Blues seeking double Super Rugby success again",
-        "link": "https://www.rugbypass.com/news/just-us-for-us-blues-seeking-double-super-rugby-success-again/",
-        "published": "2026-07-30T09:59:13+00:00",
-        "published_label": "Thu 30 Jul, 09:59",
-        "summary": "“Just us, for us” is a mantra the Blues have applied during their Super Rugby Aupiki-winning season.",
-        "body": "“Just us, for us” is a mantra the Blues have applied during their Super Rugby Aupiki-winning season. Regardless of the opposition’s calibre, the Blues have looked inward for success. They respect their opponents but see individual accountability as a quicker path to greatness.\n\nBlues Player of the Year, Liana Mikaele-Tu’u, ranked inside the top ten of Aupiki for tries [three], carries [95], tackles [97], and lineouts [12]; the Black Ferns loose forward elaborated on the idea.",
-        "copy": "“Just us, for us” is a mantra the Blues have applied during their Super Rugby Aupiki-winning season. Regardless of the opposition’s calibre, the Blues have looked inward for success. They respect their opponents but see individual accountability as a quicker path to greatness.\n\nBlues Player of the Year, Liana Mikaele-Tu’u, ranked inside the top ten of Aupiki for tries [three], carries [95], tackles [97], and lineouts [12]; the Black Ferns loose forward elaborated on the idea.",
-        "first_seen": "2026-07-30T11:52:19.561247+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "WRU officially confirm they will axe either Ospreys or Scarlets",
-        "link": "https://www.rugbypass.com/news/wru-officially-confirm-they-will-axe-either-ospreys-or-scarlets/",
-        "published": "2026-07-30T09:10:25+00:00",
-        "published_label": "Thu 30 Jul, 09:10",
-        "summary": "The Welsh Rugby Union (WRU) has officially confirmed that Welsh rugby will move to a three-team professional model from the start of the 2028/29 season...",
-        "body": "The Welsh Rugby Union (WRU) has officially confirmed that Welsh rugby will move to a three-team professional model from the start of the 2028/29 season, with either the Ospreys or Scarlets set to effectively be axed.\n\nThe WRU announced its future operating model on Wednesday, outlining plans for one professional team in the capital, one in east Wales and one in west Wales. The governing body has already indicated that Cardiff Rugby and Dragons RFC are in line for two of those licences, leaving the Ospreys and Scarlets effectively competing for a single place in west Wales.",
-        "copy": "The Welsh Rugby Union (WRU) has officially confirmed that Welsh rugby will move to a three-team professional model from the start of the 2028/29 season, with either the Ospreys or Scarlets set to effectively be axed.\n\nThe WRU announced its future operating model on Wednesday, outlining plans for one professional team in the capital, one in east Wales and one in west Wales. The governing body has already indicated that Cardiff Rugby and Dragons RFC are in line for two of those licences, leaving the Ospreys and Scarlets effectively competing for a single place in west Wales.",
-        "first_seen": "2026-07-30T10:00:08.159136+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Trailfinders lure 'exciting' England wing to PWR runners-up",
-        "link": "https://www.rugbypass.com/news/trailfinders-lure-exciting-england-wing-to-pwr-runners-up/",
-        "published": "2026-07-30T09:07:06+00:00",
-        "published_label": "Thu 30 Jul, 09:07",
-        "summary": "Two-cap England Red Roses wing Bo Westcombe Evans has joined Trailfinders Women ahead of the 2026/27 Premiership Women's Rugby campaign.",
-        "body": "Two-cap England Red Roses wing Bo Westcombe Evans has joined Trailfinders Women ahead of the 2026/27 JAECOO Premiership Women’s Rugby campaign. To date the 24-year-old has spent the entirety of her senior career in the East Midlands with Loughborough Lightning. Last season Westcombe Evans was PWR’s joint-top try-scorer, having crossed the whitewash 12 times in 16 league appearances.\n\nIt was Westcombe Evans’ first season back after a year out of rugby with an ACL injury sustained in 2024. The injury occurred just weeks after the wing made her Red Roses debut at the 2024 edition of WXV1 and scored her maiden Test rugby try against the USA Women’s Eagles.",
-        "copy": "Two-cap England Red Roses wing Bo Westcombe Evans has joined Trailfinders Women ahead of the 2026/27 JAECOO Premiership Women’s Rugby campaign. To date the 24-year-old has spent the entirety of her senior career in the East Midlands with Loughborough Lightning. Last season Westcombe Evans was PWR’s joint-top try-scorer, having crossed the whitewash 12 times in 16 league appearances.\n\nIt was Westcombe Evans’ first season back after a year out of rugby with an ACL injury sustained in 2024. The injury occurred just weeks after the wing made her Red Roses debut at the 2024 edition of WXV1 and scored her maiden Test rugby try against the USA Women’s Eagles.",
-        "first_seen": "2026-07-30T10:00:08.159136+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "All Blacks told to 'expect no mercy' as URC outfits baying for win over NZ",
-        "link": "https://www.rugbypass.com/news/all-blacks-told-to-expect-no-mercy-as-urc-outfits-baying-for-win-over-nz/",
-        "published": "2026-07-30T08:55:49+00:00",
-        "published_label": "Thu 30 Jul, 08:55",
-        "summary": "The All Blacks have been told to 'expect no mercy' as they embark on their first full tour of South Africa in 30 years.",
-        "body": "The All Blacks have been told to ‘expect no mercy’ as they embark on their first full tour of South Africa in 30 years. Their eight-match ‘Greatest Rivalry’ trip will pit them against all four South African United Rugby Championship franchises and the local sides are chomping at the bit to take a swing at beating the Dave Rennie’s men.\n\nThe tourists will be welcomed at a special event at DHL Stadium in Cape Town on Friday before opening their provincial programme against the DHL Stormers at the same venue next week.",
-        "copy": "The All Blacks have been told to ‘expect no mercy’ as they embark on their first full tour of South Africa in 30 years. Their eight-match ‘Greatest Rivalry’ trip will pit them against all four South African United Rugby Championship franchises and the local sides are chomping at the bit to take a swing at beating the Dave Rennie’s men.\n\nThe tourists will be welcomed at a special event at DHL Stadium in Cape Town on Friday before opening their provincial programme against the DHL Stormers at the same venue next week.",
-        "first_seen": "2026-07-30T10:00:08.159136+00:00"
       }
     ],
     "Tennis": [
@@ -4412,6 +4386,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf secures financial backing to continue schedule into 2027 and beyond",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaEZOaTByTG9rd3BHR2RuQ21FVGhwcUFONVF2WlpiOE1FTEdXQUgxdzZoSUFmSEppMXdycWNPYnRrdHBuYkFSTzJULS1KNW5sZGh4NV9ubVd5VmhKUy1uUWM5TGVqY2hXTlZkX3lXczZJTnZmVkxFaVNQcTNrQUh6aVFCR3ZXSC0xbGpwb25CaDVTQVktMHFyd1ZrQmRCWXlpcUtGRlFmaENqNVJzSzhHbldkbVlzY3R5OUZDdUFSME1KRkNMck1ySDd3a2k4VWM?oc=5",
+        "published": "2026-08-06T09:44:39+00:00",
+        "published_label": "Thu 06 Aug, 09:44",
+        "summary": "LIV Golf secures financial backing to continue schedule into 2027 and beyond Golf Business News",
+        "body": "LIV Golf CEO Scott O’Neil has announced that an agreement has been reached with a lead investor that will carry and fund the league as it transitions into its next era starting in 2027.\n\nA term sheet has been signed and approved by the LIV Golf board, with a goal of completing the transaction in September. “This is a moment that we’re very happy about, that we’re thrilled to announce, that we’re proud to be a part of,” O’Neil said on the eve of Thursday’s opening round of LIV Golf New York. “It’s certainly an investor of weight, and we’re all locked in on making it happen.”",
+        "copy": "LIV Golf CEO Scott O’Neil has announced that an agreement has been reached with a lead investor that will carry and fund the league as it transitions into its next era starting in 2027.\n\nA term sheet has been signed and approved by the LIV Golf board, with a goal of completing the transaction in September. “This is a moment that we’re very happy about, that we’re thrilled to announce, that we’re proud to be a part of,” O’Neil said on the eve of Thursday’s opening round of LIV Golf New York. “It’s certainly an investor of weight, and we’re all locked in on making it happen.”",
+        "first_seen": "2026-08-06T10:08:02.798284+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6400,35 +6387,22 @@
         "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. There could well be light at the end of the tunnel for those at LIV Golf.\n\nAfter losing the backing of the Public Investment Fund of Saudi Arabia (PIF) for 2027, doubt has been cast over the league’s future. In the months that have followed, the circuit has been working to secure new investors in the hopes of returning next season, and it appears they may have taken a huge step.",
         "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. There could well be light at the end of the tunnel for those at LIV Golf.\n\nAfter losing the backing of the Public Investment Fund of Saudi Arabia (PIF) for 2027, doubt has been cast over the league’s future. In the months that have followed, the circuit has been working to secure new investors in the hopes of returning next season, and it appears they may have taken a huge step.",
         "first_seen": "2026-07-30T11:52:19.561247+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Rocket Classic Thursday TV coverage: How to watch Round 1",
-        "link": "https://golf.com/news/2026-rocket-classic-thursday-tv-coverage-watch-round-1/",
-        "published": "2026-07-30T09:56:44+00:00",
-        "published_label": "Thu 30 Jul, 09:56",
-        "summary": "How to watch the 2026 Rocket Classic on Thursday, including full Rocket Classic TV coverage and streaming details for Round 1 in Detroit. The post 2026 Rocket Classic Thursday TV coverage: How to watch Round 1 appeared first on Golf .",
-        "body": "The 2026 Rocket Classic gets underway Thursday morning with the first round at Detroit Golf Club. Here’s everything you need to know to watch the tournament on Thursday, including full Rocket Classic TV coverage, streaming details and complete Round 1 tee times.\n\nXander Schauffele is still among the elite of the PGA Tour and is positioned comfortably in the FedEx Cup standings. But with two events to go in the regular season, the two-time major champion has yet to earn a victory this year.",
-        "copy": "The 2026 Rocket Classic gets underway Thursday morning with the first round at Detroit Golf Club. Here’s everything you need to know to watch the tournament on Thursday, including full Rocket Classic TV coverage, streaming details and complete Round 1 tee times.\n\nXander Schauffele is still among the elite of the PGA Tour and is positioned comfortably in the FedEx Cup standings. But with two events to go in the regular season, the two-time major champion has yet to earn a victory this year.",
-        "first_seen": "2026-07-30T10:00:08.159136+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "What Scott O’Neil has just emailed all LIV Golf players and staff about the future of the league",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX21JNFQtNXRRYXFLNEJpdmNwSjdxMmllMDNhUXpBQkZTdW1uaDNyRy1KRHpjcnUtZDhvTHF0Z2dwTDJoazVWUk5uUXMwdUJpQUExU3owZTlTTkh0bmF4dEYxenhieC1SZkdkVTZ2cUp5Y0dRV1lJRVI2a09zaVpXc2FWLVlDTlNQc0xEUWI1ZnpRTGtwQm1fYWJ1VXVwc09hR3pabUJlNDRZRU1wWExWS0xFM3pLckEzeFp6aFJTSQ?oc=5",
-        "published": "2026-07-30T09:00:00+00:00",
-        "published_label": "Thu 30 Jul, 09:00",
-        "summary": "What Scott O’Neil has just emailed all LIV Golf players and staff about the future of the league hitc.com",
-        "body": "LIV Golf’s future currently hangs in the balance. When the Saudi Public Investment Fund shockingly withdrew support for the league this year, CEO Scott O’Neil was left to scramble for investment. LIV now has until September 1 to secure new backing or risk total collapse.\n\nIn recent months, LIV Louisiana was postponed; their feeder series, the Asian Tour, instead partnered with the PGA Tour and DP World Tour, and it was reported that the Team Championship finale in Michigan would be canceled.",
-        "copy": "LIV Golf’s future currently hangs in the balance. When the Saudi Public Investment Fund shockingly withdrew support for the league this year, CEO Scott O’Neil was left to scramble for investment. LIV now has until September 1 to secure new backing or risk total collapse.\n\nIn recent months, LIV Louisiana was postponed; their feeder series, the Asian Tour, instead partnered with the PGA Tour and DP World Tour, and it was reported that the Team Championship finale in Michigan would be canceled.",
-        "first_seen": "2026-07-30T10:00:08.159136+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Korea Masters 2026 badminton: Anmol Kharb bows out in second round; Tanvi Sharma enters quarter-finals",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEVILXBNd3VQRU9vUEpMWG9ybkxpYnJTdUZJaW9Sa0diRVFIQ0VaYnNPR3NaNi1teURnYWtmUzdMNDRROFdjazdaaF9zYV9fY0pSSVdmVThSUmJ0VjktZ3BWY2VfTXpSaU1KeC1GcUR6emVDUzdQZWdJcDBVTGQ3WDJKc0d5ejg?oc=5",
+        "published": "2026-08-06T09:36:00+00:00",
+        "published_label": "Thu 06 Aug, 09:36",
+        "summary": "Korea Masters 2026 badminton: Anmol Kharb bows out in second round; Tanvi Sharma enters quarter-finals olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-06T10:08:02.798284+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7390,45 +7364,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-30T13:53:36.960173+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "International Friendship Day: Carolina Marín: What friendship and rivalry mean to the 'McEnroe' of badminton",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXlWVjB1c2NFdWpwbXhIY3ZGclhjME45V0hVX1U1c1dCZ1llWHhMalZOb3RSc0J0allOWGJFS0tuZWtiZ244MnVnUEk2WlZ1MFVveFhEdUhNckZ6VTZhbk9zZmFrcnRXN1Axanc3c1BmT1FnT0tBRy1RNEh6cFQxWkJfd3VJOUI3Ylo0d05Pb0tmbi1GclpiZXFudFVTVTYzZ1VScA?oc=5",
-        "published": "2026-07-30T09:45:00+00:00",
-        "published_label": "Thu 30 Jul, 09:45",
-        "summary": "International Friendship Day: Carolina Marín: What friendship and rivalry mean to the 'McEnroe' of badminton olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-30T10:00:08.159136+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Malaysia's Lee Zii Jia defeated in badminton's 2026 Taipei Open by Lin Chun-yi",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWtPVmV4X1NyY1UxNE40SkxRUDQxejhMdkpURXAtVjNocGpwRWxCWHpLdDJyenk3RmZoT29rUXVPTG9BNVEybkxXUUpMVHFZRzQyOG5hb3RQalo3WUQ5S1pYSjV3ZGx6VzZsZi1qbnZHc2NQZGZUNW5rOXZNT05tVzh4S1VGd28?oc=5",
-        "published": "2026-07-30T09:16:00+00:00",
-        "published_label": "Thu 30 Jul, 09:16",
-        "summary": "Malaysia's Lee Zii Jia defeated in badminton's 2026 Taipei Open by Lin Chun-yi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-30T10:00:08.159136+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Malaysia's Lee Zii Jia defeated in badminton's 2026 Taipei Open by Lin Chun-yi",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGkwRVpXNm1WbEp4d2VqeTdvb2xlSDAydnZ1cWdta294SzJjVmtKUDRxdzZJVndnM2thXzFWTjZ3Q1lidHRTRzJUTHl0ZlFPNTJfMG9wRmZBV0M3YUNfV3dkbWdvNC10a0ktODdPbnhMVU51b2M3ZUtYVml4dElFOUh3?oc=5",
-        "published": "2026-07-30T09:16:00+00:00",
-        "published_label": "Thu 30 Jul, 09:16",
-        "summary": "Malaysia's Lee Zii Jia defeated in badminton's 2026 Taipei Open by Lin Chun-yi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-30T11:52:19.561247+00:00"
       }
     ],
     "Competitor News": [
@@ -7447,5 +7382,5 @@
       }
     ]
   },
-  "total": 571
+  "total": 566
 }
