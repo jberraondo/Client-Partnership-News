@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T07:11:37.162917+00:00",
-  "generated_label": "Friday 07 August 2026, 07:11 UTC",
+  "generated_at": "2026-08-07T08:35:45.963194+00:00",
+  "generated_label": "Friday 07 August 2026, 08:35 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -14,6 +14,19 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "Times Prime Takes HSBC Live+ Dining Benefits Across India, Singapore, Thailand and Dubai",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOExDZWVSc250bWxDTGNSMWVtTTdDNnhyWk52anVud0tHQTlWN1lNd001aHNzc1EzQmVMNDRJTmttdENzQVFMc3M4anY2NTdpMVd3RkdqOU01SVZveXlLYTh1bVU1cVNhUVBZeTVhUmkwR051emZjakZfZ1hCNEFOckg1dTNWN3pHclotZ1l3WWJIdTJFY2dDN2hMb3hWZkNpS0VYWg?oc=5",
+        "published": "2026-08-07T07:29:31+00:00",
+        "published_label": "Fri 07 Aug, 07:29",
+        "summary": "Times Prime Takes HSBC Live+ Dining Benefits Across India, Singapore, Thailand and Dubai Prittle Prattle News",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-07T08:35:45.963194+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
         "title": "The curious case of the Japanese government bond yields",
@@ -24,6 +37,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-07T07:11:37.162917+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Britain’s incoming CEOs enjoy the ‘new boss bounce’",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObHNmXzIzdjJFVmctWEs1dGVuLXhSTU5TcUgxU0tvbUNYSHJCcTF2bDJSZDhtS25TUW9la18wNG9jRkhjeVk2UHZRZk1ZVHdVUXotNXNWM1dfNld0Tl8wN0RuVWpMamxUXzVWODQxWmRvd1RBc09TclZDOVdIV1hZVlliN2Q?oc=5",
+        "published": "2026-08-07T04:00:24+00:00",
+        "published_label": "Fri 07 Aug, 04:00",
+        "summary": "Britain’s incoming CEOs enjoy the ‘new boss bounce’ Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-07T08:35:45.963194+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1376,19 +1402,6 @@
         "body": "",
         "copy": "This week on The SportBusiness Podcast, we profile a new sponsor with big pockets that has landed Ryder Cup and Mercedes F1 deals while unpacking a seismic and damaging few days for global football",
         "first_seen": "2026-07-31T10:06:08.345969+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Andy Burnham says Gianni Infantino is ‘wrong man’ to lead Fifa after stake-sale plan",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3lzb2J6R3NlMnV5d09WYmwtbDRCX0ZNV2NxMHI0dGlUVmpZSmxOczdOaUFzSnFWc0NBUXhwSmhsazhjcDhrYmFUWVVodGRWSW9QUldITi1vNktiZkRLaTgyOEFmcUlvUjhQTE83WUtYQ09yaUctLXJVYmEybWc5bnpvOV8?oc=5",
-        "published": "2026-07-31T07:21:48+00:00",
-        "published_label": "Fri 31 Jul, 07:21",
-        "summary": "Andy Burnham says Gianni Infantino is ‘wrong man’ to lead Fifa after stake-sale plan Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-31T14:04:04.503188+00:00"
       }
     ],
     "Rugby": [
@@ -3328,32 +3341,6 @@
         "body": "Nathan Jibulu has signed a new contract with Sale Sharks aiming to keep him at the club until 2030. The 23-year-old hooker, whose performances for the Sharks in his first season earned him a call-up to the England training squad in June, played 23 games with Sale after joining from Harlequins last summer.\n\nJibulu told the Sale website, external: \"We know the season didn't go as we wanted but the atmosphere has been really good and so many young lads got a lot of experience in big games.",
         "copy": "Nathan Jibulu has signed a new contract with Sale Sharks aiming to keep him at the club until 2030. The 23-year-old hooker, whose performances for the Sharks in his first season earned him a call-up to the England training squad in June, played 23 games with Sale after joining from Harlequins last summer.\n\nJibulu told the Sale website, external: \"We know the season didn't go as we wanted but the atmosphere has been really good and so many young lads got a lot of experience in big games.",
         "first_seen": "2026-07-31T10:06:08.345969+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "England prospect Nathan Jibulu signs new long-term deal",
-        "link": "https://www.rugbypass.com/news/england-prospect-nathan-jibulu-signs-new-long-term-deal/",
-        "published": "2026-07-31T08:21:54+00:00",
-        "published_label": "Fri 31 Jul, 08:21",
-        "summary": "England A hooker Nathan Jibulu has signed a contract extension with Sale Sharks that will see him remain with the club until at least 2030.",
-        "body": "England A hooker Nathan Jibulu has signed a contract extension with Sale Sharks that will see him remain with the club until at least 2030. The London-born front-rower played 23 games for Sharks in his first season at the club after joining from Harlequins ahead of the 2025/26 season, and would have played more had he not been hit with a six-game ban for biting in a match against his former club.\n\nThe 23-year-old had one year remaining on his first Sharks contract but was more than happy to commit to a longer-term deal. “I’ve loved my first year at Sale. The boys are so together on and off the pitch. We all see each other away from Carrington and that’s been brilliant,” said Jibulu.",
-        "copy": "England A hooker Nathan Jibulu has signed a contract extension with Sale Sharks that will see him remain with the club until at least 2030. The London-born front-rower played 23 games for Sharks in his first season at the club after joining from Harlequins ahead of the 2025/26 season, and would have played more had he not been hit with a six-game ban for biting in a match against his former club.\n\nThe 23-year-old had one year remaining on his first Sharks contract but was more than happy to commit to a longer-term deal. “I’ve loved my first year at Sale. The boys are so together on and off the pitch. We all see each other away from Carrington and that’s been brilliant,” said Jibulu.",
-        "first_seen": "2026-07-31T08:46:37.332326+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Ellis Genge enters Bristol record books after feisty Argentina Test",
-        "link": "https://www.rugbypass.com/news/ellis-genge-enters-bristol-record-books-after-feisty-argentina-test/",
-        "published": "2026-07-31T08:00:17+00:00",
-        "published_label": "Fri 31 Jul, 08:00",
-        "summary": "Club historian Neil Williams has dipped into his treasure trove of stats and uncovered another gem.",
-        "body": "From the very first, Wallace Jarman in 1900, 288 different players have gained a full international cap whilst playing for Bristol. This includes six who were retrospectively awarded a cap earlier this year, including club legend Nigel Pomphrey.\n\nGeorge Kloska became the most recent addition to the list when he made his England debut against Fiji at the Hill Dickinson Stadium in Liverpool on 11 July. In his second cap against Argentina a week later, Kloska momentarily packed down with his club teammate, Ellis Genge, who eagle-eyed club statistician Neil Williams says, has become the most-capped international as a Bristol player. with that appearance in Santiago del Estero.",
-        "copy": "From the very first, Wallace Jarman in 1900, 288 different players have gained a full international cap whilst playing for Bristol. This includes six who were retrospectively awarded a cap earlier this year, including club legend Nigel Pomphrey.\n\nGeorge Kloska became the most recent addition to the list when he made his England debut against Fiji at the Hill Dickinson Stadium in Liverpool on 11 July. In his second cap against Argentina a week later, Kloska momentarily packed down with his club teammate, Ellis Genge, who eagle-eyed club statistician Neil Williams says, has become the most-capped international as a Bristol player. with that appearance in Santiago del Estero.",
-        "first_seen": "2026-07-31T08:46:37.332326+00:00"
       }
     ],
     "Tennis": [
@@ -4279,22 +4266,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-31T17:28:30.744886+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Cameron Norrie thrashes Bernard Tomic at Los Cabos Open to reach his first semi-final of 2026 season",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMTh1MVFFazZsUkpHeU00M3dEM3VLUUF1bHJ5OXRXMV9NUjZ3blZQUkhxaHVPOWxlRXltUDUyaEZtWVZqWE16V2RYMFBxbmNFODB2S2pTTEkzMEZmZmtqNi1LR1JNRHBScVRwdkNfZlZCNGNlUXJqVnZhbEZqWlBLR0wwSEUzTU1KSFYyakdiS3ZITVQxRTQ1TndJNzV4T0R2a1JGYTlmR1Y1NVJDOWFjTE55cVhyN2hCSmNadXdSMDFLVVdHLW5adjJubm53aXhBYVczWl9HNF9ZUDV1aW9HNGJZNjJOQW1R?oc=5",
-        "published": "2026-07-31T07:31:26+00:00",
-        "published_label": "Fri 31 Jul, 07:31",
-        "summary": "Cameron Norrie thrashes Bernard Tomic at Los Cabos Open to reach his first semi-final of 2026 season Sky Sports",
-        "body": "Cameron Norrie raced into his first semi-final of 2026 with a 6-1 6-0 thrashing of Bernard Tomic at the Los Cabos Open. Britain's Norrie had been on a six-match losing streak before arriving in Mexico but has strung together three successive straight-set victories to set up a last-four clash with defending champion Denis Shapovalov.\n\nTomic, who reached the main draw as a lucky loser from qualifying, held serve in the opening game of the match but then lost the next 12 as Norrie completed the rout in just 50 minutes.",
-        "copy": "Cameron Norrie raced into his first semi-final of 2026 with a 6-1 6-0 thrashing of Bernard Tomic at the Los Cabos Open. Britain's Norrie had been on a six-match losing streak before arriving in Mexico but has strung together three successive straight-set victories to set up a last-four clash with defending champion Denis Shapovalov.\n\nTomic, who reached the main draw as a lucky loser from qualifying, held serve in the opening game of the match but then lost the next 12 as Norrie completed the rout in just 50 minutes.",
-        "first_seen": "2026-07-31T11:58:47.483294+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf secures new investor as O'Neil outlines post-Saudi future",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWNhalZRamdYMXFab1gyakZ5MGFtc0FHTEJYYk1PMjF6REp6Rl9GRGx3aVlDZlJFcUxvYTFXc3hmNGpCOHctbW04ZWZ5Mm92c0JRSGdFSkFPMmpkeEZ5aFBmVWhLZjJWTW91X2hfYWgzaEY5VDZYOC1XYzJIanN1M0dLTDNPdTc2eEZzMnFOanN2cFVNeXlhVFFFZ0tma0JnT2FxZmNaZy0?oc=5",
+        "published": "2026-08-07T08:15:00+00:00",
+        "published_label": "Fri 07 Aug, 08:15",
+        "summary": "LIV Golf secures new investor as O'Neil outlines post-Saudi future Inside The Games",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-07T08:35:45.963194+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6247,6 +6234,19 @@
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "‘Younger Opponents Are Always At Your Heels’",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0QyZU5waXNLVWFuSGswTkZfOW1Vc1RDR3NXMGswMUYtMWFzNUV6SlhhSFEzVTNZT0RqWE5ScTk2bDVSTGJUMVRHMXNBSlRGQ0JkeTFJbmROdmtORGUwUVVDaWRiSGFZUFIxVk9IdDJaTmZ5dG5qWFFYUUIyVE1IZ01VN0tNRi1Ia2tYZU1Ka2FNM2ZqalVKTnczSkF2TFg5UzFQaWI4SGxJQnBwTklsNHQwdw?oc=5",
+        "published": "2026-08-07T08:24:01+00:00",
+        "published_label": "Fri 07 Aug, 08:24",
+        "summary": "‘Younger Opponents Are Always At Your Heels’ bwfworldchampionships.bwfbadminton.com",
+        "body": "Ahead of the upcoming BWF World Championships – her 11th – European champion Kirsty Gilmour talks about adapting to younger generations of opponents, working on becoming the best version of herself, and her connection with Indian fans.\n\nYou’ve seen different generations of opponents. What do you make of the younger ones? Is there a different approach or is it just various individual styles as before? Year on year it becomes more physical. Maybe when I was younger, I thought I would get to a point and then it would become easier. I would like ‘get it’ but because the game is always evolving, always changing, it’s never become easier to be honest, and I think the younger ones are so hungry to beat the more established players, whereas before maybe the older ones dominated, but the younger ones are always at your heels, always ready.",
+        "copy": "Ahead of the upcoming BWF World Championships – her 11th – European champion Kirsty Gilmour talks about adapting to younger generations of opponents, working on becoming the best version of herself, and her connection with Indian fans.\n\nYou’ve seen different generations of opponents. What do you make of the younger ones? Is there a different approach or is it just various individual styles as before? Year on year it becomes more physical. Maybe when I was younger, I thought I would get to a point and then it would become easier. I would like ‘get it’ but because the game is always evolving, always changing, it’s never become easier to be honest, and I think the younger ones are so hungry to beat the more established players, whereas before maybe the older ones dominated, but the younger ones are always at your heels, always ready.",
+        "first_seen": "2026-08-07T08:35:45.963194+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
