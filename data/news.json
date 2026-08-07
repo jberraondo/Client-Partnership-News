@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T16:53:39.828022+00:00",
-  "generated_label": "Friday 07 August 2026, 16:53 UTC",
+  "generated_at": "2026-08-07T18:53:31.476104+00:00",
+  "generated_label": "Friday 07 August 2026, 18:53 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -167,6 +167,19 @@
         "body": "",
         "copy": "This week on The SportBusiness Podcast, we profile the latest addition to the gambling-free Premier League shirt sponsor market, while its US media behemoth results season again and there’s a full post-mortem o…",
         "first_seen": "2026-08-07T10:51:36.450839+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Can AI improve my parenting?",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHUzdFhwR21zeDlDVUF1cWl6TmdUcm9wMk1aY2RnSHUxNThZdzNQd3k5ME8yVi1palJLVlZpMERIc0FxQjN5cEwtWHJkc0gzRkh5cV9WSFp5X0t2OVZISDR6UFZtNlhqM0Nsa2ZZTFBPNWFQaEw2d0ZwRjYtSnJXMUlFNzA?oc=5",
+        "published": "2026-08-07T09:00:06+00:00",
+        "published_label": "Fri 07 Aug, 09:00",
+        "summary": "Can AI improve my parenting? Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-07T18:53:31.476104+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1347,19 +1360,6 @@
         "published": "2026-07-31T23:45:04+00:00",
         "published_label": "Fri 31 Jul, 23:45",
         "summary": "Fifa abandons $20bn stake-sale plan after global backlash Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-01T08:16:52.543359+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Is Kevin Warsh the Lionel Messi of monetary policy?",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IYWx1SEJNVDAxX2ozSUlTbmlOM1RkTlU5bTJXSXhhZkQzRjgwU0xOSWRQaGkwWmg2U1c1UHZfSjlMbEhGRmZmaU5Pb3hySGYxUzctdl84ODFxeXdCampuU0xmdTQtcVk4QTBTVXc3LUQ?oc=5",
-        "published": "2026-07-31T17:22:17+00:00",
-        "published_label": "Fri 31 Jul, 17:22",
-        "summary": "Is Kevin Warsh the Lionel Messi of monetary policy? Financial Times",
         "body": "",
         "copy": "",
         "first_seen": "2026-08-01T08:16:52.543359+00:00"
@@ -3192,6 +3192,32 @@
         "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
+        "title": "Jack Draper Plans to Play Cincinnati",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sYVFGNTdYZE1iRVgtX3YxcGpzcUcyN0ZaWmxTdXhKcWhUNVZTWlBIcnJJcDdLRzhIOG5ySTdTeXZ1LW5wS0RNR3FfU18xaUM4S05nU05EMTdtQmF2ejhPNDBQdHZ1QTlIRlE?oc=5",
+        "published": "2026-08-07T18:39:45+00:00",
+        "published_label": "Fri 07 Aug, 18:39",
+        "summary": "Jack Draper Plans to Play Cincinnati Tennis Now",
+        "body": "Draper has taken a wild card into the Cincinnati Open, per Sky Sports. There were injury concerns in Montreal, when Jack Draper was reduced to tears as his serve speed plummeted in the third set of his loss to Terence Atmane, but they have subsided a bit as of Friday as it has been announced that Jack Draper has accepted a wild card into the Cincinnati Open.\n\nThe tournament hasn’t made the official announcement yet. It’s good news that Draper hasn’t suffered a setback too great to rule him out of a final chance to play himself into form ahead of the US Open. He’s currently on the player entry list for mixed doubles with Jessica Pegula, but he’ll either have to get a wild card or play his way through qualifying to enter the main draw.",
+        "copy": "Draper has taken a wild card into the Cincinnati Open, per Sky Sports. There were injury concerns in Montreal, when Jack Draper was reduced to tears as his serve speed plummeted in the third set of his loss to Terence Atmane, but they have subsided a bit as of Friday as it has been announced that Jack Draper has accepted a wild card into the Cincinnati Open.\n\nThe tournament hasn’t made the official announcement yet. It’s good news that Draper hasn’t suffered a setback too great to rule him out of a final chance to play himself into form ahead of the US Open. He’s currently on the player entry list for mixed doubles with Jessica Pegula, but he’ll either have to get a wild card or play his way through qualifying to enter the main draw.",
+        "first_seen": "2026-08-07T18:53:31.476104+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper hopeful of playing in Cincinnati despite tears in Montreal",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVBhbng2Qkh4VXpJOWh6UmpOeXNOMV9lUno0cmJxTGVDbk9VNk1sTnZMcXVKeGFHWDhOY1htWVIxMHk3TTBqNDRQOElSZDdCTVhIT0p1WXhwRnRDZDZReGh0YVJUdHRJVzZYaWtfelpFS2JBelR1UHNKQXJLamlMS1dOYmFkc0ZPZTJEc3RiZ3ZHRGo3LTF1LWFvQkJPRlNLSkE?oc=5",
+        "published": "2026-08-07T17:50:40+00:00",
+        "published_label": "Fri 07 Aug, 17:50",
+        "summary": "Jack Draper hopeful of playing in Cincinnati despite tears in Montreal The Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-07T18:53:31.476104+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
         "title": "Jack Draper confirmed for Cincinnati Open despite being left in tears following defeat at the National Bank Open in Montreal",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSm4yWmZraE92NUNjVExWRDNoUnlLNWU2VllRQWVKbnVTc3hFMWJBSlJZTXJ6WVEtSG5uYW5HY3pRY3F1RGhVNUpRWWZBQ2pZWWkyRXA4Skt1Tm8yQzVBNGRUanVFSnNQcUlNRzFkcFdfeFZNakk3S0Rmc0dWNVE4dVpWT2ZaQXoybWQyS3cxT3dpZEJLQWc2dVFzQk03blQ3MExpMmo5amV1V3JlRmJja3RLMW16WmZrSXhHcGUtWXNCQWRtSVhyLW84QUNIUmJmMzdRNHRQOW00MmRnRnRRV01iYmc3a3BkMHdzUVpXdVBoZWREbjBUMU1lUkVBa194LTdlME9TNmw?oc=5",
         "published": "2026-08-07T13:44:37+00:00",
@@ -4045,48 +4071,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-01T08:16:52.543359+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Dog walk and expletive text - key findings in Vondrousova anti-doping case",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cn0nrgp7nqlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-31T18:30:43+00:00",
-        "published_label": "Fri 31 Jul, 18:30",
-        "summary": "The full report into 2023 Wimbledon champion Marketa Vondrousova's four-year ban for refusing a doping test has been released - BBC Sport analyses the key findings.",
-        "body": "Recent Wimbledon champion Marketa Vondrousova receiving a four-year ban for refusing to take a doping test was a punishment which sent shockwaves through tennis. The Czech, who became the first unseeded player to win the Wimbledon women's singles title in 2023, would not let a doping control officer into her Prague home to conduct the test in December 2025.\n\nIn June, it was announced the 27-year-old would be suspended for four years - the starting point for any player who refuses or evades a test. On Friday, the independent tribunal which imposed the punishment released its full written report about the case - which it described as a \"very unfortunate matter\" but which offered \"no compelling justification\" for a shorter ban.",
-        "copy": "Recent Wimbledon champion Marketa Vondrousova receiving a four-year ban for refusing to take a doping test was a punishment which sent shockwaves through tennis. The Czech, who became the first unseeded player to win the Wimbledon women's singles title in 2023, would not let a doping control officer into her Prague home to conduct the test in December 2025.\n\nIn June, it was announced the 27-year-old would be suspended for four years - the starting point for any player who refuses or evades a test. On Friday, the independent tribunal which imposed the punishment released its full written report about the case - which it described as a \"very unfortunate matter\" but which offered \"no compelling justification\" for a shorter ban.",
-        "first_seen": "2026-07-31T19:21:34.633835+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "List of Players Missing in Canadian Open 2026 Draw, Including Emma Raducanu, Carlos Alcaraz, Jannik Sinner",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFhvS3N3MHdfOW8waUYyTXNvQTVtYzFEU1ZNVGphdkpNSlBQZEktbUhTYzg0czlaTFI5SnFQUDhrWVZERHg0cEdRbC1aVWgyLUZhaFRQeWcxaDVhbkFRa2NyMFdLTVhlM1ZwT0xRaE5fTVp6eDNUNlNKZlBYU0lHSmpnRDdYTjM0WF9F?oc=5",
-        "published": "2026-07-31T17:50:25+00:00",
-        "published_label": "Fri 31 Jul, 17:50",
-        "summary": "List of Players Missing in Canadian Open 2026 Draw, Including Emma Raducanu, Carlos Alcaraz, Jannik Sinner Yahoo Sports",
-        "body": "The 2026 Canadian Open is nearly underway, with the main draw set to run from August 3 to 13. It marks the first major event of the North American hardcourt swing leading into the US Open. This year, Toronto will host the women's tournament, while the men will compete in Montréal.\n\nSeveral top players are set to entertain Canadian fans during the 11-day events, with Alexander Zverev and Félix Auger-Aliassime leading the men's draw as the top two seeds, while Aryna Sabalenka and Elena Rybakina headline the women's field. Other players featuring in the line-up are Coco Gauff, Ben Shelton, Jessica Pegula, and Taylor Fritz.",
-        "copy": "The 2026 Canadian Open is nearly underway, with the main draw set to run from August 3 to 13. It marks the first major event of the North American hardcourt swing leading into the US Open. This year, Toronto will host the women's tournament, while the men will compete in Montréal.\n\nSeveral top players are set to entertain Canadian fans during the 11-day events, with Alexander Zverev and Félix Auger-Aliassime leading the men's draw as the top two seeds, while Aryna Sabalenka and Elena Rybakina headline the women's field. Other players featuring in the line-up are Coco Gauff, Ben Shelton, Jessica Pegula, and Taylor Fritz.",
-        "first_seen": "2026-07-31T19:21:34.633835+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Emma Raducanu has just missed a golden opportunity to help make history for her country",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDk2WXBVLXNPZzNZVFVKdENFcWZ3VWt1UHBibmNscnljUFQ1WjJFUWdsZXQ5dGpjRVJYUFNBZldBNlJpdzAxOEpCUWxkeHdkWTNPU21OWW1IS3BrZEZTbGowZU9DM0pROXJzX1c1NHJZd05QMl9WVVhUc3BpREpBeEpRc1hsRDNScTN4ODdvTFYtSS13VDBXNjk5anBnMWJ0ZmlMd2Qwb19aY3ZsLUNYZA?oc=5",
-        "published": "2026-07-31T17:30:00+00:00",
-        "published_label": "Fri 31 Jul, 17:30",
-        "summary": "Emma Raducanu has just missed a golden opportunity to help make history for her country Tennishead",
-        "body": "Emma Raducanu won’t join up with Team Great Britain at the Billie Jean King Cup Finals in Shenzhen, China. Great Britain’s Billie Jean King Cup captain, Anne Keothavong, has selected Katie Boulter, Harriet Dart, Mika Stojsavljevic, and Jodie Burrage as the four women to represent their country later this year.\n\nIn the 63-year history of the competition, Great Britain have never won the title, although they have come close recently, reaching the semi-finals in 2025, 2024, and 2022. Despite the ‘big three’ era ending, tennis is better now than it was 10 years ago – Prove me wrong!",
-        "copy": "Emma Raducanu won’t join up with Team Great Britain at the Billie Jean King Cup Finals in Shenzhen, China. Great Britain’s Billie Jean King Cup captain, Anne Keothavong, has selected Katie Boulter, Harriet Dart, Mika Stojsavljevic, and Jodie Burrage as the four women to represent their country later this year.\n\nIn the 63-year history of the competition, Great Britain have never won the title, although they have come close recently, reaching the semi-finals in 2025, 2024, and 2022. Despite the ‘big three’ era ending, tennis is better now than it was 10 years ago – Prove me wrong!",
-        "first_seen": "2026-07-31T19:21:34.633835+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Price drop alert! Save on Ping's G440 family of clubs",
+        "link": "https://golf.com/gear/price-drop-alert-save-ping-g440-family-clubs/",
+        "published": "2026-08-07T18:45:42+00:00",
+        "published_label": "Fri 07 Aug, 18:45",
+        "summary": "The summer golf season is still in full swing — and so are some hot deals on equipment. Shop these incredible Ping G440 discounts today. The post Price drop alert! Save on Ping’s G440 family of clubs appeared first on Golf .",
+        "body": "The summer golf season is still in full swing — and so are some hot deals on equipment. If you’re a bargain hunter, a new deal just dropped that you’re sure to love. The popular Ping G440 family of clubs is on sale for a significant discount off the regular retail prices. Save $20 apiece on G440 irons, $70 on G440 Max and SFT fairway woods, $50 on G440 hybrids, and a whopping $170 on G440 Max, LST and SFT drivers.\n\nFirst launched in January 2025, the G440 line became a fast favorite with Tour pros and recreational players alike. In fact, both the Ping G440 Max fairway wood and G440 hybrid earned the distinction of being Fairway Jockey’s best-selling clubs of the year in their respective categories.",
+        "copy": "The summer golf season is still in full swing — and so are some hot deals on equipment. If you’re a bargain hunter, a new deal just dropped that you’re sure to love. The popular Ping G440 family of clubs is on sale for a significant discount off the regular retail prices. Save $20 apiece on G440 irons, $70 on G440 Max and SFT fairway woods, $50 on G440 hybrids, and a whopping $170 on G440 Max, LST and SFT drivers.\n\nFirst launched in January 2025, the G440 line became a fast favorite with Tour pros and recreational players alike. In fact, both the Ping G440 Max fairway wood and G440 hybrid earned the distinction of being Fairway Jockey’s best-selling clubs of the year in their respective categories.",
+        "first_seen": "2026-08-07T18:53:31.476104+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -4099,6 +4099,19 @@
         "body": "Billy Horschel is not thrilled with his play on the course so far this season. The eight-time PGA Tour winner was ranked a dismal 107th in the FedEx Cup rankings heading into this week’s Wyndham Championship.\n\nEven a hot start was not enough to satisfy the veteran Tour pro. Following his opening-round 65 at the Wyndham, Horschel said he didn’t think he “did anything particularly special” and his wedges weren’t “sharp.” Overall, he called it a “pretty boring 65,” except for that one bomb for eagle, of course.",
         "copy": "Billy Horschel is not thrilled with his play on the course so far this season. The eight-time PGA Tour winner was ranked a dismal 107th in the FedEx Cup rankings heading into this week’s Wyndham Championship.\n\nEven a hot start was not enough to satisfy the veteran Tour pro. Following his opening-round 65 at the Wyndham, Horschel said he didn’t think he “did anything particularly special” and his wedges weren’t “sharp.” Overall, he called it a “pretty boring 65,” except for that one bomb for eagle, of course.",
         "first_seen": "2026-08-07T16:53:39.828022+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Ian Poulter weighs in on “exceptional” LIV Golf investor",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUNsRW8yVEpkSWRLTlcyajg5MVJCOGFBTGN3YTJSMDRSWmhLbWFBSmtLelNTX3Y3ZUJJeHZ6Q2NBMHlNOHB2Q3dVT0I4VERTa1hER2pkN3FqOWdwYlYydlk1aWtadTdUNVZ0aVBTcjFNN1Z3VnBQY1FGVXNBcEVvZXdUR3NsY1pQQWxVSDRDZ2F4ZFRMMHRr?oc=5",
+        "published": "2026-08-07T14:01:22+00:00",
+        "published_label": "Fri 07 Aug, 14:01",
+        "summary": "Ian Poulter weighs in on “exceptional” LIV Golf investor bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Ian Poulter has welcomed the news that LIV Golf has found an investor to potentially take the league into 2027 and beyond.\n\nIn an announcement on Wednesday, LIV CEO, Scott O’Neil confirmed that the league had found an unnamed investor. “LIV Golf has an agreement in place with a lead investor, signed by the investor and approved by the Board, to anchor the transaction and play a key role in supporting the path forward for the League’s next era, driven by and for the players,” he said in a statement.",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Ian Poulter has welcomed the news that LIV Golf has found an investor to potentially take the league into 2027 and beyond.\n\nIn an announcement on Wednesday, LIV CEO, Scott O’Neil confirmed that the league had found an unnamed investor. “LIV Golf has an agreement in place with a lead investor, signed by the investor and approved by the Board, to anchor the transaction and play a key role in supporting the path forward for the League’s next era, driven by and for the players,” he said in a statement.",
+        "first_seen": "2026-08-07T18:53:31.476104+00:00"
       },
       {
         "section": "Golf",
@@ -6010,32 +6023,6 @@
         "body": "This content is not available in your location. World number one Nelly Korda returns to form on day two of the Women's Open, carding three-under-par 68 to erase her opening round struggles. Her bounce-back leaves her one under par total and just five shots behind leader Haeran Ryu, setting up an exciting weekend chase at Royal Lytham & St. Annes Golf Course.",
         "copy": "This content is not available in your location. World number one Nelly Korda returns to form on day two of the Women's Open, carding three-under-par 68 to erase her opening round struggles. Her bounce-back leaves her one under par total and just five shots behind leader Haeran Ryu, setting up an exciting weekend chase at Royal Lytham & St. Annes Golf Course.",
         "first_seen": "2026-07-31T19:21:34.633835+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Ryu leads Open in pursuit of third straight major",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c0qvlle2348o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-31T18:42:52+00:00",
-        "published_label": "Fri 31 Jul, 18:42",
-        "summary": "South Korea's Haeran Ryu bounces back from a poor start to end the second round as leader of the AIG Women's Open at Royal Lytham & St Annes.",
-        "body": "South Korea's Haeran Ryu birdied the 18th to bounce back from a poor start and end the second round as leader of the AIG Women's Open at Royal Lytham & St Annes. The 25-year-old, aiming to become only the fifth woman in history to claim three majors in a calendar year, is one shot clear of Japan's Shiho Kuwaki.\n\nEarlier this month, Ryu claimed her second major in the space of two weeks at the Evian Championship, and her remarkable major form has continued at the Open. Despite being three over for the day through five holes, she sank five birdies to shoot two under par and build on her opening-round score of 66.",
-        "copy": "South Korea's Haeran Ryu birdied the 18th to bounce back from a poor start and end the second round as leader of the AIG Women's Open at Royal Lytham & St Annes. The 25-year-old, aiming to become only the fifth woman in history to claim three majors in a calendar year, is one shot clear of Japan's Shiho Kuwaki.\n\nEarlier this month, Ryu claimed her second major in the space of two weeks at the Evian Championship, and her remarkable major form has continued at the Open. Despite being three over for the day through five holes, she sank five birdies to shoot two under par and build on her opening-round score of 66.",
-        "first_seen": "2026-07-31T19:21:34.633835+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Absolute dime'",
-        "link": "https://www.bbc.co.uk/sport/golf/videos/cwye55wp2jlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-31T18:35:32+00:00",
-        "published_label": "Fri 31 Jul, 18:35",
-        "summary": "Enjoy the best shots from day two at the Women's Open, featuring Nelly Korda and England's Charley Hull.",
-        "body": "",
-        "copy": "Enjoy the best shots from day two at the Women's Open, featuring Nelly Korda and England's Charley Hull.",
-        "first_seen": "2026-07-31T19:21:34.633835+00:00"
       }
     ],
     "Badminton": [
@@ -7096,5 +7083,5 @@
       }
     ]
   },
-  "total": 544
+  "total": 543
 }
