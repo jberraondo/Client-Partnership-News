@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T14:52:53.772976+00:00",
-  "generated_label": "Friday 07 August 2026, 14:52 UTC",
+  "generated_at": "2026-08-07T16:53:39.828022+00:00",
+  "generated_label": "Friday 07 August 2026, 16:53 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Porto land XTB sleeve deal; Bayern partner with LONGi",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUdzRWgyU09rQ3JZY2xOdHpqZE5vcWRsdTBadE0zMUd6MklrSGc4enFBWG9tMlE0QU1UUUIzV21Rdmx1TnU3b21PMEV6SUd5aHJMTXB3N2xuZHpLWlBaR1NoUUZwYU40ZmFERVhMX2p4NHlGRmJ1SEQ4TnRQdmpZN2RmVkRPWGhCQ09j?oc=5",
+        "published": "2026-08-07T14:52:37+00:00",
+        "published_label": "Fri 07 Aug, 14:52",
+        "summary": "Porto land XTB sleeve deal; Bayern partner with LONGi Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-07T16:53:39.828022+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "DAZN adds Portugal’s Primeira Liga to Spanish soccer stable",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFJydGJFcXlVTENrQTNMeEE3b19ZVWt0QUwxR2hwSl9IaDVrTjJia1JZcDVvQm1nZ1Rfci1LX0xBd1d6Nm1TVVlUVUFXSlFjdU00VUJ0dENaTUdJOEhrQk9Wc09WbW9GejNzNWxwa1lNTVh2eTBoQURPYUpJZm50dUVkenk1YU94RDlOdzJlZld3LTA?oc=5",
+        "published": "2026-08-07T14:52:37+00:00",
+        "published_label": "Fri 07 Aug, 14:52",
+        "summary": "DAZN adds Portugal’s Primeira Liga to Spanish soccer stable Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-07T16:53:39.828022+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Dentsu retains WBSC commercial rights contract through 2036",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQW1qY2x3OGpYT2FtbnNlRmpLaEwteTh3cGxlVWRia24yZGpTX0JWMHV5SFlNSHYxMkNDMTdlZzJoMTY2RlNJN2FHOGRWT3k3Y1lQaEZOMEVCUTJEdDQtcnpfVjA4S0hFbGQzek1UTHlLa09qbEI4cHJtTmtSLVhWZjhJSlkzSTdTVUs1WjFlQ0Z2bkhq?oc=5",
+        "published": "2026-08-07T14:52:37+00:00",
+        "published_label": "Fri 07 Aug, 14:52",
+        "summary": "Dentsu retains WBSC commercial rights contract through 2036 Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-07T16:53:39.828022+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "HSBC watch",
@@ -138,8 +177,8 @@
         "published": "2026-08-07T07:29:31+00:00",
         "published_label": "Fri 07 Aug, 07:29",
         "summary": "Times Prime Takes HSBC Live+ Dining Benefits Across India, Singapore, Thailand and Dubai Prittle Prattle News",
-        "body": "",
-        "copy": "",
+        "body": "Sandeep Batra, Head of International Wealth and Premier Banking at HSBC India, said the new Visa Infinite card combines dining, travel, lifestyle and shopping benefits, while Times Prime brings its restaurant access platform to cardholders.\n\nHSBC Live+ Visa Infinite Credit Card holders will receive access to chef curated dining experiences across India, Singapore, Thailand and Dubai through a partnership between Times Prime and HSBC India.",
+        "copy": "Sandeep Batra, Head of International Wealth and Premier Banking at HSBC India, said the new Visa Infinite card combines dining, travel, lifestyle and shopping benefits, while Times Prime brings its restaurant access platform to cardholders.\n\nHSBC Live+ Visa Infinite Credit Card holders will receive access to chef curated dining experiences across India, Singapore, Thailand and Dubai through a partnership between Times Prime and HSBC India.",
         "first_seen": "2026-08-07T08:35:45.963194+00:00"
       },
       {
@@ -1321,45 +1360,6 @@
         "published": "2026-07-31T17:22:17+00:00",
         "published_label": "Fri 31 Jul, 17:22",
         "summary": "Is Kevin Warsh the Lionel Messi of monetary policy? Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-01T08:16:52.543359+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "The week that shook football",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEp5M2hJSzRZS3R0MlpwZEkzcDgwbGtjcExZLUl3bDA3NEdzRENPT29GNWdtR1ctQUdrRzlHRGYzQ1EzY2E2MzN1NzZuUkFZSzhpMWZremV3LTJGV3BBeWRCUGp6QS1aS2VENzAxcnNoVWtZZGUyRUtJT0ZJMnpPWlJQa1Q?oc=5",
-        "published": "2026-07-31T16:30:00+00:00",
-        "published_label": "Fri 31 Jul, 16:30",
-        "summary": "The week that shook football Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-31T19:21:34.633835+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Buccaneers swap Coca-Cola for PepsiCo after 50 years",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUUoxV2diTjllc0FWbzNfbk05NHlxWXBSbml1V21KVHF4N2E1Uk9VRUlXT3pHRVZ1YmdrTzFGVTA2Q1NGVllFN2w1Wm1SNWV4ZzUtS0xoRUdZVzYzVWxiTlBYYXJZNF9HeFN4RHloUkswWE1pdkFacW5JSFJlMDdqUkp0WnpSZ2Vzdmsw?oc=5",
-        "published": "2026-07-31T15:50:44+00:00",
-        "published_label": "Fri 31 Jul, 15:50",
-        "summary": "Buccaneers swap Coca-Cola for PepsiCo after 50 years sportcal.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-07-31T17:28:30.744886+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "ESPN and Scripps on base as WPBL lines up inaugural season slate",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTC1malQ2WnBuUUVRMkptZmNBVkdvcTVDRjh5Y2xhekh4Rk9tQlRaaDY4MWNBRW1oUjMtV3NQV3ZnNzhHTWotYlUzVkNHcGtLME9RcllqRXlPTkNKMkMybHJRZXZJa2dtNjdJRzBmMDYxMnhsWDhkelNJbXFJQzNVSFBsWEpkZUNYbUxrQU5TbFdHUDJnWFJFRDY4SQ?oc=5",
-        "published": "2026-07-31T15:20:44+00:00",
-        "published_label": "Fri 31 Jul, 15:20",
-        "summary": "ESPN and Scripps on base as WPBL lines up inaugural season slate Sportcal",
         "body": "",
         "copy": "",
         "first_seen": "2026-08-01T08:16:52.543359+00:00"
@@ -3185,32 +3185,6 @@
         "body": "Lucas Rumball has played 66 Tests for Canada, including the 2019 Rugby World Cup, where he faced the All Blacks and eventual champions South Africa. The openside flanker has captained his country multiple times and is well positioned to comment on the zeitgeist of contemporary flanker play, which seems to prefer tall and versatile backrowers over the classic shorter scavenging seven. Are international prospects over for players like Du’Plessis Kirifi?\n\n“The game is always shifting. Right now there are many high ball contests and a greater emphasis on offence where taller, faster athletes are preferred,” Rumball told RugbyPass.",
         "copy": "Lucas Rumball has played 66 Tests for Canada, including the 2019 Rugby World Cup, where he faced the All Blacks and eventual champions South Africa. The openside flanker has captained his country multiple times and is well positioned to comment on the zeitgeist of contemporary flanker play, which seems to prefer tall and versatile backrowers over the classic shorter scavenging seven. Are international prospects over for players like Du’Plessis Kirifi?\n\n“The game is always shifting. Right now there are many high ball contests and a greater emphasis on offence where taller, faster athletes are preferred,” Rumball told RugbyPass.",
         "first_seen": "2026-08-01T08:16:52.543359+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Scarlets vow to remain at heart of west Wales",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwyeq2n79n9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-31T16:35:03+00:00",
-        "published_label": "Fri 31 Jul, 16:35",
-        "summary": "Scarlets and Ospreys are in a fight for survival in west Wales following plans by the Welsh Rugby Union to cut to three teams.",
-        "body": "Scarlets say they intend to remain \"at the heart of west Wales\" after being plunged into in a battle for survival with Ospreys by Welsh Rugby Union (WRU) plans. Welsh rugby's governing body has given the timeframe for their plans to cut its four professional teams to three by 2028, and confirmed on Wednesday that Cardiff and Dragons will be given licences.\n\nThat leaves Llanelli-based Scarlets and Swansea-based Ospreys fighting to be the side in the west, unless there is to be a merger. \"It is our mission, as it has always been, to be at the forefront of a strong, meaningful and sustainable future for rugby in west Wales. Our focus remains unchanged and unhindered,\" said Scarlets in a message to supporters.",
-        "copy": "Scarlets say they intend to remain \"at the heart of west Wales\" after being plunged into in a battle for survival with Ospreys by Welsh Rugby Union (WRU) plans. Welsh rugby's governing body has given the timeframe for their plans to cut its four professional teams to three by 2028, and confirmed on Wednesday that Cardiff and Dragons will be given licences.\n\nThat leaves Llanelli-based Scarlets and Swansea-based Ospreys fighting to be the side in the west, unless there is to be a merger. \"It is our mission, as it has always been, to be at the forefront of a strong, meaningful and sustainable future for rugby in west Wales. Our focus remains unchanged and unhindered,\" said Scarlets in a message to supporters.",
-        "first_seen": "2026-07-31T17:28:30.744886+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Five big-name Springboks return in 26-man squad for Argentina",
-        "link": "https://www.rugbypass.com/news/five-big-name-springboks-stars-returns-in-26-man-squad-for-argentina/",
-        "published": "2026-07-31T15:39:23+00:00",
-        "published_label": "Fri 31 Jul, 15:39",
-        "summary": "Five big-name Springboks have all been included in a 26-man South Africa squad for next weekend’s Test against Argentina in Buenos Aires after recovering from injury.",
-        "body": "Five big-name Springboks have all been included in a 26-man South Africa squad for next weekend’s Test against Argentina in Buenos Aires after recovering from injury. Rassie Erasmus named a group featuring a number of returning players as the Springboks prepare for their one-off clash against Los Pumas on August 8, with captain Siya Kolisi, Sacha Feinberg-Mngomezulu, Lood de Jager, Eben Etzebeth and Morne van den Berg all return to the play after various amounts of time on the sidelines.\n\nSeveral senior players, including Cheslin Kolbe, Damian Willemse, Jesse Kriel and Ruan Nortje, will remain in South Africa and reassemble in Johannesburg on Sunday ahead of preparations for the Rugby’s Greatest Rivalry Tour against New Zealand.",
-        "copy": "Five big-name Springboks have all been included in a 26-man South Africa squad for next weekend’s Test against Argentina in Buenos Aires after recovering from injury. Rassie Erasmus named a group featuring a number of returning players as the Springboks prepare for their one-off clash against Los Pumas on August 8, with captain Siya Kolisi, Sacha Feinberg-Mngomezulu, Lood de Jager, Eben Etzebeth and Morne van den Berg all return to the play after various amounts of time on the sidelines.\n\nSeveral senior players, including Cheslin Kolbe, Damian Willemse, Jesse Kriel and Ruan Nortje, will remain in South Africa and reassemble in Johannesburg on Sunday ahead of preparations for the Rugby’s Greatest Rivalry Tour against New Zealand.",
-        "first_seen": "2026-07-31T17:28:30.744886+00:00"
       }
     ],
     "Tennis": [
@@ -3265,6 +3239,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-07T14:52:53.772976+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Canadian Open: Gael Monfils sends crowd wild with TWO outrageous leaping shots!",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbzhVejQtTm9PS0Q5V0U5MG8xbTFsUVVySkw0WTdVd0N5bjMyWElaX2xmbl82MnB0bWhHMFF0a1JkMTZuenRMYmt2TzJ5RGpRNHNOLXo2RmVhWTcxWDkxc29Ba1VLNThTbTNUbm5zSE5RZjZKYXNzeVBKdzJjbWlCb084X0FxTmhIRVFsZnNUVUtyM2dUUkhWN0FjRG45WGwtdWp6cU5KNWZjWEhjMW1HRVRiM2tTb0RSTVEzRHlyMS1yLUt0MFJtOVk2UQ?oc=5",
+        "published": "2026-08-06T18:51:14+00:00",
+        "published_label": "Thu 06 Aug, 18:51",
+        "summary": "Canadian Open: Gael Monfils sends crowd wild with TWO outrageous leaping shots! skysports.com",
+        "body": "Canadian Open: Gael Monfils sends crowd wild with TWO outrageous leaping shots! Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
+        "copy": "Canadian Open: Gael Monfils sends crowd wild with TWO outrageous leaping shots! Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
+        "first_seen": "2026-08-07T16:53:39.828022+00:00"
       },
       {
         "section": "Tennis",
@@ -4100,6 +4087,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'It's been awful': FedEx Cup winner gives season 'F' grade after hot Wyndham start",
+        "link": "https://golf.com/news/fedex-cup-winner-gives-season-f-grade-hot-start/",
+        "published": "2026-08-07T15:12:03+00:00",
+        "published_label": "Fri 07 Aug, 15:12",
+        "summary": "Former FedEx Cup winner Billy Horschel harshly critiqued himself for a lost season after a hot start at the 2026 Wyndham Championship. The post ‘It’s been awful’: FedEx Cup winner gives season ‘F’ grade after hot Wyndham start appeared first on Golf .",
+        "body": "Billy Horschel is not thrilled with his play on the course so far this season. The eight-time PGA Tour winner was ranked a dismal 107th in the FedEx Cup rankings heading into this week’s Wyndham Championship.\n\nEven a hot start was not enough to satisfy the veteran Tour pro. Following his opening-round 65 at the Wyndham, Horschel said he didn’t think he “did anything particularly special” and his wedges weren’t “sharp.” Overall, he called it a “pretty boring 65,” except for that one bomb for eagle, of course.",
+        "copy": "Billy Horschel is not thrilled with his play on the course so far this season. The eight-time PGA Tour winner was ranked a dismal 107th in the FedEx Cup rankings heading into this week’s Wyndham Championship.\n\nEven a hot start was not enough to satisfy the veteran Tour pro. Following his opening-round 65 at the Wyndham, Horschel said he didn’t think he “did anything particularly special” and his wedges weren’t “sharp.” Overall, he called it a “pretty boring 65,” except for that one bomb for eagle, of course.",
+        "first_seen": "2026-08-07T16:53:39.828022+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6036,32 +6036,6 @@
         "body": "",
         "copy": "Enjoy the best shots from day two at the Women's Open, featuring Nelly Korda and England's Charley Hull.",
         "first_seen": "2026-07-31T19:21:34.633835+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf Is On The Cusp Of A New Funding Deal—And Bankruptcy Is On The Table",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRUl0V2NCTC01YTRRSDlSWHY5b3lXTkpaNkdRbFpidTFPUG9OTWEwMEtNV0diV2FZcmV5ZzVqOGFXNFR6d2NOeWRSMWZmd1lKSTZtTGRUTWR6MldtYnl3TEQyRmFqRDl1M2ozSDR3U3g1SEFGRlMtSzU3dW9qUV85NDBPWm04ZTB1WWdtV09qeVVjYzduRXRCQ3ZZVnR3eGttQWx1ajdfcFVTbXE2U2RZdWVOZGdIYVh1ZnBZUE1sM2F4bjlIZ2txUTh3?oc=5",
-        "published": "2026-07-31T16:27:23+00:00",
-        "published_label": "Fri 31 Jul, 16:27",
-        "summary": "LIV Golf Is On The Cusp Of A New Funding Deal—And Bankruptcy Is On The Table Forbes",
-        "body": "The embattled LIV Golf league is well on its way to a deal worth between $250 million and $350 million that would save it from what once looked like an inevitable folding after Saudi Arabia’s Public Investment Fund backed away from its promise to support the league through 2032.\n\nCEO Scott O’Neil, who joined the league last year, is close to completing a deal that will support the league through at least 2027 and fund the creation of “LIV 2.0,” a scaled-down version of the league, a source familiar with talks told Forbes on Friday.",
-        "copy": "The embattled LIV Golf league is well on its way to a deal worth between $250 million and $350 million that would save it from what once looked like an inevitable folding after Saudi Arabia’s Public Investment Fund backed away from its promise to support the league through 2032.\n\nCEO Scott O’Neil, who joined the league last year, is close to completing a deal that will support the league through at least 2027 and fund the creation of “LIV 2.0,” a scaled-down version of the league, a source familiar with talks told Forbes on Friday.",
-        "first_seen": "2026-07-31T17:28:30.744886+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Can a YouTuber get the PGA Tour out of its own way?",
-        "link": "https://golf.com/news/can-youtube-golfer-force-pga-tour-change/",
-        "published": "2026-07-31T16:17:01+00:00",
-        "published_label": "Fri 31 Jul, 16:17",
-        "summary": "The PGA Tour did something new Thursday with a player best known for his work on YouTube. It could be a sign of things to come. The post Can a YouTuber get the PGA Tour out of its own way? appeared first on Golf .",
-        "body": "There’s legitimate bristling to be had on the inclusion of Brad Dalke in this week’s Rocket Classic. Dalke is one helluva golfer, but he is firstly a YouTube Golfer. That term isn’t nearly as disparaging as it may have once been, but he was invited as a sponsor’s exemption for that reason far more than any other. It’s okay to say it out loud.\n\nIt’s also particularly okay to acknowledge it after what went down Thursday afternoon. Dalke had a very bad day at Detroit Golf Club. The former U.S. Am runner-up hit a handful of bad shots, earned a few bad breaks, made just a single birdie and saw his name near the bottom of the leaderboard: 81, 11 over. Most importantly, though, he did it all in front of a special set of roving cameras that were tracking his every shot.",
-        "copy": "There’s legitimate bristling to be had on the inclusion of Brad Dalke in this week’s Rocket Classic. Dalke is one helluva golfer, but he is firstly a YouTube Golfer. That term isn’t nearly as disparaging as it may have once been, but he was invited as a sponsor’s exemption for that reason far more than any other. It’s okay to say it out loud.\n\nIt’s also particularly okay to acknowledge it after what went down Thursday afternoon. Dalke had a very bad day at Detroit Golf Club. The former U.S. Am runner-up hit a handful of bad shots, earned a few bad breaks, made just a single birdie and saw his name near the bottom of the leaderboard: 81, 11 over. Most importantly, though, he did it all in front of a special set of roving cameras that were tracking his every shot.",
-        "first_seen": "2026-07-31T17:28:30.744886+00:00"
       }
     ],
     "Badminton": [
@@ -6090,6 +6064,19 @@
         "body": "India will be represented by a squad of 14 shuttlers at the BWF World Championships, commencing next week at New Delhi's Indira Gandhi Indoor Stadium. The tournament marks a significant opportunity for the Indian team to continue a medal-winning streak that dates back to 2011. Since the event's inception, India has secured 15 medals—10 bronze, four silver, and one gold. P.V. Sindhu remains India's only world champion, having won the title in 2019, and is also the most decorated player at the Championships with five medals: one gold, two silver, and two bronze, a record she shares with Zhang Ning of China.\n\nIndia has reached the podium in every edition since 2011, with the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty winning bronze in 2025. The Indian contingent, enjoying home support, will aim to uphold this impressive tradition. The squad includes two entries each in men's singles, men's doubles, women's singles, and mixed doubles, alongside one women's doubles pair.",
         "copy": "India will be represented by a squad of 14 shuttlers at the BWF World Championships, commencing next week at New Delhi's Indira Gandhi Indoor Stadium. The tournament marks a significant opportunity for the Indian team to continue a medal-winning streak that dates back to 2011. Since the event's inception, India has secured 15 medals—10 bronze, four silver, and one gold. P.V. Sindhu remains India's only world champion, having won the title in 2019, and is also the most decorated player at the Championships with five medals: one gold, two silver, and two bronze, a record she shares with Zhang Ning of China.\n\nIndia has reached the podium in every edition since 2011, with the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty winning bronze in 2025. The Indian contingent, enjoying home support, will aim to uphold this impressive tradition. The squad includes two entries each in men's singles, men's doubles, women's singles, and mixed doubles, alongside one women's doubles pair.",
         "first_seen": "2026-08-07T10:51:36.450839+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "‘Quality of Top 20 is What Top 10 Used to Be’",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjFWYUNxemxKZGNZbmQ0RlFRV1JPTTdZZVBRY0xUamZfU0d3VFl0bGQ1azdMN205T2h5d2JsSG55Vm1XR0xJZnd5NGwtMmJhLVBWMEc3UzN5ZmJ1UlhDY3NxRnRmb1d3LU9zd0pfeUZHRnBEZGhreW1iOFA5SVRqelNJWjdDR3dyWGFRR2hKSVdnbDE4dVY5UWJxaWRvRE9wRE0xRlc5M0tTZmRGaGV6eUd3?oc=5",
+        "published": "2026-08-07T08:26:01+00:00",
+        "published_label": "Fri 07 Aug, 08:26",
+        "summary": "‘Quality of Top 20 is What Top 10 Used to Be’ bwfworldchampionships.bwfbadminton.com",
+        "body": "Ahead of the upcoming BWF World Championships – her 11th – European champion Kirsty Gilmour talks about adapting to younger generations of opponents, working on becoming the best version of herself, and her connection with Indian fans.\n\nYou’ve seen different generations of opponents. What do you make of the younger ones? Is there a different approach or is it just various individual styles as before? Year on year it becomes more physical. Maybe when I was younger, I thought I would get to a point and then it would become easier. I would like ‘get it’ but because the game is always evolving, always changing, it’s never become easier to be honest, and I think the younger ones are so hungry to beat the more established players, whereas before maybe the older ones dominated, but the younger ones are always at your heels, always ready.",
+        "copy": "Ahead of the upcoming BWF World Championships – her 11th – European champion Kirsty Gilmour talks about adapting to younger generations of opponents, working on becoming the best version of herself, and her connection with Indian fans.\n\nYou’ve seen different generations of opponents. What do you make of the younger ones? Is there a different approach or is it just various individual styles as before? Year on year it becomes more physical. Maybe when I was younger, I thought I would get to a point and then it would become easier. I would like ‘get it’ but because the game is always evolving, always changing, it’s never become easier to be honest, and I think the younger ones are so hungry to beat the more established players, whereas before maybe the older ones dominated, but the younger ones are always at your heels, always ready.",
+        "first_seen": "2026-08-07T16:53:39.828022+00:00"
       },
       {
         "section": "Badminton",
@@ -6199,6 +6186,19 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "‘Focussing on Playing Smarter, Not Just Harder’",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1FhVmhUYXFwaW53R2tNdlc0TjY1T3V5VGRhblE2OEZiRHlPV3FMZFZMNXR1TFh1SGRzVzZ3QkVPbEd5X0M4aXNUaHlteVVOaHpaSkdsNEJwWk9FZ2xFM0k4Q0YxaGJteVNhSlRJREpGRUhLMGZHNkVPZnhCSDF3TE5RX1lweTFzbm5SUjBqWnVqVzYxVnlrS2hsdUxWZHFuQWRPX3pLcU1kbjJBVjFPeVpfZ1I?oc=5",
+        "published": "2026-08-06T08:16:54+00:00",
+        "published_label": "Thu 06 Aug, 08:16",
+        "summary": "‘Focussing on Playing Smarter, Not Just Harder’ bwfworldchampionships.bwfbadminton.com",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-08-07T16:53:39.828022+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "BWF World Championships 2026 draw: Ayush Shetty to face Shi Yuqi in first round; PV Sindhu, Lakshya Sen get easy opener",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPckZodDhvbFNheGdES3czcU54QVJEcTRxY2NKejZidVlKdWRSQl9FVE1Wa24ydDgwb1RIVHd6M0pTN0VtX1FEZTVRMjVpM185ZkwxRnVvZVpYd3Q3aFpfMXRGQjBKT2tvSlNwQVQ1NTBscW9XZy1Vcl96SUNxXzIwSTA2aWlJZ2w2TVVTT28taTNVVDBjeml3RGRXR1RkOTdta04zcnoxMVZVWTk3aTlEUzBheFdTUVFmdUpONWUzT3lyWU1scTFYeVhiUWdFTWVfellXV3lURjVWa1hBOGpJN1oyRXpTZXUwMFpwR0pzbGNibDjSAfgBQVVfeXFMTnZGQ3ZkVGFKMXM1aHp1NHFGdmdoNUYtZ2trYms4a242ZFBvR0pndzVzX1RVbUREcXdFZ1ZjWEIzOVlFVEgwUDZqUFdKUnBWS0pua3c3V1BDWXdoV2pjRk9NZjdkdnE1V3RYNGs1Tjh6dlNzclhwT0VPMnFpeC1YSnlDMXNEUl92OGtkcEVYclVJVGRTT2ZOd1FuNlk2MWhlZllHUmRfazNDN3N2RkcwTjVxSEtaWEc3RVpDengzZUh0QjhEYnFlVnQtS25fYVhBLXQ2WndvVDBiQXJlYjlOMU5FbTYyV0paOU82Tm9vTHJ2QjR4a1ZSaTg?oc=5",
         "published": "2026-08-06T07:46:00+00:00",
@@ -6246,6 +6246,19 @@
         "body": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-satisfied-with-upgrades-at-world-championships-venue-after-india-open-backlash-11871708\" on this server.\n\nReference #18.e818d017.1785958057.5557a4be https://errors.edgesuite.net/18.e818d017.1785958057.5557a4be",
         "copy": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-satisfied-with-upgrades-at-world-championships-venue-after-india-open-backlash-11871708\" on this server.\n\nReference #18.e818d017.1785958057.5557a4be https://errors.edgesuite.net/18.e818d017.1785958057.5557a4be",
         "first_seen": "2026-08-05T19:27:40.991213+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF Worlds: Sindhu gets dream start, Ayush faces defending champ",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnVsQUxuWFZPSkNpWGJlOW0yNFdtNkctWmtGX295Vk1IUkdNZ1NtdTlxMFhfZElFYnY5N3g3SmN4NEZaZ3U3MUE4Y21PLTZ0NFlMSnhUbUJDdk54cVJvUE5BbDdlWi1ORU0zcjB5MjlEWlZhYTBXNUVuRklRWkdZZ0VnY1ZYaklteUlPYThRVF8zZVlvTzNkX2xtWnNOaXJzWXBCWlJDcmpIR0VESl9fZGZn0gG0AUFVX3lxTFB0MTJFX0tOa0NfQ3RuZ241dlNrMFlZbkR4b3NyYjRvajRSQWNyanVYRmlQNlNNRUZqX3dETEwza2xuSEQ4TWVOeGdRQ2piYkQtTllHWTJGWUZPVmNlNWRZdFI1TlAxOVNxc2pLN2RPNFJpeEFWNzh2WnEwY2Y4cUxCb3NIUklBeTMzSktTMnF2T2hOV0ZvUUN4dElxNEd4RGJ6SlAyT0FiWG9VOGgxZzQtdFZ2bQ?oc=5",
+        "published": "2026-08-05T16:59:04+00:00",
+        "published_label": "Wed 05 Aug, 16:59",
+        "summary": "BWF Worlds: Sindhu gets dream start, Ayush faces defending champ Rediff",
+        "body": "Top Indian badminton players, including PV Sindhu and Lakshya Sen, have received their draws for the BWF World Championships in New Delhi, setting the stage for an exciting tournament with both favourable matchups and challenging opening rounds for the nation's shuttlers.\n\n- India is hosting the BWF World Championships for the first time in 17 years, from August 17 to 23 at the Indira Gandhi Indoor Stadium. - PV Sindhu, a former world champion, begins her quest for a sixth medal against world No. 141 Sophia Nobel of Ireland, avoiding top seeds until later rounds.",
+        "copy": "Top Indian badminton players, including PV Sindhu and Lakshya Sen, have received their draws for the BWF World Championships in New Delhi, setting the stage for an exciting tournament with both favourable matchups and challenging opening rounds for the nation's shuttlers.\n\n- India is hosting the BWF World Championships for the first time in 17 years, from August 17 to 23 at the Indira Gandhi Indoor Stadium. - PV Sindhu, a former world champion, begins her quest for a sixth medal against world No. 141 Sophia Nobel of Ireland, avoiding top seeds until later rounds.",
+        "first_seen": "2026-08-07T16:53:39.828022+00:00"
       },
       {
         "section": "Badminton",
@@ -7083,5 +7096,5 @@
       }
     ]
   },
-  "total": 543
+  "total": 544
 }
