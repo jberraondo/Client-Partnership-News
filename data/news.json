@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T08:35:45.963194+00:00",
-  "generated_label": "Friday 07 August 2026, 08:35 UTC",
+  "generated_at": "2026-08-07T08:57:30.805670+00:00",
+  "generated_label": "Friday 07 August 2026, 08:57 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1389,19 +1389,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-07-31T17:28:30.744886+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportBusiness",
-        "kind": "direct",
-        "title": "Gianni sees stars and Ryder Cup earns Stripes",
-        "link": "https://www.sportbusiness.com/2026/07/gianni-sees-stars-and-ryder-cup-earns-stripes/?utm_source=rss&utm_medium=rss&utm_campaign=gianni-sees-stars-and-ryder-cup-earns-stripes",
-        "published": "2026-07-31T08:38:35+00:00",
-        "published_label": "Fri 31 Jul, 08:38",
-        "summary": "This week on The SportBusiness Podcast, we profile a new sponsor with big pockets that has landed Ryder Cup and Mercedes F1 deals while unpacking a seismic and damaging few days for global football",
-        "body": "",
-        "copy": "This week on The SportBusiness Podcast, we profile a new sponsor with big pockets that has landed Ryder Cup and Mercedes F1 deals while unpacking a seismic and damaging few days for global football",
-        "first_seen": "2026-07-31T10:06:08.345969+00:00"
       }
     ],
     "Rugby": [
@@ -3327,19 +3314,6 @@
         "summary": "Lizo Gqoboka has announced his retirement from professional rugby at the age of 36, bringing the curtain down on a career that included more than a decade with the Bulls and two Springbok appearances.",
         "body": "Lizo Gqoboka has announced his retirement from professional rugby at the age of 36, bringing the curtain down on a career that included more than a decade with the Bulls and two Springbok appearances.\n\nThe loosehead prop informed the Bulls of his decision a week after producing a man-of-the-match display against the Falcons in a pre-season fixture, scoring two tries and winning eight scrum penalties.",
         "copy": "Lizo Gqoboka has announced his retirement from professional rugby at the age of 36, bringing the curtain down on a career that included more than a decade with the Bulls and two Springbok appearances.\n\nThe loosehead prop informed the Bulls of his decision a week after producing a man-of-the-match display against the Falcons in a pre-season fixture, scoring two tries and winning eight scrum penalties.",
-        "first_seen": "2026-07-31T10:06:08.345969+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Hooker Jibulu signs new Sale deal",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g15p9208o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-31T08:46:32+00:00",
-        "published_label": "Fri 31 Jul, 08:46",
-        "summary": "Nathan Jibulu signs a new long-term contract with Sale Sharks, aiming to keep him at the side until 2030.",
-        "body": "Nathan Jibulu has signed a new contract with Sale Sharks aiming to keep him at the club until 2030. The 23-year-old hooker, whose performances for the Sharks in his first season earned him a call-up to the England training squad in June, played 23 games with Sale after joining from Harlequins last summer.\n\nJibulu told the Sale website, external: \"We know the season didn't go as we wanted but the atmosphere has been really good and so many young lads got a lot of experience in big games.",
-        "copy": "Nathan Jibulu has signed a new contract with Sale Sharks aiming to keep him at the club until 2030. The 23-year-old hooker, whose performances for the Sharks in his first season earned him a call-up to the England training squad in June, played 23 games with Sale after joining from Harlequins last summer.\n\nJibulu told the Sale website, external: \"We know the season didn't go as we wanted but the atmosphere has been really good and so many young lads got a lot of experience in big games.",
         "first_seen": "2026-07-31T10:06:08.345969+00:00"
       }
     ],
@@ -7265,5 +7239,5 @@
       }
     ]
   },
-  "total": 557
+  "total": 555
 }
