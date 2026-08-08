@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:30:42.074930+00:00",
-  "generated_label": "Saturday 08 August 2026, 14:30 UTC",
+  "generated_at": "2026-08-08T16:31:00.691693+00:00",
+  "generated_label": "Saturday 08 August 2026, 16:31 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -232,6 +232,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-07T18:53:31.476104+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Can the Polestar 3 save you from hay fever?",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vYUZVVUlKS0dLb1NJNWpJOXhLN1ZsOGlWRGVIZHhsWWk0V0luUWlabDFDRVdzYi1jcEpJc2RSd3NhY3FSRVhEa3dQRjJKRWlkSjNWVFJBSkFNb2lJRURYVjc5T2o2QjVkNDBpRlI0Um4?oc=5",
+        "published": "2026-08-07T08:30:07+00:00",
+        "published_label": "Fri 07 Aug, 08:30",
+        "summary": "Can the Polestar 3 save you from hay fever? ft.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -3257,6 +3270,19 @@
         "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
+        "title": "Jack Draper confirms Cincinnati Open return as he races against time before US Open",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNS1EaGhjaHNlZTlpcXRmb1ItSnFRNzFpcEgtUDA3YnloQ1ZiWFNVOWdiaEc3aHI5Wm9sQ1lSZTF5MHczU2hkMUM3QVVMRkNPTGM2NlJUN2FzOHVjajQ4TVloZEhkbkpQLWV1LUhqRG15ZW1RMU5tdFdYODRrLUx0Um15S29sQ0Y3TWRqaTBjbldjUDFyWlkxQ21fRmpDbENVd0dsVlNER1FhQlczUTNVQW1GVi1STE40X2hmZHB1ZXpWejlPWXlydEdVNnI0Ml9Hd1M2d09DSExHNmpY?oc=5",
+        "published": "2026-08-07T20:23:44+00:00",
+        "published_label": "Fri 07 Aug, 20:23",
+        "summary": "Jack Draper confirms Cincinnati Open return as he races against time before US Open Yardbarker",
+        "body": "Jack Draper will return to action at the Cincinnati Open next week despite the emotional scenes that followed his latest injury setback at the Canadian Open in Montreal. The British player left the court in tears after his first match since June, raising concerns about whether his US Open preparations had suffered another major blow.\n\nThe 24-year-old was making his comeback in Canada after a recurrence of the bone bruising that had previously kept him sidelined for almost seven months. Draper struggled physically during his match against Terence Atmane and eventually appeared unable to continue at his usual level, but the latest update suggests he will not need another extended absence from competition.",
+        "copy": "Jack Draper will return to action at the Cincinnati Open next week despite the emotional scenes that followed his latest injury setback at the Canadian Open in Montreal. The British player left the court in tears after his first match since June, raising concerns about whether his US Open preparations had suffered another major blow.\n\nThe 24-year-old was making his comeback in Canada after a recurrence of the bone bruising that had previously kept him sidelined for almost seven months. Draper struggled physically during his match against Terence Atmane and eventually appeared unable to continue at his usual level, but the latest update suggests he will not need another extended absence from competition.",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
         "title": "Jack Draper Plans to Play Cincinnati",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sYVFGNTdYZE1iRVgtX3YxcGpzcUcyN0ZaWmxTdXhKcWhUNVZTWlBIcnJJcDdLRzhIOG5ySTdTeXZ1LW5wS0RNR3FfU18xaUM4S05nU05EMTdtQmF2ejhPNDBQdHZ1QTlIRlE?oc=5",
         "published": "2026-08-07T18:39:45+00:00",
@@ -3278,6 +3304,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-07T18:53:31.476104+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUx3U2FPTVQ2dTNvODhoYkFQTDZVUHBYSld0cWdrNi0wcXJ2d2FrS0xQLTlqZTAxZE9LTmQ5ZE14bkFmZlE3MEQ2NjMzVVVYdzRVRk1SYUJnSDZ6aXlHbHJvNVpWZUVmZk1GMncyMlhhR1FDQ2dOTU8zcGtJSWxCajk3aU9zLU1COWlKTTNzbjM3YllIcVY5NUdDaVRsLXduc29MTg?oc=5",
+        "published": "2026-08-07T16:25:23+00:00",
+        "published_label": "Fri 07 Aug, 16:25",
+        "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
       },
       {
         "section": "Tennis",
@@ -4113,6 +4152,58 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "New at Fairway Jockey: Lusso Cloud slides",
+        "link": "https://golf.com/gear/shoes/new-fairway-jockey-lusso-cloud-slides/",
+        "published": "2026-08-08T16:20:11+00:00",
+        "published_label": "Sat 08 Aug, 16:20",
+        "summary": "Check out the latest in post-round, slip-in comfort: Lusso Cloud slides are now available at Fairway Jockey. Shop now! The post New at Fairway Jockey: Lusso Cloud slides appeared first on Golf .",
+        "body": "Comfy, slip-in footwear has been steadily gaining in popularity over the years. Lounge-style, easy-to-wear shoes that were once confined to the inside of your home and the pool deck are now everywhere.\n\nThere’s only one problem: flip-flops, Crocs and traditional slides can seem … overly casual in some settings. There was room in the marketplace for an elevated version that still maintained the same level of ventilated comfort.",
+        "copy": "Comfy, slip-in footwear has been steadily gaining in popularity over the years. Lounge-style, easy-to-wear shoes that were once confined to the inside of your home and the pool deck are now everywhere.\n\nThere’s only one problem: flip-flops, Crocs and traditional slides can seem … overly casual in some settings. There was room in the marketplace for an elevated version that still maintained the same level of ventilated comfort.",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Want to hit a proper pitch? Master this 1 key",
+        "link": "https://golf.com/instruction/hit-proper-pitch-master-this-1-key/",
+        "published": "2026-08-08T15:28:24+00:00",
+        "published_label": "Sat 08 Aug, 15:28",
+        "summary": "Top 100 Teacher Krista Dunton explains why getting too steep can cause pitching problems — and how to avoid it. The post Want to hit a proper pitch? Master this 1 key appeared first on Golf .",
+        "body": "One key to hitting a great pitch shot is balancing steep angles in the setup with shallow angles during the motion. If you get too steep in the swing, the leading edge can dig and create inconsistent contact. Here’s how to keep that from happening.\n\nAt address, keep your hands neutral with minimal shaft lean, while your head and chest are slightly ahead of the ball. With this setup, you’ll create the necessary steepness in the body to hit a proper pitch. Now, for the shallow motion. Set the clubface open at address and un-cock your wrists.",
+        "copy": "One key to hitting a great pitch shot is balancing steep angles in the setup with shallow angles during the motion. If you get too steep in the swing, the leading edge can dig and create inconsistent contact. Here’s how to keep that from happening.\n\nAt address, keep your hands neutral with minimal shaft lean, while your head and chest are slightly ahead of the ball. With this setup, you’ll create the necessary steepness in the body to hit a proper pitch. Now, for the shallow motion. Set the clubface open at address and un-cock your wrists.",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "PGA Tour boss Brian Rolapp shuts down LIV Golf merger talk despite Bryson DeChambeau plea",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWGYyOEJkREJEVi1xTDVLb0NFNGs1SzZBTk1QZDNrUXYwT1RScTBOVGNKaklJTXZiOFNXb1N5V2ZRckhXU2RMOGlkYnZCZGEzUVA1UUFleVRfMUItMFpVaFNhV0lTTmFSZ0NzbVVMT0hyTW1FanVCYTVpOFpJWVhXZmwtYjBwZkxfZXE3bXNDMVFOTGVDVy1NUndvQ0gxTDRwNlBoMk9rUjZvcWFKN18tSTdFS3lEVEQxajVnT185TXRSQQ?oc=5",
+        "published": "2026-08-08T15:00:00+00:00",
+        "published_label": "Sat 08 Aug, 15:00",
+        "summary": "PGA Tour boss Brian Rolapp shuts down LIV Golf merger talk despite Bryson DeChambeau plea Golfmagic",
+        "body": "Any lingering hopes of a PGA Tour-LIV Golf merger appear to have suffered another significant blow after PGA Tour CEO Brian Rolapp categorically ruled out the possibility of a deal being negotiated.\n\nRolapp, who is set to succeed Jay Monahan as PGA Tour commissioner in 2027, told Bloomberg News that the PGA Tour is not engaged in discussions with LIV Golf. “There’s no merger, no conversations. We’ve been really concentrated on the PGA Tour,” Rolapp said.",
+        "copy": "Any lingering hopes of a PGA Tour-LIV Golf merger appear to have suffered another significant blow after PGA Tour CEO Brian Rolapp categorically ruled out the possibility of a deal being negotiated.\n\nRolapp, who is set to succeed Jay Monahan as PGA Tour commissioner in 2027, told Bloomberg News that the PGA Tour is not engaged in discussions with LIV Golf. “There’s no merger, no conversations. We’ve been really concentrated on the PGA Tour,” Rolapp said.",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Andrew Catalon explains the unique challenge of conducting PGA Tour interviews",
+        "link": "https://golf.com/news/andrew-catalon-explains-unique-challenge-pga-tour-interviews/",
+        "published": "2026-08-08T14:47:00+00:00",
+        "published_label": "Sat 08 Aug, 14:47",
+        "summary": "On this week's Subpar, CBS Sports' Andrew Catalon discussed his transition from golf to the NFL, and the unique challenge of PGA Tour interviews. The post Andrew Catalon explains the unique challenge of conducting PGA Tour interviews appeared first on Golf .",
+        "body": "Golf has proven to be a useful icebreaker for CBS Sports broadcaster Andrew Catalon, who, in addition to covering PGA Tour events for the network, also works the NFL season and covers college basketball.\n\n“A lot of them do love golf,” Catalon said of the coaches and athletes he interviews in other sports. “If I know that somebody is a golfer, to say, when’s the last time you played? Or, did you watch this or that?",
+        "copy": "Golf has proven to be a useful icebreaker for CBS Sports broadcaster Andrew Catalon, who, in addition to covering PGA Tour events for the network, also works the NFL season and covers college basketball.\n\n“A lot of them do love golf,” Catalon said of the coaches and athletes he interviews in other sports. “If I know that somebody is a golfer, to say, when’s the last time you played? Or, did you watch this or that?",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6127,22 +6218,35 @@
         "body": "Matt Kuchar made a hole in one, then, very possibly, a fan for life. The former came Friday afternoon on the 163-yard, par-3 5th hole at Detroit Golf Club. Struck by a 9-iron, Kuchar’s ball touched down about 30 feet short of the hole, bounced a few times and rolled before curling over the cup’s right side on its last rotation. Kuchar hadn’t seen the result, though. He’d grabbed his peg and was walking off the tee box when he learned what had happened during the Rocket Classic’s second round.\n\n“If I hit a full 9-iron and put a little draw on it, which came out perfectly, I thought it would be a good shot,” he said. “It was tracking very nicely and it looked like the ball stopped from my perspective. It was hard to tell a little bit of the depth. It looked like it stopped and then some of the volunteers up by the camera tower, I guess, clapped and cheered really loudly as it disappeared. I had stopped watching, was grabbing the tee out of the ground, and, sure enough, hear the big kind of roar from the guys behind the green.",
         "copy": "Matt Kuchar made a hole in one, then, very possibly, a fan for life. The former came Friday afternoon on the 163-yard, par-3 5th hole at Detroit Golf Club. Struck by a 9-iron, Kuchar’s ball touched down about 30 feet short of the hole, bounced a few times and rolled before curling over the cup’s right side on its last rotation. Kuchar hadn’t seen the result, though. He’d grabbed his peg and was walking off the tee box when he learned what had happened during the Rocket Classic’s second round.\n\n“If I hit a full 9-iron and put a little draw on it, which came out perfectly, I thought it would be a good shot,” he said. “It was tracking very nicely and it looked like the ball stopped from my perspective. It was hard to tell a little bit of the depth. It looked like it stopped and then some of the volunteers up by the camera tower, I guess, clapped and cheered really loudly as it disappeared. I had stopped watching, was grabbing the tee out of the ground, and, sure enough, hear the big kind of roar from the guys behind the green.",
         "first_seen": "2026-08-01T16:58:09.649769+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bubba Watson makes surprise announcement amid growing LIV Golf uncertainty",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXdGSzlFaTRLZUpuN0NMR3ZDbmJMYUVnNWlyUXVjVlJzWURhekhaRFVOQV9uTlZiSmRVRjRJcWVNQkZmNDcycU4tRWUyMTZ3NS1fUUpramtPV2VRUHpnMGRHRW4tWXgyZ09GXzVzaE50Z1c5UFIzbk5VazE3eWl6MmZWVWlpYVc1aHJCb1dtRWpYT3VIYzYtZTVVX0hOUXdMN3RRWUZObG5EYXJoZm1jU3RvYmRaZlMwX3Vn?oc=5",
-        "published": "2026-08-01T15:30:00+00:00",
-        "published_label": "Sat 01 Aug, 15:30",
-        "summary": "Bubba Watson makes surprise announcement amid growing LIV Golf uncertainty Golfmagic",
-        "body": "Two-time Masters champion Bubba Watson has made the unexpected announcement that he will tee it up at the Danish Golf Championship on the DP World Tour from 13-16 August. The 47-year-old American, who captains RangeGoats GC on the LIV Golf League, has accepted an invitation to compete at Great Northern in Kerteminde, marking his first competitive appearance in Denmark.\n\nWatson's decision to travel to Europe comes as a surprise given the championship falls between LIV Golf Bedminster (6-9 August) and LIV Golf Indianapolis (20-23 August). The left hander will be joined in the field by fellow LIV Golf star Lucas Herbert, who is currently playing some of the golf of his life.",
-        "copy": "Two-time Masters champion Bubba Watson has made the unexpected announcement that he will tee it up at the Danish Golf Championship on the DP World Tour from 13-16 August. The 47-year-old American, who captains RangeGoats GC on the LIV Golf League, has accepted an invitation to compete at Great Northern in Kerteminde, marking his first competitive appearance in Denmark.\n\nWatson's decision to travel to Europe comes as a surprise given the championship falls between LIV Golf Bedminster (6-9 August) and LIV Golf Indianapolis (20-23 August). The left hander will be joined in the field by fellow LIV Golf star Lucas Herbert, who is currently playing some of the golf of his life.",
-        "first_seen": "2026-08-01T16:58:09.649769+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Korea Masters: Chaliha Earns Title Shot",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzJ5Szk5VURBOG5qZHFCdC1UYmNHSmxrQ2ZTYTlYX0M0Q1lXeF9SV2djM205SUtRaE5qME1DV2FON2NWQ1NWazFfTmVpUHNfNXctWHdDam1nZkdON2ZDaGpvc0FHYktxSno2OEpNNXJubzlEWjNJWm42OFR6a3dMUDhveHNJZ19zcGhsalBhSkZITERBZmdQVF8yZXY2OXhWUXc?oc=5",
+        "published": "2026-08-08T15:11:40+00:00",
+        "published_label": "Sat 08 Aug, 15:11",
+        "summary": "Korea Masters: Chaliha Earns Title Shot BWF World Tour",
+        "body": "World No.50 Ashmita Chaliha made her first HSBC BWF World Tour final at the VICTOR Korea Masters 2026 today beating compatriot Rakshita Sree Santhosh Ramraj. Chaliha, whose previous best this year was the semifinals of the Macau Open in June, prevailed in a hard battle with Santhosh Ramraj, 21-13 16-21 21-13.\n\nChaliha has had an impressive road to the final. She first beat qualifier Ririna Hiramoto, then Kim Min Ji, both in straight games, before edging top seed Hina Akechi 20-22 21-15 21-19 in the quarterfinals.",
+        "copy": "World No.50 Ashmita Chaliha made her first HSBC BWF World Tour final at the VICTOR Korea Masters 2026 today beating compatriot Rakshita Sree Santhosh Ramraj. Chaliha, whose previous best this year was the semifinals of the Macau Open in June, prevailed in a hard battle with Santhosh Ramraj, 21-13 16-21 21-13.\n\nChaliha has had an impressive road to the final. She first beat qualifier Ririna Hiramoto, then Kim Min Ji, both in straight games, before edging top seed Hina Akechi 20-22 21-15 21-19 in the quarterfinals.",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "World Championships BWF - Mixed Doubles",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYm1uTUFmb3AxMnJMQUZhWnZReGNGdTZzQS1WMkJXZERQdzlzcDFMN1BRRERBSC14a0lNOWItSzJFcXBOZW85WnhLNTM1U0M3Y2JZWHRyUUJoTkEtV0JqaTI2bzhIaFdDZDl2Y1k4X1I0cV9kR1V4ZGpZNF9FT1N2MEpkSzFBNGpVWXQ5ek52UTY?oc=5",
+        "published": "2026-08-08T11:56:57+00:00",
+        "published_label": "Sat 08 Aug, 11:56",
+        "summary": "World Championships BWF - Mixed Doubles Flashscore.com",
+        "body": "Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
+        "copy": "Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6233,6 +6337,19 @@
         "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/ashmita-chaliha-secures-maiden-bwf-world-tour-final-berth-at-korea-masters-super-300-14036857.html\" on this server.\n\nReference #18.6f18d017.1786176425.ba28ee7f https://errors.edgesuite.net/18.6f18d017.1786176425.ba28ee7f",
         "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/ashmita-chaliha-secures-maiden-bwf-world-tour-final-berth-at-korea-masters-super-300-14036857.html\" on this server.\n\nReference #18.6f18d017.1786176425.ba28ee7f https://errors.edgesuite.net/18.6f18d017.1786176425.ba28ee7f",
         "first_seen": "2026-08-08T08:07:37.326669+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Ashmita Chaliha reaches maiden BWF World Tour final at Korea Masters",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlE2NEFLVGpFbWIzMi1DN3pOVzdCMkxlVEZiMkM5elZPVHpid3ZVMEZvRkltTmVnWWltbjZyS3BLS0ZPWERKa2tEaVJucG4tMFhZd1ZILU1VZDVwZjhGLXRUVGtrQjF6amdKbG1rNGEyZ3hnMDBOdEc5WG5nN3I2bXVmYW9rREhaMnJ3b2xGV1lVbVo1YUFkeUZwUW1kYm5IZXhFT0ZR0gGrAUFVX3lxTE1kYzhzSFllX3k5SllIV1laZ2JZTjJ4RjhWbFVPMjNjSF9kRXd1bWhWUXV6a2tSVjNPSWl6dF9LYkJvWUZVTzZETlY4T1ZGQlRSNXNfTTcyOUdENnBidlJXTVBGMHpnQXFhTVJsTWotYWFPZ3BFaWZ0dGttYkMwb2Ftd19ONG0wVklOblJGZzRzb0g0cGNtWWJ4R05DTUlSbmhNWHloUDBGVHNnMA?oc=5",
+        "published": "2026-08-08T06:46:06+00:00",
+        "published_label": "Sat 08 Aug, 06:46",
+        "summary": "Ashmita Chaliha reaches maiden BWF World Tour final at Korea Masters ThePrint",
+        "body": "Asan (South Korea), Aug 8 (PTI) Ashmita Chaliha continued her giant-killing run at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13 16-21 21-13 in 48 minutes to reach her maiden BWF World Tour final, here on Saturday.\n\nThe 26-year-old Indian, who returned to competition in May after a three-month layoff due to a medial meniscus tear in her right knee, has enjoyed a strong comeback on the BWF Tour, including a semifinal appearance at the Macau Open.",
+        "copy": "Asan (South Korea), Aug 8 (PTI) Ashmita Chaliha continued her giant-killing run at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13 16-21 21-13 in 48 minutes to reach her maiden BWF World Tour final, here on Saturday.\n\nThe 26-year-old Indian, who returned to competition in May after a three-month layoff due to a medial meniscus tear in her right knee, has enjoyed a strong comeback on the BWF Tour, including a semifinal appearance at the Macau Open.",
+        "first_seen": "2026-08-08T16:31:00.691693+00:00"
       },
       {
         "section": "Badminton",
@@ -7200,5 +7317,5 @@
       }
     ]
   },
-  "total": 552
+  "total": 561
 }
