@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T08:07:37.326669+00:00",
-  "generated_label": "Saturday 08 August 2026, 08:07 UTC",
+  "generated_at": "2026-08-08T08:38:07.626273+00:00",
+  "generated_label": "Saturday 08 August 2026, 08:38 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -4110,19 +4110,6 @@
         "body": "Cameron Norrie exited the Los Cabos Open in the early hours of Saturday morning as he was beaten by Denis Shapovalov. The British No 2 had lost his last six competitive matches, but was showing promise in Mexico and making the semi-final.\n\nNorrie came back to win the second set but ultimately lost 6-3 5-7 6-4 to reigning champion Shapovalov. The 30-year-old was broken in his first service game of the match to go 2-0 down before going on to lose the first set.",
         "copy": "Cameron Norrie exited the Los Cabos Open in the early hours of Saturday morning as he was beaten by Denis Shapovalov. The British No 2 had lost his last six competitive matches, but was showing promise in Mexico and making the semi-final.\n\nNorrie came back to win the second set but ultimately lost 6-3 5-7 6-4 to reigning champion Shapovalov. The 30-year-old was broken in his first service game of the match to go 2-0 down before going on to lose the first set.",
         "first_seen": "2026-08-01T13:13:49.653091+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Norrie beaten by Shapovalov in Los Cabos semi-final",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cgjeyppnjyxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-01T08:10:15+00:00",
-        "published_label": "Sat 01 Aug, 08:10",
-        "summary": "Cameron Norrie's promising run at the Los Cabos Open in Mexico ends with a three-set semi-final defeat by defending champion Denis Shapovalov.",
-        "body": "Cameron Norrie's promising run at the Los Cabos Open in Mexico ended with a three-set semi-final defeat by defending champion Denis Shapovalov. Norrie had returned to some form by reaching the last four - having previously lost six matches in a row - but was beaten 6-3 5-7 6-4 by his fellow left-hander.\n\nThe British number two, who won the Los Cabos title in 2021, was broken in his first service game of the match to fall 2-0 down and, despite chances to break back, failed to do so on the way to losing the opening set.",
-        "copy": "Cameron Norrie's promising run at the Los Cabos Open in Mexico ended with a three-set semi-final defeat by defending champion Denis Shapovalov. Norrie had returned to some form by reaching the last four - having previously lost six matches in a row - but was beaten 6-3 5-7 6-4 by his fellow left-hander.\n\nThe British number two, who won the Los Cabos title in 2021, was broken in his first service game of the match to fall 2-0 down and, despite chances to break back, failed to do so on the way to losing the opening set.",
-        "first_seen": "2026-08-01T08:16:52.543359+00:00"
       }
     ],
     "Golf": [
@@ -6171,6 +6158,19 @@
     "Badminton": [
       {
         "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Korea Masters 2026 badminton: Ashmita Chaliha beats Rakshitha Ramraj to enter maiden BWF World Tour final",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1NJc1Z3NUdlbEdJbTNEYjFubFBJOW9TdGl6NlFSQncwNUR5dmptelAteDluc05aN3ZaSXZaQ3E4Ul9NYmNOWHNWMUFCNmxoV0VGejBvREZwRjZXaFdpQTdiYUZjLW5maWtYSzNEdWR6SWJPSDA5VEhDcEpDQ3lBai1OMVhyaUl1U1drZHJB?oc=5",
+        "published": "2026-08-08T08:16:00+00:00",
+        "published_label": "Sat 08 Aug, 08:16",
+        "summary": "Korea Masters 2026 badminton: Ashmita Chaliha beats Rakshitha Ramraj to enter maiden BWF World Tour final olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-08T08:38:07.626273+00:00"
+      },
+      {
+        "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
         "title": "Ashmita Chaliha continues giant-killing run, reaches maiden BWF World Tour final",
@@ -6181,6 +6181,19 @@
         "body": "Ashmita Chaliha continued her impressive comeback at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13, 16-21, 21-13 in a 48-minute semifinal to reach her maiden BWF World Tour final in Iksan on Saturday.\n\nThe 26-year-old Indian, who returned to competition in May after a three-month layoff following a medial meniscus tear in her right knee, has now put together another significant run on the BWF Tour. Her campaign includes a stunning quarterfinal victory over top seed and world No. 22 Hina Akechi of Japan.",
         "copy": "Ashmita Chaliha continued her impressive comeback at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13, 16-21, 21-13 in a 48-minute semifinal to reach her maiden BWF World Tour final in Iksan on Saturday.\n\nThe 26-year-old Indian, who returned to competition in May after a three-month layoff following a medial meniscus tear in her right knee, has now put together another significant run on the BWF Tour. Her campaign includes a stunning quarterfinal victory over top seed and world No. 22 Hina Akechi of Japan.",
         "first_seen": "2026-08-08T08:07:37.326669+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Ashmita Chaliha continues giant-killing run, reaches maiden BWF World Tour final",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSjR1d0VVdzZ3SGRoZVRWM090dDFqNXdzNUhsM2kxRlNfalpaOThPTGF4bGJVRlgwbGEwSlFzWDNWRjBFQzR1V25ITjNzREJwU2x2TlBiV3VWa1p1djItaklWZUoxT2dDeTVJRWhaeVQ4Zkdtdl8yM3ktYXZyRHgtUXJ1Sy1VY2YyMjdTM0NhTENXM3dQT2xlQkJmbHIwb0g4NjVJSEhsanBJRURRVmRoRFFBUGpoN1hCR0FEaWJqRXRVZ1FCb29hTGg5MkluYXlyRmNGSWdGYWdqcHBGWHFhRjk5d9IB6AFBVV95cUxQZlBLTE41bW1GNmtSRnl1SGR6b01ONlM1RFlCdTEydDBBZmZYZHdZNEVGejh3d01sQ3JmXzF6S2d0RHEzNDhzRC1GY040NGhWZkZvV1o2U1AyR2xTQ0NybmpPYTlseEZrVXBXYUN6RTV1Y0piUVFLeFRlVVdnR3ozdUJlSGk2V1pfQUpjODVyVUlXZzMxZS1RRkx2S1hLRzhOc2NEcVNlRVRtd0JNdGtJV20tTGNaYi13OTVHdnFuYXFrcGtEbXFGTjN4WHlNQWtOc1NtSTVRLW9yZWFSendRNjV0djlGX1ZI?oc=5",
+        "published": "2026-08-08T08:02:04+00:00",
+        "published_label": "Sat 08 Aug, 08:02",
+        "summary": "Ashmita Chaliha continues giant-killing run, reaches maiden BWF World Tour final India Today",
+        "body": "Ashmita Chaliha continued her impressive comeback at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13, 16-21, 21-13 in a 48-minute semifinal to reach her maiden BWF World Tour final in Iksan on Saturday.\n\nThe 26-year-old Indian, who returned to competition in May after a three-month layoff following a medial meniscus tear in her right knee, has now put together another significant run on the BWF Tour. Her campaign includes a stunning quarterfinal victory over top seed and world No. 22 Hina Akechi of Japan.",
+        "copy": "Ashmita Chaliha continued her impressive comeback at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13, 16-21, 21-13 in a 48-minute semifinal to reach her maiden BWF World Tour final in Iksan on Saturday.\n\nThe 26-year-old Indian, who returned to competition in May after a three-month layoff following a medial meniscus tear in her right knee, has now put together another significant run on the BWF Tour. Her campaign includes a stunning quarterfinal victory over top seed and world No. 22 Hina Akechi of Japan.",
+        "first_seen": "2026-08-08T08:38:07.626273+00:00"
       },
       {
         "section": "Badminton",
@@ -6217,8 +6230,8 @@
         "published": "2026-08-08T06:29:33+00:00",
         "published_label": "Sat 08 Aug, 06:29",
         "summary": "Ayush Shetty, Unnati Hooda lead India's World C'ship debutant quartet Business Standard",
-        "body": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/ayush-shetty-unnati-hooda-lead-india-s-bwf-world-championship-debutant-quartet-126080700905_1.html\" on this server.\n\nReference #18.6418d017.1786176442.337e725 https://errors.edgesuite.net/18.6418d017.1786176442.337e725",
-        "copy": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/ayush-shetty-unnati-hooda-lead-india-s-bwf-world-championship-debutant-quartet-126080700905_1.html\" on this server.\n\nReference #18.6418d017.1786176442.337e725 https://errors.edgesuite.net/18.6418d017.1786176442.337e725",
+        "body": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/ayush-shetty-unnati-hooda-lead-india-s-bwf-world-championship-debutant-quartet-126080700905_1.html\" on this server.\n\nReference #18.50f7dead.1786178277.25b30637 https://errors.edgesuite.net/18.50f7dead.1786178277.25b30637",
+        "copy": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/ayush-shetty-unnati-hooda-lead-india-s-bwf-world-championship-debutant-quartet-126080700905_1.html\" on this server.\n\nReference #18.50f7dead.1786178277.25b30637 https://errors.edgesuite.net/18.50f7dead.1786178277.25b30637",
         "first_seen": "2026-08-08T08:07:37.326669+00:00"
       },
       {
@@ -6233,6 +6246,19 @@
         "body": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
         "copy": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
         "first_seen": "2026-08-08T06:46:32.750942+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Where To Watch: VICTOR Korea Masters 2026",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGljRGM4N3c5S1JQRmhJTklTakI1S3BmRnNDNGYxbXNud3VJVW53VUpPZkRPT0tVMERMTThFVTZVTi1VRTIwZXdXcjV3UllaaHJFcDU0blNRMDFmM2F5TW5TbjBwVm5jZjc5cFpvMy1jbExNYXhRV3ZsOEI4OGt6bksxcnNsQ3BWaERGVXRqTWtMbDJhdkJpTDdrZE9ZcFdkZFpZ?oc=5",
+        "published": "2026-08-08T02:01:20+00:00",
+        "published_label": "Sat 08 Aug, 02:01",
+        "summary": "Where To Watch: VICTOR Korea Masters 2026 bwfworldtour.bwfbadminton.com",
+        "body": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
+        "copy": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
+        "first_seen": "2026-08-08T08:38:07.626273+00:00"
       },
       {
         "section": "Badminton",
@@ -7221,19 +7247,6 @@
         "body": "Taipei [Taiwan], August 1 (ANI): Tanvi Sharma reached the women's singles final of the Taipei Open Super 300 after beating fifth seed Huang Yu-Hsun of Chinese Taipei 21-17, 21-11 in the semifinals on Saturday.\n\nNguyen booked her place in the final after defeating Unnati Hooda 21-15, 21-18 in the other semifinal.",
         "copy": "Taipei [Taiwan], August 1 (ANI): Tanvi Sharma reached the women's singles final of the Taipei Open Super 300 after beating fifth seed Huang Yu-Hsun of Chinese Taipei 21-17, 21-11 in the semifinals on Saturday.\n\nNguyen booked her place in the final after defeating Unnati Hooda 21-15, 21-18 in the other semifinal.",
         "first_seen": "2026-08-01T11:16:09.268477+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Taipei Open 2026 badminton: Tanvi Sharma reaches final; Unnati Hooda bows out",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdV9zLUFiMktVSFI1dV9SNjczS3A4a2xINU0tRUFPdjhMR1VaUXVsdm5SOVQxTzY2Ynp0NXRhMUNWZVk0NjY4dG5aaWYwS3VsR0JhOVVCaWVKZGxiMjJrVXd0X2xDZDJocVlHYW1fbWJUWmROMjJkaGU3OEN6cGFfOVFRejRJWDJxUVE5UlY4QVg?oc=5",
-        "published": "2026-08-01T08:12:00+00:00",
-        "published_label": "Sat 01 Aug, 08:12",
-        "summary": "Taipei Open 2026 badminton: Tanvi Sharma reaches final; Unnati Hooda bows out olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-01T09:32:48.134275+00:00"
       }
     ],
     "Competitor News": [
@@ -7265,5 +7278,5 @@
       }
     ]
   },
-  "total": 557
+  "total": 558
 }
