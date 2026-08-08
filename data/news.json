@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T12:42:06.499169+00:00",
-  "generated_label": "Saturday 08 August 2026, 12:42 UTC",
+  "generated_at": "2026-08-08T14:30:42.074930+00:00",
+  "generated_label": "Saturday 08 August 2026, 14:30 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Iranian missile targets UAE tanker despite talks to reopen strait",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0R1TmpCYV8zeGVNZ1VzTzl2eG1WWndpVkdCS2pJQUtNN09UMF9jQ25CTWhfdHZIZW0yU3lWN0k3eE1YYTlSYnFLQk1yQzRFcUhPTWZNVmZrdjdKN0dZVnItYUV1NFQ5ZTBiRGVBaTM1Q3lpVUk0WDFhalhpOXBBVlhmTWo?oc=5",
+        "published": "2026-08-08T13:27:18+00:00",
+        "published_label": "Sat 08 Aug, 13:27",
+        "summary": "Iranian missile targets UAE tanker despite talks to reopen strait Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-08T14:30:42.074930+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1392,6 +1405,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Wallabies see red but survive Osaka thriller",
+        "link": "https://www.rugbypass.com/news/wallabies-see-red-but-survive-osaka-thriller/",
+        "published": "2026-08-08T12:47:59+00:00",
+        "published_label": "Sat 08 Aug, 12:47",
+        "summary": "The Wallabies' Les Kiss coaching era has begun with a nerve-wracking 35-32 defeat of Japan, the visitors scraping home despite lock Miles Amatosero's red card.",
+        "body": "The Wallabies’ Les Kiss coaching era has begun with a nerve-wracking 35-32 defeat of Japan, the visitors scraping home despite lock Miles Amatosero’s red card. Les Kiss was made to sweat in his Wallabies coaching debut as the visitors survived moments of calamity and a red card to beat Japan 35-32 in Osaka.\n\nThe visitors trailed early but, just as they appeared set to steady and surge away, were reduced to 14 men for 20 minutes thanks to a Miles Amatosero red card. Japan, coached by Eddie Jones and seeking their first win in eight encounters, smelt blood.",
+        "copy": "The Wallabies’ Les Kiss coaching era has begun with a nerve-wracking 35-32 defeat of Japan, the visitors scraping home despite lock Miles Amatosero’s red card. Les Kiss was made to sweat in his Wallabies coaching debut as the visitors survived moments of calamity and a red card to beat Japan 35-32 in Osaka.\n\nThe visitors trailed early but, just as they appeared set to steady and surge away, were reduced to 14 men for 20 minutes thanks to a Miles Amatosero red card. Japan, coached by Eddie Jones and seeking their first win in eight encounters, smelt blood.",
+        "first_seen": "2026-08-08T14:30:42.074930+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4323,6 +4349,19 @@
       },
       {
         "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "PGA Tour CEO Ends Talk of LIV Golf Tie-Up: ‘There’s No Merger’",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWN4WUpqYnMySGQ1c0VFaUZCTkxfY3FXcV9XMVBnd0c0dTZKOS1aVGZpcTVLVGNsZE5IQVc0eEowSU1ITzNvS0Z5VnNkS1dyaUt6RGV4c0VwclJkRlU2VXRGSkdqZ3lZQi1EamYzUkpycEZhdFBwbnp2WVFicVVFRnhtRGpPVmZQNDI4VVJRLUJhRWVOSTdYQWRQWE9CNG41X0tVT201bU9JR0Rjbk1Pd2ln?oc=5",
+        "published": "2026-08-07T17:53:48+00:00",
+        "published_label": "Fri 07 Aug, 17:53",
+        "summary": "PGA Tour CEO Ends Talk of LIV Golf Tie-Up: ‘There’s No Merger’ Bloomberg.com",
+        "body": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below. Get the most important global markets news at your fingertips with a Bloomberg.com subscription.",
+        "copy": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below. Get the most important global markets news at your fingertips with a Bloomberg.com subscription.",
+        "first_seen": "2026-08-08T14:30:42.074930+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
         "title": "'It's been awful': FedEx Cup winner gives season 'F' grade after hot Wyndham start",
@@ -6101,45 +6140,6 @@
         "body": "Two-time Masters champion Bubba Watson has made the unexpected announcement that he will tee it up at the Danish Golf Championship on the DP World Tour from 13-16 August. The 47-year-old American, who captains RangeGoats GC on the LIV Golf League, has accepted an invitation to compete at Great Northern in Kerteminde, marking his first competitive appearance in Denmark.\n\nWatson's decision to travel to Europe comes as a surprise given the championship falls between LIV Golf Bedminster (6-9 August) and LIV Golf Indianapolis (20-23 August). The left hander will be joined in the field by fellow LIV Golf star Lucas Herbert, who is currently playing some of the golf of his life.",
         "copy": "Two-time Masters champion Bubba Watson has made the unexpected announcement that he will tee it up at the Danish Golf Championship on the DP World Tour from 13-16 August. The 47-year-old American, who captains RangeGoats GC on the LIV Golf League, has accepted an invitation to compete at Great Northern in Kerteminde, marking his first competitive appearance in Denmark.\n\nWatson's decision to travel to Europe comes as a surprise given the championship falls between LIV Golf Bedminster (6-9 August) and LIV Golf Indianapolis (20-23 August). The left hander will be joined in the field by fellow LIV Golf star Lucas Herbert, who is currently playing some of the golf of his life.",
         "first_seen": "2026-08-01T16:58:09.649769+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "At American Century Championship, there was gold medal karaoke",
-        "link": "https://golf.com/news/american-century-championship-tkachuk/",
-        "published": "2026-08-01T14:13:54+00:00",
-        "published_label": "Sat 01 Aug, 14:13",
-        "summary": "The American Century Championship was filled with the normal celebrity high jinks, but two gold medal stars stole the show at karaoke. The post At American Century Championship, there was gold medal karaoke appeared first on Golf .",
-        "body": "The American Century Championship at Lake Tahoe is always filled with celebrity high jinks, and this year’s edition was no different. Brothers Brady and Matthew Tkachuk, two stars of the United States’ gold-medal-winning hockey team, were in the field along with Matthew Boldy. Former U.S. Men’s National Team forward and current MLS announcer Taylor Twellman was also at Lake Tahoe and joined the latest edition of GOLF’s Subpar podcast with Colt Knost and Drew Stoltz to detail the event and discuss the World Cup.\n\nMardy Fish won the tournament, but the Tkachuk brothers stole the show at karaoke, according to Twellman. “The Tkachucks killed it,” Twellman told Knost and Stoltz. “Dream On was a no-brainer. But the best part was that they did not know that they had to sing the next night. So Matt and Brady were like, ‘Hold on, we’ve got to do this again?’ No voices. Obviously, they’ve been going at it for a couple of nights. So the second rendition may not have been as good as the first one. But listen, Boldy marked his ball with his gold medal.",
-        "copy": "The American Century Championship at Lake Tahoe is always filled with celebrity high jinks, and this year’s edition was no different. Brothers Brady and Matthew Tkachuk, two stars of the United States’ gold-medal-winning hockey team, were in the field along with Matthew Boldy. Former U.S. Men’s National Team forward and current MLS announcer Taylor Twellman was also at Lake Tahoe and joined the latest edition of GOLF’s Subpar podcast with Colt Knost and Drew Stoltz to detail the event and discuss the World Cup.\n\nMardy Fish won the tournament, but the Tkachuk brothers stole the show at karaoke, according to Twellman. “The Tkachucks killed it,” Twellman told Knost and Stoltz. “Dream On was a no-brainer. But the best part was that they did not know that they had to sing the next night. So Matt and Brady were like, ‘Hold on, we’ve got to do this again?’ No voices. Obviously, they’ve been going at it for a couple of nights. So the second rendition may not have been as good as the first one. But listen, Boldy marked his ball with his gold medal.",
-        "first_seen": "2026-08-01T14:59:30.090604+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "What happens to Bryson DeChambeau, Jon Rahm, others if LIV Golf revive fails",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeENjZy1VSXZ4THU4YmFKT3BOMGw0VGtwWkF4ajFGT3RSN1hhNVpmVG9VckY3SVctSHFpdUc3NUFmSW1TVk4yRG0wdzVRQlZQVkNNNmI2aFFxWVJYRURON0RaZ2FUOG51VWRCY0swZ1ZNN2Z2VldHYnpGQWZwb1pRMTY2QVd3NmZYd2NOeEJhVTlwTHhiWGFPNjR0Rl9mR0dCaUYxMmZCSjR3Q2QzNXBHSGlmeENwUDI0M2pxSE10TnZsRDEzU3pNZlk2Y3Z0SmJscU1JZQ?oc=5",
-        "published": "2026-08-01T14:01:00+00:00",
-        "published_label": "Sat 01 Aug, 14:01",
-        "summary": "What happens to Bryson DeChambeau, Jon Rahm, others if LIV Golf revive fails Golfweek",
-        "body": "- LIV Golf, which launched in 2022 with backing from Saudi Arabia's Public Investment Fund, may be ending after the 2026 season. - The PGA Tour has established pathways for former members who left for LIV Golf to return.\n\n- Brooks Koepka rejoined the PGA Tour through a \"Returning Member Program\" created for recent major champions. LIV Golf disrupted professional golf's status quo when it began poaching players and holding its own tournaments in 2022, backed by the hefty wallet of Saudi Arabia’s Public Investment Fund (PIF). It created division within the sport as several notable former major tournament winners elected to take historic paydays to defect from the PGA Tour.",
-        "copy": "- LIV Golf, which launched in 2022 with backing from Saudi Arabia's Public Investment Fund, may be ending after the 2026 season. - The PGA Tour has established pathways for former members who left for LIV Golf to return.\n\n- Brooks Koepka rejoined the PGA Tour through a \"Returning Member Program\" created for recent major champions. LIV Golf disrupted professional golf's status quo when it began poaching players and holding its own tournaments in 2022, backed by the hefty wallet of Saudi Arabia’s Public Investment Fund (PIF). It created division within the sport as several notable former major tournament winners elected to take historic paydays to defect from the PGA Tour.",
-        "first_seen": "2026-08-01T14:59:30.090604+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Tony Finau's 'low season' has had lessons and 1 rare occurrence",
-        "link": "https://golf.com/news/tony-finau-fed-ex-cup-playoffs/",
-        "published": "2026-08-01T13:41:30+00:00",
-        "published_label": "Sat 01 Aug, 13:41",
-        "summary": "Tony Finau has struggled in 2026. That season came with a rare occurrence and a lot of lessons that he's using to fight to make the playoffs. The post Tony Finau’s ‘low season’ has had lessons and 1 rare occurrence appeared first on Golf .",
-        "body": "It has been a season to forget for Tony Finau. The six-time PGA Tour winner has made 14 of 20 cuts this year, but has just one top 10. He hasn’t been in the mix on the weekend since the CJ Cup Byron Nelson in May. After missing the cut at the 3M Open, Finau arrived at this week’s Rocket Classic, an event he won in 2022, sitting at 87 in the FedEx Cup Playoffs standings and needing to do some work over the final two weeks to secure his postseason bid.\n\n“I don’t know if pressure’s the right word, more than I haven’t been happy with the results, I haven’t played the way I know I can play,” Finau said on Friday at the Rocket Classic. “For whatever reason it’s been a low season for me, but I continue to stay enthusiastic about each week and the future. I feel like my future’s still bright even on a season like this.”",
-        "copy": "It has been a season to forget for Tony Finau. The six-time PGA Tour winner has made 14 of 20 cuts this year, but has just one top 10. He hasn’t been in the mix on the weekend since the CJ Cup Byron Nelson in May. After missing the cut at the 3M Open, Finau arrived at this week’s Rocket Classic, an event he won in 2022, sitting at 87 in the FedEx Cup Playoffs standings and needing to do some work over the final two weeks to secure his postseason bid.\n\n“I don’t know if pressure’s the right word, more than I haven’t been happy with the results, I haven’t played the way I know I can play,” Finau said on Friday at the Rocket Classic. “For whatever reason it’s been a low season for me, but I continue to stay enthusiastic about each week and the future. I feel like my future’s still bright even on a season like this.”",
-        "first_seen": "2026-08-01T14:59:30.090604+00:00"
       }
     ],
     "Badminton": [
@@ -7169,19 +7169,6 @@
         "body": "The dream of an all-Chinese Taipei YONEX Taipei Open 2026 men’s singles final was dashed on Saturday as Yoo Tae Bin and Yudai Okimoto stunned local favourites Lin Chun Yi and Chou Tien Chen.\n\nAs a result, for the first time since 2018, the men’s singles final will not feature a home player, after Yoo and Okimoto held their nerve in contrasting but equally dramatic semifinal victories.",
         "copy": "The dream of an all-Chinese Taipei YONEX Taipei Open 2026 men’s singles final was dashed on Saturday as Yoo Tae Bin and Yudai Okimoto stunned local favourites Lin Chun Yi and Chou Tien Chen.\n\nAs a result, for the first time since 2018, the men’s singles final will not feature a home player, after Yoo and Okimoto held their nerve in contrasting but equally dramatic semifinal victories.",
         "first_seen": "2026-08-01T19:05:39.043032+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "How to watch Tanvi Sharma's Taipei Open 2026 final against Nguyen Thuy Linh live",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMkxBeW9yenlWUE1SUDFHMDA2d1B6SDVGNEFCTUJLTXYzakY3RjhOQW42QU1QbkxsWmgxQzZjSkV0YXB6NUNVWlkxdUY3dEJrOExPWmFRdXA3WXpQUlVubUNQNlFuWlJxWDJKM2xjR1hoZ3VzeWxWWmZieTBrMEFxbWh2OHNXZm16aDIxUmJaUkNzdFVBV29pVUZKNVdGUlhhSHBkc1N6LW00M1lTMzZlaEg4ZjI1SzJYUG5uUjhneUVySDc3SERWQ09pakI0TndPdFdpajlLS2NVUdIB4AFBVV95cUxNc2Y3RzNDNlRFZ1lnWTVsSXlPWEU4ekV3dVBnZFR6UGJMcjM5X1B0VlRHcGhuM0N6V3pjUXpPQi1SZ1ZDYTFFZW94cjVjZkp3WkR1YXJRTDk2aFNRS3d0RTJISTJGLTZjaWtRYnhidUVNVXExVWpERWkyblFuX0RfdVExNGQwVzFUcy1BYURYSkhHYWJLVVFSXzIzVWNRVlBkSVNXTmluZ2FUUzAtZE52ZWhDYjNMNWxtRWU2R21kSGlpSG0xMDhZU29HYllVeDR6a0FOVkZJVElIT1hwbE1Pag?oc=5",
-        "published": "2026-08-01T13:28:44+00:00",
-        "published_label": "Sat 01 Aug, 13:28",
-        "summary": "How to watch Tanvi Sharma's Taipei Open 2026 final against Nguyen Thuy Linh live Sportstar",
-        "body": "Indian badminton sensation Tanvi Sharma will be aiming for her maiden BWF World Tour title when she takes on Vietnam’s Nguyen Thuy Linh in the women’s singles final of the Taipei Open 2026 on Sunday at the Taipei Arena.\n\nFans in India can watch the title clash live online, but there will be no television broadcast of the tournament. The match is scheduled to start at 9:30am IST. Tanvi, the world No. 34, booked her place in the final after defeating Huang Yu-Hsun in straight games, while Nguyen Thuy Linh ended Unnati Hooda’s campaign in the other semifinal. The Indian teenager will be chasing her first BWF World Tour crown in what will be her second Super 300 final.",
-        "copy": "Indian badminton sensation Tanvi Sharma will be aiming for her maiden BWF World Tour title when she takes on Vietnam’s Nguyen Thuy Linh in the women’s singles final of the Taipei Open 2026 on Sunday at the Taipei Arena.\n\nFans in India can watch the title clash live online, but there will be no television broadcast of the tournament. The match is scheduled to start at 9:30am IST. Tanvi, the world No. 34, booked her place in the final after defeating Huang Yu-Hsun in straight games, while Nguyen Thuy Linh ended Unnati Hooda’s campaign in the other semifinal. The Indian teenager will be chasing her first BWF World Tour crown in what will be her second Super 300 final.",
-        "first_seen": "2026-08-01T14:59:30.090604+00:00"
       }
     ],
     "Competitor News": [
@@ -7213,5 +7200,5 @@
       }
     ]
   },
-  "total": 553
+  "total": 552
 }
