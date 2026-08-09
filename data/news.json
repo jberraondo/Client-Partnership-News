@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T16:31:09.111790+00:00",
-  "generated_label": "Sunday 09 August 2026, 16:31 UTC",
+  "generated_at": "2026-08-09T18:36:46.557190+00:00",
+  "generated_label": "Sunday 09 August 2026, 18:36 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -3398,6 +3398,32 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "World number one Sinner to miss Cincinnati Open",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-09T17:48:18+00:00",
+        "published_label": "Sun 09 Aug, 17:48",
+        "summary": "World number one Jannik Sinner withdraws from this week's Cincinnati Open because of a knee injury, but still expects to be fit for the US Open later this month.",
+        "body": "World number one Jannik Sinner has withdrawn from this week's Cincinnati Open because of a knee injury, but still expects to be fit for the US Open later this month. The 24-year-old Italian won his fifth Grand Slam singles title by beating Alexander Zverev in the Wimbledon final last month, but has not played since.\n\n\"After consulting with my doctors and my team, I have to announce that I need to withdraw from the Masters 1000 tournament in Cincinnati,\" Sinner said. \"My right knee has been bothering me and even though we have been working hard with my medical team, I have to accept I'm not ready to compete yet.",
+        "copy": "World number one Jannik Sinner has withdrawn from this week's Cincinnati Open because of a knee injury, but still expects to be fit for the US Open later this month. The 24-year-old Italian won his fifth Grand Slam singles title by beating Alexander Zverev in the Wimbledon final last month, but has not played since.\n\n\"After consulting with my doctors and my team, I have to announce that I need to withdraw from the Masters 1000 tournament in Cincinnati,\" Sinner said. \"My right knee has been bothering me and even though we have been working hard with my medical team, I have to accept I'm not ready to compete yet.",
+        "first_seen": "2026-08-09T18:36:46.557190+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Jannik Sinner withdraws from Cincinnati Open as knee injury raises US Open fitness concerns",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWlpVLTN0YXZZWG1tNzFXelUtYlJ6RE9YYmxIVmE2ZEw1ZE9xTF9HdEdwZ3FBNkJhMmIzQnU3QjZBYTJsd21BNEhaVWZpYTdJZHYyNW5fMXRRSk5pRGFqYWtZby1YLWx6eGMySHcyR1EwMEs1Y1lseXNVVjFqdjUyVVc2bVlEdTJvUWhfSVFULWdPaUJ3Wmd4eGRMTnVYeF9QZkhwS3FFQnZjV0xuSndraUdubS04aGJEOUpWbUtMUjdfUGV6TUVBelBKZmFHOGZmSEFscUF3Z0RiR0Qz?oc=5",
+        "published": "2026-08-09T16:54:57+00:00",
+        "published_label": "Sun 09 Aug, 16:54",
+        "summary": "Jannik Sinner withdraws from Cincinnati Open as knee injury raises US Open fitness concerns Sky Sports",
+        "body": "Jannik Sinner has withdrawn from the Cincinnati Open with an injury to his right knee. The world No 1 has not been seen on court since beating Alexander Zverev to defend his Wimbledon title in July.\n\nSinner pulled out of the National Bank Open in Montreal last week and will now not feature in Cincinnati, raising concerns over his fitness ahead of the upcoming US Open, which starts on August 30, live on Sky Sports.",
+        "copy": "Jannik Sinner has withdrawn from the Cincinnati Open with an injury to his right knee. The world No 1 has not been seen on court since beating Alexander Zverev to defend his Wimbledon title in July.\n\nSinner pulled out of the National Bank Open in Montreal last week and will now not feature in Cincinnati, raising concerns over his fitness ahead of the upcoming US Open, which starts on August 30, live on Sky Sports.",
+        "first_seen": "2026-08-09T18:36:46.557190+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
         "title": "National Bank Open: In-form Cam Norrie defeated by Arthur Fils in Montreal while Aryna Sabalenka suffers shock Canadian Open loss",
@@ -4266,22 +4292,74 @@
         "body": "Jack Draper remains confident despite a difficult period marked by injuries. Absent since the grass-court season, the Briton spoke to Sky Sports about managing his arm injury, as well as his decision to withdraw from certain tournaments at the last minute, as he did in Washington.\n\n\"It's important that people understand that the injury I have is very complex, very complicated. It's not as simple as resting and healing to come back perfectly well.\" \"Everything about my life outside tennis is going very well. On court, too, I'm handling things very well. I'm now at a stage where I'm happy to know that I'm going to get through this period.",
         "copy": "Jack Draper remains confident despite a difficult period marked by injuries. Absent since the grass-court season, the Briton spoke to Sky Sports about managing his arm injury, as well as his decision to withdraw from certain tournaments at the last minute, as he did in Washington.\n\n\"It's important that people understand that the injury I have is very complex, very complicated. It's not as simple as resting and healing to come back perfectly well.\" \"Everything about my life outside tennis is going very well. On court, too, I'm handling things very well. I'm now at a stage where I'm happy to know that I'm going to get through this period.",
         "first_seen": "2026-08-03T09:38:25.984982+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper calls for patience as he bids to end injury nightmare at US Open",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd2xIODU5UWdUXzI2T3hjOERXNC1GVnF6ZGdId25RNEZFZW16WVBJMFBhYjZkRmtEeDAwc29ucERSb1lOa3pxRm1jRVNqdmlvR0N6RERPV01CZEIwTnd4eTZjcFNfdTk5YUR4bEVVYXA4SWNNNVF3Vk1xaUZqYzJJY3RENmJEQzA5cDU1TS1GLTdiNmVD?oc=5",
-        "published": "2026-08-02T17:45:00+00:00",
-        "published_label": "Sun 02 Aug, 17:45",
-        "summary": "Jack Draper calls for patience as he bids to end injury nightmare at US Open The Independent",
-        "body": "Jack Draper has called for patience amid his ongoing recovery from a “perfect storm” of injuries as he eyes a first grand slam appearance of the year at the US Open. Draper cast his involvement in New York into further doubt after withdrawing from the DC Open due to an arm injury.\n\nThe former World No 4, who is coached by Andy Murray, has not participated in any of the three grand slams in 2026 but has reassured fans that he has nearly completed his recovery, with the Brit scheduled to play two tournaments before the US Open.",
-        "copy": "Jack Draper has called for patience amid his ongoing recovery from a “perfect storm” of injuries as he eyes a first grand slam appearance of the year at the US Open. Draper cast his involvement in New York into further doubt after withdrawing from the DC Open due to an arm injury.\n\nThe former World No 4, who is coached by Andy Murray, has not participated in any of the three grand slams in 2026 but has reassured fans that he has nearly completed his recovery, with the Brit scheduled to play two tournaments before the US Open.",
-        "first_seen": "2026-08-03T09:38:25.984982+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Watch as FISH takes Charl Schwartzel's ball in bizarre incident during LIV Golf New York - 'I have never seen that!'",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRHlfQVM4TFp2YTRMaXhoNjhfdk1USGlJdy1pbEhYU0F3TEd6WnNieFlKYmJDcUhBR1d3ckg5TUhHOHhpWmhqcU5vYlR3UGIycktqT1F6RmloMGtxbGVnOWtLRzFuWTZBOGl6NENBdzh5S0puRmFzVnExUUE2MTVfMk5ocVU3Z3I0QW50eEZOUnZZTW9tOTYxZDNXSGpQMTAwQzZIcEpVTmJpM1ZPOFZHLWRfWmlkNG13c1czdXZVUWwza01fQ0lWeGxGSER0dF9TVFNfMUhxY1hlWC0xY01PckhaT2ZOZ3RKTDNGYlJNRWVOeEZEVW96MUt1UE5Kb0hrUjRSRVJiaGtmakZLQWc?oc=5",
+        "published": "2026-08-09T18:27:27+00:00",
+        "published_label": "Sun 09 Aug, 18:27",
+        "summary": "Watch as FISH takes Charl Schwartzel's ball in bizarre incident during LIV Golf New York - 'I have never seen that!' TNT Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-09T18:36:46.557190+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Brooks Koepka offers unflinching assessment of PGA Tour season: 'Pathetic'",
+        "link": "https://golf.com/news/brooks-koepka-offers-unflinching-assessment-pga-tour-season/",
+        "published": "2026-08-09T18:05:32+00:00",
+        "published_label": "Sun 09 Aug, 18:05",
+        "summary": "After missing out on his final chance to make next week's FedEx Cup playoffs, Brooks Koepka offered a searing assessment of his season. The post Brooks Koepka offers unflinching assessment of PGA Tour season: ‘Pathetic’ appeared first on Golf .",
+        "body": "Heading into the final regular-season event of the PGA Tour season, Brooks Koepka needed to conjure some magic. The five-time major winner left LIV and rejoined the PGA Tour in January, and the expectation was that the 36-year-old would pick up right where he left off, given the eight wins he had accumulated between 2015 and 2021. (Koepka won his 9th PGA Tour event and fifth major, the 2023 PGA Championship, while playing as a member of LIV Golf.)\n\nBut Koepka’s Tour re-entry didn’t produce the level of performance he was hoping for — at least relatively speaking. He made 10 of 15 cuts with six top-25 finishes, but never really contended for a title.",
+        "copy": "Heading into the final regular-season event of the PGA Tour season, Brooks Koepka needed to conjure some magic. The five-time major winner left LIV and rejoined the PGA Tour in January, and the expectation was that the 36-year-old would pick up right where he left off, given the eight wins he had accumulated between 2015 and 2021. (Koepka won his 9th PGA Tour event and fifth major, the 2023 PGA Championship, while playing as a member of LIV Golf.)\n\nBut Koepka’s Tour re-entry didn’t produce the level of performance he was hoping for — at least relatively speaking. He made 10 of 15 cuts with six top-25 finishes, but never really contended for a title.",
+        "first_seen": "2026-08-09T18:36:46.557190+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How Andrew Catalon became a part of the CBS Masters broadcast team",
+        "link": "https://golf.com/news/how-andrew-catalon-became-part-masters-broadcast-team/",
+        "published": "2026-08-09T16:52:32+00:00",
+        "published_label": "Sun 09 Aug, 16:52",
+        "summary": "On this week's episode of Subpar, Andrew Catalon explained what it was like to be invited to join CBS' Masters broadcast team. The post How Andrew Catalon became a part of the CBS Masters broadcast team appeared first on Golf .",
+        "body": "Before longtime CBS broadcaster Andrew Catalon starting calling golf tournaments, he realized the core CBS golf broadcast team was something special. On this week’s episode of Subpar, Catalon, who also works NFL and college basketball games for CBS, explained how he started calling golf tournaments — and what it was like to invited to join CBS’ Masters broadcast team.\n\n“I did the digital, featured group and that type, for 10 years,” Catalon told hosts Colt Knost and Drew Stoltz. “My first one was [Charl] Schwartzel [in 2011]. And then 2020 with Covid, I did it from my basement and that was my last one, digital. 2021 was my first one on the main broadcast.",
+        "copy": "Before longtime CBS broadcaster Andrew Catalon starting calling golf tournaments, he realized the core CBS golf broadcast team was something special. On this week’s episode of Subpar, Catalon, who also works NFL and college basketball games for CBS, explained how he started calling golf tournaments — and what it was like to invited to join CBS’ Masters broadcast team.\n\n“I did the digital, featured group and that type, for 10 years,” Catalon told hosts Colt Knost and Drew Stoltz. “My first one was [Charl] Schwartzel [in 2011]. And then 2020 with Covid, I did it from my basement and that was my last one, digital. 2021 was my first one on the main broadcast.",
+        "first_seen": "2026-08-09T18:36:46.557190+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Former LIV Golf chairman makes surprise appearance in New York alongside Donald Trump",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNl9rSk0xM053R1hNWkdIVG9jeEVmU1ZhRWN6WWZHWGJ5bndZZFlSX2tCSVNzcDI4dkVwY1g3OTgyVXE5RVhaY3NzWnE1Qm1FNGYyUEMzSVpad2FReVpjLXg1aVNQWGJ3eVMtbFJuVjZhcVY1VTJ5VkVGTWZlVUpqdDdPZEM5WDJXS0pfLUpNM3N6UVNYdnh1Uk5VQm93T0FxUlZSdVllTTc0TXY5ZVBnYVNBSVk2S2gtX0FzU2h3?oc=5",
+        "published": "2026-08-09T16:23:58+00:00",
+        "published_label": "Sun 09 Aug, 16:23",
+        "summary": "Former LIV Golf chairman makes surprise appearance in New York alongside Donald Trump Golfmagic",
+        "body": "President Donald Trump attended the final round of LIV Golf New York alongside the breakaway tour's former chairman Yasir Al-Rumayyan. Trump and Al-Rumayyan were seen together inside the clubhouse on 9 August before play got underway at Trump National Golf Course in Bedminster, New Jersey.\n\nVideo footage of the pair in player dining was posted on Instagram by Bubba Watson's caddie Gabe Sauer. The clip showed Trump, 80, bigging up the accomplishments of nine-time major champion, Gary Player, who was also in the room.",
+        "copy": "President Donald Trump attended the final round of LIV Golf New York alongside the breakaway tour's former chairman Yasir Al-Rumayyan. Trump and Al-Rumayyan were seen together inside the clubhouse on 9 August before play got underway at Trump National Golf Course in Bedminster, New Jersey.\n\nVideo footage of the pair in player dining was posted on Instagram by Bubba Watson's caddie Gabe Sauer. The clip showed Trump, 80, bigging up the accomplishments of nine-time major champion, Gary Player, who was also in the room.",
+        "first_seen": "2026-08-09T18:36:46.557190+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "President Trump, PIF’s Yasir Al-Rumayyan seen together at LIV Golf event",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdW1GOTBvVTUzZnlkLTl2ZDBaaXNGVkxMM2FSSVF3alRzX1JscE50UGl0RUJ5c0VBSnF2aUF0UzJweFZhT2NDYWJoT2FxMUhCSk9KbDhwcW51ZV8zeEc0bVg2ZktWM1pmM1ZhTnBxalRzWXVtZ3hOY1RvbFFGazhwT0NDclZkOERIT3pNaUw3NUpDTGNxU3NZZTl2MU94QQ?oc=5",
+        "published": "2026-08-09T16:21:07+00:00",
+        "published_label": "Sun 09 Aug, 16:21",
+        "summary": "President Trump, PIF’s Yasir Al-Rumayyan seen together at LIV Golf event The New York Times",
+        "body": "President Donald Trump and PIF Governor Yasir Al-Rumayyan were together before the final round of LIV Golf’s event at Trump National Bedminster on Sunday. They stood side-by-side in the player dining room, as Trump extolled the playing accomplishments of legend Gary Player, who was also in the room.\n\nBubba Watson’s caddie, Gabe Sauer, published the video to his Instagram story. As Trump exited the clubhouse and was photographed by wire services, Al-Rumayyan was in the background.",
+        "copy": "President Donald Trump and PIF Governor Yasir Al-Rumayyan were together before the final round of LIV Golf’s event at Trump National Bedminster on Sunday. They stood side-by-side in the player dining room, as Trump extolled the playing accomplishments of legend Gary Player, who was also in the room.\n\nBubba Watson’s caddie, Gabe Sauer, published the video to his Instagram story. As Trump exited the clubhouse and was photographed by wire services, Al-Rumayyan was in the background.",
+        "first_seen": "2026-08-09T18:36:46.557190+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -4359,6 +4437,19 @@
         "body": "The 2026 Wyndham Championship continues on Sunday with the fourth and final round at Sedgefield Country Club. Here’s everything you need to know to watch the tournament on Sunday, including full Wyndham Championship TV coverage, streaming details and complete Round 4 tee times.\n\nSunday is always a pressure-packed affair on the PGA Tour, but this week, there’s some additional meaning. Many of the players in the Wyndham field are battling to keep their FedEx Cup playoffs dreams alive — including the two players tied at the top of the leaderboard: Michael Brennan and Beau Hossler.",
         "copy": "The 2026 Wyndham Championship continues on Sunday with the fourth and final round at Sedgefield Country Club. Here’s everything you need to know to watch the tournament on Sunday, including full Wyndham Championship TV coverage, streaming details and complete Round 4 tee times.\n\nSunday is always a pressure-packed affair on the PGA Tour, but this week, there’s some additional meaning. Many of the players in the Wyndham field are battling to keep their FedEx Cup playoffs dreams alive — including the two players tied at the top of the leaderboard: Michael Brennan and Beau Hossler.",
         "first_seen": "2026-08-09T14:32:38.138141+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "LIV Golf",
+        "kind": "gnews",
+        "title": "Aramco LIV Golf Michigan Team Championship 2026 - Hospitality",
+        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaGVWTGd4UlBMNFI2U0JCNVpBYURjNEpGaWxWMThxMzQwWnRsTUcyZ21CQ21OZ1c3VHJuT2RMQS1LMnp5V1lrdnhYRmwwam12alIwUmdMQlFUbGQwYzRTMUI0WDVZLWZHRWpuTC1lRjhLS0U0TUdmM3FLYVJvMVRoTlFDZENWdHZQTnFsSl9aNHEwOEN1MWZCSWVzMHc5ZHNKQm1qdDdRUWViUURYcXY4Vm1ibldYRDdvbmRwa1lIVlBWTDhqQldsZEU1MldSOGhTV3A2WEpMcG43aHJ2U2hrdmhuS0ZuSHM4QjlSV24tMENHQ2JDUkdtU0E1X25GbWdyWkYtdHdiT2xzcjdTVjJtbGpyVGp4bFFhY01LWHVfQWk1aVIxRFRyeWl5Zw?oc=5",
+        "published": "2026-08-09T12:59:50+00:00",
+        "published_label": "Sun 09 Aug, 12:59",
+        "summary": "Aramco LIV Golf Michigan Team Championship 2026 - Hospitality LIV Golf",
+        "body": "Brand-new for 2026, One Under is your HQ for fun on the 15th. This shaded deck on the 15th green keeps you front and center with social tables, light snacks on tap, and world-class golf in full swing. Catch every cheer, every swing, and all the Michigan energy in one buzzing spot.\n\nGolf meets good times. Watch the world’s best swing under the sun, sip your favorite drink, grab a snack, and soak up the energy. One Under is perfect for anyone who wants to feel the pulse of the Team Championship while staying close to the play.",
+        "copy": "Brand-new for 2026, One Under is your HQ for fun on the 15th. This shaded deck on the 15th green keeps you front and center with social tables, light snacks on tap, and world-class golf in full swing. Catch every cheer, every swing, and all the Michigan energy in one buzzing spot.\n\nGolf meets good times. Watch the world’s best swing under the sun, sip your favorite drink, grab a snack, and soak up the energy. One Under is perfect for anyone who wants to feel the pulse of the Team Championship while staying close to the play.",
+        "first_seen": "2026-08-09T18:36:46.557190+00:00"
       },
       {
         "section": "Golf",
@@ -6361,32 +6452,6 @@
         "body": "Yealimi Noh had envisioned herself winning the AIG Women’s Open. As all talented pros do, Yealimi Noh had drawn herself in the stars before she even started to climb the pro golf ladder.\n\nBut she arrived at this year’s AIG Women’s Open “unsure” about her game. After a brutal season that saw her go six events without breaking par in a single round, the 25-year-old Noh found herself no longer enjoying golf as she once did. Golf had always been a “job,” but it was different when the game no longer loved you back. When your hard work isn’t being rewarded and when the course only brings you stress and hurt. After missing back-to-back cuts at the KPMG Women’s PGA Championship and Amundi Evian Championship, Yealimi Noh found herself lost, adrift as she looked to rediscover her world-class game and the motivation to hone it.",
         "copy": "Yealimi Noh had envisioned herself winning the AIG Women’s Open. As all talented pros do, Yealimi Noh had drawn herself in the stars before she even started to climb the pro golf ladder.\n\nBut she arrived at this year’s AIG Women’s Open “unsure” about her game. After a brutal season that saw her go six events without breaking par in a single round, the 25-year-old Noh found herself no longer enjoying golf as she once did. Golf had always been a “job,” but it was different when the game no longer loved you back. When your hard work isn’t being rewarded and when the course only brings you stress and hurt. After missing back-to-back cuts at the KPMG Women’s PGA Championship and Amundi Evian Championship, Yealimi Noh found herself lost, adrift as she looked to rediscover her world-class game and the motivation to hone it.",
         "first_seen": "2026-08-02T19:05:52.106290+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "SWAG's new 'Essentials' collection has something for everyone",
-        "link": "https://golf.com/gear/golf-accessories/swag-golf-essentials-collection/",
-        "published": "2026-08-02T17:12:11+00:00",
-        "published_label": "Sun 02 Aug, 17:12",
-        "summary": "SWAG Golf's new \"Essentials\" collection expands their in-stock catalog with something for everyone. The post SWAG’s new ‘Essentials’ collection has something for everyone appeared first on Golf .",
-        "body": "If you’ve heard of SWAG Golf, you may have heard of the 45-second sellouts, the one-of-one special search for headcovers, or the exclusive groups where SWAG fans buy sell and trade their gear in hopes of creating the ultimate collection. If you’ve followed the brand over the past few years, you have started to see them transition to more in-stock product and a wider catalog of products to get more SWAG into more hands. Recently they introduced the ‘SWAG Essentials’ collection, so let’s take a look at their new lineup of in-stock accessories.\n\nThe SWAG Golf Essentials Shoe Bag is made from a polyester/vinyl style material that’s durable and water-resistant while providing ventilation so there’s no stinky shoe problems on the drive home from the course. I also think it’s the perfect size. It’s large enough that it’s easy to get shoes in an out of the bag without any problems, but it’s streamlined enough to not be a pain to travel with. I’ve actually been using it even when I’m flying. I just throw my shoes in the bag and then throw the bag in my travel bag with no issues.",
-        "copy": "If you’ve heard of SWAG Golf, you may have heard of the 45-second sellouts, the one-of-one special search for headcovers, or the exclusive groups where SWAG fans buy sell and trade their gear in hopes of creating the ultimate collection. If you’ve followed the brand over the past few years, you have started to see them transition to more in-stock product and a wider catalog of products to get more SWAG into more hands. Recently they introduced the ‘SWAG Essentials’ collection, so let’s take a look at their new lineup of in-stock accessories.\n\nThe SWAG Golf Essentials Shoe Bag is made from a polyester/vinyl style material that’s durable and water-resistant while providing ventilation so there’s no stinky shoe problems on the drive home from the course. I also think it’s the perfect size. It’s large enough that it’s easy to get shoes in an out of the bag without any problems, but it’s streamlined enough to not be a pain to travel with. I’ve actually been using it even when I’m flying. I just throw my shoes in the bag and then throw the bag in my travel bag with no issues.",
-        "first_seen": "2026-08-02T19:05:52.106290+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "He’s the fastest player on his pro tour. So … how does he do it?",
-        "link": "https://golf.com/news/hes-fastest-player-pro-tour-do-it/",
-        "published": "2026-08-02T16:41:28+00:00",
-        "published_label": "Sun 02 Aug, 16:41",
-        "summary": "Dylan Menante is the fastest player on the Korn Ferry Tour, according to its speed of play rankings. On a video, he talked about his process. The post He’s the fastest player on his pro tour. So … how does he do it? appeared first on Golf .",
-        "body": "Dylan Menante even talks with good pace. On a recently released video, he squeezed in about 250 words in just under a minute. Some of that is editing, of course. But Menante is a bit of an expert on the subject, and there was no reason to pause.\n\nHe’d been approached to talk about his fast play. This season on the Korn Ferry Tour, players’ times from the tee through the green have been posted on the tour’s website, and, entering this week’s play, Menante is first in every category but one: approach the green — where he’s second. The numbers are certainly interesting, given that slow play has been such a focus in golf. So how does Menante do it? What’s he thinking? Below is the video, and below that are some thoughts.",
-        "copy": "Dylan Menante even talks with good pace. On a recently released video, he squeezed in about 250 words in just under a minute. Some of that is editing, of course. But Menante is a bit of an expert on the subject, and there was no reason to pause.\n\nHe’d been approached to talk about his fast play. This season on the Korn Ferry Tour, players’ times from the tee through the green have been posted on the tour’s website, and, entering this week’s play, Menante is first in every category but one: approach the green — where he’s second. The numbers are certainly interesting, given that slow play has been such a focus in golf. So how does Menante do it? What’s he thinking? Below is the video, and below that are some thoughts.",
-        "first_seen": "2026-08-02T16:56:48.378428+00:00"
       }
     ],
     "Badminton": [
@@ -7460,5 +7525,5 @@
       }
     ]
   },
-  "total": 572
+  "total": 577
 }
