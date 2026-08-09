@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T10:32:21.797279+00:00",
-  "generated_label": "Sunday 09 August 2026, 10:32 UTC",
+  "generated_at": "2026-08-09T12:43:35.165973+00:00",
+  "generated_label": "Sunday 09 August 2026, 12:43 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Asian carmakers cash in as high petrol prices lift US demand for hybrids",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVFVTjJMZjNfLWVhdHQ3LWZxcmJzY0NqQThsZnpQOXQtVGhudjNfb2ZIY05fUmNZVnRVRkp2Qk9FOXNSRno5Zk9uaVNxM1g2cWlqZWhsSmRzRmNNZGY3LU9BQUZkU0JuZEJFVUJYVERxYVB4MjZwOXJ5b1BJNldjRTQzaFA?oc=5",
+        "published": "2026-08-09T10:00:09+00:00",
+        "published_label": "Sun 09 Aug, 10:00",
+        "summary": "Asian carmakers cash in as high petrol prices lift US demand for hybrids Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-09T12:43:35.165973+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1470,6 +1483,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "DIY SOS star Nick Knowles backs Cornish Pirates’ Premiership ambitions",
+        "link": "https://www.rugbypass.com/news/diy-sos-star-nick-knowles-backs-cornish-pirates-premiership-ambitions/",
+        "published": "2026-08-09T11:12:34+00:00",
+        "published_label": "Sun 09 Aug, 11:12",
+        "summary": "TV presenter Nick Knowles can usually be found at a rugby ground on a Saturday when he isn’t filming his BBC show DIY SOS, but he has gone one step further than being a fan; he has invested in the Champ Rugby outfit Cornish Pirates.",
+        "body": "TV presenter Nick Knowles can usually be found at a rugby ground on a Saturday when he isn’t filming his BBC show DIY SOS, but he has gone one step further than being a fan; he has invested in the Champ Rugby outfit Cornish Pirates.\n\nKnowles, who played flanker at school, Skinners in Tunbridge Wells, then for the local club before spending two seasons in Australia at Kiama, New South Wales, says he always takes his boots abroad while filming, hoping to find a game.",
+        "copy": "TV presenter Nick Knowles can usually be found at a rugby ground on a Saturday when he isn’t filming his BBC show DIY SOS, but he has gone one step further than being a fan; he has invested in the Champ Rugby outfit Cornish Pirates.\n\nKnowles, who played flanker at school, Skinners in Tunbridge Wells, then for the local club before spending two seasons in Australia at Kiama, New South Wales, says he always takes his boots abroad while filming, hoping to find a game.",
+        "first_seen": "2026-08-09T12:43:35.165973+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'It was a matter of life and death' Former Springbok reveals career-altering tragedy",
+        "link": "https://www.rugbypass.com/news/former-springbok-breaks-silence-on-the-tragedy-that-altered-his-career/",
+        "published": "2026-08-09T10:45:47+00:00",
+        "published_label": "Sun 09 Aug, 10:45",
+        "summary": "Former Springbok wing Sbu Nkosi has revealed that the death of his two children at birth sat behind the mental health crisis that engulfed his time at the Vodacom Bulls and left him fearing for his own safety.",
+        "body": "Former Springbok wing Sbu Nkosi has revealed that the death of his two children at birth sat behind the mental health crisis that engulfed his time at the Vodacom Bulls and left him fearing for his own safety.\n\nNkosi, a member of South Africa’s 2019 Rugby World Cup-winning squad, disappeared from public view in late 2022. The Bulls said he had been absent without leave for three weeks and that their last contact with him had come on November 11, prompting a missing-person case to be opened with the South African Police Service (SAPS).",
+        "copy": "Former Springbok wing Sbu Nkosi has revealed that the death of his two children at birth sat behind the mental health crisis that engulfed his time at the Vodacom Bulls and left him fearing for his own safety.\n\nNkosi, a member of South Africa’s 2019 Rugby World Cup-winning squad, disappeared from public view in late 2022. The Bulls said he had been absent without leave for three weeks and that their last contact with him had come on November 11, prompting a missing-person case to be opened with the South African Police Service (SAPS).",
+        "first_seen": "2026-08-09T12:43:35.165973+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3380,32 +3419,6 @@
         "body": "Dutch side RC The Dukes has clinched Niall Saunders’ services, with the former U20 Irish international joining the side for the upcoming Ereklasse season. The 28-year-old had been without a club for the past 20 months after his contract with RFC Los Angeles was terminated ahead of the 2025 season.\n\nSaunders’ life in the pro leagues started in 2016, when Harlequins recruited the young scrum-half. In the same year, he won his first Ireland caps, representing the U20 side at the World Rugby Under-20 Championship, where Ireland reached the final but were defeated 45-21 by England.",
         "copy": "Dutch side RC The Dukes has clinched Niall Saunders’ services, with the former U20 Irish international joining the side for the upcoming Ereklasse season. The 28-year-old had been without a club for the past 20 months after his contract with RFC Los Angeles was terminated ahead of the 2025 season.\n\nSaunders’ life in the pro leagues started in 2016, when Harlequins recruited the young scrum-half. In the same year, he won his first Ireland caps, representing the U20 side at the World Rugby Under-20 Championship, where Ireland reached the final but were defeated 45-21 by England.",
         "first_seen": "2026-08-02T15:01:17.460476+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "The road to LA: Why the SVNS Series is critical to Olympic success",
-        "link": "https://www.rugbypass.com/news/the-road-to-la-why-the-svns-series-is-critical-to-olympic-success/",
-        "published": "2026-08-02T11:16:43+00:00",
-        "published_label": "Sun 02 Aug, 11:16",
-        "summary": "The Los Angeles 2028 Olympics is now officially less than two years away, with the closing ceremony set to take place exactly two years from now.",
-        "body": "The Los Angeles 2028 Olympics is now officially less than two years away, with the closing ceremony set to take place exactly two years from now – and in the context of sevens rugby, now is the time for results.\n\nOfficial qualification for the Olympics will be decided across the 2027 HSBC SVNS Series, with the top four sides in both the men’s and women’s series achieving automatic qualification.",
-        "copy": "The Los Angeles 2028 Olympics is now officially less than two years away, with the closing ceremony set to take place exactly two years from now – and in the context of sevens rugby, now is the time for results.\n\nOfficial qualification for the Olympics will be decided across the 2027 HSBC SVNS Series, with the top four sides in both the men’s and women’s series achieving automatic qualification.",
-        "first_seen": "2026-08-02T13:15:14.792648+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "The road to LA: Why the SVNS Series is critical to Olympic success",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZDBiYy10ZHRVLXNzWjczbUpMdE9Qdi1xR0JrSUtGdEhoNU5xQXBnaHhLNERSNDFjWUJyN3h3QlppNGt1bm0wQ1ZxRk9FUEZaNGpZNVZDaGdFbU16cFJ1YzVXYWxwZy1ITmFJSXFOLTgzbzdUOTRMaFljUXFsZTYtNnJsd0ZCdjJCNTFLMkJGTkdocms3SHJPMHd0eGpKQQ?oc=5",
-        "published": "2026-08-02T11:16:43+00:00",
-        "published_label": "Sun 02 Aug, 11:16",
-        "summary": "The road to LA: Why the SVNS Series is critical to Olympic success Rugbypass.com",
-        "body": "The Los Angeles 2028 Olympics is now officially less than two years away, with the closing ceremony set to take place exactly two years from now – and in the context of sevens rugby, now is the time for results.\n\nOfficial qualification for the Olympics will be decided across the 2027 HSBC SVNS Series, with the top four sides in both the men’s and women’s series achieving automatic qualification.",
-        "copy": "The Los Angeles 2028 Olympics is now officially less than two years away, with the closing ceremony set to take place exactly two years from now – and in the context of sevens rugby, now is the time for results.\n\nOfficial qualification for the Olympics will be decided across the 2027 HSBC SVNS Series, with the top four sides in both the men’s and women’s series achieving automatic qualification.",
-        "first_seen": "2026-08-03T10:55:28.489419+00:00"
       }
     ],
     "Tennis": [
@@ -4292,22 +4305,22 @@
         "body": "Jack Draper has called for patience amid his ongoing recovery from a “perfect storm” of injuries as he eyes a first grand slam appearance of the year at the US Open. Draper cast his involvement in New York into further doubt after withdrawing from the DC Open due to an arm injury.\n\nThe former World No 4, who is coached by Andy Murray, has not participated in any of the three grand slams in 2026 but has reassured fans that he has nearly completed his recovery, with the Brit scheduled to play two tournaments before the US Open.",
         "copy": "Jack Draper has called for patience amid his ongoing recovery from a “perfect storm” of injuries as he eyes a first grand slam appearance of the year at the US Open. Draper cast his involvement in New York into further doubt after withdrawing from the DC Open due to an arm injury.\n\nThe former World No 4, who is coached by Andy Murray, has not participated in any of the three grand slams in 2026 but has reassured fans that he has nearly completed his recovery, with the Brit scheduled to play two tournaments before the US Open.",
         "first_seen": "2026-08-03T09:38:25.984982+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Tennis: Jack Draper says his injuries were a 'perfect storm' but he's ready for a rebirth",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOajNfcEU4b0k5T2xFVTRBaEg3bEU1a0NJalF2ZGE4RWE5LWVNcEhieGhwaERhV2dfeHVxVWtyQU9Nd0NXR05xaUdMcmxaRjRTOTUwOHVJUUZ2YVI3SXBRcGtqMGt1TTFCVzlRNTd2M2hxQ3M3NEpaRWw2QlZYN0JJMlZhR2k2LWQ1TFBZdkhxUXk3ZGJqcXdtSjBzSVJ4dllOUlpHRmpJMElzRVRLSXEwX1BpNExzMUZQVXZBN1dCcUphakE5Y3labERrNTRjV1A2Zm83akxB?oc=5",
-        "published": "2026-08-02T12:18:36+00:00",
-        "published_label": "Sun 02 Aug, 12:18",
-        "summary": "Tennis: Jack Draper says his injuries were a 'perfect storm' but he's ready for a rebirth Sky Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-02T15:01:17.460476+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Alex Fitzpatrick is ready to go deep in his first FedEx Cup playoffs run",
+        "link": "https://golf.com/news/features/alex-fitzpatrick-go-deep-first-fedex-cup-playoffs-run/",
+        "published": "2026-08-09T12:40:42+00:00",
+        "published_label": "Sun 09 Aug, 12:40",
+        "summary": "After claiming a Tour card with a win at the Zurich, Alex Fitzpatrick is proving he's a lot more than just Matt Fitzpatrick's little brother. The post Alex Fitzpatrick is ready to go deep in his first FedEx Cup playoffs run appeared first on Golf .",
+        "body": "Alex Fitzpatrick has earned the mantle of the PGA Tour’s hottest rookie, thanks to a win at the Zurich Classic alongside his big brother Matt, and five other top-10 finishes in 2026 (not to mention a win on the DP World Tour). Dylan Dethier caught up with Alex at June’s Traveler’s Championship, where the 27-year-old was flying high, despite the grind of it all.\n\nDylan Dethier: Nine weeks ago, you didn’t have a PGA Tour card. Since then you’ve become a Tour winner [at the Zurich Classic team event with brother Matt], earned a multiyear exemption, finished top 10 in all three of your Signature Event starts, played in two majors and changed your entire career standing. First of all, are you exhausted?",
+        "copy": "Alex Fitzpatrick has earned the mantle of the PGA Tour’s hottest rookie, thanks to a win at the Zurich Classic alongside his big brother Matt, and five other top-10 finishes in 2026 (not to mention a win on the DP World Tour). Dylan Dethier caught up with Alex at June’s Traveler’s Championship, where the 27-year-old was flying high, despite the grind of it all.\n\nDylan Dethier: Nine weeks ago, you didn’t have a PGA Tour card. Since then you’ve become a Tour winner [at the Zurich Classic team event with brother Matt], earned a multiyear exemption, finished top 10 in all three of your Signature Event starts, played in two majors and changed your entire career standing. First of all, are you exhausted?",
+        "first_seen": "2026-08-09T12:43:35.165973+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6353,6 +6366,19 @@
     "Badminton": [
       {
         "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Ashmita Chaliha clinches maiden BWF World Tour title at Korea Masters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDR6Smo4R0otbTBFOXdqcVpQbmNuSFRDSDQ2QVZZMUp0cE5Qc25qV0lmY1FNQ3NIMzFrOXhDcWZlSThJc0xuV1diVThYZUdYREdZZm9UdjZySDNGYjg2YmF5VG53MkhrQXFPZGFUMTc0WkQxQUJxWWpMRUswWFJWVjBtNV9XVlB1M25pQkV5MlNpU1ZxOUItQjRaaEJ4My1pT3NHNDhYcGNKSW84aUJEUHlORk7SAboBQVVfeXFMT19uYlZXNUVrMlVuRUh6MFZXc29IRjFTQkVRTlJTRlNTeXdLQktWdkk5RWlCODdRb2prbk9Fb1J6aFZYWjZPVEVNazFLVzkxaDZCYXVpejJfTG05clJkOWpsOEo0UGlLTHppZExxMHptSXdEdFpyc0pNZXNXQzhlb1lSSF8tNXk0MFpoekRKdW1NaFEyaFZvN2ZjQ3A1TXFqVzUweXBiQUlXRlBGWndmcUZ0Mi0yUzJ1dGNB?oc=5",
+        "published": "2026-08-09T10:19:00+00:00",
+        "published_label": "Sun 09 Aug, 10:19",
+        "summary": "Ashmita Chaliha clinches maiden BWF World Tour title at Korea Masters WION",
+        "body": "India’s Ashmita Chaliha clinched her first BWF World Tour title after beating China’s fourth-seeded Han Qian Xi in the women’s singles final of the Korea Masters Super 300 in Asan on Sunday (Aug 9). The 26-year-old from Assam recovered from a slow start and held her nerve in a closely contested decider to win 14-21, 21-14, 21-14 in 53 minutes.\n\nDuring the match, Ashmita started the opening game well, taking an early 3-0 lead and later moving 9-5 ahead, however, Han fought back strongly and levelled the score at 11-11. The Chinese player then took control with a run of points and comfortably closed out the game 21-14.",
+        "copy": "India’s Ashmita Chaliha clinched her first BWF World Tour title after beating China’s fourth-seeded Han Qian Xi in the women’s singles final of the Korea Masters Super 300 in Asan on Sunday (Aug 9). The 26-year-old from Assam recovered from a slow start and held her nerve in a closely contested decider to win 14-21, 21-14, 21-14 in 53 minutes.\n\nDuring the match, Ashmita started the opening game well, taking an early 3-0 lead and later moving 9-5 ahead, however, Han fought back strongly and levelled the score at 11-11. The Chinese player then took control with a run of points and comfortably closed out the game 21-14.",
+        "first_seen": "2026-08-09T12:43:35.165973+00:00"
+      },
+      {
+        "section": "Badminton",
         "source": "Olympics",
         "kind": "gnews",
         "title": "BWF Korea Masters 2026: Zhu Xuanchen and Ashmita Chaliha claim first World Tour titles in Asan",
@@ -7395,5 +7421,5 @@
       }
     ]
   },
-  "total": 567
+  "total": 569
 }
