@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T13:00:49.766053+00:00",
-  "generated_label": "Monday 10 August 2026, 13:00 UTC",
+  "generated_at": "2026-08-10T14:56:38.487800+00:00",
+  "generated_label": "Monday 10 August 2026, 14:56 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Volleyball World, AVC commit to long-term commercial agreement through 2052",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3VpaEhmeERYWWg2ZWsxTWVacUdTZ0VUTjBHZjk3NVRWSkpwbUlqYVVOQmU0NDMtVTZrWl9fZS1JQTQ2WGNwMEJPNFU4blB2dGNoSTMzZkpnUWtnNlVndEZHblA3aEdDWnc1VkFLQ0NBM1RiWXg2Mk9saVRZSlRObVRpUUp5QS1NSWVrTnU0NmVOVURCLVdNeWNYcldGR3V4M2dYbEZ6UF8?oc=5",
+        "published": "2026-08-10T14:20:57+00:00",
+        "published_label": "Mon 10 Aug, 14:20",
+        "summary": "Volleyball World, AVC commit to long-term commercial agreement through 2052 Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "SI hosts masterclass on fan engagement, unveils the Digital Fandom Quadrant",
+        "link": "https://www.sportspro.com/thought-leadership/sponsorship-marketing/social-media-fan-engagement/si-hosts-masterclass-on-fan-engagement-unveils-digital-fandom-quadrant/",
+        "published": "2026-08-10T13:07:04+00:00",
+        "published_label": "Mon 10 Aug, 13:07",
+        "summary": "SI has launched Digital Fandom Quadrant, a new framework designed to help teams, leagues and federations assess their digital maturity, build stronger direct relationships with fans, and unlock the value of owned first-party data in an AI-driven era. The post SI hosts masterclass on fan engagement, unveils the Digital Fandom Quadrant appeared first on SportsPro .",
+        "body": "For too long, Indian sport has treated fan engagement as a synonym for social-media engagement. Followers, views and likes are a starting point and not a very solid one. Teams and leagues broadcast a steady stream of content to reach millions, with little real understanding of who is on the other end. By most estimates, the vast majority of Indian sports organisations cannot identify their individual fans: the data sits on third-party apps and social platforms, owned by those platforms rather than by the organisation itself.\n\nThat gap becomes a genuine risk in an AI-driven, personalisation-first era, where an organisation’s fan engagement is only ever as good as the data it owns. This was the premise of a masterclass on the future of fan engagement hosted by Sportz Interactive (SI). The timing is pointed: with the government’s recently approved ₹36,441 crore expansion of the Khelo India programme – the largest public investment in Indian sport since Independence a bid for the 2036 Olympics, and an industry-wide push to build fandom beyond cricket, the question of how organisations actually engage their fans has never mattered more.",
+        "copy": "For too long, Indian sport has treated fan engagement as a synonym for social-media engagement. Followers, views and likes are a starting point and not a very solid one. Teams and leagues broadcast a steady stream of content to reach millions, with little real understanding of who is on the other end. By most estimates, the vast majority of Indian sports organisations cannot identify their individual fans: the data sits on third-party apps and social platforms, owned by those platforms rather than by the organisation itself.\n\nThat gap becomes a genuine risk in an AI-driven, personalisation-first era, where an organisation’s fan engagement is only ever as good as the data it owns. This was the premise of a masterclass on the future of fan engagement hosted by Sportz Interactive (SI). The timing is pointed: with the government’s recently approved ₹36,441 crore expansion of the Khelo India programme – the largest public investment in Indian sport since Independence a bid for the 2036 Olympics, and an industry-wide push to build fandom beyond cricket, the question of how organisations actually engage their fans has never mattered more.",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -1415,87 +1441,61 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-04T08:33:29.763458+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "How Footballco and Coca-Cola worked with José Mourinho to find his toughest opponent yet: himself",
-        "link": "https://www.sportspro.com/opinions/sponsorship-marketing/sponsorship/footballco-coca-cola-jose-mourinho-content-series-fifa-world-cup/",
-        "published": "2026-08-03T14:52:07+00:00",
-        "published_label": "Mon 03 Aug, 14:52",
-        "summary": "Inside José vs. Mourinho: How Footballco, Coca-Cola and partners created an innovative content series during the Fifa World Cup featuring one of soccer's biggest names. The post How Footballco and Coca-Cola worked with José Mourinho to find his toughest opponent yet: himself appeared first on SportsPro .",
-        "body": "Ahead of the Fifa World Cup, Coca-Cola brought together an ecosystem of partners – connecting our own editorial leadership with Google Cloud’s AI technology, GRAiL’s creative and entertainment capabilities, and José Mourinho’s collaboration – to create José vs. Mourinho.\n\nThe series shares insights and humorous takes from one of the most brilliant minds in the sport, using a highly realistic AI-powered virtual replica of José Mourinho to deliver fresh perspectives every day throughout the Fifa World Cup.",
-        "copy": "Ahead of the Fifa World Cup, Coca-Cola brought together an ecosystem of partners – connecting our own editorial leadership with Google Cloud’s AI technology, GRAiL’s creative and entertainment capabilities, and José Mourinho’s collaboration – to create José vs. Mourinho.\n\nThe series shares insights and humorous takes from one of the most brilliant minds in the sport, using a highly realistic AI-powered virtual replica of José Mourinho to deliver fresh perspectives every day throughout the Fifa World Cup.",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Inside the grey market for online accounts",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVRXSHpRN1kyYmphOTVkSHNCN2xkeUg1Vmw5RlZjdjN3VVVjYTVERHY1MjhQNmpRbDdybFJ1czJFbncwVTFjMmEta083bUp5UnRkTnk3MVZxc2ZlTXVSN1RFbWdoMVpKYVZGbDZCcWotVnpNZXJfenpnUXJibTJ1ME1Bd1Q?oc=5",
-        "published": "2026-08-03T14:00:10+00:00",
-        "published_label": "Mon 03 Aug, 14:00",
-        "summary": "Inside the grey market for online accounts Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-03T19:28:22.911743+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "China’s Migu nets LaLiga rights through 2029-30",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjVkWjM3eEJUMXphLTE5NDZ4RlRac2RCaUkyRWoydFJFNnlHUHMydDI3UWNlVVdGVi03eUNjZmJKdlVsZ25oOGlkMk1QSkR4TEZoQXIxc3V4c2gyWDFTSE5zSlljQktIa1hkS29UUERvUFhWcEhMMEtMUHpKZmZ3WElLNA?oc=5",
-        "published": "2026-08-03T13:41:40+00:00",
-        "published_label": "Mon 03 Aug, 13:41",
-        "summary": "China’s Migu nets LaLiga rights through 2029-30 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "DAZN takes FightStar Championship global with FTA deal",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVBoTFF5TnZ0NmV3cTgzWUloQU9DeUdfMHlKUEJiWXhkOHNUT19kbHdYZFFFQ1dNYl8xOVZZZDB3cUdPLWVEVjJ1RWFVNlR5X011eWQ0VFhGSUY1ZU9pNkpqS0Z2TVd3UVA2NXllcGp3SDJ2bG9nYVdhYzlRLUs1REJESmpCd2VBaXllU1Rn?oc=5",
-        "published": "2026-08-03T13:41:40+00:00",
-        "published_label": "Mon 03 Aug, 13:41",
-        "summary": "DAZN takes FightStar Championship global with FTA deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "DAZN takes FightStar Championship global with FTA deal",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmg5dTE3NjRMbzNMV1A1NnJJQ25QRG53OVlZRTV5eUtHLXJDOVhVbVhkVzdRTW90bC1LODFaTS0zM28zVHZVcVJsU3gwUk15S1lvUGdCRkpvQm9rN3o2TG5lUWRpMzY5aThENHNpNkNMOWxkLXJLWHc5dWZsNUtqdWd6UXBIc0FsVTFQR0tZbw?oc=5",
-        "published": "2026-08-03T13:41:40+00:00",
-        "published_label": "Mon 03 Aug, 13:41",
-        "summary": "DAZN takes FightStar Championship global with FTA deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-04T08:33:29.763458+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Sportdigital retains Portuguese league rights through 2027-28",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXpHd0VDM0NHN3l4UHBHZksyczZVTTEwVjVnQWl3RmNFMjVzY1Jnb1dfb1o5ZTNsMklwcEhSX2Q2Y0w3dmdhNTZLUEo2bHFTaW5xN0g3MF9COWFlN3lyWFo4OUJmM3hHU01qSEE5OV81UU9sRWRDMG9tUExKRkRNWVg3QzhITXdIY1NKQ19aRUlPRTNxclRJ?oc=5",
-        "published": "2026-08-03T13:21:40+00:00",
-        "published_label": "Mon 03 Aug, 13:21",
-        "summary": "Sportdigital retains Portuguese league rights through 2027-28 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Bath to go on the road for Prem season run-in",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8jnk9e8d23o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-10T14:23:31+00:00",
+        "published_label": "Mon 10 Aug, 14:23",
+        "summary": "Bath's last two home games of the season to be played away from The Rec as part of an accelerated construction plan for the club's new stadium.",
+        "body": "Bath's last two home games of the season will be played away from The Rec as part of an accelerated construction plan for the club's new stadium. The new timeline, which is aimed at completing the revamped stadium for Bath in time for the start of the 2028/9 season, will see the games against Harlequins on the weekend of May 15 and Saracens on June 5 moved.\n\nShould Bath secure a home semi-final, as they have done for the past three seasons, this will also have to be taken on the road. \"We are in discussion with alternative host venues, and we will update you once the location for these fixtures is confirmed,\" Bath chief executive Tarquin McDonald wrote in an open letter to club supporters, external.",
+        "copy": "Bath's last two home games of the season will be played away from The Rec as part of an accelerated construction plan for the club's new stadium. The new timeline, which is aimed at completing the revamped stadium for Bath in time for the start of the 2028/9 season, will see the games against Harlequins on the weekend of May 15 and Saracens on June 5 moved.\n\nShould Bath secure a home semi-final, as they have done for the past three seasons, this will also have to be taken on the road. \"We are in discussion with alternative host venues, and we will update you once the location for these fixtures is confirmed,\" Bath chief executive Tarquin McDonald wrote in an open letter to club supporters, external.",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Spain name 36-player squad as WXV Global Series Challenger preparation ramps up",
+        "link": "https://www.rugbypass.com/news/spain-name-36-player-squad-as-wxv-global-series-challenger-preparation-ramps-up/",
+        "published": "2026-08-10T14:20:29+00:00",
+        "published_label": "Mon 10 Aug, 14:20",
+        "summary": "A 36-player Las Leonas squad has been named as preparations for the WXV Global Series Challenger commence.",
+        "body": "A 36-player Las Leonas squad has been named as preparations for the WXV Global Series Challenger commence. Regis Sonnes – who led Spain to a Rugby Europe Women’s Championship title in his first campaign as head coach – will see his team play Fiji, Samoa and Brazil across three consecutive weekends in Hong Kong China.\n\nThe squad includes scrum-half Anne Fernández de Corres. This season the 28-year-old turned out for the ACT Brumbies in Super Rugby Women’s and claimed the team’s Helen Taylor Award for Women’s Player of the Year at the conclusion of her debut season in Canberra.",
+        "copy": "A 36-player Las Leonas squad has been named as preparations for the WXV Global Series Challenger commence. Regis Sonnes – who led Spain to a Rugby Europe Women’s Championship title in his first campaign as head coach – will see his team play Fiji, Samoa and Brazil across three consecutive weekends in Hong Kong China.\n\nThe squad includes scrum-half Anne Fernández de Corres. This season the 28-year-old turned out for the ACT Brumbies in Super Rugby Women’s and claimed the team’s Helen Taylor Award for Women’s Player of the Year at the conclusion of her debut season in Canberra.",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Imperiled URC side close in on Wallaby wing Marika Koroibete",
+        "link": "https://www.rugbypass.com/news/imperiled-urc-side-close-in-on-wallaby-wing-marika-koroibete/",
+        "published": "2026-08-10T14:19:34+00:00",
+        "published_label": "Mon 10 Aug, 14:19",
+        "summary": "The Ospreys are closing in on a deal with former Wallaby wing Marika Koroibete, who has been speaking to them about joining ahead of the new United Rugby Championship season...",
+        "body": "The Ospreys are closing in on a deal with former Wallaby wing Marika Koroibete, who has been speaking to them about joining ahead of the new United Rugby Championship season, which they kick off against the Sharks at Kings Park at the end of next month.\n\nThe Ospreys already have two Australian internationals at the club, with Chiefs inside centre Lalakai Foketi joining back-rower Liam Wright in South Wales earlier this summer. They have also signed Lawson Creighton from the Waratahs.",
+        "copy": "The Ospreys are closing in on a deal with former Wallaby wing Marika Koroibete, who has been speaking to them about joining ahead of the new United Rugby Championship season, which they kick off against the Sharks at Kings Park at the end of next month.\n\nThe Ospreys already have two Australian internationals at the club, with Chiefs inside centre Lalakai Foketi joining back-rower Liam Wright in South Wales earlier this summer. They have also signed Lawson Creighton from the Waratahs.",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Springbok Women expressed 'freedom' in big Fijiana win",
+        "link": "https://www.rugbypass.com/news/springbok-women-expressed-freedom-in-big-fijiana-win/",
+        "published": "2026-08-10T13:08:46+00:00",
+        "published_label": "Mon 10 Aug, 13:08",
+        "summary": "Springbok Women assistant coach Laurian Johannes-Haupt was enthused with the team's 55-12 win against Fiji in Suva on Saturday afternoon.",
+        "body": "Springbok Women assistant coach Laurian Johannes-Haupt was enthused with the team’s 55-12 win against Fiji in Suva on Saturday afternoon. Across the 80 minutes, South Africa scores from Nombuyekezo Mdliki, Lindelwa Gwala, Vainah Ubisi, Sizophila Solontsi, Maceala Samboya, Byrhandre Dolf, Sinelitha Noxeke and a Xoliswa Khuzwayo brace put clear distance between the two teams.\n\nSpringbok captain Libbie Janse van Rensburg kicked two conversions, while Dolf converted three tries. Springbok Women Sevens star Shiniqwa Lamprecht made her Test debut as a starter in the contest.",
+        "copy": "Springbok Women assistant coach Laurian Johannes-Haupt was enthused with the team’s 55-12 win against Fiji in Suva on Saturday afternoon. Across the 80 minutes, South Africa scores from Nombuyekezo Mdliki, Lindelwa Gwala, Vainah Ubisi, Sizophila Solontsi, Maceala Samboya, Byrhandre Dolf, Sinelitha Noxeke and a Xoliswa Khuzwayo brace put clear distance between the two teams.\n\nSpringbok captain Libbie Janse van Rensburg kicked two conversions, while Dolf converted three tries. Springbok Women Sevens star Shiniqwa Lamprecht made her Test debut as a starter in the contest.",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3445,58 +3445,6 @@
         "body": "Former Exeter Chiefs coach Robin Cowling has died aged 82. The England international prop joined Exeter in 1998 as a coach and had a spell as interim team manager in 2009 following the sacking of director of rugby Pete Drewett, before current team boss Rob Baxter took over later that year.\n\nCowling worked with Exeter's academy and was instrumental in helping bring through a generation of talented young players including Jack Nowell, Luke Cowan-Dickie, Neil Clarke, Jason Hobson, Ben Moon and Jack Yeandle.",
         "copy": "Former Exeter Chiefs coach Robin Cowling has died aged 82. The England international prop joined Exeter in 1998 as a coach and had a spell as interim team manager in 2009 following the sacking of director of rugby Pete Drewett, before current team boss Rob Baxter took over later that year.\n\nCowling worked with Exeter's academy and was instrumental in helping bring through a generation of talented young players including Jack Nowell, Luke Cowan-Dickie, Neil Clarke, Jason Hobson, Ben Moon and Jack Yeandle.",
         "first_seen": "2026-08-03T16:22:54.011417+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Cilliers headlines 30-player South Africa 'A' squad that will travel to Brazil",
-        "link": "https://www.rugbypass.com/news/cilliers-headlines-30-player-south-africa-a-squad-that-will-travel-to-brazil/",
-        "published": "2026-08-03T14:52:15+00:00",
-        "published_label": "Mon 03 Aug, 14:52",
-        "summary": "A total of nine capped Springbok Women have been included in a SA Women's 'A' squad that will travel to Brazil at the end of August.",
-        "body": "A total of nine capped Springbok Women have been included in a SA Women’s ‘A’ squad that will travel to Brazil at the end of August. The 30-player Springbok Women Academy will gather for two camps in Somerset West before 26 players travel to South America to take on Brazil’s senior side on Monday 24 and Saturday 29 August in Brasilia and Sao Paulo.\n\nRugby Club Toulon Provence Méditerranée-bound back Jakkie Cilliers has been named in the squad as have fellow senior internationals Anusckha Ekron, Luchell Hanekom, Abigail Smit, Sino Bhengu, Zethu Gcaza, Insaaf Levy, Mary Zulu and Shaunique Alexander.",
-        "copy": "A total of nine capped Springbok Women have been included in a SA Women’s ‘A’ squad that will travel to Brazil at the end of August. The 30-player Springbok Women Academy will gather for two camps in Somerset West before 26 players travel to South America to take on Brazil’s senior side on Monday 24 and Saturday 29 August in Brasilia and Sao Paulo.\n\nRugby Club Toulon Provence Méditerranée-bound back Jakkie Cilliers has been named in the squad as have fellow senior internationals Anusckha Ekron, Luchell Hanekom, Abigail Smit, Sino Bhengu, Zethu Gcaza, Insaaf Levy, Mary Zulu and Shaunique Alexander.",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Pollock to demand £1m a year at Northampton",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c05q1g9v2evo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-03T14:31:50+00:00",
-        "published_label": "Mon 03 Aug, 14:31",
-        "summary": "Henry Pollock is set to demand a substantial increase on his current Northampton contract to stay at Franklin's Gardens, with agent Eddie Hearn suggesting annual earnings of £1m are his going rate.",
-        "body": "Henry Pollock is set to demand a substantial increase on his current Northampton contract to stay at Franklin's Gardens, with agent Eddie Hearn suggesting annual earnings of £1m are the going rate for the 21-year-old star.\n\n\"He's certainly a seven-figure player,\" said Hearn, who met with Pollock on his yacht off Monaco last month, to the Daily Telegraph., external \"The way rugby's going and what Pollock is doing, his value over the next couple of years will skyrocket, and I think the value of rugby will.\"",
-        "copy": "Henry Pollock is set to demand a substantial increase on his current Northampton contract to stay at Franklin's Gardens, with agent Eddie Hearn suggesting annual earnings of £1m are the going rate for the 21-year-old star.\n\n\"He's certainly a seven-figure player,\" said Hearn, who met with Pollock on his yacht off Monaco last month, to the Daily Telegraph., external \"The way rugby's going and what Pollock is doing, his value over the next couple of years will skyrocket, and I think the value of rugby will.\"",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Ex-Wallaroos captain Hamilton signs on with Élite 1's Toulon",
-        "link": "https://www.rugbypass.com/news/ex-wallaroos-captain-hamilton-signs-on-with-elite-1s-toulon/",
-        "published": "2026-08-03T13:46:23+00:00",
-        "published_label": "Mon 03 Aug, 13:46",
-        "summary": "Former Wallaroos skipper Grace Hamilton has signed for AXA Élite 1 club Rugby Club Toulon Provence Méditerranée ahead of the 2026/27 season.",
-        "body": "Former Wallaroos skipper Grace Hamilton has signed for AXA Élite 1 club Rugby Club Toulon Provence Méditerranée ahead of the 2026/27 season. The 34-year-old back-row forward, who represented Australia at Women’s Rugby World Cup 2017 and 2021, joins the French club after a year with SG Valley RFC in Hong Kong China.\n\nHamilton has also represented the ACT Brumbies, NSW Waratahs and Melbourne Rebels in Super Rugby Women’s, as well as the Sydney Roosters and St George Illawarra Dragons in NRLW. She also enjoyed a previous spell in Élite 1 with Montpellier in 2023/24.",
-        "copy": "Former Wallaroos skipper Grace Hamilton has signed for AXA Élite 1 club Rugby Club Toulon Provence Méditerranée ahead of the 2026/27 season. The 34-year-old back-row forward, who represented Australia at Women’s Rugby World Cup 2017 and 2021, joins the French club after a year with SG Valley RFC in Hong Kong China.\n\nHamilton has also represented the ACT Brumbies, NSW Waratahs and Melbourne Rebels in Super Rugby Women’s, as well as the Sydney Roosters and St George Illawarra Dragons in NRLW. She also enjoyed a previous spell in Élite 1 with Montpellier in 2023/24.",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Make in-demand Henry Pollock a millionaire, urges Eddie Hearn",
-        "link": "https://www.rugbypass.com/news/make-in-demand-henry-pollock-a-millionaire-urges-eddie-hearn/",
-        "published": "2026-08-03T13:33:14+00:00",
-        "published_label": "Mon 03 Aug, 13:33",
-        "summary": "Pollock is in the last year of his contract at Northampton Saints.",
-        "body": "Eddie Hearn has urged Northampton Saints to offer England star Henry Pollock a new seven-figure deal to keep him at Franklin’s Gardens beyond the end of the season. Pollock, who opened talks with Saints about a new deal at the end of the last campaign as his current contract only has a year left to run, joined boxing promotor Hearn’s Matchroom Talent Agency in March and has seen his commercial value rocket over the last few months.\n\nBut because nothing was agreed by June 30th, it’s enabled rival clubs from the Gallagher PREM and Top 14 to come in and try to entice one of the games brightest talents away from the reigning PREM champions.",
-        "copy": "Eddie Hearn has urged Northampton Saints to offer England star Henry Pollock a new seven-figure deal to keep him at Franklin’s Gardens beyond the end of the season. Pollock, who opened talks with Saints about a new deal at the end of the last campaign as his current contract only has a year left to run, joined boxing promotor Hearn’s Matchroom Talent Agency in March and has seen his commercial value rocket over the last few months.\n\nBut because nothing was agreed by June 30th, it’s enabled rival clubs from the Gallagher PREM and Top 14 to come in and try to entice one of the games brightest talents away from the reigning PREM champions.",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
       }
     ],
     "Tennis": [
@@ -4292,22 +4240,35 @@
         "body": "Emma Raducanu's stress fracture will force her to miss the US Open. The British No 1 suffered the injury to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon.\n\nAccording to the Press Association, following consultation with her medical team, Raducanu has concluded she will be unable to play in New York later this month. - Not got Sky? Get Sky Sports or stream with no contract on NOW 📺",
         "copy": "Emma Raducanu's stress fracture will force her to miss the US Open. The British No 1 suffered the injury to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon.\n\nAccording to the Press Association, following consultation with her medical team, Raducanu has concluded she will be unable to play in New York later this month. - Not got Sky? Get Sky Sports or stream with no contract on NOW 📺",
         "first_seen": "2026-08-03T19:28:22.911743+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper responds after Boris Becker’s criticism",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzVsTUdqOXFSei12S2gwZU1fVm1vbENEQVRVTHBYTmp4V1AxaG4xSXV3d1BIY2Vmckc2QnZHNGpINHplZ25FdTJWbWpjLWVQbzM2Zm5US25PNnhWQkhGWUl4NGh3TGxvVXI2blJkRkdsV182ZktiM0lITHh2dFRjLUE0OEowYnA2Snpsa0hlLWFKR2VFbkRmekFjTFNoakd4cHRnNjF6bm4xektGMUYzWjBXRW1jU0k?oc=5",
-        "published": "2026-08-03T13:30:30+00:00",
-        "published_label": "Mon 03 Aug, 13:30",
-        "summary": "Jack Draper responds after Boris Becker’s criticism Tennis World USA",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "14 LIV Golf stars at risk of relegation (including major champs and Ryder Cuppers)",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWJRS2JPWHVic1kwU29HZW1Ld3JZS1VmSmFpY0g4WlZVMmxvNzZBSkMwQmhlNjJaYjBOZEY1YnNzbVZLdGp4clV0cHo1blJpbEMydTAyNmpKbGU4SGhzdnBJVlpzOEdoZEkxRGg2VHdpeXBFeU83X09YV1QxcXZZTWprMWV5MEpjX3RJbA?oc=5",
+        "published": "2026-08-10T13:36:33+00:00",
+        "published_label": "Mon 10 Aug, 13:36",
+        "summary": "14 LIV Golf stars at risk of relegation (including major champs and Ryder Cuppers) Today's Golfer",
+        "body": "In a typical LIV Golf season (if there is a such a thing), the discourse heading into the final regular event would circle around relegation-threatened players and the recruitment drive to replace them.\n\nBut even the breakaway league’s turbulent fledgling existence, this campaign has been anything but normal. The tumult began in Mexico, when it was confirmed that Saudi Arabia’s Public Investment Fund would be pulling its support from the league at the end of the season.",
+        "copy": "In a typical LIV Golf season (if there is a such a thing), the discourse heading into the final regular event would circle around relegation-threatened players and the recruitment drive to replace them.\n\nBut even the breakaway league’s turbulent fledgling existence, this campaign has been anything but normal. The tumult began in Mexico, when it was confirmed that Saudi Arabia’s Public Investment Fund would be pulling its support from the league at the end of the season.",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "7 PGA Tour stars who missed the FedEx Cup playoffs",
+        "link": "https://golf.com/news/7-pga-tour-stars-missed-fedex-cup-playoffs-2026/",
+        "published": "2026-08-10T13:24:28+00:00",
+        "published_label": "Mon 10 Aug, 13:24",
+        "summary": "The field for the first FedEx Cup playoff event is set, but it's missing several stars. Here are 7 notable pros who didn't make the playoffs. The post 7 PGA Tour stars who missed the FedEx Cup playoffs appeared first on Golf .",
+        "body": "With the Wyndham Championship now in the rearview, it’s time to begin the 2026 FedEx Cup playoffs in Memphis. But plenty of star players failed to qualify for this week’s playoff opener.\n\nOnly the top 70 in the FedEx Cup standings at the end of the Wyndham qualified for the first playoff event, the FedEx St. Jude Championship, which starts on Thursday. Everyone else is out of luck and forced to wait until the FedEx Fall events to try to improve their Tour status for next season.",
+        "copy": "With the Wyndham Championship now in the rearview, it’s time to begin the 2026 FedEx Cup playoffs in Memphis. But plenty of star players failed to qualify for this week’s playoff opener.\n\nOnly the top 70 in the FedEx Cup standings at the end of the Wyndham qualified for the first playoff event, the FedEx St. Jude Championship, which starts on Thursday. Everyone else is out of luck and forced to wait until the FedEx Fall events to try to improve their Tour status for next season.",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6569,35 +6530,48 @@
         "body": "Will Phil Mickelson play LIV Golf New York this weekend at Bedminster? The six-time major champion’s status has become a key storyline ahead of LIV Golf’s event in New Jersey, leaving fans wondering whether he’ll tee it up.\n\nThe answer is, he won’t. Mickelson will not compete at LIV Golf New York next week, extending an absence that has upended his 2026 schedule. The HyFlyers GC captain remains sidelined by, according to his representatives, a family health matter since early spring. Scott Vincent will fill his roster spot at Trump National Golf Club Bedminster.",
         "copy": "Will Phil Mickelson play LIV Golf New York this weekend at Bedminster? The six-time major champion’s status has become a key storyline ahead of LIV Golf’s event in New Jersey, leaving fans wondering whether he’ll tee it up.\n\nThe answer is, he won’t. Mickelson will not compete at LIV Golf New York next week, extending an absence that has upended his 2026 schedule. The HyFlyers GC captain remains sidelined by, according to his representatives, a family health matter since early spring. Scott Vincent will fill his roster spot at Trump National Golf Club Bedminster.",
         "first_seen": "2026-08-03T16:22:54.011417+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Rhodes and Maguire earn Solheim Cup wildcard picks",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c5ywldz3j9do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-03T14:15:08+00:00",
-        "published_label": "Mon 03 Aug, 14:15",
-        "summary": "Britain's Mimi Rhodes and Leona Maguire, of Ireland, have earned wildcard picks for Europe's Solheim Cup team to take on the United States in the Netherlands next month.",
-        "body": "Britain's Mimi Rhodes and Leona Maguire, of Ireland, have earned wildcard picks for Europe's Solheim Cup team to take on the United States in the Netherlands next month. Captain Anna Nordqvist has selected Maguire despite missing four cuts in her last six tournaments, including last week's AIG Women's Open at Royal Lytham and St Annes.\n\nThe Irishwoman has fallen to 79 in the world but has an impressive record in her three Solheim Cups to date. Rhodes, who will be making her debut, is 92nd in the world rankings and failed to make the weekend in four tournaments in a row before finishing tied 51st at last month's Scottish Open.",
-        "copy": "Britain's Mimi Rhodes and Leona Maguire, of Ireland, have earned wildcard picks for Europe's Solheim Cup team to take on the United States in the Netherlands next month. Captain Anna Nordqvist has selected Maguire despite missing four cuts in her last six tournaments, including last week's AIG Women's Open at Royal Lytham and St Annes.\n\nThe Irishwoman has fallen to 79 in the world but has an impressive record in her three Solheim Cups to date. Rhodes, who will be making her debut, is 92nd in the world rankings and failed to make the weekend in four tournaments in a row before finishing tied 51st at last month's Scottish Open.",
-        "first_seen": "2026-08-03T16:22:54.011417+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "LIV Golf",
-        "kind": "gnews",
-        "title": "LIV Golf | Official site, scores, schedule, teams and tickets",
-        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1QYW1zcWEwMzZ4Y2dwcWVlTnhXN2E3RXZGemlrczBLOWQxWUFHWUFybFVoeVg4NGxzd2FaWg?oc=5",
-        "published": "2026-08-03T14:09:36+00:00",
-        "published_label": "Mon 03 Aug, 14:09",
-        "summary": "LIV Golf | Official site, scores, schedule, teams and tickets LIV Golf",
-        "body": "Catch the build-up from every angle. Behind the scenes, player moments, and live reactions. These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\nUnder the CPRA, you have the right to opt-out of the sale or sharing of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale or sharing of personal information by using this toggle switch. If you opt out we will not be able to offer you personalized ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.",
-        "copy": "Catch the build-up from every angle. Behind the scenes, player moments, and live reactions. These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\nUnder the CPRA, you have the right to opt-out of the sale or sharing of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale or sharing of personal information by using this toggle switch. If you opt out we will not be able to offer you personalized ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.",
-        "first_seen": "2026-08-04T14:37:29.723904+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF Worlds To Use Langur Mimics To Deter Monkeys: 'You Can Laugh At The Solution But...'",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTjBlcjVKdXBjMmdVcDZSQzFseG40RFBJRTJ2VVRMNzVLci1jUWFDaU03Vl9hMnhNRm9wQmpmTk04bG9PeHBkWmpSd0tPUHpOVGx5YUVfLWlwWW5uM0xrNF9KeUNxdmxGTTVKLVdxc1FrYV9MWmxMUFhGaDB6Q2ZiUllKYTVxcE9IaUlfaWlpZHEzdkFGblJfUWc0Y05nd0FNLTgwWENKQ09taXNYRHZBRkNSQURKOUNBQzdYZFpUMjB1TE9kdm9PTmx6NWtHMkk1Y2wySldWZHDSAd4BQVVfeXFMTnlzXzd2WDJXc2RZVGpCc3VoZm5ad1d2aDJ5QnI2aVVjOEJSVmJqcl92UWlXT0ZxeUJzbVQ4U09Sa2Q0QW55elZWQ2JhZGtUZFE1VUpmaFFyS2V2RHVuQktVb0VvMXgzMXFfN3FabGFfX0lHeU5wazJTY193ZnFDZ2ZxZUdkQ3NhSEJsUEdtMEJTU1A2cmVDM1REdzBpVURCd2p6TkVpVHQwT19YY2owNjBJV0ZmaXBPT2duTjVWMFpFa2lHd0lQVmp6U3NxZlpwOUtQZUs5Y1ZHV3BPVkx3?oc=5",
+        "published": "2026-08-10T14:48:28+00:00",
+        "published_label": "Mon 10 Aug, 14:48",
+        "summary": "BWF Worlds To Use Langur Mimics To Deter Monkeys: 'You Can Laugh At The Solution But...' News18",
+        "body": "You don't have permission to access \"http://www.news18.com/sports/badminton/bwf-worlds-to-use-langur-mimics-to-deter-monkeys-you-can-laugh-at-the-solution-but-ws-l-10264558.html\" on this server.\n\nReference #18.1371ca17.1786373783.5a5d6700 https://errors.edgesuite.net/18.1371ca17.1786373783.5a5d6700",
+        "copy": "You don't have permission to access \"http://www.news18.com/sports/badminton/bwf-worlds-to-use-langur-mimics-to-deter-monkeys-you-can-laugh-at-the-solution-but-ws-l-10264558.html\" on this server.\n\nReference #18.1371ca17.1786373783.5a5d6700 https://errors.edgesuite.net/18.1371ca17.1786373783.5a5d6700",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Imported machines, non-toxic gel, double-door entries and monkey whisperers: How Delhi is bracing for BWF World Championships",
+        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbzVIMzZNcWVWQUpkWS1iOTZYZ1YtTkVMenZ2M0EwdzBzY3ZhanAwYzlXS3B6a28teTN2eGVham5xUE9MajVFUGhZc2c1YlFqTEhVZkt2N001TllwWmcwMUFEQTlCRnFtNGFTc0VFUHREX2Q0M1NJRlo3bWxqQVJSVDBXYlJKa0RaSHFTZnlnU3lDUkJoSjdDVDNYTlZPTWFpR1pRTTZYMTE0YmlTWTVRTUlmWEtpVlByRlZaTmhla1Y2ZUJaYlRKakppWnVta2dOY3ZvV21VT2FXcTJON2FQQmgxV0liXzVCeE91R3RSUGw1al80ZkdHbHpzRWdZYWFqUkQ1MC1SODJCT1E1aG9XSElPS0pOWTJ2MnM1N2JqT1Z6LWdkNlpVRg?oc=5",
+        "published": "2026-08-10T13:42:00+00:00",
+        "published_label": "Mon 10 Aug, 13:42",
+        "summary": "Imported machines, non-toxic gel, double-door entries and monkey whisperers: How Delhi is bracing for BWF World Championships The Times of India",
+        "body": ", which return to India after a 17-year gap. The objective is to host the best in world badminton, administrators from around the planet, thousands of fans and multiple VIPs starting August 17. The objective is also to ensure the pigeons and monkeys stay away, avoiding a repeat of the chaos at the India Open, earlier this year.\n\nIn January, during the India Open, pigeons halted play in the match between HS Prannoy and Loh Kean Yew. Denmark's Mia Blichfeldt strongly criticised the practice and warm-up facility's hygiene. She complained about dirty areas and bird droppings near the training courts.",
+        "copy": ", which return to India after a 17-year gap. The objective is to host the best in world badminton, administrators from around the planet, thousands of fans and multiple VIPs starting August 17. The objective is also to ensure the pigeons and monkeys stay away, avoiding a repeat of the chaos at the India Open, earlier this year.\n\nIn January, during the India Open, pigeons halted play in the match between HS Prannoy and Loh Kean Yew. Denmark's Mia Blichfeldt strongly criticised the practice and warm-up facility's hygiene. She complained about dirty areas and bird droppings near the training courts.",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BAI, SAI give IG Stadium major facelift ahead of BWF World Championships",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3hwc0E1dGF5VUljTVNQZGJvQXFvVTFSQTBfM1FMYmtGN0FqeU1lNGM4TVY1VzBCZjJNX25NZDZ5cTBScUEwcEg4b2JITmszMmJJSklRcURsWnUwS3BraklnZEpDcUhzVFMxTXVtY3Y3X2ZFUVY0X3hKZGR5WGhFTzhUVWQ1V3JqSXZzX2hILUJCRFhuLWlMU0U1SzVwYjZ6d1BHbEJ0cnljZ9IBrwFBVV95cUxOcEZVUlI5bzFqQXdJMk44cDFRajFGTjNHNENvNFlzcFhjbnNWVGt6S0k4YllkUF91ZFZ3ejFKejNuLUsyYm12NnRfdzdzakFpYTlaazFjWGVNNmhMaHJFa25zLWU1YzBNd3ZDbjBnYWh4bTdaMWlhWU9WX0Zwb29yRjJGVVNCQzhNMUtzX1JpMXFWN19RTUpYY21yb0JoNjVlMEx4cENjc1lWYWVYbjRZ?oc=5",
+        "published": "2026-08-10T12:45:23+00:00",
+        "published_label": "Mon 10 Aug, 12:45",
+        "summary": "BAI, SAI give IG Stadium major facelift ahead of BWF World Championships ThePrint",
+        "body": "New Delhi, Aug 10 (PTI) The organisers of the upcoming BWF World Championships in India have taken extensive steps to upgrade the venue, the Indira Gandhi Stadium, to avoid the embarrassment that rocked the India Open earlier this year.\n\nThe Badminton Association of India (BAI) and the Sports Authority of India (SAI) — the venue’s owner — learnt their lesson the hard way. During the India Open in January, pigeons twice halted a second-round match between HS Prannoy and Loh Kean Yew. The subsequent complaints regarding hygiene and Delhi’s smog left the BAI in a difficult position.",
+        "copy": "New Delhi, Aug 10 (PTI) The organisers of the upcoming BWF World Championships in India have taken extensive steps to upgrade the venue, the Indira Gandhi Stadium, to avoid the embarrassment that rocked the India Open earlier this year.\n\nThe Badminton Association of India (BAI) and the Sports Authority of India (SAI) — the venue’s owner — learnt their lesson the hard way. During the India Open in January, pigeons twice halted a second-round match between HS Prannoy and Loh Kean Yew. The subsequent complaints regarding hygiene and Delhi’s smog left the BAI in a difficult position.",
+        "first_seen": "2026-08-10T14:56:38.487800+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7668,5 +7642,5 @@
       }
     ]
   },
-  "total": 588
+  "total": 586
 }
