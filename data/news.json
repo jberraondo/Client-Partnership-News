@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T08:51:50.786472+00:00",
-  "generated_label": "Tuesday 11 August 2026, 08:51 UTC",
+  "generated_at": "2026-08-11T10:48:45.183991+00:00",
+  "generated_label": "Tuesday 11 August 2026, 10:48 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1441,48 +1441,61 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-05T11:59:52.520317+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Google adds PSG to growing soccer partnerships stable",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFczaFNzX0FRcTN0cGFneTZwYk1Xam0wZmlPaDYxbHZicUh3OXByUGw1ejFhazVIaVVodEI5UHhPZTdYMXNMWTY0N3JNOWtfQTUxblZRYWxBanc1TFpiUXFackQ4LTRINTRsZjNKSTY0RkZrbWxQdkRaX2s5eEhmNlo3a2JyNkhqQmhabg?oc=5",
-        "published": "2026-08-04T10:22:37+00:00",
-        "published_label": "Tue 04 Aug, 10:22",
-        "summary": "Google adds PSG to growing soccer partnerships stable Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-04T12:03:05.758739+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Berg to replace Garber as MLS commissioner in 2027",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzlnUThHc28tWTQzMjFCOUVCZmU4d0g5dmhMQTFFRjUxZGU2X01PZi1Jc0xld3lBclVBaFJCV1R3QWpieHlTcFNBR0NQVVhuNURLQXhqLUw5TXVvZ29idFFWVVpTNlhCUmVIaHlUMWNUNzJNNFYwTjZhSnV2SC1aa2RITXNoZWVL?oc=5",
-        "published": "2026-08-04T10:21:55+00:00",
-        "published_label": "Tue 04 Aug, 10:21",
-        "summary": "Berg to replace Garber as MLS commissioner in 2027 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-04T12:03:05.758739+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Tax consumption, not income or AI",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wZlFKRThiS2oxd1AzOVJoa1Z3SHo4TEN6SXR1am1uLWZPWmFta1BFR2M2ZDJQUVJEMWxZRjhZdGlicXZkVTFrT2gyNHAxWkZkck5JLW9hbGlXczJwT0NYWUNmUXd4OXVmVXM1QXA0Vlk?oc=5",
-        "published": "2026-08-04T10:00:13+00:00",
-        "published_label": "Tue 04 Aug, 10:00",
-        "summary": "Tax consumption, not income or AI Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-04T14:37:29.723904+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'The opportunity for growth is enormous': Fukofuka lands new coaching role after Scotland exit",
+        "link": "https://www.rugbypass.com/news/the-opportunity-for-growth-is-enormous-sione-fukofuka-lands-new-coaching-role-after-scotland-exit/",
+        "published": "2026-08-11T10:39:34+00:00",
+        "published_label": "Tue 11 Aug, 10:39",
+        "summary": "Eight days after his exit as Scotland head coach Sione Fukofuka has been appointed head coach of the Wallaroos.",
+        "body": "Eight days after his exit as Scotland head coach Sione Fukofuka has been appointed head coach of the Wallaroos. The 47-year-old left his role with Scotland after nearly eight months under compassionate grounds and cited ‘family stress’ as a reason for his departure from the position.\n\nAcross his five matches in charge of Scotland at the Guinness Women’s Six Nations, Fukofuka presided over one win against Wales at the beginning of the Championship. In addition to his tenure with Scotland, Fukofuka also spent time as head coach of the USA Women’s Eagles for two and a half years – who he led at Women’s Rugby World Cup 2025 – and spent three years as an assistant coach with the Wallaroos.",
+        "copy": "Eight days after his exit as Scotland head coach Sione Fukofuka has been appointed head coach of the Wallaroos. The 47-year-old left his role with Scotland after nearly eight months under compassionate grounds and cited ‘family stress’ as a reason for his departure from the position.\n\nAcross his five matches in charge of Scotland at the Guinness Women’s Six Nations, Fukofuka presided over one win against Wales at the beginning of the Championship. In addition to his tenure with Scotland, Fukofuka also spent time as head coach of the USA Women’s Eagles for two and a half years – who he led at Women’s Rugby World Cup 2025 – and spent three years as an assistant coach with the Wallaroos.",
+        "first_seen": "2026-08-11T10:48:45.183991+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Champions Northampton confirm Lee Radford successor",
+        "link": "https://www.rugbypass.com/news/champions-northampton-confirm-lee-radford-successor-jim-henry/",
+        "published": "2026-08-11T10:30:38+00:00",
+        "published_label": "Tue 11 Aug, 10:30",
+        "summary": "Northampton Saints have confirmed that Jim Henry will replace Lee Radford as their defence coach ahead of the upcoming season, as reported by RugbyPass in June.",
+        "body": "Northampton Saints have confirmed that Jim Henry will replace Lee Radford as their defence coach ahead of the upcoming season, as reported by RugbyPass in June. Henry has been promoted from his role as forwards transition coach after Radford departed Saints to take up a full-time position with Scotland, which was confirmed in October.\n\nHenry joined Saints ahead of the 2022/23 campaign after coaching at Loughborough University and has worked closely with the club’s hookers, lineout and breakdown. He has also led the defensive programme during Premiership Rugby Cup campaigns in recent seasons.",
+        "copy": "Northampton Saints have confirmed that Jim Henry will replace Lee Radford as their defence coach ahead of the upcoming season, as reported by RugbyPass in June. Henry has been promoted from his role as forwards transition coach after Radford departed Saints to take up a full-time position with Scotland, which was confirmed in October.\n\nHenry joined Saints ahead of the 2022/23 campaign after coaching at Loughborough University and has worked closely with the club’s hookers, lineout and breakdown. He has also led the defensive programme during Premiership Rugby Cup campaigns in recent seasons.",
+        "first_seen": "2026-08-11T10:48:45.183991+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Guilherme Coghetto establishes main Yaras goal: Women's Rugby World Cup 2029 qualification",
+        "link": "https://www.rugbypass.com/news/guilherme-coghetto-establishes-main-yaras-goal-womens-rugby-world-cup-2029-qualification/",
+        "published": "2026-08-11T09:27:56+00:00",
+        "published_label": "Tue 11 Aug, 09:27",
+        "summary": "With Women's Rugby World Cup 2025 already far gone in the rear window mirror, the Yaras have, for the last two months, quietly adjusted and tweaked themselves ahead of the WXV Global Series Challenger.",
+        "body": "With Women’s Rugby World Cup 2025 already far gone in the rear window mirror, the Yaras have, for the last two months, quietly adjusted and tweaked themselves ahead of the WXV Global Series Challenger.\n\nNow under the guidance of Guilherme Coghetto, recently appointed head coach of Brazil’s women’s national team, the Yaras are looking to the future, as he explains. “The 2025 World Cup will always be a wonderful moment in our history, but we need to look forward and keep growing. If we want to win a game in a World Cup, we need to be more competitive, and for that the team needs to increase its output, be it physical, technical and psychological.”",
+        "copy": "With Women’s Rugby World Cup 2025 already far gone in the rear window mirror, the Yaras have, for the last two months, quietly adjusted and tweaked themselves ahead of the WXV Global Series Challenger.\n\nNow under the guidance of Guilherme Coghetto, recently appointed head coach of Brazil’s women’s national team, the Yaras are looking to the future, as he explains. “The 2025 World Cup will always be a wonderful moment in our history, but we need to look forward and keep growing. If we want to win a game in a World Cup, we need to be more competitive, and for that the team needs to increase its output, be it physical, technical and psychological.”",
+        "first_seen": "2026-08-11T10:48:45.183991+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'The phoney war on the Greatest Rivalry tour is already gale-force in its intensity.'",
+        "link": "https://www.rugbypass.com/plus/the-phoney-war-on-the-greatest-rivalry-tour-is-already-gale-force-in-its-intensity/",
+        "published": "2026-08-11T08:56:05+00:00",
+        "published_label": "Tue 11 Aug, 08:56",
+        "summary": "A clash of styles is at the heart of The Greatest Rivalry and whoever prevails will set the tone for the short-term future of rugby",
+        "body": "Are you sitting comfortably? Then I’ll begin with a story from a different era of rugby over 40 years ago, well before the advent of professionalism. A well-known, but highly-respected referee had just finished managing a Five Nations match between England and Ireland, in which he had kept the game flowing and penalized only the offences which were absolutely necessary.\n\nAt the dinner after the game, England captain and future World Rugby chair Bill Beaumont got up to speak: “I don’t normally do this… but I want to start by complimenting the referee for an exceptional performance. He was the best man on the field by far, and he deserved the man-of-the match award.” Cue a few guffaws from the suits. It was one of many pats on the back the official received after the game, from players and coaches alike.",
+        "copy": "Are you sitting comfortably? Then I’ll begin with a story from a different era of rugby over 40 years ago, well before the advent of professionalism. A well-known, but highly-respected referee had just finished managing a Five Nations match between England and Ireland, in which he had kept the game flowing and penalized only the offences which were absolutely necessary.\n\nAt the dinner after the game, England captain and future World Rugby chair Bill Beaumont got up to speak: “I don’t normally do this… but I want to start by complimenting the referee for an exceptional performance. He was the best man on the field by far, and he deserved the man-of-the match award.” Cue a few guffaws from the suits. It was one of many pats on the back the official received after the game, from players and coaches alike.",
+        "first_seen": "2026-08-11T10:48:45.183991+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -1687,8 +1700,8 @@
         "published": "2026-08-10T14:23:31+00:00",
         "published_label": "Mon 10 Aug, 14:23",
         "summary": "Bath's last two home games of the season to be played away from The Rec as part of an accelerated construction plan for the club's new stadium.",
-        "body": "Bath's last two home games of the season will be played away from The Rec as part of an accelerated construction plan for the club's new stadium. The new timeline, which is aimed at completing the revamped stadium for Bath in time for the start of the 2028/9 season, will see the games against Harlequins on the weekend of May 15 and Saracens on June 5 moved.\n\nShould Bath secure a home semi-final, as they have done for the past three seasons, this will also have to be taken on the road. \"We are in discussion with alternative host venues, and we will update you once the location for these fixtures is confirmed,\" Bath chief executive Tarquin McDonald wrote in an open letter to club supporters, external.",
-        "copy": "Bath's last two home games of the season will be played away from The Rec as part of an accelerated construction plan for the club's new stadium. The new timeline, which is aimed at completing the revamped stadium for Bath in time for the start of the 2028/9 season, will see the games against Harlequins on the weekend of May 15 and Saracens on June 5 moved.\n\nShould Bath secure a home semi-final, as they have done for the past three seasons, this will also have to be taken on the road. \"We are in discussion with alternative host venues, and we will update you once the location for these fixtures is confirmed,\" Bath chief executive Tarquin McDonald wrote in an open letter to club supporters, external.",
+        "body": "Bath's last two home games of the season will be played away from The Rec as part of an accelerated construction plan for the club's new stadium. The new timeline, which is aimed at completing the revamped stadium for Bath in time for the start of the 2028-29 season, will see the games against Harlequins on the weekend of 15 May and Saracens on 5 June moved.\n\nShould Bath secure a home semi-final, as they have done for the past three seasons, this will also have to be taken on the road. \"We are in discussion with alternative host venues, and we will update you once the location for these fixtures is confirmed,\" Bath chief executive Tarquin McDonald wrote in an open letter to club supporters, external.",
+        "copy": "Bath's last two home games of the season will be played away from The Rec as part of an accelerated construction plan for the club's new stadium. The new timeline, which is aimed at completing the revamped stadium for Bath in time for the start of the 2028-29 season, will see the games against Harlequins on the weekend of 15 May and Saracens on 5 June moved.\n\nShould Bath secure a home semi-final, as they have done for the past three seasons, this will also have to be taken on the road. \"We are in discussion with alternative host venues, and we will update you once the location for these fixtures is confirmed,\" Bath chief executive Tarquin McDonald wrote in an open letter to club supporters, external.",
         "first_seen": "2026-08-10T14:56:38.487800+00:00"
       },
       {
@@ -3393,32 +3406,6 @@
         "body": "Fiji hooker Zuriel Togiatama has signed for Newcastle Red Bulls on an initial one-year deal, with the Gallagher PREM’s most northerly outfit now having recruited a whole new matchday squad of players.\n\nThe 27-year-old, who becomes the Red Bulls’ 23rd signing, has been capped 14 times by his country and arrives from Super Rugby side Fijian Drua, for whom he has played 50 times.",
         "copy": "Fiji hooker Zuriel Togiatama has signed for Newcastle Red Bulls on an initial one-year deal, with the Gallagher PREM’s most northerly outfit now having recruited a whole new matchday squad of players.\n\nThe 27-year-old, who becomes the Red Bulls’ 23rd signing, has been capped 14 times by his country and arrives from Super Rugby side Fijian Drua, for whom he has played 50 times.",
         "first_seen": "2026-08-04T12:03:05.758739+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Two Englishmen on referee panel for Greatest Rivalry Series",
-        "link": "https://www.rugbypass.com/news/two-englishmen-on-referee-panel-for-greatest-rivalry-series/",
-        "published": "2026-08-04T10:01:55+00:00",
-        "published_label": "Tue 04 Aug, 10:01",
-        "summary": "A four-strong referee panel has been named for the Gretest Rivalry Series, including the four provincial tour matches.",
-        "body": "The four referees for the Greatest Rivalry Series between South Africa and New Zealand have been announced by World Rugby, with Matt Carley taking charge of the first Test at Ellis Park in Johannesburg on 22 August.\n\nGroundbreaking Georgian official Nika Amashukeli has been handed the second Test at the DHL Stadium Cape Town a week later, while Australian official Angus Gardner will run the rule over the third Test, which takes place at the FNB Stadium in Johannesburg on 5 September.",
-        "copy": "The four referees for the Greatest Rivalry Series between South Africa and New Zealand have been announced by World Rugby, with Matt Carley taking charge of the first Test at Ellis Park in Johannesburg on 22 August.\n\nGroundbreaking Georgian official Nika Amashukeli has been handed the second Test at the DHL Stadium Cape Town a week later, while Australian official Angus Gardner will run the rule over the third Test, which takes place at the FNB Stadium in Johannesburg on 5 September.",
-        "first_seen": "2026-08-04T10:08:57.239697+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "South African rugby 'family secret' adds extra spice to Boks vs All Blacks series",
-        "link": "https://www.rugbypass.com/news/conspiracy-theory-resurfaces-to-add-extra-spice-to-boks-vs-all-blacks-series/",
-        "published": "2026-08-04T09:01:25+00:00",
-        "published_label": "Tue 04 Aug, 09:01",
-        "summary": "Great rivalries need more than close matches. They need inherited grievance, disputed memories and old wounds that can be pressed for fun. They need a little bad blood.",
-        "body": "Does your family have a secret? A rumour that, if it were true, would shatter relationships? Perhaps an extra-marital affair or a link to organised crime. Maybe your uncle really is a gambling addict. What if your gran really did embezzle from that nursing home?\n\nBest not to think about it. No need to air the dirty laundry. Pour yourself another drink and make small talk with your cousins. Why let the truth get in the way of a good time?",
-        "copy": "Does your family have a secret? A rumour that, if it were true, would shatter relationships? Perhaps an extra-marital affair or a link to organised crime. Maybe your uncle really is a gambling addict. What if your gran really did embezzle from that nursing home?\n\nBest not to think about it. No need to air the dirty laundry. Pour yourself another drink and make small talk with your cousins. Why let the truth get in the way of a good time?",
-        "first_seen": "2026-08-04T10:08:57.239697+00:00"
       }
     ],
     "Tennis": [
@@ -4006,35 +3993,22 @@
         "body": "Emma Raducanu will not play the 2026 US Open. The 2021 champion is still suffering from a stress fracture that had already forced her to withdraw from Wimbledon. Interviewed by Sky Sports Tennis, former British player Annabel Croft (world No. 24 at her peak) lamented the many physical setbacks Raducanu has faced since the start of her career.\n\n“She has really had a lot of bad luck with injuries throughout her career. We must not forget that she had wrist surgery, she had foot problems, and now she has to deal with this stress fracture.”",
         "copy": "Emma Raducanu will not play the 2026 US Open. The 2021 champion is still suffering from a stress fracture that had already forced her to withdraw from Wimbledon. Interviewed by Sky Sports Tennis, former British player Annabel Croft (world No. 24 at her peak) lamented the many physical setbacks Raducanu has faced since the start of her career.\n\n“She has really had a lot of bad luck with injuries throughout her career. We must not forget that she had wrist surgery, she had foot problems, and now she has to deal with this stress fracture.”",
         "first_seen": "2026-08-04T14:37:29.723904+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "What time is Draper v Atmane? How to watch Montreal match",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUprZmVEdEhmWWtUM25PdDk1WDVfSDNfbW9XeW9ET2VQWTJNd2R1MVQxejZZR3dsTzJ2R1lRUUd6aEE3RzNFWVZNWU5qNzEyYkZOT2c5TVhkZGlmR0hfbW84UUZSYWpabzVpUzdNWjBRXzRCT29NVTVFa1BYaFdGWGtac3Bab2lBMm5Mc0ZZOFFxdlFWdVVMa0V0ZnpabkZRaTY0aWtERENoXzhwcHVVSU9HWQ?oc=5",
-        "published": "2026-08-04T10:35:00+00:00",
-        "published_label": "Tue 04 Aug, 10:35",
-        "summary": "What time is Draper v Atmane? How to watch Montreal match The Independent",
-        "body": "Britain’s Jack Draper returns to action in Montreal after an injury-disrupted summer as he hopes to put a difficult year behind him. The 24-year-old has been awarded a wildcard at the National Bank Open, where he will open against Terence Atmane.\n\nDraper hopes to play at the US Open, where he will most likely need to go through qualifying, after his world ranking crashed from a career-high No 4 down to No 147 following a series of injuries.",
-        "copy": "Britain’s Jack Draper returns to action in Montreal after an injury-disrupted summer as he hopes to put a difficult year behind him. The 24-year-old has been awarded a wildcard at the National Bank Open, where he will open against Terence Atmane.\n\nDraper hopes to play at the US Open, where he will most likely need to go through qualifying, after his world ranking crashed from a career-high No 4 down to No 147 following a series of injuries.",
-        "first_seen": "2026-08-04T12:03:05.758739+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Jack Draper: Former world No 4 calls for patience amid 'perfect storm' of injuries ahead of possible US Open return",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWWF3WlJGN3dyc2NfVFk5ZkZUQ0FfbmIza0tQX3pOaU4tZVVONGxVQjUwRFNyLTBtd0VQaFlsMzZfbk5XMHNjeTZNMVlab0VKbnZwT0Y0S0JpTTdwcUxwVEFSdVFoZERveWxTTlIxUDNab0tBUmY1WWprNVpSbmYwTEhuUU5PVHk1TEgxR0hTTzhpQ1BTOHB1cnMweFlfaDNjdTJSTHVaUEtHYUxuTXpCUVNEbFpQOUU5VktHTE5ZWlFleGM5azU1OEVyamlWN01reHlvTFR3ZG53NXZwZHRMclBnTTNoN2o4SGtvbkt2WjJrMlZud3lpMw?oc=5",
-        "published": "2026-08-04T10:08:46+00:00",
-        "published_label": "Tue 04 Aug, 10:08",
-        "summary": "Jack Draper: Former world No 4 calls for patience amid 'perfect storm' of injuries ahead of possible US Open return Sky Sports",
-        "body": "Jack Draper has called for his fans to be patient with his return after the former world No 4 withdrew from the DC Open with an arm injury. Draper, did not participate in any of the three 2026 Grand Slams, but has been given a wild card for the National Bank Open in Montreal ahead of a qualification campaign for the US Open after his ranking dropped to world No 147.\n\nHe is set to return to action against Frenchman Terrance Atmane, live on Sky Sports Tennis, with the match rescheduled to Tuesday evening due to rain in Montreal on Monday. - Not got Sky? Get Sky Sports or stream with no contract on NOW 📺",
-        "copy": "Jack Draper has called for his fans to be patient with his return after the former world No 4 withdrew from the DC Open with an arm injury. Draper, did not participate in any of the three 2026 Grand Slams, but has been given a wild card for the National Bank Open in Montreal ahead of a qualification campaign for the US Open after his ranking dropped to world No 147.\n\nHe is set to return to action against Frenchman Terrance Atmane, live on Sky Sports Tennis, with the match rescheduled to Tuesday evening due to rain in Montreal on Monday. - Not got Sky? Get Sky Sports or stream with no contract on NOW 📺",
-        "first_seen": "2026-08-05T08:32:45.796329+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau's team golf vision ripped to shreds: \"What does he think is going to happen?\"",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2VuTUZPTDdHUzhkOEprZTdsQnkxclRDOGhqNnZrYjdSYmxtWUZVZkdjVW9RUUFLLWtVZ1FzMWM0T0VvUlg1TkM2SVN0TWFWVG5fblc0VUQtMngzSUN3ai1Pa1FiZFNBRXJBNFF6RnBZNU9DRE9MN194eXRQNEVNMkdyVnJEbkdvdXRaTXVULWZMVGxfY2lOVzNraHZBRTl4U2ZaSzNaRXdId1lIdmNjbHR2dkc5bnBvNUx4QmRn?oc=5",
+        "published": "2026-08-11T09:45:26+00:00",
+        "published_label": "Tue 11 Aug, 09:45",
+        "summary": "Bryson DeChambeau's team golf vision ripped to shreds: \"What does he think is going to happen?\" golfmagic.com",
+        "body": "Bryson DeChambeau's aspirations for team golf are too far-fetched, according to Dan Rapaport. DeChambeau, 32, told The New York Post last week that his \"ultimate goal\" would be for each LIV Golf team to have their own course and stadium.\n\nThe American also revealed he hopes to play tournaments on the PGA Tour again while still competing on LIV should it survive beyond 2026. Rapaport told the latest edition of Dan on Golf that it doesn't hurt to \"dream big\" but doesn't believe DeChambeau's idea is possible.",
+        "copy": "Bryson DeChambeau's aspirations for team golf are too far-fetched, according to Dan Rapaport. DeChambeau, 32, told The New York Post last week that his \"ultimate goal\" would be for each LIV Golf team to have their own course and stadium.\n\nThe American also revealed he hopes to play tournaments on the PGA Tour again while still competing on LIV should it survive beyond 2026. Rapaport told the latest edition of Dan on Golf that it doesn't hurt to \"dream big\" but doesn't believe DeChambeau's idea is possible.",
+        "first_seen": "2026-08-11T10:48:45.183991+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6257,35 +6231,22 @@
         "body": "Captain Jon Rahm leads Legion XIII into Trump National Golf Club Bedminster, which might prove to be one of the season’s toughest tests. As LIV Golf heads to Trump National Golf Club Bedminster for LIV Golf New York, the stage is set for the 11th stop on the 2026 schedule. It's been nearly three years since the league's last visit to Bedminster, and 33 players from that 2023 field return to a course that has only gotten tougher. The total yardage has been stretched by more than 125 yards, with new back tees adding length to the ninth, 13th and 16th holes.\n\nTrump National Bedminster opened in 2004 under the design of Tom Fazio and has been ranked among the top 100 courses in America by Golf magazine. At 7,651 yards and playing to a par of 71, it's the second-longest course the league has played this season, trailing only Trump National Washington D.C. The course previously hosted LIV Golf events in 2022 and 2023, with Henrik Stenson and 4Aces GC taking the individual and team titles in the first year, and Cameron Smith and Ripper GC sweeping both trophies in the second.",
         "copy": "Captain Jon Rahm leads Legion XIII into Trump National Golf Club Bedminster, which might prove to be one of the season’s toughest tests. As LIV Golf heads to Trump National Golf Club Bedminster for LIV Golf New York, the stage is set for the 11th stop on the 2026 schedule. It's been nearly three years since the league's last visit to Bedminster, and 33 players from that 2023 field return to a course that has only gotten tougher. The total yardage has been stretched by more than 125 yards, with new back tees adding length to the ninth, 13th and 16th holes.\n\nTrump National Bedminster opened in 2004 under the design of Tom Fazio and has been ranked among the top 100 courses in America by Golf magazine. At 7,651 yards and playing to a par of 71, it's the second-longest course the league has played this season, trailing only Trump National Washington D.C. The course previously hosted LIV Golf events in 2022 and 2023, with Henrik Stenson and 4Aces GC taking the individual and team titles in the first year, and Cameron Smith and Ripper GC sweeping both trophies in the second.",
         "first_seen": "2026-08-04T12:03:05.758739+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Report: LIV Golf staff told their employment will be terminated in early September",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTG4wenpyVkh4Tl8yc1dNN1JFX3dPSU8tQ1dKTFV6SnJVODhFbG5EUjRkY2pBc01Ea0dkMXFqN0w3ellvb2pHN1QxaUJ6NXA5NGRwTGMwcnJDMzFNdjJld1czeTQ5emgzSnAyWFdBZTV5a19ZU09saXlJXzVFTzBCQWV3TWZ1dUE3MzF2eEJTaDQ1UWVlcTdvb0VPS1Bjc3JtZm9YNEN4TlpRU2FmdUw5VjJ2dy1kbklKQXc?oc=5",
-        "published": "2026-08-04T09:46:52+00:00",
-        "published_label": "Tue 04 Aug, 09:46",
-        "summary": "Report: LIV Golf staff told their employment will be terminated in early September Golfmagic",
-        "body": "A large number of LIV Golf staff and contractors have reportedly been told their employment will be terminated in early September. According to FlushingIt, emails sent on Monday informed recipients they had been given 30 days' notice, with their employment set to end early next month.\n\nIt was sent days before LIV's stop in Bedminster, New York. The report said the notices were issued to a significant number of staff and contractors across the organisation, although the exact scale of the workforce reductions has not been disclosed.",
-        "copy": "A large number of LIV Golf staff and contractors have reportedly been told their employment will be terminated in early September. According to FlushingIt, emails sent on Monday informed recipients they had been given 30 days' notice, with their employment set to end early next month.\n\nIt was sent days before LIV's stop in Bedminster, New York. The report said the notices were issued to a significant number of staff and contractors across the organisation, although the exact scale of the workforce reductions has not been disclosed.",
-        "first_seen": "2026-08-04T12:03:05.758739+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf New York 2026: Prize money payout in full",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjZmZUtGYzFENEhnblR1Qm0zR1VkbmxtVnllQklYRld1ZUREYkY4c192NzRfR05wOC1BV3FvRDFBX2pOemxDdzRKem1NOFE3UzN5T2VMTTMyaHFteGsyNWFzOEFyd1dMOFZ2QXoydnVUcmtnaC1FYV84VG1VeWt3eXUySUROdDBhTGhhX1E2RGk?oc=5",
-        "published": "2026-08-04T09:21:18+00:00",
-        "published_label": "Tue 04 Aug, 09:21",
-        "summary": "LIV Golf New York 2026: Prize money payout in full bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf returns heads back to the United States for LIV Golf New York this week.\n\nTrump National Golf Club Bedminster plays host for the third time as Jon Rahm closes in on the Individual Championship. Meanwhile, Lucas Herbert comes into the event in fine form, after a record setting 30-under-par winning score at LIV Golf UK.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf returns heads back to the United States for LIV Golf New York this week.\n\nTrump National Golf Club Bedminster plays host for the third time as Jon Rahm closes in on the Individual Championship. Meanwhile, Lucas Herbert comes into the event in fine form, after a record setting 30-under-par winning score at LIV Golf UK.",
-        "first_seen": "2026-08-04T14:37:29.723904+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Women’s Doubles: Top Five Pairs to Watch",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWs3MzktTzIweENsYlV3N2J3UmlGM2xQbnlHMEJNa2trVE5aYmQyRWJRdU51Zkh6WXhPaFB1ZlVTbGU5VjFUOU5RanBBc0pJa2d2WVdOZlVBR25Id2Q1cmh2VHAta0pyamdOQUpUYm1RYUtFUGdaeGVJVkg0aDVvVi1jSld5ODEwNGtDRnA3R1l6MEMtZWVLNlB2TGR4d1JDcUE?oc=5",
+        "published": "2026-08-11T10:40:56+00:00",
+        "published_label": "Tue 11 Aug, 10:40",
+        "summary": "Women’s Doubles: Top Five Pairs to Watch BWF World Tour",
+        "body": "Since China started competing at the BWF World Championships, they have won all but three women’s doubles gold medals. Heading into New Delhi, China have won the event at the last four editions.\n\nLeading the charge will be defending champions Liu Sheng Shu/Tan Ning. With fourth seeds Jia Yi Fan/Zhang Shu Xian and eighth seeds Li Yi Jing/Luo Xu Min also in contention, it will be a hard task for any of their opponents to deny China.",
+        "copy": "Since China started competing at the BWF World Championships, they have won all but three women’s doubles gold medals. Heading into New Delhi, China have won the event at the last four editions.\n\nLeading the charge will be defending champions Liu Sheng Shu/Tan Ning. With fourth seeds Jia Yi Fan/Zhang Shu Xian and eighth seeds Li Yi Jing/Luo Xu Min also in contention, it will be a hard task for any of their opponents to deny China.",
+        "first_seen": "2026-08-11T10:48:45.183991+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7473,5 +7434,5 @@
       }
     ]
   },
-  "total": 573
+  "total": 570
 }
