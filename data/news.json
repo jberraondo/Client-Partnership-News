@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T14:56:16.727322+00:00",
-  "generated_label": "Tuesday 11 August 2026, 14:56 UTC",
+  "generated_at": "2026-08-11T16:57:14.984763+00:00",
+  "generated_label": "Tuesday 11 August 2026, 16:57 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "Why Birmingham Phoenix chose strategy over cash in the Hundred’s franchise sell-off",
+        "link": "https://www.sportspro.com/analysis/finance-investment/birmingham-phoenix-chose-strategy-over-cash-in-hundreds-franchise-sell-off/",
+        "published": "2026-08-11T15:48:16+00:00",
+        "published_label": "Tue 11 Aug, 15:48",
+        "summary": "The 2026 season marks the first time the impact of the Hundred’s new team owners has been clearly visible across the ECB’s 100-ball cricket competition. While some franchises have traded elements of their identity for investment, Warwickshire CEO Stuart Cain explains why Birmingham’s brand and long-term interests were always non-negotiable. The post Why Birmingham Phoenix chose strategy over cash in the Hundred’s franchise sell-off appeared first on SportsPro .",
+        "body": "The sixth edition of the Hundred is by far and away the most significant campaign of the 100-ball franchise cricket competition since it debuted five years ago. The 2026 season is the first since the England and Wales Cricket Board (ECB) permitted outside investment into its eight constituent franchises, a process which has raised UK£500 million that will be used to shore up the grassroots and county game.\n\nInvestors include some of the biggest technology companies in the world, private equity firms, and the backers of Indian Premier League (IPL) teams. The off-season has been marked by rebranding exercises, greater outlays on playing staff, and a shift from centralised governance that has put more power into the hands of individual franchises, including the ability to secure their own sponsorship agreements.",
+        "copy": "The sixth edition of the Hundred is by far and away the most significant campaign of the 100-ball franchise cricket competition since it debuted five years ago. The 2026 season is the first since the England and Wales Cricket Board (ECB) permitted outside investment into its eight constituent franchises, a process which has raised UK£500 million that will be used to shore up the grassroots and county game.\n\nInvestors include some of the biggest technology companies in the world, private equity firms, and the backers of Indian Premier League (IPL) teams. The off-season has been marked by rebranding exercises, greater outlays on playing staff, and a shift from centralised governance that has put more power into the hands of individual franchises, including the ability to secure their own sponsorship agreements.",
+        "first_seen": "2026-08-11T16:57:14.984763+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "SportsPro",
@@ -1467,48 +1480,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-05T08:32:45.796329+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Wall Street’s insurance takeover presents circular risks and rewards",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcG04a2lNN2pScVQ0YTZtNFE1MDQ2UUQ4XzQ3UUlILUlLOWY0cHcyZEZ4RGp6bjF2SXcyRmJJajhJcTA3dFJNWjJOT212emoxMVpBRng4WUt4QXNlQmxCQ3FOTXZsUUJGWmI1RUM4dU5FWGJiVkJfNmVpRmFxeXZNU29qUUg?oc=5",
-        "published": "2026-08-04T15:53:02+00:00",
-        "published_label": "Tue 04 Aug, 15:53",
-        "summary": "Wall Street’s insurance takeover presents circular risks and rewards Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-04T19:29:07.271065+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Allstate becomes ninth LA28 founding partner",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYy1IR2VNVlBzTFFWZXdqUG5XbzhudEdSUmM2RHlfdF9LVXRsX09fLUo1Y3JvQzd0cklVdTZtYy04a2l6NG03WnJpX2ItNzhfeVZWcjcyR0ludk15dUhLNGhyRGFlcDQzVU9xQlVYSkNOTWNwUk1rRFo0ZlExRXN4Mg?oc=5",
-        "published": "2026-08-04T15:21:57+00:00",
-        "published_label": "Tue 04 Aug, 15:21",
-        "summary": "Allstate becomes ninth LA28 founding partner Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-04T17:46:42.299171+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "CDW retained as Ryder Cup IT services supplier for 2027",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnBlV1E1UEZMOXRnekxfUktyNGV3aTZFQ1NCdUtVS2J4Yll4a2pTdkxkYkxYQUIxa1B4Qy1Od0RKR2xLckkyUGpvdnBmdXVabGlOZGJELVFVUlFYd3BjODR3R2NjZ3dNcl9zbTBaSllLU1M3dlNwSzRCMGFnT2ZyUjZEVk52Uk5YY2xYM2s3MA?oc=5",
-        "published": "2026-08-04T15:21:57+00:00",
-        "published_label": "Tue 04 Aug, 15:21",
-        "summary": "CDW retained as Ryder Cup IT services supplier for 2027 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-04T17:46:42.299171+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "JP Pietersen lifts lid on Nonu's role at Sharks and how the Boks will benefit",
+        "link": "https://www.rugbypass.com/news/jp-pietersen-lifts-lid-on-maa-nonus-role-at-sharks-and-how-the-springboks-will-benefit-all-blacks/",
+        "published": "2026-08-11T15:54:52+00:00",
+        "published_label": "Tue 11 Aug, 15:54",
+        "summary": "Sharks head coach JP Pietersen has praised legendary All Black Ma'a Nonu for the impact he has had on the younger members of the squad, with the 44-year-old set to make his debut on Tuesday against the All Blacks.",
+        "body": "Sharks head coach JP Pietersen has praised legendary All Black Ma’a Nonu for the impact he has had on the younger members of the squad, with the 44-year-old set to make his debut on Tuesday against the All Blacks.\n\nThe 103-cap New Zealand international joined the United Rugby Championship in a “high-performance mentorship” role in July, and has been named on the bench to play his former side in the second match of their Greatest Rivalry tour at Hollywoodbets Kings Park on Tuesday.",
+        "copy": "Sharks head coach JP Pietersen has praised legendary All Black Ma’a Nonu for the impact he has had on the younger members of the squad, with the 44-year-old set to make his debut on Tuesday against the All Blacks.\n\nThe 103-cap New Zealand international joined the United Rugby Championship in a “high-performance mentorship” role in July, and has been named on the bench to play his former side in the second match of their Greatest Rivalry tour at Hollywoodbets Kings Park on Tuesday.",
+        "first_seen": "2026-08-11T16:57:14.984763+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Aseza Hele: 'You don't know how much you will miss that jersey'",
+        "link": "https://www.rugbypass.com/news/aseza-hele-you-dont-know-how-much-you-will-miss-that-jersey/",
+        "published": "2026-08-11T15:00:39+00:00",
+        "published_label": "Tue 11 Aug, 15:00",
+        "summary": "Aseza Hele had a long wait between her 32nd and 33rd Test caps for the Springbok Women.",
+        "body": "Aseza Hele had a long wait between her 32nd and 33rd Test caps for the Springbok Women. Before last weekend’s 55-12 win over the Fijiana XV in Suva, the last time the back-row wore a green and gold jersey was in the team’s quarter-final exit against the Black Ferns at Women’s Rugby World Cup 2025.\n\nA hand injury that required surgery meant that Hele missed out on a chunk of the Pick n Pay Women’s Super League 1 campaign and the two Test series against the USA Women’s Eagles in July.",
+        "copy": "Aseza Hele had a long wait between her 32nd and 33rd Test caps for the Springbok Women. Before last weekend’s 55-12 win over the Fijiana XV in Suva, the last time the back-row wore a green and gold jersey was in the team’s quarter-final exit against the Black Ferns at Women’s Rugby World Cup 2025.\n\nA hand injury that required surgery meant that Hele missed out on a chunk of the Pick n Pay Women’s Super League 1 campaign and the two Test series against the USA Women’s Eagles in July.",
+        "first_seen": "2026-08-11T16:57:14.984763+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3432,32 +3432,6 @@
         "body": "Reading Time: 2min | Tue. 04.08.26. | 21:02 Western Region champions Bokoli Boys produced one of the standout performances of the quarterfinals by defeating Rift Valley champions St. Anthony's Kitale\n\nDefending champions Kinale Girls remained firmly on course to retain their Kenya Secondary Schools Sports Association (KSSSA) rugby sevens title, while unbeaten Upper Hill School continued their impressive run into the boys' semifinals after another commanding victory at the M-Pesa Foundation Academy.",
         "copy": "Reading Time: 2min | Tue. 04.08.26. | 21:02 Western Region champions Bokoli Boys produced one of the standout performances of the quarterfinals by defeating Rift Valley champions St. Anthony's Kitale\n\nDefending champions Kinale Girls remained firmly on course to retain their Kenya Secondary Schools Sports Association (KSSSA) rugby sevens title, while unbeaten Upper Hill School continued their impressive run into the boys' semifinals after another commanding victory at the M-Pesa Foundation Academy.",
         "first_seen": "2026-08-04T19:29:07.271065+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Why £1m-a-season deal will be hard for Pollock and Hearn to find",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckg4y9ylr77o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-04T16:29:15+00:00",
-        "published_label": "Tue 04 Aug, 16:29",
-        "summary": "Salary cap regulations might not be high on everyone's holiday reading list, but Eddie Hearn might be interested if he's keen to get Henry Pollock's £1m pay-day.",
-        "body": "Salary cap regulations might not be high on everyone's holiday reading list, but agent Eddie Hearn might be interested if he's keen to get Henry Pollock's £1m pay-day. The Prem salary cap is currently £6.4m per club. In basic terms, your whole squad's salaries have to add up to £6.4m or less.\n\nThere's an outside chance the Northampton back row could get a salary of £1m next season, if a club out there has that amount of space in the cap. The only team thought to be in this bracket, according to the last published salary cap report in 2024-25, would be Newcastle.",
-        "copy": "Salary cap regulations might not be high on everyone's holiday reading list, but agent Eddie Hearn might be interested if he's keen to get Henry Pollock's £1m pay-day. The Prem salary cap is currently £6.4m per club. In basic terms, your whole squad's salaries have to add up to £6.4m or less.\n\nThere's an outside chance the Northampton back row could get a salary of £1m next season, if a club out there has that amount of space in the cap. The only team thought to be in this bracket, according to the last published salary cap report in 2024-25, would be Newcastle.",
-        "first_seen": "2026-08-04T17:46:42.299171+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Tide turns as released Ospreys rugby player discovers new sport",
-        "link": "https://www.rugbypass.com/news/tide-turns-as-released-ospreys-rugby-player-discovers-new-sport/",
-        "published": "2026-08-04T14:56:45+00:00",
-        "published_label": "Tue 04 Aug, 14:56",
-        "summary": "Former Ospreys lock Will Greatbanks has revealed that he is quitting rugby to pursue his dream job in yachting.",
-        "body": "Former Ospreys lock Will Greatbanks has revealed that he is quitting rugby to pursue his dream job in yachting, with ambitions to become the captain of a multi-million-pound Superyacht.\n\nGreatbanks, 23, was one of 10 departures announced by the Ospreys at the end of last season after making seven appearances for the region. Last season, his only apperance was a 12-minute cameo in the United Rugby Championship defeat to Edinburgh.",
-        "copy": "Former Ospreys lock Will Greatbanks has revealed that he is quitting rugby to pursue his dream job in yachting, with ambitions to become the captain of a multi-million-pound Superyacht.\n\nGreatbanks, 23, was one of 10 departures announced by the Ospreys at the end of last season after making seven appearances for the region. Last season, his only apperance was a 12-minute cameo in the United Rugby Championship defeat to Edinburgh.",
-        "first_seen": "2026-08-04T17:46:42.299171+00:00"
       }
     ],
     "Tennis": [
@@ -4018,19 +3992,6 @@
         "summary": "Emma Raducanu: British No 1 could end her season after US Open withdrawal with stress fracture Sky Sports",
         "body": "Emma Raducanu could benefit from ending her season early to focus on recovery and secure a protected ranking before making her return in 2027, according to former British No 1 Annabel Croft.\n\nThe 23-year-old suffered a stress fracture to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon. And following consultation with her medical team, Raducanu on Monday concluded she will be unable to play at the US Open later this month - live on Sky Sports.",
         "copy": "Emma Raducanu could benefit from ending her season early to focus on recovery and secure a protected ranking before making her return in 2027, according to former British No 1 Annabel Croft.\n\nThe 23-year-old suffered a stress fracture to her right lower leg during the grass-court season and made a late decision to pull out of Wimbledon. And following consultation with her medical team, Raducanu on Monday concluded she will be unable to play at the US Open later this month - live on Sky Sports.",
-        "first_seen": "2026-08-04T17:46:42.299171+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Britain cannot handle Emma Raducanu",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUVzcmdGU0NBMUZPSDFPd1k4S09JTWVOSi1XeW8wOVR2ZE9rYUNnaVNzQXdoenNCVWlfbkM0bEtLdllCYVFRbzFuMi04NmNMbkFmU0xSQlJhZEtrR21VSFlSWjJJSGtQcGJBMUNMSTRSYlY2OWpXeDVCU3hHWkhCc1V3?oc=5",
-        "published": "2026-08-04T15:00:00+00:00",
-        "published_label": "Tue 04 Aug, 15:00",
-        "summary": "Britain cannot handle Emma Raducanu The i Paper",
-        "body": "Once Emma Raducanu had the temerity to win the US Open and thrust herself into the spotlight, it did not take long for her to become a punchbag for armchair sports fans in Britain.\n\nNo athlete who is injury prone needs reminding they are injury prone, but in Raducanu’s case there is a gleeful pile-on to ensure she is endlessly aware. The 23-year-old should even just retire, according to some experts in basements, because she would clearly rather pursue various business ventures than focus on tennis.",
-        "copy": "Once Emma Raducanu had the temerity to win the US Open and thrust herself into the spotlight, it did not take long for her to become a punchbag for armchair sports fans in Britain.\n\nNo athlete who is injury prone needs reminding they are injury prone, but in Raducanu’s case there is a gleeful pile-on to ensure she is endlessly aware. The 23-year-old should even just retire, according to some experts in basements, because she would clearly rather pursue various business ventures than focus on tennis.",
         "first_seen": "2026-08-04T17:46:42.299171+00:00"
       }
     ],
@@ -6153,45 +6114,6 @@
         "body": "The U.S. Women’s Amateur assembles one of the strongest fields in amateur golf. The 126th championship at The Honors Course continues that tradition, bringing together 156 players from 16 countries and 33 states to compete for one of the game’s most prestigious titles.\n\nAs we’ve seen year after year, there is no single path to the U.S. Women’s Amateur — and this year’s field reflects that. Junior champions, collegiate standouts, seasoned amateurs and international contenders have all earned their place in Tennessee.",
         "copy": "The U.S. Women’s Amateur assembles one of the strongest fields in amateur golf. The 126th championship at The Honors Course continues that tradition, bringing together 156 players from 16 countries and 33 states to compete for one of the game’s most prestigious titles.\n\nAs we’ve seen year after year, there is no single path to the U.S. Women’s Amateur — and this year’s field reflects that. Junior champions, collegiate standouts, seasoned amateurs and international contenders have all earned their place in Tennessee.",
         "first_seen": "2026-08-04T17:46:42.299171+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf pro: My agent has held talks with PGA Tour officials about a return",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPek1ZMWdzRkxZdUNQZXI4cEpleFp0b1BTZGR6UG5wXzBST0Fwd21ZbTJZaFlBVncxSjV0akJaZG5RZkNMQmpyelV3MVpoOW9XM1dkVFhmQklnTXhyaFgyQTA2N2V6eHBKaDJUUkFhOEpMTVhFMFZnRDdTS0dIeU9BVThhMVJXcVczaXNicDVROFp2ajEwRGhuUklwR2ZsRUllc29lUTFwZFdycVRO?oc=5",
-        "published": "2026-08-04T16:37:57+00:00",
-        "published_label": "Tue 04 Aug, 16:37",
-        "summary": "LIV Golf pro: My agent has held talks with PGA Tour officials about a return Golfmagic",
-        "body": "LIV Golf pro Lucas Herbert has confirmed his agent has opened talks with PGA Tour officials about a potential return. The in-form Australian, who held the 54-hole lead at The Open in July and captured his second individual LIV title a week later, joined the breakaway for the 2024 season.\n\nBut the league’s future remains uncertain after it was confirmed in March that Saudi Arabia’s Public Investment Fund will withdraw its financial backing at the end of the season.",
-        "copy": "LIV Golf pro Lucas Herbert has confirmed his agent has opened talks with PGA Tour officials about a potential return. The in-form Australian, who held the 54-hole lead at The Open in July and captured his second individual LIV title a week later, joined the breakaway for the 2024 season.\n\nBut the league’s future remains uncertain after it was confirmed in March that Saudi Arabia’s Public Investment Fund will withdraw its financial backing at the end of the season.",
-        "first_seen": "2026-08-04T17:46:42.299171+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Ready for a custom club-fitting? Here's how you can get one for free",
-        "link": "https://golf.com/gear/why-august-best-time-fit-free/",
-        "published": "2026-08-04T16:33:59+00:00",
-        "published_label": "Tue 04 Aug, 16:33",
-        "summary": "For a limited time, you can get a premium, custom club-fitting from your local True Spec for free. Here's how. The post Ready for a custom club-fitting? Here’s how you can get one for free appeared first on Golf .",
-        "body": "Thinking about getting custom club-fitting but can’t seem to pull the trigger on making the appointment? Perhaps this is the one time when procrastination pays off, because for a limited time, you can get a premium, custom club-fitting from your local True Spec for free!\n\nThrough Aug. 31, 2026, True Spec is offering complimentary fittings with a qualifying club purchase at any U.S. location. That means you get a FREE fitting with a $500-plus club purchase, and a FREE full-bag fitting with a $1,000-plus club purchase.",
-        "copy": "Thinking about getting custom club-fitting but can’t seem to pull the trigger on making the appointment? Perhaps this is the one time when procrastination pays off, because for a limited time, you can get a premium, custom club-fitting from your local True Spec for free!\n\nThrough Aug. 31, 2026, True Spec is offering complimentary fittings with a qualifying club purchase at any U.S. location. That means you get a FREE fitting with a $500-plus club purchase, and a FREE full-bag fitting with a $1,000-plus club purchase.",
-        "first_seen": "2026-08-04T17:46:42.299171+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Roger Cleveland's fingerprints are all over Cleveland's new RTZ 2 wedges",
-        "link": "https://golf.com/gear/clevelands-rtz-2-wedges-roger-cleveland/",
-        "published": "2026-08-04T15:07:46+00:00",
-        "published_label": "Tue 04 Aug, 15:07",
-        "summary": "With Roger Cleveland back in the fold, Cleveland is releasing the new RTZ 2 wedges, building on the original and adding a classic touch. The post Roger Cleveland’s fingerprints are all over Cleveland’s new RTZ 2 wedges appeared first on Golf .",
-        "body": "In case you hadn’t heard, Roger Cleveland is back at Cleveland Golf and the company’s new RTZ 2 wedges prove that’s obvious. The brand just announced the RTZ 2 wedge line, its first main-line wedge release since the return of the company founder in early 2025.\n\n“I’ve been fortunate to design wedges that have been trusted by generations of golfers, but the work is never finished,” Roger Cleveland said in a release. “RTZ 2 wedges reflect everything we’ve learned along the way, combining classic wedge design principles with modern performance to help golfers play their best scoring shots.”",
-        "copy": "In case you hadn’t heard, Roger Cleveland is back at Cleveland Golf and the company’s new RTZ 2 wedges prove that’s obvious. The brand just announced the RTZ 2 wedge line, its first main-line wedge release since the return of the company founder in early 2025.\n\n“I’ve been fortunate to design wedges that have been trusted by generations of golfers, but the work is never finished,” Roger Cleveland said in a release. “RTZ 2 wedges reflect everything we’ve learned along the way, combining classic wedge design principles with modern performance to help golfers play their best scoring shots.”",
-        "first_seen": "2026-08-04T17:46:42.299171+00:00"
       }
     ],
     "Badminton": [
@@ -7195,19 +7117,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-05T11:59:52.520317+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Sindhu seeded 9th, Satwik-Chirag 5th for BWF World Championships",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1sQXdSM0JyMlItdzlhQ0ZGWTh5VlFiZzJJOVN2YnRiNTNoSFNfYWZuYUgwQnpRNGg0TkJ6VEswaTJ2M0lzdUJPaF9POTFHZ3gyNmpGcmZGNmszdzhyczM1dDFseUdjN1ZzWHdQNXZFMFFYb3Z6YzRkXzloVk1YQWhuTzBEc2xtWUJyZGtRTnF0YnV6SVNSQQ?oc=5",
-        "published": "2026-08-04T15:10:03+00:00",
-        "published_label": "Tue 04 Aug, 15:10",
-        "summary": "Sindhu seeded 9th, Satwik-Chirag 5th for BWF World Championships Daily Pioneer",
-        "body": "Two-time Olympic medallist PV Sindhu was on Tuesday, August 4, seeded ninth in women's singles, while the star men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty were handed the fifth seeding for the upcoming BWF World Championships, to be held at the Indira Gandhi Stadium here from August 17-23.\n\nSindhu is the current Japan Open champion, while Satwik and Chirag are the 2022 Asian Games gold medallists. India have two entries each in all five categories of the championships, with at least one seeded entry in four of the five categories.",
-        "copy": "Two-time Olympic medallist PV Sindhu was on Tuesday, August 4, seeded ninth in women's singles, while the star men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty were handed the fifth seeding for the upcoming BWF World Championships, to be held at the Indira Gandhi Stadium here from August 17-23.\n\nSindhu is the current Japan Open champion, while Satwik and Chirag are the 2022 Asian Games gold medallists. India have two entries each in all five categories of the championships, with at least one seeded entry in four of the five categories.",
-        "first_seen": "2026-08-04T17:46:42.299171+00:00"
       }
     ],
     "Competitor News": [
@@ -7291,5 +7200,5 @@
       }
     ]
   },
-  "total": 559
+  "total": 552
 }
