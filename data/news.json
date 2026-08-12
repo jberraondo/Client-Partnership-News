@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T13:02:44.934658+00:00",
-  "generated_label": "Wednesday 12 August 2026, 13:02 UTC",
+  "generated_at": "2026-08-12T14:55:34.049125+00:00",
+  "generated_label": "Wednesday 12 August 2026, 14:55 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "J.League taps IMG to lead global sponsorship push",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0dETm14dnZOUXRpVkx5OWEtMUVfaDlGd25xSWthUXY5RkNYTjJhX3VCaU1UTGRvM29qSmp2ZHpCRWgzYlhkNWJ4aUQ1eFotOGpRdGg4M0NiUkF5RDZyV3FBRnB3MzUxRUwyaWdkSndYUFllOS0wQWJ3RVVIVjFyNGJqbnBlZVk?oc=5",
+        "published": "2026-08-12T14:52:01+00:00",
+        "published_label": "Wed 12 Aug, 14:52",
+        "summary": "J.League taps IMG to lead global sponsorship push sportcal.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "Will the NFL get its way on early TV deal renegotiations amid courtroom and broadcaster resistance?",
+        "link": "https://www.sportspro.com/opinions/broadcast-ott/will-the-nfl-get-its-way-on-early-tv-deal-renegotiations-amid-courtroom-and-broadcaster-resistance/",
+        "published": "2026-08-12T13:42:56+00:00",
+        "published_label": "Wed 12 Aug, 13:42",
+        "summary": "The NFL holds by far the most lucrative broadcast deals in sport but in recent months, it has begun moves to renew those partnerships several years early to secure even revenues. Yet for all its power and popularity, its efforts could stall in the face of legislative and commercial obstacles. The post Will the NFL get its way on early TV deal renegotiations amid courtroom and broadcaster resistance? appeared first on SportsPro .",
+        "body": "The National Football League’s (NFL) domestic broadcast deals are the envy of almost every rights holder on the planet. Back in 2021, it guaranteed its status as sport’s richest league for another decade. A new set of broadcast contracts – running from the 2023 season until 2033 – secured US$111 billion from CBS, Fox, NBC, ESPN and Amazon.\n\nFurther deals for one-off matchups, the Sunday Ticket package of out-of-market matchups, and a global partnership for select set-piece games with Netflix, including Christmas Day, have increased this revenue stream even further.",
+        "copy": "The National Football League’s (NFL) domestic broadcast deals are the envy of almost every rights holder on the planet. Back in 2021, it guaranteed its status as sport’s richest league for another decade. A new set of broadcast contracts – running from the 2023 season until 2033 – secured US$111 billion from CBS, Fox, NBC, ESPN and Amazon.\n\nFurther deals for one-off matchups, the Sunday Ticket package of out-of-market matchups, and a global partnership for select set-piece games with Netflix, including Christmas Day, have increased this revenue stream even further.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -1415,48 +1441,61 @@
         "body": "The most significant sports media development of the American summer may be a series of local rights partnerships signed by a global streaming service. From next season, DAZN will be the exclusive direct-to-consumer (DTC) home of the New York area MSG Networks and YES Network regional sports networks (RSNs), with the Gotham Sports App joint-venture shut down.\n\nThe platform will be the only place to subscribe to local National Basketball Association (NBA) and National Hockey League (NHL) broadcasts featuring the New York Yankees, Yankees, Knicks, Nets, Rangers and Islanders, the New Jersey Devils and the Buffalo Sabres.",
         "copy": "The most significant sports media development of the American summer may be a series of local rights partnerships signed by a global streaming service. From next season, DAZN will be the exclusive direct-to-consumer (DTC) home of the New York area MSG Networks and YES Network regional sports networks (RSNs), with the Gotham Sports App joint-venture shut down.\n\nThe platform will be the only place to subscribe to local National Basketball Association (NBA) and National Hockey League (NHL) broadcasts featuring the New York Yankees, Yankees, Knicks, Nets, Rangers and Islanders, the New Jersey Devils and the Buffalo Sabres.",
         "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "CAF looking for 2027 AFCON host broadcast partner",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNmFhdXU1NTB1QU9ERmRFaXBva2o1YzZkSUF1MURaT1p3X2NYV09kdDh4SDRXaV9XdWZWS1RvMklNaEI3ZF9ER0hhVjhuanFqZFhUV1J1SFhwMUdiNkdScDhMUW9WT0FOQlhPamY3VXBGOHZabTV1Uzk2aTRmdjNKcC1iMkFlRnc?oc=5",
-        "published": "2026-08-05T14:22:09+00:00",
-        "published_label": "Wed 05 Aug, 14:22",
-        "summary": "CAF looking for 2027 AFCON host broadcast partner Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "DAZN renews exclusive Premier League rights in Iberia through 2031",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMEZIYmdraEMtajBERERDRi1pQUFCYS1uQnhRbGdKSnBCc1NxaWNxNVZFdndUR2tPN1g0T19JcE40SDFzTEJKVHZWRmhIWVhrd1R6Zm9RMUZKV0gwd2JqZzc0dVFZWmRvQTk2ZUVfd0ZBeFl1SXVVRElRLVB6a1hTSGhuYXZCMHp1a1J2STNCbmJkenBOQzBOY0poaTFyZw?oc=5",
-        "published": "2026-08-05T14:22:09+00:00",
-        "published_label": "Wed 05 Aug, 14:22",
-        "summary": "DAZN renews exclusive Premier League rights in Iberia through 2031 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "IMG to handle production services for WTA from 2027",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcEdYb0pndjZzdW9Ub1ZsQ1BKWUR6d0RIU2RCY25mM3A1NkZnQXhGd1lBUV9SdDJhbFkxLXB5MEpoTmIxWkxlUm1LbFZkM3FQQktaXzhrTk1DSFpCOWdyUzNoTmlTTHpEZ2xMMU5uczNkMVBhSGczbDgwMkdENGVKM0Nhbzh6b2VDYlE?oc=5",
-        "published": "2026-08-05T13:54:34+00:00",
-        "published_label": "Wed 05 Aug, 13:54",
-        "summary": "IMG to handle production services for WTA from 2027 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-05T14:12:04.561052+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Steve Borthwick makes 5 changes to his 2025/26 Elite Player Squad",
+        "link": "https://www.rugbypass.com/news/steve-borthwick-makes-5-changes-to-his-2025-26-elite-player-squad-gallagher-prem/",
+        "published": "2026-08-12T14:22:32+00:00",
+        "published_label": "Wed 12 Aug, 14:22",
+        "summary": "England have revealed the 25 players who will receive enhanced Elite Player Squad contracts ahead of the new season, with five changes made in total.",
+        "body": "England have revealed the 25 players who will receive enhanced Elite Player Squad contracts ahead of the new season, with five changes made in total. The five new additions are Gloucester centre Seb Atkinson, Northampton Saints lock Alex Coles, Sale Sharks prop Asher Opoku-Fordjour, Bath flanker Guy Pepper and Leicester Tigers scrum-half Jack van Poortvliet.\n\nThese new additions are not exactly like-for-like replacements for the five players who have lost their contracts. While Pepper can be seen as a direct replacement for Ben Curry, who failed to play a game for England last season due to a recurring hamstring issue, as can Atkinson for Ollie Lawrence, who fell out of favour during the Six Nations, the final three changes are not like-for-like.",
+        "copy": "England have revealed the 25 players who will receive enhanced Elite Player Squad contracts ahead of the new season, with five changes made in total. The five new additions are Gloucester centre Seb Atkinson, Northampton Saints lock Alex Coles, Sale Sharks prop Asher Opoku-Fordjour, Bath flanker Guy Pepper and Leicester Tigers scrum-half Jack van Poortvliet.\n\nThese new additions are not exactly like-for-like replacements for the five players who have lost their contracts. While Pepper can be seen as a direct replacement for Ben Curry, who failed to play a game for England last season due to a recurring hamstring issue, as can Atkinson for Ollie Lawrence, who fell out of favour during the Six Nations, the final three changes are not like-for-like.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'Say ‘yes’ and figure it out afterwards': How one decision changed Jane Clohessy's life",
+        "link": "https://www.rugbypass.com/news/say-yes-and-figure-it-out-afterwards-how-one-decision-changed-jane-clohessys-life/",
+        "published": "2026-08-12T14:05:51+00:00",
+        "published_label": "Wed 12 Aug, 14:05",
+        "summary": "Back in November 2022, not long after Jane Clohessy got off stage with her band, a message arrived on her phone.",
+        "body": "Back in November 2022, not long after Jane Clohessy got off stage with her band, a message arrived on her phone. It was from former Ireland captain, Niamh Briggs – ‘Any interest coming to a Munster session?’\n\nIt was not an immediate ‘yes’ but, from that moment, Clohessy’s life would set off down a different path. The Limerick native hails from a rugby-mad family. Her father is Munster and Ireland legend, Peter Clohessy. Many childhood years were spent in and around stadiums and clubhouses. Born in December 1998, Clohessy would have been too young to clearly recall her dad, ‘The Claw’, chasing down Heineken Cup and Six Nations glory. What remains is that feeling of being embraced by a wider family.",
+        "copy": "Back in November 2022, not long after Jane Clohessy got off stage with her band, a message arrived on her phone. It was from former Ireland captain, Niamh Briggs – ‘Any interest coming to a Munster session?’\n\nIt was not an immediate ‘yes’ but, from that moment, Clohessy’s life would set off down a different path. The Limerick native hails from a rugby-mad family. Her father is Munster and Ireland legend, Peter Clohessy. Many childhood years were spent in and around stadiums and clubhouses. Born in December 1998, Clohessy would have been too young to clearly recall her dad, ‘The Claw’, chasing down Heineken Cup and Six Nations glory. What remains is that feeling of being embraced by a wider family.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Five players get first England deals in Borthwick shake-up",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwy427n1dnvo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-12T13:30:06+00:00",
+        "published_label": "Wed 12 Aug, 13:30",
+        "summary": "Asher Opoku-Fordjour, Alex Coles, Guy Pepper, Jack van Poortvliet and Seb Atkinson are handed England central contracts for the first time as Steve Borthwick shakes up his squad.",
+        "body": "England boss Steve Borthwick has shaken up his centrally contracted squad with just over a year to go until the Rugby World Cup. Borthwick has announced the 25 players who will receive enhanced player contracts, worth around £150,000, for the 2026-27 season.\n\nHanded an elite deal for the first time are prop Asher Opoku-Fordjour, lock Alex Coles, flanker Guy Pepper, scrum-half Jack van Poortvliet and centre Seb Atkinson. Flanker Ben Curry, versatile back Elliot Daly, centre Ollie Lawrence and wing Tom Roebuck all miss out on contracts, while France-bound number eight Tom Willis is no longer eligible for England selection.",
+        "copy": "England boss Steve Borthwick has shaken up his centrally contracted squad with just over a year to go until the Rugby World Cup. Borthwick has announced the 25 players who will receive enhanced player contracts, worth around £150,000, for the 2026-27 season.\n\nHanded an elite deal for the first time are prop Asher Opoku-Fordjour, lock Alex Coles, flanker Guy Pepper, scrum-half Jack van Poortvliet and centre Seb Atkinson. Flanker Ben Curry, versatile back Elliot Daly, centre Ollie Lawrence and wing Tom Roebuck all miss out on contracts, while France-bound number eight Tom Willis is no longer eligible for England selection.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ospreys say WRU plan to cut team is wrong",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c1w12eqdy0lo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-12T13:00:03+00:00",
+        "published_label": "Wed 12 Aug, 13:00",
+        "summary": "Ospreys respond publicly to WRU plans for the first time with the belief four professional Welsh sides is the way forward.",
+        "body": "The Ospreys board has told the Welsh Rugby Union (WRU) its plan to reduce a professional side is the wrong decision. Welsh rugby's governing body has outlined its plans to cut the number of professional teams from four to three by 2028, with WRU-owned Cardiff and privately-backed Dragons set to be given licences.\n\nThat announcement has plunged Scarlets and Ospreys into doubt, with the west licence either being awarded to the Llanelli-based side or their Swansea-based rivals. WRU chiefs have said the process to decide the framework for the final decision will begin in December and finish before the end of the 2026-27 campaign.",
+        "copy": "The Ospreys board has told the Welsh Rugby Union (WRU) its plan to reduce a professional side is the wrong decision. Welsh rugby's governing body has outlined its plans to cut the number of professional teams from four to three by 2028, with WRU-owned Cardiff and privately-backed Dragons set to be given licences.\n\nThat announcement has plunged Scarlets and Ospreys into doubt, with the west licence either being awarded to the Llanelli-based side or their Swansea-based rivals. WRU chiefs have said the process to decide the framework for the final decision will begin in December and finish before the end of the 2026-27 campaign.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -1625,6 +1664,19 @@
         "body": "After making its debut at the 2014 iteration in Nanjing, rugby sevens is set to return to the Youth Olympic Games format, as 16 teams and 15 nations have been confirmed to feature at the 2026 Dakar event in November this year.\n\nAround 2700 young athletes are expected to compete across 25 competition sports, with over 120 nations set to be represented, marking the first time ever an Olympic Games of any kind has ever been played on the African continent.",
         "copy": "After making its debut at the 2014 iteration in Nanjing, rugby sevens is set to return to the Youth Olympic Games format, as 16 teams and 15 nations have been confirmed to feature at the 2026 Dakar event in November this year.\n\nAround 2700 young athletes are expected to compete across 25 competition sports, with over 120 nations set to be represented, marking the first time ever an Olympic Games of any kind has ever been played on the African continent.",
         "first_seen": "2026-08-12T07:20:58.951995+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Rugby sevens pools confirmed for Dakar Summer Youth Olympic Games",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNE1hcnpaTFFBVFVNanNHclFxZmR6SDlDX0pJUzQyNXY2U1ZIU09GVkFqSDd4RE1rdFh3LU1kbzNabER0NnMwbDM4c2tma2VnN2tSU0tsdElUZERUNXJzR25CSE1OMUVZZVRhbDZoREtHd2JIbTJpNnY5ZmN2VTVkNTVzVlJwZmxscWRXT1hWSWRtSnFjTl9ZdG9tcVVRdw?oc=5",
+        "published": "2026-08-12T04:05:14+00:00",
+        "published_label": "Wed 12 Aug, 04:05",
+        "summary": "Rugby sevens pools confirmed for Dakar Summer Youth Olympic Games Rugbypass.com",
+        "body": "After making its debut at the 2014 iteration in Nanjing, rugby sevens is set to return to the Youth Olympic Games format, as 16 teams and 15 nations have been confirmed to feature at the 2026 Dakar event in November this year.\n\nAround 2700 young athletes are expected to compete across 25 competition sports, with over 120 nations set to be represented, marking the first time ever an Olympic Games of any kind has ever been played on the African continent.",
+        "copy": "After making its debut at the 2014 iteration in Nanjing, rugby sevens is set to return to the Youth Olympic Games format, as 16 teams and 15 nations have been confirmed to feature at the 2026 Dakar event in November this year.\n\nAround 2700 young athletes are expected to compete across 25 competition sports, with over 120 nations set to be represented, marking the first time ever an Olympic Games of any kind has ever been played on the African continent.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
       },
       {
         "section": "Rugby",
@@ -3393,32 +3445,6 @@
         "body": "A historic tour is just days away from gracing the rugby world’s screens for the first time in 30 years, and New Zealand have revealed which 23 men will bring down the curtain against the Stormers in Cape Town.\n\nThe matchday squad features two potential debutants on the bench, Hurricanes powerhouse prop Siale Lauaki and Chiefs pivot Josh Jacomb, while World Rugby Breakthrough Player of the Year Fabian Holland returns from injury to start in the second row alongside stand-in captain Patrick Tuipulotu.",
         "copy": "A historic tour is just days away from gracing the rugby world’s screens for the first time in 30 years, and New Zealand have revealed which 23 men will bring down the curtain against the Stormers in Cape Town.\n\nThe matchday squad features two potential debutants on the bench, Hurricanes powerhouse prop Siale Lauaki and Chiefs pivot Josh Jacomb, while World Rugby Breakthrough Player of the Year Fabian Holland returns from injury to start in the second row alongside stand-in captain Patrick Tuipulotu.",
         "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Junior Bok star handed dream Stormers debut vs All Blacks",
-        "link": "https://www.rugbypass.com/news/junior-bok-star-handed-dream-stormers-debut-vs-all-blacks/",
-        "published": "2026-08-05T14:35:59+00:00",
-        "published_label": "Wed 05 Aug, 14:35",
-        "summary": "Fly-half Yaqeen Ahmed starts at 10 for Friday's historic clash against the tourists at the DHL Stadium in Cape Town.",
-        "body": "Junior World Championship winner Yaqeen Ahmed will make his first senior appearance for the Stormers in Friday night’s historic clash against the touring All Blacks. Fly-half Ahmed impressed in Georgia in May, as the Junior Boks retained their crown as the world’s best age-grade side, starting in three of the games.\n\nAnd now the 20-year-old has been given another opportunity to show his class after being paired at half-back by Springbok A international Imad Khan. Outside centre Ruhan Nel will captain the team that will face the All Blacks for the first match of their tour.",
-        "copy": "Junior World Championship winner Yaqeen Ahmed will make his first senior appearance for the Stormers in Friday night’s historic clash against the touring All Blacks. Fly-half Ahmed impressed in Georgia in May, as the Junior Boks retained their crown as the world’s best age-grade side, starting in three of the games.\n\nAnd now the 20-year-old has been given another opportunity to show his class after being paired at half-back by Springbok A international Imad Khan. Outside centre Ruhan Nel will captain the team that will face the All Blacks for the first match of their tour.",
-        "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "KSSSA: Kinale, Butula clinch Rugby Sevens crowns as Ikutha and Agoro Sare reign in 3x3 Basketball",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNF9tVEYwYjZmSDdwZ1NzclNiN2ZMN2VITzBtMGlEeU1tZGFHZUJGdldqcmZhMlk0YzV2alpMU3pOelB5TFZ4eHhoTkZNUUhXWmFjYzdFcjRwbzliSjBQMlNKSUFRamhWN2U5VU81U1VpOV91d3NweEZQWFMtY2ZTR1VybDNGZzNNOVdmYjB0YXJkekRrUzFFeDBaNFFUMFZ2YkZPRmRIbVZzdXIyY3hfOEZiclZSVEZVXzBXdTNpaFFpUUVuWnZBX05iWWd2ZzNIQ1NxV25IR2Fpa1E?oc=5",
-        "published": "2026-08-05T13:49:35+00:00",
-        "published_label": "Wed 05 Aug, 13:49",
-        "summary": "KSSSA: Kinale, Butula clinch Rugby Sevens crowns as Ikutha and Agoro Sare reign in 3x3 Basketball Mozzart Sport Kenya",
-        "body": "Reading Time: 3min | Wed. 05.08.26. | 16:39 Defending champions Kinale Girls successfully retained their Kenya Secondary Schools Sports Association (KSSSA) Rugby Sevens title, while Butula Boys were crowned the new boys' champions after a dominant display in the finals at the M-PESA Foundation Academy on Wednesday, 5 August.\n\nIn the Basketball 3x3 competition, Ikutha Girls and Agoro Sare High School emerged as the new national champions after overcoming determined opposition in their respective finals.",
-        "copy": "Reading Time: 3min | Wed. 05.08.26. | 16:39 Defending champions Kinale Girls successfully retained their Kenya Secondary Schools Sports Association (KSSSA) Rugby Sevens title, while Butula Boys were crowned the new boys' champions after a dominant display in the finals at the M-PESA Foundation Academy on Wednesday, 5 August.\n\nIn the Basketball 3x3 competition, Ikutha Girls and Agoro Sare High School emerged as the new national champions after overcoming determined opposition in their respective finals.",
-        "first_seen": "2026-08-05T14:12:04.561052+00:00"
       }
     ],
     "Tennis": [
@@ -3837,35 +3863,48 @@
         "body": "Draper’s elbow sounds considerably more complicated. Yes, scans did show bone bruising on the end of his humerus – the big bone that runs from the elbow to the shoulder – when his initial pain was checked out last summer. But he is evidently not receiving such clear diagnoses anymore, because he keeps trying – and failing – to play tournaments. In the last 18 months, he has moved from the acute injury phase to something more chronic.\n\nIn that same Sky Sports interview in Montreal, Draper explained that “it’s important for people to recognise that the injury I have is very complex, it’s very complicated and everyone around me is doing everything we can to help this keep moving along”.",
         "copy": "Draper’s elbow sounds considerably more complicated. Yes, scans did show bone bruising on the end of his humerus – the big bone that runs from the elbow to the shoulder – when his initial pain was checked out last summer. But he is evidently not receiving such clear diagnoses anymore, because he keeps trying – and failing – to play tournaments. In the last 18 months, he has moved from the acute injury phase to something more chronic.\n\nIn that same Sky Sports interview in Montreal, Draper explained that “it’s important for people to recognise that the injury I have is very complex, it’s very complicated and everyone around me is doing everything we can to help this keep moving along”.",
         "first_seen": "2026-08-05T19:27:40.991213+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Andy Roddick reacts to Emma Raducanu missing the US Open: It just stinks",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcGhoZkp6V0xINGNZUTBCbm9WSFBQU2ptM0J2YV85by12TjJXX2JpTFRsZjRwdE5KU1ptVDA2eHAxVk96WUE2WnU0Y19UN1hhOGRBX0pVcVRXZGpDQjhqaExCM2hvX1gzVW94LVNUZlBIX0lhQS0tSWh4QzRHcEViOTFoaHZjY2pSY0xDVXhzNjkxSl9wX1gzNFgxUDNBcHJBUUVkS0hXbzJnQlM2b1ppQzVDdlkydURkTnBrWjhXcWYzRHEyc3FUSVIwOXBlQQ?oc=5",
-        "published": "2026-08-05T13:30:43+00:00",
-        "published_label": "Wed 05 Aug, 13:30",
-        "summary": "Andy Roddick reacts to Emma Raducanu missing the US Open: It just stinks Tennis World USA",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Emma Raducanu breaks silence after US Open withdrawal with one-word post",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb25BSmtGRkFDcWE2cnlBOUZHNjdIcUJVenlXbTdPUHFkc1J5Rmk2UkV0MlBWbEl6RkxiN19NSTZjVVV0VzhrMS00akpZdndHRnJySmp3RUlIYlFnc3NyRFN1cVVraGVhTEllWHZJb0N3aTgxcWl5ZUN2djNpajJzM0hOVQ?oc=5",
-        "published": "2026-08-05T13:30:21+00:00",
-        "published_label": "Wed 05 Aug, 13:30",
-        "summary": "Emma Raducanu breaks silence after US Open withdrawal with one-word post AOL.co.uk",
-        "body": "Emma Raducanu has posted to social media for the first time since withdrawing from the 2026 US Open. A champion in Flushing Meadows five years ago, the Brit has once again had an injury-disrupted campaign and will not travel to the States to compete in the final Slam of the year.\n\nAfter a first-round win at the Australian Open, Raducanu had her campaign down under ended in the second round. Meanwhile, at the French Open, the Canada-born star was knocked out at the first time of asking, which marked her last Grand Slam action for 2026.",
-        "copy": "Emma Raducanu has posted to social media for the first time since withdrawing from the 2026 US Open. A champion in Flushing Meadows five years ago, the Brit has once again had an injury-disrupted campaign and will not travel to the States to compete in the final Slam of the year.\n\nAfter a first-round win at the Australian Open, Raducanu had her campaign down under ended in the second round. Meanwhile, at the French Open, the Canada-born star was knocked out at the first time of asking, which marked her last Grand Slam action for 2026.",
-        "first_seen": "2026-08-05T14:12:04.561052+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Save $100 on Odyssey Ai-DUAL and Tri-Hot putters",
+        "link": "https://golf.com/gear/putters/save-100-odyssey-ai-dual-tri-hot-putters/",
+        "published": "2026-08-12T14:23:02+00:00",
+        "published_label": "Wed 12 Aug, 14:23",
+        "summary": "If adding a new flatstick to your bag sounds like an appealing prospect, now is a great time to take advantage of a super sale. The post Save $100 on Odyssey Ai-DUAL and Tri-Hot putters appeared first on Golf .",
+        "body": "If adding a new flatstick to your bag sounds like an appealing prospect, now is a great time to take advantage of a super sale, because for a limited time, you can enjoy a $100 discount on Odyssey Ai-DUAL and Tri-Hot putters.\n\nWhich would be the best fit for your game? The answer: it depends! Odyssey Ai-DUAL is face-insert technology as opposed to a specific club design. Ai-DUAL refers to an an Ai-designed dual-layer urethane insert that can be found across multiple putter models and head shapes. Ai-DUAL is designed to enhance ball speed consistency and forward roll as well as provide exceptional feel.",
+        "copy": "If adding a new flatstick to your bag sounds like an appealing prospect, now is a great time to take advantage of a super sale, because for a limited time, you can enjoy a $100 discount on Odyssey Ai-DUAL and Tri-Hot putters.\n\nWhich would be the best fit for your game? The answer: it depends! Odyssey Ai-DUAL is face-insert technology as opposed to a specific club design. Ai-DUAL refers to an an Ai-designed dual-layer urethane insert that can be found across multiple putter models and head shapes. Ai-DUAL is designed to enhance ball speed consistency and forward roll as well as provide exceptional feel.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "LIV Golf season finale canceled, according to report",
+        "link": "https://golf.com/news/liv-golf-season-finale-canceled/",
+        "published": "2026-08-12T14:18:01+00:00",
+        "published_label": "Wed 12 Aug, 14:18",
+        "summary": "LIV Golf will not host a team championship later this month, calling an end to the season earlier than expected. The post LIV Golf season finale canceled, according to report appeared first on Golf .",
+        "body": "What has long been rumored has now been reported as reality: LIV Golf’s team championship in Michigan has been canceled. The season finale, which was scheduled for the end of August in Michigan, was already believed to be on the chopping block as early as July. Various reports suggested no on-site buildout at The Cardinal at Saint John’s, even as recently as this weekend. And now LIV is moving on, according to a report from The Telegraph, which said the league finally told its players it would not be held.\n\nIn recent weeks, most LIV players had little to say about the event, although Martin Kaymer told Today’s Golfer in late July that the team championship had about a 5% chance of happening. Now that reality finally arrived. Staffers were told to book travel home from next week’s event in Indianapolis rather than to Michigan, just a few hours up the road. And despite the dark clouds over its team championship, LIV itself has refused to announce it publicly. (When contacted by GOLF, the league declined to comment.) The event is scheduled to begin in two weeks.",
+        "copy": "What has long been rumored has now been reported as reality: LIV Golf’s team championship in Michigan has been canceled. The season finale, which was scheduled for the end of August in Michigan, was already believed to be on the chopping block as early as July. Various reports suggested no on-site buildout at The Cardinal at Saint John’s, even as recently as this weekend. And now LIV is moving on, according to a report from The Telegraph, which said the league finally told its players it would not be held.\n\nIn recent weeks, most LIV players had little to say about the event, although Martin Kaymer told Today’s Golfer in late July that the team championship had about a 5% chance of happening. Now that reality finally arrived. Staffers were told to book travel home from next week’s event in Indianapolis rather than to Michigan, just a few hours up the road. And despite the dark clouds over its team championship, LIV itself has refused to announce it publicly. (When contacted by GOLF, the league declined to comment.) The event is scheduled to begin in two weeks.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Major champ mulls loss of playoff event amid PGA Tour schedule 'shakeup'",
+        "link": "https://golf.com/news/major-champ-mulls-loss-playoff-event-tour-shakeup/",
+        "published": "2026-08-12T13:00:43+00:00",
+        "published_label": "Wed 12 Aug, 13:00",
+        "summary": "Defending champion Justin Rose addressed news that the FedEx St. Jude playoff event will not be part of the PGA Tour's top tier in 2028. The post Major champ mulls loss of playoff event amid PGA Tour schedule ‘shakeup’ appeared first on Golf .",
+        "body": "Last year, Justin Rose capped a comeback season with a big playoff win at the FedEx St. Jude Championship. This week, the 2013 U.S. Open champion has a chance to defend his St. Jude title from last year. But it may be the final time.\n\nWhile the FedEx St. Jude has been a FedEx Cup playoff event since 2022, that is about to change in a big way. Last week, the PGA Tour confirmed to GOLF that the tournament would not be included in the top tier of the overhauled Tour schedule in 2028. That means it will certainly not be a playoff event. Even worse, it might cease being a tournament altogether.",
+        "copy": "Last year, Justin Rose capped a comeback season with a big playoff win at the FedEx St. Jude Championship. This week, the 2013 U.S. Open champion has a chance to defend his St. Jude title from last year. But it may be the final time.\n\nWhile the FedEx St. Jude has been a FedEx Cup playoff event since 2022, that is about to change in a big way. Last week, the PGA Tour confirmed to GOLF that the tournament would not be included in the top tier of the overhauled Tour schedule in 2028. That means it will certainly not be a playoff event. Even worse, it might cease being a tournament altogether.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -3878,6 +3917,19 @@
         "body": "It’s now seven months since Patrick Reed walked out on LIV Golf and several of the league’s other former players are now queueing up behind the American in the race for the PGA Tour.\n\nReed will make an imminent return at the US circuit’s upcoming Fall Series after he was suspended for 12 months following the date of his final LIV start last August. Reed has spent the intervening months enjoying time on the DP World Tour and building up a lead at the summit of the Race to Dubai standings.",
         "copy": "It’s now seven months since Patrick Reed walked out on LIV Golf and several of the league’s other former players are now queueing up behind the American in the race for the PGA Tour.\n\nReed will make an imminent return at the US circuit’s upcoming Fall Series after he was suspended for 12 months following the date of his final LIV start last August. Reed has spent the intervening months enjoying time on the DP World Tour and building up a lead at the summit of the Race to Dubai standings.",
         "first_seen": "2026-08-12T13:02:44.934658+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Explained: Why LIV Golf may face another OWGR headache even if the league does survive",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGIzeTh5Z0dHanRiYWpySngzb0dnVzBIUXM0TmNWMjUxT2o1ZkVveVZKaFUyS3FCWE8wWV9YRzVQZm5XVkFvODVwOTM1OWxUM2RPT0liTk1tWEN4ek9LbVJ1NFo2b0dlMFFCbDd4aUNnSjVXT0Z5ZnZ4X1haWEkzM2dXWXAzUlAxVVJmM01SZjgzelpzVzdCNzNZVnJZdEpxUnRGcW1NR3lYRkEwbk8zLTdCZGpVaUUwQnd1czBn?oc=5",
+        "published": "2026-08-12T12:18:23+00:00",
+        "published_label": "Wed 12 Aug, 12:18",
+        "summary": "Explained: Why LIV Golf may face another OWGR headache even if the league does survive Golfmagic",
+        "body": "One of the most tedious debates since the emergence of LIV Golf was whether or not the breakaway tour deserved to be recognised by the sport's global rankings body. Fronted by Greg Norman, the renegade tour applied for Official World Golf Ranking (OWGR) accreditation shortly after its launch in July 2022.\n\nThe application was made before the landmark 150th Open at St Andrews, but it took the governing body until the following October to reject LIV's bid. The OWGR cited several reasons for its decision and urged LIV to make adjustments to its format, field sizes and pathways into the league.",
+        "copy": "One of the most tedious debates since the emergence of LIV Golf was whether or not the breakaway tour deserved to be recognised by the sport's global rankings body. Fronted by Greg Norman, the renegade tour applied for Official World Golf Ranking (OWGR) accreditation shortly after its launch in July 2022.\n\nThe application was made before the landmark 150th Open at St Andrews, but it took the governing body until the following October to reject LIV's bid. The OWGR cited several reasons for its decision and urged LIV to make adjustments to its format, field sizes and pathways into the league.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
       },
       {
         "section": "Golf",
@@ -4044,8 +4096,8 @@
         "published": "2026-08-11T16:06:30+00:00",
         "published_label": "Tue 11 Aug, 16:06",
         "summary": "LIV Golf just got new life but uncertainty remains The Week",
-        "body": "",
-        "copy": "",
+        "body": "With Saudi Arabia ending its funding of LIV Golf after this season, the league is at a crossroads, moving away from its largest controversy while still in need of new financial backing. Now it appears LIV may have found some, announcing last week that it has secured investors to bring it into the 2027 season and beyond. But some major questions about the tour’s future linger.\n\nLIV Golf has an “agreement in place with a lead investor, signed by the investor and approved by the board, to anchor the transaction and play a key role in supporting the path forward for the league’s next era, driven by and for the players,” the tour’s CEO, Scott O’Neil, said in a statement. O’Neil “didn’t identify the investor or how much money will be injected into the league,” said ESPN, though he hopes to “finalize terms in the coming weeks.”",
+        "copy": "With Saudi Arabia ending its funding of LIV Golf after this season, the league is at a crossroads, moving away from its largest controversy while still in need of new financial backing. Now it appears LIV may have found some, announcing last week that it has secured investors to bring it into the 2027 season and beyond. But some major questions about the tour’s future linger.\n\nLIV Golf has an “agreement in place with a lead investor, signed by the investor and approved by the board, to anchor the transaction and play a key role in supporting the path forward for the league’s next era, driven by and for the players,” the tour’s CEO, Scott O’Neil, said in a statement. O’Neil “didn’t identify the investor or how much money will be injected into the league,” said ESPN, though he hopes to “finalize terms in the coming weeks.”",
         "first_seen": "2026-08-11T18:59:24.640555+00:00"
       },
       {
@@ -5880,48 +5932,22 @@
         "body": "Round one of the 2026 U.S. Women’s Amateur is complete, and the Honors Course wasted no time showing its teeth. Pete Dye’s championship layout demanded precision from start to finish, challenging players with exacting tee shots, uneven lies in the fairway, and lightning-fast greens that were unrelenting.\n\nLeading the pack was 17-year-old Anna Iwanaga, who shot an impressive five-under 67 to give her a two-shot advantage on the field heading into the second round. Just two shots behind her were Madison Dabagia and Jie-En Lin, who shared second place at three-under after steady opening rounds.",
         "copy": "Round one of the 2026 U.S. Women’s Amateur is complete, and the Honors Course wasted no time showing its teeth. Pete Dye’s championship layout demanded precision from start to finish, challenging players with exacting tee shots, uneven lies in the fairway, and lightning-fast greens that were unrelenting.\n\nLeading the pack was 17-year-old Anna Iwanaga, who shot an impressive five-under 67 to give her a two-shot advantage on the field heading into the second round. Just two shots behind her were Madison Dabagia and Jie-En Lin, who shared second place at three-under after steady opening rounds.",
         "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf New York: Three selections and picks for Trump National week",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxaGo3UElyeHp4eXlLRWEyVXMzVkluQ3pkcUdmMU40d0ZPRUdFN0F6aldvQmFHOFFoellKT3h4QUtUSmJJSmdERzgyQjJON3RNUVhSUmxEYXBpRHVmYjFVUDJ5bzNRR2xVcnhCVVlsQzl2TkdL?oc=5",
-        "published": "2026-08-05T14:54:23+00:00",
-        "published_label": "Wed 05 Aug, 14:54",
-        "summary": "LIV Golf New York: Three selections and picks for Trump National week talksport.com",
-        "body": "LIV Golf New York takes place this week as the penultimate individual event of the 2026 season. Jon Rahm leads the standings by a staggering 219 points and it looks as though he is going to win his third consecutive individual crown.\n\nTrump National in Bedminster plays host to the tournament for the first time since 2023. Back then, Cameron Smith won the event by seven shots, although that remains his last LIV Golf victory.",
-        "copy": "LIV Golf New York takes place this week as the penultimate individual event of the 2026 season. Jon Rahm leads the standings by a staggering 219 points and it looks as though he is going to win his third consecutive individual crown.\n\nTrump National in Bedminster plays host to the tournament for the first time since 2023. Back then, Cameron Smith won the event by seven shots, although that remains his last LIV Golf victory.",
-        "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Tour Validated: Launch-monitor numbers are important — but focus on this too",
-        "link": "https://golf.com/gear/tour-validated-episode-5-start-line/",
-        "published": "2026-08-05T14:23:52+00:00",
-        "published_label": "Wed 05 Aug, 14:23",
-        "summary": "Johnny Wunder sits down with Marshall Thompson from Fujikura to walk through why Ventus has continued to dominate the PGA Tour and more. The post Tour Validated: Launch-monitor numbers are important — but focus on this too appeared first on Golf .",
-        "body": "Every few weeks, golf equipment content focuses heavily on launch-monitor numbers: high launch, low spin, smash factor, ball speed. It dominates digital feeds, making for clean, digestible metrics.\n\nHowever, in a tour truck on a random Tuesday morning at a PGA Tour event, the conversation sounds completely different. I have yet to hear a player walk on a truck and say “I wanna hit it farther.” The best players and fitters in the world don’t look at equipment that way — the priority is reliability.",
-        "copy": "Every few weeks, golf equipment content focuses heavily on launch-monitor numbers: high launch, low spin, smash factor, ball speed. It dominates digital feeds, making for clean, digestible metrics.\n\nHowever, in a tour truck on a random Tuesday morning at a PGA Tour event, the conversation sounds completely different. I have yet to hear a player walk on a truck and say “I wanna hit it farther.” The best players and fitters in the world don’t look at equipment that way — the priority is reliability.",
-        "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "LIV says it has found investor to keep league alive",
-        "link": "https://golf.com/news/liv-golf-lands-lead-investor/",
-        "published": "2026-08-05T14:05:25+00:00",
-        "published_label": "Wed 05 Aug, 14:05",
-        "summary": "LIV Golf has found a \"lead\" investor, according to CEO Scott O'Neil, that will keep the league afloat under a new structure. The post LIV says it has found investor to keep league alive appeared first on Golf .",
-        "body": "After months of deliberation about the future of LIV Golf, the league has apparently solved part of its dilemma. It has a new “lead” investor lined up, according to a statement from LIV CEO Scott O’Neil, who was set to meet with reporters Wednesday morning at LIV’s event in New Jersey.\n\nAccording to O’Neil, an agreement is in place with the unnamed investor and comes alongside “strong interest” from various parties for potential minority investments. The deal has been approved by LIV’s board and is expected to reach final terms next month. No financial terms were announced by the league, though the announcement comes just days after reports that LIV was closing in on a $250 million investment.",
-        "copy": "After months of deliberation about the future of LIV Golf, the league has apparently solved part of its dilemma. It has a new “lead” investor lined up, according to a statement from LIV CEO Scott O’Neil, who was set to meet with reporters Wednesday morning at LIV’s event in New Jersey.\n\nAccording to O’Neil, an agreement is in place with the unnamed investor and comes alongside “strong interest” from various parties for potential minority investments. The deal has been approved by LIV’s board and is expected to reach final terms next month. No financial terms were announced by the league, though the announcement comes just days after reports that LIV was closing in on a $250 million investment.",
-        "first_seen": "2026-08-05T14:12:04.561052+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF Worlds: Sindhu defends monkey whisperer plan, cites Wimbledon's hawk",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPblhNQ2FISHExQnlIWTVMRXk3SWNocUFNWktDekhrVUNWV2RpUUV6b2NxeDJJX3k2ZElnQkNxbUJ3SElQakc5T3ZwZnk0VGN2UmxOajhZQUk3bVhoNzRIU1E1Q1U1YmRQTXplMUswTmdmellxSFEyTnVJaUNnbDdRSjAwZENGSU1weEFOellDWS1jWkU3My1kVVo2SzhpeUJmV1ItQTh4ZDA1cDVFQW14RGZrY1BxQUM4ZVlPM3lkbllPZmZTaHpISDZHeFprWUpmN213ckF6c2I3VXpiNWFXddIB5gFBVV95cUxNdDBGNHJrbkZ0NWdiTklGVjc4Q3JHSnhjWE1Bd1AzdVE2Yl9yWHBUdG9xWWcxZXRDV29IZWtLYkpaTFZBazA0cmVzQXdUZFNoVTVOOGRKT0dEQUd3SmhuQzdiMHRvektQZUh0dkRGTzYxR09ZbFlHZ09UcXZqN0U5cGNtdFhiMHNSMjVQbU1CcXg1eWN1NXQwbzFTajBZLVY5R1NRb25DU3RCTUtkdHZ4cFB0UGRXVG5Xc0xoMkRJR2JwcWlVVjdCNU1yM0xaa3ZMX0xmb0ZwcC15Smo5NTJDUW10aENoUQ?oc=5",
+        "published": "2026-08-12T13:35:27+00:00",
+        "published_label": "Wed 12 Aug, 13:35",
+        "summary": "BWF Worlds: Sindhu defends monkey whisperer plan, cites Wimbledon's hawk India Today",
+        "body": "PV Sindhu defends the animal-control measures at the BWF World Championships venue, comparing Delhi's monkey whisperer to Wimbledon's Rufus the hawk, and dismissing criticism as missing the scale of preparations under way.\n\nPV Sindhu has doubled down on her support for the elaborate animal-control measures put in place ahead of the BWF World Championships in Delhi, pushing back against the criticism the plan has drawn since a video of monkey whisperer Zafar at work went viral.",
+        "copy": "PV Sindhu defends the animal-control measures at the BWF World Championships venue, comparing Delhi's monkey whisperer to Wimbledon's Rufus the hawk, and dismissing criticism as missing the scale of preparations under way.\n\nPV Sindhu has doubled down on her support for the elaborate animal-control measures put in place ahead of the BWF World Championships in Delhi, pushing back against the criticism the plan has drawn since a video of monkey whisperer Zafar at work went viral.",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -5999,6 +6025,19 @@
         "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/sindhu-pushes-back-against-criticism-over-monkey-control-at-bwf-world-championships-2026-14037634.html\" on this server.\n\nReference #18.6e18d017.1786519231.25a59e1f https://errors.edgesuite.net/18.6e18d017.1786519231.25a59e1f",
         "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/sindhu-pushes-back-against-criticism-over-monkey-control-at-bwf-world-championships-2026-14037634.html\" on this server.\n\nReference #18.6e18d017.1786519231.25a59e1f https://errors.edgesuite.net/18.6e18d017.1786519231.25a59e1f",
         "first_seen": "2026-08-12T07:20:58.951995+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Sindhu pushes back against criticism over monkey control at 2026 World Badminton Championships: 'Don’t unde...",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONGJXcHJOQzN5ZzBiVlBpdmJWZnRCMk5DUW9zZ2dGZnFLT2pibDl5Rzh6TUpRRHZaR2w4aDZnMnFpcEoyLWVZOGdKeVV3by0zMWh5c0ZSZWlOZllCSlp2TmdTRHdKeU9JdldKS3d0clJZaFVSbkpUZ2Noc3czVjRJR3hPNzZKdG9sRnRIVDIzTEtvTlFEaFhGeUo3VXJpVUFGOGtFS0xTZmMwNkJSVHpuWGd4SklBVDRPRExvaTVFTkxjdWZxdmhnWHJWVHI4VWhjTHFhdk0xZUZWRWQ0RlJOTmJYcnBUY01QLUHSAeoBQVVfeXFMTjRiV3ByTkMzeWcwYlZQaXZiVmZ0QjJOQ1Fvc2dnRmZxS09qYmw5eUc4ek1KUUR2WkdsOGg2ZzJxaXBKMi1lWThnSnlVd28tMzFoeXNGUmVpTmZZQkpadk5nU0R3SnlPSXZXSkt3dHJSWWhVUm5KVGdjaHN3M1Y0SUd4Tzc2SnRvbEZ0SFQyM0xLb05RRGhYRnlKN1VyaVVBRjhrRUtMU2ZjMDZCUlR6blhneEpJQVQ0T0RMb2k1RU5MY3VmcXZoZ1hyVlRyOFVoY0xxYXZNMWVGVkVkNEZSTk5iWHJwVGNNUC1B?oc=5",
+        "published": "2026-08-12T07:05:54+00:00",
+        "published_label": "Wed 12 Aug, 07:05",
+        "summary": "Sindhu pushes back against criticism over monkey control at 2026 World Badminton Championships: 'Don’t unde... Firstpost",
+        "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/sindhu-pushes-back-against-criticism-over-monkey-control-at-bwf-world-championships-2026-14037634.html/amp\" on this server.\n\nReference #18.46643717.1786546504.267ad24 https://errors.edgesuite.net/18.46643717.1786546504.267ad24",
+        "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/sindhu-pushes-back-against-criticism-over-monkey-control-at-bwf-world-championships-2026-14037634.html/amp\" on this server.\n\nReference #18.46643717.1786546504.267ad24 https://errors.edgesuite.net/18.46643717.1786546504.267ad24",
+        "first_seen": "2026-08-12T14:55:34.049125+00:00"
       },
       {
         "section": "Badminton",
@@ -6961,45 +7000,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-07T12:57:27.672111+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships: Satwik-Chirag can beat anyone, but ...",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMndXUVNTRzdzQ2NwVG93b1hGWmM5bFlVZlhtOTJoNkI3WnotdkQyRU84Qk5aSGtkNlVGak1YT05DbFNiWngyTkhZLTJCdXdnTmxXWnphWEUwd3otelRCaU5RM3pLTlQwcWdTMXZvQVI5LU5IZFluSHI4d2lkbDZhVXBQd0ZSNUd2U3Rac0NUOVE2MHRMVTh1a2FuVEVoY0Jjem9rS3JncjJHa0g00gGvAUFVX3lxTE1xYXFtQWJjZmRWSm91N2p4YWJxSU4tM1lDUFBkczFhWG50NERkcUZtZG4wV3NrTERTZ3hRXy1aMVRZWVZfbmF0NW1SRjJLb1hTUzFUaGVKOEE5eVF6U1pTcmRwN2RudWF3Y3VpelFnLWd0RENrLXlKekl3NU9hOUNNWVhEVF82V3A4cHlaeXM1SFhqLW8ydVhuVWs0cEFWOEhNaENFVDMwN1lQbmthUkk?oc=5",
-        "published": "2026-08-05T14:15:20+00:00",
-        "published_label": "Wed 05 Aug, 14:15",
-        "summary": "BWF World Championships: Satwik-Chirag can beat anyone, but ... Rediff",
-        "body": "India's men's doubles coach Tan Kim Her has voiced significant concern over Satwiksairaj Rankikreddy's persistent shoulder injury, which remains the biggest challenge for the former world No. 1 pair, Satwik and Chirag Shetty, as they prepare for the highly anticipated BWF World Championships.\n\n- Satwiksairaj Rankireddy's recurring shoulder injury is the primary concern for coach Tan Kim Her ahead of the BWF World Championships. - Despite the injury, Satwik and Chirag Shetty, bronze medallists in 2022 and 2025, recently won the Singapore Open Super 750 title.",
-        "copy": "India's men's doubles coach Tan Kim Her has voiced significant concern over Satwiksairaj Rankikreddy's persistent shoulder injury, which remains the biggest challenge for the former world No. 1 pair, Satwik and Chirag Shetty, as they prepare for the highly anticipated BWF World Championships.\n\n- Satwiksairaj Rankireddy's recurring shoulder injury is the primary concern for coach Tan Kim Her ahead of the BWF World Championships. - Despite the injury, Satwik and Chirag Shetty, bronze medallists in 2022 and 2025, recently won the Singapore Open Super 750 title.",
-        "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton World Championships 2026 draw: World number ones Shi Yuqi and An Seyoung discover their opponents",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWTNwUW1rZlRlU3JfWHExX2JEbUtlYXluX05RRzEwZXJkLTdteUJId0EwdDdmWDY0ZWZEWF84TVI4YWhqc3dQTVZsVU5MRk9TaVhWVkZZUmFxM2FaMi1nb3hkT3lLTkNZV0xkVENNZ2lydGlaYlJfdHBxdWk3al9xcEJvQU5rdw?oc=5",
-        "published": "2026-08-05T13:51:00+00:00",
-        "published_label": "Wed 05 Aug, 13:51",
-        "summary": "Badminton World Championships 2026 draw: World number ones Shi Yuqi and An Seyoung discover their opponents olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-05T14:12:04.561052+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF satisfied with upgrades at World Championships venue after India Open backlash",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa05iYzJtNVo5bXZCaERBZ3RWZTZjMTYxeWxiY2g0WmlBc0NjOEU4SUVySklLcjRhVDNPcTZid2FjTHpqT2ZiQmVaVzhnU0paeGh6TVJZNUVqWU8yaTcwNnJ6Rk05cmc5N1o5amlYaDdJSkxud25qTlBXNTYxWDlHMGJrQjBSaTNsWThLRFV3UWpmci16Y0p6c3M0RDRPTkZnMWZiYU5Pdkp2S1VkeU5RSS1oX3E3QlBu0gG-AUFVX3lxTE5mNkJEZWJLOHZzNDhVZmxsQ2FjQnhMdllvVUtYSzN3UFJRODI3Y2s1UWtsbUR2Z0ExMVpES2pwalJQblliOU5kaS1YeExkM1BwNGpTSTdPVzF0bXVmd01Na3Q1Mk8xRjJkMDd5eE90UVUwSEs2SGV6eEdQb1oxdXhGbURkcnhSZ3hnX19Fc2NrR1F4U2l1NmhqRG9Ea0ZZM0dyLVZEald2bFpVbldRd1NQQnRkdDBsdEM1dndHMEE?oc=5",
-        "published": "2026-08-05T13:48:10+00:00",
-        "published_label": "Wed 05 Aug, 13:48",
-        "summary": "BWF satisfied with upgrades at World Championships venue after India Open backlash ThePrint",
-        "body": "New Delhi, Aug 5 (PTI) The Badminton World Federation on Wednesday expressed satisfaction with the extensive renovation and cleaning work carried out at the Indira Gandhi Indoor Stadium here ahead of the World Championships, saying most of the shortcomings highlighted after the India Open earlier this year have been addressed.\n\nThe venue had come under sharp criticism during the India Open Super 750 tournament in January after players and officials complained about poor hygiene, unclean toilets and the presence of pigeons and monkeys inside the complex.",
-        "copy": "New Delhi, Aug 5 (PTI) The Badminton World Federation on Wednesday expressed satisfaction with the extensive renovation and cleaning work carried out at the Indira Gandhi Indoor Stadium here ahead of the World Championships, saying most of the shortcomings highlighted after the India Open earlier this year have been addressed.\n\nThe venue had come under sharp criticism during the India Open Super 750 tournament in January after players and officials complained about poor hygiene, unclean toilets and the presence of pigeons and monkeys inside the complex.",
-        "first_seen": "2026-08-06T23:57:21.162619+00:00"
       }
     ],
     "Competitor News": [
