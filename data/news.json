@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T08:46:59.090341+00:00",
-  "generated_label": "Wednesday 12 August 2026, 08:46 UTC",
+  "generated_at": "2026-08-12T09:10:31.827186+00:00",
+  "generated_label": "Wednesday 12 August 2026, 09:10 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Yankees secure $2.6bn from Apollo in debt and equity deal",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS2VJVlZGeDNPUlJSeVhPXzYtbVJ4RHBOVHA3S0RJMUZsd1VqT3JwUERwV3VnaVpfTlpLbmlSZ2FFVGFpd3NNYkVSVHRjT1kxVGpKUlctNnZNOFpwYlNySzJNQ1JyV1JmaVpxVVA5MHd4dzNkRnEzMGVoVTF5MHREN3BjeFpqTUI5YWQ3bHp0N3Y?oc=5",
+        "published": "2026-08-12T08:51:18+00:00",
+        "published_label": "Wed 12 Aug, 08:51",
+        "summary": "Yankees secure $2.6bn from Apollo in debt and equity deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-12T09:10:31.827186+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1483,6 +1496,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Nonu performs solo haka in response to All Blacks",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crl7p3e8xj5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-12T09:01:38+00:00",
+        "published_label": "Wed 12 Aug, 09:01",
+        "summary": "Former All Blacks star Ma'a Nonu responds to the haka by performing one of his own before his club side's game with New Zealanders in Durban.",
+        "body": "New Zealand rugby union great Ma'a Nonu performed a solo haka in response to the All Blacks' haka before his Sharks side fell to a heavy defeat in Durban. The All Blacks continued their tour of South Africa with a resounding 54-0 victory, though what happened pre-match will go down in rugby folklore.\n\nAfter New Zealand performed their usual Ka Mate haka, Nonu stepped in front of his Sharks team-mates and responded with Kapa o Pango, the All Blacks' alternative haka. The 44-year-old played 104 matches for New Zealand between 2003 and 2015, and was part of the side that won the Rugby World Cup in 2011 and 2015.",
+        "copy": "New Zealand rugby union great Ma'a Nonu performed a solo haka in response to the All Blacks' haka before his Sharks side fell to a heavy defeat in Durban. The All Blacks continued their tour of South Africa with a resounding 54-0 victory, though what happened pre-match will go down in rugby folklore.\n\nAfter New Zealand performed their usual Ka Mate haka, Nonu stepped in front of his Sharks team-mates and responded with Kapa o Pango, the All Blacks' alternative haka. The 44-year-old played 104 matches for New Zealand between 2003 and 2015, and was part of the side that won the Rugby World Cup in 2011 and 2015.",
+        "first_seen": "2026-08-12T09:10:31.827186+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Former England coach Brian Smith dies aged 59",
+        "link": "https://www.rugbypass.com/news/former-england-coach-brian-smith-dies-aged-59-wallabies-ireland-rugby-nrl/",
+        "published": "2026-08-12T08:54:46+00:00",
+        "published_label": "Wed 12 Aug, 08:54",
+        "summary": "Former England assistant coach Brian Smith has died at the 59 after a battle with an aggressive cancer.",
+        "body": "Former England assistant coach Brian Smith has died at the 59 after a battle with an aggressive cancer. Dr Ian PM Lambert, principal Scots College where Smith had worked since 2015, confirmed his death on Wednesday.\n\nThe former fly-half made six appearances for Australia, including three at the 1987 Rugby World Cup, before earning nine caps for Ireland while studying at Oxford University. Upon his return to Australia, Smith made the move to rugby league, where he made 43 NRL appearances across four seasons for the Balmain Tigers and Eastern Suburbs.",
+        "copy": "Former England assistant coach Brian Smith has died at the 59 after a battle with an aggressive cancer. Dr Ian PM Lambert, principal Scots College where Smith had worked since 2015, confirmed his death on Wednesday.\n\nThe former fly-half made six appearances for Australia, including three at the 1987 Rugby World Cup, before earning nine caps for Ireland while studying at Oxford University. Upon his return to Australia, Smith made the move to rugby league, where he made 43 NRL appearances across four seasons for the Balmain Tigers and Eastern Suburbs.",
+        "first_seen": "2026-08-12T09:10:31.827186+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3444,19 +3483,6 @@
         "summary": "The All Blacks could go into the four-Test Greatest Rivalry Series as the number one ranked team in the world.",
         "body": "The All Blacks could go into the four-Test Greatest Rivalry Series (22 August-12 September) as the number one ranked team in the world. South Africa are closing in on an unbroken year-long run at the top, having dethroned the All Blacks last September. But a defeat to Argentina in Buenos Aires this Saturday would result in the All Blacks taking over again.\n\nRassie Erasmus’ side go into the match at Estadio José Amalfitani with a rankings rating of 93.96, giving them a lead of 1.68 points over the All Blacks, who begin their tour of South Africa against the Stormers in Cape Town on Friday night.",
         "copy": "The All Blacks could go into the four-Test Greatest Rivalry Series (22 August-12 September) as the number one ranked team in the world. South Africa are closing in on an unbroken year-long run at the top, having dethroned the All Blacks last September. But a defeat to Argentina in Buenos Aires this Saturday would result in the All Blacks taking over again.\n\nRassie Erasmus’ side go into the match at Estadio José Amalfitani with a rankings rating of 93.96, giving them a lead of 1.68 points over the All Blacks, who begin their tour of South Africa against the Stormers in Cape Town on Friday night.",
-        "first_seen": "2026-08-05T10:06:53.307385+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'There wasn't even a hesitation': Butcher ready to lead Scotland at WXV Global Series",
-        "link": "https://www.rugbypass.com/news/there-wasnt-even-a-hesitation-butcher-ready-to-lead-scotland-at-wxv-global-series/",
-        "published": "2026-08-05T09:08:46+00:00",
-        "published_label": "Wed 05 Aug, 09:08",
-        "summary": "Dave Butcher says there “wasn't even a hesitation” when he was asked if he would take up the role as Scotland women’s interim head coach ahead of the WXV Global Series.",
-        "body": "Dave Butcher says there “wasn’t even a hesitation” when he was asked if he would take up the role as Scotland women’s interim head coach ahead of the WXV Global Series. There is never a dull day in Scottish rugby and, on Monday morning, the governing body announced that head coach Sione Fukofuka was leaving his post after eight months and was returning home to Australia for family and personal reasons.\n\nAt that time it was explained that Butcher, who had been an assistant under Fukofuka, was to become interim head coach. Later in the day, Scottish Rugby announced that senior assistant coach Ioan Cunningham was leaving too and that Chris Laidlaw from Harlequins and Tom Luke from Bristol Bears were joining as assistants for the upcoming quintet of Test matches.",
-        "copy": "Dave Butcher says there “wasn’t even a hesitation” when he was asked if he would take up the role as Scotland women’s interim head coach ahead of the WXV Global Series. There is never a dull day in Scottish rugby and, on Monday morning, the governing body announced that head coach Sione Fukofuka was leaving his post after eight months and was returning home to Australia for family and personal reasons.\n\nAt that time it was explained that Butcher, who had been an assistant under Fukofuka, was to become interim head coach. Later in the day, Scottish Rugby announced that senior assistant coach Ioan Cunningham was leaving too and that Chris Laidlaw from Harlequins and Tom Luke from Bristol Bears were joining as assistants for the upcoming quintet of Test matches.",
         "first_seen": "2026-08-05T10:06:53.307385+00:00"
       }
     ],
@@ -6017,6 +6043,19 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "'A Regrettable Withdrawal': An Se-young Finally Returns, Aiming for 'First World Championship Title in Three Years'",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qNTc2S0lvdURrSFNNMnNQSmdmam5qN1JKZ2xiQ1FmNXVCU1FjNWZFVFJ2SlUyS2RWZzRadFNvYWFaQ01TQkgzRzZHelpTT0FlMWJ6cHBieFJoSnNFaGVDaDJlUjJYdkw3OHdKWFhsRFE3OW1BNnliX1N3?oc=5",
+        "published": "2026-08-12T09:01:00+00:00",
+        "published_label": "Wed 12 Aug, 09:01",
+        "summary": "'A Regrettable Withdrawal': An Se-young Finally Returns, Aiming for 'First World Championship Title in Three Years' starnewskorea.com",
+        "body": "'The world's strongest' An Se-young (24, Samsung Life), who withdrew mid-tournament last month due to foot pain and subsequently skipped the following event, is finally returning.\n\nAccording to the Korea Badminton Association on the 12th, An Se-young has been entered in the women's singles event of the 2026 BWF World Individual Badminton Championships, scheduled from the 17th to the 23rd in New Delhi, India. She will compete alongside Kim Ga-eun (Samsung Life) and Shim Yu-jin (Incheon International Airport).",
+        "copy": "'The world's strongest' An Se-young (24, Samsung Life), who withdrew mid-tournament last month due to foot pain and subsequently skipped the following event, is finally returning.\n\nAccording to the Korea Badminton Association on the 12th, An Se-young has been entered in the women's singles event of the 2026 BWF World Individual Badminton Championships, scheduled from the 17th to the 23rd in New Delhi, India. She will compete alongside Kim Ga-eun (Samsung Life) and Shim Yu-jin (Incheon International Airport).",
+        "first_seen": "2026-08-12T09:10:31.827186+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "‘Don’t understand the outrage’: P V Sindhu compares ‘monkey whisperers’ at BWF Worlds with Wimbledon",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZndURUx5UmV6cjBqNk94UjZnaVRxTEpmcnRWaDgxdmQ3Vnh5dWcycHNHeTVrV1FmTWxCZzU1MFg2LVMwc2MtWUtHNWZwQldFTkI4czVwRXM2U3pZZzJRWFFNVVhYSzdaTUl6a3NrOEhVQ1Z3R2lKSUE1MWlCNWtZN0tSbWVQeFlBMThUUVE3eEs5MXk4WjVSMGFpeTc0MjRTUFFWVzBzcU0xcTFVZExFeW12elZRcmxNc1pkNjlMdlNkWHNzWlZaaVJleDFKaW9FMWNZbndzaEfSAd8BQVVfeXFMTnZqYVhTczE5VGl1VU1hZmNDUFh1SmlEYjQzLWxnenYwYVVTNHo1LUwwX0RVLWttbDFNZUp2REVPUTlla1BBTnVfaEN0eXQ4TWNIRm1VcmtLTl9Hd2NsRlJHZmxNSGluR3JobEs4MWhlRWhVZ1A5S3V2aXR1UndvOFJSS0k0ZnFGX2ZFMTU3YUFCOWhNeDBoMVVySUt6QS1ZWkFjTk00MWtabktTSFBQcXNPRzl4R09hZm9QbXdWb2ZqWVROQWs2SXlPNHdLMXJXanhubDQ3bGh1NV9kUDZvZw?oc=5",
         "published": "2026-08-12T07:54:29+00:00",
@@ -7161,5 +7200,5 @@
       }
     ]
   },
-  "total": 549
+  "total": 552
 }
