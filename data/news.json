@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T16:56:45.677339+00:00",
-  "generated_label": "Wednesday 12 August 2026, 16:56 UTC",
+  "generated_at": "2026-08-12T18:59:30.836605+00:00",
+  "generated_label": "Wednesday 12 August 2026, 18:59 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Mark Walter’s insurers rush to unwind affiliated investments",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzlDdUxURXVDMnN0azA2NGR6eGJWSHFOdVZ4YnotZ1FIMXlHTGFYTlhQTE5WRlZsV0Z4THNJTVNkSjh4OExDcXVUMmM1ZThlZENBc2M2anRwOXdWaVRBSFI3ajFPRm1TQVI4empzb3lYRDlJME9kNVdBT3hyaDg2VU1NLWY?oc=5",
+        "published": "2026-08-12T18:13:34+00:00",
+        "published_label": "Wed 12 Aug, 18:13",
+        "summary": "Mark Walter’s insurers rush to unwind affiliated investments Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-12T18:59:30.836605+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1441,22 +1454,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-06T08:31:49.933522+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Europe must do more to harness its AI ambitions",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03enpreVZ3LTBHRHRGdXpmRmo2NlU1WmNOZ2hJaEZ1VWRibnlkYTNiMEwzSEx4OVJHTFBOdjFqdXVTWEVxbGVvbEZwMjBkMWhUNlQ3aGEtMmthXzF0N04yQjNoSTdwWWpZVGxTdTVTVUQ?oc=5",
-        "published": "2026-08-05T17:01:54+00:00",
-        "published_label": "Wed 05 Aug, 17:01",
-        "summary": "Europe must do more to harness its AI ambitions Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-06T08:31:49.933522+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Centre Hall extends stay at Saracens",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cn8np14v005o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-12T18:07:42+00:00",
+        "published_label": "Wed 12 Aug, 18:07",
+        "summary": "Saracens' England 'A' centre Angus Hall signs a new contract with the Prem club.",
+        "body": "Saracens' England 'A' centre Angus Hall has signed a new contract with the Prem club. The 20-year-old, who came through the club's academy, made three Prem appearances last season as well as playing once in the European Champions Cup and three times in the Prem Rugby Cup.\n\nHe also spent time on loan at Champ side Ampthill as well as featuring against Spain and an All Blacks XV for England's 'A' side in November. \"Angus is exactly the type of player we want to build this club around,\" newly-appointed director of rugby Brendan Venter told the Saracens website.",
+        "copy": "Saracens' England 'A' centre Angus Hall has signed a new contract with the Prem club. The 20-year-old, who came through the club's academy, made three Prem appearances last season as well as playing once in the European Champions Cup and three times in the Prem Rugby Cup.\n\nHe also spent time on loan at Champ side Ampthill as well as featuring against Spain and an All Blacks XV for England's 'A' side in November. \"Angus is exactly the type of player we want to build this club around,\" newly-appointed director of rugby Brendan Venter told the Saracens website.",
+        "first_seen": "2026-08-12T18:59:30.836605+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -3419,35 +3432,22 @@
         "body": "There are 18 Test matches between now and the beginning of the 2027 home Rugby World Cup, and the Wallabies must use these games astutely. They must be used efficiently to build a Wallabies squad with a genuine depth of 33-40 players, and they must be used accurately to ensure players get the right exposure at the right time.\n\nThe first number is 33 because that has been the typical World Cup squad size, and it typically carries around 19-21 forwards with between 12-14 backs. You must also account for injuries, hence the number 40, which is an achievable number but still short of the ‘three-deep in every position’ standard that gets bandied around by rugby pundits.",
         "copy": "There are 18 Test matches between now and the beginning of the 2027 home Rugby World Cup, and the Wallabies must use these games astutely. They must be used efficiently to build a Wallabies squad with a genuine depth of 33-40 players, and they must be used accurately to ensure players get the right exposure at the right time.\n\nThe first number is 33 because that has been the typical World Cup squad size, and it typically carries around 19-21 forwards with between 12-14 backs. You must also account for injuries, hence the number 40, which is an achievable number but still short of the ‘three-deep in every position’ standard that gets bandied around by rugby pundits.",
         "first_seen": "2026-08-06T08:31:49.933522+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Kloska & Halliwell stay as Bears also sign Lennon",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cz05n170mvko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-05T17:02:11+00:00",
-        "published_label": "Wed 05 Aug, 17:02",
-        "summary": "Bristol props George Kloska and Jimmy Halliwell agree new deals and scrum-half Oscar Lennon re-signs with the club.",
-        "body": "England international George Kloska and fellow prop Jimmy Halliwell have both agreed new \"long-term\" contracts to stay with Bristol Bears. Kloska agrees his new deal with the Prem club weeks after winning his first two international caps during the Nations Championship.\n\nHalliwell and Kloska are both Bristolians and the duo also came through the Bears' academy setup. Scrum-half Oscar Lennon has also rejoined Bristol for the 2026-27 season having had a number of short spells with the side over the past three seasons.",
-        "copy": "England international George Kloska and fellow prop Jimmy Halliwell have both agreed new \"long-term\" contracts to stay with Bristol Bears. Kloska agrees his new deal with the Prem club weeks after winning his first two international caps during the Nations Championship.\n\nHalliwell and Kloska are both Bristolians and the duo also came through the Bears' academy setup. Scrum-half Oscar Lennon has also rejoined Bristol for the 2026-27 season having had a number of short spells with the side over the past three seasons.",
-        "first_seen": "2026-08-05T17:28:09.237503+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "New England cap George Kloska commits his future to Bristol",
-        "link": "https://www.rugbypass.com/news/new-england-cap-george-kloska-commits-his-future-to-bristol/",
-        "published": "2026-08-05T16:59:37+00:00",
-        "published_label": "Wed 05 Aug, 16:59",
-        "summary": "Bristol tight-head prop George Kloska, who made his England debut against Fiji last month, has signed a new long-term contract with the West Country club.",
-        "body": "Bristol tight-head prop George Kloska, who made his England debut against Fiji last month, has signed a new long-term contract with the West Country club. The 26-year-old Bristolian is a flagbearer for the club’s pathway from academy through to the Bears’ first team, and Director of Rugby Pat Lam is delighted with the decision.\n\n“George’s journey is everything we want Bristol Bears to stand for. He’s a proud Bristolian who has embraced our Academy pathway, worked incredibly hard to improve every part of his game and earned every opportunity that has come his way,” Lam said.",
-        "copy": "Bristol tight-head prop George Kloska, who made his England debut against Fiji last month, has signed a new long-term contract with the West Country club. The 26-year-old Bristolian is a flagbearer for the club’s pathway from academy through to the Bears’ first team, and Director of Rugby Pat Lam is delighted with the decision.\n\n“George’s journey is everything we want Bristol Bears to stand for. He’s a proud Bristolian who has embraced our Academy pathway, worked incredibly hard to improve every part of his game and earned every opportunity that has come his way,” Lam said.",
-        "first_seen": "2026-08-05T17:28:09.237503+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Meet Carlos Cano, Mexican serve guru hired to end Jack Draper’s injury woe",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanp5ZFJWOWVTUzJFU2NBLWJGRlZyRnVhV3kxXzY4RTUtTnJJSTNnaHBuTjQyeVdEZFVsSUV0U3c3b1d0UWJmNTUwbV9Ma3ZoUDlycTVfckhYQUZJYmxwSGtrTV9fajhnT3lON1RZMkNQTDFnVjhpSkhVOFFSS0gxbVQwbmhMSC1SRG4zZjFUTm1Malpta3p0ZnVZaFN2c0JaV1ZNMjNhQWpSa3VO?oc=5",
+        "published": "2026-08-12T16:30:00+00:00",
+        "published_label": "Wed 12 Aug, 16:30",
+        "summary": "Meet Carlos Cano, Mexican serve guru hired to end Jack Draper’s injury woe The Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-12T18:59:30.836605+00:00"
+      },
       {
         "section": "Tennis",
         "source": "Sky Sports",
@@ -3486,6 +3486,19 @@
         "body": "The draws have been announced for the main draw of the Cincinnati Open WTA 1000 and ATP Masters 1000 tournament from 13-23 August, including five British stars so far. Here’s a full roundup of the British players competing at the Cincinnati Open, including their first round draws.\n\nKatie Boulter starts her campaign in Ohio against American Katie Volynets. Boulter defeated Volynets in their only previous meeting in Ostrava earlier this year, where Boulter claimed her fourth career WTA title.",
         "copy": "The draws have been announced for the main draw of the Cincinnati Open WTA 1000 and ATP Masters 1000 tournament from 13-23 August, including five British stars so far. Here’s a full roundup of the British players competing at the Cincinnati Open, including their first round draws.\n\nKatie Boulter starts her campaign in Ohio against American Katie Volynets. Boulter defeated Volynets in their only previous meeting in Ostrava earlier this year, where Boulter claimed her fourth career WTA title.",
         "first_seen": "2026-08-12T08:46:59.090341+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Elena Rybakina vs Naomi Osaka | Canadian Open highlights",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWFrRmxUdndDWWlyYjItcUVDeGRzcUVEdi1LcTc4Tm56QVJpdV8zWF9pcnpfRFFYOXdQSW1zZ2RLSFZfa000UHdQOUs5YTJqOGhGaHZlSGxOV1FJOVhCSm1tS0d0dzdCX3Q3Uk9vQVg2UUJXci1ab3pvNGJRc1VxdTc2Tk41OGhtVnlOLWEwOGhYY3NGaVcxVWU1VjUwMmpBT2NaS3g0bVUwTEdK?oc=5",
+        "published": "2026-08-12T06:35:52+00:00",
+        "published_label": "Wed 12 Aug, 06:35",
+        "summary": "Elena Rybakina vs Naomi Osaka | Canadian Open highlights Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-12T18:59:30.836605+00:00"
       },
       {
         "section": "Tennis",
@@ -3863,22 +3876,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-06T08:31:49.933522+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "What has gone wrong for Jack Draper and Emma Raducanu?",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmxVMlVreG93c2Z0SldnWXhodUVzdjU4cGdnRFhKWnVqaF83T21EVGx6clJqYkd0RGMtejRJLUZuZzAwR2xEZ3lSNDZDSmJGUE5QSFNidUNYRk04UWNMQlA1T21pMUZLbF9qUmZjR2VIQlhwdXpWcVd4VTFDb1lFMVIyVTVVM2g4dFBycnVXTEZYd01qWlJMYm5VVTZmckRteFE?oc=5",
-        "published": "2026-08-05T18:11:00+00:00",
-        "published_label": "Wed 05 Aug, 18:11",
-        "summary": "What has gone wrong for Jack Draper and Emma Raducanu? The Telegraph",
-        "body": "Draper’s elbow sounds considerably more complicated. Yes, scans did show bone bruising on the end of his humerus – the big bone that runs from the elbow to the shoulder – when his initial pain was checked out last summer. But he is evidently not receiving such clear diagnoses anymore, because he keeps trying – and failing – to play tournaments. In the last 18 months, he has moved from the acute injury phase to something more chronic.\n\nIn that same Sky Sports interview in Montreal, Draper explained that “it’s important for people to recognise that the injury I have is very complex, it’s very complicated and everyone around me is doing everything we can to help this keep moving along”.",
-        "copy": "Draper’s elbow sounds considerably more complicated. Yes, scans did show bone bruising on the end of his humerus – the big bone that runs from the elbow to the shoulder – when his initial pain was checked out last summer. But he is evidently not receiving such clear diagnoses anymore, because he keeps trying – and failing – to play tournaments. In the last 18 months, he has moved from the acute injury phase to something more chronic.\n\nIn that same Sky Sports interview in Montreal, Draper explained that “it’s important for people to recognise that the injury I have is very complex, it’s very complicated and everyone around me is doing everything we can to help this keep moving along”.",
-        "first_seen": "2026-08-05T19:27:40.991213+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "U.S. Amateur’s 16-player playoff was fun for some fans — and agonizing for others",
+        "link": "https://golf.com/news/us-amateur-16-player-playoff-theater/",
+        "published": "2026-08-12T18:32:53+00:00",
+        "published_label": "Wed 12 Aug, 18:32",
+        "summary": "Sixteen U.S. Amateur contestants battled it out for 11 match-play spots at Merion on Wednesday. For some supporters, it was hard to watch. The post U.S. Amateur’s 16-player playoff was fun for some fans — and agonizing for others appeared first on Golf .",
+        "body": "ARDMORE, Pa. — It was not yet 11 on a still, warm Wednesday morning at Merion Golf Club, but Mike and Sherry Sands needed a drink. Could you blame them? On Tuesday evening, their son, Parker, a 20-year-old rising junior at the University of Florida, needed some gut-it-out heroics on his final hole to maintain any hope of advancing to match play here at the 126th U.S. Amateur. Parker was among the wave of players who went off hole 11 at Merion, meaning his round concluded on the drivable par-4 10th.\n\n“He had to birdie it,” Sherry began, eager to dish the details only a mother can provide. “He went for it, hit the green, bounced back into the sand, and it was right on the edge, on the down slope of the trap. Like, he barely had a backswing. He had one leg out, kneeling, and he kind of, like, goes like this.” Here, Shelly bent over into an uncomfortable-looking position. “Inch from the hole,” she continued. “Wow, wow. Best shot I’ve ever seen. His caddie — he was like, ‘Best shot I’ve ever seen.”",
+        "copy": "ARDMORE, Pa. — It was not yet 11 on a still, warm Wednesday morning at Merion Golf Club, but Mike and Sherry Sands needed a drink. Could you blame them? On Tuesday evening, their son, Parker, a 20-year-old rising junior at the University of Florida, needed some gut-it-out heroics on his final hole to maintain any hope of advancing to match play here at the 126th U.S. Amateur. Parker was among the wave of players who went off hole 11 at Merion, meaning his round concluded on the drivable par-4 10th.\n\n“He had to birdie it,” Sherry began, eager to dish the details only a mother can provide. “He went for it, hit the green, bounced back into the sand, and it was right on the edge, on the down slope of the trap. Like, he barely had a backswing. He had one leg out, kneeling, and he kind of, like, goes like this.” Here, Shelly bent over into an uncomfortable-looking position. “Inch from the hole,” she continued. “Wow, wow. Best shot I’ve ever seen. His caddie — he was like, ‘Best shot I’ve ever seen.”",
+        "first_seen": "2026-08-12T18:59:30.836605+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Golf fans fuming that LIV Golf is still selling tickets to cancelled team final",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXMzMHFMYlMzTUNGTVBqOVBmaDVvTFhXYzB2U29QdDlWd3BuODFXRTFwQV9hc3M1MGtIZmRvV2dhR2RqdU1GRlZuMEtiMF9VX1ZBUUJJbVhpRlJUUFZUZWlzX1R5UkNWYW5nYkV2ZjBwN2dBZF9hc2FRbFNnTUFpZEFaa2pBZm5CcElLV1BqZ0cyUVNLYmdUMXFzY0xYNnBDLTBBcXJSMEFJNjNt?oc=5",
+        "published": "2026-08-12T18:00:49+00:00",
+        "published_label": "Wed 12 Aug, 18:00",
+        "summary": "Golf fans fuming that LIV Golf is still selling tickets to cancelled team final Golfmagic",
+        "body": "The LIV Golf Team Championship final in Michigan has been cancelled amid weeks of uncertainty surrounding the event. Telegraph journalist James Corrigan broke the news earlier on Wednesday that LIV players have now been told that the $30m Team Championship isn’t going ahead at the end of August. There still hasn’t been an official statement from LIV, however.\n\nNow, you would think that once an event is cancelled, no more tickets would go on sale for said tournament. Remarkably, tickets are still available to purchase for the now-cancelled event on the LIV Golf website.",
+        "copy": "The LIV Golf Team Championship final in Michigan has been cancelled amid weeks of uncertainty surrounding the event. Telegraph journalist James Corrigan broke the news earlier on Wednesday that LIV players have now been told that the $30m Team Championship isn’t going ahead at the end of August. There still hasn’t been an official statement from LIV, however.\n\nNow, you would think that once an event is cancelled, no more tickets would go on sale for said tournament. Remarkably, tickets are still available to purchase for the now-cancelled event on the LIV Golf website.",
+        "first_seen": "2026-08-12T18:59:30.836605+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This part of the bag is key for the U.S. Amateur at Merion",
+        "link": "https://golf.com/gear/hybrids/merion-us-amateur-key-part-of-bag/",
+        "published": "2026-08-12T17:53:54+00:00",
+        "published_label": "Wed 12 Aug, 17:53",
+        "summary": "As the best amateurs in the world begin match play at Merion Golf Club, see what part of their bag could be key at the U.S. Amateur. The post This part of the bag is key for the U.S. Amateur at Merion appeared first on Golf .",
+        "body": "Merion Golf Club’s East course is certainly a lot more than just a the scorecard. At just 6,939 yards this week, Merion is one of the shortest courses in modern championship golf, but if you look a little closer at how the course arrives at that length, it paints a different picture.\n\nDespite the yardage, there’s no shortage of long holes, as there are three par-4s over 480 yards (5,6 and 18), two par-3s over 230 yards — with a third that was stretched to 266 during the 2013 U.S. Open — and both par-5s measuring nearly 600 yards. On the flip side, five par-4s measure 365 yards or less, as well as a par-3 that’s just 119 yards.",
+        "copy": "Merion Golf Club’s East course is certainly a lot more than just a the scorecard. At just 6,939 yards this week, Merion is one of the shortest courses in modern championship golf, but if you look a little closer at how the course arrives at that length, it paints a different picture.\n\nDespite the yardage, there’s no shortage of long holes, as there are three par-4s over 480 yards (5,6 and 18), two par-3s over 230 yards — with a third that was stretched to 266 during the 2013 U.S. Open — and both par-5s measuring nearly 600 yards. On the flip side, five par-4s measure 365 yards or less, as well as a par-3 that’s just 119 yards.",
+        "first_seen": "2026-08-12T18:59:30.836605+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -3891,6 +3930,19 @@
         "body": "Mark Fulcher, the winning caddie at the 2013 U.S. Open at Merion with Justin Rose, is enduring a serious case of caddie envy this week, with the U.S. Amateur unfolding at Merion. Like all proper golf bums, Fooch (as the veteran British caddie is known throughout golf and at your better racetracks) knows that match-play golf is the game at its primal and purest best. This is, after all, a man who has caddied in seven Ryder Cups, seven Solheim Cups and one Presidents Cup, all contested at match play. The U.S. Am, like its British counterpart, is a match play event (after the two-day stroke play qualifier). At the 1930 U.S. Am at Merion, Bobby Jones completed golf’s version of the Grand Slam (it’s a bridge term) with an 8-and-7 victory in the 36-hole final over a gent named Eugene V. Homans. If you’re new to this whole thing, in match play every hole is its own one-hole contest. Jones had an eight-hole lead with seven holes to go. No more golf. Jones and his caddie, a local teenager named Howard Rexford, joyfully made the hike from the 11th green back to the club’s iconic white farmhouse clubhouse. There were no carts.\n\n“Could you hit driver or 3-wood on one?” Fooch asked the other day, repeating a question posed to him and doing some oh-so-English stalling. The first hole at Merion is — well, what’s north of iconic? The first at Merion is a delicate tea-party par-4 with a ladies-at-lunch porch located a short lefty’s shank shot away. From there the hole is a wee uphill dogleg that, in U.S. Open stroke-play golf, is iron off the tee, wedge into the green, all day long, four straight days. But match play is a different animal.",
         "copy": "Mark Fulcher, the winning caddie at the 2013 U.S. Open at Merion with Justin Rose, is enduring a serious case of caddie envy this week, with the U.S. Amateur unfolding at Merion. Like all proper golf bums, Fooch (as the veteran British caddie is known throughout golf and at your better racetracks) knows that match-play golf is the game at its primal and purest best. This is, after all, a man who has caddied in seven Ryder Cups, seven Solheim Cups and one Presidents Cup, all contested at match play. The U.S. Am, like its British counterpart, is a match play event (after the two-day stroke play qualifier). At the 1930 U.S. Am at Merion, Bobby Jones completed golf’s version of the Grand Slam (it’s a bridge term) with an 8-and-7 victory in the 36-hole final over a gent named Eugene V. Homans. If you’re new to this whole thing, in match play every hole is its own one-hole contest. Jones had an eight-hole lead with seven holes to go. No more golf. Jones and his caddie, a local teenager named Howard Rexford, joyfully made the hike from the 11th green back to the club’s iconic white farmhouse clubhouse. There were no carts.\n\n“Could you hit driver or 3-wood on one?” Fooch asked the other day, repeating a question posed to him and doing some oh-so-English stalling. The first hole at Merion is — well, what’s north of iconic? The first at Merion is a delicate tea-party par-4 with a ladies-at-lunch porch located a short lefty’s shank shot away. From there the hole is a wee uphill dogleg that, in U.S. Open stroke-play golf, is iron off the tee, wedge into the green, all day long, four straight days. But match play is a different animal.",
         "first_seen": "2026-08-12T16:56:45.677339+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf team championship in Plymouth is canceled: report",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa014cW9sZjBoLVNyazF5b21jVnZFTUtxM01RaVZEUDNNWUV3VnBhZDQtSjFxZTlfLTBCMFN0SFZsU1JhQlZKMC11ZTdxNmFEUG12V21GemJiSmxJRERNYkVCWWQ4MnZ6TlRJc29qZFFoRDA0d0pXeXNyd2FCSlpVTFJodWd4VGFaN1Y4YQ?oc=5",
+        "published": "2026-08-12T16:25:56+00:00",
+        "published_label": "Wed 12 Aug, 16:25",
+        "summary": "LIV Golf team championship in Plymouth is canceled: report Yahoo Sports",
+        "body": "The worst-kept secret in professional golf is apparently out there now: There will be no LIV Golf event in Michigan this year. LIV has told players that the team championship event, scheduled to take place in Plymouth in three weeks, has been canceled, according to a report in The Telegraph on Wednesday, Aug. 12.\n\nThis would be the second LIV tournament to be canceled in 2026, after an event in New Orleans was called off in June. A cancellation of the event should come as no surprise. On Aug. 5, LIV announced a new lead investor but did not commit to the 2026 season finishing with the team championship at The Cardinal at Saint John's in Plymouth, scheduled for Aug. 27-30. And as Free Press columnist Carlos Monarrez pointed out, there was no visible signage or indication a tournament was coming to the course in the near future.",
+        "copy": "The worst-kept secret in professional golf is apparently out there now: There will be no LIV Golf event in Michigan this year. LIV has told players that the team championship event, scheduled to take place in Plymouth in three weeks, has been canceled, according to a report in The Telegraph on Wednesday, Aug. 12.\n\nThis would be the second LIV tournament to be canceled in 2026, after an event in New Orleans was called off in June. A cancellation of the event should come as no surprise. On Aug. 5, LIV announced a new lead investor but did not commit to the 2026 season finishing with the team championship at The Cardinal at Saint John's in Plymouth, scheduled for Aug. 27-30. And as Free Press columnist Carlos Monarrez pointed out, there was no visible signage or indication a tournament was coming to the course in the near future.",
+        "first_seen": "2026-08-12T18:59:30.836605+00:00"
       },
       {
         "section": "Golf",
@@ -5828,113 +5880,22 @@
         "body": "A molded grip — aka a grip trainer — is a training aid that is typically used by beginner golfers. But it’s also a tool used by the No. 1 golfer in the world. Yes, that’s right, Scottie Scheffler uses a training aid marketed for weekend hackers.\n\nWhile it may be surprising that a four-time major winner leans on such a rudimentary training aid, when you understand that every good swing is predicated upon elite fundamentals, it starts to make sense.",
         "copy": "A molded grip — aka a grip trainer — is a training aid that is typically used by beginner golfers. But it’s also a tool used by the No. 1 golfer in the world. Yes, that’s right, Scottie Scheffler uses a training aid marketed for weekend hackers.\n\nWhile it may be surprising that a four-time major winner leans on such a rudimentary training aid, when you understand that every good swing is predicated upon elite fundamentals, it starts to make sense.",
         "first_seen": "2026-08-06T08:31:49.933522+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf secures ‘lead investor’ until 2030 but future of star names still uncertain",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZuVTFqYl8yN2pBZVpsd3EzYmg3YmRiTnNWel9Oek9oMnhFWVZpNDk4eTRPemhRU2pXejZ0OUY5Wll4c25nbkh2T3Nvblp0cVJNcEtXeS1HRllmOWd4dUQ5b3VuZlJSaXR3R0lwQnMxaVNtZDE4Z1IySkNUQmJfQ2JITzRkZHI2WEpWTDVOVE1SVk81cFJVN1Z2Y1BVVnhFeWs1V2V6NW5RRVNvUklNMGxCYw?oc=5",
-        "published": "2026-08-05T18:58:00+00:00",
-        "published_label": "Wed 05 Aug, 18:58",
-        "summary": "LIV Golf secures ‘lead investor’ until 2030 but future of star names still uncertain The Guardian",
-        "body": "LIV Golf has secured a “lead investor” to safeguard its existence until 2030, although the agreement is unlikely to prevent a batch of high-profile players departing by the end of this year.\n\nScott O’Neil, LIV’s chief executive, announced basic plans for the “next generation” of the tour on Wednesday while refusing to disclose the new funders of the business. After the withdrawal of backing from Saudi Arabia’s Public Investment Fund, O’Neil has been engaged in a race against time to save his business.",
-        "copy": "LIV Golf has secured a “lead investor” to safeguard its existence until 2030, although the agreement is unlikely to prevent a batch of high-profile players departing by the end of this year.\n\nScott O’Neil, LIV’s chief executive, announced basic plans for the “next generation” of the tour on Wednesday while refusing to disclose the new funders of the business. After the withdrawal of backing from Saudi Arabia’s Public Investment Fund, O’Neil has been engaged in a race against time to save his business.",
-        "first_seen": "2026-08-05T19:27:40.991213+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "In PGA Tour schedule shakeup, a playoff host won’t be in Championship Series",
-        "link": "https://golf.com/news/pga-tour-schedule-shakeup-playoff-host-championship/",
-        "published": "2026-08-05T18:40:48+00:00",
-        "published_label": "Wed 05 Aug, 18:40",
-        "summary": "Memphis, which has hosted a PGA Tour playoff event since 2022, won’t stage a PGA Tour Championship Series tournament. The post In PGA Tour schedule shakeup, a playoff host won’t be in Championship Series appeared first on Golf .",
-        "body": "Memphis has hosted PGA Tour tournaments since 1958 and a Tour playoff event since 2022, but the city will not be part of the Tour’s top-level circuit slated to start in 2028. The schedule shakeup, first reported by the Memphis Commercial Appeal, was confirmed in statements given to GOLF.com by the Tour and FedEx, a longtime Tour sponsor and whose name is attached to the current Memphis event, the FedEx St. Jude Championship. That tournament will be played next week at TPC Southwind and next year as well, but then no more in its current role.\n\nThe news comes two months after the Tour announced it would be creating a Championship Series, featuring 23 to 24 events and its highest-rated players, and a lower-tier Challenger Series starting in 2028. The Tour’s sponsorship deal with FedEx — which includes the backing of the Memphis event and the Tour’s seasonlong points race and postseason — is set to end at the end of next year.",
-        "copy": "Memphis has hosted PGA Tour tournaments since 1958 and a Tour playoff event since 2022, but the city will not be part of the Tour’s top-level circuit slated to start in 2028. The schedule shakeup, first reported by the Memphis Commercial Appeal, was confirmed in statements given to GOLF.com by the Tour and FedEx, a longtime Tour sponsor and whose name is attached to the current Memphis event, the FedEx St. Jude Championship. That tournament will be played next week at TPC Southwind and next year as well, but then no more in its current role.\n\nThe news comes two months after the Tour announced it would be creating a Championship Series, featuring 23 to 24 events and its highest-rated players, and a lower-tier Challenger Series starting in 2028. The Tour’s sponsorship deal with FedEx — which includes the backing of the Memphis event and the Tour’s seasonlong points race and postseason — is set to end at the end of next year.",
-        "first_seen": "2026-08-05T19:27:40.991213+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "LIV Golf says it has a lifeline. Here are 9 questions you might be asking",
-        "link": "https://golf.com/news/liv-golf-lifeline-questions-you-might-be-asking/",
-        "published": "2026-08-05T18:24:34+00:00",
-        "published_label": "Wed 05 Aug, 18:24",
-        "summary": "LIV Golf CEO Scott O'Neil said Wednesday that the league has an agreement in place with a lead investor. So, what now? The post LIV Golf says it has a lifeline. Here are 9 questions you might be asking appeared first on Golf .",
-        "body": "BEDMINSTER, N.J. — Will LIV Golf really live to see another season? An answer to that question came into focus — well, sort of — Wednesday morning when the league’s CEO, Scott O’Neil, made a hastily scheduled appearance in the media center here at Trump Bedminster and announced to a room full of reporters, LIV staffers and other interested observers that the league has an agreement in place with a “lead” investor to fund the operation beyond the 2026 season.\n\nO’Neil’s presser was light on detail in terms of the particulars of the deal, but between his remarks and additional information GOLF.com has learned, here’s what we know (and don’t know):",
-        "copy": "BEDMINSTER, N.J. — Will LIV Golf really live to see another season? An answer to that question came into focus — well, sort of — Wednesday morning when the league’s CEO, Scott O’Neil, made a hastily scheduled appearance in the media center here at Trump Bedminster and announced to a room full of reporters, LIV staffers and other interested observers that the league has an agreement in place with a “lead” investor to fund the operation beyond the 2026 season.\n\nO’Neil’s presser was light on detail in terms of the particulars of the deal, but between his remarks and additional information GOLF.com has learned, here’s what we know (and don’t know):",
-        "first_seen": "2026-08-05T19:27:40.991213+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "LIV Golf secures unnamed lead investor for 2027",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c1e14g1d192o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-05T17:36:53+00:00",
-        "published_label": "Wed 05 Aug, 17:36",
-        "summary": "After the withdrawal of Saudi Arabian financial backing earlier this year, LIV Golf says it has secured a deal with an unnamed lead investor to continue next season.",
-        "body": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief exeuctive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
-        "copy": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief exeuctive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
-        "first_seen": "2026-08-05T19:27:40.991213+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf secures unnamed lead investor for 2027 season",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MZE93clZZRDZvaHRnZVpQeHFHZTF2LXlxbzJrMlpiSVRyUXExYUxpbmZyUjlZV2RJdWdvUE9pVXg2MWRuWTg5NmJYOGVkaEs5UlFORWY4WEhjalJFS19BSVN1dWU?oc=5",
-        "published": "2026-08-05T17:36:53+00:00",
-        "published_label": "Wed 05 Aug, 17:36",
-        "summary": "LIV Golf secures unnamed lead investor for 2027 season BBC",
-        "body": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief exeuctive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
-        "copy": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief exeuctive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
-        "first_seen": "2026-08-05T19:27:40.991213+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf secures unnamed lead investor for 2027 season",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wdXRBUDQ2V3h4OTBXMk9JeTc3NmhILTh0VTNnZFRHQWxzd3lTLWtWYzZGbEo0VGI1ZnFYX3BTcTZCR1VCTGdrdWxORTVvRF9tRkVwX2owaUFJTlhqMGJxWnJn?oc=5",
-        "published": "2026-08-05T17:36:53+00:00",
-        "published_label": "Wed 05 Aug, 17:36",
-        "summary": "LIV Golf secures unnamed lead investor for 2027 season BBC",
-        "body": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief executive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
-        "copy": "LIV Golf says it has secured an unnamed lead investor to keep the competition running in 2027 after the withdrawal of Saudi Arabian financial backing. The Saudi Public Investment Fund (PIF) said in April it would end its multibillion dollar backing of the brekaway tour at the end of the season, plunging the future of the series into doubt.\n\nChief executive Scott O'Neil said a signed agreement with a new investor is in place and has been approved by the LIV Golf board, with the transaction expected to be completed in September.",
-        "first_seen": "2026-08-06T08:31:49.933522+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Ryder Cup stars join Irish Open field",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cvgljn1wvxro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-05T17:19:58+00:00",
-        "published_label": "Wed 05 Aug, 17:19",
-        "summary": "Robert MacIntyre, Patrick Reed, Francesco Molinari and Sepp Straka will play the Irish Open at the Trump International Golf Links & Hotel in Doonbeg, County Clare from 9-13 September.",
-        "body": "Robert MacIntyre, Patrick Reed, Francesco Molinari and Sepp Straka will play the Irish Open at the Trump International Golf Links & Hotel in Doonbeg from 9-13 September. Defending champion Rory McIlroy and two-time major winner John Rahm are the headline attractions in a field that also contains home favourites Shane Lowry and Padraig Harrington, as well as Luke Donald, Tyrrell Hatton, and the Hojgaard brothers, Rasmus and Nicolai.\n\nAmerican Reed, who won the Masters in 2018, currently leads the Race to Dubai and has won twice on the DP World Tour this year. The 36-year-old announced his departure from LIV Golf in January and is eligible to return to the PGA Tour this month.",
-        "copy": "Robert MacIntyre, Patrick Reed, Francesco Molinari and Sepp Straka will play the Irish Open at the Trump International Golf Links & Hotel in Doonbeg from 9-13 September. Defending champion Rory McIlroy and two-time major winner John Rahm are the headline attractions in a field that also contains home favourites Shane Lowry and Padraig Harrington, as well as Luke Donald, Tyrrell Hatton, and the Hojgaard brothers, Rasmus and Nicolai.\n\nAmerican Reed, who won the Masters in 2018, currently leads the Race to Dubai and has won twice on the DP World Tour this year. The 36-year-old announced his departure from LIV Golf in January and is eligible to return to the PGA Tour this month.",
-        "first_seen": "2026-08-05T19:27:40.991213+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDFGVXd0aGs0YVNYTUlTNzNzaVRjMlQxdFlnZDlWRnNjdW43djl3Snd5bUt0d0l5UW9yazlRSmZnMnhfbmtKOHo4QS1uY0lLUEZCX2tjNHJ0Z2RQbW5XZ0hiVGUwUHphNWRDQWNsVkVnTVBnRTN5bzRUdkxpNFR2RG55YXJfRFItWjF4NF95TUVVSkZySVE4cE9NdEF3WnR6MWgxdl8wY2tXd3NzUWgwdUxkb0nSAboBQVVfeXFMTlJRYVdVbThnX0hJY0FjVC1sejl6Yk9CVVF2Ylo5bGt6eWR5TzdORmNfQ0FFNDRWMGQ4UVdleXZ4UG5xVGI1VkQ2QllUa0FHc0FpVUtiV0NXd1dOSE5CMFdWd1pMOFZNcVNucS1zVU96SzBPQ25SemRtcDkxaU9JZmZGMkdEQUN5SHJSV1Eta05DR3pqYlE3eWxYc08xa0lHYW8xZTNVSElFVWVPcjd6OUNaLS1tcnpHTTBR?oc=5",
-        "published": "2026-08-05T17:10:34+00:00",
-        "published_label": "Wed 05 Aug, 17:10",
-        "summary": "LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit Al Jazeera",
-        "body": "LIV Golf has secured a “lead investor” to keep the lights on, and the league will move forward with players becoming majority equity holders, CEO Scott O’Neil has announced. A signed agreement is in place with the unnamed investor and has been approved by the LIV Golf board, O’Neil said on Wednesday.\n\nThe transaction is expected to close in September. No details on the amount of the capital infusion were announced. Multiple reports said LIV Golf will return next season with 10 events – five international and five in the United States.",
-        "copy": "LIV Golf has secured a “lead investor” to keep the lights on, and the league will move forward with players becoming majority equity holders, CEO Scott O’Neil has announced. A signed agreement is in place with the unnamed investor and has been approved by the LIV Golf board, O’Neil said on Wednesday.\n\nThe transaction is expected to close in September. No details on the amount of the capital infusion were announced. Multiple reports said LIV Golf will return next season with 10 events – five international and five in the United States.",
-        "first_seen": "2026-08-06T08:31:49.933522+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships 2026 Delhi: BAI vows no repeat of Indian Open chaos",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY2k1VS04ZEp2d2VRVUJER1FJTm9qblJKLUQ2TnJOYmhTY0hNOWc5bi1jM0tVaS1senBnMHdzRzBGUDZQSFVrQWZwZ19OQ1Uxcm83Mm42OEhMUEVHVUVBU3A2QkNGRmlkQXIydGJadi0zcWNlQWVpeVBMZExZTzBESXVUSzNnY1VST3V5MnNjQ1hoRVdYOGl4TlhkRkMxMVBxd2dUWEpQS1hGNW5tZ2lva3JOSUMtaEhqUU10YVZIdGRYXzByUnpFbW1rVmc1dFFUeDRZNFdFMEpEQS1rQXF4dGZqLXV6UWhtLUsyRWlqcmRLcFZENENVdGNB0gGAAkFVX3lxTE85Q0N0NTMtR2tFWjFmX0xYQzZJZzFvQmxpS3NjSUdkbWQzQWNCbE9CQWpaOGJ2Zzg5eUFUZTE1SnBqQkluUmQ0WU9XcHJuZHd3a2xQZVBrSVlGalA2MmtwUmY4aUdIS3NORm4wek9RRE45amVaREhiYnJEeEM0aEY3UHpfMnBZZEttU0hLeTU4ek5ZOEk1U3R2VlBDT3M3MUxVZUZJaks1eG9qRTcxWXpLcFVVZXVpUUV1eWRHVERxbXBSMjdPSVNINGU1X3A4cEZDT0ZQQ0IwdFB2MnItNDZEbU5ZRm9UODNXLXY3TVRGUVdnd1JGbGdJZWtMTmpJT1I?oc=5",
+        "published": "2026-08-12T14:02:35+00:00",
+        "published_label": "Wed 12 Aug, 14:02",
+        "summary": "BWF World Championships 2026 Delhi: BAI vows no repeat of Indian Open chaos sportstar.thehindu.com",
+        "body": "Badminton Association of India (BAI) copped brickbats aplenty earlier this year after the Indian Open at the Indira Gandhi Indoor Stadium in New Delhi was marred by monkey intrusions, bird-related disruptions, issues with ageing infrastructure, subpar spectator facilities, and the capital’s infamous pollution.\n\nThe venue, which was originally built for the 1982 Asian Games and later renovated for the 2010 Commonwealth Games, will now open its doors again to the BWF World Championships, starting Monday, and organisers will hope to make headlines for the right reasons this time, ensuring that nothing but the sport takes centre stage. The opportunity is doubly significant given India is set to host the next Commonwealth Games and the nation’s ambitious bid for the 2036 Olympics.",
+        "copy": "Badminton Association of India (BAI) copped brickbats aplenty earlier this year after the Indian Open at the Indira Gandhi Indoor Stadium in New Delhi was marred by monkey intrusions, bird-related disruptions, issues with ageing infrastructure, subpar spectator facilities, and the capital’s infamous pollution.\n\nThe venue, which was originally built for the 1982 Asian Games and later renovated for the 2010 Commonwealth Games, will now open its doors again to the BWF World Championships, starting Monday, and organisers will hope to make headlines for the right reasons this time, ensuring that nothing but the sport takes centre stage. The opportunity is doubly significant given India is set to host the next Commonwealth Games and the nation’s ambitious bid for the 2036 Olympics.",
+        "first_seen": "2026-08-12T18:59:30.836605+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6048,8 +6009,8 @@
         "published": "2026-08-12T07:05:54+00:00",
         "published_label": "Wed 12 Aug, 07:05",
         "summary": "Sindhu pushes back against criticism over monkey control at 2026 World Badminton Championships: 'Don’t unde... Firstpost",
-        "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/sindhu-pushes-back-against-criticism-over-monkey-control-at-bwf-world-championships-2026-14037634.html/amp\" on this server.\n\nReference #18.46643717.1786546504.267ad24 https://errors.edgesuite.net/18.46643717.1786546504.267ad24",
-        "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/sindhu-pushes-back-against-criticism-over-monkey-control-at-bwf-world-championships-2026-14037634.html/amp\" on this server.\n\nReference #18.46643717.1786546504.267ad24 https://errors.edgesuite.net/18.46643717.1786546504.267ad24",
+        "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/sindhu-pushes-back-against-criticism-over-monkey-control-at-bwf-world-championships-2026-14037634.html/amp\" on this server.\n\nReference #18.25c83017.1786561152.3e133e7b https://errors.edgesuite.net/18.25c83017.1786561152.3e133e7b",
+        "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/sindhu-pushes-back-against-criticism-over-monkey-control-at-bwf-world-championships-2026-14037634.html/amp\" on this server.\n\nReference #18.25c83017.1786561152.3e133e7b https://errors.edgesuite.net/18.25c83017.1786561152.3e133e7b",
         "first_seen": "2026-08-12T14:55:34.049125+00:00"
       },
       {
@@ -6948,32 +6909,6 @@
         "body": "NEW DELHI: The road to a home World Championships podium could hardly be tougher for rising star Ayush Shetty after the BWF World Championships draw, announced here on Wednesday, pitched the unseeded Indian against defending champion, top seed and World No. 1 Shi Yu Qi of China in a riveting opening round clash. The tournament will be held at the IGI Stadium from Aug 17 to 23.\n\nAyush, who lost to Shi in this year’s Badminton Asia Championships final, gets an opportunity to avenge that defeat. Chief national coach Pullela Gopichand felt the daunting opener could yet work in the youngster’s favour. “I do believe Ayush is very good and with his attacking style, playing Shi in the first round is better than meeting him later. If he wins, it opens up the draw,” Gopichand said, adding, “Overall, it looks like a good draw from the Indian perspective. We aspire to end up on the podium in a few events.”",
         "copy": "NEW DELHI: The road to a home World Championships podium could hardly be tougher for rising star Ayush Shetty after the BWF World Championships draw, announced here on Wednesday, pitched the unseeded Indian against defending champion, top seed and World No. 1 Shi Yu Qi of China in a riveting opening round clash. The tournament will be held at the IGI Stadium from Aug 17 to 23.\n\nAyush, who lost to Shi in this year’s Badminton Asia Championships final, gets an opportunity to avenge that defeat. Chief national coach Pullela Gopichand felt the daunting opener could yet work in the youngster’s favour. “I do believe Ayush is very good and with his attacking style, playing Shi in the first round is better than meeting him later. If he wins, it opens up the draw,” Gopichand said, adding, “Overall, it looks like a good draw from the Indian perspective. We aspire to end up on the podium in a few events.”",
         "first_seen": "2026-08-06T08:31:49.933522+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF Satisfied With Upgrades At World Championships Venue After India Open Backlash",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXhGNDBqSXhIbDRfempJcFRPMWVBOWE4T0VaYlhsaElfd1VQbDdsODVZT0hXeXdmUV9yMzNIVEQyUUZrRzRHOXE2bUp4dlFmdmxLclVDRkt2dVJLeG1ycXFuVm8yQ1F0VlpuLW1MUm5TYUpJbFduQWpValJSQWJqbUlac2w1NFIzOVNyTVRmWDMyX2wtcFBYeGhlVUUzZEtxeDdXd3pQSmwtQzNLVk1PMXBlTnJkRkJXUXl0R2pRanJYLWs?oc=5",
-        "published": "2026-08-05T18:39:23+00:00",
-        "published_label": "Wed 05 Aug, 18:39",
-        "summary": "BWF Satisfied With Upgrades At World Championships Venue After India Open Backlash NDTV Sports",
-        "body": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-satisfied-with-upgrades-at-world-championships-venue-after-india-open-backlash-11871708\" on this server.\n\nReference #18.e818d017.1785958057.5557a4be https://errors.edgesuite.net/18.e818d017.1785958057.5557a4be",
-        "copy": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-satisfied-with-upgrades-at-world-championships-venue-after-india-open-backlash-11871708\" on this server.\n\nReference #18.e818d017.1785958057.5557a4be https://errors.edgesuite.net/18.e818d017.1785958057.5557a4be",
-        "first_seen": "2026-08-05T19:27:40.991213+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF Worlds: Sindhu gets dream start, Ayush faces defending champ",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnVsQUxuWFZPSkNpWGJlOW0yNFdtNkctWmtGX295Vk1IUkdNZ1NtdTlxMFhfZElFYnY5N3g3SmN4NEZaZ3U3MUE4Y21PLTZ0NFlMSnhUbUJDdk54cVJvUE5BbDdlWi1ORU0zcjB5MjlEWlZhYTBXNUVuRklRWkdZZ0VnY1ZYaklteUlPYThRVF8zZVlvTzNkX2xtWnNOaXJzWXBCWlJDcmpIR0VESl9fZGZn0gG0AUFVX3lxTFB0MTJFX0tOa0NfQ3RuZ241dlNrMFlZbkR4b3NyYjRvajRSQWNyanVYRmlQNlNNRUZqX3dETEwza2xuSEQ4TWVOeGdRQ2piYkQtTllHWTJGWUZPVmNlNWRZdFI1TlAxOVNxc2pLN2RPNFJpeEFWNzh2WnEwY2Y4cUxCb3NIUklBeTMzSktTMnF2T2hOV0ZvUUN4dElxNEd4RGJ6SlAyT0FiWG9VOGgxZzQtdFZ2bQ?oc=5",
-        "published": "2026-08-05T16:59:04+00:00",
-        "published_label": "Wed 05 Aug, 16:59",
-        "summary": "BWF Worlds: Sindhu gets dream start, Ayush faces defending champ Rediff",
-        "body": "Top Indian badminton players, including PV Sindhu and Lakshya Sen, have received their draws for the BWF World Championships in New Delhi, setting the stage for an exciting tournament with both favourable matchups and challenging opening rounds for the nation's shuttlers.\n\n- India is hosting the BWF World Championships for the first time in 17 years, from August 17 to 23 at the Indira Gandhi Indoor Stadium. - PV Sindhu, a former world champion, begins her quest for a sixth medal against world No. 141 Sophia Nobel of Ireland, avoiding top seeds until later rounds.",
-        "copy": "Top Indian badminton players, including PV Sindhu and Lakshya Sen, have received their draws for the BWF World Championships in New Delhi, setting the stage for an exciting tournament with both favourable matchups and challenging opening rounds for the nation's shuttlers.\n\n- India is hosting the BWF World Championships for the first time in 17 years, from August 17 to 23 at the Indira Gandhi Indoor Stadium. - PV Sindhu, a former world champion, begins her quest for a sixth medal against world No. 141 Sophia Nobel of Ireland, avoiding top seeds until later rounds.",
-        "first_seen": "2026-08-07T16:53:39.828022+00:00"
       }
     ],
     "Competitor News": [
@@ -7083,5 +7018,5 @@
       }
     ]
   },
-  "total": 543
+  "total": 538
 }
