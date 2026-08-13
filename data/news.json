@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T08:51:32.718180+00:00",
-  "generated_label": "Thursday 13 August 2026, 08:51 UTC",
+  "generated_at": "2026-08-13T09:10:33.611556+00:00",
+  "generated_label": "Thursday 13 August 2026, 09:10 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1441,22 +1441,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-06T23:57:21.162619+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportBusiness",
-        "kind": "direct",
-        "title": "Global leaders, one room: all eyes on Melbourne’s SportNXT",
-        "link": "https://www.sportbusiness.com/2026/08/global-leaders-one-room-all-eyes-on-melbournes-sportnxt/?utm_source=rss&utm_medium=rss&utm_campaign=global-leaders-one-room-all-eyes-on-melbournes-sportnxt",
-        "published": "2026-08-06T09:00:00+00:00",
-        "published_label": "Thu 06 Aug, 09:00",
-        "summary": "SportNXT arrives in September, bringing together some of the most interesting voices in sport. Source",
-        "body": "",
-        "copy": "SportNXT arrives in September, bringing together some of the most interesting voices in sport. Source",
-        "first_seen": "2026-08-06T10:08:02.798284+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Australia Sevens trio help Nagato Blue Angels secure four-peat",
+        "link": "https://www.rugbypass.com/news/australia-sevens-trio-help-nagato-blue-angels-secure-four-peat/",
+        "published": "2026-08-13T09:00:31+00:00",
+        "published_label": "Thu 13 Aug, 09:00",
+        "summary": "The Nagato Blue Angels stormed home to win the Grand Final Tournament at the Daiwa House Premist Dome in Sapporo.",
+        "body": "After a dominant season across the 2026 Taiyo Seimei Women’s Sevens Series, the Nagato Blue Angels stormed home to win the Grand Final Tournament at the Daiwa House Premist Dome in Sapporo.\n\nThe tournament win marks the sixth time the Blue Angels have held the trophy aloft – and the fourth consecutive time they have done so, confirming the stranglehold they have on the competition.",
+        "copy": "After a dominant season across the 2026 Taiyo Seimei Women’s Sevens Series, the Nagato Blue Angels stormed home to win the Grand Final Tournament at the Daiwa House Premist Dome in Sapporo.\n\nThe tournament win marks the sixth time the Blue Angels have held the trophy aloft – and the fourth consecutive time they have done so, confirming the stranglehold they have on the competition.",
+        "first_seen": "2026-08-13T09:10:33.611556+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3918,6 +3918,32 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Is LIV Golf about to lose world ranking points?",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOak13Zl9CdVdwTmdFS0pJbG5PdDJRY1FfNHJKWDMxaGJFZXBFaEtQaDZOSHI4WXp5dFRyZFNUaTh6c0N2Rk93UXBUMEY0Y2pLUnVORzdWbDFiYTRRVXMtTGNzeVhCdHNaX2pCM0tBTzQ5RUhvbDQ4V3RuQ01qVFdNWVdzWUJMVktReWxsM2Vya1l0S1c5eU1haw?oc=5",
+        "published": "2026-08-13T09:02:42+00:00",
+        "published_label": "Thu 13 Aug, 09:02",
+        "summary": "Is LIV Golf about to lose world ranking points? Today's Golfer",
+        "body": "LIV Golf waited nearly four years to secure Official World Golf Ranking points. But is that arrangement now in jeopardy? When LIV Golf finally ended its near-four year wait for world ranking points in February, those presiding over the “exhaustive” process provided a detailed explanation for their conclusions.\n\nThe Official World Golf Ranking body had eventually opted to limit points to only the top-10 finishers at each LIV event, an arrangement the breakaway league regarded as “unprecedented” victimization. But in a long-winded statement laying out its reasons, the OWGR board said it recognized a “number of areas where LIV Golf does not meet the eligibility standards set out”.",
+        "copy": "LIV Golf waited nearly four years to secure Official World Golf Ranking points. But is that arrangement now in jeopardy? When LIV Golf finally ended its near-four year wait for world ranking points in February, those presiding over the “exhaustive” process provided a detailed explanation for their conclusions.\n\nThe Official World Golf Ranking body had eventually opted to limit points to only the top-10 finishers at each LIV event, an arrangement the breakaway league regarded as “unprecedented” victimization. But in a long-winded statement laying out its reasons, the OWGR board said it recognized a “number of areas where LIV Golf does not meet the eligibility standards set out”.",
+        "first_seen": "2026-08-13T09:10:33.611556+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Inside LIV Golf’s financial balancing act and the decisions it faces, including bankruptcy",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0Q4RzdNZ09mQ2daeVNqYzl0NDN3Ym8zUGJ5cExUeFE1S0tDWDVJSGpmTEFaV1g1SEhvemc3Z1lmdWJLZ2lldjNncEpzSlpRbkZpN1VzWWJYdFc1QnZEUjQ5TWlUNU9sOEloQW1IeFhrVkhaRmdoZ2c0ZUFlSDhpUGlTc3NsQnlOczJMd0h3V1ZqLS1HQ3RTaDMwNDdyLW9MUVdIYTdB?oc=5",
+        "published": "2026-08-13T09:00:56+00:00",
+        "published_label": "Thu 13 Aug, 09:00",
+        "summary": "Inside LIV Golf’s financial balancing act and the decisions it faces, including bankruptcy The New York Times",
+        "body": "LIV Golf says it has a new investor — one that CEO Scott O’Neil insists could support the league for many years to come. But behind the scenes, that confidence conflicts with player contracts that are no longer viable and a possible bankruptcy filing in the United States, both issues that must be hurdled before the new financial arrangement can be finalized.\n\nAs LIV Golf undergoes a full-scale restructuring, legal and financial experts agree that the tour is walking a tightrope: The league needs a functioning balance sheet, but it also needs its remaining star players if it has a chance to generate meaningful revenue from sponsors and TV partners.",
+        "copy": "LIV Golf says it has a new investor — one that CEO Scott O’Neil insists could support the league for many years to come. But behind the scenes, that confidence conflicts with player contracts that are no longer viable and a possible bankruptcy filing in the United States, both issues that must be hurdled before the new financial arrangement can be finalized.\n\nAs LIV Golf undergoes a full-scale restructuring, legal and financial experts agree that the tour is walking a tightrope: The league needs a functioning balance sheet, but it also needs its remaining star players if it has a chance to generate meaningful revenue from sponsors and TV partners.",
+        "first_seen": "2026-08-13T09:10:33.611556+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6961,19 +6987,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-06T10:08:02.798284+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "'Completely transformed': BAI promises best-ever BWF World Championships after India Open controversy",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObWxwOTBPMXpad2FfRW96Yy0xQndQOG1XN01Xc2Y4Qm4xRUVQRGJGWnhLY25KR01KUGNacVBzSmJLa0ZVVHNyZk9IaU1lc0x2a2xwdC04RjhHMUMwVHdoUDZuNXhrY0F0SmhNa3RudEtLckRqMDdQWW9WTUpzWHd1QmlzbEJ4a0tmcVRPNWt2R1VFanRmQ3Z3MXBocnl5QXo2NzBQcEFJTEdwYi1ndTlJQU9LWDV1Q1B4UEFDWjdkUTdmVWFlbUdMbElkMHM4SDNxUENwSy1qdm1aaXRVbkxmNHBjaEpOd0lxNWNibTNjbmYwNE1hYm0tVGpHWVFxZmkzeWU3VnRqYk7SAY4CQVVfeXFMTlFVYm5WeHJaT3VBb0dfOVhGWlRPNHlYS3pQbXhEUHZKTUdlckRrNlg1YTVtT2tSUEo3ZHpKaXZfS1ZqRUIzRzNYQktpOS1OTFhNRkxUSHRHX2MzM3pKOEhfaTItT2pQSmJYLUZEVThRUkN6QTVtR25vallfSjE4NDNhZUVOaWRxeWx1OWJLOWU5WWJ2QzNETkQxaVZIc19ma2tZQmJBS3lPMDJBc25iZi1ndFhaLXN5TVVkak41bzlSUDFyTzIzQU95bENVZHNVazg5Z1hmdExLRXNnYXBGS2t0VVQ2bEt5RngzS0k3X1JUS2psTkZ0M1NxeEJVZFhMb2dOY0VDcFJFX3BDRGdR?oc=5",
-        "published": "2026-08-06T08:58:00+00:00",
-        "published_label": "Thu 06 Aug, 08:58",
-        "summary": "'Completely transformed': BAI promises best-ever BWF World Championships after India Open controversy The Times of India",
-        "body": "NEW DELHI: Months after the India Open came under fire over the condition of its facilities, the Badminton Association of India (BAI) has assured players and fans that New Delhi's Indira Gandhi Indoor Stadium has undergone a complete makeover and is ready to host the \"best-ever\" edition of the BWF World Championships.\n\nThe World Championships will be held in the national capital from August 17, with organisers confident that the issues which overshadowed the India Open earlier this year have now been fully addressed.",
-        "copy": "NEW DELHI: Months after the India Open came under fire over the condition of its facilities, the Badminton Association of India (BAI) has assured players and fans that New Delhi's Indira Gandhi Indoor Stadium has undergone a complete makeover and is ready to host the \"best-ever\" edition of the BWF World Championships.\n\nThe World Championships will be held in the national capital from August 17, with organisers confident that the issues which overshadowed the India Open earlier this year have now been fully addressed.",
-        "first_seen": "2026-08-06T14:33:01.557395+00:00"
       }
     ],
     "Competitor News": [
@@ -7083,5 +7096,5 @@
       }
     ]
   },
-  "total": 543
+  "total": 544
 }
