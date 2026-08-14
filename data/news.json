@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T07:21:11.976589+00:00",
-  "generated_label": "Friday 14 August 2026, 07:21 UTC",
+  "generated_at": "2026-08-14T08:44:15.109168+00:00",
+  "generated_label": "Friday 14 August 2026, 08:44 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "SportBusiness",
+        "kind": "direct",
+        "title": "Token gains: OneFootball back from the brink",
+        "link": "https://www.sportbusiness.com/2026/08/token-gains-onefootball-back-from-the-brink/?utm_source=rss&utm_medium=rss&utm_campaign=token-gains-onefootball-back-from-the-brink",
+        "published": "2026-08-14T08:26:24+00:00",
+        "published_label": "Fri 14 Aug, 08:26",
+        "summary": "This week we mix up The SportBusiness Podcast format and take an in-depth look at OneFootball’s recovery four years on from the NFT deals that nearly sent it under.",
+        "body": "",
+        "copy": "This week we mix up The SportBusiness Podcast format and take an in-depth look at OneFootball’s recovery four years on from the NFT deals that nearly sent it under.",
+        "first_seen": "2026-08-14T08:44:15.109168+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "US Bank extends long-running 49ers sponsorship, adds practice jersey patch",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnI0VFRUNGZ6dHNqOEloMHZYNFN6TE1XMjZUZXpDNTlVakJoODIwRUw5b1ZfVXFWQlRha0ZLMkJFU2c3WTlpSkpHdEQ5TVlaSHloQUNoZFd5Z3N2dlVLVEctMlBFU0xFUkRRTGhwWnVlRFFudWtLaFFYTnRrMGdCX3YzS09ST0NOVmtjeEtlSUZIdG93TnFxcGswUVpXdEF4YWdYOFRVMA?oc=5",
+        "published": "2026-08-14T08:21:49+00:00",
+        "published_label": "Fri 14 Aug, 08:21",
+        "summary": "US Bank extends long-running 49ers sponsorship, adds practice jersey patch Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-14T08:44:15.109168+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Paysafe Becomes Envision Racing Title Partner to Build the Future of Fan Engagement; Where Motorsport, Gaming and Payments Become One – Company Announcement - FT.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEJ5Ml9BRzUxTklmdlhHcVgwSmpaVDZDVTZpVm03VGJvRXNtTzZCLU83SE00NVJVcWNQRjFqblRPOGpPTzJQSDh1WEdkVmEzd1pZWVQxQ3hTZFhVSm5rR05QUTVXOXp5NFgwdkFPejc5ajBFSUJMQTI3bDRnel83SDA4MDhRbGIxd21UcEUyVVdudlU1OHFSZ1VoMTBrNEJBMUZBWnF3?oc=5",
+        "published": "2026-08-14T07:59:00+00:00",
+        "published_label": "Fri 14 Aug, 07:59",
+        "summary": "Paysafe Becomes Envision Racing Title Partner to Build the Future of Fan Engagement; Where Motorsport, Gaming and Payments Become One – Company Announcement - FT.com Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-14T08:44:15.109168+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1428,35 +1467,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-07T18:53:31.476104+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Can the Polestar 3 save you from hay fever?",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vYUZVVUlKS0dLb1NJNWpJOXhLN1ZsOGlWRGVIZHhsWWk0V0luUWlabDFDRVdzYi1jcEpJc2RSd3NhY3FSRVhEa3dQRjJKRWlkSjNWVFJBSkFNb2lJRURYVjc5T2o2QjVkNDBpRlI0Um4?oc=5",
-        "published": "2026-08-07T08:30:07+00:00",
-        "published_label": "Fri 07 Aug, 08:30",
-        "summary": "Can the Polestar 3 save you from hay fever? ft.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-08T16:31:00.691693+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "HSBC watch",
-        "kind": "gnews",
-        "title": "Times Prime Takes HSBC Live+ Dining Benefits Across India, Singapore, Thailand and Dubai",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOExDZWVSc250bWxDTGNSMWVtTTdDNnhyWk52anVud0tHQTlWN1lNd001aHNzc1EzQmVMNDRJTmttdENzQVFMc3M4anY2NTdpMVd3RkdqOU01SVZveXlLYTh1bVU1cVNhUVBZeTVhUmkwR051emZjakZfZ1hCNEFOckg1dTNWN3pHclotZ1l3WWJIdTJFY2dDN2hMb3hWZkNpS0VYWg?oc=5",
-        "published": "2026-08-07T07:29:31+00:00",
-        "published_label": "Fri 07 Aug, 07:29",
-        "summary": "Times Prime Takes HSBC Live+ Dining Benefits Across India, Singapore, Thailand and Dubai Prittle Prattle News",
-        "body": "Sandeep Batra, Head of International Wealth and Premier Banking at HSBC India, said the new Visa Infinite card combines dining, travel, lifestyle and shopping benefits, while Times Prime brings its restaurant access platform to cardholders.\n\nHSBC Live+ Visa Infinite Credit Card holders will receive access to chef curated dining experiences across India, Singapore, Thailand and Dubai through a partnership between Times Prime and HSBC India.",
-        "copy": "Sandeep Batra, Head of International Wealth and Premier Banking at HSBC India, said the new Visa Infinite card combines dining, travel, lifestyle and shopping benefits, while Times Prime brings its restaurant access platform to cardholders.\n\nHSBC Live+ Visa Infinite Credit Card holders will receive access to chef curated dining experiences across India, Singapore, Thailand and Dubai through a partnership between Times Prime and HSBC India.",
-        "first_seen": "2026-08-07T08:35:45.963194+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Shifting sands in the game",
+        "link": "https://www.rugbypass.com/plus/shifting-sands-in-the-game-kennedy-tsimbas-shift-theory-part-one/",
+        "published": "2026-08-14T07:18:43+00:00",
+        "published_label": "Fri 14 Aug, 07:18",
+        "summary": "The All Blacks will play the Bulls who have, in coach Kennedy Tsimba, a visionary who has evolved the game in South Africa",
+        "body": "In the Shona language native to Zimbabwe there is a well-known phrase: ‘tsimba itsoka’. It means ‘no foot, no footprint’ and it refers firstly to the footprint an animal may leave on the veld; on the larger scale of human activity, it highlights to the deep mark a man or a woman may leave on the ground of life.\n\nA few weeks ago, I met Kennedy Tsimba, the current Skills coach of the Pretoria-based Bulls. As a player, Kennedy was a star in Sevens and he was anointed the ‘King of Bloemfontein’ for his record-breaking try-scoring feats with the Cheetahs. Tsimba became the fastest player to score over 1000 points in the Currie Cup, the Vodacom Cup and Super Rugby during his six-year stint in the Vrystaat and he is remembered. The footprint is strong.",
+        "copy": "In the Shona language native to Zimbabwe there is a well-known phrase: ‘tsimba itsoka’. It means ‘no foot, no footprint’ and it refers firstly to the footprint an animal may leave on the veld; on the larger scale of human activity, it highlights to the deep mark a man or a woman may leave on the ground of life.\n\nA few weeks ago, I met Kennedy Tsimba, the current Skills coach of the Pretoria-based Bulls. As a player, Kennedy was a star in Sevens and he was anointed the ‘King of Bloemfontein’ for his record-breaking try-scoring feats with the Cheetahs. Tsimba became the fastest player to score over 1000 points in the Currie Cup, the Vodacom Cup and Super Rugby during his six-year stint in the Vrystaat and he is remembered. The footprint is strong.",
+        "first_seen": "2026-08-14T08:44:15.109168+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3577,6 +3603,19 @@
         "body": "Iga Swiatek secured her first WTA title of the season with a straight-set victory over Elena Rybakina in the final of the Canadian Open on Thursday. The six-time Grand Slam winner was cheered on by the crowd in Toronto as she beat world number two Rybakina 6-2 6-3.\n\nAustralian Open champion Rybakina struggled in the opening set and made 12 unforced errors, while Swiatek, 25, broke the Kazakhstan player's serve twice - and saved two breaks points of her own - to take the first set.",
         "copy": "Iga Swiatek secured her first WTA title of the season with a straight-set victory over Elena Rybakina in the final of the Canadian Open on Thursday. The six-time Grand Slam winner was cheered on by the crowd in Toronto as she beat world number two Rybakina 6-2 6-3.\n\nAustralian Open champion Rybakina struggled in the opening set and made 12 unforced errors, while Swiatek, 25, broke the Kazakhstan player's serve twice - and saved two breaks points of her own - to take the first set.",
         "first_seen": "2026-08-14T07:21:11.976589+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper has ‘a mountain to climb’ after first round exit at Cincinnati Open",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNczhjdmttWFBxYzd2WkI2RUF4ekVBVkZQQktHNHRBdXh0T1Y3b3VfVW01UktpRDZMbGZRTHdfeUNlR19ybWw5QlpzUW9Fc1BlX2dKWlo2NHZsOVdYX1M2X25tUElzZVNQempvcEc4OERQSERCTktRaEtKQnBWT3Z4cFpKMTYxV3MxWi0tSGxjc1JQOXQ1UEZVczFPWlZHMWxJN0RlRU1zNmlrM0hWaU9SRFBrQ0ZGcGdTdm1RSnRtOA?oc=5",
+        "published": "2026-08-14T06:50:00+00:00",
+        "published_label": "Fri 14 Aug, 06:50",
+        "summary": "Jack Draper has ‘a mountain to climb’ after first round exit at Cincinnati Open The Independent",
+        "body": "Jack Draper sent down 12 double faults and lost five games in a row on his way to being dumped out of the Cincinnati Open in a 6-3 7-5 loss to Martin Landaluce. It proved another difficult day for the former US Open semi-finalist on his comeback from a longstanding bone bruising issue after he had broken down in tears during a defeat to Terence Atmane at last week’s National Bank Open in Montreal.\n\nDraper, in only his second match since he missed Wimbledon to continue a torrid injury-hit 12 months, had been two breaks up in the second set of his match with world number 64 before he collapsed to exit the Masters 1000 event in the first round.",
+        "copy": "Jack Draper sent down 12 double faults and lost five games in a row on his way to being dumped out of the Cincinnati Open in a 6-3 7-5 loss to Martin Landaluce. It proved another difficult day for the former US Open semi-finalist on his comeback from a longstanding bone bruising issue after he had broken down in tears during a defeat to Terence Atmane at last week’s National Bank Open in Montreal.\n\nDraper, in only his second match since he missed Wimbledon to continue a torrid injury-hit 12 months, had been two breaks up in the second set of his match with world number 64 before he collapsed to exit the Masters 1000 event in the first round.",
+        "first_seen": "2026-08-14T08:44:15.109168+00:00"
       },
       {
         "section": "Tennis",
@@ -6257,22 +6296,35 @@
         "body": "Watch highlights from Round 1 of LIV Golf New York, where Joaquin Niemann carded 64 to build a two-stroke lead over Ian Poulter and Lucas Herbert. You can watch every round of the LIV Golf season live on TNT Sports. It is available both live and on-demand on HBO Max.",
         "copy": "Watch highlights from Round 1 of LIV Golf New York, where Joaquin Niemann carded 64 to build a two-stroke lead over Ian Poulter and Lucas Herbert. You can watch every round of the LIV Golf season live on TNT Sports. It is available both live and on-demand on HBO Max.",
         "first_seen": "2026-08-07T10:51:36.450839+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf secures new investor as O'Neil outlines post-Saudi future",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWNhalZRamdYMXFab1gyakZ5MGFtc0FHTEJYYk1PMjF6REp6Rl9GRGx3aVlDZlJFcUxvYTFXc3hmNGpCOHctbW04ZWZ5Mm92c0JRSGdFSkFPMmpkeEZ5aFBmVWhLZjJWTW91X2hfYWgzaEY5VDZYOC1XYzJIanN1M0dLTDNPdTc2eEZzMnFOanN2cFVNeXlhVFFFZ0tma0JnT2FxZmNaZy0?oc=5",
-        "published": "2026-08-07T08:15:00+00:00",
-        "published_label": "Fri 07 Aug, 08:15",
-        "summary": "LIV Golf secures new investor as O'Neil outlines post-Saudi future Inside The Games",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-07T08:35:45.963194+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Badminton: Delhi battles monkeys and pigeons ahead of BWF World Championships",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiU3hkY3F2dkZuS3JpelZxSDJSOVZYUXd2Wk90a1FhNXNmNEdsVzBXcm1NQ2p3Wmc3REI0SUJzS1YwZ19ReWcwcGozLVFLMmpuUTltM1ByVVYxVm0x?oc=5",
+        "published": "2026-08-14T08:17:23+00:00",
+        "published_label": "Fri 14 Aug, 08:17",
+        "summary": "Badminton: Delhi battles monkeys and pigeons ahead of BWF World Championships BBC",
+        "body": "Sports authorities in India are taking extra measures to keep monkeys and pigeons away from a major international badminton tournament in Delhi after wildlife intrusions overshadowed another competition earlier this year.\n\nIn January, when India hosted the India Open badminton tournament, organisers had hoped the headlines would be about tense matches, some of the world's best players and the excitement of hosting a major tournament in the capital.",
+        "copy": "Sports authorities in India are taking extra measures to keep monkeys and pigeons away from a major international badminton tournament in Delhi after wildlife intrusions overshadowed another competition earlier this year.\n\nIn January, when India hosted the India Open badminton tournament, organisers had hoped the headlines would be about tense matches, some of the world's best players and the excitement of hosting a major tournament in the capital.",
+        "first_seen": "2026-08-14T08:44:15.109168+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Why the Badminton World Championships pays no prize money, and how players are compensated",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcVd0TlQxNk5IWmlRNkJaYU5ETzA3UVZEblpyZGVlZ0FRSm9mS3puS3RoRGxaREpKOUp0NlV5Q0RyY2dJc3RfS0QtSmwwdHZYc1MxajFGOTk0anBRb1o1MWlqb2RLRWVLekE4RTZ1QU5SRFJwOHFkOEk2ei1jRGpiNExoelgzV1R1R3RFWkRjY0hyM2wzT2U2N2RQTEh6UGtqeG95bDliLTRNVzU3RnItbG42UVN1cUUzaDg0akp4V3BtMXF0MWszN1FKeFZWTGJNOERyWDdLSFJoempCT2VITEpXdHRaUdIB6wFBVV95cUxOczFFRDFTazA2UmNEeHZxVi1JakdCTWNQSU8wdlplR0JHQ1hpbHB6ZktJeHBKNDd3a21WVXFqYk1QWTBYSF9GbVZKanFaankzWV9BcmVzc1RlNEZ0cERuVE1EaFh5YmhXMU5pOHFOTjJNMWE2SmNtQ1Zlc0ZiWHRHdFBwSXRqOFNtdnY1WmJHamJjcVA2aWlkcjNFSVBLaFJyZTV4aTladlVUZzVteVJKRmRKckJqZkVaTTRHX0t1WUxKWW01RzlaLWMzcHZDSmxHdXFndjZlRHhpYjFaNVpfd1dubmdUTVJ0b1pN?oc=5",
+        "published": "2026-08-14T07:54:02+00:00",
+        "published_label": "Fri 14 Aug, 07:54",
+        "summary": "Why the Badminton World Championships pays no prize money, and how players are compensated Firstpost",
+        "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/why-the-badminton-world-championships-pays-no-prize-money-and-how-players-are-compensated-14038136.html\" on this server.\n\nReference #18.1271ca17.1786697048.518497d https://errors.edgesuite.net/18.1271ca17.1786697048.518497d",
+        "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/why-the-badminton-world-championships-pays-no-prize-money-and-how-players-are-compensated-14038136.html\" on this server.\n\nReference #18.1271ca17.1786697048.518497d https://errors.edgesuite.net/18.1271ca17.1786697048.518497d",
+        "first_seen": "2026-08-14T08:44:15.109168+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6311,6 +6363,19 @@
         "body": ", injury is never a one-man problem. When his shoulder hurts, somewhere along the way, That is the peculiar reality of a partnership that has grown far beyond the boundaries of a badminton court. The two are among India's most successful men's doubles combinations, but Satwik's recent injury layoff has also brought home just how deeply their fortunes are intertwined.\n\n\"It’s more tough mentally than physically to prepare,” Satwik told TOI in an interview ahead of the World Championships, beginning Aug 17. “It’s always difficult handling things which are not in your control. That was the toughest part. Few things you can’t handle. So, I think that was very frustrating and you are disturbing the other person’s life as well.”",
         "copy": ", injury is never a one-man problem. When his shoulder hurts, somewhere along the way, That is the peculiar reality of a partnership that has grown far beyond the boundaries of a badminton court. The two are among India's most successful men's doubles combinations, but Satwik's recent injury layoff has also brought home just how deeply their fortunes are intertwined.\n\n\"It’s more tough mentally than physically to prepare,” Satwik told TOI in an interview ahead of the World Championships, beginning Aug 17. “It’s always difficult handling things which are not in your control. That was the toughest part. Few things you can’t handle. So, I think that was very frustrating and you are disturbing the other person’s life as well.”",
         "first_seen": "2026-08-14T07:21:11.976589+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Badminton star An Se-young says ready to play through pain in pursuit of world title",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0l4VVRvZGxNRTZaRmM2eFZiWk5WN25NUm5TazZqQU9FbzhRLVhsdjlOb2Q0MHh5czFONFFNN09YN0JaTDNoWDZiUVFDU1Y5UkEyRnA5ei1vQU9tMkRiRDdtaTF3QnlKRTRDdDlIQ2w3ejFwbURnekRUeFQxa0VaVUVsS3RzNm5TcWtwTU5sNXFnM09ZNjNudEdoeFpQUTRXQXpZeUtJSTRkTHVwTmZicUg5Q19ZTnpQR0VOcFYtQkNISFlxczJQM9IBzgFBVV95cUxQTWlScGVCdEY5QjcyV2xiWWpzTTRVMVFfSmVhZzVHaVJIRXJyVk4xMEp6SHpPQW8xMlB2c09kX040V1NCeHhwWHZiWkxGZzFSRVVUdTJIUHd0YzJscmV4Yi1oQmFqbzlNOWkzVk00eno1Mno4SzU3bnB1NnJRUEpFNEFlMnpqaWgzR3Exd0xlNFFyb1V5ckgzc2hIMHJyWnZfSXZHLXFTaEtHUlRaZExHSWQwTE9CMzNvcWtJZGFKX2dkZ1pud2ZyYXBwMGU0QQ?oc=5",
+        "published": "2026-08-14T02:08:04+00:00",
+        "published_label": "Fri 14 Aug, 02:08",
+        "summary": "Badminton star An Se-young says ready to play through pain in pursuit of world title The Korea Times",
+        "body": "Badminton Olympic champion An Se-young said Friday she will play through lingering left-foot pain as she chases a second world title in New Delhi. The world No. 1 left for the Badminton World Federation World Championships, which run from Monday to Aug. 23. An said she is training fully but wants to shake off match rust after missing the Japan Open in July.\n\nBadminton Olympic champion An Se-young said Friday she is willing to play through lingering pain in her left foot as she chases her second career women's singles world title this month.",
+        "copy": "Badminton Olympic champion An Se-young said Friday she will play through lingering left-foot pain as she chases a second world title in New Delhi. The world No. 1 left for the Badminton World Federation World Championships, which run from Monday to Aug. 23. An said she is training fully but wants to shake off match rust after missing the Japan Open in July.\n\nBadminton Olympic champion An Se-young said Friday she is willing to play through lingering pain in her left foot as she chases her second career women's singles world title this month.",
+        "first_seen": "2026-08-14T08:44:15.109168+00:00"
       },
       {
         "section": "Badminton",
@@ -7299,45 +7364,6 @@
         "body": "India will be represented by a squad of 14 shuttlers at the BWF World Championships, commencing next week at New Delhi's Indira Gandhi Indoor Stadium. The tournament marks a significant opportunity for the Indian team to continue a medal-winning streak that dates back to 2011. Since the event's inception, India has secured 15 medals—10 bronze, four silver, and one gold. P.V. Sindhu remains India's only world champion, having won the title in 2019, and is also the most decorated player at the Championships with five medals: one gold, two silver, and two bronze, a record she shares with Zhang Ning of China.\n\nIndia has reached the podium in every edition since 2011, with the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty winning bronze in 2025. The Indian contingent, enjoying home support, will aim to uphold this impressive tradition. The squad includes two entries each in men's singles, men's doubles, women's singles, and mixed doubles, alongside one women's doubles pair.",
         "copy": "India will be represented by a squad of 14 shuttlers at the BWF World Championships, commencing next week at New Delhi's Indira Gandhi Indoor Stadium. The tournament marks a significant opportunity for the Indian team to continue a medal-winning streak that dates back to 2011. Since the event's inception, India has secured 15 medals—10 bronze, four silver, and one gold. P.V. Sindhu remains India's only world champion, having won the title in 2019, and is also the most decorated player at the Championships with five medals: one gold, two silver, and two bronze, a record she shares with Zhang Ning of China.\n\nIndia has reached the podium in every edition since 2011, with the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty winning bronze in 2025. The Indian contingent, enjoying home support, will aim to uphold this impressive tradition. The squad includes two entries each in men's singles, men's doubles, women's singles, and mixed doubles, alongside one women's doubles pair.",
         "first_seen": "2026-08-07T10:51:36.450839+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "‘Quality of Top 20 is What Top 10 Used to Be’",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjFWYUNxemxKZGNZbmQ0RlFRV1JPTTdZZVBRY0xUamZfU0d3VFl0bGQ1azdMN205T2h5d2JsSG55Vm1XR0xJZnd5NGwtMmJhLVBWMEc3UzN5ZmJ1UlhDY3NxRnRmb1d3LU9zd0pfeUZHRnBEZGhreW1iOFA5SVRqelNJWjdDR3dyWGFRR2hKSVdnbDE4dVY5UWJxaWRvRE9wRE0xRlc5M0tTZmRGaGV6eUd3?oc=5",
-        "published": "2026-08-07T08:26:01+00:00",
-        "published_label": "Fri 07 Aug, 08:26",
-        "summary": "‘Quality of Top 20 is What Top 10 Used to Be’ bwfworldchampionships.bwfbadminton.com",
-        "body": "Ahead of the upcoming BWF World Championships – her 11th – European champion Kirsty Gilmour talks about adapting to younger generations of opponents, working on becoming the best version of herself, and her connection with Indian fans.\n\nYou’ve seen different generations of opponents. What do you make of the younger ones? Is there a different approach or is it just various individual styles as before? Year on year it becomes more physical. Maybe when I was younger, I thought I would get to a point and then it would become easier. I would like ‘get it’ but because the game is always evolving, always changing, it’s never become easier to be honest, and I think the younger ones are so hungry to beat the more established players, whereas before maybe the older ones dominated, but the younger ones are always at your heels, always ready.",
-        "copy": "Ahead of the upcoming BWF World Championships – her 11th – European champion Kirsty Gilmour talks about adapting to younger generations of opponents, working on becoming the best version of herself, and her connection with Indian fans.\n\nYou’ve seen different generations of opponents. What do you make of the younger ones? Is there a different approach or is it just various individual styles as before? Year on year it becomes more physical. Maybe when I was younger, I thought I would get to a point and then it would become easier. I would like ‘get it’ but because the game is always evolving, always changing, it’s never become easier to be honest, and I think the younger ones are so hungry to beat the more established players, whereas before maybe the older ones dominated, but the younger ones are always at your heels, always ready.",
-        "first_seen": "2026-08-07T16:53:39.828022+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "‘Younger Opponents Are Always At Your Heels’",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0QyZU5waXNLVWFuSGswTkZfOW1Vc1RDR3NXMGswMUYtMWFzNUV6SlhhSFEzVTNZT0RqWE5ScTk2bDVSTGJUMVRHMXNBSlRGQ0JkeTFJbmROdmtORGUwUVVDaWRiSGFZUFIxVk9IdDJaTmZ5dG5qWFFYUUIyVE1IZ01VN0tNRi1Ia2tYZU1Ka2FNM2ZqalVKTnczSkF2TFg5UzFQaWI4SGxJQnBwTklsNHQwdw?oc=5",
-        "published": "2026-08-07T08:24:01+00:00",
-        "published_label": "Fri 07 Aug, 08:24",
-        "summary": "‘Younger Opponents Are Always At Your Heels’ bwfworldchampionships.bwfbadminton.com",
-        "body": "Ahead of the upcoming BWF World Championships – her 11th – European champion Kirsty Gilmour talks about adapting to younger generations of opponents, working on becoming the best version of herself, and her connection with Indian fans.\n\nYou’ve seen different generations of opponents. What do you make of the younger ones? Is there a different approach or is it just various individual styles as before? Year on year it becomes more physical. Maybe when I was younger, I thought I would get to a point and then it would become easier. I would like ‘get it’ but because the game is always evolving, always changing, it’s never become easier to be honest, and I think the younger ones are so hungry to beat the more established players, whereas before maybe the older ones dominated, but the younger ones are always at your heels, always ready.",
-        "copy": "Ahead of the upcoming BWF World Championships – her 11th – European champion Kirsty Gilmour talks about adapting to younger generations of opponents, working on becoming the best version of herself, and her connection with Indian fans.\n\nYou’ve seen different generations of opponents. What do you make of the younger ones? Is there a different approach or is it just various individual styles as before? Year on year it becomes more physical. Maybe when I was younger, I thought I would get to a point and then it would become easier. I would like ‘get it’ but because the game is always evolving, always changing, it’s never become easier to be honest, and I think the younger ones are so hungry to beat the more established players, whereas before maybe the older ones dominated, but the younger ones are always at your heels, always ready.",
-        "first_seen": "2026-08-07T08:35:45.963194+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Korea Masters 2026 badminton: Ashmita Chaliha stuns top seed, sets up all-Indian semi-final with Rakshitha Ramraj",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEl4RjR5TmdMNExJNjI3aVEzOWkybzV2ZEJhR0JoR2IyX0RubmVRQng3alUzMEJIek4wZkc1SGxzdEhWZ1lfVVZ3QWh6MWx2U2N3aWozMUZUWnlTYTktWFRXRTBZZVBZTEhIdWV2WTcwQXQ4SS1XblUzdEVnLTFyV0Z0WGx6ZUNwcEI3dFhxV0daaFlYak9kYw?oc=5",
-        "published": "2026-08-07T08:03:00+00:00",
-        "published_label": "Fri 07 Aug, 08:03",
-        "summary": "Korea Masters 2026 badminton: Ashmita Chaliha stuns top seed, sets up all-Indian semi-final with Rakshitha Ramraj olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-07T10:51:36.450839+00:00"
       }
     ],
     "Competitor News": [
@@ -7421,5 +7447,5 @@
       }
     ]
   },
-  "total": 569
+  "total": 571
 }
