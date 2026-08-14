@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T08:44:15.109168+00:00",
-  "generated_label": "Friday 14 August 2026, 08:44 UTC",
+  "generated_at": "2026-08-14T09:06:28.172852+00:00",
+  "generated_label": "Friday 14 August 2026, 09:06 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Nascar, Avant, team-up for co-branded credit card",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVdUSDNLbFh1MFVoZHlzUmZMcnF6UThaZzdtWms3b055Y0pYQm5PNUs2S3piQVduWG9veVp1c2xDTDVSbGdselFqb1A5dlJKdzN4RWpXVWs0bGhkTmp6S3E3RXpJc1VVSmRadnQtUWVGWlJWUDBXcWh4SjIyZUpuanNKUmQ?oc=5",
+        "published": "2026-08-14T08:52:01+00:00",
+        "published_label": "Fri 14 Aug, 08:52",
+        "summary": "Nascar, Avant, team-up for co-branded credit card Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-14T09:06:28.172852+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "SportBusiness",
@@ -1454,19 +1467,6 @@
         "body": "",
         "copy": "This week on The SportBusiness Podcast, we profile the latest addition to the gambling-free Premier League shirt sponsor market, while its US media behemoth results season again and there’s a full post-mortem o…",
         "first_seen": "2026-08-07T10:51:36.450839+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Can AI improve my parenting?",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHUzdFhwR21zeDlDVUF1cWl6TmdUcm9wMk1aY2RnSHUxNThZdzNQd3k5ME8yVi1palJLVlZpMERIc0FxQjN5cEwtWHJkc0gzRkh5cV9WSFp5X0t2OVZISDR6UFZtNlhqM0Nsa2ZZTFBPNWFQaEw2d0ZwRjYtSnJXMUlFNzA?oc=5",
-        "published": "2026-08-07T09:00:06+00:00",
-        "published_label": "Fri 07 Aug, 09:00",
-        "summary": "Can AI improve my parenting? Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-07T18:53:31.476104+00:00"
       }
     ],
     "Rugby": [
@@ -4216,6 +4216,19 @@
         "body": "Scan Shannon Johnson’s scorecard from her quarterfinal match at the Massachusetts Women’s State Amateur on Thursday and one number will leap out at you: her 2 on the par-5 18th hole.\n\nThe rarest score in golf. A one-in-6 million shot, according to several published estimates. But this story isn’t really about Johnson — it’s about her opponent, 19-year-old Lillian Guleserian, who is a rising sophomore at Penn State, where she plays on the women’s golf team. Guleserian, who is from Westwood, Mass., has had herself a nice summer. In early June, she finished 5th at the Women’s Southern GA Amateur, which she quickly followed up with a win at the New England Women’s Amateur Championship. Then, late last month, came a 3rd-place finish at the Francis Ouimet Memorial Tournament.",
         "copy": "Scan Shannon Johnson’s scorecard from her quarterfinal match at the Massachusetts Women’s State Amateur on Thursday and one number will leap out at you: her 2 on the par-5 18th hole.\n\nThe rarest score in golf. A one-in-6 million shot, according to several published estimates. But this story isn’t really about Johnson — it’s about her opponent, 19-year-old Lillian Guleserian, who is a rising sophomore at Penn State, where she plays on the women’s golf team. Guleserian, who is from Westwood, Mass., has had herself a nice summer. In early June, she finished 5th at the Women’s Southern GA Amateur, which she quickly followed up with a win at the New England Women’s Amateur Championship. Then, late last month, came a 3rd-place finish at the Francis Ouimet Memorial Tournament.",
         "first_seen": "2026-08-14T07:21:11.976589+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf, Saudi Superliga dominated by Rahm",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3dHTGs3bGo5UG0zbDRRSjJCSHA1cXZFQ2RkdnRpa0lvRWpVaUh1N3hRT2tlejExZzFseGpLQWFMNFV1X2QtbmdNM2JFN0NJVm9CSVNNVmNvcEJYUmVMeHpyRDNPclFidHJRMnB0RjdJVDJEWDFTc1dHVmRKVkVTWVlBN0NXQjVabGc1dWE2NjRQcTJGZmlrOHpkSzdLdw?oc=5",
+        "published": "2026-08-13T22:51:00+00:00",
+        "published_label": "Thu 13 Aug, 22:51",
+        "summary": "LIV Golf, Saudi Superliga dominated by Rahm tennisworldusa.org",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-14T09:06:28.172852+00:00"
       },
       {
         "section": "Golf",
@@ -7338,32 +7351,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-08T06:46:32.750942+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "India's young guns ready for BWF World Championships",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdE9nWkpVUmlpeGNaQndNaXZ3endBTnpSeHJhSU5mQWVLU01hSXBEMFBIY1RPN2kzLVpFU2MzUWd2THlIdXJZdVRvbHJzLXJOMDVtWG5EeXBDejdybUdXM3FrYVJYNThKVC1kSG9qVHY0QXFqUkY5dU1OZlBmMU5GcjBUOG81X1owQ1JWTjROdHJnRXVmcmQ5Q29kNlJSVDN1cmhn0gGmAUFVX3lxTE5QaGRaNE1EdnhZV3A5ZjR1aThYRGs1ZDd4ZHgxZUdPRkhzSm01a29wY2p4LWhBUHlDcXhNWHNsWVJzalg5WHdHU203R0hfOG9QUExnX1MwT3d6NllGOGdpaEJ2TTJxd1lWOXk2d3Jlc3VFV2dxd2ZGMUVHdElJdFdjUXpGYnlUQjV1UGhpdldCazFVa0ExUEk2cjFqaXBONXFKalBMUmc?oc=5",
-        "published": "2026-08-07T09:00:21+00:00",
-        "published_label": "Fri 07 Aug, 09:00",
-        "summary": "India's young guns ready for BWF World Championships Rediff",
-        "body": "India's promising young badminton talents, including Ayush Shetty and Unnati Hooda, are poised to make their highly anticipated debut at the BWF World Championships, hosted on home soil after 17 years, offering a unique opportunity to shine on the global stage.\n\n- Ayush Shetty, Unnati Hooda, Simran Singhi, and Kavipriya Selvam are among four Indian players making their BWF World Championships debut. - The tournament is particularly special as India is hosting the event after a 17-year hiatus, providing a home advantage for the debutants.",
-        "copy": "India's promising young badminton talents, including Ayush Shetty and Unnati Hooda, are poised to make their highly anticipated debut at the BWF World Championships, hosted on home soil after 17 years, offering a unique opportunity to shine on the global stage.\n\n- Ayush Shetty, Unnati Hooda, Simran Singhi, and Kavipriya Selvam are among four Indian players making their BWF World Championships debut. - The tournament is particularly special as India is hosting the event after a 17-year hiatus, providing a home advantage for the debutants.",
-        "first_seen": "2026-08-07T10:51:36.450839+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "India's Contingent Aims for Success at BWF World Championships",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGtudkVkMEVNdUJ5SG5MRm9ZNGRqSXVJRlNlbjlid0pTMkVGX1lLRlQ1WWppVWVMdHEzMlh4ZG90RXpOcl9Qb0dHWjdQNXZ1ejNlSXJhdE5rcVRYdEptVjViOG9xa29hSXVCdDlQYi03RkNHNnR3VWxubmRYSHZxbmkxZ3gzamtlRW9rV2hBSHEyaUIyZm5WUDlJYklmRk0?oc=5",
-        "published": "2026-08-07T08:55:59+00:00",
-        "published_label": "Fri 07 Aug, 08:55",
-        "summary": "India's Contingent Aims for Success at BWF World Championships India News Network",
-        "body": "India will be represented by a squad of 14 shuttlers at the BWF World Championships, commencing next week at New Delhi's Indira Gandhi Indoor Stadium. The tournament marks a significant opportunity for the Indian team to continue a medal-winning streak that dates back to 2011. Since the event's inception, India has secured 15 medals—10 bronze, four silver, and one gold. P.V. Sindhu remains India's only world champion, having won the title in 2019, and is also the most decorated player at the Championships with five medals: one gold, two silver, and two bronze, a record she shares with Zhang Ning of China.\n\nIndia has reached the podium in every edition since 2011, with the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty winning bronze in 2025. The Indian contingent, enjoying home support, will aim to uphold this impressive tradition. The squad includes two entries each in men's singles, men's doubles, women's singles, and mixed doubles, alongside one women's doubles pair.",
-        "copy": "India will be represented by a squad of 14 shuttlers at the BWF World Championships, commencing next week at New Delhi's Indira Gandhi Indoor Stadium. The tournament marks a significant opportunity for the Indian team to continue a medal-winning streak that dates back to 2011. Since the event's inception, India has secured 15 medals—10 bronze, four silver, and one gold. P.V. Sindhu remains India's only world champion, having won the title in 2019, and is also the most decorated player at the Championships with five medals: one gold, two silver, and two bronze, a record she shares with Zhang Ning of China.\n\nIndia has reached the podium in every edition since 2011, with the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty winning bronze in 2025. The Indian contingent, enjoying home support, will aim to uphold this impressive tradition. The squad includes two entries each in men's singles, men's doubles, women's singles, and mixed doubles, alongside one women's doubles pair.",
-        "first_seen": "2026-08-07T10:51:36.450839+00:00"
       }
     ],
     "Competitor News": [
@@ -7447,5 +7434,5 @@
       }
     ]
   },
-  "total": 571
+  "total": 570
 }
