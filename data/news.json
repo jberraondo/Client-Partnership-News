@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T10:20:11.581569+00:00",
-  "generated_label": "Saturday 15 August 2026, 10:20 UTC",
+  "generated_at": "2026-08-15T12:32:11.382631+00:00",
+  "generated_label": "Saturday 15 August 2026, 12:32 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "What the Lakers’ $12.5bn sale says about sports ownership",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanpIM1ZDMUd6QlVsall1enhMMWtvLWxtbERYUHZ6Q3NodjhOemExUUZhQUFSU0dXXy0xSHExbXpDVlVYTzJ5ZDdJTEp1Y3c2bTgzeGEzWGZhZ3dES1FNbTdCMUZZWnl3ZW1JUEJJQ3RXNmdIblFyOHdoc21iS0J3cHRmRHA?oc=5",
+        "published": "2026-08-15T08:00:02+00:00",
+        "published_label": "Sat 15 Aug, 08:00",
+        "summary": "What the Lakers’ $12.5bn sale says about sports ownership ft.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-15T12:32:11.382631+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -37,6 +50,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-15T06:33:23.698321+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "What to do if a City headhunter calls",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFNuaERsaWtNNHdTWE5NdGdFenRkU045ejkyLTdOM3gtUVlZLVFVczlYLXFFOE9vbVEzMUJlUm10YlJDcUtNd3VGcGlmLVBZWkZfdFdJNDFqb0RRUFlCMGlWUUZYZnItcFh0LTdCSDV2dkphSEEteFQ4NlpYUjVfRFhyRk4?oc=5",
+        "published": "2026-08-15T04:02:19+00:00",
+        "published_label": "Sat 15 Aug, 04:02",
+        "summary": "What to do if a City headhunter calls ft.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-15T12:32:11.382631+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1509,6 +1535,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "WRU condemns abuse and doubles down on three-team plan",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq891l3g3keo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-15T10:07:18+00:00",
+        "published_label": "Sat 15 Aug, 10:07",
+        "summary": "The Welsh Rugby Union (WRU) states there is no prospect of the game generating enough revenue to fund four professional teams beyond 2028.",
+        "body": "The Welsh Rugby Union (WRU) has stated there is no realistic prospect of the game generating enough revenue to fund four professional teams in the country beyond 2028. The WRU's board has released a lengthy statement after former Wales captain Jonathan Davies called for them to step down.\n\nThere has been a concerted attempt to try to oust the WRU board this week. Businesswoman Hayley Parsons called for them to stand down before Davies' intervention, while former Principality Building Society chief operating officer Rob Regan has offered to oversee an interim board.",
+        "copy": "The Welsh Rugby Union (WRU) has stated there is no realistic prospect of the game generating enough revenue to fund four professional teams in the country beyond 2028. The WRU's board has released a lengthy statement after former Wales captain Jonathan Davies called for them to step down.\n\nThere has been a concerted attempt to try to oust the WRU board this week. Businesswoman Hayley Parsons called for them to stand down before Davies' intervention, while former Principality Building Society chief operating officer Rob Regan has offered to oversee an interim board.",
+        "first_seen": "2026-08-15T12:32:11.382631+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3588,58 +3627,6 @@
         "body": "The Wallabies’ Les Kiss coaching era has begun with a nerve-wracking 35-32 defeat of Japan, the visitors scraping home despite lock Miles Amatosero’s red card. Les Kiss was made to sweat in his Wallabies coaching debut as the visitors survived moments of calamity and a red card to beat Japan 35-32 in Osaka.\n\nThe visitors trailed early but, just as they appeared set to steady and surge away, were reduced to 14 men for 20 minutes thanks to a Miles Amatosero red card. Japan, coached by Eddie Jones and seeking their first win in eight encounters, smelt blood.",
         "copy": "The Wallabies’ Les Kiss coaching era has begun with a nerve-wracking 35-32 defeat of Japan, the visitors scraping home despite lock Miles Amatosero’s red card. Les Kiss was made to sweat in his Wallabies coaching debut as the visitors survived moments of calamity and a red card to beat Japan 35-32 in Osaka.\n\nThe visitors trailed early but, just as they appeared set to steady and surge away, were reduced to 14 men for 20 minutes thanks to a Miles Amatosero red card. Japan, coached by Eddie Jones and seeking their first win in eight encounters, smelt blood.",
         "first_seen": "2026-08-08T14:30:42.074930+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Fijian second-row Saimoni Vunilagi dies aged 26 in Japan",
-        "link": "https://www.rugbypass.com/news/fijian-forward-saimoni-vunilagi-dies-aged-26-from-suspected-heatstroke-in-japan/",
-        "published": "2026-08-08T12:23:36+00:00",
-        "published_label": "Sat 08 Aug, 12:23",
-        "summary": "Japanese rugby club Kyuden Voltex said they were “devastated” following the death of Fijian forward Saimoni Vunilagi from suspected heatstroke.",
-        "body": "Japanese rugby club Kyuden Voltex said they were “devastated” following the death of Fijian forward Saimoni Vunilagi from suspected heatstroke. Kyuden Voltex, who play in the Japanese league’s second tier, announced Vunilagi, 26, died on Friday morning having been taken to hospital on Monday after a training session.\n\nA club statement read: “After team practice on Monday, August 3, 2026, Saimoni displayed symptoms consistent with severe heatstroke. “He was transported to a medical facility for treatment, but despite the best efforts of the medical team, he sadly passed away.",
-        "copy": "Japanese rugby club Kyuden Voltex said they were “devastated” following the death of Fijian forward Saimoni Vunilagi from suspected heatstroke. Kyuden Voltex, who play in the Japanese league’s second tier, announced Vunilagi, 26, died on Friday morning having been taken to hospital on Monday after a training session.\n\nA club statement read: “After team practice on Monday, August 3, 2026, Saimoni displayed symptoms consistent with severe heatstroke. “He was transported to a medical facility for treatment, but despite the best efforts of the medical team, he sadly passed away.",
-        "first_seen": "2026-08-08T12:42:06.499169+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Japan player ratings vs Australia | Flight Centre Series 2026",
-        "link": "https://www.rugbypass.com/news/japan-player-ratings-vs-australia-flight-centre-series-2026/",
-        "published": "2026-08-08T12:19:08+00:00",
-        "published_label": "Sat 08 Aug, 12:19",
-        "summary": "Japan player ratings: It came down to the wire, but Australia managed to overcome a formidable Japan that was just four points away from creating history at Hanazono Rugby Stadium.",
-        "body": "Japan player ratings: It came down to the wire, but Australia managed to overcome a formidable Japan that was just four points away from creating history at Hanazono Rugby Stadium.\n\nWarner Dearns was once again outstanding for the Brave Blossoms, delivering one of his best-ever performances at Test match level. Ben Gunter and Ryunosuke Ito were not far behind, both turning in impressive displays to cap off a strong showing from the home side despite the result.",
-        "copy": "Japan player ratings: It came down to the wire, but Australia managed to overcome a formidable Japan that was just four points away from creating history at Hanazono Rugby Stadium.\n\nWarner Dearns was once again outstanding for the Brave Blossoms, delivering one of his best-ever performances at Test match level. Ben Gunter and Ryunosuke Ito were not far behind, both turning in impressive displays to cap off a strong showing from the home side despite the result.",
-        "first_seen": "2026-08-08T12:42:06.499169+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Fijian Vunilagi dies in Japan from suspected heatstroke",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c998kznxlx7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-08T10:47:31+00:00",
-        "published_label": "Sat 08 Aug, 10:47",
-        "summary": "Fijian Saimoni Vunilagi has died of suspected heatstroke after a training session, his Japanese club Kyuden Voltex announce.",
-        "body": "Fijian Saimoni Vunilagi has died of suspected heatstroke after a training session, his club Kyuden Voltex have announced. The Japanese second division team, based in Fukuoka, said the 26-year-old was taken to hospital and died on Friday, 7 August.\n\nTemperatures in the southern city of Fukuoka this week have reached 35C degrees. \"After team practice on Monday, 3 August 2026, Saimoni displayed symptoms consistent with severe heatstroke. He was transported to a medical facility for treatment, but despite the best efforts of the medical team, he sadly passed away,\" a team statement said.",
-        "copy": "Fijian Saimoni Vunilagi has died of suspected heatstroke after a training session, his club Kyuden Voltex have announced. The Japanese second division team, based in Fukuoka, said the 26-year-old was taken to hospital and died on Friday, 7 August.\n\nTemperatures in the southern city of Fukuoka this week have reached 35C degrees. \"After team practice on Monday, 3 August 2026, Saimoni displayed symptoms consistent with severe heatstroke. He was transported to a medical facility for treatment, but despite the best efforts of the medical team, he sadly passed away,\" a team statement said.",
-        "first_seen": "2026-08-08T12:42:06.499169+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Springboks wary of letting Argentinian crowd into game in Buenos Aires",
-        "link": "https://www.rugbypass.com/news/springboks-wary-of-letting-argentinian-crowd-into-game-in-buenos-aires/",
-        "published": "2026-08-08T10:31:56+00:00",
-        "published_label": "Sat 08 Aug, 10:31",
-        "summary": "Siya Kolisi and Mzwandile Stick have warned the Springboks they cannot afford to allow Argentina's passionate home support to influence Saturday's Rugby Championship clash in Buenos Aires.",
-        "body": "Siya Kolisi and Mzwandile Stick have warned the Springboks they cannot afford to allow Argentina’s passionate home support to influence Saturday’s Rugby Championship clash in Buenos Aires.\n\nLast time out for Los Pumas was a fiery Test against England, where passion got the better of several players in a bad-tempered encounter which they ultimately lost, with a late try controversially disallowed.",
-        "copy": "Siya Kolisi and Mzwandile Stick have warned the Springboks they cannot afford to allow Argentina’s passionate home support to influence Saturday’s Rugby Championship clash in Buenos Aires.\n\nLast time out for Los Pumas was a fiery Test against England, where passion got the better of several players in a bad-tempered encounter which they ultimately lost, with a late try controversially disallowed.",
-        "first_seen": "2026-08-08T12:42:06.499169+00:00"
       }
     ],
     "Tennis": [
@@ -3798,6 +3785,19 @@
         "body": "The minuscule amount of confidence and self-belief Jack Draper currently has to call upon in the most difficult period of his career was underscored in the first game of his opening match in Cincinnati. Draper began his service game by shanking a forehand into the back fence, which he followed up with two double faults. He immediately fell down a break and never recovered.\n\nA few fleeting positive moments followed, but this miserable start set the tone for another excruciating day for the former world No 4 as he could not escape the mental fatigue borne out of battling serious injury for 15 months and counting. Draper fell 6-3, 7-5 to Martín Landaluce, the world No 64.",
         "copy": "The minuscule amount of confidence and self-belief Jack Draper currently has to call upon in the most difficult period of his career was underscored in the first game of his opening match in Cincinnati. Draper began his service game by shanking a forehand into the back fence, which he followed up with two double faults. He immediately fell down a break and never recovered.\n\nA few fleeting positive moments followed, but this miserable start set the tone for another excruciating day for the former world No 4 as he could not escape the mental fatigue borne out of battling serious injury for 15 months and counting. Draper fell 6-3, 7-5 to Martín Landaluce, the world No 64.",
         "first_seen": "2026-08-14T07:21:11.976589+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "'Doesn't bode well for US Open' - Draper slumps to Cincinnati defeat",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRGFkZTgxQk1DdV9KVi1DZzUtMXMyZGprdGc5WjdLU0VqNDM5MzAzcVN0Vkt3dWtJcExkZTU5alYtMzd4NFpvZ0g0VHVHNWQzdjNUQU13bE81UU5SZmNUQlNTcVRqVUt3S2hNNDBBUzdmMFhDMXRkOGhudm55NWVFOGpkcmlpbVhHcGowRVlaX2tDb2ZTQW5xSS16Wk9OaldOZ1QzU3hyWlNxN0ZtdW1BQXk3SkN4ODdtazQxT2pPZ2RDUmQxNW9CXzZQZWVKN3dpbEdLWC1QSF90S08ydjJ0RHNSQnJhRDRManZtY2hvdXYySFBwdER2S2tn?oc=5",
+        "published": "2026-08-13T19:05:00+00:00",
+        "published_label": "Thu 13 Aug, 19:05",
+        "summary": "'Doesn't bode well for US Open' - Draper slumps to Cincinnati defeat TNT Sports",
+        "body": "Jack Draper's difficult period continued as he fell to a 6-3 7-5 defeat against Spaniard Martin Landaluce in the Cincinnati Open, 10 days before the US Open gets underway. The Briton led 5-1 in the second set, but tired as the match progressed and lost six straight games.\n\nIt was the latest setback for the 24-year-old, who has endured an injury-hit year, struggling with a persistent arm injury that saw him miss several tournaments after Wimbledon in 2025.",
+        "copy": "Jack Draper's difficult period continued as he fell to a 6-3 7-5 defeat against Spaniard Martin Landaluce in the Cincinnati Open, 10 days before the US Open gets underway. The Briton led 5-1 in the second set, but tired as the match progressed and lost six straight games.\n\nIt was the latest setback for the 24-year-old, who has endured an injury-hit year, struggling with a persistent arm injury that saw him miss several tournaments after Wimbledon in 2025.",
+        "first_seen": "2026-08-15T12:32:11.382631+00:00"
       },
       {
         "section": "Tennis",
@@ -6335,48 +6335,22 @@
         "body": "The 2026 Wyndham Championship continues on Saturday with the third round at Sedgefield Country Club. Here’s everything you need to know to watch the tournament on Saturday, including full Wyndham Championship TV coverage, streaming details and complete Round 3 tee times.\n\nThis week is critical for many players in the field, as it offers a final opportunity to qualify for next week’s FedEx St. Jude — the first event in the FedEx Cup playoffs. Only the top 70 players in the points ranking will punch their tickets to Memphis.",
         "copy": "The 2026 Wyndham Championship continues on Saturday with the third round at Sedgefield Country Club. Here’s everything you need to know to watch the tournament on Saturday, including full Wyndham Championship TV coverage, streaming details and complete Round 3 tee times.\n\nThis week is critical for many players in the field, as it offers a final opportunity to qualify for next week’s FedEx St. Jude — the first event in the FedEx Cup playoffs. Only the top 70 players in the points ranking will punch their tickets to Memphis.",
         "first_seen": "2026-08-08T12:42:06.499169+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Can't find a hat without a logo? Blame a refrigerator salesman",
-        "link": "https://golf.com/lifestyle/cant-find-hat-without-logo-blame-refrigerator-salesman/",
-        "published": "2026-08-08T12:03:48+00:00",
-        "published_label": "Sat 08 Aug, 12:03",
-        "summary": "How do today's pros command seven figures for a hat sponsorship? It all started at the 1968 PGA Championship ... with a refrigerator salesman. The post Can’t find a hat without a logo? Blame a refrigerator salesman appeared first on Golf .",
-        "body": "As with most things modern in golf, Arnold Palmer played a part in the evolution of golf headwear. His win at the 1954 U.S. Amateur wasn’t just the King’s first step to the throne; photographs from his quarterfinal win are among the earliest of an elite golfer wearing a ball cap.\n\nFlip your lid a decade-plus later: Another King — Lou, senior vice president of marketing at Amana Refrigeration — is watching Julius Boros outduel Arnie to victory at the 1968 PGA Championship in Texas. History has it that at one point in the television broadcast, Boros pulled an Amana-branded promotional hat from his golf bag to protect against the blazing San Antonio sun.",
-        "copy": "As with most things modern in golf, Arnold Palmer played a part in the evolution of golf headwear. His win at the 1954 U.S. Amateur wasn’t just the King’s first step to the throne; photographs from his quarterfinal win are among the earliest of an elite golfer wearing a ball cap.\n\nFlip your lid a decade-plus later: Another King — Lou, senior vice president of marketing at Amana Refrigeration — is watching Julius Boros outduel Arnie to victory at the 1968 PGA Championship in Texas. History has it that at one point in the television broadcast, Boros pulled an Amana-branded promotional hat from his golf bag to protect against the blazing San Antonio sun.",
-        "first_seen": "2026-08-08T12:42:06.499169+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Brad Faxon recalls his wild ride at the '85 Honda Classic — with Michael Bamberger on the bag",
-        "link": "https://golf.com/news/features/brad-faxon-wild-ride-1985-honda-classic/",
-        "published": "2026-08-08T12:00:53+00:00",
-        "published_label": "Sat 08 Aug, 12:00",
-        "summary": "In 1985, Brad Faxon hired Michael Bamberger to caddie for him at the Honda Classic — and the experience made a lasting impact. The post Brad Faxon recalls his wild ride at the ’85 Honda Classic — with Michael Bamberger on the bag appeared first on Golf .",
-        "body": "In 1985, second-year pro Brad Faxon and aspiring writer Michael Bamberger were two kids trying to figure it out. Faxon was in search of his game, Bamberger in search of a gig. Here the golfer-coach-broadcaster recalls their wild ride at the ’85 Honda Classic, where one of them passed go and the other — well, Faxon tells the rest.\n\nOn a late-fall day in 1984, after my rookie season on the PGA Tour had wrapped up, a personal letter arrived at my new townhouse in Orlando. Personal letters had a lot of impact in those days, and this one landed with a particular thud. It was written on a manual type-writer and, though the tone was modest, it went on for pages. The author told me about his own play as a bogey golfer, his experience as an occasional caddie while in high school and his first postcollege job as a reporter at a weekly newspaper on Martha’s Vineyard, an island off Cape Cod in Massachusetts. Eventually, he made his pitch: Was I looking for a caddie for the 1985 golf season, and, if so, could he throw his hat in the ring?",
-        "copy": "In 1985, second-year pro Brad Faxon and aspiring writer Michael Bamberger were two kids trying to figure it out. Faxon was in search of his game, Bamberger in search of a gig. Here the golfer-coach-broadcaster recalls their wild ride at the ’85 Honda Classic, where one of them passed go and the other — well, Faxon tells the rest.\n\nOn a late-fall day in 1984, after my rookie season on the PGA Tour had wrapped up, a personal letter arrived at my new townhouse in Orlando. Personal letters had a lot of impact in those days, and this one landed with a particular thud. It was written on a manual type-writer and, though the tone was modest, it went on for pages. The author told me about his own play as a bogey golfer, his experience as an occasional caddie while in high school and his first postcollege job as a reporter at a weekly newspaper on Martha’s Vineyard, an island off Cape Cod in Massachusetts. Eventually, he made his pitch: Was I looking for a caddie for the 1985 golf season, and, if so, could he throw his hat in the ring?",
-        "first_seen": "2026-08-08T12:42:06.499169+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau makes shock claim over PGA Tour return",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYXFYc3ZWd1VqSm12cDRHZEhvNzZCbGJUVks4WkN4UEtpSXpqc0I0QjQ2azV6OTY3bTFRbWxGa3ZSOFRxaDJvS1pKTTRyTnpLal9rR3hfbkZHZnRJZlU5SnZDSnVLRjVzc1l0WE1MTzZpRm5qbmFrdWVoQVFnbUJzWG5ydHJyWmkyenAwWVZQMnlYWVJu?oc=5",
-        "published": "2026-08-08T10:46:06+00:00",
-        "published_label": "Sat 08 Aug, 10:46",
-        "summary": "Bryson DeChambeau makes shock claim over PGA Tour return Today's Golfer",
-        "body": "Bryson DeChambeau has boldly claimed he hopes to continue his LIV Golf commitments while also reviving his career on the PGA Tour. In an interview with the New York Post, DeChambeau reiterated his support for LIV and stated that he is feeling “100%” sure about the breakaway league’s seemingly precarious future. DeChambeau led a player meeting at Trump Bedminster – the site of LIV Golf New York – on Tuesday, hours before LIV CEO Scott O’Neil announced the league had found an unnamed “lead investor” which could help them survive.\n\nDeChambeau’s LIV contract is up at the end of the season and speculation has mounted over whether the two-time US Open champion will stay on the league, or even move to full-time content creation outside the four majors.",
-        "copy": "Bryson DeChambeau has boldly claimed he hopes to continue his LIV Golf commitments while also reviving his career on the PGA Tour. In an interview with the New York Post, DeChambeau reiterated his support for LIV and stated that he is feeling “100%” sure about the breakaway league’s seemingly precarious future. DeChambeau led a player meeting at Trump Bedminster – the site of LIV Golf New York – on Tuesday, hours before LIV CEO Scott O’Neil announced the league had found an unnamed “lead investor” which could help them survive.\n\nDeChambeau’s LIV contract is up at the end of the season and speculation has mounted over whether the two-time US Open champion will stay on the league, or even move to full-time content creation outside the four majors.",
-        "first_seen": "2026-08-08T12:42:06.499169+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "2009 to 2026: BWF World Championships return to an India worlds apart",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUldKbHRHOE5zZWtPTXh6NlVTTm8tdm1lRGtwdDYwbjc0Z29XbHc5RUljNzVoWWJiU25teFNsMWNOTno3OUxqbnhOajJ0ZlluR3JFTmFQbVpPRGVzWnZsdWVPVjg3d2FuLU16SFI5VDBCUEdiWV9RSnFNeEZNbHpQYjBFRFJfZzlBcTZOb1NGSDRTU2dBUUtfVFFCRG9LclNVS09SX0FIRzZvSTFBVjJndUVicw?oc=5",
+        "published": "2026-08-15T11:07:47+00:00",
+        "published_label": "Sat 15 Aug, 11:07",
+        "summary": "2009 to 2026: BWF World Championships return to an India worlds apart ESPN Philippines",
+        "body": "Starting August 16, 2026, India will play host to the BWF Badminton World Championships for a second time, in circumstances vastly different from the first time the nation hosted it.\n\nBack in 2009, the Worlds were barely a blip on the Indian sporting radar, badminton still a mix of Prakash Padukone-Pullela Gopichand inspired nostalgia and Saina Nehwal induced hope. At the time the bigger talking point wasn't if India would medal or not, it was England pulling out due to a terror threat.",
+        "copy": "Starting August 16, 2026, India will play host to the BWF Badminton World Championships for a second time, in circumstances vastly different from the first time the nation hosted it.\n\nBack in 2009, the Worlds were barely a blip on the Indian sporting radar, badminton still a mix of Prakash Padukone-Pullela Gopichand inspired nostalgia and Saina Nehwal induced hope. At the time the bigger talking point wasn't if India would medal or not, it was England pulling out due to a terror threat.",
+        "first_seen": "2026-08-15T12:32:11.382631+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7507,32 +7481,6 @@
         "body": "World No.50 Ashmita Chaliha made her first HSBC BWF World Tour final at the VICTOR Korea Masters 2026 today beating compatriot Rakshita Sree Santhosh Ramraj. Chaliha, whose previous best this year was the semifinals of the Macau Open in June, prevailed in a hard battle with Santhosh Ramraj, 21-13 16-21 21-13.\n\nChaliha has had an impressive road to the final. She first beat qualifier Ririna Hiramoto, then Kim Min Ji, both in straight games, before edging top seed Hina Akechi 20-22 21-15 21-19 in the quarterfinals.",
         "copy": "World No.50 Ashmita Chaliha made her first HSBC BWF World Tour final at the VICTOR Korea Masters 2026 today beating compatriot Rakshita Sree Santhosh Ramraj. Chaliha, whose previous best this year was the semifinals of the Macau Open in June, prevailed in a hard battle with Santhosh Ramraj, 21-13 16-21 21-13.\n\nChaliha has had an impressive road to the final. She first beat qualifier Ririna Hiramoto, then Kim Min Ji, both in straight games, before edging top seed Hina Akechi 20-22 21-15 21-19 in the quarterfinals.",
         "first_seen": "2026-08-08T16:31:00.691693+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "World Championships BWF - Mixed Doubles",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYm1uTUFmb3AxMnJMQUZhWnZReGNGdTZzQS1WMkJXZERQdzlzcDFMN1BRRERBSC14a0lNOWItSzJFcXBOZW85WnhLNTM1U0M3Y2JZWHRyUUJoTkEtV0JqaTI2bzhIaFdDZDl2Y1k4X1I0cV9kR1V4ZGpZNF9FT1N2MEpkSzFBNGpVWXQ5ek52UTY?oc=5",
-        "published": "2026-08-08T11:56:57+00:00",
-        "published_label": "Sat 08 Aug, 11:56",
-        "summary": "World Championships BWF - Mixed Doubles Flashscore.com",
-        "body": "Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
-        "copy": "Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
-        "first_seen": "2026-08-08T16:31:00.691693+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF Korea Masters 2026: Yoo Taebin breaks into world top 50 by reaching final on home soil",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHZvcnBFNTNiMWFJTzVGX0NjTHc4eTRmd19CYWpObUw5LXQ0RXhKTnoyS0hoc2U1eXRMaHRWOUxhYzh6cXZGV2R3dnVpQk1iYUFXNk51anNUN2s4TVJ6WEhfcDNFSURZeFB4ZHIzM3FVMmxhbEFEVmh2S3RPSDRJSlYxWWRxNkc4c2FOek4zZTRBRmVTa0N2amJtNVY0Z1k5TXljVg?oc=5",
-        "published": "2026-08-08T10:57:00+00:00",
-        "published_label": "Sat 08 Aug, 10:57",
-        "summary": "BWF Korea Masters 2026: Yoo Taebin breaks into world top 50 by reaching final on home soil olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-08T12:42:06.499169+00:00"
       }
     ],
     "Competitor News": [
@@ -7603,5 +7551,5 @@
       }
     ]
   },
-  "total": 583
+  "total": 579
 }
