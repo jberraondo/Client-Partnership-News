@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T06:33:23.698321+00:00",
-  "generated_label": "Saturday 15 August 2026, 06:33 UTC",
+  "generated_at": "2026-08-15T07:52:13.013339+00:00",
+  "generated_label": "Saturday 15 August 2026, 07:52 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -37,6 +37,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-15T06:33:23.698321+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "How John Henry took Liverpool from crisis club to $7bn juggernaut",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ09leERBOWRYdjhodXZCcEVoRWJVZ3kxVEdTdE5JUk1pTlNIMVU1cGJWQlJVdTdUaUx5TTNzMXRLRU5qczY1TWJPYzlUTkVaWDhuSFk4R2kyaDJ3NGJScGlOdW9EZlpRUXVzeGJJdUt6SE1lNWoxVHRYOHd3Z0RZa1hKOUo?oc=5",
+        "published": "2026-08-15T04:00:31+00:00",
+        "published_label": "Sat 15 Aug, 04:00",
+        "summary": "How John Henry took Liverpool from crisis club to $7bn juggernaut Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-15T07:52:13.013339+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1483,6 +1496,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Wallabies player ratings vs Japan | Flight Centre Series 2026",
+        "link": "https://www.rugbypass.com/news/wallabies-player-ratings-vs-japan-flight-centre-series-2026-townsville/",
+        "published": "2026-08-15T07:07:39+00:00",
+        "published_label": "Sat 15 Aug, 07:07",
+        "summary": "The Wallabies have won three matches in a row for the first time in two years, piling on 42 unanswered points.",
+        "body": "TOWNSVILLE: The Wallabies have won three matches in a row for the first time in two years, piling on 42 unanswered points as they ran away with it 56-17 over Japan’s Brave Blossoms at Queensland Country Bank Stadium.\n\nBefore Townsville hosts four pool-stage matches at Men’s Rugby World Cup 2027, rugby fans in North Queensland had the chance to watch the Wallabies play in the region for the second time in as many years.",
+        "copy": "TOWNSVILLE: The Wallabies have won three matches in a row for the first time in two years, piling on 42 unanswered points as they ran away with it 56-17 over Japan’s Brave Blossoms at Queensland Country Bank Stadium.\n\nBefore Townsville hosts four pool-stage matches at Men’s Rugby World Cup 2027, rugby fans in North Queensland had the chance to watch the Wallabies play in the region for the second time in as many years.",
+        "first_seen": "2026-08-15T07:52:13.013339+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3556,6 +3582,19 @@
         "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
+        "title": "Jack Draper in tears after latest loss at Cincinnati Open, British star in 'difficult place'",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkZfdHZRV3p6bFNIMENBaUhMWUhDSC1XSUIxc3VpblhLVFZjSEY2MjBkODVHUDdOeWFJVFJnblcwUkdYQTFLQ1pabWxmVmxkZ0FVTFh1UkplWXhmRkNFbElCVmxrdkswS3h5VlVScDJKWjhXX1NHY180MjlJaFY1V0xVaXBUSF9FYjNRLU1zX083LXNqR0hUZVpvVXRibVpS?oc=5",
+        "published": "2026-08-15T06:39:38+00:00",
+        "published_label": "Sat 15 Aug, 06:39",
+        "summary": "Jack Draper in tears after latest loss at Cincinnati Open, British star in 'difficult place' ESPN Singapore",
+        "body": "Jack Draper says he is in a \"difficult place\" after a first-round defeat to Martin Landaluce at the Cincinnati Open continued his challenging comeback from injury. Draper sent down 12 double faults and lost five games in a row on his way to being dumped out 6-3 7-5 by the world No. 64.\n\nThe 24-year-old broke down in tears during a defeat to Terence Atmane at last week's National Bank Open in Montreal, as he attempts to fight back to the top of the sport following a longstanding bone bruising issue.",
+        "copy": "Jack Draper says he is in a \"difficult place\" after a first-round defeat to Martin Landaluce at the Cincinnati Open continued his challenging comeback from injury. Draper sent down 12 double faults and lost five games in a row on his way to being dumped out 6-3 7-5 by the world No. 64.\n\nThe 24-year-old broke down in tears during a defeat to Terence Atmane at last week's National Bank Open in Montreal, as he attempts to fight back to the top of the sport following a longstanding bone bruising issue.",
+        "first_seen": "2026-08-15T07:52:13.013339+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
         "title": "Emma Raducanu’s ex-coach spotted a change in Iga Swiatek in Canada which he loved",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHkzcUhYWUgzSHVNUzU1Q2o5R2xCaWoybm1ZWlA0QTY4dWliamJ0SmFHdjRkbVNqT0VfbE9LcXBrX0h6MTJNRUdBeFR5UHpPUkd2ZmVPbUZRN2gxamwzMzNVYmMxeFVlQ0Vfei1xZkVMOFF3bXByZW1MUHpsXzYtbkI0akotS3VscnhxWnl5VnRCSnQ2aHQtVnFPOEYzZTNVX0ZkNlUtbw?oc=5",
         "published": "2026-08-14T23:00:00+00:00",
@@ -3590,6 +3629,19 @@
         "body": "But Draper's disappointment was counterbalanced by inspired compatriot Cameron Norrie, who fought through difficult conditions against an unfamiliar opponent to survive into the second round.\n\nNorrie, who came to the Midwest from a Montreal fourth-round showing, made a successful switch of venue with a 3-6, 6-1, 6-4 defeat of Croatia's Dino Prizmic. Norrie booked a second-round meeting with top-seeded Alexander Zverev, who will be desperate to make amends after an opening match exit in Montreal.",
         "copy": "But Draper's disappointment was counterbalanced by inspired compatriot Cameron Norrie, who fought through difficult conditions against an unfamiliar opponent to survive into the second round.\n\nNorrie, who came to the Midwest from a Montreal fourth-round showing, made a successful switch of venue with a 3-6, 6-1, 6-4 defeat of Croatia's Dino Prizmic. Norrie booked a second-round meeting with top-seeded Alexander Zverev, who will be desperate to make amends after an opening match exit in Montreal.",
         "first_seen": "2026-08-14T18:49:53.701544+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper has 'very, very big' mountain to climb in bid to return to his best",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ00tTUpqaUFGRUtyUHprZ3J1V3g0eENFN2dMOWFKdFlvczRkUG50c3BEUmRRNWRPOVhIbGtGQlQ1b0RKRnVTazhqaENUVUMyOWluVTlPTTMwdTVtcDBETnh2VG9BYktrZnA1MEV6S0QxMjBDQ2Q1SGFMMlBTSzRjeEZCRXZnekJrdzZDV1NzX1d4bnB3dEZLeUhaSGl5Z1lUTUNBNkZhR0s5dFp1WXJOa0JRc2hMT2NBc04zVA?oc=5",
+        "published": "2026-08-14T13:24:03+00:00",
+        "published_label": "Fri 14 Aug, 13:24",
+        "summary": "Jack Draper has 'very, very big' mountain to climb in bid to return to his best FlashScore UK",
+        "body": "Draper reached a career-high ranking of four in 2025 but had to cut short the season with a bone injury in his arm, and also dealt with a knee injury this year. He returned to action at the Canadian Open following his withdrawal from Wimbledon in June, breaking down in tears during his first-round loss to Terence Atmane.\n\nIn Cincinnati, Draper led 5-2 in the second set but Landaluce reeled off five consecutive games to win. \"The way I'm usually able to fight for every ball and conduct myself, it's just missing,\" Draper told reporters.",
+        "copy": "Draper reached a career-high ranking of four in 2025 but had to cut short the season with a bone injury in his arm, and also dealt with a knee injury this year. He returned to action at the Canadian Open following his withdrawal from Wimbledon in June, breaking down in tears during his first-round loss to Terence Atmane.\n\nIn Cincinnati, Draper led 5-2 in the second set but Landaluce reeled off five consecutive games to win. \"The way I'm usually able to fight for every ball and conduct myself, it's just missing,\" Draper told reporters.",
+        "first_seen": "2026-08-15T07:52:13.013339+00:00"
       },
       {
         "section": "Tennis",
@@ -4110,19 +4162,6 @@
         "body": "Women's world number one Aryna Sabalenka suffered a surprise defeat in the Canadian Open weeks before she begins her US Open title defence, while Britain's Cameron Norrie also bowed out in the last 16.\n\nSabalenka lost 7-6 (7-3) 4-6 6-4 to Russia's Ekaterina Alexandrova in a match lasting almost two and a half hours in Toronto. The Belarusian recovered from a set down to force a decider, but a double fault when serving to stay in the match handed the number 16 seed victory.",
         "copy": "Women's world number one Aryna Sabalenka suffered a surprise defeat in the Canadian Open weeks before she begins her US Open title defence, while Britain's Cameron Norrie also bowed out in the last 16.\n\nSabalenka lost 7-6 (7-3) 4-6 6-4 to Russia's Ekaterina Alexandrova in a match lasting almost two and a half hours in Toronto. The Belarusian recovered from a set down to force a decider, but a double fault when serving to stay in the match handed the number 16 seed victory.",
         "first_seen": "2026-08-09T08:08:45.497385+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Why Emma Raducanu should now skip the rest of the season after withdrawing from the US Open",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHRwRldNMmp3NXpsTlVXOXNOal9nRVdzZFpzc2JNM2N1bkowSlBfOHkyb3hzWERvNHllSmVPb3VlUTh3SUNUY1VMOHJWT3A0TmVCSU9JYnA0YVhFN0RTN04tb1ZFMl9EYm9WbXdUSWpJSUFEZW9WcDR3MTE4enVrUHpNSmhBOGRVQ0g4Q0NrS3FuYnpFOUp4Z19rVEowODFlbWVVQVp4WmhGSUtqN01YcEQ1WDBSZw?oc=5",
-        "published": "2026-08-08T07:00:00+00:00",
-        "published_label": "Sat 08 Aug, 07:00",
-        "summary": "Why Emma Raducanu should now skip the rest of the season after withdrawing from the US Open Tennishead",
-        "body": "Emma Raducanu’s 2026 campaign was one of immense promise and has shown glimpses of the quality we know she possesses. Ironically, it could be argued that this has been her most successful year since she won the US Open in 2021.\n\nAfter all, reaching two WTA-level finals deserves huge praise, even if she lost both. However, such brief triumphs have been largely surrounded by misery and despair, with her fitness and health failing her so often.",
-        "copy": "Emma Raducanu’s 2026 campaign was one of immense promise and has shown glimpses of the quality we know she possesses. Ironically, it could be argued that this has been her most successful year since she won the US Open in 2021.\n\nAfter all, reaching two WTA-level finals deserves huge praise, even if she lost both. However, such brief triumphs have been largely surrounded by misery and despair, with her fitness and health failing her so often.",
-        "first_seen": "2026-08-08T08:07:37.326669+00:00"
       }
     ],
     "Golf": [
@@ -6283,22 +6322,22 @@
         "body": "Bryson DeChambeau’s future with LIV Golf remains up in the air right now. Whether LIV Golf survives past the end of this current season or not, DeChambeau has made no secret of his desire to play in PGA Tour events.\n\nThe 32-year-old left the PGA Tour in order to join LIV Golf back in June 2022. It’s fair to say that Bryson DeChambeau has become one of the biggest sporting stars on the planet since his move to LIV Golf.",
         "copy": "Bryson DeChambeau’s future with LIV Golf remains up in the air right now. Whether LIV Golf survives past the end of this current season or not, DeChambeau has made no secret of his desire to play in PGA Tour events.\n\nThe 32-year-old left the PGA Tour in order to join LIV Golf back in June 2022. It’s fair to say that Bryson DeChambeau has become one of the biggest sporting stars on the planet since his move to LIV Golf.",
         "first_seen": "2026-08-08T08:07:37.326669+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Every twist and turn of LIV Golf saga (so far)",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rMjZsTGRWX21kVFdlRUNNU2dIU2NMZXl5eXNLaXluY1pXQjQxV0xjeTgyeUpidExmNnZUOXUxWEo1TkR1Mm41M0RDeFgxN1JnbHpwOHlyc1NnVEdwYmduM2VMNndYTWNXNnFWTA?oc=5",
-        "published": "2026-08-08T07:06:34+00:00",
-        "published_label": "Sat 08 Aug, 07:06",
-        "summary": "Every twist and turn of LIV Golf saga (so far) bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. It’s fair to say it’s been a turbulent year for LIV Golf.\n\nSaudi Arabia’s Public Investment Fund (PIF) pulled its financial backing from the circuit in April, a move which sent shockwaves through the golfing world. Having invested around $5 billion in the startup circuit, PIF’s decision to turn its back cast major doubt over the future of LIV.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. It’s fair to say it’s been a turbulent year for LIV Golf.\n\nSaudi Arabia’s Public Investment Fund (PIF) pulled its financial backing from the circuit in April, a move which sent shockwaves through the golfing world. Having invested around $5 billion in the startup circuit, PIF’s decision to turn its back cast major doubt over the future of LIV.",
-        "first_seen": "2026-08-08T08:07:37.326669+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF World Championships 2026: Get ready for badminton’s finest in New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM3NyUTJTRWZxZlg4NzdQU1J1U1o0YVJsdHJ6V2U1VzZ0bW5zand4dEhudkl3eWZ2cUxseVNhdkJrZ3VKYTc1TlhPWTRESWpWRGVCc1Q0NWhTVVVGQXE1V3Z4ODZDT1lYa0FjcFhGclVsUGgySm1xUEhGRWhmc3djUXI0MVk?oc=5",
+        "published": "2026-08-15T06:34:52+00:00",
+        "published_label": "Sat 15 Aug, 06:34",
+        "summary": "BWF World Championships 2026: Get ready for badminton’s finest in New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-15T07:52:13.013339+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6330,6 +6369,19 @@
         "source": "BWF watch",
         "kind": "gnews",
         "title": "2009 to 2026: BWF World Championships return to an India worlds apart",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0IwYkYwcUduQnlsV0pBd2k4LUJRTWVkeXNRZTZ1aFdhMW1OZC1GM0hTUmlOUTRjUjJMTVBGSVZvcFpRTGlzZXdvVm4zZmV4MGY5THlyUzJMQzVwZ05RVHZpR1IzNndKUWpOMXBXVlFyWnpkcHI0dnBUeU1kT1RtMFI0UzlkclQwaVJvMzNfa2w4bDhBZGI0WkFQOFA2cmZ3aG5vLXdNcTgyZTJWUE5rbkdnYk5fcFNq?oc=5",
+        "published": "2026-08-15T03:05:16+00:00",
+        "published_label": "Sat 15 Aug, 03:05",
+        "summary": "2009 to 2026: BWF World Championships return to an India worlds apart ESPN",
+        "body": "Starting August 16, 2026, India will play host to the BWF Badminton World Championships for a second time, in circumstances vastly different from the first time the nation hosted it.\n\nBack in 2009, the Worlds were barely a blip on the Indian sporting radar, badminton still a mix of Prakash Padukone-Pullela Gopichand inspired nostalgia and Saina Nehwal induced hope. At the time the bigger talking point wasn't if India would medal or not, it was England pulling out due to a terror threat.",
+        "copy": "Starting August 16, 2026, India will play host to the BWF Badminton World Championships for a second time, in circumstances vastly different from the first time the nation hosted it.\n\nBack in 2009, the Worlds were barely a blip on the Indian sporting radar, badminton still a mix of Prakash Padukone-Pullela Gopichand inspired nostalgia and Saina Nehwal induced hope. At the time the bigger talking point wasn't if India would medal or not, it was England pulling out due to a terror threat.",
+        "first_seen": "2026-08-15T07:52:13.013339+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "2009 to 2026: BWF World Championships return to an India worlds apart",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVV0WTNXc0x2NmM1emlvamtzREoyV0toVzFGOHVaVEplQWt1LW1hMHN6VG91ajFIZm9yMF9LbnVxOVRxQjE1aU54cFZXNmlrSFpzWmNidlA0a0s3OXB1bFpuNS1pLTRYVEtVT0d2eWktYzVERXBOcTNHN0Z5eXlLRTJVVGc0ckRuRkdfQ1ZodnRmMDU2NTBSVmsyMnpfZ2pOUzVZRnV6aUtMSHNxR1pwS0xwdw?oc=5",
         "published": "2026-08-15T01:40:00+00:00",
         "published_label": "Sat 15 Aug, 01:40",
@@ -6337,6 +6389,19 @@
         "body": "Starting August 16, 2026, India will play host to the BWF Badminton World Championships for a second time, in circumstances vastly different from the first time the nation hosted it.\n\nBack in 2009, the Worlds were barely a blip on the Indian sporting radar, badminton still a mix of Prakash Padukone-Pullela Gopichand inspired nostalgia and Saina Nehwal induced hope. At the time the bigger talking point wasn't if India would medal or not, it was England pulling out due to a terror threat.",
         "copy": "Starting August 16, 2026, India will play host to the BWF Badminton World Championships for a second time, in circumstances vastly different from the first time the nation hosted it.\n\nBack in 2009, the Worlds were barely a blip on the Indian sporting radar, badminton still a mix of Prakash Padukone-Pullela Gopichand inspired nostalgia and Saina Nehwal induced hope. At the time the bigger talking point wasn't if India would medal or not, it was England pulling out due to a terror threat.",
         "first_seen": "2026-08-15T06:33:23.698321+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "European Aquatics Championships 2026: David Popovici takes third-straight 200m freestyle gold in Paris",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOTZkRVdLUnlUOW1meTRuS1BaMjlESks1TjVrNGpkYlE0aUJuRkg4NkM5VWdTeVkwaFEwVHo0SmkzUVFYb0c2bHlPWEFiV2Q0RUFGTnd6a0RlaC0yWGlkUTFjLUlHTURkcVhrMEFSWXNjZjZWUk0wZHBvWUZha2QwbDBJSTNYcTFnUEUwSGl1Zjd2VlRpQUgwZEd3RHRrTzVjUU9iNlNnMVZ5RmtTZjk5MjRaQTl3NzFtb2RR?oc=5",
+        "published": "2026-08-14T17:59:00+00:00",
+        "published_label": "Fri 14 Aug, 17:59",
+        "summary": "European Aquatics Championships 2026: David Popovici takes third-straight 200m freestyle gold in Paris olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-15T07:52:13.013339+00:00"
       },
       {
         "section": "Badminton",
@@ -6363,6 +6428,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-14T10:57:18.554250+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton: How to watch Loh Kean Yew live at World Championships – full schedule",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGdDaU9aamJ1LUg5VFRwQWJTQzVBZHo1T0pRLTlNbEJhMHZfY3h6SDJNQWg1UEc3M3REYnU1aExuZXFBa0FPcnlMMC1zQnRMcjZWclNtenNrZGFyYjhtWkFUWXRsTkNBZ0ZmODlWeWdtSEFHQXMzS1FsYjRHUXQtRWh6WGFEV0JPakRCbzhfSXU3ZUpHM1JTellDMzc?oc=5",
+        "published": "2026-08-14T10:42:00+00:00",
+        "published_label": "Fri 14 Aug, 10:42",
+        "summary": "Badminton: How to watch Loh Kean Yew live at World Championships – full schedule olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-15T07:52:13.013339+00:00"
       },
       {
         "section": "Badminton",
@@ -7442,32 +7520,6 @@
         "body": "Ashmita Chaliha continued her giant-killing run at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13, 16-21, 21-13 in 48 minutes to reach her maiden BWF World Tour final.\n\nThe 26-year-old, who returned to competition in May after a three-month layoff due to a medial meniscus tear in her right knee, has enjoyed a strong comeback on the BWF Tour, including a semifinal appearance at the Macau Open.",
         "copy": "Ashmita Chaliha continued her giant-killing run at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13, 16-21, 21-13 in 48 minutes to reach her maiden BWF World Tour final.\n\nThe 26-year-old, who returned to competition in May after a three-month layoff due to a medial meniscus tear in her right knee, has enjoyed a strong comeback on the BWF Tour, including a semifinal appearance at the Macau Open.",
         "first_seen": "2026-08-08T08:07:37.326669+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Ashmita Chaliha secures maiden BWF World Tour final berth at Korea Masters Super 300",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0M0MWJFSnVKZFE5MXhSQTVNempCTHE2YW5SYzNwQ3JrdE1lQkpjeHRlaEpWSk04a1JCbHIwZGZ0TEJnbHhWbTZhM3BsbjdCVS1TVkVNMDMtdGlOZFk5MUNqTlYtNEQ0V2l1OWxLN3hoVDlpOTVSTnVnOG5sMDVIM1RTYjllZjVSR2p0N05seWJ0WnhOaDRjaFFzWFI2S09VOEl5dXBJYlEtZlRjeGFwTlVZSzhUUjkyNEpuNDZwVXJLRlQ1V0NjeWR4aHJSNDdZY2M5QndDNlhWZVRNR01N0gHkAUFVX3lxTE91bUp4YkpxQXVJaTBuWWFwUkJ3cEhrQjBOb2F1VVJpdlVHN2ljbkw2V2JOQjdkUy1oWExfM1JuelNLdDRVNWV1S0kyQnhaVkpkcFZzV3BoWllxU1pHWnFBd0lhVHY4Z0ItbzcxcmF1TEJFanBxNmVsNEE1UEhaRlg3eG4ycDJBRlBYZlFKV3dlaUcta3MxU0NJWFg4ZVRIb0N4dHBCQVpseXNpQUVzeEFYRWxLZDBzRHJRVFIwNTZrRjBITnRqclNMUFlUNTJpaThNYTJmU1JIWkxVREZwelZlbVE2MQ?oc=5",
-        "published": "2026-08-08T07:49:58+00:00",
-        "published_label": "Sat 08 Aug, 07:49",
-        "summary": "Ashmita Chaliha secures maiden BWF World Tour final berth at Korea Masters Super 300 Firstpost",
-        "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/ashmita-chaliha-secures-maiden-bwf-world-tour-final-berth-at-korea-masters-super-300-14036857.html\" on this server.\n\nReference #18.6f18d017.1786176425.ba28ee7f https://errors.edgesuite.net/18.6f18d017.1786176425.ba28ee7f",
-        "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/ashmita-chaliha-secures-maiden-bwf-world-tour-final-berth-at-korea-masters-super-300-14036857.html\" on this server.\n\nReference #18.6f18d017.1786176425.ba28ee7f https://errors.edgesuite.net/18.6f18d017.1786176425.ba28ee7f",
-        "first_seen": "2026-08-08T08:07:37.326669+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Ashmita Chaliha reaches maiden BWF World Tour final at Korea Masters",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlE2NEFLVGpFbWIzMi1DN3pOVzdCMkxlVEZiMkM5elZPVHpid3ZVMEZvRkltTmVnWWltbjZyS3BLS0ZPWERKa2tEaVJucG4tMFhZd1ZILU1VZDVwZjhGLXRUVGtrQjF6amdKbG1rNGEyZ3hnMDBOdEc5WG5nN3I2bXVmYW9rREhaMnJ3b2xGV1lVbVo1YUFkeUZwUW1kYm5IZXhFT0ZR0gGrAUFVX3lxTE1kYzhzSFllX3k5SllIV1laZ2JZTjJ4RjhWbFVPMjNjSF9kRXd1bWhWUXV6a2tSVjNPSWl6dF9LYkJvWUZVTzZETlY4T1ZGQlRSNXNfTTcyOUdENnBidlJXTVBGMHpnQXFhTVJsTWotYWFPZ3BFaWZ0dGttYkMwb2Ftd19ONG0wVklOblJGZzRzb0g0cGNtWWJ4R05DTUlSbmhNWHloUDBGVHNnMA?oc=5",
-        "published": "2026-08-08T06:46:06+00:00",
-        "published_label": "Sat 08 Aug, 06:46",
-        "summary": "Ashmita Chaliha reaches maiden BWF World Tour final at Korea Masters ThePrint",
-        "body": "Asan (South Korea), Aug 8 (PTI) Ashmita Chaliha continued her giant-killing run at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13 16-21 21-13 in 48 minutes to reach her maiden BWF World Tour final, here on Saturday.\n\nThe 26-year-old Indian, who returned to competition in May after a three-month layoff due to a medial meniscus tear in her right knee, has enjoyed a strong comeback on the BWF Tour, including a semifinal appearance at the Macau Open.",
-        "copy": "Asan (South Korea), Aug 8 (PTI) Ashmita Chaliha continued her giant-killing run at the Korea Masters Super 300, overcoming teenage compatriot Rakshitha Sree Santhosh Ramraj 21-13 16-21 21-13 in 48 minutes to reach her maiden BWF World Tour final, here on Saturday.\n\nThe 26-year-old Indian, who returned to competition in May after a three-month layoff due to a medial meniscus tear in her right knee, has enjoyed a strong comeback on the BWF Tour, including a semifinal appearance at the Macau Open.",
-        "first_seen": "2026-08-08T16:31:00.691693+00:00"
       }
     ],
     "Competitor News": [
@@ -7538,5 +7590,5 @@
       }
     ]
   },
-  "total": 578
+  "total": 582
 }
