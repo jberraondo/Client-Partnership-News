@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T12:32:11.382631+00:00",
-  "generated_label": "Saturday 15 August 2026, 12:32 UTC",
+  "generated_at": "2026-08-15T14:20:14.565996+00:00",
+  "generated_label": "Saturday 15 August 2026, 14:20 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1519,19 +1519,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-09T06:51:55.761142+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Iranian missile targets UAE tanker despite talks to reopen strait",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0R1TmpCYV8zeGVNZ1VzTzl2eG1WWndpVkdCS2pJQUtNN09UMF9jQ25CTWhfdHZIZW0yU3lWN0k3eE1YYTlSYnFLQk1yQzRFcUhPTWZNVmZrdjdKN0dZVnItYUV1NFQ5ZTBiRGVBaTM1Q3lpVUk0WDFhalhpOXBBVlhmTWo?oc=5",
-        "published": "2026-08-08T13:27:18+00:00",
-        "published_label": "Sat 08 Aug, 13:27",
-        "summary": "Iranian missile targets UAE tanker despite talks to reopen strait Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-08T14:30:42.074930+00:00"
       }
     ],
     "Rugby": [
@@ -3614,22 +3601,35 @@
         "body": "South Africa hung on for a gritty 17-10 win over Argentina in Beunos Aires despite losing inspirational captain Siya Kolisi to injury early. A big performance from No.8 Cameron Hanekom lifted the Springboks while the kick heavy game plan pressured Argentina and kept territory in South Africa’s favour.\n\nA mixed bag at set-piece time for South Africa, but Venter won a scrum penalty popping tighthead Francisco Moreno early in the first half for a key release. Argentina found him in the defensive line a couple of times for a line break. Off at 49.",
         "copy": "South Africa hung on for a gritty 17-10 win over Argentina in Beunos Aires despite losing inspirational captain Siya Kolisi to injury early. A big performance from No.8 Cameron Hanekom lifted the Springboks while the kick heavy game plan pressured Argentina and kept territory in South Africa’s favour.\n\nA mixed bag at set-piece time for South Africa, but Venter won a scrum penalty popping tighthead Francisco Moreno early in the first half for a key release. Argentina found him in the defensive line a couple of times for a line break. Off at 49.",
         "first_seen": "2026-08-09T06:51:55.761142+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Wallabies see red but survive Osaka thriller",
-        "link": "https://www.rugbypass.com/news/wallabies-see-red-but-survive-osaka-thriller/",
-        "published": "2026-08-08T12:47:59+00:00",
-        "published_label": "Sat 08 Aug, 12:47",
-        "summary": "The Wallabies' Les Kiss coaching era has begun with a nerve-wracking 35-32 defeat of Japan, the visitors scraping home despite lock Miles Amatosero's red card.",
-        "body": "The Wallabies’ Les Kiss coaching era has begun with a nerve-wracking 35-32 defeat of Japan, the visitors scraping home despite lock Miles Amatosero’s red card. Les Kiss was made to sweat in his Wallabies coaching debut as the visitors survived moments of calamity and a red card to beat Japan 35-32 in Osaka.\n\nThe visitors trailed early but, just as they appeared set to steady and surge away, were reduced to 14 men for 20 minutes thanks to a Miles Amatosero red card. Japan, coached by Eddie Jones and seeking their first win in eight encounters, smelt blood.",
-        "copy": "The Wallabies’ Les Kiss coaching era has begun with a nerve-wracking 35-32 defeat of Japan, the visitors scraping home despite lock Miles Amatosero’s red card. Les Kiss was made to sweat in his Wallabies coaching debut as the visitors survived moments of calamity and a red card to beat Japan 35-32 in Osaka.\n\nThe visitors trailed early but, just as they appeared set to steady and surge away, were reduced to 14 men for 20 minutes thanks to a Miles Amatosero red card. Japan, coached by Eddie Jones and seeking their first win in eight encounters, smelt blood.",
-        "first_seen": "2026-08-08T14:30:42.074930+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ex-tennis player Bautista Agut scores on football debut",
+        "link": "https://www.bbc.co.uk/sport/articles/c0jllp431qqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-15T13:07:09+00:00",
+        "published_label": "Sat 15 Aug, 13:07",
+        "summary": "Roberto Bautista Agut scores twice on his debut for Spanish seventh-tier side CD Els Ibarsos - just over a month after retiring from tennis.",
+        "body": "Just over a month after retiring from tennis, Roberto Bautista Agut has returned to competitive sport - this time on a football pitch. The 38-year-old former Wimbledon semi-finalist has signed for Spanish seventh-tier side CD Els Ibarsos and scored twice in a 4-2 win on his debut in a pre-season match.\n\nThe Spaniard's tennis career featured 12 singles title wins plus a Davis Cup triumph with his country in 2019. Achieving success on the football field is now his challenge. \"It's a new stage of life that's making me very happy\", Bautista Agut said on Instagram.",
+        "copy": "Just over a month after retiring from tennis, Roberto Bautista Agut has returned to competitive sport - this time on a football pitch. The 38-year-old former Wimbledon semi-finalist has signed for Spanish seventh-tier side CD Els Ibarsos and scored twice in a 4-2 win on his debut in a pre-season match.\n\nThe Spaniard's tennis career featured 12 singles title wins plus a Davis Cup triumph with his country in 2019. Achieving success on the football field is now his challenge. \"It's a new stage of life that's making me very happy\", Bautista Agut said on Instagram.",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper's nightmare continues: what can he do?",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmQxaWpCeW04WjBvb0I1U3pWUS1WdEJkUkJJLVFySTRmaVVjZlI1X1F6eFJWLWtjM2lkYTNwbl9OMVVuRFM5UUlKaklXZmd1NC1ObEMzbHJNOFpnYmJzOEZJV0xTZXE5SU5FT0JxMjdIblZXLWNjYTFfSE1aVjRfSTZpUTNTQkJjTGkweGRvVDBsZmhaNGlwMGN5MkhORktjVTRhSUdYblRPZHdtVkFrQXlwc1k?oc=5",
+        "published": "2026-08-15T12:30:00+00:00",
+        "published_label": "Sat 15 Aug, 12:30",
+        "summary": "Jack Draper's nightmare continues: what can he do? Tennis World USA",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4230,6 +4230,58 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "LeBron James is joining YouTube Golf. Here's why",
+        "link": "https://golf.com/news/lebron-james-launching-youtube-golf-channel/",
+        "published": "2026-08-15T13:58:19+00:00",
+        "published_label": "Sat 15 Aug, 13:58",
+        "summary": "LeBron James is launching a YouTube channel chronicling his newfound golf obsession. Here's why that's a big deal — and a collision of several trends. The post LeBron James is joining YouTube Golf. Here’s why appeared first on Golf .",
+        "body": "Yes, we’re serious. James’ first YouTube video is live as of 10 a.m. ET on Saturday, Aug. 14, kicking off a golf-centric channel chronicling the journey of new obsessive. In some ways, James’ debut video echoes any other buddies’ trip: it’s an epic reunion of old friends in an epic new place, in this case Castle Stuart in Scotland. The difference between his buddies’ trip and yours, though, is that this is a reunion of the 2016 NBA Champion Cleveland Cavaliers. Their collective presence is a reminder of James’ basketball greatness — you’ll recall that 2016 team came back from 3-1 down in the finals to upset the Golden State Warriors — but their chosen reunion activity is a reminder of their shifting priorities: It’s golf season all the time now.\n\nThe video, which features James alongside former teammates Kevin Love, J.R. Smith, Richard Jefferson, Tristan Thompson and Channing Frye, was released on James’ inactive-until-now personal YouTube channel, @LeBron. The plan for the channel, per James’ team, is a golf-themed video to be released every month, showcasing James’ journey with the sport, a mix of golf talk, competition, off-course adventure, local culture, food, wine and more.",
+        "copy": "Yes, we’re serious. James’ first YouTube video is live as of 10 a.m. ET on Saturday, Aug. 14, kicking off a golf-centric channel chronicling the journey of new obsessive. In some ways, James’ debut video echoes any other buddies’ trip: it’s an epic reunion of old friends in an epic new place, in this case Castle Stuart in Scotland. The difference between his buddies’ trip and yours, though, is that this is a reunion of the 2016 NBA Champion Cleveland Cavaliers. Their collective presence is a reminder of James’ basketball greatness — you’ll recall that 2016 team came back from 3-1 down in the finals to upset the Golden State Warriors — but their chosen reunion activity is a reminder of their shifting priorities: It’s golf season all the time now.\n\nThe video, which features James alongside former teammates Kevin Love, J.R. Smith, Richard Jefferson, Tristan Thompson and Channing Frye, was released on James’ inactive-until-now personal YouTube channel, @LeBron. The plan for the channel, per James’ team, is a golf-themed video to be released every month, showcasing James’ journey with the sport, a mix of golf talk, competition, off-course adventure, local culture, food, wine and more.",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How to plan an unforgettable Wisconsin golf trip at an affordable price",
+        "link": "https://golf.com/travel/wisconsin-golf-trip-affordable-price-point/",
+        "published": "2026-08-15T13:15:07+00:00",
+        "published_label": "Sat 15 Aug, 13:15",
+        "summary": "I recently went on a golf trip to Wisconsin — and I walked away convinced it's one of the best values in the game. The post How to plan an unforgettable Wisconsin golf trip at an affordable price appeared first on Golf .",
+        "body": "When I moved to Wisconsin eight years ago to work for the Green Bay Packers, I didn’t know much about the Badger state. I’d never seen a snow plow in action and had no clue what a Friday Fish Fry was. I’d never been inside a Festival Foods nor had I tasted a Culver’s ButterBurger. Worst of all, I didn’t realize just how much great golf the state boasted.\n\nSince leaving Wisconsin, I still kick myself for not taking advantage of the abundance of great golf the state has to offer. Luckily, I’ve been able travel back to the midwest in recent years — and I’ve made sure to bring my sticks in an effort to explore all the great golf Wisconsin has to offer.",
+        "copy": "When I moved to Wisconsin eight years ago to work for the Green Bay Packers, I didn’t know much about the Badger state. I’d never seen a snow plow in action and had no clue what a Friday Fish Fry was. I’d never been inside a Festival Foods nor had I tasted a Culver’s ButterBurger. Worst of all, I didn’t realize just how much great golf the state boasted.\n\nSince leaving Wisconsin, I still kick myself for not taking advantage of the abundance of great golf the state has to offer. Luckily, I’ve been able travel back to the midwest in recent years — and I’ve made sure to bring my sticks in an effort to explore all the great golf Wisconsin has to offer.",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Shop Callaway's 'wild' new limited-edition golf balls",
+        "link": "https://golf.com/gear/golf-balls/shop-callaway-wild-new-limited-edition-golf-balls/",
+        "published": "2026-08-15T13:00:18+00:00",
+        "published_label": "Sat 15 Aug, 13:00",
+        "summary": "Callaway's new Chrome Tour golf balls are truly 'wild,' featuring an array of lions, tigers, giraffes or elephants on each ball. The post Shop Callaway’s ‘wild’ new limited-edition golf balls appeared first on Golf .",
+        "body": "In case you haven’t noticed, golf balls have gotten more personal then ever before. Now you can play a ball in just about every shade of the rainbow and add any logo you can think of. You can even customize golf balls with your own personal photos and messages.\n\nMajor manufacturers have also been getting in on the fun by releasing limited-edition designs. Some of the latest offerings from Callaway include balls bearing imagery of cocktails, hot dogs, retro football players and even select dog breeds, like German Shepherds and Yellow Labradors.",
+        "copy": "In case you haven’t noticed, golf balls have gotten more personal then ever before. Now you can play a ball in just about every shade of the rainbow and add any logo you can think of. You can even customize golf balls with your own personal photos and messages.\n\nMajor manufacturers have also been getting in on the fun by releasing limited-edition designs. Some of the latest offerings from Callaway include balls bearing imagery of cocktails, hot dogs, retro football players and even select dog breeds, like German Shepherds and Yellow Labradors.",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Does Chicago have better golf courses than Minneapolis? A rising media star weighs in",
+        "link": "https://golf.com/news/does-chicago-have-better-golf-courses-than-minneapolis-subpar/",
+        "published": "2026-08-15T12:59:02+00:00",
+        "published_label": "Sat 15 Aug, 12:59",
+        "summary": "On this week's episode of Subpar, rising golf media star Emma Carpenter shares her take on which area she thinks has better golf courses. The post Does Chicago have better golf courses than Minneapolis? A rising media star weighs in appeared first on Golf .",
+        "body": "If you’re not yet familiar with the name Emma Carpenter, chances are you soon will be. The 25-year-old is a rising star in the sports media world, with appearances on Golf Channel, PGA Tour Live, the 5 Clubs Podcast and the Big 10 Network, where she covers both golf and football.\n\nCarpenter grew up in Dekalb, Ill., but played collegiate golf at the University of Minnesota. So on this week’s episode of Subpar, hosts Colt Knost and Drew Stoltz had an important question for their guest: Which area has better golf?",
+        "copy": "If you’re not yet familiar with the name Emma Carpenter, chances are you soon will be. The 25-year-old is a rising star in the sports media world, with appearances on Golf Channel, PGA Tour Live, the 5 Clubs Podcast and the Big 10 Network, where she covers both golf and football.\n\nCarpenter grew up in Dekalb, Ill., but played collegiate golf at the University of Minnesota. So on this week’s episode of Subpar, hosts Colt Knost and Drew Stoltz had an important question for their guest: Which area has better golf?",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6322,22 +6374,61 @@
         "body": "Golf has proven to be a useful icebreaker for CBS Sports broadcaster Andrew Catalon, who, in addition to covering PGA Tour events for the network, also works the NFL season and covers college basketball.\n\n“A lot of them do love golf,” Catalon said of the coaches and athletes he interviews in other sports. “If I know that somebody is a golfer, to say, when’s the last time you played? Or, did you watch this or that?",
         "copy": "Golf has proven to be a useful icebreaker for CBS Sports broadcaster Andrew Catalon, who, in addition to covering PGA Tour events for the network, also works the NFL season and covers college basketball.\n\n“A lot of them do love golf,” Catalon said of the coaches and athletes he interviews in other sports. “If I know that somebody is a golfer, to say, when’s the last time you played? Or, did you watch this or that?",
         "first_seen": "2026-08-08T16:31:00.691693+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Wyndham Championship Saturday TV coverage: How to watch Round 3",
-        "link": "https://golf.com/news/2026-wyndham-championship-saturday-how-to-watch-round-3/",
-        "published": "2026-08-08T12:37:37+00:00",
-        "published_label": "Sat 08 Aug, 12:37",
-        "summary": "How to watch the 2026 Wyndham Championship on Saturday, including full Wyndham Championship TV coverage and streaming details for Round 3. The post 2026 Wyndham Championship Saturday TV coverage: How to watch Round 3 appeared first on Golf .",
-        "body": "The 2026 Wyndham Championship continues on Saturday with the third round at Sedgefield Country Club. Here’s everything you need to know to watch the tournament on Saturday, including full Wyndham Championship TV coverage, streaming details and complete Round 3 tee times.\n\nThis week is critical for many players in the field, as it offers a final opportunity to qualify for next week’s FedEx St. Jude — the first event in the FedEx Cup playoffs. Only the top 70 players in the points ranking will punch their tickets to Memphis.",
-        "copy": "The 2026 Wyndham Championship continues on Saturday with the third round at Sedgefield Country Club. Here’s everything you need to know to watch the tournament on Saturday, including full Wyndham Championship TV coverage, streaming details and complete Round 3 tee times.\n\nThis week is critical for many players in the field, as it offers a final opportunity to qualify for next week’s FedEx St. Jude — the first event in the FedEx Cup playoffs. Only the top 70 players in the points ranking will punch their tickets to Memphis.",
-        "first_seen": "2026-08-08T12:42:06.499169+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships: Beyond smashes, drops, the conditions could decide the winner",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQazVMSWUwR3JOWFBETGJOOGZsSHRFQW1MOEVoWGZmZTFnZ29UR18wVmtzZ1dlZTJDaENrdTExdVduaWJ3T2VMZ3BUMm5jT2J6MEF3dkQ4NXJFZmFQa0ppZU91VlI4blNBcTVYOHpBUkM3Y29LWjZWa3FSRk1VV3hGNkEtZmY2M21ubk4wUXIyNkxyUEprOG9Ic3g5MVN5LUFMQ055SEJYQW0xUDFVdjZDOHBTOGtNajc4YW5IS1AzdWVrT0JEelhUZ3JUR3pGcjROdkpPaWhVcXBKVVFHU181V1ljcWJvXy1JcnFuZVhnQXFaVGlU0gH6AUFVX3lxTE1lc3VMeDd4Z2hHbE5JdDJGazdxYWxpNm9ncFE1czFQY2ZNLU9nMl9zTHBVYzhWSkNDRlVsSEVCZVhNa1FMTldqTnZlZmdTN0xMVkdvN2dyUlRBX2trLTByek9mR2RmWlBLWHc4bTE0d2dfTUFtcVB1YkktUlNjQ043ZzBtd3Fzbk9RVzNfNDRubmY2X01qS1N4ODJGZDhTRjA5SzVJQk9sTy1FRm1jRlFEdm5RZWlnWkdBdXBvRERsUUQwTmtNWnNvSVIySlJRbkxoWXpTbXJTbTVsLXBKUkV0WjFEMVZ5dXgxNGJ1RkZ1eHhJamlkV2NwTnc?oc=5",
+        "published": "2026-08-15T13:53:00+00:00",
+        "published_label": "Sat 15 Aug, 13:53",
+        "summary": "BWF World Championships: Beyond smashes, drops, the conditions could decide the winner The Times of India",
+        "body": "In badminton, a point, a set, a match and, by extension, a title, can be decided not just by a drop shot, a smash or a fake at the net. External factors such as the weather, the draft and humidity play a huge role. And that could test the players when the\n\nWith Delhi facing irregular monsoon showers and humidity hovering between 70% and 90%, the air conditioners would be cranked up over the course of the week, with the best in the business already in India. Even the non-toxic gel that has been installed to keep pigeons at bay at the Indira Gandhi Indoor Stadium needs a certain temperature. If the arena gets warm, the gel will lose consistency and drop onto the seats below.",
+        "copy": "In badminton, a point, a set, a match and, by extension, a title, can be decided not just by a drop shot, a smash or a fake at the net. External factors such as the weather, the draft and humidity play a huge role. And that could test the players when the\n\nWith Delhi facing irregular monsoon showers and humidity hovering between 70% and 90%, the air conditioners would be cranked up over the course of the week, with the best in the business already in India. Even the non-toxic gel that has been installed to keep pigeons at bay at the Indira Gandhi Indoor Stadium needs a certain temperature. If the arena gets warm, the gel will lose consistency and drop onto the seats below.",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Victor Lai Diary: A Year Ago, Walking on the Clouds",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWG11d2ZBZElHM0d6VjJvQ3hmQ0U1d3NmRzF0RU9PZTBLMHJ0SzBCOGYyUTdxMkNqeHdoVGdncnBnaU9KbHhyNDZ3R3dfTDl0ODFjektZaGZKRmdyT2k2Tk9aVjJwWVFzYWJQSEh3Z1VuVE9WYldUYTJXSWhLRlpENHB2TWk0QVNIWENPOTl0RFQzcGNpRnYtZlBwd3dLaGlVdU9RRWRnUTZNQTJDUkkyeHBVWlVVOGFtaldueQ?oc=5",
+        "published": "2026-08-15T13:49:38+00:00",
+        "published_label": "Sat 15 Aug, 13:49",
+        "summary": "Victor Lai Diary: A Year Ago, Walking on the Clouds BWF World Championships",
+        "body": "There is a trace of wistfulness in Victor Lai’s voice as he recounts his magical week from a year ago at the BWF World Championships 2025. He is of course a far more accomplished player than the version that came to Paris and took down one higher-rated opponent after another, before nearly toppling eventual champion Shi Yu Qi in a sensational semifinal.\n\nSo where does the wistfulness come from? “I’d say one thing that might be worse is, last year at the Worlds I had absolutely no pressure, so that feeling of relaxation and that freedom, I will never feel that freedom again.",
+        "copy": "There is a trace of wistfulness in Victor Lai’s voice as he recounts his magical week from a year ago at the BWF World Championships 2025. He is of course a far more accomplished player than the version that came to Paris and took down one higher-rated opponent after another, before nearly toppling eventual champion Shi Yu Qi in a sensational semifinal.\n\nSo where does the wistfulness come from? “I’d say one thing that might be worse is, last year at the Worlds I had absolutely no pressure, so that feeling of relaxation and that freedom, I will never feel that freedom again.",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships 2026: Check out Indian stars, schedule and live streaming guide",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRk55c0dkbVdJQUt3bXotOUlBQWxpazNGTkQ4aV9xRlhYbkxZNUp5QUVZejU1b1hPanQxcnNZS21UQTRVa180YnNLckNsOFB4bzFqT2hQVGVMRmtSYTdCLS1OaGh6S1didjd1RHVxVGtQNjFlUk0ydzBiXzFxU194MFN1OXlvX1p0NnRjaVJJSDU5UXE1V1lGWUNobFZjdFdLdFQ0bFNKcHJQMmhIcVEzVTRnVmFOWEFsdUxQb2xRdXJxaFo3VkVFWHJxRWs0ZUVRQmYwM1NodnhhaUtRekptR9IB5gFBVV95cUxNQV91bGUyRlVPTnNnVXl0T2Y0LUViRUhXQ2NIcVg3eUROeTJIUGtKX1dKQWtaUXdLa0NLOEpMNzI1UF9GN2pURTZPOGQzSHRZSGVDU1lEU05pYndQSGw1dkgtTk5JeElwZkp6dEF6UHlxVWhzdFdPOTN6Z2J3VlhPSU9vSnNlZjZvT1Jja1ZjMzhQRlczSksxNmxEak1ZZ2stMDl4Y21ORmhyUk1DZlZSZGdFSk9lX29TVWZ0R0lORGRULUhTWFZ1VzRRbUJ3MlktRWcwdGlNM0J1Unh2bUwzWlFtNjVrUQ?oc=5",
+        "published": "2026-08-15T13:26:25+00:00",
+        "published_label": "Sat 15 Aug, 13:26",
+        "summary": "BWF World Championships 2026: Check out Indian stars, schedule and live streaming guide Firstpost",
+        "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/bwf-world-championships-2026-check-out-indian-stars-schedule-and-live-streaming-guide-14038455.html\" on this server.\n\nReference #18.e5ab3717.1786803599.5ad7fb5f https://errors.edgesuite.net/18.e5ab3717.1786803599.5ad7fb5f",
+        "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/bwf-world-championships-2026-check-out-indian-stars-schedule-and-live-streaming-guide-14038455.html\" on this server.\n\nReference #18.e5ab3717.1786803599.5ad7fb5f https://errors.edgesuite.net/18.e5ab3717.1786803599.5ad7fb5f",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF Satisfied With Upgrades At World Championships Venue After India Open Backlash",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXhGNDBqSXhIbDRfempJcFRPMWVBOWE4T0VaYlhsaElfd1VQbDdsODVZT0hXeXdmUV9yMzNIVEQyUUZrRzRHOXE2bUp4dlFmdmxLclVDRkt2dVJLeG1ycXFuVm8yQ1F0VlpuLW1MUm5TYUpJbFduQWpValJSQWJqbUlac2w1NFIzOVNyTVRmWDMyX2wtcFBYeGhlVUUzZEtxeDdXd3pQSmwtQzNLVk1PMXBlTnJkRkJXUXl0R2pRanJYLWs?oc=5",
+        "published": "2026-08-15T12:16:01+00:00",
+        "published_label": "Sat 15 Aug, 12:16",
+        "summary": "BWF Satisfied With Upgrades At World Championships Venue After India Open Backlash sports.ndtv.com",
+        "body": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-satisfied-with-upgrades-at-world-championships-venue-after-india-open-backlash-11871708\" on this server.\n\nReference #18.bc89cc17.1786803607.1b5afd6b https://errors.edgesuite.net/18.bc89cc17.1786803607.1b5afd6b",
+        "copy": "You don't have permission to access \"http://sports.ndtv.com/badminton/bwf-satisfied-with-upgrades-at-world-championships-venue-after-india-open-backlash-11871708\" on this server.\n\nReference #18.bc89cc17.1786803607.1b5afd6b https://errors.edgesuite.net/18.bc89cc17.1786803607.1b5afd6b",
+        "first_seen": "2026-08-15T14:20:14.565996+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7551,5 +7642,5 @@
       }
     ]
   },
-  "total": 579
+  "total": 586
 }
