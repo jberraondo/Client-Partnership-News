@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:21:06.800659+00:00",
-  "generated_label": "Sunday 16 August 2026, 14:21 UTC",
+  "generated_at": "2026-08-16T16:21:22.274014+00:00",
+  "generated_label": "Sunday 16 August 2026, 16:21 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1519,19 +1519,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-10T07:26:18.574297+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Netanyahu rejects Trump’s Gaza disarmament plan",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFY0LWNybW1mVGl0SWhPUnZvSmFBZUNmOGtyRWl6RFlyamZfQ1QzMG8wcFJMeWJPX1RjQk55M011Wlhvd21Cdlp1YU0weFdWRlhITVg2cXNlWVZlaDFqMzNQTlkzbDZFdi01cl9pckhIM1g3THFOZks4RDNwUklWUkJTdlc?oc=5",
-        "published": "2026-08-09T15:17:33+00:00",
-        "published_label": "Sun 09 Aug, 15:17",
-        "summary": "Netanyahu rejects Trump’s Gaza disarmament plan Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-09T16:31:09.111790+00:00"
       }
     ],
     "Rugby": [
@@ -3640,19 +3627,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-10T07:26:18.574297+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "All Blacks dealt second major injury ahead of Greatest Rivalry test series",
-        "link": "https://www.rugbypass.com/news/all-blacks-dealt-second-major-injury-ahead-of-greatest-rivalry-test-series/",
-        "published": "2026-08-09T14:49:16+00:00",
-        "published_label": "Sun 09 Aug, 14:49",
-        "summary": "Billy Proctor has been ruled out of the remainder of the All Blacks’ Greatest Rivalry tour, reducing New Zealand’s options in an outside centre position that remains up for grabs.",
-        "body": "Billy Proctor has been ruled out of the remainder of the All Blacks’ Greatest Rivalry tour, reducing New Zealand’s options in an outside centre position that remains up for grabs.\n\nScans revealed the 27-year-old fractured his shoulder blade during Friday’s 38-21 victory over the Stormers at DHL Stadium in Cape Town. He will not require surgery but faces a recovery period of between 10 and 12 weeks.",
-        "copy": "Billy Proctor has been ruled out of the remainder of the All Blacks’ Greatest Rivalry tour, reducing New Zealand’s options in an outside centre position that remains up for grabs.\n\nScans revealed the 27-year-old fractured his shoulder blade during Friday’s 38-21 victory over the Stormers at DHL Stadium in Cape Town. He will not require surgery but faces a recovery period of between 10 and 12 weeks.",
-        "first_seen": "2026-08-09T16:31:09.111790+00:00"
       }
     ],
     "Tennis": [
@@ -3671,6 +3645,19 @@
       },
       {
         "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Novak Djokovic reveals ongoing health condition after Cincinnati defeat",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdlNjczZpTzNQc3R1ejB3M25SUlJHX1NKTV9MT1Y1Z2lBd1o2TEhmWU1JTTlnZTVUMFp3dDctc2g0VHlnYW55ZDJzV0R6WUxMeWNpOXRvOEkxMG9SdkhnRFNSMVN6dWZyWVNrbU1WSGVQbDFjWTNjdkNQZEJRMi1ZTno2OEhjb2pnQ1dzUFI2NlFncUlLZi1EeHQwYmRBOTUyYWtGUFdYRGRnYTBzOV9RUlVpeUIxN1BrY0RtUVFmcXBqZk5MbHc?oc=5",
+        "published": "2026-08-16T12:12:31+00:00",
+        "published_label": "Sun 16 Aug, 12:12",
+        "summary": "Novak Djokovic reveals ongoing health condition after Cincinnati defeat Sky Sports",
+        "body": "Novak Djokovic revealed he has been dealing with an ongoing health condition after his surprise second-round defeat at the Cincinnati Open. The 39-year-old said the condition was exacerbated by the heat and humidity in Ohio as he visibly struggled in a 6-2 4-6 4-6 loss to Argentina's world No 50 Thiago Agustin Tirante.\n\nDjokovic, currently world No 5 and playing his first match since losing to Jannik Sinner in the Wimbledon semi-finals in July, slumped to his hands and knees before taking a medical timeout midway through the second set.",
+        "copy": "Novak Djokovic revealed he has been dealing with an ongoing health condition after his surprise second-round defeat at the Cincinnati Open. The 39-year-old said the condition was exacerbated by the heat and humidity in Ohio as he visibly struggled in a 6-2 4-6 4-6 loss to Argentina's world No 50 Thiago Agustin Tirante.\n\nDjokovic, currently world No 5 and playing his first match since losing to Jannik Sinner in the Wimbledon semi-finals in July, slumped to his hands and knees before taking a medical timeout midway through the second set.",
+        "first_seen": "2026-08-16T16:21:22.274014+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "Emma Raducanu Handed Shock Retirement Warning by Ex-British No. 1 as Injury Forces US Open Absence",
@@ -3681,6 +3668,19 @@
         "body": "Former British World No. 1 Andrew Castle recently made a bold prediction about Emma Raducanu's career as she continues to recover from injury. Raducanu was last seen in action at the HSBC Championships, where she enjoyed a strong run and reached the final. However, she fell short of winning the title after losing to Donna Vekic in the final on June 14. Following the tournament, she has been away from the court due to a lower-leg injury sustained during the final.\n\nAfter undergoing medical tests, the injury was diagnosed as a stress fracture in her right lower leg. The setback forced her to withdraw from Wimbledon just hours before her opening match. She has also pulled out of the Canadian Open and the US Open as she continues her recovery. The US Open is scheduled to take place from August 23 to September 13 at the USTA Billie Jean King National Tennis Center.",
         "copy": "Former British World No. 1 Andrew Castle recently made a bold prediction about Emma Raducanu's career as she continues to recover from injury. Raducanu was last seen in action at the HSBC Championships, where she enjoyed a strong run and reached the final. However, she fell short of winning the title after losing to Donna Vekic in the final on June 14. Following the tournament, she has been away from the court due to a lower-leg injury sustained during the final.\n\nAfter undergoing medical tests, the injury was diagnosed as a stress fracture in her right lower leg. The setback forced her to withdraw from Wimbledon just hours before her opening match. She has also pulled out of the Canadian Open and the US Open as she continues her recovery. The US Open is scheduled to take place from August 23 to September 13 at the USTA Billie Jean King National Tennis Center.",
         "first_seen": "2026-08-16T10:21:17.009106+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Kirsty Gilmour: ‘I wouldn’t swap places with Emma Raducanu’",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelNzTklaM19KV3pQdVhDd1l0aVpsVERUejd6aTlBZjVaX0VVOHl3VVJDT0ZnWnVOSVA5UUZQdlM0UjBJbm1nQURJMFowZXlIdm0wRGRlSFl0TEVSczZPa3RvcFpLYXVLREpqeUFZVkRSbnVPZDM5OEkwSm9sbEtZRjdObWk0UW1RNmpMZWJWMTV1enJpWnJialJVc3RCUQ?oc=5",
+        "published": "2026-08-16T07:20:58+00:00",
+        "published_label": "Sun 16 Aug, 07:20",
+        "summary": "Kirsty Gilmour: ‘I wouldn’t swap places with Emma Raducanu’ The Observer",
+        "body": "Kirsty Gilmour is a three-time Olympian who four months ago became Britain’s first European women’s singles badminton champion in 40 years. She is ranked higher globally in badminton than Emma Raducanu is in tennis.\n\nThere were, however, not too many double takes at the airport on Thursday when she flew out to compete at next week’s World Championships in Delhi. Gilmour can quite easily do the weekly shop without being mobbed.",
+        "copy": "Kirsty Gilmour is a three-time Olympian who four months ago became Britain’s first European women’s singles badminton champion in 40 years. She is ranked higher globally in badminton than Emma Raducanu is in tennis.\n\nThere were, however, not too many double takes at the airport on Thursday when she flew out to compete at next week’s World Championships in Delhi. Gilmour can quite easily do the weekly shop without being mobbed.",
+        "first_seen": "2026-08-16T16:21:22.274014+00:00"
       },
       {
         "section": "Tennis",
@@ -4373,6 +4373,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "The problem Rory McIlroy must be wary of with LIV Golf’s future beyond this season in serious doubt",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2VQbFlUb3NWaGc2U3Rvd1pCcGZMY0VzRlhEdzFUTkt6MTFPbDJxWUtYZVVPd3U1WWJwRDQwQTNCMUhqZW1DanNGamprWHFhR25Fa0VqbzhjaUMxZ3lPZkR6UUtWRWdTdFJzQVpXb3gzbVBDb25WbEoyUEV1eTA0ZVNBU0U4b3FXelFfaUtkejl6RDVTWUlNQWs0Qy10RkowbVU3STl0TTdoS2pfVWtHQWExLXZaS01oVGVJRA?oc=5",
+        "published": "2026-08-16T15:00:00+00:00",
+        "published_label": "Sun 16 Aug, 15:00",
+        "summary": "The problem Rory McIlroy must be wary of with LIV Golf’s future beyond this season in serious doubt hitc.com",
+        "body": "In the months after Rory McIlroy won The Masters in 2025, the Northern Irishman experienced a remarkable slump as he searched for a new golfing purpose. The emotional victory at Augusta National was at least 14 years in the making. Meanwhile, it ended a wait of more than a decade since McIlroy’s fourth major win. It was no surprise, therefore, that the 37-year-old took so long to reassess his goals.\n\nOn the course, McIlroy had built his season around the majors and the Ryder Cup for several years. Some PGA Tour and DP World Tour wins obviously meant a lot, but he was clearly aware that they were unlikely to impact his legacy.",
+        "copy": "In the months after Rory McIlroy won The Masters in 2025, the Northern Irishman experienced a remarkable slump as he searched for a new golfing purpose. The emotional victory at Augusta National was at least 14 years in the making. Meanwhile, it ended a wait of more than a decade since McIlroy’s fourth major win. It was no surprise, therefore, that the 37-year-old took so long to reassess his goals.\n\nOn the course, McIlroy had built his season around the majors and the Ryder Cup for several years. Some PGA Tour and DP World Tour wins obviously meant a lot, but he was clearly aware that they were unlikely to impact his legacy.",
+        "first_seen": "2026-08-16T16:21:22.274014+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6335,61 +6348,35 @@
         "body": "President Donald Trump attended the final round of LIV Golf New York alongside the breakaway tour's former chairman Yasir Al-Rumayyan. Trump and Al-Rumayyan were seen together inside the clubhouse on 9 August before play got underway at Trump National Golf Course in Bedminster, New Jersey.\n\nVideo footage of the pair in player dining was posted on Instagram by Bubba Watson's caddie Gabe Sauer. The clip showed Trump, 80, bigging up the accomplishments of nine-time major champion, Gary Player, who was also in the room.",
         "copy": "President Donald Trump attended the final round of LIV Golf New York alongside the breakaway tour's former chairman Yasir Al-Rumayyan. Trump and Al-Rumayyan were seen together inside the clubhouse on 9 August before play got underway at Trump National Golf Course in Bedminster, New Jersey.\n\nVideo footage of the pair in player dining was posted on Instagram by Bubba Watson's caddie Gabe Sauer. The clip showed Trump, 80, bigging up the accomplishments of nine-time major champion, Gary Player, who was also in the room.",
         "first_seen": "2026-08-09T18:36:46.557190+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "President Trump, PIF’s Yasir Al-Rumayyan seen together at LIV Golf event",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdW1GOTBvVTUzZnlkLTl2ZDBaaXNGVkxMM2FSSVF3alRzX1JscE50UGl0RUJ5c0VBSnF2aUF0UzJweFZhT2NDYWJoT2FxMUhCSk9KbDhwcW51ZV8zeEc0bVg2ZktWM1pmM1ZhTnBxalRzWXVtZ3hOY1RvbFFGazhwT0NDclZkOERIT3pNaUw3NUpDTGNxU3NZZTl2MU94QQ?oc=5",
-        "published": "2026-08-09T16:21:07+00:00",
-        "published_label": "Sun 09 Aug, 16:21",
-        "summary": "President Trump, PIF’s Yasir Al-Rumayyan seen together at LIV Golf event The New York Times",
-        "body": "President Donald Trump and PIF Governor Yasir Al-Rumayyan were together before the final round of LIV Golf’s event at Trump National Bedminster on Sunday. They stood side-by-side in the player dining room, as Trump extolled the playing accomplishments of legend Gary Player, who was also in the room.\n\nBubba Watson’s caddie, Gabe Sauer, published the video to his Instagram story. As Trump exited the clubhouse and was photographed by wire services, Al-Rumayyan was in the background.",
-        "copy": "President Donald Trump and PIF Governor Yasir Al-Rumayyan were together before the final round of LIV Golf’s event at Trump National Bedminster on Sunday. They stood side-by-side in the player dining room, as Trump extolled the playing accomplishments of legend Gary Player, who was also in the room.\n\nBubba Watson’s caddie, Gabe Sauer, published the video to his Instagram story. As Trump exited the clubhouse and was photographed by wire services, Al-Rumayyan was in the background.",
-        "first_seen": "2026-08-09T18:36:46.557190+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf New York Prize Money Payout 2026: How Much Does The Individual Winner Earn?",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FUDhBSjV3QjBuTTZ5MC1UbGVxVUQwdzlQS3FmRm55eHRFVUNnMXRqTU5nZmpEbzRsSE1YNXhaU09fcEFkMmtaSzJiT2xKTE5oRHZ3MWZHSWFucUU0X0Q0NVJuWlIzNlp5X2RpVjc2Vkg1N0hmVk05Qg?oc=5",
-        "published": "2026-08-09T15:06:08+00:00",
-        "published_label": "Sun 09 Aug, 15:06",
-        "summary": "LIV Golf New York Prize Money Payout 2026: How Much Does The Individual Winner Earn? Golf Monthly",
-        "body": "An uncertain summer for the LIV Golf League is rapidly drawing to a conclusion, with the penultimate regular event of the season coming from Trump National Golf Club Bedminster.\n\nOff the course, CEO Scott O'Neil has confirmed that a deal has been agreed for investment to save the circuit's future. While we await details on what that might entail, on the course, it's been business as usual.",
-        "copy": "An uncertain summer for the LIV Golf League is rapidly drawing to a conclusion, with the penultimate regular event of the season coming from Trump National Golf Club Bedminster.\n\nOff the course, CEO Scott O'Neil has confirmed that a deal has been agreed for investment to save the circuit's future. While we await details on what that might entail, on the course, it's been business as usual.",
-        "first_seen": "2026-08-09T16:31:09.111790+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "LIV Golf",
-        "kind": "gnews",
-        "title": "LIV Golf",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU3NRUUFVTWl0dGZMZmRsMmNSbUtYWl9aa1k0UHl4ckJHLWlyQ1Ryd21HUUFHRmRkNzU2UlYtWkhXX0ltbzZPRE5PV2UzWkR1dXNpdVJiUzl4dVFHWDBZQ3J0UUpqSGFEYU9VODZUYWwyUEh2cUJGdnZVNkFkeEFaTEU1LXpWdw?oc=5",
-        "published": "2026-08-09T14:48:38+00:00",
-        "published_label": "Sun 09 Aug, 14:48",
-        "summary": "LIV Golf LIV Golf",
-        "body": "Check back when a tournament is underway. These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\nUnder the CPRA, you have the right to opt-out of the sale or sharing of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale or sharing of personal information by using this toggle switch. If you opt out we will not be able to offer you personalized ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.",
-        "copy": "Check back when a tournament is underway. These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\nUnder the CPRA, you have the right to opt-out of the sale or sharing of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale or sharing of personal information by using this toggle switch. If you opt out we will not be able to offer you personalized ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.",
-        "first_seen": "2026-08-10T07:26:18.574297+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Wyndham Championship money: Total purse, payout breakdown, winner's share",
-        "link": "https://golf.com/news/2026-wyndham-championship-money-purse-breakdown/",
-        "published": "2026-08-09T14:28:03+00:00",
-        "published_label": "Sun 09 Aug, 14:28",
-        "summary": "The 2026 Wyndham Championship has an $8.5 million purse with the winner taking home a $1.53 million check at Sedgefield Country Club. The post 2026 Wyndham Championship money: Total purse, payout breakdown, winner’s share appeared first on Golf .",
-        "body": "The final tournament of the regular PGA Tour schedule concludes Sunday at Sedgefield Country Club, where, at the end of play, the FedEx Cup’s top 70 players will be set in stone for next week’s opening tournament of the FedEx Cup playoffs, the FedEx St. Jude.\n\nThere’s no shortage of intrigue in Greensboro this week, as the players near the top of the leaderboard jostle for position. The battle is not only for a spot in next week’s playoff event, but also much-needed status for 2027. The 54-hole co-leaders, Michael Brennan and Beau Hossler, have a chance to launch themselves into that rarefied air on Sunday.",
-        "copy": "The final tournament of the regular PGA Tour schedule concludes Sunday at Sedgefield Country Club, where, at the end of play, the FedEx Cup’s top 70 players will be set in stone for next week’s opening tournament of the FedEx Cup playoffs, the FedEx St. Jude.\n\nThere’s no shortage of intrigue in Greensboro this week, as the players near the top of the leaderboard jostle for position. The battle is not only for a spot in next week’s playoff event, but also much-needed status for 2027. The 54-hole co-leaders, Michael Brennan and Beau Hossler, have a chance to launch themselves into that rarefied air on Sunday.",
-        "first_seen": "2026-08-09T14:32:38.138141+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF Badminton World Championships 2026: Full schedule, order of play, all results",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcF9TcVZ0R3NYNnNWeE93YWxRZDZFVUdZYUwxWG9pbkhRVTlseDlLQTRaSGl3LXEteTFtV2pLRXVVUmtwVXZlZW9WN2xzTi02Xzc0NjRTb2lneEdfcWdOYk1rdHZjaUl6emtqYVRiOXpzUjdObmZNNF9vZjJ1R1ozOThhZmlNcldHc0U4V2pLX2ZYWHBxUkJ4aWppN2J5NWNzUXlN?oc=5",
+        "published": "2026-08-16T15:01:00+00:00",
+        "published_label": "Sun 16 Aug, 15:01",
+        "summary": "BWF Badminton World Championships 2026: Full schedule, order of play, all results olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-16T16:21:22.274014+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Victor Lai Diary: Talking Drift",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS3NfeFQzSk1GcFJqYzg0Z1gwN3laR1Q1aUptbTVHdzJVcWVydjZ3QU9CMTNHMk9MVDl3TmhwMG9yQVFyMXJucElBdnBXMW93MDZDU3MyUlFRaEdaNmhuS2stUUJUX3JRRENOc3kzQ2phQVZSS28xMUgzZ2s4MXltbkRjVzd2X3Z3aVZDcEk4ZHFIa3FQclh0UFd6ZlBGazQ2QlZJ?oc=5",
+        "published": "2026-08-16T14:52:42+00:00",
+        "published_label": "Sun 16 Aug, 14:52",
+        "summary": "Victor Lai Diary: Talking Drift BWF World Championships",
+        "body": "Day Two of Victor Lai’s journey as he preps for the BWF World Championships 2026. After a practice session in the arena, Lai talks about taking note of the conditions, getting a sense of the flight of the shuttle, and the technical adjustments he would have to make.\n\nToday was my second practice in the main hall. Got used to the conditions a bit better today. Very obvious, one side there’s drift: one side is slower and one side’s faster. The side drift’s not crazy strong, but still a little bit… still pretty strong, so a lot of things to be aware of and adapt and a bit of match planning too.",
+        "copy": "Day Two of Victor Lai’s journey as he preps for the BWF World Championships 2026. After a practice session in the arena, Lai talks about taking note of the conditions, getting a sense of the flight of the shuttle, and the technical adjustments he would have to make.\n\nToday was my second practice in the main hall. Got used to the conditions a bit better today. Very obvious, one side there’s drift: one side is slower and one side’s faster. The side drift’s not crazy strong, but still a little bit… still pretty strong, so a lot of things to be aware of and adapt and a bit of match planning too.",
+        "first_seen": "2026-08-16T16:21:22.274014+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6529,8 +6516,8 @@
         "published": "2026-08-16T08:18:25+00:00",
         "published_label": "Sun 16 Aug, 08:18",
         "summary": "Where to Watch: BWF World Championships 2026 BWF World Championships",
-        "body": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
-        "copy": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-08-16T14:21:06.800659+00:00"
       },
       {
@@ -7720,5 +7707,5 @@
       }
     ]
   },
-  "total": 592
+  "total": 591
 }
