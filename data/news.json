@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T08:07:04.397151+00:00",
-  "generated_label": "Monday 17 August 2026, 08:07 UTC",
+  "generated_at": "2026-08-17T08:39:51.800128+00:00",
+  "generated_label": "Monday 17 August 2026, 08:39 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "The art of the goodbye message",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPclNvcjVta3E1MzRtcEdPMW5fdnNDSXo0TUhibE8zc3FpdFZiaVNkM2k3TlduTHgxRVlUWVZGYkpZcVUyZ19nOFpzdnhMeXhDTFFFWi1hbDh3bXV2MEYzT0NYZXFLRlU0eGlsQmVXbFg?oc=5",
+        "published": "2026-08-17T05:51:33+00:00",
+        "published_label": "Mon 17 Aug, 05:51",
+        "summary": "The art of the goodbye message Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-17T08:39:51.800128+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -4323,6 +4336,19 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Ian Poulter makes worrying LIV Golf admission: I think time might run out",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTFKWG01MUVOOVZDZ1ZvWmpuVW9IdktJVEpERVpjN0hfSHFlendxM0FfQnpCQjV1YkxrY1BfMEQ1YlpUVGplWVNOMlh2aG5ZX0ZJYWFUeHB5NHEwZWdVY0hCSHJTamx4cXpvczVVRTUwSXR6MWk1dnFNdXlOcmJxOU5oNFN0dTE3eHpkVURiREFHdTBud2VjVlN6UTU0NFhWRE1XS3Z3YWFPMlM4bmR4dG05aE1tSk5Sd21ieVhremlSaWhVb2c?oc=5",
+        "published": "2026-08-17T06:50:33+00:00",
+        "published_label": "Mon 17 Aug, 06:50",
+        "summary": "Ian Poulter makes worrying LIV Golf admission: I think time might run out Tennis World USA",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-17T08:39:51.800128+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
         "title": "Tour Confidential: Jon Rahm’s LIV future, U.S. Amateur lessons and Scottie's big win",
@@ -6158,6 +6184,19 @@
     "Badminton": [
       {
         "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "PV Sindhu Eyes Sixth Medal at BWF World Championships 2026",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYbGJRYkw5VUkxQWxkSGo5WEFzemMwLWJFY3IzWjdpSmZ1MThVVTBGMEV3b21BZXZPVHdWMHF5aHZrbXh3R2ltUThCS0dYcXZEREg2SDZ3cm1aWXBHdE5FUkFMS1h3MEROTk9kXzZJa1RXbWZvWThNVnFn?oc=5",
+        "published": "2026-08-17T08:19:17+00:00",
+        "published_label": "Mon 17 Aug, 08:19",
+        "summary": "PV Sindhu Eyes Sixth Medal at BWF World Championships 2026 olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-17T08:39:51.800128+00:00"
+      },
+      {
+        "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
         "title": "Arjun And Amsakarunan Beat Ireland Pair In BWF World Championships Round Of 64",
@@ -7577,5 +7616,5 @@
       }
     ]
   },
-  "total": 581
+  "total": 584
 }
