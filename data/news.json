@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T08:13:13.814209+00:00",
-  "generated_label": "Tuesday 18 August 2026, 08:13 UTC",
+  "generated_at": "2026-08-18T08:34:06.765975+00:00",
+  "generated_label": "Tuesday 18 August 2026, 08:34 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1470,6 +1470,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Jang Hye-soo, 32, participated in the 2025 Asian Rugby Sevens Trophy in Muscat, Oman, and shared Sou..",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iMlFmRTRFcVFfcVl3bUZZMnhUZS1zTVlXVHJsQmJLYTljODFiYTVKNVdfZkJaU2VJY1ZuQlZDSzNod0swRTQ2bUkzMkJuQlBC?oc=5",
+        "published": "2026-08-18T08:16:03+00:00",
+        "published_label": "Tue 18 Aug, 08:16",
+        "summary": "Jang Hye-soo, 32, participated in the 2025 Asian Rugby Sevens Trophy in Muscat, Oman, and shared Sou.. 매일경제",
+        "body": "■ From Rugby Asia Bronze Medalist to Boxing Asia's Top...7 consecutive wins since debuting in the professional competition ◆ From Peach to Ring... Jang Hye-soo at the top of Asia\n\nJang Hye-soo, 32, participated in the 2025 Asian Rugby Sevens Trophy in Muscat, Oman, and shared South Korea's women's bronze medal. And just the next year, this time as a boxer, he put on his glove and set a milestone to reach the top of Asia.",
+        "copy": "■ From Rugby Asia Bronze Medalist to Boxing Asia's Top...7 consecutive wins since debuting in the professional competition ◆ From Peach to Ring... Jang Hye-soo at the top of Asia\n\nJang Hye-soo, 32, participated in the 2025 Asian Rugby Sevens Trophy in Muscat, Oman, and shared South Korea's women's bronze medal. And just the next year, this time as a boxer, he put on his glove and set a milestone to reach the top of Asia.",
+        "first_seen": "2026-08-18T08:34:06.765975+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4438,6 +4451,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau set for shock DP World Tour return",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMS0zN2NTeEJKXzZuLTNxM2wyU09ReGdvU1BCZ3BXRENEeFBFSlJIQ01wYUxSREcxWXE4VlN6WGhEdW1ZNnRyZFRhcjN5R1Y4Z1Z6NHozRklPV3dJMGdvN0d3SngxYjZmQUNaVS1SaDc5RkcxSDQ0SGhxTDd4MENMckdCb2FUa1RFLXdaNw?oc=5",
+        "published": "2026-08-18T08:16:32+00:00",
+        "published_label": "Tue 18 Aug, 08:16",
+        "summary": "Bryson DeChambeau set for shock DP World Tour return bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau is set to make a shock return to the DP World Tour later this year.\n\nThe LIV Golf star will compete in this year’s Nedbank Golf Challenge at Gary Player Country Club, in Sun City. Player posted a video on social media, alongside the Crushers GC captain, telling viewers he is “absolutely delighted” that DeChambeau will compete at this year’s event.",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau is set to make a shock return to the DP World Tour later this year.\n\nThe LIV Golf star will compete in this year’s Nedbank Golf Challenge at Gary Player Country Club, in Sun City. Player posted a video on social media, alongside the Crushers GC captain, telling viewers he is “absolutely delighted” that DeChambeau will compete at this year’s event.",
+        "first_seen": "2026-08-18T08:34:06.765975+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -7772,5 +7798,5 @@
       }
     ]
   },
-  "total": 596
+  "total": 598
 }
