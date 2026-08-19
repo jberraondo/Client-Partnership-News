@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T14:31:28.078859+00:00",
-  "generated_label": "Wednesday 19 August 2026, 14:31 UTC",
+  "generated_at": "2026-08-19T18:34:21.706733+00:00",
+  "generated_label": "Wednesday 19 August 2026, 18:34 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "US Ski and Snowboard brings in Pirelli as sponsor through 2029",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYThYSXRYU3BBY3hvbk1EdTlkMmlDTDlIUE5uRFJsRXRoQTAzd2pBSjZlWElIc3FFeng2amRqV3N5WTNKWDkzNkxndmxkbkpIMllPdkhVM0ItLW41Z0xua3YxdEJCelFvT1VCbElBNmJVY091Q2hpMUxLUWR6Z0Jvem9kMGcyblplUTllUHRmVTVTRkhEdGg3bg?oc=5",
+        "published": "2026-08-19T15:50:07+00:00",
+        "published_label": "Wed 19 Aug, 15:50",
+        "summary": "US Ski and Snowboard brings in Pirelli as sponsor through 2029 Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -1467,87 +1480,61 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-13T08:51:32.718180+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Mark Walter’s insurers rush to unwind affiliated investments",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzlDdUxURXVDMnN0azA2NGR6eGJWSHFOdVZ4YnotZ1FIMXlHTGFYTlhQTE5WRlZsV0Z4THNJTVNkSjh4OExDcXVUMmM1ZThlZENBc2M2anRwOXdWaVRBSFI3ajFPRm1TQVI4empzb3lYRDlJME9kNVdBT3hyaDg2VU1NLWY?oc=5",
-        "published": "2026-08-12T18:13:34+00:00",
-        "published_label": "Wed 12 Aug, 18:13",
-        "summary": "Mark Walter’s insurers rush to unwind affiliated investments Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-12T18:59:30.836605+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "The Amazon of used cars gets a balance sheet tune-up",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFpIbTNPQ3hCblVBbnZmSnBXeHVsTHkyUDlJMmF0bTI2MEtYRi1PMzJ2Q1ZQTHdIX21jSGJqVEpSc0pIU2doU01pbTc4M011Wm1KaWxPN2tkaXdURmZobzBNMFpNRzMtNnJZMmowRHR1TFliM3dNaWdldGRYX3VTdWlnaWk?oc=5",
-        "published": "2026-08-12T17:07:51+00:00",
-        "published_label": "Wed 12 Aug, 17:07",
-        "summary": "The Amazon of used cars gets a balance sheet tune-up Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-13T07:23:23.232170+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Kushner, Iger, acquire LA Lakers in shock deal for record $12bn valuation",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFhmZDhfalRFOHI1Y1QwQnFZc2YyQkpWUzFXNk1JblNKV003N1VYaFFWN0hUVVVlTjlEWXY5bm9lUUtFTzBKUEJENEY2ZW83YUQ3QXJka2VkZUUweFotdm9sUXNiZGZNS050SV9GT1F3cHJGVnd4RGhnTmtTd3V1a0FTbGFwMUVMLS15WktJZE1kSG00V1IyX0kxcUVQeG5rRlFv?oc=5",
-        "published": "2026-08-12T15:41:19+00:00",
-        "published_label": "Wed 12 Aug, 15:41",
-        "summary": "Kushner, Iger, acquire LA Lakers in shock deal for record $12bn valuation Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-13T11:01:07.587397+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Bob Iger and Josh Kushner in $12.5bn deal for Lakers basketball franchise",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQalplSDZaSVRrU1pZLXJhajFNdUV4anM5YjBSTTNiZ2tuRmlncVl4bTk0aXhCTmJvRTZBLXBMNzlhZzRDNmVibEdicEZJY0JYVW5FWmZGRk5hLVdiUkpkZkQ0R2xqWl9JcHBtM2plWlk1OXhrMkNxVzlGME9rbkUtZUNSckE?oc=5",
-        "published": "2026-08-12T14:59:51+00:00",
-        "published_label": "Wed 12 Aug, 14:59",
-        "summary": "Bob Iger and Josh Kushner in $12.5bn deal for Lakers basketball franchise Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-12T16:56:45.677339+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Google soccer sponsorship surge continues with Barca deal",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMms3Z3ZNWk15S055OXFhNjBVYjZBUnJZX2IyOWFPeEJUNzVCRzdpZ05VOHR5SWJUMTIyaWFlYVVxOXYzdDNhYmtFc1ZrdnlDblQxeUR4Vmd4aTQ3NS1FanN4Wlh2WHBoRmNxSllaVmNvaEFLOHJGNUxxajFOOTFBZVhqT09FSXB2eGdQLWpHcGZnUQ?oc=5",
-        "published": "2026-08-12T14:52:04+00:00",
-        "published_label": "Wed 12 Aug, 14:52",
-        "summary": "Google soccer sponsorship surge continues with Barca deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-12T16:56:45.677339+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "J.League taps IMG to lead global sponsorship push",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0dETm14dnZOUXRpVkx5OWEtMUVfaDlGd25xSWthUXY5RkNYTjJhX3VCaU1UTGRvM29qSmp2ZHpCRWgzYlhkNWJ4aUQ1eFotOGpRdGg4M0NiUkF5RDZyV3FBRnB3MzUxRUwyaWdkSndYUFllOS0wQWJ3RVVIVjFyNGJqbnBlZVk?oc=5",
-        "published": "2026-08-12T14:52:01+00:00",
-        "published_label": "Wed 12 Aug, 14:52",
-        "summary": "J.League taps IMG to lead global sponsorship push sportcal.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-12T14:55:34.049125+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Ranking 21 England back-row options ahead of the 2026/27 season",
+        "link": "https://www.rugbypass.com/news/ranking-21-england-back-row-options-ahead-of-the-2026-27-season-steve-borthwick-gallagher-prem/",
+        "published": "2026-08-19T16:52:31+00:00",
+        "published_label": "Wed 19 Aug, 16:52",
+        "summary": "This time next year, Steve Borthwick will be very close to finalising his squad for the 2027 World Cup in Australia, and the back-row will be the cause of many sleepless nights.",
+        "body": "This time next year, Steve Borthwick will be very close to finalising his squad for the 2027 World Cup in Australia, and the back-row will be the cause of many sleepless nights.\n\nA lot has changed since ranking England’s back-row options last year – not only did Borthwick lose his preferred No.8 Tom Willis, who has joined his brother, Jack, in France, but a midseason shift in the back-row make-up occurred following a manhandling at the hands of Ireland at Twickenham’s Allianz Stadium. This was all just a minor subplot in a season where England’s results took a dramatic dive.",
+        "copy": "This time next year, Steve Borthwick will be very close to finalising his squad for the 2027 World Cup in Australia, and the back-row will be the cause of many sleepless nights.\n\nA lot has changed since ranking England’s back-row options last year – not only did Borthwick lose his preferred No.8 Tom Willis, who has joined his brother, Jack, in France, but a midseason shift in the back-row make-up occurred following a manhandling at the hands of Ireland at Twickenham’s Allianz Stadium. This was all just a minor subplot in a season where England’s results took a dramatic dive.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "All Blacks and Springboks agree to drawn series scenario",
+        "link": "https://www.rugbypass.com/news/all-blacks-and-springboks-agree-to-drawn-greatest-rivalry-series-scenario/",
+        "published": "2026-08-19T16:33:29+00:00",
+        "published_label": "Wed 19 Aug, 16:33",
+        "summary": "The Springboks and All Blacks have agreed that in the event of a drawn series in the Rugby's Greatest Rivalry tour, there will be no tiebreaker, leaving the series as a draw.",
+        "body": "The Springboks and All Blacks have agreed that in the event of a drawn series in the Rugby’s Greatest Rivalry tour, there will be no tiebreaker, leaving the series as a draw. Wednesday afternoon’s trophy launch event in Johannesburg revealed the decision, as former Springboks captain Gary Teichmann carried one half of the sculptural trophy through a crowd and onto the stage, followed shortly after by former All Blacks captain Sean Fitzpatrick with the other half.\n\nOnce on stage, the pair pressed the two pieces of the trophy together, revealing how magnets join them to form a single trophy, which would be handed to the winner of the series should either side claim at least three wins.",
+        "copy": "The Springboks and All Blacks have agreed that in the event of a drawn series in the Rugby’s Greatest Rivalry tour, there will be no tiebreaker, leaving the series as a draw. Wednesday afternoon’s trophy launch event in Johannesburg revealed the decision, as former Springboks captain Gary Teichmann carried one half of the sculptural trophy through a crowd and onto the stage, followed shortly after by former All Blacks captain Sean Fitzpatrick with the other half.\n\nOnce on stage, the pair pressed the two pieces of the trophy together, revealing how magnets join them to form a single trophy, which would be handed to the winner of the series should either side claim at least three wins.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Why Rassie’s next Bok generation could be the greatest ever",
+        "link": "https://www.rugbypass.com/plus/why-rassies-next-bok-generation-could-be-the-greatest-ever/",
+        "published": "2026-08-19T16:26:59+00:00",
+        "published_label": "Wed 19 Aug, 16:26",
+        "summary": "The Springbok dynasty doesn't look like it is going to disappear any time soon and it could, in fact, get even stronger in future",
+        "body": "I’m positively hyperventilating about The Greatest Rivalry Test Series and it has my mind doing overtime as to how many ways it could go. It may be a heatwave here in the UK but over in South Africa, it’s piping hot for another reason. As ever, when it comes to rugby, there is no off-switch and this is what has been on my mind over the last month.\n\nSometimes the “next generation” can be a bit of letdown. Whether it’s people or products, the next in line doesn’t always mean an improvement. If you’ve ever spent a £1,000 on a new phone in recent years, or you’re acquainted with royal history over the past 1,000 years, you’ll know succession doesn’t always equal success — King John of England was arguably the iPhone 6 Plus of monarchs. However, the next generation of Rassie’s Springboks could arguably be the best to ever do it. They simply have to be, and for one reason: if you aren’t an almost generational-level player, you simply don’t get to play in the Test team proper.",
+        "copy": "I’m positively hyperventilating about The Greatest Rivalry Test Series and it has my mind doing overtime as to how many ways it could go. It may be a heatwave here in the UK but over in South Africa, it’s piping hot for another reason. As ever, when it comes to rugby, there is no off-switch and this is what has been on my mind over the last month.\n\nSometimes the “next generation” can be a bit of letdown. Whether it’s people or products, the next in line doesn’t always mean an improvement. If you’ve ever spent a £1,000 on a new phone in recent years, or you’re acquainted with royal history over the past 1,000 years, you’ll know succession doesn’t always equal success — King John of England was arguably the iPhone 6 Plus of monarchs. However, the next generation of Rassie’s Springboks could arguably be the best to ever do it. They simply have to be, and for one reason: if you aren’t an almost generational-level player, you simply don’t get to play in the Test team proper.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'Big step forward': Springbok Women name squad for inaugural 'A' tour",
+        "link": "https://www.rugbypass.com/news/big-step-forward-springbok-women-name-squad-for-inaugural-a-tour/",
+        "published": "2026-08-19T15:18:20+00:00",
+        "published_label": "Wed 19 Aug, 15:18",
+        "summary": "SA Rugby have confirmed the 26-player squad that will travel to Brazil for the first-ever South Africa Women 'A' tour.",
+        "body": "SA Rugby have confirmed the 26-player squad that will travel to Brazil for the first-ever South Africa Women ‘A’ tour. They will play Brazil ‘A’ squad in back-to-back fixtures in Sao Paolo on 24 and 29 August. The squad will be captained by capped Springbok Women back Mary Zulu, who represented the Boks at Women’s Rugby World Cup 2025.\n\nThe 23-year-old is one of capped Springbok players in the playing group travelling to South America, which boasts an average age of 22. Luchell Hanekom, who also competed in England last year, returns from injury.",
+        "copy": "SA Rugby have confirmed the 26-player squad that will travel to Brazil for the first-ever South Africa Women ‘A’ tour. They will play Brazil ‘A’ squad in back-to-back fixtures in Sao Paolo on 24 and 29 August. The squad will be captained by capped Springbok Women back Mary Zulu, who represented the Boks at Women’s Rugby World Cup 2025.\n\nThe 23-year-old is one of capped Springbok players in the playing group travelling to South America, which boasts an average age of 22. Luchell Hanekom, who also competed in England last year, returns from injury.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -1706,6 +1693,19 @@
       },
       {
         "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Asia Rugby Sevens Series returns with new contenders chasing title honours",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXJPNVpPZUpCNzctUktvQlhtSE1HTDZ4UnlUYnVFWFhkWGI0OFhWdnA1LWxZUUN0NDhWU3RoVEw3SUdoR1dIa2tvRklxR2F3Skpsd0g5OTEzZnBPZUJ5YmNYTjVnTzh1QlZkUUxGdzFybEc1Q1dJQWlVa3BxUjVuYnVPYjlsSzk2MGhGM3BJa2F1bExQSFd5b2x4OWxKQ21mYkxJQ3lwNklLUQ?oc=5",
+        "published": "2026-08-19T08:38:32+00:00",
+        "published_label": "Wed 19 Aug, 08:38",
+        "summary": "Asia Rugby Sevens Series returns with new contenders chasing title honours rugbypass.com",
+        "body": "August to October are set to be busy months in Asia, with the Asia Rugby Emirates Sevens Series and U18s tournaments set to get underway across China and Sri Lanka. The headlining event, the Asia Rugby Emirates Sevens Series (ARESS 2026) is set to feature 12 women’s and 12 men’s teams, with the two events taking place either side of the 2026 Asian Games taking in Aichi & Nagoya, Japan, which will also feature several sides.\n\nSuzhou in China is set to host the first weekend of action on the final weekend of August, with the tournament set to feature two newly promoted sides in both the men’s and women’s tournaments.",
+        "copy": "August to October are set to be busy months in Asia, with the Asia Rugby Emirates Sevens Series and U18s tournaments set to get underway across China and Sri Lanka. The headlining event, the Asia Rugby Emirates Sevens Series (ARESS 2026) is set to feature 12 women’s and 12 men’s teams, with the two events taking place either side of the 2026 Asian Games taking in Aichi & Nagoya, Japan, which will also feature several sides.\n\nSuzhou in China is set to host the first weekend of action on the final weekend of August, with the tournament set to feature two newly promoted sides in both the men’s and women’s tournaments.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Rugby",
         "source": "Rugby Pass",
         "kind": "direct",
         "title": "KCB send strong message to Kenya Nations 7s Circuit rivals",
@@ -1729,6 +1729,19 @@
         "body": "It may be too early to talk about Olympic favourites and the road to Los Angeles 2028 has barely begun, but a number of sevens’ biggest names are already giving us a glimpse of who could define the next cycle.\n\nThere is something different about an Olympic cycle in rugby sevens. The four-year countdown can feel impossibly long when the next Games are still two summers away, but in a sport where careers can change at remarkable speed, reputations are already being built.",
         "copy": "It may be too early to talk about Olympic favourites and the road to Los Angeles 2028 has barely begun, but a number of sevens’ biggest names are already giving us a glimpse of who could define the next cycle.\n\nThere is something different about an Olympic cycle in rugby sevens. The four-year countdown can feel impossibly long when the next Games are still two summers away, but in a sport where careers can change at remarkable speed, reputations are already being built.",
         "first_seen": "2026-08-19T10:29:38.134953+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "The SVNS Series stars already shaping the race to LA 2028",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaG03NW1QcFhsRE9tMGtMN0tVSFpqTHpTY2xRVGVvUU9COWpDRnpfMlZGXzgxZmFNTll1ZU5rdmJRSlpaUDFSejVTU3hicTZKLXhQX0xnVUY4bW85OEpvYk5KclZqQWhNNjR2cUlHOVFjeWVvT25EZkRIOWFFa3JTWVVvUGhsbUNWaGk5Zw?oc=5",
+        "published": "2026-08-19T08:16:24+00:00",
+        "published_label": "Wed 19 Aug, 08:16",
+        "summary": "The SVNS Series stars already shaping the race to LA 2028 rugbypass.com",
+        "body": "It may be too early to talk about Olympic favourites and the road to Los Angeles 2028 has barely begun, but a number of sevens’ biggest names are already giving us a glimpse of who could define the next cycle.\n\nThere is something different about an Olympic cycle in rugby sevens. The four-year countdown can feel impossibly long when the next Games are still two summers away, but in a sport where careers can change at remarkable speed, reputations are already being built.",
+        "copy": "It may be too early to talk about Olympic favourites and the road to Los Angeles 2028 has barely begun, but a number of sevens’ biggest names are already giving us a glimpse of who could define the next cycle.\n\nThere is something different about an Olympic cycle in rugby sevens. The four-year countdown can feel impossibly long when the next Games are still two summers away, but in a sport where careers can change at remarkable speed, reputations are already being built.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
       },
       {
         "section": "Rugby",
@@ -3523,48 +3536,35 @@
         "body": "Dominic Gardiner wrote himself into Ranfurly Shield folklore in Canterbury’s successful 19-15 challenge against Otago at Forsyth Barr Stadium in Dunedin on Sunday. In the last minute, hard-pressed on defence, Gardiner ripped the ball off Otago replacement hooker Nic Souchon at a ruck. This turnover allowed Canterbury to keep possession until the clock stopped.\n\n“Those turnovers are split-second decisions,” Gardiner told RugbyPass. “I noticed Nic was slightly isolated so I made a grab for the ball, got a cling on it and ripped it away.",
         "copy": "Dominic Gardiner wrote himself into Ranfurly Shield folklore in Canterbury’s successful 19-15 challenge against Otago at Forsyth Barr Stadium in Dunedin on Sunday. In the last minute, hard-pressed on defence, Gardiner ripped the ball off Otago replacement hooker Nic Souchon at a ruck. This turnover allowed Canterbury to keep possession until the clock stopped.\n\n“Those turnovers are split-second decisions,” Gardiner told RugbyPass. “I noticed Nic was slightly isolated so I made a grab for the ball, got a cling on it and ripped it away.",
         "first_seen": "2026-08-13T07:23:23.232170+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Centre Hall extends stay at Saracens",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cn8np14v005o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-12T18:07:42+00:00",
-        "published_label": "Wed 12 Aug, 18:07",
-        "summary": "Saracens' England 'A' centre Angus Hall signs a new contract with the Prem club.",
-        "body": "Saracens' England 'A' centre Angus Hall has signed a new contract with the Prem club. The 20-year-old, who came through the club's academy, made three Prem appearances last season as well as playing once in the European Champions Cup and three times in the Prem Rugby Cup.\n\nHe also spent time on loan at Champ side Ampthill as well as featuring against Spain and an All Blacks XV for England's 'A' side in November. \"Angus is exactly the type of player we want to build this club around,\" newly-appointed director of rugby Brendan Venter told the Saracens website.",
-        "copy": "Saracens' England 'A' centre Angus Hall has signed a new contract with the Prem club. The 20-year-old, who came through the club's academy, made three Prem appearances last season as well as playing once in the European Champions Cup and three times in the Prem Rugby Cup.\n\nHe also spent time on loan at Champ side Ampthill as well as featuring against Spain and an All Blacks XV for England's 'A' side in November. \"Angus is exactly the type of player we want to build this club around,\" newly-appointed director of rugby Brendan Venter told the Saracens website.",
-        "first_seen": "2026-08-12T18:59:30.836605+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Sale hooker Longstaff signs new deal to 2029",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjejpld0ddeo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-12T16:33:56+00:00",
-        "published_label": "Wed 12 Aug, 16:33",
-        "summary": "Sale Sharks hooker Alfie Longstaff signs a new deal to remain with the Prem club until 2029.",
-        "body": "Sale Sharks hooker Alfie Longstaff has signed a new deal to remain with the Prem club until 2029. The 20-year-old joined the club's academy during the 2024-25 season and went on to make his senior debut during that season.\n\nHe had a breakthrough campaign last year, making 11 first team appearances and featured in four successive Prem games at the tail end of the campaign. \"I had a really good taste of first team rugby in big games at the back end of last season and it's made me want even more,\" he said.",
-        "copy": "Sale Sharks hooker Alfie Longstaff has signed a new deal to remain with the Prem club until 2029. The 20-year-old joined the club's academy during the 2024-25 season and went on to make his senior debut during that season.\n\nHe had a breakthrough campaign last year, making 11 first team appearances and featured in four successive Prem games at the tail end of the campaign. \"I had a really good taste of first team rugby in big games at the back end of last season and it's made me want even more,\" he said.",
-        "first_seen": "2026-08-12T16:56:45.677339+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Saints extend strategic partnership with Bedford",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cr59p8e0850o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-12T15:52:14+00:00",
-        "published_label": "Wed 12 Aug, 15:52",
-        "summary": "Northampton Saints director of rugby Phil Dowson says the partnership with Bedford Blues is \"valuable\" to both clubs.",
-        "body": "Northampton Saints director of rugby Phil Dowson has praised the club's \"valuable\" partnership with Bedford Blues after an extension of their strategic deal was announced. The agreement, which began in 2020, sees the Prem Rugby and Champ Rugby clubs co-operate on a number of fronts, including the sharing of players and coaches.\n\nHenry Pollock, Tom Litchfield and George Hendy - members of the Saints side who won the Prem title last season - are among several players to have spent time at Bedford while progressing through Northampton's pathway system.",
-        "copy": "Northampton Saints director of rugby Phil Dowson has praised the club's \"valuable\" partnership with Bedford Blues after an extension of their strategic deal was announced. The agreement, which began in 2020, sees the Prem Rugby and Champ Rugby clubs co-operate on a number of fronts, including the sharing of players and coaches.\n\nHenry Pollock, Tom Litchfield and George Hendy - members of the Saints side who won the Prem title last season - are among several players to have spent time at Bedford while progressing through Northampton's pathway system.",
-        "first_seen": "2026-08-12T16:56:45.677339+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Annabel Croft and Ryan Harrison feel for Jack Draper amid recent injury struggles",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaFdhdGZaZzJZRFdQU3FwQlZzdkpUUjd6RnIwLUNMVTExVWNBbTlfQkR1ZHVQemdGWHI5TUNhakRoM056R2FxeHA1dE9SOFczNWM1bFlwRUlKMTlfa3l3V25uU2RwQUlYeHE2cW1vVDRLUk56XzFBQ3ZmZVpVZzlpZDU3Mlp3dEw0NGFmeE5GZVhaUzBlU1R5RzRjUTVWRy16aU5uQnJIa1VtSWlRdksxYzFmdFhsU0hqT0l4LUVOb2FyaEZxYTluVmpXbjdoZklm?oc=5",
+        "published": "2026-08-19T15:38:51+00:00",
+        "published_label": "Wed 19 Aug, 15:38",
+        "summary": "Annabel Croft and Ryan Harrison feel for Jack Draper amid recent injury struggles Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Why positive cocaine test could mean end of Kyrgios' career",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c87nzeepv70o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-19T15:21:21+00:00",
+        "published_label": "Wed 19 Aug, 15:21",
+        "summary": "Nick Kyrgios once said he did not want to play tennis into his 30s. A positive cocaine test could have brought an end to his career aged 31.",
+        "body": "Nick Kyrgios once said there was \"zero chance\" he would be playing tennis into his 30s. But it was at the age of 31, while attempting another comeback from serious knee and wrist injuries, that he tested positive for a metabolite of cocaine at June's Mallorca Open.\n\nIn a post on social media, Kyrgios said it was a \"huge mistake\" for which he takes full responsibility. But he added that recent injuries - he has only played eight tournaments and won two matches since the start of 2023 - have taken a huge toll on him.",
+        "copy": "Nick Kyrgios once said there was \"zero chance\" he would be playing tennis into his 30s. But it was at the age of 31, while attempting another comeback from serious knee and wrist injuries, that he tested positive for a metabolite of cocaine at June's Mallorca Open.\n\nIn a post on social media, Kyrgios said it was a \"huge mistake\" for which he takes full responsibility. But he added that recent injuries - he has only played eight tournaments and won two matches since the start of 2023 - have taken a huge toll on him.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
       {
         "section": "Tennis",
         "source": "Sky Sports",
@@ -4474,35 +4474,87 @@
         "body": "Elena Rybakina came back from a set and a break down to beat Naomi Osaka in three sets in their Canadian Open quarter-final. Four-time Grand Slam winner Osaka had won the first set and was 4-2 up in the second before her Kazakh rival came back to win 4-6 7-6 (7-5) 6-4 in two hours and 33 minutes.\n\n\"I was just trying to fight,\" said Rybakina, whose 72 unforced errors were her most in a match this season. \"The first game was really tough because it cost me the set, and then in the second I was just trying to stay closer to the score, even if I'm losing. I'm super happy that I won this match.\"",
         "copy": "Elena Rybakina came back from a set and a break down to beat Naomi Osaka in three sets in their Canadian Open quarter-final. Four-time Grand Slam winner Osaka had won the first set and was 4-2 up in the second before her Kazakh rival came back to win 4-6 7-6 (7-5) 6-4 in two hours and 33 minutes.\n\n\"I was just trying to fight,\" said Rybakina, whose 72 unforced errors were her most in a match this season. \"The first game was really tough because it cost me the set, and then in the second I was just trying to stay closer to the score, even if I'm losing. I'm super happy that I won this match.\"",
         "first_seen": "2026-08-13T07:23:23.232170+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Meet Carlos Cano, Mexican serve guru hired to end Jack Draper’s injury woe",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanp5ZFJWOWVTUzJFU2NBLWJGRlZyRnVhV3kxXzY4RTUtTnJJSTNnaHBuTjQyeVdEZFVsSUV0U3c3b1d0UWJmNTUwbV9Ma3ZoUDlycTVfckhYQUZJYmxwSGtrTV9fajhnT3lON1RZMkNQTDFnVjhpSkhVOFFSS0gxbVQwbmhMSC1SRG4zZjFUTm1Malpta3p0ZnVZaFN2c0JaV1ZNMjNhQWpSa3VO?oc=5",
-        "published": "2026-08-12T16:30:00+00:00",
-        "published_label": "Wed 12 Aug, 16:30",
-        "summary": "Meet Carlos Cano, Mexican serve guru hired to end Jack Draper’s injury woe The Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-12T18:59:30.836605+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Martín Landaluce vs Jack Draper · Round 1 · ATP/WTA Cincinnati",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUh3a1U3QzFhU0xKR1N2Szl3cklwVUJKVXpIY0xjMjdIbmszN2lFUFE0OHBxNHJ1ajk3djNYNUhPUXY5ZE9tcUpoNVlkcmd6WFREdVphMnNPcHROUm1yRlRhR2xRTlFlci1TdlAtRHV4WG5XbDRFb09UQWUxWk1KdmZxVkt0LUFiYTdmQ0ZRb0lmRl9tRnI2OUNaNjl6OFhR?oc=5",
-        "published": "2026-08-12T15:40:12+00:00",
-        "published_label": "Wed 12 Aug, 15:40",
-        "summary": "Martín Landaluce vs Jack Draper · Round 1 · ATP/WTA Cincinnati Tennis.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-13T07:23:23.232170+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "From bison ribeyes to melon gazpacho, these are Virginia's can't-miss bites",
+        "link": "https://golf.com/lifestyle/food/bison-ribeye-melon-gazpacho-virginia-cant-miss-bites/",
+        "published": "2026-08-19T18:01:15+00:00",
+        "published_label": "Wed 19 Aug, 18:01",
+        "summary": "GOLF contributor Shaun Tolson's recent trip to Virginia proved that the golf-rich state is indeed for lovers — food lovers, that is. The post From bison ribeyes to melon gazpacho, these are Virginia’s can’t-miss bites appeared first on Golf .",
+        "body": "As a writer who traverses the globe covering golf, travel and all things food and beverage — and who racked up 110,000 frequent-flyer miles in 2025 — GOLF contributor Shaun Tolson has visited some of the world’s most famous golf clubs, resorts and best-kept secrets. Below, in Clubhouse Eats, he shares some of his favorite bites and sips from his recent travels.\n\nIt’s been more than 50 years since the advertising firm The Martin Agency (then Martin & Woltz Inc.) created the famous slogan “Virginia is for Lovers.” At the time, the slogan’s intention was to attract younger travelers to the state’s beaches, historical sites, and areas for outdoor adventure. But based on a few of my recent visits to Old Dominion — as the state is sometimes called — it’s clear Virginia is for food lovers, too.",
+        "copy": "As a writer who traverses the globe covering golf, travel and all things food and beverage — and who racked up 110,000 frequent-flyer miles in 2025 — GOLF contributor Shaun Tolson has visited some of the world’s most famous golf clubs, resorts and best-kept secrets. Below, in Clubhouse Eats, he shares some of his favorite bites and sips from his recent travels.\n\nIt’s been more than 50 years since the advertising firm The Martin Agency (then Martin & Woltz Inc.) created the famous slogan “Virginia is for Lovers.” At the time, the slogan’s intention was to attract younger travelers to the state’s beaches, historical sites, and areas for outdoor adventure. But based on a few of my recent visits to Old Dominion — as the state is sometimes called — it’s clear Virginia is for food lovers, too.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Rory McIlroy just hit LIV Golf with a brutal parting shot",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzFic2ViV3FQWDY0dE1ldnYzMEhRUWxlLU11cUtlZkJFS0dZZUUzOU82OUdFc1NYTHFLMEN2eWdXWm5GWDBDVV9KcFpyNG5XN2dQWnFoV0h5Qy1HY05uX0tOQ2RlR2syTzFrajc3dnExY1owV2ZBd1k0djE3UUlGUXB1cl9GWE8zVmNUbXFaalA0ZzJjMmZrdXMxWnVMRTRKTDZycVZoS2F3dHc?oc=5",
+        "published": "2026-08-19T17:57:17+00:00",
+        "published_label": "Wed 19 Aug, 17:57",
+        "summary": "Rory McIlroy just hit LIV Golf with a brutal parting shot Golf Digest",
+        "body": "Despite reports last week that LIV Golf had secured an angel investor for 2027, the league’s slow-motion collpase has continued unabated. The season-ending team championship was finally canceled, reports of countless unpaid vendors and employees began to surface, and persistent, albeit unsubstantiated, rumors that Jon Rahm’s LIV days were numbered continued to swirl. What happens next is anyone’s guess, but one thing is clear:\n\nLIV Golf, as it has existed the past five years, is dead. It's said that you're not supposed to beat a dead horse, but after his pro-am appearance on Wednesday at the BMW Championship, Rory McIlroy—long one of LIV Golf's most outspoken critics—hit the floundering league with one last roundhouse for the road. Take it away, Rors.",
+        "copy": "Despite reports last week that LIV Golf had secured an angel investor for 2027, the league’s slow-motion collpase has continued unabated. The season-ending team championship was finally canceled, reports of countless unpaid vendors and employees began to surface, and persistent, albeit unsubstantiated, rumors that Jon Rahm’s LIV days were numbered continued to swirl. What happens next is anyone’s guess, but one thing is clear:\n\nLIV Golf, as it has existed the past five years, is dead. It's said that you're not supposed to beat a dead horse, but after his pro-am appearance on Wednesday at the BMW Championship, Rory McIlroy—long one of LIV Golf's most outspoken critics—hit the floundering league with one last roundhouse for the road. Take it away, Rors.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "‘Did they bring value to LIV?’ Rory McIlroy fires dig at stars hoping for PGA Tour return - todays-golfer.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzdxd19kR2ZFMldwNmJoT3c3dDJKSVNOaHloMHJqVUtYa181ZEg0akdIaXdyVjdZWThSYmczRFEwN0UyaTdxOHJNYWs3TjB6VlhlSWc0LUMxRm5fNUN2NDhQX3V2eHQzNFZGZExWZEd0aC1ZaVFWU0kycWFjeGpvOG5mMXZIYzZaU0xkUU5GVGlxV3Vs?oc=5",
+        "published": "2026-08-19T17:52:15+00:00",
+        "published_label": "Wed 19 Aug, 17:52",
+        "summary": "‘Did they bring value to LIV?’ Rory McIlroy fires dig at stars hoping for PGA Tour return todays-golfer.com",
+        "body": "Rory McIlroy has no apparent desire to see LIV Golf’s biggest stars return to the PGA Tour, indicating they failed to provide value to their own creaking league. While LIV is in Indianapolis for a premature finale to its 2026 season, McIlroy is at the BMW Championship in St Louis aiming to improve on a galling start to the FedEx Cup playoffs.\n\nMuch of the attention inside the golf world, however, is focused on events at Chatham Hills as players wait to discover LIV’s fate without the backing of the Saudi Public Investment Fund next season.",
+        "copy": "Rory McIlroy has no apparent desire to see LIV Golf’s biggest stars return to the PGA Tour, indicating they failed to provide value to their own creaking league. While LIV is in Indianapolis for a premature finale to its 2026 season, McIlroy is at the BMW Championship in St Louis aiming to improve on a galling start to the FedEx Cup playoffs.\n\nMuch of the attention inside the golf world, however, is focused on events at Chatham Hills as players wait to discover LIV’s fate without the backing of the Saudi Public Investment Fund next season.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Viktor Hovland's long odyssey is the product of what makes him great",
+        "link": "https://golf.com/news/viktor-hovland-odyssey-swing-change/",
+        "published": "2026-08-19T17:16:49+00:00",
+        "published_label": "Wed 19 Aug, 17:16",
+        "summary": "Viktor Hovland's search for the best version of himself is ongoing. It's the product of a double-edge sword that he must learn to manage. The post Viktor Hovland’s long odyssey is the product of what makes him great appeared first on Golf .",
+        "body": "Viktor Hovland is curious. It has been both a blessing and a curse for the Norwegian star, and it’s what will eventually deliver him to what he has been searching for. Back in 2023, Viktor Hovland was one of the four best players in the world. He posted top 10s at the Players, the Masters and the PGA Championship before winning the Memorial, BMW and Tour Championship. It was the type of ascension Hovland had been destined to make ever since he turned pro in June of 2019. Everything pointed to Viktor Hovland continuing his rise, stacking wins and adding major championships to his resume. But Viktor Hovland is curious; he’s a dreamer and a wanderer and a tinkerer. So he decided to pick at his swing. Nitpicks became coaching changes and Viktor Hovland marched off on a path all his own making.\n\nOne he’s still trying to come back from. “Now, especially looking back, I would say that it was more I was content with my game up until — my whole career up until 2023 in terms of my ball striking,” Hovland said on Tuesday ahead of the 2026 BMW Championship. “But it was always trying to nitpick and trying to find places where I can improve. Now, with kind of the struggles that I’ve had the last, I would say, three years, where my ball striking has just been drastically worse, you know, you take a little bit for granted how good it was before.”",
+        "copy": "Viktor Hovland is curious. It has been both a blessing and a curse for the Norwegian star, and it’s what will eventually deliver him to what he has been searching for. Back in 2023, Viktor Hovland was one of the four best players in the world. He posted top 10s at the Players, the Masters and the PGA Championship before winning the Memorial, BMW and Tour Championship. It was the type of ascension Hovland had been destined to make ever since he turned pro in June of 2019. Everything pointed to Viktor Hovland continuing his rise, stacking wins and adding major championships to his resume. But Viktor Hovland is curious; he’s a dreamer and a wanderer and a tinkerer. So he decided to pick at his swing. Nitpicks became coaching changes and Viktor Hovland marched off on a path all his own making.\n\nOne he’s still trying to come back from. “Now, especially looking back, I would say that it was more I was content with my game up until — my whole career up until 2023 in terms of my ball striking,” Hovland said on Tuesday ahead of the 2026 BMW Championship. “But it was always trying to nitpick and trying to find places where I can improve. Now, with kind of the struggles that I’ve had the last, I would say, three years, where my ball striking has just been drastically worse, you know, you take a little bit for granted how good it was before.”",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Exclusive: Patrick Reed on DP World Tour feeling like 'home' and LIV Golf 'hardship'",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2JlWXJhM2x4SkhnbkRGZ2Z3cENzWGljZ1VIUHp2cXlvTmtxMjhYMThiR2NJcEJTR3d4NG5UQnZUaGhZZm9MZk1MVkpFTTdEa0pmU2VuNFU3S0ZabzN6T0ZkeDNlWWpKaF81Ry1jRWhJeWNGYmY4N29RTW9nTF9fZkNZLTlZdnRXTTFPUDRwbHFXQXFRc3UzbW1FTks3R3F0SEJxNnEtUFNBUXZD?oc=5",
+        "published": "2026-08-19T15:45:00+00:00",
+        "published_label": "Wed 19 Aug, 15:45",
+        "summary": "Exclusive: Patrick Reed on DP World Tour feeling like 'home' and LIV Golf 'hardship' The Scotsman",
+        "body": "Love or loathe him, one thing is both undeniable and admirable when it comes to Patrick Reed. The American rarely turns down an approach to chew the fat about golf, and so it proved ahead of an appearance on Scottish soil this week in the Nexo Championship.\n\nSpeaking exclusively to The Scotsman, Reed talked openly about a number of topics, including how he is putting the DP World Tour ahead of a PGA Tour return for the time being as he bids to stay out in front in the Race to Dubai title battle and make Rory McIlroy wait as he attempts to equal Colin Montgomerie’s record of eight crowns.",
+        "copy": "Love or loathe him, one thing is both undeniable and admirable when it comes to Patrick Reed. The American rarely turns down an approach to chew the fat about golf, and so it proved ahead of an appearance on Scottish soil this week in the Nexo Championship.\n\nSpeaking exclusively to The Scotsman, Reed talked openly about a number of topics, including how he is putting the DP World Tour ahead of a PGA Tour return for the time being as he bids to stay out in front in the Race to Dubai title battle and make Rory McIlroy wait as he attempts to equal Colin Montgomerie’s record of eight crowns.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Sam Burns makes feelings clear on Jon Rahm and Bryson DeChambeau returning to PGA Tour",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkxUNFZZRFE4TTRZdU5GQzNHSE5rTjdZbzZaUjBUR1NlWGhqaW1ZZENmUngwc2xGQmtOdFpzcnE5ZGFuLUE1enJ3OGR4V2dSVll3X1dVaG5hM3FRV0VxUUJGRWtqZENHamlGNDg1bUd5Q2xQa1pBMGNGWUFPRjZqbEVqYi1BbTZTS2lpT0lzSkN0Y0xjR1RheU5Dc0JxbC1kblkxZFBweERiVERBZzVCTjNaNnVEMkc2aHNIeA?oc=5",
+        "published": "2026-08-19T15:40:00+00:00",
+        "published_label": "Wed 19 Aug, 15:40",
+        "summary": "Sam Burns makes feelings clear on Jon Rahm and Bryson DeChambeau returning to PGA Tour golfmagic.com",
+        "body": "Sam Burns has revealed he would welcome Jon Rahm, Bryson DeChambeau and other LIV Golf stars back to the PGA Tour if they decide to return. Burns never seriously considered joining LIV Golf when the rival circuit launched in 2022, despite briefly being linked with a potential move.\n\nThe five-time PGA Tour winner instead remained committed to the circuit, but has consistently insisted he does not blame players who chose a different path. Four years on, with LIV’s future uncertain, the 30-year-old American believes the return of some of the game’s biggest names would ultimately benefit golf.",
+        "copy": "Sam Burns has revealed he would welcome Jon Rahm, Bryson DeChambeau and other LIV Golf stars back to the PGA Tour if they decide to return. Burns never seriously considered joining LIV Golf when the rival circuit launched in 2022, despite briefly being linked with a potential move.\n\nThe five-time PGA Tour winner instead remained committed to the circuit, but has consistently insisted he does not blame players who chose a different path. Four years on, with LIV’s future uncertain, the 30-year-old American believes the return of some of the game’s biggest names would ultimately benefit golf.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -4749,6 +4801,19 @@
         "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf has slashed its individual prize money this week after axing its Team Championship event in Michigan.\n\nBosses finally confirmed the $40 million season-ending Team Championship was cancelled on Monday, weeks after doubts were first cast over the event. Late last month, Cleeks GC captain Martin Kaymer told reporters including bunkered.co.uk that the Team Championship had just a ‘five percent’ chance of going ahead as planned.",
         "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf has slashed its individual prize money this week after axing its Team Championship event in Michigan.\n\nBosses finally confirmed the $40 million season-ending Team Championship was cancelled on Monday, weeks after doubts were first cast over the event. Late last month, Cleeks GC captain Martin Kaymer told reporters including bunkered.co.uk that the Team Championship had just a ‘five percent’ chance of going ahead as planned.",
         "first_seen": "2026-08-19T06:40:06.485055+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Production Company Sues LIV for $1.2M in Missed Payments",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUttMnZyamNlM3ZCc2NreWpRWjF0NE10X2JwT1pmUkY2UGVaVGhnUnNMVGFuNDBPMDU3S2lCVkRCak9pY2g0c2VoWGhiRXNOMGhHdkNPcjFkenFhTWxWYWU3dUJ5WDJVNS1INThkSG10QzRYOExEY19nOXc2aUJIcDlod2tad3dISEMtUVI3ZE14SW9HX3NjQVd3?oc=5",
+        "published": "2026-08-18T14:00:06+00:00",
+        "published_label": "Tue 18 Aug, 14:00",
+        "summary": "Production Company Sues LIV for $1.2M in Missed Payments Front Office Sports",
+        "body": "As LIV Golf’s rocky 2026 season concludes this week, one of the league’s still-unresolved financial disputes dates back to before the season even began. Fresh Tape Media, the company that produced and operated the league’s preseason media days event in January, is suing LIV for more than $1.23 million in missed payments and interest, according to a complaint filed in the Supreme Court of the State of New York on July 21. Due to the nature of the lawsuit, LIV was formally notified of the complaint only on Monday—the same day it officially announced the cancellation of its $40 million team championship that was scheduled for next week in Michigan.\n\nIt’s the latest company to go public with claims of missed payments from LIV, as various vendors and contractors have told Front Office Sports they are also owed money by the league. Mobii Systems Group Limited, a former technology partner of LIV, also sued the league last month for more than $1.1 million for breach of contract, unpaid invoices, and interest.",
+        "copy": "As LIV Golf’s rocky 2026 season concludes this week, one of the league’s still-unresolved financial disputes dates back to before the season even began. Fresh Tape Media, the company that produced and operated the league’s preseason media days event in January, is suing LIV for more than $1.23 million in missed payments and interest, according to a complaint filed in the Supreme Court of the State of New York on July 21. Due to the nature of the lawsuit, LIV was formally notified of the complaint only on Monday—the same day it officially announced the cancellation of its $40 million team championship that was scheduled for next week in Michigan.\n\nIt’s the latest company to go public with claims of missed payments from LIV, as various vendors and contractors have told Front Office Sports they are also owed money by the league. Mobii Systems Group Limited, a former technology partner of LIV, also sued the league last month for more than $1.1 million for breach of contract, unpaid invoices, and interest.",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
       },
       {
         "section": "Golf",
@@ -6426,100 +6491,61 @@
         "body": "Scottie Scheffler didn’t have any Xs and Os advice to offer Vikings head coach Kevin O’Connell when they played nine holes together in the 3M Open pro-am last month, although the World No. 1 did offer a helpful tip for O’Connell’s golf game.\n\nO’Connell recently sat down with host Kevin Clark for Clark’s This Is Football show, and a part of the conversation was about the coach’s offseason pro-am round with the four-time major champion.",
         "copy": "Scottie Scheffler didn’t have any Xs and Os advice to offer Vikings head coach Kevin O’Connell when they played nine holes together in the 3M Open pro-am last month, although the World No. 1 did offer a helpful tip for O’Connell’s golf game.\n\nO’Connell recently sat down with host Kevin Clark for Clark’s This Is Football show, and a part of the conversation was about the coach’s offseason pro-am round with the four-time major champion.",
         "first_seen": "2026-08-13T07:23:23.232170+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "U.S. Amateur’s 16-man playoff was fun for some fans, agonizing for others",
-        "link": "https://golf.com/news/us-amateur-16-player-playoff-theater/",
-        "published": "2026-08-12T18:32:53+00:00",
-        "published_label": "Wed 12 Aug, 18:32",
-        "summary": "Sixteen U.S. Amateur contestants battled it out for 11 match-play spots at Merion on Wednesday. For some supporters, it was hard to watch. The post U.S. Amateur’s 16-man playoff was fun for some fans, agonizing for others appeared first on Golf .",
-        "body": "ARDMORE, Pa. — It was not yet 11 on a still, warm Wednesday morning at Merion Golf Club, but Mike and Sherry Sands needed a drink. Could you blame them? On Tuesday evening, their son, Parker, a 20-year-old rising junior at the University of Florida, needed some gut-it-out heroics on his final hole to maintain any hope of advancing to match play here at the 126th U.S. Amateur. Parker was among the wave of players who went off hole 11 at Merion, meaning his round concluded on the drivable par-4 10th.\n\n“He had to birdie it,” Sherry began, eager to dish the blow-by-blow details only a mother can provide. “He went for it, hit the green, bounced back into the sand, and it was right on the edge, on the down slope of the trap. Like, he barely had a backswing. He had one leg out, kneeling, and he kind of, like, goes like this.” Here, Sherry contorted into an uncomfortable-looking position. “Inch from the hole,” she continued. “Wow, wow. Best shot I’ve ever seen. His caddie — he was like, ‘Best shot I’ve ever seen.”",
-        "copy": "ARDMORE, Pa. — It was not yet 11 on a still, warm Wednesday morning at Merion Golf Club, but Mike and Sherry Sands needed a drink. Could you blame them? On Tuesday evening, their son, Parker, a 20-year-old rising junior at the University of Florida, needed some gut-it-out heroics on his final hole to maintain any hope of advancing to match play here at the 126th U.S. Amateur. Parker was among the wave of players who went off hole 11 at Merion, meaning his round concluded on the drivable par-4 10th.\n\n“He had to birdie it,” Sherry began, eager to dish the blow-by-blow details only a mother can provide. “He went for it, hit the green, bounced back into the sand, and it was right on the edge, on the down slope of the trap. Like, he barely had a backswing. He had one leg out, kneeling, and he kind of, like, goes like this.” Here, Sherry contorted into an uncomfortable-looking position. “Inch from the hole,” she continued. “Wow, wow. Best shot I’ve ever seen. His caddie — he was like, ‘Best shot I’ve ever seen.”",
-        "first_seen": "2026-08-12T18:59:30.836605+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Golf fans fuming that LIV Golf is still selling tickets for cancelled Team Championship",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXMzMHFMYlMzTUNGTVBqOVBmaDVvTFhXYzB2U29QdDlWd3BuODFXRTFwQV9hc3M1MGtIZmRvV2dhR2RqdU1GRlZuMEtiMF9VX1ZBUUJJbVhpRlJUUFZUZWlzX1R5UkNWYW5nYkV2ZjBwN2dBZF9hc2FRbFNnTUFpZEFaa2pBZm5CcElLV1BqZ0cyUVNLYmdUMXFzY0xYNnBDLTBBcXJSMEFJNjNt?oc=5",
-        "published": "2026-08-12T18:00:49+00:00",
-        "published_label": "Wed 12 Aug, 18:00",
-        "summary": "Golf fans fuming that LIV Golf is still selling tickets for cancelled Team Championship Golfmagic",
-        "body": "The LIV Golf Team Championship final in Michigan has been cancelled amid weeks of uncertainty surrounding the event. Telegraph Sport's James Corrigan broke the news earlier on Wednesday that LIV players have now been told that the $40m Team Championship isn’t going ahead at the end of August. There has still yet to have been an official statement from the league, however.\n\nNow, you would think that once an event is cancelled, no more tickets would go on sale for said tournament. But remarkably, tickets are still available to purchase for the now-cancelled event on the LIV Golf website.",
-        "copy": "The LIV Golf Team Championship final in Michigan has been cancelled amid weeks of uncertainty surrounding the event. Telegraph Sport's James Corrigan broke the news earlier on Wednesday that LIV players have now been told that the $40m Team Championship isn’t going ahead at the end of August. There has still yet to have been an official statement from the league, however.\n\nNow, you would think that once an event is cancelled, no more tickets would go on sale for said tournament. But remarkably, tickets are still available to purchase for the now-cancelled event on the LIV Golf website.",
-        "first_seen": "2026-08-12T18:59:30.836605+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This part of the bag is key for the U.S. Amateur at Merion",
-        "link": "https://golf.com/gear/hybrids/merion-us-amateur-key-part-of-bag/",
-        "published": "2026-08-12T17:53:54+00:00",
-        "published_label": "Wed 12 Aug, 17:53",
-        "summary": "As the best amateurs in the world begin match play at Merion Golf Club, see what part of their bag could be key at the U.S. Amateur. The post This part of the bag is key for the U.S. Amateur at Merion appeared first on Golf .",
-        "body": "Merion Golf Club’s East course is certainly a lot more than just a the scorecard. At just 6,939 yards this week, Merion is one of the shortest courses in modern championship golf, but if you look a little closer at how the course arrives at that length, it paints a different picture.\n\nDespite the yardage, there’s no shortage of long holes, as there are three par-4s over 480 yards (5,6 and 18), two par-3s over 230 yards — with a third that was stretched to 266 during the 2013 U.S. Open — and both par-5s measuring nearly 600 yards. On the flip side, five par-4s measure 365 yards or less, as well as a par-3 that’s just 119 yards.",
-        "copy": "Merion Golf Club’s East course is certainly a lot more than just a the scorecard. At just 6,939 yards this week, Merion is one of the shortest courses in modern championship golf, but if you look a little closer at how the course arrives at that length, it paints a different picture.\n\nDespite the yardage, there’s no shortage of long holes, as there are three par-4s over 480 yards (5,6 and 18), two par-3s over 230 yards — with a third that was stretched to 266 during the 2013 U.S. Open — and both par-5s measuring nearly 600 yards. On the flip side, five par-4s measure 365 yards or less, as well as a par-3 that’s just 119 yards.",
-        "first_seen": "2026-08-12T18:59:30.836605+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "At Merion, host of the 2026 U.S. Amateur, there's always magic in the air",
-        "link": "https://golf.com/news/merion-2026-us-amateur-magic-lingers/",
-        "published": "2026-08-12T16:33:31+00:00",
-        "published_label": "Wed 12 Aug, 16:33",
-        "summary": "So many legends have won at Merion, like Hogan, Jones and Trevino. This championship, this course, follows golfers around forever. The post At Merion, host of the 2026 U.S. Amateur, there’s always magic in the air appeared first on Golf .",
-        "body": "Mark Fulcher, the winning caddie at the 2013 U.S. Open at Merion with Justin Rose, is enduring a serious case of caddie envy this week, with the U.S. Amateur unfolding at Merion. Like all proper golf bums, Fooch (as the veteran British caddie is known throughout golf and at your better racetracks) knows that match-play golf is the game at its primal and purest best. This is, after all, a man who has caddied in seven Ryder Cups, seven Solheim Cups and one Presidents Cup, all contested at match play. The U.S. Am, like its British counterpart, is a match play event (after the two-day stroke play qualifier). At the 1930 U.S. Am at Merion, Bobby Jones completed golf’s version of the Grand Slam (it’s a bridge term) with an 8-and-7 victory in the 36-hole final over a gent named Eugene V. Homans. If you’re new to this whole thing, in match play every hole is its own one-hole contest. Jones had an eight-hole lead with seven holes to go. No more golf. Jones and his caddie, a local teenager named Howard Rexford, joyfully made the hike from the 11th green back to the club’s iconic white farmhouse clubhouse. There were no carts.\n\n“Could you hit driver or 3-wood on one?” Fooch asked the other day, repeating a question posed to him and doing some oh-so-English stalling. The first hole at Merion is — well, what’s north of iconic? The first at Merion is a delicate tea-party par-4 with a ladies-at-lunch porch located a short lefty’s shank shot away. From there the hole is a wee uphill dogleg that, in U.S. Open stroke-play golf, is iron off the tee, wedge into the green, all day long, four straight days. But match play is a different animal.",
-        "copy": "Mark Fulcher, the winning caddie at the 2013 U.S. Open at Merion with Justin Rose, is enduring a serious case of caddie envy this week, with the U.S. Amateur unfolding at Merion. Like all proper golf bums, Fooch (as the veteran British caddie is known throughout golf and at your better racetracks) knows that match-play golf is the game at its primal and purest best. This is, after all, a man who has caddied in seven Ryder Cups, seven Solheim Cups and one Presidents Cup, all contested at match play. The U.S. Am, like its British counterpart, is a match play event (after the two-day stroke play qualifier). At the 1930 U.S. Am at Merion, Bobby Jones completed golf’s version of the Grand Slam (it’s a bridge term) with an 8-and-7 victory in the 36-hole final over a gent named Eugene V. Homans. If you’re new to this whole thing, in match play every hole is its own one-hole contest. Jones had an eight-hole lead with seven holes to go. No more golf. Jones and his caddie, a local teenager named Howard Rexford, joyfully made the hike from the 11th green back to the club’s iconic white farmhouse clubhouse. There were no carts.\n\n“Could you hit driver or 3-wood on one?” Fooch asked the other day, repeating a question posed to him and doing some oh-so-English stalling. The first hole at Merion is — well, what’s north of iconic? The first at Merion is a delicate tea-party par-4 with a ladies-at-lunch porch located a short lefty’s shank shot away. From there the hole is a wee uphill dogleg that, in U.S. Open stroke-play golf, is iron off the tee, wedge into the green, all day long, four straight days. But match play is a different animal.",
-        "first_seen": "2026-08-12T16:56:45.677339+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf team championship in Plymouth is canceled: report",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa014cW9sZjBoLVNyazF5b21jVnZFTUtxM01RaVZEUDNNWUV3VnBhZDQtSjFxZTlfLTBCMFN0SFZsU1JhQlZKMC11ZTdxNmFEUG12V21GemJiSmxJRERNYkVCWWQ4MnZ6TlRJc29qZFFoRDA0d0pXeXNyd2FCSlpVTFJodWd4VGFaN1Y4YQ?oc=5",
-        "published": "2026-08-12T16:25:56+00:00",
-        "published_label": "Wed 12 Aug, 16:25",
-        "summary": "LIV Golf team championship in Plymouth is canceled: report Yahoo Sports",
-        "body": "The worst-kept secret in professional golf is apparently out there now: There will be no LIV Golf event in Michigan this year. LIV has told players that the team championship event, scheduled to take place in Plymouth in three weeks, has been canceled, according to a report in The Telegraph on Wednesday, Aug. 12.\n\nThis would be the second LIV tournament to be canceled in 2026, after an event in New Orleans was called off in June. A cancellation of the event should come as no surprise. On Aug. 5, LIV announced a new lead investor but did not commit to the 2026 season finishing with the team championship at The Cardinal at Saint John's in Plymouth, scheduled for Aug. 27-30. And as Free Press columnist Carlos Monarrez pointed out, there was no visible signage or indication a tournament was coming to the course in the near future.",
-        "copy": "The worst-kept secret in professional golf is apparently out there now: There will be no LIV Golf event in Michigan this year. LIV has told players that the team championship event, scheduled to take place in Plymouth in three weeks, has been canceled, according to a report in The Telegraph on Wednesday, Aug. 12.\n\nThis would be the second LIV tournament to be canceled in 2026, after an event in New Orleans was called off in June. A cancellation of the event should come as no surprise. On Aug. 5, LIV announced a new lead investor but did not commit to the 2026 season finishing with the team championship at The Cardinal at Saint John's in Plymouth, scheduled for Aug. 27-30. And as Free Press columnist Carlos Monarrez pointed out, there was no visible signage or indication a tournament was coming to the course in the near future.",
-        "first_seen": "2026-08-12T18:59:30.836605+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf players told season finale is canceled, according to report",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ga0x5Sm5zNDduekkyVk9TSEEtY3JVaVpBaDNpa2llVTh1aFY0NGx4LWZkbjJ2XzF0Sk9mdG9JUktPSjZrRWpZVHRXX1pTcHJZVENobkpxUFd3RFQ0bXk0aVZ4YnBrRnoxcVE1c29ZWHA4UQ?oc=5",
-        "published": "2026-08-12T15:54:11+00:00",
-        "published_label": "Wed 12 Aug, 15:54",
-        "summary": "LIV Golf players told season finale is canceled, according to report golfdigest.com",
-        "body": "After weeks of rumors, LIV Golf has informed its players that the season-ending event has been canceled, according to a report from the Telegraph. LIV Golf Michigan’s demise has been speculated for some time. Martin Kaymer said last month that the event had a “five percent” chance of happening, no infrastructure has been built on the host venue despite a scheduled date of Aug. 27, and a LIV announcer stated the Indianapolis event would be the final stop on the schedule. But LIV Golf CEO Scott O’Neil would not comment on the matter last week in New Jersey, only saying “We have not made any final formal decisions and hope to in the coming weeks.”\n\nHowever, according to the Telegraph’s James Corrigan, players have now been told LIV Michigan won’t be held. As of writing, no official announcement has been made, and tickets are still available and being sold on LIV’s website.",
-        "copy": "After weeks of rumors, LIV Golf has informed its players that the season-ending event has been canceled, according to a report from the Telegraph. LIV Golf Michigan’s demise has been speculated for some time. Martin Kaymer said last month that the event had a “five percent” chance of happening, no infrastructure has been built on the host venue despite a scheduled date of Aug. 27, and a LIV announcer stated the Indianapolis event would be the final stop on the schedule. But LIV Golf CEO Scott O’Neil would not comment on the matter last week in New Jersey, only saying “We have not made any final formal decisions and hope to in the coming weeks.”\n\nHowever, according to the Telegraph’s James Corrigan, players have now been told LIV Michigan won’t be held. As of writing, no official announcement has been made, and tickets are still available and being sold on LIV’s website.",
-        "first_seen": "2026-08-12T16:56:45.677339+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf event ‘cancelled’ – but tickets are still for sale",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzZ0TXc4eFhMQlM4LUp0dG12QmJVX0lUQkROT1NmWjRuXzBQOUhvSXRvMDNPdXBUX1RlNTFUSFdzeG9EYUNPUV8zN2tXdzQzbTdJcEdqb2FIb0Z5bjNXVWJLMDFqSXE2MTk4TlFiODg5S2U1U1AyUVlucnMtNFdmOXZ0RWptbWU4YVVyWFZham9IRUxo?oc=5",
-        "published": "2026-08-12T14:38:26+00:00",
-        "published_label": "Wed 12 Aug, 14:38",
-        "summary": "LIV Golf event ‘cancelled’ – but tickets are still for sale Today's Golfer",
-        "body": "It is now three weeks until LIV Golf’s Team Championship is slated to take place in Michigan – except almost everyone inside the golf world already knows the tournament won’t go ahead.\n\nThe $40 million team shootout has been under threat for weeks and Martin Kaymer told TG last month that the event only had a “five percent chance” of being played. And since the German confirmed that infrastructure at the venue, The Cardinal course at Saint John’s, had still not been erected, the odds of LIV salvaging the event have only drifted.",
-        "copy": "It is now three weeks until LIV Golf’s Team Championship is slated to take place in Michigan – except almost everyone inside the golf world already knows the tournament won’t go ahead.\n\nThe $40 million team shootout has been under threat for weeks and Martin Kaymer told TG last month that the event only had a “five percent chance” of being played. And since the German confirmed that infrastructure at the venue, The Cardinal course at Saint John’s, had still not been erected, the odds of LIV salvaging the event have only drifted.",
-        "first_seen": "2026-08-12T16:56:45.677339+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Garret Tan Sparkles on Great Day for Pan Am",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllON1JXdXYyWm92eVZ1dTQyNVllNW1sb2VlUWNTeURmcnNKamw1bEMwTGdXenNnTm1BRGdsMG9qaURLcTlFbk9vM0t5U1g5Skl4WXhXbjRZX3lnY3FUTFo2RWdBS1hQR04xX05uNUppQkZmWXBMVXdVWXp0cmsyZXVEenNkUHBwdWtzWDNqdGtIUGMwV0lSRDFqMjFiWVR1QzB2S25jTWtrN0VEdFZjU1plUQ?oc=5",
+        "published": "2026-08-19T16:13:54+00:00",
+        "published_label": "Wed 19 Aug, 16:13",
+        "summary": "Garret Tan Sparkles on Great Day for Pan Am BWF World Championships",
+        "body": "The BWF World Championships 2026 continued to throw up big-name casualties, with 14th seed Lakshya Sen falling to world No.92 Garret Tan on a great day for Pan Am. Tan, just 18, ranks No.7 on the World Junior rankings, but made light of the gulf in experience against the home favourite, as he dialled up his attacking game to leave Sen struggling throughout the match. Despite a nasty fall late in the third, Tan kept his composure to deal one of the upsets of the tournament and make his way into the Round of 16.\n\nWith compatriots Presley Smith/Jennie Gai and Ishika Jaiswal, and Canada’s Victor Lai and Michelle Li also winning their matches, Pan Am couldn’t have asked for a better day. “I can’t believe I won,” said Tan. “The last couple of tournaments I had the same problem, I was leading and I lost. I didn’t want to think about losing, I just wanted to focus.",
+        "copy": "The BWF World Championships 2026 continued to throw up big-name casualties, with 14th seed Lakshya Sen falling to world No.92 Garret Tan on a great day for Pan Am. Tan, just 18, ranks No.7 on the World Junior rankings, but made light of the gulf in experience against the home favourite, as he dialled up his attacking game to leave Sen struggling throughout the match. Despite a nasty fall late in the third, Tan kept his composure to deal one of the upsets of the tournament and make his way into the Round of 16.\n\nWith compatriots Presley Smith/Jennie Gai and Ishika Jaiswal, and Canada’s Victor Lai and Michelle Li also winning their matches, Pan Am couldn’t have asked for a better day. “I can’t believe I won,” said Tan. “The last couple of tournaments I had the same problem, I was leading and I lost. I didn’t want to think about losing, I just wanted to focus.",
+        "first_seen": "2026-08-19T14:31:28.078859+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships 2026: Satwik-Chirag advance to pre-quarterfinals via walkover; Tanisha-Dhruv triump...",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVklqUGFKdHlZR1ZqUExIVXBpV1ZBbVdGZk5SZ2JtYV9Hd3UxS2VfOHhOeVhRN0w0UTlzb0FRSktXV1R0bUxIaFM1eEIxQW9NdngyVHA3S3JBX1RkYUExVVRrSHI1RWZHNzlfNkJKOEV6Rl83a09PZ1V6dFRfZ3JBRzNRM1VEQkNSa1dFRDlBZ0ItV0VZamZGU1NlV3h2M25xVHVHTm1GSk9kSDRXamM4NWNzTWJvUDJFR3Q2Y2E2UjF2ZkNaX0VnVzFnMGZLUEtkVXZ1djNFd1Q5X0VlRGw1YnpqdjhacnBoRS1fcXJ5aVNBZ09KZDZxNDBucG56bTVQa3A1RVhUaG9HaTZuNVHSAZMCQVVfeXFMT0YtOVN0WTFBU1R4b3ZtX1ktZktBdEppZlhpWHlFMUNTelhzOUhsYXBFRkhKd3BRbVNENDlGS1hGTldSSkxHSDZYQk9yZ21GYlU4S3RtOEFBTmRJQUZWTVJ6SFo0TTgybzRscW1nX20tNzJNeElEMGxHTFgydVhYS2lBTnd6bl9YakdxeUt6YWlmVUw4U1FMSS1wa2k2b0pDOUpJb0RzU0ZrS2NoMXhwOW01VDNfTWs1VUxVRXpENk1jbGN5RzYxQmJJdnREc3BVYzBTZ1RvY2pSYTlCUUhqR3dtdFpraXA0OFg5bTJENVp1cWZ0dS1tVVAwN1Jyemp0TFBLMWVRc2ZBZzh6b0IyWGhrZ1k?oc=5",
+        "published": "2026-08-19T14:41:49+00:00",
+        "published_label": "Wed 19 Aug, 14:41",
+        "summary": "BWF World Championships 2026: Satwik-Chirag advance to pre-quarterfinals via walkover; Tanisha-Dhruv triump... Firstpost",
+        "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/bwf-world-championships-2026-satwik-chirag-advance-to-pre-quarterfinals-via-walkover-tanisha-dhruv-triumph-unnati-exits-14039343.html\" on this server.\n\nReference #18.d1d11102.1787164454.c4b64581 https://errors.edgesuite.net/18.d1d11102.1787164454.c4b64581",
+        "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/bwf-world-championships-2026-satwik-chirag-advance-to-pre-quarterfinals-via-walkover-tanisha-dhruv-triumph-unnati-exits-14039343.html\" on this server.\n\nReference #18.d1d11102.1787164454.c4b64581 https://errors.edgesuite.net/18.d1d11102.1787164454.c4b64581",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "PV Sindhu braced for difficult matches, long rallies | BWF World Championships 2026",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjkxaHRqYmJFRUt5RUFaMGNlU2lqQnFqaktfV3RNWkFUZFFSejVHZi1tVGI1WjdVaHVfXzdTYzl0WHo4T1g5bjFfa1lneWVUWEhNLTZtOElCS2cwaDJJVmFxUkt0d1pSQThfb1cwV1VMM1MzZHdIS3JaNGpPczd4UTJCZ2pxRGRlQVlWUmdVX2ZoRnhGSFo0aHZBUmh3bzBPZXhXLTM0akU?oc=5",
+        "published": "2026-08-19T14:35:15+00:00",
+        "published_label": "Wed 19 Aug, 14:35",
+        "summary": "PV Sindhu braced for difficult matches, long rallies | BWF World Championships 2026 olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships 2026: Lakshya Sen suffers shock exit, loses to 92nd-ranked Garret Tan in second round",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHhwajkwOXdQUEhhUG9qcjlBOWVRZ20wLXZrMm9TRi1nSU4wU3pRblowdlpIemlVQlZHYWloOGdXVWZXckNRSUpmNWlja2FfdlJ0WDRSSzVnUERFWmt3OTk4aGF5NHhHbHNVbWpycWZjY0dUSUpSZ1NmNEJvaXJPdXh6cmJQZkJ3bXV0UFFmaF9zNm83?oc=5",
+        "published": "2026-08-19T14:07:00+00:00",
+        "published_label": "Wed 19 Aug, 14:07",
+        "summary": "BWF World Championships 2026: Lakshya Sen suffers shock exit, loses to 92nd-ranked Garret Tan in second round olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-19T18:34:21.706733+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6609,19 +6635,6 @@
         "summary": "BWF Worlds Day 3 Order of play: India schedule, match timings on August 19 Business Standard",
         "body": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/bwf-worlds-day-3-order-of-play-india-schedule-match-timings-on-august-19-sindhu-lakshya-ayush-satwik-chirag-126081900338_1.html\" on this server.\n\nReference #18.49a42617.1787149869.4354ca57 https://errors.edgesuite.net/18.49a42617.1787149869.4354ca57",
         "copy": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/bwf-worlds-day-3-order-of-play-india-schedule-match-timings-on-august-19-sindhu-lakshya-ayush-satwik-chirag-126081900338_1.html\" on this server.\n\nReference #18.49a42617.1787149869.4354ca57 https://errors.edgesuite.net/18.49a42617.1787149869.4354ca57",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Garret Tan Sparkles on Sensational Day for Pan Am",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllON1JXdXYyWm92eVZ1dTQyNVllNW1sb2VlUWNTeURmcnNKamw1bEMwTGdXenNnTm1BRGdsMG9qaURLcTlFbk9vM0t5U1g5Skl4WXhXbjRZX3lnY3FUTFo2RWdBS1hQR04xX05uNUppQkZmWXBMVXdVWXp0cmsyZXVEenNkUHBwdWtzWDNqdGtIUGMwV0lSRDFqMjFiWVR1QzB2S25jTWtrN0VEdFZjU1plUQ?oc=5",
-        "published": "2026-08-19T12:58:37+00:00",
-        "published_label": "Wed 19 Aug, 12:58",
-        "summary": "Garret Tan Sparkles on Sensational Day for Pan Am BWF World Championships",
-        "body": "The BWF World Championships 2026 continued to throw up big-name casualties, with 14th seed Lakshya Sen falling to world No.92 Garret Tan on a great day for Pan Am. Tan, just 18, ranks No.7 on the World Junior rankings, but made light of the gulf in experience against the home favourite, as he dialled up his attacking game to leave Sen struggling throughout the match. Despite a nasty fall late in the third, Tan kept his composure to deal one of the upsets of the tournament and make his way into the Round of 16.\n\nWith compatriots Presley Smith/Jennie Gai and Canada’s Victor Lai and Michelle Li also winning their matches, Pan Am couldn’t have asked for a better day. Indian teen Unnati Hooda very nearly derailed Michelle Li’s campaign before the 13th seeded Canadian survived the trial by fire to take her place in the Round of 16.",
-        "copy": "The BWF World Championships 2026 continued to throw up big-name casualties, with 14th seed Lakshya Sen falling to world No.92 Garret Tan on a great day for Pan Am. Tan, just 18, ranks No.7 on the World Junior rankings, but made light of the gulf in experience against the home favourite, as he dialled up his attacking game to leave Sen struggling throughout the match. Despite a nasty fall late in the third, Tan kept his composure to deal one of the upsets of the tournament and make his way into the Round of 16.\n\nWith compatriots Presley Smith/Jennie Gai and Canada’s Victor Lai and Michelle Li also winning their matches, Pan Am couldn’t have asked for a better day. Indian teen Unnati Hooda very nearly derailed Michelle Li’s campaign before the 13th seeded Canadian survived the trial by fire to take her place in the Round of 16.",
         "first_seen": "2026-08-19T14:31:28.078859+00:00"
       },
       {
@@ -8031,5 +8044,5 @@
     ],
     "Competitor News": []
   },
-  "total": 616
+  "total": 617
 }
