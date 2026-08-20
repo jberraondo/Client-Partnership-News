@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T12:42:14.252391+00:00",
-  "generated_label": "Thursday 20 August 2026, 12:42 UTC",
+  "generated_at": "2026-08-20T14:34:33.959163+00:00",
+  "generated_label": "Thursday 20 August 2026, 14:34 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -414,6 +414,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-19T10:29:38.134953+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Virgin Atlantic and Trainline investigated over ‘drip pricing’",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0ZKN0xzelZqbENNUEtOb1hyNmxRQUtoOU80dTV4aEVHWjBNTGJKTFJDSFdzbWNNdmJoel9TWk9WSXVjRGpsdC1ndEtJS1BNdENhSk8wSUlPYTV6UzhuamVaTFBGT0dXYkZ0QW43Ri1nT3BlT1lWdlVSekQ3empZd1JGaEc?oc=5",
+        "published": "2026-08-19T06:56:06+00:00",
+        "published_label": "Wed 19 Aug, 06:56",
+        "summary": "Virgin Atlantic and Trainline investigated over ‘drip pricing’ Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1532,22 +1545,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-13T16:56:12.835700+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "Formula E turns to Disney+ to reach new audiences through global streaming deal",
-        "link": "https://www.sportspro.com/announcements/broadcast-ott/formula-e-disney-global-streaming-deal-august-2026/",
-        "published": "2026-08-13T13:14:24+00:00",
-        "published_label": "Thu 13 Aug, 13:14",
-        "summary": "All-electric series will balance global deal with existing FTA and pay TV rights in respective markets. The post Formula E turns to Disney+ to reach new audiences through global streaming deal appeared first on SportsPro .",
-        "body": "Formula E is prioritising reach over exclusivity through its new global streaming deal with Disney+, according to the series’ chief media officer Michaella Snoeck. The multi-year agreement, which officially gets underway from the start of the 2026/27 season, will cover 144 territories around the world and sit alongside the all-electric series’ existing portfolio of free-to-air (FTA) and linear broadcast partners.\n\n“This is not just the global home, we have multiple partners in multiple markets,” Snoeck told SportsPro. “It is a much broader and wider ecosystem and want to obviously reach as many fans as possible. So there’s always going to be a blend of either free-to-air or pay [TV] in each respective market.”",
-        "copy": "Formula E is prioritising reach over exclusivity through its new global streaming deal with Disney+, according to the series’ chief media officer Michaella Snoeck. The multi-year agreement, which officially gets underway from the start of the 2026/27 season, will cover 144 territories around the world and sit alongside the all-electric series’ existing portfolio of free-to-air (FTA) and linear broadcast partners.\n\n“This is not just the global home, we have multiple partners in multiple markets,” Snoeck told SportsPro. “It is a much broader and wider ecosystem and want to obviously reach as many fans as possible. So there’s always going to be a blend of either free-to-air or pay [TV] in each respective market.”",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'We could have selected him': Erasmus explains Siya Kolisi decision",
+        "link": "https://www.rugbypass.com/news/we-could-have-selected-him-rassie-erasmus-explains-siya-kolisi-decision-springboks-all-blacks/",
+        "published": "2026-08-20T14:18:43+00:00",
+        "published_label": "Thu 20 Aug, 14:18",
+        "summary": "South Africa head coach Rassie Erasmus has revealed that captain Siya Kolisi was available to face the All Blacks this weekend at Ellis Park in the first match of the Greatest Rivalry series, but the coaching team opted against selecting him.",
+        "body": "South Africa head coach Rassie Erasmus has revealed that captain Siya Kolisi was available to face the All Blacks this weekend at Ellis Park in the first match of the Greatest Rivalry series, but the coaching team opted against selecting him.\n\nIt was originally feared that the 100-cap veteran would miss a large chunk, if not all, of the highly-anticipated series after picking up a hamstring injury in the Springboks’ 17-10 victory over Argentina earlier this month. However, Erasmus gave an upbeat update earlier this week on the injury status of both Kolisi and loosehead prop Ox Nche, saying they were both in contention to face the All Blacks in Johannesburg.",
+        "copy": "South Africa head coach Rassie Erasmus has revealed that captain Siya Kolisi was available to face the All Blacks this weekend at Ellis Park in the first match of the Greatest Rivalry series, but the coaching team opted against selecting him.\n\nIt was originally feared that the 100-cap veteran would miss a large chunk, if not all, of the highly-anticipated series after picking up a hamstring injury in the Springboks’ 17-10 victory over Argentina earlier this month. However, Erasmus gave an upbeat update earlier this week on the injury status of both Kolisi and loosehead prop Ox Nche, saying they were both in contention to face the All Blacks in Johannesburg.",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Exeter Chiefs 'delighted' as familiar face confirmed as new head coach",
+        "link": "https://www.rugbypass.com/news/exeter-chiefs-delighted-as-familiar-face-confirmed-as-new-head-coach/",
+        "published": "2026-08-20T13:51:07+00:00",
+        "published_label": "Thu 20 Aug, 13:51",
+        "summary": "Exeter Chiefs have promoted Oli Bishop to the role of head coach prior to the 2026/27 JAECOO Premiership Women's Rugby campaign.",
+        "body": "Exeter Chiefs have promoted Oli Bishop to the role of head coach prior to the 2026/27 JAECOO Premiership Women’s Rugby campaign. Bishop joined the Devon club last summer as attack and backs coach, and had prior PWR coaching experience with London clubs Trailfinders Women and Wasps Women.\n\nIn his first season, Bishop implemented one of the most exciting attacks in the English women’s top flight. As the club returned to the play-offs at the first time of asking, Exeter scored 82 tries [third-most in the league] and bagged 14 try-scoring bonus points [joint-second].",
+        "copy": "Exeter Chiefs have promoted Oli Bishop to the role of head coach prior to the 2026/27 JAECOO Premiership Women’s Rugby campaign. Bishop joined the Devon club last summer as attack and backs coach, and had prior PWR coaching experience with London clubs Trailfinders Women and Wasps Women.\n\nIn his first season, Bishop implemented one of the most exciting attacks in the English women’s top flight. As the club returned to the play-offs at the first time of asking, Exeter scored 82 tries [third-most in the league] and bagged 14 try-scoring bonus points [joint-second].",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Exeter Chiefs women promote Bishop to head coach role",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c05q44de4lzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-20T13:46:13+00:00",
+        "published_label": "Thu 20 Aug, 13:46",
+        "summary": "Premiership Women's Rugby side Exeter Chiefs appoint assistant Oli Bishop as head coach to replace Steve Salvin.",
+        "body": "Exeter Chiefs women have appointed Oli Bishop as their new head coach to replace Steve Salvin who left in July. Bishop has been promoted internally after working as Salvin's assistant coach last season.\n\nSalvin led the Chiefs to third place in the 2025-2026 Premiership Women's Rugby before they lost narrowly to Saracens in the play-off semi-final. He has since left to become full-time forwards coach with Wales after fulfilling the role on an interim basis for the 2026 Six Nations.",
+        "copy": "Exeter Chiefs women have appointed Oli Bishop as their new head coach to replace Steve Salvin who left in July. Bishop has been promoted internally after working as Salvin's assistant coach last season.\n\nSalvin led the Chiefs to third place in the 2025-2026 Premiership Women's Rugby before they lost narrowly to Saracens in the play-off semi-final. He has since left to become full-time forwards coach with Wales after fulfilling the role on an interim basis for the 2026 Six Nations.",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3601,35 +3640,22 @@
         "body": "A John Mitchell press conference 30 days out from the Red Roses’ first WXV Global Series fixture of 2026 felt akin to the first assembly of a new school year. Players roam the various halls at the University of Nottingham wearing their new team kit. There have been several new faces in camp. A few new lessons being taught. It really is the start of something new. And that is just about where the ‘back to school’ analogy ends.\n\nThe Red Roses will arrive into the WXV Global Series riding the ever-growing wave of their 38-match unbeaten streak. It was only in May that Mitchell’s side secured a fifth Guinness Women’s Six Nations Grand Slam in a row. Soon enough it will be one year since their Women’s Rugby World Cup 2025 triumph over Canada in front of a world record crowd at Allianz Stadium. Things are very much business as usual.",
         "copy": "A John Mitchell press conference 30 days out from the Red Roses’ first WXV Global Series fixture of 2026 felt akin to the first assembly of a new school year. Players roam the various halls at the University of Nottingham wearing their new team kit. There have been several new faces in camp. A few new lessons being taught. It really is the start of something new. And that is just about where the ‘back to school’ analogy ends.\n\nThe Red Roses will arrive into the WXV Global Series riding the ever-growing wave of their 38-match unbeaten streak. It was only in May that Mitchell’s side secured a fifth Guinness Women’s Six Nations Grand Slam in a row. Soon enough it will be one year since their Women’s Rugby World Cup 2025 triumph over Canada in front of a world record crowd at Allianz Stadium. Things are very much business as usual.",
         "first_seen": "2026-08-13T16:56:12.835700+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "5 uncapped hopefuls who could break into the England squad before the RWC",
-        "link": "https://www.rugbypass.com/news/5-players-who-can-break-into-the-england-squad-this-season-before-the-rugby-world-cup-steve-borthwick-gallgher-prem/",
-        "published": "2026-08-13T13:11:32+00:00",
-        "published_label": "Thu 13 Aug, 13:11",
-        "summary": "While international coaches seem to think solely in terms of World Cup cycles in modern rugby, Rassie Erasmus has taught the world in recent years that it is never too late to burst onto the Test scene.",
-        "body": "While international coaches seem to think solely in terms of World Cup cycles in modern rugby, Rassie Erasmus has taught the world in recent years that it is never too late to burst onto the Test scene.\n\nOf his 2019 world-beating Springboks side, Cheslin Kolbe, Makazole Mapimpi, RG Snyman and Kwagga Smith were all uncapped in 2018. Likewise, Kurt-Lee Arendse, Deon Fourie, Grant Williams and Manie Libbok got their first taste of Test rugby in 2022 before lifting the Webb Ellis Cup in 2023.",
-        "copy": "While international coaches seem to think solely in terms of World Cup cycles in modern rugby, Rassie Erasmus has taught the world in recent years that it is never too late to burst onto the Test scene.\n\nOf his 2019 world-beating Springboks side, Cheslin Kolbe, Makazole Mapimpi, RG Snyman and Kwagga Smith were all uncapped in 2018. Likewise, Kurt-Lee Arendse, Deon Fourie, Grant Williams and Manie Libbok got their first taste of Test rugby in 2022 before lifting the Webb Ellis Cup in 2023.",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I shouldn't be wasting it': Why Nomsa Mokwai balances rugby with full-time nursing",
-        "link": "https://www.rugbypass.com/news/i-shouldnt-be-wasting-it-why-nomsa-mokwai-balances-rugby-with-full-time-nursing/",
-        "published": "2026-08-13T13:03:51+00:00",
-        "published_label": "Thu 13 Aug, 13:03",
-        "summary": "Nomsa Mokwai is currently taking unpaid leave from her job as an emergency room nurse to play for South Africa in a two-Test series in Fiji.",
-        "body": "Nomsa Mokwai is currently taking unpaid leave from her job as an emergency room nurse to play for South Africa in a two-Test series in Fiji. Mokwai, who starred in the Springboks’ 55-12 win over Fiji last Saturday and will start again this weekend, is used to juggling her full-time job with rugby.\n\nShe works 12-hour shifts, usually at night, as a nurse before carrying out her rugby training in the day. It is a lot to balance but the 33-year-old sees playing rugby as a gift.",
-        "copy": "Nomsa Mokwai is currently taking unpaid leave from her job as an emergency room nurse to play for South Africa in a two-Test series in Fiji. Mokwai, who starred in the Springboks’ 55-12 win over Fiji last Saturday and will start again this weekend, is used to juggling her full-time job with rugby.\n\nShe works 12-hour shifts, usually at night, as a nurse before carrying out her rugby training in the day. It is a lot to balance but the 33-year-old sees playing rugby as a gift.",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "One month or four years? Timing key in Kyrgios ban",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c86nz85q89lo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-20T14:02:33+00:00",
+        "published_label": "Thu 20 Aug, 14:02",
+        "summary": "The severity of the ban facing Nick Kyrgios for testing positive for cocaine depends on whether he can prove he took the drug out of competition.",
+        "body": "The severity of the ban facing Nick Kyrgios for testing positive for cocaine depends on whether he can prove he took the drug out of competition. The 2022 Wimbledon finalist tested positive for benzoylecgonine, a metabolite of cocaine at June's grass court event in Mallorca, and is currently serving a mandatory provisional suspension.\n\nThe ban could theoretically stretch to four years, but it will be a maximum of three months if the Australian can satisfy investigators he took the drug out of competition. A player is deemed to be 'in competition' from the day the draws they are competing in begin until they leave the tournament after their final match.",
+        "copy": "The severity of the ban facing Nick Kyrgios for testing positive for cocaine depends on whether he can prove he took the drug out of competition. The 2022 Wimbledon finalist tested positive for benzoylecgonine, a metabolite of cocaine at June's grass court event in Mallorca, and is currently serving a mandatory provisional suspension.\n\nThe ban could theoretically stretch to four years, but it will be a maximum of three months if the Australian can satisfy investigators he took the drug out of competition. A player is deemed to be 'in competition' from the day the draws they are competing in begin until they leave the tournament after their final match.",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -3668,6 +3694,19 @@
         "body": "World No 1 Aryna Sabalenka has been knocked out of the Cincinnati Open after suffering a shock straight-sets defeat to Czech player Sara Bejlek. The 35th-ranked and unseeded Bejlek defeated the four-time Grand Slam champion Sabalanka 7-6 (7) 6-4 in just under two hours to advance to the quarter-finals of the WTA 1000 event.\n\nBejlek rallied from 5-1 down in a first-set tiebreaker then came from 4-1 behind in the second set to clinch her first career victory over a top-10 opponent. - Not got Sky? Latest Sky Sports deals or stream tennis with no contract",
         "copy": "World No 1 Aryna Sabalenka has been knocked out of the Cincinnati Open after suffering a shock straight-sets defeat to Czech player Sara Bejlek. The 35th-ranked and unseeded Bejlek defeated the four-time Grand Slam champion Sabalanka 7-6 (7) 6-4 in just under two hours to advance to the quarter-finals of the WTA 1000 event.\n\nBejlek rallied from 5-1 down in a first-set tiebreaker then came from 4-1 behind in the second set to clinch her first career victory over a top-10 opponent. - Not got Sky? Latest Sky Sports deals or stream tennis with no contract",
         "first_seen": "2026-08-20T08:05:27.478212+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Aryna Sabalenka vs Sara Bejlek | Cincinnati Open highlights",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYS13YU5vSWFjWU5maXlVOWd3bF9aYlZHSWxxbVpobFpQallUdmp3X3h1NWE2MWFraUZmWTdNRmh0U25NaktMVDZsSVNYNTFnX05UeC0xV2VQLURsQTkwaDNwcEdJZl9RcDQwVGdSemg1Z3hTMkxIUW92ekltckNINnBVdjRiLTlEWUZHOHptVWtjYTMtcl9BQXl6WkpGVTFiZER5alBJNzBrdEpwZS1GRQ?oc=5",
+        "published": "2026-08-20T06:06:12+00:00",
+        "published_label": "Thu 20 Aug, 06:06",
+        "summary": "Aryna Sabalenka vs Sara Bejlek | Cincinnati Open highlights Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
       },
       {
         "section": "Tennis",
@@ -4490,6 +4529,58 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau calls reporter after controversial LIV Golf practice incident",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON2N3eUpfS214OVF3dFRKQkpMd3NLYkFTb25jZ0JTNjVNVUw2TF9JOUkzdnRPR1oxMWlhVmU2MjBUZHVvNHFoS29SVUprZEJVa3FnSnFxQU5zNkE4NWNWZmxGZHQ3UDZERXI3N3Noc01iMHV3R0xTS2s1aEtyRUZVbnF0M3gtbkVzendnNGxfemwxdlJEN3k1OFhkaXBPVV90dTlRRk9PYkF3OFZSZGlKeFNEbXJ1VUk5dWktTUN6QkZqc3NUMHp5VU53OVNpMkE?oc=5",
+        "published": "2026-08-20T13:50:55+00:00",
+        "published_label": "Thu 20 Aug, 13:50",
+        "summary": "Bryson DeChambeau calls reporter after controversial LIV Golf practice incident Tennis World USA",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Thomas Pieters has brutal response to Jon Rahm LIV Golf exit rumours as Martin Kaymer also speaks",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkRJUzAtMWp6SjlSTnhBcnZYa1FIOGhMaVptTEJ0ZktKRkd3OGRSbGNacExxOXIyei02Xzh0bjJqTVk3T1dUTERQRzV1NmplTjhEYVBnMm9QUE4xWmdVdVFseWplaS1jZ2NUTlBVQVBXaTRLdmplLTBWQTBPWW9fM0o3ZjZCbWMwWjNMZ1BRRkREZElXQ2ZQNWVnN19ZTnRLRFB3QlRFRHJuWWsxUlQwejY3blc3bDBueDM5dWFITEh1Zw?oc=5",
+        "published": "2026-08-20T13:30:00+00:00",
+        "published_label": "Thu 20 Aug, 13:30",
+        "summary": "Thomas Pieters has brutal response to Jon Rahm LIV Golf exit rumours as Martin Kaymer also speaks Golfmagic",
+        "body": "Martin Kaymer and Thomas Pieters have offered contrasting verdicts on the growing speculation surrounding Jon Rahm's LIV Golf future, with Pieters delivering a particularly blunt response to the rumours.\n\nRahm's future has become one of the major talking points ahead of LIV Golf's season finale in Indiana, amid reports that the Spaniard could leave the league and return to the PGA Tour in 2027.",
+        "copy": "Martin Kaymer and Thomas Pieters have offered contrasting verdicts on the growing speculation surrounding Jon Rahm's LIV Golf future, with Pieters delivering a particularly blunt response to the rumours.\n\nRahm's future has become one of the major talking points ahead of LIV Golf's season finale in Indiana, amid reports that the Spaniard could leave the league and return to the PGA Tour in 2027.",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf finale serves up unfolding drama",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNejlhVktQVXpTRHZQQzFMdHFFaS1MdFVOeEhSakg1SXZ0VXhnNWp0aHJSdFFxWHNLOWJKcWpsdU1iZ1RKWUpzQzBPa01KMUQwdXlMdXctaXpiWkt3NktwZkxFT0NsekhyekRZVW1XS1pXUXlXd3dWRGJreUQ0UHRDeDAxNzVkeXYzTVE?oc=5",
+        "published": "2026-08-20T13:21:25+00:00",
+        "published_label": "Thu 20 Aug, 13:21",
+        "summary": "LIV Golf finale serves up unfolding drama Global Golf Post",
+        "body": "Depending on your level of optimism/pessimism, LIV Golf’s event in Indianapolis that begins Thursday could be a not-so-grand finale for the league, which finds itself – optimistically – at a crossroads or – pessimistically – at a dead end.\n\nEven Ted Lasso would have a hard time finding a silver lining in the LIV mess. Whether by design or human nature, LIV Golf has had a gift for drama, primarily off the golf course and as it arrives in the American heartland for its last event of 2026, the overriding question remains what’s next beyond the relative indifference of American golf fans.",
+        "copy": "Depending on your level of optimism/pessimism, LIV Golf’s event in Indianapolis that begins Thursday could be a not-so-grand finale for the league, which finds itself – optimistically – at a crossroads or – pessimistically – at a dead end.\n\nEven Ted Lasso would have a hard time finding a silver lining in the LIV mess. Whether by design or human nature, LIV Golf has had a gift for drama, primarily off the golf course and as it arrives in the American heartland for its last event of 2026, the overriding question remains what’s next beyond the relative indifference of American golf fans.",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'If someone is willing to pay': Rory McIlroy defends skyrocketing prize money",
+        "link": "https://golf.com/news/rory-mcilroy-defends-skyrocketing-money-pro-golf/",
+        "published": "2026-08-20T13:16:22+00:00",
+        "published_label": "Thu 20 Aug, 13:16",
+        "summary": "Rory McIlroy, during his 2026 BMW Championship press conference, shot down the idea that there is too much money in pro golf. The post ‘If someone is willing to pay’: Rory McIlroy defends skyrocketing prize money appeared first on Golf .",
+        "body": "Rory McIlroy was on fire in his press conference ahead of the 2026 BMW Championship, even by normal Rory McIlroy standards. Never one to hide his true feelings from reporters, the World No. 2 continued that tradition at Bellerive Country Club on Wednesday.\n\nFirst, he dumped cold water on the idea that returning LIV Golf stars could improve the PGA Tour, burning them with one line: “Have they brought value to LIV?” Then, he quieted any suggestion that he should win Player of the Year honors, handed Scottie Scheffler the title early and suggested that if Scheffler kept putting as well as he did last week, McIlroy and the rest of the Tour’s stars are “F’d.”",
+        "copy": "Rory McIlroy was on fire in his press conference ahead of the 2026 BMW Championship, even by normal Rory McIlroy standards. Never one to hide his true feelings from reporters, the World No. 2 continued that tradition at Bellerive Country Club on Wednesday.\n\nFirst, he dumped cold water on the idea that returning LIV Golf stars could improve the PGA Tour, burning them with one line: “Have they brought value to LIV?” Then, he quieted any suggestion that he should win Player of the Year honors, handed Scottie Scheffler the title early and suggested that if Scheffler kept putting as well as he did last week, McIlroy and the rest of the Tour’s stars are “F’d.”",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6400,74 +6491,22 @@
         "body": "The 2026 FedEx St. Jude Championship continues on Friday with Round 2 at TPC Southwind in Memphis. You can find full FedEx St. Jude Championship tee times for Friday’s second round at the bottom of this post.\n\nFedEx St. Jude Round 2 tee times: What to know Three-time major winner Jordan Spieth is hoping the start of the playoffs kicks off a run of strong play. He played well enough this season to make the field at this week’s FedEx St. Jude Championship.",
         "copy": "The 2026 FedEx St. Jude Championship continues on Friday with Round 2 at TPC Southwind in Memphis. You can find full FedEx St. Jude Championship tee times for Friday’s second round at the bottom of this post.\n\nFedEx St. Jude Round 2 tee times: What to know Three-time major winner Jordan Spieth is hoping the start of the playoffs kicks off a run of strong play. He played well enough this season to make the field at this week’s FedEx St. Jude Championship.",
         "first_seen": "2026-08-13T16:56:12.835700+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "TaylorMade gives its forgiving Hi-Toe wedges a forged makeover",
-        "link": "https://golf.com/gear/wedges/taylormade-hi-toe-5-wedges-forged/",
-        "published": "2026-08-13T14:15:31+00:00",
-        "published_label": "Thu 13 Aug, 14:15",
-        "summary": "TaylorMade is announcing its Hi-Toe 5 wedges, featuring the same forged construction as its popular MG5 wedge line. The post TaylorMade gives its forgiving Hi-Toe wedges a forged makeover appeared first on Golf .",
-        "body": "TaylorMade has brought the same forged feel that has made its Milled Grind 5 wedges so popular to its larger and player-friendly Hi-Toe line. The company is calling the announcement of the Hi-Toe 5 wedge line the completion of its forged wedge family.\n\n“Hi-Toe has always been designed to be different,” Matt Bovee, TaylorMade’s Senior Director of Product Category, Irons and Wedges, said in a release. “The expanded toe, the full-face grooves, the willingness to look different in the bag. Those are the unique features that drew players to this wedge line in the first place.",
-        "copy": "TaylorMade has brought the same forged feel that has made its Milled Grind 5 wedges so popular to its larger and player-friendly Hi-Toe line. The company is calling the announcement of the Hi-Toe 5 wedge line the completion of its forged wedge family.\n\n“Hi-Toe has always been designed to be different,” Matt Bovee, TaylorMade’s Senior Director of Product Category, Irons and Wedges, said in a release. “The expanded toe, the full-face grooves, the willingness to look different in the bag. Those are the unique features that drew players to this wedge line in the first place.",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf stars enter DP World Tour event that clashes with league's Team Championship",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHJ3QkdIeENCS1FYLVRnZU43Z2dwZW9YVzJmaUVZOG91MEhVMjI5YVl2cFc4Sk5LdGcxYnVwalNjdFFOUWFqb1hwRWhFR3ltcGFrYlA3bjVUWDZreWZPVjlreU5TVmxqc1JTWE5IQmw5Y0p1ZGRVSHRtLUdJYllLXzIxaXlQTnlrLVNKcDNBRXRTR1ZYT3hPLU5iYw?oc=5",
-        "published": "2026-08-13T14:08:20+00:00",
-        "published_label": "Thu 13 Aug, 14:08",
-        "summary": "LIV Golf stars enter DP World Tour event that clashes with league's Team Championship Today's Golfer",
-        "body": "Three LIV Golf players will tee it up in a DP World Tour event that is supposed to clash with the league’s season finale. Several LIV Golf players will now play in a DP World Tour event that is supposed to clash with the league’s doomed Team Championship in Michigan.\n\nDespite LIV players being told the $40million season finale will not go ahead in recent days, there has still been no official announcement from the league – adding to the confusion over the tournament which is slated for The Cardinal course at Saint John’s Resort from August 27-30.",
-        "copy": "Three LIV Golf players will tee it up in a DP World Tour event that is supposed to clash with the league’s season finale. Several LIV Golf players will now play in a DP World Tour event that is supposed to clash with the league’s doomed Team Championship in Michigan.\n\nDespite LIV players being told the $40million season finale will not go ahead in recent days, there has still been no official announcement from the league – adding to the confusion over the tournament which is slated for The Cardinal course at Saint John’s Resort from August 27-30.",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Report: Jon Rahm set to quit LIV Golf",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSEdXSS1TTjdfbGJXRFVtNFhKcEVJYmMzeGh0U254bUJuVHBZclJnZ095RkVtQ1kyVjM1S21JQ3FQUVQ2c0p4ZXMzU1I5eXozUFZOSG85WVpidGlMMHE3bkhmTWEwWDFmQ1g1RjdvS09ZVFZiT2c?oc=5",
-        "published": "2026-08-13T13:30:45+00:00",
-        "published_label": "Thu 13 Aug, 13:30",
-        "summary": "Report: Jon Rahm set to quit LIV Golf bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Jon Rahm is set to walk away from LIV Golf, according to a bombshell report.\n\nAs per James Corrigan in The Telegraph, fears are growing among LIV Golf officials that the former World No. 1 is set to quit the breakaway league. It has been suggested the bosses are “almost resigned” to losing Rahm to the DP World Tour, as the league prepares for life without Saudi backing next year.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Jon Rahm is set to walk away from LIV Golf, according to a bombshell report.\n\nAs per James Corrigan in The Telegraph, fears are growing among LIV Golf officials that the former World No. 1 is set to quit the breakaway league. It has been suggested the bosses are “almost resigned” to losing Rahm to the DP World Tour, as the league prepares for life without Saudi backing next year.",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Literally forgot golf balls': U.S. Am contender clinches big upset with only 1 good ball",
-        "link": "https://golf.com/news/us-amateur-contender-clinches-upset-1-good-ball/",
-        "published": "2026-08-13T13:14:34+00:00",
-        "published_label": "Thu 13 Aug, 13:14",
-        "summary": "Ryder Cowan made a big mistake before an upset win at the 2026 U.S. Amateur on Wednesday: he \"literally forgot golf balls\" in his hotel room. The post ‘Literally forgot golf balls’: U.S. Am contender clinches big upset with only 1 good ball appeared first on Golf .",
-        "body": "On Wednesday at the 2026 U.S. Amateur, Ryder Cowan earned perhaps the biggest upset of the week, beating star amateur Miles Russell 2 and 1 to advance to the round of 32 at historic Merion Golf Club.\n\nIncredibly, Cowan pulled off the feat with a major handicap in the gear department: he had only two golf balls in his bag to start the day, only one of which was a new one. It turns out the U.S. Amateur contender “literally forgot golf balls” in his hotel room before heading to the course. Cowan explained the bizarre incident in his post-match press conference on Wednesday at Merion.",
-        "copy": "On Wednesday at the 2026 U.S. Amateur, Ryder Cowan earned perhaps the biggest upset of the week, beating star amateur Miles Russell 2 and 1 to advance to the round of 32 at historic Merion Golf Club.\n\nIncredibly, Cowan pulled off the feat with a major handicap in the gear department: he had only two golf balls in his bag to start the day, only one of which was a new one. It turns out the U.S. Amateur contender “literally forgot golf balls” in his hotel room before heading to the course. Cowan explained the bizarre incident in his post-match press conference on Wednesday at Merion.",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Jon Rahm LIV Golf exit fears grow as sources ‘almost resigned’ to his departure",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFpfUDZZZzVfemZjZmU5eE5nV1NfVExlTjAtOTlieTY3UHJXR1NFRU5SM3JZb19GaVVHMm80bW5VS2xqNHRIOVlBMkozN2hJVkJfTFdrcWZFdWk1UE16TWdLUTJlUG9PZS13MVJYeU1QOGNmS1pWaGJrODEyVHdKX001WUNuZTVsYUpfNDFLVkhTTE9CYlpwVHA0Y2NJVGlXWGc1TzBYZGxBYkhFTF91Yw?oc=5",
-        "published": "2026-08-13T13:00:00+00:00",
-        "published_label": "Thu 13 Aug, 13:00",
-        "summary": "Jon Rahm LIV Golf exit fears grow as sources ‘almost resigned’ to his departure Golfmagic",
-        "body": "Jon Rahm’s future with LIV Golf has been thrown into serious doubt after Telegraph Sport has reported that sources within the breakaway league are now “almost resigned” to the Spaniard’s departure.\n\nTelegraph Sport's James Corrigan has confirmed fears are growing within LIV Golf that Rahm will leave the league at the conclusion of the 2026 season, with the DP World Tour reportedly increasingly confident that it will see much more of the two-time major champion in 2027.",
-        "copy": "Jon Rahm’s future with LIV Golf has been thrown into serious doubt after Telegraph Sport has reported that sources within the breakaway league are now “almost resigned” to the Spaniard’s departure.\n\nTelegraph Sport's James Corrigan has confirmed fears are growing within LIV Golf that Rahm will leave the league at the conclusion of the 2026 season, with the DP World Tour reportedly increasingly confident that it will see much more of the two-time major champion in 2027.",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships New Delhi 2026: Ayush Shetty Exits In Round Of 16, Faces Defeat To Indonesia 2-0",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUtGZHFCVGRrLXF0dmswTWgwamVGUDJQTWlpUTE1NzQ2aTM0VE5tVlEyU1kyZ3lQbVZKeTh4cmVRTXB0VGhnQnJtQTVqTGJmUDVVc3ZQOVk5RUo3UHZWVjVjRTVBaWp2U01RUG85NFI3c0kzRmFHVG5Sd1JONXJTLVJLT0dvWDdRMHhrOE9uaFBaemI4T0JuTWZxZmh4YkRhSzBReVZXMG9hNzhBajVtaGZ2Y3I?oc=5",
+        "published": "2026-08-20T13:24:35+00:00",
+        "published_label": "Thu 20 Aug, 13:24",
+        "summary": "BWF World Championships New Delhi 2026: Ayush Shetty Exits In Round Of 16, Faces Defeat To Indonesia 2-0 Sportscape Magazine",
+        "body": "Ayush Shetty exits the men’s singles Round of 16 after losing to Indonesia 2-0 at the BWF World Championships 2026, held at the Indira Gandhi Indoor Stadium in New Delhi. The Indian badminton ace, Ayush Shetty, exited the BWF World Championships 2026 in the men’s Round of 16 after losing to the World No.11, Alwi Farhan, in two straight sets. In the latest sports news from Indira Gandhi Indoor Stadium, Ayush lost to the Indonesian shuttler with 19-21 and 11-21 in 45 minutes. The 21-year-old had a good run at the World Championships as he defeated the World No.1 in men’s singles.\n\nAyush Shetty came into the court with his two consecutive wins against the World No.1 Shi and Austria’s Filipino. The 21-year-old was cheered on by the crowd at the IG Stadium as he took charge against his opponent with three straight points. In the last meeting between the Indian shuttler and the World No. 11 in 2025, Ayush won 2-1. The game was level till 9-all, with Farhan throwing great smashes at Shetty. The Indonesian shuttler was quick with his strikes, hitting outstanding drop shots. The home player struggled to catch up in the latter half of the set, but he managed to end the set at 19 points. The opening set went to Farhan 21-19 in just 22 minutes.",
+        "copy": "Ayush Shetty exits the men’s singles Round of 16 after losing to Indonesia 2-0 at the BWF World Championships 2026, held at the Indira Gandhi Indoor Stadium in New Delhi. The Indian badminton ace, Ayush Shetty, exited the BWF World Championships 2026 in the men’s Round of 16 after losing to the World No.11, Alwi Farhan, in two straight sets. In the latest sports news from Indira Gandhi Indoor Stadium, Ayush lost to the Indonesian shuttler with 19-21 and 11-21 in 45 minutes. The 21-year-old had a good run at the World Championships as he defeated the World No.1 in men’s singles.\n\nAyush Shetty came into the court with his two consecutive wins against the World No.1 Shi and Austria’s Filipino. The 21-year-old was cheered on by the crowd at the IG Stadium as he took charge against his opponent with three straight points. In the last meeting between the Indian shuttler and the World No. 11 in 2025, Ayush won 2-1. The game was level till 9-all, with Farhan throwing great smashes at Shetty. The Indonesian shuttler was quick with his strikes, hitting outstanding drop shots. The home player struggled to catch up in the latter half of the set, but he managed to end the set at 19 points. The opening set went to Farhan 21-19 in just 22 minutes.",
+        "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -8105,35 +8144,9 @@
         "body": "Badminton Olympic champion An Se-young said Friday she is willing to play through lingering pain in her left foot as she chases her second career women's singles world title this month.\n\nAn left for New Delhi on Friday to prepare for the Badminton World Federation (BWF) World Championships, which will run from Monday to Aug. 23. It will be An's first competition since she withdrew from the second round of the Japan Open on July 15 due to a left foot injury.",
         "copy": "Badminton Olympic champion An Se-young said Friday she is willing to play through lingering pain in her left foot as she chases her second career women's singles world title this month.\n\nAn left for New Delhi on Friday to prepare for the Badminton World Federation (BWF) World Championships, which will run from Monday to Aug. 23. It will be An's first competition since she withdrew from the second round of the Japan Open on July 15 due to a left foot injury.",
         "first_seen": "2026-08-14T14:48:47.111795+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "India hosting BWF World Championships reflects sporting growth, says Trupti Murgunde",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzQ3QkdxbklFYmx0aHpGVnIzWnEzQmU5RWdMeG5hTlR5a1o0djV6YVZJOHJkU1dMTEhMbGlBOXFRWEFjWkp5VDB2TEt0Y0RpX1ltS0ZCN2xxcmNHbWNOMS04czh2eWRVVzRJT01WUkZobFlEM3Byb1hlRGI1blBFRnE2RmZteHJWeDhyTzJNOWU5Y2REWTJnTjg1OWRWOGM3ekhOeXh0blVTa1JNXzVF?oc=5",
-        "published": "2026-08-13T14:16:02+00:00",
-        "published_label": "Thu 13 Aug, 14:16",
-        "summary": "India hosting BWF World Championships reflects sporting growth, says Trupti Murgunde Telangana Today",
-        "body": "Former India badminton player Trupti Murgunde said hosting the BWF World Championships 2026 is a proud moment and reflects India’s sporting growth. She believes the event in New Delhi will provide young shuttlers a valuable platform to showcase their talent\n\nNew Delhi: Around 17 years after representing India at the World Championships in Hyderabad, former badminton player Trupti Murgunde believes the return of the prestigious tournament to the country reflects India’s remarkable growth as a sporting nation and will provide a major boost to the next generation of shuttlers.",
-        "copy": "Former India badminton player Trupti Murgunde said hosting the BWF World Championships 2026 is a proud moment and reflects India’s sporting growth. She believes the event in New Delhi will provide young shuttlers a valuable platform to showcase their talent\n\nNew Delhi: Around 17 years after representing India at the World Championships in Hyderabad, former badminton player Trupti Murgunde believes the return of the prestigious tournament to the country reflects India’s remarkable growth as a sporting nation and will provide a major boost to the next generation of shuttlers.",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: No prize money, so what do Badminton champions actually get?",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU2licDI2bHB3R1BCbGdWUjBpcVlqVXVrYmhoS0w4WUhkRHoxMllFdjBxRTQ3U1gzZ0x5N21fMVYtN25EbFB3SWtBVDh5azY2UHN0dzVYUHhDcWNpbDAwRENTLVJPUkNZUFBxSElFXzNkMk1IYVhwUVJMaW9LTEtzbU1TN3ZSZEZEaHFCQVY2bWdsY3RYeFg2OGNlMkNvZWJwcExNUzlqRklxUExfOTlQZzZ4NGdSbUNnLXlLNmNuUENsbHI5ZDJ2TEN1TUIwY0xMa2dqY29vSG1HSHNNem9UVl83QlBqejlDSHFyOG8wOEg4bDZLT2UyWXBB0gH_AUFVX3lxTE9RbVEzd0N0SGM2QWxzcDhlLVY0dkRlSFBncFhTaTZDc1FrWjZzLXBOeE9QSFNoVGpiU2RWNE5aVHpBX3puYnUxRFprVnlaUVdBanZOWXppWXJwWDN2bkY0Qk5pX2c5b3hrNXFsMEc2M01yTmFJQVB2Zk1pNTNKa2xNZDhwUi1BdEo1Qlc1ZlFPemUtZDI3Q1U2Nzgyd2x3My1qY0NQSFlBVFhsdHhYeVp2aGM4YTVhdl9NSXEzNGRKZFZUZjFkNjdSQ1MxZEpBc0MzcmlrOTFwWm5RUVRXRjVocVBXN1VncFB3dTR2V1JESlY1UjJaeGVjUXZNcFdQcw?oc=5",
-        "published": "2026-08-13T13:05:00+00:00",
-        "published_label": "Thu 13 Aug, 13:05",
-        "summary": "BWF World Championships 2026: No prize money, so what do Badminton champions actually get? The Times of India",
-        "body": "The 2026 BWF World Championships are set to bring the biggest names in badminton to New Delhi from August 17 to 23. The tournament will mark the 30th edition of the prestigious event and will return to India for the first time since 2009. However, despite being one of the most important tournaments on the badminton calendar, the World Championships do not offer prize money to the winners or runners-up.\n\nWhy is there no prize money at the BWF World Championships? According to Olympics.com, the BWF World Championships do not carry prize money. The tournament is classified by the Badminton World Federation as a Grade 1 Major Event, placing it alongside major competitions such as the Olympic Games, Thomas Cup and Uber Cup. The absence of prize money is linked to the nature of the competition, where players represent their countries and compete for the prestigious World Championship title, medals and national honour.",
-        "copy": "The 2026 BWF World Championships are set to bring the biggest names in badminton to New Delhi from August 17 to 23. The tournament will mark the 30th edition of the prestigious event and will return to India for the first time since 2009. However, despite being one of the most important tournaments on the badminton calendar, the World Championships do not offer prize money to the winners or runners-up.\n\nWhy is there no prize money at the BWF World Championships? According to Olympics.com, the BWF World Championships do not carry prize money. The tournament is classified by the Badminton World Federation as a Grade 1 Major Event, placing it alongside major competitions such as the Olympic Games, Thomas Cup and Uber Cup. The absence of prize money is linked to the nature of the competition, where players represent their countries and compete for the prestigious World Championship title, medals and national honour.",
-        "first_seen": "2026-08-13T14:56:03.143666+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 624
+  "total": 625
 }
