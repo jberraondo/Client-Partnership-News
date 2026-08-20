@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T14:34:33.959163+00:00",
-  "generated_label": "Thursday 20 August 2026, 14:34 UTC",
+  "generated_at": "2026-08-20T16:32:27.733139+00:00",
+  "generated_label": "Thursday 20 August 2026, 16:32 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "Olympic champion Alistair Brownlee: ‘Triathlon incredibly healthy but probably needs consolidation’",
+        "link": "https://www.sportspro.com/finance-investment/alistair-brownlee-triathlon-fragmentation-ironman-august-2026/",
+        "published": "2026-08-20T15:27:04+00:00",
+        "published_label": "Thu 20 Aug, 15:27",
+        "summary": "Two-time gold medal winner praises investment in the sport as World Triathlon moves to create centralised tour. The post Olympic champion Alistair Brownlee: ‘Triathlon incredibly healthy but probably needs consolidation’ appeared first on SportsPro .",
+        "body": "Two-time Olympic triathlon champion Alistair Brownlee believes the sport is in an incredibly healthy position but thinks that greater consolidation may be needed. Triathlon was admitted to the Olympic Games in 2000, a development which catalysed participation levels and, more recently, has led to the creation of several major competitions and significant private investment.\n\nThese include SuperTri and the Professional Triathletes Organisation (PTO), which have joined the most established Ironman and World Triathlon circuits. However, apart from World Triathlon’s events, which include the Olympic competitions, all of these are privately run with varying levels of official recognition from the world governing body.",
+        "copy": "Two-time Olympic triathlon champion Alistair Brownlee believes the sport is in an incredibly healthy position but thinks that greater consolidation may be needed. Triathlon was admitted to the Olympic Games in 2000, a development which catalysed participation levels and, more recently, has led to the creation of several major competitions and significant private investment.\n\nThese include SuperTri and the Professional Triathletes Organisation (PTO), which have joined the most established Ironman and World Triathlon circuits. However, apart from World Triathlon’s events, which include the Olympic competitions, all of these are privately run with varying levels of official recognition from the world governing body.",
+        "first_seen": "2026-08-20T16:32:27.733139+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "DAZN continues US local-broadcast sweep with NBA Pacers deal",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnJ1QzJFTllKNFJWNGVaVW53R2pwNlZQblBNOTdnZExhRXg5TDFoUE1jeU5VV0ZMOWZQWW5iNmdYOG16bVZCeWlDMUhSclJfLUpCSk1BM0dJemdKN0R4b0lKUkRkZUlCbkF3SW9SQldXOExGWmRvSVE1VTZTa1BzOVEyUkwtSXk1aXEzeHVlUFFqRmdoMVE?oc=5",
+        "published": "2026-08-20T15:20:22+00:00",
+        "published_label": "Thu 20 Aug, 15:20",
+        "summary": "DAZN continues US local-broadcast sweep with NBA Pacers deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-20T16:32:27.733139+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Bundesliga wins long-standing ticketing case against Viagogo",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGZmZE9QQnVGVDBJUFowYy04cUVOZ2FicDJQSVBDT2NvZ1JIdkJlVXNOWGhSSm02Vndvb0dOMnlpRnZEbjlvelZOTm1BVUMxQk1KeXB1dUpvb3hiSXo3UklmbzJlcjJvSG1ueHpfLWNuaU1hSDdrRVVCc0VfRzFLQlhsYncydjdBM0d2eHRPaDJ4U3Q1b1E?oc=5",
+        "published": "2026-08-20T14:50:22+00:00",
+        "published_label": "Thu 20 Aug, 14:50",
+        "summary": "Bundesliga wins long-standing ticketing case against Viagogo Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-20T16:32:27.733139+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1467,87 +1506,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-14T07:21:11.976589+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Soccer sponsorship wrap: Man City, Dortmund, AC Monza",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3EzcjZ2eEJiNktORWhCMjhOM3FidjlPNEFzRXlhY0Z6NHdUM2x2UGhrQlRIakhzQ2xEU0F0ZnpQcEJMdnhXV0VCTWE2X0xSS3pfU3l2UHZpOUNScDlKWkRobU15SndtQV9tNXVWb2lkQ1FqNlJWOEYtNTBmazRNNlJmNGpjbnJD?oc=5",
-        "published": "2026-08-13T15:22:49+00:00",
-        "published_label": "Thu 13 Aug, 15:22",
-        "summary": "Soccer sponsorship wrap: Man City, Dortmund, AC Monza sportcal.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-13T16:56:12.835700+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "RFEF relocates Supercopa to Istanbul due to Saudi Asian Cup clash",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkRFMS1lVmFicHBTdm1xZkRoX0gzdlpoRHJqa1Fud2RwOHlJd1phVDkyVmVpS1dFeFo0UElGOWl2TFYxM2FCMFJCOWQ2OHAtWWNIZV9WSzdlNnlETVlkSnZUdlNHTUNUVVEyQ1QxMlJ3RXFzcXFLYUN0S1RYMDdPWERQUkIxZU9icTBKQUZXM3ZPN3Q2QnpsM1BRLWk?oc=5",
-        "published": "2026-08-13T15:22:46+00:00",
-        "published_label": "Thu 13 Aug, 15:22",
-        "summary": "RFEF relocates Supercopa to Istanbul due to Saudi Asian Cup clash sportcal.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-13T16:56:12.835700+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Free UEFA club comp coverage in Russia through BetBoom-Okko deal",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWIyRHlPeldWMl9VVU9iWlZVSmQxa2dlSDFlSzdfLVpsUkV4b3JrMmZVaS1PWXA0TmxzcGMzREJmVldFNjh1VmF0MVh3OEYtang4Z1dBT3ZobFZPV2lWTWw3WDY4MGJtR0tLLTlLbi12bHVONVpidnlpZUJqOVE5UThKaGtmNE85ZEZRY2Fta1VYeDNROXFHMUV3QQ?oc=5",
-        "published": "2026-08-13T15:22:43+00:00",
-        "published_label": "Thu 13 Aug, 15:22",
-        "summary": "Free UEFA club comp coverage in Russia through BetBoom-Okko deal sportcal.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-13T16:56:12.835700+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "FanCode showing India-Afghanistan cricket series",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0FXSjcwal9pOVF3OXh2X0JKa1d3Z0x6LXNSN3BRMTdEQ2pvZ3NMcS13WnlmV09ySUM1WW45akpnTGFfME9NMXFWajlyNy1mSEdsNHM5dEVINnNzcWg4VTkwcmYxZVBqTnNRV3ZiNjAxaDJ4ZjFaamZOWk9iWlRrRkFSbVUxdw?oc=5",
-        "published": "2026-08-13T15:21:38+00:00",
-        "published_label": "Thu 13 Aug, 15:21",
-        "summary": "FanCode showing India-Afghanistan cricket series sportcal.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-13T16:56:12.835700+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Liga F forced to take broadcast rights tender to second round",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckdndGZya2VSZFF2Q1AzMG9sNEVmVGFrYVR1eXpQWTZpSGhpdXVmTVpub3NTWUZySEhsQU5zd19iUk5NYktfdmVINDlDNVFDSHpSdkc2Qlg0eUtqaHl2UUJiRmlfZl9pcnRkN1Y1aVJwT0JISVd0Sm5qU0t4OE5LaTIzVVNnQ25CNnFULUNRdnBablM5bjBj?oc=5",
-        "published": "2026-08-13T15:21:38+00:00",
-        "published_label": "Thu 13 Aug, 15:21",
-        "summary": "Liga F forced to take broadcast rights tender to second round sportcal.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-13T16:56:12.835700+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Gravity Media and Jam TV team up on AFLW production",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNjdsc0E0bUNFNmNSandJbGpEWnRVVDhJWVdVRENxdWtsemNtVF9wMFkzVXAtMUZKUWZxS2tOTlVjUlhBb2t3TThKMDBLWk5rTVZ6c2JjMnpnQnhYdDVyY0FITUY3OWxMdU9GdGpvU3FPczVvTFAxenhWRmVXTWhuTmZxTVlxNnpfSEE?oc=5",
-        "published": "2026-08-13T15:21:38+00:00",
-        "published_label": "Thu 13 Aug, 15:21",
-        "summary": "Gravity Media and Jam TV team up on AFLW production sportcal.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-13T16:56:12.835700+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Northampton Saints' Archie McParland set for crunch talks over club future",
+        "link": "https://www.rugbypass.com/news/northampton-saints-archie-mcparland-set-for-crunch-talks-over-club-future/",
+        "published": "2026-08-20T15:42:24+00:00",
+        "published_label": "Thu 20 Aug, 15:42",
+        "summary": "Northampton Saints scrum-half Archie McParland is set to have crunch talks about his future with the Gallagher Prem champions after entering the final year of his contract.",
+        "body": "Northampton Saints scrum-half Archie McParland is set to have crunch talks about his future with the Gallagher Prem champions after entering the final year of his contract. Saints have started to tie down their players who are out of contract at the end of the forthcoming season and have already made England star Tommy Freeman the highest-paid winger in the league.\n\nThey are also set to meet with McParland’s Stowe School team-mate Henry Pollock’s advisors to try to thrash out a new deal that won’t be cheap, even though it is likely to fall short of the headline-grabbing £1 million that his commercial advisor, Eddie Hearn, thinks he is worth.",
+        "copy": "Northampton Saints scrum-half Archie McParland is set to have crunch talks about his future with the Gallagher Prem champions after entering the final year of his contract. Saints have started to tie down their players who are out of contract at the end of the forthcoming season and have already made England star Tommy Freeman the highest-paid winger in the league.\n\nThey are also set to meet with McParland’s Stowe School team-mate Henry Pollock’s advisors to try to thrash out a new deal that won’t be cheap, even though it is likely to fall short of the headline-grabbing £1 million that his commercial advisor, Eddie Hearn, thinks he is worth.",
+        "first_seen": "2026-08-20T16:32:27.733139+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'I'm not going to play mind games': Rennie sidesteps 'pressure' question",
+        "link": "https://www.rugbypass.com/news/dave-rennie-im-not-going-to-play-mind-games/",
+        "published": "2026-08-20T14:39:46+00:00",
+        "published_label": "Thu 20 Aug, 14:39",
+        "summary": "Dave Rennie has refused to play the \"who's under more pressure\" game ahead of the first Test in the Rugby's Greatest Rivalry series, ducking what he referred to as \"mind games\" while labelling the coming tour the ultimate challenge.",
+        "body": "Dave Rennie has refused to play the “who’s under more pressure” game ahead of the first Test in the Rugby’s Greatest Rivalry series, ducking what he referred to as “mind games” while labelling the coming tour a coach’s ultimate challenge.\n\nThe new All Blacks head coach revealed his team for game one in Johannesburg on Thursday afternoon, and painted a dramatic picture of what it will take for his men to emerge victorious from the series.",
+        "copy": "Dave Rennie has refused to play the “who’s under more pressure” game ahead of the first Test in the Rugby’s Greatest Rivalry series, ducking what he referred to as “mind games” while labelling the coming tour a coach’s ultimate challenge.\n\nThe new All Blacks head coach revealed his team for game one in Johannesburg on Thursday afternoon, and painted a dramatic picture of what it will take for his men to emerge victorious from the series.",
+        "first_seen": "2026-08-20T16:32:27.733139+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3614,32 +3601,6 @@
         "body": "An opportunity to gain valuable high-level experience awaits a USA XV, who will take on an Argentina XV at Inter Miami FC Stadium this weekend, about 14 months out from Men’s Rugby World Cup 2027 in Australia.\n\nEagles captain Jason Damm will lead the side in the non-Test match, but many of the USA players who suited up during the inaugural World Rugby Nations Cup have been picked to take the field this weekend.",
         "copy": "An opportunity to gain valuable high-level experience awaits a USA XV, who will take on an Argentina XV at Inter Miami FC Stadium this weekend, about 14 months out from Men’s Rugby World Cup 2027 in Australia.\n\nEagles captain Jason Damm will lead the side in the non-Test match, but many of the USA players who suited up during the inaugural World Rugby Nations Cup have been picked to take the field this weekend.",
         "first_seen": "2026-08-14T07:21:11.976589+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Arrivals and exits: A country-by-country look at the Top 14's new signings",
-        "link": "https://www.rugbypass.com/news/arrivals-and-exits-a-country-by-country-look-at-the-top-14s-new-signings/",
-        "published": "2026-08-13T15:41:32+00:00",
-        "published_label": "Thu 13 Aug, 15:41",
-        "summary": "We stand on the doorstep of another exhilarating and fiercely contested Top 14 season, making it the perfect time to take a deep dive into the foreign legion players set to leave their mark on French rugby's premier competition.",
-        "body": "We stand on the doorstep of another exhilarating and fiercely contested Top 14 season, making it the perfect time to take a deep dive into the foreign legion players set to leave their mark on French rugby’s premier competition.\n\nFrom the 24 nations set to participate in next year’s World Cup, only three won’t have any personnel featuring in the Top 14: Zimbabwe, Canada and Hong Kong China Rugby. There was a slight uptick from one season to the other, as the foreign legion considered for this article went from 214 to 224 players. Portugal went from zero to three representatives with the arrivals of captain José Madeira, flanker Nicolás Martins, and prolific try-scorer Rodrigo Marta.",
-        "copy": "We stand on the doorstep of another exhilarating and fiercely contested Top 14 season, making it the perfect time to take a deep dive into the foreign legion players set to leave their mark on French rugby’s premier competition.\n\nFrom the 24 nations set to participate in next year’s World Cup, only three won’t have any personnel featuring in the Top 14: Zimbabwe, Canada and Hong Kong China Rugby. There was a slight uptick from one season to the other, as the foreign legion considered for this article went from 214 to 224 players. Portugal went from zero to three representatives with the arrivals of captain José Madeira, flanker Nicolás Martins, and prolific try-scorer Rodrigo Marta.",
-        "first_seen": "2026-08-13T16:56:12.835700+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "2029 auditions and unpredictability: John Mitchell sets England's sights on the WXV Global Series",
-        "link": "https://www.rugbypass.com/news/2029-auditions-and-unpredictability-john-mitchell-sets-englands-sights-on-the-wxv-global-series/",
-        "published": "2026-08-13T15:29:51+00:00",
-        "published_label": "Thu 13 Aug, 15:29",
-        "summary": "A John Mitchell press conference 30 days out from the Red Roses' first WXV Global Series fixture of 2026 felt akin to the first assembly of a new school year.",
-        "body": "A John Mitchell press conference 30 days out from the Red Roses’ first WXV Global Series fixture of 2026 felt akin to the first assembly of a new school year. Players roam the various halls at the University of Nottingham wearing their new team kit. There have been several new faces in camp. A few new lessons being taught. It really is the start of something new. And that is just about where the ‘back to school’ analogy ends.\n\nThe Red Roses will arrive into the WXV Global Series riding the ever-growing wave of their 38-match unbeaten streak. It was only in May that Mitchell’s side secured a fifth Guinness Women’s Six Nations Grand Slam in a row. Soon enough it will be one year since their Women’s Rugby World Cup 2025 triumph over Canada in front of a world record crowd at Allianz Stadium. Things are very much business as usual.",
-        "copy": "A John Mitchell press conference 30 days out from the Red Roses’ first WXV Global Series fixture of 2026 felt akin to the first assembly of a new school year. Players roam the various halls at the University of Nottingham wearing their new team kit. There have been several new faces in camp. A few new lessons being taught. It really is the start of something new. And that is just about where the ‘back to school’ analogy ends.\n\nThe Red Roses will arrive into the WXV Global Series riding the ever-growing wave of their 38-match unbeaten streak. It was only in May that Mitchell’s side secured a fifth Guinness Women’s Six Nations Grand Slam in a row. Soon enough it will be one year since their Women’s Rugby World Cup 2025 triumph over Canada in front of a world record crowd at Allianz Stadium. Things are very much business as usual.",
-        "first_seen": "2026-08-13T16:56:12.835700+00:00"
       }
     ],
     "Tennis": [
@@ -4531,6 +4492,19 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Definitely some players': Scottie Scheffler open to some LIV stars returning to PGA Tour",
+        "link": "https://golf.com/news/scottie-scheffler-open-some-liv-stars-pga-tour-return/",
+        "published": "2026-08-20T15:51:08+00:00",
+        "published_label": "Thu 20 Aug, 15:51",
+        "summary": "Scottie Scheffler argued certain LIV Golf stars could provide value to the PGA Tour, but they need to face \"penalties\" before returning. The post ‘Definitely some players’: Scottie Scheffler open to some LIV stars returning to PGA Tour appeared first on Golf .",
+        "body": "As Scottie Scheffler and Rory McIlroy are battling for big bucks at this week’s 2026 BMW Championship, LIV Golf’s season finale is going down in Indianapolis after the original finale was canceled. The upstart league’s future is in serious doubt, and some of its players are readying escape plans.\n\nWhether or not LIV’s biggest remaining stars — like Bryson DeChambeau and Jon Rahm — will be allowed to return to the PGA Tour is an open question. McIlroy provided an unforgiving opinion on the matter during his Wednesday press conference ahead of the 2026 BMW Championship. McIlroy implied that the PGA Tour didn’t need LIV’s stars to come back. He did, though, admit that he expected them to return “eventually,” but that it would (and should) be a “tough, tough road back.”",
+        "copy": "As Scottie Scheffler and Rory McIlroy are battling for big bucks at this week’s 2026 BMW Championship, LIV Golf’s season finale is going down in Indianapolis after the original finale was canceled. The upstart league’s future is in serious doubt, and some of its players are readying escape plans.\n\nWhether or not LIV’s biggest remaining stars — like Bryson DeChambeau and Jon Rahm — will be allowed to return to the PGA Tour is an open question. McIlroy provided an unforgiving opinion on the matter during his Wednesday press conference ahead of the 2026 BMW Championship. McIlroy implied that the PGA Tour didn’t need LIV’s stars to come back. He did, though, admit that he expected them to return “eventually,” but that it would (and should) be a “tough, tough road back.”",
+        "first_seen": "2026-08-20T16:32:27.733139+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "HSBC golf watch",
         "kind": "gnews",
         "title": "Bryson DeChambeau calls reporter after controversial LIV Golf practice incident",
@@ -4632,6 +4606,19 @@
         "body": "The 2026 BMW Championship gets underway Thursday morning with the first round at Bellerive in St. Louis, Mo. Here’s everything you need to know to watch the tournament on Thursday, including full BMW Championship TV coverage, streaming details and complete Round 1 tee times.\n\nOnly the top 50 players in the FedEx Cup standings will tee it up on Thursday at the BMW Championship. But by next Thursday at the Tour Championship, that number will have been slashed to 30.",
         "copy": "The 2026 BMW Championship gets underway Thursday morning with the first round at Bellerive in St. Louis, Mo. Here’s everything you need to know to watch the tournament on Thursday, including full BMW Championship TV coverage, streaming details and complete Round 1 tee times.\n\nOnly the top 50 players in the FedEx Cup standings will tee it up on Thursday at the BMW Championship. But by next Thursday at the Tour Championship, that number will have been slashed to 30.",
         "first_seen": "2026-08-20T10:27:56.628230+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Scottie Scheffler suggests if he'd want Bryson DeChambeau and Jon Rahm back on the PGA Tour",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUEhSWWFxdms3d2c2Wm9pd09yVTF2QTFjVzFMMGxzQnNjOGNkMVp4YnQyTzNVTFQ5Zmc3elNfWWdyemc4ZHN2alZoMWdhREFWZ1JFdS1VenJWa2lUWGxUWXJQR2hoUGxzQ0h1R3YwdUZWZFJieEJvWTBDWGVIYktYbkl6WEtxMFRyVl9pVVhHdktwbE94YkVxbnRtZ0J2OXhlSkNBTUVCUTl1UFpJLWc4Ml9R?oc=5",
+        "published": "2026-08-20T10:00:00+00:00",
+        "published_label": "Thu 20 Aug, 10:00",
+        "summary": "Scottie Scheffler suggests if he'd want Bryson DeChambeau and Jon Rahm back on the PGA Tour hitc.com",
+        "body": "LIV Golf could well be playing their last event this week. When the Saudi Public Investment Fund withdrew support for LIV this year, they had months to secure new investment for the 2027 season. But with one event to go in the LIV season, there still has been no official announcement on the tour’s future.\n\nBecause of this, many players are eyeing the exit door. The DP World Tour said they’re receiving more and more enquiries from LIV players about the prospect of playing on their tour next season. Bryson DeChambeau will play in DP World Tour events next year, and some reports say Jon Rahm is looking for a PGA Tour return.",
+        "copy": "LIV Golf could well be playing their last event this week. When the Saudi Public Investment Fund withdrew support for LIV this year, they had months to secure new investment for the 2027 season. But with one event to go in the LIV season, there still has been no official announcement on the tour’s future.\n\nBecause of this, many players are eyeing the exit door. The DP World Tour said they’re receiving more and more enquiries from LIV players about the prospect of playing on their tour next season. Bryson DeChambeau will play in DP World Tour events next year, and some reports say Jon Rahm is looking for a PGA Tour return.",
+        "first_seen": "2026-08-20T16:32:27.733139+00:00"
       },
       {
         "section": "Golf",
@@ -6478,19 +6465,6 @@
         "body": "LIV Golf players have been warned that the season-ending Team Championship later this month is set to be cancelled, BBC Sport has been told. Tickets for the event in Michigan cannot now be purchased online, with LIV's official website stating both ground passes and hospitality passes are \"no longer available\".\n\nAs first reported by the Telegraph,, external next week's tournament in Indiana looks increasingly likely to be the final event in the 2026 campaign. However, LIV Golf is yet to make an official announcement, amid further reports that former world number one Jon Rahm could soon leave the league.",
         "copy": "LIV Golf players have been warned that the season-ending Team Championship later this month is set to be cancelled, BBC Sport has been told. Tickets for the event in Michigan cannot now be purchased online, with LIV's official website stating both ground passes and hospitality passes are \"no longer available\".\n\nAs first reported by the Telegraph,, external next week's tournament in Indiana looks increasingly likely to be the final event in the 2026 campaign. However, LIV Golf is yet to make an official announcement, amid further reports that former world number one Jon Rahm could soon leave the league.",
         "first_seen": "2026-08-13T19:01:19.424884+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 FedEx St. Jude Championship Friday tee times: Round 2 groupings",
-        "link": "https://golf.com/news/2026-fedex-st-jude-championship-friday-tee-times-round-2/",
-        "published": "2026-08-13T15:53:16+00:00",
-        "published_label": "Thu 13 Aug, 15:53",
-        "summary": "2026 FedEx St. Jude Championship tee times for Friday's second round in Memphis, featuring Jordan Spieth, Tommy Fleetwood and more. The post 2026 FedEx St. Jude Championship Friday tee times: Round 2 groupings appeared first on Golf .",
-        "body": "The 2026 FedEx St. Jude Championship continues on Friday with Round 2 at TPC Southwind in Memphis. You can find full FedEx St. Jude Championship tee times for Friday’s second round at the bottom of this post.\n\nFedEx St. Jude Round 2 tee times: What to know Three-time major winner Jordan Spieth is hoping the start of the playoffs kicks off a run of strong play. He played well enough this season to make the field at this week’s FedEx St. Jude Championship.",
-        "copy": "The 2026 FedEx St. Jude Championship continues on Friday with Round 2 at TPC Southwind in Memphis. You can find full FedEx St. Jude Championship tee times for Friday’s second round at the bottom of this post.\n\nFedEx St. Jude Round 2 tee times: What to know Three-time major winner Jordan Spieth is hoping the start of the playoffs kicks off a run of strong play. He played well enough this season to make the field at this week’s FedEx St. Jude Championship.",
-        "first_seen": "2026-08-13T16:56:12.835700+00:00"
       }
     ],
     "Badminton": [
@@ -6506,6 +6480,19 @@
         "body": "Ayush Shetty exits the men’s singles Round of 16 after losing to Indonesia 2-0 at the BWF World Championships 2026, held at the Indira Gandhi Indoor Stadium in New Delhi. The Indian badminton ace, Ayush Shetty, exited the BWF World Championships 2026 in the men’s Round of 16 after losing to the World No.11, Alwi Farhan, in two straight sets. In the latest sports news from Indira Gandhi Indoor Stadium, Ayush lost to the Indonesian shuttler with 19-21 and 11-21 in 45 minutes. The 21-year-old had a good run at the World Championships as he defeated the World No.1 in men’s singles.\n\nAyush Shetty came into the court with his two consecutive wins against the World No.1 Shi and Austria’s Filipino. The 21-year-old was cheered on by the crowd at the IG Stadium as he took charge against his opponent with three straight points. In the last meeting between the Indian shuttler and the World No. 11 in 2025, Ayush won 2-1. The game was level till 9-all, with Farhan throwing great smashes at Shetty. The Indonesian shuttler was quick with his strikes, hitting outstanding drop shots. The home player struggled to catch up in the latter half of the set, but he managed to end the set at 19 points. The opening set went to Farhan 21-19 in just 22 minutes.",
         "copy": "Ayush Shetty exits the men’s singles Round of 16 after losing to Indonesia 2-0 at the BWF World Championships 2026, held at the Indira Gandhi Indoor Stadium in New Delhi. The Indian badminton ace, Ayush Shetty, exited the BWF World Championships 2026 in the men’s Round of 16 after losing to the World No.11, Alwi Farhan, in two straight sets. In the latest sports news from Indira Gandhi Indoor Stadium, Ayush lost to the Indonesian shuttler with 19-21 and 11-21 in 45 minutes. The 21-year-old had a good run at the World Championships as he defeated the World No.1 in men’s singles.\n\nAyush Shetty came into the court with his two consecutive wins against the World No.1 Shi and Austria’s Filipino. The 21-year-old was cheered on by the crowd at the IG Stadium as he took charge against his opponent with three straight points. In the last meeting between the Indian shuttler and the World No. 11 in 2025, Ayush won 2-1. The game was level till 9-all, with Farhan throwing great smashes at Shetty. The Indonesian shuttler was quick with his strikes, hitting outstanding drop shots. The home player struggled to catch up in the latter half of the set, but he managed to end the set at 19 points. The opening set went to Farhan 21-19 in just 22 minutes.",
         "first_seen": "2026-08-20T14:34:33.959163+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Chochuwong Stops Chen Yu Fei",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT013Nk4wdVRvT1JZS1A4bV9sMUo3aUJuRXc0cWx1VGRtUkZXLUlTZUwxWmpKSUI2N1lpdGJYRXI2VkgxLUk0UHplUnQ5ZEU1YXJEdXVhbmV3M3NTM2xaWkszUF9oOUNGSm5IMjBpYTUwYTBUWk9QejRMRTJKWGtJWWNOUFRJV0kzcEZfZ2F5VzZMOHBBTGxaMmV6Mi1LaDA?oc=5",
+        "published": "2026-08-20T12:14:21+00:00",
+        "published_label": "Thu 20 Aug, 12:14",
+        "summary": "Chochuwong Stops Chen Yu Fei BWF World Championships",
+        "body": "Pornpawee Chochuwong shook off an unenviable record against Chen Yu Fei to take her place in the quarterfinals of the BWF World Championships 2026. It was a stubborn performance by the Thai, whose only win in 17 matches against the world No.4 had come eight years ago. Today Chochuwong dug in despite fluctuating fortunes in the second game, before staging a comeback from 6-13 in the third to clinch the match 15-21 25-23 21-17 in 84 minutes.\n\n“I’m really happy to beat her because over the last few weeks I was injured at the Japan Open and China Open. I prepared well to play her and it worked,” said Chochuwong. “I just kept running and had to take every single shot she played, so I just had to be patient.",
+        "copy": "Pornpawee Chochuwong shook off an unenviable record against Chen Yu Fei to take her place in the quarterfinals of the BWF World Championships 2026. It was a stubborn performance by the Thai, whose only win in 17 matches against the world No.4 had come eight years ago. Today Chochuwong dug in despite fluctuating fortunes in the second game, before staging a comeback from 6-13 in the third to clinch the match 15-21 25-23 21-17 in 84 minutes.\n\n“I’m really happy to beat her because over the last few weeks I was injured at the Japan Open and China Open. I prepared well to play her and it worked,” said Chochuwong. “I just kept running and had to take every single shot she played, so I just had to be patient.",
+        "first_seen": "2026-08-20T16:32:27.733139+00:00"
       },
       {
         "section": "Badminton",
@@ -8148,5 +8135,5 @@
     ],
     "Competitor News": []
   },
-  "total": 625
+  "total": 624
 }
