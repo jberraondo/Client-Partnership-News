@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T06:41:34.347260+00:00",
-  "generated_label": "Thursday 20 August 2026, 06:41 UTC",
+  "generated_at": "2026-08-20T08:05:27.478212+00:00",
+  "generated_label": "Thursday 20 August 2026, 08:05 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Big Brother Bessent is watching you",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGtKN3BGSG8yVTBETV9vV2F1a2FxRWN3S0JvWnZnT3hSUmhmRHBjQzVPUTU0aFEtX0I1Y2k1dG40UWhYSGwzWmIwT19UZ2diV0VoUDZLcFpsdVpzQVRRWFBtRXAtN0FoMFBqcGhVRzZTRTdaRnNjemNUS3h5OFF4bkJSYV8?oc=5",
+        "published": "2026-08-20T05:31:21+00:00",
+        "published_label": "Thu 20 Aug, 05:31",
+        "summary": "Big Brother Bessent is watching you Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-20T08:05:27.478212+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1467,19 +1480,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-13T11:01:07.587397+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportBusiness",
-        "kind": "direct",
-        "title": "Does the Esports World Cup make money?",
-        "link": "https://www.sportbusiness.com/2026/08/does-the-esports-world-cup-make-money/?utm_source=rss&utm_medium=rss&utm_campaign=does-the-esports-world-cup-make-money",
-        "published": "2026-08-13T07:48:49+00:00",
-        "published_label": "Thu 13 Aug, 07:48",
-        "summary": "The EWC didn’t exist before 2024. It’s now the world’s richest gaming event, with prize money greater than Roland-Garros. We take a look at its commercial picture. Source",
-        "body": "",
-        "copy": "The EWC didn’t exist before 2024. It’s now the world’s richest gaming event, with prize money greater than Roland-Garros. We take a look at its commercial picture. Source",
-        "first_seen": "2026-08-13T08:51:32.718180+00:00"
       }
     ],
     "Rugby": [
@@ -3554,6 +3554,32 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Sabalenka stunned by Bejlek as slump continues",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c3w0v08y0w3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-20T06:39:35+00:00",
+        "published_label": "Thu 20 Aug, 06:39",
+        "summary": "Aryna Sabalenka's preparations for her US Open title defence suffer a setback in a surprise defeat by Sara Bejlek at the Cincinnati Open.",
+        "body": "Aryna Sabalenka's preparations for her US Open title defence suffered another blow as she crumbled in a surprise defeat by Sara Bejlek in the fourth round at the Cincinnati Open.\n\nThe Belarusian top seed was 5-1 up in a first-set tiebreak and 4-1 in front in the second set, but Czech Bejlek rallied back on both occasions to win 7-6 (9-7) 6-4. Sabalenka's position as world number one is now under threat, with Elena Rybakina able to replace her at the top of the rankings if she reaches the Cincinnati final.",
+        "copy": "Aryna Sabalenka's preparations for her US Open title defence suffered another blow as she crumbled in a surprise defeat by Sara Bejlek in the fourth round at the Cincinnati Open.\n\nThe Belarusian top seed was 5-1 up in a first-set tiebreak and 4-1 in front in the second set, but Czech Bejlek rallied back on both occasions to win 7-6 (9-7) 6-4. Sabalenka's position as world number one is now under threat, with Elena Rybakina able to replace her at the top of the rankings if she reaches the Cincinnati final.",
+        "first_seen": "2026-08-20T08:05:27.478212+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Cincinnati Open: Top seeds Aryna Sabalenka and Alexander Zverev stunned in last 16 as Coco Gauff progresses to quarter-finals",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTWN2RDUzeHJrYjczWlV5TzZzbF9Ta3Y0QjhTc2syd2VoTi0zdTJyYnB4X1B6VGYwT2xJWE9EX1g3aUsxXzh4TVZCM0swbHBEN0JIdFNPYWwyUXNVUGxHdXctZjItSFJTcDVpOHJCVG5ibVc0OEZEZkhvNUNJdElnU1NJZGtLS3c2SHRrVG04OGg0emxSN1RmWXl2cGkxTlBmM191ZWtuaDY2cFUtRjdhMFVocmZRQ2JWbUxzSmRCNU91V3FmYWt4Q2dKd2c5SjRDT0k3MFJ0OEhxbEs1YVVfX21qaHhldS1ndnhNSFNNdzhXWWM5NjBRVFUxMTBVdEtmRzdXQlE1b0Q?oc=5",
+        "published": "2026-08-20T06:25:41+00:00",
+        "published_label": "Thu 20 Aug, 06:25",
+        "summary": "Cincinnati Open: Top seeds Aryna Sabalenka and Alexander Zverev stunned in last 16 as Coco Gauff progresses to quarter-finals Sky Sports",
+        "body": "World No 1 Aryna Sabalenka has been knocked out of the Cincinnati Open after suffering a shock straight-sets defeat to Czech player Sara Bejlek. The 35th-ranked and unseeded Bejlek defeated the four-time Grand Slam champion Sabalanka 7-6 (7) 6-4 in just under two hours to advance to the quarter-finals of the WTA 1000 event.\n\nBejlek rallied from 5-1 down in a first-set tiebreaker then came from 4-1 behind in the second set to clinch her first career victory over a top-10 opponent. - Not got Sky? Latest Sky Sports deals or stream tennis with no contract",
+        "copy": "World No 1 Aryna Sabalenka has been knocked out of the Cincinnati Open after suffering a shock straight-sets defeat to Czech player Sara Bejlek. The 35th-ranked and unseeded Bejlek defeated the four-time Grand Slam champion Sabalanka 7-6 (7) 6-4 in just under two hours to advance to the quarter-finals of the WTA 1000 event.\n\nBejlek rallied from 5-1 down in a first-set tiebreaker then came from 4-1 behind in the second set to clinch her first career victory over a top-10 opponent. - Not got Sky? Latest Sky Sports deals or stream tennis with no contract",
+        "first_seen": "2026-08-20T08:05:27.478212+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "Sam Querrey says Jack Draper may need simple change after latest Cincinnati setback",
@@ -4435,22 +4461,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-13T13:03:16.133845+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Swiatek into first final of her 'toughest season'",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-13T07:24:28+00:00",
-        "published_label": "Thu 13 Aug, 07:24",
-        "summary": "Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets.",
-        "body": "Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets. Six-time Grand Slam champion Swiatek withstood an Elina Svitolina comeback attempt to seal a 6-3 1-6 6-3 win in Toronto and reach her first WTA final of the season.\n\nThe Pole, 25, had not reached a WTA 1,000 final since winning Cincinnati 12 months ago and had only reached one semi-final this year. \"It hasn't been an easy season, probably the toughest one in my life,\" said seventh seed Swiatek.",
-        "copy": "Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets. Six-time Grand Slam champion Swiatek withstood an Elina Svitolina comeback attempt to seal a 6-3 1-6 6-3 win in Toronto and reach her first WTA final of the season.\n\nThe Pole, 25, had not reached a WTA 1,000 final since winning Cincinnati 12 months ago and had only reached one semi-final this year. \"It hasn't been an easy season, probably the toughest one in my life,\" said seventh seed Swiatek.",
-        "first_seen": "2026-08-13T08:51:32.718180+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV CEO says circuit facing ‘very compressed timeline’ to secure funding deal",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2MyaV85MWRNalR0aGplbWFVaVA3aWxDVVRvZ0I1RG9Ud0RlLVFyX3JTMWcySlhzLWpNbHFqanQ5SHR6c1Mzc25yeEhkZFNLekUxZS0xOUVDT21qQklaenpPbmdsM21LLVF6RlJxdWZDd2t4SzJxN05sYjRHX0l2UE9lYy1SY3BUZ25STFFB?oc=5",
+        "published": "2026-08-20T00:57:00+00:00",
+        "published_label": "Thu 20 Aug, 00:57",
+        "summary": "LIV CEO says circuit facing ‘very compressed timeline’ to secure funding deal japantimes.co.jp",
+        "body": "LIV Golf CEO Scott O’Neil admitted Wednesday that the circuit has “a very compressed timeline” to finalize a deal with a new lead investor, and that such an agreement will require buy-in from a majority of the current player roster.\n\nO’Neil addressed the media ahead of LIV Golf Indianapolis, which will serve as the final event of the season after the league canceled the LIV Golf Team Championship in Michigan amid a financial crunch.",
+        "copy": "LIV Golf CEO Scott O’Neil admitted Wednesday that the circuit has “a very compressed timeline” to finalize a deal with a new lead investor, and that such an agreement will require buy-in from a majority of the current player roster.\n\nO’Neil addressed the media ahead of LIV Golf Indianapolis, which will serve as the final event of the season after the league canceled the LIV Golf Team Championship in Michigan amid a financial crunch.",
+        "first_seen": "2026-08-20T08:05:27.478212+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6537,6 +6563,32 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "BWF World Championships Schedule: India's stars set for tricky games in Round of 16",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSnd3V0VncjJ3STdFazcxSTBjZFppVE04UjJJVmhlLWYxNmY4OUZvT1VRTHBOMWZ4TDczZHExV1NkMTlPQkh4c1NsS1AwYU1ZcEFoS25SNzZKSEFNamNiSjZpZFNja3FWb2o2WkxLQnRvbDN0NjhGeTU0T1JFZzV5QTE5SzVXdC01R1NQeGJPTktWS1B3dVdWdHVSMm96bzJQanlGMW1LdUQ3aVhZWXQzQlMwTW9MVl9MRnVEM3VLZVZrd2tZTW0tMEdvUjRYTXBZWHNaZks4UkhVRjDSAeABQVVfeXFMUHZ1WHZieVV3a1Ria001MXZqU0FNQ2l1ZUNVSkFYVTBvaDhsSzRMTVBHUVNIWE94ZkE2djFvZXhjb2R2SGZwMVNRRThzbE9aclAzUVBybmV4MlFTX2VVQnVSak5rV0xwdzVyRW5yaDhYOHB6a1RiUVV1dlNJcVpwQmZaa2xoRVdwUFQzUFM4ay15emZvMUE4MTV5S0I1c3oxdU41WmVKYlBtZ1V6bUtNLXRWQTJDZG5YekRjMTBpYldkbDc3ejNyeFlNWUZnYlBZb2VvY0kzVTlJQ1MwQnFSOWc?oc=5",
+        "published": "2026-08-20T05:19:07+00:00",
+        "published_label": "Thu 20 Aug, 05:19",
+        "summary": "BWF World Championships Schedule: India's stars set for tricky games in Round of 16 India Today",
+        "body": "BWF World Championships: India are set for some really tricky games in the Badminton World Championships on August 20. Ayush Shetty, PV Sindhu face their toughest opponents yet, while Satwiksairaj Rankireddy and Chirag Shetty play their first game.\n\nIndia face their toughest test yet, as several top players take to the court at the Badminton World Championships on August 20, Thursday. The hosts endured a heartbreaking outing on August 19, when two of India's best players, Lakshya Sen and Unnati Hooda, were knocked out of the tournament.",
+        "copy": "BWF World Championships: India are set for some really tricky games in the Badminton World Championships on August 20. Ayush Shetty, PV Sindhu face their toughest opponents yet, while Satwiksairaj Rankireddy and Chirag Shetty play their first game.\n\nIndia face their toughest test yet, as several top players take to the court at the Badminton World Championships on August 20, Thursday. The hosts endured a heartbreaking outing on August 19, when two of India's best players, Lakshya Sen and Unnati Hooda, were knocked out of the tournament.",
+        "first_seen": "2026-08-20T08:05:27.478212+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF Worlds Day 3 Order of play: India schedule, match timings on August 20",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSFQxMVhHUnhOQTItdFRaTC1vZXdZS2dTVnQ2ODlDVGIteWgzRkkxa0Q5am5RbnlFWFdCSWoyYmYzRkVSaDZWUVcxbWF2VFNYTWV0V1FtcXNvMnBWaHBiaEFPOWlaclFDOS1iWWNVVVpjT1FDYkFrU004TnhJeGwxYnMza0FRb1pfVzlKaUZpUlgyeG9MLVd1cmRyNExObDduYmZYYVJESl9GNVRVZlV1U3lIaTFLaUFONFp1SUxYbWNNMm02dnpMalFoYUtoY191T3gzWHNlaUQzQnowWEppV2ZTMDg2MkJDVHhKbzNaeC1xOUxOSDVqamVncDh4ZlZ2NWNHMmFhU3lpTVpQNE9mb1p6TdIBmAJBVV95cUxQb2ljb0xkaERGeVlQTDktbmVQQXNqd01STVpVWHE3UVBBZUtoQi1OYTM0SHFtekVTNkt3S1lHSWd2U1AzOHg2SmhTcUVzU3BQRjU4dU13NnFrZElfdXdlclhzLTNSQXQ3T3lzUnB5X2E1MTVkS3JDQllhdndNZ1NIelJoMFRaT2NHQmZOREFqa1E2UXladm9TMUZPVUNJSWN3eDZZMFVWd1NnSkd0OFNFVlFQaXpsVWFObWxkVzBPVHNKYzY5b3BxVFhJd0dpZWhNWWhZNFNaM1B1SURjREd4VkU5VFBzMVVYRm54aFg3RjM4QzZkN3M0R19jWGtEZFVFRFFUVG4xREMxWGlkYkRqeW9KS2FVMmt1?oc=5",
+        "published": "2026-08-20T04:53:13+00:00",
+        "published_label": "Thu 20 Aug, 04:53",
+        "summary": "BWF Worlds Day 3 Order of play: India schedule, match timings on August 20 Business Standard",
+        "body": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/bwf-worlds-day-3-order-of-play-india-schedule-match-timings-on-august-20-sindhu-satwik-chirag-ayush-shetty-126082000229_1.html\" on this server.\n\nReference #18.d4ab3717.1787213124.871a1ce2 https://errors.edgesuite.net/18.d4ab3717.1787213124.871a1ce2",
+        "copy": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/bwf-worlds-day-3-order-of-play-india-schedule-match-timings-on-august-20-sindhu-satwik-chirag-ayush-shetty-126082000229_1.html\" on this server.\n\nReference #18.d4ab3717.1787213124.871a1ce2 https://errors.edgesuite.net/18.d4ab3717.1787213124.871a1ce2",
+        "first_seen": "2026-08-20T08:05:27.478212+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "BWF: Synthetic shuttlecocks \"inevitable\" in badminton, but feathers won't disappear",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTBkLTVrWTVDOU9LQTVrUXZCSmVReC1oWlpHZGQxNHI1Zk53R1J6eThBcDU3UmV1a3dIcDR0M3BaQ2dzdjdVdzE5MU5kSTlab1ZVcXg2VXdKMUxhQnNwTkJndGJ6N1VTZkZneVpyOHRoM1ZzNFVyX0NPT2c2bHdGbXBadE9UNlV1RWhyRENkWjVGOXRSYkxnWVp6b2xPbGZWcjZ2YTZqZ25Fai16TFNBenB4M3JoQWVPUnp0XzU3aFJaMFZwV2NMei1n0gHQAUFVX3lxTE9VdGtueEJvRGJGS3BtQVBXYng5SHRBODRvQ3lyWC1USkdVbTNjOXRXUVhoQk9lQzJJWWdCa0hpZUROU2lqV0YxbjFzN2VmcU1ULXIyek5XcFFZWHVQdUZMaXVIRW14YzFhYUZ0dUZwbGRidVo5REc5N0w4eEpTQ2k2dGo0ZDZTYlQ4eXJBckVxdWg0ZUc1VS1OTkFTMnZ4a2tEUFhqTzlMWVYzOXFhWklmbUtoYUgtbTktb2FKVk1uTC1rcnRvc1Q1UFAzNl9ZXzg?oc=5",
         "published": "2026-08-20T03:13:43+00:00",
@@ -6545,6 +6597,19 @@
         "body": "The badminton shuttlecock may be on the verge of its biggest change in decades, but the feather is not about to disappear. BWF secretary general Thomas Lund says the federation expects synthetic-feather shuttlecocks to become an increasingly important part of badminton, including at higher levels of competition. But he stressed that the transition will be gradual and dependent on whether manufacturers can produce a shuttle that comes close enough to the performance of the best feather products.\n\n“I think it’s inevitable that we move to a combination between the two,” Lund told Sportstar. “I’m not even sure that we’ll just move to just synthetic feather in years to come.”",
         "copy": "The badminton shuttlecock may be on the verge of its biggest change in decades, but the feather is not about to disappear. BWF secretary general Thomas Lund says the federation expects synthetic-feather shuttlecocks to become an increasingly important part of badminton, including at higher levels of competition. But he stressed that the transition will be gradual and dependent on whether manufacturers can produce a shuttle that comes close enough to the performance of the best feather products.\n\n“I think it’s inevitable that we move to a combination between the two,” Lund told Sportstar. “I’m not even sure that we’ll just move to just synthetic feather in years to come.”",
         "first_seen": "2026-08-20T06:41:34.347260+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "FIH Hockey World Cup 2026 scores, schedule, points table - complete list of match results",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2dwemotZG5RMGhqNDluMzUtak16V3lnY2JHR01Zb1dCSjEyZkc3ZnY5WWwySWpLRXd4V1ktUnJBVEhpN1Y2QU9IbTRORGtqdFllY0Nsb3llTkpWZWdKUGQyRTFpRzBMYW16RzFlM3A0M18zS2FvdXNSVnViZFExMlg3aHlLdHRVMzJkR0N0MkQ0bHpIbHdQS2V4aXA?oc=5",
+        "published": "2026-08-20T01:50:00+00:00",
+        "published_label": "Thu 20 Aug, 01:50",
+        "summary": "FIH Hockey World Cup 2026 scores, schedule, points table - complete list of match results olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-20T08:05:27.478212+00:00"
       },
       {
         "section": "Badminton",
@@ -8096,5 +8161,5 @@
     ],
     "Competitor News": []
   },
-  "total": 621
+  "total": 626
 }
