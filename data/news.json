@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T08:38:15.950525+00:00",
-  "generated_label": "Friday 21 August 2026, 08:38 UTC",
+  "generated_at": "2026-08-21T10:28:20.532908+00:00",
+  "generated_label": "Friday 21 August 2026, 10:28 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -14,6 +14,58 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "NCAA taps Playfly to lead local event sponsorship sales",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONkNpMEpaSlVYdlRSNTR6X3hqNUY2VDhQNUlQaHZEUm9XSVdNY2c1MGIwMXg0Nk0xaEx4V3JFZF9Td0g3YmYtYXZiSEJEVmxqd2NXNlA1TUc4VUtxUTNQXzVhd1UxYkt4dlhjYmVsbDh1NnZ6aVRuYkR0VHQ2RmFmaHRiN2RHYjUwN3FWUzNxQQ?oc=5",
+        "published": "2026-08-21T10:20:58+00:00",
+        "published_label": "Fri 21 Aug, 10:20",
+        "summary": "NCAA taps Playfly to lead local event sponsorship sales Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "SumUp secures Newcastle training sponsorship",
+        "link": "https://sportindustry.co.uk/news-categories/news/newcastle-united-partners-with-sum-up-as-training-kit-partner/",
+        "published": "2026-08-21T10:19:54+00:00",
+        "published_label": "Fri 21 Aug, 10:19",
+        "summary": "Newcastle United has partnered with SumUp as its official training kit partner under a multi-year agreement. The partnership will see SumUp branding feature across the training wear of Newcastle United’s men’s, women’s and academy teams. The branding will appear on training kit and pre-match warm-up apparel worn throughout the season. SumUp joins Newcastle United’s group […] The post SumUp secures Newcastle training sponsorship appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "Newcastle United has partnered with SumUp as its official training kit partner under a multi-year agreement. The partnership will see SumUp branding feature across the training wear of Newcastle United’s men’s, women’s and academy teams. The branding will appear on training kit and pre-match warm-up apparel worn throughout the season. SumUp joins Newcastle United’s group […] The post SumUp secures Newcastle training sponsorship appeared first on Sport Industry Group .",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Jets owner Woody Johnson buys minority stake in Aston Martin F1",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd3R0bEw2WEhNeG42NXBLNkI3eEFMSTBkT1VPLXp1SHRrMEJMUFpOWnlCYTBCMmp1Qmxmd1FkaU1UVV9IalFIVVpiRHBjVktDSnY2TlBZVVR4ZnoxTVN5XzdhdkY0cVhFSGpMUnVVbVNHdGhCcXZKbUpTWE5xTVFUMlRaVGhrbC03YV82a2NVcDlqUFozLUZ0RkFn?oc=5",
+        "published": "2026-08-21T09:20:28+00:00",
+        "published_label": "Fri 21 Aug, 09:20",
+        "summary": "Jets owner Woody Johnson buys minority stake in Aston Martin F1 Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Imran Khan moved from Pakistan jail to hospital and back again",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0hOTHo4bEEwQkpYVFhKT1dkdnFqMjJaVVBVRTFFTzZwZXowZWRpVGg5REsyMGlrWFhaUXhpTkVCaFBCV2txM0R5Yi1sVHdac1p3b1FSUXZ6S1VzbjlWMFVPdkZteWNWTVVfaEtPTUI2Q21OUjY1d3JoMzZzN3Y0aVVpVzY?oc=5",
+        "published": "2026-08-21T05:37:54+00:00",
+        "published_label": "Fri 21 Aug, 05:37",
+        "summary": "Imran Khan moved from Pakistan jail to hospital and back again Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
         "title": "The battle over golf’s future",
@@ -24,6 +76,32 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-21T06:41:40.327496+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "The new age of Big Law recruiting",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVlTNXozYzBvS2ZQcUMtUUVtME1tam5CdERzeWN6bUNhVXJ0NndRRV9VYm9IdG04WnhuQllHQmw2U2hGdl9NdVd3dXpORF82dDZRb0o0UG54R1ZiQ0oyNUxBQ2xqUmtpdS00al9OdUFhTGxMME9KdTc5b2NpZGYyOUdEZW0?oc=5",
+        "published": "2026-08-21T04:00:30+00:00",
+        "published_label": "Fri 21 Aug, 04:00",
+        "summary": "The new age of Big Law recruiting Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Parisians take the plunge after €1.4bn Seine clean-up",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTU5YUpwZHVTekVodkJyUzA1N2ZSQlpUNUg3Nzc5RnRuRjJaOEpOWjF2RzdwTWI5ZnQ2R2J1ZHlaVnNoY29KanZ6dktmbmozZlcyTG9lTnJxM18zZXVoemZGdTB1VWJrOWVLUXRWYjJjcnU1R0VMMWt3dDh5NzY3Y1dCMFc?oc=5",
+        "published": "2026-08-21T04:00:12+00:00",
+        "published_label": "Fri 21 Aug, 04:00",
+        "summary": "Parisians take the plunge after €1.4bn Seine clean-up Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1441,48 +1519,48 @@
         "body": "",
         "copy": "Burnley have signed a partnership agreement with Vertu, naming the automotive retailer as their official front-of-shirt principal partner for the 2026/27 season. The new agreement has expanded the relationship between the club and the retailer, which first began during the 2022/23 season. Under the terms of the deal, Vertu branding will feature on the shirts […] The post Burnley secure Vertu shirt deal appeared first on Sport Industry Group .",
         "first_seen": "2026-08-14T10:57:18.554250+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "In the Boardroom: Como 1907",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GSkl3eDdLX0xqT3NOVlFSS0RJUXNqLVFPSVZyNFFPcmFRbW9jSFJsU0tZWGdTbHR2cXdlYXVBOXlGQ0FQNUtZZHdKc1JBSU85Qks3Mk9BWEtOdFJXdXBjZDFDZ2ZiTU9W?oc=5",
-        "published": "2026-08-14T10:21:49+00:00",
-        "published_label": "Fri 14 Aug, 10:21",
-        "summary": "In the Boardroom: Como 1907 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-15T10:20:11.581569+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Sportfive expands in Argentina through ProEnter partnership",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVhNWGE4ajhyNDBldnU2MENjVThWcE1icmdUZTk5WlU1MW1qWHF6aVVWVXRVTDFFZEpFQ05FcVpJTDVSS21sSmhnd25LZzVEdEpsRUhVWndRT0xSWGlWWnhFSlRlXzc3dHNJWEs0UGNFWDdvVEZ1R25ZZVZ3Z19wdjVBclFVVmw5R3pfVExUazlzOEt0?oc=5",
-        "published": "2026-08-14T09:51:49+00:00",
-        "published_label": "Fri 14 Aug, 09:51",
-        "summary": "Sportfive expands in Argentina through ProEnter partnership Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-14T10:57:18.554250+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Nascar, Avant, team-up for co-branded credit card",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVdUSDNLbFh1MFVoZHlzUmZMcnF6UThaZzdtWms3b055Y0pYQm5PNUs2S3piQVduWG9veVp1c2xDTDVSbGdselFqb1A5dlJKdzN4RWpXVWs0bGhkTmp6S3E3RXpJc1VVSmRadnQtUWVGWlJWUDBXcWh4SjIyZUpuanNKUmQ?oc=5",
-        "published": "2026-08-14T08:52:01+00:00",
-        "published_label": "Fri 14 Aug, 08:52",
-        "summary": "Nascar, Avant, team-up for co-branded credit card Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-14T09:06:28.172852+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Exeter lock Zambonin to miss start of new season",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cpd7w9l9n2eo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-21T10:09:21+00:00",
+        "published_label": "Fri 21 Aug, 10:09",
+        "summary": "Exeter Chiefs' Italy international lock Andrea Zambonin is set to be out until the end of November following shoulder surgery.",
+        "body": "Exeter Chiefs lock Andrea Zambonin will miss the beginning of the 2026-2027 season following surgery on a shoulder injury. The 25-year-old Italy international played 27 games in his debut season at Sandy Park, including Exeter's 26-17 defeat to Northampton in the Prem final.\n\nChiefs director of rugby Rob Baxter told the club website:, external \"Unfortunately, Andrea returned from Italy's summer games with a niggling shoulder issue that, upon further inspection, was deemed serious enough to require an operation.",
+        "copy": "Exeter Chiefs lock Andrea Zambonin will miss the beginning of the 2026-2027 season following surgery on a shoulder injury. The 25-year-old Italy international played 27 games in his debut season at Sandy Park, including Exeter's 26-17 defeat to Northampton in the Prem final.\n\nChiefs director of rugby Rob Baxter told the club website:, external \"Unfortunately, Andrea returned from Italy's summer games with a niggling shoulder issue that, upon further inspection, was deemed serious enough to require an operation.",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'It's exciting': Fijiana XV squad named for WXV Global Series Challenger",
+        "link": "https://www.rugbypass.com/news/its-exciting-fijiana-xv-squad-named-for-wxv-global-series-challenger/",
+        "published": "2026-08-21T09:36:01+00:00",
+        "published_label": "Fri 21 Aug, 09:36",
+        "summary": "New Fijiana XV head coach Willie Walker has named his WXV Global Series Challenger squad that will travel to Hong Kong China next month.",
+        "body": "New Fijiana XV head coach Willie Walker has named his WXV Global Series Challenger squad that will travel to Hong Kong China next month. Installed as head coach shortly before Fiji’s two-Test encounter with the Springbok Women, Walker has opted for consistency heading into fixtures with Spain, Hong Kong China and the Netherlands at Kai Tak Sports Ground.\n\nScrum-half, Kolora Lomani, continues to captain the side, who are without Adi Salaseini Railumu, Sulita Waisega and Loraini Senivutu after they were ruled out with injury. Breakout star of Women’s Rugby World Cup 2025, Manuqalo Komaitai, will join up with the squad in Japan, ahead of the team’s clash with the Sakura Fifteen in Fukuoka.",
+        "copy": "New Fijiana XV head coach Willie Walker has named his WXV Global Series Challenger squad that will travel to Hong Kong China next month. Installed as head coach shortly before Fiji’s two-Test encounter with the Springbok Women, Walker has opted for consistency heading into fixtures with Spain, Hong Kong China and the Netherlands at Kai Tak Sports Ground.\n\nScrum-half, Kolora Lomani, continues to captain the side, who are without Adi Salaseini Railumu, Sulita Waisega and Loraini Senivutu after they were ruled out with injury. Breakout star of Women’s Rugby World Cup 2025, Manuqalo Komaitai, will join up with the squad in Japan, ahead of the team’s clash with the Sakura Fifteen in Fukuoka.",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "The domestic league supplying 13 of Rugby's Greatest Rivalry Test players",
+        "link": "https://www.rugbypass.com/news/the-13-japan-club-players-set-to-feature-in-the-rgr-tests/",
+        "published": "2026-08-21T09:16:32+00:00",
+        "published_label": "Fri 21 Aug, 09:16",
+        "summary": "Japan Rugby League One’s influence on the international game will be in plain sight when Rugby’s Greatest Rivalry gets underway at Ellis Park on Saturday.",
+        "body": "Japan Rugby League One’s influence on the international game will be in plain sight when Rugby’s Greatest Rivalry gets underway at Ellis Park on Saturday. When Springbok and Toyota Verblitz back-rower Pieter-Steph du Toit and Kobelco Kobe Steelers No.8 Ardie Savea lead their sides out in Johannesburg, they will be among 13 players with League One links selected across the two matchday squads.\n\nThe figure certainly speaks to how far the competition has come since its launch five years ago. A quarter of the players involved in the opening Test come from Japan’s domestic league, with another three members of the coaching teams also bringing League One connections.",
+        "copy": "Japan Rugby League One’s influence on the international game will be in plain sight when Rugby’s Greatest Rivalry gets underway at Ellis Park on Saturday. When Springbok and Toyota Verblitz back-rower Pieter-Steph du Toit and Kobelco Kobe Steelers No.8 Ardie Savea lead their sides out in Johannesburg, they will be among 13 players with League One links selected across the two matchday squads.\n\nThe figure certainly speaks to how far the competition has come since its launch five years ago. A quarter of the players involved in the opening Test come from Japan’s domestic league, with another three members of the coaching teams also bringing League One connections.",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
       {
         "section": "Rugby",
         "source": "SVNS watch",
@@ -1664,6 +1742,19 @@
         "body": "30 Tests have been played between the Wallaroos and Black Ferns since September 1994, with the New Zealanders emerging victorious every time. But the Aussies aren’t shying away from their shot at history, heading across the ditch with the belief “that we can win this game.”\n\nThe Wallaroos fell to a 35-point defeat in the last meeting between the rivals on April 25, in a historic Anzac Day fixture between the sides on the Sunshine Coast. Siokapesi Palu Sekona was the sole try-scorer for the Wallaroos, as the Black Ferns retained the O’Reilly Cup.",
         "copy": "30 Tests have been played between the Wallaroos and Black Ferns since September 1994, with the New Zealanders emerging victorious every time. But the Aussies aren’t shying away from their shot at history, heading across the ditch with the belief “that we can win this game.”\n\nThe Wallaroos fell to a 35-point defeat in the last meeting between the rivals on April 25, in a historic Anzac Day fixture between the sides on the Sunshine Coast. Siokapesi Palu Sekona was the sole try-scorer for the Wallaroos, as the Black Ferns retained the O’Reilly Cup.",
         "first_seen": "2026-08-21T06:41:40.327496+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "News and updates",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOFFRaXRsUXFJbGdOV1RHSUI2ZHRBMy1DZkFYalAzdkZjSUxVUnpoOFI3NUcwNTRQa29mTndMdEFqTDdVTkNYejNib2FGa3RoRzhMbHJUUEFPUE5QQUpwWmNxRVFqOEJrVTJ5RURnNzNYN3hQNXl5UTVLSXVfakxaTFMtVkhNYUc4dHlWQk5ZLThEVExPeUVGenE3NS16UXNIWjBEeGl5d2R1NlBhSzE3U2ZWcG9fUnNJVmd1a0dqbw?oc=5",
+        "published": "2026-08-20T23:20:08+00:00",
+        "published_label": "Thu 20 Aug, 23:20",
+        "summary": "News and updates The Premier of Queensland",
+        "body": "Queensland is the new home of Australia’s Rugby Sevens and the Wallaroos, after the Queensland Government secured their relocation to the Sunshine State as part of a mega-deal with Rugby Australia which includes a major upgrade of Ballymore and ANZAC Day Bledisloe tests.\n\nIn the latest major sporting coup by the Queensland Government, which continues to aggressively raid other states for major events, up to 90 Rugby Australia athletes and staff will move to Queensland from New South Wales to have the Sevens and Wallaroos headquartered in Queensland.",
+        "copy": "Queensland is the new home of Australia’s Rugby Sevens and the Wallaroos, after the Queensland Government secured their relocation to the Sunshine State as part of a mega-deal with Rugby Australia which includes a major upgrade of Ballymore and ANZAC Day Bledisloe tests.\n\nIn the latest major sporting coup by the Queensland Government, which continues to aggressively raid other states for major events, up to 90 Rugby Australia athletes and staff will move to Queensland from New South Wales to have the Sevens and Wallaroos headquartered in Queensland.",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
       },
       {
         "section": "Rugby",
@@ -3588,45 +3679,6 @@
         "body": "The last 12 months have been a period of ups and down for Caitlyn Halse, but with a new look squad having touched down in Auckland and commencing preparations for the Black Ferns, the 19-year-old is determined to make the next two weeks count.\n\nThe Wallaroos are set to chase a maiden victory over the Black Ferns in their 100th Test match next week, and their hopes have been significantly bolstered by the injection of sevens stars and coaching staff as the alignment between the two programmes commences.",
         "copy": "The last 12 months have been a period of ups and down for Caitlyn Halse, but with a new look squad having touched down in Auckland and commencing preparations for the Black Ferns, the 19-year-old is determined to make the next two weeks count.\n\nThe Wallaroos are set to chase a maiden victory over the Black Ferns in their 100th Test match next week, and their hopes have been significantly bolstered by the injection of sevens stars and coaching staff as the alignment between the two programmes commences.",
         "first_seen": "2026-08-14T12:59:26.206016+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "57-cap prop returns to centrally contracted Ireland group for 2026/27",
-        "link": "https://www.rugbypass.com/news/57-cap-prop-returns-to-centrally-contracted-ireland-group-for-2026-27/",
-        "published": "2026-08-14T10:10:25+00:00",
-        "published_label": "Fri 14 Aug, 10:10",
-        "summary": "Experienced Ireland prop Linda Djougang has rejoined the union's centrally contracted programme for the 2026/27 season.",
-        "body": "Experienced Ireland prop Linda Djougang has rejoined the union’s centrally contracted programme for the 2026/27 season. Last year the 57-cap front-row stepped away from the full-time programme to pursue her career outside of rugby, but remained a player of national interest and started all five Guinness Women’s Six Nations fixtures in 2026.\n\nSophie Barrett, Kate Jordan, Aoibheann McGrath and Eilís Cahill – who all made their Test debuts at this year’s Championship – have all earned their first national contracts. This centralised group of 31 players has been announced three months after Scott Bemand’s side enjoyed a record-breaking Women’s Six Nations campaign. This included a crowd of 31,294 at the team’s first standalone fixture at Dublin’s Aviva Stadium.",
-        "copy": "Experienced Ireland prop Linda Djougang has rejoined the union’s centrally contracted programme for the 2026/27 season. Last year the 57-cap front-row stepped away from the full-time programme to pursue her career outside of rugby, but remained a player of national interest and started all five Guinness Women’s Six Nations fixtures in 2026.\n\nSophie Barrett, Kate Jordan, Aoibheann McGrath and Eilís Cahill – who all made their Test debuts at this year’s Championship – have all earned their first national contracts. This centralised group of 31 players has been announced three months after Scott Bemand’s side enjoyed a record-breaking Women’s Six Nations campaign. This included a crowd of 31,294 at the team’s first standalone fixture at Dublin’s Aviva Stadium.",
-        "first_seen": "2026-08-14T10:57:18.554250+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Late change as Bulls add two Springboks to line-up for All Blacks",
-        "link": "https://www.rugbypass.com/news/late-change-as-bulls-add-two-springboks-to-line-up-for-all-blacks/",
-        "published": "2026-08-14T10:08:44+00:00",
-        "published_label": "Fri 14 Aug, 10:08",
-        "summary": "The Bulls have added a Springbok double whammy to the side that will face the All Blacks in Pretoria on Saturday.",
-        "body": "The Bulls have added a Springbok double whammy to the side that will face the All Blacks in Pretoria on Saturday. Elrigh Louw and Johan Grobbelaar have both been added to the squad and will feature off the bench, although it’s not been clarified who they will replace, it’s most likely that Jaundre Schoeman and Mpilo Gumede will now miss out on the chance to the play the All Blacks.\n\nA statement reads: “Having been released to get more game time ahead of Rugby’s Greatest Rivalry series, Springboks Elrigh Louw and Johan Grobbelaar have been drafted into the Vodacom Bulls’ squad for tomorrow’s match against the All Blacks.",
-        "copy": "The Bulls have added a Springbok double whammy to the side that will face the All Blacks in Pretoria on Saturday. Elrigh Louw and Johan Grobbelaar have both been added to the squad and will feature off the bench, although it’s not been clarified who they will replace, it’s most likely that Jaundre Schoeman and Mpilo Gumede will now miss out on the chance to the play the All Blacks.\n\nA statement reads: “Having been released to get more game time ahead of Rugby’s Greatest Rivalry series, Springboks Elrigh Louw and Johan Grobbelaar have been drafted into the Vodacom Bulls’ squad for tomorrow’s match against the All Blacks.",
-        "first_seen": "2026-08-14T10:57:18.554250+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Country by country guide to the Pro D2 Foreign Legion for 2026/27",
-        "link": "https://www.rugbypass.com/news/country-by-country-guide-to-the-pro-d2-foreign-legion-for-2026-27/",
-        "published": "2026-08-14T09:50:06+00:00",
-        "published_label": "Fri 14 Aug, 09:50",
-        "summary": "With more than 250 foreign players spread across the division's 16 teams, the Pro D2's foreign legion is ready to make its mark on another fiercely competitive season.",
-        "body": "With more than 250 foreign players spread across the division’s 16 teams, the Pro D2’s foreign legion is ready to make its mark on another fiercely competitive season. From Spain to the Cook Islands, the second tier of French club rugby is packed with talent, thrills and some of the best players in the World.\n\nAlthough more than 30 nations are represented in the ProD2, we decided to highlight only the countries that will be involved in next year’s Rugby World Cup, which make up a total of 224 players.",
-        "copy": "With more than 250 foreign players spread across the division’s 16 teams, the Pro D2’s foreign legion is ready to make its mark on another fiercely competitive season. From Spain to the Cook Islands, the second tier of French club rugby is packed with talent, thrills and some of the best players in the World.\n\nAlthough more than 30 nations are represented in the ProD2, we decided to highlight only the countries that will be involved in next year’s Rugby World Cup, which make up a total of 224 players.",
-        "first_seen": "2026-08-14T10:57:18.554250+00:00"
       }
     ],
     "Tennis": [
@@ -4451,6 +4503,58 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 BMW Championship Friday TV coverage: How to watch Round 2",
+        "link": "https://golf.com/news/2026-bmw-championship-friday-tv-coverage-watch-round-2/",
+        "published": "2026-08-21T10:17:09+00:00",
+        "published_label": "Fri 21 Aug, 10:17",
+        "summary": "How to watch the 2026 BMW Championship on Friday, including full BMW Championship TV coverage and streaming details for Round 2. The post 2026 BMW Championship Friday TV coverage: How to watch Round 2 appeared first on Golf .",
+        "body": "The 2026 BMW Championship’s second round begins Friday morning at Bellerive in St. Louis, Mo. Here’s everything you need to know to watch the tournament on Friday, including full BMW Championship TV coverage, streaming details and complete Round 2 tee times.\n\nJust days after finishing near the bottom of the leaderboard at the FedEx Cup playoff’s opening event, Rory McIlroy completely flipped the script at the BMW Championship. The six-time major champion came out firing at Bellerive CC, making zero bogeys in the opening round and going four under over his final six holes. By round’s end, McIlroy had shot a six-under 64.",
+        "copy": "The 2026 BMW Championship’s second round begins Friday morning at Bellerive in St. Louis, Mo. Here’s everything you need to know to watch the tournament on Friday, including full BMW Championship TV coverage, streaming details and complete Round 2 tee times.\n\nJust days after finishing near the bottom of the leaderboard at the FedEx Cup playoff’s opening event, Rory McIlroy completely flipped the script at the BMW Championship. The six-time major champion came out firing at Bellerive CC, making zero bogeys in the opening round and going four under over his final six holes. By round’s end, McIlroy had shot a six-under 64.",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "'Give Us One More Shot' - Bryson DeChambeau's LIV Golf Hope As He Hits Back At Rory McIlroy",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1hjcDZtUnh1WmtpV2RCWWpnYjlOWVhOd1lvNHVtVDIyZThYc3ZudDQtOUdwYXRSUVpaeDk0NmJ4YVI1UTlBajluV2NtRFAtRnZYQU1KakpiZmo2Q2lCdGRpOUNMZHNVOUZFazQ1dXNoQTNoOHJ0ckJfU25sdnJnNkFZOUJhN0JsNkpVX01TQ2hObmVtVFNCcEpwRjVmVi11dEh1OXFYSEJNd0JSQ25hQm5TMFRmZlF1U0hSUGMtVE4zY2lGcFpWd3Q3OA?oc=5",
+        "published": "2026-08-21T09:59:23+00:00",
+        "published_label": "Fri 21 Aug, 09:59",
+        "summary": "'Give Us One More Shot' - Bryson DeChambeau's LIV Golf Hope As He Hits Back At Rory McIlroy Golf Monthly",
+        "body": "Bryson DeChambeau hopes LIV Golf is given \"one more shot\" and seemed to respond to Rory McIlroy's comments about the value his fellow players brought on the team tour. McIlroy questioned what value LIV players would bring if returning to the PGA Tour, a sentiment that Scottie Scheffler disagreed with as he insisted there were a few players who \"would provide a lot of value to the Tour\" should they come back.\n\nAs we've seen before with Sir Nick Faldo's 'strategy' criticism, DeChambeau hears everything and he responded at The Open with an interview filled with strategy comments. DeChambeau this time spoke at LIV Golf Indianapolis and along with voicing his hope for the future, added: \"I hope people can see that we actually bring value to the game of golf.\"",
+        "copy": "Bryson DeChambeau hopes LIV Golf is given \"one more shot\" and seemed to respond to Rory McIlroy's comments about the value his fellow players brought on the team tour. McIlroy questioned what value LIV players would bring if returning to the PGA Tour, a sentiment that Scottie Scheffler disagreed with as he insisted there were a few players who \"would provide a lot of value to the Tour\" should they come back.\n\nAs we've seen before with Sir Nick Faldo's 'strategy' criticism, DeChambeau hears everything and he responded at The Open with an interview filled with strategy comments. DeChambeau this time spoke at LIV Golf Indianapolis and along with voicing his hope for the future, added: \"I hope people can see that we actually bring value to the game of golf.\"",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau explains whether LIV Golf can survive losing its biggest stars",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNHQ2NE1aaWE5VFFENDBWX0hVUmh3RHptME0wNGR2RUw1eFhpb1RUVkMwYnNlNVZLenJuODlRaVlUaXA0T0RyaXZJNTRwd3pycUNzMEx2MXVFYkxZQmJQSEQwcUpyS1pHOUEyQTRoZ05pcjZveXNDLVpnMjRKU2lCN1F1WWpheUxUcS1VYVhwRHV5SlB3d3NYa1lKc2l4bHcwX3k0RGtrbWI5Nm96eFY0azVUVGF1Wm5ob0p1Z1IxZFRycXp3TFlMXzNMNHAyZEhY?oc=5",
+        "published": "2026-08-21T09:45:00+00:00",
+        "published_label": "Fri 21 Aug, 09:45",
+        "summary": "Bryson DeChambeau explains whether LIV Golf can survive losing its biggest stars Tennis World USA",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau pleads for ‘one more shot’ over LIV’s future",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeVFodVlRTHliLVl0aTljeGhUUnFLdFp2Y0VxT2VhRmp5VER6dUZtdnZPRzAtUmY2VWhUX2dmU2poVy12VE11OGY0STJsNlNEZFlFakhrZTIwdUtNVXM1Uk5rWDloSmltUWNwcHVZOF94UU05aDg4U3Y5VThSbVNkb2FlNVFnMDZfNkdZTE1fMEJxc2d5Z3JfNHlrb0x4QQ?oc=5",
+        "published": "2026-08-21T09:39:18+00:00",
+        "published_label": "Fri 21 Aug, 09:39",
+        "summary": "Bryson DeChambeau pleads for ‘one more shot’ over LIV’s future bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau has urged people to give LIV Golf ‘one more shot’ as the breakaway league hosts the final event of its season this week in Indianapolis.\n\nSpeaking to LIV announcer Arlo White, the two-time US Open champion offered an impassioned defence of the circuit and, seemingly, responded to a recent jibe from Rory McIlroy.",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau has urged people to give LIV Golf ‘one more shot’ as the breakaway league hosts the final event of its season this week in Indianapolis.\n\nSpeaking to LIV announcer Arlo White, the two-time US Open champion offered an impassioned defence of the circuit and, seemingly, responded to a recent jibe from Rory McIlroy.",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
       {
         "section": "Golf",
         "source": "LIV Golf",
@@ -6439,22 +6543,113 @@
         "body": "Several LIV Golf players have entered DP World Tour Q School as uncertainty over the league’s future continues. The rampant uncertainty that has enveloped LIV Golf for months has left many of the league’s biggest names and brightest talents pondering their futures, but some players may be ejected regardless.\n\nWith LIV’s team finale in Michigan now cancelled in all but an official statement, the league will convene for the final time in 2026 at the Chatham Hills Club in Indianapolis next week. And lost in the existential talk of LIV’s survival hopes in a post-Saudi era is what, in any typical week, would be a hugely consequential week on the fairways. At the start of the season, LIV increased its relegation positions from six to 11 to prove to the Official World Golf ranking board that the league was not a closed shop.",
         "copy": "Several LIV Golf players have entered DP World Tour Q School as uncertainty over the league’s future continues. The rampant uncertainty that has enveloped LIV Golf for months has left many of the league’s biggest names and brightest talents pondering their futures, but some players may be ejected regardless.\n\nWith LIV’s team finale in Michigan now cancelled in all but an official statement, the league will convene for the final time in 2026 at the Chatham Hills Club in Indianapolis next week. And lost in the existential talk of LIV’s survival hopes in a post-Saudi era is what, in any typical week, would be a hugely consequential week on the fairways. At the start of the season, LIV increased its relegation positions from six to 11 to prove to the Official World Golf ranking board that the league was not a closed shop.",
         "first_seen": "2026-08-14T12:59:26.206016+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 FedEx St. Jude Championship Friday TV coverage: How to watch Round 2",
-        "link": "https://golf.com/news/2026-fedex-st-jude-championship-friday-tv-coverage-watch/",
-        "published": "2026-08-14T10:19:08+00:00",
-        "published_label": "Fri 14 Aug, 10:19",
-        "summary": "How to watch the 2026 FedEx St. Jude Championship on Friday, including full FedEx St. Jude TV coverage and streaming details for Round 2. The post 2026 FedEx St. Jude Championship Friday TV coverage: How to watch Round 2 appeared first on Golf .",
-        "body": "The second round of the 2026 FedEx St. Jude Championship begins Friday morning at TPC Southwind. Here’s everything you need to know to watch the tournament on Friday, including full FedEx St. Jude TV coverage, streaming details and complete Round 2 tee times.\n\nHeading into the second round at TPC Southwind, three-time major champion Jordan Spieth finds himself at the top of the leaderboard. Spieth looked in form all day, going bogey-free on his way to a five-under 65. That leaves him with his best shot all year at breaking his lengthy PGA Tour winless streak.",
-        "copy": "The second round of the 2026 FedEx St. Jude Championship begins Friday morning at TPC Southwind. Here’s everything you need to know to watch the tournament on Friday, including full FedEx St. Jude TV coverage, streaming details and complete Round 2 tee times.\n\nHeading into the second round at TPC Southwind, three-time major champion Jordan Spieth finds himself at the top of the leaderboard. Spieth looked in form all day, going bogey-free on his way to a five-under 65. That leaves him with his best shot all year at breaking his lengthy PGA Tour winless streak.",
-        "first_seen": "2026-08-14T10:57:18.554250+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Nozomi Okuhara Withdraws From BWF World Championships 2026",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWNTU2JobkZrZmNBMjJ5SldQckRuZFUwRTZfOE02NnFkaGJWOW9fMWhRRGZna2hEcmFPTGFuVHo0SXVTc1VXNFVycjZnR2ZUOXhEbGhJZDF0WkdfcDZrQ0VMbEFHQUY5QWlBU3VlUm1vVXBITUpzeG1USVYtNWV0ZllmVVBKejFja2lobTJ5eTh5QzJmRlVMRDQ3d19KaFoxRFFoeGVVQTM?oc=5",
+        "published": "2026-08-21T09:52:16+00:00",
+        "published_label": "Fri 21 Aug, 09:52",
+        "summary": "Nozomi Okuhara Withdraws From BWF World Championships 2026 Sportscape Magazine",
+        "body": "Nozomi Okuhara has withdrawn from the BWF World Championships 2026 due to a knee injury, handing Pornpawee Chochuwong a quarterfinal walkover and a guaranteed medal. Japanese badminton star Nozomi Okuhara has taken a withdrawal from the BWF World Championships 2026. The reason behind the withdrawal is a knee injury. Nozomi was about to face Thailand’s Pornpawee Chochuwong in the quarterfinals in New Delhi. After Nozomi’s withdrawal, the Thai player Pornpawee Chochuwong entered the semifinal directly. And she has guaranteed a medal in the tournament.\n\nAccording to the latest , Okuhara, a former World No.1 player, entered the 2026 BWF World Championships with last success. She had won the women’s singles title in 2017. However, her campaign in BWF 2026 ended prematurely because of the injury. “I feel really happy to make a surprise for myself, especially yesterday because Chen is an Olympic gold medallist. This one big achievement is important for all athletes, we all want a medal in our career.” Said Chochuwong.",
+        "copy": "Nozomi Okuhara has withdrawn from the BWF World Championships 2026 due to a knee injury, handing Pornpawee Chochuwong a quarterfinal walkover and a guaranteed medal. Japanese badminton star Nozomi Okuhara has taken a withdrawal from the BWF World Championships 2026. The reason behind the withdrawal is a knee injury. Nozomi was about to face Thailand’s Pornpawee Chochuwong in the quarterfinals in New Delhi. After Nozomi’s withdrawal, the Thai player Pornpawee Chochuwong entered the semifinal directly. And she has guaranteed a medal in the tournament.\n\nAccording to the latest , Okuhara, a former World No.1 player, entered the 2026 BWF World Championships with last success. She had won the women’s singles title in 2017. However, her campaign in BWF 2026 ended prematurely because of the injury. “I feel really happy to make a surprise for myself, especially yesterday because Chen is an Olympic gold medallist. This one big achievement is important for all athletes, we all want a medal in our career.” Said Chochuwong.",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Wong/Lim (MAS) - Kusharjanto/Widjaja (INA) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNUo0V19fWXpzYm5maDBDblZ4bTRWZHN4Snh5ZGxxOER0VVR3SUlLb1ZRWUxVdHc5Uno2NzBLbHpiVThnYS1TbXhTUUloa2p3Q1ljOERIT1dyU0FpZmM1cUZKWWUwcU83WHBIdVM0OHdSQkdqek9YLTk4TUpSTWNfMkx2SUpzd0ZtX0FwUGVNcDc0eEtFZGc1a2dkUGtqc3RERGFGVXZmTGNPTlVRMmtETXpUaw?oc=5",
+        "published": "2026-08-21T09:34:29+00:00",
+        "published_label": "Fri 21 Aug, 09:34",
+        "summary": "Badminton | Wong/Lim (MAS) - Kusharjanto/Widjaja (INA) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Lam/Lee (USA)- Jolly/G. Gopichand (IND) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3lpckVHLXpxRnJLTWJmUE9RSjV4cWFoNFhrV3pSRkdBUnlCSWtBWnY0NnF0REhMb09iZUV4bDB0S2xtaHpjbDhSZGJoaXJIMjZ2cEtwNVRKMUdMQjdiVWdhbDhoSEFaUGNDNGpMYlhjZVpWUEhYdW5RZ0o5NENsNTlzNW15ZWgzSU1zZV92ZkYyZFREeUV3RkNtWnJGUVJzdEdaTGhfOWhTVmZTRmVR?oc=5",
+        "published": "2026-08-21T09:34:14+00:00",
+        "published_label": "Fri 21 Aug, 09:34",
+        "summary": "Badminton | Lam/Lee (USA)- Jolly/G. Gopichand (IND) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Stoeva/Stoeva (BUL) - Selvam/Singhi (IND) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZU1JNzFYSHRDZHc2cmdKckpVdjAzTGM2OW5vTlhqeVRselN6cXdOVlVCZk45NjlITEdQVVJOcjZvbElGQlUtcl9uT3hQb1ZBaUJtdTZrSkpiVmxqOGpBN09hZ2hiY3FVV20zS0NTbjktSjZETFhoTHYwc0JsVmpPX0UyMjlMQmQzc2ctdmJ4VWFUajJVNDVRV2xYdUxtMEF5RWNmcEtfaWJIdUo4bVJTdkZR?oc=5",
+        "published": "2026-08-21T09:33:49+00:00",
+        "published_label": "Fri 21 Aug, 09:33",
+        "summary": "Badminton | Stoeva/Stoeva (BUL) - Selvam/Singhi (IND) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Wang Z.Y. (CHN) - Zhang (USA) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjljbkZBVE1yVlpRbWlpVzQ1ZlJWd01ydV9tR09SQ0ctOFhzZUJrX2NndVYtZ0FXNXVJa2VEbWlVQTQtaW12dzVXeXlBR3VuWmpRU2FuUU1UbXpKdEUzcDZGVjBJb3RBT3EzSW1sUVU1UmlDbERiR2JRTWl2djBEemlVOVNWc1VnVzdlRl8zaXhvaGkyU2x6Yks3U1ZMcTJE?oc=5",
+        "published": "2026-08-21T09:33:48+00:00",
+        "published_label": "Fri 21 Aug, 09:33",
+        "summary": "Badminton | Wang Z.Y. (CHN) - Zhang (USA) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Chia/So (MAS) - Sukphun/Teeraratsakul (THA) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWktOalkyNGJTQzdfUGlpMkZuTHVfVVR3NjZmUXh5eFVVUnZ5U0tMOV9vVV9NVFpUcEJMd2QxZmh4WFlPOGlYUGgwVURtSjRJZWwydmhCN013Q0ZYdVRSLS1sYVVkeXNFSTdLc0VxV1NrMXZXNzYydlBLRk1id1hVYmRWT2hrRmVUUWdFSW9zODN6QzNlNjNYeElJQWp6MXpnOHRRY3hkWFJybU9oYUktLTluYzM?oc=5",
+        "published": "2026-08-21T09:33:47+00:00",
+        "published_label": "Fri 21 Aug, 09:33",
+        "summary": "Badminton | Chia/So (MAS) - Sukphun/Teeraratsakul (THA) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Ercetin/Inci (TUR) - Tan/Thinaah (MAS) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjdYVkNXLVZ6aEE1dWg5QkoyUzRBRjFneVhrZDdZdjJrMTNCSV9fTDRTZHVLTHJQbkZPbU91UmdBdXFhbGhqTk5UeVRVT0JPZXlla2ctR3JUek4tNTgteVVTMk9lOWN3dV9WSEhXQnJxM1Rsdkxra3Z5d1Zsb0ZTblJDRUd5VUJwbk1CNThGaEZRTlNjaU1EeVhvRWhCRlNub0stRUdMLTNRYmhDa0E?oc=5",
+        "published": "2026-08-21T09:33:47+00:00",
+        "published_label": "Fri 21 Aug, 09:33",
+        "summary": "Badminton | Ercetin/Inci (TUR) - Tan/Thinaah (MAS) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF World Championships 2026: Victor Lai secures second world medal with win over Rasmus Gemke",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWoybk5EUXFLd3dUd2x1REt0ZE1VYnpEaVFmczBzTlpfa1B2ODFWOXdaWlF2Ri1razFGWlBZTjItckdDOTRua1FXbjlLcE9wckN3eXd5NjcxVEhrSHYtcGtjZUM4UW9mRndxV3AzWWJfYmRXSWJoemFSWWw0LUcwTFhKdllrUkFuSS10ZVpiUTNmbUNzZ0JIQ0hwVTdHbFMwZ0Z4bA?oc=5",
+        "published": "2026-08-21T09:28:00+00:00",
+        "published_label": "Fri 21 Aug, 09:28",
+        "summary": "BWF World Championships 2026: Victor Lai secures second world medal with win over Rasmus Gemke olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-21T10:28:20.532908+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -8105,35 +8300,9 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-14T10:57:18.554250+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Men’s Singles: Top Five Players to Watch",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWt3Tm8wWlpOc0xJaTBURU0xRTlQQ25NaTI4NWgwRGlpMXBBazU3S0I4S0lIUm1nXzFzX1VzT09DVFNjRkVVN05pZ0h2c1VFTHFZTTdRWVhFU29rTTdjT2VnYmwydU5ENTZWMjhoR1Jqb0ZBSC15bUM2QUxDQXU3NlZDSzdpV2R6TGk3dENUQjhNeklUd1dGWDk0RnY5TDdGUHAwNEFXNE5DT2VIdWc?oc=5",
-        "published": "2026-08-14T10:26:34+00:00",
-        "published_label": "Fri 14 Aug, 10:26",
-        "summary": "Men’s Singles: Top Five Players to Watch BWF World Championships",
-        "body": "Men’s singles is undergoing a generational shift with a number of young players establishing themselves at the top. While the more experienced ones – such as Chou Tien Chen, Shi Yu Qi and Anders Antonsen, for example – are still top contenders, the number of young stars capable of challenging for the title in 2026 is unprecedented.\n\nThis bunch of young stars – names such as Christo Popov, Victor Lai, Alex Lanier, Alwi Farhan and Toma Junior Popov – can be expected to light up the competition. Yet, the older stars have shown that badminton belongs as much to the young and fearless as to the more experienced, craftier type of player.",
-        "copy": "Men’s singles is undergoing a generational shift with a number of young players establishing themselves at the top. While the more experienced ones – such as Chou Tien Chen, Shi Yu Qi and Anders Antonsen, for example – are still top contenders, the number of young stars capable of challenging for the title in 2026 is unprecedented.\n\nThis bunch of young stars – names such as Christo Popov, Victor Lai, Alex Lanier, Alwi Farhan and Toma Junior Popov – can be expected to light up the competition. Yet, the older stars have shown that badminton belongs as much to the young and fearless as to the more experienced, craftier type of player.",
-        "first_seen": "2026-08-14T10:57:18.554250+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: India Hosts Badminton's Biggest Event In New Delhi From August 17 To 23",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV09MREVKT0tVNV9EaHJ0ak5LQ3g4bDdNcll3RG5CSmdRWFBweWQ3RDhrSkhFMW5VdEhkc0VLX0ZVS0dYSDY3cWVDeUFlU25xcmFmWG9EQ1c5VEhwdGMwSlRKM1dmTEY2NmhBdUd2MW5Sbm45ZExOSk5aYlpSZ2YzSS05ODJMTkRBeWNvWGU2TzAyNExGelo2OTlsLTlwRXJsdl9jWXhYc0x3cFFRNUNmWkNQSkZQX3JXdERXcVdnblFXME41?oc=5",
-        "published": "2026-08-14T09:22:43+00:00",
-        "published_label": "Fri 14 Aug, 09:22",
-        "summary": "BWF World Championships 2026: India Hosts Badminton's Biggest Event In New Delhi From August 17 To 23 Sportscape Magazine",
-        "body": "The BWF World Championships 2026 will be held at Indira Gandhi Arena in New Delhi from August 17 to 23, with Ayush Shetty, PV Sindhu, Lakshya Sen, and Satwik-Chirag all in action for India.\n\nIndia gets ready to host the 30th BWF World Championships 2026 at Indira Gandhi Arena in New Delhi from August 17 to 23. This marks India’s first time hosting the event since 2009. In the latest sports news from Indian badminton, the tournament will feature five categories, including men’s and women’s singles, doubles, and mixed doubles, with 64 players in singles and 48 pairs in doubles categories.",
-        "copy": "The BWF World Championships 2026 will be held at Indira Gandhi Arena in New Delhi from August 17 to 23, with Ayush Shetty, PV Sindhu, Lakshya Sen, and Satwik-Chirag all in action for India.\n\nIndia gets ready to host the 30th BWF World Championships 2026 at Indira Gandhi Arena in New Delhi from August 17 to 23. This marks India’s first time hosting the event since 2009. In the latest sports news from Indian badminton, the tournament will feature five categories, including men’s and women’s singles, doubles, and mixed doubles, with 64 players in singles and 48 pairs in doubles categories.",
-        "first_seen": "2026-08-14T10:57:18.554250+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 624
+  "total": 637
 }
