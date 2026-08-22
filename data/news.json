@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T08:26:38.689697+00:00",
-  "generated_label": "Saturday 22 August 2026, 08:26 UTC",
+  "generated_at": "2026-08-22T10:21:08.865457+00:00",
+  "generated_label": "Saturday 22 August 2026, 10:21 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "HSBC x HKCR Women in Sport Innovation Challenge",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVk5CN00ybC0wcGNqNU1hd2FkSW55ZDNtQmRPVW5LblVhT255bW1kblVmdEp4M2s4S0J6cUxVRXNiUHFOeVR6dXpLd1hpdVhqanoxVGpwb1o2b1Zsalc1dVhvWWJ1Wk5iZTFQcThKelNaUDdSVGtxVEN2N1J2emNpcnRDWnVGY1kzdjk5Wg?oc=5",
+        "published": "2026-08-22T08:44:13+00:00",
+        "published_label": "Sat 22 Aug, 08:44",
+        "summary": "HSBC x HKCR Women in Sport Innovation Challenge Hong Kong China Rugby",
+        "body": "The WXV Challenger Series brings together six of the world's leading emerging women's rugby nations - Fiji, Hong Kong China, the Netherlands, Samoa, Spain and Brazil - in a centrally hosted tournament at Kai Tak Sports Park. The competition will be played across three triple-header match days on 13, 19 and 26 September, showcasing high-quality international rugby and reinforcing Hong Kong's position as a host of major global sporting events.\n\nComplementing the on-field action, Hong Kong China Rugby will host a Women in Rugby Summit on 19 September, bringing together athletes, administrators, coaches, partners and industry leaders to explore the future of the women's game.",
+        "copy": "The WXV Challenger Series brings together six of the world's leading emerging women's rugby nations - Fiji, Hong Kong China, the Netherlands, Samoa, Spain and Brazil - in a centrally hosted tournament at Kai Tak Sports Park. The competition will be played across three triple-header match days on 13, 19 and 26 September, showcasing high-quality international rugby and reinforcing Hong Kong's position as a host of major global sporting events.\n\nComplementing the on-field action, Hong Kong China Rugby will host a Women in Rugby Summit on 19 September, bringing together athletes, administrators, coaches, partners and industry leaders to explore the future of the women's game.",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -63,6 +76,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-22T06:35:36.291552+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Greenwich moon time? The high-stakes race to set lunar clocks",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDZNeVZlRjF2UjNBT3FPTXdVNjRzQ05DZlUzdDAxMWlyVEFjREUybHJxNFNEQXpZVlEtN3BqS1JDSUhYSXp2TFFVNUVUdXhzZ3dUZjIzdGlHZ1Jrdm9mQngtODlPTGJPYVpWX3RfajFZNFBCYUJEaU9fcFV2QWZiQmZWdEY?oc=5",
+        "published": "2026-08-21T20:00:02+00:00",
+        "published_label": "Fri 21 Aug, 20:00",
+        "summary": "Greenwich moon time? The high-stakes race to set lunar clocks Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1444,6 +1470,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Fissler Confidential: Left-field bid to target Ardie Savea?",
+        "link": "https://www.rugbypass.com/news/fissler-confidential-left-field-bid-to-target-ardie-savea/",
+        "published": "2026-08-22T09:21:01+00:00",
+        "published_label": "Sat 22 Aug, 09:21",
+        "summary": "All Blacks skipper Ardie Savea could emerge as a surprise, ambitious target for a cross-code switch to the NRL expansion outfit PNG Chiefs ahead of their entry into the competition in 2028.",
+        "body": "All Blacks skipper Ardie Savea could emerge as a surprise, ambitious target for a cross-code switch to the NRL expansion outfit PNG Chiefs ahead of their entry into the competition in 2028.\n\nThe 2023 World Rugby Player of the Year, Savea, 32, has spent the past two seasons in Japan with Kobelco Kobe Steelers, helping them win the Japan Rugby League One title. He is set to play for the Blues next season after Moana Pasifika collapsed.",
+        "copy": "All Blacks skipper Ardie Savea could emerge as a surprise, ambitious target for a cross-code switch to the NRL expansion outfit PNG Chiefs ahead of their entry into the competition in 2028.\n\nThe 2023 World Rugby Player of the Year, Savea, 32, has spent the past two seasons in Japan with Kobelco Kobe Steelers, helping them win the Japan Rugby League One title. He is set to play for the Blues next season after Moana Pasifika collapsed.",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "All Blacks forced into late change ahead of game one vs Boks",
+        "link": "https://www.rugbypass.com/news/all-blacks-forced-into-late-change-ahead-of-game-one-vs-boks/",
+        "published": "2026-08-22T09:07:18+00:00",
+        "published_label": "Sat 22 Aug, 09:07",
+        "summary": "The change is a straight swap, meaning the starting loose forward trio of Tupou Vaa'i, Luke Jacobson and Ardie Savea will remain in place, and Parker will join Peter Lakai on the bench.",
+        "body": "An ankle injury has ruled Anton Segner out of the Rugby’s Greatest Rivalry Test series opener, with All Blacks head coach Dave Rennie turning to Simon Parker off the bench in his place.\n\nSegner, who is in just his first season with the New Zealand team, is dealing with acute inflammatory arthritis, facing an unknown return timeline as it stands. The injury was announced just six hours before kickoff, after Segner presented with swelling.",
+        "copy": "An ankle injury has ruled Anton Segner out of the Rugby’s Greatest Rivalry Test series opener, with All Blacks head coach Dave Rennie turning to Simon Parker off the bench in his place.\n\nSegner, who is in just his first season with the New Zealand team, is dealing with acute inflammatory arthritis, facing an unknown return timeline as it stands. The injury was announced just six hours before kickoff, after Segner presented with swelling.",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3575,61 +3627,22 @@
         "body": "Former Wales captain Alun Wyn Jones is poised to return to the Ospreys as a director. The 40-year-old is set to be announced as a board member by the Swansea-based club next week.\n\nJones made his Ospreys debut in 2005, a year after he broke through with Swansea RFC, and helped the club to three titles and an Anglo-Welsh Cup triumph. The former lock is to return at a turbulent time as the club fights for survival under Welsh Rugby Union (WRU) plans to cut to three professional men's sides.",
         "copy": "Former Wales captain Alun Wyn Jones is poised to return to the Ospreys as a director. The 40-year-old is set to be announced as a board member by the Swansea-based club next week.\n\nJones made his Ospreys debut in 2005, a year after he broke through with Swansea RFC, and helped the club to three titles and an Anglo-Welsh Cup triumph. The former lock is to return at a turbulent time as the club fights for survival under Welsh Rugby Union (WRU) plans to cut to three professional men's sides.",
         "first_seen": "2026-08-15T16:21:03.649129+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "WRU condemns abuse and doubles down on three-team plan",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq891l3g3keo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-15T10:07:18+00:00",
-        "published_label": "Sat 15 Aug, 10:07",
-        "summary": "The Welsh Rugby Union (WRU) states there is no prospect of the game generating enough revenue to fund four professional teams beyond 2028.",
-        "body": "The Welsh Rugby Union (WRU) has stated there is no realistic prospect of the game generating enough revenue to fund four professional teams in the country beyond 2028. The WRU's board has released a lengthy statement after former Wales captain Jonathan Davies called for them to step down.\n\nThere has been a concerted attempt to try to oust the WRU board this week. Businesswoman Hayley Parsons called for them to stand down before Davies' intervention, while former Principality Building Society chief operating officer Rob Regan has offered to oversee an interim board.",
-        "copy": "The Welsh Rugby Union (WRU) has stated there is no realistic prospect of the game generating enough revenue to fund four professional teams in the country beyond 2028. The WRU's board has released a lengthy statement after former Wales captain Jonathan Davies called for them to step down.\n\nThere has been a concerted attempt to try to oust the WRU board this week. Businesswoman Hayley Parsons called for them to stand down before Davies' intervention, while former Principality Building Society chief operating officer Rob Regan has offered to oversee an interim board.",
-        "first_seen": "2026-08-15T12:32:11.382631+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Wallabies pack plough Japan in Townsville rout",
-        "link": "https://www.rugbypass.com/news/wallabies-pack-plough-japan-in-townsville-rout/",
-        "published": "2026-08-15T09:39:58+00:00",
-        "published_label": "Sat 15 Aug, 09:39",
-        "summary": "Australia's pack, led by Taniela Tupou, scored all eight of their tries as the Wallabies exploded out of a tight spot to thump Japan in Townsville.",
-        "body": "Australia’s pack, led by Taniela Tupou, scored all eight of their tries as the Wallabies exploded out of a tight spot to thump Japan in Townsville. The Wallabies prop and his front-row friends combined to blitz Japan after a tight first half in their Townsville Test.\n\nThe host’s 56-17 triumph was in the balance until midway through the second half, when the 1000th Wallaby, Massimo De Lutiis, subbed on and stormed over for a debut try to create an 18-point lead.",
-        "copy": "Australia’s pack, led by Taniela Tupou, scored all eight of their tries as the Wallabies exploded out of a tight spot to thump Japan in Townsville. The Wallabies prop and his front-row friends combined to blitz Japan after a tight first half in their Townsville Test.\n\nThe host’s 56-17 triumph was in the balance until midway through the second half, when the 1000th Wallaby, Massimo De Lutiis, subbed on and stormed over for a debut try to create an 18-point lead.",
-        "first_seen": "2026-08-15T10:20:11.581569+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Court hears how ex-Wallabies coach Alan Jones kissed and groped man",
-        "link": "https://www.rugbypass.com/news/court-hears-how-ex-wallabies-coach-alan-jones-kissed-and-groped-man/",
-        "published": "2026-08-15T08:34:05+00:00",
-        "published_label": "Sat 15 Aug, 08:34",
-        "summary": "The second week of Alan Jones's sexual misconduct trial has ended, as an ex-radio staffer alleges a power imbalance stopped him bringing forward claims earlier.",
-        "body": "The second week of Alan Jones’s sexual misconduct trial has ended, as an ex-radio staffer alleges a power imbalance stopped him bringing forward claims earlier. A former radio station employee felt he could not tell anyone he was being indecently assaulted by Alan Jones because of the talkback titan’s extraordinary power and influence.\n\nHe is one of six men who allege Jones kissed, groped or subjected them to sexual misconduct between 2003 and 2020 across Sydney and the NSW Southern Highlands. The 85-year-old has pleaded not guilty to 22 charges of indecent assault and sexual touching without consent.",
-        "copy": "The second week of Alan Jones’s sexual misconduct trial has ended, as an ex-radio staffer alleges a power imbalance stopped him bringing forward claims earlier. A former radio station employee felt he could not tell anyone he was being indecently assaulted by Alan Jones because of the talkback titan’s extraordinary power and influence.\n\nHe is one of six men who allege Jones kissed, groped or subjected them to sexual misconduct between 2003 and 2020 across Sydney and the NSW Southern Highlands. The 85-year-old has pleaded not guilty to 22 charges of indecent assault and sexual touching without consent.",
-        "first_seen": "2026-08-15T10:20:11.581569+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Eddie Jones’ ‘free pizza’ comment after Taniela Tupou’s two-try haul",
-        "link": "https://www.rugbypass.com/news/eddie-jones-free-pizza-comment-after-taniela-tupous-two-try-haul/",
-        "published": "2026-08-15T08:32:44+00:00",
-        "published_label": "Sat 15 Aug, 08:32",
-        "summary": "Japan coach Eddie Jones has delivered a playful “free pizza” quip at Wallabies prop Taniela Tupou, who burrowed over for two tries.",
-        "body": "Japan coach Eddie Jones has delivered a playful “free pizza” quip at Wallabies prop Taniela Tupou, who burrowed over for two tries in a 56-17 win in Townsville. It’s the first time Tupou has scored in back-to-back games since April 2021, while playing for the Queensland Reds.\n\nTupou got on the scoresheet for the Wallabies in a 35-32 nail-biter against the Brave Blossoms last weekend, before being named in the starting side for the next Flight Centre Series match at Queensland Country Bank Stadium.",
-        "copy": "Japan coach Eddie Jones has delivered a playful “free pizza” quip at Wallabies prop Taniela Tupou, who burrowed over for two tries in a 56-17 win in Townsville. It’s the first time Tupou has scored in back-to-back games since April 2021, while playing for the Queensland Reds.\n\nTupou got on the scoresheet for the Wallabies in a 35-32 nail-biter against the Brave Blossoms last weekend, before being named in the starting side for the next Flight Centre Series match at Queensland Country Bank Stadium.",
-        "first_seen": "2026-08-15T10:20:11.581569+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Bejlek continues stunning run to set up Gauff semi",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c9v4v8ke01xo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-22T10:03:42+00:00",
+        "published_label": "Sat 22 Aug, 10:03",
+        "summary": "Czech Sara Bejlek continued her stunning run at the Cincinnati Open as she upset American Madison Keys to reach her first WTA 1000 semi-final where she will face fourth seed Coco Gauff.",
+        "body": "Czech Sara Bejlek continued her stunning run at the Cincinnati Open as she upset American Madison Keys to reach her first WTA 1000 semi-final, where she will face fourth seed Coco Gauff.\n\nUnseeded Bejlek, 20, has now beaten three major champions on her run to the last four, after taking the scalps of world number one Aryna Sabalenk in the fourth round and Barbora Krejcikova earlier in the tournament.",
+        "copy": "Czech Sara Bejlek continued her stunning run at the Cincinnati Open as she upset American Madison Keys to reach her first WTA 1000 semi-final, where she will face fourth seed Coco Gauff.\n\nUnseeded Bejlek, 20, has now beaten three major champions on her run to the last four, after taking the scalps of world number one Aryna Sabalenk in the fourth round and Barbora Krejcikova earlier in the tournament.",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
+      },
       {
         "section": "Tennis",
         "source": "Sky Sports",
@@ -3681,6 +3694,19 @@
         "body": "Jack Draper will miss the US Open, according to multiple reports, in the latest blow to the former world No. 4. Draper is continuing to battle a bone bruise in his dominant left arm and, after two dispiriting matches in the U.S., the Press Association reported that he has concluded he needs more time to recover.\n\nThe news, which comes only a couple of hours after world number one Jannik Sinner announced he would miss the tournament with a knee injury, means Draper will not have played in a single grand slam this year.",
         "copy": "Jack Draper will miss the US Open, according to multiple reports, in the latest blow to the former world No. 4. Draper is continuing to battle a bone bruise in his dominant left arm and, after two dispiriting matches in the U.S., the Press Association reported that he has concluded he needs more time to recover.\n\nThe news, which comes only a couple of hours after world number one Jannik Sinner announced he would miss the tournament with a knee injury, means Draper will not have played in a single grand slam this year.",
         "first_seen": "2026-08-21T18:33:48.135313+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper withdraws from US Open as injury nightmare continues",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbE5IZjNycU1XaHBJanF6SFAyNWZibFI1WlBjYW5Odlh0NDRSMjJ1ZkN1S2NrZ0ZlektrUTdBTUVyZW1jd1dKZzluWjJydWtTcFBCVGR4MVNacF9tdVM3SnBwTko2bEgtTmZBaFNtWnhGUk5ybE9tMEdPY0ZkTHhfeE5MaHJFaS1uQVJPUUFqdnloc0ZTUTJGVEljWUM?oc=5",
+        "published": "2026-08-21T16:41:00+00:00",
+        "published_label": "Fri 21 Aug, 16:41",
+        "summary": "Jack Draper withdraws from US Open as injury nightmare continues The Independent",
+        "body": "- Jack Draper has withdrawn from the US Open due to a persistent bone bruising injury to his dominant left arm. - The decision means the former world No 4 will not feature in a single grand slam tournament throughout 2026.\n\n- Draper previously missed the French Open and Wimbledon before suffering back-to-back losses in Montreal and Cincinnati. - The 2024 US Open semi-finalist has decided he requires additional time away from the court to recover fully.",
+        "copy": "- Jack Draper has withdrawn from the US Open due to a persistent bone bruising injury to his dominant left arm. - The decision means the former world No 4 will not feature in a single grand slam tournament throughout 2026.\n\n- Draper previously missed the French Open and Wimbledon before suffering back-to-back losses in Montreal and Cincinnati. - The 2024 US Open semi-finalist has decided he requires additional time away from the court to recover fully.",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
       },
       {
         "section": "Tennis",
@@ -3759,6 +3785,19 @@
         "body": "World No 1 Jannik Sinner has withdrawn from this month's US Open due to a right knee injury. Sinner has been out of action since winning Wimbledon last month, his fifth Grand Slam title, where he beat Alexander Zverev in the final to successfully defend his title at the All England Club.\n\nHe missed the Masters 1000 events in Canada and Cincinnati, pulling out of the latter with a right knee injury to focus on being ready to play at Flushing Meadows, but has confirmed he will be unable to feature in New York.",
         "copy": "World No 1 Jannik Sinner has withdrawn from this month's US Open due to a right knee injury. Sinner has been out of action since winning Wimbledon last month, his fifth Grand Slam title, where he beat Alexander Zverev in the final to successfully defend his title at the All England Club.\n\nHe missed the Masters 1000 events in Canada and Cincinnati, pulling out of the latter with a right knee injury to focus on being ready to play at Flushing Meadows, but has confirmed he will be unable to feature in New York.",
         "first_seen": "2026-08-21T16:31:15.877218+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper ruled out of US Open",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2ZCMHZ5bEdPNGxRdS1NQzlzRUp3aGpGTVdvZkFDeFJUVm9KT0FKOUhvTWpQamV2TDkxdmlvRmdQUzlvQ2NfRmlUcnNnM2ZxLXZ6RUpfb09sMi1NbjhHWUZPcXlQckVOYktWNVJtcW9Ub29Cd2NRaFVwNXlxMmEzM2FvZEw2SnhUTEpya3ZtOTRnTXlidUZneFZuNHkyZXJqeXpnend3?oc=5",
+        "published": "2026-08-21T15:21:00+00:00",
+        "published_label": "Fri 21 Aug, 15:21",
+        "summary": "Jack Draper ruled out of US Open The Telegraph",
+        "body": "Jack Draper has pulled out of the US Open after Jannik Sinner also withdrew from the final major of the year in a bitter blow to men’s tennis. Just weeks after he wept through an entire changeover – a moment Draper would later proclaim to be “rock bottom” – it appears there will be no immediate respite from a bone bruise in his elbow that has turned into a chronic problem.\n\nCompeting at the US Open was just too great an ask for a player who has already been beset by injuries but is one of the few on tour with the tools in his arsenal to threaten the top two.",
+        "copy": "Jack Draper has pulled out of the US Open after Jannik Sinner also withdrew from the final major of the year in a bitter blow to men’s tennis. Just weeks after he wept through an entire changeover – a moment Draper would later proclaim to be “rock bottom” – it appears there will be no immediate respite from a bone bruise in his elbow that has turned into a chronic problem.\n\nCompeting at the US Open was just too great an ask for a player who has already been beset by injuries but is one of the few on tour with the tools in his arsenal to threaten the top two.",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
       },
       {
         "section": "Tennis",
@@ -4529,6 +4568,32 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Highlights: Wildcard Lee takes slender 36-hole lead over chasing pack",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR1JnUFlUb29vTnNaZUJ1ZmYxMjFidS1fanZZQl9POHNydEdjNnV0UlJNMUhkczBELWowSlNUNVM4bXhxNEgxZkZrZkF0bW9wa3ZBMkRLZG9wRlpja2RxUllWYUgzcDVoMEYxb3N5N2FWMWF3U3VGUlJqb2N1d2FUNl93bkh1OEJnYWxxUHpZM3pVVWJRMS1qeDc0MzhaQkNXVXQ3V0pXLVZneXJMYVdkOGJPRWloNUNxRHhLS25sTmw2UU9OVnczTnQ3eUtQOFdkWUItTEdB?oc=5",
+        "published": "2026-08-22T09:48:45+00:00",
+        "published_label": "Sat 22 Aug, 09:48",
+        "summary": "Highlights: Wildcard Lee takes slender 36-hole lead over chasing pack TNT Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau asks for ‘one more shot’ as pressure grows on LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmQzZGJDUmFEQklqWlBKOVZURlhnMGpTWGgzVk4zdllKY1Z6YzV1TUJMcWNrQXVfelBlOC1ZT0V1X3ZUZXczOWpHZy1fNnJoaHFUS1R6MzBYdUZ6TE1teDRWVzlMSjhDelpfTG93dEhoSjhrVmdCVjF0R0sxdktJMzVZTDZFRkR3a1pvRUV4UWlYbkNKdnY1dnItUTREVzY4V0xsVGhOZDZaUXd3SWRhcGFvazRFbUxqZUlMMVBaenRxQWc?oc=5",
+        "published": "2026-08-22T09:30:18+00:00",
+        "published_label": "Sat 22 Aug, 09:30",
+        "summary": "Bryson DeChambeau asks for ‘one more shot’ as pressure grows on LIV Golf Tennis World USA",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6615,6 +6680,32 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "Gicquel/Delrue Make History for France",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGk1dUxwYVRTUXRZY1pOTUctdkhLaUNLbTBkY0ItdHFZMDNWNF8weHdKVFVtMU8yd2dzakNLRmxobWhscEN6ek1LOXFDem1uTzZNTUJNNFJWRjc1TG1jdUdvbTZHVkdYMVZiOUR4aHdibFhjcU40b0lfUlByQ2RhNzk5VDl2bDNYOUpqdjZsOS13WWtpRG9qeUUwdTZEeXdSUHM4TnZJVUtXM2ZEbkE?oc=5",
+        "published": "2026-08-22T08:55:43+00:00",
+        "published_label": "Sat 22 Aug, 08:55",
+        "summary": "Gicquel/Delrue Make History for France BWF World Championships",
+        "body": "A first-ever final place for France at the BWF World Championships came with an unusual end-game. Having pulled level from a game down, Thom Gicquel and Delphine Delrue saw themselves steaming ahead of Jiang Zhen Bang/Wei Ya Xin with 12 points in a row. That phase effectively sealed the contest in favour of the French, for although the Chinese tried to make a match of it, the gap was too wide. Gicquel/Delrue bettered their performance from the last edition when they took home a bronze medal. This time it will be gold or silver against top seeds Feng Yan Zhe/Huang Dong Ping.\n\n“We were not ready to lead 12-0 in a semifinal,” said Delrue. “But we were really focussed on the first three shots and we put a lot of pressure on him (Jiang) specially. We wanted to show that nothing will be easy and at the end it was stressful because they played without pressure, so we needed to stay focussed after that.”",
+        "copy": "A first-ever final place for France at the BWF World Championships came with an unusual end-game. Having pulled level from a game down, Thom Gicquel and Delphine Delrue saw themselves steaming ahead of Jiang Zhen Bang/Wei Ya Xin with 12 points in a row. That phase effectively sealed the contest in favour of the French, for although the Chinese tried to make a match of it, the gap was too wide. Gicquel/Delrue bettered their performance from the last edition when they took home a bronze medal. This time it will be gold or silver against top seeds Feng Yan Zhe/Huang Dong Ping.\n\n“We were not ready to lead 12-0 in a semifinal,” said Delrue. “But we were really focussed on the first three shots and we put a lot of pressure on him (Jiang) specially. We wanted to show that nothing will be easy and at the end it was stressful because they played without pressure, so we needed to stay focussed after that.”",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "tsx pix 2026-821 usa badminton-bwf logos",
+        "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPNElRRjROc29SN21UN2RpbTZvWWw0MFg4b25TQU1GVFdZbWs4MlpNeXJSYV9tQ001Y0JtbGJjY3JsWEpQSmJwMW55SExuTU04eTU2UDlic2NxRV9XUTJVaUxnZnhMZkFqUF9kQi05WGZta3dDV1pGTHFRV0RiMGprdG1CYU1qWFhGMXRXd1RrUHk0VjFEWGRtLVQwT2g4bHRleGx6Y2Noa0cwRHoxMFpFa1F1ZHRDc3RWNWdGQlBodThsdFp2eFVTWVdBcjhVQ1dQWGpoakkzOVg2VjdYNlhHRC1SY3RfM1JTUS1ENGxCcXlmbTdlTmxCWGxoeWROUVZ5M0RfX0hDMHZrMVRwYWEzMGNKT21kZzhzNVoyZ0hxU1k1bm1qLU5VYlZjYVU3TmhVRmZ5eGpiSQ?oc=5",
+        "published": "2026-08-22T08:43:27+00:00",
+        "published_label": "Sat 22 Aug, 08:43",
+        "summary": "tsx pix 2026-821 usa badminton-bwf logos The Sports Examiner",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-22T10:21:08.865457+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "Top Seeds Survive Plucky Indonesians",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZktkN2dVS0NpOENkYThEODhBT2ZtSjc1XzRYLWNLQ2lnY2dTTUVYRlp3MV9SV0hYVDNMTFVLYzM3dWNFam45R0VFSXloSzNLcnpSYlh5bHlnTW16eXRaOGVDclRRNDQ5RGh1UmlGaWZpRjRzNk9wWUpJWWYwWnpkeHNjbnJmb1VtVWNXUElWYWx2TkZNT1pYT0g4YUdUcVJhOV84LVg0c1ZkNFE?oc=5",
         "published": "2026-08-22T07:45:18+00:00",
@@ -8430,48 +8521,9 @@
         "body": "Starting August 16, 2026, India will play host to the BWF Badminton World Championships for a second time, in circumstances vastly different from the first time the nation hosted it.\n\nBack in 2009, the Worlds were barely a blip on the Indian sporting radar, badminton still a mix of Prakash Padukone-Pullela Gopichand inspired nostalgia and Saina Nehwal induced hope. At the time the bigger talking point wasn't if India would medal or not, it was England pulling out due to a terror threat.",
         "copy": "Starting August 16, 2026, India will play host to the BWF Badminton World Championships for a second time, in circumstances vastly different from the first time the nation hosted it.\n\nBack in 2009, the Worlds were barely a blip on the Indian sporting radar, badminton still a mix of Prakash Padukone-Pullela Gopichand inspired nostalgia and Saina Nehwal induced hope. At the time the bigger talking point wasn't if India would medal or not, it was England pulling out due to a terror threat.",
         "first_seen": "2026-08-15T12:32:11.382631+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "‘Good Spirit and Just Hungry for a Medal’",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelVEVVE5WTdWa3ItYVZIdGFCNEhVOEZLcDM2LTdQWnFqd0d4SHI4cW5WSzBjclpqbTBtLTh6Q3BlZFN2N01yM2txYmRxVUpnSUpCTDhFM2hLM0JfYnpkb1hxOWZEV21paXNobEp1NjM3MmZ4R2JaY1RQX3ZVQ3RHWjhqZWtmZHcxTnFoRDk0RUpkRlBldEItWEVUckRfWWdtLWV4ZC1SSEVzUDZXWUYw?oc=5",
-        "published": "2026-08-15T09:57:58+00:00",
-        "published_label": "Sat 15 Aug, 09:57",
-        "summary": "‘Good Spirit and Just Hungry for a Medal’ BWF World Championships",
-        "body": "Far from letting his close second round loss at his home BWF World Championships dispirit him, Christo Popov used it as a springboard for a spectacular 12 months. Last year he was close to taking out top seed Shi Yu Qi in the Round of 16 in front of a delirious crowd in Paris; Shi would survive and go on to win the title.\n\nFor Popov, there was much to take from that performance. Since then, he has been among the most impressive players on the circuit. He would make history for France in winning the HSBC BWF World Tour Finals; this year would see him win the European Championships, spearhead France into the final of the BWF Thomas Cup, and win his first Super 750 tournament in Japan.",
-        "copy": "Far from letting his close second round loss at his home BWF World Championships dispirit him, Christo Popov used it as a springboard for a spectacular 12 months. Last year he was close to taking out top seed Shi Yu Qi in the Round of 16 in front of a delirious crowd in Paris; Shi would survive and go on to win the title.\n\nFor Popov, there was much to take from that performance. Since then, he has been among the most impressive players on the circuit. He would make history for France in winning the HSBC BWF World Tour Finals; this year would see him win the European Championships, spearhead France into the final of the BWF Thomas Cup, and win his first Super 750 tournament in Japan.",
-        "first_seen": "2026-08-15T10:20:11.581569+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "‘Just Hungry for a Medal’",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGg0MGJYZzh0QlE5R0hZUzRLek5lWGJOTFlMdURVd2FrQk5hSnJ0cUdwNFUyeVZaWDc0TjM1dVNweU1mTDV1cm1fY1RGOVRNc2NEb3ZxUXNoeGNieU5kRURldk9iNHZoNFdoMU1wUmlZcFNDR2pJV0Q2R3BMTVNPRE94WW80c3hxQ2ZKUDFvV2dtaHVyWEw2WUJOT1VXbXY2TlFIVWhfcVRxX1k1NWc?oc=5",
-        "published": "2026-08-15T09:57:58+00:00",
-        "published_label": "Sat 15 Aug, 09:57",
-        "summary": "‘Just Hungry for a Medal’ bwfworldchampionships.bwfbadminton.com",
-        "body": "Far from letting his close second round loss at his home BWF World Championships dispirit him, Christo Popov used it as a springboard for a spectacular 12 months. Last year he was close to taking out top seed Shi Yu Qi in the Round of 16 in front of a delirious crowd in Paris; Shi would survive and go on to win the title.\n\nFor Popov, there was much to take from that performance. Since then, he has been among the most impressive players on the circuit. He would make history for France in winning the HSBC BWF World Tour Finals; this year would see him win the European Championships, spearhead France into the final of the BWF Thomas Cup, and win his first Super 750 tournament in Japan.",
-        "copy": "Far from letting his close second round loss at his home BWF World Championships dispirit him, Christo Popov used it as a springboard for a spectacular 12 months. Last year he was close to taking out top seed Shi Yu Qi in the Round of 16 in front of a delirious crowd in Paris; Shi would survive and go on to win the title.\n\nFor Popov, there was much to take from that performance. Since then, he has been among the most impressive players on the circuit. He would make history for France in winning the HSBC BWF World Tour Finals; this year would see him win the European Championships, spearhead France into the final of the BWF Thomas Cup, and win his first Super 750 tournament in Japan.",
-        "first_seen": "2026-08-15T18:24:36.597835+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: Top 5 Men’s Singles Players to Watch",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVFSamdvbUtUU3VLclFCZEdwX0JwSGVDaDc5U3A5aHVsOHhBNHBibVhYbGdtaXhVcFJvOVFIWkxVT3ZBUzROQUdleklBSG9OM296WFpqS1VaRmFja1RadHo0SGFVUWJ2ak5fRjRIdEpGWVE0aE54RVh3LXdPdG9LQXg1YmQ0SnVtYnpRdGttOXdyeWN2SGpXNHZPWDZsQk9IUVhfNDRjRVpGOVdqV042WUtVNzhubVpGVXBF0gHCAUFVX3lxTE8yUDZrVG5hUi1qNjA3VlhjRnc2emJOb0h2OTFFSFdiMy1kMndFaGtfeEV4cjBxcDcyeHlEei1zcmt1cVVWdFpOQXhRMHZ5QlBFRjlmeGdUcDZfekkyTklyaEhZc3dLaDFYaFNXYkNabkpYaDlFMkdObi1lR2dOTnRpbkJGcWtDbXEwR2VUUW9fRWVzcG51eGQySC0wTHBxNTdjQTQxS1RRbTVRRm00RnBIN3k1b2ZYcnNlMWNvQ0hjUGt3?oc=5",
-        "published": "2026-08-15T09:26:05+00:00",
-        "published_label": "Sat 15 Aug, 09:26",
-        "summary": "BWF World Championships 2026: Top 5 Men’s Singles Players to Watch Sportstar",
-        "body": "The BWF World Championships 2026 will take place in New Delhi between August 17 and August 23. The men’s singles draw promises to be a closely contested, with multiple players looking ready to stake a strong claim for the title of world champion.\n\nAs the defending champion and currently ranked number one in the world, the pressure will be on Shi Yu Qui to mount a strong defence to his crown this time around. The top seed has had a tough 2026 thus far, winning just one title across the calendar year, but he led China to the Thomas and Uber Cup gold and will be the one to beat.",
-        "copy": "The BWF World Championships 2026 will take place in New Delhi between August 17 and August 23. The men’s singles draw promises to be a closely contested, with multiple players looking ready to stake a strong claim for the title of world champion.\n\nAs the defending champion and currently ranked number one in the world, the pressure will be on Shi Yu Qui to mount a strong defence to his crown this time around. The top seed has had a tough 2026 thus far, winning just one title across the calendar year, but he led China to the Thomas and Uber Cup gold and will be the one to beat.",
-        "first_seen": "2026-08-15T10:20:11.581569+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 650
+  "total": 654
 }
