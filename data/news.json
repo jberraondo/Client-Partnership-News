@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T07:54:41.517144+00:00",
-  "generated_label": "Saturday 22 August 2026, 07:54 UTC",
+  "generated_at": "2026-08-22T08:26:38.689697+00:00",
+  "generated_label": "Saturday 22 August 2026, 08:26 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Is sport safe from AI?",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vcGhFZm5aaTBFdzNFMEJYb0ltcmVkWGg4akhGbWVvMnhQem43WnVPblVMVEVmSW9XQW5SWE83a3hfd3lJWkxTUzJKNEY3VGFrb3RUNlNkb0h6eTJtU0tWLXZoQXhqQ1JXQTZIZGtaSjg?oc=5",
+        "published": "2026-08-22T08:00:08+00:00",
+        "published_label": "Sat 22 Aug, 08:00",
+        "summary": "Is sport safe from AI? Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-22T08:26:38.689697+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "The age of the populist financial scam",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lOEhhbkNwNGpudEpHbXZUeXdUb1VpSzNxd25RTU8wYlNfSmFUbU13YVctZUJxblhzN2dDRkNWSUZpdnE2U2taOGcwTm5HM1BUR1l4VVFoOTc3TnZsZy1uTkJhLXVKc0JuUlR4SzlpS0w?oc=5",
+        "published": "2026-08-22T04:18:11+00:00",
+        "published_label": "Sat 22 Aug, 04:18",
+        "summary": "The age of the populist financial scam Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-22T08:26:38.689697+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -141,6 +167,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-21T12:41:10.811894+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "US Open to offer record prize fund, Grand Slam Player Council formed",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkd2UDJ3V256TmoycU9LZ1EwTl9CdUs4UFVCTUhfeUJNMmZlcTZyQjdCck1hcG81b0UxdlNfYkN0bFVWX1FMQ1Z5YkIzNWJyUUpZcFRHOVptWTY4blFGOVRyTG1wTGhCX3NZM1BjRVlrZGVLbl9tYzFZT1FaSDJRMDhxVkViVWpnT0lsWU9XdEhxdzhENVhZNnRxaFRSYmM?oc=5",
+        "published": "2026-08-21T10:25:29+00:00",
+        "published_label": "Fri 21 Aug, 10:25",
+        "summary": "US Open to offer record prize fund, Grand Slam Player Council formed Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-22T08:26:38.689697+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -310,6 +349,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-20T16:32:27.733139+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "DAZN extends with Serie A in UK and Ireland; deals with LiveMode TV",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMENmd0tNZzUtU2pPN21CSW9BUC16MkVucl9Sakt5YjFPZzB0M1NQOGg2WldZZzZfdlRlTE5LVWZ2ZFhNS1A3R1pqaEdjOGtFNURYWEQ3V05RYXRkd0ZjV3N0NEJGSFZ3Zk1oSEI0WXpDUzhLV2xvRHVXalJxVFZ6a09wU05kOVdlNlhlNTVYVVNrNVRVanRadGVrLWxsdw?oc=5",
+        "published": "2026-08-20T14:14:43+00:00",
+        "published_label": "Thu 20 Aug, 14:14",
+        "summary": "DAZN extends with Serie A in UK and Ireland; deals with LiveMode TV Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-22T08:26:38.689697+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1389,19 +1441,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-16T06:35:55.000985+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "What the Lakers’ $12.5bn sale says about sports ownership",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanpIM1ZDMUd6QlVsall1enhMMWtvLWxtbERYUHZ6Q3NodjhOemExUUZhQUFSU0dXXy0xSHExbXpDVlVYTzJ5ZDdJTEp1Y3c2bTgzeGEzWGZhZ3dES1FNbTdCMUZZWnl3ZW1JUEJJQ3RXNmdIblFyOHdoc21iS0J3cHRmRHA?oc=5",
-        "published": "2026-08-15T08:00:02+00:00",
-        "published_label": "Sat 15 Aug, 08:00",
-        "summary": "What the Lakers’ $12.5bn sale says about sports ownership ft.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-15T12:32:11.382631+00:00"
       }
     ],
     "Rugby": [
@@ -3588,32 +3627,6 @@
         "body": "Japan coach Eddie Jones has delivered a playful “free pizza” quip at Wallabies prop Taniela Tupou, who burrowed over for two tries in a 56-17 win in Townsville. It’s the first time Tupou has scored in back-to-back games since April 2021, while playing for the Queensland Reds.\n\nTupou got on the scoresheet for the Wallabies in a 35-32 nail-biter against the Brave Blossoms last weekend, before being named in the starting side for the next Flight Centre Series match at Queensland Country Bank Stadium.",
         "copy": "Japan coach Eddie Jones has delivered a playful “free pizza” quip at Wallabies prop Taniela Tupou, who burrowed over for two tries in a 56-17 win in Townsville. It’s the first time Tupou has scored in back-to-back games since April 2021, while playing for the Queensland Reds.\n\nTupou got on the scoresheet for the Wallabies in a 35-32 nail-biter against the Brave Blossoms last weekend, before being named in the starting side for the next Flight Centre Series match at Queensland Country Bank Stadium.",
         "first_seen": "2026-08-15T10:20:11.581569+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Japan player ratings vs Australia | Flight Centre Series 2026",
-        "link": "https://www.rugbypass.com/news/japan-player-ratings-vs-australia-flight-centre-series-2026-2/",
-        "published": "2026-08-15T08:17:22+00:00",
-        "published_label": "Sat 15 Aug, 08:17",
-        "summary": "Japan player ratings: After a superb performance in which Japan came close to overcoming Australia for the first time...",
-        "body": "Japan player ratings: After a superb performance in which Japan came close to overcoming Australia for the first time, Eddie Jones’ Brave Blossoms ended up conceding their second-biggest loss to the Wallabies just eight days later, coming out of Townsville with a 56-17 loss.\n\nDespite the disappointing result, Ben Gunter, Naoto Saito, Harry Hockings and Shuhei Takeuchi tried their best to deliver a memorable result for Japanese fans. Japan handled the Wallabies’ front row well enough, conceding only one penalty during Takato Okabe’s time on the pitch. Like Hayate Era or Ben Gunter, the loosehead prop was one of Japan’s strongest tacklers on the field.",
-        "copy": "Japan player ratings: After a superb performance in which Japan came close to overcoming Australia for the first time, Eddie Jones’ Brave Blossoms ended up conceding their second-biggest loss to the Wallabies just eight days later, coming out of Townsville with a 56-17 loss.\n\nDespite the disappointing result, Ben Gunter, Naoto Saito, Harry Hockings and Shuhei Takeuchi tried their best to deliver a memorable result for Japanese fans. Japan handled the Wallabies’ front row well enough, conceding only one penalty during Takato Okabe’s time on the pitch. Like Hayate Era or Ben Gunter, the loosehead prop was one of Japan’s strongest tacklers on the field.",
-        "first_seen": "2026-08-15T08:24:51.134629+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Rugby Sevens set for historic return at Dakar 2026 Youth Olympic Games",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalVfNFM0NHkzLTRWc0lnV2ZJTXpMamxIbmlWQWJIeTJsdVN5YXZnbVJ6eDlTZ2Y0SDByT0l6VG9uZmtkT0JpY29UbmZSSUtTeGpOX0plQVFoMktkVFdPQ0RDSjV3cDU0ZjZqMk85VXhLWEh2TXlSbUZGTk1uWjRZQll5OEQtQVhqOFZoN1BnbnNyU1dEbkdsdHNrYThPN3RqaUpuWm9n?oc=5",
-        "published": "2026-08-15T08:01:11+00:00",
-        "published_label": "Sat 15 Aug, 08:01",
-        "summary": "Rugby Sevens set for historic return at Dakar 2026 Youth Olympic Games EWN",
-        "body": "Rugby sevens will return to the Youth Olympic Games for the third time when the world's best young players compete at Dakar 2026 in Senegal. The tournament will kick off on November 1 at the 8,000-seat Complexe Iba Mar Diop, just one day after the opening ceremony on October 31. Medals will be awarded on November 2 and 3.\n\nDakar 2026 will make history as the first Olympic sporting event ever held on the African continent. The games will bring together around 2,700 young athletes competing across 25 different sports, including athletics, boxing, 3x3 basketball and coastal rowing.",
-        "copy": "Rugby sevens will return to the Youth Olympic Games for the third time when the world's best young players compete at Dakar 2026 in Senegal. The tournament will kick off on November 1 at the 8,000-seat Complexe Iba Mar Diop, just one day after the opening ceremony on October 31. Medals will be awarded on November 2 and 3.\n\nDakar 2026 will make history as the first Olympic sporting event ever held on the African continent. The games will bring together around 2,700 young athletes competing across 25 different sports, including athletics, boxing, 3x3 basketball and coastal rowing.",
-        "first_seen": "2026-08-15T08:24:51.134629+00:00"
       }
     ],
     "Tennis": [
@@ -8460,5 +8473,5 @@
     ],
     "Competitor News": []
   },
-  "total": 649
+  "total": 650
 }
