@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T06:36:50.000105+00:00",
-  "generated_label": "Sunday 23 August 2026, 06:36 UTC",
+  "generated_at": "2026-08-23T07:57:01.201215+00:00",
+  "generated_label": "Sunday 23 August 2026, 07:57 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -3736,6 +3736,19 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Pegula's three-hour epic sets up all‑US final",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cr595z6jqjdo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-23T07:27:28+00:00",
+        "published_label": "Sun 23 Aug, 07:27",
+        "summary": "Jessica Pegula's win over Iga Swiatek means the Cincinnati Open will stage its first all‑American women's final in 56 years.",
+        "body": "Jessica Pegula beat Iga Swiatek in a match that lasted almost three hours to book her spot in the final of the Cincinnati Open. Third seed Pegula won 7-5 4-6 6-4 against the six-time Grand Slam champion in a contest featuring 13 breaks of serve.\n\nPegula and Coco Gauff, who beat unseeded Czech Sara Bejlek 6-4 6-1 earlier on Saturday, will contest the first all‑American women's final in Cincinnati in 56 years on Sunday. Rosie Casals beat Nancy Richey in the 1970 final.",
+        "copy": "Jessica Pegula beat Iga Swiatek in a match that lasted almost three hours to book her spot in the final of the Cincinnati Open. Third seed Pegula won 7-5 4-6 6-4 against the six-time Grand Slam champion in a contest featuring 13 breaks of serve.\n\nPegula and Coco Gauff, who beat unseeded Czech Sara Bejlek 6-4 6-1 earlier on Saturday, will contest the first all‑American women's final in Cincinnati in 56 years on Sunday. Rosie Casals beat Nancy Richey in the 1970 final.",
+        "first_seen": "2026-08-23T07:57:01.201215+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
         "title": "Mixed Doubles Championship: Schedule and format",
@@ -4669,22 +4682,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-16T18:24:27.908342+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Kirsty Gilmour: ‘I wouldn’t swap places with Emma Raducanu’",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelNzTklaM19KV3pQdVhDd1l0aVpsVERUejd6aTlBZjVaX0VVOHl3VVJDT0ZnWnVOSVA5UUZQdlM0UjBJbm1nQURJMFowZXlIdm0wRGRlSFl0TEVSczZPa3RvcFpLYXVLREpqeUFZVkRSbnVPZDM5OEkwSm9sbEtZRjdObWk0UW1RNmpMZWJWMTV1enJpWnJialJVc3RCUQ?oc=5",
-        "published": "2026-08-16T07:20:58+00:00",
-        "published_label": "Sun 16 Aug, 07:20",
-        "summary": "Kirsty Gilmour: ‘I wouldn’t swap places with Emma Raducanu’ The Observer",
-        "body": "Kirsty Gilmour is a three-time Olympian who four months ago became Britain’s first European women’s singles badminton champion in 40 years. She is ranked higher globally in badminton than Emma Raducanu is in tennis.\n\nThere were, however, not too many double takes at the airport on Thursday when she flew out to compete at next week’s World Championships in Delhi. Gilmour can quite easily do the weekly shop without being mobbed.",
-        "copy": "Kirsty Gilmour is a three-time Olympian who four months ago became Britain’s first European women’s singles badminton champion in 40 years. She is ranked higher globally in badminton than Emma Raducanu is in tennis.\n\nThere were, however, not too many double takes at the airport on Thursday when she flew out to compete at next week’s World Championships in Delhi. Gilmour can quite easily do the weekly shop without being mobbed.",
-        "first_seen": "2026-08-16T16:21:22.274014+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Highlights: La Sasso takes one shot lead at LIV Golf Indianapolis",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUEh2RnRrODF4NFlYVXNaWnpRZFlrdi1xN1RCOThmdzZ6a291TWhIX1Y5cmRyWHZTUFB6QXZEQkI0NVF3bWFNX3ltVWJJQi1pMExCdHl3WEdaekVySENsV1pQUzBtam53WUhXMlM4cXF2LWl0NVVFTVhjTVNuUVlaVkQtOF81TUJXZUlwWjBlM3dJeFFSLXFHSUxzRjlWNWQ4d0gtcURkVVI4UnJfZEUwSzd6YmlJRXBTbkVOd1dqbnlmZmZvR1B0cTVHTHAzMlRYVzR1VHB1YlFxYkFncms1ZE0zaHB5MHB2SFFCVy16b1FyWDB6aXc?oc=5",
+        "published": "2026-08-23T07:12:33+00:00",
+        "published_label": "Sun 23 Aug, 07:12",
+        "summary": "Highlights: La Sasso takes one shot lead at LIV Golf Indianapolis TNT Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T07:57:01.201215+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Heroic effort needed to catch Clark",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c0m7mrp9pd7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-23T07:07:11+00:00",
+        "published_label": "Sun 23 Aug, 07:07",
+        "summary": "Rory McIlroy shoots a five-under-par 65 to move into a share of second place after three rounds of the BMW Championship in St Louis.",
+        "body": "Rory McIlroy shot a five-under 65 to move to joint-second after three rounds of the BMW Championship, but said it will take a \"heroic effort\" to chase down leader Wyndham Clark.\n\nNorthern Irishman McIlroy improved from a second-round 69 that cost him his first-day lead, birdieing four of the last six holes to move to 12 under. Patrick Cantlay is level with McIlroy after carding a 66, while fellow American Clark extended his lead at Bellerive Country Club in St Louis to five shots with a 65.",
+        "copy": "Rory McIlroy shot a five-under 65 to move to joint-second after three rounds of the BMW Championship, but said it will take a \"heroic effort\" to chase down leader Wyndham Clark.\n\nNorthern Irishman McIlroy improved from a second-round 69 that cost him his first-day lead, birdieing four of the last six holes to move to 12 under. Patrick Cantlay is level with McIlroy after carding a 66, while fellow American Clark extended his lead at Bellerive Country Club in St Louis to five shots with a 65.",
+        "first_seen": "2026-08-23T06:36:50.000105+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -4748,19 +4774,6 @@
         "summary": "Good Good, a YouTube content outlet, issued an apology on Saturday for a controversial Callaway Golf video ad. The post Good Good apologizes for controversial Callaway Golf video ad appeared first on Golf .",
         "body": "Good Good, a YouTube content outlet, apologized Saturday for a since-deleted video showing a man shoving a woman to the ground as part of an ad for a Callaway Golf golf club. “We posted a video to our channels that ultimately depicted actions that are not aligned with our values as a brand,” the Good Good statement said. “We have since taken that content down. And sincerely apologize. Good Good has always stood for making the game of golf more inclusive to all, and we will continue to ensure that is our mission moving forward.”\n\nA few hours later, a Callaway spokesperson shared the following statement with GOLF.com: “We are disappointed by the content that was posted, and are appreciative of Good Good for addressing this. We look forward to working together to ensure a more inclusive space in golf.”",
         "copy": "Good Good, a YouTube content outlet, apologized Saturday for a since-deleted video showing a man shoving a woman to the ground as part of an ad for a Callaway Golf golf club. “We posted a video to our channels that ultimately depicted actions that are not aligned with our values as a brand,” the Good Good statement said. “We have since taken that content down. And sincerely apologize. Good Good has always stood for making the game of golf more inclusive to all, and we will continue to ensure that is our mission moving forward.”\n\nA few hours later, a Callaway spokesperson shared the following statement with GOLF.com: “We are disappointed by the content that was posted, and are appreciative of Good Good for addressing this. We look forward to working together to ensure a more inclusive space in golf.”",
-        "first_seen": "2026-08-23T06:36:50.000105+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "McIlroy improves to go joint-second as Clark retains lead",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c0m7mrp9pd7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-22T22:19:28+00:00",
-        "published_label": "Sat 22 Aug, 22:19",
-        "summary": "Rory McIlroy strikes a five-under 65 to move joint-second on day three at the BMW Championship.",
-        "body": "Rory McIlroy struck a five-under 65 to move to joint-second on day three at the BMW Championship. The Northern Irishman improved from a day two round of 69 that cost him his first-day lead, birdieing four of the last six holes to move up to second spot on 12 under.\n\nAmerican Patrick Cantlay of the United States is level with McIlroy, having shot a 66 on Saturday, while his compatriot Wyndham Clark extended his lead at Bellerive Country Club to five shots with a 65.",
-        "copy": "Rory McIlroy struck a five-under 65 to move to joint-second on day three at the BMW Championship. The Northern Irishman improved from a day two round of 69 that cost him his first-day lead, birdieing four of the last six holes to move up to second spot on 12 under.\n\nAmerican Patrick Cantlay of the United States is level with McIlroy, having shot a 66 on Saturday, while his compatriot Wyndham Clark extended his lead at Bellerive Country Club to five shots with a 65.",
         "first_seen": "2026-08-23T06:36:50.000105+00:00"
       },
       {
@@ -8690,48 +8703,9 @@
         "body": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
         "copy": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
         "first_seen": "2026-08-16T08:25:34.814516+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton - BWF World Championships 2026: Wang Zhiyi on her rapid rise, \"I have become more resilient\" - exclusive",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNk1ocmR5V1lwbUk5ZVEtWHUwcVNjNzFwSUJYRERoWEF1LVpfM3lmQ0Zjcl9YR1JtQVJma2dhNl9YbGUxenlzcXhFZG8tNEpfRFBhMDAtTklwTWd2U2k4Wm9XTnRtNWluamIxZ1JRV2J3RUN5M08wQTZ3d0hHcHlOTW9NTjJySnI1VUdfSkdySDdhcDZKS3dfQzZVZ21rSk0?oc=5",
-        "published": "2026-08-16T07:52:00+00:00",
-        "published_label": "Sun 16 Aug, 07:52",
-        "summary": "Badminton - BWF World Championships 2026: Wang Zhiyi on her rapid rise, \"I have become more resilient\" - exclusive olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T08:25:34.814516+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF Worlds: Sindhu eyes 6th medal; Satwik-Chirag chase glory",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORDNOS0psakk2b05XMld3S3dmbnpSTDdZREcycGQtZEVKTG9yQkRPMlVZNDJnak1DOGhlX0ZVY29fOTg4T3otZHJIZm1EX0YwNG5KLTNkUDVVVGlWYW1RQm9lRTZ1ZjhQZjF2M3pOZUVobnlTbVBwcmxmRnVxLUVnWHo4Mk01cy1uNEg2ZDFUMDJ4M3FzamdqdFpORlFUMFQxYjB1TFY1dWFhc05s0gGvAUFVX3lxTE9sYTBmeVp1eTFmS2FEZkRuTmo1dUszN2Q1MWIyYUVzejJGb0xzYmZmYVoxSm50TmNtYlItVVdqOXRZd3RldEtNQ3lnZ0xhNzZVaUNfdzRrSVdpMWs4b0pfTDktNVRtVWx2XzRUc0hnVkJ4ZjZiV0I0NmxHTC1RSDZST1RTR2p6NzdKZTRoSDlZT250Ylo5SE1xSUZ6aF8wNlQyamxjXzlBSEdQdW1UQmM?oc=5",
-        "published": "2026-08-16T07:37:49+00:00",
-        "published_label": "Sun 16 Aug, 07:37",
-        "summary": "BWF Worlds: Sindhu eyes 6th medal; Satwik-Chirag chase glory Rediff",
-        "body": "Two-time Olympic medallist PV Sindhu is poised to make history at the BWF World Championships in New Delhi, aiming for an unprecedented sixth medal as India hosts the prestigious badminton tournament after 17 years, featuring both established stars and promising young talents.\n\n- PV Sindhu is aiming for an unprecedented sixth medal at the BWF World Championships, which would make her the first player in history to achieve this feat. - The tournament marks the return of the BWF World Championships to India after 17 years, with New Delhi hosting the prestigious event.",
-        "copy": "Two-time Olympic medallist PV Sindhu is poised to make history at the BWF World Championships in New Delhi, aiming for an unprecedented sixth medal as India hosts the prestigious badminton tournament after 17 years, featuring both established stars and promising young talents.\n\n- PV Sindhu is aiming for an unprecedented sixth medal at the BWF World Championships, which would make her the first player in history to achieve this feat. - The tournament marks the return of the BWF World Championships to India after 17 years, with New Delhi hosting the prestigious event.",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "\"More Special For Me\": Ayush Shetty Ahead Of BWF World Championships In India",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTBlX3dUR29udk83VW16LVNyOFpCYlRqbTdzbWxGNzNDaWd0cmFCWUdzaTJ4bWRkbDNGeDZRUEpOMURfQ0pzM1RreGdET0REX1N2cFJoeWltdkJyaDJ0eGxVcFBraHBWZkhHb05jQlNUNmE1NkZZSHJjUzVPRTlnWktGSC1oYWpQbHV6b2dMSUpwRzRxSE1GQ052MHI3c0JuaUV5X2t6UG0wLXVTS2RPakxfSTRBd29w?oc=5",
-        "published": "2026-08-16T07:16:35+00:00",
-        "published_label": "Sun 16 Aug, 07:16",
-        "summary": "\"More Special For Me\": Ayush Shetty Ahead Of BWF World Championships In India NDTV Sports",
-        "body": "You don't have permission to access \"http://sports.ndtv.com/badminton/more-special-for-me-ayush-shetty-ahead-of-bwf-world-championships-in-india-11916528\" on this server. Reference #18.575ed617.1786866852.599e48f1\n\nhttps://errors.edgesuite.net/18.575ed617.1786866852.599e48f1",
-        "copy": "You don't have permission to access \"http://sports.ndtv.com/badminton/more-special-for-me-ayush-shetty-ahead-of-bwf-world-championships-in-india-11916528\" on this server. Reference #18.575ed617.1786866852.599e48f1\n\nhttps://errors.edgesuite.net/18.575ed617.1786866852.599e48f1",
-        "first_seen": "2026-08-16T07:54:15.439350+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 670
+  "total": 668
 }
