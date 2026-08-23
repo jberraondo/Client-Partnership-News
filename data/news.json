@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T08:27:02.694589+00:00",
-  "generated_label": "Sunday 23 August 2026, 08:27 UTC",
+  "generated_at": "2026-08-23T10:22:13.099076+00:00",
+  "generated_label": "Sunday 23 August 2026, 10:22 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1493,19 +1493,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-17T06:47:46.737083+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "How a sports billionaire threatens to upend Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmtPelYzSmhwZVBycnA1NHE3cG5XaWNvQTZDQlJMMGk5eGYyRHFFWDVYbGJHelNLS3NfT3o4bDNnaHhoRnp4X2JONkM0UjRCeWFrUEphUWVOdW5VU1FqV19JRlhSNmtlQ0dmUDFaNGFYS21QWnY4U0hWSjZJUzRNd3FzLWQ?oc=5",
-        "published": "2026-08-16T10:00:02+00:00",
-        "published_label": "Sun 16 Aug, 10:00",
-        "summary": "How a sports billionaire threatens to upend Wall Street Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T14:21:06.800659+00:00"
       }
     ],
     "Rugby": [
@@ -3718,22 +3705,22 @@
         "body": "The WRU have decried what they have described as’highly personal insults and attacks’ directed at their staff and members of the board in recent weeks. In what amounts to more of a open letter to the Welsh rugby public than a traditional statement, the WRU have asked fans to desist from attacks directed at their personal.\n\nThe statement reads: “Whatever your views about what is best for the future of Welsh rugby, there is no justification for the highly personal insults and attacks that have been recently directed at members of our staff and at the WRU Board.",
         "copy": "The WRU have decried what they have described as’highly personal insults and attacks’ directed at their staff and members of the board in recent weeks. In what amounts to more of a open letter to the Welsh rugby public than a traditional statement, the WRU have asked fans to desist from attacks directed at their personal.\n\nThe statement reads: “Whatever your views about what is best for the future of Welsh rugby, there is no justification for the highly personal insults and attacks that have been recently directed at members of our staff and at the WRU Board.",
         "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Fifteen players under 22 to follow in this coming season’s Top 14",
-        "link": "https://www.rugbypass.com/news/15-players-under-22-to-follow-in-this-coming-seasons-top-14/",
-        "published": "2026-08-16T10:02:32+00:00",
-        "published_label": "Sun 16 Aug, 10:02",
-        "summary": "With another Top 14 about to begin, it’s time to turn on all systems and get you ready for another thrilling season that will have a lot of everything and...",
-        "body": "With another Top 14 about to begin, it’s time to turn on all systems and get you ready for another thrilling season that will have a lot of everything and, hopefully, yet another blockbuster edition of France’s premier rugby competition.\n\nSo, if you’re curious about the under-22 prospects ready to challenge established stars and make waves across the Top 14, this is the list for you. Each of these young talents has the potential to shape the season in their own way, with some already established in the Test Match scene, such as Brau-Boirie and Théo Attissogbé.",
-        "copy": "With another Top 14 about to begin, it’s time to turn on all systems and get you ready for another thrilling season that will have a lot of everything and, hopefully, yet another blockbuster edition of France’s premier rugby competition.\n\nSo, if you’re curious about the under-22 prospects ready to challenge established stars and make waves across the Top 14, this is the list for you. Each of these young talents has the potential to shape the season in their own way, with some already established in the Test Match scene, such as Brau-Boirie and Théo Attissogbé.",
-        "first_seen": "2026-08-16T10:21:17.009106+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Cincinnati Open: Coco Gauff and Jessica Pegula to meet in tournament's first all-American women's final in 56 years",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWl9VaWFxdTI2cDYxU0V3eS02aFBUWFB5Zmc2Z0xNNzlnTFROMU8wNDZHMFpsb1J4aFlEemhDWm1EdVFIUEdXSElfUDBTSy1SbWoxcWdfaUM3bjN0VWozVnNHbkg3RU9OT2VGd0cxaV9ESDVVSnZJSFA5TWtjNVVlN0JFS1RjVXVVaWtMa1AyeE1ubHIzbktEdVg2dUFKNnR4alRhcXpMekhNcExwc29XMjNfcGlMdThYOXNIRlRIT3RLOWhwcktBakdiSjdWNnVBUlZoYUptOUc5VGVqYWdEUi1OalZYSHJGaVlhVTAxTy1MTmpySXp0NA?oc=5",
+        "published": "2026-08-23T07:50:15+00:00",
+        "published_label": "Sun 23 Aug, 07:50",
+        "summary": "Cincinnati Open: Coco Gauff and Jessica Pegula to meet in tournament's first all-American women's final in 56 years Sky Sports",
+        "body": "The Cincinnati Open will host its first all-American women's final in 56 years after Coco Gauff and Jessica Pegula won their respective semi-finals. Fourth seed Gauff cruised home in her clash with Sara Bejlek, eclipsing the Czech 6-4 6-1, while third seed Pegula earned her spot by toppling defending champion Iga Swiatek 7-5 4-6 6-4.\n\nThe last Cincinnati Open final to feature two American women came in 1970 when Rosie Casals defeated Nancy Richey. Fellow American Frances Tiafoe also reached the men's final, where he will face France's Arthur Fils.",
+        "copy": "The Cincinnati Open will host its first all-American women's final in 56 years after Coco Gauff and Jessica Pegula won their respective semi-finals. Fourth seed Gauff cruised home in her clash with Sara Bejlek, eclipsing the Czech 6-4 6-1, while third seed Pegula earned her spot by toppling defending champion Iga Swiatek 7-5 4-6 6-4.\n\nThe last Cincinnati Open final to feature two American women came in 1970 when Rosie Casals defeated Nancy Richey. Fellow American Frances Tiafoe also reached the men's final, where he will face France's Arthur Fils.",
+        "first_seen": "2026-08-23T10:22:13.099076+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -4656,19 +4643,6 @@
         "body": "Novak Djokovic revealed he has been dealing with an ongoing health condition after his surprise second-round defeat at the Cincinnati Open. The 39-year-old said the condition was exacerbated by the heat and humidity in Ohio as he visibly struggled in a 6-2 4-6 4-6 loss to Argentina's world No 50 Thiago Agustin Tirante.\n\nDjokovic, currently world No 5 and playing his first match since losing to Jannik Sinner in the Wimbledon semi-finals in July, slumped to his hands and knees before taking a medical timeout midway through the second set.",
         "copy": "Novak Djokovic revealed he has been dealing with an ongoing health condition after his surprise second-round defeat at the Cincinnati Open. The 39-year-old said the condition was exacerbated by the heat and humidity in Ohio as he visibly struggled in a 6-2 4-6 4-6 loss to Argentina's world No 50 Thiago Agustin Tirante.\n\nDjokovic, currently world No 5 and playing his first match since losing to Jannik Sinner in the Wimbledon semi-finals in July, slumped to his hands and knees before taking a medical timeout midway through the second set.",
         "first_seen": "2026-08-16T16:21:22.274014+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Emma Raducanu Handed Shock Retirement Warning by Ex-British No. 1 as Injury Forces US Open Absence",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWVBQ0xzZEtEcnVOZC02NUxCMjRnYjBiNUpXbEdlUkIwY01IcFNJMk5xUHR6ZmtLZmFYeEdvbjljUWhuWFB4UEUydkZpaS1fcmZ3ZkxsZ1I0dXlLMHN6R3d0UjhWWkxrSDMzM1kxZkVIdVFiWlN3QU9SczhBNUhNUXBkY0FJQXNLUDV4eWFPZw?oc=5",
-        "published": "2026-08-16T09:20:48+00:00",
-        "published_label": "Sun 16 Aug, 09:20",
-        "summary": "Emma Raducanu Handed Shock Retirement Warning by Ex-British No. 1 as Injury Forces US Open Absence Yahoo Sports",
-        "body": "Former British World No. 1 Andrew Castle recently made a bold prediction about Emma Raducanu's career as she continues to recover from injury. Raducanu was last seen in action at the HSBC Championships, where she enjoyed a strong run and reached the final. However, she fell short of winning the title after losing to Donna Vekic in the final on June 14. Following the tournament, she has been away from the court due to a lower-leg injury sustained during the final.\n\nAfter undergoing medical tests, the injury was diagnosed as a stress fracture in her right lower leg. The setback forced her to withdraw from Wimbledon just hours before her opening match. She has also pulled out of the Canadian Open and the US Open as she continues her recovery. The US Open is scheduled to take place from August 23 to September 13 at the USTA Billie Jean King National Tennis Center.",
-        "copy": "Former British World No. 1 Andrew Castle recently made a bold prediction about Emma Raducanu's career as she continues to recover from injury. Raducanu was last seen in action at the HSBC Championships, where she enjoyed a strong run and reached the final. However, she fell short of winning the title after losing to Donna Vekic in the final on June 14. Following the tournament, she has been away from the court due to a lower-leg injury sustained during the final.\n\nAfter undergoing medical tests, the injury was diagnosed as a stress fracture in her right lower leg. The setback forced her to withdraw from Wimbledon just hours before her opening match. She has also pulled out of the Canadian Open and the US Open as she continues her recovery. The US Open is scheduled to take place from August 23 to September 13 at the USTA Billie Jean King National Tennis Center.",
-        "first_seen": "2026-08-16T10:21:17.009106+00:00"
       }
     ],
     "Golf": [
@@ -4879,6 +4853,19 @@
         "body": "The digital media space has become a massive playing ground for all different kinds of golf content. Bryson is obviously leading the charge from the professional side of the game, while Grant Horvat, The Bryan Bros, Bob Does Sports, and Good Good continue to grow the game with an audience size that just seems to keep expanding.\n\nYouTube golf is a real difference-maker in our sport at the moment, and with the PGA Tour continuing to grow its acceptance of the content atmosphere, it seems like it’s only going to grow in importance. GOLF’s own Josh Sens also recently did a great piece with ‘Fat Perez’ and his journey in the game.",
         "copy": "The digital media space has become a massive playing ground for all different kinds of golf content. Bryson is obviously leading the charge from the professional side of the game, while Grant Horvat, The Bryan Bros, Bob Does Sports, and Good Good continue to grow the game with an audience size that just seems to keep expanding.\n\nYouTube golf is a real difference-maker in our sport at the moment, and with the PGA Tour continuing to grow its acceptance of the content atmosphere, it seems like it’s only going to grow in importance. GOLF’s own Josh Sens also recently did a great piece with ‘Fat Perez’ and his journey in the game.",
         "first_seen": "2026-08-22T12:33:36.575226+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf pro weighs in on \"BS\" Jon Rahm rumours: \"He's going to do what's best for him\"",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHVJSV94dlh6Q3dxV3BpTlZJcDkzQjh1TVhWck9oZmpyNEdrX3lucllURkU4MFctQ1VrWlRpQmF1MmFmdzR3S2RUalpzSE41aHo5REtIZENGS0l6THZUdXo2RVlsNDlidnpWelNpU1V4ejVXcFdfa25PTDNORWNzTUxJQnVLc0FlWERBMWF4cDhQem4zQ3hJWDN5YUtncDBnWG9IRlFyWE9TQlE?oc=5",
+        "published": "2026-08-22T12:11:08+00:00",
+        "published_label": "Sat 22 Aug, 12:11",
+        "summary": "LIV Golf pro weighs in on \"BS\" Jon Rahm rumours: \"He's going to do what's best for him\" Golfmagic",
+        "body": "England's Richard Bland says he doesn't pay attention to the rumours linking Jon Rahm with an exit from LIV Golf as there's \"so much BS\" written in the media. LIV Golf may be having their swansong this week in Indianapolis.\n\nThe breakaway tour was told in April that Saudi Arabia's Public Investment Fund would no longer bankroll the venture after the end of the season. A new investor has been found and an agreement is in place to take the league forward in 2027, albeit with a reduced schedule.",
+        "copy": "England's Richard Bland says he doesn't pay attention to the rumours linking Jon Rahm with an exit from LIV Golf as there's \"so much BS\" written in the media. LIV Golf may be having their swansong this week in Indianapolis.\n\nThe breakaway tour was told in April that Saudi Arabia's Public Investment Fund would no longer bankroll the venture after the end of the season. A new investor has been found and an agreement is in place to take the league forward in 2027, albeit with a reduced schedule.",
+        "first_seen": "2026-08-23T10:22:13.099076+00:00"
       },
       {
         "section": "Golf",
@@ -6810,6 +6797,19 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "Gicquel/Delrue Break New Ground For France",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVJJa3JMRlJIR0o3SXVJQUJLdFBCS0tCOU5uU3ZZTUF2ZTRJamMzal9lbVhvbS1QUFUyWFFPa0tDR19DTWRnb2liNmxrdEdrQjBIWEpnbHprcTBvUWtkczc4UEpuem1HVzR2VlhvNi1LdV9hT3U3Q3ZSNmtHNEQ4cndwWUxNalRfVVp4SndObGw3NjRRQUc0aGVaQXN0TVZMQjhrWHB2Wko2SFlaSU5MQk5rWQ?oc=5",
+        "published": "2026-08-23T09:43:38+00:00",
+        "published_label": "Sun 23 Aug, 09:43",
+        "summary": "Gicquel/Delrue Break New Ground For France BWF World Championships",
+        "body": "France can celebrate their first-ever BWF World Championships gold after Thom Gicquel and Delphine Delrue outplayed top seeds Feng Yan Zhe/Huang Dong Ping in a tactical masterclass: 22-20 19-21 21-15.\n\nIt is Europe’s first gold in a paired event since 2009 – incidentally, also in India — when Denmark’s Thomas Laybourn/Kamilla Rytter-Juhl won the title. The French completely took Huang out of the equation at the net, and even dared to flick-serve Feng from time to time. In fact, it was a flick serve on match point that finally delivered the historic moment for France.",
+        "copy": "France can celebrate their first-ever BWF World Championships gold after Thom Gicquel and Delphine Delrue outplayed top seeds Feng Yan Zhe/Huang Dong Ping in a tactical masterclass: 22-20 19-21 21-15.\n\nIt is Europe’s first gold in a paired event since 2009 – incidentally, also in India — when Denmark’s Thomas Laybourn/Kamilla Rytter-Juhl won the title. The French completely took Huang out of the equation at the net, and even dared to flick-serve Feng from time to time. In fact, it was a flick serve on match point that finally delivered the historic moment for France.",
+        "first_seen": "2026-08-23T10:22:13.099076+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "BWF President Khunying Patama Leeswadtrakul Praises Amazing India",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTdxMDhjZFQwc0h5VmJOWFZVQ09qNGhLdWo2bnBhdGJjaFIxN0VtQWhqanJEYW8wM3J0eXBKMEh5T2VVWWpJQThoOElvSDE0UmVEQmdXeEJ1Vm5oMWU1VlBmWVU1eXd1dFpaYVlISTk3azN6RW9WZGtZVk85UWx0eGZkaTBTMk84cUp5NmNDTGVDZldROXAybVJ2NzNEZS12M3N3TW5iUklIMmxmTFFDWndHVzdfS2ZCRE9iRGpvY2dMODByVzhTdVRYRVY0M1VUUHc?oc=5",
         "published": "2026-08-23T07:57:03+00:00",
@@ -8638,61 +8638,9 @@
         "body": "The world’s best badminton players will descend on New Delhi as the BWF World Championships return to India for the first time in 17 years, with the prestigious tournament set to begin on Monday.\n\nThe Indira Gandhi Indoor Stadium will host seven days of action from August 17 to 23, with 64 players each competing in the men’s and women’s singles events, alongside 48 pairs across the three doubles disciplines.",
         "copy": "The world’s best badminton players will descend on New Delhi as the BWF World Championships return to India for the first time in 17 years, with the prestigious tournament set to begin on Monday.\n\nThe Indira Gandhi Indoor Stadium will host seven days of action from August 17 to 23, with 64 players each competing in the men’s and women’s singles events, alongside 48 pairs across the three doubles disciplines.",
         "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: Indian badminton stars excited for home event",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjRxd1lVZFJMaW9mZTU1OTlTRENMSzZyaHBwMjRYMFctMllVdzc1MTZaZnJibkNBX3ZDUHZDRjRlVFZ5MWh2cW9NTVl4eVJrelVOekNlTHpsNHdPN1YzZ2FVZUxVMnVnNkEtS2JxT0kzdzBNbXN1STNLSnZya3JtX1R6Ny1WV1I5TGZoeExCaFVSdXRI?oc=5",
-        "published": "2026-08-16T10:14:45+00:00",
-        "published_label": "Sun 16 Aug, 10:14",
-        "summary": "BWF World Championships 2026: Indian badminton stars excited for home event olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T10:21:17.009106+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: Know where to watch live streaming and telecast in India",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2M3Unk3WXN5NElxR19vMGEyc1h3MjIyMENPcGtxVXdjZ0VZS3Q1ejdwaTNReHFyN0VCRGUxT0VDTEdpYkRxU3RxU3MxZGtKYWJkempyZ0NzWXZRcW45RHV1Vzk1SS1helZvbjg5YVJhZ0QzNTc5ZnBMdm80MG4zLU8wcmlUUmVSRkE1UmVhbXo2ZHdNcEZvblRZQ1htSHpOMWhybDlLeFVMS3M?oc=5",
-        "published": "2026-08-16T10:11:00+00:00",
-        "published_label": "Sun 16 Aug, 10:11",
-        "summary": "BWF World Championships 2026: Know where to watch live streaming and telecast in India olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: Indian badminton stars excited for home event",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXJPSzZzWWRqVjd1MXBwcTJ6N0FRLWVxZk5TVkpMbndmYVZWbk1fVmk2Mm1KM2doZ21aeldiQ1diaXpqZlhBa3ZBSTRaMkt2MWpwWFNJenphX09oQXVWOE51Rlh2Z2VrWjVGVjN2b2RabW5tNmQ1Rld2MTIwUDlLWTdQRmJ5UHFqeE5xaS1qaHdNSHA5SEJWRmdn?oc=5",
-        "published": "2026-08-16T10:10:36+00:00",
-        "published_label": "Sun 16 Aug, 10:10",
-        "summary": "BWF World Championships 2026: Indian badminton stars excited for home event olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "PV Sindhu's competitive fire undimmed as BWF World Championships approach",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZDVhNnpJSjJZU1FIaTkwUm14WFA2WWVkSW5DcC1CN3FpTVQ2R29JMlo3cGNFaDkzWjF6R3ZEVnhaT21Kb3NYa0I2QjRjay1nTUJxZDF0WmxVSkl0T1JDanR5djdBOEFyUjNmakxUUjNXT21RclVTY0tyLXhweUhFWUVrNElvNVFkOTRQRUxvSUhCRjlzRVdZMjVKU3hRLUdVWUlGWFZXemRYVUdsU1RSdklyaXUwSEtkUE1SMjk1LWQ0VzNrd3FaOEkzOF8wUdIB0wFBVV95cUxNMXVCS3RsLTVlemxnbGtMWXZFMkZPM1pjdkpyWERfaFZGX1dwblIxaDMwTXpQUjZwR2xEWndIdkZVUXNkaFV1QW1lbWp3UkVsQ0RFZnJXTkMxNC1GWi1xM2FVM3hwV3NDMWFfSzdBWUJvbUFJLTRhdUVESGJPNER6NmM1THMtSF9FX2VWa1JvLUpDdmJWLVVLR1o2aHZDLXNaVUcwLXQxS2ZCV25CeUQ1S0hlZWptcWxELWtod0RYMC1XQUZBWlh1dHNhY2prQTRLY0hj?oc=5",
-        "published": "2026-08-16T08:55:59+00:00",
-        "published_label": "Sun 16 Aug, 08:55",
-        "summary": "PV Sindhu's competitive fire undimmed as BWF World Championships approach Firstpost",
-        "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/pv-sindhu-competitive-fire-undimmed-as-bwf-world-championships-approach-14038538.html\" on this server.\n\nReference #18.d37c4217.1786875661.11d0640e https://errors.edgesuite.net/18.d37c4217.1786875661.11d0640e",
-        "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/pv-sindhu-competitive-fire-undimmed-as-bwf-world-championships-approach-14038538.html\" on this server.\n\nReference #18.d37c4217.1786875661.11d0640e https://errors.edgesuite.net/18.d37c4217.1786875661.11d0640e",
-        "first_seen": "2026-08-16T10:21:17.009106+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 667
+  "total": 663
 }
