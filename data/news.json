@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T10:22:13.099076+00:00",
-  "generated_label": "Sunday 23 August 2026, 10:22 UTC",
+  "generated_at": "2026-08-23T12:34:19.941054+00:00",
+  "generated_label": "Sunday 23 August 2026, 12:34 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -24,6 +24,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-23T06:36:50.000105+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "‘Juggernaut’ BT’s decade-long turnaround hits crunch time",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42Vmx2aEpST29KLXZ1dWszbHU0eUxkeUdvdlNMNGRzUGsyREN0ZUxzLUN1X0tEQklLd1dteVZZWFRSa2hiUmMycXNBNGJaekJlVkgxc3QzSVhpbFdIUzlJaDZLR04yakxvY0NGLUhLY0M?oc=5",
+        "published": "2026-08-23T04:01:49+00:00",
+        "published_label": "Sun 23 Aug, 04:01",
+        "summary": "‘Juggernaut’ BT’s decade-long turnaround hits crunch time Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1496,6 +1509,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Springboks fans demand return of one player in particular ahead of Cape Town",
+        "link": "https://www.rugbypass.com/news/springboks-fans-demand-return-of-south-africa-duo-ahead-of-cape-town/",
+        "published": "2026-08-23T10:40:04+00:00",
+        "published_label": "Sun 23 Aug, 10:40",
+        "summary": "Springboks fans have urged Rassie Erasmus to bring Handré Pollard back into the starting picture for next week's Cape Town Test after South Africa's 33-16 defeat to the All Blacks in the opening match of Rugby's Greatest Rivalry.",
+        "body": "Springboks fans have urged Rassie Erasmus to bring Handré Pollard back into the starting picture for next week’s Cape Town Test after South Africa’s 33-16 defeat to the All Blacks in the opening match of Rugby’s Greatest Rivalry.\n\nMuch of the reaction centred on the No.10 jersey, with rising playmaker Sacha Feinberg-Mngomezulu coming under scrutiny after a difficult afternoon as New Zealand claimed a five-tries-to-one victory.",
+        "copy": "Springboks fans have urged Rassie Erasmus to bring Handré Pollard back into the starting picture for next week’s Cape Town Test after South Africa’s 33-16 defeat to the All Blacks in the opening match of Rugby’s Greatest Rivalry.\n\nMuch of the reaction centred on the No.10 jersey, with rising playmaker Sacha Feinberg-Mngomezulu coming under scrutiny after a difficult afternoon as New Zealand claimed a five-tries-to-one victory.",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -3653,58 +3679,6 @@
         "body": "Leinster are poised to open talks with their Ireland fly-half, Sam Prendergast, who entered the final year of his contract with the back-to-back United Rugby Championship champions at the start of July.\n\nPrendergast, who signed his first senior contract with the province three years ago, will have seen his stock skyrocket since signing his last contract in March 2025, after battling to become first-choice playmaker for club and country.",
         "copy": "Leinster are poised to open talks with their Ireland fly-half, Sam Prendergast, who entered the final year of his contract with the back-to-back United Rugby Championship champions at the start of July.\n\nPrendergast, who signed his first senior contract with the province three years ago, will have seen his stock skyrocket since signing his last contract in March 2025, after battling to become first-choice playmaker for club and country.",
         "first_seen": "2026-08-16T14:21:06.800659+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Wolfpack, Blazeboks among the six teams to watch across SVNS 2 and SVNS 3",
-        "link": "https://www.rugbypass.com/news/wolfpack-blazeboks-among-the-six-teams-to-watch-across-svns-2-and-svns-3/",
-        "published": "2026-08-16T12:13:49+00:00",
-        "published_label": "Sun 16 Aug, 12:13",
-        "summary": "RugbyPass breaks six key sides in SVNS 2 and SVNS 3 that fans should keep an eye out for.",
-        "body": "The upcoming HSBC SVNS Series now looms on the horizon – but is likely not going to be the only tournament fans of the shorter format should keep an eye on. The 2025-2026 SVNS Series also saw the introduction of the tiered competitions of SVNS 2 and SVNS 3, with both yielding exciting results, and two teams in Spain Women and the United States men being promoted to the circuit.\n\nHowever, while a schedule is still to be announced for both competitions, the next iterations are likely to see that competition for World Series only heat up more, with Olympic qualification also in the mix.",
-        "copy": "The upcoming HSBC SVNS Series now looms on the horizon – but is likely not going to be the only tournament fans of the shorter format should keep an eye on. The 2025-2026 SVNS Series also saw the introduction of the tiered competitions of SVNS 2 and SVNS 3, with both yielding exciting results, and two teams in Spain Women and the United States men being promoted to the circuit.\n\nHowever, while a schedule is still to be announced for both competitions, the next iterations are likely to see that competition for World Series only heat up more, with Olympic qualification also in the mix.",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Springbok hooker Malcolm Marx courted for dramatic SA club return",
-        "link": "https://www.rugbypass.com/news/bok-hooker-malcolm-marx-courted-for-south-african-club-return/",
-        "published": "2026-08-16T11:20:06+00:00",
-        "published_label": "Sun 16 Aug, 11:20",
-        "summary": "The Bulls have sounded out Springbok hooker Malcolm Marx about returning to South Africa when his contract with Japan League One outfit Kubota Spears runs out later next year.",
-        "body": "The Bulls have sounded out Springbok hooker Malcolm Marx about returning to South Africa when his contract with Japan League One outfit Kubota Spears runs out later next year.\n\nMarx, who celebrated his 32nd birthday in July, was part of Rassie Erasmus’ Springbok squad that won back-to-back World Cups, although he missed all but 51 minutes of the 2023 tournament with a knee injury sustained in training.",
-        "copy": "The Bulls have sounded out Springbok hooker Malcolm Marx about returning to South Africa when his contract with Japan League One outfit Kubota Spears runs out later next year.\n\nMarx, who celebrated his 32nd birthday in July, was part of Rassie Erasmus’ Springbok squad that won back-to-back World Cups, although he missed all but 51 minutes of the 2023 tournament with a knee injury sustained in training.",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I think the Springboks will see that' : How SA could expose the All Blacks",
-        "link": "https://www.rugbypass.com/news/johan-ackermann-on-how-the-springboks-could-expose-the-all-blacks/",
-        "published": "2026-08-16T11:09:12+00:00",
-        "published_label": "Sun 16 Aug, 11:09",
-        "summary": "Johan Ackermann believes the All Blacks will face a vastly different challenge against the Springboks than the one they encountered against his Bulls side...",
-        "body": "Johan Ackermann believes that Dave Rennie’s All Blacks will face a vastly different challenge against the Springboks than the one they encountered against his Bulls side, warning New Zealand could be punished if they continue to take risks deep inside their own territory.\n\nThe Bulls head coach was speaking after the All Blacks’ 50-19 Rugby’s Greatest Rivalry tour win at Loftus Versfeld on Saturday, a performance that saw the visitors capitalise ruthlessly on their opportunities.",
-        "copy": "Johan Ackermann believes that Dave Rennie’s All Blacks will face a vastly different challenge against the Springboks than the one they encountered against his Bulls side, warning New Zealand could be punished if they continue to take risks deep inside their own territory.\n\nThe Bulls head coach was speaking after the All Blacks’ 50-19 Rugby’s Greatest Rivalry tour win at Loftus Versfeld on Saturday, a performance that saw the visitors capitalise ruthlessly on their opportunities.",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "WRU statement: 'Highly personal insults and attacks' directed at staff",
-        "link": "https://www.rugbypass.com/news/highly-personal-insults-and-attacks-directed-at-wru-staff/",
-        "published": "2026-08-16T10:40:44+00:00",
-        "published_label": "Sun 16 Aug, 10:40",
-        "summary": "The WRU have decried what they have described as'highly personal insults and attacks' directed at their staff and members of the board in recent weeks.",
-        "body": "The WRU have decried what they have described as’highly personal insults and attacks’ directed at their staff and members of the board in recent weeks. In what amounts to more of a open letter to the Welsh rugby public than a traditional statement, the WRU have asked fans to desist from attacks directed at their personal.\n\nThe statement reads: “Whatever your views about what is best for the future of Welsh rugby, there is no justification for the highly personal insults and attacks that have been recently directed at members of our staff and at the WRU Board.",
-        "copy": "The WRU have decried what they have described as’highly personal insults and attacks’ directed at their staff and members of the board in recent weeks. In what amounts to more of a open letter to the Welsh rugby public than a traditional statement, the WRU have asked fans to desist from attacks directed at their personal.\n\nThe statement reads: “Whatever your views about what is best for the future of Welsh rugby, there is no justification for the highly personal insults and attacks that have been recently directed at members of our staff and at the WRU Board.",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
       }
     ],
     "Tennis": [
@@ -3850,6 +3824,19 @@
         "body": "Jack Draper will miss the US Open in the latest blow to the former world number four. Draper is continuing to battle a bone bruise in his dominant left arm and, after two dispiriting matches in the US, the Press Association understands he has concluded he needs more time to recover.\n\nThe news, which comes only a couple of hours after world number one Jannik Sinner announced he would miss the tournament with a knee injury, means Draper will not have played in a single grand slam this year.",
         "copy": "Jack Draper will miss the US Open in the latest blow to the former world number four. Draper is continuing to battle a bone bruise in his dominant left arm and, after two dispiriting matches in the US, the Press Association understands he has concluded he needs more time to recover.\n\nThe news, which comes only a couple of hours after world number one Jannik Sinner announced he would miss the tournament with a knee injury, means Draper will not have played in a single grand slam this year.",
         "first_seen": "2026-08-22T06:35:36.291552+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper to miss US Open as injury absence continues",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWQ2bXJiZnFWQmZVMzNoQXlaTF9ac21ldDcxNUJ3YmdnN2NLTWQxazhHUDZNLWkwTnd2ZVBqTmEzbnBMTkdYZkI4b3h2UTZZQWN1RXIyRTF2WFlIdXlGcVZfNEprUEhvUG9NYy00TTc1eXg5ampKWGxueG1XZ19ZdjVfb0lYTlM4U0ViMmpuVnRMdXl4M1hGbFg1WTI?oc=5",
+        "published": "2026-08-21T19:23:32+00:00",
+        "published_label": "Fri 21 Aug, 19:23",
+        "summary": "Jack Draper to miss US Open as injury absence continues PA Media",
+        "body": "Jack Draper will miss the US Open in the latest blow to the former world number four. Draper is continuing to battle a bone bruise in his dominant left arm and, after two dispiriting matches in the US, the Press Association understands he has concluded he needs more time to recover.\n\nThe news, which comes only a couple of hours after world number one Jannik Sinner announced he would miss the tournament with a knee injury, means Draper will not have played in a single grand slam this year.",
+        "copy": "Jack Draper will miss the US Open in the latest blow to the former world number four. Draper is continuing to battle a bone bruise in his dominant left arm and, after two dispiriting matches in the US, the Press Association understands he has concluded he needs more time to recover.\n\nThe news, which comes only a couple of hours after world number one Jannik Sinner announced he would miss the tournament with a knee injury, means Draper will not have played in a single grand slam this year.",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
       },
       {
         "section": "Tennis",
@@ -4630,22 +4617,35 @@
         "body": "Emma Raducanu is still sidelined after a stress fracture in her right leg, which notably forced her to withdraw from Wimbledon. The 2021 US Open champion is also expected to miss the North American hard-court swing after pulling out of the US Open. She was also not selected for the Billie Jean King Cup final with Great Britain at the end of September.\n\nFaced with this succession of physical problems, former British player Andrew Castle believes that a radical decision from Raducanu would not be totally surprising. \"Well, let's put it this way. I have absolutely no information about what's going on in her circle, but it wouldn't surprise me if one day, without warning, she simply says: 'I've had enough of all this.' After all, don't we all say that? She has no one to answer to but herself and her family. That's it. Sponsors and the people around her are not the ones driving this career. It's her choice, but I hope she continues,\" the former British tennis player told Betway.",
         "copy": "Emma Raducanu is still sidelined after a stress fracture in her right leg, which notably forced her to withdraw from Wimbledon. The 2021 US Open champion is also expected to miss the North American hard-court swing after pulling out of the US Open. She was also not selected for the Billie Jean King Cup final with Great Britain at the end of September.\n\nFaced with this succession of physical problems, former British player Andrew Castle believes that a radical decision from Raducanu would not be totally surprising. \"Well, let's put it this way. I have absolutely no information about what's going on in her circle, but it wouldn't surprise me if one day, without warning, she simply says: 'I've had enough of all this.' After all, don't we all say that? She has no one to answer to but herself and her family. That's it. Sponsors and the people around her are not the ones driving this career. It's her choice, but I hope she continues,\" the former British tennis player told Betway.",
         "first_seen": "2026-08-16T14:21:06.800659+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Novak Djokovic reveals ongoing health condition after Cincinnati defeat",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdlNjczZpTzNQc3R1ejB3M25SUlJHX1NKTV9MT1Y1Z2lBd1o2TEhmWU1JTTlnZTVUMFp3dDctc2g0VHlnYW55ZDJzV0R6WUxMeWNpOXRvOEkxMG9SdkhnRFNSMVN6dWZyWVNrbU1WSGVQbDFjWTNjdkNQZEJRMi1ZTno2OEhjb2pnQ1dzUFI2NlFncUlLZi1EeHQwYmRBOTUyYWtGUFdYRGRnYTBzOV9RUlVpeUIxN1BrY0RtUVFmcXBqZk5MbHc?oc=5",
-        "published": "2026-08-16T12:12:31+00:00",
-        "published_label": "Sun 16 Aug, 12:12",
-        "summary": "Novak Djokovic reveals ongoing health condition after Cincinnati defeat Sky Sports",
-        "body": "Novak Djokovic revealed he has been dealing with an ongoing health condition after his surprise second-round defeat at the Cincinnati Open. The 39-year-old said the condition was exacerbated by the heat and humidity in Ohio as he visibly struggled in a 6-2 4-6 4-6 loss to Argentina's world No 50 Thiago Agustin Tirante.\n\nDjokovic, currently world No 5 and playing his first match since losing to Jannik Sinner in the Wimbledon semi-finals in July, slumped to his hands and knees before taking a medical timeout midway through the second set.",
-        "copy": "Novak Djokovic revealed he has been dealing with an ongoing health condition after his surprise second-round defeat at the Cincinnati Open. The 39-year-old said the condition was exacerbated by the heat and humidity in Ohio as he visibly struggled in a 6-2 4-6 4-6 loss to Argentina's world No 50 Thiago Agustin Tirante.\n\nDjokovic, currently world No 5 and playing his first match since losing to Jannik Sinner in the Wimbledon semi-finals in July, slumped to his hands and knees before taking a medical timeout midway through the second set.",
-        "first_seen": "2026-08-16T16:21:22.274014+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Golf brand apologises for advert that shows woman being pushed over",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-23T12:25:40+00:00",
+        "published_label": "Sun 23 Aug, 12:25",
+        "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
+        "body": "Content creator and golf brand Good Good has apologised and removed an advertisement for a new golf driver which showed a woman being pushed to the ground after reaching for the club.\n\nGood Good, which has 2.13m subscribers to its golf channel on YouTube and sponsors a PGA Tour tournament, had created and published the advert for golf club manufacturer Callaway.",
+        "copy": "Content creator and golf brand Good Good has apologised and removed an advertisement for a new golf driver which showed a woman being pushed to the ground after reaching for the club.\n\nGood Good, which has 2.13m subscribers to its golf channel on YouTube and sponsors a PGA Tour tournament, had created and published the advert for golf club manufacturer Callaway.",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "5 keys to making better contact and hitting the ball higher",
+        "link": "https://golf.com/instruction/five-keys-making-better-contact-hitting-ball-higher/",
+        "published": "2026-08-23T11:35:47+00:00",
+        "published_label": "Sun 23 Aug, 11:35",
+        "summary": "GOLF Top 100 Teacher Kellie Stenzel shares five keys for beginning players looking to make better contact and get the ball off the ground. The post 5 keys to making better contact and hitting the ball higher appeared first on Golf .",
+        "body": "The practice range is a great place to observe golfers trying to get that little golf ball into the air — and, hopefully, get it flying straight. One of the most common misses is a ball that is topped or simply doesn’t get into the air as much as it should.\n\nHere are five ways to improve your contact and launch the ball higher and more solidly. 1. Understand how the ball gets into the air How a golf ball gets into the air isn’t intuitive, in my opinion.",
+        "copy": "The practice range is a great place to observe golfers trying to get that little golf ball into the air — and, hopefully, get it flying straight. One of the most common misses is a ball that is topped or simply doesn’t get into the air as much as it should.\n\nHere are five ways to improve your contact and launch the ball higher and more solidly. 1. Understand how the ball gets into the air How a golf ball gets into the air isn’t intuitive, in my opinion.",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6797,6 +6797,58 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "Lanier crushes Naraoka to become first Frenchman to win singles world title",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEQ3S0NjZTFCNzR4eVFqVGxRR2RrS2hWTTNHQ2N3eVE3ejg5UjA4WDYxOHI3YlhwVU1HRENRN20xUnFUd1U1TUNMMHJrcEtibkNSOGU3RHU3T2hhcnBjaUxhWEN5bldhSERRM05ScU42TDY1MVVFV3RfSi1NSF94cG1MWUx4SjB2dVhRejE3d2M0OURtdmNlRmVjMkNiNV9hZDRaVHBHNzEzUjVocGl3THBn?oc=5",
+        "published": "2026-08-23T11:47:43+00:00",
+        "published_label": "Sun 23 Aug, 11:47",
+        "summary": "Lanier crushes Naraoka to become first Frenchman to win singles world title Reuters",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships 2026: Alex Lanier beats Naraoka Kodai to win first world title",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeG5JU0ppbUh2cVJydUpDZ2pqLWpoTjJ3bU9mMGttMUF2OHRkZEJ6N1ZSRm9zNWNKeTFoOElLOXVCb1hGQktZYl9wNnFUSFB6WC1nWTRObWlqWTNoazYzNXN4UHpNSkl3R3FyeGdNXzdCVFI1UmV3SktPV2c4ZV9BQkdxUWR5dkI3Tmc?oc=5",
+        "published": "2026-08-23T11:42:00+00:00",
+        "published_label": "Sun 23 Aug, 11:42",
+        "summary": "BWF World Championships 2026: Alex Lanier beats Naraoka Kodai to win first world title olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF World Championships: French pair Gicquel and Delrue crowned world champions in mixed doubles",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTd1OWZYWXF4YTFqX2tNQ0RtT3Y5VHNRdVRnd1F1UTRYWFBDQkZJNHUxR1lPSGZsc0x4N2U5MVhzdXgyN1ZEWHVDVHMwZ0VNUXUzWUhkN19iVC1McDdLS3B5dFludHN3M3RRM1dvZThVQ2xVQ2hfR2xESUR1aURFX2lNVEh1dDBTOFNCdGZUTGU5R0lyMGpSVThLMWZIWjc0YlZIZFFCbW1hTFJoSmtDTENGdndlam05bnpWUFYtSl9wdTdybGo4bmVSYWwwSFdDUWZ6ZU9Jc9IB3AFBVV95cUxOU1BQbTVtcWRzeHFyb2RJSUZjSkhzZ0dzNGM1YjkwQWI0UHpIblBIQjYyVjJTR1FmTEh0S1ZmY3g0UU54a3JUbVREbFRxbzRoeVVfUUUtVWRvNldPX3FfLUJLUmxDcXVoV0Y0NGdQMlVTRHl4UktBeW5nd3gtU2dkMWdOVlQ3cXM0RlZwNzFRZ1VhZy1XRHQtQzVCMmZfUmVKT05vdy1uNG0yWW1NOEZ0ZkJ3LTk3RFJnZU9iWE1qY0daSl9DaEVVeTRnVEpuU0lYS2pJd1g2ZnFwZlNG?oc=5",
+        "published": "2026-08-23T10:17:00+00:00",
+        "published_label": "Sun 23 Aug, 10:17",
+        "summary": "BWF World Championships: French pair Gicquel and Delrue crowned world champions in mixed doubles WION",
+        "body": "Thom Gicquel and Delphine Delrue have written a new chapter in French badminton history, defeating world no. 1 Feng Yan Zhe and Huang Dong Ping in a thrilling three-set battle, 22-20, 19-21, 21-15. Partners for around a decade, the French duo produced one of the biggest wins of their careers against opponents who had beaten them in all four of their previous meetings. This time, however, Gicquel and Delrue controlled much of the contest and held their nerve when it mattered most.\n\nThe opening game was fiercely contested, with neither pair able to establish a significant advantage. After a superb rally finished by Gicquel gave the French pair their first game point, a Chinese mistake handed them the second opportunity they needed to take the opening set 22-20. Feng and Huang responded strongly in the second game. The Chinese pair raced into a 12-8 lead as the intensity increased, keeping the French duo at arm's length for much of the set. Gicquel and Delrue had an opportunity to draw level at 19-18 but could not take it, allowing their opponents to force a deciding game with a 21-19 victory.",
+        "copy": "Thom Gicquel and Delphine Delrue have written a new chapter in French badminton history, defeating world no. 1 Feng Yan Zhe and Huang Dong Ping in a thrilling three-set battle, 22-20, 19-21, 21-15. Partners for around a decade, the French duo produced one of the biggest wins of their careers against opponents who had beaten them in all four of their previous meetings. This time, however, Gicquel and Delrue controlled much of the contest and held their nerve when it mattered most.\n\nThe opening game was fiercely contested, with neither pair able to establish a significant advantage. After a superb rally finished by Gicquel gave the French pair their first game point, a Chinese mistake handed them the second opportunity they needed to take the opening set 22-20. Feng and Huang responded strongly in the second game. The Chinese pair raced into a 12-8 lead as the intensity increased, keeping the French duo at arm's length for much of the set. Gicquel and Delrue had an opportunity to draw level at 19-18 but could not take it, allowing their opponents to force a deciding game with a 21-19 victory.",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "India Junior International Series 2026 badminton: Home shuttlers shine with four out of five titles",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORm9QUE9aNmdKZ3pmaEtwVVBvdWU4cFhtOS1PeXFmemcta1VadkgxUHN3NHB4MW8tYklnWGVFd0hSOTBUTW0zNzR2YS13VHpFVnBuV0dBR0tTM01wTE56bG15MjkxTkc2ZmhUN0FIS2o4RExDMUNqVHJnWmRxV2swYmtXTlFUZVZSZWRPS0pHdTRiUQ?oc=5",
+        "published": "2026-08-23T09:45:00+00:00",
+        "published_label": "Sun 23 Aug, 09:45",
+        "summary": "India Junior International Series 2026 badminton: Home shuttlers shine with four out of five titles olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "Gicquel/Delrue Break New Ground For France",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVJJa3JMRlJIR0o3SXVJQUJLdFBCS0tCOU5uU3ZZTUF2ZTRJamMzal9lbVhvbS1QUFUyWFFPa0tDR19DTWRnb2liNmxrdEdrQjBIWEpnbHprcTBvUWtkczc4UEpuem1HVzR2VlhvNi1LdV9hT3U3Q3ZSNmtHNEQ4cndwWUxNalRfVVp4SndObGw3NjRRQUc0aGVaQXN0TVZMQjhrWHB2Wko2SFlaSU5MQk5rWQ?oc=5",
         "published": "2026-08-23T09:43:38+00:00",
@@ -6953,6 +7005,19 @@
         "section": "Badminton",
         "source": "Olympics",
         "kind": "gnews",
+        "title": "Badminton | Anders Antonsen (DNK) VS Kodai Narakoa (JPN) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXk5MVRkb0praVNvY0dKV1J1OVFHY1p5dUdkUWR0VXVHVXM4bWtRSmtRN0tCdjJjcTZMdWJ0aWkyN0ZfV0ZuS1NBcS1OcFhITE1XRTh5anpBTzBUbVhYS3pKZUNIOW5DLXU0ZXJsbkk0RGZsdW5tcmdvdmtWdkxlRWluMmlQVVYtdWpwRVpUNUJHN2VHOW5UWlJyaThwVHliS3N4TEhCR3JJQ3J2SHhhNVlDd19rdFdE?oc=5",
+        "published": "2026-08-22T11:50:44+00:00",
+        "published_label": "Sat 22 Aug, 11:50",
+        "summary": "Badminton | Anders Antonsen (DNK) VS Kodai Narakoa (JPN) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
         "title": "Badminton | Wang Zhi Yi (CHN) VS Pusarla V. Sindhu (IND) | BWF World Championship | New Delhi",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGJYU09ydFZxODdBNXBRTUhBUVJyUlZvN1NWdzhlVWNVX0Vtb3JnU3BHMWRHb19ONXBYdVBFaUh6bDExOWFBZWJBY3ZYaGZrS2MxbTFSSG85WUs5MWd0VFExQVMtU1g3NHlvWTNtUTZsdl8xSTZTajcwdmh3akpFNktMa2ItdGxPc29pYjMycFBTVlI3TElTMFh3VW45dXI1VkhQVVBCMjRkcHg2T0tMaFhYQ2pnOHc?oc=5",
         "published": "2026-08-22T11:50:43+00:00",
@@ -6961,6 +7026,32 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-22T12:33:36.575226+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | An Se Young (KOR) VS Han Yue (CHN) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3lrZzAyUGlwLWR6UFJXdUFQQU5GM0JHVVNuRnF5TGRQUkhDTFBVc3NUSUFBVHZwS1hkR2pMVVhESGFPYmF4RUQ5cjljZHViTnZmWGItQ1NoV1ROaWE3bER2UEtFUDRWM2gydGlKbDdSV0VMMVl1cUVfUVEwOHVVX1RXRGlLZmRBLVZLWURJZ3BkRjc4U05XN3o3VGxpM3p3Rl9zb2szY2xIa28?oc=5",
+        "published": "2026-08-22T11:50:43+00:00",
+        "published_label": "Sat 22 Aug, 11:50",
+        "summary": "Badminton | An Se Young (KOR) VS Han Yue (CHN) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Ayush Shetty (IND) - Alwi Farjan (IDN) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVJTd3JBLURRdkxzbThEZGU4UFBzMkE4bTBVOFpOZm5PdlRUN0Jkb0NreXJpbkpCSFZMejR0cUM0Y0g5VFBPblFRbDVjcXBZNnVJQWpmbHdLRjFPREhmZFRmTC1PUk1CQi0xMW9KZERNWUgzcGdiSWFGenIxaUM2MGptR0JySmMtNXRXS3ZRNjJLVU1OSkoxNHB3UjZrZmZtVmhoc194NkRoQ3Y1SWc?oc=5",
+        "published": "2026-08-22T11:50:43+00:00",
+        "published_label": "Sat 22 Aug, 11:50",
+        "summary": "Badminton | Ayush Shetty (IND) - Alwi Farjan (IDN) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T12:34:19.941054+00:00"
       },
       {
         "section": "Badminton",
@@ -8573,74 +8664,9 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-16T18:24:27.908342+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "‘It’s our chance’: Satwik-Chirag relish rare opportunity at home Worlds",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVBzWEJ6YkVvdnZLX1dnejYxSDI5U295MEdCQlp5SjJpZnU4cmZDdTVJamxQd2hzN1AxQlN5WE1uOU9DTzNTLXNELXFtYVlpWFpXT1NQRWc4NnQzR2dTa1ZqRl84ZUd1cE9jazI1SXMxUk5kVzhDeFJVZzNfTk94ak5VTjJDTjI5dFBxajMyby1qcjBCMnEwOEdYMklKNG85dFE?oc=5",
-        "published": "2026-08-16T11:55:23+00:00",
-        "published_label": "Sun 16 Aug, 11:55",
-        "summary": "‘It’s our chance’: Satwik-Chirag relish rare opportunity at home Worlds olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "'I have to believe I can win it' Lakshya Sen sets sights on World Championships medal",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVJrbEtLd3NERExHQWFvOWFlSEFjS2ZFREJMZVE0eWZyNjNoRmNobWZRbDlUZVkteEk5ckgwZTQ4RTRCblc4WGFUN2ZyUFF2U3g5YVBiTE5JMnc3UHE4aWRmbGtqcUJqcTFZdGZVbklQYk5VMnhJUTVxU3NFZDVYNjFMbTI4Y1JKWXREV0Zwc2s5S2hzTUZvY1ROY2hWUTA?oc=5",
-        "published": "2026-08-16T11:54:57+00:00",
-        "published_label": "Sun 16 Aug, 11:54",
-        "summary": "'I have to believe I can win it' Lakshya Sen sets sights on World Championships medal olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "'I have things to lose': Ayush Shetty targets upset against Shi Yuqi",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVBkV1lyQ0dSUTRRVld6NHQxNGJLdlhHTmJnYURXU3VKTjFEUnphbG1vaTNCX1RyODZSODBKUUo1QjZqd3ZYbjB3NlN0azVmRTRPNVFEUG95aWxvUGdmMDNSeUh5QVprSjBTZm40eVI1OUZfYjVMOHVfbkYxb0xTTlNBU3dubzdzUU9iVGJHbW9XYjZNOXhIR2pXYVhrZXAw?oc=5",
-        "published": "2026-08-16T10:59:16+00:00",
-        "published_label": "Sun 16 Aug, 10:59",
-        "summary": "'I have things to lose': Ayush Shetty targets upset against Shi Yuqi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Indian star backs monkey measures on eve of badminton World Championships",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlZJaDZjMmgxbk5kcUpXZ3UwNnFoU0dUMXh3UmxBQUxPM0JLUk5fN1Q4bm1GQTNNdE9DeGZWcjZoT0lreHhZa3hRMGM2Q2RfYzZERlhxTkV5cV9aVEhnQjVXZjZEWW5EZDA0YmdnTV9RXzR6aGhnUFNvLXZrTm1CV3dJamNoS3doNzJibnZFWGw1ekYyRlpIRUpnaXdOUndQX3hwRGlhbHpCUWtJY1V0a2pxTTlNN3JKSE50ZVA1MA?oc=5",
-        "published": "2026-08-16T10:52:32+00:00",
-        "published_label": "Sun 16 Aug, 10:52",
-        "summary": "Indian star backs monkey measures on eve of badminton World Championships Flashscore.com",
-        "body": "The showpiece returns to India after 17 years when the action begins on Monday at the Indira Gandhi Indoor Stadium. At the India Open in January at the same venue, a monkey was spotted in the stands while bird droppings and debris from a nest disrupted play.\n\nThis time monkey whisperers - men who scare off rhesus macaques by imitating the calls of the larger langurs - have been hired to keep the troublesome primates at bay. \"I really appreciate their effort for doing it,\" Sindhu told reporters in response to a question on hiring a team of 'monkey wallahs'.",
-        "copy": "The showpiece returns to India after 17 years when the action begins on Monday at the Indira Gandhi Indoor Stadium. At the India Open in January at the same venue, a monkey was spotted in the stands while bird droppings and debris from a nest disrupted play.\n\nThis time monkey whisperers - men who scare off rhesus macaques by imitating the calls of the larger langurs - have been hired to keep the troublesome primates at bay. \"I really appreciate their effort for doing it,\" Sindhu told reporters in response to a question on hiring a team of 'monkey wallahs'.",
-        "first_seen": "2026-08-16T14:21:06.800659+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: Full schedule, live streaming, India squad and key details",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2FEUEdIeGhnM191ejJNeTFmZFZsRXhNcGFWWmwzMGE4cU5KWGc5X05HVVZob0E5dVZBVk8wTDVCYm8yNWl0dTROcFZGLXJCVm83WE1DRmQ1N1FDclRrWnh0aWNwRS1NQXROcVVXdDdxSmhzZHdvN0lJUnlCRWdXNnpVcHAzYlJBS25Nbk9iWmNKRktTLXBkS1BLV3hzeXhhNjRiajhvNWJSVlI3QXF1QkRSSHBiQTJQeTQ2Zm5BREhTeUFjRk1VaXhqNGZJakZoY0Rz0gHYAUFVX3lxTE5SRGVDMFJlcmg5QW4wbGhYOWpUX2NScnFBeGhfXzRVWGEtU2xjVjNxMDNXSk05LVNINVFhelItcFB4dldBeUNBUG9ncFpuVlJSRG1Wcmd6WXJHSFVLXzdYSU5IV1hFenhUZUt3Y3lMa1hBa0NMNWhwaWk1Y1VMUzNRVWluMTFoVzNrZHBVeFYxU21TTThDZVBjN1haRmd5Z1ZMd01KUmtYN1JaSzBhYlZDTEZyRDRUN0JkNERVMU9QaUJFMTNNWl9OTzBiV3djcjU2Vm56Nlcwcw?oc=5",
-        "published": "2026-08-16T10:51:00+00:00",
-        "published_label": "Sun 16 Aug, 10:51",
-        "summary": "BWF World Championships 2026: Full schedule, live streaming, India squad and key details The Statesman",
-        "body": "The world’s best badminton players will descend on New Delhi as the BWF World Championships return to India for the first time in 17 years, with the prestigious tournament set to begin on Monday.\n\nThe Indira Gandhi Indoor Stadium will host seven days of action from August 17 to 23, with 64 players each competing in the men’s and women’s singles events, alongside 48 pairs across the three doubles disciplines.",
-        "copy": "The world’s best badminton players will descend on New Delhi as the BWF World Championships return to India for the first time in 17 years, with the prestigious tournament set to begin on Monday.\n\nThe Indira Gandhi Indoor Stadium will host seven days of action from August 17 to 23, with 64 players each competing in the men’s and women’s singles events, alongside 48 pairs across the three doubles disciplines.",
-        "first_seen": "2026-08-16T12:33:23.945415+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 663
+  "total": 665
 }
