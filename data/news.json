@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T16:21:53.690560+00:00",
-  "generated_label": "Sunday 23 August 2026, 16:21 UTC",
+  "generated_at": "2026-08-23T18:28:14.972850+00:00",
+  "generated_label": "Sunday 23 August 2026, 18:28 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1490,19 +1490,6 @@
         "published": "2026-08-17T04:01:14+00:00",
         "published_label": "Mon 17 Aug, 04:01",
         "summary": "The new AI super-rich are reshaping the market for jets, yachts and cars Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-17T06:47:46.737083+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Canadian business braced for 50% US tariffs",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjI2T29LS0d1YUZUNXRKSW5jY3k5VXBkVGxzVkxiUnhzSWRDV3VYWnlTUER2VkhCRjVVNzl3ZWFNekh2U25ZbDlCNl9wcnZ2STRoeFNQYjFKQWhpQ1pIakpoMENvVGQ4cVdNeVU4a1Y2NjZ5YWt3djA3S256eWtsdEsxLVA?oc=5",
-        "published": "2026-08-16T17:15:03+00:00",
-        "published_label": "Sun 16 Aug, 17:15",
-        "summary": "Canadian business braced for 50% US tariffs Financial Times",
         "body": "",
         "copy": "",
         "first_seen": "2026-08-17T06:47:46.737083+00:00"
@@ -3788,6 +3775,19 @@
       },
       {
         "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper Withdraws From US Open Due to Persistent Left Arm Injury",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMThEM3JQR19teENLdXFKM1k2WV9rNkU0aHc1NlJlZEY1MWVuVDdUR0ZVSHhIN1VLODdxZDZlb21YUW5mYzE2OWpBZlEzeFdVRWcxQXlIZTlQVEVVQmZ6VjYyUDdWc2Z0cjJyZ3JYTHJnRS1TZXVKTllwMW1KTG8xc2pmMzdOX0tueElZUFg3T1dTa3NaODkzd2dLN0o?oc=5",
+        "published": "2026-08-22T11:09:13+00:00",
+        "published_label": "Sat 22 Aug, 11:09",
+        "summary": "Jack Draper Withdraws From US Open Due to Persistent Left Arm Injury Sportscape Magazine",
+        "body": "Jack Draper has withdrawn from the US Open while continuing to recover from a persistent bone bruising to his dominant left arm. Jack Draper has withdrawn from the US Open after continuing to deal with a persistent bone bruising injury to his dominant left arm. The decision means the former world No. 4 will not play a Grand Slam tournament in 2026.\n\nDraper previously missed the French Open and Wimbledon before returning to competition in Montreal and Cincinnati. After suffering back-to-back losses, he has decided that he needs more time away from competition to recover fully.",
+        "copy": "Jack Draper has withdrawn from the US Open while continuing to recover from a persistent bone bruising to his dominant left arm. Jack Draper has withdrawn from the US Open after continuing to deal with a persistent bone bruising injury to his dominant left arm. The decision means the former world No. 4 will not play a Grand Slam tournament in 2026.\n\nDraper previously missed the French Open and Wimbledon before returning to competition in Montreal and Cincinnati. After suffering back-to-back losses, he has decided that he needs more time away from competition to recover fully.",
+        "first_seen": "2026-08-23T18:28:14.972850+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "Bejlek continues stunning run to set up Gauff semi",
@@ -4635,6 +4635,84 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Will LIV Golf survive its massive financial crisis? | D'Angelo",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWpPc1pURzNUSEpzcWtReERqOEdOOXhISkZXYmp5M0s3anRPaHhqX3ZXTVJGbjZFbmtJaFlZYUZSOFcxMlNmcWpYclkyUFdSRC1lLVpWN2I1UzkzU0ZDa0dhU0dUZjdPNkpVa0V5cGM0Q2Q3SUNmclBmS3FTMGVRbldNVE1rQXNmUWw2Vjl1TzhScGthNnRxQ29xa2gxZ1lJelFlZWIwY1JfODVMU3UyeVQ1a096Y3ZLN1hoUw?oc=5",
+        "published": "2026-08-23T18:20:00+00:00",
+        "published_label": "Sun 23 Aug, 18:20",
+        "summary": "Will LIV Golf survive its massive financial crisis? | D'Angelo The Palm Beach Post",
+        "body": "Will LIV Golf survive its massive financial crisis? | D'Angelo - The LIV Golf league, backed by Saudi Arabia's public wealth fund, is facing an uncertain future after concluding its 2026 season.\n\n- Several top players, including Jon Rahm, are expected to leave the league, while others Bryson DeChambeau hopes for new investors. - LIV Golf is facing lawsuits for unpaid bills to vendors and has reportedly been late paying some of its players.",
+        "copy": "Will LIV Golf survive its massive financial crisis? | D'Angelo - The LIV Golf league, backed by Saudi Arabia's public wealth fund, is facing an uncertain future after concluding its 2026 season.\n\n- Several top players, including Jon Rahm, are expected to leave the league, while others Bryson DeChambeau hopes for new investors. - LIV Golf is facing lawsuits for unpaid bills to vendors and has reportedly been late paying some of its players.",
+        "first_seen": "2026-08-23T18:28:14.972850+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf Indianapolis Prize Money Payout 2026",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFJ6a2ZRTTh4ZElMWjg4Y0dEZy1UZWg2YUYwaFk2VVBBcEZ1TUlIbkx1UDZpLW1hR1pocy1sU0NsMTJtWjJuMHJJSUIzNUljNUwxWlZtZXptRW42OXBFMkNXOUpDM3p3cTEyRkxaaEdjWjFBdHUzcG1Xa3pRT0xUZHUzc3k?oc=5",
+        "published": "2026-08-23T18:00:00+00:00",
+        "published_label": "Sun 23 Aug, 18:00",
+        "summary": "LIV Golf Indianapolis Prize Money Payout 2026 Golf Monthly",
+        "body": "Following months of speculation as to when and how the LIV Golf season would conclude, we now know - it's not with the originally scheduled Team Championship, but in Indianapolis.\n\nThat's because, earlier in the year, the Saudi Public Investment Fund confirmed it was ending its backing of the circuit, throwing its future into uncertainty. There is some room for optimism, with CEO Scott O'Neil recently confirming a lead investor was on board in a bid to ensure it continues beyond 2027.",
+        "copy": "Following months of speculation as to when and how the LIV Golf season would conclude, we now know - it's not with the originally scheduled Team Championship, but in Indianapolis.\n\nThat's because, earlier in the year, the Saudi Public Investment Fund confirmed it was ending its backing of the circuit, throwing its future into uncertainty. There is some room for optimism, with CEO Scott O'Neil recently confirming a lead investor was on board in a bid to ensure it continues beyond 2027.",
+        "first_seen": "2026-08-23T18:28:14.972850+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Why you shouldn't care about this common wedge characteristic | Fully Equipped",
+        "link": "https://golf.com/gear/wedges/best-ways-to-pick-the-right-wedge/",
+        "published": "2026-08-23T17:18:05+00:00",
+        "published_label": "Sun 23 Aug, 17:18",
+        "summary": "On this week's episode of GOLF's Fully Equipped, Jake Morrow explains why he doesn't look at the wedge's bounce number anymore. The post Why you shouldn’t care about this common wedge characteristic | Fully Equipped appeared first on Golf .",
+        "body": "When it comes to picking the right wedge, there are an awful lot of factors to consider, and there might be a few different options that work for your game. From shape to bounce to grind to loft to shaft to offset, the list goes on and on.\n\nOn this week’s episode of GOLF’s Fully Equipped, co-host Jake Morrow explained one common wedge characterisitc that he’s actually no longer looking at when he’s picking his wedges.",
+        "copy": "When it comes to picking the right wedge, there are an awful lot of factors to consider, and there might be a few different options that work for your game. From shape to bounce to grind to loft to shaft to offset, the list goes on and on.\n\nOn this week’s episode of GOLF’s Fully Equipped, co-host Jake Morrow explained one common wedge characterisitc that he’s actually no longer looking at when he’s picking his wedges.",
+        "first_seen": "2026-08-23T18:28:14.972850+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'Sounds like he was watching' - Jamieson takes Trump call after ending 14-year title wait",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-23T16:57:39+00:00",
+        "published_label": "Sun 23 Aug, 16:57",
+        "summary": "Scott Jamieson shoots a final round of 67 at the Nexo Championship to end his 14-year drought and earn a video call with President Donald Trump.",
+        "body": "Earning a first DP World Tour win in 14 years - and effectively saving his job by doing so - would be enough to disturb the composure of most golfers. But as Scott Jamieson tried to come to terms with ending his drought at the Nexo Championship in Aberdeenshire, the 42-year-old Scot found himself speaking to President Donald Trump on a video call.\n\nIt has become tradition that the United States president contacts the winner at Trump International Golf Links in the immediate aftermath of their success. And Glaswegian Jamieson was the bewildered recipient of the call this time, following compatriot Grant Forrest last year.",
+        "copy": "Earning a first DP World Tour win in 14 years - and effectively saving his job by doing so - would be enough to disturb the composure of most golfers. But as Scott Jamieson tried to come to terms with ending his drought at the Nexo Championship in Aberdeenshire, the 42-year-old Scot found himself speaking to President Donald Trump on a video call.\n\nIt has become tradition that the United States president contacts the winner at Trump International Golf Links in the immediate aftermath of their success. And Glaswegian Jamieson was the bewildered recipient of the call this time, following compatriot Grant Forrest last year.",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Bizarre rules situation sees DP World Tour pro penalized … for divot kick",
+        "link": "https://golf.com/news/bizarre-rules-dp-world-tour-pro-divot-kick/",
+        "published": "2026-08-23T16:48:45+00:00",
+        "published_label": "Sun 23 Aug, 16:48",
+        "summary": "A bizarre rules situation sees pro Shaun Norris penalized at the DP World Tour’s Nexo Championship for a divot kick. The post Bizarre rules situation sees DP World Tour pro penalized … for divot kick appeared first on Golf .",
+        "body": "Shaun Norris’ right-foot strike, to Norris’ credit, looked pure. Unfortunately for him, he was playing golf, not soccer. The kick, along with the bizarre rules situation that followed, came during Sunday’s final round of the DP World Tour’s Nexo Championship, while Norris readied to play his second shot on the 382-yard, par-4 5th hole at Trump International Golf Links in Aberdeenshire, Scotland. There, while tied for the lead, Norris approached his ball in the fairway, then after a few seconds, took two steps backward.\n\nThat was a no-no under rule 8.1a (3) of the rules of golf, and about an hour later, Norris’ four on the hole was changed to a six. The rule addresses playing the course as you find it, and one action that is not allowed is “removing or pressing down divots that have already been replaced or other cut turf that is already in place.”",
+        "copy": "Shaun Norris’ right-foot strike, to Norris’ credit, looked pure. Unfortunately for him, he was playing golf, not soccer. The kick, along with the bizarre rules situation that followed, came during Sunday’s final round of the DP World Tour’s Nexo Championship, while Norris readied to play his second shot on the 382-yard, par-4 5th hole at Trump International Golf Links in Aberdeenshire, Scotland. There, while tied for the lead, Norris approached his ball in the fairway, then after a few seconds, took two steps backward.\n\nThat was a no-no under rule 8.1a (3) of the rules of golf, and about an hour later, Norris’ four on the hole was changed to a six. The rule addresses playing the course as you find it, and one action that is not allowed is “removing or pressing down divots that have already been replaced or other cut turf that is already in place.”",
+        "first_seen": "2026-08-23T18:28:14.972850+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bubba Watson confronts spectator after fan disrupts Lee Westwood’s shot at LIV Golf Indianapolis",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0JQSmx1elBjak0tcGIyd2s0dl9reTRsaUZpSDlHbG5kd0k3T1YwYTVmaXVUZURwVnRLb2VJZWdXS3VWcHBYWVdBa3AyVnJiejZ5SmQ0TXRSVV9wcW9JM3hSQmlhYWtFd2ZENEZ6b0ZzckRnTEEzRXJvREFNSENpVEVoTEVvYjIwQkZaRmZ2QzNoZnM3QkNRS1g4MjdDYWZERmVvSlozZEFRVEo4SnB6SnUwV3QzdENMS1k4?oc=5",
+        "published": "2026-08-23T16:25:28+00:00",
+        "published_label": "Sun 23 Aug, 16:25",
+        "summary": "Bubba Watson confronts spectator after fan disrupts Lee Westwood’s shot at LIV Golf Indianapolis Golfmagic",
+        "body": "Bubba Watson confronted a spectator at LIV Golf Indianapolis after a fan shouted towards his playing partner Lee Westwood as the Englishman prepared to hit a shot from the fairway.\n\nWatson, Westwood and Bryson DeChambeau were playing together in the third round at The Club at Chatham Hills when a rowdy spectator loudly shouted: “Go Bryson, Bryson!” Westwood subsequently backed away from his shot and turned towards the fan.",
+        "copy": "Bubba Watson confronted a spectator at LIV Golf Indianapolis after a fan shouted towards his playing partner Lee Westwood as the Englishman prepared to hit a shot from the fairway.\n\nWatson, Westwood and Bryson DeChambeau were playing together in the third round at The Club at Chatham Hills when a rowdy spectator loudly shouted: “Go Bryson, Bryson!” Westwood subsequently backed away from his shot and turned towards the fan.",
+        "first_seen": "2026-08-23T18:28:14.972850+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
         "title": "2026 BMW Championship money: Total purse, payout breakdown, winner's share",
@@ -4657,19 +4735,6 @@
         "summary": "Dustin Johnson shares what he knows about LIV Golf 2.0 after investor meeting Tennis World USA",
         "body": "",
         "copy": "",
-        "first_seen": "2026-08-23T16:21:53.690560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Jamieson ends 14-year wait for second title at Trump course",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-23T15:42:40+00:00",
-        "published_label": "Sun 23 Aug, 15:42",
-        "summary": "Scott Jamieson shoots a final round of 67 to end his 14-year drought and make it back-to-back Scottish winners at the Nexo Championship at Trump International Golf Links in Aberdeenshire.",
-        "body": "Scott Jamieson shot a fine final round of 67 to end his 14-year drought and make it back-to-back Scottish winners at the Nexo Championship at Trump International Golf Links in Aberdeenshire.\n\nIt was just a second DP World Tour triumph for the 42-year-old Glaswegian, with his last success coming in 2012. He finished on 11 under par, two shots clear of overnight leader Matthew Jordan, with fellow Englishman Andy Sullivan third on seven under.",
-        "copy": "Scott Jamieson shot a fine final round of 67 to end his 14-year drought and make it back-to-back Scottish winners at the Nexo Championship at Trump International Golf Links in Aberdeenshire.\n\nIt was just a second DP World Tour triumph for the 42-year-old Glaswegian, with his last success coming in 2012. He finished on 11 under par, two shots clear of overnight leader Matthew Jordan, with fellow Englishman Andy Sullivan third on seven under.",
         "first_seen": "2026-08-23T16:21:53.690560+00:00"
       },
       {
@@ -6816,45 +6881,6 @@
         "body": "Since the Saudi Arabia-backed Public Investment Fund announced they were pulling funding for the LIV Golf Tour at the end of the 2026 season, there's been widespread speculation about the future of the breakaway league.\n\nWhile LIV initially grabbed big name stars like Bryson DeChambeau, Brooks Koepka, Phil Mickelson and eventually Jon Rahm with big guaranteed contracts and high purses, that momentum seemingly stalled in recent months and years as the league failed to turn a profit. Some younger players, like Michael La Sasso, a recent men's college golf national champion, did forgo the PGA Tour for LIV, but other big names have stayed put.",
         "copy": "Since the Saudi Arabia-backed Public Investment Fund announced they were pulling funding for the LIV Golf Tour at the end of the 2026 season, there's been widespread speculation about the future of the breakaway league.\n\nWhile LIV initially grabbed big name stars like Bryson DeChambeau, Brooks Koepka, Phil Mickelson and eventually Jon Rahm with big guaranteed contracts and high purses, that momentum seemingly stalled in recent months and years as the league failed to turn a profit. Some younger players, like Michael La Sasso, a recent men's college golf national champion, did forgo the PGA Tour for LIV, but other big names have stayed put.",
         "first_seen": "2026-08-17T06:47:46.737083+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "From All-American to broadcaster, Emma Carpenter shares journey into sports media",
-        "link": "https://golf.com/news/emma-carpenter-shares-journey-into-sports-media/",
-        "published": "2026-08-16T17:48:12+00:00",
-        "published_label": "Sun 16 Aug, 17:48",
-        "summary": "On the most recent episode of SubPar, Emma Carpenter reveals why she chose a career in broadcasting over professional golf. The post From All-American to broadcaster, Emma Carpenter shares journey into sports media appeared first on Golf .",
-        "body": "Emma Carpenter is building an impressive résumé in sports media, with experience at Golf Channel, PGA Tour Live, Big Ten Network and the Five Clubs Podcast. A former All-American at the University of Minnesota, Carpenter recently joined Colt Knost and Drew Stoltz on SubPar to share the story of how she found her way into broadcasting—and whether a career as a professional golfer was ever in the cards.\n\nCarpenter said she knew she wanted to pursue broadcasting around the time she was heading to college. At the time, she was balancing several interests. A competitive golfer, Carpenter was also a classically trained singer who had considered studying vocal performance and acting.",
-        "copy": "Emma Carpenter is building an impressive résumé in sports media, with experience at Golf Channel, PGA Tour Live, Big Ten Network and the Five Clubs Podcast. A former All-American at the University of Minnesota, Carpenter recently joined Colt Knost and Drew Stoltz on SubPar to share the story of how she found her way into broadcasting—and whether a career as a professional golfer was ever in the cards.\n\nCarpenter said she knew she wanted to pursue broadcasting around the time she was heading to college. At the time, she was balancing several interests. A competitive golfer, Carpenter was also a classically trained singer who had considered studying vocal performance and acting.",
-        "first_seen": "2026-08-16T18:24:27.908342+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 FedEx St. Jude Championship Sunday TV coverage: How to watch Round 4",
-        "link": "https://golf.com/news/2026-fedex-st-jude-championship-sunday-tv-coverage-how-to-watch-round-4/",
-        "published": "2026-08-16T17:40:49+00:00",
-        "published_label": "Sun 16 Aug, 17:40",
-        "summary": "How to watch the 2026 FedEx St. Jude Championship on Sunday, including full TV coverage and streaming info for Round 4 at TPC Southwind. The post 2026 FedEx St. Jude Championship Sunday TV coverage: How to watch Round 4 appeared first on Golf .",
-        "body": "The final round of the 2026 FedEx St. Jude Championship begins Sunday morning at TPC Southwind. Here’s everything you need to know to watch the tournament on Sunday, including full FedEx St. Jude TV coverage, streaming details and complete Round 4 tee times.\n\nHeading into the final round of the 2026 FedEx St. Jude Championship, Scottie Scheffler holds a two-shot lead after shooting a 2-under 68 in Saturday’s third round at TPC Southwind.",
-        "copy": "The final round of the 2026 FedEx St. Jude Championship begins Sunday morning at TPC Southwind. Here’s everything you need to know to watch the tournament on Sunday, including full FedEx St. Jude TV coverage, streaming details and complete Round 4 tee times.\n\nHeading into the final round of the 2026 FedEx St. Jude Championship, Scottie Scheffler holds a two-shot lead after shooting a 2-under 68 in Saturday’s third round at TPC Southwind.",
-        "first_seen": "2026-08-16T18:24:27.908342+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "OG influencer Blair O'Neal has been a social-media star for nearly 2 decades — and counting",
-        "link": "https://golf.com/news/features/blair-oneal-social-media-star-2-decades-and-counting/",
-        "published": "2026-08-16T17:33:18+00:00",
-        "published_label": "Sun 16 Aug, 17:33",
-        "summary": "OG influencer Blair O’Neal has been an Instagram star for nearly 2 decades. At 45, she's also an unusually straight shooter about the gig. The post OG influencer Blair O’Neal has been a social-media star for nearly 2 decades — and counting appeared first on Golf .",
-        "body": "Blair O’Neal, the OG big-time female golf influencer, is still an Instagram star nearly two decades later and, at 45, an unusually straight shooter about the gig. You were among the first women to gain a foothold in the golf influencer space. What was it like in the early days?\n\nI started on MySpace doing golf content and modeling content. Then, when I started to do it on Instagram, I was looking at Natalie Gulbis and Anna Rawson, who were posting some fashion and golf and influencing types of things, playing on tour, but then also doing collaborations with companies. I could see them growing, and I started building this brand around myself because I was modeling as well, and it took off.",
-        "copy": "Blair O’Neal, the OG big-time female golf influencer, is still an Instagram star nearly two decades later and, at 45, an unusually straight shooter about the gig. You were among the first women to gain a foothold in the golf influencer space. What was it like in the early days?\n\nI started on MySpace doing golf content and modeling content. Then, when I started to do it on Instagram, I was looking at Natalie Gulbis and Anna Rawson, who were posting some fashion and golf and influencing types of things, playing on tour, but then also doing collaborations with companies. I could see them growing, and I started building this brand around myself because I was modeling as well, and it took off.",
-        "first_seen": "2026-08-16T18:24:27.908342+00:00"
       }
     ],
     "Badminton": [
@@ -6873,6 +6899,19 @@
       },
       {
         "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF Badminton World Championships 2026: Full schedule, order of play, all results",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcF9TcVZ0R3NYNnNWeE93YWxRZDZFVUdZYUwxWG9pbkhRVTlseDlLQTRaSGl3LXEteTFtV2pLRXVVUmtwVXZlZW9WN2xzTi02Xzc0NjRTb2lneEdfcWdOYk1rdHZjaUl6emtqYVRiOXpzUjdObmZNNF9vZjJ1R1ozOThhZmlNcldHc0U4V2pLX2ZYWHBxUkJ4aWppN2J5NWNzUXlN?oc=5",
+        "published": "2026-08-23T14:36:00+00:00",
+        "published_label": "Sun 23 Aug, 14:36",
+        "summary": "BWF Badminton World Championships 2026: Full schedule, order of play, all results olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T18:28:14.972850+00:00"
+      },
+      {
+        "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
         "title": "Alex Lanier scripts history, becomes first Frenchman to win BWF World Championships singles title",
@@ -6888,6 +6927,19 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "Gicquel/Delrue: Golden Trailblazers",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHRWQmIxdkU5MDN5NmlPeXA0clVmV1oxWXVod0JfZUJiZTdWNEtVWmtRbUlDdEIzQXhNMW9kZWozY0RvZld1TjR2VXdNa01UN1V6Wmc0a3BHaC1GSmJBUGgtV2RvMWxyU2tUb1NIQktMckVZajFlM19XV19lTUxyM1RlbEk1cjZfZkhTOGoxdXlvRUQyaXpmXzVHaDQtTDczMHh4dGZfWE9ORnJnNFlNQWJ3?oc=5",
+        "published": "2026-08-23T12:52:33+00:00",
+        "published_label": "Sun 23 Aug, 12:52",
+        "summary": "Gicquel/Delrue: Golden Trailblazers BWF World Championships",
+        "body": "France can celebrate their first-ever BWF World Championships gold after Thom Gicquel and Delphine Delrue outplayed top seeds Feng Yan Zhe/Huang Dong Ping in a tactical masterclass: 22-20 19-21 21-15.\n\nIt is Europe’s first gold in a paired event since 2009 – incidentally, also in India — when Denmark’s Thomas Laybourn/Kamilla Rytter-Juhl won the title. The French completely took Huang out of the equation at the net, and even dared to flick-serve Feng from time to time. In fact, it was a flick serve on match point that finally delivered the historic moment for France.",
+        "copy": "France can celebrate their first-ever BWF World Championships gold after Thom Gicquel and Delphine Delrue outplayed top seeds Feng Yan Zhe/Huang Dong Ping in a tactical masterclass: 22-20 19-21 21-15.\n\nIt is Europe’s first gold in a paired event since 2009 – incidentally, also in India — when Denmark’s Thomas Laybourn/Kamilla Rytter-Juhl won the title. The French completely took Huang out of the equation at the net, and even dared to flick-serve Feng from time to time. In fact, it was a flick serve on match point that finally delivered the historic moment for France.",
+        "first_seen": "2026-08-23T18:28:14.972850+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "Highlights of mixed doubles at BWF World Championships in New Delhi, India",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16VXlzSGZUT3llN3BzUVA4SlBJQjlrVFRMR0xUcnpPUUFFTnROeVFndVBEd0dWZ2oteFJRR2tzRHhrcFIwZ1U1TWM0bWJtTUt0OHBabmJVdHZlTkNiQy0tVVprNFo5SGlSbW5laXRSQ3BhMEVrbklEU1FrRHU?oc=5",
         "published": "2026-08-23T12:38:38+00:00",
@@ -6896,6 +6948,19 @@
         "body": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
         "copy": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
         "first_seen": "2026-08-23T14:21:34.772105+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Highlights of mixed doubles at BWF World Championships in New Delhi, India",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vUzJzTXBFbTAyRURjc2pwS3ZjU1ZQWGhZcHdmcGhLTFBYMWE1R0l3aDh5blo2dEFUVTg0NEhBMUt5OUNVbmVwU1JRSHdZX2JLNkhGZGdEVGs0U1VJajZBWnkwVzF5eEVQc0R0aWV6N0Fwbi1sYWVtZ1RSMA?oc=5",
+        "published": "2026-08-23T12:38:38+00:00",
+        "published_label": "Sun 23 Aug, 12:38",
+        "summary": "Highlights of mixed doubles at BWF World Championships in New Delhi, India Xinhua",
+        "body": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
+        "copy": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
+        "first_seen": "2026-08-23T18:28:14.972850+00:00"
       },
       {
         "section": "Badminton",
@@ -8716,22 +8781,9 @@
         "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-08-17T14:25:06.271935+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: Scotland’s Gilmour, who came out as gay in 2021, urges progress on LGBTQ rights in Asia",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa0QwaXJCdVJldVJudF94SEJrOWhJaEptZFAyYjVIQ0lHWk91cnRHRkFBd1JKaGJXMmRkZVFhcXg1UWtsQmVYUFlmeEw0RC1FZlVqRUhVc0IyNVNCY0dtYmtETDZxRDA0SEVnSTM3ZThwa0lXWFk1ZkI1a1UyR1FQa19PYWRBeXpWand5VEx3UEhhZm9jd2Z4ZUk4bURsNHdSRTdCaENmSVkwSVVRd0pTdWxYY1o2TG1GQm1icGw4YXM2b0tVZFBBZmRVZGZ4YzE30gHXAUFVX3lxTE83Skc1OUxpcVJqQXFISVQtdFh1SUtSeDBjRlg4S3pwV25VU2NJd2JpMG9zOVpSbGtJc3MySFNwRm5fTm9MYlNZYXdyYVp0TlhaaHhrZGh1ekdkY0xuZzRNZkxpbkZBQnVsbE1ENnZQdTVOY0t4U3B3SGRUNzlsdEpIdW5FcnVjQ2hFTEc2czdyWmhmSDZEMlRXSzlHX0pmMlcxR1pWMWZGV3lwbmZBN1VLbHpOMDRzRTJFamkxWmF5X29uSm5wX0JyTXpTQk8wN0NZbkRQUFdn?oc=5",
-        "published": "2026-08-16T17:01:50+00:00",
-        "published_label": "Sun 16 Aug, 17:01",
-        "summary": "BWF World Championships 2026: Scotland’s Gilmour, who came out as gay in 2021, urges progress on LGBTQ rights in Asia Sportstar",
-        "body": "Scotland’s European badminton champion Kirsty Gilmour, who came out as gay in 2021, said she hopes to see greater acceptance of LGBTQ people in Asia. The 32-year-old urged broader progress across a region where the community largely continues to face discrimination and stigma.\n\n“I would really love to see that actually,” Gilmour, who has advocated for inclusivity in sport, said in the Indian capital New Delhi in response to an AFP question on the issue.",
-        "copy": "Scotland’s European badminton champion Kirsty Gilmour, who came out as gay in 2021, said she hopes to see greater acceptance of LGBTQ people in Asia. The 32-year-old urged broader progress across a region where the community largely continues to face discrimination and stigma.\n\n“I would really love to see that actually,” Gilmour, who has advocated for inclusivity in sport, said in the Indian capital New Delhi in response to an AFP question on the issue.",
-        "first_seen": "2026-08-16T18:24:27.908342+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 670
+  "total": 674
 }
