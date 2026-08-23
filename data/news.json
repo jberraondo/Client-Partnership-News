@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T07:57:01.201215+00:00",
-  "generated_label": "Sunday 23 August 2026, 07:57 UTC",
+  "generated_at": "2026-08-23T08:27:02.694589+00:00",
+  "generated_label": "Sunday 23 August 2026, 08:27 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -4669,19 +4669,6 @@
         "body": "Former British World No. 1 Andrew Castle recently made a bold prediction about Emma Raducanu's career as she continues to recover from injury. Raducanu was last seen in action at the HSBC Championships, where she enjoyed a strong run and reached the final. However, she fell short of winning the title after losing to Donna Vekic in the final on June 14. Following the tournament, she has been away from the court due to a lower-leg injury sustained during the final.\n\nAfter undergoing medical tests, the injury was diagnosed as a stress fracture in her right lower leg. The setback forced her to withdraw from Wimbledon just hours before her opening match. She has also pulled out of the Canadian Open and the US Open as she continues her recovery. The US Open is scheduled to take place from August 23 to September 13 at the USTA Billie Jean King National Tennis Center.",
         "copy": "Former British World No. 1 Andrew Castle recently made a bold prediction about Emma Raducanu's career as she continues to recover from injury. Raducanu was last seen in action at the HSBC Championships, where she enjoyed a strong run and reached the final. However, she fell short of winning the title after losing to Donna Vekic in the final on June 14. Following the tournament, she has been away from the court due to a lower-leg injury sustained during the final.\n\nAfter undergoing medical tests, the injury was diagnosed as a stress fracture in her right lower leg. The setback forced her to withdraw from Wimbledon just hours before her opening match. She has also pulled out of the Canadian Open and the US Open as she continues her recovery. The US Open is scheduled to take place from August 23 to September 13 at the USTA Billie Jean King National Tennis Center.",
         "first_seen": "2026-08-16T10:21:17.009106+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Novak Djokovic vs Thiago Agustin Tirante | Cincinnati Open Highlights",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaDFlQjdmM1JKQ1ZKWGU3SG5jdGl6SDhRMzEwSTBnWERWWXVpaEdNV1I5R2VfY2F3UHVHa0V6ckZsbkVoREl2dWhpWWlKaFlOVlZ1aUwzMXpXcHBxOHRZMmxvcnFnLUUtMzktTUlLUGFSaHNjcjNkMEFHbUVvejRHLUxWckgyZHJ4RndfbXU1eFZ0MHRsNzY0Ry01SC1XbnItRGF6YW0zbUNlQUtVY2M2NS1DckZ4TjQxdWtZNHB3?oc=5",
-        "published": "2026-08-16T08:06:36+00:00",
-        "published_label": "Sun 16 Aug, 08:06",
-        "summary": "Novak Djokovic vs Thiago Agustin Tirante | Cincinnati Open Highlights Sky Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T18:24:27.908342+00:00"
       }
     ],
     "Golf": [
@@ -6823,6 +6810,19 @@
         "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
+        "title": "BWF President Khunying Patama Leeswadtrakul Praises Amazing India",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTdxMDhjZFQwc0h5VmJOWFZVQ09qNGhLdWo2bnBhdGJjaFIxN0VtQWhqanJEYW8wM3J0eXBKMEh5T2VVWWpJQThoOElvSDE0UmVEQmdXeEJ1Vm5oMWU1VlBmWVU1eXd1dFpaYVlISTk3azN6RW9WZGtZVk85UWx0eGZkaTBTMk84cUp5NmNDTGVDZldROXAybVJ2NzNEZS12M3N3TW5iUklIMmxmTFFDWndHVzdfS2ZCRE9iRGpvY2dMODByVzhTdVRYRVY0M1VUUHc?oc=5",
+        "published": "2026-08-23T07:57:03+00:00",
+        "published_label": "Sun 23 Aug, 07:57",
+        "summary": "BWF President Khunying Patama Leeswadtrakul Praises Amazing India BWF World Championships",
+        "body": "What a week New Delhi has given us. India waited 17 years for this moment, and India made every year count. The BWF World Championships 2026 have won praise from every corner of our sport. That praise belongs to the people, and I would like to name them.\n\nThe Badminton Association of India hosted these championships and held everything together over many months, from the first day to the last. The Government of India believed in this event. The Ministry of Youth Affairs and Sports drove it forward. The Sports Authority of India delivered the arena.",
+        "copy": "What a week New Delhi has given us. India waited 17 years for this moment, and India made every year count. The BWF World Championships 2026 have won praise from every corner of our sport. That praise belongs to the people, and I would like to name them.\n\nThe Badminton Association of India hosted these championships and held everything together over many months, from the first day to the last. The Government of India believed in this event. The Ministry of Youth Affairs and Sports drove it forward. The Sports Authority of India delivered the arena.",
+        "first_seen": "2026-08-23T08:27:02.694589+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
         "title": "Naraoka in History-Maker Lanier’s Path",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1FBcDJRWDlQcjVEalY3eEdXM0h4akUzMUN4UmljdmFjWjFZcHN2eTdhUUpNYUZaMTZ0UDdId0U0eTRBVXRyOEhiUmlDZHpDQ2RZc0Nwb3hrYjVHNFhDc2NYOGNwSVZLTUYxYUhyMjQySUN6YW10T1pNRVItRExLQWdlQzNLWjBNbWtLenZGX2RxODhUOXpvQUdONzJSNGJJTjJfMnA0U1paQVJ4?oc=5",
         "published": "2026-08-23T01:35:42+00:00",
@@ -6831,6 +6831,19 @@
         "body": "Alex Lanier followed his compatriots Thom Gicquel/Delphine Delrue in adding more chapters to the history books. After Gicquel/Delrue had become the first French to make a BWF World Championships final, Lanier authored his own subtext – becoming the first French player in a singles final. The journey to the final came through a hard test against Victor Lai, who too was in the reckoning to make history for Canada.\n\nLai dominated the early proceedings before Lanier’s endurance in the rallies changed the momentum. “At some point I was like ‘let’s fight, let’s play the rally’. I needed to trust that I’m consistent and stronger on court. That was the most difficult part of the match. The rallies were going long, I think it hurt me, but also Victor and definitely that was the momentum that I needed to catch,” said Lanier.",
         "copy": "Alex Lanier followed his compatriots Thom Gicquel/Delphine Delrue in adding more chapters to the history books. After Gicquel/Delrue had become the first French to make a BWF World Championships final, Lanier authored his own subtext – becoming the first French player in a singles final. The journey to the final came through a hard test against Victor Lai, who too was in the reckoning to make history for Canada.\n\nLai dominated the early proceedings before Lanier’s endurance in the rallies changed the momentum. “At some point I was like ‘let’s fight, let’s play the rally’. I needed to trust that I’m consistent and stronger on court. That was the most difficult part of the match. The rallies were going long, I think it hurt me, but also Victor and definitely that was the momentum that I needed to catch,” said Lanier.",
         "first_seen": "2026-08-23T06:36:50.000105+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Naraoka in History-Maker Lanier’s Path",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOXzdFbXV2SmMzVmNURDBGRzdOWHV1Z1BRUWd5ZEhqelVERVBJU3dESGRVLVdpcjg2aDZfcEtaNENjWk9RbDBCUzdKU1FDbW9zSVpzNXV6djQwaHo2Mk9Pa2MzMC1SLXlRa3gwWVhjajBmREU4RDlQSk1ZSG9TYTdESEpoQktsd3FtbDhzVmhMMjhaMFo3a1hWYktBdnJmampPT0h1OFdnZXZ6Z3M?oc=5",
+        "published": "2026-08-23T01:35:42+00:00",
+        "published_label": "Sun 23 Aug, 01:35",
+        "summary": "Naraoka in History-Maker Lanier’s Path BWF World Championships",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-08-23T08:27:02.694589+00:00"
       },
       {
         "section": "Badminton",
@@ -8677,35 +8690,9 @@
         "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/pv-sindhu-competitive-fire-undimmed-as-bwf-world-championships-approach-14038538.html\" on this server.\n\nReference #18.d37c4217.1786875661.11d0640e https://errors.edgesuite.net/18.d37c4217.1786875661.11d0640e",
         "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/pv-sindhu-competitive-fire-undimmed-as-bwf-world-championships-approach-14038538.html\" on this server.\n\nReference #18.d37c4217.1786875661.11d0640e https://errors.edgesuite.net/18.d37c4217.1786875661.11d0640e",
         "first_seen": "2026-08-16T10:21:17.009106+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Where to Watch: BWF World Championships 2026",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTDhIckRhZEZBLUdPekQ2N0xwQVhER3RpT1oxYm5ibTF4SWV1MF9lZ0htejN4cUQ2YXFSYmg4WXliYm9FN2lkUHFHV0k0N0EyY0plV0xZRl9zbG1neDB0OTBud3pxdldVVGhZZ0VicTU3X2xRajlIcHVRV1R2MzNROTFSS0xJUllISnMtRGNoSGNFSklRdVdQZkNPSVdUd004aW1CYWJXZVhULTlSRE5CVWNydw?oc=5",
-        "published": "2026-08-16T08:18:25+00:00",
-        "published_label": "Sun 16 Aug, 08:18",
-        "summary": "Where to Watch: BWF World Championships 2026 BWF World Championships",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-08-16T14:21:06.800659+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Where to Watch",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGZtSVpqTEU0RWg2dS1UOHVfdG5QMmp0M05UQXp2cTJzSHNqaWROSVNOUFpPUDFxRTlNWnlpS0F6S2tNaXZSeURrakVNTnhZTW0tLUJHNzNBNzA1ODVhZnJTMkQwWUZoUWhLYTB3QXE4ekZ6bEpJQU9IYkp2TWRtRG1fQjA0VTM4azlCOW10Z3pBb2pUUGZrUWk2akZ1UzRyOF91akRucEF4U09PdkcwOTRGWnc?oc=5",
-        "published": "2026-08-16T08:16:33+00:00",
-        "published_label": "Sun 16 Aug, 08:16",
-        "summary": "Where to Watch BWF World Championships",
-        "body": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
-        "copy": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
-        "first_seen": "2026-08-16T08:25:34.814516+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 668
+  "total": 667
 }
