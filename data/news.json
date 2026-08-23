@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T14:21:34.772105+00:00",
-  "generated_label": "Sunday 23 August 2026, 14:21 UTC",
+  "generated_at": "2026-08-23T16:21:53.690560+00:00",
+  "generated_label": "Sunday 23 August 2026, 16:21 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -3918,6 +3918,19 @@
       },
       {
         "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper pulls out of US Open in latest injury blow",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORElCRndGLS1yNFJqMXBITVBRZmplbE5qR3AwZ3FMbkhPNWdZWjVnUlh4emdGenZKRWZGN2g4MWRuZDMwRjZNQ0ZxeHV1S0tnM2k1NE54NHgxLUxyOW53MXNVaWtiaFhYRU5KZXFuYWpXd2ZxWDVycURiUzl4UHZOQlJ0WS1tc2RJc3lOa0xXZDJVcFJTZ2Rta1l5MHJuX0pvVDl0aE10aWxvck0?oc=5",
+        "published": "2026-08-21T16:37:00+00:00",
+        "published_label": "Fri 21 Aug, 16:37",
+        "summary": "Jack Draper pulls out of US Open in latest injury blow The Independent",
+        "body": "Jack Draper will miss the US Open due to a long-running bone bruising injury which has derailed his last season and a half. The former world No 4, who reached the semi-finals in New York in 2024, has played sparingly this year as a result of the injury to his dominant left arm, and has decided he needs more time to recover.\n\nHe suffered back-to-back losses in Montreal and Cincinnati after another lengthy layoff which saw him miss much of the clay-court season with a separate knee injury, as well as the French Open and Wimbledon.",
+        "copy": "Jack Draper will miss the US Open due to a long-running bone bruising injury which has derailed his last season and a half. The former world No 4, who reached the semi-finals in New York in 2024, has played sparingly this year as a result of the injury to his dominant left arm, and has decided he needs more time to recover.\n\nHe suffered back-to-back losses in Montreal and Cincinnati after another lengthy layoff which saw him miss much of the clay-court season with a separate knee injury, as well as the French Open and Wimbledon.",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "Injured Sinner & Draper withdraw from US Open",
@@ -4620,6 +4633,84 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 BMW Championship money: Total purse, payout breakdown, winner's share",
+        "link": "https://golf.com/news/2026-bmw-championship-money-total-purse-payout-breakdown-winners-share/",
+        "published": "2026-08-23T15:49:40+00:00",
+        "published_label": "Sun 23 Aug, 15:49",
+        "summary": "The 2026 BMW Championship has a $20 million purse with the winner taking home a $3.6 million check at Bellerive Country Club. The post 2026 BMW Championship money: Total purse, payout breakdown, winner’s share appeared first on Golf .",
+        "body": "The penultimate tournament of the PGA Tour’s FedEx Cup Playoffs concludes Sunday at Bellerive Country Club, with the final round of the BMW Championship. The results will finalize the 30 players who will contend for the Tour Championship next week in Atlanta.\n\nThat essentially means there are two tournaments in one Sunday, as players jockey for position. The main course is the BMW Championship itself, where Wyndham Clark holds a commanding five-shot lead through 54 holes over Rory McIlroy and Patrick Cantlay, as he seeks his third win of the year.",
+        "copy": "The penultimate tournament of the PGA Tour’s FedEx Cup Playoffs concludes Sunday at Bellerive Country Club, with the final round of the BMW Championship. The results will finalize the 30 players who will contend for the Tour Championship next week in Atlanta.\n\nThat essentially means there are two tournaments in one Sunday, as players jockey for position. The main course is the BMW Championship itself, where Wyndham Clark holds a commanding five-shot lead through 54 holes over Rory McIlroy and Patrick Cantlay, as he seeks his third win of the year.",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Dustin Johnson shares what he knows about LIV Golf 2.0 after investor meeting",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONHdoTDVOQzM2VU1MSHo0ZUhTM0VOMnlxZUw0OHBhbnRXN0lObC02bDMwb2tUblJHZUQyZ0F6MmU0d2d4dDBNUTFIazEyUVRDNjNjbTRjbjBfN3k2QktsVUFUNFZfSlFpakZNeGNMRExacUlwUzJDb3pWQktBcURfelZKcFJWV0Y5SE1SNmU2NXFmakJ4NE8taXlUT2pWeXVRNkZNNVpiZVVRVVFsQXBWcDc1eUhURjlSZDdfYVpSQlBHNEgwOGFpMW9PVQ?oc=5",
+        "published": "2026-08-23T15:45:43+00:00",
+        "published_label": "Sun 23 Aug, 15:45",
+        "summary": "Dustin Johnson shares what he knows about LIV Golf 2.0 after investor meeting Tennis World USA",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Jamieson ends 14-year wait for second title at Trump course",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-23T15:42:40+00:00",
+        "published_label": "Sun 23 Aug, 15:42",
+        "summary": "Scott Jamieson shoots a final round of 67 to end his 14-year drought and make it back-to-back Scottish winners at the Nexo Championship at Trump International Golf Links in Aberdeenshire.",
+        "body": "Scott Jamieson shot a fine final round of 67 to end his 14-year drought and make it back-to-back Scottish winners at the Nexo Championship at Trump International Golf Links in Aberdeenshire.\n\nIt was just a second DP World Tour triumph for the 42-year-old Glaswegian, with his last success coming in 2012. He finished on 11 under par, two shots clear of overnight leader Matthew Jordan, with fellow Englishman Andy Sullivan third on seven under.",
+        "copy": "Scott Jamieson shot a fine final round of 67 to end his 14-year drought and make it back-to-back Scottish winners at the Nexo Championship at Trump International Golf Links in Aberdeenshire.\n\nIt was just a second DP World Tour triumph for the 42-year-old Glaswegian, with his last success coming in 2012. He finished on 11 under par, two shots clear of overnight leader Matthew Jordan, with fellow Englishman Andy Sullivan third on seven under.",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf's Harold Varner III kicked off public course after dispute, according to club",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXelZSMnowbHY3SEJaNTlDRnZiNjZYVk9JYXduRVJqWU1xbXpINVRjTEsyQzdBQS12aTRCLWxqYWNZU3BYOGU2c2lUcXdESDQ4RWxHY1RFeXBkTWJnNDhyUFowY2I1NFZxRXExTVl2WmdmVUpWaFJDMjNfNDI?oc=5",
+        "published": "2026-08-23T15:38:26+00:00",
+        "published_label": "Sun 23 Aug, 15:38",
+        "summary": "LIV Golf's Harold Varner III kicked off public course after dispute, according to club Golf Digest",
+        "body": "LIV Golf’s Harold Varner III was asked to leave an Indiana course earlier this week following a dispute, according to the course. Varner is playing in LIV’s season-finale event at the Club at Chatham Hills outside of Indianapolis, but some social media posts alleged that Varner was part of a group that was kicked off one of the area’s top public courses, Bear Slide Golf Club, earlier in the week. Over the weekend Bear Slide posted its side of the story on its Facebook page, alleging that Varner booked a foursome, showed up 30 minutes late, and attempted to play as a sixsome.\n\n“We accommodated the additional group and they were informed they could go off as 2 threesomes. At the first tee, they insisted that they should be allowed to play as a 6-some. The starter informed them again that is not allowed,” the post said. “After asking the starter 4 more times, one of the group members told the starter that he was being rude and needed to calm down. Another person from the group defended the starter, saying that he wasn’t being rude and was just enforcing the rules.",
+        "copy": "LIV Golf’s Harold Varner III was asked to leave an Indiana course earlier this week following a dispute, according to the course. Varner is playing in LIV’s season-finale event at the Club at Chatham Hills outside of Indianapolis, but some social media posts alleged that Varner was part of a group that was kicked off one of the area’s top public courses, Bear Slide Golf Club, earlier in the week. Over the weekend Bear Slide posted its side of the story on its Facebook page, alleging that Varner booked a foursome, showed up 30 minutes late, and attempted to play as a sixsome.\n\n“We accommodated the additional group and they were informed they could go off as 2 threesomes. At the first tee, they insisted that they should be allowed to play as a 6-some. The starter informed them again that is not allowed,” the post said. “After asking the starter 4 more times, one of the group members told the starter that he was being rude and needed to calm down. Another person from the group defended the starter, saying that he wasn’t being rude and was just enforcing the rules.",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 BMW Championship Sunday TV coverage: How to watch Final Round",
+        "link": "https://golf.com/news/2026-bmw-championship-sunday-tv-coverage/",
+        "published": "2026-08-23T15:16:31+00:00",
+        "published_label": "Sun 23 Aug, 15:16",
+        "summary": "Here's what you need to know and how to watch the final round of the BMW Championship at Bellerive Country Club in St. Louis on Sunday. The post 2026 BMW Championship Sunday TV coverage: How to watch Final Round appeared first on Golf .",
+        "body": "Wyndham Clark has a commanding lead through 54 holes at the BMW Championship at Bellerive Country Club in St. Louis, the second event of the FedEx Cup Playoffs. Here’s what you need to know for the Final Round Sunday.\n\nThanks to playing the middle eight holes of his round in 7-under, 2026 U.S. Open winner Wyndham Clark started running away from the field at the BMW Championship, opening up a five-shot lead through three rounds.",
+        "copy": "Wyndham Clark has a commanding lead through 54 holes at the BMW Championship at Bellerive Country Club in St. Louis, the second event of the FedEx Cup Playoffs. Here’s what you need to know for the Final Round Sunday.\n\nThanks to playing the middle eight holes of his round in 7-under, 2026 U.S. Open winner Wyndham Clark started running away from the field at the BMW Championship, opening up a five-shot lead through three rounds.",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf stars booted from course in shock incident during season finale week",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2dvSVVmUmdIdDJjZjN5VzRjTFIwTlFydms2LV9NQ1VNM1FtOHNsTWJyNW5tZXFLWlp5Nlg0R0ZuVVFmTlEtd2FpNC04RGVYa09Mbm40U3k2dlA0enFWMXJFdmRlb1VYUExRSUdRVTFKTGQ4ZktDTVhEUkU5WFd4M2lLeGxlbURHZ21Ed3hseXNPbzhjWW1jYVJCcHlMRTFxMXJIVk1naWYzSXktaWc?oc=5",
+        "published": "2026-08-23T14:08:59+00:00",
+        "published_label": "Sun 23 Aug, 14:08",
+        "summary": "LIV Golf stars booted from course in shock incident during season finale week Golfmagic",
+        "body": "LIV Golf star Harold Varner III and other members of his OKGC team were reportedly asked to leave Bear Slide Golf Club in Indiana after the group attempted to play as a six-some, despite being told repeatedly that groups of that size were not permitted.\n\nThe incident took place on August 18, during the week of LIV Golf's season finale in Indiana, and has now been detailed by Bear Slide GC in a social media statement addressing what it described as a recent post concerning a professional golfer being asked to leave the course.",
+        "copy": "LIV Golf star Harold Varner III and other members of his OKGC team were reportedly asked to leave Bear Slide Golf Club in Indiana after the group attempted to play as a six-some, despite being told repeatedly that groups of that size were not permitted.\n\nThe incident took place on August 18, during the week of LIV Golf's season finale in Indiana, and has now been detailed by Bear Slide GC in a social media statement addressing what it described as a recent post concerning a professional golfer being asked to leave the course.",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -6764,22 +6855,35 @@
         "body": "Blair O’Neal, the OG big-time female golf influencer, is still an Instagram star nearly two decades later and, at 45, an unusually straight shooter about the gig. You were among the first women to gain a foothold in the golf influencer space. What was it like in the early days?\n\nI started on MySpace doing golf content and modeling content. Then, when I started to do it on Instagram, I was looking at Natalie Gulbis and Anna Rawson, who were posting some fashion and golf and influencing types of things, playing on tour, but then also doing collaborations with companies. I could see them growing, and I started building this brand around myself because I was modeling as well, and it took off.",
         "copy": "Blair O’Neal, the OG big-time female golf influencer, is still an Instagram star nearly two decades later and, at 45, an unusually straight shooter about the gig. You were among the first women to gain a foothold in the golf influencer space. What was it like in the early days?\n\nI started on MySpace doing golf content and modeling content. Then, when I started to do it on Instagram, I was looking at Natalie Gulbis and Anna Rawson, who were posting some fashion and golf and influencing types of things, playing on tour, but then also doing collaborations with companies. I could see them growing, and I started building this brand around myself because I was modeling as well, and it took off.",
         "first_seen": "2026-08-16T18:24:27.908342+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "The problem Rory McIlroy must be wary of with LIV Golf’s future beyond this season in serious doubt",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2VQbFlUb3NWaGc2U3Rvd1pCcGZMY0VzRlhEdzFUTkt6MTFPbDJxWUtYZVVPd3U1WWJwRDQwQTNCMUhqZW1DanNGamprWHFhR25Fa0VqbzhjaUMxZ3lPZkR6UUtWRWdTdFJzQVpXb3gzbVBDb25WbEoyUEV1eTA0ZVNBU0U4b3FXelFfaUtkejl6RDVTWUlNQWs0Qy10RkowbVU3STl0TTdoS2pfVWtHQWExLXZaS01oVGVJRA?oc=5",
-        "published": "2026-08-16T15:00:00+00:00",
-        "published_label": "Sun 16 Aug, 15:00",
-        "summary": "The problem Rory McIlroy must be wary of with LIV Golf’s future beyond this season in serious doubt hitc.com",
-        "body": "In the months after Rory McIlroy won The Masters in 2025, the Northern Irishman experienced a remarkable slump as he searched for a new golfing purpose. The emotional victory at Augusta National was at least 14 years in the making. Meanwhile, it ended a wait of more than a decade since McIlroy’s fourth major win. It was no surprise, therefore, that the 37-year-old took so long to reassess his goals.\n\nOn the course, McIlroy had built his season around the majors and the Ryder Cup for several years. Some PGA Tour and DP World Tour wins obviously meant a lot, but he was clearly aware that they were unlikely to impact his legacy.",
-        "copy": "In the months after Rory McIlroy won The Masters in 2025, the Northern Irishman experienced a remarkable slump as he searched for a new golfing purpose. The emotional victory at Augusta National was at least 14 years in the making. Meanwhile, it ended a wait of more than a decade since McIlroy’s fourth major win. It was no surprise, therefore, that the 37-year-old took so long to reassess his goals.\n\nOn the course, McIlroy had built his season around the majors and the Ryder Cup for several years. Some PGA Tour and DP World Tour wins obviously meant a lot, but he was clearly aware that they were unlikely to impact his legacy.",
-        "first_seen": "2026-08-16T16:21:22.274014+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Kim Won Ho & Seo Seung Jae (KOR) VS Aaron Chia & Soh Wooi Yik (MYS) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUpZcTJ6MGI4eXc1UHA2QlZsby12ZG53ZFkwd0V6MUJPaHNNR0dQTjhBNnZkSElPQ3VGTmFmWmVUaXNlajRxdG9SMG5ndEFTV3pmZlB0eldJVFV0QXVKN2xLMzktdFpDTlRHOTI2Tm90QlFvVkhGQmRUSmFkaXJtWHBUNm5oQ2N5V3FMV191RHk2U25nQ2YwZDNabXN6NXViYjIyQTJHbkhMRVFIZ1pNZFU2bGdDRUZUU282QWhTOTQ4aGM1LUF2dlQ5bHVYX2tsbFE?oc=5",
+        "published": "2026-08-23T15:32:44+00:00",
+        "published_label": "Sun 23 Aug, 15:32",
+        "summary": "Badminton | Kim Won Ho & Seo Seung Jae (KOR) VS Aaron Chia & Soh Wooi Yik (MYS) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Alex Lanier scripts history, becomes first Frenchman to win BWF World Championships singles title",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdTdhbURhbFZQRlB6bGVNT3ZMOWx1b2NIcU5mNlVvRzhia21mSHpGWVBDZDZtamZFbld1MEhiSG5uN2hUeUxQbGl6VVVMSC1feHNfeXYzazUwT0FSY05rQk9HNllnMjRpMXNWdFVicWd6WEpYc1ZSTU9LeDhibEswMUkwR3FrQkU2R2JLRHlnVF9UbXRqMXFyaHNXQmc1aElJZ081MDNJOGgyRlpQYzRfODlrWmR0QnFxRnh0b3FIZkJycDNBbGpTaGRSZDdrMGVoLTU1YzBVYXAwb0ZkY2ZrS1V5NElSMkR0V2d0N3Y4d3NBYWc1b3NGc3RCWlNRQ2xPNXNEMURB0gGLAkFVX3lxTE5ORVhKcEp2a0V4ZEpMYmNLNjhJenRNSkt6UHptakpnQk5KRWdtN1hIM1hLVDhBZDl3dWRoenNOaV9Gd2J6RFNKX3Y4a25MOVVfVGRyMHZCdTdveVV1VnBmRzRqdVlvSkk0NFlEbGIzelFwS1V5NC1BZFY3ZEtteURDNGpBZHp0YVFUcW9BdDR1a2lsOHRPNFJ1Wi1UdFoyaENTbVdaTC03Mk1TSncwZUZpMTgtZG8xd18tRjNVc0VneFpmNHY1a0RORXJaRXBfT1F6OE1TWnI0LWpPS2VPcHIzMzBHc0NpRUNZcGJRS0YxemxiSmx2WFI5R2RuNmVCNlpnUzEtbHBqVzAydw?oc=5",
+        "published": "2026-08-23T12:59:00+00:00",
+        "published_label": "Sun 23 Aug, 12:59",
+        "summary": "Alex Lanier scripts history, becomes first Frenchman to win BWF World Championships singles title The Times of India",
+        "body": ", completing a remarkable run with a commanding straight-game victory over Japan's Kodai Naraoka on Sunday. The 21-year-old ninth seed produced a dominant display at the Indira Gandhi Indoor Stadium, beating 10th-seeded Naraoka 21-11, 21-11 in around 50 minutes to claim his maiden world title. Lanier controlled the match from the outset, combining aggressive attacking play with excellent court coverage to leave the Japanese shuttler struggling for answers.\n\nThe triumph caps a remarkable rise for Lanier, who had never previously reached a World Championships final. He had already made history by becoming the first Frenchman to reach the men's singles final at the event before taking the final step and becoming the country's first world champion in the discipline.",
+        "copy": ", completing a remarkable run with a commanding straight-game victory over Japan's Kodai Naraoka on Sunday. The 21-year-old ninth seed produced a dominant display at the Indira Gandhi Indoor Stadium, beating 10th-seeded Naraoka 21-11, 21-11 in around 50 minutes to claim his maiden world title. Lanier controlled the match from the outset, combining aggressive attacking play with excellent court coverage to leave the Japanese shuttler struggling for answers.\n\nThe triumph caps a remarkable rise for Lanier, who had never previously reached a World Championships final. He had already made history by becoming the first Frenchman to reach the men's singles final at the event before taking the final step and becoming the country's first world champion in the discipline.",
+        "first_seen": "2026-08-23T16:21:53.690560+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6789,8 +6893,8 @@
         "published": "2026-08-23T12:38:38+00:00",
         "published_label": "Sun 23 Aug, 12:38",
         "summary": "Highlights of mixed doubles at BWF World Championships in New Delhi, India Xinhua",
-        "body": "",
-        "copy": "",
+        "body": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
+        "copy": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
         "first_seen": "2026-08-23T14:21:34.772105+00:00"
       },
       {
@@ -8625,48 +8729,9 @@
         "body": "Scotland’s European badminton champion Kirsty Gilmour, who came out as gay in 2021, said she hopes to see greater acceptance of LGBTQ people in Asia. The 32-year-old urged broader progress across a region where the community largely continues to face discrimination and stigma.\n\n“I would really love to see that actually,” Gilmour, who has advocated for inclusivity in sport, said in the Indian capital New Delhi in response to an AFP question on the issue.",
         "copy": "Scotland’s European badminton champion Kirsty Gilmour, who came out as gay in 2021, said she hopes to see greater acceptance of LGBTQ people in Asia. The 32-year-old urged broader progress across a region where the community largely continues to face discrimination and stigma.\n\n“I would really love to see that actually,” Gilmour, who has advocated for inclusivity in sport, said in the Indian capital New Delhi in response to an AFP question on the issue.",
         "first_seen": "2026-08-16T18:24:27.908342+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF Badminton World Championships 2026: Full schedule, order of play, all results",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcF9TcVZ0R3NYNnNWeE93YWxRZDZFVUdZYUwxWG9pbkhRVTlseDlLQTRaSGl3LXEteTFtV2pLRXVVUmtwVXZlZW9WN2xzTi02Xzc0NjRTb2lneEdfcWdOYk1rdHZjaUl6emtqYVRiOXpzUjdObmZNNF9vZjJ1R1ozOThhZmlNcldHc0U4V2pLX2ZYWHBxUkJ4aWppN2J5NWNzUXlN?oc=5",
-        "published": "2026-08-16T15:01:00+00:00",
-        "published_label": "Sun 16 Aug, 15:01",
-        "summary": "BWF Badminton World Championships 2026: Full schedule, order of play, all results olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-16T16:21:22.274014+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Victor Lai Diary: Talking Drift",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkFUd0wwRzJXeDNpLTFzQzN1SmFhQ190UlN3UkJSaU9fX0lIYWQzSXRkY1hhM20yR0pfMzlXcFhCV21GV05FbFVCWVJIVkZPOG1DZHpCWEpSUUpOUjFfRUxKSGprYkxlLVAzODFDTHRYY2ZqSHFVREpwaDZnejJ5V3lwQjhtcUhVaHF2eGZXbUV6NWk4M2ZfWjEtUzlCdDVub1E?oc=5",
-        "published": "2026-08-16T14:54:28+00:00",
-        "published_label": "Sun 16 Aug, 14:54",
-        "summary": "Victor Lai Diary: Talking Drift BWF World Championships",
-        "body": "Day Two of Victor Lai’s journey as he preps for the BWF World Championships 2026. After a practice session in the arena, Lai talks about taking note of the conditions, getting a sense of the flight of the shuttle, and the technical adjustments he would have to make.\n\nToday was my second practice in the main hall. Got used to the conditions a bit better today. Very obvious, one side there’s drift: one side is slower and one side’s faster. The side drift’s not crazy strong, but still a little bit… still pretty strong, so a lot of things to be aware of and adapt and a bit of match planning too.",
-        "copy": "Day Two of Victor Lai’s journey as he preps for the BWF World Championships 2026. After a practice session in the arena, Lai talks about taking note of the conditions, getting a sense of the flight of the shuttle, and the technical adjustments he would have to make.\n\nToday was my second practice in the main hall. Got used to the conditions a bit better today. Very obvious, one side there’s drift: one side is slower and one side’s faster. The side drift’s not crazy strong, but still a little bit… still pretty strong, so a lot of things to be aware of and adapt and a bit of match planning too.",
-        "first_seen": "2026-08-17T06:47:46.737083+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Victor Lai Diary: Talking Drift",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS3NfeFQzSk1GcFJqYzg0Z1gwN3laR1Q1aUptbTVHdzJVcWVydjZ3QU9CMTNHMk9MVDl3TmhwMG9yQVFyMXJucElBdnBXMW93MDZDU3MyUlFRaEdaNmhuS2stUUJUX3JRRENOc3kzQ2phQVZSS28xMUgzZ2s4MXltbkRjVzd2X3Z3aVZDcEk4ZHFIa3FQclh0UFd6ZlBGazQ2QlZJ?oc=5",
-        "published": "2026-08-16T14:52:42+00:00",
-        "published_label": "Sun 16 Aug, 14:52",
-        "summary": "Victor Lai Diary: Talking Drift BWF World Championships",
-        "body": "Day Two of Victor Lai’s journey as he preps for the BWF World Championships 2026. After a practice session in the arena, Lai talks about taking note of the conditions, getting a sense of the flight of the shuttle, and the technical adjustments he would have to make.\n\nToday was my second practice in the main hall. Got used to the conditions a bit better today. Very obvious, one side there’s drift: one side is slower and one side’s faster. The side drift’s not crazy strong, but still a little bit… still pretty strong, so a lot of things to be aware of and adapt and a bit of match planning too.",
-        "copy": "Day Two of Victor Lai’s journey as he preps for the BWF World Championships 2026. After a practice session in the arena, Lai talks about taking note of the conditions, getting a sense of the flight of the shuttle, and the technical adjustments he would have to make.\n\nToday was my second practice in the main hall. Got used to the conditions a bit better today. Very obvious, one side there’s drift: one side is slower and one side’s faster. The side drift’s not crazy strong, but still a little bit… still pretty strong, so a lot of things to be aware of and adapt and a bit of match planning too.",
-        "first_seen": "2026-08-16T16:21:22.274014+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 665
+  "total": 670
 }
