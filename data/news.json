@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T12:42:44.260166+00:00",
-  "generated_label": "Monday 24 August 2026, 12:42 UTC",
+  "generated_at": "2026-08-24T14:39:42.482972+00:00",
+  "generated_label": "Monday 24 August 2026, 14:39 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Abu Dhabi to host Euroleague Basketball’s inaugural Super Cup",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE9CM0dfN2czYlk5ejBBeDROQ2o1a0JudkotWlhvbHpvbWVYblZYQm82Q1FxdmxHbXhHYkFCWmVIRDk0bVJyZ282SENGWldQb3VCWDkxS2QzbWdTZmU4eW9mNEh1ZzM4TExFR3dnWXFJTXNRTV9yc2ZHS1ZFZHYyeFFsZG44YXlwVXczaGdtOXNJVmxGeXc?oc=5",
+        "published": "2026-08-24T13:50:52+00:00",
+        "published_label": "Mon 24 Aug, 13:50",
+        "summary": "Abu Dhabi to host Euroleague Basketball’s inaugural Super Cup Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "F1 restates intention to host season-ending Abu Dhabi Grand Prix",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdfQ3JMemN6SGNXX2l1cDJielZ3eHRVM2VQZGtwdzZFaEg3aW1xNEx4QkRld203aGRfWkstRUljNmxGbW1oMTBQaXBoc3FjZ1I0N2s2SEhQMWxhX2ZlNzc3RUdVRkstdnlpQTUtMl9tdVl4N200aGc3Q1d1S2diSDBIQ1VYTEdGQmVmQjlzZTdfRVdJQXhvczhHZw?oc=5",
+        "published": "2026-08-24T13:21:12+00:00",
+        "published_label": "Mon 24 Aug, 13:21",
+        "summary": "F1 restates intention to host season-ending Abu Dhabi Grand Prix Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "New Red Bull, Hankook Tire deals for Qatar Stars League",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTW8wdTNrbDFxRmJuQ1VJQVRvSFJiZ3Y1Wi1DalhuaUt3T2ZRV0lST2lLUm1hc0d2NlBXdWl0eVptMi0tWjBUZ0FWMHg4LVppYUM4RkZpSWpNU290ZXQ0Q2ZtblBtYTlpWGdKSTBGR3NOVE5iM3pQRHpZd2JPNWZCVTVaZG1DSGVoY2tzV2xB?oc=5",
+        "published": "2026-08-24T13:20:52+00:00",
+        "published_label": "Mon 24 Aug, 13:20",
+        "summary": "New Red Bull, Hankook Tire deals for Qatar Stars League Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1402,48 +1441,152 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-17T16:24:09.136332+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Virgin Media secures NFL rights renewal",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4S1RpaVp1YXFTQ0U0Ny13UkExOEpVTG9Mdmc0TWpPOEZEbzZYT0pFQVR3VW5sYzk1V1oyak5KeVB5YjIyeXBvWVlHM1F2Mk1ocHRRZ0tWNnd3bXdicmNaTERqNDhtV0R4ZXcxSXI0bGFHRUh5VXhpTEd3?oc=5",
-        "published": "2026-08-17T14:22:01+00:00",
-        "published_label": "Mon 17 Aug, 14:22",
-        "summary": "Virgin Media secures NFL rights renewal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-17T16:24:09.136332+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "GSE Worldwide launches GSE advisory, names Michael Brown executive vice president",
-        "link": "https://www.sportspro.com/announcements/spotlight-agency/gse-worldwide-launches-gse-advisory-names-michael-brown-executive-vice-president/",
-        "published": "2026-08-17T13:50:11+00:00",
-        "published_label": "Mon 17 Aug, 13:50",
-        "summary": "New advisory practice builds upon GSE's existing brand services to help organisations maximise their investment in sports. The post GSE Worldwide launches GSE advisory, names Michael Brown executive vice president appeared first on SportsPro .",
-        "body": "New York (July 28, 2026) – GSE Worldwide (GSE), a leader in sports and entertainment marketing, event production and talent management, today announced the launch of GSE Advisory, a new advisory practice that expands the company’s existing brand-facing capabilities by providing senior-level strategic guidance to brands, rights holders, investors and sports organizations navigating growth through sports. The company also announced the appointment of industry veteran Michael Brown as executive vice president, GSE Advisory, effective July 27.\n\nBuilding upon GSE’s existing brand services, the launch of GSE Advisory marks the next phase in GSE’s continued evolution, adding a dedicated advisory practice to the company’s existing capabilities across talent representation, experiential marketing, hospitality, and live events. By combining strategic guidance with direct access to the people, platforms, and experiences that shape today’s sports landscape, GSE Advisory will help brands answer critical questions around where to invest, which partnerships create the greatest value, and how to maximize their investments in sports.",
-        "copy": "New York (July 28, 2026) – GSE Worldwide (GSE), a leader in sports and entertainment marketing, event production and talent management, today announced the launch of GSE Advisory, a new advisory practice that expands the company’s existing brand-facing capabilities by providing senior-level strategic guidance to brands, rights holders, investors and sports organizations navigating growth through sports. The company also announced the appointment of industry veteran Michael Brown as executive vice president, GSE Advisory, effective July 27.\n\nBuilding upon GSE’s existing brand services, the launch of GSE Advisory marks the next phase in GSE’s continued evolution, adding a dedicated advisory practice to the company’s existing capabilities across talent representation, experiential marketing, hospitality, and live events. By combining strategic guidance with direct access to the people, platforms, and experiences that shape today’s sports landscape, GSE Advisory will help brands answer critical questions around where to invest, which partnerships create the greatest value, and how to maximize their investments in sports.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "British Cycling finally finds CEO as Pete Bonfield steps into hotseat",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE5ud0pVcWJqU3l6YlFuT2lLQ1E1TFc5QkJ1NExuMVB4MjhnZGotY3pueWQ4MkZjcWtXTFhVTjVCSExNa3Rqb2hhZGQ3U2x4SGhXa25qRXc2S05sVmFPUjQtbHVxTEJLNmRfU1pKR3BpY3pLcGw2aWpHaFNOMzlXM2Y2UTJxZmhZNUFJb2xiM054bWQwNF9KVXJTX2dYbGRPenc?oc=5",
-        "published": "2026-08-17T13:38:10+00:00",
-        "published_label": "Mon 17 Aug, 13:38",
-        "summary": "British Cycling finally finds CEO as Pete Bonfield steps into hotseat Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Ireland target continued momentum as seven uncapped players named in 36-player squad",
+        "link": "https://www.rugbypass.com/news/ireland-aim-to-maintain-positive-momentum-as-seven-uncapped-players-named-in-36-player-training-squad/",
+        "published": "2026-08-24T14:24:20+00:00",
+        "published_label": "Mon 24 Aug, 14:24",
+        "summary": "Ireland head coach Scott Bemand has included seven uncapped players in his 36-player WXV Global Series training squad.",
+        "body": "Ireland head coach Scott Bemand has included seven uncapped players in his 36-player WXV Global Series training squad. Jemima Adams-Verling, Sophie Barrett, Beth Buttimer, Caitríona Finn, Kate Jordan, Lucia Linn and Alana McInerney are all yet to win their maiden Ireland caps, but have impressed in Celtic Challenge and Vodafone Women’s Interprovincial Championship action.\n\nThe squad will assemble in Dublin as preparations for their WXV Global Series campaign gather pace. In September, Ireland will host home fixtures against the USA Women’s Eagles and Japan.",
+        "copy": "Ireland head coach Scott Bemand has included seven uncapped players in his 36-player WXV Global Series training squad. Jemima Adams-Verling, Sophie Barrett, Beth Buttimer, Caitríona Finn, Kate Jordan, Lucia Linn and Alana McInerney are all yet to win their maiden Ireland caps, but have impressed in Celtic Challenge and Vodafone Women’s Interprovincial Championship action.\n\nThe squad will assemble in Dublin as preparations for their WXV Global Series campaign gather pace. In September, Ireland will host home fixtures against the USA Women’s Eagles and Japan.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Springboks concede famous bench tactic finally 'backfired' against All Blacks",
+        "link": "https://www.rugbypass.com/news/springboks-concede-bench-tactic-finally-backfired-against-all-blacks/",
+        "published": "2026-08-24T14:18:37+00:00",
+        "published_label": "Mon 24 Aug, 14:18",
+        "summary": "Springboks head coach Rassie Erasmus has conceded that his famous 6/2 bench tactic \"backfired\" on his team against the All Blacks in Johannesburg, and it was an avoidable mistake.",
+        "body": "Springboks head coach Rassie Erasmus has conceded that his famous 6/2 bench tactic “backfired” on his team against the All Blacks at Ellis Park, and it was an avoidable mistake.\n\nSouth Africa, famous for their physical forward pack, opted to double down on that strength for game one of the Rugby’s Greatest Rivalry Test series, stacking their bench with six forwards and just two backs as opposed to the traditional five forwards and three backs, which provides more even cover in the event of injury.",
+        "copy": "Springboks head coach Rassie Erasmus has conceded that his famous 6/2 bench tactic “backfired” on his team against the All Blacks at Ellis Park, and it was an avoidable mistake.\n\nSouth Africa, famous for their physical forward pack, opted to double down on that strength for game one of the Rugby’s Greatest Rivalry Test series, stacking their bench with six forwards and just two backs as opposed to the traditional five forwards and three backs, which provides more even cover in the event of injury.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Brazil wish for 'intensity' ahead of first South Africa 'A' clash in São Paulo",
+        "link": "https://www.rugbypass.com/news/brazil-wish-for-intensity-ahead-of-first-south-africa-a-clash-in-sao-paulo/",
+        "published": "2026-08-24T14:08:21+00:00",
+        "published_label": "Mon 24 Aug, 14:08",
+        "summary": "South Africa Women 'A' and Brazil's Yaras have named their match day squads for Monday night's clash between the two teams.",
+        "body": "South Africa Women ‘A’ and Brazil’s Yaras have named their match day squads for Monday night’s clash between the two teams. After their evening time clash São Paulo to start the week, the two teams will meet one another again on Saturday.\n\nSouth Africa will be captained by fly-half Mary Zulu, who is one of two members of squad that reached last year’s Women’s Rugby World Cup 2025 quarter-final in England. Luchell Hanekom, who is the other player, starts at hooker.",
+        "copy": "South Africa Women ‘A’ and Brazil’s Yaras have named their match day squads for Monday night’s clash between the two teams. After their evening time clash São Paulo to start the week, the two teams will meet one another again on Saturday.\n\nSouth Africa will be captained by fly-half Mary Zulu, who is one of two members of squad that reached last year’s Women’s Rugby World Cup 2025 quarter-final in England. Luchell Hanekom, who is the other player, starts at hooker.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Spencer to miss start of Bath's season after surgery",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c04695xwrkzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-24T13:49:43+00:00",
+        "published_label": "Mon 24 Aug, 13:49",
+        "summary": "Bath captain Ben Spencer will miss the start of the 2026-27 season but Will Stuart and Jaco Coetzee among those returning.",
+        "body": "Bath captain and England scrum-half Ben Spencer will miss the opening weeks of the 2026-27 Prem season after having surgery on a long-standing shoulder injury. The 34-year-old missed two games for Bath in April after he injured his shoulder; however, he returned to conclude the season and was part of England's squad this summer for the Nations Championship, coming on as a replacement during the win away in Argentina.\n\nBath said Spencer will return \"later in the autumn\". The club begins the 2026-27 season away at Harlequins on Friday, 25 September. Louis Hennessey, Tom de Glanville, Will Muir, Tom Dunn and Sam Underhill have all also undergone shoulder procedures this summer however will be available for the start of the campaign.",
+        "copy": "Bath captain and England scrum-half Ben Spencer will miss the opening weeks of the 2026-27 Prem season after having surgery on a long-standing shoulder injury. The 34-year-old missed two games for Bath in April after he injured his shoulder; however, he returned to conclude the season and was part of England's squad this summer for the Nations Championship, coming on as a replacement during the win away in Argentina.\n\nBath said Spencer will return \"later in the autumn\". The club begins the 2026-27 season away at Harlequins on Friday, 25 September. Louis Hennessey, Tom de Glanville, Will Muir, Tom Dunn and Sam Underhill have all also undergone shoulder procedures this summer however will be available for the start of the campaign.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Henry Pollock hits opposition for six in latest sporting venture",
+        "link": "https://www.rugbypass.com/news/henry-pollock-hits-opposition-for-six-in-latest-sporting-venture/",
+        "published": "2026-08-24T13:47:46+00:00",
+        "published_label": "Mon 24 Aug, 13:47",
+        "summary": "Henry Pollock showed off his cricketing skills on Northampton's tour of Sri Lanka, blasting 13 runs off just four balls as the International Rugby Stars fell short of beating a team of Sri Lankan cricket legends in a charity T20 match.",
+        "body": "Henry Pollock showed off his cricketing skills on Northampton’s tour of Sri Lanka, blasting 13 runs off just four balls as the International Rugby Stars fell short of beating a team of Sri Lankan cricket legends in a charity T12 match in Colombo on Monday.\n\nThe England and Lions back-rower came in when the game was already up, with the Saints-heavy Rugby Stars team, which was led by wicket-keeper/captain David Campes, failing to chase down the 140 required to win.",
+        "copy": "Henry Pollock showed off his cricketing skills on Northampton’s tour of Sri Lanka, blasting 13 runs off just four balls as the International Rugby Stars fell short of beating a team of Sri Lankan cricket legends in a charity T12 match in Colombo on Monday.\n\nThe England and Lions back-rower came in when the game was already up, with the Saints-heavy Rugby Stars team, which was led by wicket-keeper/captain David Campes, failing to chase down the 140 required to win.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Blow for Bath as Ben Spencer is ruled out for start of season",
+        "link": "https://www.rugbypass.com/news/blow-for-bath-as-ben-spencer-is-ruled-out-for-start-of-season/",
+        "published": "2026-08-24T13:14:14+00:00",
+        "published_label": "Mon 24 Aug, 13:14",
+        "summary": "The scrum-half, who led Bath to the PREM title in 2025, had an operation this summer to resolve a longstanding issue, with the club confirming he will return \"later in the autumn.\"",
+        "body": "Bath captain Ben Spencer will miss the opening rounds of the 2026/27 PREM Rugby season as he continues to recover from shoulder surgery. The scrum-half, who led Bath to the PREM title in 2025, had an operation this summer to resolve a longstanding issue, with the club confirming he will return “later in the autumn.”\n\nPresumably, this means Spencer will miss the first three league fixtures at least, Harlequins (away), Exeter (home) and Northampton (away). Spencer is just one of several Bath players battling to recover from shoulder injuries, but Louie Hennessey, Will Muir, Sam Underhill, Tom Dunn and Tom de Glanville are on schedule to be fit for the new season.",
+        "copy": "Bath captain Ben Spencer will miss the opening rounds of the 2026/27 PREM Rugby season as he continues to recover from shoulder surgery. The scrum-half, who led Bath to the PREM title in 2025, had an operation this summer to resolve a longstanding issue, with the club confirming he will return “later in the autumn.”\n\nPresumably, this means Spencer will miss the first three league fixtures at least, Harlequins (away), Exeter (home) and Northampton (away). Spencer is just one of several Bath players battling to recover from shoulder injuries, but Louie Hennessey, Will Muir, Sam Underhill, Tom Dunn and Tom de Glanville are on schedule to be fit for the new season.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Singleton nearing end of rehab but leaves Gloucester",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cg598qd3z9po?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-24T13:08:11+00:00",
+        "published_label": "Mon 24 Aug, 13:08",
+        "summary": "Hooker Jack Singleton is nearing the end of his rehabilitation from a cardiac incident but is leaving Gloucester.",
+        "body": "Hooker Jack Singleton is nearing the end stage of his rehabilitation almost a year after a cardiac event during a training session; however, he will not be at Gloucester during 2026-27.\n\nThe 30-year-old has not played since the incident in September 2025 and has been receiving support from the Cherry and Whites' medical team and specialists. \"Jack has followed a detailed and extensive process to reach a position where he can consider a return to full training, subject to the successful completion of his rehabilitation programme,\" a Gloucester statement said.",
+        "copy": "Hooker Jack Singleton is nearing the end stage of his rehabilitation almost a year after a cardiac event during a training session; however, he will not be at Gloucester during 2026-27.\n\nThe 30-year-old has not played since the incident in September 2025 and has been receiving support from the Cherry and Whites' medical team and specialists. \"Jack has followed a detailed and extensive process to reach a position where he can consider a return to full training, subject to the successful completion of his rehabilitation programme,\" a Gloucester statement said.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Test rugby coach heads home to try and revive ailing SA rugby school",
+        "link": "https://www.rugbypass.com/news/test-rugby-coach-heads-home-to-try-and-revive-ailing-sa-rugby-school/",
+        "published": "2026-08-24T13:00:44+00:00",
+        "published_label": "Mon 24 Aug, 13:00",
+        "summary": "Pretoria Boys High School have recruited an old boy who has worked wonders overseas as their new director of rugby.",
+        "body": "Pretoria Boys High School, who count 2007 World Cup-winning captain John Smit amongst their alta mater, have brought another former pupil back to South Africa to try and elevate their status in South African schoolboy rugby.\n\nPBHS only won six of their 17 matches this season and have struggled to produce players of the quality of Smit, or their most recent Springbok, fellow hooker Chilliboy Ralepelle, and were recently ranked 43rd by South Africa’s Schoolboy Rugby Blog.",
+        "copy": "Pretoria Boys High School, who count 2007 World Cup-winning captain John Smit amongst their alta mater, have brought another former pupil back to South Africa to try and elevate their status in South African schoolboy rugby.\n\nPBHS only won six of their 17 matches this season and have struggled to produce players of the quality of Smit, or their most recent Springbok, fellow hooker Chilliboy Ralepelle, and were recently ranked 43rd by South Africa’s Schoolboy Rugby Blog.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Ballymore to become the new home of Australian rugby sevens",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZlkzWmYzVkFyRWtha2xJRjIwS1RjZ3B5TmNTaEYtM1JRb2twbnFDbnRTaGV4SjRoeDdoMklvNFpwRHYwckhjaHItWEQwLVJjVktIb003Qjl0dUE3MEo2TDE5ZFdUU2hUbjdPb3Y5YzhZZjlZZW0yUmM0bnVhY216TmF2MWVMZllJU0JfSExmSG1PdnhYSFVsejMxVmg2NmtodzRaTFA2R0pPbmhzLTlNcVcweVhPaVlwU2FwWVp4QlB5dw?oc=5",
+        "published": "2026-08-24T12:59:43+00:00",
+        "published_label": "Mon 24 Aug, 12:59",
+        "summary": "Ballymore to become the new home of Australian rugby sevens Queensland Government",
+        "body": "Queensland has scored a massive sporting win with the Wallaroos and Australia’s Men’s and Women’s Rugby Sevens programs relocating to be based at Ballymore under a landmark new agreement with Rugby Australia.\n\nThe teams will be permanently headquartered at an upgraded Ballymore, with funding from the Games Legacy Fund powering a new high-performance facility and a brand-new Eastern Stand, transforming Ballymore into a world-class rugby precinct built to rival the best in the world.",
+        "copy": "Queensland has scored a massive sporting win with the Wallaroos and Australia’s Men’s and Women’s Rugby Sevens programs relocating to be based at Ballymore under a landmark new agreement with Rugby Australia.\n\nThe teams will be permanently headquartered at an upgraded Ballymore, with funding from the Games Legacy Fund powering a new high-performance facility and a brand-new Eastern Stand, transforming Ballymore into a world-class rugby precinct built to rival the best in the world.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Louise McMillan: 'It just didn't quite work for my life anymore'",
+        "link": "https://www.rugbypass.com/news/louise-mcmillan-it-just-didnt-quite-work-for-my-life-anymore/",
+        "published": "2026-08-24T12:55:43+00:00",
+        "published_label": "Mon 24 Aug, 12:55",
+        "summary": "Louise McMillan turned down a contract from Scotland at the start of the year and has now retired from international rugby at the age of just 29.",
+        "body": "Louise McMillan turned down a contract from Scotland at the start of the year and has now retired from international rugby at the age of just 29. The second row lost her Scotland contract in the summer of 2025 after first being awarded one in 2022. That meant she had to get a full-time job again, working in operations for an insurance company.\n\nIf she was going to be a full-time rugby player again she would have had to take a pay cut and make other sacrifices and at this point in her life, she felt it was something that didn’t feel right.",
+        "copy": "Louise McMillan turned down a contract from Scotland at the start of the year and has now retired from international rugby at the age of just 29. The second row lost her Scotland contract in the summer of 2025 after first being awarded one in 2022. That meant she had to get a full-time job again, working in operations for an insurance company.\n\nIf she was going to be a full-time rugby player again she would have had to take a pay cut and make other sacrifices and at this point in her life, she felt it was something that didn’t feel right.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Erasmus leaves door open for late changes with five Springbok injury updates",
+        "link": "https://www.rugbypass.com/news/erasmus-leaves-door-open-for-late-changes-with-five-springbok-injury-updates/",
+        "published": "2026-08-24T12:40:31+00:00",
+        "published_label": "Mon 24 Aug, 12:40",
+        "summary": "Rassie Erasmus may have named his matchday 23 to face the All Blacks in game two of the Rugby's Greatest Rivalry series, but he says there are a couple of changes that could yet be made.",
+        "body": "Rassie Erasmus may have named his matchday 23 to face the All Blacks in game two of the Rugby’s Greatest Rivalry series, but he says there are a couple of changes that could yet be made.\n\nIt remains unclear whether captain Siya Kolisi will be fit in time to play, and superstar winger Cheslin Kolbe is hanging under a similar injury cloud. While Kolisi’s name appeared on the team sheet, it was listed alongside Paul de Villiers, with a slash between them, signalling that the latter would step in should Kolisi not recover from his hamstring injury in time. Meanwhile, Kolbe’s name was left off the team sheet entirely, with Kurt-Lee Arendse named on the right wing.",
+        "copy": "Rassie Erasmus may have named his matchday 23 to face the All Blacks in game two of the Rugby’s Greatest Rivalry series, but he says there are a couple of changes that could yet be made.\n\nIt remains unclear whether captain Siya Kolisi will be fit in time to play, and superstar winger Cheslin Kolbe is hanging under a similar injury cloud. While Kolisi’s name appeared on the team sheet, it was listed alongside Paul de Villiers, with a slash between them, signalling that the latter would step in should Kolisi not recover from his hamstring injury in time. Meanwhile, Kolbe’s name was left off the team sheet entirely, with Kurt-Lee Arendse named on the right wing.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3588,74 +3731,22 @@
         "body": "This weekend Pia Tapsell could become the first rugby player to have represented both the Black Ferns and Wallaroos. When the two teams meet at Mount Smart Stadium for the second Laurie O’Reilly Cup clash of 2026, Tapsell may make her Wallaroos debut against the Black Ferns, for whom she made six appearances between 2019 and 2020.\n\nBorn in Melbourne, but raised in New Zealand from the age of eight, the loose forward has switched allegiances after two seasons with the Western Force in Super Rugby Women’s and has described her international recall as a “fresh start”.",
         "copy": "This weekend Pia Tapsell could become the first rugby player to have represented both the Black Ferns and Wallaroos. When the two teams meet at Mount Smart Stadium for the second Laurie O’Reilly Cup clash of 2026, Tapsell may make her Wallaroos debut against the Black Ferns, for whom she made six appearances between 2019 and 2020.\n\nBorn in Melbourne, but raised in New Zealand from the age of eight, the loose forward has switched allegiances after two seasons with the Western Force in Super Rugby Women’s and has described her international recall as a “fresh start”.",
         "first_seen": "2026-08-17T18:34:59.020140+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Three-time Champions Cup winner joins coaching staff of Élite 1 hopefuls",
-        "link": "https://www.rugbypass.com/news/three-time-champions-cup-winner-joins-coaching-staff-of-elite-1-hopefuls/",
-        "published": "2026-08-17T14:33:50+00:00",
-        "published_label": "Mon 17 Aug, 14:33",
-        "summary": "Toulon legend Jocelino Suta has joined the coaching staff of Toulon ahead of the 2026/27 AXA Élite 1 Féminine season.",
-        "body": "Toulon legend Jocelino Suta has joined the coaching staff of Rugby Club Toulon Provence Méditerranée ahead of the 2026/27 AXA Élite 1 Féminine season. Across a 13-year playing career the Vanuatu-born enforcer made 233 appearances for Toulon across a decade at the club, won three Champions Cup titles and earned six caps for France.\n\nSuta came off the bench in the 2013 and 2014 Champions Cup Final successes against Clermont and Saracens, as a squad containing the likes of Jonny Wilkinson, Bakkies Botha, Matt Giteau and Carl Hayman dominated continental club rugby. In 2015, Suta made seven tournament appearances as the club claimed a third title in a row.",
-        "copy": "Toulon legend Jocelino Suta has joined the coaching staff of Rugby Club Toulon Provence Méditerranée ahead of the 2026/27 AXA Élite 1 Féminine season. Across a 13-year playing career the Vanuatu-born enforcer made 233 appearances for Toulon across a decade at the club, won three Champions Cup titles and earned six caps for France.\n\nSuta came off the bench in the 2013 and 2014 Champions Cup Final successes against Clermont and Saracens, as a squad containing the likes of Jonny Wilkinson, Bakkies Botha, Matt Giteau and Carl Hayman dominated continental club rugby. In 2015, Suta made seven tournament appearances as the club claimed a third title in a row.",
-        "first_seen": "2026-08-17T16:24:09.136332+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "All Blacks add 140kg uncapped Highlanders prop, issue four further updates",
-        "link": "https://www.rugbypass.com/news/all-blacks-add-uncapped-140kg-highlanders-prop-issue-four-further-updates/",
-        "published": "2026-08-17T13:58:45+00:00",
-        "published_label": "Mon 17 Aug, 13:58",
-        "summary": "The All Blacks have called in Saula Ma'u to replace Ollie Norris on the Rugby's Greatest Rivalry tour, marking the fifth injury update of the series so far for the Kiwis.",
-        "body": "The All Blacks have called in Saula Ma’u to replace Ollie Norris on the Rugby’s Greatest Rivalry tour, marking the fifth injury update of the series so far for the Kiwis. Head coach Dave Rennie has also shared promising updates on a trio of stars, while adding it is too soon to tell on another.\n\nIt’s good news for Cam Roigard and Will Jordan, with All Blacks staff “anticipating they’ll be fine” to play in the first Test of the series in Johannesburg this weekend, after missing the first two weeks of action with minor complaints.",
-        "copy": "The All Blacks have called in Saula Ma’u to replace Ollie Norris on the Rugby’s Greatest Rivalry tour, marking the fifth injury update of the series so far for the Kiwis. Head coach Dave Rennie has also shared promising updates on a trio of stars, while adding it is too soon to tell on another.\n\nIt’s good news for Cam Roigard and Will Jordan, with All Blacks staff “anticipating they’ll be fine” to play in the first Test of the series in Johannesburg this weekend, after missing the first two weeks of action with minor complaints.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Endangered Scarlets make Eddie James admission as they hold on to Wales centre",
-        "link": "https://www.rugbypass.com/news/endangered-scarlets-make-eddie-james-admission-as-they-hold-on-to-wales-centre/",
-        "published": "2026-08-17T13:43:00+00:00",
-        "published_label": "Mon 17 Aug, 13:43",
-        "summary": "Scarlets Director of Rugby Nigel Davies admits that Wales centre Eddie James signing a new deal is significant for the club, who are battling the Ospreys for the WRU West Wales licence.",
-        "body": "Scarlets Director of Rugby Nigel Davies admits that Wales centre Eddie James signing a new deal is significant for the club, who are battling the Ospreys for the WRU West Wales licence.\n\nThe inside centre, who stands at 6ft 4in and weighs 104kg, is one of Wales’ most explosive ball-carriers and has played 47 times for the Scarlets and 11 times for his country.",
-        "copy": "Scarlets Director of Rugby Nigel Davies admits that Wales centre Eddie James signing a new deal is significant for the club, who are battling the Ospreys for the WRU West Wales licence.\n\nThe inside centre, who stands at 6ft 4in and weighs 104kg, is one of Wales’ most explosive ball-carriers and has played 47 times for the Scarlets and 11 times for his country.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Newcastle lock Usher signs new deal",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckg3vrm15rno?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-17T13:26:45+00:00",
-        "published_label": "Mon 17 Aug, 13:26",
-        "summary": "Newcastle Red Bulls lock Oscar Usher signs a new three-year deal with the club.",
-        "body": "Newcastle Red Bulls lock Oscar Usher has signed a new three-year deal. The 22-year-old won the club's young player of the year award last season in his first full year as a professional.\n\n\"Creating opportunities for young local players is a massive part of what Newcastle Red Bulls are about, and Oscar has seized his chance by showing a tremendous work ethic and desire to improve,\" head coach Dan McFarland told the club website., external",
-        "copy": "Newcastle Red Bulls lock Oscar Usher has signed a new three-year deal. The 22-year-old won the club's young player of the year award last season in his first full year as a professional.\n\n\"Creating opportunities for young local players is a massive part of what Newcastle Red Bulls are about, and Oscar has seized his chance by showing a tremendous work ethic and desire to improve,\" head coach Dan McFarland told the club website., external",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Is All Blacks' tour of South Africa a new chapter for rugby union?",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c2dkz3k94dlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-17T13:18:44+00:00",
-        "published_label": "Mon 17 Aug, 13:18",
-        "summary": "Is New Zealand's 'Greatest Rivalry' tour of world champions South Africa a signpost to the future of rugby union?",
-        "body": "That is what separated South Africa and New Zealand in the 2023 Rugby World Cup final, as the Springboks went back-to-back to become the first nation to win the tournament four times.\n\nRassie Erasmus' world champions sit top of the rankings and have also won back-to-back Rugby Championships. They are indisputably the game's dominant force. Their predecessors as rugby union's supreme team were the All Blacks, who won their own back-to-back World Cups, in 2011 and 2015.",
-        "copy": "That is what separated South Africa and New Zealand in the 2023 Rugby World Cup final, as the Springboks went back-to-back to become the first nation to win the tournament four times.\n\nRassie Erasmus' world champions sit top of the rankings and have also won back-to-back Rugby Championships. They are indisputably the game's dominant force. Their predecessors as rugby union's supreme team were the All Blacks, who won their own back-to-back World Cups, in 2011 and 2015.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Katie Boulter overtakes Emma Raducanu and achieves British tennis feat ahead of the US Open",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3ZFU2dEcXlzRDFidnhqdlpkTnlOZlR1QndxejVTV2JpNmlNblBOVEdubkM1NVFBNmZYSVF1MzBsQnV4V0Y5OHZPb2RabFk1UktDR3VrbUZTYnlqZFJ4U2IyaGJrTDNQU2Z5M0lnc3NYNWcxMTgyaTBjcFdzTTAxT1gzbjFSQVlmbkZnY2Y0R3RvdmNBSDVLV3llcC0weTk1dXBfOWlwdzRPV3pJZ0pKUFVQNkNzZw?oc=5",
+        "published": "2026-08-24T13:30:00+00:00",
+        "published_label": "Mon 24 Aug, 13:30",
+        "summary": "Katie Boulter overtakes Emma Raducanu and achieves British tennis feat ahead of the US Open Tennishead",
+        "body": "Katie Boulter has struggled to produce her best form throughout the North American hard-court swing. The British star has won just one of her four matches over the past month, with her only victory coming against Katie Volynets in Cincinnati.\n\nBoulter will have the opportunity to bounce back when she competes at the US Open later this month. What is stopping Katie Boulter from staying in the WTA top 20? Despite her recent poor form, Boulter climbed 11 places in the WTA rankings following her second-round result in Cincinnati.",
+        "copy": "Katie Boulter has struggled to produce her best form throughout the North American hard-court swing. The British star has won just one of her four matches over the past month, with her only victory coming against Katie Volynets in Cincinnati.\n\nBoulter will have the opportunity to bounce back when she competes at the US Open later this month. What is stopping Katie Boulter from staying in the WTA top 20? Despite her recent poor form, Boulter climbed 11 places in the WTA rankings following her second-round result in Cincinnati.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
       {
         "section": "Tennis",
         "source": "Sky Sports",
@@ -4591,61 +4682,22 @@
         "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "first_seen": "2026-08-17T16:24:09.136332+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Raducanu tipped to abruptly retire amid hints of future career after tennis",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQkVzQ01lQUQyX0docWUyY3p5YTNMcWlpYzNSUlFzY004NzhyQVpmamRaRGY5ckxfZ2JLcEZ6NXlfZGxpcUVSUHNHMEk3Mm84bE1EdkJoVXd5ZGhfTUlBZktyQWZBVjhNd1c3NVZVMmJvSXZRQ25aRE1HdHJfR3hsOU5vTV9kQ1ZyeUpYcVZqRDl5MmtzSkxEVFhCMjQxMGY0QzBXZnFB?oc=5",
-        "published": "2026-08-17T14:38:30+00:00",
-        "published_label": "Mon 17 Aug, 14:38",
-        "summary": "Raducanu tipped to abruptly retire amid hints of future career after tennis talkSPORT",
-        "body": "Former British tennis player and broadcaster Andrew Castle would not be shocked if Emma Raducanu retired from tennis 'out of the blue'. Since climbing to the top of the sport with her historic US Open victory in 2021, Raducanu has struggled for consistency.\n\nExcluding her win in Flushing Meadows, Raducanu has failed to progress beyond the fourth round of a Grand Slam. And in the Grand Slams following the 2021 US Open, Raducanu has made it past the second round just four times from 14 attempts.",
-        "copy": "Former British tennis player and broadcaster Andrew Castle would not be shocked if Emma Raducanu retired from tennis 'out of the blue'. Since climbing to the top of the sport with her historic US Open victory in 2021, Raducanu has struggled for consistency.\n\nExcluding her win in Flushing Meadows, Raducanu has failed to progress beyond the fourth round of a Grand Slam. And in the Grand Slams following the 2021 US Open, Raducanu has made it past the second round just four times from 14 attempts.",
-        "first_seen": "2026-08-17T16:24:09.136332+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Davis Cup: Jack Draper Misses Out, Arthur Fery Gets Nod After Wimbledon Shock",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVhENWVFeXlUNzVTOVpwZkhKR2FqVW80OWpJRmlaTUFEWU9JZWY5UkdOS1JhSkRHTnJLUnQ3YlpWWEY4TkJiQlNuYTBOeVctSnlOY0dSRmcwTUx2Z0hFRXgzUnh0RUNLVHZvSTBlc0R5YnZTZDM2YVlKckh6TEhkYS0wVzU4cnNTa0JrV09aUVk?oc=5",
-        "published": "2026-08-17T14:22:27+00:00",
-        "published_label": "Mon 17 Aug, 14:22",
-        "summary": "Davis Cup: Jack Draper Misses Out, Arthur Fery Gets Nod After Wimbledon Shock TennisTemple",
-        "body": "Great Britain unveils its squad for the Davis Cup weekend in September against Ecuador. On September 19 and 20, the Brits will attempt to secure their ticket to the final phase (played in Bologna in November) in front of their home crowd in London.\n\nTo give themselves every chance, captain Leon Smith has decided to rely on current British No. 1 in the ATP rankings, Cameron Norrie, in addition to calling up Arthur Fery. The world No. 37, surprise Wimbledon semifinalist in July, had already participated in a Davis Cup weekend last year in Poland.",
-        "copy": "Great Britain unveils its squad for the Davis Cup weekend in September against Ecuador. On September 19 and 20, the Brits will attempt to secure their ticket to the final phase (played in Bologna in November) in front of their home crowd in London.\n\nTo give themselves every chance, captain Leon Smith has decided to rely on current British No. 1 in the ATP rankings, Cameron Norrie, in addition to calling up Arthur Fery. The world No. 37, surprise Wimbledon semifinalist in July, had already participated in a Davis Cup weekend last year in Poland.",
-        "first_seen": "2026-08-17T16:24:09.136332+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Davis Cup: Arthur Fery named in Great Britain's squad with Jack Draper absent",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3ZQVXZQc3h6RnhHWHBMRHZsN1RoUEwyaTJSU1BRVzFPYWdsVll3WkN4RzBfQTk4Q29NLUlHNU50ZHpSZDZaOWota1haMjlYcVNUY2x6MnNnNTNQN2FFTGFOMWpEV1JHdXlEbEZlekJFNWxFM3BOYjJ5R1NTX0R5R3VfOUdwRXBod2N1a0pvQ0k2bVV5NjEtVEVXajN6SUViUXFueFp5TmRuUFVGdThzVENxWjZnMDJ0NFZEaEx0U2M3N09yS1dJ?oc=5",
-        "published": "2026-08-17T13:12:06+00:00",
-        "published_label": "Mon 17 Aug, 13:12",
-        "summary": "Davis Cup: Arthur Fery named in Great Britain's squad with Jack Draper absent Sky Sports",
-        "body": "Arthur Fery has been named in the Great Britain Davis Cup team for the home qualifying tie against Ecuador next month. The 24-year-old, who memorably reached the semi-finals at Wimbledon this summer, is joined by Cameron Norrie and doubles players Henry Patten and Lloyd Glasspool.\n\nFery featured in Britain's Davis Cup play-off against Poland in September 2025, beating Olaf Pieczkowski in straight sets to help seal progress to the 2026 Qualifiers. There remains a fifth spot up for grabs, which could go to Jack Draper if the former world No 4 can get back to fitness after an injury-ravaged year.",
-        "copy": "Arthur Fery has been named in the Great Britain Davis Cup team for the home qualifying tie against Ecuador next month. The 24-year-old, who memorably reached the semi-finals at Wimbledon this summer, is joined by Cameron Norrie and doubles players Henry Patten and Lloyd Glasspool.\n\nFery featured in Britain's Davis Cup play-off against Poland in September 2025, beating Olaf Pieczkowski in straight sets to help seal progress to the 2026 Qualifiers. There remains a fifth spot up for grabs, which could go to Jack Draper if the former world No 4 can get back to fitness after an injury-ravaged year.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "'She doesn’t have an obligation' - BBC legend admits he wouldn't be surprised if Emma Raducanu abruptly retired",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3pzaEpmd09mamJIOWxZYTdMcnRQMVhQcXJYVDhjQk5GOXlXRDVGUWtZa1N0ZklNNVVPZ1FxWVlTOGtOclBVaEZYNXZYOW90MmNuZ0tIVXRyMDVzWWlaellEdHV2Vk40NFA3SHpDSDFNeC1ualo0TEZtMjR4djZiMlA3TDRVYjN2WXJNNjgwdEZYMUZ3?oc=5",
-        "published": "2026-08-17T13:01:00+00:00",
-        "published_label": "Mon 17 Aug, 13:01",
-        "summary": "'She doesn’t have an obligation' - BBC legend admits he wouldn't be surprised if Emma Raducanu abruptly retired The Sun",
-        "body": "EMMA RADUCANU could suddenly retire from tennis due to injury, according to Andrew Castle. The iconic BBC presenter insists he wouldn’t be surprised if Raducanu, 23, rolled credits on her eight-year career “out of the blue”.\n\nThe Bromley star has been plagued by a raft of injuries since winning the US Open in 2021 and is currently dealing with a stress fracture in her lower right leg. That has forced the tennis star to withdraw from the competition she won five years ago as well as Wimbledon.",
-        "copy": "EMMA RADUCANU could suddenly retire from tennis due to injury, according to Andrew Castle. The iconic BBC presenter insists he wouldn’t be surprised if Raducanu, 23, rolled credits on her eight-year career “out of the blue”.\n\nThe Bromley star has been plagued by a raft of injuries since winning the US Open in 2021 and is currently dealing with a stress fracture in her lower right leg. That has forced the tennis star to withdraw from the competition she won five years ago as well as Wimbledon.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Not everything was perfect': Bryson DeChambeau's curious LIV comments raise questions",
+        "link": "https://golf.com/news/bryson-dechambeau-curious-liv-comments-raise-questions/",
+        "published": "2026-08-24T13:19:03+00:00",
+        "published_label": "Mon 24 Aug, 13:19",
+        "summary": "Following LIV Golf's season finale, Bryson DeChambeau offered up some conflicting thoughts on the league's future that raised questions. The post ‘Not everything was perfect’: Bryson DeChambeau’s curious LIV comments raise questions appeared first on Golf .",
+        "body": "The dust is still settling from LIV Golf’s 2026 season finale in Indianapolis. The question now is whether it will prove to be the final LIV Golf tournament in history. Bryson DeChambeau didn’t provide much clarity on the matter Sunday night.\n\nInstead, DeChambeau offered up conflicting thoughts on LIV’s future, at first professing his excitement at “what could happen next year,” before talking about LIV in the past tense and even acknowledging unspecified mistakes the upstart league has made.",
+        "copy": "The dust is still settling from LIV Golf’s 2026 season finale in Indianapolis. The question now is whether it will prove to be the final LIV Golf tournament in history. Bryson DeChambeau didn’t provide much clarity on the matter Sunday night.\n\nInstead, DeChambeau offered up conflicting thoughts on LIV’s future, at first professing his excitement at “what could happen next year,” before talking about LIV in the past tense and even acknowledging unspecified mistakes the upstart league has made.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -4723,6 +4775,19 @@
         "body": "Bryson DeChambeau says he is \"proud\" of what LIV Golf has achieved as the breakaway league faces questions about its future following the final event of the season in Indianapolis.\n\nThe league, which launched in 2022 as an alternative to the PGA Tour, has faced an uncertain future since Saudi Arabia's Public Investment Fund (PIF) withdrew its financial backing in April.",
         "copy": "Bryson DeChambeau says he is \"proud\" of what LIV Golf has achieved as the breakaway league faces questions about its future following the final event of the season in Indianapolis.\n\nThe league, which launched in 2022 as an alternative to the PGA Tour, has faced an uncertain future since Saudi Arabia's Public Investment Fund (PIF) withdrew its financial backing in April.",
         "first_seen": "2026-08-24T12:42:44.260166+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf: Bryson DeChambeau proud of what LIV has achieved amid uncertain future",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9felRnbGtMdm5oYUkxUXFGMWV3OGNEVWhLclhjNW1XWWkwSkZjckMyVDdQdXZWNTVLUDdjdXlUZWUyZVV6MGdZcVFIWlNtYU5zZnlwbzBFODFISVNlQ0FRal9R?oc=5",
+        "published": "2026-08-24T10:20:10+00:00",
+        "published_label": "Mon 24 Aug, 10:20",
+        "summary": "LIV Golf: Bryson DeChambeau proud of what LIV has achieved amid uncertain future BBC",
+        "body": "Bryson DeChambeau says he is \"proud\" of what LIV Golf has achieved as the breakaway league faces questions about its future following the final event of the season in Indianapolis.\n\nThe league, which launched in 2022 as an alternative to the PGA Tour, has faced an uncertain future since Saudi Arabia's Public Investment Fund (PIF) withdrew its financial backing in April.",
+        "copy": "Bryson DeChambeau says he is \"proud\" of what LIV Golf has achieved as the breakaway league faces questions about its future following the final event of the season in Indianapolis.\n\nThe league, which launched in 2022 as an alternative to the PGA Tour, has faced an uncertain future since Saudi Arabia's Public Investment Fund (PIF) withdrew its financial backing in April.",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
       },
       {
         "section": "Golf",
@@ -6972,71 +7037,6 @@
         "body": "Justin Thomas has insisted that he does not think that Bryson DeChambeau intentionally tried to improve his lie at The Open Championship, but admitted that he definitely supported the decision to hand him a penalty at Royal Birkdale.\n\nFew will forget the scenes on Friday evening at The Open Championship, as Bryson DeChambeau pleaded his case with rules officials ahead of being handed a two-shot penalty. How many times do you think Scottie Scheffler will win in 2027?",
         "copy": "Justin Thomas has insisted that he does not think that Bryson DeChambeau intentionally tried to improve his lie at The Open Championship, but admitted that he definitely supported the decision to hand him a penalty at Royal Birkdale.\n\nFew will forget the scenes on Friday evening at The Open Championship, as Bryson DeChambeau pleaded his case with rules officials ahead of being handed a two-shot penalty. How many times do you think Scottie Scheffler will win in 2027?",
         "first_seen": "2026-08-17T18:34:59.020140+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Report: Jon Rahm may have to say sorry for LIV Golf move before PGA Tour comeback",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHc5QTY2U3I5R0FQNF8yWDc4OEdHOFVPSU9VUjJNMFc4R1NMYXllZkNsZ3VBTDAtU0JsN1FOTk5wZEZ3SU5keFVUNVRHZVdtb2VTQUYtcjVWcnYxMGsyZndGdm43UWE0NEVSMWQ1bDJBdTh6SFZGUE5TNWpGT2xLekFPT3FIS2NnOEdmZ1RNYVlNd1hOVGNoZWtvTktUT2dQS1l2QnZ4dWdkQQ?oc=5",
-        "published": "2026-08-17T13:37:26+00:00",
-        "published_label": "Mon 17 Aug, 13:37",
-        "summary": "Report: Jon Rahm may have to say sorry for LIV Golf move before PGA Tour comeback golfmagic.com",
-        "body": "Jon Rahm may be asked to show more contrition and accept harsher financial and competitive terms than Brooks Koepka did if he seeks a return to the PGA Tour, according to a report.\n\nRahm joined LIV Golf in December 2023 on a reported contract running through the end of 2028, but uncertainty over the future of the circuit has raised fresh questions over whether he will remain with the league beyond this season.",
-        "copy": "Jon Rahm may be asked to show more contrition and accept harsher financial and competitive terms than Brooks Koepka did if he seeks a return to the PGA Tour, according to a report.\n\nRahm joined LIV Golf in December 2023 on a reported contract running through the end of 2028, but uncertainty over the future of the circuit has raised fresh questions over whether he will remain with the league beyond this season.",
-        "first_seen": "2026-08-17T16:24:09.136332+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "South Africa sport minister on Olympics bid, Formula 1, Springboks and LIV Golf",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGVKSHktak94VjVWWElWZUdyaEJsT0dDMGRLWTBXNjBfOEFzUVBPdXNmNTd5OTExaXVLNE12QklnWEZYYVZyRHh6WHZ5endVeTZqSGlmT3V5Qkc5TXA3eXBfdVFnc3ZFeTVZTXFveDJPU3ZNZVRtaGtKaElRZWIwRjUwdFhRVlFGOUxfUURqN1NtNlAzTW1xZkZ2RHRuTk9LRE04?oc=5",
-        "published": "2026-08-17T13:30:00+00:00",
-        "published_label": "Mon 17 Aug, 13:30",
-        "summary": "South Africa sport minister on Olympics bid, Formula 1, Springboks and LIV Golf City AM",
-        "body": "When you think of sport in South Africa images from the 1995 Rugby World Cup come to mind alongside the sound of vuvuzelas en masse in 2010 and Chad le Clos (and his father, Bert) at the London 2012 Olympic Games.\n\nBut there remains a feeling that the Rainbow Nation, and the wider African continent is being ignored by global sport. Fifa’s Gianni Infantino reportedly offering Morocco the 2030 World Cup final to secure his presidency could be seen by some as the Swiss using the co-host as a pawn in a wider geopolitical game.",
-        "copy": "When you think of sport in South Africa images from the 1995 Rugby World Cup come to mind alongside the sound of vuvuzelas en masse in 2010 and Chad le Clos (and his father, Bert) at the London 2012 Olympic Games.\n\nBut there remains a feeling that the Rainbow Nation, and the wider African continent is being ignored by global sport. Fifa’s Gianni Infantino reportedly offering Morocco the 2030 World Cup final to secure his presidency could be seen by some as the Swiss using the co-host as a pawn in a wider geopolitical game.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Jon Rahm has three choices. But he won’t totally love any of them",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQkNTMjFKNjFtZEhnZEdzRnlzYjNLYXE2Y0c3ZXRVbUVDSmdDbUJNRXdUOGpfdzFBM3M1WkJIVGNXYmc5SVF3bFhBdVl3Z3VVRF84Q1NITzhTc3pCZEZGT0VFQmNWYTh2eTVNQlpaRlYyaVNpYWYyUmg5V0dsZm12TFREQU5Ra04yZzRwVWVhRFUycmFPaHJIWC1nUkJsUVUzVWRJSFIzTlQ2WS1pTzF3aXhQbEh4bHdTVjhTZHZ3MElVY0EwNVBlb2F3?oc=5",
-        "published": "2026-08-17T13:24:00+00:00",
-        "published_label": "Mon 17 Aug, 13:24",
-        "summary": "Jon Rahm has three choices. But he won’t totally love any of them Golfweek",
-        "body": "Jon Rahm has three choices. But he won’t totally love any of them | Opinion - Sources suggest golfer Jon Rahm may soon exit the LIV Golf league, following Brooks Koepka's earlier departure.\n\n- Returning to the PGA Tour could be difficult for Rahm, as he may face financial penalties and restricted playing privileges. - Another option for Rahm is to play on the DP World Tour in Europe, though this would mean smaller purses and time away from his U.S. home.",
-        "copy": "Jon Rahm has three choices. But he won’t totally love any of them | Opinion - Sources suggest golfer Jon Rahm may soon exit the LIV Golf league, following Brooks Koepka's earlier departure.\n\n- Returning to the PGA Tour could be difficult for Rahm, as he may face financial penalties and restricted playing privileges. - Another option for Rahm is to play on the DP World Tour in Europe, though this would mean smaller purses and time away from his U.S. home.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Jordan Spieth (and 2 other stars) just miss 'important' top 50 cutoff",
-        "link": "https://golf.com/news/jordan-spieth-homa-mitchell-top-50/",
-        "published": "2026-08-17T13:11:43+00:00",
-        "published_label": "Mon 17 Aug, 13:11",
-        "summary": "One pro called No. 50 the \"most important number on the PGA Tour.\" Here's who ended up on the wrong side of an anxious bubble watch. The post Jordan Spieth (and 2 other stars) just miss ‘important’ top 50 cutoff appeared first on Golf .",
-        "body": "Matt McCarty had an early tee time on Sunday at the FedEx St. Jude Championship. “I kind of controlled my own destiny. Now for that not to be the case kind of sucks. But it is what it is, and we’ll see,” he said post-round.\n\nMcCarty entered the week at No. 48, just inside the PGA Tour’s all-important top 50 bubble. The top 50 get into next week’s BMW Championship, but more importantly they get into all of next season’s Signature events, and maybe even more importantly than that, doing so will provide an inside track to qualifying for the new ‘Championship Series’ cutoff coming in 2028.",
-        "copy": "Matt McCarty had an early tee time on Sunday at the FedEx St. Jude Championship. “I kind of controlled my own destiny. Now for that not to be the case kind of sucks. But it is what it is, and we’ll see,” he said post-round.\n\nMcCarty entered the week at No. 48, just inside the PGA Tour’s all-important top 50 bubble. The top 50 get into next week’s BMW Championship, but more importantly they get into all of next season’s Signature events, and maybe even more importantly than that, doing so will provide an inside track to qualifying for the new ‘Championship Series’ cutoff coming in 2028.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'When is this going to stop?': Scottie Scheffler fights off horrible break to win St. Jude",
-        "link": "https://golf.com/news/scottie-scheffler-fights-horrible-break-win-st-jude/",
-        "published": "2026-08-17T12:52:00+00:00",
-        "published_label": "Mon 17 Aug, 12:52",
-        "summary": "Scottie Scheffler secured a huge comeback win at the 2026 FedEx St. Jude, but it was almost thwarted with a horrible break on the 3rd hole. The post ‘When is this going to stop?’: Scottie Scheffler fights off horrible break to win St. Jude appeared first on Golf .",
-        "body": "Scottie Scheffler finally captured his second win of the season on Sunday at the 2026 FedEx St. Jude Championship. In the process, the World No. 1 ended a winless drought that stretched back to January.\n\nWhile that would hardly be news for almost any other player, Scheffler is the best in the world and has repeatedly experienced near-misses all year long. But it all almost came undone when Scheffler suffered a horrendous break on the 3rd hole of the final round that threatened his lead as well as his comeback win and left the four-time major winner beside himself.",
-        "copy": "Scottie Scheffler finally captured his second win of the season on Sunday at the 2026 FedEx St. Jude Championship. In the process, the World No. 1 ended a winless drought that stretched back to January.\n\nWhile that would hardly be news for almost any other player, Scheffler is the best in the world and has repeatedly experienced near-misses all year long. But it all almost came undone when Scheffler suffered a horrendous break on the 3rd hole of the final round that threatened his lead as well as his comeback win and left the four-time major winner beside himself.",
-        "first_seen": "2026-08-17T14:25:06.271935+00:00"
       }
     ],
     "Badminton": [
@@ -7091,6 +7091,32 @@
         "body": "An Se-young of Korea celebrates after winning the women's singles final match against Akane Yamaguchi of Japan at the Badminton World Federation (BWF) World Championship in New Delhi, India, on Aug. 23.EPA/YONHAP\n\nBadminton star An Se-young overcame her toughest opponent — herself. The reward was her first world championship title in three years. World No. 1 An defeated second-ranked Akane Yamaguchi of Japan 2-0 (21-17, 21-14) in the women's singles final of the 2026 Badminton World Federation (BWF) World Championships at Indira Gandhi Indoor Stadium in New Delhi, India, on Sunday.",
         "copy": "An Se-young of Korea celebrates after winning the women's singles final match against Akane Yamaguchi of Japan at the Badminton World Federation (BWF) World Championship in New Delhi, India, on Aug. 23.EPA/YONHAP\n\nBadminton star An Se-young overcame her toughest opponent — herself. The reward was her first world championship title in three years. World No. 1 An defeated second-ranked Akane Yamaguchi of Japan 2-0 (21-17, 21-14) in the women's singles final of the 2026 Badminton World Federation (BWF) World Championships at Indira Gandhi Indoor Stadium in New Delhi, India, on Sunday.",
         "first_seen": "2026-08-24T06:52:47.918495+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Liu Sheng Shu & Tan Ning (CHN) VS Baek Ha Na & Lee So Hee (KOR) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQzdoWjM2OHFPUE5FM0FWVXI1U2RESDQwMU93dUNCeGRubDBWSGNvRjBZb2NPMTBMY0VTUXNXT1JzRHBEYzZLcTZVVWxqOTFXQnZJcGx3eklsbVYtS1hKdlM5M2hQTFdzcG9TU3hKWjFLeFlRclMyeHotdEYtaEhKYUVpeVBRV3dzczNJaTV4M3VKN2tFSkc1UXc1b1ExMEF3ejdYYVByTzBEVFpIbFpaVGVBSzJhTEVsa1dDa0V6UFZVTU1zS2hySGx4QXY?oc=5",
+        "published": "2026-08-23T15:50:07+00:00",
+        "published_label": "Sun 23 Aug, 15:50",
+        "summary": "Badminton | Liu Sheng Shu & Tan Ning (CHN) VS Baek Ha Na & Lee So Hee (KOR) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | An Se Young (KOR) VS Akane Yamaguchi (JPN) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2NkWDZIbHRJZmpTUnFaM0tuU09GNVVlT3huQzNHNEJpX1FGeDc4ZTdkY3N0WTl2M1V4aGxQM1pWSkE2Ym12Q09kUjk1eEdxVzdjYmRQeHBPT1Z1S0Zldi1qNkstQXVieXBWanZqN2tqbl9jQS0xNF9mNlVIbUpQb1A5NVhMSXp2MEk0WmJzdFhUNk1nLVp5emczTTV0a3NQNDJEb0pybHVNYXdnTkZmbEpUNFVGZw?oc=5",
+        "published": "2026-08-23T15:32:55+00:00",
+        "published_label": "Sun 23 Aug, 15:32",
+        "summary": "Badminton | An Se Young (KOR) VS Akane Yamaguchi (JPN) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
       },
       {
         "section": "Badminton",
@@ -7182,6 +7208,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-23T14:21:34.772105+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Badminton | Chou Tien Chen (TPE) VS Kodai Naraoka (JPN) | BWF World Championship | New Delhi",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVRQMGI2WldOUFlBOTc5SEx1VGdhRGpyWnZlQWpnLXhSVEVYalVzdlJBMEFoQkZxMkFyUnE3QkxuaUNNSlBTWjduSDNaaU8wNFJoMVdfY0g5endPdS1UMnk0SjJ1dHM3RzFfSnpSY2lPRXhOOXJERmNHNEVYdmNYUVQtWmRLbk5MRkVfdm00NHZUYUdYTjg0MWhJR3hDMkxmM1JreG1iRU5vMlhPblhSVXVEUmVYOWc?oc=5",
+        "published": "2026-08-23T12:18:42+00:00",
+        "published_label": "Sun 23 Aug, 12:18",
+        "summary": "Badminton | Chou Tien Chen (TPE) VS Kodai Naraoka (JPN) | BWF World Championship | New Delhi olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-24T14:39:42.482972+00:00"
       },
       {
         "section": "Badminton",
@@ -8820,35 +8859,9 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-18T12:39:20.483758+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "PV Sindhu riding on confidence at BWF World Championships 2026",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3FiaFc0WENMVmo4bW00VWtZanUxWGxiY3B1dHVHWE5hbTJJVTVWRjBSV1Zvd00yRHpuWHpQUXFFYkVPZ0lTQWJsRXo5akVFNDA1cUR1RV9yUW11emFTb1JJQmU1ZFpJZ3h0NXZvcC1QWmdKc3lKVG54NFBqbmU0TkNHc2I3LTBMRUZZcVRzcmc5c2ZMUS1ZVGF5Qk80R3gtOWZXaVJiN1Y?oc=5",
-        "published": "2026-08-17T14:38:28+00:00",
-        "published_label": "Mon 17 Aug, 14:38",
-        "summary": "PV Sindhu riding on confidence at BWF World Championships 2026 olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-17T16:24:09.136332+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "India's Shetty stuns world number one Shi at World Championships",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkZGSldCMHdlRVlrc0pyLThCa0Q1eEM2THJSSllzb1AtMkk0OXRCajNKbm5zSkxad3ZYRTdNcVBjZTJzc282TzZyVmdVby1ZQmtoRDc4SmtVNFRWZnhYc3JWSTRBLXAwVThpbm5HQzJ5TEVYSUlMT1RtOVVNMXkwU0lPbEZ4dGVRRlQzcVBuS29ZUEFpaGI0UzhpQjFwdUxxTWFNc3Vn?oc=5",
-        "published": "2026-08-17T14:33:43+00:00",
-        "published_label": "Mon 17 Aug, 14:33",
-        "summary": "India's Shetty stuns world number one Shi at World Championships Reuters",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-18T06:38:44.337967+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 679
+  "total": 680
 }
