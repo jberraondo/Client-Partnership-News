@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T08:12:16.572298+00:00",
-  "generated_label": "Monday 24 August 2026, 08:12 UTC",
+  "generated_at": "2026-08-24T08:45:06.745204+00:00",
+  "generated_label": "Monday 24 August 2026, 08:45 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "Barclays WSL and WSL 2 Fantasy Game now live, developed in collaboration with SI",
+        "link": "https://www.sportspro.com/announcements/spotlight-agency/barclays-wsl-and-wsl-2-fantasy-game-now-live-developed-in-collaboration-with-si/",
+        "published": "2026-08-24T08:40:14+00:00",
+        "published_label": "Mon 24 Aug, 08:40",
+        "summary": "The Barclays WSL and WSL2 Fantasy Game has launched and is available to users of the WSL Football app and visitors to the WSL fantasy website. The post Barclays WSL and WSL 2 Fantasy Game now live, developed in collaboration with SI appeared first on SportsPro .",
+        "body": "The brand-new fantasy football experience is built specifically around the Barclays Women’s Super League and Barclays Women’s Super League 2 with the intention to create weekly habits and bring fans closer to the players that feature in both leagues.\n\nThe game has been built in response to what fans said they wanted, after WSL Football surveyed and spoke to thousands of fans during the development process to build a game that is accessible to the widest possible audience both domestically and internationally.",
+        "copy": "The brand-new fantasy football experience is built specifically around the Barclays Women’s Super League and Barclays Women’s Super League 2 with the intention to create weekly habits and bring fans closer to the players that feature in both leagues.\n\nThe game has been built in response to what fans said they wanted, after WSL Football surveyed and spoke to thousands of fans during the development process to build a game that is accessible to the widest possible audience both domestically and internationally.",
+        "first_seen": "2026-08-24T08:45:06.745204+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1457,6 +1470,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Rassie Erasmus sends two Springboks back to their club",
+        "link": "https://www.rugbypass.com/news/rassie-erasmus-sends-two-springboks-back-to-their-club-quan-horn-boan-venter-all-blacks/",
+        "published": "2026-08-24T08:32:45+00:00",
+        "published_label": "Mon 24 Aug, 08:32",
+        "summary": "Two members of Rassie Erasmus’ extended South Africa squad have been released to the Lions for Tuesday night’s clash with the All Blacks at Ellis Park, with Quan Horn and Boan Venter both included in Ivan van Rooyen’s matchday 23.",
+        "body": "Two members of Rassie Erasmus’ extended South Africa squad have been released to the Lions for Tuesday night’s clash with the All Blacks at Ellis Park, with Quan Horn and Boan Venter both included in Ivan van Rooyen’s matchday 23.\n\nHorn has been named at full-back for the final franchise fixture of the Rugby’s Greatest Rivalry series, while loosehead Venter will provide cover from the bench. The pair return to a Lions group built largely around the side that won the SA Shield during the 2025/26 United Rugby Championship campaign.",
+        "copy": "Two members of Rassie Erasmus’ extended South Africa squad have been released to the Lions for Tuesday night’s clash with the All Blacks at Ellis Park, with Quan Horn and Boan Venter both included in Ivan van Rooyen’s matchday 23.\n\nHorn has been named at full-back for the final franchise fixture of the Rugby’s Greatest Rivalry series, while loosehead Venter will provide cover from the bench. The pair return to a Lions group built largely around the side that won the SA Shield during the 2025/26 United Rugby Championship campaign.",
+        "first_seen": "2026-08-24T08:45:06.745204+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4646,6 +4672,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau hints at LIV Golf's future with \"something fun\" tease",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1pyUXdFWGFkLXZUY2todGZnLVYzVFBHVFlHYS11dWJZbnBWRzBCZlpydFM2QWYwaDl2N1lLT2J1OGxLeGQwanF1bkcwVzB0NG1Zb2NsdlB4MGhYbnNteElvaXM2WFhUNm13REZUeWVkdGZpOHhDb09Yc0luUTJWR2V3YWpWcFZva2p1R2FUd1VSU2ptVVpkeVF2Ymd4VXpyOVE?oc=5",
+        "published": "2026-08-24T07:47:34+00:00",
+        "published_label": "Mon 24 Aug, 07:47",
+        "summary": "Bryson DeChambeau hints at LIV Golf's future with \"something fun\" tease Golfmagic",
+        "body": "Bryson DeChambeau says there's \"a lot of potential\" for LIV Golf to continue. LIV Golf brought their 2026 campaign to a close a week early at The Club at Chatham Hills in Indianapolis following the cancellation of the $40m team championship.\n\nMichael La Sasso was crowned the winner of what could turn out to be LIV's swansong with a one-shot victory over Jon Rahm. The big question facing the embattled league now is whether or not enough players will commit to LIV Golf 2.0 to get the deal over the line with their new investor.",
+        "copy": "Bryson DeChambeau says there's \"a lot of potential\" for LIV Golf to continue. LIV Golf brought their 2026 campaign to a close a week early at The Club at Chatham Hills in Indianapolis following the cancellation of the $40m team championship.\n\nMichael La Sasso was crowned the winner of what could turn out to be LIV's swansong with a one-shot victory over Jon Rahm. The big question facing the embattled league now is whether or not enough players will commit to LIV Golf 2.0 to get the deal over the line with their new investor.",
+        "first_seen": "2026-08-24T08:45:06.745204+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -8781,22 +8820,9 @@
         "body": "M R Arjun and Hariharan Amsakarunan advanced to the second round of the BWF World Championships in New Delhi, with their growing partnership and home crowd support playing a key role.\n\nM R Arjun and Hariharan Amsakarunan marked their BWF World Championships debut as a pair with a first-round victory in the men’s doubles competition in New Delhi. The Indian duo led Ireland’s Scott Guildea and Paul Reynolds 21-16 in the opening game and were ahead 6-4 in the second when their opponents retired hurt. The result sent the relatively new partnership into the second round and gave the home supporters another reason to celebrate.",
         "copy": "M R Arjun and Hariharan Amsakarunan advanced to the second round of the BWF World Championships in New Delhi, with their growing partnership and home crowd support playing a key role.\n\nM R Arjun and Hariharan Amsakarunan marked their BWF World Championships debut as a pair with a first-round victory in the men’s doubles competition in New Delhi. The Indian duo led Ireland’s Scott Guildea and Paul Reynolds 21-16 in the opening game and were ahead 6-4 in the second when their opponents retired hurt. The result sent the relatively new partnership into the second round and gave the home supporters another reason to celebrate.",
         "first_seen": "2026-08-17T12:37:59.642976+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "PV Sindhu Eyes Sixth Medal at BWF World Championships 2026",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYbGJRYkw5VUkxQWxkSGo5WEFzemMwLWJFY3IzWjdpSmZ1MThVVTBGMEV3b21BZXZPVHdWMHF5aHZrbXh3R2ltUThCS0dYcXZEREg2SDZ3cm1aWXBHdE5FUkFMS1h3MEROTk9kXzZJa1RXbWZvWThNVnFn?oc=5",
-        "published": "2026-08-17T08:19:17+00:00",
-        "published_label": "Mon 17 Aug, 08:19",
-        "summary": "PV Sindhu Eyes Sixth Medal at BWF World Championships 2026 olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-17T08:39:51.800128+00:00"
       }
     ],
     "Competitor News": []
   },
-  "total": 675
+  "total": 677
 }
