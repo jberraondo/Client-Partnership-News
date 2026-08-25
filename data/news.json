@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T08:39:19.102462+00:00",
-  "generated_label": "Tuesday 25 August 2026, 08:39 UTC",
+  "generated_at": "2026-08-25T10:29:38.532113+00:00",
+  "generated_label": "Tuesday 25 August 2026, 10:29 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,58 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Rugby Australia extends with domestic fitness brand PTP",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmlmeHRMMnNPOFhzWFNISlBhckJJS1hXUkJOWXVmMENlYXE4cjVMeTBIVmsxSGhZMHVqZnB2eWFTUTlvZ2tlN0NDNkVmTDFFQ21ESUxvWWtQMFc1RlRpeVphSURWM3RCdVBjdDhsRWJ4Y09MR1F0VmFfcU9IZ2lSTjJhbGdPeEpNOUFnUlp2OA?oc=5",
+        "published": "2026-08-25T10:22:00+00:00",
+        "published_label": "Tue 25 Aug, 10:22",
+        "summary": "Rugby Australia extends with domestic fitness brand PTP Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "FIH claims impressive digital, social media figures for ongoing World Cup",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUZlUFl1YUtFMmZNNGJYM1NITTEzM0pJSTVEVXdDaWVfR3g3NHlweU9kV0VBT2ZkNzhoMVV6QzRSQTFETElrN1g0T2FtcnN1alNTTTdNaVZycmpWbUkyN0ZBYkFId0l4MTFIeGVoLVhPWGJXZnNmMmNBYW44TzVqVGtIalAwcGZaaGkzalExNE1BVV80MGZ1SHNEbnFnNzVmTDEtRWdn?oc=5",
+        "published": "2026-08-25T09:22:25+00:00",
+        "published_label": "Tue 25 Aug, 09:22",
+        "summary": "FIH claims impressive digital, social media figures for ongoing World Cup Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "FIBA widens 3x3 broadcast distribution net with L1VE virtual reality deal",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMklIWF81ZEhHMW9JM2x6WjVtQXlJTTh1V2xzYnFVTUZTdV9LcHhNaXlxMXdHbzFHVHRPQUJPSWxKUVNkTVVKaTVTTDFKZFk5N3lEY0tyd2c1Q1d2V0JCS0QxQTkyaFdoMUNoM20zN1RuSXE1dTBnQ0kySjZCZjl0M1FRYWtnQWFIMHI1dUE3THlsUlJOaW91UHl1Uk9tNUdwRmxSMEp5QQ?oc=5",
+        "published": "2026-08-25T09:22:00+00:00",
+        "published_label": "Tue 25 Aug, 09:22",
+        "summary": "FIBA widens 3x3 broadcast distribution net with L1VE virtual reality deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Is Northampton an emerging market?",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNWXB5aWpmUjJIV1Z2ZTZHby15cnJmandnR2l3b0NhMjBBV1gzUE9PYjE0elJSckM3aVZIQVQwQXpucFNOUWdnV3ZFTU5OUUp6Q0F2ZnBzOE41M0NIejU4ZUc4U1o4SHFRcmRzcEVfSEk?oc=5",
+        "published": "2026-08-25T05:30:08+00:00",
+        "published_label": "Tue 25 Aug, 05:30",
+        "summary": "Is Northampton an emerging market? Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1337,61 +1389,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-18T12:39:20.483758+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "IPC launches global rights sales process for LA28 Games",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWVVYnNNeTlKRHFSeHQ5cE1XcE8zbWNxaFNZODRUX2VwY0M2dHdvY3NXZDNoZzhTMnY5UDI4QjdoS1ZmaVhUZjBqa0pkcTBTSC1VbUhwQ05tZXZzbDE4RUkyZ2ctY0p3SzVWN0JoUDI1QnlSOGo3ZzE3WERyY0VlaENueXFrUDAwSnh6LVkwUQ?oc=5",
-        "published": "2026-08-18T10:24:21+00:00",
-        "published_label": "Tue 18 Aug, 10:24",
-        "summary": "IPC launches global rights sales process for LA28 Games Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-18T12:39:20.483758+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Veto scores Davis Cup 2026 rights as Team India look to progress",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVHh1ejNuTlN5Ti0zcEJNc2xvX1BlSnhMaTNOazNMZXBFd3VhckdSTVhkU3MxdTh3ZXp3Z253LTRzSFk5cU1aQzFnLTNMRWJVbFFFTkNMT3NxdmRQNVB4cE1LX29tdDB6VFZHNFJKejBEU2hQbmlsRVJZcnAwc1gyeDRkbmdDUGdNWnF5MlRTdEdTLXVQdm95cGdVMA?oc=5",
-        "published": "2026-08-18T10:24:21+00:00",
-        "published_label": "Tue 18 Aug, 10:24",
-        "summary": "Veto scores Davis Cup 2026 rights as Team India look to progress Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T06:40:06.485055+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Legends bolsters merchandising business with Aimee Carroll appointment",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnNJcEVkWVZxVFVHeEEtdFlxemtpRHRma0lYMUgxbF9rWFFwODhyVmV4UGEyR1dRa2ZmbEhxZmJGSUduS1ZscEcxUVFna3BfMnlRbnBDS0pTSFdDUUlYblBQR1VlX3ppaWdsSDBGREE1YUg1c0tnNE5acmFUd2Z1RmoyNWpsTVgzWlk1YWpwVTFtM1Q1SmFuOEhEdVNHb3hmdVJN?oc=5",
-        "published": "2026-08-18T09:48:59+00:00",
-        "published_label": "Tue 18 Aug, 09:48",
-        "summary": "Legends bolsters merchandising business with Aimee Carroll appointment Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-18T10:26:20.567289+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "GSE Worldwide partners with Extraordinary AI to accelerate enterprise-wide AI strategy and innovation",
-        "link": "https://www.sportspro.com/announcements/spotlight-agency/gse-worldwide-partners-with-extraordinary-ai-to-accelerate-enterprise-wide-ai-strategy/",
-        "published": "2026-08-18T09:27:56+00:00",
-        "published_label": "Tue 18 Aug, 09:27",
-        "summary": "Strategic initiative will equip employees across every division with AI capabilities designed to enhance creativity, accelerate operations and deliver greater value for clients. The post GSE Worldwide partners with Extraordinary AI to accelerate enterprise-wide AI strategy and innovation appeared first on SportsPro .",
-        "body": "New York (July 22, 2026) – GSE Worldwide (GSE) today announced a strategic partnership with Extraordinary AI (EAI), an AI advisory firm specialising in enterprise AI adoption, to launch a firmwide initiative designed to embed artificial intelligence across the agency’s operations. The investment reflects GSE’s belief that AI will fundamentally reshape how sports and entertainment agencies operate by enhancing creativity, improving efficiency, and enabling teams to deliver smarter, more personalised solutions for clients. Through the partnership, GSE is proactively equipping its workforce with the knowledge, tools, and strategic framework needed to lead that transformation.\n\nThrough the initiative, employees from across GSE’s business will participate in a structured engagement that combines AI education, hands-on workshops and collaborative development sessions focused on identifying practical applications for artificial intelligence within the agency’s day-to-day operations. Rather than implementing off-the-shelf solutions, participants will develop AI-powered workflows and processes tailored specifically to GSE’s business and the needs of its clients.",
-        "copy": "New York (July 22, 2026) – GSE Worldwide (GSE) today announced a strategic partnership with Extraordinary AI (EAI), an AI advisory firm specialising in enterprise AI adoption, to launch a firmwide initiative designed to embed artificial intelligence across the agency’s operations. The investment reflects GSE’s belief that AI will fundamentally reshape how sports and entertainment agencies operate by enhancing creativity, improving efficiency, and enabling teams to deliver smarter, more personalised solutions for clients. Through the partnership, GSE is proactively equipping its workforce with the knowledge, tools, and strategic framework needed to lead that transformation.\n\nThrough the initiative, employees from across GSE’s business will participate in a structured engagement that combines AI education, hands-on workshops and collaborative development sessions focused on identifying practical applications for artificial intelligence within the agency’s day-to-day operations. Rather than implementing off-the-shelf solutions, participants will develop AI-powered workflows and processes tailored specifically to GSE’s business and the needs of its clients.",
-        "first_seen": "2026-08-18T10:26:20.567289+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘I screamed so hard’: Aicha Sutcliffe hungry for more after try-scoring Scotland debut",
+        "link": "https://www.rugbypass.com/news/i-screamed-so-hard-aicha-sutcliffe-hungry-for-more-after-try-scoring-scotland-debut/",
+        "published": "2026-08-25T09:47:42+00:00",
+        "published_label": "Tue 25 Aug, 09:47",
+        "summary": "During a tough Guinness Women’s Six Nations campaign for Scotland earlier in the year one of the plus points was the way that a small group of new players to the international scene handled the step up.",
+        "body": "During a tough Guinness Women’s Six Nations campaign for Scotland earlier in the year one of the plus points was the way that a small group of new players to the international scene handled the step up. Aicha Sutcliffe was one of them.\n\nWhen regular first choice hooker Lana Skeldon picked up an injury midway through the tournament in April and May, deputy Elis Martin stepped up to start in rounds four and five.",
+        "copy": "During a tough Guinness Women’s Six Nations campaign for Scotland earlier in the year one of the plus points was the way that a small group of new players to the international scene handled the step up. Aicha Sutcliffe was one of them.\n\nWhen regular first choice hooker Lana Skeldon picked up an injury midway through the tournament in April and May, deputy Elis Martin stepped up to start in rounds four and five.",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'That was interesting with Rassie, something you don't often see': Victor Matfield",
+        "link": "https://www.rugbypass.com/news/that-was-interesting-with-rassie-erasmus-something-you-dont-often-see-victor-matfield-springboks-all-blacks/",
+        "published": "2026-08-25T09:31:16+00:00",
+        "published_label": "Tue 25 Aug, 09:31",
+        "summary": "Former South Africa captain Victor Matfield has highlighted the difference between the two benches in the All Blacks' 33-16 win over the Springboks at Ellis Park on Saturday, saying “we didn't see the impact of the Bomb Squad for the first time” in the first Test of Rugby's Greatest Rivalry.",
+        "body": "Former South Africa captain Victor Matfield has highlighted the difference between the two benches in the All Blacks‘ 33-16 win over the Springboks at Ellis Park on Saturday, saying “we didn’t see the impact of the Bomb Squad for the first time” in the first Test of Rugby’s Greatest Rivalry.\n\nNew Zealand won the second half in Johannesburg 21-3, with six of South Africa’s eight substitutes failing to see their side score a point while they were on the field. After experiencing initial success in the scrum, loosehead Gerhard Steenekamp was taken off 20 minutes after coming on for Jan-Hendrik Wessels. Likewise, despite scoring a try after replacing Kurt-Lee Arendse in the first half, Andre Esterhuizen was replaced in the second half.",
+        "copy": "Former South Africa captain Victor Matfield has highlighted the difference between the two benches in the All Blacks‘ 33-16 win over the Springboks at Ellis Park on Saturday, saying “we didn’t see the impact of the Bomb Squad for the first time” in the first Test of Rugby’s Greatest Rivalry.\n\nNew Zealand won the second half in Johannesburg 21-3, with six of South Africa’s eight substitutes failing to see their side score a point while they were on the field. After experiencing initial success in the scrum, loosehead Gerhard Steenekamp was taken off 20 minutes after coming on for Jan-Hendrik Wessels. Likewise, despite scoring a try after replacing Kurt-Lee Arendse in the first half, Andre Esterhuizen was replaced in the second half.",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Bristol sign ex-Tigers lock Wells on three-month deal",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c2kwjy1ww2yo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-25T09:23:16+00:00",
+        "published_label": "Tue 25 Aug, 09:23",
+        "summary": "Bristol Bears sign former Leicester Tigers lock Harry Wells on a three-month deal.",
+        "body": "Bristol Bears have signed former Leicester Tigers lock Harry Wells on a short-term deal. The 32-year-old spent more than a decade with the Tigers and was part of the side that won the Premiership title at Twickenham in 2022 and last season's Prem Rugby Cup.\n\nThe experienced forward, who can operate across the second row and back row, made 236 appearances for Leicester and has joined Bears from fourth-tier side Oundle on a three-month deal.",
+        "copy": "Bristol Bears have signed former Leicester Tigers lock Harry Wells on a short-term deal. The 32-year-old spent more than a decade with the Tigers and was part of the side that won the Premiership title at Twickenham in 2022 and last season's Prem Rugby Cup.\n\nThe experienced forward, who can operate across the second row and back row, made 236 appearances for Leicester and has joined Bears from fourth-tier side Oundle on a three-month deal.",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Ex-Leicester lock Harry Wells returns to the PREM on short-term deal",
+        "link": "https://www.rugbypass.com/news/ex-leicester-lock-harry-wells-returns-to-the-prem-on-short-term-deal/",
+        "published": "2026-08-25T09:00:56+00:00",
+        "published_label": "Tue 25 Aug, 09:00",
+        "summary": "Experienced lock Harry Wells has joined Bristol Bears on a three-month deal ahead of the 2026/27 season.",
+        "body": "Experienced loose forward Harry Wells has joined Bristol Bears on a three-month deal ahead of the 2026/27 season. The 32-year-old arrives at the Bears with a wealth of Gallagher PREM and Investec Champions Cup experience following more than a decade at Leicester Tigers, where he made 236 first-team appearances after progressing through the club’s Academy.\n\nWells made his Tigers debut as a 19-year-old in 2013 before returning to Welford Road as a senior player in 2016 following a spell with Bedford Blues in the Championship. A Gallagher PREM winner in 2022, he was released by Leicester at the end of last season and signed for ambitious National 2 East outfit, Oundle RFC, as a player-coach, who have agreed to release Wells for the duration of the short-term deal with the Bears.",
+        "copy": "Experienced loose forward Harry Wells has joined Bristol Bears on a three-month deal ahead of the 2026/27 season. The 32-year-old arrives at the Bears with a wealth of Gallagher PREM and Investec Champions Cup experience following more than a decade at Leicester Tigers, where he made 236 first-team appearances after progressing through the club’s Academy.\n\nWells made his Tigers debut as a 19-year-old in 2013 before returning to Welford Road as a senior player in 2016 following a spell with Bedford Blues in the Championship. A Gallagher PREM winner in 2022, he was released by Leicester at the end of last season and signed for ambitious National 2 East outfit, Oundle RFC, as a player-coach, who have agreed to release Wells for the duration of the short-term deal with the Bears.",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Uruguay turn to former Rugby World Cup coach to lead them into new era",
+        "link": "https://www.rugbypass.com/news/uruguay-turn-to-former-rugby-world-cup-coach-to-lead-them-into-new-era/",
+        "published": "2026-08-25T08:44:35+00:00",
+        "published_label": "Tue 25 Aug, 08:44",
+        "summary": "Uruguay have unveiled Guzmán Barreiro as head coach of Los Teros, with the former High Performance director replacing Argentinian Rodolfo Ambrósio in the role.",
+        "body": "Uruguay have unveiled Guzmán Barreiro as head coach of Los Teros, with the former High Performance director replacing Argentinian Rodolfo Ambrósio in the role. With one year to go before the next Rugby World Cup, the Uruguayan Rugby Union made significant changes to the coaching staff, entrusting Barreiro with full control over assembling a staff that reflects his vision for the national team.\n\nBarreiro’s senior coaching career began in the early 2010s, when he joined Montevideo’s Old Christians Club, leading the club to three national titles before joining the union in 2016 as an assistant coach of Esteban Meneses team.",
+        "copy": "Uruguay have unveiled Guzmán Barreiro as head coach of Los Teros, with the former High Performance director replacing Argentinian Rodolfo Ambrósio in the role. With one year to go before the next Rugby World Cup, the Uruguayan Rugby Union made significant changes to the coaching staff, entrusting Barreiro with full control over assembling a staff that reflects his vision for the national team.\n\nBarreiro’s senior coaching career began in the early 2010s, when he joined Montevideo’s Old Christians Club, leading the club to three national titles before joining the union in 2016 as an assistant coach of Esteban Meneses team.",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3627,45 +3692,6 @@
         "body": "Springboks head coach Rassie Erasmus wants the Ellis Park crowd to remain quiet during the All Blacks’ Haka challenge before the titanic first Rugby’s Greatest Rivalry Test kicks off in Johannesburg on Saturday.\n\nOpposition fans have increasingly attempted to help their team by trying to negate the impact of the Haka by singing and making noise while the All Blacks players deliver one of the sport’s most iconic moments that has become seemingly more theatrical every year.",
         "copy": "Springboks head coach Rassie Erasmus wants the Ellis Park crowd to remain quiet during the All Blacks’ Haka challenge before the titanic first Rugby’s Greatest Rivalry Test kicks off in Johannesburg on Saturday.\n\nOpposition fans have increasingly attempted to help their team by trying to negate the impact of the Haka by singing and making noise while the All Blacks players deliver one of the sport’s most iconic moments that has become seemingly more theatrical every year.",
         "first_seen": "2026-08-18T12:39:20.483758+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Neumann uncertain over future after Quins exit",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c20eygrlklzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-18T10:19:33+00:00",
-        "published_label": "Tue 18 Aug, 10:19",
-        "summary": "Wales wing Lisa Neumann says she is considering her options after leaving Harlequins this summer.",
-        "body": "Wales wing Lisa Neumann says she is considering her options after leaving Harlequins this summer. Neumann was limited to just one appearance for the Premiership Women's Rugby side last season and instead found game time with Brython Thunder in the Celtic Challenge.\n\nThe 32-year-old had looked to prove a point in the 2026 Six Nations, but was forced off in the opening round against Scotland after suffering a season-ending hamstring injury.",
-        "copy": "Wales wing Lisa Neumann says she is considering her options after leaving Harlequins this summer. Neumann was limited to just one appearance for the Premiership Women's Rugby side last season and instead found game time with Brython Thunder in the Celtic Challenge.\n\nThe 32-year-old had looked to prove a point in the 2026 Six Nations, but was forced off in the opening round against Scotland after suffering a season-ending hamstring injury.",
-        "first_seen": "2026-08-18T12:39:20.483758+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Alysia Lefau-Fakaosilea reveals what has her ‘excited’ in Wallaroos camp",
-        "link": "https://www.rugbypass.com/news/alysia-lefau-fakaosilea-reveals-what-has-her-excited-in-wallaroos-camp/",
-        "published": "2026-08-18T09:45:04+00:00",
-        "published_label": "Tue 18 Aug, 09:45",
-        "summary": "It has been seven years since Alysia Lefau-Fakaosilea last played a Test match for the Wallaroos.",
-        "body": "It has been seven years since Alysia Lefau-Fakaosilea last played a Test match for the Wallaroos. Just a teenager when handed her first taste of international rugby, in the years since the powerful centre has curated her craft with Australia Sevens and picked up gold medals at the Rugby Sevens World Cup and Commonwealth Games in 2022. But now the 25-year-old has returned to her roots.\n\nBack in the Wallaroos squad ahead of the team’s centenary Test – which will take place against the Black Ferns in Auckland this Saturday – Lefau-Fakaosilea is at the forefront of an ever-changing Australia side. Even if Michaela Leonard and Emily Chancellor remain from her last O’Reilly Cup outing.",
-        "copy": "It has been seven years since Alysia Lefau-Fakaosilea last played a Test match for the Wallaroos. Just a teenager when handed her first taste of international rugby, in the years since the powerful centre has curated her craft with Australia Sevens and picked up gold medals at the Rugby Sevens World Cup and Commonwealth Games in 2022. But now the 25-year-old has returned to her roots.\n\nBack in the Wallaroos squad ahead of the team’s centenary Test – which will take place against the Black Ferns in Auckland this Saturday – Lefau-Fakaosilea is at the forefront of an ever-changing Australia side. Even if Michaela Leonard and Emily Chancellor remain from her last O’Reilly Cup outing.",
-        "first_seen": "2026-08-18T10:26:20.567289+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "How has the dry weather affected rugby clubs?",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c935veddkz9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-18T09:21:34+00:00",
-        "published_label": "Tue 18 Aug, 09:21",
-        "summary": "BBC Sport examines how the drought conditions in England have affected rugby clubs.",
-        "body": "\"Although summers are getting a lot drier, this is by far the driest we've been,\" says Simon Johnson, the groundsman at National Two side Redruth. Sports pitches up and down the country have been affected by the lack of rainfall, with the south west of England being in a state of drought since the end of July.\n\nA hosepipe ban was implemented earlier this month as little rain fell, causing difficulty for sports fields up and down the country. \"The lack of rainfall has affected end-of-season renovations so grass seed hasn't germinated quite as quickly as it should have done,\" Johnson told BBC Radio Cornwall.",
-        "copy": "\"Although summers are getting a lot drier, this is by far the driest we've been,\" says Simon Johnson, the groundsman at National Two side Redruth. Sports pitches up and down the country have been affected by the lack of rainfall, with the south west of England being in a state of drought since the end of July.\n\nA hosepipe ban was implemented earlier this month as little rain fell, causing difficulty for sports fields up and down the country. \"The lack of rainfall has affected end-of-season renovations so grass seed hasn't germinated quite as quickly as it should have done,\" Johnson told BBC Radio Cornwall.",
-        "first_seen": "2026-08-18T10:26:20.567289+00:00"
       }
     ],
     "Tennis": [
@@ -3678,8 +3704,8 @@
         "published": "2026-08-24T23:11:21+00:00",
         "published_label": "Mon 24 Aug, 23:11",
         "summary": "Heather Watson is among the British winners in the first round of US Open qualifying as she bids for a first New York main-drawn appearance in five years.",
-        "body": "Britain's Heather Watson battled back from a set down against Claire Liu to keep alive her hopes of securing a first US Open main-draw appearance in five years. The 34-year-old Watson beat sixth seed Liu 4-6 6-2 6-4 in the first round of qualifying in New York.\n\nWatson almost let a double-break lead slip in the final set but held firm to set up a meeting with Spain's Angela Fita Boluda. Toby Samuel, Jacob Fearnley, Billy Harris and Harry Wendelken all progressed in men's qualifying.",
-        "copy": "Britain's Heather Watson battled back from a set down against Claire Liu to keep alive her hopes of securing a first US Open main-draw appearance in five years. The 34-year-old Watson beat sixth seed Liu 4-6 6-2 6-4 in the first round of qualifying in New York.\n\nWatson almost let a double-break lead slip in the final set but held firm to set up a meeting with Spain's Angela Fita Boluda. Toby Samuel, Jacob Fearnley, Billy Harris and Harry Wendelken all progressed in men's qualifying.",
+        "body": "Britain's Heather Watson battled back from a set down against Claire Liu to keep alive her hopes of securing a first US Open main-draw appearance in five years. The 34-year-old Watson beat sixth seed Liu 4-6 6-2 6-4 in the first round of qualifying in New York.\n\nWatson almost let a double-break lead slip in the final set but held firm to set up a meeting with Spain's Angela Fita Boluda. Toby Samuel, Jacob Fearnley, Billy Harris, Harry Wendelken and Jack Pinnington Jones all progressed in men's qualifying.",
+        "copy": "Britain's Heather Watson battled back from a set down against Claire Liu to keep alive her hopes of securing a first US Open main-draw appearance in five years. The 34-year-old Watson beat sixth seed Liu 4-6 6-2 6-4 in the first round of qualifying in New York.\n\nWatson almost let a double-break lead slip in the final set but held firm to set up a meeting with Spain's Angela Fita Boluda. Toby Samuel, Jacob Fearnley, Billy Harris, Harry Wendelken and Jack Pinnington Jones all progressed in men's qualifying.",
         "first_seen": "2026-08-25T06:41:56.579958+00:00"
       },
       {
@@ -4578,22 +4604,35 @@
         "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "first_seen": "2026-08-19T06:40:06.485055+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper appears to delete Instagram account after saying he reached ‘rock bottom’",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeV9OMDVXZFF3cVloWkRLSmktYzVOLXFsT0o3a2lBaXRrYTFDcERralAwel9vWGZxS20zWW54VGg5SFFJdWl1dXoyREI4d2k3cjFIOWhPRkNMSlBXZ2o5RURZSEVPUUVseXJHSHhpOXNIN2p6dFpYMzNPYnZYYkJkc0hwZHNLTlljbGwxQ2o5X3FfNGZ3TGd6QzYxUmU?oc=5",
-        "published": "2026-08-18T09:39:34+00:00",
-        "published_label": "Tue 18 Aug, 09:39",
-        "summary": "Jack Draper appears to delete Instagram account after saying he reached ‘rock bottom’ talkSPORT",
-        "body": "Jack Draper appears to have deleted his Instagram account as injuries continue to hinder his 2026 season. The Brit has battled with arm issues since the US Open, where he withdrew before the second round and missed the rest of the year.\n\nDraper later missed the Australian and French Opens, as well as his home Grand Slam at Wimbledon, amid knee and bruised arm pain. After weeks of being sidelined, he returned to court at the Canadian Open earlier this month but appeared to struggle with his fitness.",
-        "copy": "Jack Draper appears to have deleted his Instagram account as injuries continue to hinder his 2026 season. The Brit has battled with arm issues since the US Open, where he withdrew before the second round and missed the rest of the year.\n\nDraper later missed the Australian and French Opens, as well as his home Grand Slam at Wimbledon, amid knee and bruised arm pain. After weeks of being sidelined, he returned to court at the Canadian Open earlier this month but appeared to struggle with his fitness.",
-        "first_seen": "2026-08-18T10:26:20.567289+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Tour Championship: TV schedule, streaming, how to watch, tee times",
+        "link": "https://golf.com/news/2026-tour-championship-tv-watch-tee-times/",
+        "published": "2026-08-25T10:14:49+00:00",
+        "published_label": "Tue 25 Aug, 10:14",
+        "summary": "How to watch the 2026 Tour Championship at East Lake Golf Club this week, including a full Tour Championship TV schedule and more. The post 2026 Tour Championship: TV schedule, streaming, how to watch, tee times appeared first on Golf .",
+        "body": "The 2026 Tour Championship goes down this week at East Lake in Atlanta, Ga. Here’s everything you need to know to watch the PGA Tour tournament, including a full Tour Championship TV schedule, streaming information and complete tee times for the first and second rounds once they are released.\n\nWe’ve reached the final event of the FedEx Cup playoffs: the Tour Championship. Only the top 30 players in the season-long standings after last week’s BMW Championship qualified to play this week at East Lake. And while the $100 million in bonuses for the season-long race were dished out on Sunday, the winner of the Tour Championship will be declared the 2026 FedEx Cup champion.",
+        "copy": "The 2026 Tour Championship goes down this week at East Lake in Atlanta, Ga. Here’s everything you need to know to watch the PGA Tour tournament, including a full Tour Championship TV schedule, streaming information and complete tee times for the first and second rounds once they are released.\n\nWe’ve reached the final event of the FedEx Cup playoffs: the Tour Championship. Only the top 30 players in the season-long standings after last week’s BMW Championship qualified to play this week at East Lake. And while the $100 million in bonuses for the season-long race were dished out on Sunday, the winner of the Tour Championship will be declared the 2026 FedEx Cup champion.",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "‘Undecided’ Ian Poulter casts doubt over LIV Golf future",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUlLOVNhZGJaQ1BFNlFXNVVFb212ZlR4WUdQQTZvaHhFb3dPck8xTjJDb00ydzRHR3l0NmEtTFoyeXA3SmV4bThLUEl1OUtwaGFoUVY3UENIa09aR3diWjl6WU1LMUJRTHJjV1l2a0FHZ2J4bjBtcm9mUEd5ZjBUOEUwNmxZUmJ0aUIxM3FyWmd5QmtWTlBZ?oc=5",
+        "published": "2026-08-25T09:04:41+00:00",
+        "published_label": "Tue 25 Aug, 09:04",
+        "summary": "‘Undecided’ Ian Poulter casts doubt over LIV Golf future bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Ian Poulter has admitted he is yet to decide whether he will remain with LIV Golf following the end of the 2026 season.\n\nLIV’s campaign came to a premature end in Indianapolis on Sunday following the cancellation of this week’s Team Championship in Michigan. It not only signalled the end of the 2026 season, but also the breakaway circuit as we know it, with the those in charge ready to roll out ‘LIV 2.0’, having lost the support of the Public Investment Fund of Saudi Arabia (PIF).",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Ian Poulter has admitted he is yet to decide whether he will remain with LIV Golf following the end of the 2026 season.\n\nLIV’s campaign came to a premature end in Indianapolis on Sunday following the cancellation of this week’s Team Championship in Michigan. It not only signalled the end of the 2026 season, but also the breakaway circuit as we know it, with the those in charge ready to roll out ‘LIV 2.0’, having lost the support of the Public Investment Fund of Saudi Arabia (PIF).",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -4658,6 +4697,19 @@
         "body": "Newly minted BMW champion Wyndham Clark has been playing with a delightfully mixed bag of equipment this year, opting to game a TaylorMade driver, Ping fairway woods and putter, and Titleist irons and wedges.\n\nBut one piece of gear that has remained consistent over the years is Clark’s glove. The six-time PGA Tour winner has worn the FootJoy Pure Touch Limited glove for every victory, the first of which was in 2023 at the Wells Fargo Championship.",
         "copy": "Newly minted BMW champion Wyndham Clark has been playing with a delightfully mixed bag of equipment this year, opting to game a TaylorMade driver, Ping fairway woods and putter, and Titleist irons and wedges.\n\nBut one piece of gear that has remained consistent over the years is Clark’s glove. The six-time PGA Tour winner has worn the FootJoy Pure Touch Limited glove for every victory, the first of which was in 2023 at the Wells Fargo Championship.",
         "first_seen": "2026-08-25T06:41:56.579958+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Poulter says he is unsure about his future with LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFlWekVHVDQ4YXNxNzNVeURzeGRmUHVwckZVdnVWeVlnRWN0ZVJnZDZGaGVjenNWcTJGRHVCV2ZicmpKVUprOFRpNnJQd29rQUhEVHVtOGJaYU9GUGxEMk9KVXkzcmYwWTl6YkpRZVgxcExHVHh1R3lEaEphbHZyRkozclpxRVZtN2JLX2M2a3Zpc1lZa2RQUA?oc=5",
+        "published": "2026-08-24T20:23:44+00:00",
+        "published_label": "Mon 24 Aug, 20:23",
+        "summary": "Poulter says he is unsure about his future with LIV Golf Reuters",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
       },
       {
         "section": "Golf",
@@ -6907,32 +6959,6 @@
         "body": "The 2026 BMW begins this week at Bellerive Country Club in St. Louis, Mo. Here’s everything you need to know to watch the PGA Tour tournament, including a full BMW Championship TV schedule, streaming information and complete tee times for the first and second rounds once they are released.\n\nThis week’s BMW Championship is the second FedEx Cup playoff event and the final tournament before the season-ending Tour Championship. Fifty players have survived to play this week, while many popular pros did not make the cut, including Jordan Spieth, Max Homa and Michael Kim.",
         "copy": "The 2026 BMW begins this week at Bellerive Country Club in St. Louis, Mo. Here’s everything you need to know to watch the PGA Tour tournament, including a full BMW Championship TV schedule, streaming information and complete tee times for the first and second rounds once they are released.\n\nThis week’s BMW Championship is the second FedEx Cup playoff event and the final tournament before the season-ending Tour Championship. Fifty players have survived to play this week, while many popular pros did not make the cut, including Jordan Spieth, Max Homa and Michael Kim.",
         "first_seen": "2026-08-18T12:39:20.483758+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau announces surprise tour return - todays-golfer.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXExMlFaZlB4VDNlUENRS0c0NmN2TDNLeWxJUEZ1VWgyVU44NE9JYUdoRUJ6OVlzWW1DNF93VV9JV0Y5cHBtMjU4bGs2YWFrRmRhc0FYNVVBLWs4aE1RN3RGSEtMUGVfdVF6N0lsZFFMdmowMnJlN0pFdEMtZUFaNndrV21EUWNKYjFUaEtQdVdaN0EweXJYVW9n?oc=5",
-        "published": "2026-08-18T09:31:40+00:00",
-        "published_label": "Tue 18 Aug, 09:31",
-        "summary": "Bryson DeChambeau announces surprise tour return todays-golfer.com",
-        "body": "Bryson DeChambeau has revealed he will be making a return to the DP World Tour this winter. The two-times US Open winner has not appeared on the circuit since 2022 and DeChambeau’s schedule for the 2027 season remains up in the air because of the ongoing uncertainty around LIV Golf.\n\nDeChambeau has led the fight for LIV’s survival since it emerged the Saudi Public Investment Fund would be withdrawing its support at the end of the season. Ahead of his final LIV start of the season at Indianapolis, DeChambeau announced in a video with Gary Player that he would be teeing it up in this December’s Nedbank Golf Challenge. It will be DeChambeau’s second start in South Africa this year after he won on LIV’s inaugural visit in March.",
-        "copy": "Bryson DeChambeau has revealed he will be making a return to the DP World Tour this winter. The two-times US Open winner has not appeared on the circuit since 2022 and DeChambeau’s schedule for the 2027 season remains up in the air because of the ongoing uncertainty around LIV Golf.\n\nDeChambeau has led the fight for LIV’s survival since it emerged the Saudi Public Investment Fund would be withdrawing its support at the end of the season. Ahead of his final LIV start of the season at Indianapolis, DeChambeau announced in a video with Gary Player that he would be teeing it up in this December’s Nedbank Golf Challenge. It will be DeChambeau’s second start in South Africa this year after he won on LIV’s inaugural visit in March.",
-        "first_seen": "2026-08-18T10:26:20.567289+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf ends season early to focus on \"what comes next\"",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUJmR1FIb0p2YkQ0WFgzU1hPZ2tjWUwxNEVfbXdmbFBSblp5cmlUcDRORVJZZTFUVlVVa1N4d0NodXNsdUIxc3luY1hYQ0pueFlrN2tCSHZ4SEo5SnFwblNWM1hhRllydWtMa2UwOTMzcTByaGJRYXJ5WDVCdlNIMlA5RGFyN1duMWlwNGJfVGkzU2Vi?oc=5",
-        "published": "2026-08-18T08:42:33+00:00",
-        "published_label": "Tue 18 Aug, 08:42",
-        "summary": "LIV Golf ends season early to focus on \"what comes next\" StandOut Magazine",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-18T10:26:20.567289+00:00"
       }
     ],
     "Badminton": [
@@ -6974,6 +7000,19 @@
         "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "first_seen": "2026-08-25T06:41:56.579958+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Treesa Jolly-Gayatri Gopichand climb 12 spots in BWF rankings after World Championships bronze",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3QwWi1VTklrdmxZSUtiQ2lHNE5pZlA2ejhXS1NMRmFnbHpuaHJObDgxSHdWV2JURDV4YWVudUxsUjBMeUExRnFlTVRPVTd5N1dZWHdCQ3RIZFFReVZJTzJ2emR2dGtROXNRWDktYzg0ZFk3bkdoN2JlOGNHRFVoUElNVnVNY0tXczhuMHZEMTRKTlRjbnc1blFUMWNIb3paQ1NacEZNTlR4U2dmZDNuaFlncWV0NmQ5azI1UHJNelM4SEJW0gHLAUFVX3lxTE1IbGxETGk0MEhBeUY3TkxBdGwwU0xUWGlOdG5PdGtGMWJCSE5jR0pDeFkxcXI5aFVwSVJJZlMyYnFpdjlBM0E1UFlkc2wyRjNkSlk3X1B2cmxTMUVpMi1UckVWWmFBdGhybk5VcFFuSzZDbDFIZXgtUlRRZWlQOVFvSEJFZU1sLXZCWE5DYW5CdXpWVUNqdFhXRkU3UFR3dUN5clJJYkZaU0RvQ0J0MVFYOFJkaXc2MThFWXNwMkxkOEFkb2h0XzFTWm1r?oc=5",
+        "published": "2026-08-25T05:28:05+00:00",
+        "published_label": "Tue 25 Aug, 05:28",
+        "summary": "Treesa Jolly-Gayatri Gopichand climb 12 spots in BWF rankings after World Championships bronze The Indian Express",
+        "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
       },
       {
         "section": "Badminton",
@@ -8679,7 +8718,21 @@
         "first_seen": "2026-08-18T12:39:20.483758+00:00"
       }
     ],
-    "Competitor News": []
+    "Competitor News": [
+      {
+        "section": "Competitor News",
+        "source": "Google News",
+        "kind": "gnews",
+        "title": "Real Madrid working on deal for Racing Santander midfielder Sergio Martinez",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOU01dUhPeERBcXRWdm9rZFZoT2d2ck1XdUJlMFFWVGJuRGZiNllsd0Rzc2YySHEwTGQzMGRhd2lvOElWUlBUTElJU1RSS0lTXzFLN2RKZmhMOWdyWTFKZmxueXFOV28yRGJMYVpwWkFzMHRTcVFlY1MteWZ3Y2J3THI4SEhGQUpNbXRORlY4VWtvdWs2eFdxcF9DMkxJOFdOWUJfZ0dha0VJN2ZmNVFMWHpNWQ?oc=5",
+        "published": "2026-08-25T09:31:57+00:00",
+        "published_label": "Tue 25 Aug, 09:31",
+        "summary": "Real Madrid working on deal for Racing Santander midfielder Sergio Martinez footballtoday.com",
+        "body": "Real Madrid are working to sign highly-rated Racing Santander midfielder Sergio Martinez. The Athletic claims that the Spanish giants had already considered making a move during the winter transfer window.\n\nMadrid are optimistic they can convince Martinez to make the switch to the Santiago Bernabeu, although he has yet to make a final decision about his future. Several other clubs are interested, leaving Madrid facing competition as the summer transfer window nears its close.",
+        "copy": "Real Madrid are working to sign highly-rated Racing Santander midfielder Sergio Martinez. The Athletic claims that the Spanish giants had already considered making a move during the winter transfer window.\n\nMadrid are optimistic they can convince Martinez to make the switch to the Santiago Bernabeu, although he has yet to make a final decision about his future. Several other clubs are interested, leaving Madrid facing competition as the summer transfer window nears its close.",
+        "first_seen": "2026-08-25T10:29:38.532113+00:00"
+      }
+    ]
   },
-  "total": 666
+  "total": 670
 }
