@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T06:43:17.238171+00:00",
-  "generated_label": "Wednesday 26 August 2026, 06:43 UTC",
+  "generated_at": "2026-08-26T08:08:28.697648+00:00",
+  "generated_label": "Wednesday 26 August 2026, 08:08 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "How chicken conquered the world",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVJHSm5fVDg5VDlxVlRNUFphSDVaRUJkNnFnY0NTYW5TTU93ZmdoUUpvbTRqUldhQldPcjNoT1VEX2ZtMnN2RmNPa1dYeTJwanJqa3JLYkQtdnd1bC1iTGRJZ3IzU2N3RTgxTlhwNFM4UVF1alo0N3h0RUhKYjlaTUR3ck0?oc=5",
+        "published": "2026-08-26T04:00:04+00:00",
+        "published_label": "Wed 26 Aug, 04:00",
+        "summary": "How chicken conquered the world Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-26T08:08:28.697648+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1428,35 +1441,22 @@
         "body": "",
         "copy": "Yellow Panther, a digital product agency known for building bold, scalable digital products for world-leading sports and entertainment brands, has been appointed to redesign and develop the new corporate website for beIN MEDIA GROUP. Operating across 40 countries and five continents—with over 130 channels and a 3,000-strong global workforce—beIN MEDIA GROUP is one of the world’s leading sports and entertainment networks. The new […] The post Yellow Panther secures beIN website project appeared first on Sport Industry Group .",
         "first_seen": "2026-08-19T10:29:38.134953+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Sweden’s EQT buys Australian rugby league club in first sports foray",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2FwY050WFN3QVNFZ29XSmlwVHg5aWV2RG50U21nY1NQUThTTnprV2hVbFRNMTNqOTVHOVU5Y2NST0JaV3VZWUplLS1GU1kwRkpkRVRvb1dsMmZEYUpSYlZCOURwTENsSHV4UUpLTWFZaHZBQnpoTDhuVWdyQlctdVNtWnU?oc=5",
-        "published": "2026-08-19T08:00:13+00:00",
-        "published_label": "Wed 19 Aug, 08:00",
-        "summary": "Sweden’s EQT buys Australian rugby league club in first sports foray Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T10:29:38.134953+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Virgin Atlantic and Trainline investigated over ‘drip pricing’",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0ZKN0xzelZqbENNUEtOb1hyNmxRQUtoOU80dTV4aEVHWjBNTGJKTFJDSFdzbWNNdmJoel9TWk9WSXVjRGpsdC1ndEtJS1BNdENhSk8wSUlPYTV6UzhuamVaTFBGT0dXYkZ0QW43Ri1nT3BlT1lWdlVSekQ3empZd1JGaEc?oc=5",
-        "published": "2026-08-19T06:56:06+00:00",
-        "published_label": "Wed 19 Aug, 06:56",
-        "summary": "Virgin Atlantic and Trainline investigated over ‘drip pricing’ Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-20T14:34:33.959163+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'Nothing comes close to this place': Freddie Burns returns to Leicester",
+        "link": "https://www.rugbypass.com/news/nothing-comes-close-to-this-place-freddie-burns-returns-to-leicester/",
+        "published": "2026-08-26T07:03:46+00:00",
+        "published_label": "Wed 26 Aug, 07:03",
+        "summary": "The former England fly-half is back at the club where he had two spells as a player after being appointed as the Tigers' kicking coach.",
+        "body": "Former England fly-half Freddie Burns has returned to Leicester, where he had two spells as a player, after being appointed as the club’s kicking coach. Leicester’s 2022 PREM-winning hero hung up his boots at the end of last season, having seen out his career in Romania, and has been given a full-time contract.\n\nHe is the second former Tigers player to join the coaching team in the space of just over a week, after Craig Newby was brought on board as the club’s part-time forwards skills coach.",
+        "copy": "Former England fly-half Freddie Burns has returned to Leicester, where he had two spells as a player, after being appointed as the club’s kicking coach. Leicester’s 2022 PREM-winning hero hung up his boots at the end of last season, having seen out his career in Romania, and has been given a full-time contract.\n\nHe is the second former Tigers player to join the coaching team in the space of just over a week, after Craig Newby was brought on board as the club’s part-time forwards skills coach.",
+        "first_seen": "2026-08-26T08:08:28.697648+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3861,35 +3861,22 @@
         "body": "It may be too early to talk about Olympic favourites and the road to Los Angeles 2028 has barely begun, but a number of sevens’ biggest names are already giving us a glimpse of who could define the next cycle.\n\nThere is something different about an Olympic cycle in rugby sevens. The four-year countdown can feel impossibly long when the next Games are still two summers away, but in a sport where careers can change at remarkable speed, reputations are already being built.",
         "copy": "It may be too early to talk about Olympic favourites and the road to Los Angeles 2028 has barely begun, but a number of sevens’ biggest names are already giving us a glimpse of who could define the next cycle.\n\nThere is something different about an Olympic cycle in rugby sevens. The four-year countdown can feel impossibly long when the next Games are still two summers away, but in a sport where careers can change at remarkable speed, reputations are already being built.",
         "first_seen": "2026-08-19T18:34:21.706733+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "‘Score one try against the All Blacks and your life is made’: Three great Springbok tries v NZ",
-        "link": "https://www.rugbypass.com/plus/score-one-try-against-the-all-blacks-and-your-life-is-made-three-springboks-recall-their-career-defining-moment-v-nz/",
-        "published": "2026-08-19T08:07:45+00:00",
-        "published_label": "Wed 19 Aug, 08:07",
-        "summary": "Thinus Delport, Richard Bands and Ricky Januarie all achieved rugby immortality with career-defining tries against New Zealand.",
-        "body": "There are worse things than being remembered for the best ten seconds of your life. Richard Bands has won Currie Cups, played Test rugby for South Africa and built a second career teaching young props the mysteries of the scrum. More than two decades after his last Springbok appearance, none of that is usually the first thing people want to discuss.\n\n“I’m more than chuffed,” Bands says. “In my career, I’ve created something that 23 years later, when I speak to people, they still can tell me exactly where they were watching that game, watching me score that try.”",
-        "copy": "There are worse things than being remembered for the best ten seconds of your life. Richard Bands has won Currie Cups, played Test rugby for South Africa and built a second career teaching young props the mysteries of the scrum. More than two decades after his last Springbok appearance, none of that is usually the first thing people want to discuss.\n\n“I’m more than chuffed,” Bands says. “In my career, I’ve created something that 23 years later, when I speak to people, they still can tell me exactly where they were watching that game, watching me score that try.”",
-        "first_seen": "2026-08-19T10:29:38.134953+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Ruby Tui’s club future revealed after fortnight of social media clues",
-        "link": "https://www.rugbypass.com/news/ruby-tuis-club-future-revealed-after-fortnight-of-social-media-clues/",
-        "published": "2026-08-19T07:28:31+00:00",
-        "published_label": "Wed 19 Aug, 07:28",
-        "summary": "Speculation around Ruby Tui's club future has been put to rest after she signed for JAECOO Premiership Women's Rugby runners-up Trailfinders Women.",
-        "body": "Speculation around Ruby Tui‘s club future has been put to rest after she signed for JAECOO Premiership Women’s Rugby runners-up Trailfinders Women. Across the past two weeks the Black Ferns wing and Rugby World Cup 2021 winner teased that her time on a rugby pitch may not have been over on her social media channels.\n\nIn June the 34-year-old played her first game of 15-a-side rugby in almost a year for the Barbarians against Wales at Allianz Stadium. In an exclusive interview with The Telegraph, Tui confessed that it took some persuading from some women’s rugby greats to convince her not to hang up her boots: “My friends Portia Woodman-Wickliffe and Meg Jones helped me, [they] really had a massive input on making the decision.",
-        "copy": "Speculation around Ruby Tui‘s club future has been put to rest after she signed for JAECOO Premiership Women’s Rugby runners-up Trailfinders Women. Across the past two weeks the Black Ferns wing and Rugby World Cup 2021 winner teased that her time on a rugby pitch may not have been over on her social media channels.\n\nIn June the 34-year-old played her first game of 15-a-side rugby in almost a year for the Barbarians against Wales at Allianz Stadium. In an exclusive interview with The Telegraph, Tui confessed that it took some persuading from some women’s rugby greats to convince her not to hang up her boots: “My friends Portia Woodman-Wickliffe and Meg Jones helped me, [they] really had a massive input on making the decision.",
-        "first_seen": "2026-08-19T10:29:38.134953+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Roger Federer rolls back years to beat Andy Roddick in exhibition at US Open",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZzU5ZU9WNzdQM3FROW9PWTkyYll6cHBfSERyZHNDZjIzc3hROW9JOHBRNWtnbUFZaXptOWNXZ3ZvZ0N6V2FIZnhRckFhRXVJOTRYVFZQWGx5VWJvVTBPT2lEMElVQ01yRW1pLWlWek1hem5sS3BNXzRyVXFuNWRCTF9EVUlaSkpzZlVhQWF6MHRVdU02Y2ZDWUd5VWV5RnZoeUltWk9rNlBPNU04UzQzNWQ1QkUwLWtTc05IM1o4WE1WMno5MlJaLQ?oc=5",
+        "published": "2026-08-26T05:38:10+00:00",
+        "published_label": "Wed 26 Aug, 05:38",
+        "summary": "Roger Federer rolls back years to beat Andy Roddick in exhibition at US Open Sky Sports",
+        "body": "Roger Federer made a triumphant return to the US Open court with a pair of exhibition victories in front of an adoring Arthur Ashe Stadium crowd in New York on Tuesday. The event, billed as \"An Icon Returns to New York\", packed the stands with fans eager to watch the 45-year-old Swiss star face Andy Roddick, who is soon to turn 44, in a prime-time exhibition.\n\nFederer defeated Roddick in an opening singles match before teaming up with John McEnroe to win a doubles exhibition against Roddick and Andre Agassi. - Not got Sky? Get Sky Sports or stream with no contract 📱",
+        "copy": "Roger Federer made a triumphant return to the US Open court with a pair of exhibition victories in front of an adoring Arthur Ashe Stadium crowd in New York on Tuesday. The event, billed as \"An Icon Returns to New York\", packed the stands with fans eager to watch the 45-year-old Swiss star face Andy Roddick, who is soon to turn 44, in a prime-time exhibition.\n\nFederer defeated Roddick in an opening singles match before teaming up with John McEnroe to win a doubles exhibition against Roddick and Andre Agassi. - Not got Sky? Get Sky Sports or stream with no contract 📱",
+        "first_seen": "2026-08-26T08:08:28.697648+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4786,22 +4773,22 @@
         "body": "Nick Kyrgios has been provisionally suspended from tennis after testing positive for cocaine. The Australian submitted a sample during the Mallorca Open on 22 June that was later found to contain benzoylecgonine, a metabolite of cocaine.\n\nFormer world number 13 Kyrgios has been provisionally suspended, external since 4 August. The International Tennis Integrity Agency said Kyrgios could appeal against the provisional suspension \"but has not done so to date\".",
         "copy": "Nick Kyrgios has been provisionally suspended from tennis after testing positive for cocaine. The Australian submitted a sample during the Mallorca Open on 22 June that was later found to contain benzoylecgonine, a metabolite of cocaine.\n\nFormer world number 13 Kyrgios has been provisionally suspended, external since 4 August. The International Tennis Integrity Agency said Kyrgios could appeal against the provisional suspension \"but has not done so to date\".",
         "first_seen": "2026-08-19T10:29:38.134953+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Sabalenka breezes through as Medvedev loses cool in defeat",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce97ln7kp01o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-19T06:44:48+00:00",
-        "published_label": "Wed 19 Aug, 06:44",
-        "summary": "Aryna Sabalenka needs just 54 minutes to reach the Cincinnati Open fourth round - but Daniil Medvedev's frustrations boil over after he misses three match points in surprise defeat.",
-        "body": "World number one Aryna Sabalenka needed just 54 minutes to reach the Cincinnati Open fourth round - but Daniil Medvedev could not hide his frustration after missing three match points in a surprise defeat.\n\nSabalenka did not face a break point in a 6-1 6-3 win over China's Wang Xinyu. The Belarusian lost only six points in eight service games and committed just five unforced errors to 17 winners in a composed performance.",
-        "copy": "World number one Aryna Sabalenka needed just 54 minutes to reach the Cincinnati Open fourth round - but Daniil Medvedev could not hide his frustration after missing three match points in a surprise defeat.\n\nSabalenka did not face a break point in a 6-1 6-3 win over China's Wang Xinyu. The Belarusian lost only six points in eight service games and committed just five unforced errors to 17 winners in a composed performance.",
-        "first_seen": "2026-08-19T10:29:38.134953+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Eddie Pepperell disagrees with Rory McIlroy over LIV Golf stars",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDd5dzV3YzVab2VIN1lhN01OVzVsRnV0UmUtNThLeXJmVEk4ektRb3ZCdzdTWnRsbGYteG1Yb1FBSzFteVhEeElOOG53ZDkyTnpKcm51UnZpSHZHMTZ6UVk5eldudDlTaFVCMmpZZkRHUG9uUTNPR0VoaXI5alJUci0wWFdoV3pUU1dlOXl6Z3dpYXJnZkExNFFXOHVBYVpmMGFnSVNoM0VxajZna2Fad25DZDlsa1F5aGc?oc=5",
+        "published": "2026-08-26T07:15:44+00:00",
+        "published_label": "Wed 26 Aug, 07:15",
+        "summary": "Eddie Pepperell disagrees with Rory McIlroy over LIV Golf stars Tennis World USA",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-26T08:08:28.697648+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -8911,19 +8898,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-19T12:40:54.072736+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Satwik-Chirag reach BWF Worlds pre-quarters without hitting a single shot: Here’s how",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEJUcS1DRHM2cUJ2c0FpcU5SRnF4NFRpY05SdG5ONmxkcnllRERmUjlmMmVqTTlUc0U2V0NoQVJQb1htWXM5OXZYSWltZzdLN2txZUNja0dxNmtMWHFjZEVDb2lUOG9FcUZNM1E0Zy1UblpEOWkxdks3Tzh6WDFVREhLY2JlcFo0Njd4eEtSNG9pWF9IbHdaTWZWWXZ6TUQ4QldMMWwyN1pzUWxLVVpQZDUyYVZSZ3JYVVE?oc=5",
-        "published": "2026-08-19T07:44:57+00:00",
-        "published_label": "Wed 19 Aug, 07:44",
-        "summary": "Satwik-Chirag reach BWF Worlds pre-quarters without hitting a single shot: Here’s how Open Magazine",
-        "body": "Sometimes, at a World Championship, you need a perfect smash. Sometimes, you don't even need to pick up a racket. That was the rather unusual start to Satwiksairaj Rankireddy and Chirag Shetty's BWF World Championships campaign in New Delhi on Wednesday. The fifth-seeded Indians were scheduled to open their tournament against Scotland's Alexander Dunn and Adam Pringle.\n\nInstead, the Scottish pair withdrew before the match. No rallies. No booming Satwik serves. No Chirag interceptions at the net. Just a walkover — and a place in the Round of 16.",
-        "copy": "Sometimes, at a World Championship, you need a perfect smash. Sometimes, you don't even need to pick up a racket. That was the rather unusual start to Satwiksairaj Rankireddy and Chirag Shetty's BWF World Championships campaign in New Delhi on Wednesday. The fifth-seeded Indians were scheduled to open their tournament against Scotland's Alexander Dunn and Adam Pringle.\n\nInstead, the Scottish pair withdrew before the match. No rallies. No booming Satwik serves. No Chirag interceptions at the net. Just a walkover — and a place in the Round of 16.",
-        "first_seen": "2026-08-19T12:40:54.072736+00:00"
       }
     ],
     "Competitor News": [
@@ -8955,5 +8929,5 @@
       }
     ]
   },
-  "total": 687
+  "total": 685
 }
