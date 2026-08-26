@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T12:45:32.676157+00:00",
-  "generated_label": "Wednesday 26 August 2026, 12:45 UTC",
+  "generated_at": "2026-08-26T14:42:34.463580+00:00",
+  "generated_label": "Wednesday 26 August 2026, 14:42 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "PTO added to DHL’s sports sponsorship stable",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WZC1ZTmRIS1I1LU90ZExBSUxEdms2NWt1cXFDZk5aWXlUVm82LURZUGNya1BPeWRsLUhnbThuNm4tSmk4VWtic25GdjJiVUNPQVUtNkdTMDVKakpreXVvTGJfTi11cDBBT0xCQkt3aklQcEszY0xYdV82MGRLZDg?oc=5",
+        "published": "2026-08-26T14:21:23+00:00",
+        "published_label": "Wed 26 Aug, 14:21",
+        "summary": "PTO added to DHL’s sports sponsorship stable Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-26T14:42:34.463580+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -1415,35 +1428,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-20T10:27:56.628230+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "HOY extends as Hong Kong broadcast partner for AFC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGRxNzB6aDZJVFBBd0xseHB3c3BFOXh0SjIyLVJXVVROZEY2R2hLU1FMVkNNRVpTYzRwd3FveG9kTlpxQ0pZMWVuRzdZeGVnY25WeFI2RlRVcUc1dGJHVXNhanp5eU9WUDgtSDI0M1BXb1hKRVBKcm5ObEJoRDFFcUlkQTVvTGdG?oc=5",
-        "published": "2026-08-19T13:50:24+00:00",
-        "published_label": "Wed 19 Aug, 13:50",
-        "summary": "HOY extends as Hong Kong broadcast partner for AFC Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "US$7bn team valuations, a streaming pilot and sponsor overhaul: The business of the 2026/27 Premier League season",
-        "link": "https://www.sportspro.com/analysis/finance-investment/premier-league-2026-27-season-tv-rights-sponsors-finances-valuations/",
-        "published": "2026-08-19T13:28:17+00:00",
-        "published_label": "Wed 19 Aug, 13:28",
-        "summary": "English soccer’s top flight remains in a commercial league of its own, but the 2026/27 Premier League season will herald a series of changes that could have a longer-term impact on its business. The post US$7bn team valuations, a streaming pilot and sponsor overhaul: The business of the 2026/27 Premier League season appeared first on SportsPro .",
-        "body": "Barely a month after Spain lifted the Fifa World Cup at MetLife Stadium in New York, the Premier League returns this week after a summer that saw 182 of its players compete at soccer’s flagship international tournament.\n\nPlayers have gradually been returning to their clubs for what represents the latest-ever start to a Premier League season, a delay largely driven by the expansion of the World Cup and the wider impact Fifa’s encroachment on the calendar has had on both scheduling and player welfare.",
-        "copy": "Barely a month after Spain lifted the Fifa World Cup at MetLife Stadium in New York, the Premier League returns this week after a summer that saw 182 of its players compete at soccer’s flagship international tournament.\n\nPlayers have gradually been returning to their clubs for what represents the latest-ever start to a Premier League season, a delay largely driven by the expansion of the World Cup and the wider impact Fifa’s encroachment on the calendar has had on both scheduling and player welfare.",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "France prop Jefferson Poirot confirms injury amid strange career admission",
+        "link": "https://www.rugbypass.com/news/france-loosehead-jefferson-poirot-confirms-long-term-injury-amid-strange-career-admission-bordeaux-begles/",
+        "published": "2026-08-26T14:22:46+00:00",
+        "published_label": "Wed 26 Aug, 14:22",
+        "summary": "France and Bordeaux-Begles loosehead Jefferson Poirot will miss the start of the season after spraining his knee, French outlet RMC have confirmed.",
+        "body": "France and Bordeaux-Begles loosehead Jefferson Poirot will miss the start of the season after spraining his knee, French outlet RMC have confirmed. The 33-year-old, who came out of international retirement in July to represent Les Bleus for the first time since 2020, will miss the next six to eight weeks with the injury, Bordeaux head coach Yannick Bru has confirmed.\n\nThe injury will leave the loosehead in a fitness race to make the beginning of Bordeaux’s Investec Champions Cup title defence, which begins with a round one trip to Gloucester on October 16.",
+        "copy": "France and Bordeaux-Begles loosehead Jefferson Poirot will miss the start of the season after spraining his knee, French outlet RMC have confirmed. The 33-year-old, who came out of international retirement in July to represent Les Bleus for the first time since 2020, will miss the next six to eight weeks with the injury, Bordeaux head coach Yannick Bru has confirmed.\n\nThe injury will leave the loosehead in a fitness race to make the beginning of Bordeaux’s Investec Champions Cup title defence, which begins with a round one trip to Gloucester on October 16.",
+        "first_seen": "2026-08-26T14:42:34.463580+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Telling stat underlines Springboks' glaring Achilles heel against All Blacks",
+        "link": "https://www.rugbypass.com/news/telling-stat-underlines-springboks-glaring-achilles-heel-against-the-all-blacks/",
+        "published": "2026-08-26T13:32:04+00:00",
+        "published_label": "Wed 26 Aug, 13:32",
+        "summary": "After an unconvincing 17-10 win against Argentina and last weekend's 33-16 loss to New Zealand, South Africa have mustered just 33 points from their last two fixtures.",
+        "body": "A combination of brilliant defence by the All Blacks and butchered attacking opportunities nullified the Springboks’ ability to turn territorial pressure into points at Ellis Park last weekend, resulting in their 33-16 loss.\n\nFollowing on from an unconvincing 17-10 win against Argentina, over the last two games South Africa have mustered just 33 points, their joint-lowest total in back-to-back Tests since the very early days of Rassie Erasmus’ reign in 2018.",
+        "copy": "A combination of brilliant defence by the All Blacks and butchered attacking opportunities nullified the Springboks’ ability to turn territorial pressure into points at Ellis Park last weekend, resulting in their 33-16 loss.\n\nFollowing on from an unconvincing 17-10 win against Argentina, over the last two games South Africa have mustered just 33 points, their joint-lowest total in back-to-back Tests since the very early days of Rassie Erasmus’ reign in 2018.",
+        "first_seen": "2026-08-26T14:42:34.463580+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3718,32 +3731,6 @@
         "body": "SA Rugby have confirmed the 26-player squad that will travel to Brazil for the first-ever South Africa Women ‘A’ tour. They will play Brazil ‘A’ squad in back-to-back fixtures in Sao Paolo on 24 and 29 August. The squad will be captained by capped Springbok Women back Mary Zulu, who represented the Boks at Women’s Rugby World Cup 2025.\n\nThe 23-year-old is one of capped Springbok players in the playing group travelling to South America, which boasts an average age of 22. Luchell Hanekom, who also competed in England last year, returns from injury.",
         "copy": "SA Rugby have confirmed the 26-player squad that will travel to Brazil for the first-ever South Africa Women ‘A’ tour. They will play Brazil ‘A’ squad in back-to-back fixtures in Sao Paolo on 24 and 29 August. The squad will be captained by capped Springbok Women back Mary Zulu, who represented the Boks at Women’s Rugby World Cup 2025.\n\nThe 23-year-old is one of capped Springbok players in the playing group travelling to South America, which boasts an average age of 22. Luchell Hanekom, who also competed in England last year, returns from injury.",
         "first_seen": "2026-08-19T18:34:21.706733+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "France step up WXV Global Series preparations with forwards clinic",
-        "link": "https://www.rugbypass.com/news/france-step-up-wxv-global-series-preparations-with-forwards-clinic/",
-        "published": "2026-08-19T13:34:31+00:00",
-        "published_label": "Wed 19 Aug, 13:34",
-        "summary": "François Ratier will host a four-day front-five forward training camp as France's preparations for the WXV Global Series continue.",
-        "body": "François Ratier will host a four-day front-five forward training camp as France’s preparations for the WXV Global Series continue. In September and October, Les Bleues will play New Zealand’s Black Ferns four times, along with one-off clashes against Canada and Australia on home soil.\n\nThe 24-player group selected includes a large number of capped players and a number of youngsters that Ratier and his coaching staff believe could have the talent to earn Test match honours.",
-        "copy": "François Ratier will host a four-day front-five forward training camp as France’s preparations for the WXV Global Series continue. In September and October, Les Bleues will play New Zealand’s Black Ferns four times, along with one-off clashes against Canada and Australia on home soil.\n\nThe 24-player group selected includes a large number of capped players and a number of youngsters that Ratier and his coaching staff believe could have the talent to earn Test match honours.",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Jake White: I urge Rennie to make a huge call that won't go down well in NZ",
-        "link": "https://www.rugbypass.com/news/jake-white-ardie-savea-is-not-as-indispensable-as-hes-made-out-to-be-all-blacks-springboks/",
-        "published": "2026-08-19T13:20:33+00:00",
-        "published_label": "Wed 19 Aug, 13:20",
-        "summary": "The hours are counting down to the first Test in Johannesburg and whisper it, but the portents are shaping up well for the All Blacks. The stars are aligning.",
-        "body": "The hours are counting down to the first Test in Johannesburg and whisper it, but the portents are shaping up well for the All Blacks. The stars are aligning. I’ll explain. If you were a rugby coach, and you were asked if you wanted to coach international rugby, the answer would be yes. Now, if you were then asked to pick any side in the world to coach most, without hesitation, would say South Africa, France, maybe England, but you can bet your bottom dollar New Zealand would be right up there. A year out from the World Cup, you’re asked where would your dream tour would be? South Africa, the year before the World Cup? Consider it done. For good measure, we’ll throw in a couple of friendlies, an extended 45-man squad and you can tour the Republic, play golf, go to game farms and have an incredible bonding opportunity. Oh, and we’ll make those warm-up games winnable and schedule the last game at altitude to replicate the first Test. Of course, you can play the Bulls. What’s not to like?\n\nWhat I’m saying is Dave Rennie has nothing to complain about. It’s the perfect scenario. They are unbeaten. They have a new coach. They have renewed energy. They’ve been given the opportunity of an extended tour, playing the world champions, who are likely to be in their way in their quest to win a fourth World Cup, and they’re underdogs. They are in a helluva good place.",
-        "copy": "The hours are counting down to the first Test in Johannesburg and whisper it, but the portents are shaping up well for the All Blacks. The stars are aligning. I’ll explain. If you were a rugby coach, and you were asked if you wanted to coach international rugby, the answer would be yes. Now, if you were then asked to pick any side in the world to coach most, without hesitation, would say South Africa, France, maybe England, but you can bet your bottom dollar New Zealand would be right up there. A year out from the World Cup, you’re asked where would your dream tour would be? South Africa, the year before the World Cup? Consider it done. For good measure, we’ll throw in a couple of friendlies, an extended 45-man squad and you can tour the Republic, play golf, go to game farms and have an incredible bonding opportunity. Oh, and we’ll make those warm-up games winnable and schedule the last game at altitude to replicate the first Test. Of course, you can play the Bulls. What’s not to like?\n\nWhat I’m saying is Dave Rennie has nothing to complain about. It’s the perfect scenario. They are unbeaten. They have a new coach. They have renewed energy. They’ve been given the opportunity of an extended tour, playing the world champions, who are likely to be in their way in their quest to win a fourth World Cup, and they’re underdogs. They are in a helluva good place.",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
       }
     ],
     "Tennis": [
@@ -4659,6 +4646,45 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Tyrrell Hatton delivers verdict on LIV Golf future",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOHBkWHA4dlVsTjRlT2NNc1hpYVBrY18xNnA0eC1ITnhBX2kzX3FmOEhORlpMaXVtdFBXREktSkhEU2N1N2J6SFpPMDFMZXlKY2ZfZ0J6cDAyTUZOdDI0UGVQRnhlTlBFZWhuV0c2a1pidHNCUktfUWg2aExQWmc1TExGc1hQZFF2eUp3Rm93djg?oc=5",
+        "published": "2026-08-26T14:23:26+00:00",
+        "published_label": "Wed 26 Aug, 14:23",
+        "summary": "Tyrrell Hatton delivers verdict on LIV Golf future Today's Golfer",
+        "body": "When Tyrrell Hatton walked out to Queen’s I Want to Break Free in Indianapolis last week, it was interpreted as a not-so-subtle signal that the Englishman wants out of LIV Golf.\n\nYet in his press conference at the British Masters on Wednesday, Hatton confirmed he still has multiple years left on his LIV contract, while also insisting he expects the breakaway league to continue into the 2027 season.",
+        "copy": "When Tyrrell Hatton walked out to Queen’s I Want to Break Free in Indianapolis last week, it was interpreted as a not-so-subtle signal that the Englishman wants out of LIV Golf.\n\nYet in his press conference at the British Masters on Wednesday, Hatton confirmed he still has multiple years left on his LIV contract, while also insisting he expects the breakaway league to continue into the 2027 season.",
+        "first_seen": "2026-08-26T14:42:34.463580+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Tour Championship betting guide: 4 picks our gambling expert loves",
+        "link": "https://golf.com/lifestyle/tour-championship-2026-betting-picks/",
+        "published": "2026-08-26T13:18:20+00:00",
+        "published_label": "Wed 26 Aug, 13:18",
+        "summary": "The Tour Championship begins Thursday at East Lake in Atlanta. Here are four picks our expert loves — and why he thinks you should too. The post Tour Championship betting guide: 4 picks our gambling expert loves appeared first on Golf .",
+        "body": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Tour Championship, which gets underway on Thursday in Atlanta.\n\nIt all comes down to East Lake Golf Club in Atlanta. The top 30 players in the FedEx Cup standings have advanced to the final PGA Tour event, the Tour Championship, where the FedEx Cup and $10 million await this week’s winner.",
+        "copy": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Tour Championship, which gets underway on Thursday in Atlanta.\n\nIt all comes down to East Lake Golf Club in Atlanta. The top 30 players in the FedEx Cup standings have advanced to the final PGA Tour event, the Tour Championship, where the FedEx Cup and $10 million await this week’s winner.",
+        "first_seen": "2026-08-26T14:42:34.463580+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Nick Faldo reveals what he's hearing about LIV Golf's star players as he takes dig at Phil Mickelson",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkRaZFJ0WW1ER3VlX1dzd0JNLWM3QkVjX0tWcjFPU2JEYVVsZ0VHdDJ2VmN6WUxERFhUVl9BR0Q2YXZWUTlSX2czT2pESHp1WFlDVlRZMWs2RjRQNm9DelYyLXRCU0JDdWpUMUdWWGtrTS1rUEltNkVxckFIQWVkT3FheXB5bzI1V2hVUUUyV0d2TkdRbW1VOTAxWFBhTndWNjQzU3VMemhPYXBPQnRTUGtSNkVIMmZNOFpTYg?oc=5",
+        "published": "2026-08-26T12:30:00+00:00",
+        "published_label": "Wed 26 Aug, 12:30",
+        "summary": "Nick Faldo reveals what he's hearing about LIV Golf's star players as he takes dig at Phil Mickelson hitc.com",
+        "body": "It’s fair to say that Sir Nick Faldo is one of the most outspoken personalities in the professional game. Faldo was an uncompromising character during his incredibly successful playing career.\n\nAnd while the Englishman is definitely more easy going now than when he was playing competitively, he still pulls no punches when discussing hot topics in the game today. So it should be no surprise that Nick Faldo has such a strong opinion on LIV Golf.",
+        "copy": "It’s fair to say that Sir Nick Faldo is one of the most outspoken personalities in the professional game. Faldo was an uncompromising character during his incredibly successful playing career.\n\nAnd while the Englishman is definitely more easy going now than when he was playing competitively, he still pulls no punches when discussing hot topics in the game today. So it should be no surprise that Nick Faldo has such a strong opinion on LIV Golf.",
+        "first_seen": "2026-08-26T14:42:34.463580+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -7063,32 +7089,6 @@
         "body": "Sam Burns has revealed he would welcome Jon Rahm, Bryson DeChambeau and other LIV Golf stars back to the PGA Tour if they decide to return. Burns never seriously considered joining LIV Golf when the rival circuit launched in 2022, despite briefly being linked with a potential move.\n\nThe five-time PGA Tour winner instead remained committed to the circuit, but has consistently insisted he does not blame players who chose a different path. Four years on, with LIV’s future uncertain, the 30-year-old American believes the return of some of the game’s biggest names would ultimately benefit golf.",
         "copy": "Sam Burns has revealed he would welcome Jon Rahm, Bryson DeChambeau and other LIV Golf stars back to the PGA Tour if they decide to return. Burns never seriously considered joining LIV Golf when the rival circuit launched in 2022, despite briefly being linked with a potential move.\n\nThe five-time PGA Tour winner instead remained committed to the circuit, but has consistently insisted he does not blame players who chose a different path. Four years on, with LIV’s future uncertain, the 30-year-old American believes the return of some of the game’s biggest names would ultimately benefit golf.",
         "first_seen": "2026-08-19T18:34:21.706733+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf captains confirm first DP World Tour starts in more than three years",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZpajBxNUJHN2dvellBbzZiZUtVMnVlMjhwSVNLbkVKTEhqSlpHdHY1VWtFWlZINDZaNEQ4UjBHcENtN20wMUlXMWd4dV8xRnE1OVFzSGM1aGRkSzdWVWZEMFZQc2dBeElXaFEtTHNIRHVOdXljNTR2dUFzNDNCaHJYNnFIdWppaUVPR2VrY0ZGeVFUcHJmaHpEajJBdzZlN2wwV2oweWtRMEdaTUZWMDJsdlA?oc=5",
-        "published": "2026-08-19T13:10:39+00:00",
-        "published_label": "Wed 19 Aug, 13:10",
-        "summary": "LIV Golf captains confirm first DP World Tour starts in more than three years Golfmagic",
-        "body": "European Ryder Cup legends Ian Poulter and Lee Westwood are set to make their returns to the DP World Tour (DPWT) later this year. The pair were among the first wave of players to be recruited by the LIV Golf League when it launched in June 2022.\n\nBoth golfers played in the opening tournament at Centurion Club and were subsequently hit with £100,000 fines for teeing it up without obtaining releases. They took the DPWT to a sports arbitration panel over the issue, but handed in their memberships after a panel of former high court judges ruled in favour of the Wentworth-based organisation in July 2023.",
-        "copy": "European Ryder Cup legends Ian Poulter and Lee Westwood are set to make their returns to the DP World Tour (DPWT) later this year. The pair were among the first wave of players to be recruited by the LIV Golf League when it launched in June 2022.\n\nBoth golfers played in the opening tournament at Centurion Club and were subsequently hit with £100,000 fines for teeing it up without obtaining releases. They took the DPWT to a sports arbitration panel over the issue, but handed in their memberships after a panel of former high court judges ruled in favour of the Wentworth-based organisation in July 2023.",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Craziness': Ryan Fox shares wild details of post-Open flight with 2 Claret Jugs",
-        "link": "https://golf.com/news/ryan-fox-wild-details-post-open-flight-2-claret-jugs/",
-        "published": "2026-08-19T13:01:56+00:00",
-        "published_label": "Wed 19 Aug, 13:01",
-        "summary": "Following his life-changing 2026 Open Championship victory, Ryan Fox partied hard. But what happened after that was just short of harrowing. The post ‘Craziness’: Ryan Fox shares wild details of post-Open flight with 2 Claret Jugs appeared first on Golf .",
-        "body": "After his career-making, life-changing victory at the 2026 Open Championship, Ryan Fox partied hard until the wee hours (eventually getting kicked out of Royal Birkdale). But what happened after the final drops of wine had been drained from the Claret Jug was just short of harrowing.\n\nIn his press conference ahead of this week’s BMW Championship, Fox detailed the “craziness” that unfolded on his lengthy trip home to Florida after his big win, from the difficulties of flying commercial with two different Claret Jugs, to his viral run-in with the man he’d just defeated, Cameron Young.",
-        "copy": "After his career-making, life-changing victory at the 2026 Open Championship, Ryan Fox partied hard until the wee hours (eventually getting kicked out of Royal Birkdale). But what happened after the final drops of wine had been drained from the Claret Jug was just short of harrowing.\n\nIn his press conference ahead of this week’s BMW Championship, Fox detailed the “craziness” that unfolded on his lengthy trip home to Florida after his big win, from the difficulties of flying commercial with two different Claret Jugs, to his viral run-in with the man he’d just defeated, Cameron Young.",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
       }
     ],
     "Badminton": [
@@ -8612,175 +8612,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-20T06:41:34.347260+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: Satwik-Chirag advance to pre-quarterfinals via walkover; Tanisha-Dhruv triump...",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVklqUGFKdHlZR1ZqUExIVXBpV1ZBbVdGZk5SZ2JtYV9Hd3UxS2VfOHhOeVhRN0w0UTlzb0FRSktXV1R0bUxIaFM1eEIxQW9NdngyVHA3S3JBX1RkYUExVVRrSHI1RWZHNzlfNkJKOEV6Rl83a09PZ1V6dFRfZ3JBRzNRM1VEQkNSa1dFRDlBZ0ItV0VZamZGU1NlV3h2M25xVHVHTm1GSk9kSDRXamM4NWNzTWJvUDJFR3Q2Y2E2UjF2ZkNaX0VnVzFnMGZLUEtkVXZ1djNFd1Q5X0VlRGw1YnpqdjhacnBoRS1fcXJ5aVNBZ09KZDZxNDBucG56bTVQa3A1RVhUaG9HaTZuNVHSAZMCQVVfeXFMT0YtOVN0WTFBU1R4b3ZtX1ktZktBdEppZlhpWHlFMUNTelhzOUhsYXBFRkhKd3BRbVNENDlGS1hGTldSSkxHSDZYQk9yZ21GYlU4S3RtOEFBTmRJQUZWTVJ6SFo0TTgybzRscW1nX20tNzJNeElEMGxHTFgydVhYS2lBTnd6bl9YakdxeUt6YWlmVUw4U1FMSS1wa2k2b0pDOUpJb0RzU0ZrS2NoMXhwOW01VDNfTWs1VUxVRXpENk1jbGN5RzYxQmJJdnREc3BVYzBTZ1RvY2pSYTlCUUhqR3dtdFpraXA0OFg5bTJENVp1cWZ0dS1tVVAwN1Jyemp0TFBLMWVRc2ZBZzh6b0IyWGhrZ1k?oc=5",
-        "published": "2026-08-19T14:41:49+00:00",
-        "published_label": "Wed 19 Aug, 14:41",
-        "summary": "BWF World Championships 2026: Satwik-Chirag advance to pre-quarterfinals via walkover; Tanisha-Dhruv triump... Firstpost",
-        "body": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/bwf-world-championships-2026-satwik-chirag-advance-to-pre-quarterfinals-via-walkover-tanisha-dhruv-triumph-unnati-exits-14039343.html\" on this server.\n\nReference #18.d1d11102.1787164454.c4b64581 https://errors.edgesuite.net/18.d1d11102.1787164454.c4b64581",
-        "copy": "You don't have permission to access \"http://www.firstpost.com/sports/badminton-news/bwf-world-championships-2026-satwik-chirag-advance-to-pre-quarterfinals-via-walkover-tanisha-dhruv-triumph-unnati-exits-14039343.html\" on this server.\n\nReference #18.d1d11102.1787164454.c4b64581 https://errors.edgesuite.net/18.d1d11102.1787164454.c4b64581",
-        "first_seen": "2026-08-19T18:34:21.706733+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "PV Sindhu braced for difficult matches, long rallies | BWF World Championships 2026",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjkxaHRqYmJFRUt5RUFaMGNlU2lqQnFqaktfV3RNWkFUZFFSejVHZi1tVGI1WjdVaHVfXzdTYzl0WHo4T1g5bjFfa1lneWVUWEhNLTZtOElCS2cwaDJJVmFxUkt0d1pSQThfb1cwV1VMM1MzZHdIS3JaNGpPczd4UTJCZ2pxRGRlQVlWUmdVX2ZoRnhGSFo0aHZBUmh3bzBPZXhXLTM0akU?oc=5",
-        "published": "2026-08-19T14:35:15+00:00",
-        "published_label": "Wed 19 Aug, 14:35",
-        "summary": "PV Sindhu braced for difficult matches, long rallies | BWF World Championships 2026 olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T18:34:21.706733+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Oldorff beaten in round two to end Finnish run at badminton world championships",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVzVIS0hKMXU2aXUtd3RRYk1ybFc1SUpwVXZiWGdEQ2tLVlJWOEZ4UHlNSVQyWkk1UTVYUEdRY3hyM2VnYnJnN1ZoRFQ0WFNCWjlDbWR3aldrYzBtQ3dJdUtnVFR0djJnMmFUQVNzd3lqMmFmcWZ0a1B1Rm4yempjUWxoX2I0QzZhY1lsN3haM3Q1blRQQUE3ZVR3TndCNTB4WHVvbUpzVTZpTEJxTDJoZjgzRHJqZUZibXFfOUJocVlWWDdVYm5nNENtNXBtWThBMzB3a2JHdjc0WV9rUUtnWXNJU3FMOS1PMmNBNEFvT0k?oc=5",
-        "published": "2026-08-19T14:29:23+00:00",
-        "published_label": "Wed 19 Aug, 14:29",
-        "summary": "Oldorff beaten in round two to end Finnish run at badminton world championships Flashscore.com",
-        "body": "Farhan, a former world youth champion, took victory in straight sets (21–12, 21–9) to progress to the third round - the last 16 stage of the men's singles competition. Having come through a tense three-set match with Vietnam's Le Duc Phat in the first round, a tie with the 11th seed was going to be a tall order for the 23-year-old Finn ranked 48th in the world.\n\n1-1 in the opening set was the last time the two opponents were level, as Farhan gradually built his lead. In the second, Oldorff's hopes were over before they had begun, as he lost the opening 10 points to give himself a mountain to climb, as Farhan cruised to a comfortable victory.",
-        "copy": "Farhan, a former world youth champion, took victory in straight sets (21–12, 21–9) to progress to the third round - the last 16 stage of the men's singles competition. Having come through a tense three-set match with Vietnam's Le Duc Phat in the first round, a tie with the 11th seed was going to be a tall order for the 23-year-old Finn ranked 48th in the world.\n\n1-1 in the opening set was the last time the two opponents were level, as Farhan gradually built his lead. In the second, Oldorff's hopes were over before they had begun, as he lost the opening 10 points to give himself a mountain to climb, as Farhan cruised to a comfortable victory.",
-        "first_seen": "2026-08-20T06:41:34.347260+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: Lakshya Sen suffers shock exit, loses to 92nd-ranked Garret Tan in second round",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHhwajkwOXdQUEhhUG9qcjlBOWVRZ20wLXZrMm9TRi1nSU4wU3pRblowdlpIemlVQlZHYWloOGdXVWZXckNRSUpmNWlja2FfdlJ0WDRSSzVnUERFWmt3OTk4aGF5NHhHbHNVbWpycWZjY0dUSUpSZ1NmNEJvaXJPdXh6cmJQZkJ3bXV0UFFmaF9zNm83?oc=5",
-        "published": "2026-08-19T14:07:00+00:00",
-        "published_label": "Wed 19 Aug, 14:07",
-        "summary": "BWF World Championships 2026: Lakshya Sen suffers shock exit, loses to 92nd-ranked Garret Tan in second round olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T18:34:21.706733+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | Ukraine - Malaysia | BWF World Championship | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGRPRXBGU0ZGdE9xSHREX2hleXhxOS05b3Y5ZmwwSXRUSFFxNjYzNFZ4ZWZZTkVmYTl6ZzhZd2tkMEFLTU9EVlRJcGxqdEwtVWM2emI1TDY4R1dzYlBoaFEzMGI4dU1RSzJ0SHNuVXJfZzhiNnNUbUs4bzF1ZmtkNHJ5OEExVFA0RUpLRGJkS0RCX2ZFZ2hmUQ?oc=5",
-        "published": "2026-08-19T13:57:26+00:00",
-        "published_label": "Wed 19 Aug, 13:57",
-        "summary": "Badminton | Ukraine - Malaysia | BWF World Championship | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-20T06:41:34.347260+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Lakshya Sen admits playing catch up in shock exit | BWF World Championships 2026",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXo2aEtqWmhOZE1qdlVJMmhqbFRDa2ExSE9MTURoX0hjRG9tLVk0SjNmeDJ4YTIwQ2FoMFV4M1cxbnNQbWdXbFljcElidUF4N0F5Y2FZS2c1Zmt0ZUpLbUc1bjBnSWZ4LWhQZHBfODZJOVVrbHVKRFVKM20tdnNjUVBRcWpGaVBuMVhCbzNOVzRfcGJlS1k3UFd1OFYtSUZXbXVWLTBOSQ?oc=5",
-        "published": "2026-08-19T13:48:36+00:00",
-        "published_label": "Wed 19 Aug, 13:48",
-        "summary": "Lakshya Sen admits playing catch up in shock exit | BWF World Championships 2026 olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | China - Japon | BWF World Championship | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDc0R29uZHNtNGZIWXc3U3F1NTdHZmRzVGhjVVRLNVc5LWxyR1FmX0t4R21USzNXM2hjc1lpNlVVT0hobHhQZVROMElyOGUyV3dka0J4dWsxTUxjd0hjclBVNzNpZzhBWE9GQVVKTGFkM1kzVThyRVNuN0l2UU4wWVhxUm51Z29FQkxHZjBpWGdfUQ?oc=5",
-        "published": "2026-08-19T13:42:49+00:00",
-        "published_label": "Wed 19 Aug, 13:42",
-        "summary": "Badminton | China - Japon | BWF World Championship | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | Republic of Korea - Bulgaria | BWF World Championship | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjVuQzNtRHl1djVXTW1wdWlGRVltSUZvODNfMHVNVGxVVzBjNko3QTBPVF9DVzRua2hpQXhUNWZzMHgzOGRWYkQ1X3FXMFlaaC1wSlZaMnNsVmFia0NaOTF4ZmJURVdsWFdaOXRNczNjdERtSlM1RG0zaDV6TERudWpFdDN3Sm1rM1VkQmU1YWNaSzduamdsQlQ3WV81bEN0aXdSODdn?oc=5",
-        "published": "2026-08-19T13:42:49+00:00",
-        "published_label": "Wed 19 Aug, 13:42",
-        "summary": "Badminton | Republic of Korea - Bulgaria | BWF World Championship | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | Finland - Vietnam | BWF World Championship | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZC16NjJPMFlEUTEzb0xHY1JnU2YzLUVfaDFDVHQwbUFxT0RmMGI4YUtwb21qYTd2UzJWT0V1ems1MEw3d2tZaUNWNVlyUDBoS3I0OXBpTzZIY0Nrckx5TldoVTBJMzRMOEEtbjZORy1YcEFfZEJwVHRfdTlqUjFUR2FVSXJfdkJSb2VkY2ZFZHcxN2JCZTVB?oc=5",
-        "published": "2026-08-19T13:42:49+00:00",
-        "published_label": "Wed 19 Aug, 13:42",
-        "summary": "Badminton | Finland - Vietnam | BWF World Championship | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-21T08:06:39.174485+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | China - India | BWF World Championship | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzZjRWVyOE5CbDdBcC01Y01YaGZWTVRMTHd1YXBGUHZXY3BqdEp6NUxnaVgtamx6cWZVTTU4ekx2TkNrMnIxVzZOa0c5NXpOQUJmamYtd3M2NzlXOUpPZjJHeGVFdS1Yd0Nzb3ZvZ1doeTNBLS1zQ3BNQUk5MmktV1FWT0MwT3VRT1NrRXFMX2ozQQ?oc=5",
-        "published": "2026-08-19T13:42:48+00:00",
-        "published_label": "Wed 19 Aug, 13:42",
-        "summary": "Badminton | China - India | BWF World Championship | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | France - Japan | BWF World Championship | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0l0RXZaSFIxOE9qeWREQXg5OVA3VHQ3UzJ6bGJsNmFPVGNJVUVadkF4NHZyZVhYaTVJUVRBT2pWaEtVQnBsOF9rc1BiWm9YWUJPYUVaRDNWTE1yX3FLMFY1RzdiOGVLM3A2S2pUX3hCWkt6NmRXTC1JUmxOR19sNUN5Rzc3djhzRUpDRXRHYjI3R0k?oc=5",
-        "published": "2026-08-19T13:42:48+00:00",
-        "published_label": "Wed 19 Aug, 13:42",
-        "summary": "Badminton | France - Japan | BWF World Championship | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Unnati Hooda rues missed chances after exit | BWF World Championships 2026",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2tBTXVqdnQ3cHFyN3R1cjhlbWFGOXBfRllQMjlPemE0VFdkWjE0bEhCWnFWU2NuaWI3Q3M4SDR5azRSTHhsX0gtdzg0YkVwNnRPSUVlNG9EanNQdk9SdmI0SGg4aXROZkc3TmJlU212Z2FkOEVTMEg2RHhzNXlGNmdTUGJrd21HdDktUDNZa3VUWjVHVXRQVXhtUEZXNlJFbWxxZlhCeGg?oc=5",
-        "published": "2026-08-19T13:12:10+00:00",
-        "published_label": "Wed 19 Aug, 13:12",
-        "summary": "Unnati Hooda rues missed chances after exit | BWF World Championships 2026 olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF Worlds Day 3 Order of play: India schedule, match timings on August 19",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdUkxdGpQVkcxajRaSWdZME94ckJqbXRRdG9BR3VFT3pueWhmNXFZUG52Rk5QY0EzWEU3TVF6aW5BTGV4bmtuNDhuUDIwZ2g5M0VYS2tWd0ItdzBnOG96eF80RWFFVDdITFZTem9zOGZjWVhobjVUSHFvVWZON2Rtb3o1bG1mcGVxbnZlOG1TRU1vdmx0cE83aktlZ3ZlVmlhdUhtZ3pLS01LdnRHdUkyV3lLVVBkNEVDNl9UelhPN1JlN1NLeklidHBYem1UcVpXU2ZvUXp4VGFUWnVfN0wyY1RJSm5XVXl2M0JyLTY3Y1BZUFRHRnpmamR3YnM3UXJYZ3pPYXRDUkNJLVdxLXV0UnQzSjPSAZoCQVVfeXFMUGo0NURpTU9nUEJ6bm5RNzFpVmJvRS1ZTVlhU0NXUnVNd2RCUXB0NG9zMWJ5YXY5VFFVX3VhM2t5bTFiRkdxTEIxTFlJZFFJVXBTS3JkOXhGYkJ3dDg5R3hEdkM4eXdFcXJRQWduRmpxR3hwOEV2dTctQzJsOVhCU2w5ODNqZ1o3VnlrSGhCdXFGM205RkZrWlo0NTREZTlidjJXcTFubnFOMFBNYjB4Z0R4S1FzSXJvQ0xBVTd3TVNkQnJQYTVOM0FuZUlZN1Y5enZqUEFRcXdlY0RfNWhyZEZhalhjeEV4MlpQOGdMaVlHV1dTWFJWekczanVMYWZXTUdhTDRaQTlvTjNoc3VQRUlZQU9IY1lKcGRB?oc=5",
-        "published": "2026-08-19T13:08:41+00:00",
-        "published_label": "Wed 19 Aug, 13:08",
-        "summary": "BWF Worlds Day 3 Order of play: India schedule, match timings on August 19 Business Standard",
-        "body": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/bwf-worlds-day-3-order-of-play-india-schedule-match-timings-on-august-19-sindhu-lakshya-ayush-satwik-chirag-126081900338_1.html\" on this server.\n\nReference #18.49a42617.1787149869.4354ca57 https://errors.edgesuite.net/18.49a42617.1787149869.4354ca57",
-        "copy": "You don't have permission to access \"http://www.business-standard.com/sports/other-sports-news/bwf-worlds-day-3-order-of-play-india-schedule-match-timings-on-august-19-sindhu-lakshya-ayush-satwik-chirag-126081900338_1.html\" on this server.\n\nReference #18.49a42617.1787149869.4354ca57 https://errors.edgesuite.net/18.49a42617.1787149869.4354ca57",
-        "first_seen": "2026-08-19T14:31:28.078859+00:00"
       }
     ],
     "Competitor News": [
@@ -8812,5 +8643,5 @@
       }
     ]
   },
-  "total": 676
+  "total": 663
 }
