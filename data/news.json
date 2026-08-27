@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T17:19:17.425447+00:00",
-  "generated_label": "Thursday 27 August 2026, 17:19 UTC",
+  "generated_at": "2026-08-27T18:23:51.641643+00:00",
+  "generated_label": "Thursday 27 August 2026, 18:23 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -219,6 +219,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-27T17:19:17.425447+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Jared Diamond’s next big question: how much do leaders really matter?",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uTHFQSTZQaGYxVnNDVDkyZG8zNUI1T1dwd1d1YmV6MWd2SlBpdk93bWVkSVlZaXNObnh4ZV9ITk05UG9Fb21pckE1OGRRdzFMWjZfZlJjUm04OTFhRS1HbGdaTXlldkRDNEo2TFRoS3o?oc=5",
+        "published": "2026-08-27T04:03:54+00:00",
+        "published_label": "Thu 27 Aug, 04:03",
+        "summary": "Jared Diamond’s next big question: how much do leaders really matter? Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-27T18:23:51.641643+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1418,6 +1431,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘Argentina Tests unquestionably winnable, but things can also go south quickly for Australia’",
+        "link": "https://www.rugbypass.com/plus/tests-in-argentina-are-unquestionably-winnable-but-things-can-also-go-south-for-australia-very-quickly/",
+        "published": "2026-08-27T17:29:25+00:00",
+        "published_label": "Thu 27 Aug, 17:29",
+        "summary": "The Wallabies need to win at least one of their two upcoming Tests in Argentina, but it will be no simple task.",
+        "body": "The Wallabies have been in Argentina a few days now, getting ready for two Tests that will be both crucial for the ongoing evolution of the side under Les Kiss and also their biggest test under the new coach.\n\nLos Pumas in Argentina remains among the toughest assignments in international rugby now. In the last two years alone, Argentina have claimed the scalps of New Zealand, South Africa, Australia and a French XV, as well as giving England an awful scare in the final game of the first block of Nations Championship matches in July.",
+        "copy": "The Wallabies have been in Argentina a few days now, getting ready for two Tests that will be both crucial for the ongoing evolution of the side under Les Kiss and also their biggest test under the new coach.\n\nLos Pumas in Argentina remains among the toughest assignments in international rugby now. In the last two years alone, Argentina have claimed the scalps of New Zealand, South Africa, Australia and a French XV, as well as giving England an awful scare in the final game of the first block of Nations Championship matches in July.",
+        "first_seen": "2026-08-27T18:23:51.641643+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3458,35 +3484,22 @@
         "body": "Queensland is the new home of Australia’s Rugby Sevens and the Wallaroos, after the Queensland Government secured their relocation to the Sunshine State as part of a mega-deal with Rugby Australia which includes a major upgrade of Ballymore and ANZAC Day Bledisloe tests.\n\nIn the latest major sporting coup by the Queensland Government, which continues to aggressively raid other states for major events, up to 90 Rugby Australia athletes and staff will move to Queensland from New South Wales to have the Sevens and Wallaroos headquartered in Queensland.",
         "copy": "Queensland is the new home of Australia’s Rugby Sevens and the Wallaroos, after the Queensland Government secured their relocation to the Sunshine State as part of a mega-deal with Rugby Australia which includes a major upgrade of Ballymore and ANZAC Day Bledisloe tests.\n\nIn the latest major sporting coup by the Queensland Government, which continues to aggressively raid other states for major events, up to 90 Rugby Australia athletes and staff will move to Queensland from New South Wales to have the Sevens and Wallaroos headquartered in Queensland.",
         "first_seen": "2026-08-21T10:28:20.532908+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Will Jordan: 'There's been a switch flipped' in All Blacks camp for first Boks Test",
-        "link": "https://www.rugbypass.com/news/will-jordan-says-a-switch-flipped-in-all-blacks-camp-ahead-of-first-test/",
-        "published": "2026-08-20T18:01:45+00:00",
-        "published_label": "Thu 20 Aug, 18:01",
-        "summary": "Will Jordan says the All Blacks have clicked into Test match mode ahead of the first of four games against the Springboks at Ellis Park this weekend, having noticed a lift in intensity on the training field.",
-        "body": "Will Jordan says the All Blacks have clicked into Test match mode ahead of the first of four games against the Springboks at Ellis Park this weekend, having noticed a lift in intensity on the training field.\n\nThe 28-year-old has been sidelined for the first three games of the tour against URC club teams, nursing a back injury as his fellow outside backs audition for the right wing role he’s occupied to begin New Zealand’s international season.",
-        "copy": "Will Jordan says the All Blacks have clicked into Test match mode ahead of the first of four games against the Springboks at Ellis Park this weekend, having noticed a lift in intensity on the training field.\n\nThe 28-year-old has been sidelined for the first three games of the tour against URC club teams, nursing a back injury as his fellow outside backs audition for the right wing role he’s occupied to begin New Zealand’s international season.",
-        "first_seen": "2026-08-20T18:35:44.579720+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Rassie labels All Blacks reserve a 'monster', praises Kiwi innovation",
-        "link": "https://www.rugbypass.com/news/rassie-labels-all-blacks-reserve-a-monster-praises-kiwi-innovation/",
-        "published": "2026-08-20T17:35:57+00:00",
-        "published_label": "Thu 20 Aug, 17:35",
-        "summary": "Rassie Erasmus has shared his expectations of the lineout battle in this weekend's Rugby's Greatest Rivalry Test series opener, highlighting the tactics and personnel both sides have that will make the contest especially competitive.",
-        "body": "Rassie Erasmus has shared his expectations for the lineout battle in this weekend’s Rugby’s Greatest Rivalry Test series opener, highlighting the tactics and personnel on both sides that will make the contest especially competitive.\n\nErasmus’ Springboks famously pride themselves on their set-piece, but with the All Blacks fighting fire with fire by naming two locks over the height of 203 cm in the second row and Tupou Vaa’i on the blindside flank, New Zealand are positioning themselves to be as disruptive as possible in the lineout at Ellis Park.",
-        "copy": "Rassie Erasmus has shared his expectations for the lineout battle in this weekend’s Rugby’s Greatest Rivalry Test series opener, highlighting the tactics and personnel on both sides that will make the contest especially competitive.\n\nErasmus’ Springboks famously pride themselves on their set-piece, but with the All Blacks fighting fire with fire by naming two locks over the height of 203 cm in the second row and Tupou Vaa’i on the blindside flank, New Zealand are positioning themselves to be as disruptive as possible in the lineout at Ellis Park.",
-        "first_seen": "2026-08-20T18:35:44.579720+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Carlos Alcaraz, British hope Arthur Fery and Aryna Sabalenka were all in the draw for the US Open",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNXRFTUpYQ1lSSlI5U05iYlFMRjFrTGpPSVZTTi1wWkVBUVpma0wteU0tamg4Y2Ixd0tTVFpPUV9mM0N3cnZUTFdxOFIyTnB4aHZvQXloRk9LVnNNeXlXQldPb1JlNmFUR1RKRVNJcWV6OFViRmM4WDFtTVNrY3kyd0YxNU5hNG1DUzNzakx1Z3pNbUMxSWVqVnh2UnNodVJPWlF5U2l3MkZ2cGYxYXJvTDZaTlRaQ0JoWWEzYlFXUjFGcFVaV3lvaEVnbldObElCM2ZaQ2toLXRJa3d4a1NPNDhkQjlSeUgtdHh2YVBFNHlhblpXM3FJeGVUX3BwSVJoRzZUU25FYmxkcXl3M1E?oc=5",
+        "published": "2026-08-27T17:37:30+00:00",
+        "published_label": "Thu 27 Aug, 17:37",
+        "summary": "Carlos Alcaraz, British hope Arthur Fery and Aryna Sabalenka were all in the draw for the US Open Sky Sports",
+        "body": "Carlos Alcaraz and Novak Djokovic are on for a US Open collision course following Thursday's draw in New York, while Britain's Arthur Fery has been handed a nightmare opening-round clash against Italian 13th seed Lorenzo Musetti.\n\nDefending champion Alcaraz will open his campaign against Roman Safiullin with a potential semi-final meeting with history-chasing Djokovic. It will be the Spaniard's first appearance since recovering from a right wrist injury sustained in April.",
+        "copy": "Carlos Alcaraz and Novak Djokovic are on for a US Open collision course following Thursday's draw in New York, while Britain's Arthur Fery has been handed a nightmare opening-round clash against Italian 13th seed Lorenzo Musetti.\n\nDefending champion Alcaraz will open his campaign against Roman Safiullin with a potential semi-final meeting with history-chasing Djokovic. It will be the Spaniard's first appearance since recovering from a right wrist injury sustained in April.",
+        "first_seen": "2026-08-27T18:23:51.641643+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -4383,45 +4396,6 @@
         "body": "Carlos Alcaraz will make his comeback from a wrist injury at the US Open as he seeks to defend his title at Flushing Meadows. The seven-time grand slam champion has not played on the ATP Tour since April, when he withdrew from the Barcelona Open with a wrist issue, with Alcaraz missing his defence of his French Open title and Wimbledon.\n\nAlcaraz was due to return at the Cincinnati Open this month before withdrawing from that event, then enlisted the help of football transfer specialist Fabrizio Romano to announce his US Open comeback.",
         "copy": "Carlos Alcaraz will make his comeback from a wrist injury at the US Open as he seeks to defend his title at Flushing Meadows. The seven-time grand slam champion has not played on the ATP Tour since April, when he withdrew from the Barcelona Open with a wrist issue, with Alcaraz missing his defence of his French Open title and Wimbledon.\n\nAlcaraz was due to return at the Cincinnati Open this month before withdrawing from that event, then enlisted the help of football transfer specialist Fabrizio Romano to announce his US Open comeback.",
         "first_seen": "2026-08-21T06:41:40.327496+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Carlos Alcaraz: Fabrizio Romano breaks news US Open champion is to make comeback from wrist injury at Flushing Meadows",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNY0xveGF2dllPY0ROSnRGYXJkcU1pa3lZVUt2NlVRaUNZTmpWeUNyTEtndGoydHFnTjRUcndsaFREclhmN293d0s2X2oxSDNVRlJSSHlRR2VVNlVUNnJrT2FXTld0X0RUXy11QmlKMl9uWE1mTHMyVlQwWWRxQjNxZVFSWTZGbXAzaVV0UVdNNFBNaFRNcjIyMnU3X2dPMWY3cy0xX3lVUkRRSG5sM295RU5aRkdlUnl4dDZZRU90WnpZWHBWaHhyand3OW1sQXpsVGwyWHdnU2xqNnVmX2tnbE1MbUl3c1VnREl0SXREWFE4WG1OWC1XV25maE85TXc?oc=5",
-        "published": "2026-08-20T18:03:17+00:00",
-        "published_label": "Thu 20 Aug, 18:03",
-        "summary": "Carlos Alcaraz: Fabrizio Romano breaks news US Open champion is to make comeback from wrist injury at Flushing Meadows Sky Sports",
-        "body": "Carlos Alcaraz will make his comeback from a wrist injury at the US Open as he seeks to defend his title at Flushing Meadows. The seven-time grand slam champion has not played on the ATP Tour since April, when he withdrew from the Barcelona Open with a wrist issue, with Alcaraz missing his defence of his French Open title and Wimbledon.\n\nAlcaraz was due to return at the Cincinnati Open this month before withdrawing from that event, then enlisted the help of football transfer specialist Fabrizio Romano to announce his US Open comeback.",
-        "copy": "Carlos Alcaraz will make his comeback from a wrist injury at the US Open as he seeks to defend his title at Flushing Meadows. The seven-time grand slam champion has not played on the ATP Tour since April, when he withdrew from the Barcelona Open with a wrist issue, with Alcaraz missing his defence of his French Open title and Wimbledon.\n\nAlcaraz was due to return at the Cincinnati Open this month before withdrawing from that event, then enlisted the help of football transfer specialist Fabrizio Romano to announce his US Open comeback.",
-        "first_seen": "2026-08-20T18:35:44.579720+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "US Open offers biggest prize fund in Grand Slam history",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c70g2zx0rp5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-20T17:58:28+00:00",
-        "published_label": "Thu 20 Aug, 17:58",
-        "summary": "The US Open will offer the biggest prize fund in Grand Slam history with a total of $108 million (£79.2m) on offer - marking a 20% increase on last year.",
-        "body": "The US Open will offer the biggest prize fund in Grand Slam history with a total of $108 million (£79.2m) on offer - marking a 20% increase on last year. The singles' champions will receive $5.5m (£4.03m) each in a 10% increase on 2025.\n\nFirst-round losers will take home $140,000 (£102,667) - which is $30,000 and 27% more than last year. The prize pool includes a $2m (£1.47m) contribution to a welfare fund, which leading players have been demanding from all the Grand Slams.",
-        "copy": "The US Open will offer the biggest prize fund in Grand Slam history with a total of $108 million (£79.2m) on offer - marking a 20% increase on last year. The singles' champions will receive $5.5m (£4.03m) each in a 10% increase on 2025.\n\nFirst-round losers will take home $140,000 (£102,667) - which is $30,000 and 27% more than last year. The prize pool includes a $2m (£1.47m) contribution to a welfare fund, which leading players have been demanding from all the Grand Slams.",
-        "first_seen": "2026-08-20T18:35:44.579720+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Alcaraz to play US Open after four months out",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-20T17:39:09+00:00",
-        "published_label": "Thu 20 Aug, 17:39",
-        "summary": "Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury.",
-        "body": "Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury. The 23-year-old triumphed at the Australian Open in January to become the youngest man to win all four Grand Slam titles.\n\nHowever, the Spaniard has not played a competitive match since 14 April after injuring his right wrist at the Barcelona Open. The news was confirmed by football influencer Fabrizio Romano in a joint post with Alcaraz on Instagram.",
-        "copy": "Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury. The 23-year-old triumphed at the Australian Open in January to become the youngest man to win all four Grand Slam titles.\n\nHowever, the Spaniard has not played a competitive match since 14 April after injuring his right wrist at the Barcelona Open. The news was confirmed by football influencer Fabrizio Romano in a joint post with Alcaraz on Instagram.",
-        "first_seen": "2026-08-20T18:35:44.579720+00:00"
       }
     ],
     "Golf": [
@@ -4442,13 +4416,13 @@
         "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
-        "title": "Good Good and Callaway made a mistake. Now they’re making amends",
+        "title": "Good Good and Callaway made a mistake. Now they’re paying the price",
         "link": "https://golf.com/news/good-good-callaway-mistake-amends/",
         "published": "2026-08-27T16:47:37+00:00",
         "published_label": "Thu 27 Aug, 16:47",
-        "summary": "Good Good and Callaway have been in damage-control mode. We asked three crisis-communications experts to assess the brands’ tactics. The post Good Good and Callaway made a mistake. Now they’re making amends appeared first on Golf .",
-        "body": "Good Good and Callaway Golf knew they had a problem. As a jarring clip of their short-lived, now-infamous driver ad began circulating on social media Friday, the blowback was swift, widespread and unrelenting. How, legions of commenters wondered — many angrily — could these companies possibly have produced, approved and published a video that depicted a man (Good Good co-founder Garrett Clark) shoving a woman (Clark’s fellow Good Good creator, Alexis Miestowski) to the ground?\n\nWhatever your virtual town square of choice — X, Facebook, Tiktok, Reddit — you could find scores of critics decrying the spot as, among other things, tasteless, insensitive and tone deaf (commenter remark: “Threw my Good Good hat in the garbage”). Which isn’t to say everyone was aghast. You didn’t have to scroll long to find observers who thought the video was, if not cinematic genius, no big deal (commenter remark, written facetiously: “How many woman [sic] will be harmed because of the @goodgood_golf add?” [sic])",
-        "copy": "Good Good and Callaway Golf knew they had a problem. As a jarring clip of their short-lived, now-infamous driver ad began circulating on social media Friday, the blowback was swift, widespread and unrelenting. How, legions of commenters wondered — many angrily — could these companies possibly have produced, approved and published a video that depicted a man (Good Good co-founder Garrett Clark) shoving a woman (Clark’s fellow Good Good creator, Alexis Miestowski) to the ground?\n\nWhatever your virtual town square of choice — X, Facebook, Tiktok, Reddit — you could find scores of critics decrying the spot as, among other things, tasteless, insensitive and tone deaf (commenter remark: “Threw my Good Good hat in the garbage”). Which isn’t to say everyone was aghast. You didn’t have to scroll long to find observers who thought the video was, if not cinematic genius, no big deal (commenter remark, written facetiously: “How many woman [sic] will be harmed because of the @goodgood_golf add?” [sic])",
+        "summary": "Good Good and Callaway have been in damage-control mode. We asked three crisis-communications experts to assess the brands’ tactics. The post Good Good and Callaway made a mistake. Now they’re paying the price appeared first on Golf .",
+        "body": "Good Good and Callaway Golf knew they had a problem. As a jarring clip of their short-lived, now-infamous driver ad began circulating on social media Friday, the blowback was swift, widespread and unrelenting. How, legions of commenters wondered — many angrily — could these companies possibly have produced, approved and published a video that depicted a man (Good Good co-founder Garrett Clark) shoving a woman (Clark’s fellow Good Good creator, Alexis Miestowski) to the ground?\n\nWhatever your virtual town square of choice — X, Facebook, Tiktok, Reddit — you could find scores of critics decrying the spot as, among other things, tasteless, insensitive and tone deaf (commenter remark: “Threw my Good Good hat in the garbage”). Which isn’t to say everyone was aghast. You didn’t have to scroll long to find observers who thought the video was, if not cinematic genius, no big deal (commenter remark, written facetiously: “How many woman [sic] will be harmed because of the @goodgood_golf add?” [sic]).",
+        "copy": "Good Good and Callaway Golf knew they had a problem. As a jarring clip of their short-lived, now-infamous driver ad began circulating on social media Friday, the blowback was swift, widespread and unrelenting. How, legions of commenters wondered — many angrily — could these companies possibly have produced, approved and published a video that depicted a man (Good Good co-founder Garrett Clark) shoving a woman (Clark’s fellow Good Good creator, Alexis Miestowski) to the ground?\n\nWhatever your virtual town square of choice — X, Facebook, Tiktok, Reddit — you could find scores of critics decrying the spot as, among other things, tasteless, insensitive and tone deaf (commenter remark: “Threw my Good Good hat in the garbage”). Which isn’t to say everyone was aghast. You didn’t have to scroll long to find observers who thought the video was, if not cinematic genius, no big deal (commenter remark, written facetiously: “How many woman [sic] will be harmed because of the @goodgood_golf add?” [sic]).",
         "first_seen": "2026-08-27T17:19:17.425447+00:00"
       },
       {
@@ -4515,6 +4489,19 @@
         "body": "LIV Golf players under lengthy contracts believe they can choose whether to stay with the league or walk away even if it survives, according to journalist and author Alan Shipnuck.\n\nThe creaking tour brought the curtain down on its 2026 campaign last week in Indianapolis. Their season finale was played around four months after Saudi Arabia's Public Investment Fund confirmed it would no longer bankroll the venture.",
         "copy": "LIV Golf players under lengthy contracts believe they can choose whether to stay with the league or walk away even if it survives, according to journalist and author Alan Shipnuck.\n\nThe creaking tour brought the curtain down on its 2026 campaign last week in Indianapolis. Their season finale was played around four months after Saudi Arabia's Public Investment Fund confirmed it would no longer bankroll the venture.",
         "first_seen": "2026-08-27T17:19:17.425447+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "I Ranked LIV Golf's Top 40 Players... The Findings Were Interesting",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHc0OE1OUGUzOTJvbGJLQ2VPZG82ZDRWeVpnZ3FtT0pEUjFiNWpJU3I5bTNWblVZVEtIYUtIcTJuSllkd194M2NJZElDYlVLMm5aRnBvSERjemRzSDJJZmlHZnhpdUFnX3Buam15VnF4aDFRTUdLYzVFZndiV1k0OGU5X3FRbFlTWm5HNTVzRzdqdndQcVp4ZXUtUVNLamRYWkE?oc=5",
+        "published": "2026-08-27T14:00:00+00:00",
+        "published_label": "Thu 27 Aug, 14:00",
+        "summary": "I Ranked LIV Golf's Top 40 Players... The Findings Were Interesting Golf Monthly",
+        "body": "Who are LIV Golf's best players? That was the question I wanted to answer. We know Jon Rahm and Bryson DeChambeau are the league's two biggest stars, and Joaquin Niemann has become a winning machine.\n\nWe can access their world rankings, Data Golf standings and positions in the season-long individual posts list, but they're all scattered about on different websites, so it has been hard to truly know who the circuit's top players are beyond the obvious ones.",
+        "copy": "Who are LIV Golf's best players? That was the question I wanted to answer. We know Jon Rahm and Bryson DeChambeau are the league's two biggest stars, and Joaquin Niemann has become a winning machine.\n\nWe can access their world rankings, Data Golf standings and positions in the season-long individual posts list, but they're all scattered about on different websites, so it has been hard to truly know who the circuit's top players are beyond the obvious ones.",
+        "first_seen": "2026-08-27T18:23:51.641643+00:00"
       },
       {
         "section": "Golf",
@@ -6868,19 +6855,6 @@
         "body": "“Sleek” isn’t generally a word you’d use to describe a super-game-improvement iron, but after taking a look at Ping’s new G740 Midnight irons, it’s the first one that comes to mind.\n\nThat’s due to the eye-catching “midnight” finish — an attractive choice for the G740, as the darker, glare-reducing sheen gives the largest iron in Ping’s family a slimmer, smaller appearance.",
         "copy": "“Sleek” isn’t generally a word you’d use to describe a super-game-improvement iron, but after taking a look at Ping’s new G740 Midnight irons, it’s the first one that comes to mind.\n\nThat’s due to the eye-catching “midnight” finish — an attractive choice for the G740, as the darker, glare-reducing sheen gives the largest iron in Ping’s family a slimmer, smaller appearance.",
         "first_seen": "2026-08-21T06:41:40.327496+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 BMW Championship Friday tee times: Round 2 groupings",
-        "link": "https://golf.com/news/2026-bmw-championship-friday-tee-times-round-2/",
-        "published": "2026-08-20T18:07:54+00:00",
-        "published_label": "Thu 20 Aug, 18:07",
-        "summary": "Full 2026 BMW Championship tee times for Friday's second round in St. Louis, featuring Collin Morikawa, Rory McIlroy and more. The post 2026 BMW Championship Friday tee times: Round 2 groupings appeared first on Golf .",
-        "body": "The 2026 BMW Championship continues on Friday with the second round at Bellerive C.C. in St. Louis. You can find full BMW Championship tee times for Friday’s second round at the bottom of this post.\n\nTwo-time major champion Collin Morikawa has quietly put together a solid season on the PGA Tour. Heading into this week’s BMW Championship, Morikawa was ranked 9th in the FedEx Cup standings.",
-        "copy": "The 2026 BMW Championship continues on Friday with the second round at Bellerive C.C. in St. Louis. You can find full BMW Championship tee times for Friday’s second round at the bottom of this post.\n\nTwo-time major champion Collin Morikawa has quietly put together a solid season on the PGA Tour. Heading into this week’s BMW Championship, Morikawa was ranked 9th in the FedEx Cup standings.",
-        "first_seen": "2026-08-20T18:35:44.579720+00:00"
       }
     ],
     "Badminton": [
@@ -8131,45 +8105,6 @@
         "body": "Four Oceania players took to the court at the BWF World Badminton Championships 2026 in New Delhi, India. With a mix of experience and debut appearances, it was New Zealand’s Shaunna Li who delivered the standout result, fighting back from a first-game loss to win her opening match and book her place in the round of 32.\n\nThe tournament kicked off on 17 August, and while the rest of the Oceania contingent’s campaigns wrapped up in the early rounds, Li’s run continued a touch further. This year marked the first time the Oceania Women’s Singles Champion competed in both the women’s singles and the mixed doubles at a World Championships. For her, being surrounded by the best players in the world made for a memorable experience.",
         "copy": "Four Oceania players took to the court at the BWF World Badminton Championships 2026 in New Delhi, India. With a mix of experience and debut appearances, it was New Zealand’s Shaunna Li who delivered the standout result, fighting back from a first-game loss to win her opening match and book her place in the round of 32.\n\nThe tournament kicked off on 17 August, and while the rest of the Oceania contingent’s campaigns wrapped up in the early rounds, Li’s run continued a touch further. This year marked the first time the Oceania Women’s Singles Champion competed in both the women’s singles and the mixed doubles at a World Championships. For her, being surrounded by the best players in the world made for a memorable experience.",
         "first_seen": "2026-08-21T06:41:40.327496+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | Round of 16 Court 1 | BWF World Championship 2026 | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXF6bDg2ejUwbGhoM21ObTNYRzJwVmZrYl9ZWUNTNmJ6ZlZxSnhpUFpTOE1MdmRDdlp0dlp6T1BLWDh6bmh5TXFETGVQaHpwa3BpWmhfWXRwSXJxLTJOa21GMW12ZUQ2ZGp3TzlZOHNYOVJDd1VpbEwwSzBrSXplNmZnUkl1Q1NKZUJKTzFwYXRUUVJKU1VLbGZNd09CbFhqbkdz?oc=5",
-        "published": "2026-08-20T18:00:06+00:00",
-        "published_label": "Thu 20 Aug, 18:00",
-        "summary": "Badminton | Round of 16 Court 1 | BWF World Championship 2026 | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-21T08:06:39.174485+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Satwik-Chirag bank on belief after battling into quarter-finals | BWF World Championships 2026",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblVTYTZOaXVPd0gwYTJKSUQtNWpRTWNkVmZkWGp2bWYzS05mc1ZBMFJVVUJqQkVEYkhHX3BnVWpGR0R5aFFwLUpjTHVVbDJsMEtmMzBDNThoNExlc0d4M1Q0WnZMV2J5alJmSm9IeUdUMmxVUUo0NXVtYzJVTEh6RWg1WWhtWFpCU1VILTdMWFVHSEVtSFNFMEFhUzlSY3Q2Z0g0WEhKOURFai1uZ1pJ?oc=5",
-        "published": "2026-08-20T17:51:00+00:00",
-        "published_label": "Thu 20 Aug, 17:51",
-        "summary": "Satwik-Chirag bank on belief after battling into quarter-finals | BWF World Championships 2026 olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-21T14:33:23.508056+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: ‘I don’t know if she was hurt or it was her strategy’: PV Sindhu after defeat to Wang Zhi Yi",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVmZwUUZkNllIdGRIVlQzMzNKMmQtSW5XaTZzVUxzVG9RZ2ZlQlFVUjNUSENpUkdLSjJneGFXSW8xQXhlWVFTTVZPX2lzZUFSZDkzSlBZQlRBOUx5d0N0MlZPZGxKMFhlX0d5c253d0MwQ2J0SndjeDlLd3dvMFNkQkpfVWtFb0wyWjNuandXTkdKQW9XWm13eHItR0c4Qm9NMUdGRTNkMm1odk5BZVpCclR6Z1R3MXpteERrUXB0d1RaSk9Fc2NKUERYVThtWS1Ib3hGMlcxcXprUWo0eEhWNndFZnZIVk5lZkFOeHBUeFc2bk53ZkHSAfsBQVVfeXFMUEdxUEFqR0RvVFJMWXFCVm1MQk90ZTk2dnBBOWJPWXczRU5hYXJ0XzlhYnJKeDJnZTJ3cDNkby1CUHhjVGNYdjgzd19QeUVKLTh3Vmw5S19HQm5DNXJqaWg2cFdlX3JndHBic200UlhiS1YwSU1PTlA4S19nVzhrUFh1d3NoS2lSQlJyZlZYVndHZ2EtNV9GaWE5cWFBOGJ1V2xxN0tCeTBxQnJoLUpuMjlHdkd2czVqVk9hNEFQcGp0dWJqSGZUeTRiSm5SMDB2RW9hUi1UeXhBTks4d2dCTVFWMXprcVVQOHI3VEpvYlV6dWhXQ19iQWhhQ3M?oc=5",
-        "published": "2026-08-20T17:28:00+00:00",
-        "published_label": "Thu 20 Aug, 17:28",
-        "summary": "BWF World Championships 2026: ‘I don’t know if she was hurt or it was her strategy’: PV Sindhu after defeat to Wang Zhi Yi WION",
-        "body": "PV Sindhu was left to rue a lack of patience in the closing stages after her BWF World Championships campaign ended with a defeat to China's Wang Zhi Yi. Sindhu, who was involved in a closely fought battle, felt the contest was largely under her control but admitted that she could have handled the crucial moments at the end better. “I think in the overall game, especially in the end, I should have been a little more patient,” Sindhu said after the match.\n\n“I can't see any loopholes in between the points. I think in the end especially I should have been a little more patient. That's what I can see from today's game and in the last 3-4 points.” The former world champion was understandably disappointed with the result, particularly after being in contention for much of the match. “Yeah, disappointed of course. Sad about it, I should have converted that. But yeah, I mean that's how it is, that's how sport is,” Sindhu said. “You learn, you lose a lot, you win a lot. I mean when you lose you need to deal with it and bounce back stronger from your mistakes.”",
-        "copy": "PV Sindhu was left to rue a lack of patience in the closing stages after her BWF World Championships campaign ended with a defeat to China's Wang Zhi Yi. Sindhu, who was involved in a closely fought battle, felt the contest was largely under her control but admitted that she could have handled the crucial moments at the end better. “I think in the overall game, especially in the end, I should have been a little more patient,” Sindhu said after the match.\n\n“I can't see any loopholes in between the points. I think in the end especially I should have been a little more patient. That's what I can see from today's game and in the last 3-4 points.” The former world champion was understandably disappointed with the result, particularly after being in contention for much of the match. “Yeah, disappointed of course. Sad about it, I should have converted that. But yeah, I mean that's how it is, that's how sport is,” Sindhu said. “You learn, you lose a lot, you win a lot. I mean when you lose you need to deal with it and bounce back stronger from your mistakes.”",
-        "first_seen": "2026-08-20T18:35:44.579720+00:00"
       }
     ],
     "Competitor News": [
@@ -8201,5 +8136,5 @@
       }
     ]
   },
-  "total": 629
+  "total": 624
 }
