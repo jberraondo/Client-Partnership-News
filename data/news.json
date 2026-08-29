@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T17:35:11.029546+00:00",
-  "generated_label": "Saturday 29 August 2026, 17:35 UTC",
+  "generated_at": "2026-08-29T20:22:59.991581+00:00",
+  "generated_label": "Saturday 29 August 2026, 20:22 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -102,6 +102,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-29T17:35:11.029546+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Donald Trump loses bid to challenge hush-money conviction in federal court",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkg3SjhWT3NKMFl1R1RvVmRoQXB1N0RPWFhKWnZ2WDlWMmNVVkVrd0NsQnlSZFJaSGIyMDYwZ1gwUDhYbWdYa0RNc2dLWXFVV3RNY0M3aWxRT3hVNy1sSGJDRnFxNUhUbm0yZ3ZLcGliUkhpQVhxb2dJR3NuVTBCUkFnUDM?oc=5",
+        "published": "2026-08-28T17:22:09+00:00",
+        "published_label": "Fri 28 Aug, 17:22",
+        "summary": "Donald Trump loses bid to challenge hush-money conviction in federal court Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-29T20:22:59.991581+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1509,6 +1522,58 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'I'm not going to moan my arse off': Erasmus fires back at Rennie's accusation",
+        "link": "https://www.rugbypass.com/news/erasmus-fires-back-at-rennies-moaning-about-springbok-scrum-tactics/",
+        "published": "2026-08-29T19:29:09+00:00",
+        "published_label": "Sat 29 Aug, 19:29",
+        "summary": "Springboks head coach Rassie Erasmus has fired back at his All Blacks counterpart Dave Rennie for accusing his side of walking around in the scrum.",
+        "body": "Springboks head coach Rassie Erasmus has fired back at his All Blacks counterpart Dave Rennie for accusing his side of walking around in the scrum. The reaction came about during South Africa’s post-match press conference in Cape Town, following a tense 33-26 win for the home team in the second Test of the Rugby’s Greatest Rivalry series. The result left the four-Test series even at one win apiece.\n\nMoments earlier, at the All Blacks press conference, Rennie had shared his initial thoughts on the scrum contest and how it was refereed by Angus Gardner. “The scrums were better tonight,” he said. “I think Angus was pretty strong around setting a mark and trying to keep the hookers in the same spacing.",
+        "copy": "Springboks head coach Rassie Erasmus has fired back at his All Blacks counterpart Dave Rennie for accusing his side of walking around in the scrum. The reaction came about during South Africa’s post-match press conference in Cape Town, following a tense 33-26 win for the home team in the second Test of the Rugby’s Greatest Rivalry series. The result left the four-Test series even at one win apiece.\n\nMoments earlier, at the All Blacks press conference, Rennie had shared his initial thoughts on the scrum contest and how it was refereed by Angus Gardner. “The scrums were better tonight,” he said. “I think Angus was pretty strong around setting a mark and trying to keep the hookers in the same spacing.",
+        "first_seen": "2026-08-29T20:22:59.991581+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘No excuse’: Simon Parker fronts up after tense Springboks defeat",
+        "link": "https://www.rugbypass.com/news/no-excuse-simon-parker-fronts-up-after-tense-springboks-defeat/",
+        "published": "2026-08-29T18:39:01+00:00",
+        "published_label": "Sat 29 Aug, 18:39",
+        "summary": "Parker, who started his first Test match under Dave Rennie against the Springboks, was honest in his reflection of the contest.",
+        "body": "All Blacks loose-forward enforcer Simon Parker has reflected on the Springboks levelling Rugby’s Greatest Rivalry series at DHL Stadium in Cape Town. Rassie Erasmus’ side didn’t allow the All Blacks to find their way into the contest, stifling the visitors in Cape Town.\n\nLeroy Carter and Will Jordan dotted down late to mount a comeback for the All Blacks, but it was too little, too late, as Rassie Erasmus’ Springboks held on. The Chiefs No.6 was chosen over the likes of Peter Lakai, Wallace Sititi, Ethan Blackadder, and Patrick Tuipulotu for a starting jumper in Cape Town, after featuring off the bench in the first Test match at Ellis Park.",
+        "copy": "All Blacks loose-forward enforcer Simon Parker has reflected on the Springboks levelling Rugby’s Greatest Rivalry series at DHL Stadium in Cape Town. Rassie Erasmus’ side didn’t allow the All Blacks to find their way into the contest, stifling the visitors in Cape Town.\n\nLeroy Carter and Will Jordan dotted down late to mount a comeback for the All Blacks, but it was too little, too late, as Rassie Erasmus’ Springboks held on. The Chiefs No.6 was chosen over the likes of Peter Lakai, Wallace Sititi, Ethan Blackadder, and Patrick Tuipulotu for a starting jumper in Cape Town, after featuring off the bench in the first Test match at Ellis Park.",
+        "first_seen": "2026-08-29T20:22:59.991581+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "South Africa hold off All Blacks fightback to level series",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c1mvred1l7do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-29T18:08:14+00:00",
+        "published_label": "Sat 29 Aug, 18:08",
+        "summary": "World champions South Africa deliver a powerful first-half performance as they edge past New Zealand and level 'Rugby's Greatest Rivalry' series at 1-1.",
+        "body": "World champions South Africa delivered a powerful first-half performance as they edged past New Zealand and levelled 'Rugby's Greatest Rivalry' series at 1-1 with two Tests to play.\n\nThe All Blacks travelled to Cape Town knowing a win would write them into the history books as the first New Zealand team to win back-to-back Tests in South Africa since the 'Incomparables' of 1996.",
+        "copy": "World champions South Africa delivered a powerful first-half performance as they edged past New Zealand and levelled 'Rugby's Greatest Rivalry' series at 1-1 with two Tests to play.\n\nThe All Blacks travelled to Cape Town knowing a win would write them into the history books as the first New Zealand team to win back-to-back Tests in South Africa since the 'Incomparables' of 1996.",
+        "first_seen": "2026-08-29T20:22:59.991581+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘Game of inches’: Dave Rennie reflects on what decided Springboks clash",
+        "link": "https://www.rugbypass.com/news/game-of-inches-dave-rennie-reflects-on-what-decided-springboks-clash/",
+        "published": "2026-08-29T17:57:25+00:00",
+        "published_label": "Sat 29 Aug, 17:57",
+        "summary": "\"They got a couple down our end, especially late in the piece, and Cheslin Kolbe was able to kick those. So we'll have a look at that.",
+        "body": "All Blacks head coach Dave Rennie believes his side have plenty of positives to take out of their narrow defeat at the hands of the Springboks in Cape Town. Rennie’s side finished the game the stronger of the two sides, but trailed the whole 80 minutes at DHL Stadium, after the Springboks got off to a hot start.\n\nThe All Blacks struggled at lineout time, but improved the much-discussed scrum, which gained parity in the second Test. Speaking to former All Blacks halfback Justin Marshall, Rennie reflected on the contest.",
+        "copy": "All Blacks head coach Dave Rennie believes his side have plenty of positives to take out of their narrow defeat at the hands of the Springboks in Cape Town. Rennie’s side finished the game the stronger of the two sides, but trailed the whole 80 minutes at DHL Stadium, after the Springboks got off to a hot start.\n\nThe All Blacks struggled at lineout time, but improved the much-discussed scrum, which gained parity in the second Test. Speaking to former All Blacks halfback Justin Marshall, Rennie reflected on the contest.",
+        "first_seen": "2026-08-29T20:22:59.991581+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3341,84 +3406,6 @@
         "body": "All Blacks head coach Dave Rennie urged patience and trust in the game plan during the halftime break at Ellis Park on Saturday night, knowing the altitude and pace of the game would eventually take a toll on the giant Springbok pack.\n\nThat’s the insight Damian McKenzie provided after the full-time whistle in Johannesburg, having just helped steer his side to a victory that aligned impressively with the All Blacks’ stated game plan.",
         "copy": "All Blacks head coach Dave Rennie urged patience and trust in the game plan during the halftime break at Ellis Park on Saturday night, knowing the altitude and pace of the game would eventually take a toll on the giant Springbok pack.\n\nThat’s the insight Damian McKenzie provided after the full-time whistle in Johannesburg, having just helped steer his side to a victory that aligned impressively with the All Blacks’ stated game plan.",
         "first_seen": "2026-08-23T06:36:50.000105+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Monaco Rugby Sevens Triumphs in Biarritz, Secures 2027 Supersevens Final Spot - Nice-Matin",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVF9oaGM0TklaY0t3Y1FSTENqTllIYk9xRGJhdUFaZGNkWF96cGxULXg5STBWVG11QlFwMmNtZlpOSmtGSUgxMFJmNmxMbExTNnZ3Z2x6TFA1VnU5V2lMcFlwQktTTGx5cV9HNDYtMTdCSjhaWjktaDNGQlhRZDd5ai1LTWg3SjBITmNuY3VCWFNpdzNRaEdnenFVSDM5R1pBOU9tWTR5TTluNS1uRUxtdU91YlVCUE1xZDN2ZS1rUjRsbVdaNXc?oc=5",
-        "published": "2026-08-22T19:33:26+00:00",
-        "published_label": "Sat 22 Aug, 19:33",
-        "summary": "Monaco Rugby Sevens Triumphs in Biarritz, Secures 2027 Supersevens Final Spot Nice-Matin",
-        "body": "Monaco Rugby Sevens made the perfect start to its In Extenso Supersevens campaign in Biarritz, combining relentless defense with attacking flair to claim the opening tournament and book an early place in the 2027 grand final in Paris.\n\nWith the competition’s new format combining pool play and knockout matches, there is little room for error. That is especially true with only two qualifying tournaments, making the season opener in Biarritz a crucial opportunity for Monaco Rugby Sevens to get its In Extenso Supersevens campaign off to the best possible start.",
-        "copy": "Monaco Rugby Sevens made the perfect start to its In Extenso Supersevens campaign in Biarritz, combining relentless defense with attacking flair to claim the opening tournament and book an early place in the 2027 grand final in Paris.\n\nWith the competition’s new format combining pool play and knockout matches, there is little room for error. That is especially true with only two qualifying tournaments, making the season opener in Biarritz a crucial opportunity for Monaco Rugby Sevens to get its In Extenso Supersevens campaign off to the best possible start.",
-        "first_seen": "2026-08-23T06:36:50.000105+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'Nothing in that game': Rennie delivers blunt assessment after victory over Boks",
-        "link": "https://www.rugbypass.com/news/nothing-in-that-game-rennie-delivers-blunt-assessment-after-victory-over-boks/",
-        "published": "2026-08-22T19:22:18+00:00",
-        "published_label": "Sat 22 Aug, 19:22",
-        "summary": "\"Ethan de Groot was crook overnight, and but yeah, look, we're really happy with with the effort up front, and scrum was really solid in that last 30.\"",
-        "body": "All Blacks head coach Dave Rennie has provided his initial thoughts on his side’s important first Test victory over the Springboks at Ellis Park. The All Blacks, who trailed at half-time by one point, overcame the back-to-back World Cup winners in Johannesburg to take a 1-0 lead in Rugby’s Greatest Rivalry Test series.\n\nTheir 33-16, five-tries-to-one victory over the Springboks was built off an impressive second-half performance, despite trailing at halftime. Will Jordan’s late five-pointer sealed the deal for Rennie’s men, but the head coach was quick to cool the jets on the performance.",
-        "copy": "All Blacks head coach Dave Rennie has provided his initial thoughts on his side’s important first Test victory over the Springboks at Ellis Park. The All Blacks, who trailed at half-time by one point, overcame the back-to-back World Cup winners in Johannesburg to take a 1-0 lead in Rugby’s Greatest Rivalry Test series.\n\nTheir 33-16, five-tries-to-one victory over the Springboks was built off an impressive second-half performance, despite trailing at halftime. Will Jordan’s late five-pointer sealed the deal for Rennie’s men, but the head coach was quick to cool the jets on the performance.",
-        "first_seen": "2026-08-23T06:36:50.000105+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Rassie: 'It's nice now to go into the next game as the underdogs'",
-        "link": "https://www.rugbypass.com/news/rassie-its-nice-now-to-go-into-the-next-game-as-the-underdogs/",
-        "published": "2026-08-22T18:35:32+00:00",
-        "published_label": "Sat 22 Aug, 18:35",
-        "summary": "Rassie Erasmus has willingly surrendered the world No.1 tag after the Springboks' 33-16 defeat at the hands of Dave Rennie's All Blacks, gladly assuming the \"underdog\" tag ahead of game 2 in the four-Test series.",
-        "body": "Rassie Erasmus has willingly surrendered the world No.1 tag after the Springboks’ 33-16 defeat at the hands of Dave Rennie’s All Blacks, gladly assuming the “underdog” tag ahead of game 2 in the four-Test series.\n\nThe South Africa coach was highly complimentary of his opponents when addressing reporters shortly after the full-time whistle, offering credit for their execution on both sides of the ball and ability to generate a period of game-changing momentum as the match ticked into its final quarter.",
-        "copy": "Rassie Erasmus has willingly surrendered the world No.1 tag after the Springboks’ 33-16 defeat at the hands of Dave Rennie’s All Blacks, gladly assuming the “underdog” tag ahead of game 2 in the four-Test series.\n\nThe South Africa coach was highly complimentary of his opponents when addressing reporters shortly after the full-time whistle, offering credit for their execution on both sides of the ball and ability to generate a period of game-changing momentum as the match ticked into its final quarter.",
-        "first_seen": "2026-08-23T06:36:50.000105+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'Serious shift': All Blacks MOTM reflects on 17-point Ellis Park triumph",
-        "link": "https://www.rugbypass.com/news/serious-shift-all-blacks-motm-reflects-on-17-point-ellis-park-triumph/",
-        "published": "2026-08-22T18:17:15+00:00",
-        "published_label": "Sat 22 Aug, 18:17",
-        "summary": "The All Blacks were vastly improved in the second half, specifically in the scrum, where George Bower, Fletcher Newell, and Asafo Aumua added much-needed impact for Dave Rennie's side.",
-        "body": "The All Blacks‘ leading try-scorer in Test matches, Will Jordan, has reflected on their important 17-point victory over the Springboks at Ellis Park. Jordan, who claimed a double in Johannesburg and also the man of the match award, helped add the finishing touches to two promising All Blacks attacks.\n\nThe All Blacks were much improved in the second half, specifically in the scrum, where George Bower, Fletcher Newell, and Asafo Aumua added much-needed impact for Dave Rennie’s side.",
-        "copy": "The All Blacks‘ leading try-scorer in Test matches, Will Jordan, has reflected on their important 17-point victory over the Springboks at Ellis Park. Jordan, who claimed a double in Johannesburg and also the man of the match award, helped add the finishing touches to two promising All Blacks attacks.\n\nThe All Blacks were much improved in the second half, specifically in the scrum, where George Bower, Fletcher Newell, and Asafo Aumua added much-needed impact for Dave Rennie’s side.",
-        "first_seen": "2026-08-22T18:26:09.560716+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "The Springboks got drunk on their own hype",
-        "link": "https://www.rugbypass.com/news/what-the-springboks-forgot-in-their-humbling-defeat-to-all-blacks/",
-        "published": "2026-08-22T18:05:14+00:00",
-        "published_label": "Sat 22 Aug, 18:05",
-        "summary": "Wellington, 2025. New Zealand beaten by a record score. 43-10. Thirty-six unanswered points in the second half. A brace for Cheslin Kolbe. A masterclass from Damian Willemse. Six tries to one.",
-        "body": "Wellington, 2025. New Zealand beaten by a record score. 43-10. Thirty-six unanswered points in the second half. A brace for Cheslin Kolbe. A masterclass from Damian Willemse. Six tries to one.\n\nWe heard about that game so often in the build-up to this Test that it began to feel like a reference point for the new Springboks. Proof that South Africa had evolved. That Tony Brown had added wit to the muscle. That the Boks could still bludgeon teams, but could now also manipulate space, shift the point of attack and unleash their backs before a defence had time to settle.",
-        "copy": "Wellington, 2025. New Zealand beaten by a record score. 43-10. Thirty-six unanswered points in the second half. A brace for Cheslin Kolbe. A masterclass from Damian Willemse. Six tries to one.\n\nWe heard about that game so often in the build-up to this Test that it began to feel like a reference point for the new Springboks. Proof that South Africa had evolved. That Tony Brown had added wit to the muscle. That the Boks could still bludgeon teams, but could now also manipulate space, shift the point of attack and unleash their backs before a defence had time to settle.",
-        "first_seen": "2026-08-22T18:26:09.560716+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Non-South Africa fans making same observation after Ellis Park loss",
-        "link": "https://www.rugbypass.com/news/non-bok-fans-all-saying-the-same-thing-after-joburg-loss/",
-        "published": "2026-08-22T17:42:16+00:00",
-        "published_label": "Sat 22 Aug, 17:42",
-        "summary": "South Africa’s 33-16 defeat to the All Blacks at Ellis Park prompted a wave of reaction from rugby fans and pundits alike, with many observers making the same damning assessment of the Springboks’ performance.",
-        "body": "South Africa’s 33-16 defeat to the All Blacks at Ellis Park prompted a wave of reaction from rugby fans and pundits alike, with many observers making the same damning assessment of the Springboks’ performance.\n\nDespite dominating at scrum time and leading 13-12 at the break, the hosts unravelled in the second half as New Zealand ran in five tries to one to seize a 1-0 lead in the Rugby’s Greatest Rivalry series.",
-        "copy": "South Africa’s 33-16 defeat to the All Blacks at Ellis Park prompted a wave of reaction from rugby fans and pundits alike, with many observers making the same damning assessment of the Springboks’ performance.\n\nDespite dominating at scrum time and leading 13-12 at the break, the hosts unravelled in the second half as New Zealand ran in five tries to one to seize a 1-0 lead in the Rugby’s Greatest Rivalry series.",
-        "first_seen": "2026-08-22T18:26:09.560716+00:00"
       }
     ],
     "Tennis": [
@@ -4141,6 +4128,45 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "At FM Championship, 1 major Solheim Cup question emerged",
+        "link": "https://golf.com/news/solheim-cup-question-fm-championship/",
+        "published": "2026-08-29T19:18:52+00:00",
+        "published_label": "Sat 29 Aug, 19:18",
+        "summary": "Angel Yin returned to competition for the first time in two months at the FM Championship and brought a big Solheim Cup question with her. The post At FM Championship, 1 major Solheim Cup question emerged appeared first on Golf .",
+        "body": "FM Championship week began with U.S. captain Angela Stanford selecting Rose Zhang, Megan Khang and Lindy Duncan as the final three members of her team to travel to the Netherlands in two weeks. But while Stanford’s roster was technically completed on Monday, one big question remained.\n\nOne that took center stage during the first two days of the FM Championship at TPC Boston. Angel Yin, who made the U.S. Solheim Cup team on points, withdrew from the third round of the KPMG Women’s PGA Championship in June and hasn’t played since. Yin told Golfweek’s Beth Ann Nichols that she had stomach and gastrointestinal problems that caused her to lose 35 pounds. After two months away from competitive golf, Yin returned this week at the FM Championship for a trial run to see how her game feels and if she believes she’s fit to play in the Netherlands.",
+        "copy": "FM Championship week began with U.S. captain Angela Stanford selecting Rose Zhang, Megan Khang and Lindy Duncan as the final three members of her team to travel to the Netherlands in two weeks. But while Stanford’s roster was technically completed on Monday, one big question remained.\n\nOne that took center stage during the first two days of the FM Championship at TPC Boston. Angel Yin, who made the U.S. Solheim Cup team on points, withdrew from the third round of the KPMG Women’s PGA Championship in June and hasn’t played since. Yin told Golfweek’s Beth Ann Nichols that she had stomach and gastrointestinal problems that caused her to lose 35 pounds. After two months away from competitive golf, Yin returned this week at the FM Championship for a trial run to see how her game feels and if she believes she’s fit to play in the Netherlands.",
+        "first_seen": "2026-08-29T20:22:59.991581+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Maguire fires superb 63 as Alexander leads by three",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cq63297y624o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-29T18:15:19+00:00",
+        "published_label": "Sat 29 Aug, 18:15",
+        "summary": "Ireland's Leona Maguire fires a superb nine-under-par 63 at the Women's Irish Open at the K Club in County Kildare as Casandra Alexander leads by three going into Sunday's final round.",
+        "body": "Ireland's Leona Maguire delighted the home crowd by shooting a superb nine-under-par 63 on day three of the Women's Irish Open at the K Club to sit seven shots behind leader Casandra Alexander.\n\nMaguire birdied nine of the first 15 holes in a bogey-free round to lie in a tie for sixth position on 11 under. Her birdie putt on the 18th for a 62 lipped out but the Cavan native will be happy to have returned to her best form after two opening rounds of 71.",
+        "copy": "Ireland's Leona Maguire delighted the home crowd by shooting a superb nine-under-par 63 on day three of the Women's Irish Open at the K Club to sit seven shots behind leader Casandra Alexander.\n\nMaguire birdied nine of the first 15 holes in a bogey-free round to lie in a tie for sixth position on 11 under. Her birdie putt on the 18th for a 62 lipped out but the Cavan native will be happy to have returned to her best form after two opening rounds of 71.",
+        "first_seen": "2026-08-29T20:22:59.991581+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf announces mass layoffs following PIF exit",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wQml2YnRDemRKeWRKT1JyYWhRMU1FQm52NzRRZVl0ZmZENGU5bG1LZ2FiQ3VxcHUtMU9lM056VXprUDVXLTZjTVFKeFY1ek1BQ0hLajBURTdWZVdYQkIwZHUyWkZMdjJYQ2dDUi16STdGMlJFekdB?oc=5",
+        "published": "2026-08-29T17:25:13+00:00",
+        "published_label": "Sat 29 Aug, 17:25",
+        "summary": "LIV Golf announces mass layoffs following PIF exit Arabian Business",
+        "body": "Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry. Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.",
+        "copy": "Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry. Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.",
+        "first_seen": "2026-08-29T20:22:59.991581+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "HSBC golf watch",
         "kind": "gnews",
         "title": "Tom McKibbin reveals how long he has left on LIV Golf contract",
@@ -4177,6 +4203,19 @@
         "body": "Henrik Stenson says he has \"no answers\" for what comes next in the elite men's game after the upheaval caused by LIV Golf but will be watching the sport's next chapter \"like everyone else\".\n\nThe Swede was among the first wave of players to be recruited by the breakaway tour in 2022, and his decision to join Ian Poulter and Lee Westwood in the Majesticks quartet cost him the European Ryder Cup captaincy.",
         "copy": "Henrik Stenson says he has \"no answers\" for what comes next in the elite men's game after the upheaval caused by LIV Golf but will be watching the sport's next chapter \"like everyone else\".\n\nThe Swede was among the first wave of players to be recruited by the breakaway tour in 2022, and his decision to join Ian Poulter and Lee Westwood in the Majesticks quartet cost him the European Ryder Cup captaincy.",
         "first_seen": "2026-08-29T17:35:11.029546+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf star Tom McKibbin expects breakaway tour to continue next season",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR05MNDlEOW1aNUhLdGJtbV8zenRlZEF6amNuWE5JZi1TWjVpTzlEaGRQd1JWRzdOTzlJTG9DQ0FrZjZlOGF1WTI1RkRCMnMtTzliYUlNWDQ3YU5BX01lOVZTQzUtRjNWcWxNclhkdXhRdFRXc0pJem1Cd0U5SW5pYTZMQVVtbnlFNzEzMW4yQVZwVzNzNk1QTlJGdE85NWw3R2xDR2VZVnlHYk53MHc?oc=5",
+        "published": "2026-08-29T14:46:44+00:00",
+        "published_label": "Sat 29 Aug, 14:46",
+        "summary": "LIV Golf star Tom McKibbin expects breakaway tour to continue next season dailyclubgolf.com",
+        "body": "Despite uncertainty around LIV's future, LIV golfer Tom McKibbin has years remaining on his contract. The Northern Irishman is expecting the rebel tour to continue beyond 2026.\n\nThe PIF’s withdrawal has left LIV golfers questioning the breakaway tour’s future. However, McKibbin looks to respect his contract and continue on the rebel tour. \"There are obviously a lot of things to figure out, and I know they are definitely trying their hardest,\" he said. \"As far as I am concerned, I've got a couple of years left.”",
+        "copy": "Despite uncertainty around LIV's future, LIV golfer Tom McKibbin has years remaining on his contract. The Northern Irishman is expecting the rebel tour to continue beyond 2026.\n\nThe PIF’s withdrawal has left LIV golfers questioning the breakaway tour’s future. However, McKibbin looks to respect his contract and continue on the rebel tour. \"There are obviously a lot of things to figure out, and I know they are definitely trying their hardest,\" he said. \"As far as I am concerned, I've got a couple of years left.”",
+        "first_seen": "2026-08-29T20:22:59.991581+00:00"
       },
       {
         "section": "Golf",
@@ -6439,32 +6478,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-23T14:21:34.772105+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "‘I’ve come to grips with I’ll be OK’: Popular pro opens up ... on the end",
-        "link": "https://golf.com/news/ive-come-to-grips-popular-pro-end/",
-        "published": "2026-08-22T19:44:52+00:00",
-        "published_label": "Sat 22 Aug, 19:44",
-        "summary": "Popular pro Harry Higgs opened up on the end at the AdventHealth Championship. “I’ve come to grips with I’ll be OK,” he said. The post ‘I’ve come to grips with I’ll be OK’: Popular pro opens up … on the end appeared first on Golf .",
-        "body": "And for two minutes on Friday. Harry Higgs talked. It’s been that kind of season for the popular pro. And that kind of career. He’s mostly struggled this year while dividing his time between the PGA Tour (three cuts made in 11 events) and the circuit below it, the Korn Ferry Tour (five cuts made in 11 events). And he’ll likely finish his 12th year as a playing pro without a PGA Tour victory.\n\nThen again, he’ll complete a dozen years. Along the way, he’s cashed $5.7 million in PGA Tour checks. He’s played in major championships. Competed in ’em, too; this year, he was tied for seventh after two rounds at the U.S. Open.",
-        "copy": "And for two minutes on Friday. Harry Higgs talked. It’s been that kind of season for the popular pro. And that kind of career. He’s mostly struggled this year while dividing his time between the PGA Tour (three cuts made in 11 events) and the circuit below it, the Korn Ferry Tour (five cuts made in 11 events). And he’ll likely finish his 12th year as a playing pro without a PGA Tour victory.\n\nThen again, he’ll complete a dozen years. Along the way, he’s cashed $5.7 million in PGA Tour checks. He’s played in major championships. Competed in ’em, too; this year, he was tied for seventh after two rounds at the U.S. Open.",
-        "first_seen": "2026-08-23T06:36:50.000105+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "I already loved True's Antigravity golf shoe. Now the new ones are my go-to",
-        "link": "https://golf.com/gear/shoes/trues-antigravity-pro-golf-shoe-review/",
-        "published": "2026-08-22T18:45:20+00:00",
-        "published_label": "Sat 22 Aug, 18:45",
-        "summary": "After falling in love with True Linkswear's Antigravity Golf Shoe, the upgraded Antigravity Pro is now the only shoe I wear in competition. The post I already loved True’s Antigravity golf shoe. Now the new ones are my go-to appeared first on Golf .",
-        "body": "True Linkswear’s Antigravity might be my favorite line of golf shoes released in the last few years, but now it’s become a whole collection. And every time I’ve played golf in competition this season, I’ve done it wearing the Antigravity Pro golf shoe.\n\nThe Antigravity Pro was added in three colorways to the Antigravity lineup earlier this summer and it solved my only real drawback of wearing the original Antigravity. If you want to see everything I loved about the original Antigravity golf shoes, check out my review here. The Antigravity Pros have all the same benefits with a few key upgrades.",
-        "copy": "True Linkswear’s Antigravity might be my favorite line of golf shoes released in the last few years, but now it’s become a whole collection. And every time I’ve played golf in competition this season, I’ve done it wearing the Antigravity Pro golf shoe.\n\nThe Antigravity Pro was added in three colorways to the Antigravity lineup earlier this summer and it solved my only real drawback of wearing the original Antigravity. If you want to see everything I loved about the original Antigravity golf shoes, check out my review here. The Antigravity Pros have all the same benefits with a few key upgrades.",
-        "first_seen": "2026-08-23T06:36:50.000105+00:00"
       }
     ],
     "Badminton": [
@@ -7200,5 +7213,5 @@
       }
     ]
   },
-  "total": 552
+  "total": 553
 }
