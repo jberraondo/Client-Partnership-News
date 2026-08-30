@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T16:00:31.054694+00:00",
-  "generated_label": "Sunday 30 August 2026, 16:00 UTC",
+  "generated_at": "2026-08-30T19:11:33.428771+00:00",
+  "generated_label": "Sunday 30 August 2026, 19:11 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -102,6 +102,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-30T11:12:31.109963+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Claridge’s operator bets on US and UK visitors to offset Middle East",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWV5LUstZEtzTHBGLXJvNDVGa3VwdU1zamdyb1JNX282SkZMV0xEWV9CcmFMYjZkcy04ZUhEdnJqNEhWSllSOHZIQkM0MmpDY1JoNXY2aGI3ajZPR1dSQklpVjdzLWg2T3JhY1NYU1N1RXlSX2VpZjJIb0VldTZHWEs2QjE?oc=5",
+        "published": "2026-08-30T04:01:57+00:00",
+        "published_label": "Sun 30 Aug, 04:01",
+        "summary": "Claridge’s operator bets on US and UK visitors to offset Middle East Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-30T19:11:33.428771+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -3645,6 +3658,32 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbjhfS1NnOEYweHdrZ3I1TEhGU2owS3Y2LVh6YW9KUXlKV0Jxd0p2dk1HazNxdmxmamlYcmhrRVc1U2tnZEdMUTlNN0NxQUtNQ1pVRjRSMkFkMWdBSHFXNW16YmkxQmV2MmpzOVFXRy1kR2tJd0hTcUhtZw?oc=5",
+        "published": "2026-08-30T14:55:08+00:00",
+        "published_label": "Sun 30 Aug, 14:55",
+        "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-30T19:11:33.428771+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "US Open LIVE! Scores, updates, news, commentary and results from Flushing Meadows, New York",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc1EweFZ5QkFaQ2RHdEpsOG1aYUgwa2RBaVBZVXRpS0JMMDVTam9CMjMyaXY3TWVtbDVPbXFxX2dPU0Q2RC1YcUxiZkhsRWxxb2pUdVNiNGxoczFSYVF3SkNhSEp5dnJtbkg5UUpBVEVweTliMDR0bW5wMk96WUFhczhzLUFHX3JDNGlzRlJFWGlXVThqZGl1aUtReWNiTjdYU0xCcE1BTzJyU3k5RnBSdHk0RmU4M2NLVjdneEdYWG5fdF9JbW50YW1PeER1UWl4dmw4SjgzanlsRUtf?oc=5",
+        "published": "2026-08-30T14:05:40+00:00",
+        "published_label": "Sun 30 Aug, 14:05",
+        "summary": "US Open LIVE! Scores, updates, news, commentary and results from Flushing Meadows, New York Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-30T19:11:33.428771+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "List of Players Missing at US Open 2026, Featuring Jannik Sinner, Emma Raducanu, Victoria Mboko",
@@ -4451,6 +4490,45 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "The PGA Tour are making changes which will finally solve a problem created by LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOalNtMFRRdDFjUTFMM1Bqdld1RDZ2SGFiVUFYcktPbkJGakxySE90X3hEQmNLZU12LTB2ejNUd3JEcVBJTTNBSHBYZTduV25kTHAzQm02dTZCOWRpa0J3ZzQxWk1SOVFyWVRUR1ZINXB5dzZPel83T05FY3ljaXUyMWozMXd3bUVMS0xocG1zUjBob1hBbGVST2RMelctQi1lNkU4eFNjXzVELXp5?oc=5",
+        "published": "2026-08-30T17:00:00+00:00",
+        "published_label": "Sun 30 Aug, 17:00",
+        "summary": "The PGA Tour are making changes which will finally solve a problem created by LIV Golf hitc.com",
+        "body": "The decision from the PGA Tour to turn the Tour Championship into a matchplay event from 2028 appears to have gone down extremely well among most golf fans. There is no question at all that the FedEx Cup playoffs will be looked back upon as one of the biggest missed opportunities in the history of the PGA Tour in years to come.\n\nWhat are your thoughts on the Tour Championship changing to match-play in 2028? But big changes are coming in 2028, with the Tour Championship winner set to be decided across two weeks of matchplay competition.",
+        "copy": "The decision from the PGA Tour to turn the Tour Championship into a matchplay event from 2028 appears to have gone down extremely well among most golf fans. There is no question at all that the FedEx Cup playoffs will be looked back upon as one of the biggest missed opportunities in the history of the PGA Tour in years to come.\n\nWhat are your thoughts on the Tour Championship changing to match-play in 2028? But big changes are coming in 2028, with the Tour Championship winner set to be decided across two weeks of matchplay competition.",
+        "first_seen": "2026-08-30T19:11:33.428771+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Maguire falls short as Alexander wins Irish Open",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c3eq3q8de52o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-30T16:43:13+00:00",
+        "published_label": "Sun 30 Aug, 16:43",
+        "summary": "Leona Maguire's fightback at her home event fell short as South Africa's Casandra Alexander won the Irish Open at the K Club.",
+        "body": "Leona Maguire's fightback at her home event fell short as Casandra Alexander won the Irish Open at the K Club. Maguire's stunning round of 63 on Saturday had put her in touch of overnight leader Alexander, but the South African had enough in hand to hold off the chasing pack.\n\nAlexander won by three shots ahead of Sara Kouskova of the Czech Republic, while Maguire ended the tournament tied for fifth, five shots off the winning score of 20 under par.",
+        "copy": "Leona Maguire's fightback at her home event fell short as Casandra Alexander won the Irish Open at the K Club. Maguire's stunning round of 63 on Saturday had put her in touch of overnight leader Alexander, but the South African had enough in hand to hold off the chasing pack.\n\nAlexander won by three shots ahead of Sara Kouskova of the Czech Republic, while Maguire ended the tournament tied for fifth, five shots off the winning score of 20 under par.",
+        "first_seen": "2026-08-30T19:11:33.428771+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The Walker Cup and Curtis Cup will be forever protected thanks to these generous donors",
+        "link": "https://golf.com/news/features/walker-cup-curtis-cup-protected-generous-donors/",
+        "published": "2026-08-30T16:01:27+00:00",
+        "published_label": "Sun 30 Aug, 16:01",
+        "summary": "In 2023, the USGA launched the 'Keepers of the Cup' — a fundraising initiative to secure the Walker and Curtis Cups’ futures in perpetuity. The post The Walker Cup and Curtis Cup will be forever protected thanks to these generous donors appeared first on Golf .",
+        "body": "This content was first published in Golf Journal, a quarterly print publication exclusively for USGA Members. To be among the first to receive Golf Journal and to learn how you can ensure a strong future for the game, become a USGA Member today!\n\nOver the course of the histories of the Walker Cup and Curtis Cup Matches – biennial team events founded in 1922 and 1932, respectively – there are countless moments and triumphs that evoke the special nature of each event. But there’s one in particular that comes to mind for 77-year-old Carol Semple Thompson, whose illustrious amateur career includes a staggering 122 USGA championship starts.",
+        "copy": "This content was first published in Golf Journal, a quarterly print publication exclusively for USGA Members. To be among the first to receive Golf Journal and to learn how you can ensure a strong future for the game, become a USGA Member today!\n\nOver the course of the histories of the Walker Cup and Curtis Cup Matches – biennial team events founded in 1922 and 1932, respectively – there are countless moments and triumphs that evoke the special nature of each event. But there’s one in particular that comes to mind for 77-year-old Carol Semple Thompson, whose illustrious amateur career includes a staggering 122 USGA championship starts.",
+        "first_seen": "2026-08-30T19:11:33.428771+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -6712,84 +6790,6 @@
         "body": "LIV Golf pro Harold Varner III has responded with his side of the story following an Indiana public golf course’s social media post detailing why it removed Varner and his playing partners from the course on Tuesday.\n\nThe course, Bear Slide Golf Club, is in Cicero, Ind., 10 miles from The Club at Chatham Hills, site of this week’s season-ending LIV event. According to the course’s Facebook post, Varner and his group arrived late, insisted they should be allowed to play as a six-some, later combined groups anyway, were told to leave the course and were refunded their money.",
         "copy": "LIV Golf pro Harold Varner III has responded with his side of the story following an Indiana public golf course’s social media post detailing why it removed Varner and his playing partners from the course on Tuesday.\n\nThe course, Bear Slide Golf Club, is in Cicero, Ind., 10 miles from The Club at Chatham Hills, site of this week’s season-ending LIV event. According to the course’s Facebook post, Varner and his group arrived late, insisted they should be allowed to play as a six-some, later combined groups anyway, were told to leave the course and were refunded their money.",
         "first_seen": "2026-08-24T06:52:47.918495+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Will LIV Golf survive its massive financial crisis? | D'Angelo",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWpPc1pURzNUSEpzcWtReERqOEdOOXhISkZXYmp5M0s3anRPaHhqX3ZXTVJGbjZFbmtJaFlZYUZSOFcxMlNmcWpYclkyUFdSRC1lLVpWN2I1UzkzU0ZDa0dhU0dUZjdPNkpVa0V5cGM0Q2Q3SUNmclBmS3FTMGVRbldNVE1rQXNmUWw2Vjl1TzhScGthNnRxQ29xa2gxZ1lJelFlZWIwY1JfODVMU3UyeVQ1a096Y3ZLN1hoUw?oc=5",
-        "published": "2026-08-23T18:20:00+00:00",
-        "published_label": "Sun 23 Aug, 18:20",
-        "summary": "Will LIV Golf survive its massive financial crisis? | D'Angelo The Palm Beach Post",
-        "body": "Will LIV Golf survive its massive financial crisis? | D'Angelo - The LIV Golf league, backed by Saudi Arabia's public wealth fund, is facing an uncertain future after concluding its 2026 season.\n\n- Several top players, including Jon Rahm, are expected to leave the league, while others Bryson DeChambeau hopes for new investors. - LIV Golf is facing lawsuits for unpaid bills to vendors and has reportedly been late paying some of its players.",
-        "copy": "Will LIV Golf survive its massive financial crisis? | D'Angelo - The LIV Golf league, backed by Saudi Arabia's public wealth fund, is facing an uncertain future after concluding its 2026 season.\n\n- Several top players, including Jon Rahm, are expected to leave the league, while others Bryson DeChambeau hopes for new investors. - LIV Golf is facing lawsuits for unpaid bills to vendors and has reportedly been late paying some of its players.",
-        "first_seen": "2026-08-23T18:28:14.972850+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf Indianapolis Prize Money Payout 2026",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFJ6a2ZRTTh4ZElMWjg4Y0dEZy1UZWg2YUYwaFk2VVBBcEZ1TUlIbkx1UDZpLW1hR1pocy1sU0NsMTJtWjJuMHJJSUIzNUljNUwxWlZtZXptRW42OXBFMkNXOUpDM3p3cTEyRkxaaEdjWjFBdHUzcG1Xa3pRT0xUZHUzc3k?oc=5",
-        "published": "2026-08-23T18:00:00+00:00",
-        "published_label": "Sun 23 Aug, 18:00",
-        "summary": "LIV Golf Indianapolis Prize Money Payout 2026 Golf Monthly",
-        "body": "Following months of speculation as to when and how the LIV Golf season would conclude, we now know - it's not with the originally scheduled Team Championship, but in Indianapolis.\n\nThat's because, earlier in the year, the Saudi Public Investment Fund confirmed it was ending its backing of the circuit, throwing its future into uncertainty. There is some room for optimism, with CEO Scott O'Neil recently confirming a lead investor was on board in a bid to ensure it continues beyond 2027.",
-        "copy": "Following months of speculation as to when and how the LIV Golf season would conclude, we now know - it's not with the originally scheduled Team Championship, but in Indianapolis.\n\nThat's because, earlier in the year, the Saudi Public Investment Fund confirmed it was ending its backing of the circuit, throwing its future into uncertainty. There is some room for optimism, with CEO Scott O'Neil recently confirming a lead investor was on board in a bid to ensure it continues beyond 2027.",
-        "first_seen": "2026-08-23T18:28:14.972850+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Why you shouldn't care about this common wedge characteristic | Fully Equipped",
-        "link": "https://golf.com/gear/wedges/best-ways-to-pick-the-right-wedge/",
-        "published": "2026-08-23T17:18:05+00:00",
-        "published_label": "Sun 23 Aug, 17:18",
-        "summary": "On this week's episode of GOLF's Fully Equipped, Jake Morrow explains why he doesn't look at the wedge's bounce number anymore. The post Why you shouldn’t care about this common wedge characteristic | Fully Equipped appeared first on Golf .",
-        "body": "When it comes to picking the right wedge, there are an awful lot of factors to consider, and there might be a few different options that work for your game. From shape to bounce to grind to loft to shaft to offset, the list goes on and on.\n\nOn this week’s episode of GOLF’s Fully Equipped, co-host Jake Morrow explained one common wedge characterisitc that he’s actually no longer looking at when he’s picking his wedges.",
-        "copy": "When it comes to picking the right wedge, there are an awful lot of factors to consider, and there might be a few different options that work for your game. From shape to bounce to grind to loft to shaft to offset, the list goes on and on.\n\nOn this week’s episode of GOLF’s Fully Equipped, co-host Jake Morrow explained one common wedge characterisitc that he’s actually no longer looking at when he’s picking his wedges.",
-        "first_seen": "2026-08-23T18:28:14.972850+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Sounds like he was watching' - Jamieson takes Trump call after ending 14-year title wait",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-23T16:57:39+00:00",
-        "published_label": "Sun 23 Aug, 16:57",
-        "summary": "Scott Jamieson shoots a final round of 67 at the Nexo Championship to end his 14-year drought and earn a video call with President Donald Trump.",
-        "body": "Earning a first DP World Tour win in 14 years - and effectively saving his job by doing so - would be enough to disturb the composure of most golfers. But as Scott Jamieson tried to come to terms with ending his drought at the Nexo Championship in Aberdeenshire, the 42-year-old Scot found himself speaking to President Donald Trump on a video call.\n\nIt has become tradition that the United States president contacts the winner at Trump International Golf Links in the immediate aftermath of their success. And Glaswegian Jamieson was the bewildered recipient of the call this time, following compatriot Grant Forrest last year.",
-        "copy": "Earning a first DP World Tour win in 14 years - and effectively saving his job by doing so - would be enough to disturb the composure of most golfers. But as Scott Jamieson tried to come to terms with ending his drought at the Nexo Championship in Aberdeenshire, the 42-year-old Scot found himself speaking to President Donald Trump on a video call.\n\nIt has become tradition that the United States president contacts the winner at Trump International Golf Links in the immediate aftermath of their success. And Glaswegian Jamieson was the bewildered recipient of the call this time, following compatriot Grant Forrest last year.",
-        "first_seen": "2026-08-23T16:21:53.690560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Bizarre rules situation sees DP World Tour pro penalized … for divot kick",
-        "link": "https://golf.com/news/bizarre-rules-dp-world-tour-pro-divot-kick/",
-        "published": "2026-08-23T16:48:45+00:00",
-        "published_label": "Sun 23 Aug, 16:48",
-        "summary": "A bizarre rules situation sees pro Shaun Norris penalized at the DP World Tour’s Nexo Championship for a divot kick. The post Bizarre rules situation sees DP World Tour pro penalized … for divot kick appeared first on Golf .",
-        "body": "Shaun Norris’ right-foot strike, to Norris’ credit, looked pure. Unfortunately for him, he was playing golf, not soccer. The kick, along with the bizarre rules situation that followed, came during Sunday’s final round of the DP World Tour’s Nexo Championship, while Norris readied to play his second shot on the 382-yard, par-4 5th hole at Trump International Golf Links in Aberdeenshire, Scotland. There, while tied for the lead, Norris approached his ball in the fairway, then after a few seconds, took two steps backward.\n\nThat was a no-no under rule 8.1a (3) of the rules of golf, and about an hour later, Norris’ four on the hole was changed to a six. The rule addresses playing the course as you find it, and one action that is not allowed is “removing or pressing down divots that have already been replaced or other cut turf that is already in place.”",
-        "copy": "Shaun Norris’ right-foot strike, to Norris’ credit, looked pure. Unfortunately for him, he was playing golf, not soccer. The kick, along with the bizarre rules situation that followed, came during Sunday’s final round of the DP World Tour’s Nexo Championship, while Norris readied to play his second shot on the 382-yard, par-4 5th hole at Trump International Golf Links in Aberdeenshire, Scotland. There, while tied for the lead, Norris approached his ball in the fairway, then after a few seconds, took two steps backward.\n\nThat was a no-no under rule 8.1a (3) of the rules of golf, and about an hour later, Norris’ four on the hole was changed to a six. The rule addresses playing the course as you find it, and one action that is not allowed is “removing or pressing down divots that have already been replaced or other cut turf that is already in place.”",
-        "first_seen": "2026-08-23T18:28:14.972850+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bubba Watson confronts spectator after fan disrupts Lee Westwood’s shot at LIV Golf Indianapolis",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0JQSmx1elBjak0tcGIyd2s0dl9reTRsaUZpSDlHbG5kd0k3T1YwYTVmaXVUZURwVnRLb2VJZWdXS3VWcHBYWVdBa3AyVnJiejZ5SmQ0TXRSVV9wcW9JM3hSQmlhYWtFd2ZENEZ6b0ZzckRnTEEzRXJvREFNSENpVEVoTEVvYjIwQkZaRmZ2QzNoZnM3QkNRS1g4MjdDYWZERmVvSlozZEFRVEo4SnB6SnUwV3QzdENMS1k4?oc=5",
-        "published": "2026-08-23T16:25:28+00:00",
-        "published_label": "Sun 23 Aug, 16:25",
-        "summary": "Bubba Watson confronts spectator after fan disrupts Lee Westwood’s shot at LIV Golf Indianapolis Golfmagic",
-        "body": "Bubba Watson confronted a spectator at LIV Golf Indianapolis after a fan shouted towards his playing partner Lee Westwood as the Englishman prepared to hit a shot from the fairway.\n\nWatson, Westwood and Bryson DeChambeau were playing together in the third round at The Club at Chatham Hills when a rowdy spectator loudly shouted: “Go Bryson, Bryson!” Westwood subsequently backed away from his shot and turned towards the fan.",
-        "copy": "Bubba Watson confronted a spectator at LIV Golf Indianapolis after a fan shouted towards his playing partner Lee Westwood as the Englishman prepared to hit a shot from the fairway.\n\nWatson, Westwood and Bryson DeChambeau were playing together in the third round at The Club at Chatham Hills when a rowdy spectator loudly shouted: “Go Bryson, Bryson!” Westwood subsequently backed away from his shot and turned towards the fan.",
-        "first_seen": "2026-08-23T18:28:14.972850+00:00"
       }
     ],
     "Badminton": [
