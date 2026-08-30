@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T11:12:31.109963+00:00",
-  "generated_label": "Sunday 30 August 2026, 11:12 UTC",
+  "generated_at": "2026-08-30T13:05:53.032224+00:00",
+  "generated_label": "Sunday 30 August 2026, 13:05 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -14,6 +14,19 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "Uganda 7s target HSBC SVNS 2 qualification after stern Driftwood 7s test",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQejlfOHpFTDlieVZ6cV9tOWxiYW55OFZ3NWJ4U1NNN1hFUzJtX0JMdnVFMmU1SmNqb2o0cnlGbnp5cXJRODNiNGZsSGFoRkhDcmdYaG5EUDVTVkkwZE1vM3ZIdjVtX1JEM3pBU1BNM0RYSjR0V0xTV2I0azlvYVUxM3JOTnBaVVE3RWxxaVhyVF9kSVJKbjJLblFLSlIyUkVhZEY0bWhFazgwRWVyRDNyX3gteklhdHNITEFTYw?oc=5",
+        "published": "2026-08-30T12:10:44+00:00",
+        "published_label": "Sun 30 Aug, 12:10",
+        "summary": "Uganda 7s target HSBC SVNS 2 qualification after stern Driftwood 7s test Mozzart Sport Kenya",
+        "body": "Reading Time: 4min | Sun. 30.08.26. | 14:53 Uganda 7s used the Driftwood 7s in Mombasa as a crucial test of their readiness for the World Rugby HSBC SVNS Division 3 Africa Qualifiers.\n\nThe Cranes walked away from the tournament with four wins from six matches. The Ugandans, who will host the qualifiers in Kampala from Saturday, 26 to Sunday, 27 September, fielded a relatively strong squad in Mombasa as part of their preparations for the crucial tournament.",
+        "copy": "Reading Time: 4min | Sun. 30.08.26. | 14:53 Uganda 7s used the Driftwood 7s in Mombasa as a crucial test of their readiness for the World Rugby HSBC SVNS Division 3 Africa Qualifiers.\n\nThe Cranes walked away from the tournament with four wins from six matches. The Ugandans, who will host the qualifiers in Kampala from Saturday, 26 to Sunday, 27 September, fielded a relatively strong squad in Mombasa as part of their preparations for the crucial tournament.",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
         "title": "‘New York loves Canada’: US cities want their Canadian tourists back",
@@ -24,6 +37,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-30T11:12:31.109963+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Nepal rescue effort intensifies as death toll passes 700",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDBPRExZeGRfaGplWFhJNTlFNEg2VWhOdUNvdkZzMmxVaUZMRE9WeHFXN3BuV1hOUE40M0ltQjJLWFZBYjJReFRLbjFaSDdfX3NHb2o4UTNudEZOazVRWUM2Vnd2dlVNYmczT2xHcElSUVZxaThZV1RUUmMzaUZLc1RUdFE?oc=5",
+        "published": "2026-08-30T09:25:45+00:00",
+        "published_label": "Sun 30 Aug, 09:25",
+        "summary": "Nepal rescue effort intensifies as death toll passes 700 Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1587,6 +1613,45 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Jason Ryan: All Blacks selectors feeling RGR pinch ahead of third Test",
+        "link": "https://www.rugbypass.com/news/jason-ryan-all-blacks-selectors-starting-to-feel-rgr-pinch/",
+        "published": "2026-08-30T12:34:32+00:00",
+        "published_label": "Sun 30 Aug, 12:34",
+        "summary": "The long nature of the Rugby's Greatest Rivalry tour is starting to become a factor after two demanding Test matches in Johannesburg and Cape Town, with All Blacks coaches pondering selection changes for the third Test of the series.",
+        "body": "The marathon-like nature of the Greatest Rivalry tour is starting to take its toll after two demanding Test matches in Johannesburg and Cape Town, with All Blacks coaches pondering selection changes for the third Test of the series.\n\n160 tense minutes of rugby against South Africa in consecutive weeks is inevitably taxing, and while New Zealand came through their latest run, a 33-26 loss at DHL Stadium, unscathed on the injury front, word from inside the camp is that they see value in bringing fresh bodies in for the next contest.",
+        "copy": "The marathon-like nature of the Greatest Rivalry tour is starting to take its toll after two demanding Test matches in Johannesburg and Cape Town, with All Blacks coaches pondering selection changes for the third Test of the series.\n\n160 tense minutes of rugby against South Africa in consecutive weeks is inevitably taxing, and while New Zealand came through their latest run, a 33-26 loss at DHL Stadium, unscathed on the injury front, word from inside the camp is that they see value in bringing fresh bodies in for the next contest.",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "SANZAAR team of the week: Springboks lead combined XV",
+        "link": "https://www.rugbypass.com/news/sanzaar-team-of-the-week-springboks-lead-combined-xv/",
+        "published": "2026-08-30T11:39:58+00:00",
+        "published_label": "Sun 30 Aug, 11:39",
+        "summary": "Test Rugby at it's finest. Test two of Rugby's Greatest Rivalry series and the opening exchange in the Flight Centre series between Argentina and Australia offered a contrasting set of fixtures.",
+        "body": "Test rugby at its finest. That is what rugby fans were treated to on Saturday’s bumper back-to-back set of contrasting Southern Hemisphere series. In Cape Town, Rassie Erasmus’s world champions held the All Blacks at arm’s length without ever looking entirely home and dry to level Rugby’s Greatest Rivalry Series at one a piece. To their credit, Dave Rennie’s side all but nullified the Springbok set-piece, despite ultimately falling short of landing what would have been a near-knockout blow in the series.\n\nThe legality of the Springbok scrum dominated the post-match exchanges between the two coaches, with Rennie’s pre-match messaging appearing to filter through to the officials.",
+        "copy": "Test rugby at its finest. That is what rugby fans were treated to on Saturday’s bumper back-to-back set of contrasting Southern Hemisphere series. In Cape Town, Rassie Erasmus’s world champions held the All Blacks at arm’s length without ever looking entirely home and dry to level Rugby’s Greatest Rivalry Series at one a piece. To their credit, Dave Rennie’s side all but nullified the Springbok set-piece, despite ultimately falling short of landing what would have been a near-knockout blow in the series.\n\nThe legality of the Springbok scrum dominated the post-match exchanges between the two coaches, with Rennie’s pre-match messaging appearing to filter through to the officials.",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Fissler Confidential: European giants target Bok prop Ntuthuko Mchunu",
+        "link": "https://www.rugbypass.com/news/fissler-confidential-european-giants-target-bok-prop/",
+        "published": "2026-08-30T11:07:38+00:00",
+        "published_label": "Sun 30 Aug, 11:07",
+        "summary": "Stormers loosehead Ntuthuko Mchunu is the latest player to be linked with a move to Bordeaux Bègles, who are keen on bolstering their front row resources.",
+        "body": "Stormers loosehead Ntuthuko Mchunu is the latest player to be linked with a move to Bordeaux Bègles, who are keen on bolstering their front row resources. Mchunu, 27, who started his career with the Sharks in Durban, became Steven Kitshoff’s replacement in Cape Town. The Springbok cap, who returned to the national team this summer, has always had admirers in the Top 14.\n\nBordeaux have compiled a list of possible signings for next summer, including Bath and England prop Beno Obano, whom they spoke to and showed around their training facilities last week.",
+        "copy": "Stormers loosehead Ntuthuko Mchunu is the latest player to be linked with a move to Bordeaux Bègles, who are keen on bolstering their front row resources. Mchunu, 27, who started his career with the Sharks in Durban, became Steven Kitshoff’s replacement in Cape Town. The Springbok cap, who returned to the national team this summer, has always had admirers in the Top 14.\n\nBordeaux have compiled a list of possible signings for next summer, including Bath and England prop Beno Obano, whom they spoke to and showed around their training facilities last week.",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3554,6 +3619,19 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Tearful Federer inducted into Hall of Fame",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cvgy6zzgwlgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-30T11:20:37+00:00",
+        "published_label": "Sun 30 Aug, 11:20",
+        "summary": "Roger Federer says being inducted into the International Tennis Hall of Fame is \"one of the greatest honours\" of his life.",
+        "body": "Roger Federer has been inducted into the International Tennis Hall of Fame, describing the moment as \"one of the greatest honours\" of his life. The 20-time Grand Slam singles champion, who retired in 2022, was tearful at the ceremony in Newport, Rhode Island, as he reflected on his glittering career in front of tennis greats including Billie Jean King and John McEnroe.\n\nAfter make his debut in 1998 at the age of 16, Federer won a men's-record eight Wimbledon titles, six Australian Open crowns, five US Opens and one French Open. \"This is one of the greatest honours of my life,\" Federer, 45, said.",
+        "copy": "Roger Federer has been inducted into the International Tennis Hall of Fame, describing the moment as \"one of the greatest honours\" of his life. The 20-time Grand Slam singles champion, who retired in 2022, was tearful at the ceremony in Newport, Rhode Island, as he reflected on his glittering career in front of tennis greats including Billie Jean King and John McEnroe.\n\nAfter make his debut in 1998 at the age of 16, Federer won a men's-record eight Wimbledon titles, six Australian Open crowns, five US Opens and one French Open. \"This is one of the greatest honours of my life,\" Federer, 45, said.",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
         "title": "The Sky Sports Tennis panel pick their winners and dark horses ahead of the final Grand Slam of 2026 at the US Open.",
@@ -3564,6 +3642,19 @@
         "body": "US Open predictions: Carlos Alcaraz and Coco Gauff? The Sky Sports Tennis panel pick their winners and dark horses ahead of the Grand Slam in New York Who are the winners and dark horses for this year's US Open at Flushing Meadows? watch the final Grand Slam of 2026 from Sunday at 3pm live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app\n\nThe Sky Sports Tennis panel pick their winners and dark horses ahead of the final Grand Slam of 2026 at the US Open. Tim Henman, Laura Robson, Ryan Harrison, Naomi Broady and Martina Navratilova are just some of the names who have picked their winners for this year's final Grand Slam of the year.",
         "copy": "US Open predictions: Carlos Alcaraz and Coco Gauff? The Sky Sports Tennis panel pick their winners and dark horses ahead of the Grand Slam in New York Who are the winners and dark horses for this year's US Open at Flushing Meadows? watch the final Grand Slam of 2026 from Sunday at 3pm live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app\n\nThe Sky Sports Tennis panel pick their winners and dark horses ahead of the final Grand Slam of 2026 at the US Open. Tim Henman, Laura Robson, Ryan Harrison, Naomi Broady and Martina Navratilova are just some of the names who have picked their winners for this year's final Grand Slam of the year.",
         "first_seen": "2026-08-30T11:12:31.109963+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "US Open key questions: Gigi Salmon dissects the draws with Carlos Alcaraz, Novak Djokovic, Aryna Sabalenka and Coco Gauff in the mix",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOeTBodDJaOGFOOUZkU1Z0QU55NVJQYTZQQ3dtYVptZS1HaXlFdTNFVlFHbWNiMnRTLXVjbGlLY3RFa3h1ODVqSkZ3a3BZaFhaTUZOeE85YkU3LU9rbS1UcE5nblctS1pfdUFHME1oaWVEbGRNY2JVQjBFRTlSOUhaZWdlakp1ZFNDX1F3QlJTZ1NZTUttSFVWaDNJaGJOUHBfdTVLZ19WaUlfV0h5NGF3SzVla2pCS29lTW9iSE5ocHlQdGRLVlJDRUpEV2FSLTA0eGJHOWdJaWtWWVRNZ05KazhYLXZ0aEU3dzZrSjdNaEloLTIyd01wdERDaVRpY19raXh1clg5T3MxN2p0bnk0?oc=5",
+        "published": "2026-08-30T07:01:00+00:00",
+        "published_label": "Sun 30 Aug, 07:01",
+        "summary": "US Open key questions: Gigi Salmon dissects the draws with Carlos Alcaraz, Novak Djokovic, Aryna Sabalenka and Coco Gauff in the mix Sky Sports",
+        "body": "Gigi Salmon dissects the men's and women's draws ahead of the US Open; who will the presenter pick as her winners for the titles in New York?; watch the US Open live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app\n\nThe US Open, of all the four slams, is notoriously the hardest to predict the winners of as it falls at a time of year when eight months into the season the players are more likely than not nursing aches and pains with their bodies battered from the grind of the tour.",
+        "copy": "Gigi Salmon dissects the men's and women's draws ahead of the US Open; who will the presenter pick as her winners for the titles in New York?; watch the US Open live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app\n\nThe US Open, of all the four slams, is notoriously the hardest to predict the winners of as it falls at a time of year when eight months into the season the players are more likely than not nursing aches and pains with their bodies battered from the grind of the tour.",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
       },
       {
         "section": "Tennis",
@@ -3603,6 +3694,19 @@
         "body": "All was bright in Aryna Sabalenka's world when she completed a rare 'Sunshine Double' earlier this season. Becoming only the fifth woman to win the Indian Wells and Miami titles back-to-back, Sabalenka emphasised her position as the dominant player on the WTA Tour and created a 3,000-point lead at the top of the world rankings.\n\nBut a difficult period quickly followed - seemingly out of nowhere - leaving the 28-year-old Belarusian clinging on to her position going into the US Open, which starts on Sunday.",
         "copy": "All was bright in Aryna Sabalenka's world when she completed a rare 'Sunshine Double' earlier this season. Becoming only the fifth woman to win the Indian Wells and Miami titles back-to-back, Sabalenka emphasised her position as the dominant player on the WTA Tour and created a 3,000-point lead at the top of the world rankings.\n\nBut a difficult period quickly followed - seemingly out of nowhere - leaving the 28-year-old Belarusian clinging on to her position going into the US Open, which starts on Sunday.",
         "first_seen": "2026-08-30T11:12:31.109963+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "US Open Tennis: News, draw, schedule, results and updates from Flushing Meadows in New York",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYkNCbHdJQnFXcE51aGZEandLcGs5T3JQNDYyTU5rOTU4SnRNUVJaTlVpYUNUQU1XMGNHZjhGc0l1dUVLV2duNzd3T2podXBmbDljM1RuOXZtekkzZEhab1lkcDBIQWZicnljUkJlS1lHdUdfbVozZE55UmlEckFabFJwZUxoaFhjWE1vS25tam1pSWNQVU04MVRLQWI3M0Y1bGdLdF9IRFdpLS02b2hlX1hHNnlCRGI4V3FHS1NBMkF1djZMZkNLMGF5MU9rVlZLa05KaHN6c1BfcXNfZ1E?oc=5",
+        "published": "2026-08-30T03:49:44+00:00",
+        "published_label": "Sun 30 Aug, 03:49",
+        "summary": "US Open Tennis: News, draw, schedule, results and updates from Flushing Meadows in New York Sky Sports",
+        "body": "Britain's Katie Boulter said the smell of cannabis at the US Open is a \"distraction\" for players. Marijuana is legal for adults in New York and while smoking is not allowed on site, the aroma of weed wafts over some outside courts from the nearby Corona Park.\n\nBritish No 1 Boulter said: \"Yeah, I have experienced it. You go down to the practice courts and down in the park courts, you do smell it a lot. \"But yeah, I'm not a huge fan of it. I know a lot of players have complained on some of the specific courts.",
+        "copy": "Britain's Katie Boulter said the smell of cannabis at the US Open is a \"distraction\" for players. Marijuana is legal for adults in New York and while smoking is not allowed on site, the aroma of weed wafts over some outside courts from the nearby Corona Park.\n\nBritish No 1 Boulter said: \"Yeah, I have experienced it. You go down to the practice courts and down in the park courts, you do smell it a lot. \"But yeah, I'm not a huge fan of it. I know a lot of players have complained on some of the specific courts.",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
       },
       {
         "section": "Tennis",
@@ -4308,6 +4412,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Exponentially easier': Pro gets huge rules break to stay in hunt at Tour Championship",
+        "link": "https://golf.com/news/pro-huge-rules-break-stay-hunt-tour-championship/",
+        "published": "2026-08-30T12:50:33+00:00",
+        "published_label": "Sun 30 Aug, 12:50",
+        "summary": "Contender Ryan Gerard turned an impossible lie into a perfect one at the 2026 Tour Championship with a clever use of the rules. The post ‘Exponentially easier’: Pro gets huge rules break to stay in hunt at Tour Championship appeared first on Golf .",
+        "body": "Ryan Gerard finished 17th in the final FedEx Cup standings ahead of the 2026 Tour Championship. It was the first time the 27-year-old had qualified for the PGA Tour’s season finale.\n\nBut heading into Sunday’s final round at East Lake, Gerard has a great opportunity to actually win the FedEx Cup title in his first attempt. And that’s partly thanks to an enormously fortuitous collision with the Rules of Golf.",
+        "copy": "Ryan Gerard finished 17th in the final FedEx Cup standings ahead of the 2026 Tour Championship. It was the first time the 27-year-old had qualified for the PGA Tour’s season finale.\n\nBut heading into Sunday’s final round at East Lake, Gerard has a great opportunity to actually win the FedEx Cup title in his first attempt. And that’s partly thanks to an enormously fortuitous collision with the Rules of Golf.",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6634,32 +6751,6 @@
         "body": "LIV Golf star Harold Varner III and other members of his OKGC team were reportedly asked to leave Bear Slide Golf Club in Indiana after the group attempted to play as a six-some, despite being told repeatedly that groups of that size were not permitted.\n\nThe incident took place on August 18, during the week of LIV Golf's season finale in Indiana, and has now been detailed by Bear Slide GC in a social media statement addressing what it described as a recent post concerning a professional golfer being asked to leave the course.",
         "copy": "LIV Golf star Harold Varner III and other members of his OKGC team were reportedly asked to leave Bear Slide Golf Club in Indiana after the group attempted to play as a six-some, despite being told repeatedly that groups of that size were not permitted.\n\nThe incident took place on August 18, during the week of LIV Golf's season finale in Indiana, and has now been detailed by Bear Slide GC in a social media statement addressing what it described as a recent post concerning a professional golfer being asked to leave the course.",
         "first_seen": "2026-08-23T16:21:53.690560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Golf brand apologises for advert that shows woman being pushed over",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-23T12:25:40+00:00",
-        "published_label": "Sun 23 Aug, 12:25",
-        "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-        "body": "Content creator and golf brand Good Good has apologised and removed an advertisement for a new golf driver which showed a woman being pushed to the ground after reaching for the club.\n\nAmerican company Good Good, which has 2.13m subscribers to its golf channel on YouTube and sponsors a PGA Tour tournament, had created and published the advert for golf club manufacturer Callaway.",
-        "copy": "Content creator and golf brand Good Good has apologised and removed an advertisement for a new golf driver which showed a woman being pushed to the ground after reaching for the club.\n\nAmerican company Good Good, which has 2.13m subscribers to its golf channel on YouTube and sponsors a PGA Tour tournament, had created and published the advert for golf club manufacturer Callaway.",
-        "first_seen": "2026-08-23T12:34:19.941054+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "5 keys to making better contact and hitting the ball higher",
-        "link": "https://golf.com/instruction/five-keys-making-better-contact-hitting-ball-higher/",
-        "published": "2026-08-23T11:35:47+00:00",
-        "published_label": "Sun 23 Aug, 11:35",
-        "summary": "GOLF Top 100 Teacher Kellie Stenzel shares five keys for beginning players looking to make better contact and get the ball off the ground. The post 5 keys to making better contact and hitting the ball higher appeared first on Golf .",
-        "body": "The practice range is a great place to observe golfers trying to get that little golf ball into the air — and, hopefully, get it flying straight. One of the most common misses is a ball that is topped or simply doesn’t get into the air as much as it should.\n\nHere are five ways to improve your contact and launch the ball higher and more solidly. 1. Understand how the ball gets into the air How a golf ball gets into the air isn’t intuitive, in my opinion.",
-        "copy": "The practice range is a great place to observe golfers trying to get that little golf ball into the air — and, hopefully, get it flying straight. One of the most common misses is a ball that is topped or simply doesn’t get into the air as much as it should.\n\nHere are five ways to improve your contact and launch the ball higher and more solidly. 1. Understand how the ball gets into the air How a golf ball gets into the air isn’t intuitive, in my opinion.",
-        "first_seen": "2026-08-23T12:34:19.941054+00:00"
       }
     ],
     "Badminton": [
@@ -6701,6 +6792,19 @@
         "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "first_seen": "2026-08-30T11:12:31.109963+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "The Guinness book of badminton / Pat Davis",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLTNzY2ZQRi1tR2tBazFoQXVGNEsxcTBic0NUdERrSElBSG5WUTBzcmRSWlNOUHVWMDdCUVBHSWlOZ0lLRTR0VVJPWUtYZFJTeFFFcVJyLWJqOGVnSWpYUmhhTXF2YmxoWjdDbmYwZ2R3bnhaWG1RVVNkUTFxdFp6ejVfWUpZRTJjU0FFLWhoTVlJUS1GSlM0U3hGdlBtZ1JldTYtMVFfRWlfZw?oc=5",
+        "published": "2026-08-29T19:48:47+00:00",
+        "published_label": "Sat 29 Aug, 19:48",
+        "summary": "The Guinness book of badminton / Pat Davis Olympic World Library",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-30T13:05:53.032224+00:00"
       },
       {
         "section": "Badminton",
@@ -7195,123 +7299,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-23T18:28:14.972850+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Alex Lanier scripts history, becomes first Frenchman to win BWF World Championships singles title",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdTdhbURhbFZQRlB6bGVNT3ZMOWx1b2NIcU5mNlVvRzhia21mSHpGWVBDZDZtamZFbld1MEhiSG5uN2hUeUxQbGl6VVVMSC1feHNfeXYzazUwT0FSY05rQk9HNllnMjRpMXNWdFVicWd6WEpYc1ZSTU9LeDhibEswMUkwR3FrQkU2R2JLRHlnVF9UbXRqMXFyaHNXQmc1aElJZ081MDNJOGgyRlpQYzRfODlrWmR0QnFxRnh0b3FIZkJycDNBbGpTaGRSZDdrMGVoLTU1YzBVYXAwb0ZkY2ZrS1V5NElSMkR0V2d0N3Y4d3NBYWc1b3NGc3RCWlNRQ2xPNXNEMURB0gGLAkFVX3lxTE5ORVhKcEp2a0V4ZEpMYmNLNjhJenRNSkt6UHptakpnQk5KRWdtN1hIM1hLVDhBZDl3dWRoenNOaV9Gd2J6RFNKX3Y4a25MOVVfVGRyMHZCdTdveVV1VnBmRzRqdVlvSkk0NFlEbGIzelFwS1V5NC1BZFY3ZEtteURDNGpBZHp0YVFUcW9BdDR1a2lsOHRPNFJ1Wi1UdFoyaENTbVdaTC03Mk1TSncwZUZpMTgtZG8xd18tRjNVc0VneFpmNHY1a0RORXJaRXBfT1F6OE1TWnI0LWpPS2VPcHIzMzBHc0NpRUNZcGJRS0YxemxiSmx2WFI5R2RuNmVCNlpnUzEtbHBqVzAydw?oc=5",
-        "published": "2026-08-23T12:59:00+00:00",
-        "published_label": "Sun 23 Aug, 12:59",
-        "summary": "Alex Lanier scripts history, becomes first Frenchman to win BWF World Championships singles title The Times of India",
-        "body": ", completing a remarkable run with a commanding straight-game victory over Japan's Kodai Naraoka on Sunday. The 21-year-old ninth seed produced a dominant display at the Indira Gandhi Indoor Stadium, beating 10th-seeded Naraoka 21-11, 21-11 in around 50 minutes to claim his maiden world title. Lanier controlled the match from the outset, combining aggressive attacking play with excellent court coverage to leave the Japanese shuttler struggling for answers.\n\nThe triumph caps a remarkable rise for Lanier, who had never previously reached a World Championships final. He had already made history by becoming the first Frenchman to reach the men's singles final at the event before taking the final step and becoming the country's first world champion in the discipline.",
-        "copy": ", completing a remarkable run with a commanding straight-game victory over Japan's Kodai Naraoka on Sunday. The 21-year-old ninth seed produced a dominant display at the Indira Gandhi Indoor Stadium, beating 10th-seeded Naraoka 21-11, 21-11 in around 50 minutes to claim his maiden world title. Lanier controlled the match from the outset, combining aggressive attacking play with excellent court coverage to leave the Japanese shuttler struggling for answers.\n\nThe triumph caps a remarkable rise for Lanier, who had never previously reached a World Championships final. He had already made history by becoming the first Frenchman to reach the men's singles final at the event before taking the final step and becoming the country's first world champion in the discipline.",
-        "first_seen": "2026-08-23T16:21:53.690560+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Gicquel/Delrue: Golden Trailblazers",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHRWQmIxdkU5MDN5NmlPeXA0clVmV1oxWXVod0JfZUJiZTdWNEtVWmtRbUlDdEIzQXhNMW9kZWozY0RvZld1TjR2VXdNa01UN1V6Wmc0a3BHaC1GSmJBUGgtV2RvMWxyU2tUb1NIQktMckVZajFlM19XV19lTUxyM1RlbEk1cjZfZkhTOGoxdXlvRUQyaXpmXzVHaDQtTDczMHh4dGZfWE9ORnJnNFlNQWJ3?oc=5",
-        "published": "2026-08-23T12:52:33+00:00",
-        "published_label": "Sun 23 Aug, 12:52",
-        "summary": "Gicquel/Delrue: Golden Trailblazers BWF World Championships",
-        "body": "France can celebrate their first-ever BWF World Championships gold after Thom Gicquel and Delphine Delrue outplayed top seeds Feng Yan Zhe/Huang Dong Ping in a tactical masterclass: 22-20 19-21 21-15.\n\nIt is Europe’s first gold in a paired event since 2009 – incidentally, also in India — when Denmark’s Thomas Laybourn/Kamilla Rytter-Juhl won the title. The French completely took Huang out of the equation at the net, and even dared to flick-serve Feng from time to time. In fact, it was a flick serve on match point that finally delivered the historic moment for France.",
-        "copy": "France can celebrate their first-ever BWF World Championships gold after Thom Gicquel and Delphine Delrue outplayed top seeds Feng Yan Zhe/Huang Dong Ping in a tactical masterclass: 22-20 19-21 21-15.\n\nIt is Europe’s first gold in a paired event since 2009 – incidentally, also in India — when Denmark’s Thomas Laybourn/Kamilla Rytter-Juhl won the title. The French completely took Huang out of the equation at the net, and even dared to flick-serve Feng from time to time. In fact, it was a flick serve on match point that finally delivered the historic moment for France.",
-        "first_seen": "2026-08-23T18:28:14.972850+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Highlights of mixed doubles at BWF World Championships in New Delhi, India",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16VXlzSGZUT3llN3BzUVA4SlBJQjlrVFRMR0xUcnpPUUFFTnROeVFndVBEd0dWZ2oteFJRR2tzRHhrcFIwZ1U1TWM0bWJtTUt0OHBabmJVdHZlTkNiQy0tVVprNFo5SGlSbW5laXRSQ3BhMEVrbklEU1FrRHU?oc=5",
-        "published": "2026-08-23T12:38:38+00:00",
-        "published_label": "Sun 23 Aug, 12:38",
-        "summary": "Highlights of mixed doubles at BWF World Championships in New Delhi, India Xinhua",
-        "body": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
-        "copy": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
-        "first_seen": "2026-08-23T14:21:34.772105+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Highlights of mixed doubles at BWF World Championships in New Delhi, India",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vUzJzTXBFbTAyRURjc2pwS3ZjU1ZQWGhZcHdmcGhLTFBYMWE1R0l3aDh5blo2dEFUVTg0NEhBMUt5OUNVbmVwU1JRSHdZX2JLNkhGZGdEVGs0U1VJajZBWnkwVzF5eEVQc0R0aWV6N0Fwbi1sYWVtZ1RSMA?oc=5",
-        "published": "2026-08-23T12:38:38+00:00",
-        "published_label": "Sun 23 Aug, 12:38",
-        "summary": "Highlights of mixed doubles at BWF World Championships in New Delhi, India Xinhua",
-        "body": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
-        "copy": "Gold medalists Thom Gicquel/Delphine Delrue (L) of France pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)\n\nGold medalists Thom Gicquel (back 2nd R)/Delphine Delrue (front 2nd L) of France, silver medalists Feng Yanzhe (back 1st L)/Huang Dongping (front 1st L) of China and bronze medalists Jiang Zhenbang (back 2nd L)/Wei Yaxin (front 2nd R) of China and Amri Syahnawi (back 1st R)/Nita Violina Marwah of Indonesia pose during the awarding ceremony for the mixed doubles at BWF World Championships in New Delhi, India, Aug. 23, 2026. (Xinhua/Javed Dar)",
-        "first_seen": "2026-08-23T18:28:14.972850+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | Feng Yan Zhe & Huang Dong Ping (CHN) VS Thom Gicquel & Delphine Delrue (FRA) | BWF World Championship | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbkpUc2o0LU0xWXNEeUpQczFzeTRtV1MzeDJYMldaVFNEMEZNQ2FMczBFY1BCZG1KTWNkaXR4WnNDd1IxNmVWV2JFOEZxMnVnRTIyWU5PbXVZN2xLNUtpVWpKNzBiU2czX0lCRDBwU2QzNU1yWEpqeWJKVVEzekEzRVVjN1dWejRlcXJCWkR0Z1NYT3RwMUtic29NMnZ1VE1ZU0Qtazk2enNwMkF0R3JDRkhXVDllRXZLUG9JSnlWQUZNUTlSang4elFLcmtsUWhpODBrVWpVSmk5T3E4SVE?oc=5",
-        "published": "2026-08-23T12:18:42+00:00",
-        "published_label": "Sun 23 Aug, 12:18",
-        "summary": "Badminton | Feng Yan Zhe & Huang Dong Ping (CHN) VS Thom Gicquel & Delphine Delrue (FRA) | BWF World Championship | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-23T14:21:34.772105+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | Chou Tien Chen (TPE) VS Kodai Naraoka (JPN) | BWF World Championship | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVRQMGI2WldOUFlBOTc5SEx1VGdhRGpyWnZlQWpnLXhSVEVYalVzdlJBMEFoQkZxMkFyUnE3QkxuaUNNSlBTWjduSDNaaU8wNFJoMVdfY0g5endPdS1UMnk0SjJ1dHM3RzFfSnpSY2lPRXhOOXJERmNHNEVYdmNYUVQtWmRLbk5MRkVfdm00NHZUYUdYTjg0MWhJR3hDMkxmM1JreG1iRU5vMlhPblhSVXVEUmVYOWc?oc=5",
-        "published": "2026-08-23T12:18:42+00:00",
-        "published_label": "Sun 23 Aug, 12:18",
-        "summary": "Badminton | Chou Tien Chen (TPE) VS Kodai Naraoka (JPN) | BWF World Championship | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-24T14:39:42.482972+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Badminton | An Se Young (KOR) VS Wang Zhi Yi (CHN) | BWF World Championship | New Delhi",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekhwNU1lNHNlSzE5X2lKdG53NEk0V1U2RkJlWGhKSHFoSW0wVEZERUZTd1oxbTkyaDFBN1REM0xQQjF1b1RRN0UyUlFNNDdKUFUxNmYwcGdJd0k3WDNvZEgyQXRmY1NScHV6c090OXZiWlF6TlgwejJUaktPMmNicmM4X3ZUS0dPNTRadHNlOGpDOHU4LWVKSFVMQlpucHNlMVBKcFdySm1LWm50ckMzcw?oc=5",
-        "published": "2026-08-23T12:18:42+00:00",
-        "published_label": "Sun 23 Aug, 12:18",
-        "summary": "Badminton | An Se Young (KOR) VS Wang Zhi Yi (CHN) | BWF World Championship | New Delhi olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-25T06:41:56.579958+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Lanier crushes Naraoka to become first Frenchman to win singles world title",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEQ3S0NjZTFCNzR4eVFqVGxRR2RrS2hWTTNHQ2N3eVE3ejg5UjA4WDYxOHI3YlhwVU1HRENRN20xUnFUd1U1TUNMMHJrcEtibkNSOGU3RHU3T2hhcnBjaUxhWEN5bldhSERRM05ScU42TDY1MVVFV3RfSi1NSF94cG1MWUx4SjB2dVhRejE3d2M0OURtdmNlRmVjMkNiNV9hZDRaVHBHNzEzUjVocGl3THBn?oc=5",
-        "published": "2026-08-23T11:47:43+00:00",
-        "published_label": "Sun 23 Aug, 11:47",
-        "summary": "Lanier crushes Naraoka to become first Frenchman to win singles world title Reuters",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-23T12:34:19.941054+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships 2026: Alex Lanier beats Naraoka Kodai to win first world title",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeG5JU0ppbUh2cVJydUpDZ2pqLWpoTjJ3bU9mMGttMUF2OHRkZEJ6N1ZSRm9zNWNKeTFoOElLOXVCb1hGQktZYl9wNnFUSFB6WC1nWTRObWlqWTNoazYzNXN4UHpNSkl3R3FyeGdNXzdCVFI1UmV3SktPV2c4ZV9BQkdxUWR5dkI3Tmc?oc=5",
-        "published": "2026-08-23T11:42:00+00:00",
-        "published_label": "Sun 23 Aug, 11:42",
-        "summary": "BWF World Championships 2026: Alex Lanier beats Naraoka Kodai to win first world title olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-23T12:34:19.941054+00:00"
       }
     ],
     "Competitor News": [
@@ -7343,5 +7330,5 @@
       }
     ]
   },
-  "total": 563
+  "total": 562
 }
