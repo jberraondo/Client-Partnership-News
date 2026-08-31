@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T15:16:31.758016+00:00",
-  "generated_label": "Monday 31 August 2026, 15:16 UTC",
+  "generated_at": "2026-08-31T19:51:55.929149+00:00",
+  "generated_label": "Monday 31 August 2026, 19:51 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Trump’s tariff fix leaves US trade policy in permanent flux",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzbEJnSTd5RldTRGViY2tRNlZWVjVfclJoc3RXUXhya0Jva3hCb3VDNzQ0OTBHa01Scl9XOXpUQmRaTnMwejg3eE1ZS3BOaW9MX2QwdXFpNGNxMUdLQmdfamh0UWxkOWtwWC1ZSnpTTFM?oc=5",
+        "published": "2026-08-31T15:07:17+00:00",
+        "published_label": "Mon 31 Aug, 15:07",
+        "summary": "Trump’s tariff fix leaves US trade policy in permanent flux Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Software companies pay steep price to buy time against AI threat",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOHhuQWJqZlZISTYxSmI5am0zR05OYXlzaVhmLTZ1VnVGVTZrb28yVXVmbEVMczV1RXRTcGJfX3dES0luNG9CcDVNeFRDSzZLem9ZSm13QXlhQVVpMU56RVBuMGpQcXp2aEVZWEYyOHFCSk9kQWhxeEk5akZZODFQU0RpSW4?oc=5",
+        "published": "2026-08-31T11:00:02+00:00",
+        "published_label": "Mon 31 Aug, 11:00",
+        "summary": "Software companies pay steep price to buy time against AI threat Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "HSBC watch",
@@ -1441,19 +1467,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-25T18:37:08.748218+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "NFL renews with long-standing partner Campbell’s",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX28wa0JEWGVRTGNhOFdvY3I1bGxhZ1dSMjBwNVpVZVVMYWh3VGdyVG9oTnpzLVZHYV91RkFwZXdRVGlkbXNLT0RGS1dRR1VNazRIQUFhQzRCang2VENyNkNySFVMQjM0X0JZRzdxYlVIYWVodFh3dUJXTTdRNXRrWW1vMGs?oc=5",
-        "published": "2026-08-24T15:20:53+00:00",
-        "published_label": "Mon 24 Aug, 15:20",
-        "summary": "NFL renews with long-standing partner Campbell’s Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-24T16:34:32.802146+00:00"
       }
     ],
     "Rugby": [
@@ -3289,35 +3302,61 @@
         "body": "Straight-shooting All Blacks assistant coach Neil Barnes has no illusions about the Springboks’ motivation heading into the second Test of Rugby’s Greatest Rivalry. Rassie Erasmus’ Springboks will take on the All Blacks in Cape Town after falling to their first defeat since Eden Park in 2025, winning twelve Tests in between the two contests with the Kiwis.\n\nBut the All Blacks, under new head coach Dave Rennie, rocked up to Ellis Park and took home the chocolates, claiming their biggest winning margin over the Springboks at the storied ground.",
         "copy": "Straight-shooting All Blacks assistant coach Neil Barnes has no illusions about the Springboks’ motivation heading into the second Test of Rugby’s Greatest Rivalry. Rassie Erasmus’ Springboks will take on the All Blacks in Cape Town after falling to their first defeat since Eden Park in 2025, winning twelve Tests in between the two contests with the Kiwis.\n\nBut the All Blacks, under new head coach Dave Rennie, rocked up to Ellis Park and took home the chocolates, claiming their biggest winning margin over the Springboks at the storied ground.",
         "first_seen": "2026-08-25T06:41:56.579958+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Charani to lead Sri Lanka at Asia Rugby Sevens",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkdQRkl6RmppZWt0WlFCb282eEFmcVNUUDREVTdFSERFYmpUamtzcWNsdFNOOVdIZmVvN1RFekRSMUFoODFaRGl6YkdiSzJscGVab29BeFZ1X0ZfSDJtTzBuVnFFRXl1R2FHQ0hma2xlanJ3VGxGS1JyTDlvYzZwQjd0YU1PZXN5UGtqOTBaNGdOMGVTVDhqb0l3?oc=5",
-        "published": "2026-08-24T19:34:55+00:00",
-        "published_label": "Mon 24 Aug, 19:34",
-        "summary": "Charani to lead Sri Lanka at Asia Rugby Sevens dailynews.lk",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-25T06:41:56.579958+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Seven uncapped players in Ireland's WXV squad",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c2097q21pe7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-24T15:43:12+00:00",
-        "published_label": "Mon 24 Aug, 15:43",
-        "summary": "Ireland head coach Scott Bemand says it is \"particularly pleasing\" to name seven uncapped players who impressed in the Women's Interprovincial Championship in his squad for the WXV Global Series.",
-        "body": "Ireland head coach Scott Bemand says it is \"particularly pleasing\" to name seven uncapped players who impressed in the Women's Interprovincial Championship in his squad for the WXV Global Series.\n\nForwards Jemima Adams Verling, Sophie Barrett, Beth Buttimer and Kate Jordan will all be hoping for a Test debut next month, as will backs Caitriona Finn, Lucia Linn and Alana McInerney.",
-        "copy": "Ireland head coach Scott Bemand says it is \"particularly pleasing\" to name seven uncapped players who impressed in the Women's Interprovincial Championship in his squad for the WXV Global Series.\n\nForwards Jemima Adams Verling, Sophie Barrett, Beth Buttimer and Kate Jordan will all be hoping for a Test debut next month, as will backs Caitriona Finn, Lucia Linn and Alana McInerney.",
-        "first_seen": "2026-08-24T16:34:32.802146+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "GB's Dart ends 19-month wait for Grand Slam win at 'home away from home'",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cj4j8wr8y1po?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-31T19:36:50+00:00",
+        "published_label": "Mon 31 Aug, 19:36",
+        "summary": "British qualifier Harriet Dart ends a 19-month wait for a Grand Slam singles win by fighting back to beat Peyton Stearns in the US Open first round.",
+        "body": "Britain's Harriet Dart hailed the \"community\" of supporters who roared her on as she ended a 19-month wait for a Grand Slam win with a battling victory over Peyton Stearns at the US Open.\n\nCheered on by her parents, uncle, and numerous cousins at her \"home away from home\", Dart came back from a set and a break down to reach the second round in New York. The 30-year-old had not won a main-draw singles match at a major since reaching the second round of the 2025 Australian Open.",
+        "copy": "Britain's Harriet Dart hailed the \"community\" of supporters who roared her on as she ended a 19-month wait for a Grand Slam win with a battling victory over Peyton Stearns at the US Open.\n\nCheered on by her parents, uncle, and numerous cousins at her \"home away from home\", Dart came back from a set and a break down to reach the second round in New York. The 30-year-old had not won a main-draw singles match at a major since reaching the second round of the 2025 Australian Open.",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Sabalenka blocks out noise to start US Open 'three-peat' bid with victory",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c4gm3pzl7ypo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-31T18:50:18+00:00",
+        "published_label": "Mon 31 Aug, 18:50",
+        "summary": "Aryna Sabalenka blocks out the noise to overcome a tricky first-round test against Camila Osorio and begin her bid for a historic US Open \"three-peat\".",
+        "body": "Aryna Sabalenka blocked out the noise to overcome a tricky first-round test against Camila Osorio and begin her bid for a historic US Open \"three-peat\". The two-time defending champion has suffered a dip in form in recent months after a stellar start to the season in which she reached the Australian Open final and completed the 'Sunshine Double' at Indian Wells and Miami.\n\nSabalenka's position as world number one is now under serious threat and she risks ending the year without a Grand Slam title for the first time since 2022. However, she avoided an early slip-up as she held off a resilient Osorio to win 6-2 6-4 on her return to Arthur Ashe Stadium.",
+        "copy": "Aryna Sabalenka blocked out the noise to overcome a tricky first-round test against Camila Osorio and begin her bid for a historic US Open \"three-peat\". The two-time defending champion has suffered a dip in form in recent months after a stellar start to the season in which she reached the Australian Open final and completed the 'Sunshine Double' at Indian Wells and Miami.\n\nSabalenka's position as world number one is now under serious threat and she risks ending the year without a Grand Slam title for the first time since 2022. However, she avoided an early slip-up as she held off a resilient Osorio to win 6-2 6-4 on her return to Arthur Ashe Stadium.",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "US Open: Is now the right time for Novak Djokovic to retire after 'heart-breaking' first-round exit in New York?",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRXNVWW5kZl9udFBSRkNiNWRWbGFIR2lfWm15WUYxY2FOSGo5T19YOEdjYVVNc1R0X3hxMFVhd244R1Q2WWtOb0EtZGFpUU4zclpxa2pFYnlGa19oUDZWa3FsVFRIX3pMRTlFcXUtLUsxOUdpZVNRcVRmaXpRaEhmd1JGOVpNbDBTMG9xMGpQWjRNSHVaOGpYdW4wckR3UzF1bm4wZzAyeW91d2pBQTZ6ZElOY29iTDhES0NwQ2huY1pDRHpOQ3ppRGpfUXh3NXhZNGQ2YVdnWUxGSEo3OENYSEd3WTdlYy1IdXlPbTlZbVJBVW8?oc=5",
+        "published": "2026-08-31T18:10:17+00:00",
+        "published_label": "Mon 31 Aug, 18:10",
+        "summary": "US Open: Is now the right time for Novak Djokovic to retire after 'heart-breaking' first-round exit in New York? Sky Sports",
+        "body": "US Open: Is now the right time for Novak Djokovic to retire after 'heart-breaking' first-round exit in New York? Novak Djokovic said he \"despised\" every moment of the five-set, near five-hour ordeal which ended his US Open hopes in the first round, so now the question is whether he calls time on his trophy-laden career.\n\nThe 24-time Grand Slam champion was knocked out in the first round of the US Open for the first time, beaten by Mariano Navone of Argentina. Djokovic was 19-0 in the US Open first round and hadn't lost his opening match in any major since Paul Goldstein beat him at the Australian Open in 2006.",
+        "copy": "US Open: Is now the right time for Novak Djokovic to retire after 'heart-breaking' first-round exit in New York? Novak Djokovic said he \"despised\" every moment of the five-set, near five-hour ordeal which ended his US Open hopes in the first round, so now the question is whether he calls time on his trophy-laden career.\n\nThe 24-time Grand Slam champion was knocked out in the first round of the US Open for the first time, beaten by Mariano Navone of Argentina. Djokovic was 19-0 in the US Open first round and hadn't lost his opening match in any major since Paul Goldstein beat him at the Australian Open in 2006.",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "All About US Open: Djokovic out in first round",
+        "link": "https://www.bbc.co.uk/sounds/play/p0p77nf4?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-31T16:20:00+00:00",
+        "published_label": "Mon 31 Aug, 16:20",
+        "summary": "Reaction to Novak Djokovic's shock first round loss to Mario Navone.",
+        "body": "Katie Smith, Abigail Johnson and Dan Kiernan react to Novak Djokovic crashing out the first round of the US Open losing in five sets to Argentina's Mario Navone. What does the future look like for Djokovic and is he able to win any more tournaments as he battles an underlying illness. 0:20: Djokovic loses to Navone and gives his reaction 02:36: Dan Kiernan reacts to Djokovic's shock first round loss 05:02: Abigail Johnson analyses how Djokovic's physical suffering caused him to lose 06:48: How has Novak Djokovic's underlying illness impacted his tennis this year? 08:52: Will we see Djokovic play again this year? 14:08: Los Angeles 2028 Olympics could be a farewell event from the sport for Djokovic 15:52: Which slam would Djokovic want to retire at, if any?",
+        "copy": "Katie Smith, Abigail Johnson and Dan Kiernan react to Novak Djokovic crashing out the first round of the US Open losing in five sets to Argentina's Mario Navone. What does the future look like for Djokovic and is he able to win any more tournaments as he battles an underlying illness. 0:20: Djokovic loses to Navone and gives his reaction 02:36: Dan Kiernan reacts to Djokovic's shock first round loss 05:02: Abigail Johnson analyses how Djokovic's physical suffering caused him to lose 06:48: How has Novak Djokovic's underlying illness impacted his tennis this year? 08:52: Will we see Djokovic play again this year? 14:08: Los Angeles 2028 Olympics could be a farewell event from the sport for Djokovic 15:52: Which slam would Djokovic want to retire at, if any?",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -3346,6 +3385,19 @@
       },
       {
         "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Arthur Fery: Lorenzo Musetti awaits in first round of US Open for British No 1",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX2hhblFrLUtveXZVdE16TFZiNGFjOS16V3Y5cE9tWkVXVG1ZRDU4T3R5Tk54OFZHVWNzalhaODV4RDhCdERBVTROVkwwRWFybTdkRHlteTB1S0U5Y0RMSlJFOTF2akNxV0h3YkpvQUZHbmJLSTBycFlkdjdzUlNwRE51ZFpuOU9fRVJrU0N5SmtMQXA0VHExS0dFNzY0aXRoenVoaFk5d2RGcWZoR0NqRWtQOEZXaGZwWWhwZnhrMWRuVGlCUnE0a3F3?oc=5",
+        "published": "2026-08-31T11:02:43+00:00",
+        "published_label": "Mon 31 Aug, 11:02",
+        "summary": "Arthur Fery: Lorenzo Musetti awaits in first round of US Open for British No 1 Sky Sports",
+        "body": "Fery returned to British No 1 and set a new career high at No 33 following his run to the Winston-Salem Open final this week. His hopes of landing his maiden ATP Tour title were ended in emphatic fashion by Ignacio Buse on Saturday.\n\nThe 24-year-old was aiming to add to his already memorable season having reached the semi-finals at Wimbledon but he was denied by the Peruvian. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
+        "copy": "Fery returned to British No 1 and set a new career high at No 33 following his run to the Winston-Salem Open final this week. His hopes of landing his maiden ATP Tour title were ended in emphatic fashion by Ignacio Buse on Saturday.\n\nThe 24-year-old was aiming to add to his already memorable season having reached the semi-finals at Wimbledon but he was denied by the Peruvian. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "From playing Serena Williams on screen to following in her footsteps",
@@ -3369,6 +3421,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-31T12:37:19.414638+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Novak Djokovic breaks down in tears midway through deciding set in shock defeat",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFctdU9ZQ19kWTRuN3hhUUYwN0NUWEhzOEhmTVJWQmhrTmdMaVlQVVBxWDk3b21MdVE1OWI4NGY3SEdFNHV0clJWUlk3bnlIbDlJc0RmdWZwTnRrenk0b2Y1SlY0MXNZTS1OODMwRkpuMkxjNFZ4eXA0U0NZM21BZVd2azdVak81cEF1dzB5eVZWOWdVWnNFY3p4VGxXVzZ3cldvN0l2NzFEOHQzSW85LWNPaU85cGU2cFNHT1FEaUprMzY2cVZDckN2YURZUQ?oc=5",
+        "published": "2026-08-31T09:28:14+00:00",
+        "published_label": "Mon 31 Aug, 09:28",
+        "summary": "Novak Djokovic breaks down in tears midway through deciding set in shock defeat Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
       },
       {
         "section": "Tennis",
@@ -4162,35 +4227,87 @@
         "body": "Roger Federer is set to make a long-anticipated return to play at Flushing Meadows as the five-time consecutive US Open men's singles champion will play in an exhibition match, live on Sky Sports.\n\nThe 45-year-old will walk out onto the court at Arthur Ashe Stadium as a player for the first time since he was beaten by Grigor Dimitrov in 2019. After a knee injury prevented him from entering the draw for the 2020 US Open, Federer would not return to play at the Grand Slam before announcing his retirement in September 2022.",
         "copy": "Roger Federer is set to make a long-anticipated return to play at Flushing Meadows as the five-time consecutive US Open men's singles champion will play in an exhibition match, live on Sky Sports.\n\nThe 45-year-old will walk out onto the court at Arthur Ashe Stadium as a player for the first time since he was beaten by Grigor Dimitrov in 2019. After a knee injury prevented him from entering the draw for the 2020 US Open, Federer would not return to play at the Grand Slam before announcing his retirement in September 2022.",
         "first_seen": "2026-08-25T06:41:56.579958+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Why Jack Draper can take plenty of heart from seeing Arthur Fils win the Cincinnati Open",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGZvcDctTzNJZ1ZZY2FHUVRIT3A1dHlaQnZmVktMV3h6UE1QZ0VBYzVDa004aWpVVC04bzQ3ZGpSMUlTb3JZUEJOSUhkVTlPSW1ZVDZyU2h0cmpoVEZhY1BKTW9ZY1M4YWNON09QVzZablFHOTBjcnJFTF9Xc3BzdldRLXlvS0EwSV9ZUUFPSU9qS3gtYWQ5NU0yMnhQOUhOVDg1dnJXSHNpcEl3LXlOejlB?oc=5",
-        "published": "2026-08-24T16:00:00+00:00",
-        "published_label": "Mon 24 Aug, 16:00",
-        "summary": "Why Jack Draper can take plenty of heart from seeing Arthur Fils win the Cincinnati Open Tennishead",
-        "body": "Arthur Fils’ Cincinnati Open title was an absolute triumph for tennis, and could prove to be the moment that catapults him towards true greatness within this sport. For years now, people have been speaking about this talented Frenchman as a player more than capable of challenging the established elite, but every time he seemed to be making progress, a new physical issue would emerge.\n\nThese problems are not completely gone just yet, but this maiden Masters 1000 triumph marks a well-deserved reward for years of hard work against the odds. Many at home will have been delighted to see Arthur Fils get over the line, as seemingly one of the more well-liked players on the ATP Tour.",
-        "copy": "Arthur Fils’ Cincinnati Open title was an absolute triumph for tennis, and could prove to be the moment that catapults him towards true greatness within this sport. For years now, people have been speaking about this talented Frenchman as a player more than capable of challenging the established elite, but every time he seemed to be making progress, a new physical issue would emerge.\n\nThese problems are not completely gone just yet, but this maiden Masters 1000 triumph marks a well-deserved reward for years of hard work against the odds. Many at home will have been delighted to see Arthur Fils get over the line, as seemingly one of the more well-liked players on the ATP Tour.",
-        "first_seen": "2026-08-24T16:34:32.802146+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Jack Draper and Axel Arigato Drop 'Midnight,' the Final Sneaker in Their Grand Slam Trilogy",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2psczNsMW5XQmFZSWt1VjZxdzE1RUNvSl9rTXMzWmlRNDgzRG9qcGFBelRXYUwyY1pPVjNMSjNVRDhXcnNGcFpIZm55MVg3TWtoY3AyZjhIcWdILVllM3d5SzhCVndPYk1La1lmOXllNHdyVEZXQ0V0ZlhocWZIbF9hRTItYUNLUy1OTmY2Q2hFSEcwbDFvWm5FZk9pb1dz?oc=5",
-        "published": "2026-08-24T15:38:00+00:00",
-        "published_label": "Mon 24 Aug, 15:38",
-        "summary": "Jack Draper and Axel Arigato Drop 'Midnight,' the Final Sneaker in Their Grand Slam Trilogy Complex",
-        "body": "Jack Draper and Axel Arigato have unveiled “Midnight,” the final chapter in their trilogy of sneaker collaborations. Ahead of the US Open, the UK tennis star is completing the trilogy of collaborations with “Midnight,” a black take on the Dice silhouette with teal accents. Following “Dusk” and “Rise,” the new pair of sneakers celebrates the institution of night sessions. The timing of its release, on Wednesday (Aug. 26), coincides with the start of the US Open, which became the first Grand Slam to play under floodlights in 1975.\n\n“Everything about New York feels bigger at night,” said Jack Draper of the final sneaker collaboration in the trilogy. “The city, the noise, those late sessions—it’s got that Gotham energy I’ve always loved. Midnight is the shoe for that: dark, sharp, made for after hours. It felt like the only way to finish the trilogy.”",
-        "copy": "Jack Draper and Axel Arigato have unveiled “Midnight,” the final chapter in their trilogy of sneaker collaborations. Ahead of the US Open, the UK tennis star is completing the trilogy of collaborations with “Midnight,” a black take on the Dice silhouette with teal accents. Following “Dusk” and “Rise,” the new pair of sneakers celebrates the institution of night sessions. The timing of its release, on Wednesday (Aug. 26), coincides with the start of the US Open, which became the first Grand Slam to play under floodlights in 1975.\n\n“Everything about New York feels bigger at night,” said Jack Draper of the final sneaker collaboration in the trilogy. “The city, the noise, those late sessions—it’s got that Gotham energy I’ve always loved. Midnight is the shoe for that: dark, sharp, made for after hours. It felt like the only way to finish the trilogy.”",
-        "first_seen": "2026-08-24T16:34:32.802146+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "5 winners (besides Scottie Scheffler) from PGA Tour's playoffs",
+        "link": "https://golf.com/news/scottie-scheffler-other-winners-pga-tour-playoffs/",
+        "published": "2026-08-31T19:25:35+00:00",
+        "published_label": "Mon 31 Aug, 19:25",
+        "summary": "By traditional measurements (lowest score, most victories) Scottie Scheffler won the PGA Tour's FedEx Cup Playoffs. But these guys won, too. The post 5 winners (besides Scottie Scheffler) from PGA Tour’s playoffs appeared first on Golf .",
+        "body": "Scottie Scheffler is the best golfer on the PGA Tour. That is the least interesting but most true sentence we’ll include here, but it’s worth establishing off the top; Scheffler reaffirmed his position atop the game at Sunday’s Tour Championship with a round of 66 that catapulted him past the 54-hole leaders and broke the collective spirit of every other player in contention.\n\nScheffler’s season had been notably strange because he finished second place five different times to five different very worthy opponents. But on Sunday he got the last laugh; for the second time in three weeks, he left all five in the dust. Jackson Koivun (who beat him at the 3M Open) was at home; his next shot at Scheffler will come in 2027. Matt Fitzpatrick (who beat him at the RBC Heritage) was well off the pace in a share of 21st. Cameron Young (who beat him at the Cadillac) was unable to summon any momentum en route to T11. Rory McIlroy (who beat him at the Masters) started too far back to challenge and finished T4. And Viktor Hovland (who beat him at the Travelers) began Sunday three shots ahead of Scheffler but finished three shots behind.",
+        "copy": "Scottie Scheffler is the best golfer on the PGA Tour. That is the least interesting but most true sentence we’ll include here, but it’s worth establishing off the top; Scheffler reaffirmed his position atop the game at Sunday’s Tour Championship with a round of 66 that catapulted him past the 54-hole leaders and broke the collective spirit of every other player in contention.\n\nScheffler’s season had been notably strange because he finished second place five different times to five different very worthy opponents. But on Sunday he got the last laugh; for the second time in three weeks, he left all five in the dust. Jackson Koivun (who beat him at the 3M Open) was at home; his next shot at Scheffler will come in 2027. Matt Fitzpatrick (who beat him at the RBC Heritage) was well off the pace in a share of 21st. Cameron Young (who beat him at the Cadillac) was unable to summon any momentum en route to T11. Rory McIlroy (who beat him at the Masters) started too far back to challenge and finished T4. And Viktor Hovland (who beat him at the Travelers) began Sunday three shots ahead of Scheffler but finished three shots behind.",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Viktor Hovland narrowly escaped a multi-million-dollar penalty",
+        "link": "https://golf.com/news/viktor-hovland-escape-multi-million-dollar-penalty/",
+        "published": "2026-08-31T18:57:10+00:00",
+        "published_label": "Mon 31 Aug, 18:57",
+        "summary": "Viktor Hovland won $5 million at the Tour Championship on Sunday and narrowly avoided a costly penalty in a greenside bunker. The post Viktor Hovland narrowly escaped a multi-million-dollar penalty appeared first on Golf .",
+        "body": "Viktor Hovland was your 54-hole leader at the Tour Championship, but after Scottie Scheffler rocketed up the leaderboard on Sunday, Hovland had to settle for a runner-up finish.\n\nHovland got beaten, fair and square — he shot 72 to Scheffler’s 66 — but you shouldn’t feel too bad for him. Due to the season-finale’s $40 million purse, Hovland still won $5 million for finishing second. (It’s a good gig if you can get it.)",
+        "copy": "Viktor Hovland was your 54-hole leader at the Tour Championship, but after Scottie Scheffler rocketed up the leaderboard on Sunday, Hovland had to settle for a runner-up finish.\n\nHovland got beaten, fair and square — he shot 72 to Scheffler’s 66 — but you shouldn’t feel too bad for him. Due to the season-finale’s $40 million purse, Hovland still won $5 million for finishing second. (It’s a good gig if you can get it.)",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Saudi-backed LIV Golf preparing for bankruptcy filing",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOclJQNkVtUkdvbllveEl5dXR0MEpYSU9NUjVUbzd5dmwwZXRUcWlfVnhrVW42NFhIaUZ6bmtWUzctWjRhbkN0cjhSWWdHcDdFZm5CMDNKczA3cFR4eWU3ekFuNjJoR1VHdkVGdmRJUUZsZHp6c21rMEpEM3NiQ3daS2ZpTkJ4VUJTMkFXYw?oc=5",
+        "published": "2026-08-31T18:39:30+00:00",
+        "published_label": "Mon 31 Aug, 18:39",
+        "summary": "Saudi-backed LIV Golf preparing for bankruptcy filing Middle East Eye",
+        "body": "Saudi Arabian-backed LIV Golf is prepping for a bankruptcy filing as soon as next week, as the kingdom’s sovereign wealth fund refuses to provide additional funding to the golf challenger.\n\nLIV Golf has sent out settlement offers to players who were promised millions in guaranteed payouts, which now stand at just a few cents on the dollar, the Financial Times reported on Monday.",
+        "copy": "Saudi Arabian-backed LIV Golf is prepping for a bankruptcy filing as soon as next week, as the kingdom’s sovereign wealth fund refuses to provide additional funding to the golf challenger.\n\nLIV Golf has sent out settlement offers to players who were promised millions in guaranteed payouts, which now stand at just a few cents on the dollar, the Financial Times reported on Monday.",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Presidents Cup captain's picks: Locks, bubble players and long shots",
+        "link": "https://golf.com/news/presidents-cup-primer-locks-bubble-long-shots-burning-questions/",
+        "published": "2026-08-31T17:33:57+00:00",
+        "published_label": "Mon 31 Aug, 17:33",
+        "summary": "The 2026 Presidents Cup rosters will be filled on Tuesday. Who is in? Who's on the bubble? What big questions do both sides face? The post Presidents Cup captain’s picks: Locks, bubble players and long shots appeared first on Golf .",
+        "body": "The 2026 PGA Tour regular season came to an end on Sunday with Scottie Scheffler winning his second FedEx Cup title. With the regular season done and dusted, Scheffler will turn his attention to the 2026 Presidents Cup, which will be contested at Medinah Country Club in Chicago from Sept. 22-27. Scheffler was one of six players to automatically qualify for U.S. captain Brandt Snedeker’s team, along with Wyndham Clark, Sam Burns, Cameron Young, Russell Henley and Collin Morikawa. Geoff Ogilvy’s International team finished its qualification period on Sunday, with Adam Scott, Si Woo Kim, Tom Kim, Ryan Fox, Hideki Matsuyama and Min Woo Lee punching their ticket to Medinah.\n\nThe captains will announce their six remaining picks at 5 p.m. ET Tuesday on Golf Channel. But who are the picks? Let’s break down the locks, bubble players, long shots and one burning question for each team.",
+        "copy": "The 2026 PGA Tour regular season came to an end on Sunday with Scottie Scheffler winning his second FedEx Cup title. With the regular season done and dusted, Scheffler will turn his attention to the 2026 Presidents Cup, which will be contested at Medinah Country Club in Chicago from Sept. 22-27. Scheffler was one of six players to automatically qualify for U.S. captain Brandt Snedeker’s team, along with Wyndham Clark, Sam Burns, Cameron Young, Russell Henley and Collin Morikawa. Geoff Ogilvy’s International team finished its qualification period on Sunday, with Adam Scott, Si Woo Kim, Tom Kim, Ryan Fox, Hideki Matsuyama and Min Woo Lee punching their ticket to Medinah.\n\nThe captains will announce their six remaining picks at 5 p.m. ET Tuesday on Golf Channel. But who are the picks? Let’s break down the locks, bubble players, long shots and one burning question for each team.",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "10 simple tips for easily hitting longer drives",
+        "link": "https://golf.com/instruction/driving/10-simple-tips-easily-hitting-longer-drives/",
+        "published": "2026-08-31T17:32:34+00:00",
+        "published_label": "Mon 31 Aug, 17:32",
+        "summary": "Everyone could use a little more distance off the tee. Here are 10 simple ways you can gain distance with your driver. The post 10 simple tips for easily hitting longer drives appeared first on Golf .",
+        "body": "Golf instruction is ever-evolving, but the best advice stands the test of time. In GOLF.com’s new series, Timeless Tips, we’re highlighting some of the greatest advice teachers and players have dispensed in the pages of GOLF Magazine. This week, we look back at our April 1989 issue for 10 tips for hitting longer drives.\n\nThere’s no skill more universally sought after than distance off the tee. From pros to weekend hacks, everyone aspires to squeeze a few extra yards out of their drives. While the advanced analytics revolution in golf has furthered this pursuit, it is far from a new phenomenon. In fact, back in the late 80s, we here at GOLF Magazine ran a story in an effort to help golfers in this regard. Check it out below to learn 10 ways to hit longer drives without sacrificing your technique.",
+        "copy": "Golf instruction is ever-evolving, but the best advice stands the test of time. In GOLF.com’s new series, Timeless Tips, we’re highlighting some of the greatest advice teachers and players have dispensed in the pages of GOLF Magazine. This week, we look back at our April 1989 issue for 10 tips for hitting longer drives.\n\nThere’s no skill more universally sought after than distance off the tee. From pros to weekend hacks, everyone aspires to squeeze a few extra yards out of their drives. While the advanced analytics revolution in golf has furthered this pursuit, it is far from a new phenomenon. In fact, back in the late 80s, we here at GOLF Magazine ran a story in an effort to help golfers in this regard. Check it out below to learn 10 ways to hit longer drives without sacrificing your technique.",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Report: LIV Golf may file for bankruptcy next week",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUYxUk5BUHZkMHd0UG05cXNwdFBER0s0Y3RGUGl4amU1ZXR4TzlWczdpdEl0X3JDNmxpLXNaV3Y2aFBxdjhwMVdyZ3NHcnRqSXVydW14TVg3Yzc4RFR6NWJ4TnFnalloZl9xeGcwaU90ZUtjUEptUm1RdGtKZkttNC15NmtPaXZDcnlpUk03LVZ4U0k1S1hQbWMwN1RESnM?oc=5",
+        "published": "2026-08-31T15:59:29+00:00",
+        "published_label": "Mon 31 Aug, 15:59",
+        "summary": "Report: LIV Golf may file for bankruptcy next week Reuters",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6166,126 +6283,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-25T10:29:38.532113+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "U.S. Solheim Cup team finalizes roster with 3 captain's picks",
-        "link": "https://golf.com/news/us-solheim-cup-captains-picks-2026/",
-        "published": "2026-08-24T17:55:21+00:00",
-        "published_label": "Mon 24 Aug, 17:55",
-        "summary": "U.S. Solheim Cup captain Angela Stanford selected Rose Zhang, Megan Khang and Lindy Duncan to round out her team for The Netherlands. The post U.S. Solheim Cup team finalizes roster with 3 captain’s picks appeared first on Golf .",
-        "body": "Some familiar names are returning to the U.S. Solheim Cup team. U.S. captain Angela Stanford announced her three captain’s picks to complete her team of 12 on Monday, a trio that included stalwarts Megan Khang and Rose Zhang as well as Solheim rookie Lindy Duncan.\n\nZhang and Khang combined for a 7-0 record at the 2024 Solheim Cup, though both have struggled this season; Zhang has just one top-10 finish since April and Khang has made one cut in her last eight starts and dropped to 85th in the Rolex Women’s World Golf Rankings.",
-        "copy": "Some familiar names are returning to the U.S. Solheim Cup team. U.S. captain Angela Stanford announced her three captain’s picks to complete her team of 12 on Monday, a trio that included stalwarts Megan Khang and Rose Zhang as well as Solheim rookie Lindy Duncan.\n\nZhang and Khang combined for a 7-0 record at the 2024 Solheim Cup, though both have struggled this season; Zhang has just one top-10 finish since April and Khang has made one cut in her last eight starts and dropped to 85th in the Rolex Women’s World Golf Rankings.",
-        "first_seen": "2026-08-24T18:36:53.436113+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Gary Woodland's BMW Championship ended with an emotional (and meaningful) putt",
-        "link": "https://golf.com/news/gary-woodland-bmw-championship-emotional-putt/",
-        "published": "2026-08-24T17:52:17+00:00",
-        "published_label": "Mon 24 Aug, 17:52",
-        "summary": "Gary Woodland's BMW Championship chances ended with a cold top, but his week still ended with an emotional and meaningful putt. The post Gary Woodland’s BMW Championship ended with an emotional (and meaningful) putt appeared first on Golf .",
-        "body": "All Gary Woodland could do was exhale and smile. It has been a trying few years for the 2019 U.S. Open champion, who underwent brain surgery in 2023 to remove a tumor and has been battling PTSD in the years since the operation. During an interview with Golf Channel in March, Woodland unburdened himself as he detailed how difficult it has been for him to compete on the PGA Tour while dealing with PTSD. Woodland said that going public with his diagnosis felt like lifting “1,000 pounds off his back.” Two weeks later, he won the Texas Children’s Houston Open to lift his first trophy since that Father’s Day in 2019 at Pebble Beach.\n\n“Anybody that is struggling with something, I hope they see me and don’t give up,” a choked-up Woodland said moments after his final putt dropped in Houston. “It’s just another day, right, that I’ve got to keep healing. Today was a good day. But I’m going to keep fighting. I’ve got a big fight ahead of me and I’m going to keep going, but I’m proud of myself right now.”",
-        "copy": "All Gary Woodland could do was exhale and smile. It has been a trying few years for the 2019 U.S. Open champion, who underwent brain surgery in 2023 to remove a tumor and has been battling PTSD in the years since the operation. During an interview with Golf Channel in March, Woodland unburdened himself as he detailed how difficult it has been for him to compete on the PGA Tour while dealing with PTSD. Woodland said that going public with his diagnosis felt like lifting “1,000 pounds off his back.” Two weeks later, he won the Texas Children’s Houston Open to lift his first trophy since that Father’s Day in 2019 at Pebble Beach.\n\n“Anybody that is struggling with something, I hope they see me and don’t give up,” a choked-up Woodland said moments after his final putt dropped in Houston. “It’s just another day, right, that I’ve got to keep healing. Today was a good day. But I’m going to keep fighting. I’ve got a big fight ahead of me and I’m going to keep going, but I’m proud of myself right now.”",
-        "first_seen": "2026-08-24T18:36:53.436113+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Seve Ballesteros used this clever putting trick for perfect speed on the greens",
-        "link": "https://golf.com/instruction/putting/seve-balleteros-clever-trick-perfect-putting-speed/",
-        "published": "2026-08-24T16:49:49+00:00",
-        "published_label": "Mon 24 Aug, 16:49",
-        "summary": "Seve Ballesteros used this clever trick on the greens to dial in his speed to reduce three-putts. Try it for yourself. The post Seve Ballesteros used this clever putting trick for perfect speed on the greens appeared first on Golf .",
-        "body": "Golf instruction is ever-evolving, but the best advice stands the test of time. In GOLF.com’s new series, Timeless Tips, we’re highlighting some of the greatest advice teachers and players have dispensed in the pages of GOLF Magazine. Today, we revisit a clever putting tip from Seve Ballesteros from our September 1986 issue.\n\nOne of the biggest keys for reducing three-putts is dialing in your speed. If you can hit your putts with the proper speed, you will leave yourself with makable second putts — even if your aim isn’t perfect.",
-        "copy": "Golf instruction is ever-evolving, but the best advice stands the test of time. In GOLF.com’s new series, Timeless Tips, we’re highlighting some of the greatest advice teachers and players have dispensed in the pages of GOLF Magazine. Today, we revisit a clever putting tip from Seve Ballesteros from our September 1986 issue.\n\nOne of the biggest keys for reducing three-putts is dialing in your speed. If you can hit your putts with the proper speed, you will leave yourself with makable second putts — even if your aim isn’t perfect.",
-        "first_seen": "2026-08-24T18:36:53.436113+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Greg Norman ‘gutted’ by LIV Golf’s demise: ‘I would rather just see it end’",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeGl3Z2dIenJLbUthNnptamdUR1NBNUJBY3ViQlNFOFhnYU1Id25yQkJTaDFRMDE2eEtOMjZIZXJ3RktiQzlwSG03OEtVbkRtT2JyWVozdFpWMHFEclEwVWtMYmhwcDF4UVdfSEg2Qm01MzhCRHFNYW5pWGdZU0x1czJwUlMxTkRvZ1hycWFiM1Vib0E?oc=5",
-        "published": "2026-08-24T16:49:00+00:00",
-        "published_label": "Mon 24 Aug, 16:49",
-        "summary": "Greg Norman ‘gutted’ by LIV Golf’s demise: ‘I would rather just see it end’ The Independent",
-        "body": "Greg Norman, the former controversial chief executive of LIV Golf, has admitted feeling sad over the decline of the breakaway series, stating he \"would rather see it end\". After investing more than $5 billion (£3.6 bn) over five years, Saudi Arabia’s Public Investment Fund has withdrawn its financial backing. Although an agreement has been reached with a private equity firm, players are encountering a scaled-back schedule and significantly smaller purses.\n\nHaving been replaced as CEO in 2025, Norman sees no long-term future for the venture he championed so aggressively throughout his full tenure in charge. \"I’m sad, disappointed, gutted to be honest,\" he said in an interview with Skratch.",
-        "copy": "Greg Norman, the former controversial chief executive of LIV Golf, has admitted feeling sad over the decline of the breakaway series, stating he \"would rather see it end\". After investing more than $5 billion (£3.6 bn) over five years, Saudi Arabia’s Public Investment Fund has withdrawn its financial backing. Although an agreement has been reached with a private equity firm, players are encountering a scaled-back schedule and significantly smaller purses.\n\nHaving been replaced as CEO in 2025, Norman sees no long-term future for the venture he championed so aggressively throughout his full tenure in charge. \"I’m sad, disappointed, gutted to be honest,\" he said in an interview with Skratch.",
-        "first_seen": "2026-08-25T08:13:09.932360+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf, as we know it, is gone and never coming back. What on earth is next?",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9keFZzZlJCc2hkWDctTU9UaXJ3ZVNOVEhkZHVpeHpWZThTbnAya29nOVg1aTFwSGFQY2NVRzh6Yk1PVGkzQ0lfWFp3T0VrSFlDZjAwdEFYbXpwck5USlYtLXV1S2FOSjdDbzVqc1BZVkkzRWc?oc=5",
-        "published": "2026-08-24T16:32:01+00:00",
-        "published_label": "Mon 24 Aug, 16:32",
-        "summary": "LIV Golf, as we know it, is gone and never coming back. What on earth is next? National Club Golfer",
-        "body": "Well then. The last LIV Golf event of 2026 is complete. Now we are left to speculate on what might happen to the rebel league, which has rocked the game for the better part of five years.\n\nWhen it was confirmed in April that the Saudi Public Investment Fund would turn off the money tap at the end of this season, stories and rumours sprouted from every angle about the future of players, tournaments, and the league itself.",
-        "copy": "Well then. The last LIV Golf event of 2026 is complete. Now we are left to speculate on what might happen to the rebel league, which has rocked the game for the better part of five years.\n\nWhen it was confirmed in April that the Saudi Public Investment Fund would turn off the money tap at the end of this season, stories and rumours sprouted from every angle about the future of players, tournaments, and the league itself.",
-        "first_seen": "2026-08-24T18:36:53.436113+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Wyndham Clark's meteoric turnaround has 1 main club behind it",
-        "link": "https://golf.com/gear/putters/wyndham-clark-putter-resurgence/",
-        "published": "2026-08-24T16:18:43+00:00",
-        "published_label": "Mon 24 Aug, 16:18",
-        "summary": "Wyndham Clark continued his putting resurgence since switching to Ping's Scottsdale TEC Ally Blue Onset with another victory at BMW. The post Wyndham Clark’s meteoric turnaround has 1 main club behind it appeared first on Golf .",
-        "body": "After his latest victory — his third in the last four months — Wyndham Clark is now firmly in the race for the PGA Tour Player of the Year award, and it all goes back to his putting.\n\nClark can easily attribute his rapid career turnaround in the second half of this season to his switch to Ping’s Scottsdale TEC Ally Blue Onset CB putter. At the Valspar Championship in March, Wyndham Clark was lost on the putting greens. He was 147th in SG: Putting on the PGA Tour and ranked 85th in the FedEx Cup after a missed cut.",
-        "copy": "After his latest victory — his third in the last four months — Wyndham Clark is now firmly in the race for the PGA Tour Player of the Year award, and it all goes back to his putting.\n\nClark can easily attribute his rapid career turnaround in the second half of this season to his switch to Ping’s Scottsdale TEC Ally Blue Onset CB putter. At the Valspar Championship in March, Wyndham Clark was lost on the putting greens. He was 147th in SG: Putting on the PGA Tour and ranked 85th in the FedEx Cup after a missed cut.",
-        "first_seen": "2026-08-24T16:34:32.802146+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Greg Norman issues damning verdict on LIV Golf demise",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDM4bFoxSkpnR2x2WDd5Zk1wM2lkckp5QWRpUmVPbmtUZ29WYkxXWGNPck9nRlZTNl9DS2N2eUdOYmtsSEtnRjk5bllUbTVKRDNjYUNZaUhHcnZtNTAtZ3B4Uml3OW1yRlhKcnBHbGgzZjIwR3RveHkzVnh5cUx4RWUyTDVOeTBVZ0RMUmo3WWg2clk4LVE?oc=5",
-        "published": "2026-08-24T16:08:01+00:00",
-        "published_label": "Mon 24 Aug, 16:08",
-        "summary": "Greg Norman issues damning verdict on LIV Golf demise bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf’s instigator, Greg Norman has shared his concerns over the question marks looming over the breakaway circuit’s future.\n\nWith the league losing the backing of the Public Investment Fund of Saudi Arabia (PIF) for 2027, LIV has been forced to look elsewhere to keep things going into next season. CEO, Scott O’Neil – who replaced Norman last January – revealed this month that a new investor is being lined up, thought to be New York-based, BC Partners.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. LIV Golf’s instigator, Greg Norman has shared his concerns over the question marks looming over the breakaway circuit’s future.\n\nWith the league losing the backing of the Public Investment Fund of Saudi Arabia (PIF) for 2027, LIV has been forced to look elsewhere to keep things going into next season. CEO, Scott O’Neil – who replaced Norman last January – revealed this month that a new investor is being lined up, thought to be New York-based, BC Partners.",
-        "first_seen": "2026-08-24T16:34:32.802146+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Greg Norman: I’d rather see LIV Golf end than wither away",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUUtfY2NqZU9lTkdXdTE5VGNLSncxX21Ldk9kbXh6cXNOV2pEQVBudE1uTHdlaVdjNHkyVVlweHNQcVlEOHNNemQyRzlTMmFaNm40NXI1RlpfbVhBUjFsWE9QdzB3cXJHejBVTjNyTjdFNHdvT1MtVUtpcFlpNEpQM1EwY1p4QQ?oc=5",
-        "published": "2026-08-24T16:01:11+00:00",
-        "published_label": "Mon 24 Aug, 16:01",
-        "summary": "Greg Norman: I’d rather see LIV Golf end than wither away City AM",
-        "body": "Former LIV Golf CEO Greg Norman has said he would rather see the rebel tour scrapped altogether than continue in a diminished form. The tour’s future is in serious doubt after Saudi Arabia’s Public Investment Fund withdrew its backing earlier this year, having already spent $5bn on rivalling the PGA Tour.\n\nTalks continue over a slimmed-down offering next year with investment from BC Partners, but that may depend on whether stars Bryson DeChambeau and Jon Rahm commit to LIV Golf.",
-        "copy": "Former LIV Golf CEO Greg Norman has said he would rather see the rebel tour scrapped altogether than continue in a diminished form. The tour’s future is in serious doubt after Saudi Arabia’s Public Investment Fund withdrew its backing earlier this year, having already spent $5bn on rivalling the PGA Tour.\n\nTalks continue over a slimmed-down offering next year with investment from BC Partners, but that may depend on whether stars Bryson DeChambeau and Jon Rahm commit to LIV Golf.",
-        "first_seen": "2026-08-24T16:34:32.802146+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Which LIV Golf players got relegated?",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSU9tRjBtMktNTmcxOXlsci1HOFJNdzlXcGdzRWRXd3hRRldSVndTOGlzeUxyYlRSX2dEVTRKNUp3WDdFSjJYYm9mcVJKMHdROE43T0IzU2duU1A2ZERtWHRkM3BlMTROUGphbVlXM2doNTNFbGl2SmpHZUxHZTBOQmVR?oc=5",
-        "published": "2026-08-24T15:21:52+00:00",
-        "published_label": "Mon 24 Aug, 15:21",
-        "summary": "Which LIV Golf players got relegated? Golfmagic",
-        "body": "LIV Golf brought the curtain down on its 2026 campaign in Indianapolis. America's Michael La Sasso, 22, was crowned the shock winner at The Club at Chatham Hills after holding off challenges from major champions Jon Rahm and Bryson DeChambeau.\n\nLa Sasso's victory truly came out of nowhere, with the 22-year-old having managed just one top-15 finish all season before teeing it up on Thursday. But while La Sasso ended the season on a high, a host of LIV players are now facing an uncertain future after finishing in the drop zone.",
-        "copy": "LIV Golf brought the curtain down on its 2026 campaign in Indianapolis. America's Michael La Sasso, 22, was crowned the shock winner at The Club at Chatham Hills after holding off challenges from major champions Jon Rahm and Bryson DeChambeau.\n\nLa Sasso's victory truly came out of nowhere, with the 22-year-old having managed just one top-15 finish all season before teeing it up on Thursday. But while La Sasso ended the season on a high, a host of LIV players are now facing an uncertain future after finishing in the drop zone.",
-        "first_seen": "2026-08-24T16:34:32.802146+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "China Masters: Opening Round Treats Await",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVJRY3pGak52WjQ2SXVrVEhpODRnYVk1NnUxZzdCbWw0TTYyeGdIeXdDd1o2TVlMRkR4RThacGo2QUI0NzF2M2tZdEtjbGJOd1l4Mi0zdmg2aTRVcEtGUWRXaXY2SkNwLWtnSkZTXzg3aDNHTWJESldoVWJzVDVWZkE3emJyREN0MHVRZlRWeGlOQVpJd2hRakVZRG1YSllPM29zOA?oc=5",
+        "published": "2026-08-31T16:04:16+00:00",
+        "published_label": "Mon 31 Aug, 16:04",
+        "summary": "China Masters: Opening Round Treats Await BWF World Tour",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-08-31T19:51:55.929149+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6758,5 +6771,5 @@
       }
     ]
   },
-  "total": 518
+  "total": 519
 }
