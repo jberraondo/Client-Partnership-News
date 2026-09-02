@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T15:57:44.448663+00:00",
-  "generated_label": "Wednesday 02 September 2026, 15:57 UTC",
+  "generated_at": "2026-09-02T19:14:27.887723+00:00",
+  "generated_label": "Wednesday 02 September 2026, 19:14 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -157,6 +157,19 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Hard Rock secures title rights for F1’s Miami GP from 2027",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczJJQTlXd1dKRVRrQ1hEZjd6OWVqZFpua2kyLXg0ZkVqRDZ5TzdMeURSTTYwMDBOTFFrdnFodkM3bTEtRTdPRzRuRmltdUhyR2FINnczZVFNc2N2bzBXYUI3U2ZjNlhGYUNBbGFPRnQ4MUFpaGRia3N4R1VRUXpBNm5HazBlQ1JWeTZfekFzS2o2WnMyTFp5TXdqdw?oc=5",
+        "published": "2026-09-02T10:19:33+00:00",
+        "published_label": "Wed 02 Sep, 10:19",
+        "summary": "Hard Rock secures title rights for F1’s Miami GP from 2027 Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Sport Industry",
         "kind": "direct",
         "title": "WTW joins WSL as insurance partner",
@@ -180,6 +193,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-02T10:34:49.913013+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "EV batteries last longer than drivers feared",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGEzSzhDUXAxd1ZSdDI0TUtoclZoLUpKeC16ZC1xdzZMNkZMMWEyVXloUGhmbVEzNkxKbGxiZEdmX1lEUzllS2E0eS1jaXpkS2l0bDJ3NEV3WDZLb0xRdEctU0xPN0VCVk1yRG1MUGhBSnNVNzRBVmR6T1ZtdDlRdGV2OU0?oc=5",
+        "published": "2026-09-02T08:00:07+00:00",
+        "published_label": "Wed 02 Sep, 08:00",
+        "summary": "EV batteries last longer than drivers feared Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1444,6 +1470,97 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'We've got to find a happy medium'",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ym0x04n55o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-02T18:13:49+00:00",
+        "published_label": "Wed 02 Sep, 18:13",
+        "summary": "Northampton boss Phil Dowson says he is optimistic about extending Henry Pollock's contract despite agent demands for seven-figure annual wages.",
+        "body": "Northampton boss Phil Dowson says he is relaxed about boxing supremo Eddie Hearn's ambition to secure Saints star Henry Pollock a contract extension worth a million pound a year.\n\nHearn, who signed a deal to secure commercial deals for Pollock in April, told the Daily Telegraph, external earlier this year that 21-year-old is \"a seven-figure player\" who \"cannot stay at this club on the money he's on\".",
+        "copy": "Northampton boss Phil Dowson says he is relaxed about boxing supremo Eddie Hearn's ambition to secure Saints star Henry Pollock a contract extension worth a million pound a year.\n\nHearn, who signed a deal to secure commercial deals for Pollock in April, told the Daily Telegraph, external earlier this year that 21-year-old is \"a seven-figure player\" who \"cannot stay at this club on the money he's on\".",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Exeter make cross-code swoop for Sydney-based RL winger",
+        "link": "https://www.rugbypass.com/news/exeter-make-cross-code-swoop-for-sydney-based-teenage-kiwi-winger/",
+        "published": "2026-09-02T18:05:58+00:00",
+        "published_label": "Wed 02 Sep, 18:05",
+        "summary": "Exeter Chiefs have signed winger/full-back Charlie Poynton from the South Sydney Rabbitohs for the 2026/27 season.",
+        "body": "Exeter Chiefs have signed winger/full-back Charlie Poynton from the South Sydney Rabbitohs for the 2026/27 season. The 19-year-old, who was born in New Zealand, will provide cover for the injured Paul Brown-Bampoe and Immanuel Feyi-Waboso, who is on a break after international duty.\n\nPoynton is no stranger to rugby union, having been part of the NSW Waratahs senior academy and played for their partner club, Manly Marlins. At international level, in July 2024 Poynton was selected in the Australia U18s development squad by coach Shannon Fraser.",
+        "copy": "Exeter Chiefs have signed winger/full-back Charlie Poynton from the South Sydney Rabbitohs for the 2026/27 season. The 19-year-old, who was born in New Zealand, will provide cover for the injured Paul Brown-Bampoe and Immanuel Feyi-Waboso, who is on a break after international duty.\n\nPoynton is no stranger to rugby union, having been part of the NSW Waratahs senior academy and played for their partner club, Manly Marlins. At international level, in July 2024 Poynton was selected in the Australia U18s development squad by coach Shannon Fraser.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Potential Rassie Erasmus successor weighs in on latest controversy",
+        "link": "https://www.rugbypass.com/news/potential-rassie-erasmus-successor-weighs-in-on-latest-controversy-johann-van-graan-springboks/",
+        "published": "2026-09-02T17:05:01+00:00",
+        "published_label": "Wed 02 Sep, 17:05",
+        "summary": "Bath head of rugby Johann van Graan has acknowledged that “there are many different ways” to approach team announcements, but stressed that the priority is ensuring “the players must know what’s going on.”",
+        "body": "Bath head of rugby Johann van Graan has acknowledged that “there are many different ways” to approach team announcements, but stressed that the priority is ensuring “the players must know what’s going on.”\n\nThe issue of team naming has become a hot topic in rugby after South Africa head coach Rassie Erasmus named his Springboks side on a Monday last week, only to make a series of changes as the week progressed, right up until an hour before kick-off.",
+        "copy": "Bath head of rugby Johann van Graan has acknowledged that “there are many different ways” to approach team announcements, but stressed that the priority is ensuring “the players must know what’s going on.”\n\nThe issue of team naming has become a hot topic in rugby after South Africa head coach Rassie Erasmus named his Springboks side on a Monday last week, only to make a series of changes as the week progressed, right up until an hour before kick-off.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "What happened the last time the Springbok Women played the Black Ferns?",
+        "link": "https://www.rugbypass.com/news/what-happened-the-last-time-the-springbok-women-played-the-black-ferns/",
+        "published": "2026-09-02T16:47:35+00:00",
+        "published_label": "Wed 02 Sep, 16:47",
+        "summary": "When the Springbok Women and Black Ferns meet in Rugby's Greatest Rivalry this Saturday it will have been 357 days since their last meeting.",
+        "body": "When the Springbok Women and Black Ferns meet in Rugby’s Greatest Rivalry this Saturday it will have been 357 days since their last meeting. This weekend the teams will meet at FNB Stadium in Soweto. Their time shared on the field of South Africa’s largest stadium will be the warm-up act to the Springboks and All Blacks‘ third Test.\n\nAs things stand, the Test series between the two teams are finely poised. Last weekend, Rassie Erasmus’ side levelled things at one game apiece with a resurgent performance at DHL Stadium in Cape Town.",
+        "copy": "When the Springbok Women and Black Ferns meet in Rugby’s Greatest Rivalry this Saturday it will have been 357 days since their last meeting. This weekend the teams will meet at FNB Stadium in Soweto. Their time shared on the field of South Africa’s largest stadium will be the warm-up act to the Springboks and All Blacks‘ third Test.\n\nAs things stand, the Test series between the two teams are finely poised. Last weekend, Rassie Erasmus’ side levelled things at one game apiece with a resurgent performance at DHL Stadium in Cape Town.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Northampton welcome Eddie Hearn's input as Pollock talks progress",
+        "link": "https://www.rugbypass.com/news/northampton-seeking-happy-medium-to-keep-henry-pollock-at-club/",
+        "published": "2026-09-02T16:42:49+00:00",
+        "published_label": "Wed 02 Sep, 16:42",
+        "summary": "Promoter Eddie Hearn hit the headlines earlier this summer when he suggested that 21-year-old Pollock is a “seven-figure player”.",
+        "body": "Northampton Saints boss Phil Dowson believes that England star Henry Pollock wants to stay with the club beyond the end of his current contract, which expires next summer. Dowson revealed talks are going well to keep the England and Lions star, but he will need to fit him in to the salary cap while keeping 57 or 58 other players happy as well.\n\nPromoter Eddie Hearn hit the headlines earlier this summer when he suggested that 21-year-old Pollock is a “seven-figure player”, a salary that very few clubs could find room for.",
+        "copy": "Northampton Saints boss Phil Dowson believes that England star Henry Pollock wants to stay with the club beyond the end of his current contract, which expires next summer. Dowson revealed talks are going well to keep the England and Lions star, but he will need to fit him in to the salary cap while keeping 57 or 58 other players happy as well.\n\nPromoter Eddie Hearn hit the headlines earlier this summer when he suggested that 21-year-old Pollock is a “seven-figure player”, a salary that very few clubs could find room for.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Summer off England duty took me by surprise",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c20l1g8eqj4o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-02T16:00:53+00:00",
+        "published_label": "Wed 02 Sep, 16:00",
+        "summary": "England captain Maro Itoje says he was initially taken aback by the suggestion he step away from international action for the July Tests",
+        "body": "England captain Maro Itoje says he was initially shocked when head coach Steve Borthwick raised the possibility of him taking the summer off. Itoje missed England's matches against South Africa, Fiji and Argentina in July, holidaying in Mauritius and Nigeria as he took a first proper summer break from professional rugby in more than a decade.\n\nThe 31-year-old, whose mother died in the weeks before he led England through a deflating Six Nations campaign that featured just one win, says he is now feeling the benefits of his time away.",
+        "copy": "England captain Maro Itoje says he was initially shocked when head coach Steve Borthwick raised the possibility of him taking the summer off. Itoje missed England's matches against South Africa, Fiji and Argentina in July, holidaying in Mauritius and Nigeria as he took a first proper summer break from professional rugby in more than a decade.\n\nThe 31-year-old, whose mother died in the weeks before he led England through a deflating Six Nations campaign that featured just one win, says he is now feeling the benefits of his time away.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Maro Itoje admits to being taken aback by Steve Borthwick's novel idea",
+        "link": "https://www.rugbypass.com/news/maro-itoje-admits-to-being-taken-aback-by-steve-borthwicks-novel-idea/",
+        "published": "2026-09-02T15:54:09+00:00",
+        "published_label": "Wed 02 Sep, 15:54",
+        "summary": "The England and Lions skipper says Borthwick first approached him after the Six Nations to discuss taking the summer off after exceeding the recommended 30-game-a-season limit in the 2023-24 and 2024-25 campaigns.",
+        "body": "Maro Itoje admits he was taken aback when England boss Steve Borthwick suggested after the Six Nations that he miss the Nations Championship this summer. The England and Lions skipper says Borthwick first approached him after the Six Nations to discuss taking the summer off after exceeding the recommended 30-game-a-season limit in the 2023-24 and 2024-25 campaigns.\n\nItoje says that the more he thought about it, however, the more it made sense, and he is now firing on all cylinders once again ahead of the new season after completing his first full pre-season with Saracens in 12 years.",
+        "copy": "Maro Itoje admits he was taken aback when England boss Steve Borthwick suggested after the Six Nations that he miss the Nations Championship this summer. The England and Lions skipper says Borthwick first approached him after the Six Nations to discuss taking the summer off after exceeding the recommended 30-game-a-season limit in the 2023-24 and 2024-25 campaigns.\n\nItoje says that the more he thought about it, however, the more it made sense, and he is now firing on all cylinders once again ahead of the new season after completing his first full pre-season with Saracens in 12 years.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3237,35 +3354,35 @@
         "body": "Harlequins have signed Zimbabwe winger Edward Sigauke. The 22-year-old has played 12 times, scoring eight tries, for his country, having made his international debut in 2024. Quins head coach Jason Gilmore said: \"Eddie is a player we've been tracking and we're really pleased to get his signing over the line.\n\n\"He's got tremendous speed and footwork that makes him a real handful for any defence, and we believe he's got all the raw tools to become a weapon for us out wide. \"What excites us most is his potential - he's still developing as a player, and we can't wait to see how he grows within our environment as he takes the next steps in his career.\"",
         "copy": "Harlequins have signed Zimbabwe winger Edward Sigauke. The 22-year-old has played 12 times, scoring eight tries, for his country, having made his international debut in 2024. Quins head coach Jason Gilmore said: \"Eddie is a player we've been tracking and we're really pleased to get his signing over the line.\n\n\"He's got tremendous speed and footwork that makes him a real handful for any defence, and we believe he's got all the raw tools to become a weapon for us out wide. \"What excites us most is his potential - he's still developing as a player, and we can't wait to see how he grows within our environment as he takes the next steps in his career.\"",
         "first_seen": "2026-08-27T17:19:17.425447+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Leicester Tigers report three-year fan high as confidence returns",
-        "link": "https://www.rugbypass.com/news/leicester-tigers-report-three-year-fan-high-as-confidence-returns/",
-        "published": "2026-08-26T18:20:34+00:00",
-        "published_label": "Wed 26 Aug, 18:20",
-        "summary": "Buoyed by an encouraging first season in charge under Geoff Parling, Leicester's season ticket sales for the 2026/27 campaign have topped five figures.",
-        "body": "Buoyed by an encouraging first season in charge under Geoff Parling, Leicester’s season ticket sales for the 2026/27 campaign have topped five figures. Just over a fortnight out from the first competitive home fixture of the season against Newcastle in the PREM Rugby Cup, the Tigers have reported their highest sales for three years. So far, Leicester have sold 10,400 season tickets, which start at £199 for adults and £50 for U18s.\n\nLeicester won the Cup in March and reached the PREM play-offs after a strong second half to the league season, only to lose to East Midlands rivals Northampton in the semi-finals.",
-        "copy": "Buoyed by an encouraging first season in charge under Geoff Parling, Leicester’s season ticket sales for the 2026/27 campaign have topped five figures. Just over a fortnight out from the first competitive home fixture of the season against Newcastle in the PREM Rugby Cup, the Tigers have reported their highest sales for three years. So far, Leicester have sold 10,400 season tickets, which start at £199 for adults and £50 for U18s.\n\nLeicester won the Cup in March and reached the PREM play-offs after a strong second half to the league season, only to lose to East Midlands rivals Northampton in the semi-finals.",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "2026 FISU World University Championship Rugby Sevens",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc19PVWNtWnVfTDZxdXZ3SURLbTVtUFJDZVNxcm9TaVpwVldFMFFzUTBkZ29BdUk0OE1ab3dFcHVPanlOanFvWkVyYzU0ZGt0OEM4TE1iRXFyYWdldGkweHJDVFVFZXZOalUxbjFaYnA4dUdSWGszOTN3aHpWWXUtM1VONA?oc=5",
-        "published": "2026-08-26T17:49:22+00:00",
-        "published_label": "Wed 26 Aug, 17:49",
-        "summary": "2026 FISU World University Championship Rugby Sevens BC Rugby News",
-        "body": "The 2026 FISU World University Championship Rugby Sevens takes place from September 4 to 6 in Stellenbosch , South Africa. There are 16 teams, 7 women and 9 men, from 14 countries, hosts South Africa have teams entered in both men’s and women’s tournaments as does Australia. Other teams in the women’s tournament besides Canada, Australia and South Africa are USA, Ireland, Japan and France. The men’s competition includes South Africa, Chile, Mexico, Australia, Zimbabwe, Argentina, Uganda, Norway and Japan. Robin MacDowell from Cowichan is part of the coaching team.\n\nThe official website includes the following links for following along. Click here to access photos and highlights. Twelve student-athletes from across Canada have been selected to represent Team Canada at the 2026 FISU World University Championship Rugby Sevens, set for Sept. 4-6 in Stellenbosch, South Africa!",
-        "copy": "The 2026 FISU World University Championship Rugby Sevens takes place from September 4 to 6 in Stellenbosch , South Africa. There are 16 teams, 7 women and 9 men, from 14 countries, hosts South Africa have teams entered in both men’s and women’s tournaments as does Australia. Other teams in the women’s tournament besides Canada, Australia and South Africa are USA, Ireland, Japan and France. The men’s competition includes South Africa, Chile, Mexico, Australia, Zimbabwe, Argentina, Uganda, Norway and Japan. Robin MacDowell from Cowichan is part of the coaching team.\n\nThe official website includes the following links for following along. Click here to access photos and highlights. Twelve student-athletes from across Canada have been selected to represent Team Canada at the 2026 FISU World University Championship Rugby Sevens, set for Sept. 4-6 in Stellenbosch, South Africa!",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "US Open: Britain's Toby Samuel's meteoric rise from world No 1,871 and playing in Guatemala to the US Open second round",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZ2o5dWlFLTFudmFJTUMxdmRlcENnVmhOQVR2dlpYVGFLcVo4NEZoa0hETEFjTk8yWm9NRHg1blloQ2M0LVhyTlc5dmxveVNKdHdQelJzSUJRMUVyeXRfYlgtS0xvV3p6RXEtekxpX2FVWjdIelRaMzVpSFJLOWxpMWd4WktCQWFsTGRwcE03MTRGbDNsaTF4OFlvcm9KVXFuN19DYkZ5T1I3d2taOU9mS05sLXdWdlFtUXhrbjBzcE9hZ0txSWVxMFJsNUhxMzZjYlozcmdYcTRFRkRjVGRXal9ycTVkT2FWOHI3aW84TTJrN1dBT2ZwZGcxYVZkdw?oc=5",
+        "published": "2026-09-02T18:12:26+00:00",
+        "published_label": "Wed 02 Sep, 18:12",
+        "summary": "US Open: Britain's Toby Samuel's meteoric rise from world No 1,871 and playing in Guatemala to the US Open second round skysports.com",
+        "body": "Britain's Toby Samuel has come a long way from the start of 2025 - rising from 1,871 in the world to the US Open second round. Samuel, who came through qualifying to make his main draw debut at Flushing Meadows, needed just an hour and 32 minutes to beat the former world No 20 Tomas Machac and book his place in the second round.\n\nThe 23-year-old - dubbed the 'Winchester Rifle' due to his powerful serve - hammered down serves of up to 135mph to blow his Czech opponent away. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
+        "copy": "Britain's Toby Samuel has come a long way from the start of 2025 - rising from 1,871 in the world to the US Open second round. Samuel, who came through qualifying to make his main draw debut at Flushing Meadows, needed just an hour and 32 minutes to beat the former world No 20 Tomas Machac and book his place in the second round.\n\nThe 23-year-old - dubbed the 'Winchester Rifle' due to his powerful serve - hammered down serves of up to 135mph to blow his Czech opponent away. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nZDRTcDNqeEFhc0pzbjhjQ1VBSDlFWmkyMXAtR2trT2dHZTJtMjdFR2hUMnA4V2VvdFVVWUtLa3hZT3Uyb1pWdFZkWnBsbU5mNUtMdUc2bVhobVpXVEx0eHZRblQ2REF1Y1JqUElRNXQwazNic1ZNdGpkbw?oc=5",
+        "published": "2026-09-02T16:55:16+00:00",
+        "published_label": "Wed 02 Sep, 16:55",
+        "summary": "Sports News, Transfers, Scores | Watch Live Sport skysports.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -3278,6 +3395,19 @@
         "body": "It's a record-breaking year for prize money at the US Open. The total prize money available to players is $108m (£80m), which is 20% more than the 2025 tournament - making it not just the largest-ever US Open prize pot, but the largest in Grand Slam history.\n\nFor comparison, the prize fund for Wimbledon this year was £64.2m. Of the US Open prize fund, $2m (£1.47m) goes towards a 'player support programme' after calls from players for athlete welfare across the Grand Slams, which the US Open says is \"designed to complement existing end-of-career pension funds\" and \"will bring a range of benefits for mid-career life events and retirement transitions\".",
         "copy": "It's a record-breaking year for prize money at the US Open. The total prize money available to players is $108m (£80m), which is 20% more than the 2025 tournament - making it not just the largest-ever US Open prize pot, but the largest in Grand Slam history.\n\nFor comparison, the prize fund for Wimbledon this year was £64.2m. Of the US Open prize fund, $2m (£1.47m) goes towards a 'player support programme' after calls from players for athlete welfare across the Grand Slams, which the US Open says is \"designed to complement existing end-of-career pension funds\" and \"will bring a range of benefits for mid-career life events and retirement transitions\".",
         "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "US Open LIVE! Scores, updates, news, commentary and results from New York with Katie Boulter, Jacob Fearnley, Jan Choinski and Toby Samuel in action",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOem9pN3ZUR01PUk1oYlRHYndYR255MG80VGtpdXZockNwNGpfTTJsNEt4Z3Bsbnh3VzRmMnpfSVFBdnVmQS1nMEo0VXhsWVRaZU9fSTdNOGpiTEI2MTJCbnlCWDByUTBORW9Sc3YwWEw5NEh5MG9DSmpIazBQWTZIdENBWW1hZ1JDQkpCQkNVUElFQVN4ZmFTUGlxZWxEVlI3d0hQSXJ6R0d1NUNIR0RWQ3c0bnZLRVRZNXVrQ1NSTklyZ3JwMGgzWnM4YzA3TV9rWktfcUIwWnRyd196dlg3UHh5dHlrdHJWZi1XbmNZQWY1VWxKQ3kwc3ZFaWN6QVNlcFBMNDhmM1MxZHZEcmJNZkwzNkhXUG1CWHBnbngwVWxZWFhyZW5F?oc=5",
+        "published": "2026-09-02T14:38:28+00:00",
+        "published_label": "Wed 02 Sep, 14:38",
+        "summary": "US Open LIVE! Scores, updates, news, commentary and results from New York with Katie Boulter, Jacob Fearnley, Jan Choinski and Toby Samuel in action skysports.com",
+        "body": "Point of the tournament? - Gornzy wins stunning rally against Medvedev Sebastian Gorzny's US Open debut may have been ended by a straight sets defeat to Daniil Medvedev, but the American collegiate graduate leaves Flushing Meadows having produced a contender for the point and shot of the tournament in an epic rally.",
+        "copy": "Point of the tournament? - Gornzy wins stunning rally against Medvedev Sebastian Gorzny's US Open debut may have been ended by a straight sets defeat to Daniil Medvedev, but the American collegiate graduate leaves Flushing Meadows having produced a contender for the point and shot of the tournament in an epic rally.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
       },
       {
         "section": "Tennis",
@@ -4247,6 +4377,32 @@
         "section": "Golf",
         "source": "Golf.com",
         "kind": "direct",
+        "title": "This old Arnold Palmer clip offers a delightful history lesson",
+        "link": "https://golf.com/news/arnold-palmer-whats-my-line/",
+        "published": "2026-09-02T18:06:23+00:00",
+        "published_label": "Wed 02 Sep, 18:06",
+        "summary": "I was sent this 1960 Arnold Palmer clip from when he appeared on “What’s My Line?” It's a time capsule, and I have homework for you too. The post This old Arnold Palmer clip offers a delightful history lesson appeared first on Golf .",
+        "body": "I asked my cellphone to play J.J. Spaun the other day, though I meant to say J.J. Cale, the Clapton whisperer from Tulsa. If I may: I was distracted, reading about Venus Williams playing U.S. Open tennis at 2 a.m. in my morning paper. The phone decided, all on its own, to play JJ Grey & Mofro — not a band I knew, but an enjoyable happenstance surprise. The internet traffics in happenstance.\n\nMy brother was born in Brooklyn in 1957, the year the Dodgers left the borough for Los Angeles. When David came of baseball age he fell under the spell of the New York Mets, and he’s been loyal to the Amazin’s (add air quotes to taste) ever since. Such devotion requires a sense of humor, and the irony gene helps, too. The internet, via its algorithmic magic, supplies him with a steady stream of curiosities, from baseball, from golf, from various cabinets. When Haotong Li went triple bogey-quintuple bogey on 12 and 13 at Augusta National on Masters Sunday this year I heard about it from David first, even though he was home and I was at the tourney.",
+        "copy": "I asked my cellphone to play J.J. Spaun the other day, though I meant to say J.J. Cale, the Clapton whisperer from Tulsa. If I may: I was distracted, reading about Venus Williams playing U.S. Open tennis at 2 a.m. in my morning paper. The phone decided, all on its own, to play JJ Grey & Mofro — not a band I knew, but an enjoyable happenstance surprise. The internet traffics in happenstance.\n\nMy brother was born in Brooklyn in 1957, the year the Dodgers left the borough for Los Angeles. When David came of baseball age he fell under the spell of the New York Mets, and he’s been loyal to the Amazin’s (add air quotes to taste) ever since. Such devotion requires a sense of humor, and the irony gene helps, too. The internet, via its algorithmic magic, supplies him with a steady stream of curiosities, from baseball, from golf, from various cabinets. When Haotong Li went triple bogey-quintuple bogey on 12 and 13 at Augusta National on Masters Sunday this year I heard about it from David first, even though he was home and I was at the tourney.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How a Ryder Cup rules controversy kept Jason Day from the Presidents Cup",
+        "link": "https://golf.com/news/jason-day-presidents-cup-snub-ryder-cup-rule/",
+        "published": "2026-09-02T17:44:36+00:00",
+        "published_label": "Wed 02 Sep, 17:44",
+        "summary": "International captain Geoff Ogilvy left Jason Day off his Presidents Cup roster, and a controversial Ryder Cup rule played a role. The post How a Ryder Cup rules controversy kept Jason Day from the Presidents Cup appeared first on Golf .",
+        "body": "When Presidents Cup rosters were finalized Tuesday, a few notable exclusions stood out. On the American side, captain Brandt Snedeker went with budding young star Jackson Koivun and Genesis Invitational winner Jacob Bridgeman over Ryder Cuppers Ben Griffin and J.J. Spaun. For the Internationals, one big name did not make Geoff Ogilvy’s squad: Jason Day.\n\nThe 2015 PGA Champion and former World No. 1 has played in five Presidents Cups and is one of the biggest names on an International side that lacks star power outside of Hideki Matsuyama and Adam Scott. But the 38-year-old Day dealt with a back injury for a big part of the 2026 season. It forced him to withdraw pre-tournament from the 3M Open and the Rocket Classic and contributed to Day missing the FedEx Cup Playoffs for the first time in 18 years.",
+        "copy": "When Presidents Cup rosters were finalized Tuesday, a few notable exclusions stood out. On the American side, captain Brandt Snedeker went with budding young star Jackson Koivun and Genesis Invitational winner Jacob Bridgeman over Ryder Cuppers Ben Griffin and J.J. Spaun. For the Internationals, one big name did not make Geoff Ogilvy’s squad: Jason Day.\n\nThe 2015 PGA Champion and former World No. 1 has played in five Presidents Cups and is one of the biggest names on an International side that lacks star power outside of Hideki Matsuyama and Adam Scott. But the 38-year-old Day dealt with a back injury for a big part of the 2026 season. It forced him to withdraw pre-tournament from the 3M Open and the Rocket Classic and contributed to Day missing the FedEx Cup Playoffs for the first time in 18 years.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
         "title": "FootJoy's new Quantum golf shoes are super soft — and waterproof",
         "link": "https://golf.com/gear/shoes/footjoy-new-quantum-golf-shoes-super-soft-waterproof/",
         "published": "2026-09-02T15:46:31+00:00",
@@ -4294,6 +4450,32 @@
         "body": "The 2026 Presidents Cup at Medinah C.C. is just three weeks away, and U.S. captain Brandt Snedeker announced his final picks for the team on Tuesday night. While many of the players who did receive captain’s picks were certain locks (with one big exception), other players who may have thought they would be selected for the team got snubbed by Snedeker.\n\nTwo players in particular stand out: J.J Spaun and Ben Griffin. Not only did they both play on the 2025 U.S. Ryder Cup team, but they also performed better there than multiple players who did earn Presidents Cup picks.",
         "copy": "The 2026 Presidents Cup at Medinah C.C. is just three weeks away, and U.S. captain Brandt Snedeker announced his final picks for the team on Tuesday night. While many of the players who did receive captain’s picks were certain locks (with one big exception), other players who may have thought they would be selected for the team got snubbed by Snedeker.\n\nTwo players in particular stand out: J.J Spaun and Ben Griffin. Not only did they both play on the 2025 U.S. Ryder Cup team, but they also performed better there than multiple players who did earn Presidents Cup picks.",
         "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Jon Rahm makes plans away from LIV Golf as bankruptcy decision looms",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GVTVXVW5uQlhUbEgwSDk3eXdLT0lKQjd6VFRiT3JxakljT2c2UEhycEZNaktqemlRalNsWjMyNTRiZUIzODBuZ0J1OW1YSzdMMHBPRDJtWFhkbDR0U1p4cEl6aGVQeWFQQ3Rpbm0yZFBQbzIyWmxwMg?oc=5",
+        "published": "2026-09-02T11:42:36+00:00",
+        "published_label": "Wed 02 Sep, 11:42",
+        "summary": "Jon Rahm makes plans away from LIV Golf as bankruptcy decision looms AOL.com",
+        "body": "Jon Rahm is set for a busy run on the golf course as he awaits news on LIV Golf's future, with the troubled league facing bankruptcy. Two-time major champion Rahm is believed to be the league's biggest creditor, still owed a nine-figure sum from the blockbuster contract he signed to jump ship from the PGA Tour in 2023.\n\nThe former world No. 1 has been linked with a return to the PGA Tour as LIV's future hangs in the balance, with some staff fearing that Rahm will quit regardless of whether a rescue deal funded by private equity firm BC Partners is finalized.",
+        "copy": "Jon Rahm is set for a busy run on the golf course as he awaits news on LIV Golf's future, with the troubled league facing bankruptcy. Two-time major champion Rahm is believed to be the league's biggest creditor, still owed a nine-figure sum from the blockbuster contract he signed to jump ship from the PGA Tour in 2023.\n\nThe former world No. 1 has been linked with a return to the PGA Tour as LIV's future hangs in the balance, with some staff fearing that Rahm will quit regardless of whether a rescue deal funded by private equity firm BC Partners is finalized.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV employees hit out as £4bn breakaway league heads for bankruptcy",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa21rS0E2U0R4RGdRQWR0eGY4VlVBZlEwRWJaV21EQVhqbkp3SXRLRmh0RGF5NE9BVVk1U3F1WjJGRnFsMXZwdkQ5OFJUTlRlRFczNUxxWmxmeGsxc3pobHFsak1DUUFNVm45WG1nbUNrU2V5aDVHcnJNRzMwTFRiYU1CYnNDVVJNUGhyNkpMRkFKbmVfYTU2T1JCaHAtUWVJSncxWVZ5WQ?oc=5",
+        "published": "2026-09-02T11:05:00+00:00",
+        "published_label": "Wed 02 Sep, 11:05",
+        "summary": "LIV employees hit out as £4bn breakaway league heads for bankruptcy telegraph.co.uk",
+        "body": "LIV employees on freelance contracts are resigned to their last few months of work going unpaid, with the breakaway circuit expected to go into voluntary bankruptcy next week.\n\nThe majority of LIV staff have cleared their desks this week after 90 per cent of the workforce were laid off, but while they have been paid, those on temporary contracts have not. Telegraph Sport has contacted people who were on temporary deals and have not been remunerated for their work since May.",
+        "copy": "LIV employees on freelance contracts are resigned to their last few months of work going unpaid, with the breakaway circuit expected to go into voluntary bankruptcy next week.\n\nThe majority of LIV staff have cleared their desks this week after 90 per cent of the workforce were laid off, but while they have been paid, those on temporary contracts have not. Telegraph Sport has contacted people who were on temporary deals and have not been remunerated for their work since May.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
       },
       {
         "section": "Golf",
@@ -4463,6 +4645,19 @@
         "body": "True Spec Golf, the premium brand-agnostic club fitting company that was founded in 2014, announced a new partnership on Tuesday with the Arizona State University Sun Devil Men’s Golf team for the 2026-2027 season.\n\nAs part of the deal, the team will have access to True Spec’s full range of custom club fitting services, including ongoing tune-ups for loft and lie, gap analysis and regripping, but there’s another detail that makes the partnership the first of its kind: a substantial NIL contribution, which will be used to compensate participating ASU student-athletes.",
         "copy": "True Spec Golf, the premium brand-agnostic club fitting company that was founded in 2014, announced a new partnership on Tuesday with the Arizona State University Sun Devil Men’s Golf team for the 2026-2027 season.\n\nAs part of the deal, the team will have access to True Spec’s full range of custom club fitting services, including ongoing tune-ups for loft and lie, gap analysis and regripping, but there’s another detail that makes the partnership the first of its kind: a substantial NIL contribution, which will be used to compensate participating ASU student-athletes.",
         "first_seen": "2026-09-01T16:02:49.324879+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf on the verge of bankruptcy",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTdWU0dCMjRXcHBDSUZmY3JrdE1KckkyYU1rWTctZ25VYTcxTFlvYndwbVZzQ0szZHBxWkF2ellNcFJ5anFIQ1F2Q3U4UVV0QlNINE11TnRrNEpkMGZOUnFHQTI2SVNZdk1JRUhrbEpJYXp1U0ktb3ZZSFdlOHF4bXo5WmdTbTQ1VUJkN3hybjZOdHNqalZJWkZ30gGnAUFVX3lxTE1EUUpGRlljY0NIa05oNTRNLThGMVVEYUpuUUxKSmlqcTBTWUFSUHdUaGlDSlJfcGF4dXI0b3hIbzRrWnVwa3plQTRyUGdSNWFTbm56NndORFdJSnBmdGhVc2RjUmhiUlRNSktONElBNDAyQ3ZGVXdNWF9Vb2xCSUlIRkJ5RUxZVWpKdWlNcXZVTDZnaERtWlJENzBmNWRPNFlIUmx1Rklr?oc=5",
+        "published": "2026-09-01T14:22:27+00:00",
+        "published_label": "Tue 01 Sep, 14:22",
+        "summary": "LIV Golf on the verge of bankruptcy Mundo Deportivo",
+        "body": "LIV Golf is facing a critical period. The men’s golf circuit, launched in 2022 by Saudi Arabia’s Public Investment Fund, or PIF, has reportedly sought bankruptcy protection after laying off most of its workforce while continuing its search for a lead investor following the PIF’s withdrawal, according to the Financial Times.\n\nThe circuit recently sent settlement offers to current players who are owed millions of dollars in guaranteed payments extending beyond 2026. A bankruptcy filing could be submitted in federal district court in New Jersey, while the PIF is expected to provide less than $100 million in bankruptcy financing, without committing additional funds.",
+        "copy": "LIV Golf is facing a critical period. The men’s golf circuit, launched in 2022 by Saudi Arabia’s Public Investment Fund, or PIF, has reportedly sought bankruptcy protection after laying off most of its workforce while continuing its search for a lead investor following the PIF’s withdrawal, according to the Financial Times.\n\nThe circuit recently sent settlement offers to current players who are owed millions of dollars in guaranteed payments extending beyond 2026. A bankruptcy filing could be submitted in federal district court in New Jersey, while the PIF is expected to provide less than $100 million in bankruptcy financing, without committing additional funds.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
       },
       {
         "section": "Golf",
@@ -5945,175 +6140,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Rory McIlroy applauds TaylorMade's Qi4D driver decision",
-        "link": "https://golf.com/gear/drivers/rory-mcilroy-applauds-taylormades-qi4d-decision/",
-        "published": "2026-08-26T19:09:37+00:00",
-        "published_label": "Wed 26 Aug, 19:09",
-        "summary": "At the Tour Championship, Rory McIlroy explained why he and other pros are excited about TaylorMade moving to a two-year driver cycle. The post Rory McIlroy applauds TaylorMade’s Qi4D driver decision appeared first on Golf .",
-        "body": "Rory McIlroy has a driver he likes and he’s looking forward to playing it for the foreseeable future. And why is this significant? Glad you asked. In May, McIlroy’s equipment sponsor, TaylorMade, announced it was moving to a two-year product cycle for its metal woods starting with the Qi4D family released last January. With the move, TaylorMade became the fourth of the six largest OEMs in the sport to move its metalwoods to a two-year product cycle, joining Ping, Srixon and Titleist. As of now, Callaway and Cobra have yet to share any intentions of moving off a yearly release cadence for their drivers.\n\n“I think being able to use the same driver for say like an 18-month period I think just gives guys a little bit more of a level of comfort,” McIlroy said Tuesday at the Tour Championship.",
-        "copy": "Rory McIlroy has a driver he likes and he’s looking forward to playing it for the foreseeable future. And why is this significant? Glad you asked. In May, McIlroy’s equipment sponsor, TaylorMade, announced it was moving to a two-year product cycle for its metal woods starting with the Qi4D family released last January. With the move, TaylorMade became the fourth of the six largest OEMs in the sport to move its metalwoods to a two-year product cycle, joining Ping, Srixon and Titleist. As of now, Callaway and Cobra have yet to share any intentions of moving off a yearly release cadence for their drivers.\n\n“I think being able to use the same driver for say like an 18-month period I think just gives guys a little bit more of a level of comfort,” McIlroy said Tuesday at the Tour Championship.",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Tommy Morrison breaks down \"crazy\" start to pro career | GOLF's Subpar",
-        "link": "https://golf.com/lifestyle/tommy-morrison-crazy-hot-start-subpar-podcast/",
-        "published": "2026-08-26T19:04:40+00:00",
-        "published_label": "Wed 26 Aug, 19:04",
-        "summary": "On Golf's Subpar podcast, 22-year-old phenom Tommy Morrison described a rise so swift, it has even caught him by surprise. The post Tommy Morrison breaks down “crazy” start to pro career | GOLF’s Subpar appeared first on Golf .",
-        "body": "At 6-foot-9, Tommy Morrison towers over most of his fellow professional golfers. But what’s really stood out lately is his play. Morrison’s rookie season has been a rocket shot.\n\nAfter a stellar college career at the University of Texas and a top-six finish in PGA Tour University, Morrison made his Korn Ferry Tour debut this year with a solid showing. But even he couldn’t have predicted what came next.",
-        "copy": "At 6-foot-9, Tommy Morrison towers over most of his fellow professional golfers. But what’s really stood out lately is his play. Morrison’s rookie season has been a rocket shot.\n\nAfter a stellar college career at the University of Texas and a top-six finish in PGA Tour University, Morrison made his Korn Ferry Tour debut this year with a solid showing. But even he couldn’t have predicted what came next.",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Three-time major winner Nordqvist announces retirement",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c5y5jxxvj47o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-26T18:47:54+00:00",
-        "published_label": "Wed 26 Aug, 18:47",
-        "summary": "Three-time major champion Anna Nordqvist will retire from professional golf after this week's FM Championship near Boston.",
-        "body": "Three-time major champion Anna Nordqvist will retire from professional golf after this week's FM Championship near Boston. Nordqvist, 39, will captain Europe at Bernardus Golf in Netherlands, when they take on the United States on 11-13 September in the Solheim Cup.\n\nThe Swede has featured in each of the previous nine editions of the biennial contest, helping Europe lift the trophy on five occasions since making her debut in 2009. That was the same year Nordqvist enjoyed her first major success at the LPGA Championship and she also triumphed at the Evian Championship in 2017 and the Women's Open in 2021.",
-        "copy": "Three-time major champion Anna Nordqvist will retire from professional golf after this week's FM Championship near Boston. Nordqvist, 39, will captain Europe at Bernardus Golf in Netherlands, when they take on the United States on 11-13 September in the Solheim Cup.\n\nThe Swede has featured in each of the previous nine editions of the biennial contest, helping Europe lift the trophy on five occasions since making her debut in 2009. That was the same year Nordqvist enjoyed her first major success at the LPGA Championship and she also triumphed at the Evian Championship in 2017 and the Women's Open in 2021.",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf to lay off majority of staff amid ‘compressed timeline’ for new investors",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVctV0hZeUk1QkhCczZIMVFjZGZzNlg4bEo4WHpVNzAyTm9FMlZFM2VRdlVmcTVTT2pvSzVHLTVZOUkwVElvR3BuZVkyNlNiVTNybVFXMnBVYndfMV92U3A5SXJwUkJpYzJKaThsOTZwc0czMjlxank2YlNkVG1tYkxURnNIeWRpYzlwa2liSjRDWlA5cjZSNV9pYUlVSUp3eV9rcjRsa1lvZlZxZF9KUEVoaWRfLTZKUmhscWJIbnhRMWNp?oc=5",
-        "published": "2026-08-26T17:48:00+00:00",
-        "published_label": "Wed 26 Aug, 17:48",
-        "summary": "LIV Golf to lay off majority of staff amid ‘compressed timeline’ for new investors The Guardian",
-        "body": "LIV Golf informed the majority of its workforce on Wednesday that they will be laid off in the first week of September. The news comes three days after the 2026 season concluded in Indianapolis and four months after Saudi Arabia’s Public Investment Fund announced it was ending its financial support of the league after spending more than $5bn over the past five years.\n\nWednesday’s announcement to staff was not unexpected after the tour notified workers in the US and the UK of potential layoffs. The LIV Golf chief executive, Scott O’Neil, is working to finalise a deal with a new lead investor to fund a re-imagined LIV 2.0. However, the league faces an uncertain future, with the season-ending team championship in Michigan cancelled, the purse for the Indianapolis event slashed nearly in half, multiple vendors still awaiting payments and the potential for bankruptcy looming.",
-        "copy": "LIV Golf informed the majority of its workforce on Wednesday that they will be laid off in the first week of September. The news comes three days after the 2026 season concluded in Indianapolis and four months after Saudi Arabia’s Public Investment Fund announced it was ending its financial support of the league after spending more than $5bn over the past five years.\n\nWednesday’s announcement to staff was not unexpected after the tour notified workers in the US and the UK of potential layoffs. The LIV Golf chief executive, Scott O’Neil, is working to finalise a deal with a new lead investor to fund a re-imagined LIV 2.0. However, the league faces an uncertain future, with the season-ending team championship in Michigan cancelled, the purse for the Indianapolis event slashed nearly in half, multiple vendors still awaiting payments and the potential for bankruptcy looming.",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "US golfer Gogel gets six-month ban for betting",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c0kljdkvdyeo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-26T17:39:53+00:00",
-        "published_label": "Wed 26 Aug, 17:39",
-        "summary": "American golfer Matt Gogel is suspended for six months for betting on golf tournaments.",
-        "body": "American golfer Matt Gogel has been suspended for six months for betting on golf tournaments, the PGA Tour has said. The 55-year-old competes on the PGA Tour Champions circuit which is reserved for professional golfers aged 50 and older.\n\nGogel did not bet on events in which he was participating but admitted to unknowingly violating PGA Tour policy by placing \"small recreational wagers\" in 2024 and 2025. \"I would never knowingly violate the integrity of the game of golf,\" Gogel said in a statement.",
-        "copy": "American golfer Matt Gogel has been suspended for six months for betting on golf tournaments, the PGA Tour has said. The 55-year-old competes on the PGA Tour Champions circuit which is reserved for professional golfers aged 50 and older.\n\nGogel did not bet on events in which he was participating but admitted to unknowingly violating PGA Tour policy by placing \"small recreational wagers\" in 2024 and 2025. \"I would never knowingly violate the integrity of the game of golf,\" Gogel said in a statement.",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf lays off majority of staff as discussions continue to secure fresh investment and 'make LIV 2.0 a reality'",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV25FQnRiNVhIZlRWdUlRamV5YXZzQ2Q1RmloRExXXzNYcWFnX0lweldxYmtxV0xrUUV5ckozQmllUHYzVktTNlBXdjNBNWlyU205eXY4cm1TMlBVaEhjQTZJVWhyNENmQS1FR3I0MXdIUUxiQXVnRGxOczJmQVgzTURzN0h4eXRwNVhhN0FMS3Y3ZHEzb2MtejRnWWlXNkl3dlVudDd6YjBaYzd0SFhVR1cxR01HM3pPc0I1MFczTkVwTllmckR1OUJxdVFHb0FjM1ZyS0pfQV94UUlrTDhINlRxNlV5elM3V2Y1ZXA3TWMtX2FhRTVJ?oc=5",
-        "published": "2026-08-26T17:32:43+00:00",
-        "published_label": "Wed 26 Aug, 17:32",
-        "summary": "LIV Golf lays off majority of staff as discussions continue to secure fresh investment and 'make LIV 2.0 a reality' Sky Sports",
-        "body": "LIV Golf lays off majority of staff as discussions continue to secure fresh investment and 'make LIV 2.0 a reality' Saudi Arabia's Public Investment Fund (PIF) ended their funding for LIV Golf at the end of the 2026 season; LIV Golf has laid off most of their workforce while it looks to finalise investment to 'making LIV 2.0 a reality'\n\nLIV Golf has confirmed they will cut most of their staff from next week, with talks ongoing to secure their long-term future. Saudi Arabia's Public Investment Fund [PIF] elected to end their funding after the conclusion of the 2026 season, with LIV Golf forced to reduce staffing levels regardless of whether they can finalise any potential transactions to continue.",
-        "copy": "LIV Golf lays off majority of staff as discussions continue to secure fresh investment and 'make LIV 2.0 a reality' Saudi Arabia's Public Investment Fund (PIF) ended their funding for LIV Golf at the end of the 2026 season; LIV Golf has laid off most of their workforce while it looks to finalise investment to 'making LIV 2.0 a reality'\n\nLIV Golf has confirmed they will cut most of their staff from next week, with talks ongoing to secure their long-term future. Saudi Arabia's Public Investment Fund [PIF] elected to end their funding after the conclusion of the 2026 season, with LIV Golf forced to reduce staffing levels regardless of whether they can finalise any potential transactions to continue.",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf announces mass staff redundancies amid uncertain future without Saudi funding",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzlrcU5fY0w2dFhFMnh5VmpyUFlzaEVHQW9IME5nMGtmeUprc3FJVXpHR0FIX3dqeE1ob3VNRGl4WEdoQjlOZHRLQ0M1U3A0MnY3LVVFYl9tRHNQVW1lcWlLQUhpcWNTNFZCbDFOUDdnbTRmWjdXczZJZWR3dk9DbEtCWFYwS29ZT3NFd2Ftdmw2Ylh3Q1FSWVFXajdBdE9LWXc?oc=5",
-        "published": "2026-08-26T17:31:00+00:00",
-        "published_label": "Wed 26 Aug, 17:31",
-        "summary": "LIV Golf announces mass staff redundancies amid uncertain future without Saudi funding The Independent",
-        "body": "LIV Golf has informed the majority of its workforce that they will be made redundant in the first week of September. The move comes three days after the 2026 season drew to a close in Indianapolis and four months after Saudi Arabia's Public Investment Fund announced it was ending its financial support, having spent more than $5bn on the circuit over five years.\n\nWednesday's notice to employees was anticipated after workers across the United States and the United Kingdom were previously warned of potential job cuts. LIV Golf CEO Scott O'Neil is attempting to finalise a deal with a new lead investor to finance a revised \"LIV 2.0\". However, the league remains in a precarious position, with its season-ending team championship in Michigan cancelled, the prize purse for the Indianapolis event reduced by almost half, several vendors awaiting payment, and the prospect of bankruptcy looming.",
-        "copy": "LIV Golf has informed the majority of its workforce that they will be made redundant in the first week of September. The move comes three days after the 2026 season drew to a close in Indianapolis and four months after Saudi Arabia's Public Investment Fund announced it was ending its financial support, having spent more than $5bn on the circuit over five years.\n\nWednesday's notice to employees was anticipated after workers across the United States and the United Kingdom were previously warned of potential job cuts. LIV Golf CEO Scott O'Neil is attempting to finalise a deal with a new lead investor to finance a revised \"LIV 2.0\". However, the league remains in a precarious position, with its season-ending team championship in Michigan cancelled, the prize purse for the Indianapolis event reduced by almost half, several vendors awaiting payment, and the prospect of bankruptcy looming.",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Hatton expects LIV to continue despite job cuts",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cdr7jn03p2yo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-26T16:33:33+00:00",
-        "published_label": "Wed 26 Aug, 16:33",
-        "summary": "Tyrrell Hatton says he expects LIV Golf to continue next year despite confirmation of job losses.",
-        "body": "Tyrrell Hatton says he expects LIV Golf to continue next year despite confirmation of job losses following the early conclusion of its season in Indianapolis last week. The breakaway circuit that began in 2022 says it needs to find $350m (£257m) investment to survive.\n\nLIV's season has finished early with the cancellation of its intended finale, this week's team championship in Detroit. Instead, Hatton is competing at the British Masters on Thursday.",
-        "copy": "Tyrrell Hatton says he expects LIV Golf to continue next year despite confirmation of job losses following the early conclusion of its season in Indianapolis last week. The breakaway circuit that began in 2022 says it needs to find $350m (£257m) investment to survive.\n\nLIV's season has finished early with the cancellation of its intended finale, this week's team championship in Detroit. Instead, Hatton is competing at the British Masters on Thursday.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf: Tyrrell Hatton expects league to continue next year despite job cuts",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kOTNOOW9hUE16Q09sWU91VVEzeGNOemdPRVRFem9GVzJEMkNvc0N3R2V1d3EyTm80MTBwNFZITGw4ZlEyajhDdHFRdElVX01UT3B0VkVEcXVlOEJOd2pLb2dB?oc=5",
-        "published": "2026-08-26T16:33:33+00:00",
-        "published_label": "Wed 26 Aug, 16:33",
-        "summary": "LIV Golf: Tyrrell Hatton expects league to continue next year despite job cuts BBC",
-        "body": "Tyrrell Hatton says he expects LIV Golf to continue next year despite confirmation of job losses following the early conclusion of its season in Indianapolis last week. The breakaway circuit that began in 2022 says it needs to find $350m (£257m) investment to survive.\n\nLIV's season has finished early with the cancellation of its intended finale, this week's team championship in Detroit. Instead, Hatton is competing at the British Masters on Thursday.",
-        "copy": "Tyrrell Hatton says he expects LIV Golf to continue next year despite confirmation of job losses following the early conclusion of its season in Indianapolis last week. The breakaway circuit that began in 2022 says it needs to find $350m (£257m) investment to survive.\n\nLIV's season has finished early with the cancellation of its intended finale, this week's team championship in Detroit. Instead, Hatton is competing at the British Masters on Thursday.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Tyrrell Hatton responds to LIV Golf exit rumours after controversial song choice",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWld2NHdrVXU0N1dJWk9jTVJDSFRVZENjTFdFSTZPaWQ2R0JDTF9qRmJDY2Rtbk9LMmxiOExjM2Mzbk82akxSMGt5YTZiaUdrbzdmTk4tYVZLeXRNQnpiV2g4U2RCZDl4MkFyQ2FhMS1wUFVsVFJPSkhMZm5XWHktNlcwbHl2dUlQRy14bF9vU3dianJZT1Q4RFFYMXVJQThiaUlRQnFSOWp0VVR5MndHd3ZielhsSWxC?oc=5",
-        "published": "2026-08-26T16:20:00+00:00",
-        "published_label": "Wed 26 Aug, 16:20",
-        "summary": "Tyrrell Hatton responds to LIV Golf exit rumours after controversial song choice Golfmagic",
-        "body": "Tyrrell Hatton has played down speculation that he is preparing to leave LIV Golf ahead of the 2027 season, despite major uncertainty surrounding the league’s future. Hatton has been one of the biggest names linked with a potential exit in recent weeks, with heavy social media speculation also surrounding his Legion XIII team-mate, captain and European Ryder Cup partner Jon Rahm.\n\nThe rumours intensified at LIV’s season-ending event in Indianapolis last week, when Hatton walked out to Queen’s I Want To Break Free. The song choice was quickly interpreted as a message that the Englishman could be ready to leave LIV Golf, but Hatton dismissed that suggestion when questioned ahead of this week’s Husqvarna British Masters on the DP World Tour.",
-        "copy": "Tyrrell Hatton has played down speculation that he is preparing to leave LIV Golf ahead of the 2027 season, despite major uncertainty surrounding the league’s future. Hatton has been one of the biggest names linked with a potential exit in recent weeks, with heavy social media speculation also surrounding his Legion XIII team-mate, captain and European Ryder Cup partner Jon Rahm.\n\nThe rumours intensified at LIV’s season-ending event in Indianapolis last week, when Hatton walked out to Queen’s I Want To Break Free. The song choice was quickly interpreted as a message that the Englishman could be ready to leave LIV Golf, but Hatton dismissed that suggestion when questioned ahead of this week’s Husqvarna British Masters on the DP World Tour.",
-        "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "PGA Tour Champions pro is suspended 6 months for betting on Tour events",
-        "link": "https://golf.com/news/pga-tour-champions-pro-suspended-betting/",
-        "published": "2026-08-26T16:19:02+00:00",
-        "published_label": "Wed 26 Aug, 16:19",
-        "summary": "PGA Tour Champions pro Matt Gogel has been suspended six months for betting on PGA Tour events. Gogel said he didn't play in those tourneys. The post PGA Tour Champions pro is suspended 6 months for betting on Tour events appeared first on Golf .",
-        "body": "Matt Gogel, a member of the PGA Tour Champions circuit, has been suspended six months by the PGA Tour for betting on Tour events. The bets violated the Tour’s “Integrity Program,” and Gogel’s suspension started Sunday. A statement from Gogel, which was provided by the PGA Tour on Wednesday, said that he wagered on events in which he did not play, and that the bets came in 2024 and ’25.\n\n“In 2024 and 2025, I unknowingly violated the PGA Tour policy by placing small, recreational wagers on golf,” Gogel’s statement said. “I want to be clear that these wagers were not placed on regular PGA Tour events, PGA Tour Champions events or any tournament in which I participated.",
-        "copy": "Matt Gogel, a member of the PGA Tour Champions circuit, has been suspended six months by the PGA Tour for betting on Tour events. The bets violated the Tour’s “Integrity Program,” and Gogel’s suspension started Sunday. A statement from Gogel, which was provided by the PGA Tour on Wednesday, said that he wagered on events in which he did not play, and that the bets came in 2024 and ’25.\n\n“In 2024 and 2025, I unknowingly violated the PGA Tour policy by placing small, recreational wagers on golf,” Gogel’s statement said. “I want to be clear that these wagers were not placed on regular PGA Tour events, PGA Tour Champions events or any tournament in which I participated.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Scott O’Neil: LIV Golf adds value to game’s evolving landscape",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzJXZXUyZXZ5U2pjOGYtWk1uQ2Z0aFdXNm1CUEZpRllaalVRcUE1RjB0VlJZLVhMQ0pieEJ5MDZzdnVsSUlScF9DbmtjTTFZRlRqZzhMZDdGblV4WFh4V2FWUE41RXhoWVRxaTBJRGgtZkVvSkRma0xMc05qaHptTmZ3cU1aVVFjcWtpZC1RSXRNakdyV3dVcXlfWEE3amU3YjVhWmlQVWlCMTFmNzVPX2MxR2h4V1FoV0E?oc=5",
-        "published": "2026-08-26T16:15:56+00:00",
-        "published_label": "Wed 26 Aug, 16:15",
-        "summary": "Scott O’Neil: LIV Golf adds value to game’s evolving landscape Sports Business Journal",
-        "body": "As LIV Golf closes out the 2026 season, which encompassed events across ten countries and five continents, I have spent a lot of time thinking about where the league has been -- and even more time thinking about where it can go.\n\nI was not here when LIV Golf launched, but the ambition was clear: create something new, provide more opportunities for players, bring elite golf to markets around the world that wanted more of it, and ultimately help make the game bigger and better.",
-        "copy": "As LIV Golf closes out the 2026 season, which encompassed events across ten countries and five continents, I have spent a lot of time thinking about where the league has been -- and even more time thinking about where it can go.\n\nI was not here when LIV Golf launched, but the ambition was clear: create something new, provide more opportunities for players, bring elite golf to markets around the world that wanted more of it, and ultimately help make the game bigger and better.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Pretty weak': Nick Faldo sees a dim future for LIV Golf 2.0",
-        "link": "https://golf.com/news/nick-faldo-liv-golf-2-pretty-weak/",
-        "published": "2026-08-26T16:10:49+00:00",
-        "published_label": "Wed 26 Aug, 16:10",
-        "summary": "As LIV Golf teeters on the edge, Nick Faldo doesn't see the breakaway league having a bright future even if version 2.0 gets off the ground. The post ‘Pretty weak’: Nick Faldo sees a dim future for LIV Golf 2.0 appeared first on Golf .",
-        "body": "LIV Golf 1.0 ended on Sunday in Indianapolis with an odd scene that perfectly captured the chaos that has enveloped the league since the Saudi Arabian Public Investment Fund announced it was withdrawing funding from the outfit after the 2026 season. There was Jon Rahm evading questions about his future, Tyrrell Hatton trying to run to the airport and Bryson DeChambeau trying, and failing, to project confidence in LIV 2.0.\n\nLast week, LIV CEO Scott O’Neil told the press he was bullish on where LIV was headed in its new era — one that will involve a shorter schedule, smaller purses and more player control in how the league is run. O’Neil has been trying to steady the ship, including securing an agreement from an outside investor. But with some of LIV’s biggest names reportedly looking to head for the exit, the breakaway league is teetering.",
-        "copy": "LIV Golf 1.0 ended on Sunday in Indianapolis with an odd scene that perfectly captured the chaos that has enveloped the league since the Saudi Arabian Public Investment Fund announced it was withdrawing funding from the outfit after the 2026 season. There was Jon Rahm evading questions about his future, Tyrrell Hatton trying to run to the airport and Bryson DeChambeau trying, and failing, to project confidence in LIV 2.0.\n\nLast week, LIV CEO Scott O’Neil told the press he was bullish on where LIV was headed in its new era — one that will involve a shorter schedule, smaller purses and more player control in how the league is run. O’Neil has been trying to steady the ship, including securing an agreement from an outside investor. But with some of LIV’s biggest names reportedly looking to head for the exit, the breakaway league is teetering.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
       }
     ],
     "Badminton": [
@@ -6337,6 +6363,19 @@
         "body": ", players weighed every word as carefully as their drop shots. But beyond the glare of the cameras, another contest was quietly unfolding. Standing a step behind the athletes were the interpreters, almost invisible yet carrying the immense responsibility of ensuring that nuance survived the journey from Mandarin, Japanese or Korean into English.\n\nAt a World Championships, where every word can travel as quickly as a smash, a mistranslated phrase can soften conviction, distort the meaning of an entire exchange or, in the worst case, trigger an unintended geopolitical controversy. For the interpreters, getting the words right is only part of the job. The real challenge is ensuring that nothing gets lost in translation.",
         "copy": ", players weighed every word as carefully as their drop shots. But beyond the glare of the cameras, another contest was quietly unfolding. Standing a step behind the athletes were the interpreters, almost invisible yet carrying the immense responsibility of ensuring that nuance survived the journey from Mandarin, Japanese or Korean into English.\n\nAt a World Championships, where every word can travel as quickly as a smash, a mistranslated phrase can soften conviction, distort the meaning of an entire exchange or, in the worst case, trigger an unintended geopolitical controversy. For the interpreters, getting the words right is only part of the job. The real challenge is ensuring that nothing gets lost in translation.",
         "first_seen": "2026-09-01T11:03:56.646187+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "China Open 2026: Indians in action today (September 1) – Unnati Hooda, Arjun-Hariharan in action on Day 1",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3AzTlRwQXlJTzQ5UUZHSDJzSDhLVlRvZnQ5SUdkalBra3Z4R1VjX3B0MjVpQWZ3N0ktcms5bWZZRXZnUTNpTzVLRGE3Wl9fSlQwX3V1OW1RRHZQaGt1Z1RoSWFGaGpETG5LRXpSc0RXbWhsWEtjdW5Bd0hFclV4dVQ2MFNmMXluOVljLXkzZFR4amlzekZadExEQlpfRW1BSGVrYjNpeGN3M0NnZmdBbDFrU3BoaW1SUVotS1NB0gHEAUFVX3lxTE5aRmsxSlQzcXFJdFpCRjlabzRwQ1plTDhxN3prR1VmeEgxQkRFQXRXU1lzZXhGRTd0N2s2dzYxUXlpNmhUcFhxTDJLLVpvTXNCVTItTkQwVjlLcUp2NzFuelZSZFIwSmRsRzFtX0JIMkhfODhmNHN5X1c5aGdWdnMyVGx1ZVJ5a1daazc2aUVObWgzUTVSYi1WeGlxSkRjbktncnZhcU5RR1ZPTmItakNFVnB4TzNLVmhRTkhYZXloaVVOWWs?oc=5",
+        "published": "2026-09-01T02:09:49+00:00",
+        "published_label": "Tue 01 Sep, 02:09",
+        "summary": "China Open 2026: Indians in action today (September 1) – Unnati Hooda, Arjun-Hariharan in action on Day 1 Sportstar",
+        "body": "The China Masters 2026, a BWF World Tour Super 750 event, will begin in Shenzhen on September 1, marking the first action for Indian shuttlers since the BWF World Championships.\n\nA number of Indian players, including Ayush Shetty, PV Sindhu, Malvika Bansod and Aakarshi Kashyap, have already withdrawn from the tournament. However, the likes of Lakshya Sen, Tanvi Sharma, Unnati Hooda, and the men’s doubles pair of Satwiksairaj Rankireddy and Chirag Shetty will be looking to make strong starts to their campaigns.",
+        "copy": "The China Masters 2026, a BWF World Tour Super 750 event, will begin in Shenzhen on September 1, marking the first action for Indian shuttlers since the BWF World Championships.\n\nA number of Indian players, including Ayush Shetty, PV Sindhu, Malvika Bansod and Aakarshi Kashyap, have already withdrawn from the tournament. However, the likes of Lakshya Sen, Tanvi Sharma, Unnati Hooda, and the men’s doubles pair of Satwiksairaj Rankireddy and Chirag Shetty will be looking to make strong starts to their campaigns.",
+        "first_seen": "2026-09-02T19:14:27.887723+00:00"
       },
       {
         "section": "Badminton",
@@ -6615,5 +6654,5 @@
       }
     ]
   },
-  "total": 507
+  "total": 510
 }
