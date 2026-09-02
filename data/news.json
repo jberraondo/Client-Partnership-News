@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T12:13:21.344702+00:00",
-  "generated_label": "Wednesday 02 September 2026, 12:13 UTC",
+  "generated_at": "2026-09-02T15:57:44.448663+00:00",
+  "generated_label": "Wednesday 02 September 2026, 15:57 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "ESPN and Scripps allocated inaugural domestic WTGL rights",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXVHZ2I1WnBlNURVWjhSQjdwUndLYWM1VEpYQTBMX0toMm1zWEkzNFBuS1A1RnFLdFpoNmd4N0ZRdHJHV1N5cGJrUzlta2tqUEMzdjFVMzJTQ0U0amlJbnlmS0tGbGFRb05yd01US2YydjdNeG1JWHNVc1FxMGRCZzAwaFkwRzR5eWdHNVBnZGVfZw?oc=5",
+        "published": "2026-09-02T15:20:14+00:00",
+        "published_label": "Wed 02 Sep, 15:20",
+        "summary": "ESPN and Scripps allocated inaugural domestic WTGL rights Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "NFL’s Commanders tap Elevate to support new stadium project",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjNvMjl4LTA3VTlRQU00UnpPaWxzcGRqb2d5Z0s2MzBDMTlyM0JMT2hyVmhkQVBLSmJwc3JZbUEzZWR5WXFUU3FXTzduWTREd2U3S2s0d0hXeXhVZlByTDZjWmFnT0tmQ0s1Nm9BZzNCV2lCMnBUdU5XSGtoVm12Z2FSa0IzVENOMWFhZEhXcG44ZEE?oc=5",
+        "published": "2026-09-02T14:24:36+00:00",
+        "published_label": "Wed 02 Sep, 14:24",
+        "summary": "NFL’s Commanders tap Elevate to support new stadium project Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "Betting beyond front-of-shirt: Why investors are split on the gambling industry’s next move",
+        "link": "https://www.sportspro.com/opinions/finance-investment/betting-sponsorship-premier-league-regulation-prediction-markets-tsc-spin-100/",
+        "published": "2026-09-02T13:13:53+00:00",
+        "published_label": "Wed 02 Sep, 13:13",
+        "summary": "As betting operators adapt to shifting regulatory environments, data from the TSC SPIN 100 shows how investors are responding differently to companies attempting to navigate the change. The post Betting beyond front-of-shirt: Why investors are split on the gambling industry’s next move appeared first on SportsPro .",
+        "body": "The 2026/27 Premier League season began on 21st August with one obvious commercial change. No betting company appeared on the front of a club’s matchday shirt as part of the new voluntary league-wide ban.\n\nThe decision was made in 2023, when Premier League clubs collectively agreed to remove gambling sponsors from the front of their kits. Operators and clubs have therefore had three years to prepare.",
+        "copy": "The 2026/27 Premier League season began on 21st August with one obvious commercial change. No betting company appeared on the front of a club’s matchday shirt as part of the new voluntary league-wide ban.\n\nThe decision was made in 2023, when Premier League clubs collectively agreed to remove gambling sponsors from the front of their kits. Operators and clubs have therefore had three years to prepare.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -1402,48 +1441,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-27T17:19:17.425447+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Roku picks up NWSL package dropped by Victory+",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzQyQ1ZPMGRkY3ZkTnYtVzB5ZC01Mzd2bkJHZG1oams4NU5IR3I1WHNwQlE3b0Q3RkZleV94VF9JVjRJdGhUYkxqNGh4bnVGb3YzU29Fenh5S3pBVUVBSW9FdXFaZHRGV3Exa0RuOUFVa3djVTZBN2xNTlM4RXNzWkRR?oc=5",
-        "published": "2026-08-26T15:21:23+00:00",
-        "published_label": "Wed 26 Aug, 15:21",
-        "summary": "Roku picks up NWSL package dropped by Victory+ Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "PTO added to DHL’s sports sponsorship stable",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WZC1ZTmRIS1I1LU90ZExBSUxEdms2NWt1cXFDZk5aWXlUVm82LURZUGNya1BPeWRsLUhnbThuNm4tSmk4VWtic25GdjJiVUNPQVUtNkdTMDVKakpreXVvTGJfTi11cDBBT0xCQkt3aklQcEszY0xYdV82MGRLZDg?oc=5",
-        "published": "2026-08-26T14:21:23+00:00",
-        "published_label": "Wed 26 Aug, 14:21",
-        "summary": "PTO added to DHL’s sports sponsorship stable Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-26T14:42:34.463580+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1E5eTNMb3N1UlM1RDZWWnZqZy1yVkNEdGFKZ05hQkM0WlVoMGNITTBpb19OeEhGNlhPdWs1bUVPLXJoa0otZXMxUlRQeXliSk9RZ3dXS1NIVVJzT3pNVXpiMHNDZDA3XzM4Nm9DZkFGLWZyY1NPZjFNY2dnTGdOb0p0VVY?oc=5",
-        "published": "2026-08-26T12:59:02+00:00",
-        "published_label": "Wed 26 Aug, 12:59",
-        "summary": "Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’ Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Springbok Women and Catha Jacobs target another step forward against Black Ferns",
+        "link": "https://www.rugbypass.com/news/springbok-women-and-catha-jacobs-target-another-step-forward-against-black-ferns/",
+        "published": "2026-09-02T15:34:52+00:00",
+        "published_label": "Wed 02 Sep, 15:34",
+        "summary": "Springbok Women utility forward Catha Jacobs believes time spent playing sevens has helped her in Test rugby.",
+        "body": "Springbok Women utility forward Catha Jacobs believes time spent playing sevens has helped her in Test rugby. In the wake of Women’s Rugby World Cup 2025 and her team’s quarter-final defeat to the Black Ferns, Jacobs was drafted into the Springbok Women’s Sevens squad for HSBC SVNS 2 and HSBC SVNS World Championship events.\n\nSince those SVNS World Championship tournaments Jacobs has started in three of the Springbok Women’s last four Tests against the USA Women’s Eagles and Fiji. Ahead of this weekend’s one-off clash with New Zealand as part of Rugby’s Greatest Rivalry – a fixture that acts as a warm-up to the third Test between the Springboks and All Blacks at FNB Stadium – Jacobs will get to display her refined skillset in front of home supporters in Soweto, against the second-ranked team win the world.",
+        "copy": "Springbok Women utility forward Catha Jacobs believes time spent playing sevens has helped her in Test rugby. In the wake of Women’s Rugby World Cup 2025 and her team’s quarter-final defeat to the Black Ferns, Jacobs was drafted into the Springbok Women’s Sevens squad for HSBC SVNS 2 and HSBC SVNS World Championship events.\n\nSince those SVNS World Championship tournaments Jacobs has started in three of the Springbok Women’s last four Tests against the USA Women’s Eagles and Fiji. Ahead of this weekend’s one-off clash with New Zealand as part of Rugby’s Greatest Rivalry – a fixture that acts as a warm-up to the third Test between the Springboks and All Blacks at FNB Stadium – Jacobs will get to display her refined skillset in front of home supporters in Soweto, against the second-ranked team win the world.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'I'd be surprised': United message emerges at Sale over Courtney Lawes",
+        "link": "https://www.rugbypass.com/news/id-be-surprised-united-message-emerges-at-sale-sharks-over-courtney-lawes-england-rugby-steve-borthwick-tom-curry-george-ford-alex-sanderson/",
+        "published": "2026-09-02T14:18:57+00:00",
+        "published_label": "Wed 02 Sep, 14:18",
+        "summary": "Sale Sharks director of rugby Alex Sanderson has backed Courtney Lawes to force his way back into the England squad this autumn after being hugely impressed by the veteran forward since his return to English rugby.",
+        "body": "Sale Sharks director of rugby Alex Sanderson has backed Courtney Lawes to force his way back into the England squad this autumn after being hugely impressed by the veteran forward since his return to English rugby.\n\nLawes stepped away from the international game following the 2023 World Cup before joining Brive in 2024. But he is back in the Gallagher PREM now and has outlined his ambition to don the white jersey he has worn 105 times with the World Cup on the horizon, and Sanderson believes the 37-year-old remains capable of operating at Test level, insisting he “can’t see him not making the squad” if Steve Borthwick opens the door to a comeback.",
+        "copy": "Sale Sharks director of rugby Alex Sanderson has backed Courtney Lawes to force his way back into the England squad this autumn after being hugely impressed by the veteran forward since his return to English rugby.\n\nLawes stepped away from the international game following the 2023 World Cup before joining Brive in 2024. But he is back in the Gallagher PREM now and has outlined his ambition to don the white jersey he has worn 105 times with the World Cup on the horizon, and Sanderson believes the 37-year-old remains capable of operating at Test level, insisting he “can’t see him not making the squad” if Steve Borthwick opens the door to a comeback.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'I think an Anglo-Welsh league would be brilliant': Rob Baxter",
+        "link": "https://www.rugbypass.com/news/i-think-an-anglo-welsh-league-would-be-brilliant-rob-baxter/",
+        "published": "2026-09-02T14:12:13+00:00",
+        "published_label": "Wed 02 Sep, 14:12",
+        "summary": "Ever since Cardiff and Swansea played rebel friendly fixtures against English sides in front of decent crowds in the late 90s, the idea of an Anglo-Welsh League has had plenty of support.",
+        "body": "Exeter boss Rob Baxter has welcomed the idea of Welsh teams being included in an expanded Gallagher PREM, and his view is supported by other directors of rugby. Ever since Cardiff and Swansea played rebel friendly fixtures against English sides in front of decent crowds in the late 90s, the idea of an Anglo-Welsh League has had plenty of support.\n\nAnd Baxter sees the mutual benefits of a cross-border competition, believing that it ‘ticks a lot of boxes’. “I think an Anglo-Welsh league would be brilliant, I’ve been a big advocate of it for years,” Baxter said at the launch of the new Gallagher PREM season at Alianz Stadium.",
+        "copy": "Exeter boss Rob Baxter has welcomed the idea of Welsh teams being included in an expanded Gallagher PREM, and his view is supported by other directors of rugby. Ever since Cardiff and Swansea played rebel friendly fixtures against English sides in front of decent crowds in the late 90s, the idea of an Anglo-Welsh League has had plenty of support.\n\nAnd Baxter sees the mutual benefits of a cross-border competition, believing that it ‘ticks a lot of boxes’. “I think an Anglo-Welsh league would be brilliant, I’ve been a big advocate of it for years,” Baxter said at the launch of the new Gallagher PREM season at Alianz Stadium.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "How ‘ambition and joy’ drove Las Leonas 7s back to the SVNS Series",
+        "link": "https://www.rugbypass.com/news/how-ambition-and-joy-drove-las-leonas-7s-back-to-the-svns-series/",
+        "published": "2026-09-02T13:49:50+00:00",
+        "published_label": "Wed 02 Sep, 13:49",
+        "summary": "2025 was the year that a new format was bestowed upon the world of HSBC SVNS.",
+        "body": "2025 was the year that a new format was bestowed upon the world of HSBC SVNS. The top eight teams from each side of the aisle earning a spot in the SVNS Series, while the remaining teams fell into the second and third divisions.\n\nAmongst those who had to fight their way back to the top tier was Spain’s. While for some it might have signalled the end of the road, for Las Leonas 7s it marked the beginning of something entirely different.",
+        "copy": "2025 was the year that a new format was bestowed upon the world of HSBC SVNS. The top eight teams from each side of the aisle earning a spot in the SVNS Series, while the remaining teams fell into the second and third divisions.\n\nAmongst those who had to fight their way back to the top tier was Spain’s. While for some it might have signalled the end of the road, for Las Leonas 7s it marked the beginning of something entirely different.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘It left me wanting more’: Holland Bogan hungry for more after promising Scotland start",
+        "link": "https://www.rugbypass.com/news/it-left-me-wanting-more-holland-bogan-hungry-for-more-after-promising-scotland-start/",
+        "published": "2026-09-02T12:49:49+00:00",
+        "published_label": "Wed 02 Sep, 12:49",
+        "summary": "After a frustrating Guinness Women’s Six Nations campaign you get the feeling that Scotland are determined to play some bold and exciting rugby during the WXV Global Series.",
+        "body": "After a frustrating Guinness Women’s Six Nations campaign you get the feeling that Scotland are determined to play some bold and exciting rugby during the WXV Global Series. And bold and exciting are two words that could be used to describe one of the squad’s up-and-coming talents in the shape of second row and back-row forward Holland Bogan.\n\nShe may just be 21, but the player who has come through the ranks at Cartha Queens Park, Stirling County and Glasgow Warriors is not shy in coming forward and has already become one of the real characters off the pitch within the international set-up in recent months.",
+        "copy": "After a frustrating Guinness Women’s Six Nations campaign you get the feeling that Scotland are determined to play some bold and exciting rugby during the WXV Global Series. And bold and exciting are two words that could be used to describe one of the squad’s up-and-coming talents in the shape of second row and back-row forward Holland Bogan.\n\nShe may just be 21, but the player who has come through the ranks at Cartha Queens Park, Stirling County and Glasgow Warriors is not shy in coming forward and has already become one of the real characters off the pitch within the international set-up in recent months.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3198,61 +3263,22 @@
         "body": "The 2026 FISU World University Championship Rugby Sevens takes place from September 4 to 6 in Stellenbosch , South Africa. There are 16 teams, 7 women and 9 men, from 14 countries, hosts South Africa have teams entered in both men’s and women’s tournaments as does Australia. Other teams in the women’s tournament besides Canada, Australia and South Africa are USA, Ireland, Japan and France. The men’s competition includes South Africa, Chile, Mexico, Australia, Zimbabwe, Argentina, Uganda, Norway and Japan. Robin MacDowell from Cowichan is part of the coaching team.\n\nThe official website includes the following links for following along. Click here to access photos and highlights. Twelve student-athletes from across Canada have been selected to represent Team Canada at the 2026 FISU World University Championship Rugby Sevens, set for Sept. 4-6 in Stellenbosch, South Africa!",
         "copy": "The 2026 FISU World University Championship Rugby Sevens takes place from September 4 to 6 in Stellenbosch , South Africa. There are 16 teams, 7 women and 9 men, from 14 countries, hosts South Africa have teams entered in both men’s and women’s tournaments as does Australia. Other teams in the women’s tournament besides Canada, Australia and South Africa are USA, Ireland, Japan and France. The men’s competition includes South Africa, Chile, Mexico, Australia, Zimbabwe, Argentina, Uganda, Norway and Japan. Robin MacDowell from Cowichan is part of the coaching team.\n\nThe official website includes the following links for following along. Click here to access photos and highlights. Twelve student-athletes from across Canada have been selected to represent Team Canada at the 2026 FISU World University Championship Rugby Sevens, set for Sept. 4-6 in Stellenbosch, South Africa!",
         "first_seen": "2026-08-26T19:46:17.456560+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "PWR attendances rise by 23% after World Cup",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/clyrv4l5jjeo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-26T15:44:24+00:00",
-        "published_label": "Wed 26 Aug, 15:44",
-        "summary": "Premiership Women's Rugby says average attendances rose by 23.4% during the 2025-26 season, which concluded in June with Saracens winning a record fourth title.",
-        "body": "Premiership Women's Rugby says average attendances rose by 23.4% during the 2025-26 season, which concluded in June with Saracens winning a record fourth title. The numbers have been aided by the boost the sport received by England winning a home World Cup at Twickenham in September 2025 and come despite the departure of United States star Ilona Maher from Bristol Bears.\n\nMaher, who is the most followed rugby union player in the world on social media, generated unprecedented attention for the league during her stint in Bristol during the 2024-25 campaign.",
-        "copy": "Premiership Women's Rugby says average attendances rose by 23.4% during the 2025-26 season, which concluded in June with Saracens winning a record fourth title. The numbers have been aided by the boost the sport received by England winning a home World Cup at Twickenham in September 2025 and come despite the departure of United States star Ilona Maher from Bristol Bears.\n\nMaher, who is the most followed rugby union player in the world on social media, generated unprecedented attention for the league during her stint in Bristol during the 2024-25 campaign.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "France prop Jefferson Poirot confirms injury amid strange career admission",
-        "link": "https://www.rugbypass.com/news/france-loosehead-jefferson-poirot-confirms-long-term-injury-amid-strange-career-admission-bordeaux-begles/",
-        "published": "2026-08-26T14:22:46+00:00",
-        "published_label": "Wed 26 Aug, 14:22",
-        "summary": "France and Bordeaux-Begles loosehead Jefferson Poirot will miss the start of the season after spraining his knee, French outlet RMC have confirmed.",
-        "body": "France and Bordeaux-Begles loosehead Jefferson Poirot will miss the start of the season after spraining his knee, French outlet RMC have confirmed. The 33-year-old, who came out of international retirement in July to represent Les Bleus for the first time since 2020, will miss the next six to eight weeks with the injury, Bordeaux head coach Yannick Bru has confirmed.\n\nThe injury will leave the loosehead in a fitness race to make the beginning of Bordeaux’s Investec Champions Cup title defence, which begins with a round one trip to Gloucester on October 16.",
-        "copy": "France and Bordeaux-Begles loosehead Jefferson Poirot will miss the start of the season after spraining his knee, French outlet RMC have confirmed. The 33-year-old, who came out of international retirement in July to represent Les Bleus for the first time since 2020, will miss the next six to eight weeks with the injury, Bordeaux head coach Yannick Bru has confirmed.\n\nThe injury will leave the loosehead in a fitness race to make the beginning of Bordeaux’s Investec Champions Cup title defence, which begins with a round one trip to Gloucester on October 16.",
-        "first_seen": "2026-08-26T14:42:34.463580+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Telling stat underlines Springboks' glaring Achilles heel against All Blacks",
-        "link": "https://www.rugbypass.com/news/telling-stat-underlines-springboks-glaring-achilles-heel-against-the-all-blacks/",
-        "published": "2026-08-26T13:32:04+00:00",
-        "published_label": "Wed 26 Aug, 13:32",
-        "summary": "After an unconvincing 17-10 win against Argentina and last weekend's 33-16 loss to New Zealand, South Africa have mustered just 33 points from their last two fixtures.",
-        "body": "A combination of brilliant defence by the All Blacks and butchered attacking opportunities nullified the Springboks’ ability to turn territorial pressure into points at Ellis Park last weekend, resulting in their 33-16 loss.\n\nFollowing on from an unconvincing 17-10 win against Argentina, over the last two games South Africa have mustered just 33 points, their joint-lowest total in back-to-back Tests since the very early days of Rassie Erasmus’ reign in 2018.",
-        "copy": "A combination of brilliant defence by the All Blacks and butchered attacking opportunities nullified the Springboks’ ability to turn territorial pressure into points at Ellis Park last weekend, resulting in their 33-16 loss.\n\nFollowing on from an unconvincing 17-10 win against Argentina, over the last two games South Africa have mustered just 33 points, their joint-lowest total in back-to-back Tests since the very early days of Rassie Erasmus’ reign in 2018.",
-        "first_seen": "2026-08-26T14:42:34.463580+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "The end is in sight as Louis Bielle-Biarrey plots his future",
-        "link": "https://www.rugbypass.com/news/the-end-is-in-sight-as-louis-bielle-biarrey-plots-his-future/",
-        "published": "2026-08-26T12:23:20+00:00",
-        "published_label": "Wed 26 Aug, 12:23",
-        "summary": "French superstar winger Louis Bielle-Biarrey is closing in on a two-year contract extension with Bordeaux-Bègles that will keep him at the club until the summer of 2029.",
-        "body": "French superstar winger Louis Bielle-Biarrey is closing in on a two-year contract extension with Bordeaux-Bègles that will keep him at the club until the summer of 2029. Bielle-Biarrey, 23, has scored 29 tries in 27 appearances for Les Bleus and been named Player of the Tournament in each of the last two Six Nations after helping France secure back-to-back titles.\n\nHe entered the final year of his current agreement in July and has been in talks with Bordeaux president Laurent Marti for weeks in a bid to reach a new agreement. Although he wasn’t likely to leave, minor details, including his Adidas deal, have taken time to iron out. The latest reports from France suggest the end is now in sight.",
-        "copy": "French superstar winger Louis Bielle-Biarrey is closing in on a two-year contract extension with Bordeaux-Bègles that will keep him at the club until the summer of 2029. Bielle-Biarrey, 23, has scored 29 tries in 27 appearances for Les Bleus and been named Player of the Tournament in each of the last two Six Nations after helping France secure back-to-back titles.\n\nHe entered the final year of his current agreement in July and has been in talks with Bordeaux president Laurent Marti for weeks in a bid to reach a new agreement. Although he wasn’t likely to leave, minor details, including his Adidas deal, have taken time to iron out. The latest reports from France suggest the end is now in sight.",
-        "first_seen": "2026-08-26T12:45:32.676157+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "What is the US Open prize money per round?",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cp30yq0vllzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-02T15:47:14+00:00",
+        "published_label": "Wed 02 Sep, 15:47",
+        "summary": "Our Ask Me Anything team look at the breakdown of a record-breaking prize fund at the US Open.",
+        "body": "It's a record-breaking year for prize money at the US Open. The total prize money available to players is $108m (£80m), which is 20% more than the 2025 tournament - making it not just the largest-ever US Open prize pot, but the largest in Grand Slam history.\n\nFor comparison, the prize fund for Wimbledon this year was £64.2m. Of the US Open prize fund, $2m (£1.47m) goes towards a 'player support programme' after calls from players for athlete welfare across the Grand Slams, which the US Open says is \"designed to complement existing end-of-career pension funds\" and \"will bring a range of benefits for mid-career life events and retirement transitions\".",
+        "copy": "It's a record-breaking year for prize money at the US Open. The total prize money available to players is $108m (£80m), which is 20% more than the 2025 tournament - making it not just the largest-ever US Open prize pot, but the largest in Grand Slam history.\n\nFor comparison, the prize fund for Wimbledon this year was £64.2m. Of the US Open prize fund, $2m (£1.47m) goes towards a 'player support programme' after calls from players for athlete welfare across the Grand Slams, which the US Open says is \"designed to complement existing end-of-career pension funds\" and \"will bring a range of benefits for mid-career life events and retirement transitions\".",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
       {
         "section": "Tennis",
         "source": "Sky Sports",
@@ -3278,6 +3304,19 @@
         "body": "Britain's Arthur Fery said he now knows what he has to work on after his US Open debut was cut short on Tuesday. His hopes of making a splash in New York were ended in the first round after a straight-sets defeat by Lorenzo Musetti.\n\nThe 24-year-old had been riding the crest of a wave since his historic run to the Wimbledon semi-finals as a wildcard earlier this summer. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
         "copy": "Britain's Arthur Fery said he now knows what he has to work on after his US Open debut was cut short on Tuesday. His hopes of making a splash in New York were ended in the first round after a straight-sets defeat by Lorenzo Musetti.\n\nThe 24-year-old had been riding the crest of a wave since his historic run to the Wimbledon semi-finals as a wildcard earlier this summer. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
         "first_seen": "2026-09-02T10:34:49.913013+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu set to make return to tennis after three-month absence as next tournament confirmed",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWpsQ2pSY3FTODFTRnhPVUh3cG1zc1drMnMwcUhxaFVEMnBfcGRKeGxISjN5WC05MW9SVTFMUGxLeW9MZ1dGenhpZlNnQlFSY0F2d1R4NmVmbVlXRjBVTGRTTlpMVV9Ucy11RzhtekhOYUl1N2xlelVBbEtaZ3dPSi1DSERjQ004bENMbzJXTVJwTmxXQ2pvcHJna3dYQlNTX2pGbmxQV1hBa0FiYlE5emVqbV84Z2UyTWgyc193?oc=5",
+        "published": "2026-09-02T09:00:00+00:00",
+        "published_label": "Wed 02 Sep, 09:00",
+        "summary": "Emma Raducanu set to make return to tennis after three-month absence as next tournament confirmed Tennishead",
+        "body": "Emma Raducanu has not featured on the WTA Tour since June. Raducanu’s last tournament appearance came at the Queen’s Club Championships, where she lost in the final to Donna Vekic.\n\nRaducanu has been absent from the Tour since suffering a stress fracture in her right leg towards the end of June. Where do you think Emma Raducanu will finish 2026 ranked? The Briton’s time away from the circuit is set to come to an end later this month.",
+        "copy": "Emma Raducanu has not featured on the WTA Tour since June. Raducanu’s last tournament appearance came at the Queen’s Club Championships, where she lost in the final to Donna Vekic.\n\nRaducanu has been absent from the Tour since suffering a stress fracture in her right leg towards the end of June. Where do you think Emma Raducanu will finish 2026 ranked? The Briton’s time away from the circuit is set to come to an end later this month.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
       },
       {
         "section": "Tennis",
@@ -4201,48 +4240,87 @@
         "body": "Karolina Muchova and Jakub Mensik saved two match points on their way to the US Open mixed doubles title and $1m in prize money. Mensik hit a 131mph ace on a third championship point to seal a 6-3 1-6 10-6 win in the final against Belinda Bencic and Flavio Cobolli.\n\nThat victory came after they saved match points in their semi-final against Andrey Rublev and Mirra Andreeva. It is a first Grand Slam title for both players and comes just over six weeks after Muchova was beaten by compatriot Linda Noskova in the Wimbledon final.",
         "copy": "Karolina Muchova and Jakub Mensik saved two match points on their way to the US Open mixed doubles title and $1m in prize money. Mensik hit a 131mph ace on a third championship point to seal a 6-3 1-6 10-6 win in the final against Belinda Bencic and Flavio Cobolli.\n\nThat victory came after they saved match points in their semi-final against Andrey Rublev and Mirra Andreeva. It is a first Grand Slam title for both players and comes just over six weeks after Muchova was beaten by compatriot Linda Noskova in the Wimbledon final.",
         "first_seen": "2026-08-27T17:19:17.425447+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Serena and Venus Williams given wild card to compete in 2026 US Open women's doubles tournament",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNHBNcmRqYjRGcUNjeHNmNlJXYzdQZjFFZzYtNUtmWE0xQ2F5Qk1HemlEOFlSYkNjM3NrYXJ0c0pmYmN5MHBSV0U4ekt4QmE1N0RwdUFqcUY3V2x2c0haS1MyYXF1SUNqZnBPNFlwc2JNTkJ3RU1oQnp4QlFrNlBDQ1F1VXJCa2dRQTJ6NnRjYlZRcDdKLVR5YU94WXpKTFp6b29keUtKSklPX241eUNvRDBtOEEySWpNMHdnaU94MWhkbFZISFF5Mi1ZNk1ocjQxdFRzUHJyY2NsZnpDUzlyWg?oc=5",
-        "published": "2026-08-26T15:30:02+00:00",
-        "published_label": "Wed 26 Aug, 15:30",
-        "summary": "Serena and Venus Williams given wild card to compete in 2026 US Open women's doubles tournament Sky Sports",
-        "body": "Serena and Venus Williams will play together in the 2026 US Open women's doubles after being given a wild card to enter the tournament. The sisters played competitively together for the first time since the 2022 US Open at the Cincinnati Open earlier this month, and will now return to Grand Slam action at the scene of their last major outing as a pair.\n\nSerena made a sensational return to tennis during the grass-court season after almost four years out of the professional game, but the 44-year-old suffered a knee injury during a first-round singles loss at Wimbledon which led to her and Venus withdrawing from the doubles at the All England Club.",
-        "copy": "Serena and Venus Williams will play together in the 2026 US Open women's doubles after being given a wild card to enter the tournament. The sisters played competitively together for the first time since the 2022 US Open at the Cincinnati Open earlier this month, and will now return to Grand Slam action at the scene of their last major outing as a pair.\n\nSerena made a sensational return to tennis during the grass-court season after almost four years out of the professional game, but the 44-year-old suffered a knee injury during a first-round singles loss at Wimbledon which led to her and Venus withdrawing from the doubles at the All England Club.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Williams sisters given US Open doubles wildcard",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c1l1r7p1ggeo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-26T14:38:54+00:00",
-        "published_label": "Wed 26 Aug, 14:38",
-        "summary": "Serena and Venus Williams will play doubles together at the US Open in their first Grand Slam outing as a pairing for four years.",
-        "body": "Venus and Serena Williams will play doubles together at the US Open in their first Grand Slam outing as a pairing for four years. The American greats, two-time winners of the women's doubles title in New York, were handed a wildcard entry by the United States Tennis Association (USTA).\n\nThe last time the Williams sisters teamed up at a slam was at the 2022 US Open in what was Serena's final tournament before she \"evolved away\" from tennis. Serena made her return to the sport in doubles at Queen's in June before being given the final Wimbledon women's singles wildcard.",
-        "copy": "Venus and Serena Williams will play doubles together at the US Open in their first Grand Slam outing as a pairing for four years. The American greats, two-time winners of the women's doubles title in New York, were handed a wildcard entry by the United States Tennis Association (USTA).\n\nThe last time the Williams sisters teamed up at a slam was at the 2022 US Open in what was Serena's final tournament before she \"evolved away\" from tennis. Serena made her return to the sport in doubles at Queen's in June before being given the final Wimbledon women's singles wildcard.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Emma Raducanu leads the most shocking US Open champions ever",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXNJWUJORGgxaUJybHpRU29PcGpKcVFVWGwtcGJKUHRtbEhobVM3QUZ6THdTQUJVLUdDTFNEOVRaMDFNYW0wcjJYM0V5d3ROelROWHBkSWVRNEFnYXV4MGJvS1BBWS14QnJ1eVUxSDNIY29ZWW9lakx1NG9xR2dXTnJmejVfSzg?oc=5",
-        "published": "2026-08-26T12:30:00+00:00",
-        "published_label": "Wed 26 Aug, 12:30",
-        "summary": "Emma Raducanu leads the most shocking US Open champions ever Lob and Smash",
-        "body": "A New York crowd loves an underdog. Maybe that explains the unprecedented run of unexpected women’s champions at the US Open over the last 20 years. The list of recent US women’s champions includes the only qualifier ever to win a Grand Slam, the only player ever to win a major after getting into the event using a protected ranking, and the only female player to win a Slam as a wild card. The list also includes young surprises and under-the-radar veterans who rose for a last hurrah.\n\nAs the 2026 US Open gets underway, meet the five most unexpected champions in the event’s history. Who were the most surprising US Open women's champions? It might seem hard to believe now, but it wasn’t that surprising when Andreescu won the 2019 US Open as a No. 15 seed. Andreescu won the high-profile hard-court events at Indian Wells and Toronto earlier in 2019, so it made sense that she flourished on the hard courts in Flushing Meadows. She capped her title run with a convincing win against Serena Williams in the final.",
-        "copy": "A New York crowd loves an underdog. Maybe that explains the unprecedented run of unexpected women’s champions at the US Open over the last 20 years. The list of recent US women’s champions includes the only qualifier ever to win a Grand Slam, the only player ever to win a major after getting into the event using a protected ranking, and the only female player to win a Slam as a wild card. The list also includes young surprises and under-the-radar veterans who rose for a last hurrah.\n\nAs the 2026 US Open gets underway, meet the five most unexpected champions in the event’s history. Who were the most surprising US Open women's champions? It might seem hard to believe now, but it wasn’t that surprising when Andreescu won the 2019 US Open as a No. 15 seed. Andreescu won the high-profile hard-court events at Indian Wells and Toronto earlier in 2019, so it made sense that she flourished on the hard courts in Flushing Meadows. She capped her title run with a convincing win against Serena Williams in the final.",
-        "first_seen": "2026-08-26T12:45:32.676157+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "FootJoy's new Quantum golf shoes are super soft — and waterproof",
+        "link": "https://golf.com/gear/shoes/footjoy-new-quantum-golf-shoes-super-soft-waterproof/",
+        "published": "2026-09-02T15:46:31+00:00",
+        "published_label": "Wed 02 Sep, 15:46",
+        "summary": "Shoes that offer the right fit, comfort and stability pay dividends in your overall performance. FootJoy's new Quantum ticks every box. The post FootJoy’s new Quantum golf shoes are super soft — and waterproof appeared first on Golf .",
+        "body": "Every golfer knows: an ill-fitting pair of golf shoes can really ruin your day. Not only is it a total bummer to feel blisters forming as you play your round, but that discomfort can cause mis-hits, too — especially if your foot doesn’t feel secure inside your shoe.\n\nNeedless to say, shoes are an essential piece of golf equipment, and footwear that delivers the right fit, comfort and stability will pay dividends in your overall performance. Fortunately, the latest release from FootJoy, the 2026 Quantum, aims to tick all of those boxes — and then some.",
+        "copy": "Every golfer knows: an ill-fitting pair of golf shoes can really ruin your day. Not only is it a total bummer to feel blisters forming as you play your round, but that discomfort can cause mis-hits, too — especially if your foot doesn’t feel secure inside your shoe.\n\nNeedless to say, shoes are an essential piece of golf equipment, and footwear that delivers the right fit, comfort and stability will pay dividends in your overall performance. Fortunately, the latest release from FootJoy, the 2026 Quantum, aims to tick all of those boxes — and then some.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Tiger Woods strikes plea deal in DUI case, has license suspended",
+        "link": "https://golf.com/news/tiger-woods-dui-case-plea-deal/",
+        "published": "2026-09-02T15:18:58+00:00",
+        "published_label": "Wed 02 Sep, 15:18",
+        "summary": "Tiger Woods reached a plea deal in a DUI case stemming from a March car accident and had his license suspended for five years. The post Tiger Woods strikes plea deal in DUI case, has license suspended appeared first on Golf .",
+        "body": "Tiger Woods will be off the road for five years. On Wednesday morning, the 15-time major champion changed his plea in a DUI case stemming from his car accident in March and had his license suspended for five years as part of a deal to avoid jail time.\n\nWoods was arrested in Jupiter, Fla. at the end of March on suspicion of driving under the influence after his car struck the back of a maintenance vehicle and flipped over on a one-lane road. Nobody was injured in the crash, but a short police investigation resulted in Woods failing a field sobriety test. Officers at the scene of the crash arrested Woods and charged him with DUI, and also recovered two pills inside his pocket that Woods identified as hydrocodone, a prescription opioid.",
+        "copy": "Tiger Woods will be off the road for five years. On Wednesday morning, the 15-time major champion changed his plea in a DUI case stemming from his car accident in March and had his license suspended for five years as part of a deal to avoid jail time.\n\nWoods was arrested in Jupiter, Fla. at the end of March on suspicion of driving under the influence after his car struck the back of a maintenance vehicle and flipped over on a one-lane road. Nobody was injured in the crash, but a short police investigation resulted in Woods failing a field sobriety test. Officers at the scene of the crash arrested Woods and charged him with DUI, and also recovered two pills inside his pocket that Woods identified as hydrocodone, a prescription opioid.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf Hopes Screwing Its Own Players In Bankruptcy Will Secure Its Future",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGxpamhMYzZMQVRaa25UX0JFY3lwY1RpVWZnQkhmcklTLTZQN3dfMVVNVXZ0R3dBWS1lX2VJZ01FRjJrai1lcEFsTXphMmhLQ05SYVIxYTRPWU5Xbm5qTFljMlZWOHJ4SnNmRGdkOFJIRDFKRE1HYXJuRVlWTmt5RHo0ZUUyQVU1TXdxQ05WX3dwQlVIZnVxV0ZSWFlkdw?oc=5",
+        "published": "2026-09-02T14:53:00+00:00",
+        "published_label": "Wed 02 Sep, 14:53",
+        "summary": "LIV Golf Hopes Screwing Its Own Players In Bankruptcy Will Secure Its Future Defector",
+        "body": "LIV Golf recently sent out a mass email to mark the conclusion of its 2026 season. I imagine this was a somewhat slapdash operation given that the outfit, recently dumped by the Saudi Public Investment Fund, had to lop off the final event on its schedule, the team championship, which was scheduled for the final weekend of August, in Plymouth, Mich. Instead, the player championship and the team championship were both settled in Indianapolis, with stripped down entertainment offerings and drastically reduced player bonuses. In the week between the season's sudden conclusion and the arrival of the email, LIV Golf laid off a majority of its employees, writing in a statement to Golf Digest that the operation had \"informed many of our colleagues that their employment under LIV 1.0\" had concluded. Perhaps the exodus and confusion explain how they got the email wrong: Mine addressed me as \"Dear LIV Golf Fan\" and thanked me for supporting their terrible league. Not me! I've been to two LIV Golf events and both sucked mega shit.\n\nThe email encourages recipients to \"stay tuned for more LIV Golf,\" without offering any details whatsoever about where a LIV Golf Fan might do that, or for how long. The promotion's future is very much up in the air. In the statement announcing the layoffs, a LIV Golf spokesperson insisted that whoever is left over there is still working \"toward making LIV 2.0 a reality.\"",
+        "copy": "LIV Golf recently sent out a mass email to mark the conclusion of its 2026 season. I imagine this was a somewhat slapdash operation given that the outfit, recently dumped by the Saudi Public Investment Fund, had to lop off the final event on its schedule, the team championship, which was scheduled for the final weekend of August, in Plymouth, Mich. Instead, the player championship and the team championship were both settled in Indianapolis, with stripped down entertainment offerings and drastically reduced player bonuses. In the week between the season's sudden conclusion and the arrival of the email, LIV Golf laid off a majority of its employees, writing in a statement to Golf Digest that the operation had \"informed many of our colleagues that their employment under LIV 1.0\" had concluded. Perhaps the exodus and confusion explain how they got the email wrong: Mine addressed me as \"Dear LIV Golf Fan\" and thanked me for supporting their terrible league. Not me! I've been to two LIV Golf events and both sucked mega shit.\n\nThe email encourages recipients to \"stay tuned for more LIV Golf,\" without offering any details whatsoever about where a LIV Golf Fan might do that, or for how long. The promotion's future is very much up in the air. In the statement announcing the layoffs, a LIV Golf spokesperson insisted that whoever is left over there is still working \"toward making LIV 2.0 a reality.\"",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'It's not fair': 2 U.S. Ryder Cuppers snubbed in Presidents Cup captain's picks",
+        "link": "https://golf.com/news/2-ryder-cuppers-snubbed-presidents-cup-captains-picks/",
+        "published": "2026-09-02T13:09:01+00:00",
+        "published_label": "Wed 02 Sep, 13:09",
+        "summary": "Two prominent American pros were snubbed from the 2026 Presidents Cup team, despite performing well at last year's Ryder Cup. The post ‘It’s not fair’: 2 U.S. Ryder Cuppers snubbed in Presidents Cup captain’s picks appeared first on Golf .",
+        "body": "The 2026 Presidents Cup at Medinah C.C. is just three weeks away, and U.S. captain Brandt Snedeker announced his final picks for the team on Tuesday night. While many of the players who did receive captain’s picks were certain locks (with one big exception), other players who may have thought they would be selected for the team got snubbed by Snedeker.\n\nTwo players in particular stand out: J.J Spaun and Ben Griffin. Not only did they both play on the 2025 U.S. Ryder Cup team, but they also performed better there than multiple players who did earn Presidents Cup picks.",
+        "copy": "The 2026 Presidents Cup at Medinah C.C. is just three weeks away, and U.S. captain Brandt Snedeker announced his final picks for the team on Tuesday night. While many of the players who did receive captain’s picks were certain locks (with one big exception), other players who may have thought they would be selected for the team got snubbed by Snedeker.\n\nTwo players in particular stand out: J.J Spaun and Ben Griffin. Not only did they both play on the 2025 U.S. Ryder Cup team, but they also performed better there than multiple players who did earn Presidents Cup picks.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Ted Scott reveals Scottie Scheffler's response when he told him LIV Golf may offer him $250m to join",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXVPSGRnSlNmc19JUEhWVzBrcjlJcnBkdEFCeW9ESkdYSk12WmFrR1h3QnVXTm5DMzJBaURjRkQ5QWhLZmNNcjZPWllRSF9CS1VFUWhJNXh1OXI4SkNpQ3I2NTlBdk9PMVd0YnAxWmdwY3QtQ2ZRSzVEQU5XZEpDbjM5dEt3TVA0U0YyYV9fTjZOVVJpNkZXZ2NidG53ZGJuak40T3FIR0pwNUJZRFdwYm1SSEdGWnZVLTBubQ?oc=5",
+        "published": "2026-09-02T11:00:00+00:00",
+        "published_label": "Wed 02 Sep, 11:00",
+        "summary": "Ted Scott reveals Scottie Scheffler's response when he told him LIV Golf may offer him $250m to join hitc.com",
+        "body": "Scottie Scheffler was the world number one golfer when LIV Golf burst onto the scene back in June 2022. Numerous big names moved to LIV Golf from the PGA Tour, including the likes of Bryson DeChambeau, Dustin Johnson, Phil Mickelson, and later, Jon Rahm.\n\nHowever, Scheffler remained on the PGA Tour, along with arguably professional golf’s biggest star, Rory McIlroy. Ever since then, Scottie Scheffler has been the dominant figure in the professional game, with 22 PGA Tour wins to his name, including four major championships.",
+        "copy": "Scottie Scheffler was the world number one golfer when LIV Golf burst onto the scene back in June 2022. Numerous big names moved to LIV Golf from the PGA Tour, including the likes of Bryson DeChambeau, Dustin Johnson, Phil Mickelson, and later, Jon Rahm.\n\nHowever, Scheffler remained on the PGA Tour, along with arguably professional golf’s biggest star, Rory McIlroy. Ever since then, Scottie Scheffler has been the dominant figure in the professional game, with 22 PGA Tour wins to his name, including four major championships.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "DP World Tour makes Patrick Reed and Bubba Watson announcement",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXhPdXduRGRxajAyOVFaYkF2RFRLRld6azAzUWhSanhlcmFpNVhTTnRzRlhEd3VDX3RuZ1gtbGJXRVE4MzVPbnlLS0Jyelp3WmR1Nk8tSEtwMWQyRFdhQjZicDlyYTBjMVFNX1RuanVoc3poTnU5RnBCUjB5NUNNLTBiWm9PMmJWb2lVbGM4SzBvdWQyTnJTY1RweGdPQVVwemNqOVBwYV9XSzQ?oc=5",
+        "published": "2026-09-02T10:46:40+00:00",
+        "published_label": "Wed 02 Sep, 10:46",
+        "summary": "DP World Tour makes Patrick Reed and Bubba Watson announcement Golfmagic",
+        "body": "Patrick Reed and Bubba Watson have confirmed their participation in the 2026 DP World India Championship, joining a star-studded field for the tournament's second edition at Delhi Golf Club from 12-15 October.\n\nThe two Masters champions will tee it up alongside defending champion Tommy Fleetwood, career grand slam champion Rory McIlroy and 2026 Open champion Ryan Fox in what is shaping up to be one of the strongest fields of the DP World Tour season.",
+        "copy": "Patrick Reed and Bubba Watson have confirmed their participation in the 2026 DP World India Championship, joining a star-studded field for the tournament's second edition at Delhi Golf Club from 12-15 October.\n\nThe two Masters champions will tee it up alongside defending champion Tommy Fleetwood, career grand slam champion Rory McIlroy and 2026 Open champion Ryan Fox in what is shaping up to be one of the strongest fields of the DP World Tour season.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6036,84 +6114,6 @@
         "body": "LIV Golf 1.0 ended on Sunday in Indianapolis with an odd scene that perfectly captured the chaos that has enveloped the league since the Saudi Arabian Public Investment Fund announced it was withdrawing funding from the outfit after the 2026 season. There was Jon Rahm evading questions about his future, Tyrrell Hatton trying to run to the airport and Bryson DeChambeau trying, and failing, to project confidence in LIV 2.0.\n\nLast week, LIV CEO Scott O’Neil told the press he was bullish on where LIV was headed in its new era — one that will involve a shorter schedule, smaller purses and more player control in how the league is run. O’Neil has been trying to steady the ship, including securing an agreement from an outside investor. But with some of LIV’s biggest names reportedly looking to head for the exit, the breakaway league is teetering.",
         "copy": "LIV Golf 1.0 ended on Sunday in Indianapolis with an odd scene that perfectly captured the chaos that has enveloped the league since the Saudi Arabian Public Investment Fund announced it was withdrawing funding from the outfit after the 2026 season. There was Jon Rahm evading questions about his future, Tyrrell Hatton trying to run to the airport and Bryson DeChambeau trying, and failing, to project confidence in LIV 2.0.\n\nLast week, LIV CEO Scott O’Neil told the press he was bullish on where LIV was headed in its new era — one that will involve a shorter schedule, smaller purses and more player control in how the league is run. O’Neil has been trying to steady the ship, including securing an agreement from an outside investor. But with some of LIV’s biggest names reportedly looking to head for the exit, the breakaway league is teetering.",
         "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Golf Channel postpones 'Big Break x Good Good' premiere after sponsor backs out",
-        "link": "https://golf.com/news/golf-channel-postpones-big-break-good-good/",
-        "published": "2026-08-26T15:31:26+00:00",
-        "published_label": "Wed 26 Aug, 15:31",
-        "summary": "Golf Channel postponed Tuesday's premiere of the \"Big Break x Good Good\" due to a sponsor pulling its branding amid a Good Good controversy. The post Golf Channel postpones ‘Big Break x Good Good’ premiere after sponsor backs out appeared first on Golf .",
-        "body": "Golf Channel postponed Tuesday night’s premiere of the “Big Break x Good Good” due to a sponsor’s request to pull its branding, the latest repercussion stemming from a controversial driver ad that was a collaboration between Callaway and Good Good.\n\nThe debut of the show is now set for Sept. 1. “This will allow for necessary production updates following a request from one of the show’s sponsors to remove its branding from the series,” a Golf Channel release said.",
-        "copy": "Golf Channel postponed Tuesday night’s premiere of the “Big Break x Good Good” due to a sponsor’s request to pull its branding, the latest repercussion stemming from a controversial driver ad that was a collaboration between Callaway and Good Good.\n\nThe debut of the show is now set for Sept. 1. “This will allow for necessary production updates following a request from one of the show’s sponsors to remove its branding from the series,” a Golf Channel release said.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Tyrrell Hatton delivers verdict on LIV Golf future",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOHBkWHA4dlVsTjRlT2NNc1hpYVBrY18xNnA0eC1ITnhBX2kzX3FmOEhORlpMaXVtdFBXREktSkhEU2N1N2J6SFpPMDFMZXlKY2ZfZ0J6cDAyTUZOdDI0UGVQRnhlTlBFZWhuV0c2a1pidHNCUktfUWg2aExQWmc1TExGc1hQZFF2eUp3Rm93djg?oc=5",
-        "published": "2026-08-26T15:11:37+00:00",
-        "published_label": "Wed 26 Aug, 15:11",
-        "summary": "Tyrrell Hatton delivers verdict on LIV Golf future Today's Golfer",
-        "body": "When Tyrrell Hatton walked out to Queen’s I Want to Break Free in Indianapolis last week, it was widely interpreted as a not-so-subtle signal that the Englishman wants out of LIV Golf.\n\nYet in his press conference at the British Masters on Wednesday, Hatton confirmed he still has multiple years left on his LIV contract, while also insisting he expects the breakaway league to continue into the 2027 season.",
-        "copy": "When Tyrrell Hatton walked out to Queen’s I Want to Break Free in Indianapolis last week, it was widely interpreted as a not-so-subtle signal that the Englishman wants out of LIV Golf.\n\nYet in his press conference at the British Masters on Wednesday, Hatton confirmed he still has multiple years left on his LIV contract, while also insisting he expects the breakaway league to continue into the 2027 season.",
-        "first_seen": "2026-08-26T14:42:34.463580+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf Lays Off Majority of Staff as It Charts 2.0 Version",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGZoSGwwcmswR2JrbHZ1bFFjMHhzb0hBdE1oWG5rQmtmbGdGcWtUbVMxMW1pMGJxbWdJN3VJVWstaG5oNDBTMmJOeVVlWjI4Y2dOOHBpamE5N25UZ2tHeEQ1dXhINGE5Rjg2WElNU255NkZ0X2I5MVZJbEhCLXF2dlRSZk1jT1pKVkFZ?oc=5",
-        "published": "2026-08-26T15:04:04+00:00",
-        "published_label": "Wed 26 Aug, 15:04",
-        "summary": "LIV Golf Lays Off Majority of Staff as It Charts 2.0 Version Sportico.com",
-        "body": "LIV Golf informed the majority of its employees in the U.S and U.K. Wednesday morning that their employment will end in the first week of September. The move was not unexpected after the upstart tour filed a Worker Adjustment and Retraining Notification (WARN) Act notice last month—a legal requirement to notify workers of potential layoffs. LIV has been in crisis mode since Saudi Arabia’s Public Investment Fund (PIF) pulled back its financial support after spending $5 billion over five years.\n\n“We are scaling back operations as we transition to the next chapter of LIV Golf and work toward making LIV 2.0 a reality,” an LIV spokesperson said. “We are grateful to our employees for their hard work and dedication in building LIV Golf, and we remain committed to supporting those affected through this transition.”",
-        "copy": "LIV Golf informed the majority of its employees in the U.S and U.K. Wednesday morning that their employment will end in the first week of September. The move was not unexpected after the upstart tour filed a Worker Adjustment and Retraining Notification (WARN) Act notice last month—a legal requirement to notify workers of potential layoffs. LIV has been in crisis mode since Saudi Arabia’s Public Investment Fund (PIF) pulled back its financial support after spending $5 billion over five years.\n\n“We are scaling back operations as we transition to the next chapter of LIV Golf and work toward making LIV 2.0 a reality,” an LIV spokesperson said. “We are grateful to our employees for their hard work and dedication in building LIV Golf, and we remain committed to supporting those affected through this transition.”",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Tour Championship betting guide: 4 picks our gambling expert loves",
-        "link": "https://golf.com/lifestyle/tour-championship-2026-betting-picks/",
-        "published": "2026-08-26T13:18:20+00:00",
-        "published_label": "Wed 26 Aug, 13:18",
-        "summary": "The Tour Championship begins Thursday at East Lake in Atlanta. Here are four picks our expert loves — and why he thinks you should too. The post Tour Championship betting guide: 4 picks our gambling expert loves appeared first on Golf .",
-        "body": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Tour Championship, which gets underway on Thursday in Atlanta.\n\nIt all comes down to East Lake Golf Club in Atlanta. The top 30 players in the FedEx Cup standings have advanced to the final PGA Tour event, the Tour Championship, where the FedEx Cup and $10 million await this week’s winner.",
-        "copy": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Tour Championship, which gets underway on Thursday in Atlanta.\n\nIt all comes down to East Lake Golf Club in Atlanta. The top 30 players in the FedEx Cup standings have advanced to the final PGA Tour event, the Tour Championship, where the FedEx Cup and $10 million await this week’s winner.",
-        "first_seen": "2026-08-26T14:42:34.463580+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Nick Faldo reveals what he's hearing about LIV Golf's star players as he takes dig at Phil Mickelson",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkRaZFJ0WW1ER3VlX1dzd0JNLWM3QkVjX0tWcjFPU2JEYVVsZ0VHdDJ2VmN6WUxERFhUVl9BR0Q2YXZWUTlSX2czT2pESHp1WFlDVlRZMWs2RjRQNm9DelYyLXRCU0JDdWpUMUdWWGtrTS1rUEltNkVxckFIQWVkT3FheXB5bzI1V2hVUUUyV0d2TkdRbW1VOTAxWFBhTndWNjQzU3VMemhPYXBPQnRTUGtSNkVIMmZNOFpTYg?oc=5",
-        "published": "2026-08-26T12:30:00+00:00",
-        "published_label": "Wed 26 Aug, 12:30",
-        "summary": "Nick Faldo reveals what he's hearing about LIV Golf's star players as he takes dig at Phil Mickelson hitc.com",
-        "body": "It’s fair to say that Sir Nick Faldo is one of the most outspoken personalities in the professional game. Faldo was an uncompromising character during his incredibly successful playing career.\n\nAnd while the Englishman is definitely more easy going now than when he was playing competitively, he still pulls no punches when discussing hot topics in the game today. So it should be no surprise that Nick Faldo has such a strong opinion on LIV Golf.",
-        "copy": "It’s fair to say that Sir Nick Faldo is one of the most outspoken personalities in the professional game. Faldo was an uncompromising character during his incredibly successful playing career.\n\nAnd while the Englishman is definitely more easy going now than when he was playing competitively, he still pulls no punches when discussing hot topics in the game today. So it should be no surprise that Nick Faldo has such a strong opinion on LIV Golf.",
-        "first_seen": "2026-08-26T14:42:34.463580+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Golf legend drops LIV captains exit bombshell amid uncertainty over 2027",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXl5Z1VVS0QtbFp0ZEltVXc3bHRTaVowNkJ5V1hTWDJoYm5iUUI1NzBIeWNjbXlBQVBQUnU5VFpkZldGNTRodmdNTkxYeDh5VkJzSUd6MTREdF9HLUpSZ1pULUZObl9FYzg2Ny1adFNIMFEyRFlkcXk0TTZHVGk5cERNaHNOREFKRl94eTlhQ0JXODk4cnJ6ay1HT3l2NnlhSXZveXJoeVcwMW9aN096dDNn?oc=5",
-        "published": "2026-08-26T12:20:00+00:00",
-        "published_label": "Wed 26 Aug, 12:20",
-        "summary": "Golf legend drops LIV captains exit bombshell amid uncertainty over 2027 Golfmagic",
-        "body": "Sir Nick Faldo claims he is hearing that a number of LIV Golf captains have had enough of the breakaway league and are looking for a way out – even if a revamped LIV Golf 2.0 gets off the ground in 2027.\n\nThe six-time major champion made the revelation to Sky Sports' Jamie Weir at this week's $3.5 million Husqvarna British Masters at The Belfry, where Faldo is once again serving as tournament host.",
-        "copy": "Sir Nick Faldo claims he is hearing that a number of LIV Golf captains have had enough of the breakaway league and are looking for a way out – even if a revamped LIV Golf 2.0 gets off the ground in 2027.\n\nThe six-time major champion made the revelation to Sky Sports' Jamie Weir at this week's $3.5 million Husqvarna British Masters at The Belfry, where Faldo is once again serving as tournament host.",
-        "first_seen": "2026-08-26T12:45:32.676157+00:00"
       }
     ],
     "Badminton": [
@@ -6132,6 +6132,19 @@
       },
       {
         "section": "Badminton",
+        "source": "Badminton Europe",
+        "kind": "gnews",
+        "title": "Draw published for 2026 European Senior Championships - Corporate - Fan Zone",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTzlHYW9oTlNPS1M2VG9UVDlnVWdYZ3dZTUNSY2tyRGV6Rk9ralM3bW1GR3lNOUluMnh5dVluQkVfQ3prN0FyY2VxRTB3ZWxBWW5fTl8wTkxrRWsycFhOcXpYZjdWNlJpLWYtVTl4V2Z5ZW9PUlN6VmdseTlRLW1ZRC16cW94dkJ3M1RwclZublRWMTlsVEFweC0yempsUQ?oc=5",
+        "published": "2026-09-02T08:47:52+00:00",
+        "published_label": "Wed 02 Sep, 08:47",
+        "summary": "Draw published for 2026 European Senior Championships - Corporate - Fan Zone Badminton Europe",
+        "body": "The draw for the 2026 European Senior Championships has been published. We're now ready for another exciting edition of Europe's top event for senior badminton players. The event is taking place in Cagliari, Italy, from 19 to 27 September. Matches will be streamed on BadmintonEurope.tv.",
+        "copy": "The draw for the 2026 European Senior Championships has been published. We're now ready for another exciting edition of Europe's top event for senior badminton players. The event is taking place in Cagliari, Italy, from 19 to 27 September. Matches will be streamed on BadmintonEurope.tv.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      },
+      {
+        "section": "Badminton",
         "source": "BWF watch",
         "kind": "gnews",
         "title": "China Masters: Liu/Hsu Tame World Champs",
@@ -6142,6 +6155,19 @@
         "body": "Thom Gicquel/Delphine Delrue found their first test as world champions a painful one as Liu Kuang Heng/Hsu Yin-hui stunned them 23-21 21-10 in just 38 minutes in the LI-NING China Masters 2026 opening round on Wednesday.\n\nLiu/Hsu produced a composed and aggressive display to subdue the French duo, who claimed the world title just two Sundays ago. Trailing 19-17, Liu/Hsu fought back to level the score before saving a game point and eventually closing out the game 23-21. That breakthrough proved decisive – with the pressure shifting firmly onto the French, Liu/Hsu raced through the second game 21-10.",
         "copy": "Thom Gicquel/Delphine Delrue found their first test as world champions a painful one as Liu Kuang Heng/Hsu Yin-hui stunned them 23-21 21-10 in just 38 minutes in the LI-NING China Masters 2026 opening round on Wednesday.\n\nLiu/Hsu produced a composed and aggressive display to subdue the French duo, who claimed the world title just two Sundays ago. Trailing 19-17, Liu/Hsu fought back to level the score before saving a game point and eventually closing out the game 23-21. That breakthrough proved decisive – with the pressure shifting firmly onto the French, Liu/Hsu raced through the second game 21-10.",
         "first_seen": "2026-09-02T10:34:49.913013+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "China Masters: Liu/Hsu Tame World Champs",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdlNJbUdzMHBOTGI3NVdmV3J3SFJtb05tTXppTmRtVnZpaWx3eE9aN1A0bEFUS3Z2d0hLTDJ1Y3RVTUpfTUZvd09MUlJ0X05JUDlTSzlibU0xYkhOdUhfejA3MjBBSkRRSW5NajlSUkQyT3hFOUQySDBwLVhnZV9lcmNmS3dKQW5VV0hyNlBoSEVwd2pRb1JfX0J2NXBoY3JKcVE?oc=5",
+        "published": "2026-09-02T05:23:42+00:00",
+        "published_label": "Wed 02 Sep, 05:23",
+        "summary": "China Masters: Liu/Hsu Tame World Champs BWF World Tour",
+        "body": "Thom Gicquel/Delphine Delrue found their first test as world champions a painful one as Liu Kuang Heng/Hsu Yin-hui stunned them 23-21 21-10 in just 38 minutes in the LI-NING China Masters 2026 opening round on Wednesday.\n\nLiu/Hsu produced a composed and aggressive display to subdue the French duo, who claimed the world title just two Sundays ago. Trailing 19-17, Liu/Hsu fought back to level the score before saving a game point and eventually closing out the game 23-21. That breakthrough proved decisive – with the pressure shifting firmly onto the French, Liu/Hsu raced through the second game 21-10.",
+        "copy": "Thom Gicquel/Delphine Delrue found their first test as world champions a painful one as Liu Kuang Heng/Hsu Yin-hui stunned them 23-21 21-10 in just 38 minutes in the LI-NING China Masters 2026 opening round on Wednesday.\n\nLiu/Hsu produced a composed and aggressive display to subdue the French duo, who claimed the world title just two Sundays ago. Trailing 19-17, Liu/Hsu fought back to level the score before saving a game point and eventually closing out the game 23-21. That breakthrough proved decisive – with the pressure shifting firmly onto the French, Liu/Hsu raced through the second game 21-10.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
       },
       {
         "section": "Badminton",
@@ -6571,35 +6597,23 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-27T17:19:17.425447+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Jonatan Christie Takes Top Spot",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DM0txQ3FYVXNERkN5X3NuRWtqZWpHYzJXdmd5bmlzbGlrWUh3SzZkU2NRNFlwYXBsNW0wLWljMHg3ZkozRzYyU3VxU2N3TU1xU2hiWDFJdThMeGpQaW5kbmlDN1E5N3NfdTdvLTV0R2xpdTAzTVNaYUd5cw?oc=5",
-        "published": "2026-08-26T14:00:47+00:00",
-        "published_label": "Wed 26 Aug, 14:00",
-        "summary": "Jonatan Christie Takes Top Spot BWF Fansite",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF World Championships: Treesa Jolly & Gayatri Gopichand storm into women’s doubles semifinals",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGlBZGtJWHlTREdWT213dFhjaWVJVGFaRU9BTjZkVkZCQ2ZWQngxS1ZKZjF4eXdvekl2eTYyd2xUNmtoZ2pIYmFDbDRUWGgyZkpRMm1ra01yQkpManFxR3ZZM2RlSlRNZ1Q1eDZpbTFlSjFoNkNWV01RLTFjR2VJRmM5Slh0N19EcVN2RzRMbVdPS2RJWFhWcWpxOE1KeldDcERGcnJqRDVHVEh5NllNYVNMNExacUly?oc=5",
-        "published": "2026-08-26T13:21:46+00:00",
-        "published_label": "Wed 26 Aug, 13:21",
-        "summary": "BWF World Championships: Treesa Jolly & Gayatri Gopichand storm into women’s doubles semifinals News On AIR",
-        "body": "In Badminton, India’s Treesa Jolly and Gayatri Gopichand have stormed into the women’s doubles semifinals of the BWF World Championships in New Delhi. The Indian duo displayed remarkable grit and fighting spirit, coming from a game down to overcome fourth seeds Jia Yi Fan and Zhang Shu Xian of China 16-21, 21-15, 21-13. With this triumph, Treesa and Gayatri have assured India of a coveted medal at the prestigious championship. This will be India’s first medal in the women’s doubles event at the World Championships in 15 years.",
-        "copy": "In Badminton, India’s Treesa Jolly and Gayatri Gopichand have stormed into the women’s doubles semifinals of the BWF World Championships in New Delhi. The Indian duo displayed remarkable grit and fighting spirit, coming from a game down to overcome fourth seeds Jia Yi Fan and Zhang Shu Xian of China 16-21, 21-15, 21-13. With this triumph, Treesa and Gayatri have assured India of a coveted medal at the prestigious championship. This will be India’s first medal in the women’s doubles event at the World Championships in 15 years.",
-        "first_seen": "2026-08-26T16:47:49.957529+00:00"
       }
     ],
-    "Competitor News": []
+    "Competitor News": [
+      {
+        "section": "Competitor News",
+        "source": "Google News",
+        "kind": "gnews",
+        "title": "EverPass Media Expands Netflix Partnership to Bring NFL Broadcasts to Venues Nationwide",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2l0MlJaNVoxb0JGTWlpM3pSVGI4b3Z1YlQtbXJIb3NPWHRUalRjdmw0ZFJKWHpoOElLTGdwV0ZUZ3Nfd0V2M004ZldSNFA2TjMxeDRHWUxyaVktRVpCQzRjMkZ5VXUtM01MN1VaWTRMdGdNdmtLcGxhdDBRUHlTakRaTHM4WEdzLVZIQWhFeFE2RXczdnJEeFFpZnNfNS0wZGk2czE0ODgzQkdDT3l1N2RTZWRuRU0?oc=5",
+        "published": "2026-09-02T00:53:14+00:00",
+        "published_label": "Wed 02 Sep, 00:53",
+        "summary": "EverPass Media Expands Netflix Partnership to Bring NFL Broadcasts to Venues Nationwide Ministry of Sport",
+        "body": "EverPass Media has secured an expanded multi-year distribution agreement with Netflix to deliver the streaming giant’s complete National Football League content slate to commercial establishments across the United States.\n\nBuilding on a successful prior collaboration that brought Christmas Day fixtures and live boxing events to hospitality venues, the partnership encompasses high-profile global fixtures, including the upcoming Week 1 Melbourne clash between the San Francisco 49ers and the Los Angeles Rams, the league’s first-ever Thanksgiving Eve game, and the 2027 NFL Honors ceremony.",
+        "copy": "EverPass Media has secured an expanded multi-year distribution agreement with Netflix to deliver the streaming giant’s complete National Football League content slate to commercial establishments across the United States.\n\nBuilding on a successful prior collaboration that brought Christmas Day fixtures and live boxing events to hospitality venues, the partnership encompasses high-profile global fixtures, including the upcoming Week 1 Melbourne clash between the San Francisco 49ers and the Los Angeles Rams, the league’s first-ever Thanksgiving Eve game, and the 2027 NFL Honors ceremony.",
+        "first_seen": "2026-09-02T15:57:44.448663+00:00"
+      }
+    ]
   },
-  "total": 506
+  "total": 507
 }
