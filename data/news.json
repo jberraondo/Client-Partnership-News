@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T15:44:15.916506+00:00",
-  "generated_label": "Friday 04 September 2026, 15:44 UTC",
+  "generated_at": "2026-09-04T18:49:37.801523+00:00",
+  "generated_label": "Friday 04 September 2026, 18:49 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Versant snaps up domestic rights to returning World Team Tennis",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWNLQnBheDZuM2d3ZWlDLWlPVGx0ZGptdzZBM1F1U0VKZVB4SDdPMWtTU0U2b2xlZ2ZTMjhQekFGbmxxek9TQkFsQV90UWF5RE5wSnliNWs2dTVzcFVUZmJMRHhBcmNCaGpDQnMyZzR1U1lKdVlZN2dyZzdyLWhmSi11d3I3T2hpWGlpcjNVREpZR2NacF9CdGhR?oc=5",
+        "published": "2026-09-04T15:20:16+00:00",
+        "published_label": "Fri 04 Sep, 15:20",
+        "summary": "Versant snaps up domestic rights to returning World Team Tennis Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -1428,61 +1441,87 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-29T17:35:11.029546+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Donald Trump loses bid to challenge hush-money conviction in federal court",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkg3SjhWT3NKMFl1R1RvVmRoQXB1N0RPWFhKWnZ2WDlWMmNVVkVrd0NsQnlSZFJaSGIyMDYwZ1gwUDhYbWdYa0RNc2dLWXFVV3RNY0M3aWxRT3hVNy1sSGJDRnFxNUhUbm0yZ3ZLcGliUkhpQVhxb2dJR3NuVTBCUkFnUDM?oc=5",
-        "published": "2026-08-28T17:22:09+00:00",
-        "published_label": "Fri 28 Aug, 17:22",
-        "summary": "Donald Trump loses bid to challenge hush-money conviction in federal court Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-29T20:22:59.991581+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Chelsea secure shirt sponsor, new partnerships for Tottenham, Leeds",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUg5ZF9vbkl5ODhtT3VZN0N3bENycGpYMW5aZFFKTzI4QVJZUDBoeFk0aFQ5QUFfeUlVQWY5TUJTVDdmOUZXd0tnLUxZZlhObGt5S1VjQmpZQVhQTXo1aFFZdUNRaUd5emR2VlN4N2ZiOTAxM2ZYUFk1SlhGSFNCd3F1ZEM4TzJGUmotWTBSZXdiZmtBT3NTX2R4NmtoWDJ2N0paZkp3?oc=5",
-        "published": "2026-08-28T16:32:39+00:00",
-        "published_label": "Fri 28 Aug, 16:32",
-        "summary": "Chelsea secure shirt sponsor, new partnerships for Tottenham, Leeds Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-29T17:35:11.029546+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "RLWC26: Free-to-air coverage or pay-TV",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObkJUbGcteU1RZXhMM2tmS2lYbmkyaUdKbzhDRGNjZjFNLVRhSGxXMWxaZjJabl9SeHNQSFR2SS1qVDdLVU8zZGRtWUxKVU15RzQ2MFNSQVRkUG1Dajc1LU9DX3VyZ0xXZ0MzaXVPTTExT1hyWFhrbTFmSHExSkNBX2xOUzBpQQ?oc=5",
-        "published": "2026-08-28T15:59:40+00:00",
-        "published_label": "Fri 28 Aug, 15:59",
-        "summary": "RLWC26: Free-to-air coverage or pay-TV Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "WWE aiming for Australian expansion with Perth hosting rights deal",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQazR1RlhXUUh5cEcwV1Q3V0MwZDBhbm1OSDZrRWtna1FUSFMtVDkwNG5iZ1J1Z015bzRIQ2hIQzB2bGNwY2dqM3pmRlg1cnNFY2FNN3lVYkdpVzMxMURkQVJNa2lRdXFGN2NzSHpQM2pQYUpDMWxkQWQ2UnhUdHIzcnlBclktcmMyaW5Mc2FRSUJ1eUZxcnVVa2hwanFDdw?oc=5",
-        "published": "2026-08-28T15:50:25+00:00",
-        "published_label": "Fri 28 Aug, 15:50",
-        "summary": "WWE aiming for Australian expansion with Perth hosting rights deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "The auditions start now: One year to go until the first British & Irish Lions Women tour",
+        "link": "https://www.rugbypass.com/news/the-auditions-start-now-one-year-to-go-until-the-first-british-irish-lions-women-tour/",
+        "published": "2026-09-04T18:06:52+00:00",
+        "published_label": "Fri 04 Sep, 18:06",
+        "summary": "There is exactly one year to go until the British & Irish Lions Women play their first tour match in New Zealand.",
+        "body": "There is exactly one year to go until the British & Irish Lions Women play their first tour match in New Zealand. By then the British & Irish Lions Women will have been a project more than six years in the making. Now it is 12 months away from becoming a reality.\n\nIt is a team that was launched after a feasibility study that took just shy of three years before it was announced a team would come into existence, and give the top players from England, Ireland, Scotland and Wales the opportunity to compete together under one banner for the very first time. A game changer for women’s rugby.",
+        "copy": "There is exactly one year to go until the British & Irish Lions Women play their first tour match in New Zealand. By then the British & Irish Lions Women will have been a project more than six years in the making. Now it is 12 months away from becoming a reality.\n\nIt is a team that was launched after a feasibility study that took just shy of three years before it was announced a team would come into existence, and give the top players from England, Ireland, Scotland and Wales the opportunity to compete together under one banner for the very first time. A game changer for women’s rugby.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'I’m not one to keep secrets': Swys de Bruin lifts the lid on his abrupt Springbok Women exit",
+        "link": "https://www.rugbypass.com/news/im-not-one-to-keep-secrets-swys-de-bruin-lifts-the-lid-on-his-abrupt-springbok-women-exit/",
+        "published": "2026-09-04T16:57:22+00:00",
+        "published_label": "Fri 04 Sep, 16:57",
+        "summary": "Swys de Bruin has opened up about his abrupt departure as head coach of the Springbok Women.",
+        "body": "Swys de Bruin has opened up about his shock exit as head coach of the Springbok Women. This week, ahead of the team’s Rugby’s Greatest Rivalry clash with the Black Ferns at FNB Stadium, rumours emerged that De Bruin had resigned.\n\nLater, when the Boks announced their match day 23 for the Soweto fixture, SA Rugby confirmed that the 66-year-old had left his post. During his two years in charge – which De Bruin described as “wonderful” – the former Lions and Springbok Men attack coach led his team to the knockout stages of a Women’s Rugby World Cup for the first time ever.",
+        "copy": "Swys de Bruin has opened up about his shock exit as head coach of the Springbok Women. This week, ahead of the team’s Rugby’s Greatest Rivalry clash with the Black Ferns at FNB Stadium, rumours emerged that De Bruin had resigned.\n\nLater, when the Boks announced their match day 23 for the Soweto fixture, SA Rugby confirmed that the 66-year-old had left his post. During his two years in charge – which De Bruin described as “wonderful” – the former Lions and Springbok Men attack coach led his team to the knockout stages of a Women’s Rugby World Cup for the first time ever.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "The emergence of softly-spoken Peter Lakai within the All Blacks environment",
+        "link": "https://www.rugbypass.com/news/the-emergence-of-softly-spoken-peter-lakai-within-the-all-blacks-environment/",
+        "published": "2026-09-04T16:44:31+00:00",
+        "published_label": "Fri 04 Sep, 16:44",
+        "summary": "Quiet characters are easy to find in the All Blacks environment, far more so than outspoken ones. But even by New Zealand's standards, Peter Lakai stands out as especially laid-back and undisturbed.",
+        "body": "Quiet characters are easy to find in the All Blacks environment, far more so than outspoken ones. But even by New Zealand standards, Peter Lakai stands out as especially laid-back and undisturbed.\n\nThe 23-year-old is in his third season with the national team, having generated All Blacks buzz with his New Zealand Age Grade Player of the Year Award in 2022 after debuting and starring for the Wellington Lions as a teenager. Lakai has since established himself as a non-negotiable selection in the All Blacks’ matchday 23, thanks in large part to his remarkable consistency for such a young athlete.",
+        "copy": "Quiet characters are easy to find in the All Blacks environment, far more so than outspoken ones. But even by New Zealand standards, Peter Lakai stands out as especially laid-back and undisturbed.\n\nThe 23-year-old is in his third season with the national team, having generated All Blacks buzz with his New Zealand Age Grade Player of the Year Award in 2022 after debuting and starring for the Wellington Lions as a teenager. Lakai has since established himself as a non-negotiable selection in the All Blacks’ matchday 23, thanks in large part to his remarkable consistency for such a young athlete.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "New family dynasty set for special piece of Test history in Soweto",
+        "link": "https://www.rugbypass.com/news/new-family-dynasty-set-for-special-piece-of-test-history-in-soweto/",
+        "published": "2026-09-04T16:24:40+00:00",
+        "published_label": "Fri 04 Sep, 16:24",
+        "summary": "The Sititi family will take centre stage at FNB Stadium on Saturday, with 19-year-old sensation Amarante named for the Black Ferns and 23-year-old brother Wallace named for the All Blacks in the Greatest Rivalry double-header.",
+        "body": "The Sititi family will take centre stage at FNB Stadium on Saturday, with 19-year-old sensation Amarante named for the Black Ferns and 23-year-old brother Wallace named for the All Blacks in the Greatest Rivalry double-header.\n\nIt’s just the second time siblings have represented New Zealand on the same day, following Annaleah and Xavier Rush in 1998. Both siblings have been named in the No.20 jerseys for their respective teams, with Amarante set to make just her second Test appearance for the Black Ferns and Wallace in line to make his 22nd Test appearance for the All Blacks.",
+        "copy": "The Sititi family will take centre stage at FNB Stadium on Saturday, with 19-year-old sensation Amarante named for the Black Ferns and 23-year-old brother Wallace named for the All Blacks in the Greatest Rivalry double-header.\n\nIt’s just the second time siblings have represented New Zealand on the same day, following Annaleah and Xavier Rush in 1998. Both siblings have been named in the No.20 jerseys for their respective teams, with Amarante set to make just her second Test appearance for the Black Ferns and Wallace in line to make his 22nd Test appearance for the All Blacks.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Siya Kolisi issues rallying call to supporters ahead of ‘special’ women’s Test",
+        "link": "https://www.rugbypass.com/news/siya-kolisi-issues-rallying-call-to-supporters-ahead-of-special-womens-test/",
+        "published": "2026-09-04T16:10:21+00:00",
+        "published_label": "Fri 04 Sep, 16:10",
+        "summary": "Springboks captain Siya Kolisi has stated his desire for supporters to flock to FNB Stadium for the Springbok Women's match with the Black Ferns.",
+        "body": "Springboks captain Siya Kolisi has urged supporters to flock to FNB Stadium for the Springbok Women’s match with the Black Ferns. This weekend, South Africa’s biggest stadium will see the Springbok Women and the six-time world champion Black Ferns go toe-to-toe for just the third time. Ever. The fixture will also be the curtain-raiser to the third Test of Rugby’s Greatest Rivalry.\n\nTo date, the Springbok Women and Black Ferns have played each other just twice. The last of those encounters came just shy of a year ago in a Women’s Rugby World Cup 2025 quarter-final in Exeter.",
+        "copy": "Springboks captain Siya Kolisi has urged supporters to flock to FNB Stadium for the Springbok Women’s match with the Black Ferns. This weekend, South Africa’s biggest stadium will see the Springbok Women and the six-time world champion Black Ferns go toe-to-toe for just the third time. Ever. The fixture will also be the curtain-raiser to the third Test of Rugby’s Greatest Rivalry.\n\nTo date, the Springbok Women and Black Ferns have played each other just twice. The last of those encounters came just shy of a year ago in a Women’s Rugby World Cup 2025 quarter-final in Exeter.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Nationwide Nadi Rugby Sevens",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tYnJTMmdwQS1uZUJQVm0zRW9vMUVPRF9qYVBpS3NZTGpjUUFkNndLZDVrX3E2Nk96SUtxVGtVTXhrTHNQaFp4Z0Jub0JLN2RtRXRMS0hZYmlUM2daWUJneS0td19XZU1JY3JrWTB3?oc=5",
+        "published": "2026-09-04T14:59:52+00:00",
+        "published_label": "Fri 04 Sep, 14:59",
+        "summary": "Nationwide Nadi Rugby Sevens Manly Observer",
+        "body": "On 24–25 October 2026, the Nationwide Nadi Rugby 7’s will take over Pittwater Rugby Park in Warriewood, bringing a major celebration of Pacific rugby, culture and community to the Northern Beaches.\n\nThe two-day tournament will feature a 32-team men’s Rugby Sevens competition together with a women’s competition, attracting players, officials, families and supporters for a weekend of fast-paced rugby.",
+        "copy": "On 24–25 October 2026, the Nationwide Nadi Rugby 7’s will take over Pittwater Rugby Park in Warriewood, bringing a major celebration of Pacific rugby, culture and community to the Northern Beaches.\n\nThe two-day tournament will feature a 32-team men’s Rugby Sevens competition together with a women’s competition, attracting players, officials, families and supporters for a weekend of fast-paced rugby.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -3575,35 +3614,48 @@
         "body": "The first leg of the Asia Rugby Emirates Sevens Series (ARESS 2026) is set to get underway this weekend, with the first of the two legs taking place in Suzhou, China. 12 teams for both the men’s and women’s tournaments are set to converge on the Jiangsu province city west of Shanghai for two days of action, with a combined log points across the two legs of action determining the outcome.\n\nThe second leg will take place in Colombo, Sri Lanka in October, with the two nations are the bottom of each respective table set to be relegated. The heavyweight sides to the men’s tournament are set to be hosts China, Hong Kong China and Japan, however several new additions are set to ask plenty of questions – with two newly promoted side in Kazakhstan and India.",
         "copy": "The first leg of the Asia Rugby Emirates Sevens Series (ARESS 2026) is set to get underway this weekend, with the first of the two legs taking place in Suzhou, China. 12 teams for both the men’s and women’s tournaments are set to converge on the Jiangsu province city west of Shanghai for two days of action, with a combined log points across the two legs of action determining the outcome.\n\nThe second leg will take place in Colombo, Sri Lanka in October, with the two nations are the bottom of each respective table set to be relegated. The heavyweight sides to the men’s tournament are set to be hosts China, Hong Kong China and Japan, however several new additions are set to ask plenty of questions – with two newly promoted side in Kazakhstan and India.",
         "first_seen": "2026-08-29T12:15:20.676174+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I am eternally grateful': Netherlands and Scotland A name squads for Amsterdam clash",
-        "link": "https://www.rugbypass.com/news/i-am-eternally-grateful-netherlands-and-scotland-a-name-squads-for-amsterdam-clash/",
-        "published": "2026-08-28T16:07:19+00:00",
-        "published_label": "Fri 28 Aug, 16:07",
-        "summary": "Rugby Nederland will say goodbye to one of its greatest servants when its women's team take on a Scotland A in Amsterdam on Saturday.",
-        "body": "Rugby Nederland will say goodbye to one of its greatest servants when its women’s team take on a Scotland A in Amsterdam on Saturday. Dames XV head coach Gareth Gilbert will lead his team for a final time at home this weekend, before leading the team in Hong Kong China in WXV Global Series Challenger fixtures against Samoa, Brazil and Fiji.\n\nAt the conclusion of those three weeks, Gilbert will end his 15-year association with the Netherlands to take up a post as head coach of Pretoria Boys High School. Over the years, Gilbert has served as head coach of the Netherlands Men, Women’s Sevens and has also led the Men’s Under-20s since 2022. In he succeeded Sylke Haverkorn as head coach of the Dames XV. This year he led the team to a second-place finish in the Rugby Europe Championship.",
-        "copy": "Rugby Nederland will say goodbye to one of its greatest servants when its women’s team take on a Scotland A in Amsterdam on Saturday. Dames XV head coach Gareth Gilbert will lead his team for a final time at home this weekend, before leading the team in Hong Kong China in WXV Global Series Challenger fixtures against Samoa, Brazil and Fiji.\n\nAt the conclusion of those three weeks, Gilbert will end his 15-year association with the Netherlands to take up a post as head coach of Pretoria Boys High School. Over the years, Gilbert has served as head coach of the Netherlands Men, Women’s Sevens and has also led the Men’s Under-20s since 2022. In he succeeded Sylke Haverkorn as head coach of the Dames XV. This year he led the team to a second-place finish in the Rugby Europe Championship.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "WRU posts pitch safety advice over hot, dry summer",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c14dl5k562ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-28T15:57:02+00:00",
-        "published_label": "Fri 28 Aug, 15:57",
-        "summary": "The Welsh Rugby Union issues pitch safety advice for the new season after a record-breaking summer.",
-        "body": "The Welsh Rugby Union has issued pitch safety advice to community clubs for the new season after a record-breaking summer. Wales recorded its hottest ever day on 24 June with temperatures soaring to 35.9C in Cardiff, while July was the driest since records began 190 years ago.\n\nThe weather has left rugby pitches across the country bone dry, with surfaces as hard as concrete. With the obvious injury risks to players, the WRU has written to all community clubs with guidance on how to assess the conditions before next week's opening matches.",
-        "copy": "The Welsh Rugby Union has issued pitch safety advice to community clubs for the new season after a record-breaking summer. Wales recorded its hottest ever day on 24 June with temperatures soaring to 35.9C in Cardiff, while July was the driest since records began 190 years ago.\n\nThe weather has left rugby pitches across the country bone dry, with surfaces as hard as concrete. With the obvious injury risks to players, the WRU has written to all community clubs with guidance on how to assess the conditions before next week's opening matches.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'It's so strong'",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c4gm2607p0zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-04T17:34:51+00:00",
+        "published_label": "Fri 04 Sep, 17:34",
+        "summary": "Aryna Sabalenka briefly halts her US Open match against Kamilla Rakhimova because of the smell of cannabis before going on to reach the fourth round.",
+        "body": "Aryna Sabalenka briefly halted her US Open match against Kamilla Rakhimova because of a strong smell of cannabis before cruising into the fourth round in New York. Top seed Sabalenka raised the issue after going 3-0 up in the first set against Uzbekistan's Rakhimova, telling umpire Eva Asderaki-Moore that \"someone is smoking weed\".\n\nThe Belarusian asked the umpire to intervene \"because it's so strong\". Asderaki-Moore spoke to an official on her radio and made a smoking gesture to someone behind her, before play continued.",
+        "copy": "Aryna Sabalenka briefly halted her US Open match against Kamilla Rakhimova because of a strong smell of cannabis before cruising into the fourth round in New York. Top seed Sabalenka raised the issue after going 3-0 up in the first set against Uzbekistan's Rakhimova, telling umpire Eva Asderaki-Moore that \"someone is smoking weed\".\n\nThe Belarusian asked the umpire to intervene \"because it's so strong\". Asderaki-Moore spoke to an official on her radio and made a smoking gesture to someone behind her, before play continued.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "US Open: Aryna Sabalenka beats Kamilla Rakhimova in straight sets to reach fourth round in Flushing Meadows",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOWNxSjRnVzdIeEhjUXE2bmphNFVsQUd4aFFGSkZmYnh5Si1OT3ltMTcwSnl4eDBsM2s3QUNLZ01zanFYSkNpWW53V0hHS1FHWk9EeHFOeTNEOW5pbnBBX3U0MWFza1RIRnV3R3BLTl9OT0JxQU1hYVJ2NnpmUmtKczdSTHI5Ymh1TWNSVGlCbjNCUXFWWlRSYmRtZGh6UHhua01Ib2xJYmxOZVpUTGhPSy1KcHplRldjY1VfZWRwcWdpVWEtcW92dHZaU19lVDJMRmJ2eUJqYVFwU0ltQndQNXY1MHpPYzZVdmVBZXNDNXo?oc=5",
+        "published": "2026-09-04T16:59:55+00:00",
+        "published_label": "Fri 04 Sep, 16:59",
+        "summary": "US Open: Aryna Sabalenka beats Kamilla Rakhimova in straight sets to reach fourth round in Flushing Meadows Sky Sports",
+        "body": "Aryna Sabalenka came through a tough test against Kamilla Rakhimova - particularly in the second set - to reach the fourth round of the US Open. The two-time defending champion in New York started superbly, storming into a 3-0 lead in the opening set as she didn't miss a single first serve until the seventh game of the match, in which Rakhimova would three times take her to deuce.\n\nThat would prove to be Rakhimova's only real opening in the first set, Sabalenka taking it 6-3, but she'd prove much more competitive in the second. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
+        "copy": "Aryna Sabalenka came through a tough test against Kamilla Rakhimova - particularly in the second set - to reach the fourth round of the US Open. The two-time defending champion in New York started superbly, storming into a 3-0 lead in the opening set as she didn't miss a single first serve until the seventh game of the match, in which Rakhimova would three times take her to deuce.\n\nThat would prove to be Rakhimova's only real opening in the first set, Sabalenka taking it 6-3, but she'd prove much more competitive in the second. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "US Open LIVE! Scores, updates, news, commentary, results from New York with Carlos Alcaraz, Aryna Sabalenka, Ben Shelton, Serena and Venus Williams in action",
+        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOWEJVeUtMTml4Y2o1eV9pWFBYUGlIR2MycklwVW91SnRzM0RtZWdjcnNYRV9pYUM2MDVvVEFDWUUwZEl2MEZyczVPWW9SSEU0OXZVd2ZEWFJhY0cxdnowZzJ1cWhBUGtYUnhfNVFUdzlZRjEtekNxRlc1SE5sbUtzOHZ0Z3ZnX1BDdUpXVDhnQnk1amFaQnpfQ1ZfOUhxa0YyTndLMGNWVXR2U1VhUVBXVkNqNnZMM2p1Q01GVUUyempaVEZBYy1HSnVLZDdWN3Vqc1JWNUFqeG50MGRpS0xuTDA5a192bWxXNDF1bGc5M29zckdZTTIzOHFZNDNPM1QxNlFOZzhLT3VSLW1HVG5FdXBTNDk5ai1SajVaQXBFNmc1bjVBaGFXMTRyUWV2akl6?oc=5",
+        "published": "2026-09-04T15:04:50+00:00",
+        "published_label": "Fri 04 Sep, 15:04",
+        "summary": "US Open LIVE! Scores, updates, news, commentary, results from New York with Carlos Alcaraz, Aryna Sabalenka, Ben Shelton, Serena and Venus Williams in action Sky Sports",
+        "body": "US Open LIVE! Scores, updates, news, commentary, results from New York with Carlos Alcaraz, Aryna Sabalenka, Ben Shelton, Serena and Venus Williams in action - 'Scandalous how good that is' - Is this shot of the tournament?\n\nAlcaraz produces two aces en route to holding to 30, while Wu double faults again in his next service game to put himself under more pressure. The Chinese player battles from 15-30 to another hold, but there's just a feeling he's clinging on in this one - and that when he's already a break behind.",
+        "copy": "US Open LIVE! Scores, updates, news, commentary, results from New York with Carlos Alcaraz, Aryna Sabalenka, Ben Shelton, Serena and Venus Williams in action - 'Scandalous how good that is' - Is this shot of the tournament?\n\nAlcaraz produces two aces en route to holding to 30, while Wu double faults again in his next service game to put himself under more pressure. The Chinese player battles from 15-30 to another hold, but there's just a feeling he's clinging on in this one - and that when he's already a break behind.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
       {
         "section": "Tennis",
         "source": "Sky Sports",
@@ -3759,6 +3811,19 @@
         "body": "",
         "copy": "British number one Katie Boulter wins just one game in a 58-minute demolition by Wimbledon runner-up Karolina Muchova in the US Open second round.",
         "first_seen": "2026-09-03T10:39:53.548549+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Alcaraz continues comeback in four-set win over Faria",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/cwyzq4k29p7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-03T09:03:32+00:00",
+        "published_label": "Thu 03 Sep, 09:03",
+        "summary": "Defending champion Carlos Alcaraz avoids the prospect of an early US Open exit by fighting back from a set down against Portugal's Jaime Faria.",
+        "body": "",
+        "copy": "Defending champion Carlos Alcaraz avoids the prospect of an early US Open exit by fighting back from a set down against Portugal's Jaime Faria.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
       },
       {
         "section": "Tennis",
@@ -4721,35 +4786,74 @@
         "body": "Carlos Alcaraz says he is \"feeling great\" as he prepares for his US Open defence in what will be the Spaniard's first appearance since recovering from a right wrist injury sustained in April.\n\nAlcaraz's long absence has clouded his prospects, but the seven-time Grand Slam champion has built a reputation for producing his best tennis on the grandest stages and cannot be discounted despite the uncertainty surrounding his return.",
         "copy": "Carlos Alcaraz says he is \"feeling great\" as he prepares for his US Open defence in what will be the Spaniard's first appearance since recovering from a right wrist injury sustained in April.\n\nAlcaraz's long absence has clouded his prospects, but the seven-time Grand Slam champion has built a reputation for producing his best tennis on the grandest stages and cannot be discounted despite the uncertainty surrounding his return.",
         "first_seen": "2026-08-29T12:15:20.676174+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Why is Emma Raducanu not playing at the 2026 US Open?",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmZabW9Ib3FXUHc4M1BSVGtaOURQWmhsN1d4QVhYRXNPMzc4bDdrWW5vN1c3RUlJVGhCV3dpak1NQlRzZFMxR0NKaFJEaEVkbXV4VmZrUE5iNEJrMU9JSzlKWmExbDlfcVhsUjV3b0pITTJyaFdVQm5rYjBHMGZWc1o5Y3Nmbmk1V0HSAY8BQVVfeXFMT3plX1ZUS1FIVXF3NXJUM0RNQlpuNC1DWERRaHdqbUpFVl9TZnhzbXNPMjNUblNWY1d3cDhYeDhseEdxOEYxUkkxRVJhdEdveXMyU3FVbHYyb1VveHhJRUkxcHVETFk3bDBaY05PU0RIbUJoRFVzQTlfdFBaUllaMkxqcFg3S0h0eTFJTG43dzQ?oc=5",
-        "published": "2026-08-28T17:13:02+00:00",
-        "published_label": "Fri 28 Aug, 17:13",
-        "summary": "Why is Emma Raducanu not playing at the 2026 US Open? bolavip.com",
-        "body": "Emma Raducanu will miss the 2026 US Open after a stress fracture in her right lower leg forced her out of the tournament. The former champion had already been sidelined since Wimbledon, and her latest setback leaves her absent from the Grand Slam she famously won in 2021.\n\nThe timing is particularly frustrating for her, who had started to rebuild momentum earlier this season. She reached the final at Queen’s Club in June, her second WTA final of the year, before the leg problem worsened.",
-        "copy": "Emma Raducanu will miss the 2026 US Open after a stress fracture in her right lower leg forced her out of the tournament. The former champion had already been sidelined since Wimbledon, and her latest setback leaves her absent from the Grand Slam she famously won in 2021.\n\nThe timing is particularly frustrating for her, who had started to rebuild momentum earlier this season. She reached the final at Queen’s Club in June, her second WTA final of the year, before the leg problem worsened.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Emma Raducanu and Jack Draper out of US Open: List of injuries, what is going wrong",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFR5SFJhMTdneWFkZVlseVpuUW1RbndOUWNqUEpZbEpjM3RtMzhQb0tqclZQRTNrY085am1XU0V6NzBLc1czdFh0dGgybHJ5TS1WMXNWVWFMZHNSMHFCS0RzdnBQVzh3LW5kcGZzbng0cW1WaEFtNUpMZUo2MEJzdFRCdm9JcTlLRzY4eFRvVkZyUjlud1EyZFhUaFlrWmF0V2JpbE96V3d0ZmQtaWxj?oc=5",
-        "published": "2026-08-28T15:44:55+00:00",
-        "published_label": "Fri 28 Aug, 15:44",
-        "summary": "Emma Raducanu and Jack Draper out of US Open: List of injuries, what is going wrong ESPN",
-        "body": "British tennis stars Emma Raducanu and Jack Draper have withdrawn from the final tennis grand slam of the year -- the US Open. Raducanu famously rose to fame after winning the event in 2021 at just 18 years-old. She worked her way through the qualifying rounds and then went on to win 10 straight matches without dropping a single set.\n\nDraper reached the semifinals at Flushing Meadows in 2024, but his bid to go deeper into the tournament this year has now been stalled again. Both stars have the potential to be a success, but their injuries have proved to be major setbacks in reaching the top.",
-        "copy": "British tennis stars Emma Raducanu and Jack Draper have withdrawn from the final tennis grand slam of the year -- the US Open. Raducanu famously rose to fame after winning the event in 2021 at just 18 years-old. She worked her way through the qualifying rounds and then went on to win 10 straight matches without dropping a single set.\n\nDraper reached the semifinals at Flushing Meadows in 2024, but his bid to go deeper into the tournament this year has now been stalled again. Both stars have the potential to be a success, but their injuries have proved to be major setbacks in reaching the top.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Testing the YouTube famous Takomo Irons. (Hint: They're impressive)",
+        "link": "https://golf.com/gear/testing-youtube-famous-takomo-irons/",
+        "published": "2026-09-04T18:09:53+00:00",
+        "published_label": "Fri 04 Sep, 18:09",
+        "summary": "The curiosity around Takomo irons has been loud. We wanted to find out why — and the results were very impressive The post Testing the YouTube famous Takomo Irons. (Hint: They’re impressive) appeared first on Golf .",
+        "body": "I’ll just start here: I was late to the Takomo party. I knew the name. I’d seen the irons. I’d seen them all over YouTube and Instagram. I knew Takomo was one of those direct-to-consumer brands that had managed to build a pretty serious following without playing by the traditional golf-equipment rulebook. But knowing about something and actually hitting it are two very different things. There are plenty of golf clubs I’ve looked at, read about and formed an opinion on before ever putting one behind a ball. Then you actually hit them and realize the opinion you had was based on absolutely nothing. Which, to be fair, is kind of how the internet works.\n\nSo when I finally got some time with the Takomo irons, I went into it with one question: What’s the catch? Because golf equipment has conditioned us to think that way. If an iron looks premium, feels premium and performs like the stuff hanging on the wall at your local golf shop, we generally expect the price tag to reflect it. That’s just how this has worked for a long time. Good golf equipment costs good golf-equipment money.",
+        "copy": "I’ll just start here: I was late to the Takomo party. I knew the name. I’d seen the irons. I’d seen them all over YouTube and Instagram. I knew Takomo was one of those direct-to-consumer brands that had managed to build a pretty serious following without playing by the traditional golf-equipment rulebook. But knowing about something and actually hitting it are two very different things. There are plenty of golf clubs I’ve looked at, read about and formed an opinion on before ever putting one behind a ball. Then you actually hit them and realize the opinion you had was based on absolutely nothing. Which, to be fair, is kind of how the internet works.\n\nSo when I finally got some time with the Takomo irons, I went into it with one question: What’s the catch? Because golf equipment has conditioned us to think that way. If an iron looks premium, feels premium and performs like the stuff hanging on the wall at your local golf shop, we generally expect the price tag to reflect it. That’s just how this has worked for a long time. Good golf equipment costs good golf-equipment money.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Stomach issues again hit Walker Cup. And alternate is on ‘standby’",
+        "link": "https://golf.com/news/stomach-issues-walker-cup-alternate-standby/",
+        "published": "2026-09-04T17:51:50+00:00",
+        "published_label": "Fri 04 Sep, 17:51",
+        "summary": "Stomach issues again hit the Walker Cup, an amateur event played this year at Lahinch Golf Club in Ireland. And an alternate is on “standby.” The post Stomach issues again hit Walker Cup. And alternate is on ‘standby’ appeared first on Golf .",
+        "body": "The U.S. Walker Cup team is now “bouncing around,” its captain, Nathan Smith, says. And his players’ stomachs, it appears, have mostly stopped rumbling. On Thursday, two days before this weekend’s amateur event, that features a 10-man American team meeting a 10-man Great Britain and Ireland team at Ireland’s Lahinch Golf Club, Golf Channel’s Brentley Romine reported that multiple Americans were fighting “stomach issues.” Ethan Feng and William Jennings, Romine said, did not practice on Thursday, and three players didn’t attend that night’s banquet.\n\nAt a Friday press conference, though, Smith said every player would be ready for Saturday, though the Americans’ first alternate, Max Herendeen, has been contacted and is on “standby” — though he’s not on site.",
+        "copy": "The U.S. Walker Cup team is now “bouncing around,” its captain, Nathan Smith, says. And his players’ stomachs, it appears, have mostly stopped rumbling. On Thursday, two days before this weekend’s amateur event, that features a 10-man American team meeting a 10-man Great Britain and Ireland team at Ireland’s Lahinch Golf Club, Golf Channel’s Brentley Romine reported that multiple Americans were fighting “stomach issues.” Ethan Feng and William Jennings, Romine said, did not practice on Thursday, and three players didn’t attend that night’s banquet.\n\nAt a Friday press conference, though, Smith said every player would be ready for Saturday, though the Americans’ first alternate, Max Herendeen, has been contacted and is on “standby” — though he’s not on site.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "A muni made me wait 30 mins on an empty course. Was that fair?",
+        "link": "https://golf.com/lifestyle/muni-twilight-pro-shop-tee-time-fair/",
+        "published": "2026-09-04T17:32:28+00:00",
+        "published_label": "Fri 04 Sep, 17:32",
+        "summary": "In its quest to enforce the rules, the pro shop at a California muni lost sight of the bigger picture and alienated a customer. The post A muni made me wait 30 mins on an empty course. Was that fair? appeared first on Golf .",
+        "body": "I recently made a tee time at my local muni for the first twilight spot of the afternoon. I arrived at the course about 35 minutes early, paid my green fee and was on the putting green when I noticed that the 1st hole was wide open. I spoke to the starter, who told me I could go. But as I stepped up to the tee, the woman who’d checked me in burst from the pro shop and yelled at me to stop. Because I’d paid the discounted twilight rate, she said, I’d have to wait until twilight officially began. Never mind that there were no groups waiting to tee off. I looked plaintively at the starter, who shrugged. He was outranked. I tried to reason with the pro shop staffer, but she insisted that I couldn’t start my round. And so I waited for another 30 minutes, with the course empty in front of me and no other golfers teeing off.\n\nTo say that I was irritated is an understatement. I’m a regular at the course and the staffer’s decision struck me as spiteful and small-minded. Was I wrong to be annoyed? As we all know, rules are rules, and they’re meant to be followed. But sometimes they can also be harmlessly broken. Let’s say you’re playing a friendly match with a pal at a poorly conditioned course, and his ball lands in a footprint in the bunker. When he asks if he can move his ball without penalty, you say sure. Have you violated the letter of the law? Technically, yes. Have you made a reasonable decision? Also, yes. On the course, as off it, common sense and context should be our guides.",
+        "copy": "I recently made a tee time at my local muni for the first twilight spot of the afternoon. I arrived at the course about 35 minutes early, paid my green fee and was on the putting green when I noticed that the 1st hole was wide open. I spoke to the starter, who told me I could go. But as I stepped up to the tee, the woman who’d checked me in burst from the pro shop and yelled at me to stop. Because I’d paid the discounted twilight rate, she said, I’d have to wait until twilight officially began. Never mind that there were no groups waiting to tee off. I looked plaintively at the starter, who shrugged. He was outranked. I tried to reason with the pro shop staffer, but she insisted that I couldn’t start my round. And so I waited for another 30 minutes, with the course empty in front of me and no other golfers teeing off.\n\nTo say that I was irritated is an understatement. I’m a regular at the course and the staffer’s decision struck me as spiteful and small-minded. Was I wrong to be annoyed? As we all know, rules are rules, and they’re meant to be followed. But sometimes they can also be harmlessly broken. Let’s say you’re playing a friendly match with a pal at a poorly conditioned course, and his ball lands in a footprint in the bunker. When he asks if he can move his ball without penalty, you say sure. Have you violated the letter of the law? Technically, yes. Have you made a reasonable decision? Also, yes. On the course, as off it, common sense and context should be our guides.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Can strong winds sweep GB&I to rare Walker Cup win?",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c89jgng84q1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-04T17:18:37+00:00",
+        "published_label": "Fri 04 Sep, 17:18",
+        "summary": "Can the conditions in the west of Ireland can sweep Great Britain and Ireland to a rare Walker Cup win?",
+        "body": "Great Britain and Ireland Walker Cup captain Dean Robertson smiled at the blustery conditions at Lahinch for the final day's practice before this weekend's match, saying: \"I'm very happy about it.\"\n\nRobertson hopes the winds blowing across the west of Ireland can sweep in a rare victory for the home side, who are looking to beat America's top amateur golfers for the first time in more than a decade.",
+        "copy": "Great Britain and Ireland Walker Cup captain Dean Robertson smiled at the blustery conditions at Lahinch for the final day's practice before this weekend's match, saying: \"I'm very happy about it.\"\n\nRobertson hopes the winds blowing across the west of Ireland can sweep in a rare victory for the home side, who are looking to beat America's top amateur golfers for the first time in more than a decade.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "As the golf season winds down, Arccos keeps me improving",
+        "link": "https://golf.com/gear/golf-accessories/arccos-golf-mental-game-tracking/",
+        "published": "2026-09-04T16:57:54+00:00",
+        "published_label": "Fri 04 Sep, 16:57",
+        "summary": "I discovered a new area of golf focus on my Arccos app this month, and it's helping me understand my game beyond the clubs or the swing. The post As the golf season winds down, Arccos keeps me improving appeared first on Golf .",
+        "body": "I’ve spent another month with Arccos game-tracking but this time most of my rounds were spent testing out upcoming club releases. It’s interesting to see what happens to my game when I’m not using my normal set, not to mention the new feature (or possibly one that I missed previously) that I’d love to dive into.\n\nI’m still using the Arccos Air and the Arccos Smart Laser every time I play (as long as the course is rated) and both devices have been nothing but flawless. Now that I’ve been using the system for a good bit of time, the accuracy continues to improve and I am essentially at a point where I don’t even touch my phone or the app during my round, and everything is logged, no problem. Let’s use my August golf recap to see 1) where we’re at, 2) what clubs could land in the bag, and 3) what I still need to work on.",
+        "copy": "I’ve spent another month with Arccos game-tracking but this time most of my rounds were spent testing out upcoming club releases. It’s interesting to see what happens to my game when I’m not using my normal set, not to mention the new feature (or possibly one that I missed previously) that I’d love to dive into.\n\nI’m still using the Arccos Air and the Arccos Smart Laser every time I play (as long as the course is rated) and both devices have been nothing but flawless. Now that I’ve been using the system for a good bit of time, the accuracy continues to improve and I am essentially at a point where I don’t even touch my phone or the app during my round, and everything is logged, no problem. Let’s use my August golf recap to see 1) where we’re at, 2) what clubs could land in the bag, and 3) what I still need to work on.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6452,74 +6556,22 @@
         "body": "For the past few weeks, rumors have swirled that the golfer has been dating model Mikayla Demaiter, aka the “World’s sexiest hockey player.” Earlier this week, US Weekly confirmed that the two were dating.\n\nProfessional golfer Bryson DeChambeau is dating model Mikayla Demaiter, Us can exclusively confirm. “They are both pretty private when it comes to relationships,” says an insider, who adds that their relationship is fairly new, but they’re “very happy” right now.",
         "copy": "For the past few weeks, rumors have swirled that the golfer has been dating model Mikayla Demaiter, aka the “World’s sexiest hockey player.” Earlier this week, US Weekly confirmed that the two were dating.\n\nProfessional golfer Bryson DeChambeau is dating model Mikayla Demaiter, Us can exclusively confirm. “They are both pretty private when it comes to relationships,” says an insider, who adds that their relationship is fairly new, but they’re “very happy” right now.",
         "first_seen": "2026-08-28T19:32:40.829207+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Tommy Fleetwood's putter journey just moved forward | Tour Report",
-        "link": "https://golf.com/gear/putters/tommy-fleetwoods-putter-journey-moved-forward/",
-        "published": "2026-08-28T18:44:44+00:00",
-        "published_label": "Fri 28 Aug, 18:44",
-        "summary": "In this week's Tour Report, Tommy Fleetwood is again using a new putter at the Tour Championship with hints of the one he won with in 2025. The post Tommy Fleetwood’s putter journey just moved forward | Tour Report appeared first on Golf .",
-        "body": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nTommy Fleetwood’s new putter this week at the Tour Championship is basically a more refined version of the one he used to nab his first PGA Tour win last year at East Lake. As you’ll recall, Fleetwood finally got over the hump, winning for the first time on U.S. soil using a TaylorMade Spider Tour with custom Sharpie lines hand-drawn on the top by TaylorMade putter rep James Holley. Those lines helped Fleetwood frame the ball, but he eventually went away from the alignment aid this spring.",
-        "copy": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nTommy Fleetwood’s new putter this week at the Tour Championship is basically a more refined version of the one he used to nab his first PGA Tour win last year at East Lake. As you’ll recall, Fleetwood finally got over the hump, winning for the first time on U.S. soil using a TaylorMade Spider Tour with custom Sharpie lines hand-drawn on the top by TaylorMade putter rep James Holley. Those lines helped Fleetwood frame the ball, but he eventually went away from the alignment aid this spring.",
-        "first_seen": "2026-08-28T19:32:40.829207+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "After what I’ve seen on Tour, 2027 is going to be an irons year",
-        "link": "https://golf.com/gear/irons/after-what-ive-seen-tour-2027-irons-year/",
-        "published": "2026-08-28T18:44:26+00:00",
-        "published_label": "Fri 28 Aug, 18:44",
-        "summary": "After getting a peak at some unreleased 2027 irons on the PGA Tour, here's why our gear editor thinks next year is going to be an irons year. The post After what I’ve seen on Tour, 2027 is going to be an irons year appeared first on Golf .",
-        "body": "This year has been all about drivers, but if the incredible prototypes popping up on the PGA Tour are any indication, 2027 is going to be all about irons. Over the past month, we’ve seen both Srixon and Mizuno, the two biggest names in Japanese forged irons, release protos on Tour of their upcoming ZXi and Pro S-4 irons, respectively.\n\nLast week at the BMW Championship, I got to see the new ZXi and Pro S-4 models for the first time — and there’s much to like. Here are some observations we can make so far. Srixon’s ZXi line of irons has been one of the more popular both on Tour and at retail since it debuted in 2025, and all indications are that the next iteration also will be well received.",
-        "copy": "This year has been all about drivers, but if the incredible prototypes popping up on the PGA Tour are any indication, 2027 is going to be all about irons. Over the past month, we’ve seen both Srixon and Mizuno, the two biggest names in Japanese forged irons, release protos on Tour of their upcoming ZXi and Pro S-4 irons, respectively.\n\nLast week at the BMW Championship, I got to see the new ZXi and Pro S-4 models for the first time — and there’s much to like. Here are some observations we can make so far. Srixon’s ZXi line of irons has been one of the more popular both on Tour and at retail since it debuted in 2025, and all indications are that the next iteration also will be well received.",
-        "first_seen": "2026-08-28T19:32:40.829207+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Coordinated media blitz': Embattled Good Good CEO goes on offensive",
-        "link": "https://golf.com/news/good-good-ceo-blasts-callaway-viral-post/",
-        "published": "2026-08-28T18:44:06+00:00",
-        "published_label": "Fri 28 Aug, 18:44",
-        "summary": "Good Good Golf CEO Matt Kendrick took to X Friday morning to air his grievances with Callaway after their partnership came to a controversial end. The post ‘Coordinated media blitz’: Embattled Good Good CEO goes on offensive appeared first on Golf .",
-        "body": "Early Friday morning, embattled Good Good Golf CEO Matt Kendrick took to social media to criticize Callaway Golf amid the fallout over a controversial ad that has roiled the golf world.\n\nThe ad, which featured Good Good co-founder Garrett Clark shoving fellow creator Alexis Miestowski, was widely panned for depicting violence against women. The marketing spot, which was produced by Good Good, was created to promote a new Callaway x Good Good driver, and it was approved by Callaway before being posted.",
-        "copy": "Early Friday morning, embattled Good Good Golf CEO Matt Kendrick took to social media to criticize Callaway Golf amid the fallout over a controversial ad that has roiled the golf world.\n\nThe ad, which featured Good Good co-founder Garrett Clark shoving fellow creator Alexis Miestowski, was widely panned for depicting violence against women. The marketing spot, which was produced by Good Good, was created to promote a new Callaway x Good Good driver, and it was approved by Callaway before being posted.",
-        "first_seen": "2026-08-28T19:32:40.829207+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Alexander surges clear at Women's Irish Open",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cx2z4jxl5wpo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-28T16:27:29+00:00",
-        "published_label": "Fri 28 Aug, 16:27",
-        "summary": "Two eagles propels overnight leader Casandra Alexander to a second-round 66 as the South African seizes control of the Women's Irish Open at the K Club.",
-        "body": "-15 C Alexander (SA); -10 B Navarossa (US), S Kouskova (Cze); -9 L Rydqvist (Swe), C Viden (Swe); -8 L Pettersson (Swe); -7 A Foersterling (Ger); -5 P Urs (Ind), A Fanali (Ita); N Komulainen (Fin), C Screene (Ire).\n\nTwo eagles propelled overnight leader Casandra Alexander to a second-round 66 as the South African seized control of the Women's Irish Open at the K Club. Following a bogey-free 63 on Thursday, Alexander eagled the par-five 10th - her opening hole - on Friday and followed that with back-to-back birdies.",
-        "copy": "-15 C Alexander (SA); -10 B Navarossa (US), S Kouskova (Cze); -9 L Rydqvist (Swe), C Viden (Swe); -8 L Pettersson (Swe); -7 A Foersterling (Ger); -5 P Urs (Ind), A Fanali (Ita); N Komulainen (Fin), C Screene (Ire).\n\nTwo eagles propelled overnight leader Casandra Alexander to a second-round 66 as the South African seized control of the Women's Irish Open at the K Club. Following a bogey-free 63 on Thursday, Alexander eagled the par-five 10th - her opening hole - on Friday and followed that with back-to-back birdies.",
-        "first_seen": "2026-08-28T19:32:40.829207+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "The Two-Time Major Champion Who Could Decide the Fate of LIV Golf",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oRVZTX3EyNWN6VWFXM21UWXJCV3NIZ2R1R3dFZ3lvaWh2VG9wU3ZOMkNYZ3BGMkw0VndfMkhSOEdYMldMRnJyOTMyNmJuV2I1NTZHYWNad09tUUF1WnpwUzRoWDlWd244Y1ZqM3J4bVdxWG8?oc=5",
-        "published": "2026-08-28T16:00:00+00:00",
-        "published_label": "Fri 28 Aug, 16:00",
-        "summary": "The Two-Time Major Champion Who Could Decide the Fate of LIV Golf WSJ",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Siti Zulaikha v Ting Yu Liang LIVE 09/09/2026 | Badminton",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREFJUm1mZTVocEhnNk9hR3FuUlZpa1hycmRQc0s0TzFzLXVXX0Jub0l1WW9UQlk4MWZvcDhLLTJPejJFX3NXY3JzYUNldjZPajNvdXV1YWw1VUlqaDhXM0NfWG9RZlE0VEpMdGNlSkNCdFpEckVxSkt2U3l0WndDbVBEek1oTkFKWm5vTXFOcnhLSHRYRXc?oc=5",
+        "published": "2026-09-04T16:32:42+00:00",
+        "published_label": "Fri 04 Sep, 16:32",
+        "summary": "Siti Zulaikha v Ting Yu Liang LIVE 09/09/2026 | Badminton Flashscore UK",
+        "body": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
+        "copy": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6545,6 +6597,19 @@
         "body": "AirBadminton will make its debut at The World Games 2029 in Karlsruhe, Germany, from 19-29 July after being included among the 36 sports and 62 disciplines confirmed by the International World Games Association (IWGA).\n\nAround 4,000 athletes from more than 100 countries are expected to compete in Karlsruhe, showcasing the very best of The World Games movement. The inclusion marks a significant milestone for AirBadminton, which was launched by the Badminton World Federation (BWF) in May 2019 alongside the specially developed AirShuttle.",
         "copy": "AirBadminton will make its debut at The World Games 2029 in Karlsruhe, Germany, from 19-29 July after being included among the 36 sports and 62 disciplines confirmed by the International World Games Association (IWGA).\n\nAround 4,000 athletes from more than 100 countries are expected to compete in Karlsruhe, showcasing the very best of The World Games movement. The inclusion marks a significant milestone for AirBadminton, which was launched by the Badminton World Federation (BWF) in May 2019 alongside the specially developed AirShuttle.",
         "first_seen": "2026-09-04T10:33:00.365344+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "AirBadminton to Make Historic World Games Debut in 2029",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHNfOGNBWXpPWDFfOHJsZkVyeHhJaENucEdKM0JkWWhHZ1ZyRHJ1TE5hY1ZfX1d5TXE1cHVySWVkMGlWcXktclpqVXlKWloxMzlwMC1UcGZEeko4R1FESXNEM290ak5RTng0WnBSOWNabGVSS3RxR1ZhSGgyamdTNG9yZnBPbTFGX1V3NUkyc1JMN0JfZnVTWWV0cUc2UGRuZm5VNVVB?oc=5",
+        "published": "2026-09-04T09:15:56+00:00",
+        "published_label": "Fri 04 Sep, 09:15",
+        "summary": "AirBadminton to Make Historic World Games Debut in 2029 BWF Fansite",
+        "body": "AirBadminton will make its debut at The World Games 2029 in Karlsruhe, Germany, from 19-29 July after being included among the 36 sports and 62 disciplines confirmed by the International World Games Association (IWGA).\n\nAround 4,000 athletes from more than 100 countries are expected to compete in Karlsruhe, showcasing the very best of The World Games movement. The inclusion marks a significant milestone for AirBadminton, which was launched by the Badminton World Federation (BWF) in May 2019 alongside the specially developed AirShuttle.",
+        "copy": "AirBadminton will make its debut at The World Games 2029 in Karlsruhe, Germany, from 19-29 July after being included among the 36 sports and 62 disciplines confirmed by the International World Games Association (IWGA).\n\nAround 4,000 athletes from more than 100 countries are expected to compete in Karlsruhe, showcasing the very best of The World Games movement. The inclusion marks a significant milestone for AirBadminton, which was launched by the Badminton World Federation (BWF) in May 2019 alongside the specially developed AirShuttle.",
+        "first_seen": "2026-09-04T18:49:37.801523+00:00"
       },
       {
         "section": "Badminton",
@@ -7083,5 +7148,5 @@
       }
     ]
   },
-  "total": 543
+  "total": 548
 }
