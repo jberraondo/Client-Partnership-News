@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T12:15:10.640891+00:00",
-  "generated_label": "Friday 04 September 2026, 12:15 UTC",
+  "generated_at": "2026-09-04T15:44:15.916506+00:00",
+  "generated_label": "Friday 04 September 2026, 15:44 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "DAZN rebrands Foxtel channels under Kayo Sports title",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTlM1WnlBYmZ4bHRYdjJTb1RrR1EtZ2hLcnA2VXFreEVab0s1YVkydUNhTEFBQ01EOEJWLUJzcE8tWnRBaHJoR1h0ZzFFSUhiVlVIWjZtQVZ6c3VhNEhJRmVtd0VyR1lNRENTNzB2Sm5KbnlXenZnLVVqRmpmOGtWcXk0V09pMlo2WnpiYw?oc=5",
+        "published": "2026-09-04T15:01:12+00:00",
+        "published_label": "Fri 04 Sep, 15:01",
+        "summary": "DAZN rebrands Foxtel channels under Kayo Sports title sportcal.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Sporteurope.TV extends US Open deal in DACH region until 2030",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRXN1V0RlWmNMTDJ4UDBKQ0lORk1MeWFZdTJDQWZjdG4wNjY5M09BMGpiQ2I2b2s5OUZodUdlUnoyUmFDZHJwbmdTRklGZGV3ODJZdkRQVHdGdC12VXRpamcyNXFDcFM4UXdPeDRORzl6cmJuQVltekJvSUFSR1VTbmhjZ3p1YlNjMXl4dEtZNENXM0dLS2Rj?oc=5",
+        "published": "2026-09-04T14:20:16+00:00",
+        "published_label": "Fri 04 Sep, 14:20",
+        "summary": "Sporteurope.TV extends US Open deal in DACH region until 2030 sportcal.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "‘We should be open, not afraid’: Euroleague CEO on NBA Europe and the cost of fragmentation",
+        "link": "https://www.sportspro.com/features/finance-investment/euroleague-nba-europe-basketball-franchises-chus-bueno-interview/",
+        "published": "2026-09-04T12:13:14+00:00",
+        "published_label": "Fri 04 Sep, 12:13",
+        "summary": "NBA Europe could have serious ramifications for the reigning basketball power in the region. But Euroleague chief executive Chus Bueno is ready for a contest or a deeper conversation. The post ‘We should be open, not afraid’: Euroleague CEO on NBA Europe and the cost of fragmentation appeared first on SportsPro .",
+        "body": "Jesus ‘Chus’ Bueno would like to have started earlier. As it is, the Euroleague Basketball chief executive has taken his post at what might be the most pivotal moment for the organisation since its creation 26 years ago.\n\nTransformation looms for Euroleague and for basketball. Internally, Bueno is working through a profound commercial and financial restructuring that he hopes will unlock fresh potential. In the sport beyond, the National Basketball Association (NBA) is in the market for a multibillion euro proposition that could shift the horizons altogether.",
+        "copy": "Jesus ‘Chus’ Bueno would like to have started earlier. As it is, the Euroleague Basketball chief executive has taken his post at what might be the most pivotal moment for the organisation since its creation 26 years ago.\n\nTransformation looms for Euroleague and for basketball. Internally, Bueno is working through a profound commercial and financial restructuring that he hopes will unlock fresh potential. In the sport beyond, the National Basketball Association (NBA) is in the market for a multibillion euro proposition that could shift the horizons altogether.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -79,6 +118,19 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "The best new tech for pets",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tNlJQd0VRVTlqenVaWkhFWGFQQ3RJUmxvemFkSDgwYXpCZnpya0ZYV3pKd3ZOVm5KcTZfWndDTWxCUDNUQ2lSVEJfWU1RRDBsYXVtMEU3a2ZDOVAyUXhhV29sYTA1a01CNzBmUUhicHI?oc=5",
+        "published": "2026-09-04T10:00:10+00:00",
+        "published_label": "Fri 04 Sep, 10:00",
+        "summary": "The best new tech for pets Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Sportcal",
         "kind": "gnews",
         "title": "Op-Ed: Sports never stands still – neither can sports media",
@@ -102,6 +154,19 @@
         "body": "",
         "copy": "London City Lionesses have expanded their partnership with Nike through a new multi-year front-of-shirt sponsorship agreement, alongside an extension of the sportswear brand’s existing technical deal. The agreement will see Nike become the Women’s Super League club’s front-of-shirt sponsor, in what London City describes as a first-of-its-kind sponsorship for the sportswear company. Rather than Nike’s […] The post Nike lands London City Lionesses front-of-shirt deal appeared first on Sport Industry Group .",
         "first_seen": "2026-09-04T10:33:00.365344+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Fox News presenter and Trump ally Maria Bartiromo departs after 12 years",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYS1OYm14MUNmSEFxMFVkOHk4dUVzQ0FsVC1vV28zZ25majlGZlNxU25TMVJKOHptTGY5ZTB0NzQ3bkFaOVF5Z1V4WWtzSXhzXzB2Z0p2Y2ctM0RtVFhNaXdna3hORkJtNWZkd1JVajFvaGpsRVhWN2VpRFE3ekdoRjlWdHM?oc=5",
+        "published": "2026-09-04T09:04:01+00:00",
+        "published_label": "Fri 04 Sep, 09:04",
+        "summary": "Fox News presenter and Trump ally Maria Bartiromo departs after 12 years Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1415,61 +1480,165 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "Chelsea end shirt sponsor search but will Circle be a long-term replacement?",
-        "link": "https://www.sportspro.com/news/sponsorship-marketing/chelsea-shirt-sponsor-contract-circle-usdc-august-2026/",
-        "published": "2026-08-28T15:42:51+00:00",
-        "published_label": "Fri 28 Aug, 15:42",
-        "summary": "Premier League club have started four consecutive seasons without a FOS partner following Three’s departure. The post Chelsea end shirt sponsor search but will Circle be a long-term replacement? appeared first on SportsPro .",
-        "body": "Top-flight English soccer side Chelsea have ended their search for a new front-of-shirt sponsor by securing a partnership with US-based payments technology platform Circle Internet Group.\n\nAs the club’s new principal partner, the logo of Circle’s USDC stablecoin will appear on Chelsea’s men’s, women’s and academy shirts across all competitions, starting with this week’s Premier League home game against Brighton & Hove Albion.",
-        "copy": "Top-flight English soccer side Chelsea have ended their search for a new front-of-shirt sponsor by securing a partnership with US-based payments technology platform Circle Internet Group.\n\nAs the club’s new principal partner, the logo of Circle’s USDC stablecoin will appear on Chelsea’s men’s, women’s and academy shirts across all competitions, starting with this week’s Premier League home game against Brighton & Hove Albion.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Chelsea secure shirt sponsor, new partnerships for Tottenham, Leeds",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkxHb1RUUWhpV2ZLM0NZNnJSel9qTEpyX2pBVkJtVXQyaVZ3QWx4WmZBYTB3U2hDVnVYUG9jOE13WnVJdmZKU2VwNDBieWx5M0RnVmxMQWtRbTF1R1huRmJnalFmTkVsOGdGUHNJWDhfNXUzMEhHVEVJV01nV0NkRDM0QlFvSldSWWJnV3hKZHVFN0ZUYmFKeFNST1k?oc=5",
-        "published": "2026-08-28T15:19:22+00:00",
-        "published_label": "Fri 28 Aug, 15:19",
-        "summary": "Chelsea secure shirt sponsor, new partnerships for Tottenham, Leeds Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "FIBA adds Intersport to global partner portfolio",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3diU3NXeUFaUzJ1OVBUOVFZT1BVby02RlNFTU9PVFp3cUNVT2wwSlFIbjZFWFI1M0NfSzVUR2FZcFQ1czVBMENlRjh3UEpGOEVyX255MXdEWGxmQ0RLbTlIMXdOcmlkXy0wWHhhWXZPdE5ZQVJKemZ0STMwQmdhMV9UenNzZw?oc=5",
-        "published": "2026-08-28T15:19:22+00:00",
-        "published_label": "Fri 28 Aug, 15:19",
-        "summary": "FIBA adds Intersport to global partner portfolio Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Bundesliga expands reach in Brazil with seven broadcasters, rights renewals",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3JPSVhGcG5FSHZWZHpMTHBUcXZ1T3RpaHJwME1feWpKcWRNbEpSRU9ycDR2MDFtc1pWTHkzZi1oT1JvYWFaUkpJY3VWTjRXUU9ocmdSU3Q5NHJLNFc5VUlaaXp0RXlsNVlOaUJJRE4tOXh5MUxxczgtNm9VZVhCdEVpQjFIQnF5bl9tUE9YSUFfbWFabUYzQjlIcVMtVERpeUdKajg3czA?oc=5",
-        "published": "2026-08-28T13:08:22+00:00",
-        "published_label": "Fri 28 Aug, 13:08",
-        "summary": "Bundesliga expands reach in Brazil with seven broadcasters, rights renewals Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Singleton hopes for rugby union return after heart attack",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c99dpk9mnlgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-04T14:42:15+00:00",
+        "published_label": "Fri 04 Sep, 14:42",
+        "summary": "Jack Singleton hopes to return to rugby union and is looking for a new club, a year after suffering a heart attack.",
+        "body": "A year after suffering a heart attack, hooker Jack Singleton is hoping to return to full training next month to get his rugby union career back on track. Singleton had played one Prem Cup game for Gloucester in September 2025, as the 2025-26 campaign was getting under way, when he had the heart attack aged 29 while training at the club.\n\n\"We're not really sure when it started but it wasn't like a scary moment for me, it was just a lot of symptoms or dizziness [and an] aching arm,\" he told BBC Radio Gloucestershire.",
+        "copy": "A year after suffering a heart attack, hooker Jack Singleton is hoping to return to full training next month to get his rugby union career back on track. Singleton had played one Prem Cup game for Gloucester in September 2025, as the 2025-26 campaign was getting under way, when he had the heart attack aged 29 while training at the club.\n\n\"We're not really sure when it started but it wasn't like a scary moment for me, it was just a lot of symptoms or dizziness [and an] aching arm,\" he told BBC Radio Gloucestershire.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Club legend emerges as favourite to replace Leo Cullen at Leinster",
+        "link": "https://www.rugbypass.com/news/club-legend-emerges-as-favourite-to-replace-leo-cullen-at-leinster/",
+        "published": "2026-09-04T14:24:29+00:00",
+        "published_label": "Fri 04 Sep, 14:24",
+        "summary": "Cullen has been in charge of Leinster since 2015.",
+        "body": "Felipe Contepomi has emerged as the favourite to make a romantic return to Leinster to replace Leo Cullen when he stands down at the end of the season. Argentina’s all-time leading points scorer, Contepomi, 49, is regarded as one of Leinster’s club legends after spending six years at the RDS as a player and a further four on the coaching staff before leaving in 2023 to return to Argentina.\n\nHe first served as an assistant to Michael Cheika at the 2023 World Cup, then took over the top job, and now Leinster, who have drawn up a shortlist he heads, will have to try to tempt him away.",
+        "copy": "Felipe Contepomi has emerged as the favourite to make a romantic return to Leinster to replace Leo Cullen when he stands down at the end of the season. Argentina’s all-time leading points scorer, Contepomi, 49, is regarded as one of Leinster’s club legends after spending six years at the RDS as a player and a further four on the coaching staff before leaving in 2023 to return to Argentina.\n\nHe first served as an assistant to Michael Cheika at the 2023 World Cup, then took over the top job, and now Leinster, who have drawn up a shortlist he heads, will have to try to tempt him away.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Rankings: What a win in Rugby’s Greatest Rivalry could mean for the Springbok Women",
+        "link": "https://www.rugbypass.com/news/rankings-what-a-win-in-rugbys-greatest-rivalry-could-mean-for-the-springbok-women/",
+        "published": "2026-09-04T14:17:24+00:00",
+        "published_label": "Fri 04 Sep, 14:17",
+        "summary": "The Springbok Women could leap three places up the World Rugby rankings with a shock win against the Black Ferns at FNB Stadium.",
+        "body": "The Springbok Women could leap three places up the World Rugby rankings with a shock win against the Black Ferns at FNB Stadium. On Saturday, the Springbok Women and Black Ferns will play one another as part of a doubleheader in Soweto. The fixture acts as a curtain-raiser to the Springboks and All Blacks‘ third Test in Rugby’s Greatest Rivalry.\n\nAny victory for the Springbok Women will see them move three places up the World Rugby rankings from 10th to seventh. An additional place is up for grabs if South Africa win by 15 points or more.",
+        "copy": "The Springbok Women could leap three places up the World Rugby rankings with a shock win against the Black Ferns at FNB Stadium. On Saturday, the Springbok Women and Black Ferns will play one another as part of a doubleheader in Soweto. The fixture acts as a curtain-raiser to the Springboks and All Blacks‘ third Test in Rugby’s Greatest Rivalry.\n\nAny victory for the Springbok Women will see them move three places up the World Rugby rankings from 10th to seventh. An additional place is up for grabs if South Africa win by 15 points or more.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'They don't play hide and seek': Springboks react to All Blacks' selection tweaks",
+        "link": "https://www.rugbypass.com/news/the-message-is-clear-springboks-react-to-all-blacks-team-changes/",
+        "published": "2026-09-04T14:07:58+00:00",
+        "published_label": "Fri 04 Sep, 14:07",
+        "summary": "The Springboks say the All Blacks have sent a message with their selections for the third Test of the Greatest Rivalry series, and that message has been received loud and clear.",
+        "body": "The Springboks say the All Blacks have sent a message with their selections for the third Test of the Greatest Rivalry series, and that message has been received loud and clear.\n\nNew Zealand selectors have turned to some fresh bodies for the must-win Soweto Test, knowing a loss this week would eliminate their chances of a series win. The tweaks have all come in the forward pack, where Asafo Aumua, Sam Darry and Peter Lakai have been injected into the starting lineup at the expense of Codie Taylor, Simon Parker and Fabian Holland, although the latter has remained in the matchday 23.",
+        "copy": "The Springboks say the All Blacks have sent a message with their selections for the third Test of the Greatest Rivalry series, and that message has been received loud and clear.\n\nNew Zealand selectors have turned to some fresh bodies for the must-win Soweto Test, knowing a loss this week would eliminate their chances of a series win. The tweaks have all come in the forward pack, where Asafo Aumua, Sam Darry and Peter Lakai have been injected into the starting lineup at the expense of Codie Taylor, Simon Parker and Fabian Holland, although the latter has remained in the matchday 23.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "What Rob Baxter wants to see from Tommy Wyatt's long-awaited comeback",
+        "link": "https://www.rugbypass.com/news/rob-baxters-wish-for-tommy-wyatts-long-awaited-comeback/",
+        "published": "2026-09-04T14:06:04+00:00",
+        "published_label": "Fri 04 Sep, 14:06",
+        "summary": "Wyatt, 26, who can play in any of the back-five positions, last played for the Chiefs in a home defeat to Sale Sharks in May 2025.",
+        "body": "Exeter Chiefs boss Rob Baxter wants to see full-back Tommy Wyatt play with a smile on his face when he makes his long-awaited comeback on Saturday. Wyatt is set to end his two-year injury hell after being named on the bench for the friendly at Sandy Park.\n\nThe 26-year-old, who can play in any of the back-five positions, last played for the Chiefs in a home defeat to Sale Sharks in May 2025. He damaged ligaments to his right knee early in 2024 in a game against Glasgow and then suffered the same fate to his left knee in the final game of the 2024/25 season, which led to him missing the whole of last year’s campaign.",
+        "copy": "Exeter Chiefs boss Rob Baxter wants to see full-back Tommy Wyatt play with a smile on his face when he makes his long-awaited comeback on Saturday. Wyatt is set to end his two-year injury hell after being named on the bench for the friendly at Sandy Park.\n\nThe 26-year-old, who can play in any of the back-five positions, last played for the Chiefs in a home defeat to Sale Sharks in May 2025. He damaged ligaments to his right knee early in 2024 in a game against Glasgow and then suffered the same fate to his left knee in the final game of the 2024/25 season, which led to him missing the whole of last year’s campaign.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "PREM Cup: Vunipola debuts for Leicester, Green back for Quins",
+        "link": "https://www.rugbypass.com/news/prem-cup-round-up-vunipola-debuts-for-leicester-green-back-for-quins/",
+        "published": "2026-09-04T13:12:25+00:00",
+        "published_label": "Fri 04 Sep, 13:12",
+        "summary": "One of the most eye-catching moves of the summer was Mako Vunipola's return to the PREM from France after signing for Leicester.",
+        "body": "The Gallagher PREM Cup gets underway this weekend with some teams using the competition primarily as a development tool for academy and fringe players and others as first-team prep for when the league season begins later this month.\n\nThe team sheets make for interesting reading due to this mix and match approach,with old warhorses rubbing shoulders with youngsters and club stalwarts lining up alongside summer recruits.",
+        "copy": "The Gallagher PREM Cup gets underway this weekend with some teams using the competition primarily as a development tool for academy and fringe players and others as first-team prep for when the league season begins later this month.\n\nThe team sheets make for interesting reading due to this mix and match approach,with old warhorses rubbing shoulders with youngsters and club stalwarts lining up alongside summer recruits.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Netherlands WXV squad confirmed after routing Scotland A in Amsterdam",
+        "link": "https://www.rugbypass.com/news/netherlands-wxv-squad-confirmed-after-routing-scotland-a-in-amsterdam/",
+        "published": "2026-09-04T12:46:39+00:00",
+        "published_label": "Fri 04 Sep, 12:46",
+        "summary": "The Oranje Dames XV have named the squad that will compete in the WXV Global Series Challenger this month.",
+        "body": "The Oranje Dames XV have named the squad that will compete in the WXV Global Series Challenger this month. The Netherlands prepared for their trip to Hong Kong China with a 33-0 win over a Scotland A team coached by Claire Cruikshank.\n\nLinde van der Velden scored a brace in Amsterdam, while Mariet Luijken and Esmee Ligtvoet were also try scorers last Saturday. It was the final home fixture for the team’s head coach, Gareth Gilbert, who will return to his native South Africa after the WXV Global Series Challenger.",
+        "copy": "The Oranje Dames XV have named the squad that will compete in the WXV Global Series Challenger this month. The Netherlands prepared for their trip to Hong Kong China with a 33-0 win over a Scotland A team coached by Claire Cruikshank.\n\nLinde van der Velden scored a brace in Amsterdam, while Mariet Luijken and Esmee Ligtvoet were also try scorers last Saturday. It was the final home fixture for the team’s head coach, Gareth Gilbert, who will return to his native South Africa after the WXV Global Series Challenger.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘Pre-season seems to contain a mind-altering opiate that erases all ills from the past season and floods the brain with enriching optimism’",
+        "link": "https://www.rugbypass.com/plus/pre-season-seems-to-contain-a-mind-altering-opiate-that-erases-all-ills-from-the-past-season-and-floods-the-brain-with-enriching-optimism/",
+        "published": "2026-09-04T12:21:36+00:00",
+        "published_label": "Fri 04 Sep, 12:21",
+        "summary": "With no annoying league table to offer a crushing reality check, a swirling world of possibilities await every club for the campaign ahead.",
+        "body": "The start of the English rugby season may have been put back by a fortnight for the rank and file because of the summer heatwave and its effect on the playing surfaces up and down the country, but the top end will get under way this weekend with the Prem Cup.\n\nTo be honest the Prem Cup is more of a tip-toe than a leap into the new season even if Bristol v Gloucester on Saturday will be televised on TNT Sports. The competition is a pale imitation of the domestic cup whose final used to fill Twickenham in its glory days.",
+        "copy": "The start of the English rugby season may have been put back by a fortnight for the rank and file because of the summer heatwave and its effect on the playing surfaces up and down the country, but the top end will get under way this weekend with the Prem Cup.\n\nTo be honest the Prem Cup is more of a tip-toe than a leap into the new season even if Bristol v Gloucester on Saturday will be televised on TNT Sports. The competition is a pale imitation of the domestic cup whose final used to fill Twickenham in its glory days.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Anthony Belleau injury opens door for teenager to make Northampton debut",
+        "link": "https://www.rugbypass.com/news/anthony-belleau-injury-opens-door-for-teenage-debut-at-northampton/",
+        "published": "2026-09-04T12:21:27+00:00",
+        "published_label": "Fri 04 Sep, 12:21",
+        "summary": "Frenchman Belleau is one of 10 players unavailable for the clash at the StoneX Stadium.",
+        "body": "With England star Fin Smith enjoying a mandatory rest period and Anthony Belleau picking up an unspecified training ground injury, Northampton have handed 18-year-old fly-half Hugh Shields his senior debut this Saturday.\n\nThe England U18 international and son of former Saints hooker and current first-team manager Paul Shields, starts the season’s opener against Saracens in the Gallagher PREM Rugby Cup and is one of seven potential debutants.",
+        "copy": "With England star Fin Smith enjoying a mandatory rest period and Anthony Belleau picking up an unspecified training ground injury, Northampton have handed 18-year-old fly-half Hugh Shields his senior debut this Saturday.\n\nThe England U18 international and son of former Saints hooker and current first-team manager Paul Shields, starts the season’s opener against Saracens in the Gallagher PREM Rugby Cup and is one of seven potential debutants.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'What matters is that we improve': Brazil target progress at WXV Global Series Challenger",
+        "link": "https://www.rugbypass.com/news/what-matters-is-that-we-improve-brazil-target-progress-at-wxv-global-series-challenger/",
+        "published": "2026-09-04T12:21:06+00:00",
+        "published_label": "Fri 04 Sep, 12:21",
+        "summary": "As Yaras head coach Guilherme Coghetto has confirmed his squad that will travel to Hong Kong China for the WXV Global Series Challenger.",
+        "body": "As Yaras head coach Guilherme Coghetto has confirmed his squad that will travel to Hong Kong China for the WXV Global Series Challenger. The former assistant coach has included 11 players with Olympic Games experience, as well as 16 players who represented Brazil at last year’s Women’s Rugby World Cup in England.\n\nAcross three weeks, Brazil will play fixtures against Hong Kong China, the Netherlands and Spain. It will be the first time ever that As Yaras have played Hong Kong China, while they have taken on the Netherlands five times previously and Las Leonas once.",
+        "copy": "As Yaras head coach Guilherme Coghetto has confirmed his squad that will travel to Hong Kong China for the WXV Global Series Challenger. The former assistant coach has included 11 players with Olympic Games experience, as well as 16 players who represented Brazil at last year’s Women’s Rugby World Cup in England.\n\nAcross three weeks, Brazil will play fixtures against Hong Kong China, the Netherlands and Spain. It will be the first time ever that As Yaras have played Hong Kong China, while they have taken on the Netherlands five times previously and Las Leonas once.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Cardiff hopeful of Faletau return for start of URC",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cy0zydyrqnro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-04T12:01:10+00:00",
+        "published_label": "Fri 04 Sep, 12:01",
+        "summary": "Cardiff head coach Corniel van Zyl says Taulupe Faletau has returned to non-contact training and thinks he will still want to play for Wales.",
+        "body": "Cardiff are hopeful that Wales number eight Taulupe Faletau will be fit for the start of the 2026-27 United Rugby Championship (URC). The 35-year-old suffered a season-ending shoulder injury at Sharks in March, and was limited to just seven appearances in the past campaign after knee and calf issues earlier in the campaign.\n\nFaletau has featured in pre-season training and will soon step up his comeback in the build-up to the URC opener against Scarlets on Saturday, 26 September (19:45 BST). Head coach Corniel van Zyl said: \"Even though he can't do contact, he can still run so fitness-wise he's in a good space.",
+        "copy": "Cardiff are hopeful that Wales number eight Taulupe Faletau will be fit for the start of the 2026-27 United Rugby Championship (URC). The 35-year-old suffered a season-ending shoulder injury at Sharks in March, and was limited to just seven appearances in the past campaign after knee and calf issues earlier in the campaign.\n\nFaletau has featured in pre-season training and will soon step up his comeback in the build-up to the URC opener against Scarlets on Saturday, 26 September (19:45 BST). Head coach Corniel van Zyl said: \"Even though he can't do contact, he can still run so fitness-wise he's in a good space.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Scarlets release new prop Apoua after torn Achilles",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c93eg5jp945o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-04T11:45:39+00:00",
+        "published_label": "Fri 04 Sep, 11:45",
+        "summary": "Scarlets suffer blow before new United Rugby Championship season with the loss of summer signing Chris Apoua to an Achilles injury.",
+        "body": "Scarlets have released summer signing Chris Apoua after the forward ruptured an Achilles in training. The 34-year-old tight-head prop signed for the Llanelli-based club in August from Super Rugby side Moana Pasifika.\n\nBut the veteran, who has played provincial rugby in New Zealand with Northland and Southland, suffered a serious injury soon after linking up with Nigel Davies' squad and will miss the entire 2026-27 season.",
+        "copy": "Scarlets have released summer signing Chris Apoua after the forward ruptured an Achilles in training. The 34-year-old tight-head prop signed for the Llanelli-based club in August from Super Rugby side Moana Pasifika.\n\nBut the veteran, who has played provincial rugby in New Zealand with Northland and Southland, suffered a serious injury soon after linking up with Nigel Davies' squad and will miss the entire 2026-27 season.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3432,58 +3601,6 @@
         "body": "The Welsh Rugby Union has issued pitch safety advice to community clubs for the new season after a record-breaking summer. Wales recorded its hottest ever day on 24 June with temperatures soaring to 35.9C in Cardiff, while July was the driest since records began 190 years ago.\n\nThe weather has left rugby pitches across the country bone dry, with surfaces as hard as concrete. With the obvious injury risks to players, the WRU has written to all community clubs with guidance on how to assess the conditions before next week's opening matches.",
         "copy": "The Welsh Rugby Union has issued pitch safety advice to community clubs for the new season after a record-breaking summer. Wales recorded its hottest ever day on 24 June with temperatures soaring to 35.9C in Cardiff, while July was the driest since records began 190 years ago.\n\nThe weather has left rugby pitches across the country bone dry, with surfaces as hard as concrete. With the obvious injury risks to players, the WRU has written to all community clubs with guidance on how to assess the conditions before next week's opening matches.",
         "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'We all know what's happened before': Ardie Savea's message to All Blacks",
-        "link": "https://www.rugbypass.com/news/we-all-know-whats-happened-before-ardie-saveas-message-to-all-blacks/",
-        "published": "2026-08-28T15:24:49+00:00",
-        "published_label": "Fri 28 Aug, 15:24",
-        "summary": "All Blacks captain Ardie Savea doesn't need reminding what a \"wounded beast\" Springboks team can produce, with memories of last year's Wellington Test still fresh in mind ahead of a familiar second-Test scenario.",
-        "body": "All Blacks captain Ardie Savea doesn’t need reminding what a “wounded beast” Springboks team can produce, with memories of last year’s Wellington Test still fresh in mind ahead of a familiar second-Test scenario.\n\nNew Zealand stole game one of the Rugby’s Greatest Rivalry series in Johannesburg last week, putting the hosts on the back foot heading into week two of the series in Cape Town.",
-        "copy": "All Blacks captain Ardie Savea doesn’t need reminding what a “wounded beast” Springboks team can produce, with memories of last year’s Wellington Test still fresh in mind ahead of a familiar second-Test scenario.\n\nNew Zealand stole game one of the Rugby’s Greatest Rivalry series in Johannesburg last week, putting the hosts on the back foot heading into week two of the series in Cape Town.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Rugby World Cup team make head coach change one year out from debut",
-        "link": "https://www.rugbypass.com/news/rugby-world-cup-team-make-head-coach-change-one-year-out-from-debut/",
-        "published": "2026-08-28T13:29:54+00:00",
-        "published_label": "Fri 28 Aug, 13:29",
-        "summary": "Men's Rugby World Cup debutants Hong Kong China have decided to revert back to Andrew Douglas as head coach one year out from the tournament in Australia.",
-        "body": "Men’s Rugby World Cup debutants Hong Kong China have decided to revert back to Andrew Douglas as head coach one year out from the tournament in Australia. Douglas, who successfully led the Asian team through RWC 2027 qualifying, stood down shortly after their ticket to Australia had been punched to focus on his Head of Technical Rugby role with the Hong Kong China RU.\n\nLogan Asplin was promoted to the role of head coach in his place, having previously served as an assistant to Douglas, but the more experienced of the two Kiwis is now the man in charge again.",
-        "copy": "Men’s Rugby World Cup debutants Hong Kong China have decided to revert back to Andrew Douglas as head coach one year out from the tournament in Australia. Douglas, who successfully led the Asian team through RWC 2027 qualifying, stood down shortly after their ticket to Australia had been punched to focus on his Head of Technical Rugby role with the Hong Kong China RU.\n\nLogan Asplin was promoted to the role of head coach in his place, having previously served as an assistant to Douglas, but the more experienced of the two Kiwis is now the man in charge again.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Las Leonas ready for 'pivotal stage' of development under Régis Sonnes",
-        "link": "https://www.rugbypass.com/news/las-leonas-ready-for-pivotal-stage-of-development-under-regis-sonnes/",
-        "published": "2026-08-28T13:10:02+00:00",
-        "published_label": "Fri 28 Aug, 13:10",
-        "summary": "Spain head coach Régis Sonnes has described his team's upcoming WXV Global Series Challenger as 'pivotal'.",
-        "body": "Spain head coach Régis Sonnes has described his team’s upcoming WXV Global Series Challenger as ‘pivotal’. In September, Las Leonas will play fixtures against Fiji, Samoa and Brazil at Kai Tak Youth Sports Ground in Hong Kong China.\n\nThe three-Test stretch of fixtures will be Sonnes’ second block of fixture in charge of Spain. Appointed after the departure of Juan Marruecos at the conclusion of Women’s Rugby World Cup 2025, Las Leonas started life under a new head coach with a Rugby Europe Championship title.",
-        "copy": "Spain head coach Régis Sonnes has described his team’s upcoming WXV Global Series Challenger as ‘pivotal’. In September, Las Leonas will play fixtures against Fiji, Samoa and Brazil at Kai Tak Youth Sports Ground in Hong Kong China.\n\nThe three-Test stretch of fixtures will be Sonnes’ second block of fixture in charge of Spain. Appointed after the departure of Juan Marruecos at the conclusion of Women’s Rugby World Cup 2025, Las Leonas started life under a new head coach with a Rugby Europe Championship title.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "The biggest mistake the All Blacks can make in Cape Town",
-        "link": "https://www.rugbypass.com/news/the-biggest-mistake-the-all-blacks-can-make-in-cape-town/",
-        "published": "2026-08-28T12:51:12+00:00",
-        "published_label": "Fri 28 Aug, 12:51",
-        "summary": "All Blacks head coach Dave Rennie has named the biggest mistake the All Blacks can make in the second Test of the Rugby's Greatest Rivalry tour.",
-        "body": "All Blacks head coach Dave Rennie has named the biggest mistake the All Blacks can make in the second Test of the Rugby’s Greatest Rivalry tour. The All Blacks and Springboks touched down in Cape Town this week, with the series sitting at 1-0 in favour of the visiting nation, meaning the hosts have their backs against the wall.\n\nThere will be no second chances for the Springboks from here. A loss on Saturday will eliminate any chance of victory in the historic series, but a win would put both teams back on even footing.",
-        "copy": "All Blacks head coach Dave Rennie has named the biggest mistake the All Blacks can make in the second Test of the Rugby’s Greatest Rivalry tour. The All Blacks and Springboks touched down in Cape Town this week, with the series sitting at 1-0 in favour of the visiting nation, meaning the hosts have their backs against the wall.\n\nThere will be no second chances for the Springboks from here. A loss on Saturday will eliminate any chance of victory in the historic series, but a win would put both teams back on even footing.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
       }
     ],
     "Tennis": [
@@ -3746,6 +3863,19 @@
         "body": "Spanish wonderkid Rafael Jodar was involved in a testy exchange with a journalist following his stunning exit to Chinese lucky loser Bu Yunchaokete at the US Open on Wednesday.\n\nJodar was tripped up at the first hurdle of his maiden campaign in New York, as the Spanish 12th seed failed to find his rhythm and fell 6-2 6-1 6-1 to Bu. Back at the site of his junior triumph two years ago, 19-year-old Jodar looked unusually out of sorts after his first-round clash was delayed by a day due to rain, with a flurry of unforced errors in defeat.",
         "copy": "Spanish wonderkid Rafael Jodar was involved in a testy exchange with a journalist following his stunning exit to Chinese lucky loser Bu Yunchaokete at the US Open on Wednesday.\n\nJodar was tripped up at the first hurdle of his maiden campaign in New York, as the Spanish 12th seed failed to find his rhythm and fell 6-2 6-1 6-1 to Bu. Back at the site of his junior triumph two years ago, 19-year-old Jodar looked unusually out of sorts after his first-round clash was delayed by a day due to rain, with a flurry of unforced errors in defeat.",
         "first_seen": "2026-09-03T10:39:53.548549+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sSk4wOEdXd002cDBVQUxTczhNYUExaVlPM05RaEY5c3B6c0tDb0NNd0I2bWx2QjAwSXlFRnBJZFJ0V2RhNXM4RG0tcG9ybURZQXZpdm1JQkFvTTdkTE5KY3BkVks3Mjg5Rlo4c0E5eGZPMHhPOXhQenFYdw?oc=5",
+        "published": "2026-09-03T00:25:20+00:00",
+        "published_label": "Thu 03 Sep, 00:25",
+        "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
       },
       {
         "section": "Tennis",
@@ -4617,22 +4747,113 @@
         "body": "British tennis stars Emma Raducanu and Jack Draper have withdrawn from the final tennis grand slam of the year -- the US Open. Raducanu famously rose to fame after winning the event in 2021 at just 18 years-old. She worked her way through the qualifying rounds and then went on to win 10 straight matches without dropping a single set.\n\nDraper reached the semifinals at Flushing Meadows in 2024, but his bid to go deeper into the tournament this year has now been stalled again. Both stars have the potential to be a success, but their injuries have proved to be major setbacks in reaching the top.",
         "copy": "British tennis stars Emma Raducanu and Jack Draper have withdrawn from the final tennis grand slam of the year -- the US Open. Raducanu famously rose to fame after winning the event in 2021 at just 18 years-old. She worked her way through the qualifying rounds and then went on to win 10 straight matches without dropping a single set.\n\nDraper reached the semifinals at Flushing Meadows in 2024, but his bid to go deeper into the tournament this year has now been stalled again. Both stars have the potential to be a success, but their injuries have proved to be major setbacks in reaching the top.",
         "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "US Open Tennis: News, draw, schedule, results and updates from Flushing Meadows in New York",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQakVER2l6WGhGNUh1Ukg0T0JrSF9za3dIVGQyN1d3aUZqVWs0dmVvbVAzZWtCRGpfOXZuajVOUkxaV2hwa0VSVnFfVEJsckRPRFFDRzdRcFdlWk1ORTdNSmRsSmx2RTBKZExxTTlxQ1JEMHNXT1NrLXJHOU1RUVhOcllRMzRHOEhCN3VzVFBoN1lHMEtMS3RuS0YyODBSdy01Sk1rUGpiSTRTVnFrSjgzQlhoem50TXBQOWdqaHdqXzVvaVRHY3NRamJyWlpSRDFjU3E1ZlNZNDNKUEtrVVE?oc=5",
-        "published": "2026-08-28T14:40:36+00:00",
-        "published_label": "Fri 28 Aug, 14:40",
-        "summary": "US Open Tennis: News, draw, schedule, results and updates from Flushing Meadows in New York Sky Sports",
-        "body": "Jacob Fearnley and veteran Heather Watson were among the six British winners at US Open qualifying in New York. Fearnley advanced to the third and final qualifying round with a hard-fought 6-4 6-7 (4-7) 6-4 victory over Frenchman Luka Pavlovic that lasted two hours and 18 minutes.\n\nThe 25-year-old Scot appeared to be coasting when 4-2 ahead in the second set, but Pavlovic broke back and then won the tie break after saving a match point at 5-4. Fearnley, however, kept his composure to break at 3-2 in the deciding set, then saved three break points in the final game before closing out victory.",
-        "copy": "Jacob Fearnley and veteran Heather Watson were among the six British winners at US Open qualifying in New York. Fearnley advanced to the third and final qualifying round with a hard-fought 6-4 6-7 (4-7) 6-4 victory over Frenchman Luka Pavlovic that lasted two hours and 18 minutes.\n\nThe 25-year-old Scot appeared to be coasting when 4-2 ahead in the second set, but Pavlovic broke back and then won the tie break after saving a match point at 5-4. Fearnley, however, kept his composure to break at 3-2 in the deciding set, then saved three break points in the final game before closing out victory.",
-        "first_seen": "2026-08-24T18:36:53.436113+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Is Jon Rahm really LIV Golf’s only major champion set to leave?",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2FfMXZ6ZFhVMVRxRE5HcWNadDhWUDdkdkFvMkNBeHhmVURrSnU3X2RlRndxQ1YxZTVUUTZFbXZvUU1iLWVUbTlkOEtPckR2NVQwaHhLQ0tJZENGUkI3b1BiTERielJ0TDlpaFBJazh6M1BOUGdIVlVoR29aVklYNGxzZWF6NW5QZUk2bW5XcUFZdkYxOVFtV2RwRjAzdw?oc=5",
+        "published": "2026-09-04T15:31:32+00:00",
+        "published_label": "Fri 04 Sep, 15:31",
+        "summary": "Is Jon Rahm really LIV Golf’s only major champion set to leave? dailyclubgolf.com",
+        "body": "Is Jon Rahm really LIV Golf’s only major champion set to leave? LIV Golf faces a dual exodus as its marquee signings reassess their futures. 2023 Masters champion Jon Rahm is all set to leave LIV Golf. However, there is a high chance that a two-time Green Jacket winner will join him.\n\nSince the PIF’s withdrawal, LIV Golf is under heavy pressure to secure new investors. The “LIV 2.0” is fighting hard to materialize. But even if they do, Watson may not stick around.",
+        "copy": "Is Jon Rahm really LIV Golf’s only major champion set to leave? LIV Golf faces a dual exodus as its marquee signings reassess their futures. 2023 Masters champion Jon Rahm is all set to leave LIV Golf. However, there is a high chance that a two-time Green Jacket winner will join him.\n\nSince the PIF’s withdrawal, LIV Golf is under heavy pressure to secure new investors. The “LIV 2.0” is fighting hard to materialize. But even if they do, Watson may not stick around.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "I switched to a mallet after this putting lesson | The Lab",
+        "link": "https://golf.com/instruction/putting/blades-versus-mallets-stephen-sweeney-the-lab/",
+        "published": "2026-09-04T15:05:04+00:00",
+        "published_label": "Fri 04 Sep, 15:05",
+        "summary": "Stephen Sweeney and I tested the age-old \"blade v mallet\" argument to see which should go in my bag. The post I switched to a mallet after this putting lesson | The Lab appeared first on Golf .",
+        "body": "I’ve been trying to hold down the fort on being a blade putter user for a long time now, and I’m still holding out hope, but a few months ago during my first-ever putting lesson with Stephen Sweeney, I was convinced to give the mallet a real “college try.” Turns out, it’s been a game changer. Let’s dive into some of the facts and I’ll explain why the mallet is in my bag, but the trusty blade still sneaks in.\n\nWithin the first three minutes of the video, you’ll hear me state “yeah, well, blades are better” as Sweeney introduces our topic of the day, but writing this now four months later, a custom TaylorMade Spider Tour X has been in my bag ever since.",
+        "copy": "I’ve been trying to hold down the fort on being a blade putter user for a long time now, and I’m still holding out hope, but a few months ago during my first-ever putting lesson with Stephen Sweeney, I was convinced to give the mallet a real “college try.” Turns out, it’s been a game changer. Let’s dive into some of the facts and I’ll explain why the mallet is in my bag, but the trusty blade still sneaks in.\n\nWithin the first three minutes of the video, you’ll hear me state “yeah, well, blades are better” as Sweeney introduces our topic of the day, but writing this now four months later, a custom TaylorMade Spider Tour X has been in my bag ever since.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "14 pieces of private golf club etiquette you need to know",
+        "link": "https://golf.com/instruction/golf-etiquette-you-need-to-know/",
+        "published": "2026-09-04T14:11:35+00:00",
+        "published_label": "Fri 04 Sep, 14:11",
+        "summary": "Here are 14 pieces of etiquette for the next time you head to a private club for the day, no matter if you are hosting or a guest. The post 14 pieces of private golf club etiquette you need to know appeared first on Golf .",
+        "body": "Whether you’re the inviter or the invited, your goal for a day at the club is simple: seamlessness. Here are 14 pieces of etiquette for the next time you head to a private club, whether you are a host or a guest.\n\n1. Email or text the guest a link to the club with directions, policies, etc., highlighting anything unusual. 2. Pick a specific time and place to meet to minimize any guest anxiety or bumbling around.",
+        "copy": "Whether you’re the inviter or the invited, your goal for a day at the club is simple: seamlessness. Here are 14 pieces of etiquette for the next time you head to a private club, whether you are a host or a guest.\n\n1. Email or text the guest a link to the club with directions, policies, etc., highlighting anything unusual. 2. Pick a specific time and place to meet to minimize any guest anxiety or bumbling around.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "John Ashworth shares the keys to effortless on-course style",
+        "link": "https://golf.com/lifestyle/john-ashworth-shares-4-keys-effortless-on-course-style/",
+        "published": "2026-09-04T14:07:22+00:00",
+        "published_label": "Fri 04 Sep, 14:07",
+        "summary": "When it comes to guidance for de-stressed on-course dressing, there’s only one guy for the job. Here are John Ashworth’s simple keys. The post John Ashworth shares the keys to effortless on-course style appeared first on Golf .",
+        "body": "For nearly five decades, there has been one universally agreed upon poster boy for effortless golf: Fred Couples. Beginning in the late ’80s, Couples’ on-course cool was buoyed by his apparel partnership with Ashworth, the laidback, SoCal brand founded by its namesake designer, John Ashworth. Player and polo were a perfect match.\n\nAshworth left the brand in 1997, only to return in 2024. Needless to say, when it comes to guidance for de-stressed on-course dressing, there’s only one guy for the job. Here are Ashworth’s keys for feeling effortless, because even the king of apparel cool would say that’s way more crucial than looking the part.",
+        "copy": "For nearly five decades, there has been one universally agreed upon poster boy for effortless golf: Fred Couples. Beginning in the late ’80s, Couples’ on-course cool was buoyed by his apparel partnership with Ashworth, the laidback, SoCal brand founded by its namesake designer, John Ashworth. Player and polo were a perfect match.\n\nAshworth left the brand in 1997, only to return in 2024. Needless to say, when it comes to guidance for de-stressed on-course dressing, there’s only one guy for the job. Here are Ashworth’s keys for feeling effortless, because even the king of apparel cool would say that’s way more crucial than looking the part.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Walker Cup primer: Teams, format, how to watch",
+        "link": "https://golf.com/news/2026-walker-cup-teams-format-how-watch/",
+        "published": "2026-09-04T14:03:38+00:00",
+        "published_label": "Fri 04 Sep, 14:03",
+        "summary": "The 51st Walker Cup kicks off this weekend when the U.S. squares off against Great Britain & Ireland. Here's what you need to know. The post 2026 Walker Cup primer: Teams, format, how to watch appeared first on Golf .",
+        "body": "Along the west coast of Ireland, one of golf’s premier amateur events is about to get underway at bucket-list gem Lahinch Golf Club. The 51st Walker Cup kicks off this weekend when the U.S. squares off against Great Britain & Ireland. Here’s what you need to know.\n\nThe first Walker Cup was played in 1922 at the National Golf Links of America in Southampton, N.Y., a post-World War I competition between the USGA and the R&A created to strengthen relationships between golf’s governing bodies.",
+        "copy": "Along the west coast of Ireland, one of golf’s premier amateur events is about to get underway at bucket-list gem Lahinch Golf Club. The 51st Walker Cup kicks off this weekend when the U.S. squares off against Great Britain & Ireland. Here’s what you need to know.\n\nThe first Walker Cup was played in 1922 at the National Golf Links of America in Southampton, N.Y., a post-World War I competition between the USGA and the R&A created to strengthen relationships between golf’s governing bodies.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Report: LIV Golf pro DQ'd from first stage of DP World Tour Q-School",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZG14QXQ5UERDajBjbk1qQlpKb3ViclFjal80NUFQcDFMNEpTVzBkSTJldUtzTmpQaUR0dF82eVV0bmo0UXEwc2dUOG9KODVwXy1IU0dLN2VzR1RwVmZDTmN3Tm1KU0JnQmlLNG44Q29FZW1XZkQ1Vmk5MWtaZ1RCVzZYU3B6NlVfZW9mSm5fRTQ5MXNtZmo2SUhjam9IYW8?oc=5",
+        "published": "2026-09-04T13:07:27+00:00",
+        "published_label": "Fri 04 Sep, 13:07",
+        "summary": "Report: LIV Golf pro DQ'd from first stage of DP World Tour Q-School Golfmagic",
+        "body": "LIV Golf's Peter Uihlein was disqualified from the first stage of DP World Tour Q-School, according to a report. Uihlein was one of three LIV Golf players competing at Huddersfield Golf Club in West Yorkshire, England, but his bid to advance to the second stage ended after two rounds.\n\nThe 37-year-old American was 7-over par after opening rounds of 74 and 73. He was tied for 66th entering Friday's third round, with the top 19 players and ties advancing to the second stage.",
+        "copy": "LIV Golf's Peter Uihlein was disqualified from the first stage of DP World Tour Q-School, according to a report. Uihlein was one of three LIV Golf players competing at Huddersfield Golf Club in West Yorkshire, England, but his bid to advance to the second stage ended after two rounds.\n\nThe 37-year-old American was 7-over par after opening rounds of 74 and 73. He was tied for 66th entering Friday's third round, with the top 19 players and ties advancing to the second stage.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Scottie Scheffler's caddie reveals world No.1's immediate response to LIV Golf's $250m breakaway offer",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1UtTm5uZmJUb05qQ2didkFwSnd0LVMySExDZnJ6c0RGQnRCYXU0cm9fYnlmdzA1YXRMWURuZ1BqQkhXX2lMdm03bi1UbUtTR2xpRV9tN2JZWE01Rjk0Yjk5dk95QW50ell2NC1DNVJ6WkpsbFBRek5TcmN3OW9pY1NYTWltMWI1TFBPWnhaS2ZCVUVZUF92Zl9R?oc=5",
+        "published": "2026-09-04T13:02:37+00:00",
+        "published_label": "Fri 04 Sep, 13:02",
+        "summary": "Scottie Scheffler's caddie reveals world No.1's immediate response to LIV Golf's $250m breakaway offer talkSPORT",
+        "body": "Scottie Scheffler could have earned a fortune by joining LIV Golf in 2022. Landing the world No. 1 would have been a massive coup for the Saudi-backed event, but according to his caddie, the idea was a non- starter.\n\nTed Scott has been on Scheffler's bag for years and revealed insight into the Texan's thinking at the time on The Gravy & The Sleeze Podcast. “I mean, the guy, literally, when I first started working for him, was 19th in the world and he had a white golf bag,“ Scott said after Scheffler won the Tour Championship.",
+        "copy": "Scottie Scheffler could have earned a fortune by joining LIV Golf in 2022. Landing the world No. 1 would have been a massive coup for the Saudi-backed event, but according to his caddie, the idea was a non- starter.\n\nTed Scott has been on Scheffler's bag for years and revealed insight into the Texan's thinking at the time on The Gravy & The Sleeze Podcast. “I mean, the guy, literally, when I first started working for him, was 19th in the world and he had a white golf bag,“ Scott said after Scheffler won the Tour Championship.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'The pinnacle'",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cde0261k9xro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-04T12:16:31+00:00",
+        "published_label": "Fri 04 Sep, 12:16",
+        "summary": "Midlanders Ben Bolton and Sam Easterbrook react to being picked for the GB & Ireland Walker Cup team at Lahinch.",
+        "body": "It's September - and although there is no Ryder Cup this year, it's still very much the time for international team golf. The Solheim Cup - the Ryder Cup of the women's game - is just a week away, and that is preceded this weekend on the west coast of Ireland, by the Walker Cup.\n\n\"It's the Ryder Cup for amateurs, says 19-year-old Ben Bolton, from Wombourne, one of two Midlanders in the 10-man team to take on the USA at stunning Lahinch, in County Clare.",
+        "copy": "It's September - and although there is no Ryder Cup this year, it's still very much the time for international team golf. The Solheim Cup - the Ryder Cup of the women's game - is just a week away, and that is preceded this weekend on the west coast of Ireland, by the Walker Cup.\n\n\"It's the Ryder Cup for amateurs, says 19-year-old Ben Bolton, from Wombourne, one of two Midlanders in the 10-man team to take on the USA at stunning Lahinch, in County Clare.",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6296,35 +6517,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Tom McKibbin reveals LIV Golf contract situation amid uncertain future",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkVPdUFySElTTy1EQk9GMXBqOFRPWmRUdngyN09jdkJrdVVPT3RIZTJKSU5JeGVDSklsNFFpMXY3S19MOXcwYUwweE5zcl81ekVzb2lrZ3hmTEZzcXplaE1DN0FyZWgtUFBCd3RhbE1qNDBGUlMxM0NOLW9nZERrdW5TOEdmNlRhMmktNEdkZ2F5dERudVJJd2RuTFlvZy1XUHd3YnkxeFhMSVh0Qmg0?oc=5",
-        "published": "2026-08-28T14:28:12+00:00",
-        "published_label": "Fri 28 Aug, 14:28",
-        "summary": "Tom McKibbin reveals LIV Golf contract situation amid uncertain future Golfmagic",
-        "body": "Tom McKibbin has confirmed he still has \"a couple of years left\" on his LIV Golf contract and expects the breakaway tour to continue in some form next year. The Northern Irishman, a mentee of Rory McIlroy, joined LIV for the 2025 season, but his future with the circuit remains uncertain as its long-term prospects continue to be debated.\n\nLIV, which launched in 2022, is seeking new investment after Saudi Arabia's Public Investment Fund withdrew its financial support. Chief executive Scott O'Neil has confirmed a term sheet has been signed with a potential new investor, understood to be London-based private equity firm BC Partners, with the transaction expected to be finalised next month.",
-        "copy": "Tom McKibbin has confirmed he still has \"a couple of years left\" on his LIV Golf contract and expects the breakaway tour to continue in some form next year. The Northern Irishman, a mentee of Rory McIlroy, joined LIV for the 2025 season, but his future with the circuit remains uncertain as its long-term prospects continue to be debated.\n\nLIV, which launched in 2022, is seeking new investment after Saudi Arabia's Public Investment Fund withdrew its financial support. Chief executive Scott O'Neil has confirmed a term sheet has been signed with a potential new investor, understood to be London-based private equity firm BC Partners, with the transaction expected to be finalised next month.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Good Good backs out of upcoming PGA Tour event after 'careful reflection'",
-        "link": "https://golf.com/news/good-good-backs-out-sponsor-pga-tour-event/",
-        "published": "2026-08-28T12:24:23+00:00",
-        "published_label": "Fri 28 Aug, 12:24",
-        "summary": "Good Good announced its decision to step away as sponsor of an upcoming PGA Tour event in the latest aftermath from its controversial ad. The post Good Good backs out of upcoming PGA Tour event after ‘careful reflection’ appeared first on Golf .",
-        "body": "The bad news keeps getting worse for Good Good. In the aftermath of a widely criticized ad for a Good Good x Callaway driver that depicted Good Good’s Garrett Clark knocking over his colleague Alexis Miestowski, the company has lost many of its most high-profile partnerships.\n\nOn Thursday evening, Good Good lost perhaps the biggest of them all, the company’s sponsorship of the PGA Tour’s 2026 Good Good Championship. In dueling statements on social media, Good Good announced it was stepping away from sponsorship of the PGA Tour event scheduled for November in Austin, and the PGA Tour confirmed the news.",
-        "copy": "The bad news keeps getting worse for Good Good. In the aftermath of a widely criticized ad for a Good Good x Callaway driver that depicted Good Good’s Garrett Clark knocking over his colleague Alexis Miestowski, the company has lost many of its most high-profile partnerships.\n\nOn Thursday evening, Good Good lost perhaps the biggest of them all, the company’s sponsorship of the PGA Tour’s 2026 Good Good Championship. In dueling statements on social media, Good Good announced it was stepping away from sponsorship of the PGA Tour event scheduled for November in Austin, and the PGA Tour confirmed the news.",
-        "first_seen": "2026-08-28T18:12:32.576531+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "China Masters 2026 badminton: Kidambi Srikanth bows out to end India’s singles challenge",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUm1TVXBqOW5BTEtSZ0l1ek9STm1vWmVfRTgyNzVJX3NwbDR4bXJHZ210Zl8tNW1YY1VlZzFqYlp3ZGNYVXk5NkpKd1hMb0hYS1FoZEdRb3dQVXBlUHo1am55Tk8yZmU1ZHNZVGVQZmg1MDRwUjdvaXgzSDhwOGN4SHR4c3ZQY2ZGUE03dHpLMjE4cnM?oc=5",
+        "published": "2026-09-04T13:50:20+00:00",
+        "published_label": "Fri 04 Sep, 13:50",
+        "summary": "China Masters 2026 badminton: Kidambi Srikanth bows out to end India’s singles challenge olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-04T15:44:15.916506+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6844,19 +7052,6 @@
         "body": "For sheer edge-of-the-seat action, this was the standout match. That it featured two unknown pairs made it all the more fascinating. World No.60 Surya and Pramuthesh, promoted from the reserves, took on No.72 Sonmez/Bektas and it was a thriller all the way, with the Turkiye pair fighting off seven match points in the second game and two in the third.\n\nThis was reckoned to be the highlight of the opening day, and it lived up to expectations. Fast-rising youngster Shetty had a great start against the defending champion; but Shi took the match to a decider. With Shetty leading 17-6 it looked all but over for the top seed, but Shi staged a magnificent comeback and nearly took the match, and it needed all of Shetty’s composure to nail the last few points for one of the significant upsets in World Championships history.",
         "copy": "For sheer edge-of-the-seat action, this was the standout match. That it featured two unknown pairs made it all the more fascinating. World No.60 Surya and Pramuthesh, promoted from the reserves, took on No.72 Sonmez/Bektas and it was a thriller all the way, with the Turkiye pair fighting off seven match points in the second game and two in the third.\n\nThis was reckoned to be the highlight of the opening day, and it lived up to expectations. Fast-rising youngster Shetty had a great start against the defending champion; but Shi took the match to a decider. With Shetty leading 17-6 it looked all but over for the top seed, but Shi staged a magnificent comeback and nearly took the match, and it needed all of Shetty’s composure to nail the last few points for one of the significant upsets in World Championships history.",
         "first_seen": "2026-08-29T12:15:20.676174+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "World Championships BWF - Doubles Women",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFoyZjVnZ1ZLYVY2N0wwN1hPa2NWYkNHZTZ2NGRGU01FUkhTQ3BhWXdxLVdBMmV5Mmp5MmdERTEzQnNkSmw2NENXSmk4cjlFaTlkaUZKSmtrRkNxMXBDVXY4OFdvSnA4UEtFZ2JDMnVLTWtvYkQtTzJiU0g1eEZ3VkIyY2FleVEzU0tFZWZKRUMzalk?oc=5",
-        "published": "2026-08-28T13:30:58+00:00",
-        "published_label": "Fri 28 Aug, 13:30",
-        "summary": "World Championships BWF - Doubles Women Flashscore.co.za",
-        "body": "Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
-        "copy": "Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
-        "first_seen": "2026-08-29T17:35:11.029546+00:00"
       }
     ],
     "Competitor News": [
@@ -6888,5 +7083,5 @@
       }
     ]
   },
-  "total": 528
+  "total": 543
 }
