@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T09:57:11.870563+00:00",
-  "generated_label": "Saturday 05 September 2026, 09:57 UTC",
+  "generated_at": "2026-09-05T11:22:08.173962+00:00",
+  "generated_label": "Saturday 05 September 2026, 11:22 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -24,6 +24,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-05T09:57:11.870563+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "What would Socrates have done with the new Dyson toothbrush?",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjM3NoNjdhdURIQm1QeEZPOXJkd0s2Y2ZUMkRlV3hyV0ZNVUhwMTA1RnZ2OURpdE1qWF8xeFg0VFYweFFyTUtxSGVwYkhVSzZ0cnlscktrMFUxSjdvdjhXcnpxWHRMVVJrdUhIX2NBb3U?oc=5",
+        "published": "2026-09-05T04:00:33+00:00",
+        "published_label": "Sat 05 Sep, 04:00",
+        "summary": "What would Socrates have done with the new Dyson toothbrush? Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-05T11:22:08.173962+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -284,6 +297,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-04T10:33:00.365344+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Ferrari’s new boutique is a brand extension too far",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTkRUQ1BObGNIc3N2UklQa1hSanBTd2VPeDV5dnNmTjQ3NkY1eG1QNktuVk51TjVma1NGZUtxYUxkZzhpVnhpMlpMVnVrRllpTUw0TExMMHJIb0RLMG5jQXhndHA1Q0NPb2NZMTlWcS01Uk1ENmlTdW51S0p6Yk5WTkM5Q0I?oc=5",
+        "published": "2026-09-04T04:01:28+00:00",
+        "published_label": "Fri 04 Sep, 04:01",
+        "summary": "Ferrari’s new boutique is a brand extension too far Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-05T11:22:08.173962+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1415,22 +1441,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-30T11:12:31.109963+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Trump deportations take a bite out of an unexpected industry: US fast food",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhYVdKZ3lXMUZ4QUFSazhSVFdGWHdWY0RIazc4OFhyM1ZPaGVzREZHWVNFcjI4QlVZRlZTSWVxR012MUM0Q0JjTEFQVDhEQjlvMVRQMjZTREgzRkhhR2hRWGM4bVZPWnVaUEFTX3hGck0?oc=5",
-        "published": "2026-08-29T10:00:02+00:00",
-        "published_label": "Sat 29 Aug, 10:00",
-        "summary": "Trump deportations take a bite out of an unexpected industry: US fast food Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-08-29T12:15:20.676174+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Hong Kong China name WXV squad ahead of long-awaited home return",
+        "link": "https://www.rugbypass.com/news/hong-kong-china-name-wxv-squad-ahead-of-long-awaited-home-return/",
+        "published": "2026-09-05T10:30:12+00:00",
+        "published_label": "Sat 05 Sep, 10:30",
+        "summary": "Hong Kong China have named a 28-player squad for their home WXV Global Series Challenger campaign in September.",
+        "body": "Hong Kong China have named a 28-player squad for their home WXV Global Series Challenger campaign in September. It will be the first time that Hong Kong China’s women have played on home soil since 2024.\n\nOver the next three weekends, Kai Tak Sports Park will see Hong Kong China, Fiji, Samoa, Brazil, Spain and the Netherlands play nine fixtures. Hong Kong China will play fixtures against Brazil, Fiji and Samoa across three challenging weekends.",
+        "copy": "Hong Kong China have named a 28-player squad for their home WXV Global Series Challenger campaign in September. It will be the first time that Hong Kong China’s women have played on home soil since 2024.\n\nOver the next three weekends, Kai Tak Sports Park will see Hong Kong China, Fiji, Samoa, Brazil, Spain and the Netherlands play nine fixtures. Hong Kong China will play fixtures against Brazil, Fiji and Samoa across three challenging weekends.",
+        "first_seen": "2026-09-05T11:22:08.173962+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Samoa demand ‘intentional and accurate’ approach at WXV",
+        "link": "https://www.rugbypass.com/news/samoa-demand-intentional-and-accurate-approach-at-wxv/",
+        "published": "2026-09-05T09:59:36+00:00",
+        "published_label": "Sat 05 Sep, 09:59",
+        "summary": "Fuimaono Bella Milo has named her first squad as head coach of Manusina Samoa ahead of the WXV Global Series Challenger.",
+        "body": "Fuimaono Bella Milo has named her first squad as head coach of Manusina Samoa ahead of the WXV Global Series Challenger. Bella Milo enjoyed an 18-year playing career with Samoa and even represented her country in rugby sevens at the 2026 Olympic Games in Rio de Janeiro.\n\nAt last year’s Women’s Rugby World Cup, she was defence coach for Samoa. A role she performed while six months pregnant. In April it was confirmed that the 40-year-old had succeeded Ramsay Tomokino as the team’s head coach.",
+        "copy": "Fuimaono Bella Milo has named her first squad as head coach of Manusina Samoa ahead of the WXV Global Series Challenger. Bella Milo enjoyed an 18-year playing career with Samoa and even represented her country in rugby sevens at the 2026 Olympic Games in Rio de Janeiro.\n\nAt last year’s Women’s Rugby World Cup, she was defence coach for Samoa. A role she performed while six months pregnant. In April it was confirmed that the 40-year-old had succeeded Ramsay Tomokino as the team’s head coach.",
+        "first_seen": "2026-09-05T11:22:08.173962+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3627,45 +3666,6 @@
         "body": "Wallabies head coach Les Kiss has again made big changes to his matchday 23 to build depth and rest key players. While his backline stays the same from the thrashing of Japan in Townsville, his forward pack is unrecognisable.\n\nYoung NSW Waratah prop Isaac Aedo-Kailea gets his first Test since 2024, and he’s joined in the front row by Brandon Paenga-Amosa as well as stand-in captain Allan Alaalatoa, who will lead his country for a ninth time.",
         "copy": "Wallabies head coach Les Kiss has again made big changes to his matchday 23 to build depth and rest key players. While his backline stays the same from the thrashing of Japan in Townsville, his forward pack is unrecognisable.\n\nYoung NSW Waratah prop Isaac Aedo-Kailea gets his first Test since 2024, and he’s joined in the front row by Brandon Paenga-Amosa as well as stand-in captain Allan Alaalatoa, who will lead his country for a ninth time.",
         "first_seen": "2026-08-29T12:15:20.676174+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Tasman back firepower against surging Northland with Ranfurly Shield on line",
-        "link": "https://www.rugbypass.com/news/tasman-back-their-firepower-against-surging-northland-with-ranfurly-shield-on-line/",
-        "published": "2026-08-29T11:09:52+00:00",
-        "published_label": "Sat 29 Aug, 11:09",
-        "summary": "Ranfurly Shield fever has gripped Northland after the Taniwha demolished defending NPC champions Canterbury 36-12 in Christchurch last Thursday to take the Log o’ Wood for the first time since 1979.",
-        "body": "Ranfurly Shield fever has gripped Northland after the Taniwha demolished defending NPC champions Canterbury 36-12 in Christchurch last Thursday to take the Log o’ Wood for the first time since 1979.\n\nNorthland’s first defence of the Ranfurly Shield at Semenoff Stadium in Whangarei on Sunday against Tasman is sold out, with about 20,000 expected. A similar fervour swept through Tasman when the Mako won the Shield for the first time in 2024.",
-        "copy": "Ranfurly Shield fever has gripped Northland after the Taniwha demolished defending NPC champions Canterbury 36-12 in Christchurch last Thursday to take the Log o’ Wood for the first time since 1979.\n\nNorthland’s first defence of the Ranfurly Shield at Semenoff Stadium in Whangarei on Sunday against Tasman is sold out, with about 20,000 expected. A similar fervour swept through Tasman when the Mako won the Shield for the first time in 2024.",
-        "first_seen": "2026-08-29T12:15:20.676174+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Small steps' for Schmidt at Ulster",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/clyk7jy2lxeo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-29T10:55:35+00:00",
-        "published_label": "Sat 29 Aug, 10:55",
-        "summary": "Rory Best says Joe Schmidt's new role with Ulster is a case of \"small steps\" as the province seek to use the former Ireland coach's expertise to build a platform for long-term success.",
-        "body": "Rory Best says Joe Schmidt's new role with Ulster is a case of \"small steps\" as the province seek to use the former Ireland coach's expertise to build a platform for long-term success.\n\nSchmidt was appointed Ulster's coach development adviser last month after ending his two-year stint as Australia boss, a newly created role focused on the province's coaching pathway.",
-        "copy": "Rory Best says Joe Schmidt's new role with Ulster is a case of \"small steps\" as the province seek to use the former Ireland coach's expertise to build a platform for long-term success.\n\nSchmidt was appointed Ulster's coach development adviser last month after ending his two-year stint as Australia boss, a newly created role focused on the province's coaching pathway.",
-        "first_seen": "2026-08-29T12:15:20.676174+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Gallagher PREM 2026/27 squads rated: Exeter Chiefs",
-        "link": "https://www.rugbypass.com/news/gallagher-prem-2026-27-squads-rated-exeter-chiefs/",
-        "published": "2026-08-29T10:01:03+00:00",
-        "published_label": "Sat 29 Aug, 10:01",
-        "summary": "Exeter Chiefs will have surprised themselves last season, reaching a PREM final and a Prem Rugby Cup final, even though they lost both...",
-        "body": "Exeter Chiefs will have surprised themselves last season, reaching a PREM final and a Prem Rugby Cup final, even though they lost both, as well as a Challenge Cup semi-final, but now the pressure is really on Rob Baxter, especially after the club was taken over by AFC Bournemouth owner Bill Foley.\n\nBaxter lifted the club out of their recent slump and now has the funds to compete for the best players when they become available, which could usher in another trophy-laden era.",
-        "copy": "Exeter Chiefs will have surprised themselves last season, reaching a PREM final and a Prem Rugby Cup final, even though they lost both, as well as a Challenge Cup semi-final, but now the pressure is really on Rob Baxter, especially after the club was taken over by AFC Bournemouth owner Bill Foley.\n\nBaxter lifted the club out of their recent slump and now has the funds to compete for the best players when they become available, which could usher in another trophy-laden era.",
-        "first_seen": "2026-08-29T12:15:20.676174+00:00"
       }
     ],
     "Tennis": [
@@ -4825,32 +4825,6 @@
         "body": "Jack Draper and Axel Arigato have unveiled \"Midnight,\" the final chapter in their trilogy of sneaker collaborations. Ahead of the US Open, the UK tennis star is completing the trilogy of collaborations with \"Midnight,\" a black take on the Dice silhouette with teal accents. Following \"Dusk\" and \"Rise,\" the new pair of sneakers celebrates the institution of night sessions. The timing of its release, on Wednesday (Aug. 26), coincides with the start of the US Open, which became the first Grand Slam to play under floodlights in 1975.\n\n\"Everything about New York feels bigger at night,\" said Jack Draper of the final sneaker collaboration in the trilogy. \"The city, the noise, those late sessions—it's got that Gotham energy I've always loved. Midnight is the shoe for that: dark, sharp, made for after hours. It felt like the only way to finish the trilogy.\"",
         "copy": "Jack Draper and Axel Arigato have unveiled \"Midnight,\" the final chapter in their trilogy of sneaker collaborations. Ahead of the US Open, the UK tennis star is completing the trilogy of collaborations with \"Midnight,\" a black take on the Dice silhouette with teal accents. Following \"Dusk\" and \"Rise,\" the new pair of sneakers celebrates the institution of night sessions. The timing of its release, on Wednesday (Aug. 26), coincides with the start of the US Open, which became the first Grand Slam to play under floodlights in 1975.\n\n\"Everything about New York feels bigger at night,\" said Jack Draper of the final sneaker collaboration in the trilogy. \"The city, the noise, those late sessions—it's got that Gotham energy I've always loved. Midnight is the shoe for that: dark, sharp, made for after hours. It felt like the only way to finish the trilogy.\"",
         "first_seen": "2026-08-29T17:35:11.029546+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Cannabis smell at US Open is distracting",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c74exxnd7r3o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-29T11:07:31+00:00",
-        "published_label": "Sat 29 Aug, 11:07",
-        "summary": "British number one Katie Boulter complains that the smell of cannabis is putting her off her game at the US Open.",
-        "body": "British number one Katie Boulter has complained that the smell of cannabis is putting her off her game at the US Open. On Sunday, the final major of the season begins at Flushing Meadows in New York, where cannabis is legal for adults aged 21 and over.\n\nThough smoking is not permitted on site, the smell of cannabis wafts on to court from nearby Corona Park and has bothered a number of players in previous years, including Novak Djokovic and Alexander Zverev.",
-        "copy": "British number one Katie Boulter has complained that the smell of cannabis is putting her off her game at the US Open. On Sunday, the final major of the season begins at Flushing Meadows in New York, where cannabis is legal for adults aged 21 and over.\n\nThough smoking is not permitted on site, the smell of cannabis wafts on to court from nearby Corona Park and has bothered a number of players in previous years, including Novak Djokovic and Alexander Zverev.",
-        "first_seen": "2026-08-29T12:15:20.676174+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Is Jack Draper playing at US Open 2026? Injury and return latest",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pZU5jLTRfS2oxRS1uTTYxaWV1ZmVHMG1RZnZlOE9La2JuSE9KenBJbEFBQ2lieU9GaHNFcS1hZ3gzNzVDaDRWMmR3djJHV2xRcmY4RXhOajA0aHpLZHhLSGZ6RzVKcnVlMVJsNTBUeVRDeE82R09z?oc=5",
-        "published": "2026-08-29T10:00:04+00:00",
-        "published_label": "Sat 29 Aug, 10:00",
-        "summary": "Is Jack Draper playing at US Open 2026? Injury and return latest Radio Times",
-        "body": "It's been a tough year for British tennis star Jack Draper. The 24-year-old established himself among the sport's top players in 2025, but a string of injury problems have halted his progress.\n\nDraper was forced to withdraw ahead of the second round of last year's US Open and has missed all three of the grand slams since, including Wimbledon. The Brit has been on court during the North American hard court swing, though his tears in the defeat at the Canadian Open and straight-sets loss at the Cincinnati Open were cause for concern.",
-        "copy": "It's been a tough year for British tennis star Jack Draper. The 24-year-old established himself among the sport's top players in 2025, but a string of injury problems have halted his progress.\n\nDraper was forced to withdraw ahead of the second round of last year's US Open and has missed all three of the grand slams since, including Wimbledon. The Brit has been on court during the North American hard court swing, though his tears in the defeat at the Canadian Open and straight-sets loss at the Cincinnati Open were cause for concern.",
-        "first_seen": "2026-08-29T12:15:20.676174+00:00"
       }
     ],
     "Golf": [
@@ -4866,6 +4840,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-05T09:57:11.870563+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf Embarrassment Continues at DP World Tour Q-School",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFJrQ21OQ3p4VDRuQjZ4LUhodjhUNU5XcTgzdmRVQldlbGFSS3NuWTJtX1dNeTl0OFhSaVgyQlgzVS1nUkphWUxVbGNZMS1tSEpKVHdiVFc2OE9EVXl2azRKeDRZbDhOU09hdUwyNFI3aUR0LWUyRkpPLWVJZ180a3dKT1Juc1lPRTBKSg?oc=5",
+        "published": "2026-09-04T23:52:14+00:00",
+        "published_label": "Fri 04 Sep, 23:52",
+        "summary": "LIV Golf Embarrassment Continues at DP World Tour Q-School Yahoo Sports",
+        "body": "As LIV Golf's future remains uncertain, professional golfer Peter Uihlein entered to compete in the DP World Tour Q-School, but he failed to show up to his third round tee-time. He started the event poorly, shooting a 74 and a 73 in the first two rounds respectively. When he was not at the tee on Friday, the event disqualified him off the leaderboard. Prior to his disqualification, he stood at 66th place and required a 19th place finish at least to advance further in the competition.\n\nMany of those involved with LIV Golf like Uihlein are still awaiting news about their future. They need to plan contingencies unless LIV Golf 2.0, the next stage of the startup, fails to launch. Fellow LIV Golfers Luis Masaveu and Jose Luis Ballester are also participating in the event to qualify for DP World Tour status.",
+        "copy": "As LIV Golf's future remains uncertain, professional golfer Peter Uihlein entered to compete in the DP World Tour Q-School, but he failed to show up to his third round tee-time. He started the event poorly, shooting a 74 and a 73 in the first two rounds respectively. When he was not at the tee on Friday, the event disqualified him off the leaderboard. Prior to his disqualification, he stood at 66th place and required a 19th place finish at least to advance further in the competition.\n\nMany of those involved with LIV Golf like Uihlein are still awaiting news about their future. They need to plan contingencies unless LIV Golf 2.0, the next stage of the startup, fails to launch. Fellow LIV Golfers Luis Masaveu and Jose Luis Ballester are also participating in the event to qualify for DP World Tour status.",
+        "first_seen": "2026-09-05T11:22:08.173962+00:00"
       },
       {
         "section": "Golf",
@@ -6582,32 +6569,6 @@
         "body": "LIV Golf's Abraham Ancer says he'll be taking the rest of the year off after undergoing successful back surgery. The 35-year-old has enjoyed a fairly solid season on the breakaway tour but revealed in an Instagram post on Friday that he's been playing with severe back pain over the last few years.\n\nFormer PGA Tour pro Ancer said he has been attempting to delay the decision to go under the knife for as long as he could but ultimately knew that surgery was the only option.",
         "copy": "LIV Golf's Abraham Ancer says he'll be taking the rest of the year off after undergoing successful back surgery. The 35-year-old has enjoyed a fairly solid season on the breakaway tour but revealed in an Instagram post on Friday that he's been playing with severe back pain over the last few years.\n\nFormer PGA Tour pro Ancer said he has been attempting to delay the decision to go under the knife for as long as he could but ultimately knew that surgery was the only option.",
         "first_seen": "2026-08-29T13:18:23.823798+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Tour Championship Saturday TV coverage: How to watch Round 3",
-        "link": "https://golf.com/news/2026-tour-championship-saturday-tv-coverage-watch/",
-        "published": "2026-08-29T10:46:50+00:00",
-        "published_label": "Sat 29 Aug, 10:46",
-        "summary": "How to watch the 2026 Tour Championship on Saturday, including full Tour Championship TV coverage and streaming details for Round 3. The post 2026 Tour Championship Saturday TV coverage: How to watch Round 3 appeared first on Golf .",
-        "body": "The third round of the 2026 Tour Championship gets underway Saturday at East Lake Golf Club in Atlanta. Here’s everything you need to know to watch the tournament on Saturday, including full Tour Championship TV coverage, streaming details and complete Round 3 tee times.\n\nScottie Scheffler ran away with the season-long FedEx Cup points race. While that earned him $23 million last week, it won’t help him at all at the Tour Championship. Not that he needs any extra advantage.",
-        "copy": "The third round of the 2026 Tour Championship gets underway Saturday at East Lake Golf Club in Atlanta. Here’s everything you need to know to watch the tournament on Saturday, including full Tour Championship TV coverage, streaming details and complete Round 3 tee times.\n\nScottie Scheffler ran away with the season-long FedEx Cup points race. While that earned him $23 million last week, it won’t help him at all at the Tour Championship. Not that he needs any extra advantage.",
-        "first_seen": "2026-08-29T12:15:20.676174+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 FM Championship Saturday TV coverage: How to watch Round 3",
-        "link": "https://golf.com/news/2026-fm-championship-saturday-tv-coverage-watch/",
-        "published": "2026-08-29T10:24:30+00:00",
-        "published_label": "Sat 29 Aug, 10:24",
-        "summary": "How to watch the 2026 FM Championship on Saturday, including full FM Championship TV coverage for Round 3 of the LPGA event. The post 2026 FM Championship Saturday TV coverage: How to watch Round 3 appeared first on Golf .",
-        "body": "The 2026 FM Championship continues on Saturday, August 29th, with the third round at TPC Boston. Here’s everything you need to know to watch the tournament on Saturday, including full FM Championship TV coverage, streaming details and complete Round 3 tee times.\n\nWith 36 holes left to play at this week’s FM Championship, American star Allisen Corpuz is tied for the lead. The 28-year-old shot a bogey-free five-under 67 on Friday to move to nine under for the tournament.",
-        "copy": "The 2026 FM Championship continues on Saturday, August 29th, with the third round at TPC Boston. Here’s everything you need to know to watch the tournament on Saturday, including full FM Championship TV coverage, streaming details and complete Round 3 tee times.\n\nWith 36 holes left to play at this week’s FM Championship, American star Allisen Corpuz is tied for the lead. The 28-year-old shot a bogey-free five-under 67 on Friday to move to nine under for the tournament.",
-        "first_seen": "2026-08-29T12:15:20.676174+00:00"
       }
     ],
     "Badminton": [
@@ -7200,5 +7161,5 @@
       }
     ]
   },
-  "total": 552
+  "total": 549
 }
