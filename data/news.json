@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T18:01:02.815395+00:00",
-  "generated_label": "Sunday 06 September 2026, 18:01 UTC",
+  "generated_at": "2026-09-06T20:16:49.083017+00:00",
+  "generated_label": "Sunday 06 September 2026, 20:16 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1366,6 +1366,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Uruguay star handed 13-game ban for knee-breaking tackle",
+        "link": "https://www.rugbypass.com/news/uruguay-star-handed-13-game-ban-for-knee-breaking-tackle/",
+        "published": "2026-09-06T19:24:35+00:00",
+        "published_label": "Sun 06 Sep, 19:24",
+        "summary": "Uruguayan hooker Joaquín Myszka's has been handed a 13-game ban for a red-card offence that left Chile's Emilio Shea Duret seriously injured, eight days after the incident.",
+        "body": "Uruguayan hooker Joaquín Myszka has been handed a 13-game ban for a red-card offence that left Chile’s Emilio Shea Duret seriously injured, eight days after the incident. The incident happened in the second half of the Chile XV and Uruguay XV match for the Americas Rugby Championship, in which the Los Teros secondary team lost 33-12.\n\nAt the 52nd minute, Myszka made a low no-arms tackle to the opposing prop that resulted in a serious injury, forcing the game to be stopped for several minutes until Shea Duret was carried off the field.",
+        "copy": "Uruguayan hooker Joaquín Myszka has been handed a 13-game ban for a red-card offence that left Chile’s Emilio Shea Duret seriously injured, eight days after the incident. The incident happened in the second half of the Chile XV and Uruguay XV match for the Americas Rugby Championship, in which the Los Teros secondary team lost 33-12.\n\nAt the 52nd minute, Myszka made a low no-arms tackle to the opposing prop that resulted in a serious injury, forcing the game to be stopped for several minutes until Shea Duret was carried off the field.",
+        "first_seen": "2026-09-06T20:16:49.083017+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -3619,6 +3632,32 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Sabalenka overcomes tricky Townsend test at US Open",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-06T19:40:47+00:00",
+        "published_label": "Sun 06 Sep, 19:40",
+        "summary": "Two-time defending champion Aryna Sabalenka emulates Serena Williams by overcoming Taylor Townsend to reach a sixth straight US Open quarter-final.",
+        "body": "Two-time defending champion Aryna Sabalenka emulated Serena Williams as she eventually overpowered American Taylor Townsend to reach a sixth straight US Open quarter-final. A topsy-turvy contest featured 10 breaks of serve, but Sabalenka recovered from 3-1 down in the second serve to seal a 6-4 6-3 victory with a fifth consecutive game.\n\nIt was the Belarusian's 18th consecutive win at the tournament, extending her three-year unbeaten streak following back-to-back triumphs in 2024 and 2025. Sabalenka, 28, is the first woman to reach six consecutive singles quarter-finals at Flushing Meadows since American great Williams in 2016.",
+        "copy": "Two-time defending champion Aryna Sabalenka emulated Serena Williams as she eventually overpowered American Taylor Townsend to reach a sixth straight US Open quarter-final. A topsy-turvy contest featured 10 breaks of serve, but Sabalenka recovered from 3-1 down in the second serve to seal a 6-4 6-3 victory with a fifth consecutive game.\n\nIt was the Belarusian's 18th consecutive win at the tournament, extending her three-year unbeaten streak following back-to-back triumphs in 2024 and 2025. Sabalenka, 28, is the first woman to reach six consecutive singles quarter-finals at Flushing Meadows since American great Williams in 2016.",
+        "first_seen": "2026-09-06T20:16:49.083017+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mYS1pV2dZYk9GMGhUcTZPSWp2YVB2WF9fbkdnS21SLWxPdDg0VE9sbWxFZmU2d0JLUFAycmhSRDVMckdQTVpPalVrbUEySGRnamhWRU02SjVTMTEtQUdvaVlaTVFlV0toMU1BZU9qQUxqSjI5ZmZ5cHNLWQ?oc=5",
+        "published": "2026-09-06T16:25:38+00:00",
+        "published_label": "Sun 06 Sep, 16:25",
+        "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-06T20:16:49.083017+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
         "title": "US Open LIVE! Scores, updates, news, commentary, results from New York with Aryna Sabalenka, Carlos Alcaraz, Daniil Medvedev, Frances Tiafoe in action",
@@ -4737,6 +4776,45 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Is the Walker Cup golf's greatest team event? It's been making the case",
+        "link": "https://golf.com/news/walker-cup-golf-greatest-team-event/",
+        "published": "2026-09-06T20:05:30+00:00",
+        "published_label": "Sun 06 Sep, 20:05",
+        "summary": "The Walker Cup is in a great spot to become golf's greatest team event, because it’s all about the golfers, the golf and the host courses. The post Is the Walker Cup golf’s greatest team event? It’s been making the case appeared first on Golf .",
+        "body": "Did you watch this Walker Cup at Lahinch, in Ireland? Maybe you were one of the 8,000 or so people on hand, watching up close. (Single-day tickets were about $50; kids were free.) Maybe you were watching on Golf Channel, with the American Curtis Cup star Emilia Migliaccio Doran and the former GB&I Walker Cup player Paul McGinley presiding. Poor McGinley, about the most refreshing voice in golf broadcasting today and an Irishman’s Irishman. He must be worn out. He was wearing his big heart on his green sleeve as he practically begged the home 10 to scratch out this half-point or that one.\n\nIn the end, his prayers were answered. In this 51st edition of the Walker Cup, the two-day event that unfolds with stunning speed, Great Britain and Ireland defeated a stacked American team, 13.5 to 12.5. Sunday afternoon, in the decisive singles play, GB&I won seven matches, halved two and lost one. GB&I won the event for the first time since 2015. It was amazing.",
+        "copy": "Did you watch this Walker Cup at Lahinch, in Ireland? Maybe you were one of the 8,000 or so people on hand, watching up close. (Single-day tickets were about $50; kids were free.) Maybe you were watching on Golf Channel, with the American Curtis Cup star Emilia Migliaccio Doran and the former GB&I Walker Cup player Paul McGinley presiding. Poor McGinley, about the most refreshing voice in golf broadcasting today and an Irishman’s Irishman. He must be worn out. He was wearing his big heart on his green sleeve as he practically begged the home 10 to scratch out this half-point or that one.\n\nIn the end, his prayers were answered. In this 51st edition of the Walker Cup, the two-day event that unfolds with stunning speed, Great Britain and Ireland defeated a stacked American team, 13.5 to 12.5. Sunday afternoon, in the decisive singles play, GB&I won seven matches, halved two and lost one. GB&I won the event for the first time since 2015. It was amazing.",
+        "first_seen": "2026-09-06T20:16:49.083017+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How to hit better bunker shots: A complete guide to mastering the sand",
+        "link": "https://golf.com/instruction/bunker-shots/how-to-hit-better-bunker-shots-top-100-sessions/",
+        "published": "2026-09-06T19:17:35+00:00",
+        "published_label": "Sun 06 Sep, 19:17",
+        "summary": "In the first episode of Top 100 Sessions, David Armitage gives a masterclass on how to become a better bunker player. The post How to hit better bunker shots: A complete guide to mastering the sand appeared first on Golf .",
+        "body": "There are few people in golf who know the bunker game better than David Armitage. He coaches all aspects of the game, but the sand is his specialty. “I am the only guy that is dumb enough to write 144 pages about how to get out of bunkers,” he says.\n\nFor most golfers, bunkers are a source of anxiety — a place to be avoided at all costs. For Armitage, the bunker is his happy place. And he wants it to be the same for his students.",
+        "copy": "There are few people in golf who know the bunker game better than David Armitage. He coaches all aspects of the game, but the sand is his specialty. “I am the only guy that is dumb enough to write 144 pages about how to get out of bunkers,” he says.\n\nFor most golfers, bunkers are a source of anxiety — a place to be avoided at all costs. For Armitage, the bunker is his happy place. And he wants it to be the same for his students.",
+        "first_seen": "2026-09-06T20:16:49.083017+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Team GB&I storms back to shock the U.S. and win the Walker Cup",
+        "link": "https://golf.com/news/team-gbi-storms-back-win-walker-cup/",
+        "published": "2026-09-06T19:13:00+00:00",
+        "published_label": "Sun 06 Sep, 19:13",
+        "summary": "Team Great Britain & Ireland won seven of 10 points during Sunday Singles to complete an improbable Walker Cup comeback. The post Team GB&I storms back to shock the U.S. and win the Walker Cup appeared first on Golf .",
+        "body": "Team Great Britain and Ireland are Walker Cup champions once again — and they did so in improbable fashion. Entering the final singles session on Sunday afternoon at Lahinch Golf Club, Team USA looked to be on their way to a sixth consecutive victory in the biennial team competition as they held a 9.5 to 6.5 advantage. However, thanks to a historic final session that saw GB&I win seven of the available 10 points, the team from across the pond completed the comeback for a 13.5 to 12.5 victory.\n\n“I believed in the team the whole time,” said GB&I captain Dean Robertson. “I’m so proud of them. Just so special.” After Team USA swept the morning foursomes session, the three-point lead entering the final session looked all but insurmountable. Needing seven points in the final singles session, GB&I’s margin for error was razor thin. Luckily, many of them saved their best golf for last.",
+        "copy": "Team Great Britain and Ireland are Walker Cup champions once again — and they did so in improbable fashion. Entering the final singles session on Sunday afternoon at Lahinch Golf Club, Team USA looked to be on their way to a sixth consecutive victory in the biennial team competition as they held a 9.5 to 6.5 advantage. However, thanks to a historic final session that saw GB&I win seven of the available 10 points, the team from across the pond completed the comeback for a 13.5 to 12.5 victory.\n\n“I believed in the team the whole time,” said GB&I captain Dean Robertson. “I’m so proud of them. Just so special.” After Team USA swept the morning foursomes session, the three-point lead entering the final session looked all but insurmountable. Needing seven points in the final singles session, GB&I’s margin for error was razor thin. Luckily, many of them saved their best golf for last.",
+        "first_seen": "2026-09-06T20:16:49.083017+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -6335,19 +6413,6 @@
         "body": "A large portion of the FedEx Cup bonus money was paid out after last week’s BMW Championship, with World No. 1 Scottie Scheffler taking home $23 million by securing the top spot.\n\nBut while that chunk of the FedEx Cup bonus money had already been dolled out, there was still a large pot of money to play for at this week’s Tour Championship at East Lake Golf Club in Atlanta, along with the FedEx Cup trophy.",
         "copy": "A large portion of the FedEx Cup bonus money was paid out after last week’s BMW Championship, with World No. 1 Scottie Scheffler taking home $23 million by securing the top spot.\n\nBut while that chunk of the FedEx Cup bonus money had already been dolled out, there was still a large pot of money to play for at this week’s Tour Championship at East Lake Golf Club in Atlanta, along with the FedEx Cup trophy.",
         "first_seen": "2026-08-31T12:37:19.414638+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Never gave up': LPGA legend's emotional goodbye week ended with a message",
-        "link": "https://golf.com/news/lpga-legend-emotional-goodbye-message/",
-        "published": "2026-08-30T19:42:56+00:00",
-        "published_label": "Sun 30 Aug, 19:42",
-        "summary": "Anna Nordqvist's competitive career ended at the FM Championship. After a finishing par, she delivered a message. The post ‘Never gave up’: LPGA legend’s emotional goodbye week ended with a message appeared first on Golf .",
-        "body": "Anna Nordqvist has always been wired to compete. You don’t win 16 times worldwide, including three majors, and make nine Solheim Cup teams without loving the grind and the fight. So, even as the 39-year-old, who announced Wednesday that she’d be retiring from competitive golf after this week’s FM Championship, was playing the final holes of a legendary career, she could only think about one thing.\n\n“I’m a competitor. I don’t know how the putt doesn’t go in on eight or how the putt doesn’t go in on the last hole,” Nodqvist said on Sunday after shooting a final-round even-par 72 to finish T38.",
-        "copy": "Anna Nordqvist has always been wired to compete. You don’t win 16 times worldwide, including three majors, and make nine Solheim Cup teams without loving the grind and the fight. So, even as the 39-year-old, who announced Wednesday that she’d be retiring from competitive golf after this week’s FM Championship, was playing the final holes of a legendary career, she could only think about one thing.\n\n“I’m a competitor. I don’t know how the putt doesn’t go in on eight or how the putt doesn’t go in on the last hole,” Nodqvist said on Sunday after shooting a final-round even-par 72 to finish T38.",
-        "first_seen": "2026-08-31T12:37:19.414638+00:00"
       }
     ],
     "Badminton": [
@@ -6441,6 +6506,19 @@
         "body": "Sumire Nakade and Miyu Takahashi needed just one shot at the HSBC BWF World Tour Super 750 level to make history. The Japanese women’s pair continued their remarkable debut season at LI-NING China Masters 2026, beating fellow Super 750 debutants Bao Li Jing/Cao Zi Han 21-18 21-18 to claim their first title at this level.\n\n“It feels unbelievable,” the 22-year-old Nakade said after the breakthrough triumph, while Takahashi, 24, admitted she was “very happy” despite a “tense final”. The victory adds another chapter to a sublime run for the pair, who have lost just twice since winning their first HSBC BWF World Tour event at the Orleans Masters in March. They have since lifted the US and Taipei Open titles, making it four victories from six World Tour tournaments.",
         "copy": "Sumire Nakade and Miyu Takahashi needed just one shot at the HSBC BWF World Tour Super 750 level to make history. The Japanese women’s pair continued their remarkable debut season at LI-NING China Masters 2026, beating fellow Super 750 debutants Bao Li Jing/Cao Zi Han 21-18 21-18 to claim their first title at this level.\n\n“It feels unbelievable,” the 22-year-old Nakade said after the breakthrough triumph, while Takahashi, 24, admitted she was “very happy” despite a “tense final”. The victory adds another chapter to a sublime run for the pair, who have lost just twice since winning their first HSBC BWF World Tour event at the Orleans Masters in March. They have since lifted the US and Taipei Open titles, making it four victories from six World Tour tournaments.",
         "first_seen": "2026-09-06T14:53:51.172260+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "China Masters: Super 750 Glory at First Asking",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2xtakpUZFJXYmNRWGxhd3ZWTlA0TU84dDRZUHY4RzBPWlBBZGZram9ZY29CbHE3OFJZUHdEMXpZWFlaOWZBbE1kXzBIbERzNThLT050UVpINmdRR1dwZnJPSTNkN1pFZGhyWmNIbjZRcXdwU1dqeFQ5UUJ1MkV5QnBrSXNRY2RrQVJBTzVVVV9iOFNySmdvSl9FZlhMNXJUNE92WmxMNGtHZw?oc=5",
+        "published": "2026-09-06T10:35:19+00:00",
+        "published_label": "Sun 06 Sep, 10:35",
+        "summary": "China Masters: Super 750 Glory at First Asking BWF World Tour",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-09-06T20:16:49.083017+00:00"
       },
       {
         "section": "Badminton",
@@ -7083,5 +7161,5 @@
       }
     ]
   },
-  "total": 543
+  "total": 549
 }
