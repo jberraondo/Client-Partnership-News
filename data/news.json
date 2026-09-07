@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T11:30:54.627901+00:00",
-  "generated_label": "Monday 07 September 2026, 11:30 UTC",
+  "generated_at": "2026-09-07T13:37:51.590278+00:00",
+  "generated_label": "Monday 07 September 2026, 13:37 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "Shorts: Team GB, Bristol City Women, Stockport County",
+        "link": "https://sportindustry.co.uk/sports-categories/olympic-games/team-gb-has-expanded-commercial-activity-around-the-road-to-los-angeles-2028/",
+        "published": "2026-09-07T11:32:11+00:00",
+        "published_label": "Mon 07 Sep, 11:32",
+        "summary": "Team GB has expanded commercial activity around the road to Los Angeles 2028, with Virgin Atlantic signing as its official airline partner and Vauxhall naming four athletes as brand ambassadors. Virgin Atlantic will serve as official airline partner of both Team GB and ParalympicsGB for the 2028 Olympic and Paralympic Games, while Virgin Atlantic Holidays […] The post Shorts: Team GB, Bristol City Women, Stockport County appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "Team GB has expanded commercial activity around the road to Los Angeles 2028, with Virgin Atlantic signing as its official airline partner and Vauxhall naming four athletes as brand ambassadors. Virgin Atlantic will serve as official airline partner of both Team GB and ParalympicsGB for the 2028 Olympic and Paralympic Games, while Virgin Atlantic Holidays […] The post Shorts: Team GB, Bristol City Women, Stockport County appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -76,6 +89,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-07T11:30:54.627901+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "High prices at the pump drive home cost concerns in US toss-up district",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVpMVGxIamZ6SURzSFBva2FfVGU3alc5R0p2Uk94SkZPYWVMZnh6bEhNSHVzWWtTVzRSOGVvOEtqU0QzeThURmxXNGg1VEt3WW45WUxMVjZhekN6bGxZWWxWTC1fRmhHbThubVhHNHRkazI3c01pT1E3em9CZEgtZXhyd0o?oc=5",
+        "published": "2026-09-07T10:00:10+00:00",
+        "published_label": "Mon 07 Sep, 10:00",
+        "summary": "High prices at the pump drive home cost concerns in US toss-up district Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1389,22 +1415,100 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-08-31T19:51:55.929149+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "How climate volatility shakes up companies’ earnings too",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTjFBbkxHRk5qUF9yNldnaXU4czZ6eVkzR1QzVmc0UGRHQnI0RDFEaU42QVVTcDRwOGs5VEhVa0hCc0wxSWxWdE5Pa2RtSV94QXhWT2NFTE5zZ0JVTmktc01hdTBYSEVlX1VPYTg4eWQ3REpjYjFpNFB1WHVYQjJPSkpNVUc?oc=5",
-        "published": "2026-08-31T12:50:13+00:00",
-        "published_label": "Mon 31 Aug, 12:50",
-        "summary": "How climate volatility shakes up companies’ earnings too Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-01T11:03:56.646187+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Henry Pollock contract call a win for everyone – Andy Goode",
+        "link": "https://www.rugbypass.com/news/new-pollock-contract-represents-a-win-for-everyone-andy-goode/",
+        "published": "2026-09-07T13:32:31+00:00",
+        "published_label": "Mon 07 Sep, 13:32",
+        "summary": "Henry Pollock’s new contract at Northampton represents a win for everyone, even if it might not be worth the million pound a year that Eddie Hearn was after.",
+        "body": "Henry Pollock’s new contract at Northampton represents a win for everyone, even if it might not be worth the million pounds a year that Eddie Hearn was after. Let’s face it, the reported Newcastle offer came about because I don’t think anyone expects him to move abroad at his age and they’re the only club in the PREM who could offer him anywhere near that amount of money.\n\nPollock wants to win things, develop his own game and make an even bigger impression on the international stage though, as well as earning as much as possible along the way, and there’s absolutely no doubt that Saints is the right place for him.",
+        "copy": "Henry Pollock’s new contract at Northampton represents a win for everyone, even if it might not be worth the million pounds a year that Eddie Hearn was after. Let’s face it, the reported Newcastle offer came about because I don’t think anyone expects him to move abroad at his age and they’re the only club in the PREM who could offer him anywhere near that amount of money.\n\nPollock wants to win things, develop his own game and make an even bigger impression on the international stage though, as well as earning as much as possible along the way, and there’s absolutely no doubt that Saints is the right place for him.",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "How the unplanned arrival of Manie Libbok turned the green and gold tide against New Zealand",
+        "link": "https://www.rugbypass.com/plus/how-the-unplanned-arrival-of-manie-libbok-turned-the-green-and-gold-tide-against-new-zealand/",
+        "published": "2026-09-07T13:32:23+00:00",
+        "published_label": "Mon 07 Sep, 13:32",
+        "summary": "The fly-half entered the fray after Cheslin Kolbe broke his jaw, and turned the Springboks from ball winners to ball users against the All Blacks.",
+        "body": "A traditional proverb: “better to be lucky than good”. Even at the elite level of sporting performance, where every ‘i’ is dotted and every ‘t’ is crossed, sometimes you need to catch a lucky break for all the preparation to count. Life can be that simple.\n\nAs the American crooner Frank Sinatra once observed, “people often remark I’m pretty lucky. Luck is only important insofar as getting the chance to sell yourself at the right moment. After that, you’ve got to have talent and know how to use it.”",
+        "copy": "A traditional proverb: “better to be lucky than good”. Even at the elite level of sporting performance, where every ‘i’ is dotted and every ‘t’ is crossed, sometimes you need to catch a lucky break for all the preparation to count. Life can be that simple.\n\nAs the American crooner Frank Sinatra once observed, “people often remark I’m pretty lucky. Luck is only important insofar as getting the chance to sell yourself at the right moment. After that, you’ve got to have talent and know how to use it.”",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Where does PREM Cup points-fest rank in rugby's highest-scoring matches?",
+        "link": "https://www.rugbypass.com/news/where-does-prem-cup-points-fest-rank-in-rugbys-highest-scoring-matches/",
+        "published": "2026-09-07T13:20:26+00:00",
+        "published_label": "Mon 07 Sep, 13:20",
+        "summary": "It was a truly remarkable opening weekend of the PREM Rugby Cup, with an aggregate of 365 points scored across the four matches.",
+        "body": "It was a truly remarkable opening weekend of the PREM Rugby Cup, with an aggregate of 365 points scored across the four matches. On any other weekend, the point-a-minute, 43-40 thriller between Bristol and Gloucester, won by the Bears, would have likely eclipsed all others as a free-for-all.\n\nBut at the same time as they were going at each other hammer and tongs in the west, Saracens and Northampton served up a scoreline that was barely believable. Twenty tries were scored – 14 to Saracens and six to Northampton – with young Jack Bracken claiming a nine-minute hat-trick.",
+        "copy": "It was a truly remarkable opening weekend of the PREM Rugby Cup, with an aggregate of 365 points scored across the four matches. On any other weekend, the point-a-minute, 43-40 thriller between Bristol and Gloucester, won by the Bears, would have likely eclipsed all others as a free-for-all.\n\nBut at the same time as they were going at each other hammer and tongs in the west, Saracens and Northampton served up a scoreline that was barely believable. Twenty tries were scored – 14 to Saracens and six to Northampton – with young Jack Bracken claiming a nine-minute hat-trick.",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Son of World Cup winner replaces Archie McParland in England camp",
+        "link": "https://www.rugbypass.com/news/son-of-world-cup-winner-replaces-archie-mcparland-in-england-camp/",
+        "published": "2026-09-07T12:24:35+00:00",
+        "published_label": "Mon 07 Sep, 12:24",
+        "summary": "Charlie Bracken, son of RWC 2003 winner and fellow scrum-half Kyran, has been called into this week's three-day alignment camp.",
+        "body": "Charlie Bracken, son of RWC 2003 winner and fellow scrum-half Kyran, has been called into England’s three-day alignment camp after Archie McParland was forced to withdraw due to illness.\n\nBracken, 22, was a regular starter for England U20s in 2022 and 2023 and is now on Steve Borthwick’s radar for the senior team. He has played just over 50 games for Saracens since making his debut in the 2021/22 season, having spent some time on loan at Ampthill in the Champ.",
+        "copy": "Charlie Bracken, son of RWC 2003 winner and fellow scrum-half Kyran, has been called into England’s three-day alignment camp after Archie McParland was forced to withdraw due to illness.\n\nBracken, 22, was a regular starter for England U20s in 2022 and 2023 and is now on Steve Borthwick’s radar for the senior team. He has played just over 50 games for Saracens since making his debut in the 2021/22 season, having spent some time on loan at Ampthill in the Champ.",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Hosts South Africa and Canada crowned rugby sevens kings and queens",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnFjS21NcWItcE9xWHVHWWl0V3dEbDdGeFV0dzZqelpyMmhDOWtHQXp2cDQxZ2dQTTRmX1BsN25WQWhpVUhveHdycy1vdW5PaDF3cmJXZG42RXdUbzFPd3llWXh3SzZyelRxS2RTZVhhcDc0cDdONkdNX19aUm5ETFpvOHFoMGRaQm1qbVQ5bTVqQWtkeDJIR3VFZWNJOURiVWc?oc=5",
+        "published": "2026-09-07T11:54:26+00:00",
+        "published_label": "Mon 07 Sep, 11:54",
+        "summary": "Hosts South Africa and Canada crowned rugby sevens kings and queens FISU",
+        "body": "The Danie Craven stadium was buzzing with excitement as the finals of the FISU World University Championship Rugby Sevens Championship saw home team South Africa take down Uganda in a thrilling match that ended 34-7 while an emphatic Canada side beat France 20-0 in the women’s final.\n\nSpectators from various countries filled the stands with rugby lovers, young fans and student-athletes waiting to witness who will be crowned champions in 2026. The atmosphere was filled with anticipation, and the rugby action did not disappoint.",
+        "copy": "The Danie Craven stadium was buzzing with excitement as the finals of the FISU World University Championship Rugby Sevens Championship saw home team South Africa take down Uganda in a thrilling match that ended 34-7 while an emphatic Canada side beat France 20-0 in the women’s final.\n\nSpectators from various countries filled the stands with rugby lovers, young fans and student-athletes waiting to witness who will be crowned champions in 2026. The atmosphere was filled with anticipation, and the rugby action did not disappoint.",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'You have to keep re-inventing yourself each year': Christian Wade",
+        "link": "https://www.rugbypass.com/news/you-have-to-keep-re-inventing-yourself-each-year-christian-wade/",
+        "published": "2026-09-07T11:41:47+00:00",
+        "published_label": "Mon 07 Sep, 11:41",
+        "summary": "The Newcastle Red Bulls flyer has touched down 95 times in the PREM.",
+        "body": "Christian Wade is determined to enjoy becoming the highest try-scorer in PREM history if he eventually passes Chris Ashton, knowing it might not be long before someone comes along and knocks him off the top spot.\n\nThe Newcastle Red Bulls flyer has touched down 95 times in the PREM and is six short of Ashton’s mark, which he would likely have passed long ago but for spells in the NFL, France and Rugby League.",
+        "copy": "Christian Wade is determined to enjoy becoming the highest try-scorer in PREM history if he eventually passes Chris Ashton, knowing it might not be long before someone comes along and knocks him off the top spot.\n\nThe Newcastle Red Bulls flyer has touched down 95 times in the PREM and is six short of Ashton’s mark, which he would likely have passed long ago but for spells in the NFL, France and Rugby League.",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Camborne impress in opening game in National One",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cy0zwqk2kk7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-07T11:27:36+00:00",
+        "published_label": "Mon 07 Sep, 11:27",
+        "summary": "Camborne are capable of taking on the top teams in National One after winning their first game since promotion, says coach Ricky Pellow.",
+        "body": "Camborne are capable of taking on the top teams in National One after winning their first game since promotion, says coach Ricky Pellow. The Cornish side came back from 29-14 down at half time to run out 38-36 winners at Leeds Tykes to begin their campaign in the third tier with a bonus-point victory.\n\nBen Priddey scored two tries, while Josh Matavesi, Alex Ducker and Ben Prisk also scored as full-back Rory O'Kane scored the decisive penalty late on. \"You look at the age of the squad, and there's a lot of young players in there that have played their first game for the club and also Nat One, so they're going to learn a lot,\" Camborne sporting director and former Exeter skills coach Pellow told BBC Radio Cornwall.",
+        "copy": "Camborne are capable of taking on the top teams in National One after winning their first game since promotion, says coach Ricky Pellow. The Cornish side came back from 29-14 down at half time to run out 38-36 winners at Leeds Tykes to begin their campaign in the third tier with a bonus-point victory.\n\nBen Priddey scored two tries, while Josh Matavesi, Alex Ducker and Ben Prisk also scored as full-back Rory O'Kane scored the decisive penalty late on. \"You look at the age of the squad, and there's a lot of young players in there that have played their first game for the club and also Nat One, so they're going to learn a lot,\" Camborne sporting director and former Exeter skills coach Pellow told BBC Radio Cornwall.",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3601,71 +3705,6 @@
         "body": "Only one week after climbing to No.1 in the World Rugby Men’s Rankings, the All Blacks were removed from their lofty perch by South Africa as a result of the Springboks’ 33-26 win in Cape Town in the second Test of the Rugby’s Greatest Rivalry series.\n\nIn falling from grace so swiftly, they became only the fifth team in the 23-year history of the rankings to have the very briefest of stays as the world’s best team. Not that Dave Rennie cares a jot, he’s publicly said so.",
         "copy": "Only one week after climbing to No.1 in the World Rugby Men’s Rankings, the All Blacks were removed from their lofty perch by South Africa as a result of the Springboks’ 33-26 win in Cape Town in the second Test of the Rugby’s Greatest Rivalry series.\n\nIn falling from grace so swiftly, they became only the fifth team in the 23-year history of the rankings to have the very briefest of stays as the world’s best team. Not that Dave Rennie cares a jot, he’s publicly said so.",
         "first_seen": "2026-08-31T15:16:31.758016+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "World Rugby statement: November's Nations Cup fixtures",
-        "link": "https://www.rugbypass.com/news/world-rugby-confirm-novembers-nations-cup-fixtures/",
-        "published": "2026-08-31T13:25:43+00:00",
-        "published_label": "Mon 31 Aug, 13:25",
-        "summary": "World Rugby has confirmed the fixture schedule for the second phase of the inaugural Nations Cup, with 18 matches to be played across Europe and Hong Kong between November 6 and 21.",
-        "body": "World Rugby has confirmed the fixture schedule for the second phase of the inaugural Nations Cup, with 18 matches to be played across Europe and Hong Kong between November 6 and 21.\n\nPool A consists of Canada, Chile, Samoa, Tonga, Uruguay and the USA. Pool B includes Georgia, Hong Kong China, Portugal, Romania, Spain and Zimbabwe. Teams play every nation from the opposite pool across the two international windows. At the conclusion of the six-round schedule, the team finishing top of each pool will be crowned inaugural Nations Cup champions.",
-        "copy": "World Rugby has confirmed the fixture schedule for the second phase of the inaugural Nations Cup, with 18 matches to be played across Europe and Hong Kong between November 6 and 21.\n\nPool A consists of Canada, Chile, Samoa, Tonga, Uruguay and the USA. Pool B includes Georgia, Hong Kong China, Portugal, Romania, Spain and Zimbabwe. Teams play every nation from the opposite pool across the two international windows. At the conclusion of the six-round schedule, the team finishing top of each pool will be crowned inaugural Nations Cup champions.",
-        "first_seen": "2026-08-31T15:16:31.758016+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Where does Cheslin Kolbe rank in the elite goalkicking wingers' club?",
-        "link": "https://www.rugbypass.com/news/where-does-cheslin-kolbe-rank-in-the-elite-goalkicking-wingers-club/",
-        "published": "2026-08-31T13:00:49+00:00",
-        "published_label": "Mon 31 Aug, 13:00",
-        "summary": "Cheslin Kolbe has been perfect from the kicking tee during Rugby's Greatest Rivalry series with New Zealand, nailing four from four in the first Test and seven from seven in the second",
-        "body": "Cheslin Kolbe has been perfect from the kicking tee during Rugby’s Greatest Rivalry series with New Zealand, nailing four from four in the first Test and seven from seven in the second. Not bad for a player who’d only been a bit-part Test goalkicker up until then.\n\nDue to the presence of Handrè Pollard and Sacha Feinberg-Mngomezulu in the team, Kolbe did not take a single shot at goal in 2024 and 2025, and was only called upon seven times during the southern hemisphere section of this year’s Nations Championship (succeeding with five kicks). That said, he has found his rhythm with his club Suntory Sungoliath in Japan’s Rugby League One, finishing this season as top points scorer",
-        "copy": "Cheslin Kolbe has been perfect from the kicking tee during Rugby’s Greatest Rivalry series with New Zealand, nailing four from four in the first Test and seven from seven in the second. Not bad for a player who’d only been a bit-part Test goalkicker up until then.\n\nDue to the presence of Handrè Pollard and Sacha Feinberg-Mngomezulu in the team, Kolbe did not take a single shot at goal in 2024 and 2025, and was only called upon seven times during the southern hemisphere section of this year’s Nations Championship (succeeding with five kicks). That said, he has found his rhythm with his club Suntory Sungoliath in Japan’s Rugby League One, finishing this season as top points scorer",
-        "first_seen": "2026-08-31T15:16:31.758016+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'The All Blacks are asking South Africa all the questions that matter'",
-        "link": "https://www.rugbypass.com/plus/the-all-blacks-are-asking-south-africa-all-the-questions-that-matter/",
-        "published": "2026-08-31T12:52:26+00:00",
-        "published_label": "Mon 31 Aug, 12:52",
-        "summary": "The world champions maintain a vice-like grip on the set-piece, but New Zealand are hurting them in different ways as the Greatest Rivalry series hots up.",
-        "body": "A fisherman always spots another fisherman from afar. Giants in any field of human endeavour usually share the same competitive instincts and goals, but they rarely occupy the same space. There may be an unspoken recognition of the same traits and ambitions, an imperceptible tip of the hat from one bank to the other, but the river moves on swiftly and the focus returns, inevitably, to the float bobbing on the water. The next catch.\n\nThe two biggest pescadores of either era in rugby, amateur or professional, have been locked in silent combat for 105 years, with the just the occasional silent nod to the accomplishments of the other punctuating the torrential surge of the greatest rivalry. There have been seven prize World Cup catches between the two, with the last tussle between the twin titans decided by one single point in Paris.",
-        "copy": "A fisherman always spots another fisherman from afar. Giants in any field of human endeavour usually share the same competitive instincts and goals, but they rarely occupy the same space. There may be an unspoken recognition of the same traits and ambitions, an imperceptible tip of the hat from one bank to the other, but the river moves on swiftly and the focus returns, inevitably, to the float bobbing on the water. The next catch.\n\nThe two biggest pescadores of either era in rugby, amateur or professional, have been locked in silent combat for 105 years, with the just the occasional silent nod to the accomplishments of the other punctuating the torrential surge of the greatest rivalry. There have been seven prize World Cup catches between the two, with the last tussle between the twin titans decided by one single point in Paris.",
-        "first_seen": "2026-08-31T15:16:31.758016+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "‘Make no mistake’: Erasmus makes daunting prediction for All Blacks and Boks",
-        "link": "https://www.rugbypass.com/news/make-no-mistake-rassie-erasmus-lays-out-what-awaits-both-all-blacks-and-springboks/",
-        "published": "2026-08-31T11:41:38+00:00",
-        "published_label": "Mon 31 Aug, 11:41",
-        "summary": "Rassie Erasmus expects the third Test between South Africa and the All Blacks to carry an even greater edge than the opening two matches of Rugby’s Greatest Rivalry, with the series delicately poised ahead of the clash at FNB Stadium.",
-        "body": "Rassie Erasmus expects the third Test between South Africa and the All Blacks to carry an even greater edge than the opening two matches of Rugby’s Greatest Rivalry, with the series delicately poised ahead of the clash at FNB Stadium.\n\nThe Springboks and All Blacks head into the Johannesburg encounter level at one win apiece, meaning victory this weekend would give either side a 2-1 advantage before the series moves to the United States for the final Test, or provide an outright winner of the ‘South African leg’ of the series.",
-        "copy": "Rassie Erasmus expects the third Test between South Africa and the All Blacks to carry an even greater edge than the opening two matches of Rugby’s Greatest Rivalry, with the series delicately poised ahead of the clash at FNB Stadium.\n\nThe Springboks and All Blacks head into the Johannesburg encounter level at one win apiece, meaning victory this weekend would give either side a 2-1 advantage before the series moves to the United States for the final Test, or provide an outright winner of the ‘South African leg’ of the series.",
-        "first_seen": "2026-08-31T12:37:19.414638+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Facial injury denies Matías Moroni chance to join Argentina greats",
-        "link": "https://www.rugbypass.com/news/facial-injury-denies-matias-moroni-chance-to-join-argentina-greats/",
-        "published": "2026-08-31T11:39:51+00:00",
-        "published_label": "Mon 31 Aug, 11:39",
-        "summary": "Matías Moroni will have to wait until at least November to become the seventh player to win 100 caps for Argentina after being ruled out of Saturday's Test against Australia in Mendoza.",
-        "body": "Matías Moroni will have to wait until at least November to become the seventh player to win 100 caps for Argentina after being ruled out of Saturday’s Test against Australia in Mendoza.\n\nThe outside back suffered a facial injury when coming off the bench to win his 99th cap in Saturday’s 27-21 loss to the Wallabies in Jujuy. Moroni replaced inside-centre Faustino Sanchez Valarolo in the final quarter and made six tackles and a couple of carries during his time on the pitch.",
-        "copy": "Matías Moroni will have to wait until at least November to become the seventh player to win 100 caps for Argentina after being ruled out of Saturday’s Test against Australia in Mendoza.\n\nThe outside back suffered a facial injury when coming off the bench to win his 99th cap in Saturday’s 27-21 loss to the Wallabies in Jujuy. Moroni replaced inside-centre Faustino Sanchez Valarolo in the final quarter and made six tackles and a couple of carries during his time on the pitch.",
-        "first_seen": "2026-08-31T12:37:19.414638+00:00"
       }
     ],
     "Tennis": [
@@ -3694,6 +3733,19 @@
         "body": "World number four Coco Gauff says she \"can't really empathise\" with rising Filipino star Alexandra Eala because \"she has more pressure than I do\". Eala became the first Filipino to win a WTA singles title last month and has risen to 18th in the world rankings.\n\nAfter losing to Iva Jovic in the third round of the US Open, the 21-year-old got emotional when talking about the huge support she gets from the Philippines. Gauff will now meet Jovic in the fourth round and the 22-year-old American was asked if she can relate to what Eala, with whom she has played doubles, has to cope with.",
         "copy": "World number four Coco Gauff says she \"can't really empathise\" with rising Filipino star Alexandra Eala because \"she has more pressure than I do\". Eala became the first Filipino to win a WTA singles title last month and has risen to 18th in the world rankings.\n\nAfter losing to Iva Jovic in the third round of the US Open, the 21-year-old got emotional when talking about the huge support she gets from the Philippines. Gauff will now meet Jovic in the fourth round and the 22-year-old American was asked if she can relate to what Eala, with whom she has played doubles, has to cope with.",
         "first_seen": "2026-09-07T11:30:54.627901+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Ben Shelton vs Stefanos Tsitsipas | US Open highlights",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDVUQWI1eWlmb2k2M0FybG9qZUozbXBWNi0talUzZF95QmtrYzh2OWtvOVJuNC1ac3daQm52LVZPNnI5ODFDZWZ0YkFhXzM0U0ZBS0s1aVBwcTBobjJzMXdyeTQyVXcxR0d3SjhqSzVlRzNQekU0QWtFYUMya21FcUpJX1Nxa2M2bzB4Q3pTQzk0Uk5XdEJRLWZUd3RCQlp1MVlFendmQnpjdw?oc=5",
+        "published": "2026-09-07T06:04:08+00:00",
+        "published_label": "Mon 07 Sep, 06:04",
+        "summary": "Ben Shelton vs Stefanos Tsitsipas | US Open highlights Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
       },
       {
         "section": "Tennis",
@@ -4773,22 +4825,22 @@
         "body": "Katie Smith, Abigail Johnson and Dan Kiernan react to Novak Djokovic crashing out the first round of the US Open losing in five sets to Argentina's Mario Navone. What does the future look like for Djokovic and is he able to win any more tournaments as he battles an underlying illness. 0:20: Djokovic loses to Navone and gives his reaction 02:36: Dan Kiernan reacts to Djokovic's shock first round loss 05:02: Abigail Johnson analyses how Djokovic's physical suffering caused him to lose 06:48: How has Novak Djokovic's underlying illness impacted his tennis this year? 08:52: Will we see Djokovic play again this year? 14:08: Los Angeles 2028 Olympics could be a farewell event from the sport for Djokovic 15:52: Which slam would Djokovic want to retire at, if any?",
         "copy": "Katie Smith, Abigail Johnson and Dan Kiernan react to Novak Djokovic crashing out the first round of the US Open losing in five sets to Argentina's Mario Navone. What does the future look like for Djokovic and is he able to win any more tournaments as he battles an underlying illness. 0:20: Djokovic loses to Navone and gives his reaction 02:36: Dan Kiernan reacts to Djokovic's shock first round loss 05:02: Abigail Johnson analyses how Djokovic's physical suffering caused him to lose 06:48: How has Novak Djokovic's underlying illness impacted his tennis this year? 08:52: Will we see Djokovic play again this year? 14:08: Los Angeles 2028 Olympics could be a farewell event from the sport for Djokovic 15:52: Which slam would Djokovic want to retire at, if any?",
         "first_seen": "2026-08-31T19:51:55.929149+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Midnight matches and money disputes",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cly7kglvn7xo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-31T13:10:24+00:00",
-        "published_label": "Mon 31 Aug, 13:10",
-        "summary": "BBC Sport explores the ongoing dispute over scheduling issues and late-night finishes at tennis' Grand Slam events.",
-        "body": "When Venus Williams was awarded a wildcard for the women's singles at the US Open, she was chosen for a primetime match slot in the first round - Sunday night, on Arthur Ashe, against compatriot Sofia Kenin in front of a home crowd for possibly the final time as a solo player.\n\nBut Williams and Kenin did not end up playing on Sunday. Instead they stepped on to court just after midnight on Monday, with Kenin completing a win in straight sets shortly after the clock struck 2am local time in New York.",
-        "copy": "When Venus Williams was awarded a wildcard for the women's singles at the US Open, she was chosen for a primetime match slot in the first round - Sunday night, on Arthur Ashe, against compatriot Sofia Kenin in front of a home crowd for possibly the final time as a solo player.\n\nBut Williams and Kenin did not end up playing on Sunday. Instead they stepped on to court just after midnight on Monday, with Kenin completing a win in straight sets shortly after the clock struck 2am local time in New York.",
-        "first_seen": "2026-08-31T15:16:31.758016+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf star the hero of Lahinch Walker Cup party after picking up huge bar tab",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41WmdBS3h4TExQYkhIYzJCNGZzZ01iZEZMQXF4TXRveWtsLUtld3UzUy13TF85ck9ZdHBDOW54S1A4ZjFKVk5KMUI0WUZKdUgyWmF2dWlBaEVIcmRCMktoaWxtRFVsakFIZHowbWt4N1FEalZSdVFpWjVUd3VlUdIBgwFBVV95cUxNMkZGNmxKb2tacDNISEQ3ZmJHNDBCOGxUMGlpSjRyTkQ2V0J4WU42aE9BTlR4OHNKSVQtZFF5WW4ycVdsTWxRWUlrejczaWIyc3Z5b2ZaSTRQb3prTUdmanAxWDI0SEZKZ2U0MTlhaWY5RzdzcGxNbXR6cmVUMm9NNW1YZw?oc=5",
+        "published": "2026-09-07T12:22:30+00:00",
+        "published_label": "Mon 07 Sep, 12:22",
+        "summary": "LIV Golf star the hero of Lahinch Walker Cup party after picking up huge bar tab Irish Mirror",
+        "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "first_seen": "2026-09-07T13:37:51.590278+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -4863,8 +4915,8 @@
         "published": "2026-09-06T20:12:58+00:00",
         "published_label": "Sun 06 Sep, 20:12",
         "summary": "Great Britain and Ireland produce the biggest comeback in Walker Cup history to defeat the United States and lift the trophy for the first time since 2015.",
-        "body": "Great Britain and Ireland produced the biggest comeback in Walker Cup history to defeat the United States and lift the trophy for the first time since 2015. At Lahinch in Ireland, the USA looked to be on the brink when they swept the morning foursomes to move just three-and-a-half points away from a sixth consecutive victory.\n\nBut GB&I picked up seven of the 10 points in the singles to clinch victory by 13-and-a-half points to 12-and-a-half and win for the first time in 11 years. Josh Hill had the winning moment as he defeated world number two Tyler Watts on the final hole of the eighth pairing, and that sparked wild celebrations to mark a victory that seemed so unlikely after Sunday morning.",
-        "copy": "Great Britain and Ireland produced the biggest comeback in Walker Cup history to defeat the United States and lift the trophy for the first time since 2015. At Lahinch in Ireland, the USA looked to be on the brink when they swept the morning foursomes to move just three-and-a-half points away from a sixth consecutive victory.\n\nBut GB&I picked up seven of the 10 points in the singles to clinch victory by 13-and-a-half points to 12-and-a-half and win for the first time in 11 years. Josh Hill had the winning moment as he defeated world number two Tyler Watts on the final hole of the eighth pairing, and that sparked wild celebrations to mark a victory that seemed so unlikely after Sunday morning.",
+        "body": "Great Britain and Ireland produced the biggest comeback in Walker Cup history to defeat the United States and lift the trophy for the first time since 2015. At Lahinch in Ireland, the USA looked to be on the brink when they swept the morning foursomes to move just three-and-a-half points away from a sixth consecutive victory.\n\nBut GB&I picked up seven of the 10 points in the singles to clinch victory by 13-and-a-half points to 12-and-a-half and win for the first time in 11 years. Josh Hill had the winning moment as he defeated world number two Tyler Watts on the final hole of the last match on the course, and that sparked wild celebrations to mark a victory that seemed so unlikely after Sunday morning.",
+        "copy": "Great Britain and Ireland produced the biggest comeback in Walker Cup history to defeat the United States and lift the trophy for the first time since 2015. At Lahinch in Ireland, the USA looked to be on the brink when they swept the morning foursomes to move just three-and-a-half points away from a sixth consecutive victory.\n\nBut GB&I picked up seven of the 10 points in the singles to clinch victory by 13-and-a-half points to 12-and-a-half and win for the first time in 11 years. Josh Hill had the winning moment as he defeated world number two Tyler Watts on the final hole of the last match on the course, and that sparked wild celebrations to mark a victory that seemed so unlikely after Sunday morning.",
         "first_seen": "2026-09-07T11:30:54.627901+00:00"
       },
       {
@@ -6348,45 +6400,6 @@
         "body": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below. Get the most important global markets news at your fingertips with a Bloomberg.com subscription.",
         "copy": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below. Get the most important global markets news at your fingertips with a Bloomberg.com subscription.",
         "first_seen": "2026-08-31T15:16:31.758016+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Report: LIV Golf’s financial crisis deepens as bankruptcy talks accelerate",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeE9HZHZHNUxSWF9zZ1AtdEMtM09obzR1cUkzYTM4aWtVYzFjakI3LU4wRjA2d2V4SUx0OVZrQUNKMTR4WE9JaFdYTVROb0tYRl90RTZuRkNndzFPMjltVWhsOVNiWUh4TVVXbTdVNnhWYVpjZ1dudmVsMXQyeXNmMEZMZFlfemxLVTRtemh0WEFyWDJ4VkVnR2VRbklQSm5kMFZHTmg5RmViOFBSVWc?oc=5",
-        "published": "2026-08-31T12:07:38+00:00",
-        "published_label": "Mon 31 Aug, 12:07",
-        "summary": "Report: LIV Golf’s financial crisis deepens as bankruptcy talks accelerate Golfmagic",
-        "body": "The Financial Times has reported that LIV Golf could seek bankruptcy protection as early as next week as the Saudi-backed circuit races to secure financing for a slimmed-down operation from 2027.\n\nAccording to people familiar with the negotiations cited by the Financial Times, LIV has begun approaching players about settlements covering guaranteed payments that extend beyond the end of the current season.",
-        "copy": "The Financial Times has reported that LIV Golf could seek bankruptcy protection as early as next week as the Saudi-backed circuit races to secure financing for a slimmed-down operation from 2027.\n\nAccording to people familiar with the negotiations cited by the Financial Times, LIV has begun approaching players about settlements covering guaranteed payments that extend beyond the end of the current season.",
-        "first_seen": "2026-08-31T15:16:31.758016+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Report: LIV Golf eyes bankruptcy filing as soon as next week",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXJzM3VSMExQaDI2cEpseFV6bVFQOTZhQWltel85QVpZWWtDZFFrM0RmNThwNmtCMF9LV0Y3UkgzN3haZ2NxWnFMMkZjNVFHZmpaVHlvY3pBc2V6dEN1OVRUamg0QktjLUlYRktwLVJ3cmRLdU1CN1N5VzhCSjBUaUZ4VTlTTGNVa29PRFAyWUVPYkJEQm9ld3ZrbnNYUDdFcWlBNnNSZW9XLXN0eUlTbW03aUNwYmhpM1E?oc=5",
-        "published": "2026-08-31T12:05:56+00:00",
-        "published_label": "Mon 31 Aug, 12:05",
-        "summary": "Report: LIV Golf eyes bankruptcy filing as soon as next week Sports Business Journal",
-        "body": "LIV Golf “may file for bankruptcy protection as soon as next week” as the circuit “races to find funding for a slimmed-down version slated for 2027,” according to sources cited by the FINANCIAL TIMES. The league “in recent days has sent settlement offers to the current LIV players who are owed millions in guaranteed payouts past 2026,” with those initial offers “at just a few cents on the dollar.” For several weeks, LIV has been “negotiating a funding package” with the credit division of private capital firm BC Partners, and BC executives have “attended recent LIV tournaments in Indiana and New Jersey to make their pitch to players.” LIV’s bankruptcy filing “may be made in the federal district court of New Jersey, a venue that is known to be friendly to debtors.” BC Partners, “while conducting due diligence, is itself waiting for LIV and PIF to resolve player payments and structure the bankruptcy terms” (FINANCIAL TIMES, 8/31).",
-        "copy": "LIV Golf “may file for bankruptcy protection as soon as next week” as the circuit “races to find funding for a slimmed-down version slated for 2027,” according to sources cited by the FINANCIAL TIMES. The league “in recent days has sent settlement offers to the current LIV players who are owed millions in guaranteed payouts past 2026,” with those initial offers “at just a few cents on the dollar.” For several weeks, LIV has been “negotiating a funding package” with the credit division of private capital firm BC Partners, and BC executives have “attended recent LIV tournaments in Indiana and New Jersey to make their pitch to players.” LIV’s bankruptcy filing “may be made in the federal district court of New Jersey, a venue that is known to be friendly to debtors.” BC Partners, “while conducting due diligence, is itself waiting for LIV and PIF to resolve player payments and structure the bankruptcy terms” (FINANCIAL TIMES, 8/31).",
-        "first_seen": "2026-08-31T12:37:19.414638+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf star enters £250k tour event",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZM1RBOUtQa1VWcE11cFdmaGFYTHRJTFpIakZiVzVhY2ctdTFpYUQ5Mk5ORTZLVGUzcDIxUjRKa3NTazhMTC1vOWdHb1hfeTI2RUY0bmxZMThtZkd0UHBKN3EyYk9IcXRXenN0VHBweWp0TjM5MGdZNk05dXRQU1U?oc=5",
-        "published": "2026-08-31T11:36:03+00:00",
-        "published_label": "Mon 31 Aug, 11:36",
-        "summary": "LIV Golf star enters £250k tour event bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. As LIV golfers look for new opportunities in the final months of the season, one of the league’s hottest prospects has entered a £250k tour event.\n\nAfter helping Jon Rahm’s outfit to a second consecutive team championship last week, Caleb Surratt is set to tee it up in much calmer waters seven days later. On Thursday, the American will make his debut on the HotelPlanner Tour in Poland at the Rosa Challenge Tour. Staged at Rosa Golf Club, in Konopiska, the event has a total purse of €300,000.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. As LIV golfers look for new opportunities in the final months of the season, one of the league’s hottest prospects has entered a £250k tour event.\n\nAfter helping Jon Rahm’s outfit to a second consecutive team championship last week, Caleb Surratt is set to tee it up in much calmer waters seven days later. On Thursday, the American will make his debut on the HotelPlanner Tour in Poland at the Rosa Challenge Tour. Staged at Rosa Golf Club, in Konopiska, the event has a total purse of €300,000.",
-        "first_seen": "2026-08-31T12:37:19.414638+00:00"
       }
     ],
     "Badminton": [
@@ -7148,5 +7161,5 @@
       }
     ]
   },
-  "total": 548
+  "total": 549
 }
