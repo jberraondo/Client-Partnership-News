@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T10:34:42.435224+00:00",
-  "generated_label": "Tuesday 08 September 2026, 10:34 UTC",
+  "generated_at": "2026-09-08T12:15:46.322406+00:00",
+  "generated_label": "Tuesday 08 September 2026, 12:15 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,58 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "BrewDog signs multi-year Leicester Tigers partnership",
+        "link": "https://sportindustry.co.uk/news-categories/news/leicester-tigers-has-named-brewdog-as-its-new-official-beer-partner/",
+        "published": "2026-09-08T11:53:59+00:00",
+        "published_label": "Tue 08 Sep, 11:53",
+        "summary": "Leicester Tigers has named BrewDog as its new beer partner in a multi-year agreement beginning with the 2026/27 season. The partnership will see BrewDog build its presence at Mattioli Woods Welford Road, alongside a programme of fan-focused initiatives, rewards and matchday activations. BrewDog replaces Everards as the club’s beer partner, although Leicester has confirmed its […] The post BrewDog signs multi-year Leicester Tigers partnership appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "Leicester Tigers has named BrewDog as its new beer partner in a multi-year agreement beginning with the 2026/27 season. The partnership will see BrewDog build its presence at Mattioli Woods Welford Road, alongside a programme of fan-focused initiatives, rewards and matchday activations. BrewDog replaces Everards as the club’s beer partner, although Leicester has confirmed its […] The post BrewDog signs multi-year Leicester Tigers partnership appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "Manchester United names SumUp as sleeve partner",
+        "link": "https://sportindustry.co.uk/sports-categories/football/manchester-united-names-sumup-as-sleeve-partner/",
+        "published": "2026-09-08T11:39:21+00:00",
+        "published_label": "Tue 08 Sep, 11:39",
+        "summary": "Manchester United has signed a multi-year partnership with global fintech company SumUp, which will become the club’s official sleeve partner. The agreement will see SumUp’s logo appear on the sleeve of Manchester United’s men’s, women’s and academy playing shirts across all competitions, beginning with the club’s return to the UEFA Champions League on Thursday. SumUp […] The post Manchester United names SumUp as sleeve partner appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "Manchester United has signed a multi-year partnership with global fintech company SumUp, which will become the club’s official sleeve partner. The agreement will see SumUp’s logo appear on the sleeve of Manchester United’s men’s, women’s and academy playing shirts across all competitions, beginning with the club’s return to the UEFA Champions League on Thursday. SumUp […] The post Manchester United names SumUp as sleeve partner appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "Shorts: Shrewsbury Town, PREM Rugby, Laura Woods",
+        "link": "https://sportindustry.co.uk/news-categories/news/an-american-consortium-has-received-approval-to-takeover-shrewsbury-town/",
+        "published": "2026-09-08T11:37:49+00:00",
+        "published_label": "Tue 08 Sep, 11:37",
+        "summary": "An American consortium has received regulatory approval for its proposed takeover of Shrewsbury Town, moving the League Two club closer to a change of ownership. The Independent Football Regulator (IFR) and English Football League (EFL) have both approved the prospective new owner, with Shrewsbury now working to finalise the remaining documentation required to complete the […] The post Shorts: Shrewsbury Town, PREM Rugby, Laura Woods appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "An American consortium has received regulatory approval for its proposed takeover of Shrewsbury Town, moving the League Two club closer to a change of ownership. The Independent Football Regulator (IFR) and English Football League (EFL) have both approved the prospective new owner, with Shrewsbury now working to finalise the remaining documentation required to complete the […] The post Shorts: Shrewsbury Town, PREM Rugby, Laura Woods appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Prem Rugby taps experienced executive Hill as new CRO",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeW9kZ0N3LXBkM3FBaU5zcnRONGtSdDlEM1F1Z3J4dGpONTA0SkdrSjBLNXRRNldxYUh4MWxpUDhZYUtVT0ZIRkhjRjl4VC0zUWIxTFdReXRHTS14LXJMNnlkay1CQlFYZmJwN3hTWVhlRHFLVWhGTzJJTjF4QnE4bE9hMUd5Rl9yVDJVaQ?oc=5",
+        "published": "2026-09-08T10:50:17+00:00",
+        "published_label": "Tue 08 Sep, 10:50",
+        "summary": "Prem Rugby taps experienced executive Hill as new CRO Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "SportsPro",
@@ -63,6 +115,19 @@
         "body": "",
         "copy": "Liverpool FC has named Turkish Airlines as its new main club partner from the 2027/28 season, ending Standard Chartered’s 17-year run as the club’s front-of-shirt sponsor. The airline will take over the prominent sponsorship position from 1 June 2027, with its branding appearing on the front of Liverpool’s men’s, women’s and Academy match shirts. The […] The post Liverpool signs Turkish Airlines as main club partner appeared first on Sport Industry Group .",
         "first_seen": "2026-09-08T10:34:42.435224+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Reading scores plummet as ‘digital distraction’ harms students",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDFoazJCZEJ4RG1abXpOT2RwRURVelNXcnBONE11b0I1UTZwSXdrRDNtQ2xvZ2pKQ3pjUkdBOWU0alduZzY2Z1d1RVE5S0FHYmJlQ0xESUVMV2FiZ09fQ1hoUWcwdDhtTno5NG5XWW9mdlprbnNjTk5sYlNaenl5N3JSb1I?oc=5",
+        "published": "2026-09-08T08:19:24+00:00",
+        "published_label": "Tue 08 Sep, 08:19",
+        "summary": "Reading scores plummet as ‘digital distraction’ harms students Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1389,87 +1454,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Shorts: Gillian Anderson, Lloyds Tour Britain, Mercury13",
-        "link": "https://sportindustry.co.uk/news-categories/news/gillian-anderson-has-invested-in-crux-football/",
-        "published": "2026-09-01T11:24:11+00:00",
-        "published_label": "Tue 01 Sep, 11:24",
-        "summary": "Gillian Anderson has invested in Crux Football, adding another high-profile name to the ownership group focused on building and investing in women’s football clubs across Europe. Crux Football was founded by former New Zealand international Bex Smith and operates a multi-club model focused exclusively on women’s football, with the aim of developing independently operated and […] The post Shorts: Gillian Anderson, Lloyds Tour Britain, Mercury13 appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Gillian Anderson has invested in Crux Football, adding another high-profile name to the ownership group focused on building and investing in women’s football clubs across Europe. Crux Football was founded by former New Zealand international Bex Smith and operates a multi-club model focused exclusively on women’s football, with the aim of developing independently operated and […] The post Shorts: Gillian Anderson, Lloyds Tour Britain, Mercury13 appeared first on Sport Industry Group .",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Sportdigital retains rights to expanded WSL for 2026-27",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVh3clZ5X1RneUp2bHdpdTB3Z1F0RVBMRnY4X09Ed29CaU1tcG1CVXIzNnp1cHUzWE93RlZYNVdtamFoSE9JRzJnSjZxRnE3N0o0Q2JwZWhXc3A2RVNkVW5ia1Z4UDdRMlptMXNLd0MweFZ4Yzh6anZJeVJqS1dGX1ZuNmlZMTR5ZnAwcEdLMA?oc=5",
-        "published": "2026-09-01T11:22:37+00:00",
-        "published_label": "Tue 01 Sep, 11:22",
-        "summary": "Sportdigital retains rights to expanded WSL for 2026-27 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Melissa Robertson to lead Think Beyond",
-        "link": "https://sportindustry.co.uk/news-categories/news/melissa-robertson-to-lead-sport-social-impact-and-sustainability-consultancy-think-beyond/",
-        "published": "2026-09-01T11:10:35+00:00",
-        "published_label": "Tue 01 Sep, 11:10",
-        "summary": "Melissa Robertson, founder of Now and former CEO of Dark Horses, is joining Think Beyond as its first CEO. The sport, social impact and sustainability consultancy is owned by Benchmark Sport Holdings. Robertson has been appointed to lead Think Beyond’s next phase of growth, expanding its capabilities and reach with brands, rights holders and sports […] The post Melissa Robertson to lead Think Beyond appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Melissa Robertson, founder of Now and former CEO of Dark Horses, is joining Think Beyond as its first CEO. The sport, social impact and sustainability consultancy is owned by Benchmark Sport Holdings. Robertson has been appointed to lead Think Beyond’s next phase of growth, expanding its capabilities and reach with brands, rights holders and sports […] The post Melissa Robertson to lead Think Beyond appeared first on Sport Industry Group .",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "How to understand the current puzzle in bonds and equities",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUXF6bjNjWEpEeHR2VWlfbVZhdkZSMnFQNWtwaU1rMm5ZLWJ3QlVYM2lTZGdZMzRzOGEtaXpNRlNoWVY0UEQ1bWFVM0o3MFJDbmFSOXUtZHJqWEZablZPSkluaEVfNUVWLTE2eC1qV0gwbXFwdHgtb0ZROUZZWlFldzZUOFQ?oc=5",
-        "published": "2026-09-01T10:57:06+00:00",
-        "published_label": "Tue 01 Sep, 10:57",
-        "summary": "How to understand the current puzzle in bonds and equities Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Crystal Palace names Molson Coors as official beer partner",
-        "link": "https://sportindustry.co.uk/news-categories/news/crystal-palace-names-molson-coors-as-official-beer-partner/",
-        "published": "2026-09-01T10:54:15+00:00",
-        "published_label": "Tue 01 Sep, 10:54",
-        "summary": "Crystal Palace has appointed Molson Coors Beverage Company as its new Official Beer Partner in a multi-year agreement beginning with the 2026/27 season. The partnership will give Molson Coors a significant presence at Selhurst Park, with its beer and cider portfolio becoming part of the club’s matchday offering. Supporters will have access to brands including […] The post Crystal Palace names Molson Coors as official beer partner appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Crystal Palace has appointed Molson Coors Beverage Company as its new Official Beer Partner in a multi-year agreement beginning with the 2026/27 season. The partnership will give Molson Coors a significant presence at Selhurst Park, with its beer and cider portfolio becoming part of the club’s matchday offering. Supporters will have access to brands including […] The post Crystal Palace names Molson Coors as official beer partner appeared first on Sport Industry Group .",
-        "first_seen": "2026-09-01T11:03:56.646187+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Veto strengthens live tennis offering with Billie Jean King Cup rights",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3V4NDNnZGk0OW05WTI1VVRWTzdpSmY0bEttQzJaVkZtMjZXQTM2TE9EbFpkY3ZxRG1mcUJMTkdjM1pzQlJYLUVSLVJjX3NoQ3o4ZzRLQjdLY1ZjRnlaLWhDVTlsZHM3cmdVZHhXcktHQk1VTWNxejNheTdVN3NqeTVrVVF3Y2kweWE4VkRSYXN4WFlqZlpKMmVGSWpyS29mNGhB?oc=5",
-        "published": "2026-09-01T10:47:37+00:00",
-        "published_label": "Tue 01 Sep, 10:47",
-        "summary": "Veto strengthens live tennis offering with Billie Jean King Cup rights Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-01T11:03:56.646187+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Quirke excited by 'new project' at Newcastle",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cy9z8e0qyqxo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-08T12:07:03+00:00",
+        "published_label": "Tue 08 Sep, 12:07",
+        "summary": "Raffi Quirke says leaving Sale Sharks was one of the hardest decisions he has had to make, but is impressed with how things are taking shape at a revamped Newcastle Red Bulls.",
+        "body": "Scrum-half Raffi Quirke says that leaving Sale Sharks was one of the hardest decisions he has ever had to make, but has been impressed with how things are taking shape at a revamped Newcastle Red Bulls.\n\nQuirke is one of 25 new arrivals at Kingston Park, with the Red Bull ownership looking to improve on a team which has finished bottom of the table for the past four seasons. The move north means stepping away from his boyhood side and familiar surroundings, but the 25-year-old is excited by the challenge of pushing Newcastle forward in a new era for the club.",
+        "copy": "Scrum-half Raffi Quirke says that leaving Sale Sharks was one of the hardest decisions he has ever had to make, but has been impressed with how things are taking shape at a revamped Newcastle Red Bulls.\n\nQuirke is one of 25 new arrivals at Kingston Park, with the Red Bull ownership looking to improve on a team which has finished bottom of the table for the past four seasons. The move north means stepping away from his boyhood side and familiar surroundings, but the 25-year-old is excited by the challenge of pushing Newcastle forward in a new era for the club.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘Fight for a place': Olympic medallist and World Cup star’s next chapter",
+        "link": "https://www.rugbypass.com/news/fight-for-a-place-olympic-medallist-and-world-cup-stars-next-chapter/",
+        "published": "2026-09-08T11:37:04+00:00",
+        "published_label": "Tue 08 Sep, 11:37",
+        "summary": "Lautaro Bazán Vélez has spent a career ticking off rugby’s biggest stages. Now, with Ultimate Sevens, a wedding and another Olympic dream ahead, he is chasing the next box on the list.",
+        "body": "Lautaro Bazán Vélez has spent a career ticking off rugby’s biggest stages. Now, with Ultimate Sevens, a wedding and another Olympic dream ahead, he is chasing the next box on the list.\n\nJunior World Rugby Championship U20: tick, tick, tick. Olympic Games: tick. Aiming for a second tick in ‘28. If ticking boxes was a sport, Lautaro Bazán Vélez would probably be up there amongst the best.",
+        "copy": "Lautaro Bazán Vélez has spent a career ticking off rugby’s biggest stages. Now, with Ultimate Sevens, a wedding and another Olympic dream ahead, he is chasing the next box on the list.\n\nJunior World Rugby Championship U20: tick, tick, tick. Olympic Games: tick. Aiming for a second tick in ‘28. If ticking boxes was a sport, Lautaro Bazán Vélez would probably be up there amongst the best.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3809,84 +3822,6 @@
         "body": "What began in 2014 as an invitational pre-season tournament aimed at giving teams from the Central and Eastern regions greater exposure has since grown into an official Kenya Rugby Union National Sevens Circuit leg, attracting some of the country’s leading rugby clubs.\n\nThe tournament will feature a strong field in the men’s Division One and Two categories, alongside a competitive women’s competition and age-grade matches designed to nurture the next generation of rugby talent.",
         "copy": "What began in 2014 as an invitational pre-season tournament aimed at giving teams from the Central and Eastern regions greater exposure has since grown into an official Kenya Rugby Union National Sevens Circuit leg, attracting some of the country’s leading rugby clubs.\n\nThe tournament will feature a strong field in the men’s Division One and Two categories, alongside a competitive women’s competition and age-grade matches designed to nurture the next generation of rugby talent.",
         "first_seen": "2026-09-02T10:34:49.913013+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'They did not see the best of me': Vainah Ubisi vows to make her mark against Black Ferns",
-        "link": "https://www.rugbypass.com/news/they-did-not-see-the-best-of-me-vainah-ubisi-vows-to-make-her-mark-against-black-ferns/",
-        "published": "2026-09-01T12:14:44+00:00",
-        "published_label": "Tue 01 Sep, 12:14",
-        "summary": "Vainah Ubisi has mixed memories of the Springboks' Women's Rugby World Cup 2025 campaign.",
-        "body": "Vainah Ubisi has mixed memories of the Springboks‘ Women’s Rugby World Cup 2025 campaign. On one hand, it was an historic occasion for South Africa as their women’s side reached the quarter-final stage of the tournament for the first time. On the other, she did not perform to the lofty standard she has set.\n\nThe 23-year-old lock, who has played in 26 Test matches already in her career, saw her preparation for last year’s Women’s Rugby World Cup curtailed by a knee injury. Instead of being utilised as a starter, Ubisi was used from the bench on three occasions. Including their quarter-final exit to the Black Ferns at Exeter’s Sandy Park.",
-        "copy": "Vainah Ubisi has mixed memories of the Springboks‘ Women’s Rugby World Cup 2025 campaign. On one hand, it was an historic occasion for South Africa as their women’s side reached the quarter-final stage of the tournament for the first time. On the other, she did not perform to the lofty standard she has set.\n\nThe 23-year-old lock, who has played in 26 Test matches already in her career, saw her preparation for last year’s Women’s Rugby World Cup curtailed by a knee injury. Instead of being utilised as a starter, Ubisi was used from the bench on three occasions. Including their quarter-final exit to the Black Ferns at Exeter’s Sandy Park.",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Tom Christie cites All Black mentors after being named Newcastle captain",
-        "link": "https://www.rugbypass.com/news/tom-christie-cites-all-black-mentors-after-being-named-newcastle-captain/",
-        "published": "2026-09-01T12:04:27+00:00",
-        "published_label": "Tue 01 Sep, 12:04",
-        "summary": "The 28-year-old Kiwi, who captained Canterbury to New Zealand’s National Provincial Championship title, scored six tries in 19 games during his first season on Tyneside.",
-        "body": "Newcastle Red Bulls have chosen abrasive flanker Tom Christie, one of their few remaining players from last season, to lead them into a new era. The 28-year-old Kiwi, who captained Canterbury to New Zealand’s National Provincial Championship title, scored six tries in 19 games during his first season on Tyneside.\n\n“It’s an exciting time for the club with everything that’s going on and being planned for the future, so to be asked to lead the team is really special,” the three-time Super Rugby winner said.",
-        "copy": "Newcastle Red Bulls have chosen abrasive flanker Tom Christie, one of their few remaining players from last season, to lead them into a new era. The 28-year-old Kiwi, who captained Canterbury to New Zealand’s National Provincial Championship title, scored six tries in 19 games during his first season on Tyneside.\n\n“It’s an exciting time for the club with everything that’s going on and being planned for the future, so to be asked to lead the team is really special,” the three-time Super Rugby winner said.",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Gallagher PREM 2026/27 squads rated: Northampton Saints",
-        "link": "https://www.rugbypass.com/news/gallagher-prem-2026-27-squads-rated-northampton-saints/",
-        "published": "2026-09-01T11:18:09+00:00",
-        "published_label": "Tue 01 Sep, 11:18",
-        "summary": "George Furbank has been lost to Harlequins and James Ramm's versatility will be missed from the back three, but otherwise Saints have a largely settled and consistent group who know each other's game inside and out.",
-        "body": "Despite missing club captain George Furbank for large chunks of the season and being hit harder by England call-ups more than most, Northampton won back the PREM trophy in 2025/26 and are short odds to be crowned champions of England for a third time in four years.\n\nSaints became the first team in PREM Rugby history to score 100 tries in the regular season and having proved you can entertain and still win, they are unlikely to deviate from their attacking style this time around.",
-        "copy": "Despite missing club captain George Furbank for large chunks of the season and being hit harder by England call-ups more than most, Northampton won back the PREM trophy in 2025/26 and are short odds to be crowned champions of England for a third time in four years.\n\nSaints became the first team in PREM Rugby history to score 100 tries in the regular season and having proved you can entertain and still win, they are unlikely to deviate from their attacking style this time around.",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Amy du Plessis: 'The game you love doesn’t always love you back'",
-        "link": "https://www.rugbypass.com/news/amy-du-plessis-the-game-you-love-doesnt-always-love-you-back/",
-        "published": "2026-09-01T11:07:43+00:00",
-        "published_label": "Tue 01 Sep, 11:07",
-        "summary": "Some of the most moving social media content at Women's Rugby World Cup 2025 featured tearful Black Ferns bidding farewell to grief-stricken centre Amy du Plessis.",
-        "body": "Some of the most moving social media content at Women’s Rugby World Cup 2025 featured tearful Black Ferns bidding farewell to grief-stricken centre Amy du Plessis. In the opening 54-8 win against Spain in York, she injured her shoulder after falling awkwardly in a tackle. She was due to return for the quarter-final agains South Africa, the country of her birth, but did not recover in time.\n\nThis weekend she has unfinished business in the historic first Test between the Black Ferns and Springbok Women at FNB Stadium in Johannesburg. “The game you love doesn’t always love you back,” Du Plessis told RugbyPass.",
-        "copy": "Some of the most moving social media content at Women’s Rugby World Cup 2025 featured tearful Black Ferns bidding farewell to grief-stricken centre Amy du Plessis. In the opening 54-8 win against Spain in York, she injured her shoulder after falling awkwardly in a tackle. She was due to return for the quarter-final agains South Africa, the country of her birth, but did not recover in time.\n\nThis weekend she has unfinished business in the historic first Test between the Black Ferns and Springbok Women at FNB Stadium in Johannesburg. “The game you love doesn’t always love you back,” Du Plessis told RugbyPass.",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Neumann joins Leicester Tigers after Quins exit",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c4gdx1dy0qwo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-01T11:01:47+00:00",
-        "published_label": "Tue 01 Sep, 11:01",
-        "summary": "Wales winger Lisa Neumann has joined Leicester Tigers ahead of the 2026-27 PWR season.",
-        "body": "Wales wing Lisa Neumann has joined Leicester Tigers for the 2026-27 Premiership Women's Rugby (PWR) season. The 32-year-old left Harlequins after two seasons this summer. Neumann scored six tries in 22 games in her first season at The Stoop, but struggled for game time last season, playing just once for the club.\n\nShe instead found minutes with Brython Thunder in the Celtic Challenge. Neumann also suffered a season-ending hamstring injury against Scotland in the first round of the 2026 Six Nations.",
-        "copy": "Wales wing Lisa Neumann has joined Leicester Tigers for the 2026-27 Premiership Women's Rugby (PWR) season. The 32-year-old left Harlequins after two seasons this summer. Neumann scored six tries in 22 games in her first season at The Stoop, but struggled for game time last season, playing just once for the club.\n\nShe instead found minutes with Brython Thunder in the Celtic Challenge. Neumann also suffered a season-ending hamstring injury against Scotland in the first round of the 2026 Six Nations.",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Wales wing set for ‘fun new chapter’ as club future confirmed",
-        "link": "https://www.rugbypass.com/news/wales-wing-set-for-fun-new-chapter-as-club-future-confirmed/",
-        "published": "2026-09-01T10:54:01+00:00",
-        "published_label": "Tue 01 Sep, 10:54",
-        "summary": "Lisa Neumann has signed for Leicester Tigers ahead of the 2026/27 JAECOO Premiership Women's Rugby campaign.",
-        "body": "Lisa Neumann has signed for Leicester Tigers ahead of the 2026/27 JAECOO Premiership Women’s Rugby campaign. The 32-year-old Wales wing joins from Harlequins after two seasons with the West London club.\n\nShe scored six tries in her first season with Ross Chisholm’s side but only made one appearance last term. Instead the majority of her game time was gained in the Celtic Challenge with Brython Thunder.",
-        "copy": "Lisa Neumann has signed for Leicester Tigers ahead of the 2026/27 JAECOO Premiership Women’s Rugby campaign. The 32-year-old Wales wing joins from Harlequins after two seasons with the West London club.\n\nShe scored six tries in her first season with Ross Chisholm’s side but only made one appearance last term. Instead the majority of her game time was gained in the Celtic Challenge with Brython Thunder.",
-        "first_seen": "2026-09-01T11:03:56.646187+00:00"
       }
     ],
     "Tennis": [
@@ -3902,6 +3837,19 @@
         "body": "It could be Carlos Alcaraz versus the United States over the next few days. The Spanish superstar's popularity at the US Open might be severely tested if he single-handedly prevents an American having the chance to become the first home men's singles champion in 23 years.\n\nThree American players - Ben Shelton, Frances Tiafoe and Alex Michelsen - remain in the draw. All three are in the same half as Alcaraz. On Tuesday, the defending champion takes on eighth seed Shelton in the quarter-finals.",
         "copy": "It could be Carlos Alcaraz versus the United States over the next few days. The Spanish superstar's popularity at the US Open might be severely tested if he single-handedly prevents an American having the chance to become the first home men's singles champion in 23 years.\n\nThree American players - Ben Shelton, Frances Tiafoe and Alex Michelsen - remain in the draw. All three are in the same half as Alcaraz. On Tuesday, the defending champion takes on eighth seed Shelton in the quarter-finals.",
         "first_seen": "2026-09-08T10:34:42.435224+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu closes in on injury comeback after 12-week absence as Brit tennis star drops major hint in latest video",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkdZVHJDVHdCb3lkUEFpR0pqUzMxVzBHT2p4VTJWTlNMWi0tTFppbjZfaklweG1sNC0yNjg4SFBHZGgteXY3eW1WZ2Z6dkJRdGpFWTROT2dFc3NrVy1tbUNGRlFVWlZQdnBZOEJBRXJhRzR6SjZma3BRcGd2Y21lcmhDUWJ2eTQ?oc=5",
+        "published": "2026-09-08T08:46:00+00:00",
+        "published_label": "Tue 08 Sep, 08:46",
+        "summary": "Emma Raducanu closes in on injury comeback after 12-week absence as Brit tennis star drops major hint in latest video The Sun",
+        "body": "EMMA RADUCANU has put her best foot forward in her recovery from long-term injury. The British tennis superstar has taken a step closer to a return to the tennis circuit after a 12-week absence.\n\nRaducanu – who is absent from the current US Open – posted online a video of her hitting a serve into an empty court at the LTA’s National Tennis Centre in south-west London. The 23-year-old captioned the video with the words “Day 4”, which implies it was the fourth day she has been back to full-time training.",
+        "copy": "EMMA RADUCANU has put her best foot forward in her recovery from long-term injury. The British tennis superstar has taken a step closer to a return to the tennis circuit after a 12-week absence.\n\nRaducanu – who is absent from the current US Open – posted online a video of her hitting a serve into an empty court at the LTA’s National Tennis Centre in south-west London. The 23-year-old captioned the video with the words “Day 4”, which implies it was the fourth day she has been back to full-time training.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
       },
       {
         "section": "Tennis",
@@ -4089,6 +4037,19 @@
         "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
+        "title": "Daniil Medvedev vs Frances Tiafoe | US Open highlights",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalJoYzh4aDdqaHZFWnRacS1hZGRMeEZ4am1meDlBbFNad1dhSDFMN3h5ODFiS0NLeVdIY1VWc0l4SUFUX0lzU0tSMGFsSHUxU1ZVeHRaUGdqOEJ6WkhKY0tpX2Joa05yM005ZWRGeGc4b0Y5azJYcEVxYkd1aDVnVXRuOV9VMWd2RDlFc3VILWZMbW9kaGxCTDR1SlNVQ1ZnVGhhQVFWOWNaZw?oc=5",
+        "published": "2026-09-06T23:23:28+00:00",
+        "published_label": "Sun 06 Sep, 23:23",
+        "summary": "Daniil Medvedev vs Frances Tiafoe | US Open highlights Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
         "title": "Carlos Alcaraz sets up match point with stunner as Matthew McConaughey sees stars",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdG41a2hEcmVsZU5yWDEyMlF1NG05U3JqQWh6Y0JmdVVocHh3cVZCMDNmc3lKbUxtaGJhcTA1R21HTG1DNTIzelFvTlhJOHphQWFPT0EwTFYzOG1xTHBacTJyNmNEaE1DMzZqbXpEZ3BKME82M3N1aHFHbEQ2TEVoLW8xZjMwSVJuRnlWbG1pYXRzX3BtUE55WmdqVVlBbWRaMmhpQnAyRnBXRVVLUjkwWGRJT1FNalJVWVZJUWl4VTB2TkpUb21pMF9Dd3ZNZ0F5?oc=5",
         "published": "2026-09-06T21:30:40+00:00",
@@ -4097,6 +4058,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-07T11:30:54.627901+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Tommy Paul vs Carlos Alcaraz | US Open highlights",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejFOQi1tUm5EWjRyTy1mNGVFckZWbHN1QjhKTFBZUEREck1nM2ZrZzBnUFR3b2YzOTJuX1JOWHFQcEE3SlBzRHpKTlUyc1NyaHRDazlPX01HdWp5MzBtakt4dnFLanozV29VV3A3Y2R0eHNBeDZoVVJfa3ZZbjcwZVBadFRjLUh5NDZQNUF4Q1pRRTh6RklJZFdFUXNGVlNnSktv?oc=5",
+        "published": "2026-09-06T20:55:05+00:00",
+        "published_label": "Sun 06 Sep, 20:55",
+        "summary": "Tommy Paul vs Carlos Alcaraz | US Open highlights Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
       },
       {
         "section": "Tennis",
@@ -4955,22 +4929,87 @@
         "body": "Fashionista or traditionalist? And who would be your deadline day tennis signing? Sky Sports Tennis discusses the best fashion so far at the US Open - and who would Ryan Harrison and Marion Bartoli sign if there was a tennis transfer deadline day?\n\nA comeback of epic proportions is unfolding on Louis Armstrong. Fifth seed Flavio Cobolli has not only overturned a two-set deficit but a break in the fifth and deciding set against Francisco Comesana.",
         "copy": "Fashionista or traditionalist? And who would be your deadline day tennis signing? Sky Sports Tennis discusses the best fashion so far at the US Open - and who would Ryan Harrison and Marion Bartoli sign if there was a tennis transfer deadline day?\n\nA comeback of epic proportions is unfolding on Louis Armstrong. Fifth seed Flavio Cobolli has not only overturned a two-set deficit but a break in the fifth and deciding set against Francisco Comesana.",
         "first_seen": "2026-09-01T19:23:12.026196+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "GB's Fery returns to Grand Slam stage",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c624q0y73glo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-01T10:48:41+00:00",
-        "published_label": "Tue 01 Sep, 10:48",
-        "summary": "Shock Wimbledon semi-finalist Arthur Fery returns to the Grand Slam stage when he faces Italy's Lorenzo Musetti at the US Open.",
-        "body": "As the top stars congregated in New York for last year's US Open, Arthur Fery was looking in from the outside. The Briton had just crept back inside the world's top 300 after winning an ATP Challenger event in Colombia and admits it was a \"bit painful\" watching players at the pinnacle of the sport.\n\nTwelve months on, the 24-year-old is rubbing shoulders with the elite at Flushing Meadows, thanks to the stunning run to the Wimbledon semi-finals which has likely changed his life forever.",
-        "copy": "As the top stars congregated in New York for last year's US Open, Arthur Fery was looking in from the outside. The Briton had just crept back inside the world's top 300 after winning an ATP Challenger event in Colombia and admits it was a \"bit painful\" watching players at the pinnacle of the sport.\n\nTwelve months on, the 24-year-old is rubbing shoulders with the elite at Flushing Meadows, thanks to the stunning run to the Wimbledon semi-finals which has likely changed his life forever.",
-        "first_seen": "2026-09-01T11:03:56.646187+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "PGA Tour denied request for LIV Golf stars to be picked for Presidents Cup",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1SGh2OWRsNjFWTkdNcDRjZ3haVWtRbHZsXzlhbDB6enpiZE1ZeTNsR2tDWWhVd0cwcGVuRnJTZkNiTGxtRFQ2b3FTTC02cGNkVjJOTkZFOXRjZ0N0TlZwT3d5T1lQTFo1V0g5LXJqbjFPRHJ2U004SERDcw?oc=5",
+        "published": "2026-09-08T11:45:49+00:00",
+        "published_label": "Tue 08 Sep, 11:45",
+        "summary": "PGA Tour denied request for LIV Golf stars to be picked for Presidents Cup AOL.com",
+        "body": "The PGA Tour has denied a request for international LIV Golf stars to compete in this year's Presidents Cup, shunning the likes of Cameron Smith and Lucas Herbert for the competition at Medinah later this month. International team captain Geoff Ogilvy had hoped to bolster his roster ahead of the Presidents Cup, with the team was significantly depleted since the start of LIV Golf.\n\nIt will be the third Presidents Cup since LIV Golf arrived on the scene, and the split has had a major impact on the International team. Half of the side that played at Royal Melbourne in 2019 have since moved to LIV, leaving the competition without some of the players who helped make up the International team's strongest recent line-ups.",
+        "copy": "The PGA Tour has denied a request for international LIV Golf stars to compete in this year's Presidents Cup, shunning the likes of Cameron Smith and Lucas Herbert for the competition at Medinah later this month. International team captain Geoff Ogilvy had hoped to bolster his roster ahead of the Presidents Cup, with the team was significantly depleted since the start of LIV Golf.\n\nIt will be the third Presidents Cup since LIV Golf arrived on the scene, and the split has had a major impact on the International team. Half of the side that played at Royal Melbourne in 2019 have since moved to LIV, leaving the competition without some of the players who helped make up the International team's strongest recent line-ups.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "5 great on-course looks for college football season",
+        "link": "https://golf.com/gear/golf-apparel/5-great-golf-looks-college-football-season/",
+        "published": "2026-09-08T11:24:47+00:00",
+        "published_label": "Tue 08 Sep, 11:24",
+        "summary": "College football is back, and it’s tempting to let game day take over your entire Saturday. But with most home games kicking off in the afternoon or evening, there’s still plenty of time to fit in a morning round. Better yet, fall brings some of the year’s best golf weather to many parts of the country. So why not play 18, then head to the tailgate (or the couch) with the rest of the day ahead of you? The post 5 great on-course looks for college football season appeared first on Golf .",
+        "body": "College football is back, and it’s tempting to let game day take over your entire Saturday. But with most home games kicking off in the afternoon or evening, there’s still plenty of time to fit in a morning round. Better yet, fall brings some of the year’s best golf weather to many parts of the country. So why not play 18, then head to the tailgate (or the couch) with the rest of the day ahead of you?\n\nThese five pieces from the PGA TOUR Superstore Fan Shop make it easy to show your school spirit while looking your best on the course without any loud or obnoxious logos. They combine the performance fabrics and comfortable fits you want on the course with enough school spirit to take you straight from the final green to game day, no shirt change required.",
+        "copy": "College football is back, and it’s tempting to let game day take over your entire Saturday. But with most home games kicking off in the afternoon or evening, there’s still plenty of time to fit in a morning round. Better yet, fall brings some of the year’s best golf weather to many parts of the country. So why not play 18, then head to the tailgate (or the couch) with the rest of the day ahead of you?\n\nThese five pieces from the PGA TOUR Superstore Fan Shop make it easy to show your school spirit while looking your best on the course without any loud or obnoxious logos. They combine the performance fabrics and comfortable fits you want on the course with enough school spirit to take you straight from the final green to game day, no shirt change required.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'We'll see'",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cd68g60810do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-08T11:21:01+00:00",
+        "published_label": "Tue 08 Sep, 11:21",
+        "summary": "Jon Rahm says he has become \"pretty good at dealing with turbulence\" as he remains tight-lipped on his LIV Golf future before this week's Irish Open.",
+        "body": "Jon Rahm says he has become \"pretty good at dealing with turbulence\" as he remained tight-lipped on his LIV Golf future before this week's Irish Open. LIV's prospects are uncertain following the withdrawal of financial backing from Saudi Arabia's Public Investment Fund (PIF).\n\nWhile the 2026 LIV season ended earlier than planned after the cancellation of the team championship in Detroit, Rahm's Legion XIII team-mate Tyrrell Hatton has said he expects the tour to continue next year.",
+        "copy": "Jon Rahm says he has become \"pretty good at dealing with turbulence\" as he remained tight-lipped on his LIV Golf future before this week's Irish Open. LIV's prospects are uncertain following the withdrawal of financial backing from Saudi Arabia's Public Investment Fund (PIF).\n\nWhile the 2026 LIV season ended earlier than planned after the cancellation of the team championship in Detroit, Rahm's Legion XIII team-mate Tyrrell Hatton has said he expects the tour to continue next year.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "'We'll see' - Rahm unaffected by LIV 'turbulence'",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zQlFWOGRsdVBxSmVNWC02YUhRT2VhWTNvZUhKOWs2VmlWNlpNczUwU1pWMlNBX291a3FSOUJlaG93cm9kZlExXzJLNUJmaUZXclJXbUdZZE9jMndTb0dCN0J5Ujg?oc=5",
+        "published": "2026-09-08T11:21:01+00:00",
+        "published_label": "Tue 08 Sep, 11:21",
+        "summary": "'We'll see' - Rahm unaffected by LIV 'turbulence' BBC",
+        "body": "Jon Rahm says he has become \"pretty good at dealing with turbulence\" as he remained tight-lipped on his LIV Golf future before this week's Irish Open. LIV's prospects are uncertain following the withdrawal of financial backing from Saudi Arabia's Public Investment Fund (PIF).\n\nWhile the 2026 LIV season ended earlier than planned after the cancellation of the team championship in Detroit, Rahm's Legion XIII team-mate Tyrrell Hatton has said he expects the tour to continue next year.",
+        "copy": "Jon Rahm says he has become \"pretty good at dealing with turbulence\" as he remained tight-lipped on his LIV Golf future before this week's Irish Open. LIV's prospects are uncertain following the withdrawal of financial backing from Saudi Arabia's Public Investment Fund (PIF).\n\nWhile the 2026 LIV season ended earlier than planned after the cancellation of the team championship in Detroit, Rahm's Legion XIII team-mate Tyrrell Hatton has said he expects the tour to continue next year.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Baker relishing role in Walker Cup victory",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cr50v519gv3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-08T11:07:51+00:00",
+        "published_label": "Tue 08 Sep, 11:07",
+        "summary": "Eliot Baker says helping Great Britain and Ireland win the Walker Cup still has not sunk in.",
+        "body": "Eliot Baker says helping Great Britain and Ireland win the Walker Cup still has not sunk in. The 23-year-old from Devon helped his side produce the biggest comeback in Walker Cup history to defeat the United States 13½-12½.\n\nBaker beat experienced United States player Stewart Hagestad on the final hole of his singles match as GB&I overturned a three-point deficit going into the final individual round.",
+        "copy": "Eliot Baker says helping Great Britain and Ireland win the Walker Cup still has not sunk in. The 23-year-old from Devon helped his side produce the biggest comeback in Walker Cup history to defeat the United States 13½-12½.\n\nBaker beat experienced United States player Stewart Hagestad on the final hole of his singles match as GB&I overturned a three-point deficit going into the final individual round.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "For the second-generation ZXi irons, Srixon turned to a legendary partner",
+        "link": "https://golf.com/gear/irons/srixon-turned-legendary-partner-zxi-irons/",
+        "published": "2026-09-08T10:33:33+00:00",
+        "published_label": "Tue 08 Sep, 10:33",
+        "summary": "Srixon's second-generation ZXi irons improve on the popular line with a new partnership with one of the game's legendary forging houses. The post For the second-generation ZXi irons, Srixon turned to a legendary partner appeared first on Golf .",
+        "body": "When it comes to forged irons, the name Endo Manufacturing can stop gearheads in their tracks. Srixon is counting on it with their second-generation ZXi irons. In releasing the updated line, which again includes the ZXi7, ZXi5 and ZXiU irons, along with the new ZXi5+ players distance iron, Srixon is announcing that all four irons are forged by the legendary Japanese forging house.\n\n“We’ve been working with Endo for a long time,” Srixon Senior Product Manager Casey Schultz told GOLF. “We’ve had a relationship with them in the past, but this is the first time that we’ve been able to really kind of announce the fact that every single iron is being made there.”",
+        "copy": "When it comes to forged irons, the name Endo Manufacturing can stop gearheads in their tracks. Srixon is counting on it with their second-generation ZXi irons. In releasing the updated line, which again includes the ZXi7, ZXi5 and ZXiU irons, along with the new ZXi5+ players distance iron, Srixon is announcing that all four irons are forged by the legendary Japanese forging house.\n\n“We’ve been working with Endo for a long time,” Srixon Senior Product Manager Casey Schultz told GOLF. “We’ve had a relationship with them in the past, but this is the first time that we’ve been able to really kind of announce the fact that every single iron is being made there.”",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -5113,6 +5152,19 @@
         "body": "With LIV Golf’s season complete (albeit with some last-second alterations), the league now looks to the future. Since it was announced in the spring that Saudi Arabia’s PIF would no longer invest in LIV, there have been many questions on how — or if — the league will continue into the future.\n\nWith so much uncertainty surrounding the future of the league, speculation about where the league’s biggest stars will compete in 2027 has run rampant. With a roster of stars that includes former major champions and Ryder Cup heroes, there is plenty of talent in the league that may be looking for playing opportunities elsewhere in the future.",
         "copy": "With LIV Golf’s season complete (albeit with some last-second alterations), the league now looks to the future. Since it was announced in the spring that Saudi Arabia’s PIF would no longer invest in LIV, there have been many questions on how — or if — the league will continue into the future.\n\nWith so much uncertainty surrounding the future of the league, speculation about where the league’s biggest stars will compete in 2027 has run rampant. With a roster of stars that includes former major champions and Ryder Cup heroes, there is plenty of talent in the league that may be looking for playing opportunities elsewhere in the future.",
         "first_seen": "2026-09-07T17:11:50.064532+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Where will Rahm and DeChambeau play in 2027? | Subpar",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMnBvSi1NX2FwMGlVekNHY3loYmx4aFZ2eEhHa196QmVLaTUzd0FDOV9PYlpyX0JHc01sR1BibzNva1ZjOThVa0l1dHJSTWV4Rng3VUc4ZmkybHo5UURSX09ZUzFfWm94d1RjUXNR?oc=5",
+        "published": "2026-09-07T16:12:03+00:00",
+        "published_label": "Mon 07 Sep, 16:12",
+        "summary": "Where will Rahm and DeChambeau play in 2027? | Subpar GOLF.com",
+        "body": "With LIV Golf’s season complete (albeit with some last-second alterations), the league now looks to the future. Since it was announced in the spring that Saudi Arabia’s PIF would no longer invest in LIV, there have been many questions on how — or if — the league will continue into the future.\n\nWith so much uncertainty surrounding the future of the league, speculation about where the league’s biggest stars will compete in 2027 has run rampant. With a roster of stars that includes former major champions and Ryder Cup heroes, there is plenty of talent in the league that may be looking for playing opportunities elsewhere in the future.",
+        "copy": "With LIV Golf’s season complete (albeit with some last-second alterations), the league now looks to the future. Since it was announced in the spring that Saudi Arabia’s PIF would no longer invest in LIV, there have been many questions on how — or if — the league will continue into the future.\n\nWith so much uncertainty surrounding the future of the league, speculation about where the league’s biggest stars will compete in 2027 has run rampant. With a roster of stars that includes former major champions and Ryder Cup heroes, there is plenty of talent in the league that may be looking for playing opportunities elsewhere in the future.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
       },
       {
         "section": "Golf",
@@ -6478,32 +6530,6 @@
         "body": "The 2026 Walker Cup, the biennial event pitting 10 top American amateurs against 10 amateurs from Great Britain and Ireland, begins this week at Lahinch Golf Club in Ireland. Here’s everything you need to know to watch the amateur team event, including a full Walker Cup TV schedule, complete streaming information and more.\n\nIf you feel like you just watched the Walker Cup, you’re not mistaken. Typically contested every two years, this year’s tournament is being played one year after the 2025 Walker Cup at Cypress Point in California.",
         "copy": "The 2026 Walker Cup, the biennial event pitting 10 top American amateurs against 10 amateurs from Great Britain and Ireland, begins this week at Lahinch Golf Club in Ireland. Here’s everything you need to know to watch the amateur team event, including a full Walker Cup TV schedule, complete streaming information and more.\n\nIf you feel like you just watched the Walker Cup, you’re not mistaken. Typically contested every two years, this year’s tournament is being played one year after the 2025 Walker Cup at Cypress Point in California.",
         "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "5 polos on sale that you should grab before they're gone",
-        "link": "https://golf.com/gear/golf-apparel/5-polos-grab-sale-before-theyre-gone/",
-        "published": "2026-09-01T11:21:40+00:00",
-        "published_label": "Tue 01 Sep, 11:21",
-        "summary": "Just remember, a good polo should stay comfortable through all 18 holes and still look sharp afterward. These five discounted picks from PGA TOUR Superstore range from lightweight performance shirts to polished, lifestyle-ready designs, with some marked down in a big way. The post 5 polos on sale that you should grab before they’re gone appeared first on Golf .",
-        "body": "Wait, is golf season really winding down? In much of the country, September signals the beginning of the end (soon, but not yet). Elsewhere, fall is when the season truly gets started. Lucky!\n\nGolfers in warm-weather states know the routine: take a short break during overseeding, then gear up for sun-soaked rounds throughout fall, winter and spring. It’s also the perfect time to score end-of-summer deals, especially on golf polos.",
-        "copy": "Wait, is golf season really winding down? In much of the country, September signals the beginning of the end (soon, but not yet). Elsewhere, fall is when the season truly gets started. Lucky!\n\nGolfers in warm-weather states know the routine: take a short break during overseeding, then gear up for sun-soaked rounds throughout fall, winter and spring. It’s also the perfect time to score end-of-summer deals, especially on golf polos.",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Sky Sports Golf Podcast: How does the future for LIV golf?",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0l4ZTgyT09JeUYwSVdUb3FyMFFBam1WMXdWUjlfSlZYb0lCanZvNmpZWGhtZUtOVE0wYURjcldNajg0M25aSmszTy1iRTNZMUEya0IzT0QyTVZUT1pITnlCSTJHZU9NTy1uNmhkV1lfbmNIMnVLYVpJX3c4djlaMmNtVlBhZ1AxMGdSamZXOVdmUzU4YnE0TG5uVWRRZkNRajhNaTVsZzdsV2FL?oc=5",
-        "published": "2026-09-01T10:54:03+00:00",
-        "published_label": "Tue 01 Sep, 10:54",
-        "summary": "Sky Sports Golf Podcast: How does the future for LIV golf? Sky Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-01T11:03:56.646187+00:00"
       }
     ],
     "Badminton": [
@@ -7104,45 +7130,6 @@
         "body": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) 18+ | Erlaubtes Glücksspiel gemäß der Whitelist | Suchtrisiken | Hilfe unter buwei.de\n\n18+ Ministério da Fazenda adverte: Aposta não é investimento. 21+ Участь в азартних іграх може викликати ігрову залежність. Дотримуйтеся правил (принципів) відповідальної гри Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé)",
         "copy": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) 18+ | Erlaubtes Glücksspiel gemäß der Whitelist | Suchtrisiken | Hilfe unter buwei.de\n\n18+ Ministério da Fazenda adverte: Aposta não é investimento. 21+ Участь в азартних іграх може викликати ігрову залежність. Дотримуйтеся правил (принципів) відповідальної гри Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé)",
         "first_seen": "2026-09-01T16:02:49.324879+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Muhamad Rizky Akbar v Byung Jae Kim LIVE 02/09/2026 | Badminton",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVZHSEQ4MWVwZ3ByYzBHam4wX21zaDAzZGNPTzB3VFRQMS0xLVUySlJOdnBsUmdXX1I2V2RtZ1FXb2ZFaG9TaFVvY1BLRDlEaUoxeW5lYm1ya25iR0JQT1RVY1Jnb3NsTlNpVjJKS3hhbnBIU0tFb04xSVB0QXNhVV9Gd2dTRTZ4VlViOGllSzlXVWVKTDFTZVBMWndMdw?oc=5",
-        "published": "2026-09-01T10:54:33+00:00",
-        "published_label": "Tue 01 Sep, 10:54",
-        "summary": "Muhamad Rizky Akbar v Byung Jae Kim LIVE 02/09/2026 | Badminton Flashscore UK",
-        "body": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
-        "copy": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
-        "first_seen": "2026-09-02T10:34:49.913013+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "China Masters 2026 badminton: Unnati Hooda exits in opening round",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSk1JbXAyY3F1SlNsY3JZSGNteHlWWnNHSnY4TUZhdUNnVGFKZXk5Y0pBTERZVnN6QktvcGt6RVZObzZQZThTV2RPVURFbE43R1JKTVNmWlcyOXlDRTF2THAxbTBkNGx1R0hFbTh5Q2tsZk1UblR5NTJZUjlRSzNrSzRnZl9zc18z?oc=5",
-        "published": "2026-09-01T10:36:00+00:00",
-        "published_label": "Tue 01 Sep, 10:36",
-        "summary": "China Masters 2026 badminton: Unnati Hooda exits in opening round olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-01T11:03:56.646187+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "China Masters 2026 badminton: Unnati Hooda exits in opening round",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmdPczRlcnd4U2hkSXMxNW04U01RMHdZRFZCeW9RdzhzZmhQWWJra280c2NoYUxDYmpZQlRGekJtZE9KbnhWV2NFV3k5OEhQVzFRejlIRlVPRUpZUGF6MlNQTUh3Sm91QUVsb21kOENjRnVVR3NPM3NLbEJZaUY5NE1rZw?oc=5",
-        "published": "2026-09-01T10:36:00+00:00",
-        "published_label": "Tue 01 Sep, 10:36",
-        "summary": "China Masters 2026 badminton: Unnati Hooda exits in opening round olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-01T12:40:43.563109+00:00"
       }
     ],
     "Competitor News": [
@@ -7171,6 +7158,19 @@
         "body": "Turkish Airlines will become Liverpool's front-of-shirt sponsor from the start of the 2027-28 season in a £300m deal. The five-year contract is worth in excess of £60m a season, an increase on the current £50m-per-season deal with Standard Chartered, which has been the club's main partner since 2010 and is the existing front-of-shirt sponsor.\n\nLiverpool believe the agreement with Turkish Airlines is the the most valuable front-of-shirt-only commercial deal in Premier League history - with Arsenal and Manchester City's deals with Emirates and Etihad Airways respectively also involving stadium naming rights.",
         "copy": "Turkish Airlines will become Liverpool's front-of-shirt sponsor from the start of the 2027-28 season in a £300m deal. The five-year contract is worth in excess of £60m a season, an increase on the current £50m-per-season deal with Standard Chartered, which has been the club's main partner since 2010 and is the existing front-of-shirt sponsor.\n\nLiverpool believe the agreement with Turkish Airlines is the the most valuable front-of-shirt-only commercial deal in Premier League history - with Arsenal and Manchester City's deals with Emirates and Etihad Airways respectively also involving stadium naming rights.",
         "first_seen": "2026-09-08T10:34:42.435224+00:00"
+      },
+      {
+        "section": "Competitor News",
+        "source": "Google News",
+        "kind": "gnews",
+        "title": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0dGa0loS0RHWlg0UDR2LU10d2UxdGJOUmh2T0NYa1UyUFdxRWFQR3RnVnVkT29YbHkySHBaSXhSVDUwa1otdU81aVlOVkR2MlctbUJpd182eFdRbExKVjU5d1ljMFBCQk1PVEE3blBSNERlSlVqX0VwTEx5T1V4YVpRQkUwYzg0aXowaWx5OF95TUtxMW1XNw?oc=5",
+        "published": "2026-09-08T08:30:03+00:00",
+        "published_label": "Tue 08 Sep, 08:30",
+        "summary": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines nytimes.com",
+        "body": "Liverpool have announced a five-year shirt sponsorship deal with Turkish Airlines. Club sources, speaking on the condition of anonymity, said that the deal is worth more than £300million ($405m) to Liverpool.\n\nFrom the start of the 2027-28 season, Turkish Airlines will replace Standard Chartered, whose contract expires at the end of the current campaign. Liverpool expect the deal to be worth in excess of £60m per season and believe that it makes it the most lucrative ‘front of shirt only’ commercial agreement in Premier League history.",
+        "copy": "Liverpool have announced a five-year shirt sponsorship deal with Turkish Airlines. Club sources, speaking on the condition of anonymity, said that the deal is worth more than £300million ($405m) to Liverpool.\n\nFrom the start of the 2027-28 season, Turkish Airlines will replace Standard Chartered, whose contract expires at the end of the current campaign. Liverpool expect the deal to be worth in excess of £60m per season and believe that it makes it the most lucrative ‘front of shirt only’ commercial agreement in Premier League history.",
+        "first_seen": "2026-09-08T12:15:46.322406+00:00"
       },
       {
         "section": "Competitor News",
