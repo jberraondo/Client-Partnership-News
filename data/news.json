@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:49:32.573691+00:00",
-  "generated_label": "Thursday 10 September 2026, 15:49 UTC",
+  "generated_at": "2026-09-10T18:58:50.584532+00:00",
+  "generated_label": "Thursday 10 September 2026, 18:58 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -118,6 +118,19 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Bayern in Wonderful tie-up with enterprise AI firm",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVF0WnNIeGttSFhSTEllaWZYeUZNcmNWNU9ENFNwYWxVZURRN1lGY1h5ZERBY25VV1k5eGZzaEs1SnpMSzA0Y2JDVk9nOWJjVE9TREQ2cDVIQ0lNQWFMTFZxTUdGM0lMeHBSQmk2aVhESm8xRE1Dd3ZsODlqLTQyejI4UFR2SXRKOW5NZk9zYzJlZw?oc=5",
+        "published": "2026-09-10T10:21:44+00:00",
+        "published_label": "Thu 10 Sep, 10:21",
+        "summary": "Bayern in Wonderful tie-up with enterprise AI firm Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Sport Industry",
         "kind": "direct",
         "title": "Brighton signs three-year partnership with The Shore Group",
@@ -206,6 +219,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-10T10:35:18.189612+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Interview: BKB’s Tetrault on combat sports’ value proposition",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM3dxVlEzeXJraEUwWGpnWjh2MlZZSzE5NnJtdFRjNV9jVU9VMUs5WFhpUGRudTBQOGVDRXJlaEJzQkJnZzdTRWhqZGdsSjMyRHFaaFUxZWd0cVMzSnk2cl9fY0NXNjVobmVvVmwtS2xlb203TFB4TFVfSTYwTXZsc21mTGZyNTBUeGFGbl9Ia0c1T1E?oc=5",
+        "published": "2026-09-10T09:21:44+00:00",
+        "published_label": "Thu 10 Sep, 09:21",
+        "summary": "Interview: BKB’s Tetrault on combat sports’ value proposition Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -560,6 +586,19 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "World Rugby outlines LA28 qualification pathway with USA Eagles place secured",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlhVamZkNnhUdkJ5V3J0SHdMRWw2YmtWcjg2ZUJ6MENCWU82U0xUenMtRXdGUFlkcG55dVNVNW9iZ1cxQ2M2RzFqaDJGRVpLMmhLZDRCaHBHTWR1bUtyRkhqS3k5bk9FUUFuTEs4UkU0bkZjODAxVUJkVXlzTmpLYlB4UDl0aklSUUM4ag?oc=5",
+        "published": "2026-09-09T07:00:00+00:00",
+        "published_label": "Wed 09 Sep, 07:00",
+        "summary": "World Rugby outlines LA28 qualification pathway with USA Eagles place secured eagles.rugby",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
         "title": "McLaren to create 1,000 UK jobs in product overhaul",
@@ -583,6 +622,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-09T15:55:55.099573+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "DAZN renews F1 coverage in Spain, Andorra, Portugal through 2030",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZi1sbFJ0N1ZoaGJMZFJ2c3Y1V3V0MTZkQVBLWHczcHUwRG9xX0VSZ0ZSbk0wV0I3clFIcHdfR2k5Vm0tUkNSaGwyXzNfY0VYUHdxZ3NRWXVRdFQyUXYwaVNyejgwbWNLTTIwMnpvRVgybF9tTmFva01sQjVHN2ZPZTllY3V2T1Q5VWN3OVVzV0JNcnpLZEJmdGxR?oc=5",
+        "published": "2026-09-09T01:05:26+00:00",
+        "published_label": "Wed 09 Sep, 01:05",
+        "summary": "DAZN renews F1 coverage in Spain, Andorra, Portugal through 2030 Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1535,6 +1587,58 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ireland joining elite only a matter of time",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cr7d0214lpko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-10T16:40:40+00:00",
+        "published_label": "Thu 10 Sep, 16:40",
+        "summary": "Aoife Wafer says Ireland are capable of joining the world's elite teams as they build on progress made in recent years.",
+        "body": "Back row Aoife Wafer has predicted it is \"only a matter of time\" before Ireland join the ranks of the very best teams in the world. The number eight was speaking as the Irish squad prepare for a WXV campaign in which they will face the United States in Dublin on 20 September, and then Japan twice on home soil, before travelling for two Tests with South Africa in late October.\n\nIreland were narrowly edged out by France at the quarter-final stage of last year's World Cup and have finished third behind England and the French in the past two Women's Six Nations championships.",
+        "copy": "Back row Aoife Wafer has predicted it is \"only a matter of time\" before Ireland join the ranks of the very best teams in the world. The number eight was speaking as the Irish squad prepare for a WXV campaign in which they will face the United States in Dublin on 20 September, and then Japan twice on home soil, before travelling for two Tests with South Africa in late October.\n\nIreland were narrowly edged out by France at the quarter-final stage of last year's World Cup and have finished third behind England and the French in the past two Women's Six Nations championships.",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "How Scotland are 'striving for excellence' at WXV after challenging 2026",
+        "link": "https://www.rugbypass.com/news/how-scotland-are-striving-for-excellence-at-wxv-after-challenging-2026/",
+        "published": "2026-09-10T16:38:46+00:00",
+        "published_label": "Thu 10 Sep, 16:38",
+        "summary": "Scotland fly-half Helen Nelson says the team are striving for excellence in the WXV Global Series as they look to bounce back from a difficult start to 2026.",
+        "body": "Scotland fly-half Helen Nelson says the team are striving for excellence in the WXV Global Series as they look to bounce back from a difficult start to 2026. The team finished fifth in the Guinness Women’s Six Nations, which included heavy defeats against teams such as England and Ireland.\n\nThey have then dealt with the departure of their head coach Sione Fukofuka, who confirmed he had left the set up last month. Dave Butcher is taking interim charge of Scotland for their matches over the next two months against Canada, New Zealand and Australia. Nelson added the vibes in camp are good and the standards have been set high.",
+        "copy": "Scotland fly-half Helen Nelson says the team are striving for excellence in the WXV Global Series as they look to bounce back from a difficult start to 2026. The team finished fifth in the Guinness Women’s Six Nations, which included heavy defeats against teams such as England and Ireland.\n\nThey have then dealt with the departure of their head coach Sione Fukofuka, who confirmed he had left the set up last month. Dave Butcher is taking interim charge of Scotland for their matches over the next two months against Canada, New Zealand and Australia. Nelson added the vibes in camp are good and the standards have been set high.",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Pat Lam provides positive Ellis Genge report despite missing England camp",
+        "link": "https://www.rugbypass.com/news/pat-lam-provides-positive-ellis-genge-report-despite-missing-england-camp-bristol-bears/",
+        "published": "2026-09-10T16:14:48+00:00",
+        "published_label": "Thu 10 Sep, 16:14",
+        "summary": "Bristol Bears coach Pat Lam has revealed that loosehead Ellis Genge wasn’t involved in England’s 36-man three-day camp this week after being given extra time after his summer toil in the Nations Championship.",
+        "body": "Bristol Bears coach Pat Lam has revealed that loosehead Ellis Genge wasn’t involved in England’s 36-man three-day camp this week after being given extra time after his summer toil in the Nations Championship.\n\nThe England vice-captain played all 12 of their tests last season, and Lam says that he was given an extra week off to recover from his massive workload. And he says that Genge is “looking fresh” and that he fully supports the decision that was made by Red Rose boss Steve Borthwick earlier in the summer.",
+        "copy": "Bristol Bears coach Pat Lam has revealed that loosehead Ellis Genge wasn’t involved in England’s 36-man three-day camp this week after being given extra time after his summer toil in the Nations Championship.\n\nThe England vice-captain played all 12 of their tests last season, and Lam says that he was given an extra week off to recover from his massive workload. And he says that Genge is “looking fresh” and that he fully supports the decision that was made by Red Rose boss Steve Borthwick earlier in the summer.",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "France draft trio of sevens stars for WXV opener against ‘fantastic’ Black Ferns",
+        "link": "https://www.rugbypass.com/news/france-draft-trio-of-sevens-stars-for-wxv-opener-against-fantastic-black-ferns/",
+        "published": "2026-09-10T15:52:46+00:00",
+        "published_label": "Thu 10 Sep, 15:52",
+        "summary": "François Ratier has called on the France Sevens squad ahead of his team's WXV Global Series opener against the Black Ferns on Sunday.",
+        "body": "François Ratier has called on the France Sevens squad ahead of his team’s WXV Global Series opener against the Black Ferns on Sunday. Both Chloé Jacquet and Kelly Arbey have won Test caps before, while Lili Dezou will make her international debut at outside centre. She partners Teani Feleu in midfield.\n\nDezou, 22, plays her club rugby for Stade Toulousain and represented her country at their home Olympic Games in 2024. Upon announcing his squad, Ratier confirmed that the trio would only play in France’s opening WXV Global Series fixture before returning to sevens camp.",
+        "copy": "François Ratier has called on the France Sevens squad ahead of his team’s WXV Global Series opener against the Black Ferns on Sunday. Both Chloé Jacquet and Kelly Arbey have won Test caps before, while Lili Dezou will make her international debut at outside centre. She partners Teani Feleu in midfield.\n\nDezou, 22, plays her club rugby for Stade Toulousain and represented her country at their home Olympic Games in 2024. Upon announcing his squad, Ratier confirmed that the trio would only play in France’s opening WXV Global Series fixture before returning to sevens camp.",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -4074,6 +4178,19 @@
       },
       {
         "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Was this Mirra Andreeva's turning point? Frustration boils over with racket toss",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUEJvM3JMd0JWdHJNSExROFlJYldROWpKWlFydU8zOXBjLURfR0x1amZRU2FDZTY3NUxSSkhYaVhlV0RFMDY1MmxocWhpMlp6TzUzMHpxbUQxZXBPQzdLdUN3SE5TbVpsVG42RkpPeHR4b0tFUHFlWWI3eFBRTWk2UFI1WjZfenhxZTNqQm94aEhDV1pKYlQ4Rjh6TkoxS0xpME42Zk1KTXpGcVhTblhKc0dPUVBSeFk1ZXhnbk9Pc1pXY2FxR29rYTQzT3g?oc=5",
+        "published": "2026-09-10T10:10:50+00:00",
+        "published_label": "Thu 10 Sep, 10:10",
+        "summary": "Was this Mirra Andreeva's turning point? Frustration boils over with racket toss Sky Sports",
+        "body": "Was this Mirra Andreeva's turning point? Frustration boils over with racket toss Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
+        "copy": "Was this Mirra Andreeva's turning point? Frustration boils over with racket toss Beginning of dialog window. Escape will cancel and close the window. This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "GB's Salisbury & Ram beat champions to reach semis",
@@ -5228,22 +5345,48 @@
         "body": "Naomi Osaka urged the growing number of social media influencers at the US Open to respect the sport's \"etiquette\" following her second-round win over Katerina Siniakova. The issue has become a talking point at the tournament following Osaka's opening win over Anastasia Zakharova on Monday, in which viral videos have since surfaced of some influencers not paying attention to the tennis.\n\nAfter overcoming a mid-match wobble to beat Katerina Siniakova 6-2 5-7 6-1 and reach the third round in New York, Osaka said on the issue: \"I think obviously if you come to a sporting event, you have to respect the sport.",
         "copy": "Naomi Osaka urged the growing number of social media influencers at the US Open to respect the sport's \"etiquette\" following her second-round win over Katerina Siniakova. The issue has become a talking point at the tournament following Osaka's opening win over Anastasia Zakharova on Monday, in which viral videos have since surfaced of some influencers not paying attention to the tennis.\n\nAfter overcoming a mid-match wobble to beat Katerina Siniakova 6-2 5-7 6-1 and reach the third round in New York, Osaka said on the issue: \"I think obviously if you come to a sporting event, you have to respect the sport.",
         "first_seen": "2026-09-04T10:33:00.365344+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "US Open: Carlos Alcaraz planning more breaks in 'impossible' tennis schedule after more than four months out with a wrist injury",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNEVrNHJCMmhuNVBEd0VKeDN5Zk9RbEtMcUh6UWlEcXV0Qmo5N3NNRENhWTFKZlplZ1JVWDVpV2F4eTBDSzQ0WVdhdWxPbWJhckZ1UzAxd01sMlpaanVuTktEQVVvZmEwT251cVhZRVNtS296X0g5ckNPVGxWWXV6V2pOVG0wMjg4MjgxUFZ4QV9ZaGVUTHVKMFRSZDRFZm9BXzJCQ0F1SlgzbDd0emNnUFlodzl0MXpibnFqNm5EQ3BmY0Q3ZUUxcHdtc0pOSGVmSUg1ZllIc2xQdUxwVlZLNW0tS1YySm1DTFpDZV83b2N5UXlNSVBoZy1haGJpaTBrR25tZS10NGluZw?oc=5",
-        "published": "2026-09-03T17:01:08+00:00",
-        "published_label": "Thu 03 Sep, 17:01",
-        "summary": "US Open: Carlos Alcaraz planning more breaks in 'impossible' tennis schedule after more than four months out with a wrist injury Sky Sports",
-        "body": "Carlos Alcaraz has taken a swipe at the hectic tennis calendar and said he will skip tournaments from now on. The Spaniard, who returned to action after a lengthy layoff due to a wrist injury sustained in April to defend his US Open title, said the demands of the schedule made it impossible for players to compete in every major event without risking burnout.\n\nThe Spaniard pointed to the absences of other top stars as evidence that the schedule is too demanding and will keep causing injuries. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
-        "copy": "Carlos Alcaraz has taken a swipe at the hectic tennis calendar and said he will skip tournaments from now on. The Spaniard, who returned to action after a lengthy layoff due to a wrist injury sustained in April to defend his US Open title, said the demands of the schedule made it impossible for players to compete in every major event without risking burnout.\n\nThe Spaniard pointed to the absences of other top stars as evidence that the schedule is too demanding and will keep causing injuries. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
-        "first_seen": "2026-09-03T19:06:50.642710+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This 1 piece of swing data separates low- and high-handicap golfers",
+        "link": "https://golf.com/instruction/one-piece-swing-data-separate-low-high-handicap/",
+        "published": "2026-09-10T16:56:51+00:00",
+        "published_label": "Thu 10 Sep, 16:56",
+        "summary": "Looking at pelvis sway numbers at the top of the backswing can give a great look at the difference between good and bad golfers. The post This 1 piece of swing data separates low- and high-handicap golfers appeared first on Golf .",
+        "body": "Many swing characteristics can separate good golfers from bad ones: swing speed, attack angle, low points, distance … you get the idea. But there’s one data point that nearly always differentiates good and bad golfers — and you don’t even need to see a golfer’s full swing to know where he or she falls on this spectrum.\n\nThat data point comes in the form of pelvis sway. With swing analysis tools like Sportsbox AI, you can track this number easily on every swing, providing a good indicator of where you fall on the handicap spectrum.",
+        "copy": "Many swing characteristics can separate good golfers from bad ones: swing speed, attack angle, low points, distance … you get the idea. But there’s one data point that nearly always differentiates good and bad golfers — and you don’t even need to see a golfer’s full swing to know where he or she falls on this spectrum.\n\nThat data point comes in the form of pelvis sway. With swing analysis tools like Sportsbox AI, you can track this number easily on every swing, providing a good indicator of where you fall on the handicap spectrum.",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Solheim Cup scores and results",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/crer5qldyv9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-10T16:43:56+00:00",
+        "published_label": "Thu 10 Sep, 16:43",
+        "summary": "The latest scores and results from the 20th edition of the Solheim Cup at Bernardus Golf Club will appear here once the contest gets under way on Friday, 11 September.",
+        "body": "",
+        "copy": "The latest scores and results from the 20th edition of the Solheim Cup at Bernardus Golf Club will appear here once the contest gets under way on Friday, 11 September.",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Revealed: The millions LIV Golf owes Jon Rahm, Bryson DeChambeau and its biggest stars",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHVDbUloVVlwUXROOGdhYng0VlNPdjR2Rm5qNDNpd3l0T0plX2xHcHR5YXZlMVVMNDl4OUdZUmk3TGFiS1VEWGt0aXJVZUIyaEJaZ2JBdVdfSy1vbF9fYnZyQzJlNkRwT3Z6TDdGV1JWTmJKbHdneWxnMzZoZlptaUM1T3loMTVQbUE4VG9KTWI3Q0tpWnNLcThmNnhUVEZxVXh2SUY2VXpqWjV0U28zMEl3RDRncHJxazVOTA?oc=5",
+        "published": "2026-09-10T16:00:47+00:00",
+        "published_label": "Thu 10 Sep, 16:00",
+        "summary": "Revealed: The millions LIV Golf owes Jon Rahm, Bryson DeChambeau and its biggest stars Golfmagic",
+        "body": "LIV Golf's bankruptcy filing has revealed millions of dollars being claimed by some of its biggest stars — although the amounts are not necessarily money the league accepts it owes.\n\nThe Saudi-backed circuit and related entities voluntarily filed for Chapter 11 bankruptcy protection in New Jersey on Tuesday, with court records showing assets of between $100m and $500m against liabilities of $500m to $1bn.",
+        "copy": "LIV Golf's bankruptcy filing has revealed millions of dollars being claimed by some of its biggest stars — although the amounts are not necessarily money the league accepts it owes.\n\nThe Saudi-backed circuit and related entities voluntarily filed for Chapter 11 bankruptcy protection in New Jersey on Tuesday, with court records showing assets of between $100m and $500m against liabilities of $500m to $1bn.",
+        "first_seen": "2026-09-10T18:58:50.584532+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -5253,8 +5396,8 @@
         "published": "2026-09-10T15:41:14+00:00",
         "published_label": "Thu 10 Sep, 15:41",
         "summary": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
-        "body": "Europe's Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands. While English pair Woad and Hull are seventh and eighth in the rankings, the American duo have won all four of their foursomes matches across the last two editions of the contest.\n\nThat included a victory over Hull and Esther Henseleit in the first match of the 2024 edition. Play gets under way at Bernardus Golf at 06:40 BST with four foursomes (alternate shot) matches.",
-        "copy": "Europe's Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands. While English pair Woad and Hull are seventh and eighth in the rankings, the American duo have won all four of their foursomes matches across the last two editions of the contest.\n\nThat included a victory over Hull and Esther Henseleit in the first match of the 2024 edition. Play gets under way at Bernardus Golf at 06:40 BST with four foursomes (alternate shot) matches.",
+        "body": "Europe's Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands. While English pair Woad and Hull are seventh and eighth in the rankings, the American duo have won all four of their foursomes matches across the past two editions of the contest.\n\nThat included a victory over Hull and Esther Henseleit in the first match of the 2024 edition. \"Charley and Lottie, they've got to play [together] quite a bit on tour this year, so I think they were both very excited to be paired with each other,\" said Europe's captain Anna Nordqvist.",
+        "copy": "Europe's Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands. While English pair Woad and Hull are seventh and eighth in the rankings, the American duo have won all four of their foursomes matches across the past two editions of the contest.\n\nThat included a victory over Hull and Esther Henseleit in the first match of the 2024 edition. \"Charley and Lottie, they've got to play [together] quite a bit on tour this year, so I think they were both very excited to be paired with each other,\" said Europe's captain Anna Nordqvist.",
         "first_seen": "2026-09-10T15:49:32.573691+00:00"
       },
       {
@@ -6946,19 +7089,6 @@
         "body": "Five years ago, hybrids were still a regular part of bags on the PGA Tour. Even Rory McIlroy was using one. Today, they’re almost nonexistent, with only three PGA Tour winners across 37 events carrying one for their victory this past FedEx Cup season.\n\nOn the PGA Tour, hybrids have been largely replaced by high-lofted fairway woods and a resurgent uptick in utility irons, thanks to advances in technology for both alternatives.",
         "copy": "Five years ago, hybrids were still a regular part of bags on the PGA Tour. Even Rory McIlroy was using one. Today, they’re almost nonexistent, with only three PGA Tour winners across 37 events carrying one for their victory this past FedEx Cup season.\n\nOn the PGA Tour, hybrids have been largely replaced by high-lofted fairway woods and a resurgent uptick in utility irons, thanks to advances in technology for both alternatives.",
         "first_seen": "2026-09-04T10:33:00.365344+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau has made his decision over whether he will play on LIV Golf in 2027",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOThnM2lEbU5ZZnpOdmh0WFdXZklhQTRsUGI2LXRTUFVUUDBnamxQSzNMRUxJbURrYzc3MlZ4NEhIV2MwQU5DY1hMYWw0alR3eWFOV0pERXZMbGdOOE1RbnhQQUhfUTRTR1pWaUZSdkZMZm1nMW93UGd2Yi1LbF9pb3VLMXQtMWY2QTZxejB3?oc=5",
-        "published": "2026-09-03T17:45:00+00:00",
-        "published_label": "Thu 03 Sep, 17:45",
-        "summary": "Bryson DeChambeau has made his decision over whether he will play on LIV Golf in 2027 Yahoo Sports",
-        "body": "Bryson DeChambeau's future with LIV Golf has been the topic of much debate over the past four or five months. Ever since Saudi Arabia's Public Investment Fund announced back in April that they would be withdrawing their funding from the league, DeChambeau has been heavily linked with a move back to the PGA Tour.\n\nThe 32-year-old two-time major champion has won five times on LIV Golf since joining the league in June 2022. Bryson DeChambeau even managed to win a major championship after he moved to LIV Golf.",
-        "copy": "Bryson DeChambeau's future with LIV Golf has been the topic of much debate over the past four or five months. Ever since Saudi Arabia's Public Investment Fund announced back in April that they would be withdrawing their funding from the league, DeChambeau has been heavily linked with a move back to the PGA Tour.\n\nThe 32-year-old two-time major champion has won five times on LIV Golf since joining the league in June 2022. Bryson DeChambeau even managed to win a major championship after he moved to LIV Golf.",
-        "first_seen": "2026-09-03T19:06:50.642710+00:00"
       }
     ],
     "Badminton": [
@@ -7429,32 +7559,6 @@
         "body": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) 18+ | Erlaubtes Glücksspiel gemäß der Whitelist | Suchtrisiken | Hilfe unter buwei.de\n\n18+ Ministério da Fazenda adverte: Aposta não é investimento. 21+ Участь в азартних іграх може викликати ігрову залежність. Дотримуйтеся правил (принципів) відповідальної гри Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé)",
         "copy": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) 18+ | Erlaubtes Glücksspiel gemäß der Whitelist | Suchtrisiken | Hilfe unter buwei.de\n\n18+ Ministério da Fazenda adverte: Aposta não é investimento. 21+ Участь в азартних іграх може викликати ігрову залежність. Дотримуйтеся правил (принципів) відповідальної гри Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé)",
         "first_seen": "2026-09-04T10:33:00.365344+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "China Masters: Underdogs Deliver Upset Bonanza",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWJtMzJhMFd0ZHJaUnNrMmwtdHpPQnY5a1NreENzQTVhQXRQTGpCXzNFZkFGc3YtUHdJY0FnYXVpbDJ5ZjFWSDdSQmY4TVdfT2JqVkVuY0ZydFEzb2RsdW1HOG9jZG52MlpGZXRHS2ZUTWJueHNtUWh5RU1nTURkM1BjdDk1d1BwaG5PcXRVQTMtZnAyeFBrSGYtUXBzQ0VvSlIxX0x4WU5IWlU?oc=5",
-        "published": "2026-09-03T16:00:50+00:00",
-        "published_label": "Thu 03 Sep, 16:00",
-        "summary": "China Masters: Underdogs Deliver Upset Bonanza bwfworldtour.bwfbadminton.com",
-        "body": "The outsiders seized the spotlight from established names at LI-NING China Masters 2026 on Thursday, with four categories producing unlikely results. The biggest shock came in men’s singles, where Hong Kong China’s Jason Gunawan stunned top seed and newly crowned world No.1 Jonatan Christie 21-16 21-16 in their first meeting.\n\n“I know my opponent had more pressure. I’m the underdog so I just did my best to win every point,” said Gunawan. The 22-year-old revealed preparation was deliberately uncomplicated, with his coach encouraging him to attack rather than allow Christie to settle.",
-        "copy": "The outsiders seized the spotlight from established names at LI-NING China Masters 2026 on Thursday, with four categories producing unlikely results. The biggest shock came in men’s singles, where Hong Kong China’s Jason Gunawan stunned top seed and newly crowned world No.1 Jonatan Christie 21-16 21-16 in their first meeting.\n\n“I know my opponent had more pressure. I’m the underdog so I just did my best to win every point,” said Gunawan. The 22-year-old revealed preparation was deliberately uncomplicated, with his coach encouraging him to attack rather than allow Christie to settle.",
-        "first_seen": "2026-09-03T19:06:50.642710+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "China Masters: Underdogs Deliver Upset Bonanza",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMEhvbjBic3lHUTNIdktvRGNIRG8zMEdNX01RSEJEOW9hUzVvcjBkU1U4LVdJTnNrNTdVUjJmTEJGSkVpdS1OVzhPMVE5UXVPZEVLZjI2ZTFyS0lxY2RNbnF1S2lZQjlnQWlCcU5kbVBOODdlMzNDbFRVM05WU1F0YWpUNXp0X1d6LU4xUmVyOGRxSzhWNzREdC1iWDhHZEtnX0xvVVhoaVJVZw?oc=5",
-        "published": "2026-09-03T16:00:50+00:00",
-        "published_label": "Thu 03 Sep, 16:00",
-        "summary": "China Masters: Underdogs Deliver Upset Bonanza BWF World Tour",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-09-04T12:15:10.640891+00:00"
       }
     ],
     "Competitor News": [
@@ -7694,5 +7798,5 @@
       }
     ]
   },
-  "total": 590
+  "total": 598
 }
