@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:50:57.915119+00:00",
-  "generated_label": "Friday 11 September 2026, 15:50 UTC",
+  "generated_at": "2026-09-11T19:00:39.824492+00:00",
+  "generated_label": "Friday 11 September 2026, 19:00 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "PSA taps Cavendish to support LA28 run-in",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yRFpyTERjWm1IZ0MtX2pRVExGbTlReHo4SWRyalg2cDVTVjhXbUJnSVdkZWI1el9pWHZLUjdwTE50VUdKbVcwcVcxeFA3b1AyR2tqVTZ6cW56aEYzVGZ2VThUSWNfUG1UMnM4M3JGaU9XQXFNY0cyZF9xUmg?oc=5",
+        "published": "2026-09-11T15:52:18+00:00",
+        "published_label": "Fri 11 Sep, 15:52",
+        "summary": "PSA taps Cavendish to support LA28 run-in Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "SportsPro",
@@ -1493,22 +1506,61 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-05T09:57:11.870563+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Maybe Northampton *is* an emerging market",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BbFVld0Q5RmZkUnBXNUxqNmVsWkpVeTAxeVFUSUJ1RVZJM3E5bGhYOFFpU3Q5UUZRVlZXajRkTlh5UzE0ek42OFRPcTNKanZ1SDVsWm0tMDlqVEdFUzItRUw2VEJjVVRkdjloNjdOWGU?oc=5",
-        "published": "2026-09-04T17:32:50+00:00",
-        "published_label": "Fri 04 Sep, 17:32",
-        "summary": "Maybe Northampton *is* an emerging market Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-05T09:57:11.870563+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘It hurt my soul’: Rachel Malcolm hopes Test return can reignite Scotland’s defensive grit",
+        "link": "https://www.rugbypass.com/news/it-hurt-my-soul-rachel-malcolm-hopes-test-return-can-reignite-scotlands-defensive-grit/",
+        "published": "2026-09-11T17:00:02+00:00",
+        "published_label": "Fri 11 Sep, 17:00",
+        "summary": "Talismanic captain Rachel Malcolm believes that Scotland lost their identity as a team between late last year and during the Guinness Women’s Six Nations in 2026.",
+        "body": "Talismanic captain Rachel Malcolm believes that Scotland lost their identity as a team between late last year and during the Guinness Women’s Six Nations in 2026. She has also stated that shipping 267 points – including 41 tries – in five games as they finished a disappointing fifth in that Women’s Six Nations campaign “hurt” her soul given the importance the squad has placed on defence in recent years.\n\nNow, with a busy period of WXV Global Series action getting underway this weekend, the 35-year-old Trailfinders Women’s back-row has vowed to help get the national team back up to the levels that they know they are capable of.",
+        "copy": "Talismanic captain Rachel Malcolm believes that Scotland lost their identity as a team between late last year and during the Guinness Women’s Six Nations in 2026. She has also stated that shipping 267 points – including 41 tries – in five games as they finished a disappointing fifth in that Women’s Six Nations campaign “hurt” her soul given the importance the squad has placed on defence in recent years.\n\nNow, with a busy period of WXV Global Series action getting underway this weekend, the 35-year-old Trailfinders Women’s back-row has vowed to help get the national team back up to the levels that they know they are capable of.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Fissler Confidential: Leicester's top recruitment priority; Quins raid Champ",
+        "link": "https://www.rugbypass.com/news/fissler-confidential-leicesters-top-recruitment-priority-quins-in-champ-raid/",
+        "published": "2026-09-11T16:21:16+00:00",
+        "published_label": "Fri 11 Sep, 16:21",
+        "summary": "Leicester Tigers are keen to tie down England lock Ollie Chessum to a new long-term contract and keep him at Welford Road after he entered the final year of his contract at the start of July.",
+        "body": "Leicester Tigers are keen to tie down England lock Ollie Chessum to a new long-term contract and keep him at Welford Road after he entered the final year of his contract at the start of July.\n\nClub captain Chessum is highly rated by Tigers boss Geoff Parling and is likely to draw serious interest from Gallagher PREM rivals, with his stock rising since he signed his last contract in December 2024.",
+        "copy": "Leicester Tigers are keen to tie down England lock Ollie Chessum to a new long-term contract and keep him at Welford Road after he entered the final year of his contract at the start of July.\n\nClub captain Chessum is highly rated by Tigers boss Geoff Parling and is likely to draw serious interest from Gallagher PREM rivals, with his stock rising since he signed his last contract in December 2024.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'It's been tough for Beauden': Dave Rennie explains All Blacks' No.10 switch",
+        "link": "https://www.rugbypass.com/news/its-been-tough-for-beauden-dave-rennie-explains-all-blacks-no-10-switch/",
+        "published": "2026-09-11T16:15:34+00:00",
+        "published_label": "Fri 11 Sep, 16:15",
+        "summary": "Dave Rennie has shed light on the All Blacks' No.10 selection plan for the Greatest Rivalry tour after announcing a change at the position for the first time this year.",
+        "body": "Dave Rennie has shed light on the All Blacks‘ No.10 selection plan for the Greatest Rivalry tour after announcing a change at the position for the first time this year. The coach has turned to experience for the series decider in Baltimore, dropping Ruben Love in favour of Richie Mo’unga and bringing Beauden Barrett onto the bench.\n\nMo’unga served as All Blacks game-driver in a hotly contested midweek game against the Lions in Johannesburg three weeks ago, in what were his first minutes in the black jersey since the 2023 Rugby World Cup final, albeit a non-Test match. Having reclaimed his New Zealand eligibility after three years in Japan, the 32-year-old will now don the famous black No.10 shirt in the international arena for the first time in 1050 days.",
+        "copy": "Dave Rennie has shed light on the All Blacks‘ No.10 selection plan for the Greatest Rivalry tour after announcing a change at the position for the first time this year. The coach has turned to experience for the series decider in Baltimore, dropping Ruben Love in favour of Richie Mo’unga and bringing Beauden Barrett onto the bench.\n\nMo’unga served as All Blacks game-driver in a hotly contested midweek game against the Lions in Johannesburg three weeks ago, in what were his first minutes in the black jersey since the 2023 Rugby World Cup final, albeit a non-Test match. Having reclaimed his New Zealand eligibility after three years in Japan, the 32-year-old will now don the famous black No.10 shirt in the international arena for the first time in 1050 days.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Wales dealt triple injury blow ahead of WXV campaign",
+        "link": "https://www.rugbypass.com/news/wales-dealt-triple-injury-blow-ahead-of-wxv-campaign/",
+        "published": "2026-09-11T16:02:06+00:00",
+        "published_label": "Fri 11 Sep, 16:02",
+        "summary": "Sean Lynn's Wales have suffered a triple injury blow ahead of their WXV Global Series campaign starting.",
+        "body": "Sean Lynn’s Wales have suffered a triple injury blow ahead of their WXV Global Series campaign starting. One week before they take on South Africa at Cardiff Arms Park, 42-cap prop Donna Rose [ankle], as well as Kelsie Webster [hand] and Hanna Tudor [foot] have all been ruled out of their four fixtures.\n\nIn the coming weeks, Wales will also play the USA Women’s Eagles prior to a two-match tour of Japan. The 13th-ranked team in the world are aiming to end their one-year spell without a win, which dates back to July 2025.",
+        "copy": "Sean Lynn’s Wales have suffered a triple injury blow ahead of their WXV Global Series campaign starting. One week before they take on South Africa at Cardiff Arms Park, 42-cap prop Donna Rose [ankle], as well as Kelsie Webster [hand] and Hanna Tudor [foot] have all been ruled out of their four fixtures.\n\nIn the coming weeks, Wales will also play the USA Women’s Eagles prior to a two-match tour of Japan. The 13th-ranked team in the world are aiming to end their one-year spell without a win, which dates back to July 2025.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3978,84 +4030,6 @@
         "body": "Captain Siya Kolisi has called on the Springboks to summon inspiration from Soweto's pivotal part in South Africa's history as they take on New Zealand on the edge of the Johannesburg township on Saturday.\n\nThe 94,736-capacity FNB Stadium staged the opening match of football's World Cup, the first and only time the tournament has been staged in Africa. However, Kolisi, South Africa's first black captain, also referenced 1976's Soweto Uprising - the student protests that were a turning point in the fight against apartheid, the state-backed racial segregation of South African society.",
         "copy": "Captain Siya Kolisi has called on the Springboks to summon inspiration from Soweto's pivotal part in South Africa's history as they take on New Zealand on the edge of the Johannesburg township on Saturday.\n\nThe 94,736-capacity FNB Stadium staged the opening match of football's World Cup, the first and only time the tournament has been staged in Africa. However, Kolisi, South Africa's first black captain, also referenced 1976's Soweto Uprising - the student protests that were a turning point in the fight against apartheid, the state-backed racial segregation of South African society.",
         "first_seen": "2026-09-05T09:57:11.870563+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "The auditions start now: One year to go until the first British & Irish Lions Women tour",
-        "link": "https://www.rugbypass.com/news/the-auditions-start-now-one-year-to-go-until-the-first-british-irish-lions-women-tour/",
-        "published": "2026-09-04T18:06:52+00:00",
-        "published_label": "Fri 04 Sep, 18:06",
-        "summary": "There is exactly one year to go until the British & Irish Lions Women play their first tour match in New Zealand.",
-        "body": "There is exactly one year to go until the British & Irish Lions Women play their first tour match in New Zealand. By then the British & Irish Lions Women will have been a project more than six years in the making. Now it is 12 months away from becoming a reality.\n\nIt is a team that was launched after a feasibility study that took just shy of three years before it was announced a team would come into existence, and give the top players from England, Ireland, Scotland and Wales the opportunity to compete together under one banner for the very first time. A game changer for women’s rugby.",
-        "copy": "There is exactly one year to go until the British & Irish Lions Women play their first tour match in New Zealand. By then the British & Irish Lions Women will have been a project more than six years in the making. Now it is 12 months away from becoming a reality.\n\nIt is a team that was launched after a feasibility study that took just shy of three years before it was announced a team would come into existence, and give the top players from England, Ireland, Scotland and Wales the opportunity to compete together under one banner for the very first time. A game changer for women’s rugby.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "2026 FISU World University Championship Rugby Sevens",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc19PVWNtWnVfTDZxdXZ3SURLbTVtUFJDZVNxcm9TaVpwVldFMFFzUTBkZ29BdUk0OE1ab3dFcHVPanlOanFvWkVyYzU0ZGt0OEM4TE1iRXFyYWdldGkweHJDVFVFZXZOalUxbjFaYnA4dUdSWGszOTN3aHpWWXUtM1VONA?oc=5",
-        "published": "2026-09-04T17:49:22+00:00",
-        "published_label": "Fri 04 Sep, 17:49",
-        "summary": "2026 FISU World University Championship Rugby Sevens BC Rugby News",
-        "body": "Canada are undefeated after wins over Botswana 70-0 and Ireland 35-7, they’ll face Australia to complete pool play on Day 2. Australia were upset by Ireland 22-19 on Day 1 leaving Canada as the only 2-0 team in Pool B. France and Japan are undefeated in Pool A. The quarter-finals take place on Day 2 following the last pool match.\n\nTwo Canadian players were named in the Players to Watch on the official FISU website. Canada’s Ava Ference has been central to her side’s unbeaten start, accumulating 22 points through 11 successful conversions. Her accuracy from the tee has complemented Canada’s attacking strength and helped the Canadians establish themselves as early favourites in the women’s competition.",
-        "copy": "Canada are undefeated after wins over Botswana 70-0 and Ireland 35-7, they’ll face Australia to complete pool play on Day 2. Australia were upset by Ireland 22-19 on Day 1 leaving Canada as the only 2-0 team in Pool B. France and Japan are undefeated in Pool A. The quarter-finals take place on Day 2 following the last pool match.\n\nTwo Canadian players were named in the Players to Watch on the official FISU website. Canada’s Ava Ference has been central to her side’s unbeaten start, accumulating 22 points through 11 successful conversions. Her accuracy from the tee has complemented Canada’s attacking strength and helped the Canadians establish themselves as early favourites in the women’s competition.",
-        "first_seen": "2026-09-05T09:57:11.870563+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I’m not one to keep secrets': Swys de Bruin lifts the lid on his abrupt Springbok Women exit",
-        "link": "https://www.rugbypass.com/news/im-not-one-to-keep-secrets-swys-de-bruin-lifts-the-lid-on-his-abrupt-springbok-women-exit/",
-        "published": "2026-09-04T16:57:22+00:00",
-        "published_label": "Fri 04 Sep, 16:57",
-        "summary": "Swys de Bruin has opened up about his abrupt departure as head coach of the Springbok Women.",
-        "body": "Swys de Bruin has opened up about his shock exit as head coach of the Springbok Women. This week, ahead of the team’s Rugby’s Greatest Rivalry clash with the Black Ferns at FNB Stadium, rumours emerged that De Bruin had resigned.\n\nLater, when the Boks announced their match day 23 for the Soweto fixture, SA Rugby confirmed that the 66-year-old had left his post. During his two years in charge – which De Bruin described as “wonderful” – the former Lions and Springbok Men attack coach led his team to the knockout stages of a Women’s Rugby World Cup for the first time ever.",
-        "copy": "Swys de Bruin has opened up about his shock exit as head coach of the Springbok Women. This week, ahead of the team’s Rugby’s Greatest Rivalry clash with the Black Ferns at FNB Stadium, rumours emerged that De Bruin had resigned.\n\nLater, when the Boks announced their match day 23 for the Soweto fixture, SA Rugby confirmed that the 66-year-old had left his post. During his two years in charge – which De Bruin described as “wonderful” – the former Lions and Springbok Men attack coach led his team to the knockout stages of a Women’s Rugby World Cup for the first time ever.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "The emergence of softly-spoken Peter Lakai within the All Blacks environment",
-        "link": "https://www.rugbypass.com/news/the-emergence-of-softly-spoken-peter-lakai-within-the-all-blacks-environment/",
-        "published": "2026-09-04T16:44:31+00:00",
-        "published_label": "Fri 04 Sep, 16:44",
-        "summary": "Quiet characters are easy to find in the All Blacks environment, far more so than outspoken ones. But even by New Zealand's standards, Peter Lakai stands out as especially laid-back and undisturbed.",
-        "body": "Quiet characters are easy to find in the All Blacks environment, far more so than outspoken ones. But even by New Zealand standards, Peter Lakai stands out as especially laid-back and undisturbed.\n\nThe 23-year-old is in his third season with the national team, having generated All Blacks buzz with his New Zealand Age Grade Player of the Year Award in 2022 after debuting and starring for the Wellington Lions as a teenager. Lakai has since established himself as a non-negotiable selection in the All Blacks’ matchday 23, thanks in large part to his remarkable consistency for such a young athlete.",
-        "copy": "Quiet characters are easy to find in the All Blacks environment, far more so than outspoken ones. But even by New Zealand standards, Peter Lakai stands out as especially laid-back and undisturbed.\n\nThe 23-year-old is in his third season with the national team, having generated All Blacks buzz with his New Zealand Age Grade Player of the Year Award in 2022 after debuting and starring for the Wellington Lions as a teenager. Lakai has since established himself as a non-negotiable selection in the All Blacks’ matchday 23, thanks in large part to his remarkable consistency for such a young athlete.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "New family dynasty set for special piece of Test history in Soweto",
-        "link": "https://www.rugbypass.com/news/new-family-dynasty-set-for-special-piece-of-test-history-in-soweto/",
-        "published": "2026-09-04T16:24:40+00:00",
-        "published_label": "Fri 04 Sep, 16:24",
-        "summary": "The Sititi family will take centre stage at FNB Stadium on Saturday, with 19-year-old sensation Amarante named for the Black Ferns and 23-year-old brother Wallace named for the All Blacks in the Greatest Rivalry double-header.",
-        "body": "The Sititi family will take centre stage at FNB Stadium on Saturday, with 19-year-old sensation Amarante named for the Black Ferns and 23-year-old brother Wallace named for the All Blacks in the Greatest Rivalry double-header.\n\nIt’s just the second time siblings have represented New Zealand on the same day, following Annaleah and Xavier Rush in 1998. Both siblings have been named in the No.20 jerseys for their respective teams, with Amarante set to make just her second Test appearance for the Black Ferns and Wallace in line to make his 22nd Test appearance for the All Blacks.",
-        "copy": "The Sititi family will take centre stage at FNB Stadium on Saturday, with 19-year-old sensation Amarante named for the Black Ferns and 23-year-old brother Wallace named for the All Blacks in the Greatest Rivalry double-header.\n\nIt’s just the second time siblings have represented New Zealand on the same day, following Annaleah and Xavier Rush in 1998. Both siblings have been named in the No.20 jerseys for their respective teams, with Amarante set to make just her second Test appearance for the Black Ferns and Wallace in line to make his 22nd Test appearance for the All Blacks.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Siya Kolisi issues rallying call to supporters ahead of ‘special’ women’s Test",
-        "link": "https://www.rugbypass.com/news/siya-kolisi-issues-rallying-call-to-supporters-ahead-of-special-womens-test/",
-        "published": "2026-09-04T16:10:21+00:00",
-        "published_label": "Fri 04 Sep, 16:10",
-        "summary": "Springboks captain Siya Kolisi has stated his desire for supporters to flock to FNB Stadium for the Springbok Women's match with the Black Ferns.",
-        "body": "Springboks captain Siya Kolisi has urged supporters to flock to FNB Stadium for the Springbok Women’s match with the Black Ferns. This weekend, South Africa’s biggest stadium will see the Springbok Women and the six-time world champion Black Ferns go toe-to-toe for just the third time. Ever. The fixture will also be the curtain-raiser to the third Test of Rugby’s Greatest Rivalry.\n\nTo date, the Springbok Women and Black Ferns have played each other just twice. The last of those encounters came just shy of a year ago in a Women’s Rugby World Cup 2025 quarter-final in Exeter.",
-        "copy": "Springboks captain Siya Kolisi has urged supporters to flock to FNB Stadium for the Springbok Women’s match with the Black Ferns. This weekend, South Africa’s biggest stadium will see the Springbok Women and the six-time world champion Black Ferns go toe-to-toe for just the third time. Ever. The fixture will also be the curtain-raiser to the third Test of Rugby’s Greatest Rivalry.\n\nTo date, the Springbok Women and Black Ferns have played each other just twice. The last of those encounters came just shy of a year ago in a Women’s Rugby World Cup 2025 quarter-final in Exeter.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
       }
     ],
     "Tennis": [
@@ -5228,35 +5202,139 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-05T13:16:24.331070+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'It's so strong'",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c4gm2607p0zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-04T17:34:51+00:00",
-        "published_label": "Fri 04 Sep, 17:34",
-        "summary": "Aryna Sabalenka briefly halts her US Open match against Kamilla Rakhimova because of the smell of cannabis before going on to reach the fourth round.",
-        "body": "Aryna Sabalenka briefly halted her US Open match against Kamilla Rakhimova because of a strong smell of cannabis before cruising into the fourth round in New York. Top seed Sabalenka raised the issue after going 3-0 up in the first set against Uzbekistan's Rakhimova, telling umpire Eva Asderaki-Moore that \"someone is smoking weed\".\n\nThe Belarusian asked the umpire to intervene \"because it's so strong\". Asderaki-Moore spoke to an official on her radio and made a smoking gesture to someone behind her, before play continued.",
-        "copy": "Aryna Sabalenka briefly halted her US Open match against Kamilla Rakhimova because of a strong smell of cannabis before cruising into the fourth round in New York. Top seed Sabalenka raised the issue after going 3-0 up in the first set against Uzbekistan's Rakhimova, telling umpire Eva Asderaki-Moore that \"someone is smoking weed\".\n\nThe Belarusian asked the umpire to intervene \"because it's so strong\". Asderaki-Moore spoke to an official on her radio and made a smoking gesture to someone behind her, before play continued.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "US Open: Aryna Sabalenka beats Kamilla Rakhimova in straight sets to reach fourth round in Flushing Meadows",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOWNxSjRnVzdIeEhjUXE2bmphNFVsQUd4aFFGSkZmYnh5Si1OT3ltMTcwSnl4eDBsM2s3QUNLZ01zanFYSkNpWW53V0hHS1FHWk9EeHFOeTNEOW5pbnBBX3U0MWFza1RIRnV3R3BLTl9OT0JxQU1hYVJ2NnpmUmtKczdSTHI5Ymh1TWNSVGlCbjNCUXFWWlRSYmRtZGh6UHhua01Ib2xJYmxOZVpUTGhPSy1KcHplRldjY1VfZWRwcWdpVWEtcW92dHZaU19lVDJMRmJ2eUJqYVFwU0ltQndQNXY1MHpPYzZVdmVBZXNDNXo?oc=5",
-        "published": "2026-09-04T16:59:55+00:00",
-        "published_label": "Fri 04 Sep, 16:59",
-        "summary": "US Open: Aryna Sabalenka beats Kamilla Rakhimova in straight sets to reach fourth round in Flushing Meadows Sky Sports",
-        "body": "Aryna Sabalenka came through a tough test against Kamilla Rakhimova - particularly in the second set - to reach the fourth round of the US Open. The two-time defending champion in New York started superbly, storming into a 3-0 lead in the opening set as she didn't miss a single first serve until the seventh game of the match, in which Rakhimova would three times take her to deuce.\n\nThat would prove to be Rakhimova's only real opening in the first set, Sabalenka taking it 6-3, but she'd prove much more competitive in the second. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
-        "copy": "Aryna Sabalenka came through a tough test against Kamilla Rakhimova - particularly in the second set - to reach the fourth round of the US Open. The two-time defending champion in New York started superbly, storming into a 3-0 lead in the opening set as she didn't miss a single first serve until the seventh game of the match, in which Rakhimova would three times take her to deuce.\n\nThat would prove to be Rakhimova's only real opening in the first set, Sabalenka taking it 6-3, but she'd prove much more competitive in the second. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "GOLF Magazine announces 2026 World Golf Teachers Hall of Fame inductees",
+        "link": "https://golf.com/instruction/golf-magazine-announces-2026-world-golf-teachers-class/",
+        "published": "2026-09-11T18:50:36+00:00",
+        "published_label": "Fri 11 Sep, 18:50",
+        "summary": "The 2026 World Golf Teachers Hall of Fame inductees include Todd Anderson, Martin Hall, Ted Sheftic and the late Dana Rader. The post GOLF Magazine announces 2026 World Golf Teachers Hall of Fame inductees appeared first on Golf .",
+        "body": "GOLF Magazine this week announced its 2026 class for the World Golf Teachers Hall of Fame. The inductees include Todd Anderson, Martin Hall, Ted Sheftic and the late Dana Rader.\n\nThese inductees will be honored at the 2026 GOLF Top 100 Teachers Summit, which will take place Nov. 1-4 at the Omni La Costa Resort & Spa in Carlsbad, Calif. “Each of the instructors we have chosen to enter the World Golf Teachers Hall of Fame this year has earned the distinction in their own unique way,” said Hoyt McGarity, CEO and President of 8AM Golf, the parent company of GOLF Magazine and GOLF.com. “The groundbreaking efforts and longevity of the careers of Todd, Martin, Ted, and Dana are something to behold and it’s an honor to recognize each of them for their extraordinary contributions.”",
+        "copy": "GOLF Magazine this week announced its 2026 class for the World Golf Teachers Hall of Fame. The inductees include Todd Anderson, Martin Hall, Ted Sheftic and the late Dana Rader.\n\nThese inductees will be honored at the 2026 GOLF Top 100 Teachers Summit, which will take place Nov. 1-4 at the Omni La Costa Resort & Spa in Carlsbad, Calif. “Each of the instructors we have chosen to enter the World Golf Teachers Hall of Fame this year has earned the distinction in their own unique way,” said Hoyt McGarity, CEO and President of 8AM Golf, the parent company of GOLF Magazine and GOLF.com. “The groundbreaking efforts and longevity of the careers of Todd, Martin, Ted, and Dana are something to behold and it’s an honor to recognize each of them for their extraordinary contributions.”",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "With 1 epic putt, an all-time Solheim Cup is brewing in the Netherlands",
+        "link": "https://golf.com/news/all-time-solheim-cup-brewing-netherlands/",
+        "published": "2026-09-11T18:46:56+00:00",
+        "published_label": "Fri 11 Sep, 18:46",
+        "summary": "This Solheim Cup is already tense. Thanks to an epic closing putt from Carlota Ciganda, an all-time match is brewing. The post With 1 epic putt, an all-time Solheim Cup is brewing in the Netherlands appeared first on Golf .",
+        "body": "This article was all set to have a different headline. It was ready to praise the top American players who have dominated the Solheim Cup for years, and who are very much doing so again.\n\nBut then Carlota Ciganda stepped in over her ball, roughly 15 feet from the cup and drilled the putt, center of the jar, halving the final match of the second session and keeping the Cup tied through Day 1 for just the second time in its 36-year history.",
+        "copy": "This article was all set to have a different headline. It was ready to praise the top American players who have dominated the Solheim Cup for years, and who are very much doing so again.\n\nBut then Carlota Ciganda stepped in over her ball, roughly 15 feet from the cup and drilled the putt, center of the jar, halving the final match of the second session and keeping the Cup tied through Day 1 for just the second time in its 36-year history.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Solheim Cup Saturday pairings, matches, tee times, TV schedule",
+        "link": "https://golf.com/news/solheim-cup-saturday-pairings-tee-times-tv-2026/",
+        "published": "2026-09-11T18:23:59+00:00",
+        "published_label": "Fri 11 Sep, 18:23",
+        "summary": "The 2026 Solheim Cup continues Saturday in the Netherlands. Here are the pairings for the morning foursomes matches and info on how to watch. The post 2026 Solheim Cup Saturday pairings, matches, tee times, TV schedule appeared first on Golf .",
+        "body": "Eight matches played. Four points for the United States. Four points for the Europeans. If there’s anything we learned after Friday’s first-day play at the Solheim Cup, it’s that the next two days should be good at Bernardus Golf course in the Netherlands.\n\nThe biggest drama on Friday was saved for the very end. On the par-4 18, the European duo of Carlota Ciganda and Julia Lopez Ramirez and Americans Nelly Korda and Lauren Coughlin were all square in their four-ball match — and Ciganda’s clubface on the tee wasn’t square. She went right. On her second shot, she played up the adjacent first hole. From right of the green with her third shot, she pitched to 10 feet. Ahead of her, the Americans were in with a par, and Lopez Ramirez bogeyed.",
+        "copy": "Eight matches played. Four points for the United States. Four points for the Europeans. If there’s anything we learned after Friday’s first-day play at the Solheim Cup, it’s that the next two days should be good at Bernardus Golf course in the Netherlands.\n\nThe biggest drama on Friday was saved for the very end. On the par-4 18, the European duo of Carlota Ciganda and Julia Lopez Ramirez and Americans Nelly Korda and Lauren Coughlin were all square in their four-ball match — and Ciganda’s clubface on the tee wasn’t square. She went right. On her second shot, she played up the adjacent first hole. From right of the green with her third shot, she pitched to 10 feet. Ahead of her, the Americans were in with a par, and Lopez Ramirez bogeyed.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The Solheim Cup, now 20 editions old, owes much to its namesake",
+        "link": "https://golf.com/news/solheim-cup-owes-much-namesake/",
+        "published": "2026-09-11T18:15:50+00:00",
+        "published_label": "Fri 11 Sep, 18:15",
+        "summary": "You might have heard the Ryder Cup is named for British seed merchant Samuel Ryder. The Solheim Cup’s origin story is less well known. The post The Solheim Cup, now 20 editions old, owes much to its namesake appeared first on Golf .",
+        "body": "Everyone seems to know that the Ryder Cup is named for — altogether now — the British seed merchant Samuel Ryder, who donated the trophy. But how many people know that the Solheim Cup is named for a transplanted Norwegian named Karsten Solheim, who started making a pinging putter in a garage in Phoenix that eventually became an innovative club-manufacturing empire known throughout golfdom as Ping, a division of Karsten Manufacturing?\n\n“We gave them three options for the name of the event,” John Solheim, one of Karsten’s sons, now in his early 80s, said the other day. His them was the organizing bodies that put on the Solheim Cup, the LPGA and the LET, the Ladies’ European Tour. “Solheim Cup, Karsten Cup or Ping Cup. I’m glad they went with Solheim.”",
+        "copy": "Everyone seems to know that the Ryder Cup is named for — altogether now — the British seed merchant Samuel Ryder, who donated the trophy. But how many people know that the Solheim Cup is named for a transplanted Norwegian named Karsten Solheim, who started making a pinging putter in a garage in Phoenix that eventually became an innovative club-manufacturing empire known throughout golfdom as Ping, a division of Karsten Manufacturing?\n\n“We gave them three options for the name of the event,” John Solheim, one of Karsten’s sons, now in his early 80s, said the other day. His them was the organizing bodies that put on the Solheim Cup, the LPGA and the LET, the Ladies’ European Tour. “Solheim Cup, Karsten Cup or Ping Cup. I’m glad they went with Solheim.”",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Woad & Korda lead best shots from Solheim Cup day one",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/ckg0zlk7j7eo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-11T18:14:14+00:00",
+        "published_label": "Fri 11 Sep, 18:14",
+        "summary": "Watch the best shots from day one of the 2026 Solheim Cup, featuring Europe's Lottie Woad and the US' Nelly Korda.",
+        "body": "",
+        "copy": "Watch the best shots from day one of the 2026 Solheim Cup, featuring Europe's Lottie Woad and the US' Nelly Korda.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Europe rescue half as US falter in final hole drama",
+        "link": "https://www.bbc.co.uk/sport/golf/videos/c804g8ll0xlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-11T17:57:58+00:00",
+        "published_label": "Fri 11 Sep, 17:57",
+        "summary": "Carlota Ciganda's pressure putt for par earns Europe an unlikely half after Lauren Coughlin narrowly missed the chance to earn the US a point, with scores locked at 4-4 following day one of the 2026 Solheim Cup.",
+        "body": "This content is not available in your location. Carlota Ciganda's pressure putt for par earns Europe an unlikely half after Lauren Coughlin narrowly missed the chance to earn the US a point, with scores locked at 4-4 following day one of the 2026 Solheim Cup.",
+        "copy": "This content is not available in your location. Carlota Ciganda's pressure putt for par earns Europe an unlikely half after Lauren Coughlin narrowly missed the chance to earn the US a point, with scores locked at 4-4 following day one of the 2026 Solheim Cup.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Europeans hit into penalty area at Solheim. Then rule lets them 'tee' their ball",
+        "link": "https://golf.com/news/europeans-penalty-solheim-rule-tee/",
+        "published": "2026-09-11T17:17:45+00:00",
+        "published_label": "Fri 11 Sep, 17:17",
+        "summary": "A European team hit into a penalty area at the Solheim Cup on Friday. But a rule let the players “tee” their ball at Bernardus Golf. The post Europeans hit into penalty area at Solheim. Then rule lets them ‘tee’ their ball appeared first on Golf .",
+        "body": "Backward was an option. But Celine Boutier went with the one where she was able to place her ball atop a tuft of grass — an analyst thought the move looked like she was re-teeing — and fire her ball down the fairway.\n\nTo reach that point during first-day play at the Solheim Cup, there had been a little bit of everything. A mishit off the tee. An assessment of a fan bridge. An employment of a rarely seen rule.",
+        "copy": "Backward was an option. But Celine Boutier went with the one where she was able to place her ball atop a tuft of grass — an analyst thought the move looked like she was re-teeing — and fire her ball down the fairway.\n\nTo reach that point during first-day play at the Solheim Cup, there had been a little bit of everything. A mishit off the tee. An assessment of a fan bridge. An employment of a rarely seen rule.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How great college players become great pros, according to a top college coach",
+        "link": "https://golf.com/gear/build-tour-player-college-coach/",
+        "published": "2026-09-11T16:45:33+00:00",
+        "published_label": "Fri 11 Sep, 16:45",
+        "summary": "Matt Thurmond of ASU men's golf has built a career on building good men first and Tour stars second. The challenges of that may surprise you. The post How great college players become great pros, according to a top college coach appeared first on Golf .",
+        "body": "Every time I walk the range at a big amateur event or spend time testing with elite college kids, I see the same thing: launch monitor numbers that would make half the guys in the top 50 in the world blush.\n\nBall speed that jumps off the face. Efficiency numbers through the roof. Perfect wedge gaps. To the untrained eye, the conclusion is simple: How is this kid not walking directly onto the PGA Tour tomorrow?",
+        "copy": "Every time I walk the range at a big amateur event or spend time testing with elite college kids, I see the same thing: launch monitor numbers that would make half the guys in the top 50 in the world blush.\n\nBall speed that jumps off the face. Efficiency numbers through the roof. Perfect wedge gaps. To the untrained eye, the conclusion is simple: How is this kid not walking directly onto the PGA Tour tomorrow?",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Brilliant Lowry surges clear as McIlroy struggles",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cvgyry5ydqgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-11T15:48:27+00:00",
+        "published_label": "Fri 11 Sep, 15:48",
+        "summary": "Shane Lowry cards a course-record 62 to take control of the Irish Open as putting woes prevent defending champion Rory McIlroy from making a second-round charge in Doonbeg.",
+        "body": "-11 S Lowry (Ire); -8 H Li (Chn), N Noergaard (Den), J Skov Olesen (Den); -5 E Ferguson (Sco), J Niemann (Chile), K Kobori (NZ), N Hojgaard (Den), T McKibbin (NIR); -4 A Sullivan (Eng), P Reed (USA), R Neergaard-Petersen (Den), J Dantrop (Swe).\n\nSelected others: -3 J Rahm (Spa), R MacIntyre (Sco); -2 R McIlroy (NIR); -1 A Fitzpatrick (Eng); E L Donald (Eng), S Garcia (Spa); +1 B Koepka (USA), S Straka (Aut). Shane Lowry carded a course-record 62 to take control of the Irish Open as putting woes prevented defending champion Rory McIlroy from making a second-round charge at Doonbeg.",
+        "copy": "-11 S Lowry (Ire); -8 H Li (Chn), N Noergaard (Den), J Skov Olesen (Den); -5 E Ferguson (Sco), J Niemann (Chile), K Kobori (NZ), N Hojgaard (Den), T McKibbin (NIR); -4 A Sullivan (Eng), P Reed (USA), R Neergaard-Petersen (Den), J Dantrop (Swe).\n\nSelected others: -3 J Rahm (Spa), R MacIntyre (Sco); -2 R McIlroy (NIR); -1 A Fitzpatrick (Eng); E L Donald (Eng), S Garcia (Spa); +1 B Koepka (USA), S Straka (Aut). Shane Lowry carded a course-record 62 to take control of the Irish Open as putting woes prevented defending champion Rory McIlroy from making a second-round charge at Doonbeg.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf Winner Makes Late Charge At Q School To Join Fellow Players In Next Stage",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVpxNFNiSENwbG9zSFNrT0hyZzlKSmdNQmVUOGFZTU9GRHp4NFJ5dXYwR2tLMGZVVFNEOUdISDdBbl9xRkZPWTFsNTl5VURvdlRWNU43cWUxeWVUZDl0SmY2c1BpZjNJYjNPUmRoam1WR28xSmVkU0hGYk1VbGoxa1k4cEt2R3dsR3VRdW50dW1MRTAyUXNFOUJhalJWZXdKZWJSaW51WkZPcFlHVjFsVXNPLVI5dw?oc=5",
+        "published": "2026-09-11T15:44:42+00:00",
+        "published_label": "Fri 11 Sep, 15:44",
+        "summary": "LIV Golf Winner Makes Late Charge At Q School To Join Fellow Players In Next Stage Golf Monthly",
+        "body": "With LIV Golf’s future shrouded in uncertainty, several of its players have been attempting to earn DP World Tour cards via the first stage of Q School. Earlier in the month in Huddersfield, England, Josele Ballester and Luis Masaveu moved on to the second stage, which begins in Spain in late October, while Peter Uihlein was disqualified from the event after failing to show up to his third-round tee time.\n\nA week later, another first stage qualifier was held at Seddiner See in Michendorf, Germany, where HyFlyers GC’s Michael La Sasso and LIV Golf wild card Yosuke Asaji were in the field.",
+        "copy": "With LIV Golf’s future shrouded in uncertainty, several of its players have been attempting to earn DP World Tour cards via the first stage of Q School. Earlier in the month in Huddersfield, England, Josele Ballester and Luis Masaveu moved on to the second stage, which begins in Spain in late October, while Peter Uihlein was disqualified from the event after failing to show up to his third-round tee time.\n\nA week later, another first stage qualifier was held at Seddiner See in Michendorf, Germany, where HyFlyers GC’s Michael La Sasso and LIV Golf wild card Yosuke Asaji were in the field.",
+        "first_seen": "2026-09-11T19:00:39.824492+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6907,84 +6985,6 @@
         "body": "On the world clock, New Zealand is well ahead of the United States. But North American golfers have been catching up. They’ve come to recognize the country as a must-visit, magnetic for the quality and diversity of its courses, the beauty of its landscapes and the welcoming spirit of its people.\n\nThat awareness wasn’t born overnight. It began stirring decades ago with the opening of Kauri Cliffs and Cape Kidnappers, luxurious resorts whose seaside layouts, stunning scenery and A-list accommodations remain emblems of New Zealand’s coastal splendor. The more recent arrival of marquee properties like Tara Iti and Te Arai — which combined to deliver three new courses to GOLF’s World Top 100 list — attracted next-level attention that was further magnified by the Covid golf boom. As the spotlight brightened on the North Island, it radiated outward, illuminating a golf scene of remarkable depth and range.",
         "copy": "On the world clock, New Zealand is well ahead of the United States. But North American golfers have been catching up. They’ve come to recognize the country as a must-visit, magnetic for the quality and diversity of its courses, the beauty of its landscapes and the welcoming spirit of its people.\n\nThat awareness wasn’t born overnight. It began stirring decades ago with the opening of Kauri Cliffs and Cape Kidnappers, luxurious resorts whose seaside layouts, stunning scenery and A-list accommodations remain emblems of New Zealand’s coastal splendor. The more recent arrival of marquee properties like Tara Iti and Te Arai — which combined to deliver three new courses to GOLF’s World Top 100 list — attracted next-level attention that was further magnified by the Covid golf boom. As the spotlight brightened on the North Island, it radiated outward, illuminating a golf scene of remarkable depth and range.",
         "first_seen": "2026-09-05T09:57:11.870563+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Testing the YouTube famous Takomo Irons. (Hint: They're impressive)",
-        "link": "https://golf.com/gear/testing-youtube-famous-takomo-irons/",
-        "published": "2026-09-04T18:09:53+00:00",
-        "published_label": "Fri 04 Sep, 18:09",
-        "summary": "The curiosity around Takomo irons has been loud. We wanted to find out why — and the results were very impressive The post Testing the YouTube famous Takomo Irons. (Hint: They’re impressive) appeared first on Golf .",
-        "body": "I’ll just start here: I was late to the Takomo party. I knew the name. I’d seen the irons. I’d seen them all over YouTube and Instagram. I knew Takomo was one of those direct-to-consumer brands that had managed to build a pretty serious following without playing by the traditional golf-equipment rulebook. But knowing about something and actually hitting it are two very different things. There are plenty of golf clubs I’ve looked at, read about and formed an opinion on before ever putting one behind a ball. Then you actually hit them and realize the opinion you had was based on absolutely nothing. Which, to be fair, is kind of how the internet works.\n\nSo when I finally got some time with the Takomo irons, I went into it with one question: What’s the catch? Because golf equipment has conditioned us to think that way. If an iron looks premium, feels premium and performs like the stuff hanging on the wall at your local golf shop, we generally expect the price tag to reflect it. That’s just how this has worked for a long time. Good golf equipment costs good golf-equipment money.",
-        "copy": "I’ll just start here: I was late to the Takomo party. I knew the name. I’d seen the irons. I’d seen them all over YouTube and Instagram. I knew Takomo was one of those direct-to-consumer brands that had managed to build a pretty serious following without playing by the traditional golf-equipment rulebook. But knowing about something and actually hitting it are two very different things. There are plenty of golf clubs I’ve looked at, read about and formed an opinion on before ever putting one behind a ball. Then you actually hit them and realize the opinion you had was based on absolutely nothing. Which, to be fair, is kind of how the internet works.\n\nSo when I finally got some time with the Takomo irons, I went into it with one question: What’s the catch? Because golf equipment has conditioned us to think that way. If an iron looks premium, feels premium and performs like the stuff hanging on the wall at your local golf shop, we generally expect the price tag to reflect it. That’s just how this has worked for a long time. Good golf equipment costs good golf-equipment money.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Stomach issues again hit Walker Cup. And alternate is on ‘standby’",
-        "link": "https://golf.com/news/stomach-issues-walker-cup-alternate-standby/",
-        "published": "2026-09-04T17:51:50+00:00",
-        "published_label": "Fri 04 Sep, 17:51",
-        "summary": "Stomach issues again hit the Walker Cup, an amateur event played this year at Lahinch Golf Club in Ireland. And an alternate is on “standby.” The post Stomach issues again hit Walker Cup. And alternate is on ‘standby’ appeared first on Golf .",
-        "body": "The U.S. Walker Cup team is now “bouncing around,” its captain, Nathan Smith, says. And his players’ stomachs, it appears, have mostly stopped rumbling. On Thursday, two days before this weekend’s amateur event, that features a 10-man American team meeting a 10-man Great Britain and Ireland team at Ireland’s Lahinch Golf Club, Golf Channel’s Brentley Romine reported that multiple Americans were fighting “stomach issues.” Ethan Feng and William Jennings, Romine said, did not practice on Thursday, and three players didn’t attend that night’s banquet.\n\nAt a Friday press conference, though, Smith said every player would be ready for Saturday, though the Americans’ first alternate, Max Herendeen, has been contacted and is on “standby” — though he’s not on site.",
-        "copy": "The U.S. Walker Cup team is now “bouncing around,” its captain, Nathan Smith, says. And his players’ stomachs, it appears, have mostly stopped rumbling. On Thursday, two days before this weekend’s amateur event, that features a 10-man American team meeting a 10-man Great Britain and Ireland team at Ireland’s Lahinch Golf Club, Golf Channel’s Brentley Romine reported that multiple Americans were fighting “stomach issues.” Ethan Feng and William Jennings, Romine said, did not practice on Thursday, and three players didn’t attend that night’s banquet.\n\nAt a Friday press conference, though, Smith said every player would be ready for Saturday, though the Americans’ first alternate, Max Herendeen, has been contacted and is on “standby” — though he’s not on site.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "A muni made me wait 30 mins on an empty course. Was that fair?",
-        "link": "https://golf.com/lifestyle/muni-twilight-pro-shop-tee-time-fair/",
-        "published": "2026-09-04T17:32:28+00:00",
-        "published_label": "Fri 04 Sep, 17:32",
-        "summary": "In its quest to enforce the rules, the pro shop at a California muni lost sight of the bigger picture and alienated a customer. The post A muni made me wait 30 mins on an empty course. Was that fair? appeared first on Golf .",
-        "body": "I recently made a tee time at my local muni for the first twilight spot of the afternoon. I arrived at the course about 35 minutes early, paid my green fee and was on the putting green when I noticed that the 1st hole was wide open. I spoke to the starter, who told me I could go. But as I stepped up to the tee, the woman who’d checked me in burst from the pro shop and yelled at me to stop. Because I’d paid the discounted twilight rate, she said, I’d have to wait until twilight officially began. Never mind that there were no groups waiting to tee off. I looked plaintively at the starter, who shrugged. He was outranked. I tried to reason with the pro shop staffer, but she insisted that I couldn’t start my round. And so I waited for another 30 minutes, with the course empty in front of me and no other golfers teeing off.\n\nTo say that I was irritated is an understatement. I’m a regular at the course and the staffer’s decision struck me as spiteful and small-minded. Was I wrong to be annoyed? As we all know, rules are rules, and they’re meant to be followed. But sometimes they can also be harmlessly broken. Let’s say you’re playing a friendly match with a pal at a poorly conditioned course, and his ball lands in a footprint in the bunker. When he asks if he can move his ball without penalty, you say sure. Have you violated the letter of the law? Technically, yes. Have you made a reasonable decision? Also, yes. On the course, as off it, common sense and context should be our guides.",
-        "copy": "I recently made a tee time at my local muni for the first twilight spot of the afternoon. I arrived at the course about 35 minutes early, paid my green fee and was on the putting green when I noticed that the 1st hole was wide open. I spoke to the starter, who told me I could go. But as I stepped up to the tee, the woman who’d checked me in burst from the pro shop and yelled at me to stop. Because I’d paid the discounted twilight rate, she said, I’d have to wait until twilight officially began. Never mind that there were no groups waiting to tee off. I looked plaintively at the starter, who shrugged. He was outranked. I tried to reason with the pro shop staffer, but she insisted that I couldn’t start my round. And so I waited for another 30 minutes, with the course empty in front of me and no other golfers teeing off.\n\nTo say that I was irritated is an understatement. I’m a regular at the course and the staffer’s decision struck me as spiteful and small-minded. Was I wrong to be annoyed? As we all know, rules are rules, and they’re meant to be followed. But sometimes they can also be harmlessly broken. Let’s say you’re playing a friendly match with a pal at a poorly conditioned course, and his ball lands in a footprint in the bunker. When he asks if he can move his ball without penalty, you say sure. Have you violated the letter of the law? Technically, yes. Have you made a reasonable decision? Also, yes. On the course, as off it, common sense and context should be our guides.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Can strong winds sweep GB&I to rare Walker Cup win?",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c89jgng84q1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-04T17:18:37+00:00",
-        "published_label": "Fri 04 Sep, 17:18",
-        "summary": "Can the conditions in the west of Ireland can sweep Great Britain and Ireland to a rare Walker Cup win?",
-        "body": "Great Britain and Ireland Walker Cup captain Dean Robertson smiled at the blustery conditions at Lahinch for the final day's practice before this weekend's match, saying: \"I'm very happy about it.\"\n\nRobertson hopes the winds blowing across the west of Ireland can sweep in a rare victory for the home side, who are looking to beat America's top amateur golfers for the first time in more than a decade.",
-        "copy": "Great Britain and Ireland Walker Cup captain Dean Robertson smiled at the blustery conditions at Lahinch for the final day's practice before this weekend's match, saying: \"I'm very happy about it.\"\n\nRobertson hopes the winds blowing across the west of Ireland can sweep in a rare victory for the home side, who are looking to beat America's top amateur golfers for the first time in more than a decade.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "As the golf season winds down, Arccos keeps me improving",
-        "link": "https://golf.com/gear/golf-accessories/arccos-golf-mental-game-tracking/",
-        "published": "2026-09-04T16:57:54+00:00",
-        "published_label": "Fri 04 Sep, 16:57",
-        "summary": "I discovered a new area of golf focus on my Arccos app this month, and it's helping me understand my game beyond the clubs or the swing. The post As the golf season winds down, Arccos keeps me improving appeared first on Golf .",
-        "body": "I’ve spent another month with Arccos game-tracking but this time most of my rounds were spent testing out upcoming club releases. It’s interesting to see what happens to my game when I’m not using my normal set, not to mention the new feature (or possibly one that I missed previously) that I’d love to dive into.\n\nI’m still using the Arccos Air and the Arccos Smart Laser every time I play (as long as the course is rated) and both devices have been nothing but flawless. Now that I’ve been using the system for a good bit of time, the accuracy continues to improve and I am essentially at a point where I don’t even touch my phone or the app during my round, and everything is logged, no problem. Let’s use my August golf recap to see 1) where we’re at, 2) what clubs could land in the bag, and 3) what I still need to work on.",
-        "copy": "I’ve spent another month with Arccos game-tracking but this time most of my rounds were spent testing out upcoming club releases. It’s interesting to see what happens to my game when I’m not using my normal set, not to mention the new feature (or possibly one that I missed previously) that I’d love to dive into.\n\nI’m still using the Arccos Air and the Arccos Smart Laser every time I play (as long as the course is rated) and both devices have been nothing but flawless. Now that I’ve been using the system for a good bit of time, the accuracy continues to improve and I am essentially at a point where I don’t even touch my phone or the app during my round, and everything is logged, no problem. Let’s use my August golf recap to see 1) where we’re at, 2) what clubs could land in the bag, and 3) what I still need to work on.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf star disqualified from DP World Tour Q School",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWdPZ0NFY29RbHBhaTBNaUhMMDZ1eG5fV3d4alVrR1VJNVIzSnUydWk4S1ZwRXFPb3Z4STVFRDlZQ2x2Ul9vc243TGN5LVIzRXZPMjNMNlZyRGNJOW9DX2RIY0RpWTVYZHhaRV92cTRDNmdPLWFKMXBrZGRLd0FYN0ZVUUg1UUJxNDRyNU52TzBRcmM0Sl9rd25kV2tDWmpUbU5FVHZMZGdyQQ?oc=5",
-        "published": "2026-09-04T16:16:45+00:00",
-        "published_label": "Fri 04 Sep, 16:16",
-        "summary": "LIV Golf star disqualified from DP World Tour Q School Today's Golfer",
-        "body": "As uncertainty around the future of LIV Golf continues to swirl, many of the league’s players are doing all they can to secure playing rights for the 2027 season. While the likes of Jon Rahm and Tyrrell Hatton will have little concern about picking up starts on the DP World Tour, others are having to work a bit harder. That includes their Legion XIII teammate Caleb Surratt, who has entered a couple of HotelPlanner Tour events in recent weeks, and the trio of Luis Masaveu, Josele Ballester and Peter Uihlein, who all teed up in this week’s first stage of the DP World Tour’s grueling Q School experience.\n\nWith two rounds completed at Huddersfield Golf Club in England, Fireballs pair Masaveu and Ballester are still in the running at 2-under and 1-over respectively, but Uihlein has been disqualified after failing to show up for Friday’s third round – which is yet to get underway as strong winds wreak havoc in West Yorkshire.",
-        "copy": "As uncertainty around the future of LIV Golf continues to swirl, many of the league’s players are doing all they can to secure playing rights for the 2027 season. While the likes of Jon Rahm and Tyrrell Hatton will have little concern about picking up starts on the DP World Tour, others are having to work a bit harder. That includes their Legion XIII teammate Caleb Surratt, who has entered a couple of HotelPlanner Tour events in recent weeks, and the trio of Luis Masaveu, Josele Ballester and Peter Uihlein, who all teed up in this week’s first stage of the DP World Tour’s grueling Q School experience.\n\nWith two rounds completed at Huddersfield Golf Club in England, Fireballs pair Masaveu and Ballester are still in the running at 2-under and 1-over respectively, but Uihlein has been disqualified after failing to show up for Friday’s third round – which is yet to get underway as strong winds wreak havoc in West Yorkshire.",
-        "first_seen": "2026-09-05T09:57:11.870563+00:00"
       }
     ],
     "Badminton": [
@@ -7403,19 +7403,6 @@
         "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-09-05T13:16:24.331070+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Siti Zulaikha v Ting Yu Liang LIVE 09/09/2026 | Badminton",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREFJUm1mZTVocEhnNk9hR3FuUlZpa1hycmRQc0s0TzFzLXVXX0Jub0l1WW9UQlk4MWZvcDhLLTJPejJFX3NXY3JzYUNldjZPajNvdXV1YWw1VUlqaDhXM0NfWG9RZlE0VEpMdGNlSkNCdFpEckVxSkt2U3l0WndDbVBEek1oTkFKWm5vTXFOcnhLSHRYRXc?oc=5",
-        "published": "2026-09-04T16:32:42+00:00",
-        "published_label": "Fri 04 Sep, 16:32",
-        "summary": "Siti Zulaikha v Ting Yu Liang LIVE 09/09/2026 | Badminton Flashscore UK",
-        "body": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
-        "copy": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé) Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent and legitimate interest. You may exercise your right to consent or object to a legitimate interest, based on a specific purpose below or at a partner level in the link under each purpose. These choices will be signaled to our vendors participating in the Transparency and Consent Framework. The choices you make regarding the purposes and vendors listed in this notice are saved and stored locally on your device for a maximum duration of 1 year.",
-        "first_seen": "2026-09-04T18:49:37.801523+00:00"
       }
     ],
     "Competitor News": [
@@ -7694,5 +7681,5 @@
       }
     ]
   },
-  "total": 590
+  "total": 589
 }
