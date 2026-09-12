@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:43:17.688413+00:00",
-  "generated_label": "Saturday 12 September 2026, 11:43 UTC",
+  "generated_at": "2026-09-12T14:58:38.169387+00:00",
+  "generated_label": "Saturday 12 September 2026, 14:58 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -37,6 +37,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-12T11:43:17.688413+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "An ode to North America’s longest saltwater pool",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUmdzQWZjTzktbTl5Y3ZFYzhXd1I1VEtSdTlmQzJfSHNWeGpxY3Babko3emxvNy1jeVFONURwNXVMY3RQWUpxdEF2Zi1nOUtHMHlvMkk4ZVhSMDdtZmlGZGlCTWlmYVZ4a3NOUkN6dkk?oc=5",
+        "published": "2026-09-12T04:00:05+00:00",
+        "published_label": "Sat 12 Sep, 04:00",
+        "summary": "An ode to North America’s longest saltwater pool Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-12T14:58:38.169387+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1509,6 +1522,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Two-time World Cup winner targets 'unbelievable' career first",
+        "link": "https://www.rugbypass.com/news/two-time-world-cup-winner-targets-unbelievable-career-first/",
+        "published": "2026-09-12T14:00:58+00:00",
+        "published_label": "Sat 12 Sep, 14:00",
+        "summary": "Natasha ‘Mo’ Hunt has packed plenty into an illustrious career already.",
+        "body": "Natasha ‘Mo’ Hunt has packed plenty into an illustrious career already. The 37-year-old has earned 89 England caps to date, lifted multiple Guinness Women’s Six Nations titles, become a two-time Olympian by competing at the 2016 Rio Olympics and delayed Tokyo Olympics, and played big part in her club Gloucester Hartpury’s remarkable Premiership Women’s Rugby ‘three-peat’ success between 2022-2025.\n\nThose achievements only scratch the surface of the renowned Red Roses scrum-half’s decorated career. Now, however, Hunt has her sights set on a new challenge – becoming part of history with the inaugural British & Irish Lions Women’s tour to New Zealand in 2027.",
+        "copy": "Natasha ‘Mo’ Hunt has packed plenty into an illustrious career already. The 37-year-old has earned 89 England caps to date, lifted multiple Guinness Women’s Six Nations titles, become a two-time Olympian by competing at the 2016 Rio Olympics and delayed Tokyo Olympics, and played big part in her club Gloucester Hartpury’s remarkable Premiership Women’s Rugby ‘three-peat’ success between 2022-2025.\n\nThose achievements only scratch the surface of the renowned Red Roses scrum-half’s decorated career. Now, however, Hunt has her sights set on a new challenge – becoming part of history with the inaugural British & Irish Lions Women’s tour to New Zealand in 2027.",
+        "first_seen": "2026-09-12T14:58:38.169387+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Japan book place in home PNC Final with impressive win over the USA",
+        "link": "https://www.rugbypass.com/news/japan-through-to-home-pnc-final-with-impressive-win-over-the-usa-in-osaka/",
+        "published": "2026-09-12T11:55:03+00:00",
+        "published_label": "Sat 12 Sep, 11:55",
+        "summary": "Japan are through to the Asahi Super Dry Pacific Nations Cup 2026 Final after defeating the USA at Osaka'a Hanazono Rugby Stadium.",
+        "body": "Japan are through to the Asahi Super Dry Pacific Nations Cup 2026 Final after defeating the USA 63-14 at Osaka’s Hanazono Rugby Stadium on Saturday. The Brave Blossoms will play for the title in front of a home crowd in Tokyo, where they will face defending champions Fiji.\n\nThere were some similarities in how the semi-finals played out, with both Fiji and Japan racing out to early leads before their North American opponents fought back. Fiji led 45-17 with less than 20 minutes left, but the Canadians hit back with two late tries.",
+        "copy": "Japan are through to the Asahi Super Dry Pacific Nations Cup 2026 Final after defeating the USA 63-14 at Osaka’s Hanazono Rugby Stadium on Saturday. The Brave Blossoms will play for the title in front of a home crowd in Tokyo, where they will face defending champions Fiji.\n\nThere were some similarities in how the semi-finals played out, with both Fiji and Japan racing out to early leads before their North American opponents fought back. Fiji led 45-17 with less than 20 minutes left, but the Canadians hit back with two late tries.",
+        "first_seen": "2026-09-12T14:58:38.169387+00:00"
+      },
       {
         "section": "Rugby",
         "source": "SVNS watch",
@@ -3991,61 +4030,22 @@
         "body": "South Africa player ratings: The Springboks built a 2-1 lead in Rugby’s Greatest Rivalry series on Saturday, defeating the All Blacks 29-24 at FNB Stadium. Just like the first Test in Johannesburg, there was nothing to separate the two sides at the break, with a 12-12 scoreline meaning everything was to play for.\n\nBut similarly to the first Test, the Boks appeared to spurn a few chances. However, on this occasion it did not come back to haunt them. Rassie Erasmus’ side did not take their foot off in the second half, with the scrum continuing to dominate and the replacements adding real value.",
         "copy": "South Africa player ratings: The Springboks built a 2-1 lead in Rugby’s Greatest Rivalry series on Saturday, defeating the All Blacks 29-24 at FNB Stadium. Just like the first Test in Johannesburg, there was nothing to separate the two sides at the break, with a 12-12 scoreline meaning everything was to play for.\n\nBut similarly to the first Test, the Boks appeared to spurn a few chances. However, on this occasion it did not come back to haunt them. Rassie Erasmus’ side did not take their foot off in the second half, with the scrum continuing to dominate and the replacements adding real value.",
         "first_seen": "2026-09-05T19:55:24.000526+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'We needed that': Black Ferns take positives from challenging Springbok Women encounter",
-        "link": "https://www.rugbypass.com/news/we-needed-that-black-ferns-take-positives-from-challenging-springbok-women-encounter/",
-        "published": "2026-09-05T14:40:38+00:00",
-        "published_label": "Sat 05 Sep, 14:40",
-        "summary": "Black Ferns co-captain Georgia Ponsonby was quick to praise the Springbok Women after her team's 52-20 win at FNB Stadium.",
-        "body": "Black Ferns co-captain Georgia Ponsonby praised the Springbok Women’s first half challenge after her team’s 52-20 win at FNB Stadium. The six-time world champions had to overcome an emboldened South Africa, who dominated at the scrum early on. Ultimately, Whitney Hansen’s Black Ferns triumphed as South African bodies tired at altitude.\n\nBraxton Sorensen-McGee and Elinor-Plum King’s braces accounted for half of the Black Ferns’ tries, while Chryss Viliko, Maia Joseph, Ma’ama Mo’onia Vaipulu and Amarante Sititi also dotted down.",
-        "copy": "Black Ferns co-captain Georgia Ponsonby praised the Springbok Women’s first half challenge after her team’s 52-20 win at FNB Stadium. The six-time world champions had to overcome an emboldened South Africa, who dominated at the scrum early on. Ultimately, Whitney Hansen’s Black Ferns triumphed as South African bodies tired at altitude.\n\nBraxton Sorensen-McGee and Elinor-Plum King’s braces accounted for half of the Black Ferns’ tries, while Chryss Viliko, Maia Joseph, Ma’ama Mo’onia Vaipulu and Amarante Sititi also dotted down.",
-        "first_seen": "2026-09-05T16:33:46.499002+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Black Ferns player ratings vs Springbok Women | Rugby's Greatest Rivalry",
-        "link": "https://www.rugbypass.com/news/black-ferns-player-ratings-vs-springbok-women-rugbys-greatest-rivalry/",
-        "published": "2026-09-05T13:38:28+00:00",
-        "published_label": "Sat 05 Sep, 13:38",
-        "summary": "The Black Ferns overcame the Springbok Women's pure power to register a 52-20 victory at Soweto's FNB Stadium.",
-        "body": "The Black Ferns overcame the Springbok Women’s pure power to register a 52-20 victory at Soweto’s FNB Stadium. In the first half, South Africa brought back a little bit of their Women’s Rugby World Cup 2025 magic to trail by just two points at the 20-minute mark.\n\nEarly tries for New Zealand’s Elinor-Plum King and Braxton Sorensen-McGee handed the visitors a 12-point lead. Lindelwa Gwala and Aphiwe Ngwevu hit back with a pair of tries for South Africa, who were laying down a stern challenge in close quarters.",
-        "copy": "The Black Ferns overcame the Springbok Women’s pure power to register a 52-20 victory at Soweto’s FNB Stadium. In the first half, South Africa brought back a little bit of their Women’s Rugby World Cup 2025 magic to trail by just two points at the 20-minute mark.\n\nEarly tries for New Zealand’s Elinor-Plum King and Braxton Sorensen-McGee handed the visitors a 12-point lead. Lindelwa Gwala and Aphiwe Ngwevu hit back with a pair of tries for South Africa, who were laying down a stern challenge in close quarters.",
-        "first_seen": "2026-09-05T16:33:46.499002+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Springbok Women prove power but fall to electric Black Ferns",
-        "link": "https://www.rugbypass.com/news/springboks-women-prove-power-but-fall-to-electric-black-ferns/",
-        "published": "2026-09-05T13:25:09+00:00",
-        "published_label": "Sat 05 Sep, 13:25",
-        "summary": "The first-ever Test match between the Black Ferns and Springbok Women took place at Africa's biggest stadium on Saturday afternoon, celebrating a new chapter in 'Rugby's Greatest Rivalry'.",
-        "body": "The second-ever Test match between the Black Ferns and Springbok Women took place at Africa’s biggest stadium on Saturday afternoon, celebrating a new chapter in ‘Rugby’s Greatest Rivalry’.\n\nThe Springbok Women had their way in the scrum and won a slew of early breakdown steals, but ultimately couldn’t keep pace with the flying Kiwis, despite the women in black conceding four yellow cards. The hosts stayed within reach for the opening half, but the Black Ferns’ pace and power were too much in the end, with a winning scoreline of 52-20 registered.",
-        "copy": "The second-ever Test match between the Black Ferns and Springbok Women took place at Africa’s biggest stadium on Saturday afternoon, celebrating a new chapter in ‘Rugby’s Greatest Rivalry’.\n\nThe Springbok Women had their way in the scrum and won a slew of early breakdown steals, but ultimately couldn’t keep pace with the flying Kiwis, despite the women in black conceding four yellow cards. The hosts stayed within reach for the opening half, but the Black Ferns’ pace and power were too much in the end, with a winning scoreline of 52-20 registered.",
-        "first_seen": "2026-09-05T16:33:46.499002+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Portugal add former Sakura Fifteen boss to coaching staff ahead of Nations Cup",
-        "link": "https://www.rugbypass.com/news/portugal-add-former-sakura-fifteen-boss-to-coaching-staff-ahead-of-nations-cup/",
-        "published": "2026-09-05T11:45:25+00:00",
-        "published_label": "Sat 05 Sep, 11:45",
-        "summary": "Lesley McKenzie has joined Rugby World Cup-bound Portugal after six years in charge of the Sakura Fifteen.",
-        "body": "Lesley McKenzie has joined Rugby World Cup-bound Portugal after six years in charge of the Sakura Fifteen. The 25-cap Canada international has joined Simon Mannix’s Portugal coaching staff as a contact coach focusing on the breakdown, winning collisions and tackle technique. In November, Os Lobos will play World Rugby Nations Cup fixtures against Chile, Samoa and Uruguay in Lisbon.\n\nAt Women’s Rugby World Cup 2025, McKenzie’s Japan exited the tournament after a third-place finish in Pool C before concluding their time in England with a 29-21 victory against Spain in York.",
-        "copy": "Lesley McKenzie has joined Rugby World Cup-bound Portugal after six years in charge of the Sakura Fifteen. The 25-cap Canada international has joined Simon Mannix’s Portugal coaching staff as a contact coach focusing on the breakdown, winning collisions and tackle technique. In November, Os Lobos will play World Rugby Nations Cup fixtures against Chile, Samoa and Uruguay in Lisbon.\n\nAt Women’s Rugby World Cup 2025, McKenzie’s Japan exited the tournament after a third-place finish in Pool C before concluding their time in England with a 29-21 victory against Spain in York.",
-        "first_seen": "2026-09-05T13:16:24.331070+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Could Jack Draper Follow the Path of Robin Soderling?",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlJrRUFhTUhVUjlHcTBucVJRNHJMeFBaOHRjUzQ5ekk5OTkxVHlRTGIyZXp3bUlMYnd6QjFxZGpTWE9SVkUyaUM0Nk11bjd1THA4Y2xZelJBU0tvTjNrRW1kZXFhU2NTTFBXa05wWnctM2IyZDhUTWd3TkdIOHBsanAtZw?oc=5",
+        "published": "2026-09-12T11:45:06+00:00",
+        "published_label": "Sat 12 Sep, 11:45",
+        "summary": "Could Jack Draper Follow the Path of Robin Soderling? sports.yahoo.com",
+        "body": "- Could Jack Draper Follow the Path of Robin Soderling? The summer of 2011 should have been Robin Soderling's. He was ranked No. 4 in the world, had reached consecutive French Open finals, and had beaten Rafael Nadal at Roland Garros in 2009, the only player to do so on clay before 2015. He was 26 years old and playing some of the best tennis of his life. Then, in July, he felt something was wrong. He played on anyway.\n\nHe won the Swedish Open in Bastad, which turned out to be the last professional match he would ever play. Shortly after, he was diagnosed with mononucleosis, the viral infection that had been draining him for weeks. He tried to come back for four years. He never did.",
+        "copy": "- Could Jack Draper Follow the Path of Robin Soderling? The summer of 2011 should have been Robin Soderling's. He was ranked No. 4 in the world, had reached consecutive French Open finals, and had beaten Rafael Nadal at Roland Garros in 2009, the only player to do so on clay before 2015. He was 26 years old and playing some of the best tennis of his life. Then, in July, he felt something was wrong. He played on anyway.\n\nHe won the Swedish Open in Bastad, which turned out to be the last professional match he would ever play. Shortly after, he was diagnosed with mononucleosis, the viral infection that had been draining him for weeks. He tried to come back for four years. He never did.",
+        "first_seen": "2026-09-12T14:58:38.169387+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -5241,22 +5241,48 @@
         "body": "After returning to Grand Slam doubles action for the first time in four years at this year's US Open, what better time to reflect on the three-decade long careers of Venus and Serena Williams? Earlier this year Russell Fuller sat down with his predecessors as BBC Tennis Correspondent, Jonathan Overend and Iain Carter, to reflect on the Williams sisters’ careers. The trio discuss everything from Venus' rapid rise before the arrival of her sister, to Serena's inevitable dominance & her sometimes spiky relationship with the media. Timecodes 07:21 Anti-climactic finals between them, & suspicion around pre-arranged matches 11:01 Their dominance in the doubles 13:28 Serena wins & holds all four grand-slams, beating Venus in every Final 15:41 Serena's will to win & was she a particularly bad loser? 18:35 Health problems for both sisters in 2011 19:25 Serena's partnership with Patrick Mouratoglou, & chasing the Margaret Court record 24:14 Russell's sole interview with Serena in 2018",
         "copy": "After returning to Grand Slam doubles action for the first time in four years at this year's US Open, what better time to reflect on the three-decade long careers of Venus and Serena Williams? Earlier this year Russell Fuller sat down with his predecessors as BBC Tennis Correspondent, Jonathan Overend and Iain Carter, to reflect on the Williams sisters’ careers. The trio discuss everything from Venus' rapid rise before the arrival of her sister, to Serena's inevitable dominance & her sometimes spiky relationship with the media. Timecodes 07:21 Anti-climactic finals between them, & suspicion around pre-arranged matches 11:01 Their dominance in the doubles 13:28 Serena wins & holds all four grand-slams, beating Venus in every Final 15:41 Serena's will to win & was she a particularly bad loser? 18:35 Health problems for both sisters in 2011 19:25 Serena's partnership with Patrick Mouratoglou, & chasing the Margaret Court record 24:14 Russell's sole interview with Serena in 2018",
         "first_seen": "2026-09-05T19:55:24.000526+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Williams sisters crash out of US Open after losing to Chan and Joint",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/cvgy99dgpjxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-05T13:43:02+00:00",
-        "published_label": "Sat 05 Sep, 13:43",
-        "summary": "Venus and Serena Williams fell short against 14th seeds Chan Hao-Ching and Maya Joint who beat them 6-3 6-7 (6-8) 7-6 (10-7) in front of a roaring Arthur Ashe stadium at the US Open.",
-        "body": "This content is not available in your location. Venus and Serena Williams fell short against 14th seeds Chan Hao-Ching and Maya Joint who beat them 6-3 6-7 (6-8) 7-6 (10-7) in front of a roaring Arthur Ashe stadium at the US Open.\n\nREAD MORE: Williams sisters exit US Open but excite - what does future hold?",
-        "copy": "This content is not available in your location. Venus and Serena Williams fell short against 14th seeds Chan Hao-Ching and Maya Joint who beat them 6-3 6-7 (6-8) 7-6 (10-7) in front of a roaring Arthur Ashe stadium at the US Open.\n\nREAD MORE: Williams sisters exit US Open but excite - what does future hold?",
-        "first_seen": "2026-09-05T16:33:46.499002+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The Solheim Cup venue isn't a 'club' or 'course.' Here's why",
+        "link": "https://golf.com/travel/solheim-cup-bernardus-golf-netherlands-naming/",
+        "published": "2026-09-12T12:45:23+00:00",
+        "published_label": "Sat 12 Sep, 12:45",
+        "summary": "Bernardus Golf in the Netherlands, host of the 2026 Solheim Cup, is a high-end property and a smartly cultivated brand. The post The Solheim Cup venue isn’t a ‘club’ or ‘course.’ Here’s why appeared first on Golf .",
+        "body": "What’s in a name? At this week’s Solheim Cup in the Netherlands, the question gives us plenty to unpack. The host venue is Bernardus Golf, a name that’s notable for what’s not in it. No mention of “club.” No reference to “course.”\n\nRobert van der Wallen, the Dutch entrepreneur who developed Bernardus, set out to create an upscale members’ enclave without the starchy trappings of a country club. He wanted the property to feel exclusive. He didn’t want it to be off limits. So he omitted “club,” with its closed-circle connotations. And he left out “course,” with its utilitarian implications. What remained — Bernardus Golf — has the ring of a lifestyle brand, an experience anyone can access.",
+        "copy": "What’s in a name? At this week’s Solheim Cup in the Netherlands, the question gives us plenty to unpack. The host venue is Bernardus Golf, a name that’s notable for what’s not in it. No mention of “club.” No reference to “course.”\n\nRobert van der Wallen, the Dutch entrepreneur who developed Bernardus, set out to create an upscale members’ enclave without the starchy trappings of a country club. He wanted the property to feel exclusive. He didn’t want it to be off limits. So he omitted “club,” with its closed-circle connotations. And he left out “course,” with its utilitarian implications. What remained — Bernardus Golf — has the ring of a lifestyle brand, an experience anyone can access.",
+        "first_seen": "2026-09-12T14:58:38.169387+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Phil Mickelson reportedly owned LIV Golf stake before bankruptcy filing",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPamVmV3NXdmhqb2VnVk9wbnEza0h1UHJtVnhJSVI3Q21EMFZmNzBJVHVCNjlzQTg3VjNxY1hQeFhBVTNGYjYtemZkREQtaDJCSjdLSHVxSkQtVEhjRnlodThpZ1RwbWROVXpHa0dldlJES2JxdWkxS0t4dF83bkhJVi1NVC02cFRIRzNEYnJpUlZFdjBHU1JONG15U1ZsbVg2d3R4bzJQaWJMOTQ3Wklmckw1N3ozMl9XcGJ3WFdmVXdVYjBv?oc=5",
+        "published": "2026-09-12T12:45:00+00:00",
+        "published_label": "Sat 12 Sep, 12:45",
+        "summary": "Phil Mickelson reportedly owned LIV Golf stake before bankruptcy filing Tennis World USA",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-12T14:58:38.169387+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "What it's like to take on Tiger Woods — and win — at the Presidents Cup",
+        "link": "https://golf.com/news/what-like-take-on-tiger-woods-win-presidents-cup/",
+        "published": "2026-09-12T12:30:07+00:00",
+        "published_label": "Sat 12 Sep, 12:30",
+        "summary": "On this week's Subpar, Brendon de Jonge reflected on his 2013 Presidents Cup foursomes victory with Ernie Els against Tiger Woods and Matt Kuchar. The post What it’s like to take on Tiger Woods — and win — at the Presidents Cup appeared first on Golf .",
+        "body": "Brendon de Jonge enjoyed a lengthy PGA Tour career that encompassed 317 starts. While he never notched a victory, de Jonge did post 10 top-5s, 28 top-10s and 68 top-25 finishes between 2007 and 2018. The 46-year-old is now working in broadcast media as an on-air analyst and radio host.\n\nOn this week’s episode of Subpar, de Jonge joined hosts Colt Knost and Drew Stoltz to reflect on his some of his career highlights, including his experience on the 2013 Presidents Cup team, where he was paired with Ernie Els and tasked with taking on Tiger Woods and Matt Kuchar in Saturday afternoon’s foursomes matches.",
+        "copy": "Brendon de Jonge enjoyed a lengthy PGA Tour career that encompassed 317 starts. While he never notched a victory, de Jonge did post 10 top-5s, 28 top-10s and 68 top-25 finishes between 2007 and 2018. The 46-year-old is now working in broadcast media as an on-air analyst and radio host.\n\nOn this week’s episode of Subpar, de Jonge joined hosts Colt Knost and Drew Stoltz to reflect on his some of his career highlights, including his experience on the 2013 Presidents Cup team, where he was paired with Ernie Els and tasked with taking on Tiger Woods and Matt Kuchar in Saturday afternoon’s foursomes matches.",
+        "first_seen": "2026-09-12T14:58:38.169387+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -5279,8 +5305,8 @@
         "published": "2026-09-12T11:28:19+00:00",
         "published_label": "Sat 12 Sep, 11:28",
         "summary": "Europe won the first three matches on Saturday at Bernardus Golf in the Netherlands to take a 7-5 lead in the Solheim Cup. The post Europe finally breaks Solheim Cup tie, pulls ahead Saturday morning appeared first on Golf .",
-        "body": "A dominating performance from Americans Alison Lee and Lauren Coughlin was the only thing that stood between the Europeans and an early morning foursomes sweep on Saturday at the Solheim Cup.\n\nEurope won the first three matches of Day 2 at Bernardus Golf in the Netherlands to take a 7-5 lead in the Solheim Cup. This all comes after the U.S. and Europe tied both Friday sessions 2-2, just the second time in Solheim Cup history the event was deadlocked after Day 1.",
-        "copy": "A dominating performance from Americans Alison Lee and Lauren Coughlin was the only thing that stood between the Europeans and an early morning foursomes sweep on Saturday at the Solheim Cup.\n\nEurope won the first three matches of Day 2 at Bernardus Golf in the Netherlands to take a 7-5 lead in the Solheim Cup. This all comes after the U.S. and Europe tied both Friday sessions 2-2, just the second time in Solheim Cup history the event was deadlocked after Day 1.",
+        "body": "A dominating performance from Americans Alison Lee and Lauren Coughlin was the only thing that stood between the Europeans and an early morning foursomes sweep on Saturday at the Solheim Cup.\n\nEurope won the first three matches of Day 2 at Bernardus Golf in the Netherlands to take a 7-5 lead. “We don’t like being down, but look, I think this afternoon is really important,” said U.S. captain Angela Stanford. “It’s going to be the toughest session because it’s probably the most fans we have seen out here. They’re getting rowdy. So this is going to be a really tough afternoon. And I told them it’s going to be tough. So hopefully they’re up for it.”",
+        "copy": "A dominating performance from Americans Alison Lee and Lauren Coughlin was the only thing that stood between the Europeans and an early morning foursomes sweep on Saturday at the Solheim Cup.\n\nEurope won the first three matches of Day 2 at Bernardus Golf in the Netherlands to take a 7-5 lead. “We don’t like being down, but look, I think this afternoon is really important,” said U.S. captain Angela Stanford. “It’s going to be the toughest session because it’s probably the most fans we have seen out here. They’re getting rowdy. So this is going to be a really tough afternoon. And I told them it’s going to be tough. So hopefully they’re up for it.”",
         "first_seen": "2026-09-12T11:43:17.688413+00:00"
       },
       {
@@ -7063,32 +7089,6 @@
         "body": "In our quest for ease and grace and rhythm and all the things that comprise effortlessness, what could make more sense than walking in the oh-so-light footsteps of the giants? The players who make the complicated look simple, who seem to enter a flow state upon setting foot inside the ropes, who magically pull power from the ether. The ones whose buttery swings you’d kill for, with a butter knife if necessary.\n\nSome, like Bobby Jones and Mickey Wright, are all-time greats; others are simply all-time pure. Here are the effortlessest of the effortless, in their own words. 1. Bobby Jones. 1930 Grand Slam winner, 13 majors",
         "copy": "In our quest for ease and grace and rhythm and all the things that comprise effortlessness, what could make more sense than walking in the oh-so-light footsteps of the giants? The players who make the complicated look simple, who seem to enter a flow state upon setting foot inside the ropes, who magically pull power from the ether. The ones whose buttery swings you’d kill for, with a butter knife if necessary.\n\nSome, like Bobby Jones and Mickey Wright, are all-time greats; others are simply all-time pure. Here are the effortlessest of the effortless, in their own words. 1. Bobby Jones. 1930 Grand Slam winner, 13 majors",
         "first_seen": "2026-09-05T16:33:46.499002+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Golf insider makes LIV prediction: \"To my mind, that's okay\"",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWJjMEZaLW5LYm0tMzVZMHJTeGFDakZsYi1HakpLUXBIc0twLVlseTBYTlBSc3FDX2pzb0RhQkxXcDZlYUtqOTVXYXdZWFI1TU9fdzRRSXFJa2Fha24yMmdtUDdZWUpXUDVKS0dnSlBBTkJ5RTJsSjUtVEtXZzNSOHV4RVZlUmRQYXZkUlBXenVOWEZuWXJ3?oc=5",
-        "published": "2026-09-05T14:47:11+00:00",
-        "published_label": "Sat 05 Sep, 14:47",
-        "summary": "Golf insider makes LIV prediction: \"To my mind, that's okay\" Golfmagic",
-        "body": "LIV Golf has enough players with \"nowhere to go\" that it could survive its current financial crisis and emerge as a much smaller circuit, according to journalist and author Alan Shipnuck.\n\nThe breakaway tour has faced mounting uncertainty over its future since Saudi Arabia's Public Investment Fund decided to end its direct funding of LIV beyond the 2026 season. The Financial Times reported last week that LIV was preparing for a potential bankruptcy filing as early 7 September in a move that could allow the league to restructure its financial obligations.",
-        "copy": "LIV Golf has enough players with \"nowhere to go\" that it could survive its current financial crisis and emerge as a much smaller circuit, according to journalist and author Alan Shipnuck.\n\nThe breakaway tour has faced mounting uncertainty over its future since Saudi Arabia's Public Investment Fund decided to end its direct funding of LIV beyond the 2026 season. The Financial Times reported last week that LIV was preparing for a potential bankruptcy filing as early 7 September in a move that could allow the league to restructure its financial obligations.",
-        "first_seen": "2026-09-05T16:33:46.499002+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Brainless of me': Early scooped putt leads to Walker Cup rules drama",
-        "link": "https://golf.com/news/walker-cup-early-scooped-putt-rules-controvery/",
-        "published": "2026-09-05T13:29:29+00:00",
-        "published_label": "Sat 05 Sep, 13:29",
-        "summary": "The 51st Walker Cup started with a meaningful short miss by the World No. 1 and some rules drama after an early scooped putt. The post ‘Brainless of me’: Early scooped putt leads to Walker Cup rules drama appeared first on Golf .",
-        "body": "The first session of the 51st Walker Cup at Lahinch Golf Club wasn’t short on drama. While the Americans are the clear favorites on paper, they face their stiffest test in some time against a Great Britain and Ireland team that is hungry to end Team USA’s five-tournament winning streak. Saturday morning’s foursomes session opened with World No. 1 amateur Preston Stout and Ethan Fang facing Stuart Grehan and Eliot Baker. The two teams traded blows for 15 holes, with Grehan and Baker taking a 1-up lead with three holes to play. But the Americans won 16 and 17 to reach the final hole in position to put an early point on the board.\n\nAfter GB&I got in with a birdie four on the par-5 18th, Stout had a short birdie putt to tie the hole and win the match for the Americans. But his attempt slid past the hole, and GB&I salvaged a big half-point to open the competition.",
-        "copy": "The first session of the 51st Walker Cup at Lahinch Golf Club wasn’t short on drama. While the Americans are the clear favorites on paper, they face their stiffest test in some time against a Great Britain and Ireland team that is hungry to end Team USA’s five-tournament winning streak. Saturday morning’s foursomes session opened with World No. 1 amateur Preston Stout and Ethan Fang facing Stuart Grehan and Eliot Baker. The two teams traded blows for 15 holes, with Grehan and Baker taking a 1-up lead with three holes to play. But the Americans won 16 and 17 to reach the final hole in position to put an early point on the board.\n\nAfter GB&I got in with a birdie four on the par-5 18th, Stout had a short birdie putt to tie the hole and win the match for the Americans. But his attempt slid past the hole, and GB&I salvaged a big half-point to open the competition.",
-        "first_seen": "2026-09-05T16:33:46.499002+00:00"
       }
     ],
     "Badminton": [
@@ -7494,45 +7494,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-05T16:33:46.499002+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "China Masters: Teammates Lee, Gunawan in Historic Final",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzRRTUNJbFd1TXlVckVNLXVhRGtwOGhIMmtoQWdKcUxwbHM4N0Q5bUNFU0pJYkREa1Q1YnpBMnJsWGxrYlhZQi1IYWk0Z1IwYXd5aVhOUm5wMDdwOXZyeW9DU1k5dE5RU1dESS1Zdl9DdDlHbVRvRGUzaURFa0I5bzVsZmI3c1NROVhMOFFabnNkd0NCdjZPeDdaRUVCUHNMVUpQYkFFcXZmdkpPYVpnejVmNFA?oc=5",
-        "published": "2026-09-05T14:48:36+00:00",
-        "published_label": "Sat 05 Sep, 14:48",
-        "summary": "China Masters: Teammates Lee, Gunawan in Historic Final BWF World Tour",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-09-05T19:55:24.000526+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "China Masters: Teammates Lee, Gunawan in Historic Final",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZFhyM0lpeDdVb0t5QWY5NFZoZ0NIdTBERDBKSGxzTlNyMHN6WGloa3NJbHRtN3AyT09nVm1maTlMTXlBZnBGaWNaNmpFQ0lMdUtKTF9YRTY3NG9DVjdMU3YyNzFmMWRUOTQxLVBMS0toY2c3R3NlVTdZVmU3T3hrWHNSTHlQNnRpVDdSdFppNUoxcXIwNGE5SGh2bzFuTmQwTkF1eWtSMDlIOVVFYVV1bEpKN0o1UQ?oc=5",
-        "published": "2026-09-05T14:48:33+00:00",
-        "published_label": "Sat 05 Sep, 14:48",
-        "summary": "China Masters: Teammates Lee, Gunawan in Historic Final BWF World Tour",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-09-05T16:33:46.499002+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "China Masters 2026 badminton: Satwik-Chirag reach third final in four editions",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSUJodTR6QXN5NzRtMmxacERjdk9kZmcxUkE4b0c2eGZmRk1uZG1oTzBYTXZ0cFdHZktOUTF3Y3lJcnNCY3o3dlNuTHlGclIwdTRRZUJLUXNTbHZuT0ZkckdLZmhoU2hNOWNwelhreWdYaHRybVVJMFBXa19OSGFNYlRmRTB5dGdmRHQtTnZMSkxRVlNEck1zeGpXVjB5OHM?oc=5",
-        "published": "2026-09-05T14:29:00+00:00",
-        "published_label": "Sat 05 Sep, 14:29",
-        "summary": "China Masters 2026 badminton: Satwik-Chirag reach third final in four editions olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-05T16:33:46.499002+00:00"
       }
     ],
     "Competitor News": [
@@ -7811,5 +7772,5 @@
       }
     ]
   },
-  "total": 599
+  "total": 596
 }
