@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T11:04:33.171820+00:00",
-  "generated_label": "Sunday 13 September 2026, 11:04 UTC",
+  "generated_at": "2026-09-13T12:50:07.525761+00:00",
+  "generated_label": "Sunday 13 September 2026, 12:50 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Brazil banking scandal engulfs Supreme Court",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFJTZ3Z5YXVHNThzVFFhSjEwTjB6WnRieWZhSG5VVFJMZXk4bHp0dXF0eS1HeG5MT09lVXRYR2lrRVdzYzk0WWVOWjFxMmIwaVgyeDZCQ1Q4Zzk0RzVpZldrZUJRM3V6OUdwem1OYURDdGxOTUVNUzROYV9yaEt1el9fenQ?oc=5",
+        "published": "2026-09-13T10:00:05+00:00",
+        "published_label": "Sun 13 Sep, 10:00",
+        "summary": "Brazil banking scandal engulfs Supreme Court Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-13T12:50:07.525761+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -4043,32 +4056,6 @@
         "body": "Maro Itoje has been named in England’s first squad since the summer tour but Courtney Lawes and Joe Marchant must prove themselves for Sale before being recalled. Itoje was rested for the Nations Championship games against South Africa, Fiji and Argentina but features in a 36-man group that will begin preparations for the autumn with a three-day camp starting on Sunday.\n\nThe Saracens second row is expected to resume as captain for the opener against Australia at Allianz Stadium on November 8, taking over from Jamie George who deputised in July.",
         "copy": "Maro Itoje has been named in England’s first squad since the summer tour but Courtney Lawes and Joe Marchant must prove themselves for Sale before being recalled. Itoje was rested for the Nations Championship games against South Africa, Fiji and Argentina but features in a 36-man group that will begin preparations for the autumn with a three-day camp starting on Sunday.\n\nThe Saracens second row is expected to resume as captain for the opener against Australia at Allianz Stadium on November 8, taking over from Jamie George who deputised in July.",
         "first_seen": "2026-09-06T18:01:02.815395+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "KCB’s Elvis Olukusi reveals how he earned Monaco Rugby Sevens opportunity",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWJncVJEVUFnSl9YTTRUdXUxVTFPbDFlNERBOVotZ3N2b19UMUFXUEJZVXFDaE9qTHN1elJCTDREN2JnWFdZcWlHY0xJZms0ZmVrR3VCTTQ2aG0xTGY1RnBzNnVPSFRoSXQ3UVQ0NUxoVFZaZ1RzRXU4b20wazRDRktCTXVSQTFjU2h4UEhGVlVHX1ZrSzIzU1Y2ZUJ3QkUyN3Z1b2R6a0cxYklrUnhOd1dlUHpOc0tqbU85Mg?oc=5",
-        "published": "2026-09-06T12:40:12+00:00",
-        "published_label": "Sun 06 Sep, 12:40",
-        "summary": "KCB’s Elvis Olukusi reveals how he earned Monaco Rugby Sevens opportunity Mozzart Sport Kenya",
-        "body": "Reading Time: 4min | Sun. 06.09.26. | 10:04 Olukusi was part of a Monaco side that immediately showed its championship credentials, beginning the campaign with an outstanding performance in Biarritz on August 21 and 22.\n\nKCB Rugby’s Elvis Olukusi has opened up about how he earned the golden opportunity to represent Monaco Rugby Sevens at the prestigious In Extenso Supersevens in France. Speaking to Mozzart Sport, Olukusi revealed that the opportunity came unexpectedly after he received a text message from Monaco Rugby’s coach inviting him to join the squad for the 2026 Summer Edition of the Supersevens.",
-        "copy": "Reading Time: 4min | Sun. 06.09.26. | 10:04 Olukusi was part of a Monaco side that immediately showed its championship credentials, beginning the campaign with an outstanding performance in Biarritz on August 21 and 22.\n\nKCB Rugby’s Elvis Olukusi has opened up about how he earned the golden opportunity to represent Monaco Rugby Sevens at the prestigious In Extenso Supersevens in France. Speaking to Mozzart Sport, Olukusi revealed that the opportunity came unexpectedly after he received a text message from Monaco Rugby’s coach inviting him to join the squad for the 2026 Summer Edition of the Supersevens.",
-        "first_seen": "2026-09-06T14:53:51.172260+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'Hopefully me and Dave will have a beer. His will be a little bit more bitter'",
-        "link": "https://www.rugbypass.com/news/rassie-erasmus-says-he-hopes-to-have-beer-with-dave-rennie/",
-        "published": "2026-09-06T11:08:08+00:00",
-        "published_label": "Sun 06 Sep, 11:08",
-        "summary": "Rassie Erasmus insists South Africa still have work to do before they can claim Castle Double Malt Rugby’s Greatest Rivalry honours...",
-        "body": "Rassie Erasmus insists South Africa still have work to do before they can claim Castle Double Malt Rugby’s Greatest Rivalry honours, despite edging New Zealand 29-24 in a gripping third Test at FNB Stadium on Saturday.\n\nThe victory handed the Springboks a 2-1 lead heading into next weekend’s final match in Baltimore, but the South Africa boss was quick to dismiss suggestions the series was already effectively wrapped up.",
-        "copy": "Rassie Erasmus insists South Africa still have work to do before they can claim Castle Double Malt Rugby’s Greatest Rivalry honours, despite edging New Zealand 29-24 in a gripping third Test at FNB Stadium on Saturday.\n\nThe victory handed the Springboks a 2-1 lead heading into next weekend’s final match in Baltimore, but the South Africa boss was quick to dismiss suggestions the series was already effectively wrapped up.",
-        "first_seen": "2026-09-06T11:44:58.020334+00:00"
       }
     ],
     "Tennis": [
@@ -5348,6 +5335,45 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Does the Presidents Cup need to change its points structure? | Subpar",
+        "link": "https://golf.com/news/presidents-cup-points-structure-subpar/",
+        "published": "2026-09-13T12:23:14+00:00",
+        "published_label": "Sun 13 Sep, 12:23",
+        "summary": "Tour veteran Brendon de Jonge, a past member of the International Presidents Cup team, joined Subpar to discuss the biennial event and more. The post Does the Presidents Cup need to change its points structure? | Subpar appeared first on Golf .",
+        "body": "The Walker Cup wrapped up last week, the Solheim Cup finishes this weekend and next up on the team-event schedule is the Presidents Cup, which gets underway in less than two weeks at Medinah Country Club outside of Chicago.\n\nThe Americans will be heavily favored once again, and they lead the all-time series 13-1-1. The tie came in 2003, and the International team’s only win was in 1998. It’s been two decades of U.S. dominance, as the Americans have won the last 10, and three of the last four wins have been by five points or more.",
+        "copy": "The Walker Cup wrapped up last week, the Solheim Cup finishes this weekend and next up on the team-event schedule is the Presidents Cup, which gets underway in less than two weeks at Medinah Country Club outside of Chicago.\n\nThe Americans will be heavily favored once again, and they lead the all-time series 13-1-1. The tie came in 2003, and the International team’s only win was in 1998. It’s been two decades of U.S. dominance, as the Americans have won the last 10, and three of the last four wins have been by five points or more.",
+        "first_seen": "2026-09-13T12:50:07.525761+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Here's where the next Solheim Cup will be played in 2028",
+        "link": "https://golf.com/travel/next-solheim-cup-venue-2028/",
+        "published": "2026-09-13T12:19:30+00:00",
+        "published_label": "Sun 13 Sep, 12:19",
+        "summary": "As the 2026 Solheim Cup finishes up in the Netherlands, next up will be 2028 in the United States. Here's a look at past and future venues. The post Here’s where the next Solheim Cup will be played in 2028 appeared first on Golf .",
+        "body": "The 2026 Solheim Cup finishes this weekend in the Netherlands, which means you’ll have to wait two more years before the next iteration of the biennial event arrives. Although in 2028 it returns to the U.S.\n\nNext up is Valhalla Golf Club in Louisville, Ky., to host the 21st playing of the Solheim Cup come Sept. 8-10, 2028. Valhalla is no stranger to golf’s marquee events. It’s hosted four PGA Championships, two Senior PGA Championships and the 2008 Ryder Cup. It most recently hosted the 2024 PGA, which was won by Xander Schauffele but perhaps most remembered for the bizarre arrest of World No. 1 Scottie Scheffler.",
+        "copy": "The 2026 Solheim Cup finishes this weekend in the Netherlands, which means you’ll have to wait two more years before the next iteration of the biennial event arrives. Although in 2028 it returns to the U.S.\n\nNext up is Valhalla Golf Club in Louisville, Ky., to host the 21st playing of the Solheim Cup come Sept. 8-10, 2028. Valhalla is no stranger to golf’s marquee events. It’s hosted four PGA Championships, two Senior PGA Championships and the 2008 Ryder Cup. It most recently hosted the 2024 PGA, which was won by Xander Schauffele but perhaps most remembered for the bizarre arrest of World No. 1 Scottie Scheffler.",
+        "first_seen": "2026-09-13T12:50:07.525761+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "After posting his most lucrative season to date, Jake Knapp has sights set on majors",
+        "link": "https://golf.com/news/features/most-lucrative-season-jake-knapp-sights-set-majors/",
+        "published": "2026-09-13T12:17:02+00:00",
+        "published_label": "Sun 13 Sep, 12:17",
+        "summary": "Nine top-25 finishes made 2026 Jake Knapp's most lucrative Tour season to date. But the 32-year-old is focusing on loftier goals. The post After posting his most lucrative season to date, Jake Knapp has sights set on majors appeared first on Golf .",
+        "body": "At 32, he’s not your typical “new” PGA Tour star, but he definitely played like one this season. Dylan Dethier: You played some really good golf in 2026 — 11th or better in seven of your first eight starts this season, including the Masters. What does it feel like to be on a run like that?\n\nJake Knapp: I mean, obviously it feels good. It doesn’t feel, like, crazy different; it’s not like I’m hitting it exactly where I want to on every shot or making every putt or chipping in all the time. I just think I did a job good this offseason analyzing what areas I could really benefit from the most — maximizing my practice time, locking in on ball striking — and seeing improvement has been great. Obviously, when you’re playing well, you want to try to take advantage and win, but when you put yourself in contention as often as you can that’s uplifting too. Because golf is golf; you’re going to have some weird stuff happen. But when it does you know that it’s, like, Hey, I’m playing fine. That’s the sign, really, that your work is kind of coming to fruition and then you see it show up with results.",
+        "copy": "At 32, he’s not your typical “new” PGA Tour star, but he definitely played like one this season. Dylan Dethier: You played some really good golf in 2026 — 11th or better in seven of your first eight starts this season, including the Masters. What does it feel like to be on a run like that?\n\nJake Knapp: I mean, obviously it feels good. It doesn’t feel, like, crazy different; it’s not like I’m hitting it exactly where I want to on every shot or making every putt or chipping in all the time. I just think I did a job good this offseason analyzing what areas I could really benefit from the most — maximizing my practice time, locking in on ball striking — and seeing improvement has been great. Obviously, when you’re playing well, you want to try to take advantage and win, but when you put yourself in contention as often as you can that’s uplifting too. Because golf is golf; you’re going to have some weird stuff happen. But when it does you know that it’s, like, Hey, I’m playing fine. That’s the sign, really, that your work is kind of coming to fruition and then you see it show up with results.",
+        "first_seen": "2026-09-13T12:50:07.525761+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -7442,71 +7468,6 @@
         "body": "An Se-young, 24, Samsung Life Insurance, showcased the prowess of the \"shuttlecock queen\" with a flawless victory in a preliminary match ahead of the 2026 Aichi Nagoya Asian Games.\n\nWorld No. 1 An Se-young clinched the title at the 2026 Badminton World Federation (BWF) World Tour China Masters (Super 750) women’s singles final on September 6 (Korean time) at Shenzhen Arena, China, defeating world No. 9 Miyazaki Tomoka of Japan 2-0 (21-17 21-6) in 45 minutes. This marks her third consecutive victory at the tournament since 2024.",
         "copy": "An Se-young, 24, Samsung Life Insurance, showcased the prowess of the \"shuttlecock queen\" with a flawless victory in a preliminary match ahead of the 2026 Aichi Nagoya Asian Games.\n\nWorld No. 1 An Se-young clinched the title at the 2026 Badminton World Federation (BWF) World Tour China Masters (Super 750) women’s singles final on September 6 (Korean time) at Shenzhen Arena, China, defeating world No. 9 Miyazaki Tomoka of Japan 2-0 (21-17 21-6) in 45 minutes. This marks her third consecutive victory at the tournament since 2024.",
         "first_seen": "2026-09-06T18:01:02.815395+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Satwik-Chirag happy to break Shenzhen jinx | China Masters 2026 badminton",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlV0X1pJMkJpZXNDN0IzdHJFd3JvTDFyX0ZlSU9BVXRmc180YlZjU25SbGF2SDljUVV6N3Z1ZUIzM2tOSE9UejRkQzlFRGlNbzFPY28tZXp2ejBDVllTZzIxRlpKSU4yOVFRc0VWemxHRE56Q1ktMndPb3ZXVFM1VjlzbERPaHFvRTlzZDBtV2V6VUc2cTE0ZWJFSQ?oc=5",
-        "published": "2026-09-06T12:24:42+00:00",
-        "published_label": "Sun 06 Sep, 12:24",
-        "summary": "Satwik-Chirag happy to break Shenzhen jinx | China Masters 2026 badminton olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-06T14:53:51.172260+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF China Masters 2026: An Seyoung and Jason Gunawan claim singles crowns in Shenzhen",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUENyR012NkZ3MUJMcVJRcUktT3RvSjd6NFZwV0ZwbG13dUxyWmxrVFJad1pRWVdIRlZJWDAyV3NwR212cWdGaC1mWVhlTkszS1prYjRwZ1poM1BUV2kwMkFOb2FMUGVseWRIR0hoOVFrQ1VXbFB1ZVhzLXlXQkhDT1h1MDZpMjIxY0hpbHBWNndHSWNWdUVOSA?oc=5",
-        "published": "2026-09-06T11:47:00+00:00",
-        "published_label": "Sun 06 Sep, 11:47",
-        "summary": "BWF China Masters 2026: An Seyoung and Jason Gunawan claim singles crowns in Shenzhen olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-06T14:53:51.172260+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF China Masters 2026: An Seyoung and Jason Gunawan claim singles crowns in Shenzhen",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTBUTUtVVUZGQ3ZzbXFyOFprR1l0cnRMUFAtQktzMUpxaEdVWUhITldwT1AtbkZEVW1NUXg3V1RFRlZjZGhBTGRyZHcyUWxPRlkwTzBwZmxqYmh6Wkc0U2JQNERIRjZ6ekJJelFuQkNCSFJ4MEtsVUttWVN0SFBOQ1JyTWF0UXdKOU9qc0hUdWp5TUVsRHZxY0Nka2RiQQ?oc=5",
-        "published": "2026-09-06T11:47:00+00:00",
-        "published_label": "Sun 06 Sep, 11:47",
-        "summary": "BWF China Masters 2026: An Seyoung and Jason Gunawan claim singles crowns in Shenzhen olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-06T18:01:02.815395+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "China Masters 2026 badminton: Satwiksairaj Rankireddy-Chirag Shetty fight back to claim historic title",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWw1LWFORjExUF80dlNhQlFVblZpc25KY2Z3NDNIUFMyM1Zvd3NHTkxaaGI5VWkzaE9CRjNlcXI0Vk1nMEpPUUlHZG83eG1QamxMajgzZGRwbENNMG9fVk5qcEdDTUc2QUhjX1d0QmdQbjl1TjRvQVpQME01YTN4WGRnYk9KN1dLZnluU1NUZDREaG16eU5v?oc=5",
-        "published": "2026-09-06T11:29:00+00:00",
-        "published_label": "Sun 06 Sep, 11:29",
-        "summary": "China Masters 2026 badminton: Satwiksairaj Rankireddy-Chirag Shetty fight back to claim historic title olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-06T14:53:51.172260+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "How many BWF World Tour titles have Satwik-Chirag won after China Masters 2026?",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbmd3eXJyUHgxRzJ2cVNkRmJSd0hIakJLV2N1YnNmWVJpV0V6dlQ5SnV2QzVaaERPbTRqWVFndXBQaFNIRk9sOUZEUU9ZeF9UY011NXNWd1E1dnVxUV9PcVhOZnhTZ2xoWV9hSmhvaW4wV2J4ejItOFk5eEFpMW52MXhaZnZkdkNGR0VZREtXQTVhM0lBOFRuaTNWWC1sem1palk4cXdXOXcyREdSRzFNV3RWMGlURGpVMnp1N0tlbVRHRjJDTmNuRm8yTUJjUFhRaW5tUnY4UlnSAd8BQVVfeXFMTzJOek9vaTRFejc0eFZfRS1pRDNSYklVNXBLMDUzNVEzQ3NDM0VTVzVGX2d4NHB4TDFPX0JGUjdkZDVrUTJKYWlxeGJaSmpXOWMxdHh4U0x3TkJvOUd1dENtTEFVYVZDUDZHb2dLRGdOVlBJRHo2aXlhTy1jVjlseHVIRlhnYmxHdE1WdW9uQVVVSUV3MXUxZzFqNXdjZTBJd093MWd4Tk1xbUJtakw1T0dfSWFwTzMzNWRheHY1elJsaHljbmE1d0x4bFdwdEJraW5PX1lWR2NHNnA2ek9Zdw?oc=5",
-        "published": "2026-09-06T11:14:45+00:00",
-        "published_label": "Sun 06 Sep, 11:14",
-        "summary": "How many BWF World Tour titles have Satwik-Chirag won after China Masters 2026? Sportstar",
-        "body": "Indian men’s doubles pair Satwiksairaj Rankireddy and Chirag Shetty added yet another BWF title to their kitty after winning the China Masters Super 750 tournament in Shenzhen, China on Sunday.\n\nThe World No.5 pair defeated China’s He Ji Ting and Ren Xiang Yu 11-21, 21-13, 21-17 to win their tenth World Tour doubles title together. The duo had also won the Singapore Open Super 750 event in May this year, their first title since 2024.",
-        "copy": "Indian men’s doubles pair Satwiksairaj Rankireddy and Chirag Shetty added yet another BWF title to their kitty after winning the China Masters Super 750 tournament in Shenzhen, China on Sunday.\n\nThe World No.5 pair defeated China’s He Ji Ting and Ren Xiang Yu 11-21, 21-13, 21-17 to win their tenth World Tour doubles title together. The duo had also won the Singapore Open Super 750 event in May this year, their first title since 2024.",
-        "first_seen": "2026-09-06T11:44:58.020334+00:00"
       }
     ],
     "Competitor News": [
@@ -7785,5 +7746,5 @@
       }
     ]
   },
-  "total": 597
+  "total": 594
 }
