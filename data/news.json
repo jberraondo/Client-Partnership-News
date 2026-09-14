@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T11:42:58.712578+00:00",
-  "generated_label": "Monday 14 September 2026, 11:42 UTC",
+  "generated_at": "2026-09-14T14:19:48.053174+00:00",
+  "generated_label": "Monday 14 September 2026, 14:19 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,58 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "NFL continues European rights blitz with Disney+ deal in Sweden",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjVTai1HM0lnbnVYdmtNVnE4Xy1RX0NuTWw1Vi1sQ1k2UnltTElrY2NVV3BHYVZ6TWFkNjlrZThfUXV1RXpCcDM3ZUlVSjFwSXdLQnhLTE1jZjBJNzZZQ1Bac3RwMjZfY1JKRkx2VC1fRGFOclBIM3NHaVJNMHd3cUNUcGhxdldtU09lTUtuN01aMkoxNzl6WA?oc=5",
+        "published": "2026-09-14T13:53:31+00:00",
+        "published_label": "Mon 14 Sep, 13:53",
+        "summary": "NFL continues European rights blitz with Disney+ deal in Sweden Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "ATP Media and L1VE team up in immersive live rights deal",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjhWMWtDQndGYWZHNndfdzVqSlhPXzRsVGhvdDV1UkFtenVXUWxXLUgtcHU3a3ktVG5USUhValh3OFZVVFktdkhGLWNnemxJaUthaFBEQzRWZUhkOTBHcWZRZS1XRlozLUlnZEF5UVdYWExJZG1hV0lTby1uRUozNWpteklYSC1oY3VWMlpBeVE?oc=5",
+        "published": "2026-09-14T13:53:31+00:00",
+        "published_label": "Mon 14 Sep, 13:53",
+        "summary": "ATP Media and L1VE team up in immersive live rights deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "UK government considering takeover of insolvent steelmaker",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFJvMkd5V2VxQWxzMnd3dUpscXo4ZTU4X3JlZUhxMGd3a1c1X1BWWXp1cXVkOVctYWZEUHZ2clJETFYzUzZsaFNoUUd1aC1Wb1BUZVhVREhHQUxaNzdleWlRdl82MXFWTzl6MmRzckpVdG00NDNKajlvcEp5R0tFcnZIRXo?oc=5",
+        "published": "2026-09-14T13:37:15+00:00",
+        "published_label": "Mon 14 Sep, 13:37",
+        "summary": "UK government considering takeover of insolvent steelmaker Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "TikTok joins Ultimate Sevens in global audience push",
+        "link": "https://sportindustry.co.uk/news-categories/news/tiktok-joins-ultimate-sevens-in-global-audience-push/",
+        "published": "2026-09-14T11:51:54+00:00",
+        "published_label": "Mon 14 Sep, 11:51",
+        "summary": "TikTok has partnered with Ultimate Sevens as the new rugby property builds a multi-platform distribution strategy designed to take the shortened format beyond its traditional audience. The short-form video platform will bring creators to the Ultimate Sevens Grand Final at Brentford’s Gtech Community Stadium on 24th September, using creator-led content around the event to help […] The post TikTok joins Ultimate Sevens in global audience push appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "TikTok has partnered with Ultimate Sevens as the new rugby property builds a multi-platform distribution strategy designed to take the shortened format beyond its traditional audience. The short-form video platform will bring creators to the Ultimate Sevens Grand Final at Brentford’s Gtech Community Stadium on 24th September, using creator-led content around the event to help […] The post TikTok joins Ultimate Sevens in global audience push appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -1545,22 +1597,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Vox rides high in Spain over Ceuta migrant crisis",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTE0WklyZVhXSGhoTG9jSjMwS0pjTjBic3pOS1dYYld2TjVmcTVHbmZtcWpVblF4NWVwNXd1VE9rZnN1RnFJcFduMnZBWU5sMTVxNzdSOTlkbjF6dkhFOFVHYWtNN0EwRkt1N05Ud1dZRk44Z1h5ODltT0dfUl9ZbzBFa18?oc=5",
-        "published": "2026-09-07T12:16:39+00:00",
-        "published_label": "Mon 07 Sep, 12:16",
-        "summary": "Vox rides high in Spain over Ceuta migrant crisis ft.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "France name elite group of players to be protected by 9-Test cap",
+        "link": "https://www.rugbypass.com/news/france-name-elite-group-of-players-to-be-protected-by-9-test-cap/",
+        "published": "2026-09-14T13:32:57+00:00",
+        "published_label": "Mon 14 Sep, 13:32",
+        "summary": "The 33 French internationals who'll benefit from a new initiative designed to reduce their playing time during the club season have been named.",
+        "body": "The 33 French internationals who’ll benefit from a new initiative designed to reduce their playing time during the club season, preventing exhaustion and keeping them in peak condition for the upcoming World Cup, have been named.\n\nFrench outlet Midi Olympique revealed the list on Sunday, but the players and clubs concerned were already aware of the initiative, having been informed in advance by the Fédération Française de Rugby and the Ligue Nationale de Rugby.",
+        "copy": "The 33 French internationals who’ll benefit from a new initiative designed to reduce their playing time during the club season, preventing exhaustion and keeping them in peak condition for the upcoming World Cup, have been named.\n\nFrench outlet Midi Olympique revealed the list on Sunday, but the players and clubs concerned were already aware of the initiative, having been informed in advance by the Fédération Française de Rugby and the Ligue Nationale de Rugby.",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "2026 WXV Global Series preview: Japan",
+        "link": "https://www.rugbypass.com/news/2026-wxv-global-series-preview-japan/",
+        "published": "2026-09-14T13:00:33+00:00",
+        "published_label": "Mon 14 Sep, 13:00",
+        "summary": "With the appointment of Toshizumi Kitagawa as Japan’s head coach for the 2029 Women's Rugby World Cup cycle, the Sakura will be looking to impress fans over at the WXV Global Series.",
+        "body": "With the appointment of Toshizumi Kitagawa as Japan’s head coach for the Women’s Rugby World Cup 2029 cycle, the Sakura Fifteen will be looking to impress fans over at the WXV Global Series.\n\nBut what can we expect from a team that has managed to narrow the gap to the top in recent years? And who will star for them against the likes of Italy, Ireland and Wales? We tried to answer a few questions and paint a full picture of a side looking for greatness.",
+        "copy": "With the appointment of Toshizumi Kitagawa as Japan’s head coach for the Women’s Rugby World Cup 2029 cycle, the Sakura Fifteen will be looking to impress fans over at the WXV Global Series.\n\nBut what can we expect from a team that has managed to narrow the gap to the top in recent years? And who will star for them against the likes of Italy, Ireland and Wales? We tried to answer a few questions and paint a full picture of a side looking for greatness.",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "PREM breakthrough star Campbell Ridl suffers 'significant' injury",
+        "link": "https://www.rugbypass.com/news/prem-breakthrough-star-suffers-significant-injury/",
+        "published": "2026-09-14T12:57:21+00:00",
+        "published_label": "Mon 14 Sep, 12:57",
+        "summary": "Exeter Chiefs are expected this week to confirm that highly-rated winger Campbell Ridl will miss most, if not all, of the 2026-27 season after a scan reveals that he has suffered an ACL injury.",
+        "body": "Exeter Chiefs are expected to confirm this week that highly-rated winger Campbell Ridl will miss most, if not all, of the 2026-27 season after a scan reveals that he has suffered an ACL injury.\n\nThe former England under-20 international, who also plays full-back and outside centre, enjoyed an outstanding breakout campaign with the Chiefs last season, scoring 17 tries in 21 appearances.",
+        "copy": "Exeter Chiefs are expected to confirm this week that highly-rated winger Campbell Ridl will miss most, if not all, of the 2026-27 season after a scan reveals that he has suffered an ACL injury.\n\nThe former England under-20 international, who also plays full-back and outside centre, enjoyed an outstanding breakout campaign with the Chiefs last season, scoring 17 tries in 21 appearances.",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Women's rugby not to blame for region axe",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cpwl1w5288ko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-14T12:56:20+00:00",
+        "published_label": "Mon 14 Sep, 12:56",
+        "summary": "The director of women's rugby at the Welsh Rugby Union (WRU) has hit back at \"embarrassing\" claims over why a men'e region is being axed.",
+        "body": "The Welsh Rugby Union (WRU) has hit back at claims the women's programme is a financial drain on the men's game. WRU women's rugby director Nadine Griffiths said allegations she had read on social media that a region is to be cut because of investment in the women's game were \"embarrassing\".\n\nAnd she added the women's game had in fact made money for the governing body. The Union has had a professional women's programme since the start of 2022 and there are now more than 40 contracted players.",
+        "copy": "The Welsh Rugby Union (WRU) has hit back at claims the women's programme is a financial drain on the men's game. WRU women's rugby director Nadine Griffiths said allegations she had read on social media that a region is to be cut because of investment in the women's game were \"embarrassing\".\n\nAnd she added the women's game had in fact made money for the governing body. The Union has had a professional women's programme since the start of 2022 and there are now more than 40 contracted players.",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Japan include 16 World Cup veterans for European leg of WXV",
+        "link": "https://www.rugbypass.com/news/japan-include-16-world-cup-veterans-for-european-leg-of-wxv/",
+        "published": "2026-09-14T11:41:51+00:00",
+        "published_label": "Mon 14 Sep, 11:41",
+        "summary": "Sakura Fifteen head coach Toshizumi Kitagawa has announced his 30-player squad for the WXV Global Series.",
+        "body": "Sakura Fifteen head coach Toshizumi Kitagawa has announced his 30-player squad for the WXV Global Series. In total, 16 players competed at Women’s Rugby World Cup 2025 last year. This includes the team’s scrum-half, Moe Tsukui, who is in line to hit 50 caps while in Europe.\n\nYokogawa Musashino Artemi-Stars centre Uta Kataoka is the only uncapped player named in the squad. She will be competing with Haruka Hirotsu and Mana Furuta for a place in the starting XV.",
+        "copy": "Sakura Fifteen head coach Toshizumi Kitagawa has announced his 30-player squad for the WXV Global Series. In total, 16 players competed at Women’s Rugby World Cup 2025 last year. This includes the team’s scrum-half, Moe Tsukui, who is in line to hit 50 caps while in Europe.\n\nYokogawa Musashino Artemi-Stars centre Uta Kataoka is the only uncapped player named in the squad. She will be competing with Haruka Hirotsu and Mana Furuta for a place in the starting XV.",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -1628,6 +1732,19 @@
       },
       {
         "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "LIVE - U20 Elite Schools Rugby Sevens 2026",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QdUhqX2tQbW9fNERtTXVjZ1Y2OGpDY0pncndQVzJJRHpiaGliTkJnSm80aUhJUzRxUDR1MkYyN1JZRHJteEtmejNtUWZlZkIwNDVFekVkVkNaZXhtNlBLQXBLX1JQSFdINllWOFRtWWw3OGgzN1E?oc=5",
+        "published": "2026-09-14T09:02:42+00:00",
+        "published_label": "Mon 14 Sep, 09:02",
+        "summary": "LIVE - U20 Elite Schools Rugby Sevens 2026 ThePapare",
+        "body": "U20 Elite Schools Rugby Sevens 2026 will be held on 15th & 16th September at Trinity College Rugby Stadium, Pallekele. Watch LIVE action on ThePapare.com from 8:45 AM (GMT 5:30) onwards.\n\nThank you for helping us provide this unmatched LIVE streaming service to the sport-loving public in Sri Lanka and around the world by subscribing to ThePapare. In case of an uninformed power outage, we apologize for the interruption of the LIVE stream.",
+        "copy": "U20 Elite Schools Rugby Sevens 2026 will be held on 15th & 16th September at Trinity College Rugby Stadium, Pallekele. Watch LIVE action on ThePapare.com from 8:45 AM (GMT 5:30) onwards.\n\nThank you for helping us provide this unmatched LIVE streaming service to the sport-loving public in Sri Lanka and around the world by subscribing to ThePapare. In case of an uninformed power outage, we apologize for the interruption of the LIVE stream.",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
+      {
+        "section": "Rugby",
         "source": "Rugby Pass",
         "kind": "direct",
         "title": "Wales hopeful Megan Davey: 'The mindset is always that we're going to win'",
@@ -1674,8 +1791,8 @@
         "published": "2026-09-14T03:35:20+00:00",
         "published_label": "Mon 14 Sep, 03:35",
         "summary": "While the cohesion and flow of play left a little to be desired across the weekend, it nonetheless highlighted how badly these players need game time.",
-        "body": "Get the latest rugby news from the experts at RugbyPass. From match reports to in-depth tactical breakdowns and expert opinions, our rugby journalists have every angle covered.\n\nMegan Davey wants to make the most of her Wales opportunity after a late call-up to Sean Lynn's WXV Global Series squad. The openside flanker is the heartbeat of North Harbour, featuring in 45 of their last 49 games.",
-        "copy": "Get the latest rugby news from the experts at RugbyPass. From match reports to in-depth tactical breakdowns and expert opinions, our rugby journalists have every angle covered.\n\nMegan Davey wants to make the most of her Wales opportunity after a late call-up to Sean Lynn's WXV Global Series squad. The openside flanker is the heartbeat of North Harbour, featuring in 45 of their last 49 games.",
+        "body": "Get the latest rugby news from the experts at RugbyPass. From match reports to in-depth tactical breakdowns and expert opinions, our rugby journalists have every angle covered.\n\nSakura Fifteen head coach Toshizumi Kitagawa has announced his 30-player squad for the WXV Global Series. Megan Davey wants to make the most of her Wales opportunity after a late call-up to Sean Lynn's WXV Global Series squad.",
+        "copy": "Get the latest rugby news from the experts at RugbyPass. From match reports to in-depth tactical breakdowns and expert opinions, our rugby journalists have every angle covered.\n\nSakura Fifteen head coach Toshizumi Kitagawa has announced his 30-player squad for the WXV Global Series. Megan Davey wants to make the most of her Wales opportunity after a late call-up to Sean Lynn's WXV Global Series squad.",
         "first_seen": "2026-09-14T11:42:58.712578+00:00"
       },
       {
@@ -3926,87 +4043,35 @@
         "body": "Lotte Sharp has re-signed with Saracens to take her association with the North London club into a 13th season. The 31-year-old joined Saracens in 2014 from Welwyn Rugby and won the Women’s Premiership in her first season.\n\nIn the years since, Sharp has since made her 150th appearance for the club and has won JAECOO Premiership Women’s Rugby four times. Last season Sharp made 15 league appearances for the StoneX Stadium club and scored five tries. In addition to playing top-flight rugby, Sharp teaches full-time at Heath Mount School.",
         "copy": "Lotte Sharp has re-signed with Saracens to take her association with the North London club into a 13th season. The 31-year-old joined Saracens in 2014 from Welwyn Rugby and won the Women’s Premiership in her first season.\n\nIn the years since, Sharp has since made her 150th appearance for the club and has won JAECOO Premiership Women’s Rugby four times. Last season Sharp made 15 league appearances for the StoneX Stadium club and scored five tries. In addition to playing top-flight rugby, Sharp teaches full-time at Heath Mount School.",
         "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "The 'bitter taste' left in Jack van Poortvliet's mouth",
-        "link": "https://www.rugbypass.com/news/the-bitter-taste-left-in-jack-van-poortvliets-mouth/",
-        "published": "2026-09-07T14:01:00+00:00",
-        "published_label": "Mon 07 Sep, 14:01",
-        "summary": "Leicester Tigers scrum-half Jack van Poortvliet admits that watching arch East Midland rivals Northampton Saints dancing around Twickenham, celebrating winning the Gallagher Prem left a bitter taste.",
-        "body": "Leicester Tigers scrum-half Jack van Poortvliet admits that watching arch East Midland rivals Northampton Saints dancing around Twickenham, celebrating winning the Gallagher Prem left a bitter taste.\n\nEspecially so after Saints beat them 45-31 in the PREM semi-finals to book their place in the showpiece, but the England star says that the Tigers, who won the PREM Rugby Cup last season, will be chasing that winning feeling themselves this season.",
-        "copy": "Leicester Tigers scrum-half Jack van Poortvliet admits that watching arch East Midland rivals Northampton Saints dancing around Twickenham, celebrating winning the Gallagher Prem left a bitter taste.\n\nEspecially so after Saints beat them 45-31 in the PREM semi-finals to book their place in the showpiece, but the England star says that the Tigers, who won the PREM Rugby Cup last season, will be chasing that winning feeling themselves this season.",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Henry Pollock contract call a win for everyone – Andy Goode",
-        "link": "https://www.rugbypass.com/news/new-pollock-contract-represents-a-win-for-everyone-andy-goode/",
-        "published": "2026-09-07T13:32:31+00:00",
-        "published_label": "Mon 07 Sep, 13:32",
-        "summary": "Henry Pollock’s new contract at Northampton represents a win for everyone, even if it might not be worth the million pound a year that Eddie Hearn was after.",
-        "body": "Henry Pollock’s new contract at Northampton represents a win for everyone, even if it might not be worth the million pounds a year that Eddie Hearn was after. Let’s face it, the reported Newcastle offer came about because I don’t think anyone expects him to move abroad at his age and they’re the only club in the PREM who could offer him anywhere near that amount of money.\n\nPollock wants to win things, develop his own game and make an even bigger impression on the international stage though, as well as earning as much as possible along the way, and there’s absolutely no doubt that Saints is the right place for him.",
-        "copy": "Henry Pollock’s new contract at Northampton represents a win for everyone, even if it might not be worth the million pounds a year that Eddie Hearn was after. Let’s face it, the reported Newcastle offer came about because I don’t think anyone expects him to move abroad at his age and they’re the only club in the PREM who could offer him anywhere near that amount of money.\n\nPollock wants to win things, develop his own game and make an even bigger impression on the international stage though, as well as earning as much as possible along the way, and there’s absolutely no doubt that Saints is the right place for him.",
-        "first_seen": "2026-09-07T13:37:51.590278+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "How the unplanned arrival of Manie Libbok turned the green and gold tide against New Zealand",
-        "link": "https://www.rugbypass.com/plus/how-the-unplanned-arrival-of-manie-libbok-turned-the-green-and-gold-tide-against-new-zealand/",
-        "published": "2026-09-07T13:32:23+00:00",
-        "published_label": "Mon 07 Sep, 13:32",
-        "summary": "The fly-half entered the fray after Cheslin Kolbe broke his jaw, and turned the Springboks from ball winners to ball users against the All Blacks.",
-        "body": "A traditional proverb: “better to be lucky than good”. Even at the elite level of sporting performance, where every ‘i’ is dotted and every ‘t’ is crossed, sometimes you need to catch a lucky break for all the preparation to count. Life can be that simple.\n\nAs the American crooner Frank Sinatra once observed, “people often remark I’m pretty lucky. Luck is only important insofar as getting the chance to sell yourself at the right moment. After that, you’ve got to have talent and know how to use it.”",
-        "copy": "A traditional proverb: “better to be lucky than good”. Even at the elite level of sporting performance, where every ‘i’ is dotted and every ‘t’ is crossed, sometimes you need to catch a lucky break for all the preparation to count. Life can be that simple.\n\nAs the American crooner Frank Sinatra once observed, “people often remark I’m pretty lucky. Luck is only important insofar as getting the chance to sell yourself at the right moment. After that, you’ve got to have talent and know how to use it.”",
-        "first_seen": "2026-09-07T13:37:51.590278+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Where does PREM Cup points-fest rank in rugby's highest-scoring matches?",
-        "link": "https://www.rugbypass.com/news/where-does-prem-cup-points-fest-rank-in-rugbys-highest-scoring-matches/",
-        "published": "2026-09-07T13:20:26+00:00",
-        "published_label": "Mon 07 Sep, 13:20",
-        "summary": "It was a truly remarkable opening weekend of the PREM Rugby Cup, with an aggregate of 365 points scored across the four matches.",
-        "body": "It was a truly remarkable opening weekend of the PREM Rugby Cup, with an aggregate of 365 points scored across the four matches. On any other weekend, the point-a-minute, 43-40 thriller between Bristol and Gloucester, won by the Bears, would have likely eclipsed all others as a free-for-all.\n\nBut at the same time as they were going at each other hammer and tongs in the west, Saracens and Northampton served up a scoreline that was barely believable. Twenty tries were scored – 14 to Saracens and six to Northampton – with young Jack Bracken claiming a nine-minute hat-trick.",
-        "copy": "It was a truly remarkable opening weekend of the PREM Rugby Cup, with an aggregate of 365 points scored across the four matches. On any other weekend, the point-a-minute, 43-40 thriller between Bristol and Gloucester, won by the Bears, would have likely eclipsed all others as a free-for-all.\n\nBut at the same time as they were going at each other hammer and tongs in the west, Saracens and Northampton served up a scoreline that was barely believable. Twenty tries were scored – 14 to Saracens and six to Northampton – with young Jack Bracken claiming a nine-minute hat-trick.",
-        "first_seen": "2026-09-07T13:37:51.590278+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Son of World Cup winner replaces Archie McParland in England camp",
-        "link": "https://www.rugbypass.com/news/son-of-world-cup-winner-replaces-archie-mcparland-in-england-camp/",
-        "published": "2026-09-07T12:24:35+00:00",
-        "published_label": "Mon 07 Sep, 12:24",
-        "summary": "Charlie Bracken, son of RWC 2003 winner and fellow scrum-half Kyran, has been called into this week's three-day alignment camp.",
-        "body": "Charlie Bracken, son of RWC 2003 winner and fellow scrum-half Kyran, has been called into England’s three-day alignment camp after Archie McParland was forced to withdraw due to illness.\n\nBracken, 22, was a regular starter for England U20s in 2022 and 2023 and is now on Steve Borthwick’s radar for the senior team. He has played just over 50 games for Saracens since making his debut in the 2021/22 season, having spent some time on loan at Ampthill in the Champ.",
-        "copy": "Charlie Bracken, son of RWC 2003 winner and fellow scrum-half Kyran, has been called into England’s three-day alignment camp after Archie McParland was forced to withdraw due to illness.\n\nBracken, 22, was a regular starter for England U20s in 2022 and 2023 and is now on Steve Borthwick’s radar for the senior team. He has played just over 50 games for Saracens since making his debut in the 2021/22 season, having spent some time on loan at Ampthill in the Champ.",
-        "first_seen": "2026-09-07T13:37:51.590278+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Hosts South Africa and Canada crowned rugby sevens kings and queens",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnFjS21NcWItcE9xWHVHWWl0V3dEbDdGeFV0dzZqelpyMmhDOWtHQXp2cDQxZ2dQTTRmX1BsN25WQWhpVUhveHdycy1vdW5PaDF3cmJXZG42RXdUbzFPd3llWXh3SzZyelRxS2RTZVhhcDc0cDdONkdNX19aUm5ETFpvOHFoMGRaQm1qbVQ5bTVqQWtkeDJIR3VFZWNJOURiVWc?oc=5",
-        "published": "2026-09-07T11:54:26+00:00",
-        "published_label": "Mon 07 Sep, 11:54",
-        "summary": "Hosts South Africa and Canada crowned rugby sevens kings and queens FISU",
-        "body": "The Danie Craven stadium was buzzing with excitement as the finals of the FISU World University Championship Rugby Sevens Championship saw home team South Africa take down Uganda in a thrilling match that ended 34-7 while an emphatic Canada side beat France 20-0 in the women’s final.\n\nSpectators from various countries filled the stands with rugby lovers, young fans and student-athletes waiting to witness who will be crowned champions in 2026. The atmosphere was filled with anticipation, and the rugby action did not disappoint.",
-        "copy": "The Danie Craven stadium was buzzing with excitement as the finals of the FISU World University Championship Rugby Sevens Championship saw home team South Africa take down Uganda in a thrilling match that ended 34-7 while an emphatic Canada side beat France 20-0 in the women’s final.\n\nSpectators from various countries filled the stands with rugby lovers, young fans and student-athletes waiting to witness who will be crowned champions in 2026. The atmosphere was filled with anticipation, and the rugby action did not disappoint.",
-        "first_seen": "2026-09-07T13:37:51.590278+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "From Challenger Tour to Davis Cup",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cx2zn34j47no?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-14T12:13:20+00:00",
+        "published_label": "Mon 14 Sep, 12:13",
+        "summary": "Briton Toby Samuel is to make his Davis Cup debut for Great Britain after what he calls a \"surreal\" 12 months.",
+        "body": "Toby Samuel says it was \"one of the best moments in my life\" when he was selected in Great Britain's Davis Cup team to face Ecuador this weekend after a breakthrough year. The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.\n\n\"It's surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I'm sat here ready to play the Davis Cup - it's crazy,\" he told BBC Points West.",
+        "copy": "Toby Samuel says it was \"one of the best moments in my life\" when he was selected in Great Britain's Davis Cup team to face Ecuador this weekend after a breakthrough year. The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.\n\n\"It's surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I'm sat here ready to play the Davis Cup - it's crazy,\" he told BBC Points West.",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "How far Emma Raducanu has fallen in the WTA rankings after not playing in the US Open",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlVwY3BlVU5GakF3SWxwSmVQNFAzek80d1R6UW1mLUM1UlFDN0ZyQWVPZkpobW45ZVp0Z0dLTmFPdlBmS3F5NHR5eldUTUdYLXgwWkhUa29JeldSQkRJaE9jcjc4NWNkSWVZTmdiV3RmcXVWLXl3ZThmZ3g4Q1RNZFNSemM5UmRNZ2N4cklNc2RoM1EtbVJtQ05wcktzQjBGT1VCSXVfVHBYZkZVaEE?oc=5",
+        "published": "2026-09-14T12:00:00+00:00",
+        "published_label": "Mon 14 Sep, 12:00",
+        "summary": "How far Emma Raducanu has fallen in the WTA rankings after not playing in the US Open Tennishead",
+        "body": "Emma Raducanu has suffered another setback amid her current injury absence. Raducanu won the US Open in 2021, but on the five-year anniversary of her famous victory, she was unable to compete at the New York major.\n\nThis came as a result of a stress fracture Raducanu suffered in her right lower leg during the grass court season, which also forced her to withdraw from Wimbledon. With Raducanu unable to earn any ranking points at the US Open this year, she has now suffered a significant drop in the latest update.",
+        "copy": "Emma Raducanu has suffered another setback amid her current injury absence. Raducanu won the US Open in 2021, but on the five-year anniversary of her famous victory, she was unable to compete at the New York major.\n\nThis came as a result of a stress fracture Raducanu suffered in her right lower leg during the grass court season, which also forced her to withdraw from Wimbledon. With Raducanu unable to earn any ranking points at the US Open this year, she has now suffered a significant drop in the latest update.",
+        "first_seen": "2026-09-14T14:19:48.053174+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -7154,19 +7219,6 @@
         "body": "Luke Poulter is quickly making a name for himself in golf. The 22-year-old Englishman is one of the leading amateur golfers in the world. He is currently ranked eighth among men’s amateurs and has already shown that he can compete at the highest level.\n\nThe son of European Ryder Cup legend and LIV Golf star Ian Poulter, Luke has big ambitions of his own. He is representing Great Britain & Ireland at the Walker Cup and is preparing for life as a professional. He is also set to make his PGA Tour debut next year after receiving an exemption into the Arnold Palmer Invitational at Bay Hill.",
         "copy": "Luke Poulter is quickly making a name for himself in golf. The 22-year-old Englishman is one of the leading amateur golfers in the world. He is currently ranked eighth among men’s amateurs and has already shown that he can compete at the highest level.\n\nThe son of European Ryder Cup legend and LIV Golf star Ian Poulter, Luke has big ambitions of his own. He is representing Great Britain & Ireland at the Walker Cup and is preparing for life as a professional. He is also set to make his PGA Tour debut next year after receiving an exemption into the Arnold Palmer Invitational at Bay Hill.",
         "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf star the hero of Lahinch Walker Cup party after picking up huge bar tab",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41WmdBS3h4TExQYkhIYzJCNGZzZ01iZEZMQXF4TXRveWtsLUtld3UzUy13TF85ck9ZdHBDOW54S1A4ZjFKVk5KMUI0WUZKdUgyWmF2dWlBaEVIcmRCMktoaWxtRFVsakFIZHowbWt4N1FEalZSdVFpWjVUd3VlUdIBgwFBVV95cUxNMkZGNmxKb2tacDNISEQ3ZmJHNDBCOGxUMGlpSjRyTkQ2V0J4WU42aE9BTlR4OHNKSVQtZFF5WW4ycVdsTWxRWUlrejczaWIyc3Z5b2ZaSTRQb3prTUdmanAxWDI0SEZKZ2U0MTlhaWY5RzdzcGxNbXR6cmVUMm9NNW1YZw?oc=5",
-        "published": "2026-09-07T12:22:30+00:00",
-        "published_label": "Mon 07 Sep, 12:22",
-        "summary": "LIV Golf star the hero of Lahinch Walker Cup party after picking up huge bar tab Irish Mirror",
-        "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
-        "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
-        "first_seen": "2026-09-07T13:37:51.590278+00:00"
       }
     ],
     "Badminton": [
@@ -7694,5 +7746,5 @@
       }
     ]
   },
-  "total": 590
+  "total": 594
 }
