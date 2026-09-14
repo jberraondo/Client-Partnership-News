@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:19:48.053174+00:00",
-  "generated_label": "Monday 14 September 2026, 14:19 UTC",
+  "generated_at": "2026-09-14T17:37:22.995517+00:00",
+  "generated_label": "Monday 14 September 2026, 17:37 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Abbott reaches agreement with Department of Justice to resolve claims relating to 2022 infant formula recall",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjNNbERpUV9BaG1lS0hOWkJGRVgzR2h4d1NPLWlSTzQ2cXRiRjF0ODQxMFQteHVubEMtS1hnYXBiVUpmUHByTG1pSDkyWHFZbVlPRW1RXzFram8yVnd4N01nR1N6NW4yeFlhb25wXzl4cHRKclNoWGkyU2RyU1VYdmF1c204dC1Dd1JOMUZPeFRVaUdXRWhBUQ?oc=5",
+        "published": "2026-09-14T15:52:00+00:00",
+        "published_label": "Mon 14 Sep, 15:52",
+        "summary": "Abbott reaches agreement with Department of Justice to resolve claims relating to 2022 infant formula recall Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Booking.com extends UEFA national team sponsorship",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWpMemJQN0xSSjNDX1E0YUF4RG5kV196VTlCQjNOeFJOODlwWi0xQlFpOTJONnhweXpCLWRCUUd0bTBHSlh6Zlh6MGhZV0tfS3NYZS1LczRrTWgyWXpaU0IzZzBMZVU4aEpkQkZNT3JUOGxTeWxjVFFubkxnNllUZEpWdW94cGtF?oc=5",
+        "published": "2026-09-14T15:24:09+00:00",
+        "published_label": "Mon 14 Sep, 15:24",
+        "summary": "Booking.com extends UEFA national team sponsorship Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -1558,48 +1584,87 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-08T10:34:42.435224+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "World Curling members re-elect incumbent Welling as president",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOam16NUVQTnBtS0cxYW5IREZBUTNjbWZTYTZmS3JRTUJvT1NNTW1FeGFPSmhTUlo1VndpeG43cHdoTFZSUVp0SnZQREdkMExoZHNtOGNTR1dLTVRDbmZESEZ6MHBDanNaMTJlMEE3QzIyQ1Aya2JfaUM1UkVRVjZSRzVuYVI1ZmlzRjRuVElXaktlNGI0bVpN?oc=5",
-        "published": "2026-09-07T16:00:03+00:00",
-        "published_label": "Mon 07 Sep, 16:00",
-        "summary": "World Curling members re-elect incumbent Welling as president Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "World Athletics revenue up 15% with small rise in commercial income",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaTc4cnZmczZ3N0oyTDl2ODVFYnBNWi1IT3J0VTYxR1NuQlZfOGlka1pBLVlIeTZqQVYwXzRSZGNSbXFKMGRKT2JFajJGNXJuZmdGM0x4YWNJN3RFb2xtX1puMmdWZjNsVGxpd2poRlBYcmZpLTNHaUstX3V6S3Y4Um04UmpzUWYzQm5ibExoV2ZDMUNERnh4RXJUWlRyQQ?oc=5",
-        "published": "2026-09-07T15:49:27+00:00",
-        "published_label": "Mon 07 Sep, 15:49",
-        "summary": "World Athletics revenue up 15% with small rise in commercial income Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Kayo Sports delivers most-watched NRL season",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVRFTFA1bmlTNVVTMTZQQS04cXhpUEhneTlTd3pCazNNaXZ2Q3BaR2lhc1ZfY29MdUVDMjd4dHp2bkVZVE1zSHUyOURSUWtPM0gxdXU1N1BrWmVzMkFCM2RIRVZfRWRWMkdWQlY5azlvR1A4S2h6VGNqU0lzSW9veg?oc=5",
-        "published": "2026-09-07T15:19:26+00:00",
-        "published_label": "Mon 07 Sep, 15:19",
-        "summary": "Kayo Sports delivers most-watched NRL season Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Rugby's Greatest Rivalry deep dive",
+        "link": "https://www.rugbypass.com/plus/the-rgr-deep-dive-what-has-happened-to-the-all-blacks-scrum/",
+        "published": "2026-09-14T17:02:55+00:00",
+        "published_label": "Mon 14 Sep, 17:02",
+        "summary": "New Zealand's scrum performance against a dominant Springboks pack fell well short of the standards set by titans of the past.",
+        "body": "Twelve months ago almost to the day, New Zealand forwards coach Jason Ryan proclaimed a new era of All Blacks scrummaging. His charges had been caught napping at a late scrum in fortress Eden Park and had been pushed off their own feed at a brisk trot in the first match of a Rugby Championship double-header against the Springboks. On the morning after the ignominy, the last remaining member of Ian Foster’s 2023 World Cup coaching crew explained to the assembled Kiwi media that it was a one-off:\n\n“We just want to get [the ball] out and play to be fair, but there’s one [scrum] where they climbed into us, we lost our footing, tried to get back up, and it was just too late. So that’ll be a ‘never again’ moment.”",
+        "copy": "Twelve months ago almost to the day, New Zealand forwards coach Jason Ryan proclaimed a new era of All Blacks scrummaging. His charges had been caught napping at a late scrum in fortress Eden Park and had been pushed off their own feed at a brisk trot in the first match of a Rugby Championship double-header against the Springboks. On the morning after the ignominy, the last remaining member of Ian Foster’s 2023 World Cup coaching crew explained to the assembled Kiwi media that it was a one-off:\n\n“We just want to get [the ball] out and play to be fair, but there’s one [scrum] where they climbed into us, we lost our footing, tried to get back up, and it was just too late. So that’ll be a ‘never again’ moment.”",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Netherlands soar two places in World Rugby rankings after massive win",
+        "link": "https://www.rugbypass.com/news/netherlands-soar-two-places-in-world-rugby-rankings-after-massive-win/",
+        "published": "2026-09-14T16:12:35+00:00",
+        "published_label": "Mon 14 Sep, 16:12",
+        "summary": "The Netherlands' huge WXV Global Series Challenger win against Samoa has seen the Oranje leap two places up the World Rugby rankings.",
+        "body": "The Netherlands’ huge WXV Global Series Challenger win against Samoa has seen the Oranje leap two places up the World Rugby rankings. On Sunday afternoon, Gareth Gilbert’s team registered a dominant 70-nil win against Manusina and crossed the whitewash 12 times.\n\nDames wing Kika Mulling scored four tries to start her WXV Global Series Challenger campaign on a high note. Both Gwen van der Schoot and Linde van der Velden registered a brace.",
+        "copy": "The Netherlands’ huge WXV Global Series Challenger win against Samoa has seen the Oranje leap two places up the World Rugby rankings. On Sunday afternoon, Gareth Gilbert’s team registered a dominant 70-nil win against Manusina and crossed the whitewash 12 times.\n\nDames wing Kika Mulling scored four tries to start her WXV Global Series Challenger campaign on a high note. Both Gwen van der Schoot and Linde van der Velden registered a brace.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Springbok Women ready to play the world's 'best' at WXV",
+        "link": "https://www.rugbypass.com/news/springbok-women-ready-to-play-the-worlds-best-at-wxv/",
+        "published": "2026-09-14T15:46:30+00:00",
+        "published_label": "Mon 14 Sep, 15:46",
+        "summary": "The Springbok Women are relishing the opportunity to take on the world's best in the WXV Global Series.",
+        "body": "The Springbok Women are relishing the opportunity to take on the world’s best in the WXV Global Series. On Friday night, South Africa start their autumn campaign against Wales at Cardiff Arms Park. In the weeks after, the Springbok Women will play Test matches against Italy, Spain and then a two-Test series against Ireland in Cape Town.\n\nComing into the WXV Global Series, South Africa have played plenty of rugby. In the summer alone, the side enjoyed two-Test series against the USA Women’s Eagles and Fiji, as well as a one-off clash with the Black Ferns as part of Rugby’s Greatest Rivalry. They won three of those Tests and lost two.",
+        "copy": "The Springbok Women are relishing the opportunity to take on the world’s best in the WXV Global Series. On Friday night, South Africa start their autumn campaign against Wales at Cardiff Arms Park. In the weeks after, the Springbok Women will play Test matches against Italy, Spain and then a two-Test series against Ireland in Cape Town.\n\nComing into the WXV Global Series, South Africa have played plenty of rugby. In the summer alone, the side enjoyed two-Test series against the USA Women’s Eagles and Fiji, as well as a one-off clash with the Black Ferns as part of Rugby’s Greatest Rivalry. They won three of those Tests and lost two.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "WXV Global Series 2026: Week 1 talking points",
+        "link": "https://www.rugbypass.com/news/wxv-global-series-2026-week-1-talking-points/",
+        "published": "2026-09-14T15:23:00+00:00",
+        "published_label": "Mon 14 Sep, 15:23",
+        "summary": "WXV Global Series 2026 started at the weekend with a trio of fixtures.",
+        "body": "WXV Global Series 2026 started at the weekend with a trio of fixtures. Over the weekend we saw Women’s Rugby World Cup 2025 champions England beat Australia 48-15, Canada were 64-26 winners over Scotland, and the Black Ferns registered a 28-14 win over France.\n\nThere were plenty of storylines wherever you looked. And it is only just the start. Everyone was a little stunned when the Red Roses went into half-time trailing the Wallaroos in Salford. Across the first half, Australia were by far the better team. Australia played with a physicality and intensity that we have rarely seen from the side before. It was thoroughly enjoyable stuff.",
+        "copy": "WXV Global Series 2026 started at the weekend with a trio of fixtures. Over the weekend we saw Women’s Rugby World Cup 2025 champions England beat Australia 48-15, Canada were 64-26 winners over Scotland, and the Black Ferns registered a 28-14 win over France.\n\nThere were plenty of storylines wherever you looked. And it is only just the start. Everyone was a little stunned when the Red Roses went into half-time trailing the Wallaroos in Salford. Across the first half, Australia were by far the better team. Australia played with a physicality and intensity that we have rarely seen from the side before. It was thoroughly enjoyable stuff.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "2026 WXV Global Series preview: Wales",
+        "link": "https://www.rugbypass.com/news/2026-wxv-global-series-preview-wales/",
+        "published": "2026-09-14T15:00:50+00:00",
+        "published_label": "Mon 14 Sep, 15:00",
+        "summary": "Wales have everything to gain from this year’s WXV Global Series. After a false start in their Guinness Women’s Six Nations campaign, players, coaches and fans will be eagerly awaiting some positive results and a sign that the tide is turning.",
+        "body": "Wales have everything to gain from this year’s WXV Global Series. After a false start in their Guinness Women’s Six Nations campaign, players, coaches and fans will be eagerly awaiting some positive results and a sign that the tide is turning.\n\nIt’ll likely be a nervous campaign. Since assuming the role in 2025, Head Coach Sean Lynn has been adamant that “changes are being made” in the Wales set up. But Lynn is fighting on two fronts. Not only trying to blood new young personnel into credible internationals but also find a rhythm that defines Wales’ playing style.",
+        "copy": "Wales have everything to gain from this year’s WXV Global Series. After a false start in their Guinness Women’s Six Nations campaign, players, coaches and fans will be eagerly awaiting some positive results and a sign that the tide is turning.\n\nIt’ll likely be a nervous campaign. Since assuming the role in 2025, Head Coach Sean Lynn has been adamant that “changes are being made” in the Wales set up. But Lynn is fighting on two fronts. Not only trying to blood new young personnel into credible internationals but also find a rhythm that defines Wales’ playing style.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "English Champ breaks away from PREM and aligns with France",
+        "link": "https://www.rugbypass.com/news/english-champ-breaks-away-from-prem-rugby-and-aligns-with-france/",
+        "published": "2026-09-14T14:54:06+00:00",
+        "published_label": "Mon 14 Sep, 14:54",
+        "summary": "Champ Rugby has moved with the times and adopted the Top 14 try bonus system to reflect the growing trend of high-scoring matches.",
+        "body": "Champ Rugby has moved with the times and adopted the Top 14 try bonus system to reflect the growing trend of high-scoring matches. While the Gallagher PREM continue to award try bonus points to teams scoring four tries whether they win or lose, the Elior Champ has decided to take a different stance ahead of Friday’s opening match of the season between Nottingham and newly-promoted Blackheath.\n\nNow, only teams scoring three tries or more than their opponents will get rewarded. The losing bonus point system remains the same, though, with teams losing by seven points or fewer picking up an extra point.",
+        "copy": "Champ Rugby has moved with the times and adopted the Top 14 try bonus system to reflect the growing trend of high-scoring matches. While the Gallagher PREM continue to award try bonus points to teams scoring four tries whether they win or lose, the Elior Champ has decided to take a different stance ahead of Friday’s opening match of the season between Nottingham and newly-promoted Blackheath.\n\nNow, only teams scoring three tries or more than their opponents will get rewarded. The losing bonus point system remains the same, though, with teams losing by seven points or fewer picking up an extra point.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3978,74 +4043,22 @@
         "body": "Delaney Burns revealed to her England team-mates that at 15 years old she had a 'short back and sides' - it went down well. Having been selected to speak at one of the Red Roses 'connection meetings', the 24-year-old admitted she had \"never been so nervous to talk in front of a group of people\" in her life.\n\nBut the second-row was a roaring success as she covered her rugby journey, life in Bristol and 'that' haircut. As she prepares to face Australia this Saturday, she has another opportunity to add to her six caps in what has been a whirlwind career so far.",
         "copy": "Delaney Burns revealed to her England team-mates that at 15 years old she had a 'short back and sides' - it went down well. Having been selected to speak at one of the Red Roses 'connection meetings', the 24-year-old admitted she had \"never been so nervous to talk in front of a group of people\" in her life.\n\nBut the second-row was a roaring success as she covered her rugby journey, life in Bristol and 'that' haircut. As she prepares to face Australia this Saturday, she has another opportunity to add to her six caps in what has been a whirlwind career so far.",
         "first_seen": "2026-09-07T21:06:17.537483+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Wales drop to lowest-ever position in the World Rugby rankings",
-        "link": "https://www.rugbypass.com/news/wales-drop-to-lowest-ever-position-in-the-world-rugby-rankings/",
-        "published": "2026-09-07T17:35:27+00:00",
-        "published_label": "Mon 07 Sep, 17:35",
-        "summary": "Wales have dropped to their lowest-ever position in the World Rugby rankings after Fiji beat Japan last weekend.",
-        "body": "Wales have dropped to their lowest-ever position in the World Rugby rankings after Fiji beat Japan last weekend. On Friday afternoon in Fukuoka, Willie Walker’s Fijiana XV were able to grind out a 15-12 win against their hosts, the Sakura Fifteen and overtake the side they stunned in the group stage of Women’s Rugby World Cup 2025.\n\nThe result means that Fiji have moved to a new high of 12th in the World Rugby rankings, while Wales have fallen to their lowest ranking ever [13th]. Wales have not won a Test since July 2025, when they overcame Australia 21-12 in Brisbane. At Women’s Rugby World Cup 2025 Sean Lynn’s team went winless and concluded the tournament with a 28-25 loss to Fiji. In the 2026 Guinness Women’s Six Nations the side picked up a third wooden spoon in a row.",
-        "copy": "Wales have dropped to their lowest-ever position in the World Rugby rankings after Fiji beat Japan last weekend. On Friday afternoon in Fukuoka, Willie Walker’s Fijiana XV were able to grind out a 15-12 win against their hosts, the Sakura Fifteen and overtake the side they stunned in the group stage of Women’s Rugby World Cup 2025.\n\nThe result means that Fiji have moved to a new high of 12th in the World Rugby rankings, while Wales have fallen to their lowest ranking ever [13th]. Wales have not won a Test since July 2025, when they overcame Australia 21-12 in Brisbane. At Women’s Rugby World Cup 2025 Sean Lynn’s team went winless and concluded the tournament with a 28-25 loss to Fiji. In the 2026 Guinness Women’s Six Nations the side picked up a third wooden spoon in a row.",
-        "first_seen": "2026-09-07T21:06:17.537483+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Allow overseas stars to play for England",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5y5kd13y99o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-07T17:30:19+00:00",
-        "published_label": "Mon 07 Sep, 17:30",
-        "summary": "England selection should no longer be restricted to players based at domestic clubs, according to cap centurion Courtney Lawes.",
-        "body": "England selection should no longer be restricted to players based at domestic clubs, according to cap centurion Courtney Lawes. The 37-year-old is back in contention to add to his 105 England appearances, having signed a one-year deal with Sale after two seasons at Brive in the French second tier.\n\nA clutch of English talent - notably Toulouse star Jack Willis - remain across the Channel and out of reach for England head coach Steve Borthwick. \"I can see why they do it because they don't want all their players playing abroad, but I don't think that's necessarily going to be the case anyway,\" said Lawes.",
-        "copy": "England selection should no longer be restricted to players based at domestic clubs, according to cap centurion Courtney Lawes. The 37-year-old is back in contention to add to his 105 England appearances, having signed a one-year deal with Sale after two seasons at Brive in the French second tier.\n\nA clutch of English talent - notably Toulouse star Jack Willis - remain across the Channel and out of reach for England head coach Steve Borthwick. \"I can see why they do it because they don't want all their players playing abroad, but I don't think that's necessarily going to be the case anyway,\" said Lawes.",
-        "first_seen": "2026-09-07T21:06:17.537483+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "WRU appoints Lillicrap to new women's role",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ce9ex1d2e05o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-07T16:42:29+00:00",
-        "published_label": "Mon 07 Sep, 16:42",
-        "summary": "Former captain Siwan Lillicrap is named head of women's coaching and development by the Welsh Rugby Union.",
-        "body": "Former captain Siwan Lillicrap has been appointed as head of women's coaching and development by the Welsh Rugby Union (WRU). WRU chiefs say Lillicrap will \"deliver an aligned coaching and development system across the women's performance pathway for players between 14 and 24 years of age\" in the newly created role.\n\nLillicrap, who won 51 Wales caps, has worked as WRU's pathway manager and women's under-18s head coach since retiring from international rugby in 2022. In her role as pathways manager, the 38-year-old oversaw player development centres in east, west and north Wales.",
-        "copy": "Former captain Siwan Lillicrap has been appointed as head of women's coaching and development by the Welsh Rugby Union (WRU). WRU chiefs say Lillicrap will \"deliver an aligned coaching and development system across the women's performance pathway for players between 14 and 24 years of age\" in the newly created role.\n\nLillicrap, who won 51 Wales caps, has worked as WRU's pathway manager and women's under-18s head coach since retiring from international rugby in 2022. In her role as pathways manager, the 38-year-old oversaw player development centres in east, west and north Wales.",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Rob Baxter insists new investors won't 'throw money' at Exeter Chiefs",
-        "link": "https://www.rugbypass.com/news/rob-baxter-insists-new-investors-wont-throw-money-at-exeter-chiefs/",
-        "published": "2026-09-07T15:21:40+00:00",
-        "published_label": "Mon 07 Sep, 15:21",
-        "summary": "Exeter Chiefs boss Rob Baxter points out that new owners Black Knight Entertainment haven’t just come into Sandy Park with a blank chequebook...",
-        "body": "Exeter Chiefs boss Rob Baxter points out that new owners Black Knight Entertainment haven’t just come into Sandy Park with a blank chequebook but are expecting the club to return to being a well-run, profitable business.\n\nBaxter says that Bill Foley’s summer investment in the club has lifted the financial strain on the club, which was once the most profitable club in the Gallagher Prem before the pandemic wrecked its finances.",
-        "copy": "Exeter Chiefs boss Rob Baxter points out that new owners Black Knight Entertainment haven’t just come into Sandy Park with a blank chequebook but are expecting the club to return to being a well-run, profitable business.\n\nBaxter says that Bill Foley’s summer investment in the club has lifted the financial strain on the club, which was once the most profitable club in the Gallagher Prem before the pandemic wrecked its finances.",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Four-time PWR winner commits to 13th Saracens season",
-        "link": "https://www.rugbypass.com/news/four-time-pwr-winner-commits-to-13th-saracens-season/",
-        "published": "2026-09-07T15:00:38+00:00",
-        "published_label": "Mon 07 Sep, 15:00",
-        "summary": "Lotte Sharp has re-signed with Saracens to take her association with the North London club into a 13th season.",
-        "body": "Lotte Sharp has re-signed with Saracens to take her association with the North London club into a 13th season. The 31-year-old joined Saracens in 2014 from Welwyn Rugby and won the Women’s Premiership in her first season.\n\nIn the years since, Sharp has since made her 150th appearance for the club and has won JAECOO Premiership Women’s Rugby four times. Last season Sharp made 15 league appearances for the StoneX Stadium club and scored five tries. In addition to playing top-flight rugby, Sharp teaches full-time at Heath Mount School.",
-        "copy": "Lotte Sharp has re-signed with Saracens to take her association with the North London club into a 13th season. The 31-year-old joined Saracens in 2014 from Welwyn Rugby and won the Women’s Premiership in her first season.\n\nIn the years since, Sharp has since made her 150th appearance for the club and has won JAECOO Premiership Women’s Rugby four times. Last season Sharp made 15 league appearances for the StoneX Stadium club and scored five tries. In addition to playing top-flight rugby, Sharp teaches full-time at Heath Mount School.",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu’s former coach issues defence of Alexander Zverev and insists he plays within the rules",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVdhM29PVnZqVThVNTNZOHFOeldRZEpvRWxYWXd0d0RoUUI5cjNsWTdkZ2dRMFd4OXVhUTRIUXYxXzkycWZrS1N2aDVpVzVrem1ibUZNczF4RlNBU2ZLYXAzQUtZZl80MWlkYUdLRHBWMDZTR3VDR0ZzSGxvRjhIS2VPY1l5WjZFNVE?oc=5",
+        "published": "2026-09-14T17:00:00+00:00",
+        "published_label": "Mon 14 Sep, 17:00",
+        "summary": "Emma Raducanu’s former coach issues defence of Alexander Zverev and insists he plays within the rules Yahoo Sports",
+        "body": "Alexander Zverev may have just won the US Open title, but the reaction has been far from overwhelmingly positive. After all, one negative narrative that really picked up as he went through the competition surrounded his serve, and particularly how long it took him to toss the ball.\n\nIt was stated that he had bounced the ball roughly 12,000 times before the semi-final, and during the final, the umpire had to warn him for taking too long between serves. Ben Shelton has discussed this controversy surrounding Zverev already following his loss, whilst others have called for a rule change because of it.",
+        "copy": "Alexander Zverev may have just won the US Open title, but the reaction has been far from overwhelmingly positive. After all, one negative narrative that really picked up as he went through the competition surrounded his serve, and particularly how long it took him to toss the ball.\n\nIt was stated that he had bounced the ball roughly 12,000 times before the semi-final, and during the final, the umpire had to warn him for taking too long between serves. Ben Shelton has discussed this controversy surrounding Zverev already following his loss, whilst others have called for a rule change because of it.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -5332,35 +5345,74 @@
         "body": "Zheng Qinwen won a set from 5-0 down for the second match in succession as she extended her fantastic US Open run by beating former champion Iga Swiatek to reach the quarter-finals.\n\nZheng, the reigning Olympic champion and former world number four, dropped outside the world's top 100 earlier this year while struggling to regain her best form following elbow surgery in July 2025.",
         "copy": "Zheng Qinwen won a set from 5-0 down for the second match in succession as she extended her fantastic US Open run by beating former champion Iga Swiatek to reach the quarter-finals.\n\nZheng, the reigning Olympic champion and former world number four, dropped outside the world's top 100 earlier this year while struggling to regain her best form following elbow surgery in July 2025.",
         "first_seen": "2026-09-07T21:06:17.537483+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Emma Raducanu drops exciting comeback video after missing US Open",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHYxaTV1NXp5SGxuMy1NRDNwLXZqUDRqS1RLQm83a0tma3FpTUhoVlZQOC1ySE5zdk1CTU9oZWM3MUN6bFVvVmRUQXpzc2tKdlk1Qkg5WjBBMVVqS093YUV2X0JEVEZxWVpaZXY0bjE4Q3FpU2ppeWozQ3NIRUNNbXRPNTlWVmZEeERn?oc=5",
-        "published": "2026-09-07T17:30:20+00:00",
-        "published_label": "Mon 07 Sep, 17:30",
-        "summary": "Emma Raducanu drops exciting comeback video after missing US Open AOL.co.uk",
-        "body": "Emma Raducanu has shared a promising update as she continues her absence from the tennis tour. The Brit has not played a match since June, when she finished runner-up at Queen's. She pulled out of Wimbledon on the eve of the tournament due to a stress fracture in her leg, and missed the US Open for the same reason.\n\nIt's still not known when Raducanu will return to competition, though she has automatically been entered into the China Open, a mandatory WTA 1000 event in Beijing. But the world No. 70 shared an exciting video of herself hitting some serves on Monday, more than 3,000 miles away from Flushing Meadows.",
-        "copy": "Emma Raducanu has shared a promising update as she continues her absence from the tennis tour. The Brit has not played a match since June, when she finished runner-up at Queen's. She pulled out of Wimbledon on the eve of the tournament due to a stress fracture in her leg, and missed the US Open for the same reason.\n\nIt's still not known when Raducanu will return to competition, though she has automatically been entered into the China Open, a mandatory WTA 1000 event in Beijing. But the world No. 70 shared an exciting video of herself hitting some serves on Monday, more than 3,000 miles away from Flushing Meadows.",
-        "first_seen": "2026-09-07T21:06:17.537483+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "US Open LIVE! Scores, updates, news, and results from New York with Naomi Osaka, Iga Swiatek, Coco Gauff and Alexander Zverev in action",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQTA4ZHRucHhjTHdHWGwyS1R0bnRaeHkwOGU2bUhnbmlCXzVNUWh3TDZBYWMzSHBWenJYd3lGa1RfZktNckpPWE0ydW5hY2tBYWkyMnpBblJlZW9QcFJETlF6SU95dng4QzZPVVVsNnZlRjNtN291elhtck1wXzhTUkxPbkMzTFFmOFl4M3pDUEdQb2h3d3dxN0h5WkFHaTdpa1BhVDdLcGpBZjJIbnlOU1lpUDU1UEpfWkhkaGhXOG1EOHZhQnRsdmJxcXduR1M1Qm0wZ3hGbVQyZnhpLVN1TzlnbGUtWjV2ck1yN3lLUzNNMmx6d21TcGZGXzM4SVlmTFFYMkM5ZlhjZEpvaHBXNFdOSWtnUQ?oc=5",
-        "published": "2026-09-07T14:51:00+00:00",
-        "published_label": "Mon 07 Sep, 14:51",
-        "summary": "US Open LIVE! Scores, updates, news, and results from New York with Naomi Osaka, Iga Swiatek, Coco Gauff and Alexander Zverev in action skysports.com",
-        "body": "WATCH: Osaka walks out in 'quilted jacket'! Naomi Osaka's outfits are often talked about as much as her tennis and the quilted patchwork jacket she donned while heading out for her last-16 match with Elena Rybakina on Louis Armstrong was assessed by Sky Sports' Martina Navratilova and Laura Robson.\n\n- Got Sky? Watch US Open live on the Sky Sports app - Not got Sky? Instant access with NOW - no contract",
-        "copy": "WATCH: Osaka walks out in 'quilted jacket'! Naomi Osaka's outfits are often talked about as much as her tennis and the quilted patchwork jacket she donned while heading out for her last-16 match with Elena Rybakina on Louis Armstrong was assessed by Sky Sports' Martina Navratilova and Laura Robson.\n\n- Got Sky? Watch US Open live on the Sky Sports app - Not got Sky? Instant access with NOW - no contract",
-        "first_seen": "2026-09-07T21:06:17.537483+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf star hits out at ‘rat’ in player group chat",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlV3SW5ObGtZMC1UWHBfZWpIRVV5R0NJeXNmN2NYeHJOTGxndXozUmRvZUpQSVBmdWpDYzZlYXlYUWhENVVkSEpwUkMza0txNk41NmVUZFpmZllvR3Y2NVVxa1pub2JTUXM4ZmNCMjZUak00dW9jZVZGVS1WUkR4ZEVVV2xGLWVWYXFjUV9JT3Fpb2s?oc=5",
+        "published": "2026-09-14T17:10:56+00:00",
+        "published_label": "Mon 14 Sep, 17:10",
+        "summary": "LIV Golf star hits out at ‘rat’ in player group chat Today's Golfer",
+        "body": "LIV Golf has a matter of days to secure its future, but one player is frustrated that a mystery ‘rat’ in a private group chat is not helping the cause by leaking information to the media.\n\nWhen Thomas Detry made the bold move to LIV Golf last winter, he could scarcely have believed the tumult that would follow. But even after LIV filed for bankruptcy this month, and with the league wading through a murky path to survival without Saudi Arabia’s multi-billion backing, Detry insists he has no regrets over his big decision.",
+        "copy": "LIV Golf has a matter of days to secure its future, but one player is frustrated that a mystery ‘rat’ in a private group chat is not helping the cause by leaking information to the media.\n\nWhen Thomas Detry made the bold move to LIV Golf last winter, he could scarcely have believed the tumult that would follow. But even after LIV filed for bankruptcy this month, and with the league wading through a murky path to survival without Saudi Arabia’s multi-billion backing, Detry insists he has no regrets over his big decision.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Peyton Manning's club-pro invitational is best golf event you've never heard of",
+        "link": "https://golf.com/news/features/peyton-manning-golf-invitational-smith-cole/",
+        "published": "2026-09-14T16:53:10+00:00",
+        "published_label": "Mon 14 Sep, 16:53",
+        "summary": "This week, Peyton Manning is hosting the Smith Cole at Cherry Hills Country Club, which quietly ranks among the game's best hangs. The post Peyton Manning’s club-pro invitational is best golf event you’ve never heard of appeared first on Golf .",
+        "body": "It’s likely you’ve heard of the Seminole Pro-Member, the one-day event held each March at the regal Donald Ross course on the Atlantic Ocean in South Florida. It has drawn, through the years, Nick Price, Ernie Els, Tiger Woods, Rory McIlroy, Nelly Korda, among other touring luminaries, Jimmy Dunne, the longtime Seminole Golf Club president, presiding. The so-called fifth major.\n\nThis week a group of elite club pros get their turn to be spoiled in style, at an event that has bubbled under the surface of national attention for decades, the Smith Cole pro-am at the Cherry Hills Country Club, outside Denver, a three-day tourney hosted by Peyton Manning, a Cherry Hills member and Denver resident. The event is named for the late Warren Smith and Clayton Cole, very much alive, both longtime head pros at Cherry Hills. The Smith Cole is a club-pro major. This year’s edition is No. 34.",
+        "copy": "It’s likely you’ve heard of the Seminole Pro-Member, the one-day event held each March at the regal Donald Ross course on the Atlantic Ocean in South Florida. It has drawn, through the years, Nick Price, Ernie Els, Tiger Woods, Rory McIlroy, Nelly Korda, among other touring luminaries, Jimmy Dunne, the longtime Seminole Golf Club president, presiding. The so-called fifth major.\n\nThis week a group of elite club pros get their turn to be spoiled in style, at an event that has bubbled under the surface of national attention for decades, the Smith Cole pro-am at the Cherry Hills Country Club, outside Denver, a three-day tourney hosted by Peyton Manning, a Cherry Hills member and Denver resident. The event is named for the late Warren Smith and Clayton Cole, very much alive, both longtime head pros at Cherry Hills. The Smith Cole is a club-pro major. This year’s edition is No. 34.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The 2026 PGA Tour's winningest putters show mallets are the new king",
+        "link": "https://golf.com/gear/putters/2026-pga-tours-winningest-putters/",
+        "published": "2026-09-14T16:52:28+00:00",
+        "published_label": "Mon 14 Sep, 16:52",
+        "summary": "The TaylorMade Spider was again the winningest putter on the PGA Tour, but mallets in general were nearly unbeatable. The post The 2026 PGA Tour’s winningest putters show mallets are the new king appeared first on Golf .",
+        "body": "If you were to describe the list of PGA Tour winning putters with two words, the first would easily be “mallet.” Across 37 events with 38 winners, only five events by three different pros were won all season by a blade putter. Matt Fitzpatrick won three times with his Bettinardi blade while Tom Kim and Ryan Fox made it a blade sweep in the PGA Tour’s two links golf events, the Scottish Open and Open Championship.\n\nOther than that, every other event this season was won by players using mallet putters. Nine of those players, combining for 13 wins, were using TaylorMade Spider family putters and 11 of them were using the flagship Spider Tour X. The 11 wins for the Spider Tour X shape were more than any other putter brand this season.",
+        "copy": "If you were to describe the list of PGA Tour winning putters with two words, the first would easily be “mallet.” Across 37 events with 38 winners, only five events by three different pros were won all season by a blade putter. Matt Fitzpatrick won three times with his Bettinardi blade while Tom Kim and Ryan Fox made it a blade sweep in the PGA Tour’s two links golf events, the Scottish Open and Open Championship.\n\nOther than that, every other event this season was won by players using mallet putters. Nine of those players, combining for 13 wins, were using TaylorMade Spider family putters and 11 of them were using the flagship Spider Tour X. The 11 wins for the Spider Tour X shape were more than any other putter brand this season.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Johnny Miller's 5 moves you can use to become an elite ball striker",
+        "link": "https://golf.com/instruction/approach-shots/johnny-miller-five-moves-elite-ball-striker/",
+        "published": "2026-09-14T16:33:29+00:00",
+        "published_label": "Mon 14 Sep, 16:33",
+        "summary": "Johnny Miller is one of the greatest ball strikers golf has ever seen. Here are five moves you can copy to hit it like him. The post Johnny Miller’s 5 moves you can use to become an elite ball striker appeared first on Golf .",
+        "body": "Golf instruction is ever-evolving, but the best advice stands the test of time. In GOLF.com’s new series, Timeless Tips, we’re highlighting some of the greatest advice teachers and players have dispensed in the pages of GOLF Magazine. Today, Johnny Miller shares five keys for ball striking from our September 1976 issue.\n\nThere aren’t many golfers in the history of the game who hit the ball as well as Johnny Miller. During his prime, there was little doubt he was among the best in the game — and he has the resume to prove it.",
+        "copy": "Golf instruction is ever-evolving, but the best advice stands the test of time. In GOLF.com’s new series, Timeless Tips, we’re highlighting some of the greatest advice teachers and players have dispensed in the pages of GOLF Magazine. Today, Johnny Miller shares five keys for ball striking from our September 1976 issue.\n\nThere aren’t many golfers in the history of the game who hit the ball as well as Johnny Miller. During his prime, there was little doubt he was among the best in the game — and he has the resume to prove it.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Cabot is building a second golf resort in Nova Scotia. Here's what we know",
+        "link": "https://golf.com/travel/cabot-wilds-nova-scotia-resort-desintation/",
+        "published": "2026-09-14T15:00:05+00:00",
+        "published_label": "Mon 14 Sep, 15:00",
+        "summary": "Cabot, the luxury developer of golf courses and real estate, is doubling down on the Canadian province where the company was born. The post Cabot is building a second golf resort in Nova Scotia. Here’s what we know appeared first on Golf .",
+        "body": "In 1497, the navigator John Cabot, fresh off explorations of eastern Canada, returned to England to a hero’s welcome. More than 500 years later, a global brand that bears his name is planning a homecoming of a different kind.\n\nCabot, the prominent golf and real-estate developer with a portfolio of marquee properties around the world, on Monday announced its latest project: Cabot Wilds, a destination resort in Nova Scotia anchored by an 18-hole course from Canadian architect Jeff Mingay, set to open in late 2027. The project is being developed in partnership with Canadian businessman John Bragg, a longtime Cabot investor who recently increased his stake in the company.",
+        "copy": "In 1497, the navigator John Cabot, fresh off explorations of eastern Canada, returned to England to a hero’s welcome. More than 500 years later, a global brand that bears his name is planning a homecoming of a different kind.\n\nCabot, the prominent golf and real-estate developer with a portfolio of marquee properties around the world, on Monday announced its latest project: Cabot Wilds, a destination resort in Nova Scotia anchored by an 18-hole course from Canadian architect Jeff Mingay, set to open in late 2027. The project is being developed in partnership with Canadian businessman John Bragg, a longtime Cabot investor who recently increased his stake in the company.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -7128,100 +7180,22 @@
         "body": "Cam Smith suggested that he was extremely confused by the PGA Tour not hosting an event in Australia after making the jump to LIV Golf back in 2022. Smith leaving for LIV four years ago felt like one of the biggest blows the PGA Tour had to deal with during the game's civil war.\n\nAt the time of his move, the Australian was the world number two. He had recently won The Open Championship in stunning fashion at The Old Course, while he had also won The Players Championship earlier in the year.",
         "copy": "Cam Smith suggested that he was extremely confused by the PGA Tour not hosting an event in Australia after making the jump to LIV Golf back in 2022. Smith leaving for LIV four years ago felt like one of the biggest blows the PGA Tour had to deal with during the game's civil war.\n\nAt the time of his move, the Australian was the world number two. He had recently won The Open Championship in stunning fashion at The Old Course, while he had also won The Players Championship earlier in the year.",
         "first_seen": "2026-09-08T10:34:42.435224+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "What made Wyndham Clark's bounce-back season so impressive | Subpar",
-        "link": "https://golf.com/news/wyndham-clark-bounce-back-season-subpar/",
-        "published": "2026-09-07T17:16:54+00:00",
-        "published_label": "Mon 07 Sep, 17:16",
-        "summary": "Subpar podcast co-hosts Colt Knost and Drew Stoltz recapped the 2026 PGA Tour season, including Wyndham Clark's three-win campaign. The post What made Wyndham Clark’s bounce-back season so impressive | Subpar appeared first on Golf .",
-        "body": "Before Wyndham Clark won the CJ Cup Byron Nelson back in May, he had missed the cut at the previous week’s PGA Championship and dropped to 75th in the World Ranking. Now? He’s fifth.\n\nMuch has changed since that missed cut at the PGA, and Clark closed the season with three wins and threw himself into the conversation for PGA Tour Player of the Year. After his win at the Nelson, he also picked up victories at the U.S. Open and BMW Championship.",
-        "copy": "Before Wyndham Clark won the CJ Cup Byron Nelson back in May, he had missed the cut at the previous week’s PGA Championship and dropped to 75th in the World Ranking. Now? He’s fifth.\n\nMuch has changed since that missed cut at the PGA, and Clark closed the season with three wins and threw himself into the conversation for PGA Tour Player of the Year. After his win at the Nelson, he also picked up victories at the U.S. Open and BMW Championship.",
-        "first_seen": "2026-09-07T21:06:17.537483+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Paul Casey donates entire Omega European Masters prize money to Crans-Montana fire victims charity",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWdlNjhPUjVQcktPTlloTlFJdWsteE5WN0pFYmY2bzdlVzdLaTJqSUNkOGFLTHRwbVd4QjJBRU84eUJSRWxQUy1aZE5meGFrTnpQd2xza0oxZ1pYdWU2Qjd3QVBFc0dJdWV5Wl9md3Z2ci1lWGhBVmc3LWxFb1NGbWxiMW9OSVI1UWlZU3RXeGg4NnhqblZWQmg1VmEtRUZrSEtCNnZ3UWhfMWcyMFlZdllHLWRFSU5VcWhLNmE4N2F0UQ?oc=5",
-        "published": "2026-09-07T17:10:00+00:00",
-        "published_label": "Mon 07 Sep, 17:10",
-        "summary": "Paul Casey donates entire Omega European Masters prize money to Crans-Montana fire victims charity golfmagic.com",
-        "body": "Paul Casey has delivered an extraordinary gesture after the DP World Tour confirmed the Englishman has donated his entire prize money from the Omega European Masters to charity.\n\nCasey came agonisingly close to securing a 16th career victory on the DP World Tour on Sunday, only to lose out to defending champion Thriston Lawrence on the fourth extra hole of a dramatic playoff at Crans-sur-Sierre Golf Club.",
-        "copy": "Paul Casey has delivered an extraordinary gesture after the DP World Tour confirmed the Englishman has donated his entire prize money from the Omega European Masters to charity.\n\nCasey came agonisingly close to securing a 16th career victory on the DP World Tour on Sunday, only to lose out to defending champion Thriston Lawrence on the fourth extra hole of a dramatic playoff at Crans-sur-Sierre Golf Club.",
-        "first_seen": "2026-09-07T21:06:17.537483+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Ian Poulter sees son win Walker Cup. Then comes a SCENE at the pub",
-        "link": "https://golf.com/news/ian-poulter-son-walker-cup-scene-pub/",
-        "published": "2026-09-07T16:53:49+00:00",
-        "published_label": "Mon 07 Sep, 16:53",
-        "summary": "Ian Poulter sees son Luke and Great Britain and Ireland win the Walker Cup at Lahinch Golf Club. Then comes a scene at the pub. The post Ian Poulter sees son win Walker Cup. Then comes a SCENE at the pub appeared first on Golf .",
-        "body": "Ian Poulter on the golf course while speaking on Golf Channel? Thoughtful. After son Luke’s Great Britain and Ireland team had rallied on Sunday to defeat the U.S. at the Walker Cup, he reflected on the scene at Lahinch Golf Club in Ireland.\n\nBut Poulter a little while later in an Irish pub? Sunday was something for Poulter, one of the European Ryder Cup team’s best-ever players and now a LIV Golf pro. Luke won his Sunday singles match. GB&I won the Cup. Afterward, Golf Channel’s Steve Burkowski wondered what Poulter made of it all. There were four questions.",
-        "copy": "Ian Poulter on the golf course while speaking on Golf Channel? Thoughtful. After son Luke’s Great Britain and Ireland team had rallied on Sunday to defeat the U.S. at the Walker Cup, he reflected on the scene at Lahinch Golf Club in Ireland.\n\nBut Poulter a little while later in an Irish pub? Sunday was something for Poulter, one of the European Ryder Cup team’s best-ever players and now a LIV Golf pro. Luke won his Sunday singles match. GB&I won the Cup. Afterward, Golf Channel’s Steve Burkowski wondered what Poulter made of it all. There were four questions.",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Where will Rahm and DeChambeau play in 2027? | Subpar",
-        "link": "https://golf.com/news/where-rahm-dechambeau-will-play-subpar/",
-        "published": "2026-09-07T16:12:03+00:00",
-        "published_label": "Mon 07 Sep, 16:12",
-        "summary": "On this week's episode of GOLF's Subpar, Colt Knost and Drew Stoltz break down where they think LIV\"s biggest stars wull play in 2027. The post Where will Rahm and DeChambeau play in 2027? | Subpar appeared first on Golf .",
-        "body": "With LIV Golf’s season complete (albeit with some last-second alterations), the league now looks to the future. Since it was announced in the spring that Saudi Arabia’s PIF would no longer invest in LIV, there have been many questions on how — or if — the league will continue into the future.\n\nWith so much uncertainty surrounding the future of the league, speculation about where the league’s biggest stars will compete in 2027 has run rampant. With a roster of stars that includes former major champions and Ryder Cup heroes, there is plenty of talent in the league that may be looking for playing opportunities elsewhere in the future.",
-        "copy": "With LIV Golf’s season complete (albeit with some last-second alterations), the league now looks to the future. Since it was announced in the spring that Saudi Arabia’s PIF would no longer invest in LIV, there have been many questions on how — or if — the league will continue into the future.\n\nWith so much uncertainty surrounding the future of the league, speculation about where the league’s biggest stars will compete in 2027 has run rampant. With a roster of stars that includes former major champions and Ryder Cup heroes, there is plenty of talent in the league that may be looking for playing opportunities elsewhere in the future.",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Where will Rahm and DeChambeau play in 2027? | Subpar",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMnBvSi1NX2FwMGlVekNHY3loYmx4aFZ2eEhHa196QmVLaTUzd0FDOV9PYlpyX0JHc01sR1BibzNva1ZjOThVa0l1dHJSTWV4Rng3VUc4ZmkybHo5UURSX09ZUzFfWm94d1RjUXNR?oc=5",
-        "published": "2026-09-07T16:12:03+00:00",
-        "published_label": "Mon 07 Sep, 16:12",
-        "summary": "Where will Rahm and DeChambeau play in 2027? | Subpar GOLF.com",
-        "body": "With LIV Golf’s season complete (albeit with some last-second alterations), the league now looks to the future. Since it was announced in the spring that Saudi Arabia’s PIF would no longer invest in LIV, there have been many questions on how — or if — the league will continue into the future.\n\nWith so much uncertainty surrounding the future of the league, speculation about where the league’s biggest stars will compete in 2027 has run rampant. With a roster of stars that includes former major champions and Ryder Cup heroes, there is plenty of talent in the league that may be looking for playing opportunities elsewhere in the future.",
-        "copy": "With LIV Golf’s season complete (albeit with some last-second alterations), the league now looks to the future. Since it was announced in the spring that Saudi Arabia’s PIF would no longer invest in LIV, there have been many questions on how — or if — the league will continue into the future.\n\nWith so much uncertainty surrounding the future of the league, speculation about where the league’s biggest stars will compete in 2027 has run rampant. With a roster of stars that includes former major champions and Ryder Cup heroes, there is plenty of talent in the league that may be looking for playing opportunities elsewhere in the future.",
-        "first_seen": "2026-09-08T12:15:46.322406+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Can Cleveland's new RTZ2 wedges handle real-world turf? We put them to the test",
-        "link": "https://golf.com/gear/cleveland-new-rtz2-wedges-real-world-turf/",
-        "published": "2026-09-07T15:03:50+00:00",
-        "published_label": "Mon 07 Sep, 15:03",
-        "summary": "Johnny Wunder and Jake Morrow traveled to Pinehurst to put the Cleveland RTZ2 wedges to the \"game-time\" test. Here are the results. The post Can Cleveland’s new RTZ2 wedges handle real-world turf? We put them to the test appeared first on Golf .",
-        "body": "Wedge testing is a finicky thing. A lot of great work can be done in a fitting bay, without question. But you can’t put a metric for how important getting a bunch of wedges out on a course to just mess around is. You’ve seen us test a bunch of clubs in the technical way, but what about the “feel” way?\n\nWell… Jake and I grabbed an armful of the new Cleveland RTZ2 wedges, kicked off our shoes and walked nine holes at The Cradle at Pinehurst. Sand-dusted turf, short targets, Sunday bags — an honest place to see what a leading edge actually does under pressure. Here’s what we learned.",
-        "copy": "Wedge testing is a finicky thing. A lot of great work can be done in a fitting bay, without question. But you can’t put a metric for how important getting a bunch of wedges out on a course to just mess around is. You’ve seen us test a bunch of clubs in the technical way, but what about the “feel” way?\n\nWell… Jake and I grabbed an armful of the new Cleveland RTZ2 wedges, kicked off our shoes and walked nine holes at The Cradle at Pinehurst. Sand-dusted turf, short targets, Sunday bags — an honest place to see what a leading edge actually does under pressure. Here’s what we learned.",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Who is Luke Poulter? Meet LIV Golf legend Ian Poulter’s son who wants to reach World No 1 and follow his",
-        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPcW5JVjBTZU42S1NaWVVjUWFybXQyTW1qcjFQVjI0aEhDWm5LOUYxbThkVzdxbE9KT2hDdFA1U1M5dDhhUFFkRkNmYVJ6UUdSbUNvc0pUUUlGaW43TmdqOVFjR0hlYUFCRE81MURBdk9VdWhyOFFWb2dCdWtyT2xjTEEybkhXWEdRRHdvcWdUYkEycXJldlZTWVNpNWdTcFFBdUpCWkM1b0J2V1JGenRLNl9mMEN2NUJzZXpySEI1M1RKYTlURDZwOW16T0RlVG00dzFnWWpBUk9EOEdMblBLMkNnV0pvN3FmaTl2a3Z0WkIzRV9SeUJiZnczX3E1eUdlZ1BMU2VISUQ2R19zVnJVVkN0b25SbnZOVHVFWGtGQXJCYmFhbENxc0tzd3FkaVlhQTRJTNIBugJBVV95cUxNWFJxc3Y3NjQydU8yMnlzNF9jWUdSTDBfcnUtNlNSeFRldk5nMUpDUXZIZXpTOVI5LU1oUDVvdmI0bngteW1lRjRzamxYZjZFM2VmX0lDc2c4Z081bkZicngzbUZ0Z2JIVHpFMnVzakZiZVIwdk13cjZiNzk0SFZPQ1BFMWdKX1dPTmIydU1RaXp5R1RhLVlTTGQ5MlJuOFlGaHFZcFpYc19oZHd6UXVoNzRVcUZQQ0h2M0hjdkZ6NTBoaEFBdlJPN2d5OFhDbE1fWUFVeEx3RkpOSkZBYzQ2UjNEMnNndmVSU1NjRy00Qkp1bE1QQnVjQnFiaERrcGRlemFZVzdCMWFWUktaMXk1NmNsMnV5SWtFZE9jZ2Y2MExIUFdVbXhVdURpWU9HbkdRQmNKc0llZ1J0Zw?oc=5",
-        "published": "2026-09-07T15:00:00+00:00",
-        "published_label": "Mon 07 Sep, 15:00",
-        "summary": "Who is Luke Poulter? Meet LIV Golf legend Ian Poulter’s son who wants to reach World No 1 and follow his The Times of India",
-        "body": "Luke Poulter is quickly making a name for himself in golf. The 22-year-old Englishman is one of the leading amateur golfers in the world. He is currently ranked eighth among men’s amateurs and has already shown that he can compete at the highest level.\n\nThe son of European Ryder Cup legend and LIV Golf star Ian Poulter, Luke has big ambitions of his own. He is representing Great Britain & Ireland at the Walker Cup and is preparing for life as a professional. He is also set to make his PGA Tour debut next year after receiving an exemption into the Arnold Palmer Invitational at Bay Hill.",
-        "copy": "Luke Poulter is quickly making a name for himself in golf. The 22-year-old Englishman is one of the leading amateur golfers in the world. He is currently ranked eighth among men’s amateurs and has already shown that he can compete at the highest level.\n\nThe son of European Ryder Cup legend and LIV Golf star Ian Poulter, Luke has big ambitions of his own. He is representing Great Britain & Ireland at the Walker Cup and is preparing for life as a professional. He is also set to make his PGA Tour debut next year after receiving an exemption into the Arnold Palmer Invitational at Bay Hill.",
-        "first_seen": "2026-09-07T17:11:50.064532+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Badminton duo win in Vietnam",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuV09CT1p2dEVLUFRaX2tfdkthaEFkd01ELUtldUxvT2dXU2ZUT195RDJ5RFQ3THpPVFdLZlFMVjYxRFhUakhYdTBiRTZfWTd3R1ItVTBpd2tQcVBOa0RPZExTYlNqSUcybWZnVmkyb3JUQ3BCVndJNg?oc=5",
+        "published": "2026-09-14T16:00:00+00:00",
+        "published_label": "Mon 14 Sep, 16:00",
+        "summary": "Badminton duo win in Vietnam Taipei Times",
+        "body": "Taiwan’s Chen Zhi-ray and Lin Yu-chieh won the men’s doubles final at the Yonex-Sunrise Vietnam Open badminton tournament on Sunday, dispatching their Singaporean opponents in 27 minutes in back-to-back games.\n\nChen and Lin defeated Singapore’s Terry Hee and Howin Wong at the Badminton World Federation (BWF) Super 100 event 21-14, 21-12 at the Nguyen Du Club in Ho Chi Minh City. The victory is the duo’s first BWF Tour event win since they paired up in 2024.",
+        "copy": "Taiwan’s Chen Zhi-ray and Lin Yu-chieh won the men’s doubles final at the Yonex-Sunrise Vietnam Open badminton tournament on Sunday, dispatching their Singaporean opponents in 27 minutes in back-to-back games.\n\nChen and Lin defeated Singapore’s Terry Hee and Howin Wong at the Badminton World Federation (BWF) Super 100 event 21-14, 21-12 at the Nguyen Du Club in Ho Chi Minh City. The victory is the duo’s first BWF Tour event win since they paired up in 2024.",
+        "first_seen": "2026-09-14T17:37:22.995517+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7746,5 +7720,5 @@
       }
     ]
   },
-  "total": 594
+  "total": 592
 }
