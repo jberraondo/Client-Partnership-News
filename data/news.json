@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T16:12:22.687305+00:00",
-  "generated_label": "Tuesday 15 September 2026, 16:12 UTC",
+  "generated_at": "2026-09-15T20:52:00.495108+00:00",
+  "generated_label": "Tuesday 15 September 2026, 20:52 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "Netflix, Amazon and YouTube create sports streaming lobby group in US",
+        "link": "https://www.sportspro.com/news/broadcast-ott/netflix-amazon-youtube-sports-streaming-lobby-group-usa/",
+        "published": "2026-09-15T16:15:06+00:00",
+        "published_label": "Tue 15 Sep, 16:15",
+        "summary": "Streaming Access and Choice Alliance (SACA) seeks to promote industry amid suggestions lawmakers could intervene in market. The post Netflix, Amazon and YouTube create sports streaming lobby group in US appeared first on SportsPro .",
+        "body": "Netflix, Amazon and YouTube have formed a new industry body designed to represent streaming services amid ongoing criticism about the rising cost of watching live sport in the US.\n\nThe Streaming Access and Choice Alliance (SACA) will be led by TechNet, a technology industry trade group comprising 106 members, and lobby lawmakers and regulators who have suggested measures designed to keep sport on linear television could be introduced to protect consumers.",
+        "copy": "Netflix, Amazon and YouTube have formed a new industry body designed to represent streaming services amid ongoing criticism about the rising cost of watching live sport in the US.\n\nThe Streaming Access and Choice Alliance (SACA) will be led by TechNet, a technology industry trade group comprising 106 members, and lobby lawmakers and regulators who have suggested measures designed to keep sport on linear television could be introduced to protect consumers.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -89,6 +102,19 @@
         "body": "",
         "copy": "AFC Bournemouth has extended its partnership with Renaissance Asset Finance for a further three seasons, with the agreement expanding to include the club’s women’s team for the first time. The asset finance company will remain a partner of Bournemouth through the 2028/29 season and continue its involvement with The Net, the club’s business community. Under […] The post Renaissance Asset Finance expands Bournemouth partnership appeared first on Sport Industry Group .",
         "first_seen": "2026-09-15T12:48:30.743329+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Adidas extends Benfica kit deal, adds training ground naming rights",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORE5maDZRdGRNbWJoRllUbUhSN0dDb2doUVJydkgzMXFZTVoxSTFDMElwUkVWZnJNbHlYbWFqakxOMXJuNnNmaFZySXZhaDFXa1FDSkU5M1pTY3dnZDlHYlBmZDJCenBaYVJZWEhpOFMzN2FjQlJ2X3ZRVFF2dHBzQmltbkRKWkVmc1JLMWkybVRvd2xieDdIU1pvQWkwRG5fQlVwdkFyUQ?oc=5",
+        "published": "2026-09-15T11:35:51+00:00",
+        "published_label": "Tue 15 Sep, 11:35",
+        "summary": "Adidas extends Benfica kit deal, adds training ground naming rights Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -193,6 +219,32 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-15T12:48:30.743329+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Carney calls for ‘unique alliance’ with EU in plea for closer trade ties",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ09SOHRHQ0FOUTc0Q0QyYjFsUFJPR2dMbW1veVZ2dk5HTzBSQ3RZd194ZjFSRndaTjBQM2xZZkwtVi1HMHRfcFFWNW1ETGFkUkg5MV9obFVWQlY3UGQyMTlqVmpnVlVDUy1RdTB3R19tRXg3QkpOcUZaMVRfQzBBTjJpMWg?oc=5",
+        "published": "2026-09-15T05:00:08+00:00",
+        "published_label": "Tue 15 Sep, 05:00",
+        "summary": "Carney calls for ‘unique alliance’ with EU in plea for closer trade ties Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Ten-year Treasury yield hits highest level since 2007",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkFXQVZYTHlqVDctU2ZDTTBLWVEycHpiUFI0SWd6TFVZbDNZQVJiVGxHcG9mNmR4NnVYLUd1U3o0bTl4UkZCRG8ya01SdndPa2dOOXZacXJBYTBLSlVNNXUtclpldHREZVhYX25CakNVMVNfWmdBSjRldlJUOU1nRlY1ZHY?oc=5",
+        "published": "2026-09-15T04:38:18+00:00",
+        "published_label": "Tue 15 Sep, 04:38",
+        "summary": "Ten-year Treasury yield hits highest level since 2007 Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1584,35 +1636,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-09T10:45:34.850408+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Investors led by L Catterton to buy controlling stake in Hyrox",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTllvZWVTM1B0Uy1waS1SSFZJYll0RjJOVWdSeWl6MzlfeGtxR2stTGpSZGRZTzVmSEU0UmE2Q01HWm1tUEdBTHVxeFNjY0NETHpsSGYyQTRoR3NfRzltM1pUdmtwcXdHS1plNUIyWTlMWFVrTno2cVhNLVhrWUxUdGNSOG4?oc=5",
-        "published": "2026-09-08T20:35:43+00:00",
-        "published_label": "Tue 08 Sep, 20:35",
-        "summary": "Investors led by L Catterton to buy controlling stake in Hyrox Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-09T10:45:34.850408+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "UK says it will force tech giants to stop children sharing nude images",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGZMUHFDMEJ4VUp2WThnS3lOMTNpZVBPSC10eDdEdnUyWnRoVHlmWngzeC13LTM0UmNCamxoWUZIUldiU0w4cnh1aHh2ZUJ2RGFLczlEbWxGWjd0ZGJDQUt1TTJmMjhFX2kxa0NEYUczT1BhY1lBVHYydmExVmt5T083YnQ?oc=5",
-        "published": "2026-09-08T18:34:56+00:00",
-        "published_label": "Tue 08 Sep, 18:34",
-        "summary": "UK says it will force tech giants to stop children sharing nude images Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-09T10:45:34.850408+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Three World Rugby POTYs snubbed in Bok RWC winners’ team of the series",
+        "link": "https://www.rugbypass.com/news/three-world-rugby-potys-snubbed-in-bok-rwc-winners-team-of-the-series-springboks-all-blacks/",
+        "published": "2026-09-15T16:16:12+00:00",
+        "published_label": "Tue 15 Sep, 16:16",
+        "summary": "Three former World Rugby Player of the Year winners have missed out on Steven Kitshoff and Trevor Nyakane’s team of Rugby’s Greatest Rivalry, with Malcolm Marx the only recipient of the award to make the XV comprising nine Springboks and six All Blacks.",
+        "body": "Three former World Rugby Player of the Year winners have missed out on Steven Kitshoff and Trevor Nyakane’s team of Rugby’s Greatest Rivalry, with Malcolm Marx the only recipient of the award to make the XV comprising nine Springboks and six All Blacks.\n\nThe two World Cup-winning Springbok props named their combined team from South Africa’s 3-1 series victory over the All Blacks on the For the Love of Rugby: South Africa podcast, overlooking Ardie Savea, Pieter-Steph du Toit and Beauden Barrett.",
+        "copy": "Three former World Rugby Player of the Year winners have missed out on Steven Kitshoff and Trevor Nyakane’s team of Rugby’s Greatest Rivalry, with Malcolm Marx the only recipient of the award to make the XV comprising nine Springboks and six All Blacks.\n\nThe two World Cup-winning Springbok props named their combined team from South Africa’s 3-1 series victory over the All Blacks on the For the Love of Rugby: South Africa podcast, overlooking Ardie Savea, Pieter-Steph du Toit and Beauden Barrett.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Aldergrove athlete helps bring home rugby gold",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjBIZFFtNV9fS3kwNHQ5LVpWZnl5azVPU1lSUEV6bXA0RndRcllIR1NZLWlkMU5GLWd0cUZvVDRDODdXRFQydW9BZ2JtQ3ZaTWpKb3JFcWZVZER3MUV6Nk8wNDV3SmpDV0UwTDNUQ0h0dkVDYThfRDZYVXdBZmV5LTdLWElRZ0c1U1pSV01R?oc=5",
+        "published": "2026-09-15T16:10:41+00:00",
+        "published_label": "Tue 15 Sep, 16:10",
+        "summary": "Aldergrove athlete helps bring home rugby gold Maple Ridge News",
+        "body": "Aldergrove’s 22-year-old Ava Van Santen, a Trinity Western University athlete, helped Canada claim gold at the FISU World University Championship Rugby Sevens, scoring four tries in the gold-medal game.\n\nCanada defeated France 20-0 in the final at the beginning of the month in Stellenbosch, South Africa. Van Santen, who plays wing, has been playing the sport for five years and is in her senior year. She was introduced to the sport in Grade 12 at Langley’s D.W. Poppy Secondary, by teacher and coach Stuart Crowley.",
+        "copy": "Aldergrove’s 22-year-old Ava Van Santen, a Trinity Western University athlete, helped Canada claim gold at the FISU World University Championship Rugby Sevens, scoring four tries in the gold-medal game.\n\nCanada defeated France 20-0 in the final at the beginning of the month in Stellenbosch, South Africa. Van Santen, who plays wing, has been playing the sport for five years and is in her senior year. She was introduced to the sport in Grade 12 at Langley’s D.W. Poppy Secondary, by teacher and coach Stuart Crowley.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Rugby sevens set for significant commercial boost thanks to innovative London event",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcEphZ2RLSjFtNWowQW9vemo0MDRYbmpLNFl3X0liZXIxekE5LVhWQ0oyNW54cEhkV2w3aE1wR3J5RVl4aEtLenhpcEhqVjNjWGpFQmg0Q0U2RW9yai00NmtEUVdKNng2MERqR01sWUJFaGxnbUR5XzZ1Y0VlWDZlNDEzOTVKd1VMQk9Cei1mZXBXYXVkQ1HSAZsBQVVfeXFMTVhxazgzemdJa1VtQUVwTXQyckJLV0ozRUxNX3NPWWkyd2NBbVBCVHNvSDdxZGl2RkJxY1ZtUU9TNU1RdnIydnVsZ19JLVJlakhwLTdtdDBNcGxCZzAzUThJd3RDVzRoQ01YYl80ZldIWVVZbkUwLVJXS29zLXlZLURNRWNNcVdkVG54ZGJTNjJ6c3ZGbldUUmkxTUU?oc=5",
+        "published": "2026-09-15T15:45:00+00:00",
+        "published_label": "Tue 15 Sep, 15:45",
+        "summary": "Rugby sevens set for significant commercial boost thanks to innovative London event The Mirror",
+        "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4017,61 +4082,22 @@
         "body": "Canada coach Stephen Meehan expects the unexpected from Fiji in their Asahi Super Dry Pacific Nations Cup 2026 semi-final, but has outlined how the Canucks may be able to “frustrate” the defending champions this weekend.\n\nFiji claimed the 2025 Pacific Nations Cup crown when they defeated Japan 33-27 on September 20 in Utah, and the reigning champions are once again preparing to defend that title, starting with a clash with Canada in Osaka.",
         "copy": "Canada coach Stephen Meehan expects the unexpected from Fiji in their Asahi Super Dry Pacific Nations Cup 2026 semi-final, but has outlined how the Canucks may be able to “frustrate” the defending champions this weekend.\n\nFiji claimed the 2025 Pacific Nations Cup crown when they defeated Japan 33-27 on September 20 in Utah, and the reigning champions are once again preparing to defend that title, starting with a clash with Canada in Osaka.",
         "first_seen": "2026-09-09T10:45:34.850408+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Uganda steps up preparations to host World Rugby Sevens qualifiers",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0lKUWN6YS1fRndSNF9WR09jb3hqWUIxaVZnTFhEdm9NQmY3dUNEZHQ3Y2dYUVlfdnREYWdQR2NycHBhQzVEcWtkY0FTTFVIS0ZkZURfMG52VjBWZGV1YU9NNktycEhqbmV0R3JtYmd0b18zQTlBZUJGSVQzRVF5dzlSU2hDQ2JlOXpBZWJXMC1DNzNWOTk1MVpNMHd0OVdCOFd4U185dm53RGVMbEtVMA?oc=5",
-        "published": "2026-09-08T18:34:33+00:00",
-        "published_label": "Tue 08 Sep, 18:34",
-        "summary": "Uganda steps up preparations to host World Rugby Sevens qualifiers The Eastleigh Voice",
-        "body": "Uganda has stepped up preparations to host a qualification tournament for the 2027 World Rugby Sevens Series. The two-day tournament, scheduled for September 26-27, will feature eight teams and serve as the opening leg of the 2026/2027 men's World Rugby Sevens qualifying series.\n\nGodwin Kayangwe, president of the Uganda Rugby Union (URU), told Xinhua on Monday that the union was working closely with the government to ensure the tournament's success. \"We are confident that Uganda will host an excellent tournament and we are preparing well for it,\" added Kayangwe.",
-        "copy": "Uganda has stepped up preparations to host a qualification tournament for the 2027 World Rugby Sevens Series. The two-day tournament, scheduled for September 26-27, will feature eight teams and serve as the opening leg of the 2026/2027 men's World Rugby Sevens qualifying series.\n\nGodwin Kayangwe, president of the Uganda Rugby Union (URU), told Xinhua on Monday that the union was working closely with the government to ensure the tournament's success. \"We are confident that Uganda will host an excellent tournament and we are preparing well for it,\" added Kayangwe.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "2026 WXV Global Series preview: Scotland",
-        "link": "https://www.rugbypass.com/news/2026-wxv-global-series-preview-scotland/",
-        "published": "2026-09-08T16:35:05+00:00",
-        "published_label": "Tue 08 Sep, 16:35",
-        "summary": "When the WXV Global Series fixtures were first being arranged, Scotland would have been delighted to secure fixtures versus Canada and New Zealand at home first up.",
-        "body": "When the WXV Global Series fixtures were first being arranged, Scotland would have been delighted to secure fixtures versus Canada and New Zealand at home first up. After all, those sides are lying number three and number two in the world ranking respectively at time of writing, will bring the crowds flocking to Hive Stadium in Edinburgh and Canada were last in Scotland in 2018 and the Black Ferns have never played in the country.\n\nBoth games will certainly be glamour days and big occasions for women’s rugby in Scotland that’s for sure, but fast forward a few months since the fixtures were made public and the Scots might fancy a slightly less taxing start to their five-game September and October schedule.",
-        "copy": "When the WXV Global Series fixtures were first being arranged, Scotland would have been delighted to secure fixtures versus Canada and New Zealand at home first up. After all, those sides are lying number three and number two in the world ranking respectively at time of writing, will bring the crowds flocking to Hive Stadium in Edinburgh and Canada were last in Scotland in 2018 and the Black Ferns have never played in the country.\n\nBoth games will certainly be glamour days and big occasions for women’s rugby in Scotland that’s for sure, but fast forward a few months since the fixtures were made public and the Scots might fancy a slightly less taxing start to their five-game September and October schedule.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "‘That’s not on us’: Sanderson responds to doubts over PREM",
-        "link": "https://www.rugbypass.com/news/thats-not-on-us-thats-on-steve-alex-sanderson-backs-quality-of-gallagher-prem/",
-        "published": "2026-09-08T16:22:05+00:00",
-        "published_label": "Tue 08 Sep, 16:22",
-        "summary": "Sale Sharks director of rugby Alex Sanderson has insisted the Gallagher PREM remains a strong breeding ground for international rugby amid concerns that it is failing to adequately prepare players for the Test arena.",
-        "body": "Sale Sharks director of rugby Alex Sanderson has insisted the Gallagher PREM remains a strong breeding ground for international rugby amid concerns that it is failing to adequately prepare players for the Test arena.\n\nA discernible gap has opened up between English sides and those at the top table of European rugby over the past decade, while England have similarly fallen behind the highest-ranked Test nations.",
-        "copy": "Sale Sharks director of rugby Alex Sanderson has insisted the Gallagher PREM remains a strong breeding ground for international rugby amid concerns that it is failing to adequately prepare players for the Test arena.\n\nA discernible gap has opened up between English sides and those at the top table of European rugby over the past decade, while England have similarly fallen behind the highest-ranked Test nations.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "2026 WXV Global Series preview: The Wallaroos",
-        "link": "https://www.rugbypass.com/news/2026-wxv-global-series-preview-the-wallaroos/",
-        "published": "2026-09-08T16:19:27+00:00",
-        "published_label": "Tue 08 Sep, 16:19",
-        "summary": "Of all the teams taking part in the WXV Global Series, the Wallaroos come into September in one of the most intriguing positions in all of international women’s rugby.",
-        "body": "Of all the teams taking part in the WXV Global Series, the Wallaroos come into September in one of the most intriguing positions in all of international women’s rugby. These eight weeks will mark the final time the Wallaroos take the field as semi-professional athletes – with XVs players joining their sevens counterparts in a full-time, high-performance environment from November.\n\nLed by the new Head of Women’s High Performance, Tim Walsh, morale on the ground is high: with the Australia Sevenss winning the 2026 HSBC SVNS World Championship and the governing body having one eye on the 2028 Olympic Games in Los Angeles and Women’s Rugby World Cup 2029 on home soil.",
-        "copy": "Of all the teams taking part in the WXV Global Series, the Wallaroos come into September in one of the most intriguing positions in all of international women’s rugby. These eight weeks will mark the final time the Wallaroos take the field as semi-professional athletes – with XVs players joining their sevens counterparts in a full-time, high-performance environment from November.\n\nLed by the new Head of Women’s High Performance, Tim Walsh, morale on the ground is high: with the Australia Sevenss winning the 2026 HSBC SVNS World Championship and the governing body having one eye on the 2028 Olympic Games in Los Angeles and Women’s Rugby World Cup 2029 on home soil.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper Announces He Will Miss the Rest of the Tennis Season",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFRRQTlxeWNLRkRFcmRaUlpzUkUwY3RtSzlzcXpfOXJSNV92VHFDcGp5ejdtSE9YZGxqSFl1c2xGZC1yOW9Mc0NGN1RLWld1NTE4cktQSDdFM2xZeHFhQlVmMVhTSm9TanZTVk5XamlsM0pFNi1zUEVrbVBUeWZhRHdlOVZrallJbFpoOE5Sa08zQVY1WVdN?oc=5",
+        "published": "2026-09-15T15:00:00+00:00",
+        "published_label": "Tue 15 Sep, 15:00",
+        "summary": "Jack Draper Announces He Will Miss the Rest of the Tennis Season Town & Country Magazine",
+        "body": "After dealing with a series of injuries since last year’s Wimbledon, British tennis player Jack Draper announced he will miss the rest of the season. “Don’t usually love lots of words on here but I wanted to update you that I am aiming to return to the tour at the start of 2027. Last summer all the dedication and work I had put into this sport was coming together. It was all going my way and the path seemed so clear. However a complicated injury made things incredibly challenging and since that moment I’ve been desperately trying to get back and feel as I once did on the court,” he wrote.\n\nDraper continued, “Managing so much change, adversity and pain has helped me to grow massively in many areas of my life but has also made me feel a level of fatigue that made it difficult to keep going. I am taking this time to reset and heal so when I return I am 100% ready to go.” He has been managing a chronic elbow injury in his left arm and a right knee injury.",
+        "copy": "After dealing with a series of injuries since last year’s Wimbledon, British tennis player Jack Draper announced he will miss the rest of the season. “Don’t usually love lots of words on here but I wanted to update you that I am aiming to return to the tour at the start of 2027. Last summer all the dedication and work I had put into this sport was coming together. It was all going my way and the path seemed so clear. However a complicated injury made things incredibly challenging and since that moment I’ve been desperately trying to get back and feel as I once did on the court,” he wrote.\n\nDraper continued, “Managing so much change, adversity and pain has helped me to grow massively in many areas of my life but has also made me feel a level of fatigue that made it difficult to keep going. I am taking this time to reset and heal so when I return I am 100% ready to go.” He has been managing a chronic elbow injury in his left arm and a right knee injury.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -4097,6 +4123,19 @@
         "body": "Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year. The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year's Wimbledon.\n\nDraper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France's Terence Atmane in Canada. \"I am taking this time to reset and heal so when I return I am 100% ready to go,\" Draper posted on Instagram., external",
         "copy": "Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year. The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year's Wimbledon.\n\nDraper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France's Terence Atmane in Canada. \"I am taking this time to reset and heal so when I return I am 100% ready to go,\" Draper posted on Instagram., external",
         "first_seen": "2026-09-15T16:12:22.687305+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper to miss remainder of 2026 tennis season due to arm injury",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3VfOEdadExKSldOWGtWbjJHYVRQSGg1aXNMdUVYdlBuV2ZVQmtjdXVSbjYxek4ySklGODVvY3VRN1pHOVVnWmRIdU9jUXZaQmpYTHE4bjFRNXJmN2hweVdZRFgtN3BrejZBRWtZSVRNcDN6aEs4bk0tWXV5TkZVVUV3LXJyZGE4RnU3OTNhbGZzSGJpMzBZT2tFRGdRZjA?oc=5",
+        "published": "2026-09-15T14:31:10+00:00",
+        "published_label": "Tue 15 Sep, 14:31",
+        "summary": "Jack Draper to miss remainder of 2026 tennis season due to arm injury upi.com",
+        "body": "Sept. 15 (UPI) -- British tennis star Jack Draper will miss the remainder of the 2026 season due to his lingering arm injury, the world No. 155 announced Tuesday on Instagram.\n\nDraper, who missed all four Grand Slams this season, last played Aug. 13 at the Cincinnati Open. He said he aims to return to the tour at the start of the 2027 campaign. \"Last summer, all the dedication and work I had put into this sport was coming together,\" Draper wrote on Instagram. \"It was all going my way and the path seemed so clear. However, a complicated injury made things incredibly challenging and since that moment I've been desperately trying to get back and feel as I once did on the court.",
+        "copy": "Sept. 15 (UPI) -- British tennis star Jack Draper will miss the remainder of the 2026 season due to his lingering arm injury, the world No. 155 announced Tuesday on Instagram.\n\nDraper, who missed all four Grand Slams this season, last played Aug. 13 at the Cincinnati Open. He said he aims to return to the tour at the start of the 2027 campaign. \"Last summer, all the dedication and work I had put into this sport was coming together,\" Draper wrote on Instagram. \"It was all going my way and the path seemed so clear. However, a complicated injury made things incredibly challenging and since that moment I've been desperately trying to get back and feel as I once did on the court.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
       },
       {
         "section": "Tennis",
@@ -4146,8 +4185,8 @@
         "published": "2026-09-15T13:30:10+00:00",
         "published_label": "Tue 15 Sep, 13:30",
         "summary": "Injury forces Jack Draper to call time on season The Times",
-        "body": "",
-        "copy": "",
+        "body": "Jack Draper has announced that he will not return to action until next year and underlined the toll that has been taken by his attempts to recover from a troublesome arm injury.\n\nDraper, 24, has endured a hugely frustrating season, making several abortive comebacks and remodelling his serve with the aim of reducing the strain being placed on the bone bruising in his upper left arm.",
+        "copy": "Jack Draper has announced that he will not return to action until next year and underlined the toll that has been taken by his attempts to recover from a troublesome arm injury.\n\nDraper, 24, has endured a hugely frustrating season, making several abortive comebacks and remodelling his serve with the aim of reducing the strain being placed on the bone bruising in his upper left arm.",
         "first_seen": "2026-09-15T16:12:22.687305+00:00"
       },
       {
@@ -5319,48 +5358,126 @@
         "body": "Alfie Hewett and Gordon Reid started their bid for a sixth wheelchair doubles title at the US Open with a dominant opening victory in New York. Playing Frenchman Stephane Houdet and China's Zhenxu Ji, the British top seeds sealed a 6-3 6-1 win to progress to the semi-finals.\n\nThey will next face Japan's Tokito Oda and Argentina's Gustavo Fernandez, the 2025 champions at Flushing Meadows. Hewett, 28, and Reid, 34, have 25 Grand Slam doubles titles as a pair and begin their singles campaigns on Wednesday.",
         "copy": "Alfie Hewett and Gordon Reid started their bid for a sixth wheelchair doubles title at the US Open with a dominant opening victory in New York. Playing Frenchman Stephane Houdet and China's Zhenxu Ji, the British top seeds sealed a 6-3 6-1 win to progress to the semi-finals.\n\nThey will next face Japan's Tokito Oda and Argentina's Gustavo Fernandez, the 2025 champions at Flushing Meadows. Hewett, 28, and Reid, 34, have 25 Grand Slam doubles titles as a pair and begin their singles campaigns on Wednesday.",
         "first_seen": "2026-09-09T10:45:34.850408+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "US Open: Sabalenka beats Noskova, and do we need five sets?",
-        "link": "https://www.bbc.co.uk/sounds/play/p0p8mdvg?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-08T19:27:00+00:00",
-        "published_label": "Tue 08 Sep, 19:27",
-        "summary": "Sabalenka fights back to keep US Open defence alive and are 5 set matches worth it?",
-        "body": "Reaction to defending champion Aryna Sabalenka reaching the US Open semis after beating Wimbledon champion Linda Noskova in a thriller that went to a match tie-break. Plus, after Tennis Australia chief executive Andrew Abdo suggested Grand Slams could cut back on best of 5 set matches to appeal to younger audiences we ask if shorter formats would be a progressive move. TIMECODES: 00'25 - Aryna Sabalenka speaking on court after her victory. 02'22 - Reaction to Aryna Sabalenka fighting back to reach her sixth successive semi-final at Flushing Meadows 04'55 - Tie-break mentality in Grand Slams - is it her biggest asset? 05'24 - Does she have a point to prove? 07'30 - Has she become the favourite to win this Grand Slam? 08'30 - The future of five set tennis...Tennis Australia chief executive Andrew Abdo suggested Slams could cut back to appeal to younger audiences 10'06 - Annabel Croft reacts to five set matches & five hour matches 11'35 - Pam Shriver on what's next to change in tennis 12'14 - Is it simplistic to suggest younger audiences are the reason for this potential change? 14'20 - Are three set matches more entertaining? 15'00 - Does the length of a match equal the value for money? 17'15 - Novack Djokovic suggesting it could be way forward.",
-        "copy": "Reaction to defending champion Aryna Sabalenka reaching the US Open semis after beating Wimbledon champion Linda Noskova in a thriller that went to a match tie-break. Plus, after Tennis Australia chief executive Andrew Abdo suggested Grand Slams could cut back on best of 5 set matches to appeal to younger audiences we ask if shorter formats would be a progressive move. TIMECODES: 00'25 - Aryna Sabalenka speaking on court after her victory. 02'22 - Reaction to Aryna Sabalenka fighting back to reach her sixth successive semi-final at Flushing Meadows 04'55 - Tie-break mentality in Grand Slams - is it her biggest asset? 05'24 - Does she have a point to prove? 07'30 - Has she become the favourite to win this Grand Slam? 08'30 - The future of five set tennis...Tennis Australia chief executive Andrew Abdo suggested Slams could cut back to appeal to younger audiences 10'06 - Annabel Croft reacts to five set matches & five hour matches 11'35 - Pam Shriver on what's next to change in tennis 12'14 - Is it simplistic to suggest younger audiences are the reason for this potential change? 14'20 - Are three set matches more entertaining? 15'00 - Does the length of a match equal the value for money? 17'15 - Novack Djokovic suggesting it could be way forward.",
-        "first_seen": "2026-09-09T10:45:34.850408+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Sabalenka thought title defence was over before US Open fightback",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-08T19:07:02+00:00",
-        "published_label": "Tue 08 Sep, 19:07",
-        "summary": "Aryna Sabalenka battles back to beat sixth seed Linda Noskova in three sets and advance to the semi-finals.",
-        "body": "Aryna Sabalenka thought she had lost her US Open crown before battling back to beat Linda Noskova in three sets and advance to the semi-finals. Taken to a deciding set for the first time in this year's tournament, the two-time defending champion trailed 4-2 in the third set and later 2-0 in the tie-break before recovering to close out the win in a little under two and a half hours.\n\nIt was the 28-year-old's 19th consecutive win at the tournament, having not tasted defeat since the 2023 final, while she becomes the first woman since Serena Williams in 2016 to reach six successive semi-finals at Flushing Meadows.",
-        "copy": "Aryna Sabalenka thought she had lost her US Open crown before battling back to beat Linda Noskova in three sets and advance to the semi-finals. Taken to a deciding set for the first time in this year's tournament, the two-time defending champion trailed 4-2 in the third set and later 2-0 in the tie-break before recovering to close out the win in a little under two and a half hours.\n\nIt was the 28-year-old's 19th consecutive win at the tournament, having not tasted defeat since the 2023 final, while she becomes the first woman since Serena Williams in 2016 to reach six successive semi-finals at Flushing Meadows.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "US Open LIVE! Scores, updates, news, results and video with Aryna Sabalenka and Frances Tiafoe in action in New York",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcXZWMnNEZlNWNjJlYlU3V2lva3hPc2ZhTl8taVhucDR0eHpmU1Y0d0pXZWxjczVTVVp0OGpWWlZ2NHVhaDBGUzhJZ2M3dDdfUENmMGpCdUJ1T1Q5akJETFFxNDcxRVpsMHlrN3BXdlJnZzk4d0xpNHhpTERTMEN5SnNleUhkZjI4bzhJWWlMSUwxcGw5N2Q1VXpBTkNSd1RBZ3QwalBfN2hIRTQzSWgyU1RUanNIbWxuU2dWUi03QnloSEV2R2w5TEppY1R1Yl83SlZJZTRpdi1hZlNtM21PVFJRYm1xYkFkZjN2cXVtdlpDRUxrTzZQNkRfSk1NTms?oc=5",
-        "published": "2026-09-08T16:37:11+00:00",
-        "published_label": "Tue 08 Sep, 16:37",
-        "summary": "US Open LIVE! Scores, updates, news, results and video with Aryna Sabalenka and Frances Tiafoe in action in New York Sky Sports",
-        "body": "Sabalenka shines in quarter-final THRILLER against Noskova! Highlights from the US Open Open quarter-final match between Aryna Sabalenka and Linda Noskova... - Got Sky? Watch US Open live on the Sky Sports app\n\n- Not got Sky? Instant access with NOW - no contract",
-        "copy": "Sabalenka shines in quarter-final THRILLER against Noskova! Highlights from the US Open Open quarter-final match between Aryna Sabalenka and Linda Noskova... - Got Sky? Watch US Open live on the Sky Sports app\n\n- Not got Sky? Instant access with NOW - no contract",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Biltmore Championship Asheville betting guide: 5 picks our expert loves this week",
+        "link": "https://golf.com/lifestyle/biltmore-championship-betting-guide-5-picks/",
+        "published": "2026-09-15T19:46:19+00:00",
+        "published_label": "Tue 15 Sep, 19:46",
+        "summary": "The Biltmore Championship Asheville begins on Thursday in North Carolina. Here are 5 bets our expert loves—and why he thinks you should too. The post Biltmore Championship Asheville betting guide: 5 picks our expert loves this week appeared first on Golf .",
+        "body": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Tour Championship, which gets underway on Thursday in Atlanta.\n\nThe FedEx Cup Fall Series begins this week with the first of eight “tweener” season events taking place between now and Thanksgiving. First stop: Asheville, N.C., for the inaugural Biltmore Championship Asheville, which is being played at the Cliffs at Walnut Cove. For a handful of players in this week’s field, this brand-new event will serve as the final tune-up for next week’s Presidents Cup at Medinah Country Club, just outside of Chicago.",
+        "copy": "Welcome to our weekly PGA Tour gambling-tips column, featuring picks from GOLF.com’s expert prognosticator, Brady Kannon. A seasoned golf bettor and commentator, Kannon is a host and regular guest on SportsGrid, a syndicated audio network devoted to sports and sports betting, and is a golf betting analyst for CBS Sportsline. You can follow Brady on Twitter at @LasVegasGolfer, and you can read his picks below for the 2026 Tour Championship, which gets underway on Thursday in Atlanta.\n\nThe FedEx Cup Fall Series begins this week with the first of eight “tweener” season events taking place between now and Thanksgiving. First stop: Asheville, N.C., for the inaugural Biltmore Championship Asheville, which is being played at the Cliffs at Walnut Cove. For a handful of players in this week’s field, this brand-new event will serve as the final tune-up for next week’s Presidents Cup at Medinah Country Club, just outside of Chicago.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The world's 100 best golf resorts offer much more than just great golf",
+        "link": "https://golf.com/travel/100-resorts-world-list-amenities-luxury/",
+        "published": "2026-09-15T19:17:00+00:00",
+        "published_label": "Tue 15 Sep, 19:17",
+        "summary": "At the Top 100 Golf Resorts in the World, luxury, architecture, history and unforgettable golf converge. Incredible amenities, too. The post The world’s 100 best golf resorts offer much more than just great golf appeared first on Golf .",
+        "body": "In 1766, a decade before the Declaration of Independence was signed, a former military cadet named Thomas Bullitt became a founding father of a different kind. He built a lodge.\n\nThen, as now, location was a key consideration, and Bullitt chose a prime one, in the Allegheny Mountains of Virginia, where mineral springs bubbled from the earth, drawing travelers who believed in their healing powers. Bullitt’s lodge, which he called the Homestead, gave them a place to stay.",
+        "copy": "In 1766, a decade before the Declaration of Independence was signed, a former military cadet named Thomas Bullitt became a founding father of a different kind. He built a lodge.\n\nThen, as now, location was a key consideration, and Bullitt chose a prime one, in the Allegheny Mountains of Virginia, where mineral springs bubbled from the earth, drawing travelers who believed in their healing powers. Bullitt’s lodge, which he called the Homestead, gave them a place to stay.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "As LIV Golf seeks to stay alive, Jon Rahm says he’s learned a lesson",
+        "link": "https://golf.com/news/as-liv-golf-alive-jon-rahm-lesson/",
+        "published": "2026-09-15T19:15:23+00:00",
+        "published_label": "Tue 15 Sep, 19:15",
+        "summary": "As LIV Golf seeks to stay alive, Jon Rahm said at the DP World Tour's BMW PGA Championship that he’s learned a lesson. The post As LIV Golf seeks to stay alive, Jon Rahm says he’s learned a lesson appeared first on Golf .",
+        "body": "No, Jon Rahm says, he isn’t “fed up” with being asked about LIV Golf. No, he said, he still couldn’t reveal whether he could leave LIV, outside of saying “there’s a long legal process.”\n\nBut no, he said, he probably won’t be involved in “the politics of the game” going forward. Speaking Tuesday ahead of this week’s BMW PGA Championship on the DP World Tour, Rahm said that’s been a lesson learned, and it comes as LIV, the tour on which he’s played since 2024, seeks to stay alive following the departure of its primary backer, the Saudi Arabia Public Investment Fund.",
+        "copy": "No, Jon Rahm says, he isn’t “fed up” with being asked about LIV Golf. No, he said, he still couldn’t reveal whether he could leave LIV, outside of saying “there’s a long legal process.”\n\nBut no, he said, he probably won’t be involved in “the politics of the game” going forward. Speaking Tuesday ahead of this week’s BMW PGA Championship on the DP World Tour, Rahm said that’s been a lesson learned, and it comes as LIV, the tour on which he’s played since 2024, seeks to stay alive following the departure of its primary backer, the Saudi Arabia Public Investment Fund.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Top 100 Golf Resorts in the World: Stay, play and indulge!",
+        "link": "https://golf.com/travel/top-100-golf-resorts-in-world/",
+        "published": "2026-09-15T19:14:14+00:00",
+        "published_label": "Tue 15 Sep, 19:14",
+        "summary": "Explore the best golf resorts in the world, featuring exceptional golf, luxury accomodations and unforgettable experiences. The post Top 100 Golf Resorts in the World: Stay, play and indulge! appeared first on Golf .",
+        "body": "The world is waiting. All you need to do is imagine the greatest golf experiences of your life and pack your sticks. Crossing continents to play the game once meant saving up for a once-in-a-lifetime adventure to St. Andrews. Now world-class golf beckons from all corners of the globe. From British Columbia to the cinematic beauty of New Zealand, with Dublin and 100 magnificent resorts in between.\n\nIn fact, if you’re lucky enough to go global with your golf adventures, there’s never been a better time. Destinations, especially those on our latest Top 100 Resorts in the World list, have become luxe to the max, where the amenities now rival the courses themselves.",
+        "copy": "The world is waiting. All you need to do is imagine the greatest golf experiences of your life and pack your sticks. Crossing continents to play the game once meant saving up for a once-in-a-lifetime adventure to St. Andrews. Now world-class golf beckons from all corners of the globe. From British Columbia to the cinematic beauty of New Zealand, with Dublin and 100 magnificent resorts in between.\n\nIn fact, if you’re lucky enough to go global with your golf adventures, there’s never been a better time. Destinations, especially those on our latest Top 100 Resorts in the World list, have become luxe to the max, where the amenities now rival the courses themselves.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "At one of golf's most unique events, 80 juniors get a shot on the big stage",
+        "link": "https://golf.com/news/pure-insurance-championship-80-juniors/",
+        "published": "2026-09-15T18:56:04+00:00",
+        "published_label": "Tue 15 Sep, 18:56",
+        "summary": "This week, 80 First Tee participants and 80 PGA Tour Champions pros will team up to compete for the title at the Pure Insurance Championship. The post At one of golf’s most unique events, 80 juniors get a shot on the big stage appeared first on Golf .",
+        "body": "This week, Pebble Beach hosts one of the coolest events in golf — and most people don’t even know it’s happening. The PURE Insurance Championship gets underway at one of golf’s most iconic venues on Friday, bringing together one of the most unique fields you’ll see all season. Here’s what you should know about it.\n\nThis week, 80 First Tee participants, 80 PGA Tour Champions pros and 160 amateurs team up to compete in a 54-hole best-ball format for the pro-junior title. For most of the non-pros, it will be their first time playing Pebble Beach, and they come from all over the states — 52 First Tee chapters from across the country have sent players to compete.",
+        "copy": "This week, Pebble Beach hosts one of the coolest events in golf — and most people don’t even know it’s happening. The PURE Insurance Championship gets underway at one of golf’s most iconic venues on Friday, bringing together one of the most unique fields you’ll see all season. Here’s what you should know about it.\n\nThis week, 80 First Tee participants, 80 PGA Tour Champions pros and 160 amateurs team up to compete in a 54-hole best-ball format for the pro-junior title. For most of the non-pros, it will be their first time playing Pebble Beach, and they come from all over the states — 52 First Tee chapters from across the country have sent players to compete.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Don't make this crucial set-up mistake when hitting bunker shots",
+        "link": "https://golf.com/instruction/bunker-shots/set-up-perfectly-every-time-bunker/",
+        "published": "2026-09-15T17:48:06+00:00",
+        "published_label": "Tue 15 Sep, 17:48",
+        "summary": "In the first episode of Top 100 Teacher Sessions, David Armitage explains how to set up for success in the bunkers. The post Don’t make this crucial set-up mistake when hitting bunker shots appeared first on Golf .",
+        "body": "The bunker is a scary place for many recreational golfers. When players with a bunker-phobia find the sand, they typically have one thought in mind: “Don’t screw this up.” The problem with that mindset is that it introduces doubt and leads to hesitant swings, which is never a good strategy in the trap.\n\nThe reason for their doubt and hesitation is a history of poor play from the sand. When you’ve spent your career either blading it long or chunking it in front of your feet, there’s little reason for optimism.",
+        "copy": "The bunker is a scary place for many recreational golfers. When players with a bunker-phobia find the sand, they typically have one thought in mind: “Don’t screw this up.” The problem with that mindset is that it introduces doubt and leads to hesitant swings, which is never a good strategy in the trap.\n\nThe reason for their doubt and hesitation is a history of poor play from the sand. When you’ve spent your career either blading it long or chunking it in front of your feet, there’s little reason for optimism.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "PGA Tour not planning return programme for LIV stars",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c5pve7md09wgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-15T16:32:15+00:00",
+        "published_label": "Tue 15 Sep, 16:32",
+        "summary": "PGA Tour chief executive Brian Rolapp says there are no plans to create an instant pathway back for LIV Golf's biggest stars after the breakaway series filed for bankruptcy protection.",
+        "body": "There are no plans to create an instant pathway back to the PGA Tour for LIV Golf's biggest stars. Major winners Jon Rahm, Bryson DeChambeau and Cameron Smith are contemplating their futures after LIV filed for bankruptcy protection last week as the breakaway league tries to create a new circuit for next year.\n\nRahm said he was uncertain about his future plans. \"There's a long legal process they have to go through before a lot of things fall into place,\" the Spaniard said before playing this week's BMW PGA Championship at Wentworth.",
+        "copy": "There are no plans to create an instant pathway back to the PGA Tour for LIV Golf's biggest stars. Major winners Jon Rahm, Bryson DeChambeau and Cameron Smith are contemplating their futures after LIV filed for bankruptcy protection last week as the breakaway league tries to create a new circuit for next year.\n\nRahm said he was uncertain about his future plans. \"There's a long legal process they have to go through before a lot of things fall into place,\" the Spaniard said before playing this week's BMW PGA Championship at Wentworth.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "PGA Tour not planning return program for LIV Golf stars",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXhmX2REQXhoN3ROWk9YNFZtYkhUcUI4d2pPbmJILW83N0pCdTdiN2NxZVdaT190VnJSeDMzR19feHUzZ2kzUGlPLXJFU2lFNHJNejNOczFibUdEcWN4ZFhEeklqS0RRM2t0RGVBMkVJYUdSSGRleEwxSDdfR25aV3RlRUw4QVZDYS1OUnRR?oc=5",
+        "published": "2026-09-15T16:32:15+00:00",
+        "published_label": "Tue 15 Sep, 16:32",
+        "summary": "PGA Tour not planning return program for LIV Golf stars BBC",
+        "body": "There are no plans to create an instant pathway back to the PGA Tour for LIV Golf's biggest stars. Major winners Jon Rahm, Bryson DeChambeau and Cameron Smith are contemplating their futures after LIV filed for bankruptcy protection last week as the breakaway league tries to create a new circuit for next year.\n\nRahm said he was uncertain about his future plans. \"There's a long legal process they have to go through before a lot of things fall into place,\" the Spaniard said before playing this week's BMW PGA Championship at Wentworth.",
+        "copy": "There are no plans to create an instant pathway back to the PGA Tour for LIV Golf's biggest stars. Major winners Jon Rahm, Bryson DeChambeau and Cameron Smith are contemplating their futures after LIV filed for bankruptcy protection last week as the breakaway league tries to create a new circuit for next year.\n\nRahm said he was uncertain about his future plans. \"There's a long legal process they have to go through before a lot of things fall into place,\" the Spaniard said before playing this week's BMW PGA Championship at Wentworth.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Rules Guy: Do I get free relief if my ball hits a fake bird?",
+        "link": "https://golf.com/instruction/rules/rules-guy-free-relief-ball-hits-bird-decoy/",
+        "published": "2026-09-15T16:19:29+00:00",
+        "published_label": "Tue 15 Sep, 16:19",
+        "summary": "What should you do if your ball hits a bird decoy on the course? Are you entitled to free relief? Rules Guy has the answer. The post Rules Guy: Do I get free relief if my ball hits a fake bird? appeared first on Golf .",
+        "body": "The Rules of Golf are tricky! Thankfully, we’’e got the guru. Our Rules Guy knows the book front to back. Got a question? He’s got all the answers. To scare waterfowl away from the lake shores, our course uses fake birds on slender poles attached by string and wire that can “fly” with the breeze—soaring, dipping, turning, and so on. A few of these fake birds can be in the line of play from a tee box or near a green. What happens if a shot hits one of these “birds”? It is possible to take the pole out of the ground, play the shot, and replace the pole before hitting, though this can slow the pace of play quite a bit. Movable obstruction? Immovable? Help! —Bill Spahn, via email\n\nYou’re trying to sneak in a multipart question, Bill! We’re almost rooting for the waterfowl at this point. As to the first question, if you play near one of those “birds” and hit one, you’ll have to play the ball as it lies — no different than bouncing off a moving cart or a stationary pole, per Rule 11.1.",
+        "copy": "The Rules of Golf are tricky! Thankfully, we’’e got the guru. Our Rules Guy knows the book front to back. Got a question? He’s got all the answers. To scare waterfowl away from the lake shores, our course uses fake birds on slender poles attached by string and wire that can “fly” with the breeze—soaring, dipping, turning, and so on. A few of these fake birds can be in the line of play from a tee box or near a green. What happens if a shot hits one of these “birds”? It is possible to take the pole out of the ground, play the shot, and replace the pole before hitting, though this can slow the pace of play quite a bit. Movable obstruction? Immovable? Help! —Bill Spahn, via email\n\nYou’re trying to sneak in a multipart question, Bill! We’re almost rooting for the waterfowl at this point. As to the first question, if you play near one of those “birds” and hit one, you’ll have to play the ball as it lies — no different than bouncing off a moving cart or a stationary pole, per Rule 11.1.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -5477,6 +5594,19 @@
         "body": "Jon Rahm was asked about his LIV Golf future once again at the BMW PGA Championship. His response was telling… It was Groundhog Day as Jon Rahm faced the media at the BMW PGA Championship. The burning questions at Wentworth, of course, concerned the uncertain futures of both the Spaniard and LIV Golf – and Rahm once again failed to commit to the beleaguered league.\n\nWhen asked if he is fed up with the constant inquisition, Rahm allowed a wry smile. “I understand you’re all doing your job, I get it,” he said, before adding: “I’m liking that you all see the humor in this at this point.” But Rahm also confirmed that “nothing has changed”.",
         "copy": "Jon Rahm was asked about his LIV Golf future once again at the BMW PGA Championship. His response was telling… It was Groundhog Day as Jon Rahm faced the media at the BMW PGA Championship. The burning questions at Wentworth, of course, concerned the uncertain futures of both the Spaniard and LIV Golf – and Rahm once again failed to commit to the beleaguered league.\n\nWhen asked if he is fed up with the constant inquisition, Rahm allowed a wry smile. “I understand you’re all doing your job, I get it,” he said, before adding: “I’m liking that you all see the humor in this at this point.” But Rahm also confirmed that “nothing has changed”.",
         "first_seen": "2026-09-15T11:04:29.002243+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "\"I said what I said\" - Jon Rahm shuts down LIV Golf question ahead of BMW PGA Championship",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0hVQ1ZsVGNBTjA0cEtzOUg1R3EwNGFkV3NuRk1UeGtZTWVTV2lJMEh1MlRJRkgtd1dORW9BWVhOOUdHNnZHRGRKa1kyaldRYTJMUlJVS3g5T2FoaDBTYnJhb2owclI4bnR1dEk4MUZZOE1yRG1PNlNWUU9WN28yV3RtS3lUcWRkU0pvSzRObk4tTjZHRmJrZERrSXpKdWl3Z1EyWlozOTBYTEVtWHhDZ3dVbHNiMlNFRmg0eV9pOWc?oc=5",
+        "published": "2026-09-15T10:02:44+00:00",
+        "published_label": "Tue 15 Sep, 10:02",
+        "summary": "\"I said what I said\" - Jon Rahm shuts down LIV Golf question ahead of BMW PGA Championship Golfmagic",
+        "body": "Jon Rahm says he is yet to become fed up with fielding questions about LIV Golf as he remained tight-lipped on his future. LIV's prospects beyond the end of the year are uncertain following the withdrawal of financial backing from Saudi Arabia's Public Investment Fund (PIF).\n\nThe breakaway tour's season ended early last month and LIV Golf have also laid off the majority of its workforce. LIV Golf filed for bankruptcy last week and it's understood that securing fresh investment hinges on restructuring its costly player contracts and retaining at least half of its key players.",
+        "copy": "Jon Rahm says he is yet to become fed up with fielding questions about LIV Golf as he remained tight-lipped on his future. LIV's prospects beyond the end of the year are uncertain following the withdrawal of financial backing from Saudi Arabia's Public Investment Fund (PIF).\n\nThe breakaway tour's season ended early last month and LIV Golf have also laid off the majority of its workforce. LIV Golf filed for bankruptcy last week and it's understood that securing fresh investment hinges on restructuring its costly player contracts and retaining at least half of its key players.",
+        "first_seen": "2026-09-15T20:52:00.495108+00:00"
       },
       {
         "section": "Golf",
@@ -7024,110 +7154,6 @@
         "body": "Thank you for embracing our players, our teams, and a new way of experiencing professional golf. LIV Golf was created to bring the world’s best players to fans around the world, and thanks to your support, in a few short years we built a truly global league.\n\nWe put team golf on the world stage consistently and combined elite competition with music, culture, art, and energy in a way global golf fans rarely get to see. Fans 20 years younger than golf's traditional viewership showed up onsite and through our content. We brought world-class players and teams to new markets. We welcomed major global broadcast and marketing partners. And, most importantly, we built a passionate community of fans who believe in what LIV Golf can become.",
         "copy": "Thank you for embracing our players, our teams, and a new way of experiencing professional golf. LIV Golf was created to bring the world’s best players to fans around the world, and thanks to your support, in a few short years we built a truly global league.\n\nWe put team golf on the world stage consistently and combined elite competition with music, culture, art, and energy in a way global golf fans rarely get to see. Fans 20 years younger than golf's traditional viewership showed up onsite and through our content. We brought world-class players and teams to new markets. We welcomed major global broadcast and marketing partners. And, most importantly, we built a passionate community of fans who believe in what LIV Golf can become.",
         "first_seen": "2026-09-09T10:45:34.850408+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "The winningest iron shaft on the PGA Tour should surprise no one",
-        "link": "https://golf.com/gear/shafts/winningest-iron-shaft-pga-tour/",
-        "published": "2026-09-08T20:41:51+00:00",
-        "published_label": "Tue 08 Sep, 20:41",
-        "summary": "True Temper's Dynamic Gold iron shaft once again led the PGA Tour in victories in 2026. Another of its models also excelled. The post The winningest iron shaft on the PGA Tour should surprise no one appeared first on Golf .",
-        "body": "Perhaps the most dominant brand in any equipment category in golf is True Temper with its iron shafts. Not only did the company’s Dynamic Gold iron shaft once again led the PGA Tour in victories in 2026 with 16, but the company’s Project X brand came in second with seven wins. A third sub-brand, AeroTech SteelFiber, also notched a W this season.\n\nWhen you throw in wedge shafts (which the ranking below does not), all but one winner this past Tour season carried at least one True Temper shaft in his bag. With that context, the following list of the winningest iron shafts of the 2026 FedEx Cup season (American Express to Tour Championship) will not surprise you.",
-        "copy": "Perhaps the most dominant brand in any equipment category in golf is True Temper with its iron shafts. Not only did the company’s Dynamic Gold iron shaft once again led the PGA Tour in victories in 2026 with 16, but the company’s Project X brand came in second with seven wins. A third sub-brand, AeroTech SteelFiber, also notched a W this season.\n\nWhen you throw in wedge shafts (which the ranking below does not), all but one winner this past Tour season carried at least one True Temper shaft in his bag. With that context, the following list of the winningest iron shafts of the 2026 FedEx Cup season (American Express to Tour Championship) will not surprise you.",
-        "first_seen": "2026-09-09T10:45:34.850408+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "LIV Golf",
-        "kind": "gnews",
-        "title": "LIV Golf Takes Strategic Action to Secure Its Next Era",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2UEpYejNEanp5cmN5dFpES0wwV05LRE5UTnV5Q1NQQXNJb21qX3FSRzZ4YURnaEpJZGJZX3BqVXJ4eGZrMmpuMmg0VVQ4OUJmZVh0WHc1YmxKbkdLVlNZZ211bGtGdDJia0labQ?oc=5",
-        "published": "2026-09-08T20:29:48+00:00",
-        "published_label": "Tue 08 Sep, 20:29",
-        "summary": "LIV Golf Takes Strategic Action to Secure Its Next Era livgolf.com",
-        "body": "LIV Golf Takes Strategic Action to Secure its Next Era, Setting the Stage for a Future Alongside its Players and New Financial Investors. Enters Formal Restructuring Process and Executes Restructuring Support Agreement with BC Partners Credit.\n\nNEW YORK – September 8, 2026 – LIV Golf Incorporated and its affiliates (collectively, “LIV Golf” or the “Company”) today announced that it has entered into a Restructuring Support Agreement (“RSA”) with BC Partners Advisors L.P., the credit business of BC Partners (“BC Partners Credit”), which contemplates a proposed recapitalization transaction (the “Transaction”).",
-        "copy": "LIV Golf Takes Strategic Action to Secure its Next Era, Setting the Stage for a Future Alongside its Players and New Financial Investors. Enters Formal Restructuring Process and Executes Restructuring Support Agreement with BC Partners Credit.\n\nNEW YORK – September 8, 2026 – LIV Golf Incorporated and its affiliates (collectively, “LIV Golf” or the “Company”) today announced that it has entered into a Restructuring Support Agreement (“RSA”) with BC Partners Advisors L.P., the credit business of BC Partners (“BC Partners Credit”), which contemplates a proposed recapitalization transaction (the “Transaction”).",
-        "first_seen": "2026-09-09T10:45:34.850408+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Jon Rahm uncertain about LIV Golf future: 'Time will tell'",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHdRMFBhMk1hRjJscEtlQUN2VkZvbmYzd0k3d2daYkFKSlM0ZWxtV2ZZaFAyX1p4RTNDTDlxbkxrY0Y3RjYzMjdkcFE4Tm4zSmsxdlNhY1BrdzY3ZkxoaVFpc29wYy1aYWRkOVEwSHUxX29TU29RYWJXOVNZTGE5OUR0WTNLQThCT3FhWmV1REcydnFwNHVnTGMzcUkxMDR3WXZPdUJsQ2xZQkpk?oc=5",
-        "published": "2026-09-08T18:35:23+00:00",
-        "published_label": "Tue 08 Sep, 18:35",
-        "summary": "Jon Rahm uncertain about LIV Golf future: 'Time will tell' Reuters",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Jon Rahm says he can handle LIV Golf 'turbulence' ahead of Irish Open at Doonbeg",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2MxTTItdl9YT0FHYk1YRnd6QUU1UDdWTUtWd096a1RYNGpSYUpHM1JYVzZRRDRDVWpWbUc0bHc0LUd1ZzlKZFNDRDRiSnVtWjBBUVJNTkpWR1Z2NFB1YkhiMHBVYzFTWlk4T0l6TWdEVUxLUFFhakpFdlBKUG1rR0F5bnE3cUdTSWxVSnRRQdIBlAFBVV95cUxPV2dqcUNieFR3YXdKY1ROSlZpcmpRNU9xWG1Gc3JtSHpXZlh5U0lmMDUtckI1X3ZocGlYenZoOVVwM3U4Z3RCMnRoRXlCcFZQbVBMR1pLUUNqUkpPTDBpazI5SWRsVDItTEw4RHJjam1IMWVJZ2JuZ0VubHhtSGNvOVdwMHl0bjVUaGtYZWN3ZXVIWmJU?oc=5",
-        "published": "2026-09-08T17:40:00+00:00",
-        "published_label": "Tue 08 Sep, 17:40",
-        "summary": "Jon Rahm says he can handle LIV Golf 'turbulence' ahead of Irish Open at Doonbeg Belfast Live",
-        "body": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
-        "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Time will tell': Jon Rahm offers blunt answers on LIV-PGA Tour future",
-        "link": "https://golf.com/news/jon-rahm-blunt-answers-liv-pga-tour-future/",
-        "published": "2026-09-08T17:13:53+00:00",
-        "published_label": "Tue 08 Sep, 17:13",
-        "summary": "Will Jon Rahm stick with LIV Golf in 2027 or return to the PGA Tour? At the Irish Open, Rahm provided answers that only raised more questions. The post ‘Time will tell’: Jon Rahm offers blunt answers on LIV-PGA Tour future appeared first on Golf .",
-        "body": "We know where Jon Rahm is playing this week. But where the two-time major champion and LIV Golf pro will tee it up next year is an open question. Rahm is in Ireland this week to compete in the 2026 Amgen Irish Open, a DP World Tour event that’s drawing an impressive field from LIV and PGA Tour ranks, including Rory McIlroy.\n\nLIV Golf’s 2026 season, though, is over after coming to an abrupt and early end at LIV Indianapolis last month, and the league’s future is uncertain. Following the Saudi Public Investment Fund’s decision to pull funding, the league is hoping to create a new-look LIV Golf 2.0 for next season.",
-        "copy": "We know where Jon Rahm is playing this week. But where the two-time major champion and LIV Golf pro will tee it up next year is an open question. Rahm is in Ireland this week to compete in the 2026 Amgen Irish Open, a DP World Tour event that’s drawing an impressive field from LIV and PGA Tour ranks, including Rory McIlroy.\n\nLIV Golf’s 2026 season, though, is over after coming to an abrupt and early end at LIV Indianapolis last month, and the league’s future is uncertain. Following the Saudi Public Investment Fund’s decision to pull funding, the league is hoping to create a new-look LIV Golf 2.0 for next season.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Rules Guy: I made an ace — with my playing partner's club! Is it legal?",
-        "link": "https://golf.com/instruction/rules/made-ace-playing-partners-club-legal-rules/",
-        "published": "2026-09-08T16:22:06+00:00",
-        "published_label": "Tue 08 Sep, 16:22",
-        "summary": "If you make a hole-in-one with another player's club, does it count? Rules Guy has the answer — and it might surprise you. The post Rules Guy: I made an ace — with my playing partner’s club! Is it legal? appeared first on Golf .",
-        "body": "The Rules of Golf are tricky! Thankfully, we’’e got the guru. Our Rules Guy knows the book front to back. Got a question? He’s got all the answers. A friendly four-ball match. We reach a par-3, and my buddy looks to pull his 6-iron only to realize he left it on a prior hole. Another player offered up his 6 and, sure enough, my pal jars his first-ever ace. We counted it…but I’m thinking he’d normally incur a penalty, even though he only had 13 clubs in his bag at the time. For what it’s worth, he did later get back the missing club. – John Jay, Conneaut Lake, PA\n\nAn interesting question, worthy of the original John Jay, who as you no doubt know was a Founding Father, the first Chief Justice of the United States, and the second governor of New York. But we digress.",
-        "copy": "The Rules of Golf are tricky! Thankfully, we’’e got the guru. Our Rules Guy knows the book front to back. Got a question? He’s got all the answers. A friendly four-ball match. We reach a par-3, and my buddy looks to pull his 6-iron only to realize he left it on a prior hole. Another player offered up his 6 and, sure enough, my pal jars his first-ever ace. We counted it…but I’m thinking he’d normally incur a penalty, even though he only had 13 clubs in his bag at the time. For what it’s worth, he did later get back the missing club. – John Jay, Conneaut Lake, PA\n\nAn interesting question, worthy of the original John Jay, who as you no doubt know was a Founding Father, the first Chief Justice of the United States, and the second governor of New York. But we digress.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Irish Open will feel 'different' with Trump visit",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c86x0lzld74o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-08T16:13:33+00:00",
-        "published_label": "Tue 08 Sep, 16:13",
-        "summary": "Rory McIlroy admits this year's Irish Open will feel like a \"different\" spectacle given US President Donald Trump's anticipated visit during the tournament.",
-        "body": "Rory McIlroy admits this year's Irish Open will feel like a \"different\" spectacle given US President Donald Trump's anticipated visit during the tournament's latter stages. Trump is expected to attend the event - which is being held at his resort in the County Clare village of Doonbeg - this weekend as part of a two-day visit to Ireland.\n\nMcIlroy has previously played golf with Trump, who earlier this year praised the Northern Irishman's accomplishments on the course after winning back-to-back Masters titles. \"It's going to be different, but the one thing I'd say is his golf resorts have hosted PGA Tour events, European Tour events, LIV events,\" McIlroy told BBC Sport NI's Stephen Watson.",
-        "copy": "Rory McIlroy admits this year's Irish Open will feel like a \"different\" spectacle given US President Donald Trump's anticipated visit during the tournament's latter stages. Trump is expected to attend the event - which is being held at his resort in the County Clare village of Doonbeg - this weekend as part of a two-day visit to Ireland.\n\nMcIlroy has previously played golf with Trump, who earlier this year praised the Northern Irishman's accomplishments on the course after winning back-to-back Masters titles. \"It's going to be different, but the one thing I'd say is his golf resorts have hosted PGA Tour events, European Tour events, LIV events,\" McIlroy told BBC Sport NI's Stephen Watson.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "The basics of solid contact on a pitch shot, explained by a top teacher",
-        "link": "https://golf.com/instruction/short-game/basics-hitting-solid-pitch-explained/",
-        "published": "2026-09-08T16:13:29+00:00",
-        "published_label": "Tue 08 Sep, 16:13",
-        "summary": "GOLF Top 100 Teacher explains the most basic fundamentals for hitting a solid pitch shot around the greens. The post The basics of solid contact on a pitch shot, explained by a top teacher appeared first on Golf .",
-        "body": "The best wedge players make difficult shots look simple because they control the variables that matter most. A crisp strike produces a predictable launch, spin helps the ball react on the green, and precise distance control turns a demanding pitch into an easy up-and-down.\n\nThe secret to this sort of consistency comes from mastering three key short-game skills: strike, spin and control. In this three-part series, we’ll break down each one and give you practical ways to make your wedge game more predictable, versatile and effective.",
-        "copy": "The best wedge players make difficult shots look simple because they control the variables that matter most. A crisp strike produces a predictable launch, spin helps the ball react on the green, and precise distance control turns a demanding pitch into an easy up-and-down.\n\nThe secret to this sort of consistency comes from mastering three key short-game skills: strike, spin and control. In this three-part series, we’ll break down each one and give you practical ways to make your wedge game more predictable, versatile and effective.",
-        "first_seen": "2026-09-08T19:17:42.761725+00:00"
       }
     ],
     "Badminton": [
@@ -7496,32 +7522,6 @@
         "body": "Liverpool have announced a new shirt sponsorship deal with Turkish Airlines worth more than £60m a year to the club. The five-year deal will generate more than £300m for Liverpool when it comes into effect from the start of the 2027-28 season. Turkish Airlines will replace Standard Chartered, Liverpool’s main club partner since 2010, on the front of the men’s, women’s and academy match shirts.\n\nNot signed in before? Create a free account Standard Chartered has been Liverpool’s main partner for 17 years and the current deal is understood to be worth around £50m per season. The company will become a global partner of Liverpool from 2027-28.",
         "copy": "Liverpool have announced a new shirt sponsorship deal with Turkish Airlines worth more than £60m a year to the club. The five-year deal will generate more than £300m for Liverpool when it comes into effect from the start of the 2027-28 season. Turkish Airlines will replace Standard Chartered, Liverpool’s main club partner since 2010, on the front of the men’s, women’s and academy match shirts.\n\nNot signed in before? Create a free account Standard Chartered has been Liverpool’s main partner for 17 years and the current deal is understood to be worth around £50m per season. The company will become a global partner of Liverpool from 2027-28.",
         "first_seen": "2026-09-08T15:58:48.676937+00:00"
-      },
-      {
-        "section": "Competitor News",
-        "source": "Google News",
-        "kind": "gnews",
-        "title": "Liverpool to replace Standard Chartered with Turkish Airlines in one of Premier League’s most lucrative £",
-        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNRUFPaksxVTMwZzB6RjBlZTZneF9IbnJjTG8ySW11V0o2emF4TWFpcGlLQjhUMWZlZ0F4R2V6bHpqS0hBNGNTNjU1X2RMcFBxblhpN09TX1FpTWlzd2xBdVU3S1hMWUNvaWkzSHRYS2NhS0hyZ1lDTDZ0NlhldHAwSVpkVHB5dVpNQWoxQnJ3TWJLQ1lNUDZab3U0OTZzekg1aXpQMzhVMXRqUnRvd0RlYVVsZlZSa3FLUlhtUEZFSWItaDFxMzJIbFhiZmR1dVFmY2ktQ19tRmVNbTdlQ2ZYUm1zSzF3TXZuT1FXYm42MWRNaDZGem10cGlSUndMNWFYdW9KSHVvVGpkVEtvYmEzdWFibmQwNUFWcmJpR3VpYzdRWUhGZXhBTHpUeGYtVGNWNVJSbHV6Rks2c0HSAcACQVVfeXFMTjlOVkY5M0t1NzNQZU9KYlhDRVh1enQyYW1FWGU4dmI1eWNPMzVTbElnN0lIeU9MTWpwOUNybU9ZV3ZLY1gySm4xWElKcExmSjlaNXhsc3BfVUZrcTVfbzhUX3AzNk9WU29jZWtWbC1xd2JyZ2pXUkE2Z3Bsd3pJY0tMemNaaUJtUTh3R1dVeUp1WkZITkZlaERtLThCT3M3aTJaWFpYVV8tTmlUWXNkRHVCSVo2OUdvcE96WFdtY1NZWm1zMWZ6Unh2MjMxWVRqQ0plWW0zcHhTMUFHYlgyTGZiS282SHI1V3hwTW9DUXpTQ3JUVGgwWWhhVllaY0pOejFFUHZFaUxEX0VoWlRFdDYyX3lFUHVBZzE4QTJGUlRfZGJ6Z2FabnU3eGlKTHp4cEhvZEZhTjJGZzdtanZoakc?oc=5",
-        "published": "2026-09-08T20:36:00+00:00",
-        "published_label": "Tue 08 Sep, 20:36",
-        "summary": "Liverpool to replace Standard Chartered with Turkish Airlines in one of Premier League’s most lucrative £ The Times of India",
-        "body": "Liverpool have agreed a five-year sponsorship deal with Turkish Airlines worth more than £300million, with the airline set to become the club's new principal partner and front-of-shirt sponsor from next season.\n\nThe agreement, which is reported to be worth in excess of £60million a year, will bring an end to Liverpool's 17-year relationship with Standard Chartered and see Turkish Airlines branding appear on the shirts of the men's, women's and academy teams from June 1, 2027.",
-        "copy": "Liverpool have agreed a five-year sponsorship deal with Turkish Airlines worth more than £300million, with the airline set to become the club's new principal partner and front-of-shirt sponsor from next season.\n\nThe agreement, which is reported to be worth in excess of £60million a year, will bring an end to Liverpool's 17-year relationship with Standard Chartered and see Turkish Airlines branding appear on the shirts of the men's, women's and academy teams from June 1, 2027.",
-        "first_seen": "2026-09-09T10:45:34.850408+00:00"
-      },
-      {
-        "section": "Competitor News",
-        "source": "Google News",
-        "kind": "gnews",
-        "title": "Liverpool land £300m Turkish Airlines shirt deal after 17 years with Standard Chartered",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwT1JNdWVKTWw0WXVLTVBoanEwX0RPbDc2WFZEUXJEUFFrcUVZVFdJaFhXc2FOLU9xeWx4OE5ocU5tNTY4MkM2X04ydUdtaXR5N0UzOWVrc2xnbF9weWhMdVVxelVDOWp2SERndVByVXZkRWMwZkE?oc=5",
-        "published": "2026-09-08T18:50:00+00:00",
-        "published_label": "Tue 08 Sep, 18:50",
-        "summary": "Liverpool land £300m Turkish Airlines shirt deal after 17 years with Standard Chartered finance.biggo.com",
-        "body": "Liverpool have ended one of the longest-running shirt sponsorships in English football, agreeing a five-year deal with Turkish Airlines that will put the carrier's name on the front of the club's kits from June 1, 2027.\n\nThe agreement, announced Tuesday, is worth in excess of £300 million (approximately $406.3 million), or more than £60 million a season, according to media reports. That would make it the most valuable front-of-shirt-only sponsorship in Premier League history, surpassing the roughly £50 million per season Standard Chartered currently pays and putting Liverpool on par with Manchester United's arrangement with Qualcomm's Snapdragon brand signed in August 2024.",
-        "copy": "Liverpool have ended one of the longest-running shirt sponsorships in English football, agreeing a five-year deal with Turkish Airlines that will put the carrier's name on the front of the club's kits from June 1, 2027.\n\nThe agreement, announced Tuesday, is worth in excess of £300 million (approximately $406.3 million), or more than £60 million a season, according to media reports. That would make it the most valuable front-of-shirt-only sponsorship in Premier League history, surpassing the roughly £50 million per season Standard Chartered currently pays and putting Liverpool on par with Manchester United's arrangement with Qualcomm's Snapdragon brand signed in August 2024.",
-        "first_seen": "2026-09-09T10:45:34.850408+00:00"
       }
     ]
   },
