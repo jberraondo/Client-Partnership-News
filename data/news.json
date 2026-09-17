@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T16:11:44.908918+00:00",
-  "generated_label": "Thursday 17 September 2026, 16:11 UTC",
+  "generated_at": "2026-09-17T20:58:08.970532+00:00",
+  "generated_label": "Thursday 17 September 2026, 20:58 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -24,6 +24,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Man City and SeatGeek expand relationship into global deal",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ09yaHo5M1dacjEwS3A3RFZ2RTRPczJiX1NTWlJFY2cxVEUxV0xkV0pSVDFtRnJsTmdpWkNWV0cyQWFXcDh1a2JoaWxUY0hSX3Mta04tS0cyWG0zaDBWaVhGb1RWUTBkLU1xMW1Bc2hwS1c4dXlzY211U1F1WUNaQkNwcnJzMlA4aXFocVptVVZuYWVhV2Q1QU9FUXM?oc=5",
+        "published": "2026-09-17T14:51:25+00:00",
+        "published_label": "Thu 17 Sep, 14:51",
+        "summary": "Man City and SeatGeek expand relationship into global deal sportcal.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -219,6 +232,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-17T10:56:10.901694+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Resident Evil review — a video game movie with the propulsive thrill of . . . a video game",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81RXY2QWVhOS1OanRkVDhfTFlSTlRERXNETGJaNlJOUkF3SXV3Nmx4cTZ6aHFuTmE4WldVMVF0dnkzQkFNM0ZYY2IwMWo1ZmlCVEJQNFJlejNrT3FvSmttbVI2SWp6RkVfY1U3bmxaZFQ?oc=5",
+        "published": "2026-09-16T16:21:14+00:00",
+        "published_label": "Wed 16 Sep, 16:21",
+        "summary": "Resident Evil review — a video game movie with the propulsive thrill of . . . a video game Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1636,22 +1662,61 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Burnham urged not to snub Commonwealth summit amid reparations demands",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnI3OXVpaXJxMFE0OXB6eUVIN2V3UnZPQXpFMjlKekFWOWNScDlnVXpKZWV0ZlVuYlhaUHpOSWxNNkJUQ3ZwTlEtMkFLTnhHTW5QWkt3S0NYeXl1RHA5MUJIeEdVNnNiQTNOSllfaHhWTUszRGktTGNVTGJtby1nZ052T2U?oc=5",
-        "published": "2026-09-10T17:47:33+00:00",
-        "published_label": "Thu 10 Sep, 17:47",
-        "summary": "Burnham urged not to snub Commonwealth summit amid reparations demands Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-11T10:35:34.663451+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Eagles eager to ‘challenge’ world’s best in WXV Global Series",
+        "link": "https://www.rugbypass.com/news/eagles-eager-to-challenge-worlds-best-in-wxv-global-series/",
+        "published": "2026-09-17T20:27:51+00:00",
+        "published_label": "Thu 17 Sep, 20:27",
+        "summary": "The USA Women's Eagles have named the match day 23 for their WXV Global Series opener against Ireland.",
+        "body": "The USA Women’s Eagles have named their match day 23 for the WXV Global Series opener against Ireland. For the past week, the team have been in Dublin preparing for the fixture. It is the first time the team have played since their Test-series draw with the Springbok Women in July.\n\nThe team have opted for plenty of power up front. This includes the front row, where Mae Sagapolu returns after missing July’s tour with an injury. She joins Eagles record cap holder Hope Rogers and Kathryn Treder in the front row.",
+        "copy": "The USA Women’s Eagles have named their match day 23 for the WXV Global Series opener against Ireland. For the past week, the team have been in Dublin preparing for the fixture. It is the first time the team have played since their Test-series draw with the Springbok Women in July.\n\nThe team have opted for plenty of power up front. This includes the front row, where Mae Sagapolu returns after missing July’s tour with an injury. She joins Eagles record cap holder Hope Rogers and Kathryn Treder in the front row.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Olivia Apps: 'We rewatched the World Cup final",
+        "link": "https://www.rugbypass.com/news/olivia-apps-we-rewatched-the-world-cup-final-our-team-is-better-now/",
+        "published": "2026-09-17T20:07:12+00:00",
+        "published_label": "Thu 17 Sep, 20:07",
+        "summary": "When Canada play England at Sandy Park this Saturday, it will be 357 days since the two teams met in the Women’s Rugby World Cup 2025 final.",
+        "body": "When Canada play England at Sandy Park this Saturday, it will be 357 days since the two teams met in the Women’s Rugby World Cup 2025 final. It is a day that will live in the memory of rugby supporters for plenty of years, as 81,885 supporters piled in to Allianz Stadium to conclude the best-attended and most successful edition of the tournament ever.\n\nWhile the memory is bright for many, for Canada, the memory carries a little more darkness. Beaten 33-13 in West London the side left the field knowing that they did not live up to the potential they had shown in the lead-up to the final.",
+        "copy": "When Canada play England at Sandy Park this Saturday, it will be 357 days since the two teams met in the Women’s Rugby World Cup 2025 final. It is a day that will live in the memory of rugby supporters for plenty of years, as 81,885 supporters piled in to Allianz Stadium to conclude the best-attended and most successful edition of the tournament ever.\n\nWhile the memory is bright for many, for Canada, the memory carries a little more darkness. Beaten 33-13 in West London the side left the field knowing that they did not live up to the potential they had shown in the lead-up to the final.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Isipathana crowned Under-18 rugby sevens champions",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmFtcDRXczd2Ri10Z1djN1htNi1weENKZnFoWmRGbkl2RG5MdWhvRFBFajJaSEZ5YzdRTXpPMXVacVhzM0VtY0xxQnk2emRTSXA2UWlYaFJoWFg4blAzYUNla2RuUm13c0lGVFlvU05xNEh2czNKVEpmMktKYW1oMG1OZnBRM1FvelNqeU1GX0k1VFhxOEFUQl96UGowNm8?oc=5",
+        "published": "2026-09-17T19:33:12+00:00",
+        "published_label": "Thu 17 Sep, 19:33",
+        "summary": "Isipathana crowned Under-18 rugby sevens champions dailynews.lk",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Moloney-MacDonald says smaller ball 'challenging'",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmn0jez14dd9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T16:06:09+00:00",
+        "published_label": "Thu 17 Sep, 16:06",
+        "summary": "Ireland hooker Cliodhna Moloney-MacDonald admits she has found the smaller ball being trialled in women's rugby \"challenging\" in the build-up to Sunday's game against the United States.",
+        "body": "Ireland hooker Cliodhna Moloney-MacDonald admits she has found the smaller ball being trialled in women's rugby \"challenging\" in the build-up to Sunday's game against the United States.\n\nWorld Rugby is trialling a size 4.5 ball - about 3% smaller than the size five used in the men's game, but the same weight - during September and October's WXV Global Series. England players May Campbell and Helena Rowland raised concerns before the Red Roses' win over Australia last week, while Wales wing Lisa Neumann spoke positively about the impact it has had on her passing.",
+        "copy": "Ireland hooker Cliodhna Moloney-MacDonald admits she has found the smaller ball being trialled in women's rugby \"challenging\" in the build-up to Sunday's game against the United States.\n\nWorld Rugby is trialling a size 4.5 ball - about 3% smaller than the size five used in the men's game, but the same weight - during September and October's WXV Global Series. England players May Campbell and Helena Rowland raised concerns before the Red Roses' win over Australia last week, while Wales wing Lisa Neumann spoke positively about the impact it has had on her passing.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3965,48 +4030,22 @@
         "body": "Meg Jones, captain of the England women's rugby union team, wants Red Roses players to have access to fertility support and egg freezing. Speaking to BBC Sport, Jones said: \"Why should my opportunity to have a family be taken away from me because I want to pursue my career?\"\n\nJones revealed she has already started her fertility journey with her fiancee after visiting a clinic to have their egg count checked. The 29-year-old says that she's an \"open book\" on some subjects and wants to \"share her journey\" as she discusses both her upcoming wedding and family planning with equal comfort.",
         "copy": "Meg Jones, captain of the England women's rugby union team, wants Red Roses players to have access to fertility support and egg freezing. Speaking to BBC Sport, Jones said: \"Why should my opportunity to have a family be taken away from me because I want to pursue my career?\"\n\nJones revealed she has already started her fertility journey with her fiancee after visiting a clinic to have their egg count checked. The 29-year-old says that she's an \"open book\" on some subjects and wants to \"share her journey\" as she discusses both her upcoming wedding and family planning with equal comfort.",
         "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Ireland joining elite only a matter of time",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cr7d0214lpko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-10T16:40:40+00:00",
-        "published_label": "Thu 10 Sep, 16:40",
-        "summary": "Aoife Wafer says Ireland are capable of joining the world's elite teams as they build on progress made in recent years.",
-        "body": "Back row Aoife Wafer has predicted it is \"only a matter of time\" before Ireland join the ranks of the very best teams in the world. The number eight was speaking as the Irish squad prepare for a WXV campaign in which they will face the United States in Dublin on 20 September, and then Japan twice on home soil, before travelling for two Tests with South Africa in late October.\n\nIreland were narrowly edged out by France at the quarter-final stage of last year's World Cup and have finished third behind England and the French in the past two Women's Six Nations championships.",
-        "copy": "Back row Aoife Wafer has predicted it is \"only a matter of time\" before Ireland join the ranks of the very best teams in the world. The number eight was speaking as the Irish squad prepare for a WXV campaign in which they will face the United States in Dublin on 20 September, and then Japan twice on home soil, before travelling for two Tests with South Africa in late October.\n\nIreland were narrowly edged out by France at the quarter-final stage of last year's World Cup and have finished third behind England and the French in the past two Women's Six Nations championships.",
-        "first_seen": "2026-09-10T18:58:50.584532+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "How Scotland are 'striving for excellence' at WXV after challenging 2026",
-        "link": "https://www.rugbypass.com/news/how-scotland-are-striving-for-excellence-at-wxv-after-challenging-2026/",
-        "published": "2026-09-10T16:38:46+00:00",
-        "published_label": "Thu 10 Sep, 16:38",
-        "summary": "Scotland fly-half Helen Nelson says the team are striving for excellence in the WXV Global Series as they look to bounce back from a difficult start to 2026.",
-        "body": "Scotland fly-half Helen Nelson says the team are striving for excellence in the WXV Global Series as they look to bounce back from a difficult start to 2026. The team finished fifth in the Guinness Women’s Six Nations, which included heavy defeats against teams such as England and Ireland.\n\nThey have then dealt with the departure of their head coach Sione Fukofuka, who confirmed he had left the set up last month. Dave Butcher is taking interim charge of Scotland for their matches over the next two months against Canada, New Zealand and Australia. Nelson added the vibes in camp are good and the standards have been set high.",
-        "copy": "Scotland fly-half Helen Nelson says the team are striving for excellence in the WXV Global Series as they look to bounce back from a difficult start to 2026. The team finished fifth in the Guinness Women’s Six Nations, which included heavy defeats against teams such as England and Ireland.\n\nThey have then dealt with the departure of their head coach Sione Fukofuka, who confirmed he had left the set up last month. Dave Butcher is taking interim charge of Scotland for their matches over the next two months against Canada, New Zealand and Australia. Nelson added the vibes in camp are good and the standards have been set high.",
-        "first_seen": "2026-09-10T18:58:50.584532+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Pat Lam provides positive Ellis Genge report despite missing England camp",
-        "link": "https://www.rugbypass.com/news/pat-lam-provides-positive-ellis-genge-report-despite-missing-england-camp-bristol-bears/",
-        "published": "2026-09-10T16:14:48+00:00",
-        "published_label": "Thu 10 Sep, 16:14",
-        "summary": "Bristol Bears coach Pat Lam has revealed that loosehead Ellis Genge wasn’t involved in England’s 36-man three-day camp this week after being given extra time after his summer toil in the Nations Championship.",
-        "body": "Bristol Bears coach Pat Lam has revealed that loosehead Ellis Genge wasn’t involved in England’s 36-man three-day camp this week after being given extra time after his summer toil in the Nations Championship.\n\nThe England vice-captain played all 12 of their tests last season, and Lam says that he was given an extra week off to recover from his massive workload. And he says that Genge is “looking fresh” and that he fully supports the decision that was made by Red Rose boss Steve Borthwick earlier in the summer.",
-        "copy": "Bristol Bears coach Pat Lam has revealed that loosehead Ellis Genge wasn’t involved in England’s 36-man three-day camp this week after being given extra time after his summer toil in the Nations Championship.\n\nThe England vice-captain played all 12 of their tests last season, and Lam says that he was given an extra week off to recover from his massive workload. And he says that Genge is “looking fresh” and that he fully supports the decision that was made by Red Rose boss Steve Borthwick earlier in the summer.",
-        "first_seen": "2026-09-10T18:58:50.584532+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu shares her plans after withdrawing from the China Open",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXlSbUxBekNOSW8xVngtUkRVbTNVQ1dZQU1xd19NNm51SGZpR1pzUVB3b3pJRzRhWmtXTzAtQVF3czZkLTRHQW9tWW0zYlBLcTZWNzRFVWZKalhVdUhGNW5fNnc2dm91bFZlZWI2R0V3X2l5UHdXa1RQeGtyV2kwYnliMHFVd0JFZGdEU0NQWVlYOVd0YUVwUVVsWDRhc3BBMUQxOFBwS3pxQUt3djdBSk42djBKUk1RM3pZYXhxT2pkRGRaRC1xU0dB?oc=5",
+        "published": "2026-09-17T19:00:54+00:00",
+        "published_label": "Thu 17 Sep, 19:00",
+        "summary": "Emma Raducanu shares her plans after withdrawing from the China Open Tennis World USA",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -4045,6 +4084,19 @@
         "body": "Emma Raducanu has endured a torrid year laden with injuries, and yet, on paper, it’s arguably been one of her most successful. After all, before suffering the stress fracture that has curtailed her entire summer, the Brit had reached finals in Romania and Queen’s, two tournaments supremely close to her heart.\n\nLosing both of them will have hurt, but it marked great progress given her last final was the US Open in 2021. Emma Raducanu has been forced to miss both Wimbledon and the US Open because of this ongoing injury, with her return still undetermined.",
         "copy": "Emma Raducanu has endured a torrid year laden with injuries, and yet, on paper, it’s arguably been one of her most successful. After all, before suffering the stress fracture that has curtailed her entire summer, the Brit had reached finals in Romania and Queen’s, two tournaments supremely close to her heart.\n\nLosing both of them will have hurt, but it marked great progress given her last final was the US Open in 2021. Emma Raducanu has been forced to miss both Wimbledon and the US Open because of this ongoing injury, with her return still undetermined.",
         "first_seen": "2026-09-17T10:56:10.901694+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu reveals what her goals are for the coming years after withdrawing from the China Open",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0Z4N0x0aTBYSkVrMkJya1ZYdXhfLTAyX01xQzhpSkRBbm5Ib0RTQjM1Q0tPSWdFdzBNNEc3dTNTSjNobF9JdGM5YW9YdERUa1dRbmpubGhvVDFCOWhCeXNWZTN3TVEwa3p3N2hkYThfS2h4ZEwtVUx2N1FoX1IwSDlSbnJnRjg?oc=5",
+        "published": "2026-09-17T07:00:00+00:00",
+        "published_label": "Thu 17 Sep, 07:00",
+        "summary": "Emma Raducanu reveals what her goals are for the coming years after withdrawing from the China Open Yahoo Sports",
+        "body": "Emma Raducanu has endured a torrid year laden with injuries, and yet, on paper, it's arguably been one of her most successful. After all, before suffering the stress fracture that has curtailed her entire summer, the Brit had reached finals in Romania and Queen's, two tournaments supremely close to her heart.\n\nLosing both of them will have hurt, but it marked great progress given her last final was the US Open in 2021. Emma Raducanu has been forced to miss both Wimbledon and the US Open because of this ongoing injury, with her return still undetermined.",
+        "copy": "Emma Raducanu has endured a torrid year laden with injuries, and yet, on paper, it's arguably been one of her most successful. After all, before suffering the stress fracture that has curtailed her entire summer, the Brit had reached finals in Romania and Queen's, two tournaments supremely close to her heart.\n\nLosing both of them will have hurt, but it marked great progress given her last final was the US Open in 2021. Emma Raducanu has been forced to miss both Wimbledon and the US Open because of this ongoing injury, with her return still undetermined.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
       },
       {
         "section": "Tennis",
@@ -4175,6 +4227,19 @@
         "body": "Emma Raducanu is set to endure a new blow during her time on the sidelines. The British ace has been out of action since June as she recovers from a stress fracture in her leg, prompting her to fall down the world rankings.\n\nThe 23-year-old captured global attention during her remarkable run to clinch the US Open title in 2021. Raducanu was recently forced to miss her career-defining Grand Slam at Flushing Meadows due to her injury. She last played at Queen's in June, shortly before Wimbledon, and has since withdrawn from the upcoming China Open, despite initially being on the entry list. Meanwhile, an Argentine tennis prospect has been banned from the sport after being found to have breached anti-doping rules. Here, Express Sport takes a closer look at some of the biggest tennis stories.",
         "copy": "Emma Raducanu is set to endure a new blow during her time on the sidelines. The British ace has been out of action since June as she recovers from a stress fracture in her leg, prompting her to fall down the world rankings.\n\nThe 23-year-old captured global attention during her remarkable run to clinch the US Open title in 2021. Raducanu was recently forced to miss her career-defining Grand Slam at Flushing Meadows due to her injury. She last played at Queen's in June, shortly before Wimbledon, and has since withdrawn from the upcoming China Open, despite initially being on the entry list. Meanwhile, an Argentine tennis prospect has been banned from the sport after being found to have breached anti-doping rules. Here, Express Sport takes a closer look at some of the biggest tennis stories.",
         "first_seen": "2026-09-16T12:43:10.598639+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu tennis schedule, next match, ranking, latest results, video and how to watch live on Sky Sports Tennis",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRl9TZHBrYmZURTU2YVN4d0JzZzZRNEx4MXp5dkMteFlCc1F3X0dZRXF0QnR5Y3BMM3RVeGVRUHNQRlQtX05kWEJHYWhDM0ZfdVFJNEZhNFhiTV9qc29kU2d0TUxsMjNJeHBKZUpzRTFtejY5ZnVwb2hRd2NlZEVkU0RHcWpzbUdEcDVsa1E5aGxjUmxXOUZHYmNFMmFFcFdJY3pmMXdDTlJBalo3N2s5SmhVYnNRRzdwQ1lBTzVfQ3kzMG9fZE1PaWR6T2Q3NTZIMTk1SE9qQ0dKaUh1eEEzbWcxSUk0MGtmcUEwOUxBMWFoOVZlU05mSEJtamlQM28?oc=5",
+        "published": "2026-09-16T11:27:03+00:00",
+        "published_label": "Wed 16 Sep, 11:27",
+        "summary": "Emma Raducanu tennis schedule, next match, ranking, latest results, video and how to watch live on Sky Sports Tennis Sky Sports",
+        "body": "Best known for coaching former top five players Amanda Coetzer, Daniela Hantuchova, Anett Kontaveit and Ana Ivanovic, Sears joined her team in April 2021 and oversaw her incredible breakthrough run to the Wimbledon fourth round.\n\nGuided Raducanu to her historic Grand Slam title at the US Open as a qualifier. Raducanu opted not to extend his trial contract immediately after the victory. Angelique Kerber's former coach lasted only five months. They split in April 2022 with Raducanu transitioning towards a new training model involving LTA coaching support.",
+        "copy": "Best known for coaching former top five players Amanda Coetzer, Daniela Hantuchova, Anett Kontaveit and Ana Ivanovic, Sears joined her team in April 2021 and oversaw her incredible breakthrough run to the Wimbledon fourth round.\n\nGuided Raducanu to her historic Grand Slam title at the US Open as a qualifier. Raducanu opted not to extend his trial contract immediately after the victory. Angelique Kerber's former coach lasted only five months. They split in April 2022 with Raducanu transitioning towards a new training model involving LTA coaching support.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
       },
       {
         "section": "Tennis",
@@ -5111,22 +5176,100 @@
         "body": "Today the city of New York marks the 25th anniversary of the September 11th attacks which saw two hijacked passenger jets flown into the Twin Towers of the World Trade Centre. The US Open of 2001 had finished two days prior to the attacks with Venus Williams and Leyton Hewitt winning the singles titles. There had been plans for a photoshoot for Hewitt and the trophy to take place at the World Trade Centre the day after the tournament - before being moved to Grand Central station. Russell Fuller has been speaking to James Blake - a former top 5 player - who was born in New York and played in the 2001 edition of the tournament about how sport played a role in America's healing process and how life changed for those who lived in the city in the wake of the atrocity.",
         "copy": "Today the city of New York marks the 25th anniversary of the September 11th attacks which saw two hijacked passenger jets flown into the Twin Towers of the World Trade Centre. The US Open of 2001 had finished two days prior to the attacks with Venus Williams and Leyton Hewitt winning the singles titles. There had been plans for a photoshoot for Hewitt and the trophy to take place at the World Trade Centre the day after the tournament - before being moved to Grand Central station. Russell Fuller has been speaking to James Blake - a former top 5 player - who was born in New York and played in the 2001 edition of the tournament about how sport played a role in America's healing process and how life changed for those who lived in the city in the wake of the atrocity.",
         "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "US Open: Is men's singles victory a formality for Alexander Zverev or will Ben Shelton, Frances Tiafoe or Karen Khachanov trouble him?",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYXBOYzNST2FSZWx4NGJWNEY0RXEzOHZnbVFWNlA4Q1hCMFg1bzhQaHhTUnhKZk93VGt2eDZEak1uVVlOX0tkNldUUmNEbFFTc2FGdlVuQ21nekFpRzd4S2tGYzVHOUNiczJYWWxQTGJILTJlXzZqSDBCUHVabHg0NVBiTjE1RGt3WXl6ZklWNFpQeXZEbkp4VFBrQ2ZUN0VZVXh6b0kxWTZTS2swdktPdzg2cHZMUzM5ZHJDZTA5NU5QMWdyWkF1bGlTUWtxTElON1ZsVUpYYVBYVFJqSjF5OGZSNnZIMjZaSEduamI1S1B3S29sZHRhd1UzcG54MVlSdXRoVGxfdXJoM3FUMndrWQ?oc=5",
-        "published": "2026-09-10T20:57:38+00:00",
-        "published_label": "Thu 10 Sep, 20:57",
-        "summary": "US Open: Is men's singles victory a formality for Alexander Zverev or will Ben Shelton, Frances Tiafoe or Karen Khachanov trouble him? Sky Sports",
-        "body": "US Open: Is men's singles victory a formality for Alexander Zverev or will Ben Shelton, Frances Tiafoe or Karen Khachanov trouble him? Ben Shelton and Frances Tiafoe will continue their quest to become the first American men's Grand Slam champion since Andy Roddick's 2003 triumph at Flushing Meadows as the US Open reaches its semi-final stage.\n\nShelton sent defending champion Carlos Alcaraz packing in the early hours of Wednesday with the pair slugging it out in the latest-finishing match in tournament history as he reached his third major semi-final, having made the final four in the 2023 US Open and 2025 Australian Open.",
-        "copy": "US Open: Is men's singles victory a formality for Alexander Zverev or will Ben Shelton, Frances Tiafoe or Karen Khachanov trouble him? Ben Shelton and Frances Tiafoe will continue their quest to become the first American men's Grand Slam champion since Andy Roddick's 2003 triumph at Flushing Meadows as the US Open reaches its semi-final stage.\n\nShelton sent defending champion Carlos Alcaraz packing in the early hours of Wednesday with the pair slugging it out in the latest-finishing match in tournament history as he reached his third major semi-final, having made the final four in the 2023 US Open and 2025 Australian Open.",
-        "first_seen": "2026-09-11T10:35:34.663451+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "FlightScope's Mevo Gen2 is everything you'd want in a personal launch monitor",
+        "link": "https://golf.com/gear/golf-accessories/flightscope-mevo-gen-2-review/",
+        "published": "2026-09-17T20:09:19+00:00",
+        "published_label": "Thu 17 Sep, 20:09",
+        "summary": "The new FlightScope Mevo Gen2 cuts the price of the previous version nearly in half while also offering impressive accuracy. The post FlightScope’s Mevo Gen2 is everything you’d want in a personal launch monitor appeared first on Golf .",
+        "body": "The personal launch monitor (PLM) category continues to be one of the most innovative in golf. New options come out all the time, so it’s often about picking the option that suits your needs the best.\n\nYou can chose between going with something more focused as a game to create a simulator or something more focused on being used on the range for practice and instruction. Your use might also impact how much you’re willing to spend. If you’re just looking for something to make a game in your basement or give simple feedback on the range, then you might spend something in the $500-$700 range. Looking for more advanced data and accuracy that can keep up with the Trackmans and Quad Maxs of the world? Then you’re looking at spending somewhere between $3,000-$5,000.",
+        "copy": "The personal launch monitor (PLM) category continues to be one of the most innovative in golf. New options come out all the time, so it’s often about picking the option that suits your needs the best.\n\nYou can chose between going with something more focused as a game to create a simulator or something more focused on being used on the range for practice and instruction. Your use might also impact how much you’re willing to spend. If you’re just looking for something to make a game in your basement or give simple feedback on the range, then you might spend something in the $500-$700 range. Looking for more advanced data and accuracy that can keep up with the Trackmans and Quad Maxs of the world? Then you’re looking at spending somewhere between $3,000-$5,000.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Pebble Beach course change draws scorn. But critics didn’t have full story",
+        "link": "https://golf.com/travel/pebble-beach-course-change-critics/",
+        "published": "2026-09-17T19:56:20+00:00",
+        "published_label": "Thu 17 Sep, 19:56",
+        "summary": "Justin Thomas was among critics of Pebble Beach’s decision to remove a tree on the 16th hole. But the resort says it had little choice. The post Pebble Beach course change draws scorn. But critics didn’t have full story appeared first on Golf .",
+        "body": "Justin Thomas is not the Lorax but he speaks for the trees. He thinks golf courses cut down too many of them. Thomas said as much this week in a social-media post, citing a hole on a famous course to underscore his point: the par-4 16th at Pebble Beach Golf Links.\n\nAt 400 yards from the tips, the hole plays gently downhill from the tee, followed by an approach over a gully and between goal posts of Monterey cypress trees. At least, it used to. In early September, Pebble Beach removed the tree on the right, which stood some 90 yards short of the green.",
+        "copy": "Justin Thomas is not the Lorax but he speaks for the trees. He thinks golf courses cut down too many of them. Thomas said as much this week in a social-media post, citing a hole on a famous course to underscore his point: the par-4 16th at Pebble Beach Golf Links.\n\nAt 400 yards from the tips, the hole plays gently downhill from the tee, followed by an approach over a gully and between goal posts of Monterey cypress trees. At least, it used to. In early September, Pebble Beach removed the tree on the right, which stood some 90 yards short of the green.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Biltmore Championship Asheville Friday tee times: Round 2 groupings",
+        "link": "https://golf.com/news/2026-biltmore-championship-asheville-friday-tee-times/",
+        "published": "2026-09-17T18:58:16+00:00",
+        "published_label": "Thu 17 Sep, 18:58",
+        "summary": "2026 Biltmore Championship Asheville tee times for Friday's second round in North Carolina, featuring Max Greyserman, Chris Kirk and more. The post 2026 Biltmore Championship Asheville Friday tee times: Round 2 groupings appeared first on Golf .",
+        "body": "The 2026 Biltmore Championship Asheville continues on Friday, September 18, with Round 2 at the Cliffs at Walnut Cove. You can find full Biltmore Championship Asheville tee times for Friday’s second round at the bottom of this post.\n\nHe may be 31 years old, but Max Greyserman is still looking for the first PGA Tour victory of his career. After the opening day of play at the Biltmore Championship Asheville, he might not have to wait much longer.",
+        "copy": "The 2026 Biltmore Championship Asheville continues on Friday, September 18, with Round 2 at the Cliffs at Walnut Cove. You can find full Biltmore Championship Asheville tee times for Friday’s second round at the bottom of this post.\n\nHe may be 31 years old, but Max Greyserman is still looking for the first PGA Tour victory of his career. After the opening day of play at the Biltmore Championship Asheville, he might not have to wait much longer.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "At this year's Bridges Cup, the pressure comes with 1 unanswered question",
+        "link": "https://golf.com/news/trump-turnberry-bridges-cup-pressure/",
+        "published": "2026-09-17T18:39:42+00:00",
+        "published_label": "Thu 17 Sep, 18:39",
+        "summary": "The Bridges Cup, a premier mid-amateur team match-play competition, heads to Trump Turnberry with even more pressure and storylines to play out. The post At this year’s Bridges Cup, the pressure comes with 1 unanswered question appeared first on Golf .",
+        "body": "You can call it a friendly rivalry between Jeff Fujimoto and Simon Holt, the two captains at next month’s Bridges Cup. They agree on most things, like the fact they are thrilled the premier mid-amateur international team match-play competition is heading to a venue as prestigious as Trump Turnberry. And that the Bridges Cup, about to get underway for the fourth time, is instrumental in promoting mid-amateur golf and showcasing the players who balance work and family while still competing at a high level.\n\nThe only thing Fujimoto and Holt can’t agree on? Which team should be favored in the upcoming Bridges Cup. “The level of competition every year seems to get stronger and stronger,” said Fujimoto, the U.S. captain. “It’s exciting — I think we are going to go in and upset them.”",
+        "copy": "You can call it a friendly rivalry between Jeff Fujimoto and Simon Holt, the two captains at next month’s Bridges Cup. They agree on most things, like the fact they are thrilled the premier mid-amateur international team match-play competition is heading to a venue as prestigious as Trump Turnberry. And that the Bridges Cup, about to get underway for the fourth time, is instrumental in promoting mid-amateur golf and showcasing the players who balance work and family while still competing at a high level.\n\nThe only thing Fujimoto and Holt can’t agree on? Which team should be favored in the upcoming Bridges Cup. “The level of competition every year seems to get stronger and stronger,” said Fujimoto, the U.S. captain. “It’s exciting — I think we are going to go in and upset them.”",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "McIlroy falters as Rai shares lead at Wentworth",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/ckddvn3g5574o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T18:25:07+00:00",
+        "published_label": "Thu 17 Sep, 18:25",
+        "summary": "Aaron Rai shoots a six-under 66 to share the first-round lead with Sweden's Joakim Lagergren at the BMW PGA Championship at Wentworth as Rory McIlroy suffers a late stumble.",
+        "body": "While Rory McIlroy sparkled and then suffered a late stumble, Aaron Rai was a model of consistency as he shot a six-under 66 to share the first-round lead with Sweden's Joakim Lagergren at the BMW PGA Championship at Wentworth.\n\nRai, who became England's most recent major winner earlier this season, knocked in seven birdies, with the only blemish to his card arriving on the 16th, when he found the fairway bunker off the tee and ended with a bogey five.",
+        "copy": "While Rory McIlroy sparkled and then suffered a late stumble, Aaron Rai was a model of consistency as he shot a six-under 66 to share the first-round lead with Sweden's Joakim Lagergren at the BMW PGA Championship at Wentworth.\n\nRai, who became England's most recent major winner earlier this season, knocked in seven birdies, with the only blemish to his card arriving on the 16th, when he found the fairway bunker off the tee and ended with a bogey five.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "He got snubbed from U.S. Presidents Cup team. Then he went abroad",
+        "link": "https://golf.com/news/ryan-gerard-presidents-cup-snub-abroad/",
+        "published": "2026-09-17T17:52:09+00:00",
+        "published_label": "Thu 17 Sep, 17:52",
+        "summary": "After he finished third at the Tour Championship, he thought he might make the U.S. Presidents Cup team. Instead Ryan Gerard went abroad. The post He got snubbed from U.S. Presidents Cup team. Then he went abroad appeared first on Golf .",
+        "body": "After Ryan Gerard wrapped up a third-place finish at the Tour Championship — the big-money season finale in which he beat every U.S. Presidents Cup team member not named Scottie Scheffler — he was asked where he was headed to begin his offseason. The answer, it turned out, was to another golf tournament.\n\n“I’m going to get on a red-eye here in a couple hours to play DP World Tour next week,” he said. “We’re getting ready to grind. Season’s not over for me. Frustrated with some of the results, a lot of positives, but still work left to do.”",
+        "copy": "After Ryan Gerard wrapped up a third-place finish at the Tour Championship — the big-money season finale in which he beat every U.S. Presidents Cup team member not named Scottie Scheffler — he was asked where he was headed to begin his offseason. The answer, it turned out, was to another golf tournament.\n\n“I’m going to get on a red-eye here in a couple hours to play DP World Tour next week,” he said. “We’re getting ready to grind. Season’s not over for me. Frustrated with some of the results, a lot of positives, but still work left to do.”",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Greg Norman suggests Bryson DeChambeau's YouTube success only happened because of LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGZHVWRrVWZ1TGNFSFZWQlJaNXdmWVo3UWlIQWFIYXFlN2R5WC0zSnRXbXFqeWcwcTBNT0dYWHltamhwS1NJWmJfZExCRllDOHAzNTR0YmE5dFgxQTdsUWNvMHF4dFc2b2xyeFVkVHVmSDdfNkpZYjYzcVVTZXRRNEpkODQxWHBqWW1xM3hBMTFYcjhpSGhkRzZvU05xOEYtdHFmSkJrZG5ZM0wwcDFnZw?oc=5",
+        "published": "2026-09-17T17:00:00+00:00",
+        "published_label": "Thu 17 Sep, 17:00",
+        "summary": "Greg Norman suggests Bryson DeChambeau's YouTube success only happened because of LIV Golf hitc.com",
+        "body": "Greg Norman has suggested that LIV Golf should take a lot of the credit for Bryson DeChambeau’s success on YouTube, with the league giving the American the freedom to produce content for his channel.\n\nDeChambeau has undoubtedly become one of the most influential players in the game over the last five years. Of course, his popularity was already enjoying a rapid rise when he decided to make the move to LIV Golf with DeChambeau becoming one of the biggest hitters in the game.",
+        "copy": "Greg Norman has suggested that LIV Golf should take a lot of the credit for Bryson DeChambeau’s success on YouTube, with the league giving the American the freedom to produce content for his channel.\n\nDeChambeau has undoubtedly become one of the most influential players in the game over the last five years. Of course, his popularity was already enjoying a rapid rise when he decided to make the move to LIV Golf with DeChambeau becoming one of the biggest hitters in the game.",
+        "first_seen": "2026-09-17T20:58:08.970532+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6738,84 +6881,6 @@
         "body": "Welcome to Play Smart, a regular GOLF.com game-improvement column that will help you play smarter, better golf. Bunkers are a place of anxiety for most recreational golfers. Whether it be from a lack of practice or an incorrect technique, bunkers give most weekend warriors fits.\n\nDavid Armitage, a GOLF Top 100 Teacher, knows this fact well — and he’s set on changing it. Although he teaches all facets of the game, his favorite topic is bunker play. Specifically, helping his students conquer their fear of the sand.",
         "copy": "Welcome to Play Smart, a regular GOLF.com game-improvement column that will help you play smarter, better golf. Bunkers are a place of anxiety for most recreational golfers. Whether it be from a lack of practice or an incorrect technique, bunkers give most weekend warriors fits.\n\nDavid Armitage, a GOLF Top 100 Teacher, knows this fact well — and he’s set on changing it. Although he teaches all facets of the game, his favorite topic is bunker play. Specifically, helping his students conquer their fear of the sand.",
         "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "McIlroy four off Irish Open lead after 'longest round'",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/crr4j0n8zkvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-10T20:27:33+00:00",
-        "published_label": "Thu 10 Sep, 20:27",
-        "summary": "Defending champion Rory McIlroy says his opening round at the Irish Open, which was played in stormy conditions and took in excess of six hours, may have been the longest of his career as he sits four behind leader Joacquin Niemann.",
-        "body": "Rory McIlroy said his first round at the Irish Open at Doonbeg on Thursday may have been the longest of his career as he ended a wind-ravaged day one sitting four shots behind leader Joaquin Niemann.\n\nMcIlroy's opening one-under-par 69 took in excess of six hours as he and the rest of the field battled the high winds and sporadic showers which battered the Trump International Golf Links in County Clare.",
-        "copy": "Rory McIlroy said his first round at the Irish Open at Doonbeg on Thursday may have been the longest of his career as he ended a wind-ravaged day one sitting four shots behind leader Joaquin Niemann.\n\nMcIlroy's opening one-under-par 69 took in excess of six hours as he and the rest of the field battled the high winds and sporadic showers which battered the Trump International Golf Links in County Clare.",
-        "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "The best way to learn how to change trajectories with your wedges",
-        "link": "https://golf.com/instruction/short-game/best-way-learn-change-trajectories-wedges/",
-        "published": "2026-09-10T19:58:19+00:00",
-        "published_label": "Thu 10 Sep, 19:58",
-        "summary": "GOLF Top 100 Teacher Joey Wuertemberger explains how to teach yourself to hit a lower, more penetrating wedge shot. The post The best way to learn how to change trajectories with your wedges appeared first on Golf .",
-        "body": "Great wedge players don’t just know how far their wedges go. They know how to control how the ball gets there. They do this by changing trajectories, which gives them another way to manage distance, spin and how the ball reacts when it lands.\n\nA big part of that control comes from understanding how much loft you deliver to the ball at impact. If you add loft, the ball tends to launch higher. If you can deliver less loft while maintaining a quality strike, you can produce a lower, more penetrating flight.",
-        "copy": "Great wedge players don’t just know how far their wedges go. They know how to control how the ball gets there. They do this by changing trajectories, which gives them another way to manage distance, spin and how the ball reacts when it lands.\n\nA big part of that control comes from understanding how much loft you deliver to the ball at impact. If you add loft, the ball tends to launch higher. If you can deliver less loft while maintaining a quality strike, you can produce a lower, more penetrating flight.",
-        "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Wilson Dynapwr price drop: Save up to $100 on select models",
-        "link": "https://golf.com/gear/wilson-dynapwr-price-drop-save-100/",
-        "published": "2026-09-10T19:41:53+00:00",
-        "published_label": "Thu 10 Sep, 19:41",
-        "summary": "For a limited time, take up to $100 off select Wilson Dynapwr drivers, seven-club iron sets, fairway woods and hybrids. The post Wilson Dynapwr price drop: Save up to $100 on select models appeared first on Golf .",
-        "body": "Bargain hunters, rejoice! If you’re in the market for a great deal on some new sticks, you’re going to love what’s on offer from Wilson. Select models from the brand’s popular Dynapwr family of clubs, first released in January 2025, are currently available for a sweet discount at Fairway Jockey.\n\nFor a limited time, you can take $100 off seven-club Dynapwr or Dynapwr Max iron sets as well as the Dynapwr Carbon and LS drivers; $60 off Dynapwr Max and Carbon fairway woods; and $50 off Dynapwr hybrids.",
-        "copy": "Bargain hunters, rejoice! If you’re in the market for a great deal on some new sticks, you’re going to love what’s on offer from Wilson. Select models from the brand’s popular Dynapwr family of clubs, first released in January 2025, are currently available for a sweet discount at Fairway Jockey.\n\nFor a limited time, you can take $100 off seven-club Dynapwr or Dynapwr Max iron sets as well as the Dynapwr Carbon and LS drivers; $60 off Dynapwr Max and Carbon fairway woods; and $50 off Dynapwr hybrids.",
-        "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This 1 piece of swing data separates low- and high-handicap golfers",
-        "link": "https://golf.com/instruction/one-piece-swing-data-separate-low-high-handicap/",
-        "published": "2026-09-10T16:56:51+00:00",
-        "published_label": "Thu 10 Sep, 16:56",
-        "summary": "Looking at pelvis sway numbers at the top of the backswing can give a great look at the difference between good and bad golfers. The post This 1 piece of swing data separates low- and high-handicap golfers appeared first on Golf .",
-        "body": "Many swing characteristics can separate good golfers from bad ones: swing speed, attack angle, low points, distance … you get the idea. But there’s one data point that nearly always differentiates good and bad golfers — and you don’t even need to see a golfer’s full swing to know where he or she falls on this spectrum.\n\nThat data point comes in the form of pelvis sway. With swing analysis tools like Sportsbox AI, you can track this number easily on every swing, providing a good indicator of where you fall on the handicap spectrum.",
-        "copy": "Many swing characteristics can separate good golfers from bad ones: swing speed, attack angle, low points, distance … you get the idea. But there’s one data point that nearly always differentiates good and bad golfers — and you don’t even need to see a golfer’s full swing to know where he or she falls on this spectrum.\n\nThat data point comes in the form of pelvis sway. With swing analysis tools like Sportsbox AI, you can track this number easily on every swing, providing a good indicator of where you fall on the handicap spectrum.",
-        "first_seen": "2026-09-10T18:58:50.584532+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Solheim Cup scores and results",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/crer5qldyv9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-10T16:43:56+00:00",
-        "published_label": "Thu 10 Sep, 16:43",
-        "summary": "The latest scores and results from the 20th edition of the Solheim Cup at Bernardus Golf Club will appear here once the contest gets under way on Friday, 11 September.",
-        "body": "",
-        "copy": "The latest scores and results from the 20th edition of the Solheim Cup at Bernardus Golf Club will appear here once the contest gets under way on Friday, 11 September.",
-        "first_seen": "2026-09-10T18:58:50.584532+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Top takeaways from LIV Golf's bankruptcy filings",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2NvTzJBcEliaUNLbXZEdDBFTUQxUU5tRGZ3cEt1ZmVmZ3I4NnZiM2p3SDZvNFUzQjZQeExkLTVheTFValdEZEhqNnpEdlVQams2YjA3cDE1Y0MxRG1OdVhHaDhBUHpDanpZczJUQ2ZpWGZaSHB4R0ZXakNFS2ZRcHJ5OEt1X3FfLXBjNVllWElobWdVbm1sMzBTTThweFg5MjQyTA?oc=5",
-        "published": "2026-09-10T16:25:00+00:00",
-        "published_label": "Thu 10 Sep, 16:25",
-        "summary": "Top takeaways from LIV Golf's bankruptcy filings ESPN",
-        "body": "LIV Golf filed for bankruptcy Tuesday, five months after Saudi Arabia's Public Investment Fund announced it would pull its funding of the breakaway circuit that upended the sport.\n\nLIV Golf has found a new investor, BC Partners, who agreed to inject $300 million into the next iteration of the circuit -- what it's calling LIV 2.0 -- in return for equity and stock, and if the company restructures under Chapter 11 bankruptcy.",
-        "copy": "LIV Golf filed for bankruptcy Tuesday, five months after Saudi Arabia's Public Investment Fund announced it would pull its funding of the breakaway circuit that upended the sport.\n\nLIV Golf has found a new investor, BC Partners, who agreed to inject $300 million into the next iteration of the circuit -- what it's calling LIV 2.0 -- in return for equity and stock, and if the company restructures under Chapter 11 bankruptcy.",
-        "first_seen": "2026-09-11T10:35:34.663451+00:00"
       }
     ],
     "Badminton": [
@@ -7187,5 +7252,5 @@
       }
     ]
   },
-  "total": 551
+  "total": 556
 }
