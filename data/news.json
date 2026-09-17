@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T12:42:32.940562+00:00",
-  "generated_label": "Thursday 17 September 2026, 12:42 UTC",
+  "generated_at": "2026-09-17T16:11:44.908918+00:00",
+  "generated_label": "Thursday 17 September 2026, 16:11 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "NHL becomes latest major property to deal with DoorDash",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0NSRGs1TFdkZGVYU1RET3YxX19MYTBiUVJ4VjRMdWd3b3NLTVhVaTlOM1R0M1E5TTgtX1NPX0g5SHlIeEdaZDlDeGNjLUgzTGRJaDZJelpKZUViQ1BPUkM3MXlRZ1pNRXJGa0hUWWNib0t2MzZxNi0xTk5tTV96bFlpRVRRNm1CMGRQTDcxV19TUmlDRDVuSQ?oc=5",
+        "published": "2026-09-17T15:21:10+00:00",
+        "published_label": "Thu 17 Sep, 15:21",
+        "summary": "NHL becomes latest major property to deal with DoorDash Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Trivandi eyes Australian growth through SoldOut Events deal",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3pDRExRT2wwdXdQSUhZQ3pBRVdzZDd0THpZRVh6OFZLMVVITU5NcXIxMlk4aDgxR01fMEt4cndOQmxyemtBWjEzWV9jc01TQmNtVEl4QkVrMll3TDlNbFpqaGwwSnhzMndub0o5TDJraVBBamVCUzYzLWpjbTFFb1ZkTnZLLW96cG5lWl9YV1RudVNr?oc=5",
+        "published": "2026-09-17T14:51:23+00:00",
+        "published_label": "Thu 17 Sep, 14:51",
+        "summary": "Trivandi eyes Australian growth through SoldOut Events deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Man City and SeatGeek expand relationship into global deal",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaERkbXM5LWpWVVhBZm42WWxpX1VzTlJSYkZzbmhkcHk3R21QSk0xMGlmWnpLODRqMnhZTkRKRlZfbmtWU2stMU5xRHQtUDJnZEJrN2JoNUZvMjlqa3BFT2JYNzZBM0wxNnluZkNFbF93c2MwdFJmUTdhT1hfQmZXVlZTd0R5ZjVzbC11V0dJd2pHam8?oc=5",
+        "published": "2026-09-17T12:53:35+00:00",
+        "published_label": "Thu 17 Sep, 12:53",
+        "summary": "Man City and SeatGeek expand relationship into global deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "SportsPro",
@@ -453,6 +492,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-16T10:49:14.005902+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Slow Horses series 6 — the droll spy thriller is reliably brilliant TV",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54bkU0U3BZTDc0TC1HTU5qVk1NY1ZWT2k0Z0tqcXYtMVpSVDk4aXEwd1dkeGVUaEo2ZGJfSDFkajhMdF9hZ3V4WGVvR2ZlOFlweDQwUUdxLWs3OVJqdnBxenZtdXp5Z3RxZTI2X3B0Y0k?oc=5",
+        "published": "2026-09-16T07:00:03+00:00",
+        "published_label": "Wed 16 Sep, 07:00",
+        "summary": "Slow Horses series 6 — the droll spy thriller is reliably brilliant TV Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1597,35 +1649,126 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "RTE secures 2027 Ryder Cup highlights, Irish Open rights",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTc2QlUyeHF2aTRlREdmNGw1ZlBzZ0c3SlhQQ0FVNnF6T1pWaTA0SUMxMWN1anRQUVA5NjJfNktpb1Z3cmlzc2FBN2pFYURXMDU2aldhR0FXWGEtWk5rajdwYW9rYjM4ckdzTG5taUM0QURfZ0pSYXRxSzFTZkUtOVRFZTlzU3NkNG5NSmJvVQ?oc=5",
-        "published": "2026-09-10T14:52:10+00:00",
-        "published_label": "Thu 10 Sep, 14:52",
-        "summary": "RTE secures 2027 Ryder Cup highlights, Irish Open rights Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Burnham’s devolution project needs strong local media too",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVRKN2tBRExmUWFxcUhWSE5DMVRsazhDWEp0S09FbTc4dWZNWW9MZUN3LXRjTkpBNFc2WlQyZFdRNk82RXYzLThfa1NZb1c2aUhnTUZqQzc3cVJPOGNzUTZ3bGZydXgwck5MeHdGdWNObGhJdVF1bU85NWJaWVBvTDhVTG0?oc=5",
-        "published": "2026-09-10T14:33:02+00:00",
-        "published_label": "Thu 10 Sep, 14:33",
-        "summary": "Burnham’s devolution project needs strong local media too Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-11T10:35:34.663451+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Rugby Europe Super Cup fixtures announced with curious twist",
+        "link": "https://www.rugbypass.com/news/rugby-europe-super-cup-fixtures-announced-with-curious-twist/",
+        "published": "2026-09-17T15:45:33+00:00",
+        "published_label": "Thu 17 Sep, 15:45",
+        "summary": "Rugby Europe have announced the fixtures for this season’s Rugby Europe Super Cup, which will take place between October and December. The sixth edition will be played over five weekends in a round-robin format, beginning on October 10.",
+        "body": "Rugby Europe have announced the fixtures for this season’s Rugby Europe Super Cup, which will take place between October and December. The sixth edition will be played over five weekends in a round-robin format, beginning on October 10.\n\nAfter three rounds of fixtures in October, the tournament will pause during the November Test match window before resuming in December. The Portuguese Lusitanos, Czechia’s Bohemia Rugby Warriors, the Netherlands’ Delta, Belgium’s Brussels Devils and Romania’s Romanian Wolves are all set for another season of high-intensity rugby as they battle for Super Cup glory.",
+        "copy": "Rugby Europe have announced the fixtures for this season’s Rugby Europe Super Cup, which will take place between October and December. The sixth edition will be played over five weekends in a round-robin format, beginning on October 10.\n\nAfter three rounds of fixtures in October, the tournament will pause during the November Test match window before resuming in December. The Portuguese Lusitanos, Czechia’s Bohemia Rugby Warriors, the Netherlands’ Delta, Belgium’s Brussels Devils and Romania’s Romanian Wolves are all set for another season of high-intensity rugby as they battle for Super Cup glory.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Rees-Zammit to return to wing for new season",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvgy15zp4vwo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T15:24:27+00:00",
+        "published_label": "Thu 17 Sep, 15:24",
+        "summary": "Wales and Bristol back Louis Rees-Zammit says he will be a winger who can play full-back this season for club and country.",
+        "body": "Wales and Bristol back Louis Rees-Zammit said he will be a winger who can play full-back this season for club and country, after spending much of the last campaign in the number 15 shirt.\n\nRees-Zammit returned to rugby last summer after almost two years away, as he tried to carve out a career in the NFL, and under Bristol boss Pat Lam and Wales head coach Steve Tandy was deployed at full-back consistently from the autumn, rather than his former position on the right wing.",
+        "copy": "Wales and Bristol back Louis Rees-Zammit said he will be a winger who can play full-back this season for club and country, after spending much of the last campaign in the number 15 shirt.\n\nRees-Zammit returned to rugby last summer after almost two years away, as he tried to carve out a career in the NFL, and under Bristol boss Pat Lam and Wales head coach Steve Tandy was deployed at full-back consistently from the autumn, rather than his former position on the right wing.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Heather Fisher: Abi Burton is a 'weapon' for the Red Roses",
+        "link": "https://www.rugbypass.com/news/heather-fisher-abi-burton-is-a-weapon-for-the-red-roses/",
+        "published": "2026-09-17T14:56:21+00:00",
+        "published_label": "Thu 17 Sep, 14:56",
+        "summary": "Heather Fisher believes that Abi Burton's brush with serious illness has pushed the back-row forward to new heights.",
+        "body": "Heather Fisher believes that Abi Burton’s brush with serious illness has pushed the back-row forward to new heights. Much like Fisher, Burton is a rugby sevens player now thriving in the 15-a-side game. In Burton’s case, we are only just getting to see what the 26-year-old can bring to the Red Roses on a regular basis.\n\nThe pair were once teammates when a teenage Burton first stepped into England Sevens camp and Fisher was at the tail-end of her playing career. Last weekend, the forward from West Yorkshire put in a Player of the Match performance in England’s 48-15 win against Australia in the WXV Global Series.",
+        "copy": "Heather Fisher believes that Abi Burton’s brush with serious illness has pushed the back-row forward to new heights. Much like Fisher, Burton is a rugby sevens player now thriving in the 15-a-side game. In Burton’s case, we are only just getting to see what the 26-year-old can bring to the Red Roses on a regular basis.\n\nThe pair were once teammates when a teenage Burton first stepped into England Sevens camp and Fisher was at the tail-end of her playing career. Last weekend, the forward from West Yorkshire put in a Player of the Match performance in England’s 48-15 win against Australia in the WXV Global Series.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Injured Exeter winger Ridl to miss most of season",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dwnj3d841o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T14:00:46+00:00",
+        "published_label": "Thu 17 Sep, 14:00",
+        "summary": "Exeter winger Campbell Ridl is set to miss much of the season after suffering a knee ligament injury.",
+        "body": "Exeter winger Campbell Ridl is set to miss much of the season after suffering a knee ligament injury. Ridl had been one of the breakout stars of last season, scoring 17 tries in 24 games including one in Exeter's Prem final loss to Northampton Saints at Twickenham.\n\nThe 21-year-old, an England Under-20 player, was hurt in Exeter's opening pre-season game when they lost to Welsh side Scarlets earlier this month. It is the latest injury blow for Exeter, who will be without Italy lock Andrea Zambonin until November with a shoulder problem.",
+        "copy": "Exeter winger Campbell Ridl is set to miss much of the season after suffering a knee ligament injury. Ridl had been one of the breakout stars of last season, scoring 17 tries in 24 games including one in Exeter's Prem final loss to Northampton Saints at Twickenham.\n\nThe 21-year-old, an England Under-20 player, was hurt in Exeter's opening pre-season game when they lost to Welsh side Scarlets earlier this month. It is the latest injury blow for Exeter, who will be without Italy lock Andrea Zambonin until November with a shoulder problem.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Sophie de Goede returns as Canada captain for World Cup final rematch",
+        "link": "https://www.rugbypass.com/news/sophie-de-goede-returns-as-canada-captain-for-world-cup-final-rematch/",
+        "published": "2026-09-17T14:00:30+00:00",
+        "published_label": "Thu 17 Sep, 14:00",
+        "summary": "Sophie de Goede is back in Canada's starting XV for the team's Women's Rugby World Cup 2025 replay with England's Red Roses.",
+        "body": "Sophie de Goede is back in Canada’s starting XV for the team’s Women’s Rugby World Cup 2025 replay with England’s Red Roses. It will be the first time the two teams have met since the showpiece finale at Allianz Stadium, in which England won 33-13 in front of a world record crowd of 81,885.\n\nLast week De Goede joined her team’s 64-26 win over Scotland from the replacements, as the North Americans’ WXV Global Series campaign started on a high note. She will captain Canada for the 25th time in her career.",
+        "copy": "Sophie de Goede is back in Canada’s starting XV for the team’s Women’s Rugby World Cup 2025 replay with England’s Red Roses. It will be the first time the two teams have met since the showpiece finale at Allianz Stadium, in which England won 33-13 in front of a world record crowd of 81,885.\n\nLast week De Goede joined her team’s 64-26 win over Scotland from the replacements, as the North Americans’ WXV Global Series campaign started on a high note. She will captain Canada for the 25th time in her career.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "François Ratier confirms five changes for France ahead of Wallaroos Test",
+        "link": "https://www.rugbypass.com/news/francois-ratier-confirms-five-changes-for-france-ahead-of-wallaroos-test/",
+        "published": "2026-09-17T13:54:25+00:00",
+        "published_label": "Thu 17 Sep, 13:54",
+        "summary": "François Ratier has made five changes to his starting XV as France look to get their first win of WXV Global Series 2026 against the Wallaroos this weekend.",
+        "body": "François Ratier has made five changes to his starting XV as France look to get their first win of WXV Global Series 2026 against the Wallaroos this weekend. Last Saturday in Lyon, France lost 28-14 to the Black Ferns. Les Bleues host Australia this week in Aix-en-Provence, before Canada visit La Rochelle to conclude September.\n\nThree changes were enforced by players returning to the France Sevens group. Lili Dezou, Kelly Arbey and Cloé Jacquet have been replaced by Gabrielle Vernier, Anaïs Grando and Émilie Boulard come into the starting team. It is the first time that Boulard has taken part in a Test match under Ratier.",
+        "copy": "François Ratier has made five changes to his starting XV as France look to get their first win of WXV Global Series 2026 against the Wallaroos this weekend. Last Saturday in Lyon, France lost 28-14 to the Black Ferns. Les Bleues host Australia this week in Aix-en-Provence, before Canada visit La Rochelle to conclude September.\n\nThree changes were enforced by players returning to the France Sevens group. Lili Dezou, Kelly Arbey and Cloé Jacquet have been replaced by Gabrielle Vernier, Anaïs Grando and Émilie Boulard come into the starting team. It is the first time that Boulard has taken part in a Test match under Ratier.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "URC 2026/2027 squads rated: Stormers",
+        "link": "https://www.rugbypass.com/news/united-rugby-championship-2026-2027-squads-rated-stormers-siya-kolisi-cheslin-kolbe-sacha-feinberg-mngomezulu/",
+        "published": "2026-09-17T13:38:09+00:00",
+        "published_label": "Thu 17 Sep, 13:38",
+        "summary": "After going 10 matches unbeaten at the start of last season, the Stormers' 2025/26 campaign ended with a whimper, finishing third in the United Rugby Championship before losing in the semi-finals to Leinster and agonisingly losing to Toulon in the Investec Champions Cup round of 16.",
+        "body": "After going 10 matches unbeaten at the start of last season, the Stormers’ 2025/26 campaign ended with a whimper, finishing third in the United Rugby Championship before losing in the semi-finals to Leinster and agonisingly losing to Toulon in the Investec Champions Cup round of 16.\n\nIt was a season that promised a lot and delivered nothing. But the Cape Town outfit have been busy looking for ways to remedy that, bringing in a glut of South African superstars.",
+        "copy": "After going 10 matches unbeaten at the start of last season, the Stormers’ 2025/26 campaign ended with a whimper, finishing third in the United Rugby Championship before losing in the semi-finals to Leinster and agonisingly losing to Toulon in the Investec Champions Cup round of 16.\n\nIt was a season that promised a lot and delivered nothing. But the Cape Town outfit have been busy looking for ways to remedy that, bringing in a glut of South African superstars.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘Forget the Home Nations… ‘Protected’ France are the only team who can rival South Africa’",
+        "link": "https://www.rugbypass.com/plus/forget-the-home-nations-protected-france-are-arguably-the-only-nation-who-can-rival-south-africa/",
+        "published": "2026-09-17T12:51:43+00:00",
+        "published_label": "Thu 17 Sep, 12:51",
+        "summary": "France, who will manage the workload of their top stars this season, look the best bet to challenge South Africa at RWC 2027.",
+        "body": "The bookmakers are unanimous: South Africa are the hot favourites to win the 2027 World Cup and achieve the unprecedented feat of three consecutive titles. It would take a bold punter to bet against them a year out from the tournament Down Under.\n\nNew Zealand gave it their best shot against South Africa in the riveting four-Test ‘Greatest Rivalry’ series but the Boks were too powerful, too organised and too experienced. Forget a credible challenge from the Home Nations. None of them have the tools to topple the world champions. Ditto for Australia and Argentina.",
+        "copy": "The bookmakers are unanimous: South Africa are the hot favourites to win the 2027 World Cup and achieve the unprecedented feat of three consecutive titles. It would take a bold punter to bet against them a year out from the tournament Down Under.\n\nNew Zealand gave it their best shot against South Africa in the riveting four-Test ‘Greatest Rivalry’ series but the Boks were too powerful, too organised and too experienced. Forget a credible challenge from the Home Nations. None of them have the tools to topple the world champions. Ditto for Australia and Argentina.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ainsworth makes first Scotland start as Bonar returns on bench",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5rm983jwg1xo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-17T12:36:15+00:00",
+        "published_label": "Thu 17 Sep, 12:36",
+        "summary": "Scrum-half Ceitidh Ainsworth will make her first start for Scotland Women, while lock Sarah Bonar makes the match-day squad for the first time since the 2025 Rugby World Cup, for Saturday's visit by New Zealand.",
+        "body": "Ceitidh Ainsworth will make her first start for Scotland Women, while experienced lock Sarah Bonar makes the match-day squad for the first time since the 2025 Rugby World Cup, for Saturday's visit by New Zealand.\n\nHaving made her debut off the bench in last weekend's 64-26 defeat by Canada, Glasgow Warriors' Ainsworth replaces clubmate Rhea Clarke at scrum-half in one of four changes made by interim head coach Dave Butcher for the WXV Series match at Hive Stadium.",
+        "copy": "Ceitidh Ainsworth will make her first start for Scotland Women, while experienced lock Sarah Bonar makes the match-day squad for the first time since the 2025 Rugby World Cup, for Saturday's visit by New Zealand.\n\nHaving made her debut off the bench in last weekend's 64-26 defeat by Canada, Glasgow Warriors' Ainsworth replaces clubmate Rhea Clarke at scrum-half in one of four changes made by interim head coach Dave Butcher for the WXV Series match at Hive Stadium.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -3861,97 +4004,6 @@
         "body": "Bristol Bears coach Pat Lam has revealed that loosehead Ellis Genge wasn’t involved in England’s 36-man three-day camp this week after being given extra time after his summer toil in the Nations Championship.\n\nThe England vice-captain played all 12 of their tests last season, and Lam says that he was given an extra week off to recover from his massive workload. And he says that Genge is “looking fresh” and that he fully supports the decision that was made by Red Rose boss Steve Borthwick earlier in the summer.",
         "copy": "Bristol Bears coach Pat Lam has revealed that loosehead Ellis Genge wasn’t involved in England’s 36-man three-day camp this week after being given extra time after his summer toil in the Nations Championship.\n\nThe England vice-captain played all 12 of their tests last season, and Lam says that he was given an extra week off to recover from his massive workload. And he says that Genge is “looking fresh” and that he fully supports the decision that was made by Red Rose boss Steve Borthwick earlier in the summer.",
         "first_seen": "2026-09-10T18:58:50.584532+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "France draft trio of sevens stars for WXV opener against ‘fantastic’ Black Ferns",
-        "link": "https://www.rugbypass.com/news/france-draft-trio-of-sevens-stars-for-wxv-opener-against-fantastic-black-ferns/",
-        "published": "2026-09-10T15:52:46+00:00",
-        "published_label": "Thu 10 Sep, 15:52",
-        "summary": "François Ratier has called on the France Sevens squad ahead of his team's WXV Global Series opener against the Black Ferns on Sunday.",
-        "body": "François Ratier has called on the France Sevens squad ahead of his team’s WXV Global Series opener against the Black Ferns on Sunday. Both Chloé Jacquet and Kelly Arbey have won Test caps before, while Lili Dezou will make her international debut at outside centre. She partners Teani Feleu in midfield.\n\nDezou, 22, plays her club rugby for Stade Toulousain and represented her country at their home Olympic Games in 2024. Upon announcing his squad, Ratier confirmed that the trio would only play in France’s opening WXV Global Series fixture before returning to sevens camp.",
-        "copy": "François Ratier has called on the France Sevens squad ahead of his team’s WXV Global Series opener against the Black Ferns on Sunday. Both Chloé Jacquet and Kelly Arbey have won Test caps before, while Lili Dezou will make her international debut at outside centre. She partners Teani Feleu in midfield.\n\nDezou, 22, plays her club rugby for Stade Toulousain and represented her country at their home Olympic Games in 2024. Upon announcing his squad, Ratier confirmed that the trio would only play in France’s opening WXV Global Series fixture before returning to sevens camp.",
-        "first_seen": "2026-09-10T18:58:50.584532+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'Things can change quickly'",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ywvd7wg25o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-10T15:40:43+00:00",
-        "published_label": "Thu 10 Sep, 15:40",
-        "summary": "Fraser Dingwall says his omission from England's past two squads is \"disappointing\", but does not make a return impossible.",
-        "body": "Fraser Dingwall said his omission from England's past two squads had felt \"disappointing\", but did not mean the door was closed for a return. The 27-year-old Northampton Saints club captain was England's first-choice inside centre in a successful autumn that included victory over New Zealand. He also started for Steve Borthwick's side in their first three Six Nations matches this year.\n\nHowever, he was not included in the squad for this summer's Nations Championship Test matches, or the 36-man training squad for this autumn's fixtures, despite being part of Northampton's Prem title success.",
-        "copy": "Fraser Dingwall said his omission from England's past two squads had felt \"disappointing\", but did not mean the door was closed for a return. The 27-year-old Northampton Saints club captain was England's first-choice inside centre in a successful autumn that included victory over New Zealand. He also started for Steve Borthwick's side in their first three Six Nations matches this year.\n\nHowever, he was not included in the squad for this summer's Nations Championship Test matches, or the 36-man training squad for this autumn's fixtures, despite being part of Northampton's Prem title success.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "‘Learned a lot from him’: De Allende on All Black rival who 'stands out'",
-        "link": "https://www.rugbypass.com/news/learned-a-lot-from-him-damian-de-allende-on-all-black-rival-who-stands-out-springboks/",
-        "published": "2026-09-10T15:34:03+00:00",
-        "published_label": "Thu 10 Sep, 15:34",
-        "summary": "South Africa centre Damian de Allende has singled out Jordie Barrett as the current rival who “really does stand out” to him after going head-to-head with the All Blacks star during Rugby’s Greatest Rivalry series.",
-        "body": "South Africa centre Damian de Allende has singled out Jordie Barrett as the current rival who “really does stand out” to him after going head-to-head with the All Blacks star during Rugby’s Greatest Rivalry series.\n\nThe 101-cap Springbok has faced some of the finest centres of the modern era during his international career, highlighting battles with Ma’a Nonu, Conrad Smith and Sonny Bill Williams, as well as compatriots Frans Steyn, Andre Esterhuizen and Jan Serfontein.",
-        "copy": "South Africa centre Damian de Allende has singled out Jordie Barrett as the current rival who “really does stand out” to him after going head-to-head with the All Blacks star during Rugby’s Greatest Rivalry series.\n\nThe 101-cap Springbok has faced some of the finest centres of the modern era during his international career, highlighting battles with Ma’a Nonu, Conrad Smith and Sonny Bill Williams, as well as compatriots Frans Steyn, Andre Esterhuizen and Jan Serfontein.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Switch Six Nations fixture to USA to grow game – World Rugby",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-10T14:58:33+00:00",
-        "published_label": "Thu 10 Sep, 14:58",
-        "summary": "World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.",
-        "body": "World Rugby would help any nation which wants to switch a Six Nations match to the United States, as it continues its drive to spread the game stateside. South Africa and New Zealand have sold out the 71,000-capacity M&T Bank Stadium in Baltimore for Saturday's fourth and final Test in their Greatest Rivalry series.\n\nWith the men's and women's Rugby World Cups being held in the United States in 2031 and 2033 respectively, tournament organisers are keen to bring more prestige fixtures across the Atlantic.",
-        "copy": "World Rugby would help any nation which wants to switch a Six Nations match to the United States, as it continues its drive to spread the game stateside. South Africa and New Zealand have sold out the 71,000-capacity M&T Bank Stadium in Baltimore for Saturday's fourth and final Test in their Greatest Rivalry series.\n\nWith the men's and women's Rugby World Cups being held in the United States in 2031 and 2033 respectively, tournament organisers are keen to bring more prestige fixtures across the Atlantic.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "RWC-winning All Black's coaching career to start against Ian Foster",
-        "link": "https://www.rugbypass.com/news/rwc-winning-all-blacks-coaching-career-to-start-against-ian-foster-andy-ellis/",
-        "published": "2026-09-10T13:57:06+00:00",
-        "published_label": "Thu 10 Sep, 13:57",
-        "summary": "Rugby World Cup-winner and new Kobelco Kobe Steelers mentor Andy Ellis will take his maiden step as a professional coach against former All Blacks boss Ian Foster’s Toyota Verblitz, when the sixth edition of Japan Rugby League One opens on December 12.",
-        "body": "Rugby World Cup-winner and new Kobelco Kobe Steelers mentor Andy Ellis will take his maiden step as a professional coach against former All Blacks boss Ian Foster’s Toyota Verblitz, when the sixth edition of Japan Rugby League One opens on December 12.\n\nThe rookie has replaced current All Blacks coach Dave Rennie at the defending champions, teaming up with former director of rugby Wayne Smith, who will advise the club’s new man.",
-        "copy": "Rugby World Cup-winner and new Kobelco Kobe Steelers mentor Andy Ellis will take his maiden step as a professional coach against former All Blacks boss Ian Foster’s Toyota Verblitz, when the sixth edition of Japan Rugby League One opens on December 12.\n\nThe rookie has replaced current All Blacks coach Dave Rennie at the defending champions, teaming up with former director of rugby Wayne Smith, who will advise the club’s new man.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Two-time Olympic medallist to make Test debut for Canada against Scotland",
-        "link": "https://www.rugbypass.com/news/two-time-olympic-medallist-to-make-test-debut-for-canada-against-scotland/",
-        "published": "2026-09-10T13:16:15+00:00",
-        "published_label": "Thu 10 Sep, 13:16",
-        "summary": "Two-time Olympic medallist Charity Williams will make her Test rugby debut against Scotland in Canada's WXV Global Series opener in Edinburgh.",
-        "body": "Two-time Olympic medallist Charity Williams will make her Test rugby debut against Scotland in Canada’s WXV Global Series opener in Edinburgh. The 29-year-old has competed in rugby sevens at three Olympic Games, winning a bronze medal in 2016 and silver in Paris two years ago.\n\nShe is joined by current Canada Women’s Sevens teammate Savannah Bauder in the squad. Williams starts on the left wing in a back three that also contains Fancy Bermudez and Claire Gallagher.",
-        "copy": "Two-time Olympic medallist Charity Williams will make her Test rugby debut against Scotland in Canada’s WXV Global Series opener in Edinburgh. The 29-year-old has competed in rugby sevens at three Olympic Games, winning a bronze medal in 2016 and silver in Paris two years ago.\n\nShe is joined by current Canada Women’s Sevens teammate Savannah Bauder in the squad. Williams starts on the left wing in a back three that also contains Fancy Bermudez and Claire Gallagher.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "World Cup-winning prop ruled out of Red Roses' home WXV fixtures",
-        "link": "https://www.rugbypass.com/news/world-cup-winning-prop-ruled-out-of-red-roses-home-wxv-fixtures/",
-        "published": "2026-09-10T12:50:54+00:00",
-        "published_label": "Thu 10 Sep, 12:50",
-        "summary": "Women's Rugby World Cup-winning prop Kelsey Clifford has been ruled out of the Red Roses' home WXV Global Series fixtures.",
-        "body": "Women’s Rugby World Cup-winning prop Kelsey Clifford has been ruled out of the Red Roses’ home WXV Global Series fixtures. The 24-year-old Saracens prop will miss Test matches against Australia, Canada and New Zealand’s Black Ferns in September with a hamstring injury.\n\nClifford will remain as part of the Red Roses training squad with a view to returning for the team’s two matches against Canada and the fixture against the USA Women’s Eagles in October.",
-        "copy": "Women’s Rugby World Cup-winning prop Kelsey Clifford has been ruled out of the Red Roses’ home WXV Global Series fixtures. The 24-year-old Saracens prop will miss Test matches against Australia, Canada and New Zealand’s Black Ferns in September with a hamstring injury.\n\nClifford will remain as part of the Red Roses training squad with a view to returning for the team’s two matches against Canada and the fixture against the USA Women’s Eagles in October.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
       }
     ],
     "Tennis": [
@@ -4019,6 +4071,32 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-17T10:56:10.901694+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "How does the Laver Cup work?",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaEpsYXVyMXlvU1o1U01VNzdtUkpQMHk4VnNZanhMcm9fZFdjTy1JLUpKMmF0cUFpSjB2U1N1bEtLRWFIQVFUd1pBd3RDcURhNl9RN0xCYVZndW53d2RuNWdHZEp4OGw5c1gyYVJaeW9uUEJuZUhHRDJ1QXRCQ2tJOWNFWXA2eUdxekxUTnRER2VCMFZRcUU1NTFUNFpfamxScUQxQTRsZnB2SzItSFZzcWREcXRJSHo4S1k5dUJlSTQ3OVpCTUZJVFIyaE1qRUM3dU5lakxRZi1IOVR4UGJrOGd0dDctLWJuT09uVVFzWEQ1SGk5Rl9OSWxjSWd5ZUpvbTdUUjk5XzROQQ?oc=5",
+        "published": "2026-09-16T20:38:18+00:00",
+        "published_label": "Wed 16 Sep, 20:38",
+        "summary": "How does the Laver Cup work? Sky Sports",
+        "body": "Find out all you need to know as 12 of the world's best men's players compete in the annual Europe vs 'Rest of the World' Laver Cup showdown, live on Sky Sports September 25-27.\n\nEarlier this year, Sky Sports agreed a deal with Trident8 to show all three days of the Laver Cup from London's O2 Arena this month. Here's everything you need to know about tennis' exciting team event...",
+        "copy": "Find out all you need to know as 12 of the world's best men's players compete in the annual Europe vs 'Rest of the World' Laver Cup showdown, live on Sky Sports September 25-27.\n\nEarlier this year, Sky Sports agreed a deal with Trident8 to show all three days of the Laver Cup from London's O2 Arena this month. Here's everything you need to know about tennis' exciting team event...",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Novak Djokovic to return to ATP's China Open on Sky Sports after 11-year absence from event",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3A5ZzlYRWppemQxS3FBSmxRcUJBYVAzSnhFTG1hTFZOOUNXSVlMUjF2UllMYjItWmktaVRxQlBjYTVyd3lWUHFISlhqSm5NYzZsYjVpU2h5TXF4Q08ydnJxR04yd01Tckt5RVVMcmNOUmZPTUI3X05pSnBIajdFMjZReEw0TlVTLTVXZ1pIa19hNUt4UlRMd2dhZzVhZHhXNHo5OExzTzhveXB6SDI1ZEtxV0swZ0xwMkh3eWstTlJKVTdNeGZsSEhzdm9ucDZwZ2hUWi1hOHpVNFE?oc=5",
+        "published": "2026-09-16T18:52:49+00:00",
+        "published_label": "Wed 16 Sep, 18:52",
+        "summary": "Novak Djokovic to return to ATP's China Open on Sky Sports after 11-year absence from event Sky Sports",
+        "body": "Novak Djokovic has confirmed he will compete at the China Open this year, which runs from September 30-October 6 live on Sky Sports, marking a return to the event following an 11-year absence.\n\nThe 39-year-old recently dropped as low as No 12 in the world rankings following a shock first-round defeat to Argentina's Mariano Navone at the US Open. That defeat followed on from a third-round exit in May at the French Open - two underwhelming Grand Slam displays coming either side of a run to the semi-finals at Wimbledon, where he was well beaten in straight sets by eventual champion Jannik Sinner.",
+        "copy": "Novak Djokovic has confirmed he will compete at the China Open this year, which runs from September 30-October 6 live on Sky Sports, marking a return to the event following an 11-year absence.\n\nThe 39-year-old recently dropped as low as No 12 in the world rankings following a shock first-round defeat to Argentina's Mariano Navone at the US Open. That defeat followed on from a third-round exit in May at the French Open - two underwhelming Grand Slam displays coming either side of a run to the semi-finals at Wimbledon, where he was well beaten in straight sets by eventual champion Jannik Sinner.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
       },
       {
         "section": "Tennis",
@@ -5049,6 +5127,45 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf star spotted with notable apparel change during latest tournament",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRUdWs4d0wzNEZBMm5PU3ExdGNqQXVGUW5hWnFQYWM1R2MyV2hIZ1hTR3hoekZ1QlA5NV9OczBIaXo3VXR1b09qOVpKN183QmxTVlZuWlJicnJCbmxhMXJJREF6elFvVUNUTnNOQ0x1SkhWQXJPRmhiYU1GVGIwVlltZWY5Q0NmRjF0T1VMM2RDemNYRWRzT1NWWTE1QzByUWkwNExVVTRhamROS1E?oc=5",
+        "published": "2026-09-17T15:43:55+00:00",
+        "published_label": "Thu 17 Sep, 15:43",
+        "summary": "LIV Golf star spotted with notable apparel change during latest tournament Golfmagic",
+        "body": "Peter Uihlein has raised questions over his LIV Golf future after appearing at this week’s Asian Tour event without any of his usual RangeGoats GC apparel or accessories. As first highlighted by Rob Brooks, Uihlein was noticeably without RangeGoats branding during Thursday’s opening round of the Yeangder Tournament Players Championship at Linkou International Golf and Country Club in Taiwan.\n\nMost notably, Uihlein was wearing a Titleist cap rather than his usual RangeGoats GC headwear, while there was no obvious RangeGoats branding elsewhere on his clothing or equipment.",
+        "copy": "Peter Uihlein has raised questions over his LIV Golf future after appearing at this week’s Asian Tour event without any of his usual RangeGoats GC apparel or accessories. As first highlighted by Rob Brooks, Uihlein was noticeably without RangeGoats branding during Thursday’s opening round of the Yeangder Tournament Players Championship at Linkou International Golf and Country Club in Taiwan.\n\nMost notably, Uihlein was wearing a Titleist cap rather than his usual RangeGoats GC headwear, while there was no obvious RangeGoats branding elsewhere on his clothing or equipment.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'I'm not that comfortable': Matt Fitzpatrick may skip season finale due to Iran war",
+        "link": "https://golf.com/news/matt-fitzpatrick-may-skip-season-finale-iran-war/",
+        "published": "2026-09-17T13:29:57+00:00",
+        "published_label": "Thu 17 Sep, 13:29",
+        "summary": "On Wednesday, Matt Fitzpatrick revealed he's not \"comfortable\" playing in the season finale due to security concerns around the Iran war. The post ‘I’m not that comfortable’: Matt Fitzpatrick may skip season finale due to Iran war appeared first on Golf .",
+        "body": "Some of the best players in the game are teeing it up at this week’s BMW PGA Championship at Wentworth. While the BMW PGA is without a doubt the DP World Tour’s flagship event, it is not the season finale.\n\nThe last two events of the season are scheduled for November in Abu Dhabi and Dubai. But there’s a major problem with that plan: both locations have been under attack from Iran since its war with the United States broke out in February.",
+        "copy": "Some of the best players in the game are teeing it up at this week’s BMW PGA Championship at Wentworth. While the BMW PGA is without a doubt the DP World Tour’s flagship event, it is not the season finale.\n\nThe last two events of the season are scheduled for November in Abu Dhabi and Dubai. But there’s a major problem with that plan: both locations have been under attack from Iran since its war with the United States broke out in February.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "'Bryson Was In The Right Place At The Right Time' - Greg Norman Says LIV Golf To Thank For DeChambeau's Success",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2FjSTF0eWp1ZGoxTWQ3NW8zM0d2OFhiN1F0X0Q4cEhxOEhiM3VEQ1B4Qjk1d2haV213d3dUV2NHU1F0bkJQdklvaVZnVUJiSTdjWk0zWDVtdWlkY20wdU5CazdVa3lMSDNsUjRZdDhQdmUzalhpSU9mcWN3ckNzZVhTajlFeGotMWwyaUNfbDljNTdZMXViWHpaR2U3Z3hsamUtQlVDYngtV2pPYUtHbEV3VFIzYlktTG00Ukw1SXhoTHhDNUQyeTV6czU5TjFkY3o4YWVn?oc=5",
+        "published": "2026-09-17T13:05:10+00:00",
+        "published_label": "Thu 17 Sep, 13:05",
+        "summary": "'Bryson Was In The Right Place At The Right Time' - Greg Norman Says LIV Golf To Thank For DeChambeau's Success Golf Monthly",
+        "body": "Bryson DeChambeau's transformation into golf's biggest YouTube crossover star could not have happened without LIV Golf - says former CEO Greg Norman. DeChambeau went from misunderstood mad scientist to crowd favorite by the time he won the 2024 US Open, thanks to a new fan-first attitude and a successful move into YouTube golf.\n\nThe American is now one of the biggest names in YouTube golf with his quirky content and while he's not challenged in Majors recently he's continued to win LIV Golf events. And Norman, the architect behind LIV's launch, believes that DeChambeau could not have achieved all this success without the team-based tour behind him.",
+        "copy": "Bryson DeChambeau's transformation into golf's biggest YouTube crossover star could not have happened without LIV Golf - says former CEO Greg Norman. DeChambeau went from misunderstood mad scientist to crowd favorite by the time he won the 2024 US Open, thanks to a new fan-first attitude and a successful move into YouTube golf.\n\nThe American is now one of the biggest names in YouTube golf with his quirky content and while he's not challenged in Majors recently he's continued to win LIV Golf events. And Norman, the architect behind LIV's launch, believes that DeChambeau could not have achieved all this success without the team-based tour behind him.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6699,100 +6816,22 @@
         "body": "LIV Golf filed for bankruptcy Tuesday, five months after Saudi Arabia's Public Investment Fund announced it would pull its funding of the breakaway circuit that upended the sport.\n\nLIV Golf has found a new investor, BC Partners, who agreed to inject $300 million into the next iteration of the circuit -- what it's calling LIV 2.0 -- in return for equity and stock, and if the company restructures under Chapter 11 bankruptcy.",
         "copy": "LIV Golf filed for bankruptcy Tuesday, five months after Saudi Arabia's Public Investment Fund announced it would pull its funding of the breakaway circuit that upended the sport.\n\nLIV Golf has found a new investor, BC Partners, who agreed to inject $300 million into the next iteration of the circuit -- what it's calling LIV 2.0 -- in return for equity and stock, and if the company restructures under Chapter 11 bankruptcy.",
         "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Revealed: The millions LIV Golf owes Jon Rahm, Bryson DeChambeau and its biggest stars",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHVDbUloVVlwUXROOGdhYng0VlNPdjR2Rm5qNDNpd3l0T0plX2xHcHR5YXZlMVVMNDl4OUdZUmk3TGFiS1VEWGt0aXJVZUIyaEJaZ2JBdVdfSy1vbF9fYnZyQzJlNkRwT3Z6TDdGV1JWTmJKbHdneWxnMzZoZlptaUM1T3loMTVQbUE4VG9KTWI3Q0tpWnNLcThmNnhUVEZxVXh2SUY2VXpqWjV0U28zMEl3RDRncHJxazVOTA?oc=5",
-        "published": "2026-09-10T16:00:47+00:00",
-        "published_label": "Thu 10 Sep, 16:00",
-        "summary": "Revealed: The millions LIV Golf owes Jon Rahm, Bryson DeChambeau and its biggest stars Golfmagic",
-        "body": "LIV Golf's bankruptcy filing has revealed millions of dollars being claimed by some of its biggest stars — although the amounts are not necessarily money the league accepts it owes.\n\nThe Saudi-backed circuit and related entities voluntarily filed for Chapter 11 bankruptcy protection in New Jersey on Tuesday, with court records showing assets of between $100m and $500m against liabilities of $500m to $1bn.",
-        "copy": "LIV Golf's bankruptcy filing has revealed millions of dollars being claimed by some of its biggest stars — although the amounts are not necessarily money the league accepts it owes.\n\nThe Saudi-backed circuit and related entities voluntarily filed for Chapter 11 bankruptcy protection in New Jersey on Tuesday, with court records showing assets of between $100m and $500m against liabilities of $500m to $1bn.",
-        "first_seen": "2026-09-10T18:58:50.584532+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Hull & Woad to face Korda & Corpuz in Solheim opener",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-10T15:41:14+00:00",
-        "published_label": "Thu 10 Sep, 15:41",
-        "summary": "Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.",
-        "body": "Europe's Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands. While English pair Woad and Hull are seventh and eighth in the rankings, the American duo have won all four of their foursomes matches across the past two editions of the contest.\n\nThat included a victory over Hull and Esther Henseleit in the first match of the 2024 edition. \"Charley and Lottie, they've got to play [together] quite a bit on tour this year, so I think they were both very excited to be paired with each other,\" said Europe's captain Anna Nordqvist.",
-        "copy": "Europe's Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands. While English pair Woad and Hull are seventh and eighth in the rankings, the American duo have won all four of their foursomes matches across the past two editions of the contest.\n\nThat included a victory over Hull and Esther Henseleit in the first match of the 2024 edition. \"Charley and Lottie, they've got to play [together] quite a bit on tour this year, so I think they were both very excited to be paired with each other,\" said Europe's captain Anna Nordqvist.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Solheim Cup Friday pairings, matches, tee times, TV schedule",
-        "link": "https://golf.com/news/solheim-cup-friday-pairings-tee-times-tv-2026/",
-        "published": "2026-09-10T15:00:03+00:00",
-        "published_label": "Thu 10 Sep, 15:00",
-        "summary": "The 2026 Solheim Cup starts Friday in the Netherlands. Here are the pairings for the morning foursomes matches and info on how to watch. The post 2026 Solheim Cup Friday pairings, matches, tee times, TV schedule appeared first on Golf .",
-        "body": "Two years after Team USA defeated Team Europe in Virginia to reclaim the Solheim Cup, the biennial team event returns this week at Bernardus Golf course in the Netherlands. Leading the Americans when play starts Friday will be world No. 1 Nelly Korda, while the Europeans will be fronted by Lottie Woad and Charley Hull.\n\nStarting things on Friday morning at Bernardus will be the foursomes match of Korda and partner Allisen Corpuz squaring off against the duo of Woad and Hull. You want a reason to get up early (or stay up late)? Here’s your excuse. The first match of this year’s Solheim Cup should be a banger.",
-        "copy": "Two years after Team USA defeated Team Europe in Virginia to reclaim the Solheim Cup, the biennial team event returns this week at Bernardus Golf course in the Netherlands. Leading the Americans when play starts Friday will be world No. 1 Nelly Korda, while the Europeans will be fronted by Lottie Woad and Charley Hull.\n\nStarting things on Friday morning at Bernardus will be the foursomes match of Korda and partner Allisen Corpuz squaring off against the duo of Woad and Hull. You want a reason to get up early (or stay up late)? Here’s your excuse. The first match of this year’s Solheim Cup should be a banger.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "The decline of LIV Golf: From April’s shocking funding loss to September’s bankruptcy",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3JvSmlYOC1rVlVOOUdVbXg4QU9PVnhrYkhKeE9tcjQ0VVpYekc1V1dnSHd3ZVlqazdRZjlqT1ZuMzhmWmlaeTlnR2Y5X0tnLU1hdUJubV9UZUU3azRnbVROQWtwamNiX1J3SHl1ekhkdE9Bci1yTUNDZUhHTkstV0x0WTBieWk3?oc=5",
-        "published": "2026-09-10T14:17:08+00:00",
-        "published_label": "Thu 10 Sep, 14:17",
-        "summary": "The decline of LIV Golf: From April’s shocking funding loss to September’s bankruptcy The New York Times",
-        "body": "One of professional golf’s more turbulent eras reached a new milestone on Tuesday, when LIV Golf filed for bankruptcy and announced plans to restructure ahead of its 2027 season.\n\nLIV’s decision comes after four years of battles across links, courtrooms and financial filings over how the Saudi-backed upstart could function in a sport long dominated by the PGA Tour. But speculation about the promotion’s financial health dates to its first emergence, and despite the public optimism of LIV officials, its future remains unclear.",
-        "copy": "One of professional golf’s more turbulent eras reached a new milestone on Tuesday, when LIV Golf filed for bankruptcy and announced plans to restructure ahead of its 2027 season.\n\nLIV’s decision comes after four years of battles across links, courtrooms and financial filings over how the Saudi-backed upstart could function in a sport long dominated by the PGA Tour. But speculation about the promotion’s financial health dates to its first emergence, and despite the public optimism of LIV officials, its future remains unclear.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf’s future now hinges on these players after huge revelation",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVDl5UkpjaWstb2hlbi1vMHRPYkpyQkNaam1vUU5rQ2dLZllNb3ZLeVZQZXpyNHdBRVlNNXpiTHlaWHBhZTZ4eUwyVmw3dVZwaHE2a1N5djlXUWZvMmo3S2V1VWtxdWNubXN2TTBMb2hnX2RndWFYUGZySGNUaG1nQmw4emdUNFQw?oc=5",
-        "published": "2026-09-10T13:48:08+00:00",
-        "published_label": "Thu 10 Sep, 13:48",
-        "summary": "LIV Golf’s future now hinges on these players after huge revelation Today's Golfer",
-        "body": "The crux of LIV Golf’s survival battle lies deep within a trove of bankruptcy documents that have exposed detailed revelations about the league’s business dealings. LIV filed for a Chapter 11 petition on Tuesday, which officials say is to “preserve the company’s business” in an attempt to restructure following the decision by Saudi Arabia’s Public Investment Fund to stop financing the breakaway tour.\n\nAnd the beleaguered league’s future now hinges on a deal with BC Partners, the private equity firm with which a term sheet has been signed for a potential $300million in total financing.",
-        "copy": "The crux of LIV Golf’s survival battle lies deep within a trove of bankruptcy documents that have exposed detailed revelations about the league’s business dealings. LIV filed for a Chapter 11 petition on Tuesday, which officials say is to “preserve the company’s business” in an attempt to restructure following the decision by Saudi Arabia’s Public Investment Fund to stop financing the breakaway tour.\n\nAnd the beleaguered league’s future now hinges on a deal with BC Partners, the private equity firm with which a term sheet has been signed for a potential $300million in total financing.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "The sneaky way Tiger Woods used huge galleries to his advantage",
-        "link": "https://golf.com/news/jonge-tiger-woods-crowd-advantage/",
-        "published": "2026-09-10T13:05:45+00:00",
-        "published_label": "Thu 10 Sep, 13:05",
-        "summary": "PGA Tour veteran Brendon de Jonge joined GOLF's Subpar podcast to discuss the Presidents Cup, playing alongside Tiger Woods and more. The post The sneaky way Tiger Woods used huge galleries to his advantage appeared first on Golf .",
-        "body": "Nearly every golfer who has played alongside Tiger Woods can remember what that commotion felt like. Fans everywhere. Constant yelling and screaming for Woods’ attention. It can be a lot.\n\nPGA Tour veteran Brendon de Jonge, now 46, remembers it well. De Jonge joined this week’s Subpar podcast to discuss the upcoming Presidents Cup (he was a former member of the International squad) and also reminisced about playing alongside Woods.",
-        "copy": "Nearly every golfer who has played alongside Tiger Woods can remember what that commotion felt like. Fans everywhere. Constant yelling and screaming for Woods’ attention. It can be a lot.\n\nPGA Tour veteran Brendon de Jonge, now 46, remembers it well. De Jonge joined this week’s Subpar podcast to discuss the upcoming Presidents Cup (he was a former member of the International squad) and also reminisced about playing alongside Woods.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Mizuno adds to M.Craft X line with new zero-torque neck putter",
-        "link": "https://golf.com/gear/putters/mizuno-mcraft-xline-new-zero-torque-neck-putter/",
-        "published": "2026-09-10T13:02:15+00:00",
-        "published_label": "Thu 10 Sep, 13:02",
-        "summary": "Mizuno is expanding its modular M.Craft X putter line with a new zero-torque neck option as well as two new head shapes. The post Mizuno adds to M.Craft X line with new zero-torque neck putter appeared first on Golf .",
-        "body": "Mizuno’s new putter doesn’t look low-torque, and it doesn’t balance like a typical one either. The newest neck option to the modular Mizuno M.Craft X putter line, the M.Craft X Z, orients the shaft directly through the CG of the putter, ensuring the putter balances exactly where you hold it instead of wanting to return to toe-up. This creates what the company calls a truly zero-torque design.\n\n“This was all about putting zero bias in it,” Mizuno director of golf Chris Voshall told GOLF. “So our goal on all of these is to fire the shaft axis directly through the CG. So a little bit different than the lie angle balanced or the square-to-square, like how they’re executing on a zero-torque or a low-torque design. So we call it infinite toe hang. It’ll hang wherever you put it.",
-        "copy": "Mizuno’s new putter doesn’t look low-torque, and it doesn’t balance like a typical one either. The newest neck option to the modular Mizuno M.Craft X putter line, the M.Craft X Z, orients the shaft directly through the CG of the putter, ensuring the putter balances exactly where you hold it instead of wanting to return to toe-up. This creates what the company calls a truly zero-torque design.\n\n“This was all about putting zero bias in it,” Mizuno director of golf Chris Voshall told GOLF. “So our goal on all of these is to fire the shaft axis directly through the CG. So a little bit different than the lie angle balanced or the square-to-square, like how they’re executing on a zero-torque or a low-torque design. So we call it infinite toe hang. It’ll hang wherever you put it.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Closed Tournaments (Grade 4) Sanction Application – Reminder",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUk3ZkdaZGVDem5wbDlRdXVvOVctSmNvVXJTZDJMV1ZyMXNpX2dXTVRPdDExOUdkaXRTXzVjb043a2xUSnZaNkhkUWZlUVNkNFFvd3h6c2tHOGw5YVBzU1lrOEtFOHNBV1YyZUplVjgxRFRTYzZPSzd4VExUVUhfaGxaVF9ld0hvOG10VVUxTjltSHlxQ3FUWDF5T3puT19mLWZiZlJpNkJTMXBSWTk2SkkzeXhDUQ?oc=5",
+        "published": "2026-09-17T08:02:34+00:00",
+        "published_label": "Thu 17 Sep, 08:02",
+        "summary": "Closed Tournaments (Grade 4) Sanction Application – Reminder BWF Corporate",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -6805,6 +6844,19 @@
         "body": "August was a good month for the conservation of badminton heritage, with two museums opening in Europe just a day apart – one in Germany, the other in Denmark. Quite significantly, they are the first badminton museums in either country.\n\nBadminton Museum Bonn, located in the premises of Badminton Club Beuel (Germany’s biggest club), showcases the personal collection of former players and history enthusiasts Helga and Roland Maywald, and opened on 29 August. While most badminton museums celebrate the competition aspect of the sport (players, tournaments), the Maywalds’ collection is devoted to preserving badminton’s presence in the everyday lives of people over the past few centuries, through historical artefacts such as porcelain figurines, postcards, paintings, etc.",
         "copy": "August was a good month for the conservation of badminton heritage, with two museums opening in Europe just a day apart – one in Germany, the other in Denmark. Quite significantly, they are the first badminton museums in either country.\n\nBadminton Museum Bonn, located in the premises of Badminton Club Beuel (Germany’s biggest club), showcases the personal collection of former players and history enthusiasts Helga and Roland Maywald, and opened on 29 August. While most badminton museums celebrate the competition aspect of the sport (players, tournaments), the Maywalds’ collection is devoted to preserving badminton’s presence in the everyday lives of people over the past few centuries, through historical artefacts such as porcelain figurines, postcards, paintings, etc.",
         "first_seen": "2026-09-17T10:56:10.901694+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "BWF:ASX Announcement - Update - Notification of buy-back - BWF - 16 Sep 2026",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFlybkZWcElfaTIzNWRTQVlXUjZ4MmNCUkdRZTZ2UXl3OUhjVEllU1hjSnRSaU1yS19CbzdPczFVU3ZVOTlWY0lFa3BJSDZMbkZOeEFLd0RlQWNwdUIxc1g2NDNzZkR3WkE1emlRUXRuWGNRUWJWOVItRi1OaFpVNndNZk11OXBmNW5GTm5ENUpOWXVYQ09uLTJYNHRMY0E?oc=5",
+        "published": "2026-09-16T21:08:32+00:00",
+        "published_label": "Wed 16 Sep, 21:08",
+        "summary": "BWF:ASX Announcement - Update - Notification of buy-back - BWF - 16 Sep 2026 Market Index",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-17T16:11:44.908918+00:00"
       },
       {
         "section": "Badminton",
@@ -7132,21 +7184,8 @@
         "body": "Sports Business Journal reported Turkish Airlines agreed a five-year, roughly $405 million deal (about $81 million a year) to become Liverpool's main shirt sponsor starting in the 2027-28 season, replacing Standard Chartered. The same week, SportBusiness reported Infront sold its 60% stake in Hyrox to a consortium led by L Catterton at a valuation of about €600 million, and SportBusiness Sponsorship reported Newcastle United is projected to earn more than £70 million a year from its main sponsorship inventory by 2027-28.\n\nThis story was produced through MarketScale. See how Sports & Entertainment teams put it to work with Events & Onsite Capture. Sports Business Journal reported on September 8, 2026, that Turkish Airlines has agreed a five-year deal worth about $405 million in total, or roughly $81 million a year, to become Liverpool's main shirt sponsor. SportBusiness reported the airline will take over the front-of-shirt position from Standard Chartered at the conclusion of the 2026-27 season, with the new arrangement beginning in 2027-28.",
         "copy": "Sports Business Journal reported Turkish Airlines agreed a five-year, roughly $405 million deal (about $81 million a year) to become Liverpool's main shirt sponsor starting in the 2027-28 season, replacing Standard Chartered. The same week, SportBusiness reported Infront sold its 60% stake in Hyrox to a consortium led by L Catterton at a valuation of about €600 million, and SportBusiness Sponsorship reported Newcastle United is projected to earn more than £70 million a year from its main sponsorship inventory by 2027-28.\n\nThis story was produced through MarketScale. See how Sports & Entertainment teams put it to work with Events & Onsite Capture. Sports Business Journal reported on September 8, 2026, that Turkish Airlines has agreed a five-year deal worth about $405 million in total, or roughly $81 million a year, to become Liverpool's main shirt sponsor. SportBusiness reported the airline will take over the front-of-shirt position from Standard Chartered at the conclusion of the 2026-27 season, with the new arrangement beginning in 2027-28.",
         "first_seen": "2026-09-11T10:35:34.663451+00:00"
-      },
-      {
-        "section": "Competitor News",
-        "source": "Google News",
-        "kind": "gnews",
-        "title": "Standard Chartered to continue Liverpool FC partnership as Global Partner from the 2027/28 season",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRmZIcm10WWltOGk4RWVQRUI3SXNfb3E0cVJjQjBySlY0WDNJTjRheGhaUGM0TnFMR1A0V0dZTEFSbkdURTNkQnVtYVJabW1wMEthODBLX2dwSmdCSUp5eg?oc=5",
-        "published": "2026-09-10T14:31:21+00:00",
-        "published_label": "Thu 10 Sep, 14:31",
-        "summary": "Standard Chartered to continue Liverpool FC partnership as Global Partner from the 2027/28 season WebWire",
-        "body": "After 17 years as Liverpool FC’s Main Club Partner, Standard Chartered will continue its long-standing relationship as Global Partner. Standard Chartered confirmed a continuation of its partnership with Liverpool Football Club and will become a Global Partner to the Club from the start of the 2027/28 season.\n\nStandard Chartered has acted as Liverpool FC’s Main Club Partner since 2010 and will remain in this position – and on the front of the men’s, women’s and Academy match shirts – throughout the 2026/27 season, before transitioning to become a Global Partner in June 2027, continuing one of the longest-standing partnerships in world football.",
-        "copy": "After 17 years as Liverpool FC’s Main Club Partner, Standard Chartered will continue its long-standing relationship as Global Partner. Standard Chartered confirmed a continuation of its partnership with Liverpool Football Club and will become a Global Partner to the Club from the start of the 2027/28 season.\n\nStandard Chartered has acted as Liverpool FC’s Main Club Partner since 2010 and will remain in this position – and on the front of the men’s, women’s and Academy match shirts – throughout the 2026/27 season, before transitioning to become a Global Partner in June 2027, continuing one of the longest-standing partnerships in world football.",
-        "first_seen": "2026-09-10T15:49:32.573691+00:00"
       }
     ]
   },
-  "total": 548
+  "total": 551
 }
