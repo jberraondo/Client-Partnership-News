@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T12:20:08.688332+00:00",
-  "generated_label": "Friday 18 September 2026, 12:20 UTC",
+  "generated_at": "2026-09-18T15:47:31.173399+00:00",
+  "generated_label": "Friday 18 September 2026, 15:47 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,45 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "EHF receives interest from 11 countries to stage 2034 Euros",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlV5dDBaVXA0dGdYMHRzcFZESEExdjNWSzBsQUI3WG00blJBaUt2RXZ2bzF6YXh1Y0s5aWVYdjVGRVdycEYzVkVHZnZIVU1mSGE4ZWtxc3FZUlQ3RTNwdzdvakZ0c1JyX3dKWUtMRUFOQ2gtSDF1SXZuZlZjZkthN2djOElpSW9sVVBaclduYkNJeG9p?oc=5",
+        "published": "2026-09-18T14:51:35+00:00",
+        "published_label": "Fri 18 Sep, 14:51",
+        "summary": "EHF receives interest from 11 countries to stage 2034 Euros Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Turkey moves to liquidate funds at centre of ‘Ponzi-like scheme’",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUhKaVZiM25wTFpOaVNpdUNQZ3FYaGgwczNRX1FLcThFSHRVOVNqTVVZcjdoRzJHV29oc09xTkZyWEE3SmtnbXVMckhzQTctT0lTTHdyNVRZY1J6MC10eFpkb2YzSnhSRFdwSTJKVUg1bUs0TldrTllIZG0ybks5elFYUnU?oc=5",
+        "published": "2026-09-18T12:38:04+00:00",
+        "published_label": "Fri 18 Sep, 12:38",
+        "summary": "Turkey moves to liquidate funds at centre of ‘Ponzi-like scheme’ Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Swiss sports brand On signs Kylian Mbappé in blow to Nike",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0xhSTlOcFBlVTk5Mm9Va1NlQ1NURDdrTUs2V0JqSzBnRUhYWGZDTDZRTVVMR0xtYldhTnRrbnBaRFFTZXdZcUpGSzYxUnBiQkxqbTdKTmVwQzBDQmgzU0xBTkNJbjdDbnVXamsyS29MRVpKT3V3SnJKT0d4SVFha3Zyd1I?oc=5",
+        "published": "2026-09-18T12:00:12+00:00",
+        "published_label": "Fri 18 Sep, 12:00",
+        "summary": "Swiss sports brand On signs Kylian Mbappé in blow to Nike Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -144,6 +183,19 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "‘Digitisation is the new asset class’: Genius Sports CEO on how media fragmentation is transforming sport’s monetisation model",
+        "link": "https://www.sportspro.com/features/technology/genius-sports-mark-locke-ceo-legend-takeover-shares-interview/",
+        "published": "2026-09-17T23:00:00+00:00",
+        "published_label": "Thu 17 Sep, 23:00",
+        "summary": "In an exclusive interview, Mark Locke explains why the company is uniquely placed to handle this transition and how the US$1.2bn Legend acquisition forms part of its ambition to create an operating system for the industry. The post ‘Digitisation is the new asset class’: Genius Sports CEO on how media fragmentation is transforming sport’s monetisation model appeared first on SportsPro .",
+        "body": "When Genius Sports was founded in 2001 the dotcom crash was in full swing, betting was still predominantly an analogue activity done in high street shops, and the use of data within sport was a niche activity pursued exclusively by enthusiasts and outsiders.\n\nThe digitisation of sport and society over the subsequent quarter of a century has transformed everything. Data analytics are present in virtually every sporting activity and technology is a key driver of growth and efficiency in the professional arena.",
+        "copy": "When Genius Sports was founded in 2001 the dotcom crash was in full swing, betting was still predominantly an analogue activity done in high street shops, and the use of data within sport was a niche activity pursued exclusively by enthusiasts and outsiders.\n\nThe digitisation of sport and society over the subsequent quarter of a century has transformed everything. Data analytics are present in virtually every sporting activity and technology is a key driver of growth and efficiency in the professional arena.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
         "title": "FirstFT: Merz fights for survival",
@@ -219,6 +271,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-18T10:31:54.878911+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "BKT and United Rugby Championship expand with broader global partnership",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDlOeE5PWGNFcmRwQWNfM0JZVm1LWmlYQkRPWWRlajZDYWlfWXdPVWI5TE1TYzJPalpZeG1OaThfaEpLZ3NGNjVyMHRQb1JMMDgtaW80Z1BURWtvNEFjdlpNYUUtN1FGcGpvM1NUYjJ0OGJxdWlLT09UUzg5Q1ROQUZIYkxib0ZCbFM1d3FhT2VHTzBQNGFFU2xDV2ZJTHY1QzZRcU9n?oc=5",
+        "published": "2026-09-17T12:29:03+00:00",
+        "published_label": "Thu 17 Sep, 12:29",
+        "summary": "BKT and United Rugby Championship expand with broader global partnership Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1649,87 +1714,61 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-11T19:00:39.824492+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "Genius Sports, NBA All-Star Chris Paul and Words + Pictures launch new athlete-led sports media company",
-        "link": "https://www.sportspro.com/announcements/sponsorship-marketing/genius-sports-chris-paul-and-words-pictures-launch-new-athlete-led-sports-media-company/",
-        "published": "2026-09-11T15:26:13+00:00",
-        "published_label": "Fri 11 Sep, 15:26",
-        "summary": "Joint venture with Paul’s Ohh Dip!!! Entertainment and Connor Schell’s Words + Pictures will create original programming led by Chris Paul and other athletes and creators, powered by Genius Sports’ data and technology. The post Genius Sports, NBA All-Star Chris Paul and Words + Pictures launch new athlete-led sports media company appeared first on SportsPro .",
-        "body": "Genius Sports, a global leader in sports data and technology, and NBA All-Star and entrepreneur Chris Paul have announced the launch of a new athlete-led sports media company created in partnership with Paul’s Ohh Dip!!! Entertainment and Connor Schell’s Words + Pictures.\n\nThe new company will develop original sports programming and content franchises built around the perspectives of athletes and creators, combining their access and expertise with Genius Sports’ official data, AI and technology. Its first programming will be hosted by Chris Paul, giving fans a new way to see, understand and experience the game through the perspective of one of basketball’s most accomplished players.",
-        "copy": "Genius Sports, a global leader in sports data and technology, and NBA All-Star and entrepreneur Chris Paul have announced the launch of a new athlete-led sports media company created in partnership with Paul’s Ohh Dip!!! Entertainment and Connor Schell’s Words + Pictures.\n\nThe new company will develop original sports programming and content franchises built around the perspectives of athletes and creators, combining their access and expertise with Genius Sports’ official data, AI and technology. Its first programming will be hosted by Chris Paul, giving fans a new way to see, understand and experience the game through the perspective of one of basketball’s most accomplished players.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Report: Clearlake buyout of Boehly and Walter looms at Chelsea",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFNMd1BBSTVyLXJSa3JxZkZSVWU5eVVUd0cyckZVQ21ZSHdhM0VWRXRfdFliRHRHUDdzeVlzdFZ1ai1BY0lYQjYweFV0V0Q0aG5kVTlObEZQZHlJV3JjZTFua3JhSXozWFc1di1IVVdPWEFsZ3BhV0h3SjZRb1NjM1Z2STRDOWc4eHRIc2pNMmo3R3BCNFFV?oc=5",
-        "published": "2026-09-11T15:20:55+00:00",
-        "published_label": "Fri 11 Sep, 15:20",
-        "summary": "Report: Clearlake buyout of Boehly and Walter looms at Chelsea Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Sunderland Shuffle into sleeve deal, Newcastle extend with LeoVegas",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHFHRHRSWkxYOVYtTy15eXdkNEVtMjhhOFBJdGxyVXpTd3dBLXRpRE9pS0JhVE5LODJjalUwSTJKNGtLVGgydk1QYWZ4em9xQmoyY2JjTzlXaDN3VUhlc1Y4ZkRMQzJVbVlBc3lMVUNId1ZXNkRhR2RqZEc3ZFE0Z1pOZkF6RnVDdUtCdFkxeEJ1cnVjUXdwcGR4emljOUZaMUNMRU91bw?oc=5",
-        "published": "2026-09-11T13:54:28+00:00",
-        "published_label": "Fri 11 Sep, 13:54",
-        "summary": "Sunderland Shuffle into sleeve deal, Newcastle extend with LeoVegas Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-12T10:03:33.480172+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Sunderland Shuffle into sleeve deal, Newcastle extend with LeoVegas",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanltY1dITFRKZTlOTWlZTW0xeTg5YlZJVDRhZWM0NzNuQlIyM2RvcUc3ZVI2LTVIOEJGYmhhTEptcTVTUGZuYU9BX1ljRm53QU1XcXdCVVZFYy1wQlBOcm1PMXFPTUxodjdMZmdoUFBzM3lXeExzSjhLMXhqTXREU2ZOVTlWSUh3cEZPNmMzOXdRWlVfdEMtOWZ5M2Ztdw?oc=5",
-        "published": "2026-09-11T13:52:51+00:00",
-        "published_label": "Fri 11 Sep, 13:52",
-        "summary": "Sunderland Shuffle into sleeve deal, Newcastle extend with LeoVegas Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Grizzlies join DAZN in latest local multi-year rights tie-up",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR0d3NENsNjBhdDYySlc4ZW1qekNheVJhMWw2Mjdua3RaUWIyQTRsMDRBSEtER05PYUlEaTREb3JBS2xRVWVHREdtRHYwTTZObzRWaVB1TjlFd2tuZVVWWkhGNDVlcDBqLThNdzVNMHhQbjF4b2tIaHZvY0VEUGVuTWxDQkJUazktaWRaTzJvT2E2VUNURXc?oc=5",
-        "published": "2026-09-11T13:22:49+00:00",
-        "published_label": "Fri 11 Sep, 13:22",
-        "summary": "Grizzlies join DAZN in latest local multi-year rights tie-up Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "NFL commissioner Goodell says league could restructure media deals to attract streamers",
-        "link": "https://www.sportspro.com/news/broadcast-ott/nfl-us-tv-rights-streaming-fox-nbc-espn-netflix-september-2026/",
-        "published": "2026-09-11T12:59:15+00:00",
-        "published_label": "Fri 11 Sep, 12:59",
-        "summary": "American football league believes streaming services can improve accessibility and drive revenue growth despite possible political opposition. The post NFL commissioner Goodell says league could restructure media deals to attract streamers appeared first on SportsPro .",
-        "body": "The National League Football (NFL) could restructure its media packages to reflect the rise of streaming platforms when it next goes to market. Commissioner Roger Goodell told CNBC that the league was considering adjusting its approach to reflect changing consumption habits in order to maximise both revenues and accessibility but would not be drawn on whether any changes would come into effect for the next cycle.\n\n“One of the things we’re doing as a league is talking to our partners, talking to future partners, potential partners … and evaluating, should we repackage our current packages? Should we think differently about where we go with those things?” Goodell is quoted as saying.",
-        "copy": "The National League Football (NFL) could restructure its media packages to reflect the rise of streaming platforms when it next goes to market. Commissioner Roger Goodell told CNBC that the league was considering adjusting its approach to reflect changing consumption habits in order to maximise both revenues and accessibility but would not be drawn on whether any changes would come into effect for the next cycle.\n\n“One of the things we’re doing as a league is talking to our partners, talking to future partners, potential partners … and evaluating, should we repackage our current packages? Should we think differently about where we go with those things?” Goodell is quoted as saying.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Canada keen to develop 'important relationship' with PWR clubs",
+        "link": "https://www.rugbypass.com/news/canada-keen-to-develop-important-relationship-with-pwr-clubs/",
+        "published": "2026-09-18T14:59:34+00:00",
+        "published_label": "Fri 18 Sep, 14:59",
+        "summary": "Canada head coach Kévin Rouet has revealed his ambition to strengthen links between the national team and Premiership Women's Rugby clubs.",
+        "body": "Canada head coach Kévin Rouet has revealed his ambition to strengthen links between the national team and Premiership Women’s Rugby clubs. Ahead of Canada’s WXV Global Series-opening win against Scotland in Edinburgh, the squad were joined by Trailfinders Women coach Barney Maddison in camp.\n\nThe 37-year-old – who coached the West London club to the PWR final last season – joined the squad as a guest coach ahead of Canada’s 64-26 win at Hive Stadium. Rouet already has Saracens director of women’s rugby Alex Austerberry and Loughborough Lightning head coach Nathan Smith as part of his Canada coaching set-up.",
+        "copy": "Canada head coach Kévin Rouet has revealed his ambition to strengthen links between the national team and Premiership Women’s Rugby clubs. Ahead of Canada’s WXV Global Series-opening win against Scotland in Edinburgh, the squad were joined by Trailfinders Women coach Barney Maddison in camp.\n\nThe 37-year-old – who coached the West London club to the PWR final last season – joined the squad as a guest coach ahead of Canada’s 64-26 win at Hive Stadium. Rouet already has Saracens director of women’s rugby Alex Austerberry and Loughborough Lightning head coach Nathan Smith as part of his Canada coaching set-up.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "2026 WXV Global Series preview: Ireland",
+        "link": "https://www.rugbypass.com/news/2026-wxv-global-series-preview-ireland/",
+        "published": "2026-09-18T14:00:47+00:00",
+        "published_label": "Fri 18 Sep, 14:00",
+        "summary": "Largely as expected, Ireland were dominant at times against Italy, Wales and Scotland during the 2026 Guinness Women's Six Nations.",
+        "body": "Largely as expected, Ireland were dominant at times against Italy, Wales and Scotland during the 2026 Guinness Women’s Six Nations. They threw enough punches when losing to France and England to suggest that they are on a path that may well lead to being properly competitive against those nations in the years to come.\n\nThe Scotland game was a fantastic way for Ireland to end their Women’s Six Nations campaign, playing arguably the best attacking rugby of the Scott Bemand era in front of a record crowd at the Aviva Stadium.",
+        "copy": "Largely as expected, Ireland were dominant at times against Italy, Wales and Scotland during the 2026 Guinness Women’s Six Nations. They threw enough punches when losing to France and England to suggest that they are on a path that may well lead to being properly competitive against those nations in the years to come.\n\nThe Scotland game was a fantastic way for Ireland to end their Women’s Six Nations campaign, playing arguably the best attacking rugby of the Scott Bemand era in front of a record crowd at the Aviva Stadium.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Rugby's Greatest Rivalry finale lays foundation for new era for rugby in America before RWC",
+        "link": "https://www.rugbypass.com/plus/rugbys-greatest-rivalry-lays-the-foundation-for-a-new-era-of-rugby-in-america/",
+        "published": "2026-09-18T13:01:49+00:00",
+        "published_label": "Fri 18 Sep, 13:01",
+        "summary": "Five years out from RWC 2031, the final Test between New Zealand and South Africa helped win hearts and minds among the US audience.",
+        "body": "“The USA is at the heart of World Rugby’s new strategic plan.” Word from World Rugby Chair Brett Robinson, who briefed a small group of journalists gathered in the Trust lounge at the Baltimore Ravens M&T Bank Stadium, ahead of the final Test match in Rugby’s Greatest Rivalry series.\n\n“Our ambition for 2031,” Robinson continued, “is to ensure that the Rugby World Cup here in the US is the best we’ve ever delivered. Because it’s so important for our game to grow and fuel the sport.”",
+        "copy": "“The USA is at the heart of World Rugby’s new strategic plan.” Word from World Rugby Chair Brett Robinson, who briefed a small group of journalists gathered in the Trust lounge at the Baltimore Ravens M&T Bank Stadium, ahead of the final Test match in Rugby’s Greatest Rivalry series.\n\n“Our ambition for 2031,” Robinson continued, “is to ensure that the Rugby World Cup here in the US is the best we’ve ever delivered. Because it’s so important for our game to grow and fuel the sport.”",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Every single World Rugby rankings permutations that can happen this weekend",
+        "link": "https://www.rugbypass.com/news/every-single-world-rugby-rankings-permutations-that-can-happen-this-weekend/",
+        "published": "2026-09-18T13:00:58+00:00",
+        "published_label": "Fri 18 Sep, 13:00",
+        "summary": "Kévin Rouet's Canada can reclaim second in the World Rugby rankings if they end England's 39-match winning run in Exeter.",
+        "body": "Kévin Rouet’s Canada can reclaim second in the World Rugby rankings if they end England’s 39-match winning run in Exeter. The second weekend of WXV Global Series action sees a repeat of the Women’s Rugby World Cup 2025 final take place at Sandy Park. The North Americans will retake second from the Black Ferns, who would also have to lose to Scotland in this scenario.\n\nJohn Mitchell’s England can improve their rating for the first time this year with a victory of 15 points or more against Canada. A win by that margin will see the world champions improve by a maximum of 0.25. It will be the highest any England team has ever been rated should their overall rating reach 98.34.",
+        "copy": "Kévin Rouet’s Canada can reclaim second in the World Rugby rankings if they end England’s 39-match winning run in Exeter. The second weekend of WXV Global Series action sees a repeat of the Women’s Rugby World Cup 2025 final take place at Sandy Park. The North Americans will retake second from the Black Ferns, who would also have to lose to Scotland in this scenario.\n\nJohn Mitchell’s England can improve their rating for the first time this year with a victory of 15 points or more against Canada. A win by that margin will see the world champions improve by a maximum of 0.25. It will be the highest any England team has ever been rated should their overall rating reach 98.34.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -1742,6 +1781,19 @@
         "body": "Scotland and Lions star Finn Russell has been named as Bath’s starting fly-half in their final pre-season friendly against his former club Glasgow Warriors at Old Anniesland tonight (Friday).\n\nRussell has been rested up until now, missing the friendly games against Perpignan and Bedford Blues and the PREM Rugby Cup defeat to Sale Sharks. But Bath have brought him back in to pull the strings at 10 against URC powerhouses Glasgow, with the start of the Gallagher PREM season only a week away.",
         "copy": "Scotland and Lions star Finn Russell has been named as Bath’s starting fly-half in their final pre-season friendly against his former club Glasgow Warriors at Old Anniesland tonight (Friday).\n\nRussell has been rested up until now, missing the friendly games against Perpignan and Bedford Blues and the PREM Rugby Cup defeat to Sale Sharks. But Bath have brought him back in to pull the strings at 10 against URC powerhouses Glasgow, with the start of the Gallagher PREM season only a week away.",
         "first_seen": "2026-09-18T12:20:08.688332+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Rachel Cullum helps Canada to FISU Rugby Sevens Championship",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0Utc1loWjhNd1dCQ0FZd3JZSnpDaFVvVWZ2S2NwMkRMdmdFZUN5cnVWYk5GZ1hVWEQ2bnlNQWdtUEZKNVVxVlhoR1ZTQUU0a0FvbzlHQjNOb25VWXU5UWVpUGY5eEh1eWl5Nk1icnFoYm10Ykd2Sk1OMk1tT21aTFQ0VWZ4Sjlzd2xlOEhxLTJlN19I?oc=5",
+        "published": "2026-09-18T11:53:28+00:00",
+        "published_label": "Fri 18 Sep, 11:53",
+        "summary": "Rachel Cullum helps Canada to FISU Rugby Sevens Championship The Queen's Journal",
+        "body": "Another Gael has shone on the international rugby stage. From Sept. 4 to Sept. 6, Rachel Cullum, ArtSci ’27, helped Canada win the International University Sports Federation (FISU) Women’s Rugby Sevens Championship in South Africa. FISU is an organization in which national teams comprised of all the top university athletes compete against each other.\n\nThe Journal sat down with Cullum to talk about winning the championship, as well as her time in South Africa. The team arrived a week early in South Africa to train at the Stellenbosch Academy of Sport training facility, which Cullum believes allowed the team to “connect as a group” and gain an advantage over the other teams who “flew right into the competition.”",
+        "copy": "Another Gael has shone on the international rugby stage. From Sept. 4 to Sept. 6, Rachel Cullum, ArtSci ’27, helped Canada win the International University Sports Federation (FISU) Women’s Rugby Sevens Championship in South Africa. FISU is an organization in which national teams comprised of all the top university athletes compete against each other.\n\nThe Journal sat down with Cullum to talk about winning the championship, as well as her time in South Africa. The team arrived a week early in South Africa to train at the Stellenbosch Academy of Sport training facility, which Cullum believes allowed the team to “connect as a group” and gain an advantage over the other teams who “flew right into the competition.”",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
       },
       {
         "section": "Rugby",
@@ -4121,74 +4173,35 @@
         "body": "Sean Lynn’s Wales have suffered a triple injury blow ahead of their WXV Global Series campaign starting. One week before they take on South Africa at Cardiff Arms Park, 42-cap prop Donna Rose [ankle], as well as Kelsie Webster [hand] and Hanna Tudor [foot] have all been ruled out of their four fixtures.\n\nIn the coming weeks, Wales will also play the USA Women’s Eagles prior to a two-match tour of Japan. The 13th-ranked team in the world are aiming to end their one-year spell without a win, which dates back to July 2025.",
         "copy": "Sean Lynn’s Wales have suffered a triple injury blow ahead of their WXV Global Series campaign starting. One week before they take on South Africa at Cardiff Arms Park, 42-cap prop Donna Rose [ankle], as well as Kelsie Webster [hand] and Hanna Tudor [foot] have all been ruled out of their four fixtures.\n\nIn the coming weeks, Wales will also play the USA Women’s Eagles prior to a two-match tour of Japan. The 13th-ranked team in the world are aiming to end their one-year spell without a win, which dates back to July 2025.",
         "first_seen": "2026-09-11T19:00:39.824492+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Finn Russell on his future: I won't make the same mistakes as the past",
-        "link": "https://www.rugbypass.com/news/finn-russell-on-his-future-i-wont-make-the-same-mistakes-as-the-past/",
-        "published": "2026-09-11T15:34:18+00:00",
-        "published_label": "Fri 11 Sep, 15:34",
-        "summary": "The mercurial fly-half has a couple of seasons left on his £1 million-year contract at Bath and will be 35 by the time the 2027 World Cup in Australia is over.",
-        "body": "Scotland and Lions star Finn Russell doesn’t want to repeat the mistakes of the past and set parameters around the length of his Test career. The mercurial fly-half has a couple of seasons left on his £1 million-year contract at Bath and will be 35 by the time the 2027 World Cup in Australia is over.\n\nBy then, Russell will have certainly become a caps centurion for Scotland – he is five short of the milestone at present – and could have even overtaken Ross Ford (110 caps) as his country’s record holder for most Test appearances.",
-        "copy": "Scotland and Lions star Finn Russell doesn’t want to repeat the mistakes of the past and set parameters around the length of his Test career. The mercurial fly-half has a couple of seasons left on his £1 million-year contract at Bath and will be 35 by the time the 2027 World Cup in Australia is over.\n\nBy then, Russell will have certainly become a caps centurion for Scotland – he is five short of the milestone at present – and could have even overtaken Ross Ford (110 caps) as his country’s record holder for most Test appearances.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Where can you watch the WXV Global Series in 2026?",
-        "link": "https://www.rugbypass.com/news/where-can-you-watch-the-wxv-global-series-in-2026/",
-        "published": "2026-09-11T15:20:49+00:00",
-        "published_label": "Fri 11 Sep, 15:20",
-        "summary": "This weekend the WXV Global Series and WXV Global Series Challenger will get underway and bringing 18 leading women's international teams into action.",
-        "body": "This weekend, the WXV Global Series and WXV Global Series Challenger will get underway, bringing 18 leading women’s international teams into action. The WXV Global Series sees the world’s top 12 ranked teams – Australia, Canada, England, France, Italy, Ireland, Japan, New Zealand, Scotland, South Africa, USA and Wales – play each other in a home-and-away cross-regional touring model in an eight-week global window.\n\nThe first WXV Global Series Challenger event takes place at Kai Tak Sports Park, where Fiji, Hong Kong China, Netherlands, Samoa, Spain and Brazil will play three matches each.",
-        "copy": "This weekend, the WXV Global Series and WXV Global Series Challenger will get underway, bringing 18 leading women’s international teams into action. The WXV Global Series sees the world’s top 12 ranked teams – Australia, Canada, England, France, Italy, Ireland, Japan, New Zealand, Scotland, South Africa, USA and Wales – play each other in a home-and-away cross-regional touring model in an eight-week global window.\n\nThe first WXV Global Series Challenger event takes place at Kai Tak Sports Park, where Fiji, Hong Kong China, Netherlands, Samoa, Spain and Brazil will play three matches each.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "WXV Global Series: The huge World Rugby ranking changes that can happen this weekend",
-        "link": "https://www.rugbypass.com/news/wxv-global-series-the-huge-world-rugby-ranking-changes-that-can-happen-this-weekend/",
-        "published": "2026-09-11T13:58:05+00:00",
-        "published_label": "Fri 11 Sep, 13:58",
-        "summary": "The World Rugby rankings could look very different after this weekend as the WXV Global Series gets underway.",
-        "body": "The World Rugby rankings could look very different after this weekend as the WXV Global Series gets underway. On Saturday the new-look competition will begin, with the WXV Global Series and WXV Global Series Challenger kick-starting an eight week international window for women’s Test rugby.\n\nShould Whitney Hansen’s Black Ferns lose by 15 points or more against France in Lyon, Canada can move back up to second in the rankings. But only if the North Americans beat Scotland in Edinburgh.",
-        "copy": "The World Rugby rankings could look very different after this weekend as the WXV Global Series gets underway. On Saturday the new-look competition will begin, with the WXV Global Series and WXV Global Series Challenger kick-starting an eight week international window for women’s Test rugby.\n\nShould Whitney Hansen’s Black Ferns lose by 15 points or more against France in Lyon, Canada can move back up to second in the rankings. But only if the North Americans beat Scotland in Edinburgh.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I'm here to compete': Meet Zimbabwe's box-office 'Transporter' who Harlequins signed via Instagram",
-        "link": "https://www.rugbypass.com/plus/im-here-to-compete-meet-zimbabwes-box-office-transporter-who-harlequins-signed-via-instagram/",
-        "published": "2026-09-11T13:16:00+00:00",
-        "published_label": "Fri 11 Sep, 13:16",
-        "summary": "Edward Sigauke is an exhilarating talent, plucked from left field on social media, and determined to seize his golden ticket to the Prem.",
-        "body": "When Ed Spokes, the Harlequins head of recruitment, slid into Edward Sigauke’s DMs, the Zimbabwean hot rod thought the message might be a prank. He was midway through a Nations Cup campaign which took his international record to nine tries in 11 Tests, and burnished his credentials as one of the game’s most spectacular raw talents, but the idea of attracting Gallagher Prem interest still felt fanciful.\n\nTwo months later, the 22-year-old wing sits in a Guildford apartment; Quins kitbag in the corner of his room, play sheet on his laptop, and head somewhat spinning after a sense-scrambling move to Southwest London.",
-        "copy": "When Ed Spokes, the Harlequins head of recruitment, slid into Edward Sigauke’s DMs, the Zimbabwean hot rod thought the message might be a prank. He was midway through a Nations Cup campaign which took his international record to nine tries in 11 Tests, and burnished his credentials as one of the game’s most spectacular raw talents, but the idea of attracting Gallagher Prem interest still felt fanciful.\n\nTwo months later, the 22-year-old wing sits in a Guildford apartment; Quins kitbag in the corner of his room, play sheet on his laptop, and head somewhat spinning after a sense-scrambling move to Southwest London.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Will Stuart to make playing comeback nine months after horror injury",
-        "link": "https://www.rugbypass.com/news/will-stuart-makes-playing-comeback-nine-months-after-horror-injury/",
-        "published": "2026-09-11T12:44:29+00:00",
-        "published_label": "Fri 11 Sep, 12:44",
-        "summary": "Stuart went off early in the second half of Bath's Champions Cup victory against Munster in mid-December last year and missed the remainder of the 2025/26 season.",
-        "body": "England prop Will Stuart will play his first game since rupturing his Achilles tendon when Bath take on Bedford tonight in a pre-season friendly at Goldington Road, which is being streamed by online broadcaster Clubber TV.\n\nStuart went off early in the second half of Bath’s Champions Cup victory against Munster in mid-December last year and missed the remainder of the 2025/26 season. But the tight-head, who committed his future to Bath in February by signing a new contract through to 2028, is now ready to return after a long period of rehabilitation and has been named on the bench.",
-        "copy": "England prop Will Stuart will play his first game since rupturing his Achilles tendon when Bath take on Bedford tonight in a pre-season friendly at Goldington Road, which is being streamed by online broadcaster Clubber TV.\n\nStuart went off early in the second half of Bath’s Champions Cup victory against Munster in mid-December last year and missed the remainder of the 2025/26 season. But the tight-head, who committed his future to Bath in February by signing a new contract through to 2028, is now ready to return after a long period of rehabilitation and has been named on the bench.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'You have to start somewhere'",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c61mvjdlyj81o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-18T15:00:24+00:00",
+        "published_label": "Fri 18 Sep, 15:00",
+        "summary": "Cameron Norrie will miss Great Britain's Davis Cup tie with Ecuador this weekend, with qualification for November's eight-team finals on the line.",
+        "body": "Cameron Norrie will miss Great Britain's Davis Cup tie with Ecuador this weekend, with qualification for November's eight-team finals on the line. British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday's singles by world number 95 Toby Samuel.\n\n\"He wasn't able to accelerate on the ball like he wanted to,\" Davis Cup captain Leon Smith told BBC Sport. \"It's nothing major, but there's still a lot of tennis to be played this year and with that in mind, we had to make the difficult decision to replace him.\"",
+        "copy": "Cameron Norrie will miss Great Britain's Davis Cup tie with Ecuador this weekend, with qualification for November's eight-team finals on the line. British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday's singles by world number 95 Toby Samuel.\n\n\"He wasn't able to accelerate on the ball like he wanted to,\" Davis Cup captain Leon Smith told BBC Sport. \"It's nothing major, but there's still a lot of tennis to be played this year and with that in mind, we had to make the difficult decision to replace him.\"",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Raducanu vows to 'enjoy the process' for comeback after ruled out of China Open and Billie Jean King Cup",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmJOazRFS2J6UkRTUkwtU09xbE54NHRQWmJLM1ZCZVBvaHkzdEY3SlEzWjBaeExXUl8xNG9hRmZSSUlGT3h0MzBSNjJna0NuVW1iSkhQNHlIX0UwNmpBbzJPeTJabElzMHo5SWhNRVN6eWlHVVY3akVpY1pyYVc2b1FkLXh5MmtuZFZTckx0NA?oc=5",
+        "published": "2026-09-18T13:42:33+00:00",
+        "published_label": "Fri 18 Sep, 13:42",
+        "summary": "Raducanu vows to 'enjoy the process' for comeback after ruled out of China Open and Billie Jean King Cup lbc.co.uk",
+        "body": "Brit now World No. 89 but does not want to put too much pressure on herself Emma Raducanu has voted to \"try and enjoy the process\" as she prepares to make a tennis comeback after two more withdrawals from tournaments.\n\nThe British number two has fallen to 89th in the world, having been inside the top 32 earlier this year, having pulled out of Wimbledon and the US Open. The 23-year-old withdrew from the China Open and was left out of Britain's Billie Jean King Cup squad as a stress fracture in her right leg did not heal in time.",
+        "copy": "Brit now World No. 89 but does not want to put too much pressure on herself Emma Raducanu has voted to \"try and enjoy the process\" as she prepares to make a tennis comeback after two more withdrawals from tournaments.\n\nThe British number two has fallen to 89th in the world, having been inside the top 32 earlier this year, having pulled out of Wimbledon and the US Open. The 23-year-old withdrew from the China Open and was left out of Britain's Billie Jean King Cup squad as a stress fracture in her right leg did not heal in time.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4197,10 +4210,23 @@
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONmhqZmRYQXF6SS16SGxPOHZPYXJxY1dNOFduYmtEekJ4T1lhblBOeW90ME9zTXRDNjk5NV9TejByTkhVMk13ZXFsSkFnNU0xcFFacF9kSjN5Q2xkSXlMVUF6Yy04a3VTVlpUMVdBZEkyLVAxZkZQV01XbDNaTlRmOVMtakhmRHVXY2YwcFZiWHZqQnNfV2l5dU53UTFkd1dxbWQ5NkVaUF90ZUxxbGRIYk5OeUxGUkNIaXB6bDdOdmVXODBkYVhTelZnRF9CZWkyVFgzMnkyYXhrSGloQnpzQUZhOGV6YzhOSXMw?oc=5",
         "published": "2026-09-18T12:14:00+00:00",
         "published_label": "Fri 18 Sep, 12:14",
-        "summary": "Raducanu's ranking worry ahead of Australian Open after latest withdrawal tntsports.co.uk",
-        "body": "",
-        "copy": "",
+        "summary": "Raducanu's ranking worry ahead of Australian Open after latest withdrawal TNT Sports",
+        "body": "Emma Raducanu has pulled out of the China Open in Beijing, delaying her injury comeback and likely seeing a further drop in her world ranking position, which could mean she has to qualify for the 2027 Australian Open.\n\nHer impressive performances at the grass tournament raised hopes of a successful summer for the 23-year-old, but she then pulled out of Wimbledon due to a lower leg stress fracture, and also missed the US Open.",
+        "copy": "Emma Raducanu has pulled out of the China Open in Beijing, delaying her injury comeback and likely seeing a further drop in her world ranking position, which could mean she has to qualify for the 2027 Australian Open.\n\nHer impressive performances at the grass tournament raised hopes of a successful summer for the 23-year-old, but she then pulled out of Wimbledon due to a lower leg stress fracture, and also missed the US Open.",
         "first_seen": "2026-09-18T12:20:08.688332+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Jack Draper's season-ending news is disappointing but might save his future",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeElVdm4zRHVQSGlBNDJRYlczMHhrVVBicU82ZUZERnMxdGdCU3FpRjFidUIzNkx4YmNoWFVENkJ3Wk9lcndYMzNNcEhud1JGTllJNldRN2J6SGg3WWp5SUhwTnNtLXEyVWNfYUJGck9keS04eWRqWjZBYkZMRVpIN1dtMDFPempZS0ZZZzBPaUY0OFFzM2p2ZDVn?oc=5",
+        "published": "2026-09-18T12:00:05+00:00",
+        "published_label": "Fri 18 Sep, 12:00",
+        "summary": "Jack Draper's season-ending news is disappointing but might save his future Lob and Smash",
+        "body": "Jack Draper simply needs a break, but the question is how long his body forces him to be away from tennis. The 24-year-old Brit has called it a season, about a month before his 2026 season would have ended anyway. Will he be able to come back healthier in 2027? Maybe not.\n\nHis longest-term injury is to his left arm (Draper's dominant hand), and it is an unusual bone. He has chronic bruising from internal bleeding in his humerus. The ailment forced him to miss every Grand Slam event this year, and his former top-10 ranking has fallen all the way to No. 143.",
+        "copy": "Jack Draper simply needs a break, but the question is how long his body forces him to be away from tennis. The 24-year-old Brit has called it a season, about a month before his 2026 season would have ended anyway. Will he be able to come back healthier in 2027? Maybe not.\n\nHis longest-term injury is to his left arm (Draper's dominant hand), and it is an unusual bone. He has chronic bruising from internal bleeding in his humerus. The ailment forced him to miss every Grand Slam event this year, and his former top-10 ranking has fallen all the way to No. 143.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
       },
       {
         "section": "Tennis",
@@ -5202,35 +5228,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-13T11:04:33.171820+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "US Open: Sky Sports agrees three-year extension to show the US Open until end of 2030",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVpMejBLTnVrUnJlbUcxSXdyWG1vSXlzWFNZSVY2Q0dDcEhudktlX0EwX3lpRndXb3NRQUNFd2ZxYnpoYkhTOHp3THpMeEtiYkRScXJMMWo2cVdRRVNudmVfUUVOWXVIa1JfR216VTlBOGZ2VGFpVktNZUk5REd0azJYb2tLanZjanZYUGJ1YmE5TlF5UkkyVnk0ODVRWm9RRDc1RktIS3F3M29ZLTY5Z1FlajRybHN1emsySTlFRDRzQlltZjN2dlNJdERZTEVUNk84?oc=5",
-        "published": "2026-09-11T13:01:41+00:00",
-        "published_label": "Fri 11 Sep, 13:01",
-        "summary": "US Open: Sky Sports agrees three-year extension to show the US Open until end of 2030 Sky Sports",
-        "body": "Sky has agreed a three-year extension to its US Open deal, ensuring Sky Sports and NOW remains the exclusive home of the tournament in the UK and Ireland until the end of 2030.\n\nAs part of the partnership with the United States Tennis Association (USTA), Sky Sports will retain exclusive live coverage of all men's and women's singles, doubles, mixed doubles, juniors and wheelchair competitions throughout the three-week tournament. The agreement was negotiated by the USTA's media rights partner, IMG.",
-        "copy": "Sky has agreed a three-year extension to its US Open deal, ensuring Sky Sports and NOW remains the exclusive home of the tournament in the UK and Ireland until the end of 2030.\n\nAs part of the partnership with the United States Tennis Association (USTA), Sky Sports will retain exclusive live coverage of all men's and women's singles, doubles, mixed doubles, juniors and wheelchair competitions throughout the three-week tournament. The agreement was negotiated by the USTA's media rights partner, IMG.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "US Open: Sky Sports agrees three-year extension to show the US Open until end of 2030",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa0hiazV2RW9hWTJIemktQmhtTUV1TTgtWGQ0Q05oOWkxSTRNRnczbFlwMFJuZlp0ZzVzVkx5WVJvQTUxTk01VzNKNjBWR3FtbGhLN3lzR2huRWU3Q3dadXlmZDA4bnNqZFZTQ080WWMtSGN3d0xwbHd2SndnR3pKa3NMLWdYdWU0Uy1BdG5qc3g5eEdPdmxkTnFJOGw1Z3k5TlBIVnFEdWVNS2FhM2g5eW1QMVFkS29UV1NVYlFJQjhEdzFaVzRqWnM1czJFZXctd3Jj?oc=5",
-        "published": "2026-09-11T13:01:41+00:00",
-        "published_label": "Fri 11 Sep, 13:01",
-        "summary": "US Open: Sky Sports agrees three-year extension to show the US Open until end of 2030 Sky Sports",
-        "body": "Sky has agreed a three-year extension to its US Open deal, ensuring Sky Sports and NOW remains the exclusive home of the tournament in the UK and Ireland until the end of 2030.\n\nAs part of the partnership with the United States Tennis Association (USTA), Sky Sports will retain exclusive live coverage of all men's and women's singles, doubles, mixed doubles, juniors and wheelchair competitions throughout the three-week tournament. The agreement was negotiated by the USTA's media rights partner, IMG.",
-        "copy": "Sky has agreed a three-year extension to its US Open deal, ensuring Sky Sports and NOW remains the exclusive home of the tournament in the UK and Ireland until the end of 2030.\n\nAs part of the partnership with the United States Tennis Association (USTA), Sky Sports will retain exclusive live coverage of all men's and women's singles, doubles, mixed doubles, juniors and wheelchair competitions throughout the three-week tournament. The agreement was negotiated by the USTA's media rights partner, IMG.",
-        "first_seen": "2026-09-12T10:03:33.480172+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "'Without A Doubt They Were And Are A Competitor' - DP World Tour Official Outlines 'Constant Battle' With LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR1ZBTGtWUzJaY1VMRnQ0eUR3eC1KbVVxTjBOd1p0Tkl0eWJSdmU1aF9IbzJvRVBObUswcjI0ZWlYcDlBOFo4TjBVV2huWWJ0NGk4bHlCNTBoaTlaV2RoSUxaa0tNeWpTOXRoa3FYU3dMV3h3cVFxcFRXTEx1QU5lYWN3elp2NnpkTGtObTJPSGZwVXV3bTVMR3plOC1ZN3ROQVhRYVl5aVZad0NUQnFxTkhOOEp0OWZOaXpHMmZyMlFIUzV5UndwVmdPd1ZrQU9XSWpicU5Fbzg?oc=5",
+        "published": "2026-09-18T15:18:34+00:00",
+        "published_label": "Fri 18 Sep, 15:18",
+        "summary": "'Without A Doubt They Were And Are A Competitor' - DP World Tour Official Outlines 'Constant Battle' With LIV Golf Golf Monthly",
+        "body": "LIV Golf CEO Scott O'Neil says he wants to \"complete not compete\" in the world of golf going forward - but that's not how the DP World Tour has seen things over the past few years.\n\nA DP World Tour official has told Golf Digest that it's been a \"constant battle\" with LIV Golf, which he says had focused on taking over events and venues usually part of their portfolio.",
+        "copy": "LIV Golf CEO Scott O'Neil says he wants to \"complete not compete\" in the world of golf going forward - but that's not how the DP World Tour has seen things over the past few years.\n\nA DP World Tour official has told Golf Digest that it's been a \"constant battle\" with LIV Golf, which he says had focused on taking over events and venues usually part of their portfolio.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Greg Norman Claims Bryson DeChambeau Has Only Been Successful On YouTube Because Of LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWFkY0gtaDkxSTdWUmxfcWxaN2V0dFhYSmZPNElsVmlkc1BYQnFvR2ttM1lBalpzdWV5SDc0VDhtNTNlOG1BbUV4b0NFNnh5dHIzQy1iaEFIVnR2VVBiMDNIR0dOemZFRV9KYWRfa0x2WTVlRUlPSzZ3amlDbk1nN3dFSW9ad2pzMTBB?oc=5",
+        "published": "2026-09-18T14:14:11+00:00",
+        "published_label": "Fri 18 Sep, 14:14",
+        "summary": "Greg Norman Claims Bryson DeChambeau Has Only Been Successful On YouTube Because Of LIV Golf BroBible",
+        "body": "Greg Norman claims Bryson DeChambeau has only been successful on YouTube because of LIV Golf. Many others would argue that it is because of his big personality, winning a second major championship at the 2024 US Open, and his interactions with fans at tournaments like the Ryder Cup.\n\n“I would say Bryson’s in the right place at the right time with the right personality and the right vision, but he can only have that because of LIV because we gave him his IP rights,” Greg Norman said on The Real Deal podcast. “",
+        "copy": "Greg Norman claims Bryson DeChambeau has only been successful on YouTube because of LIV Golf. Many others would argue that it is because of his big personality, winning a second major championship at the 2024 US Open, and his interactions with fans at tournaments like the Ryder Cup.\n\n“I would say Bryson’s in the right place at the right time with the right personality and the right vision, but he can only have that because of LIV because we gave him his IP rights,” Greg Norman said on The Real Deal podcast. “",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Who said summer is over? For golfers, September is where it's at",
+        "link": "https://golf.com/lifestyle/summer-over-golfers-september-peak/",
+        "published": "2026-09-18T14:08:08+00:00",
+        "published_label": "Fri 18 Sep, 14:08",
+        "summary": "This summer was way too hot, at least in the Northeast. So hot it killed a rite-of-summer, Joy o’ Golf. Now is the time to make up for it. The post Who said summer is over? For golfers, September is where it’s at appeared first on Golf .",
+        "body": "I think this is reasonable to ask: As orange is the new black or was, and 50 the new 40 (nodding at you, boss), is September, for those of us living in golfdom, the new July? Survey says yes, or this reporter does, anyway.\n\nOn Labor Day, at 5 p.m., my wife and I were on an ocean beach on my native Long Island. The season’s lifeguards all gathered ’round the stand, 15 or so, beaded necklaces ’round their necks, Mardi Gras-style. They blew their whistles collectively, a musical chorus and a distinct note the likes of which I had never heard before, and made a mad group dash into the gentle, warm surf on the modest waves of high tide. The rest of us beachside took a break from our books, castles, refreshments and lounging, stood and applauded in gratitude for these tanned and essential seasonal workers, Red Cross-certified and ready to do what AI cannot: pull a kid out of a riptide. They were calling it a day, a weekend — and a season.",
+        "copy": "I think this is reasonable to ask: As orange is the new black or was, and 50 the new 40 (nodding at you, boss), is September, for those of us living in golfdom, the new July? Survey says yes, or this reporter does, anyway.\n\nOn Labor Day, at 5 p.m., my wife and I were on an ocean beach on my native Long Island. The season’s lifeguards all gathered ’round the stand, 15 or so, beaded necklaces ’round their necks, Mardi Gras-style. They blew their whistles collectively, a musical chorus and a distinct note the likes of which I had never heard before, and made a mad group dash into the gentle, warm surf on the modest waves of high tide. The rest of us beachside took a break from our books, castles, refreshments and lounging, stood and applauded in gratitude for these tanned and essential seasonal workers, Red Cross-certified and ready to do what AI cannot: pull a kid out of a riptide. They were calling it a day, a weekend — and a season.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'It would mean a lot': Patrick Reed aims to spoil Rory McIlroy's shot at history",
+        "link": "https://golf.com/news/patrick-reed-aims-spoil-rory-mcilroy-shot-history/",
+        "published": "2026-09-18T13:20:04+00:00",
+        "published_label": "Fri 18 Sep, 13:20",
+        "summary": "Rory McIlroy has a chance to win a record-tying eighth Race to Dubai title this year. One problem: Patrick Reed is first in the standings. The post ‘It would mean a lot’: Patrick Reed aims to spoil Rory McIlroy’s shot at history appeared first on Golf .",
+        "body": "In the closing months of this year, Rory McIlroy is trying to make DP World Tour history. His longtime on-course nemesis Patrick Reed is aiming to rain on Rory’s parade. And if Reed is successful, he will make some history of his own.\n\nThe DP World Tour’s Race to Dubai, formerly known as the Order of Merit, is a season-long points ranking much like the FedEx Cup on the PGA Tour. McIlroy has captured seven of those titles in his career so far.",
+        "copy": "In the closing months of this year, Rory McIlroy is trying to make DP World Tour history. His longtime on-course nemesis Patrick Reed is aiming to rain on Rory’s parade. And if Reed is successful, he will make some history of his own.\n\nThe DP World Tour’s Race to Dubai, formerly known as the Order of Merit, is a season-long points ranking much like the FedEx Cup on the PGA Tour. McIlroy has captured seven of those titles in his career so far.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "It wasn’t just the PGA Tour that stood up to LIV Golf. So did the DP World Tour, and it’s set to reap the rewards",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX3l4ejNWdWZRMUNwNTNkN0t6dEc4eXFOMlJ2eDB0RU03WGtZbkVpalYyazlZVHhlbURMNjY1X0FGRkZyLWs0T1FqVEdhTm1hTFBJb0R3bW1laVRNQUt6Yld1d0FMUU1WeTF4Ul8xUEE1OWxHQTRWX3lNNTFIWDV2ZlVpUFBUVmdnRXhvYlhoNFcwa1N2Y2pTbkd0RQ?oc=5",
+        "published": "2026-09-18T12:39:06+00:00",
+        "published_label": "Fri 18 Sep, 12:39",
+        "summary": "It wasn’t just the PGA Tour that stood up to LIV Golf. So did the DP World Tour, and it’s set to reap the rewards Golf Digest",
+        "body": "VIRGINIA WATER, England — The call that changed the landscape of international golf came only days after the 2026 Masters. When a report surfaced that Saudi Arabia’s Public Investment Fund was on the cusp of withdrawing its funding for LIV, Ben Cowen, the DP World Tour’s chief tournament and operations officer, called Cho Minn Thant, CEO of the Asian Tour, to bolster their existing discussions about working together again.\n\n“Cho and I had kept in communication throughout the past few years, and I always said to him, ‘The time will come, I hope, when we will work together again,’” Cowen told Golf Digest this week at the BMW PGA Championship at Wentworth.",
+        "copy": "VIRGINIA WATER, England — The call that changed the landscape of international golf came only days after the 2026 Masters. When a report surfaced that Saudi Arabia’s Public Investment Fund was on the cusp of withdrawing its funding for LIV, Ben Cowen, the DP World Tour’s chief tournament and operations officer, called Cho Minn Thant, CEO of the Asian Tour, to bolster their existing discussions about working together again.\n\n“Cho and I had kept in communication throughout the past few years, and I always said to him, ‘The time will come, I hope, when we will work together again,’” Cowen told Golf Digest this week at the BMW PGA Championship at Wentworth.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6881,71 +6946,6 @@
         "body": "-11 S Lowry (Ire); -8 H Li (Chn), N Noergaard (Den), J Skov Olesen (Den); -5 E Ferguson (Sco), J Niemann (Chile), K Kobori (NZ), N Hojgaard (Den), T McKibbin (NIR); -4 A Sullivan (Eng), P Reed (USA), R Neergaard-Petersen (Den), J Dantrop (Swe).\n\nSelected others: -3 J Rahm (Spa), R MacIntyre (Sco); -2 R McIlroy (NIR); -1 A Fitzpatrick (Eng); E L Donald (Eng), S Garcia (Spa); +1 B Koepka (USA), S Straka (Aut). Shane Lowry carded a course-record 62 to take control of the Irish Open as putting woes prevented defending champion Rory McIlroy from making a second-round charge at Doonbeg.",
         "copy": "-11 S Lowry (Ire); -8 H Li (Chn), N Noergaard (Den), J Skov Olesen (Den); -5 E Ferguson (Sco), J Niemann (Chile), K Kobori (NZ), N Hojgaard (Den), T McKibbin (NIR); -4 A Sullivan (Eng), P Reed (USA), R Neergaard-Petersen (Den), J Dantrop (Swe).\n\nSelected others: -3 J Rahm (Spa), R MacIntyre (Sco); -2 R McIlroy (NIR); -1 A Fitzpatrick (Eng); E L Donald (Eng), S Garcia (Spa); +1 B Koepka (USA), S Straka (Aut). Shane Lowry carded a course-record 62 to take control of the Irish Open as putting woes prevented defending champion Rory McIlroy from making a second-round charge at Doonbeg.",
         "first_seen": "2026-09-11T19:00:39.824492+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf Winner Makes Late Charge At Q School To Join Fellow Players In Next Stage",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVpxNFNiSENwbG9zSFNrT0hyZzlKSmdNQmVUOGFZTU9GRHp4NFJ5dXYwR2tLMGZVVFNEOUdISDdBbl9xRkZPWTFsNTl5VURvdlRWNU43cWUxeWVUZDl0SmY2c1BpZjNJYjNPUmRoam1WR28xSmVkU0hGYk1VbGoxa1k4cEt2R3dsR3VRdW50dW1MRTAyUXNFOUJhalJWZXdKZWJSaW51WkZPcFlHVjFsVXNPLVI5dw?oc=5",
-        "published": "2026-09-11T15:44:42+00:00",
-        "published_label": "Fri 11 Sep, 15:44",
-        "summary": "LIV Golf Winner Makes Late Charge At Q School To Join Fellow Players In Next Stage Golf Monthly",
-        "body": "With LIV Golf’s future shrouded in uncertainty, several of its players have been attempting to earn DP World Tour cards via the first stage of Q School. Earlier in the month in Huddersfield, England, Josele Ballester and Luis Masaveu moved on to the second stage, which begins in Spain in late October, while Peter Uihlein was disqualified from the event after failing to show up to his third-round tee time.\n\nA week later, another first stage qualifier was held at Seddiner See in Michendorf, Germany, where HyFlyers GC’s Michael La Sasso and LIV Golf wild card Yosuke Asaji were in the field.",
-        "copy": "With LIV Golf’s future shrouded in uncertainty, several of its players have been attempting to earn DP World Tour cards via the first stage of Q School. Earlier in the month in Huddersfield, England, Josele Ballester and Luis Masaveu moved on to the second stage, which begins in Spain in late October, while Peter Uihlein was disqualified from the event after failing to show up to his third-round tee time.\n\nA week later, another first stage qualifier was held at Seddiner See in Michendorf, Germany, where HyFlyers GC’s Michael La Sasso and LIV Golf wild card Yosuke Asaji were in the field.",
-        "first_seen": "2026-09-11T19:00:39.824492+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This Dallas Cowboys-themed golf course just got a $12 million makeover",
-        "link": "https://golf.com/news/dallas-cowboys-golf-club-star-never-shined-brighter/",
-        "published": "2026-09-11T13:50:20+00:00",
-        "published_label": "Fri 11 Sep, 13:50",
-        "summary": "A recently completed multimillion-dollar redo has transformed Cowboys Golf Club into a varied, family-friendly entertainment venue. The post This Dallas Cowboys-themed golf course just got a $12 million makeover appeared first on Golf .",
-        "body": "As the placekicker for the Dallas Cowboys, Brandon Aubrey has leg enough for field goals of nearly 70 yards. In practice, though, he’s been known to aim at uprights from more than twice as far. That’s not on the gridiron. It’s at the driving range on a property unlike any other — Cowboys Golf Club, the only NFL-themed golf course in the world.\n\nLike the famous franchise it celebrates, the club has ties to Cowboys owner Jerry Jones, who opened it in 2001, cutting the ribbon on a clubhouse filled with team memorabilia and a championship layout with white-sand bunkers and a giant blue star in one of its fairways.",
-        "copy": "As the placekicker for the Dallas Cowboys, Brandon Aubrey has leg enough for field goals of nearly 70 yards. In practice, though, he’s been known to aim at uprights from more than twice as far. That’s not on the gridiron. It’s at the driving range on a property unlike any other — Cowboys Golf Club, the only NFL-themed golf course in the world.\n\nLike the famous franchise it celebrates, the club has ties to Cowboys owner Jerry Jones, who opened it in 2001, cutting the ribbon on a clubhouse filled with team memorabilia and a championship layout with white-sand bunkers and a giant blue star in one of its fairways.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "These versatile pieces of apparel made packing for my golf trip a breeze",
-        "link": "https://golf.com/gear/golf-apparel/versatile-apparel-made-packing-golf-trip-breeze/",
-        "published": "2026-09-11T13:22:11+00:00",
-        "published_label": "Fri 11 Sep, 13:22",
-        "summary": "When a golf trip called for fashionable, functional pieces that easily transitioned from on course to off, TravisMathew came to the rescue. The post These versatile pieces of apparel made packing for my golf trip a breeze appeared first on Golf .",
-        "body": "Readers of this space may recall that I am a staunch proponent of carry-on luggage. I have come to believe, no matter the length of your trip, if it involves air travel, traveling with a carry-on is a non-negotiable. I managed to do it on a two-week international trip for the last two years, which helped me feel empowered to limit myself to a carry-on for every subsequent trip since, regardless of the destination.\n\nThat is, until I had a golf trip on the horizon. Uh oh. The trip was only three days, but the variety of outfits required — travel apparel, on- and off-course options, post-golf attire, and multiple pairs of shoes, of course — had me doubting myself. How could a carry-on provide all of the packing space I needed? The solution was obvious: I needed to bring clothes that work just as well on the course as they do off. But that strategy brought another problem to the surface: Multi-functional golf apparel that functions well on the course and looks suitable off it is notoriously hard to find — especially for women.",
-        "copy": "Readers of this space may recall that I am a staunch proponent of carry-on luggage. I have come to believe, no matter the length of your trip, if it involves air travel, traveling with a carry-on is a non-negotiable. I managed to do it on a two-week international trip for the last two years, which helped me feel empowered to limit myself to a carry-on for every subsequent trip since, regardless of the destination.\n\nThat is, until I had a golf trip on the horizon. Uh oh. The trip was only three days, but the variety of outfits required — travel apparel, on- and off-course options, post-golf attire, and multiple pairs of shoes, of course — had me doubting myself. How could a carry-on provide all of the packing space I needed? The solution was obvious: I needed to bring clothes that work just as well on the course as they do off. But that strategy brought another problem to the surface: Multi-functional golf apparel that functions well on the course and looks suitable off it is notoriously hard to find — especially for women.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "‘No chance in hell!’ Greg Norman reveals major LIV Golf regret",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTljRGloTzR2aXliUUcxRUx4cjROTFQwU1g1TGN0M01WQ3A2ajloSWZOZXNORTNlNjJQNmo2YnVlU1dHTEJPczBfNHRPSU9nNVRoa1hyTUVRQUJ6bGdwZ3ViNjRDMkczZWEtR1NXTVZTb3V3UGp3RkRSS3NnbkRzNFBVVUE0d2hLaFZybQ?oc=5",
-        "published": "2026-09-11T12:27:43+00:00",
-        "published_label": "Fri 11 Sep, 12:27",
-        "summary": "‘No chance in hell!’ Greg Norman reveals major LIV Golf regret Today's Golfer",
-        "body": "Greg Norman has denied the widely held theory that his integral role in the creation of LIV Golf – and the friction caused by the breakaway league – was fuelled by a personal vendetta against the PGA Tour.\n\nLIV filed for bankruptcy this week in an attempt to restructure its finances before salvaging a reimagined version of the league, two years after Norman exited his role as the league’s divisive chief executive.",
-        "copy": "Greg Norman has denied the widely held theory that his integral role in the creation of LIV Golf – and the friction caused by the breakaway league – was fuelled by a personal vendetta against the PGA Tour.\n\nLIV filed for bankruptcy this week in an attempt to restructure its finances before salvaging a reimagined version of the league, two years after Norman exited his role as the league’s divisive chief executive.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf Loses a Golf State",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmtWN1FYRlZQM2Y3Y19vc1VHX052YzcxYUR0S1Bva0ZFQ0JZdTQ2U3M5OW9JSlUwSDlqUWZabXNMQjl3TXlfeTZ1cHhxZ0xnR1BINHoyVlRlbVdjTGpTWTR1d0QtOFRFdERuYzFyc0hKdlRPaVJpNEg5UVltLXVZYzd4NkNtTUdnYWc?oc=5",
-        "published": "2026-09-11T12:21:38+00:00",
-        "published_label": "Fri 11 Sep, 12:21",
-        "summary": "LIV Golf Loses a Golf State VideoAge International",
-        "body": "The golf league LIV Golf, founded to challenge the American PGA Tour, has filed for Chapter 11 bankruptcy protection in New Jersey, with up to $1 billion in liabilities, after its primary backer, Saudi Arabia’s Public Investment Fund (PIF), pulled its funding four years after LIV was founded. The Gulf state had poured some $5 billion into the LIV Golf venture.\n\nReportedly, the league’s top seven creditors are LIV players themselves. However, PIF is providing a $49.6 million loan to fund the bankruptcy proceedings, while LIV is seeking $300 million in additional investment to keep the golf league going.",
-        "copy": "The golf league LIV Golf, founded to challenge the American PGA Tour, has filed for Chapter 11 bankruptcy protection in New Jersey, with up to $1 billion in liabilities, after its primary backer, Saudi Arabia’s Public Investment Fund (PIF), pulled its funding four years after LIV was founded. The Gulf state had poured some $5 billion into the LIV Golf venture.\n\nReportedly, the league’s top seven creditors are LIV players themselves. However, PIF is providing a $49.6 million loan to fund the bankruptcy proceedings, while LIV is seeking $300 million in additional investment to keep the golf league going.",
-        "first_seen": "2026-09-11T15:50:57.915119+00:00"
       }
     ],
     "Badminton": [
@@ -6974,6 +6974,19 @@
         "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-09-18T10:31:54.878911+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Michelle Li: The Iconic Journey Continues",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM2NQZDEyaXRLZmFwTXl6QXd1dFY1UW9nUk1ueDBndnJSV2dPSFZ0U3Q2NG4zcE1hRmFObUd0cUVtZkNmLXF3NlhzSHkxSkVEem44MmVmVE5nQU9ZTDl0clhfaHBVZWJ1Sk9NQnVEeno4TlZCRjgtaGx6NW1jT1I2SE8zdkdXZVVLTmM5T2wwcW1iNXhfNEF4VHhzcVF0Q0RHVXVlaXFn?oc=5",
+        "published": "2026-09-18T02:41:06+00:00",
+        "published_label": "Fri 18 Sep, 02:41",
+        "summary": "Michelle Li: The Iconic Journey Continues bwfworldchampionships.bwfbadminton.com",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-09-18T15:47:31.173399+00:00"
       },
       {
         "section": "Badminton",
@@ -7304,5 +7317,5 @@
       }
     ]
   },
-  "total": 560
+  "total": 561
 }
