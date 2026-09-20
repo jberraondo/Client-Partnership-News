@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T10:34:47.334282+00:00",
-  "generated_label": "Sunday 20 September 2026, 10:34 UTC",
+  "generated_at": "2026-09-20T12:33:26.167384+00:00",
+  "generated_label": "Sunday 20 September 2026, 12:33 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1782,6 +1782,19 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Waisea Nayacalevu makes drastic position switch on debut for new club",
+        "link": "https://www.rugbypass.com/news/waisea-nayacalevu-makes-drastic-position-switch-on-debut-for-new-club/",
+        "published": "2026-09-20T11:41:34+00:00",
+        "published_label": "Sun 20 Sep, 11:41",
+        "summary": "Former Fiji captain Waisea Nayacalevu will make his debut for Rugby Olympique de Grasse, but in an unusual role: at no.8 for the Fédérale 2 club.",
+        "body": "Former Fiji captain Waisea Nayacalevu will make his debut for Rugby Olympique de Grasse, but in an unusual role: at no.8 for the Fédérale 2 club. Nayacalevu left Nissa Rugby after helping the club secure promotion to the Pro D2, scoring three tries in 11 appearances for the southeastern French side. However, when his centre contract wasn’t renewed, he was free to find a new club, and RO Grasse stepped in, signing the Fijian legend for an undisclosed number of seasons.\n\nFédérale 2 is the fifth tier of French club rugby, sitting below the Top 14, Pro D2, Nationale and Fédérale 1, and is a predominantly amateur competition, although some clubs also field semi-professional players.",
+        "copy": "Former Fiji captain Waisea Nayacalevu will make his debut for Rugby Olympique de Grasse, but in an unusual role: at no.8 for the Fédérale 2 club. Nayacalevu left Nissa Rugby after helping the club secure promotion to the Pro D2, scoring three tries in 11 appearances for the southeastern French side. However, when his centre contract wasn’t renewed, he was free to find a new club, and RO Grasse stepped in, signing the Fijian legend for an undisclosed number of seasons.\n\nFédérale 2 is the fifth tier of French club rugby, sitting below the Top 14, Pro D2, Nationale and Fédérale 1, and is a predominantly amateur competition, although some clubs also field semi-professional players.",
+        "first_seen": "2026-09-20T12:33:26.167384+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4269,6 +4282,19 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Hewett & Reid star as GB win fifth World Team Cup",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cqpvepy2mvg7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-20T11:22:22+00:00",
+        "published_label": "Sun 20 Sep, 11:22",
+        "summary": "Great Britain become World Team Cup champions for the fifth time as Alfie Hewett and Gordon Reid secure a 2-1 victory over Japan in Florida.",
+        "body": "Great Britain became World Team Cup champions for the fifth time as Alfie Hewett and Gordon Reid joined forces to secure a 2-1 victory over Japan in Florida. Japan were the defending champions of the competition, which is the wheelchair tennis equivalent to the Davis Cup and Billie Jean King Cup.\n\nHowever, Hewett and Reid ensured Britain got their hands back on the trophy with a 6-1 6-2 win in the deciding doubles match against Tokito Oda and Daisuke Arai. \"We're really happy to get the title back,\" said Reid, who was also part of the World Team Cup-winning squad alongside Hewett in 2015, 2019, 2023 and 2024.",
+        "copy": "Great Britain became World Team Cup champions for the fifth time as Alfie Hewett and Gordon Reid joined forces to secure a 2-1 victory over Japan in Florida. Japan were the defending champions of the competition, which is the wheelchair tennis equivalent to the Davis Cup and Billie Jean King Cup.\n\nHowever, Hewett and Reid ensured Britain got their hands back on the trophy with a 6-1 6-2 win in the deciding doubles match against Tokito Oda and Daisuke Arai. \"We're really happy to get the title back,\" said Reid, who was also part of the World Team Cup-winning squad alongside Hewett in 2015, 2019, 2023 and 2024.",
+        "first_seen": "2026-09-20T12:33:26.167384+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "She is the only player Emma Raducanu has beaten at a Grand Slam this year after missing Wimbledon and the US Open",
@@ -5243,6 +5269,19 @@
         "body": "JJ Spaun is a debutant at the BMW PGA Championship and appears to have fallen in love with the event. Spaun is four shots back of the leading Ryan Gerrard after two days of play, and after his second round he sang the praises of the tournament at Wentworth and the DP World Tour generally.\n\nThe 2025 US Open champion said, \"I think the new structure of the PGA TOUR and schedule moving forward, especially in 2028, this will give us more opportunity, more time, to play events abroad. This was kind of like a stepping stone, just to see how it was and if I like it.",
         "copy": "JJ Spaun is a debutant at the BMW PGA Championship and appears to have fallen in love with the event. Spaun is four shots back of the leading Ryan Gerrard after two days of play, and after his second round he sang the praises of the tournament at Wentworth and the DP World Tour generally.\n\nThe 2025 US Open champion said, \"I think the new structure of the PGA TOUR and schedule moving forward, especially in 2028, this will give us more opportunity, more time, to play events abroad. This was kind of like a stepping stone, just to see how it was and if I like it.",
         "first_seen": "2026-09-19T15:18:45.413392+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Greg Norman: LIV Golf was worth \"every .50-calibre bullet in my back\"",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX18zcXFDU0pVMVFSRkNUaDNENXhUNHo0cGdCSnRnWllhSGtJYUdyQzBkTHN4M09FU1ZHOUtnWUo0T0p2WE90TFZZS0ttVGxGaXg0MzNtS0JrM0ZraWI5NGFyS3hSWWlCZjNnWm41OTh4QWE0SGtFS0J0YzZEdkZ0X05tZVNkT3ZXV29jSG1sSThuMFVGSS1ZNlBUVzhLVlhueW9XYQ?oc=5",
+        "published": "2026-09-19T11:36:44+00:00",
+        "published_label": "Sat 19 Sep, 11:36",
+        "summary": "Greg Norman: LIV Golf was worth \"every .50-calibre bullet in my back\" golfmagic.com",
+        "body": "Greg Norman says his time with LIV Golf was worth all the hate mail and every \".50-calibre bullet in my back\". The Australian became the face of the breakaway tour when it launched in June 2022.\n\nHe helped lure several major champions and multiple PGA Tour winners to the league with contracts worth millions of dollars and huge prize purses. The former Open champion became one of the most polarising figures in golf as he challenged the establishment.",
+        "copy": "Greg Norman says his time with LIV Golf was worth all the hate mail and every \".50-calibre bullet in my back\". The Australian became the face of the breakaway tour when it launched in June 2022.\n\nHe helped lure several major champions and multiple PGA Tour winners to the league with contracts worth millions of dollars and huge prize purses. The former Open champion became one of the most polarising figures in golf as he challenged the establishment.",
+        "first_seen": "2026-09-20T12:33:26.167384+00:00"
       },
       {
         "section": "Golf",
@@ -6621,45 +6660,6 @@
         "body": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below. Get the most important global markets news at your fingertips with a Bloomberg.com subscription.",
         "copy": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.\n\nFor inquiries related to this message please contact our support team and provide the reference ID below. Get the most important global markets news at your fingertips with a Bloomberg.com subscription.",
         "first_seen": "2026-09-13T15:35:33.806171+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Does the Presidents Cup need to change its points structure? | Subpar",
-        "link": "https://golf.com/news/presidents-cup-points-structure-subpar/",
-        "published": "2026-09-13T12:23:14+00:00",
-        "published_label": "Sun 13 Sep, 12:23",
-        "summary": "Tour veteran Brendon de Jonge, a past member of the International Presidents Cup team, joined Subpar to discuss the biennial event and more. The post Does the Presidents Cup need to change its points structure? | Subpar appeared first on Golf .",
-        "body": "The Walker Cup wrapped up last week, the Solheim Cup finishes this weekend and next up on the team-event schedule is the Presidents Cup, which gets underway in less than two weeks at Medinah Country Club outside of Chicago.\n\nThe Americans will be heavily favored once again, and they lead the all-time series 13-1-1. The tie came in 2003, and the International team’s only win was in 1998. It’s been two decades of U.S. dominance, as the Americans have won the last 10, and three of the last four wins have been by five points or more.",
-        "copy": "The Walker Cup wrapped up last week, the Solheim Cup finishes this weekend and next up on the team-event schedule is the Presidents Cup, which gets underway in less than two weeks at Medinah Country Club outside of Chicago.\n\nThe Americans will be heavily favored once again, and they lead the all-time series 13-1-1. The tie came in 2003, and the International team’s only win was in 1998. It’s been two decades of U.S. dominance, as the Americans have won the last 10, and three of the last four wins have been by five points or more.",
-        "first_seen": "2026-09-13T12:50:07.525761+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Here's where the next Solheim Cup will be played in 2028",
-        "link": "https://golf.com/travel/next-solheim-cup-venue-2028/",
-        "published": "2026-09-13T12:19:30+00:00",
-        "published_label": "Sun 13 Sep, 12:19",
-        "summary": "As the 2026 Solheim Cup finishes up in the Netherlands, next up will be 2028 in the United States. Here's a look at past and future venues. The post Here’s where the next Solheim Cup will be played in 2028 appeared first on Golf .",
-        "body": "The 2026 Solheim Cup finishes this weekend in the Netherlands, which means you’ll have to wait two more years before the next iteration of the biennial event arrives. Although in 2028 it returns to the U.S.\n\nNext up is Valhalla Golf Club in Louisville, Ky., to host the 21st playing of the Solheim Cup come Sept. 8-10, 2028. Valhalla is no stranger to golf’s marquee events. It’s hosted four PGA Championships, two Senior PGA Championships and the 2008 Ryder Cup. It most recently hosted the 2024 PGA, which was won by Xander Schauffele but perhaps most remembered for the bizarre arrest of World No. 1 Scottie Scheffler.",
-        "copy": "The 2026 Solheim Cup finishes this weekend in the Netherlands, which means you’ll have to wait two more years before the next iteration of the biennial event arrives. Although in 2028 it returns to the U.S.\n\nNext up is Valhalla Golf Club in Louisville, Ky., to host the 21st playing of the Solheim Cup come Sept. 8-10, 2028. Valhalla is no stranger to golf’s marquee events. It’s hosted four PGA Championships, two Senior PGA Championships and the 2008 Ryder Cup. It most recently hosted the 2024 PGA, which was won by Xander Schauffele but perhaps most remembered for the bizarre arrest of World No. 1 Scottie Scheffler.",
-        "first_seen": "2026-09-13T12:50:07.525761+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "After posting his most lucrative season to date, Jake Knapp has sights set on majors",
-        "link": "https://golf.com/news/features/most-lucrative-season-jake-knapp-sights-set-majors/",
-        "published": "2026-09-13T12:17:02+00:00",
-        "published_label": "Sun 13 Sep, 12:17",
-        "summary": "Nine top-25 finishes made 2026 Jake Knapp's most lucrative Tour season to date. But the 32-year-old is focusing on loftier goals. The post After posting his most lucrative season to date, Jake Knapp has sights set on majors appeared first on Golf .",
-        "body": "At 32, he’s not your typical “new” PGA Tour star, but he definitely played like one this season. Dylan Dethier: You played some really good golf in 2026 — 11th or better in seven of your first eight starts this season, including the Masters. What does it feel like to be on a run like that?\n\nJake Knapp: I mean, obviously it feels good. It doesn’t feel, like, crazy different; it’s not like I’m hitting it exactly where I want to on every shot or making every putt or chipping in all the time. I just think I did a job good this offseason analyzing what areas I could really benefit from the most — maximizing my practice time, locking in on ball striking — and seeing improvement has been great. Obviously, when you’re playing well, you want to try to take advantage and win, but when you put yourself in contention as often as you can that’s uplifting too. Because golf is golf; you’re going to have some weird stuff happen. But when it does you know that it’s, like, Hey, I’m playing fine. That’s the sign, really, that your work is kind of coming to fruition and then you see it show up with results.",
-        "copy": "At 32, he’s not your typical “new” PGA Tour star, but he definitely played like one this season. Dylan Dethier: You played some really good golf in 2026 — 11th or better in seven of your first eight starts this season, including the Masters. What does it feel like to be on a run like that?\n\nJake Knapp: I mean, obviously it feels good. It doesn’t feel, like, crazy different; it’s not like I’m hitting it exactly where I want to on every shot or making every putt or chipping in all the time. I just think I did a job good this offseason analyzing what areas I could really benefit from the most — maximizing my practice time, locking in on ball striking — and seeing improvement has been great. Obviously, when you’re playing well, you want to try to take advantage and win, but when you put yourself in contention as often as you can that’s uplifting too. Because golf is golf; you’re going to have some weird stuff happen. But when it does you know that it’s, like, Hey, I’m playing fine. That’s the sign, really, that your work is kind of coming to fruition and then you see it show up with results.",
-        "first_seen": "2026-09-13T12:50:07.525761+00:00"
       }
     ],
     "Badminton": [
@@ -6961,19 +6961,6 @@
         "body": "Taiwan’s Chen Zhi-ray and Lin Yu-chieh yesterday won the men's doubles final at the Yonex-Sunrise Vietnam Open badminton tournament, quickly dispatching their Singaporean opponents in straight games.\n\nChen and Lin defeated Singapore's Terry Hee and Howin Wong 21-14, 21-12 in 27 minutes at the Badminton World Federation Super 100 event held at the Nguyen Du Club in Ho Chi Minh City.",
         "copy": "Taiwan’s Chen Zhi-ray and Lin Yu-chieh yesterday won the men's doubles final at the Yonex-Sunrise Vietnam Open badminton tournament, quickly dispatching their Singaporean opponents in straight games.\n\nChen and Lin defeated Singapore's Terry Hee and Howin Wong 21-14, 21-12 in 27 minutes at the Badminton World Federation Super 100 event held at the Nguyen Du Club in Ho Chi Minh City.",
         "first_seen": "2026-09-14T11:42:58.712578+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Behind the Mic, Matsuyama Finds Reprieve",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDVkZ0RYUFN3aUhjVGNMZHdaZXo4MVdnbUJXZHR5OGZHUi1rbmZ0SWdVRUJkUXA2cWtRcUZDaHZGSzBNaDFUdUc1azBpRkRuNzdLVlBFV0pxbmd5OEdyT3lJSTk2Z09JU2pacDJIRkpZSnA0ZE5pTmQzQWxhOVFYR3VGWkJUeVUwd2R6OUE4UFgtZw?oc=5",
-        "published": "2026-09-13T12:02:43+00:00",
-        "published_label": "Sun 13 Sep, 12:02",
-        "summary": "Behind the Mic, Matsuyama Finds Reprieve BWF",
-        "body": "Nami Matsuyama has spent years experiencing the Japan Open from the court. This year, she saw it from behind the microphone. Recovering from ACL surgery, the doubles specialist made an unexpected Japan Open debut in a new role, joining broadcaster J Sports as a colour commentator for the mixed doubles match featuring her regular partner Hiroki Midorikawa and Olympic champion Misaki Matsutomo.\n\nFor Matsuyama, the assignment was the realisation of a long-held ambition and a chance to discover a different side of the sport she knows so well. “This is one of my dreams,” she said. “I just wanted to try this and today I did it.”",
-        "copy": "Nami Matsuyama has spent years experiencing the Japan Open from the court. This year, she saw it from behind the microphone. Recovering from ACL surgery, the doubles specialist made an unexpected Japan Open debut in a new role, joining broadcaster J Sports as a colour commentator for the mixed doubles match featuring her regular partner Hiroki Midorikawa and Olympic champion Misaki Matsutomo.\n\nFor Matsuyama, the assignment was the realisation of a long-held ambition and a chance to discover a different side of the sport she knows so well. “This is one of my dreams,” she said. “I just wanted to try this and today I did it.”",
-        "first_seen": "2026-09-13T15:35:33.806171+00:00"
       }
     ],
     "Competitor News": [
@@ -7070,5 +7057,5 @@
       }
     ]
   },
-  "total": 542
+  "total": 541
 }
