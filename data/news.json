@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T11:55:29.386425+00:00",
-  "generated_label": "Monday 21 September 2026, 11:55 UTC",
+  "generated_at": "2026-09-21T14:25:52.353960+00:00",
+  "generated_label": "Monday 21 September 2026, 14:25 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,58 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Blue Entertainment lands EuroLeague rights in Switzerland",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdnZYUVQ4WDJZbDF2NFJkZk0tcl83N0RwQWJidlJDZlpmNTIyVDB3Uk9GNkFGSlNXdDZDNXlCZV9tX2dWaktNNUNROUJYeUJhbnZkc2VIWVVzT0cyOEJ0OUhLcS1taU9zMXduQkJSeGdfUnRpZW5FT3lwMVJBY0kwRHlQaS1ySTB6ZXRhSWFWb1BEdw?oc=5",
+        "published": "2026-09-21T12:23:06+00:00",
+        "published_label": "Mon 21 Sep, 12:23",
+        "summary": "Blue Entertainment lands EuroLeague rights in Switzerland Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "Shorts: WSL Football, Ultimate Sevens, Hampshire Cricket",
+        "link": "https://sportindustry.co.uk/news-categories/news/wsl-football-has-appointed-independent-media-agency-bicycle/",
+        "published": "2026-09-21T12:03:16+00:00",
+        "published_label": "Mon 21 Sep, 12:03",
+        "summary": "WSL Football has appointed independent media agency Bicycle to its media account as it looks to build audiences around the Barclays Women’s Super League and Women’s Super League 2. Bicycle takes over the account from incumbent ThreePipe, with the partnership beginning immediately. The agency will be responsible for media planning and buying across WSL Football’s […] The post Shorts: WSL Football, Ultimate Sevens, Hampshire Cricket appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "WSL Football has appointed independent media agency Bicycle to its media account as it looks to build audiences around the Barclays Women’s Super League and Women’s Super League 2. Bicycle takes over the account from incumbent ThreePipe, with the partnership beginning immediately. The agency will be responsible for media planning and buying across WSL Football’s […] The post Shorts: WSL Football, Ultimate Sevens, Hampshire Cricket appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Axcelis Announces Sponsorship and Participation in the 23rd International Conference on Silicon Carbide and Related Materials (ICSCRM 2026) – Company Announcement - FT.com",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3pReVdoLThrTlo4aG9IenBqRW41bnh4TTdYSUd0VmVvYi1ZVXV4aXpDM1VjRUJoZ0tQTGR0NXg5aU53bGdWZ1NDZXRVaERUcTJiLTRFXzA0ZWViYnp6UTRlaTdDLUJENk12X1ZMVjQzSFQtSXNBVWprMFBodDVQTmlfMG5CQjFLY1VhYjBHelp6Ynl1dWZwSw?oc=5",
+        "published": "2026-09-21T12:01:00+00:00",
+        "published_label": "Mon 21 Sep, 12:01",
+        "summary": "Axcelis Announces Sponsorship and Participation in the 23rd International Conference on Silicon Carbide and Related Materials (ICSCRM 2026) – Company Announcement - FT.com Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "Laver Cup extends Cleveland Clinic partnership",
+        "link": "https://sportindustry.co.uk/news-categories/news/laver-cup-renews-partnership-with-cleveland-clinic/",
+        "published": "2026-09-21T11:56:08+00:00",
+        "published_label": "Mon 21 Sep, 11:56",
+        "summary": "Laver Cup has renewed its partnership with Cleveland Clinic through the 2027 tournament in Los Angeles following the event’s return to London in 2026. The agreement extends a relationship that began at the Laver Cup in London in 2022 and has continued through subsequent editions in Vancouver, Berlin and San Francisco. The renewal will cover […] The post Laver Cup extends Cleveland Clinic partnership appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "Laver Cup has renewed its partnership with Cleveland Clinic through the 2027 tournament in Los Angeles following the event’s return to London in 2026. The agreement extends a relationship that began at the Laver Cup in London in 2022 and has continued through subsequent editions in Vancouver, Berlin and San Francisco. The renewal will cover […] The post Laver Cup extends Cleveland Clinic partnership appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -1675,74 +1727,126 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-14T17:37:22.995517+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Despite high-end holiday boom, Club Med investors have a lot to unpack",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFd0aS1hcVVyc3hOU0JQMHEzTzBTRXE3OVFfR1plYUo0UWd5Y1NpYVl3UW0wdGR1TFhWZ29JR3l2a3YyZkp2Y29EWW5GNVBxdUVoVGxBSFRNdHNpdHhPYkRVMnd3d213T0NCajlOOTdwQ3VkRXQ4UVc0VzhyYkVMc0JESmU?oc=5",
-        "published": "2026-09-14T14:24:41+00:00",
-        "published_label": "Mon 14 Sep, 14:24",
-        "summary": "Despite high-end holiday boom, Club Med investors have a lot to unpack Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-15T11:04:29.002243+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "NFL continues European rights blitz with Disney+ deal in Sweden",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjVTai1HM0lnbnVYdmtNVnE4Xy1RX0NuTWw1Vi1sQ1k2UnltTElrY2NVV3BHYVZ6TWFkNjlrZThfUXV1RXpCcDM3ZUlVSjFwSXdLQnhLTE1jZjBJNzZZQ1Bac3RwMjZfY1JKRkx2VC1fRGFOclBIM3NHaVJNMHd3cUNUcGhxdldtU09lTUtuN01aMkoxNzl6WA?oc=5",
-        "published": "2026-09-14T13:53:31+00:00",
-        "published_label": "Mon 14 Sep, 13:53",
-        "summary": "NFL continues European rights blitz with Disney+ deal in Sweden Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-14T14:19:48.053174+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "ATP Media and L1VE team up in immersive live rights deal",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjhWMWtDQndGYWZHNndfdzVqSlhPXzRsVGhvdDV1UkFtenVXUWxXLUgtcHU3a3ktVG5USUhValh3OFZVVFktdkhGLWNnemxJaUthaFBEQzRWZUhkOTBHcWZRZS1XRlozLUlnZEF5UVdYWExJZG1hV0lTby1uRUozNWpteklYSC1oY3VWMlpBeVE?oc=5",
-        "published": "2026-09-14T13:53:31+00:00",
-        "published_label": "Mon 14 Sep, 13:53",
-        "summary": "ATP Media and L1VE team up in immersive live rights deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-14T14:19:48.053174+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "NFL continues European rights push with Disney+ deal in Sweden",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3hUcmZKV1dselhuZHlHMjJwRUY4eWw1RVZFa0ZucmhEbmNlUFdybzhoaW5XQUEtUXFxb3prckZxUGJBYlhLbTVrY2tHUENnZ0RCSnV0akRCY1cxWklpcEY5eDZnVTFvU1lHMV8zbTJXUy1NU1FJWFZnMUppTTBCMVFVbl9aQk1zYUVWMThMVnRxaVFlei1fT29B?oc=5",
-        "published": "2026-09-14T13:53:07+00:00",
-        "published_label": "Mon 14 Sep, 13:53",
-        "summary": "NFL continues European rights push with Disney+ deal in Sweden Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-15T16:12:22.687305+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "UK government considering takeover of insolvent steelmaker",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFJvMkd5V2VxQWxzMnd3dUpscXo4ZTU4X3JlZUhxMGd3a1c1X1BWWXp1cXVkOVctYWZEUHZ2clJETFYzUzZsaFNoUUd1aC1Wb1BUZVhVREhHQUxaNzdleWlRdl82MXFWTzl6MmRzckpVdG00NDNKajlvcEp5R0tFcnZIRXo?oc=5",
-        "published": "2026-09-14T13:37:15+00:00",
-        "published_label": "Mon 14 Sep, 13:37",
-        "summary": "UK government considering takeover of insolvent steelmaker Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-14T14:19:48.053174+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "India names 13-member senior women’s rugby sevens team for 2026 Asian Games",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTk4a2xFcVAwMmI0NXN4Ulo5Ui1EOVFER01pV1pQTjRhVlRaTzZ0TEtPWGM0c3UtSkRpMGpfbGRCQ0w3VGxqc3FOZVNEaDZ6WjNLVk9PRDhkdy15Nklab0hHaTI1VE5CTGwzM1VvR3M5OENzMXdoTk1vX0lMcFZCbnRXQkxXSDZ2UTk4UGdiZTRCT3FYcGRzYzl3a3JCWFU4MGdjOUVZYVZfdlk?oc=5",
+        "published": "2026-09-21T13:53:01+00:00",
+        "published_label": "Mon 21 Sep, 13:53",
+        "summary": "India names 13-member senior women’s rugby sevens team for 2026 Asian Games The News Mill",
+        "body": "Rugby India has announced the senior women’s Rugby Sevens team that will represent the country at the 2026 Asian Games, scheduled from October 1 to 3 in Nagoya, Japan. The 13-member squad will compete in the Women’s Rugby Sevens event at the Paloma Mizuho Rugby Stadium.\n\nIndia has been drawn in Pool B alongside defending champions China, Hong Kong, China, and Malaysia. The Asian Games present a significant milestone for India’s Women’s Rugby Sevens programme. India made its debut in this category at the Guangzhou 2010 Asian Games but missed the 2014 and 2018 editions. The team returned for the Hangzhou 2022 Games, finishing seventh.",
+        "copy": "Rugby India has announced the senior women’s Rugby Sevens team that will represent the country at the 2026 Asian Games, scheduled from October 1 to 3 in Nagoya, Japan. The 13-member squad will compete in the Women’s Rugby Sevens event at the Paloma Mizuho Rugby Stadium.\n\nIndia has been drawn in Pool B alongside defending champions China, Hong Kong, China, and Malaysia. The Asian Games present a significant milestone for India’s Women’s Rugby Sevens programme. India made its debut in this category at the Guangzhou 2010 Asian Games but missed the 2014 and 2018 editions. The team returned for the Hangzhou 2022 Games, finishing seventh.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Leicester close in on another big piece of contract business",
+        "link": "https://www.rugbypass.com/news/leicester-close-in-on-another-big-piece-of-contract-business/",
+        "published": "2026-09-21T13:44:46+00:00",
+        "published_label": "Mon 21 Sep, 13:44",
+        "summary": "Leicester Tigers are closing in on another eve-of-season boost, with England scrum-half Jack van Poortvliet nearing a new deal.",
+        "body": "Leicester Tigers are closing in on another eve-of-season boost, with England scrum-half Jack van Poortvliet nearing a new deal. Norfolk-born Van Poortvliet, 25, joined the Tigers academy at 12 and is in advanced talks with the club about putting pen to paper on a new long-term deal.\n\nThe Tigers, who missed out on a Gallagher PREM final appearance last season after losing a semi-final to arch-rivals Northampton Saints, kick off the new campaign against Saracens at Welford Road on Sunday afternoon.",
+        "copy": "Leicester Tigers are closing in on another eve-of-season boost, with England scrum-half Jack van Poortvliet nearing a new deal. Norfolk-born Van Poortvliet, 25, joined the Tigers academy at 12 and is in advanced talks with the club about putting pen to paper on a new long-term deal.\n\nThe Tigers, who missed out on a Gallagher PREM final appearance last season after losing a semi-final to arch-rivals Northampton Saints, kick off the new campaign against Saracens at Welford Road on Sunday afternoon.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'Statement of intent' re-signing of Sean Jansen excites Stuart Lancaster",
+        "link": "https://www.rugbypass.com/news/statement-of-intent-re-signing-of-sean-jansen-excites-stuart-lancaster/",
+        "published": "2026-09-21T13:33:46+00:00",
+        "published_label": "Mon 21 Sep, 13:33",
+        "summary": "The No.8's current contract was due to expire next summer but the western province have moved quickly to secure the services of last season's Player of the Year.",
+        "body": "Ireland international Sean Jansen has extended his stay at Connacht beyond the end of this season after signing a new two-year deal, which will run until at least 2029. The No.8’s current contract was due to expire next summer but the western province have moved quickly to secure the services of last season’s Player of the Year.\n\nJansen signed from Leicester in 2023 and has become a fan favourite at the Dexcom Stadium due to his ball-carrying ability and try-scoring performances. Last season he scored 12 tries in 20 appearances, while he also made an immense contribution in defence, coming third in the URC rankings for tackles made (219).",
+        "copy": "Ireland international Sean Jansen has extended his stay at Connacht beyond the end of this season after signing a new two-year deal, which will run until at least 2029. The No.8’s current contract was due to expire next summer but the western province have moved quickly to secure the services of last season’s Player of the Year.\n\nJansen signed from Leicester in 2023 and has become a fan favourite at the Dexcom Stadium due to his ball-carrying ability and try-scoring performances. Last season he scored 12 tries in 20 appearances, while he also made an immense contribution in defence, coming third in the URC rankings for tackles made (219).",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "New signing blow for Bath as prop delivers bad news",
+        "link": "https://www.rugbypass.com/news/new-signing-blow-for-bath-as-prop-delivers-bad-news/",
+        "published": "2026-09-21T13:18:18+00:00",
+        "published_label": "Mon 21 Sep, 13:18",
+        "summary": "Jamie Bhatti's second spell at Bath has been derailed almost as soon as it has begun after the Scotland prop revealed he has broken his arm via social media.",
+        "body": "Jamie Bhatti’s second spell at Bath has been derailed almost as soon as it has begun after the Scotland prop revealed he has broken his arm via social media. Bhatti posted an image of an x-ray revealing the fracture on his personal Instagram account, which has yet to be officially confirmed by the club.\n\nThe 33-year-old, who arrived in the summer on a two-year deal, suffered the injury 10 minutes after coming on against his former club Glasgow in Bath’s final pre-season game at Old Anniesland last Friday.",
+        "copy": "Jamie Bhatti’s second spell at Bath has been derailed almost as soon as it has begun after the Scotland prop revealed he has broken his arm via social media. Bhatti posted an image of an x-ray revealing the fracture on his personal Instagram account, which has yet to be officially confirmed by the club.\n\nThe 33-year-old, who arrived in the summer on a two-year deal, suffered the injury 10 minutes after coming on against his former club Glasgow in Bath’s final pre-season game at Old Anniesland last Friday.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Eddie Hearn lets cat out of the bag on Henry Pollock",
+        "link": "https://www.rugbypass.com/news/eddie-hearn-lets-cat-out-of-the-bag-on-henry-pollock/",
+        "published": "2026-09-21T12:57:23+00:00",
+        "published_label": "Mon 21 Sep, 12:57",
+        "summary": "England flanker Henry Pollock will sign a new contract with Northampton Saints tomorrow after boxing promoter Eddie Hearn let the cat out of the bag with an Instagram post.",
+        "body": "England flanker Henry Pollock will sign a new contract with Northampton Saints tomorrow after boxing promoter Eddie Hearn let the cat out of the bag with an Instagram post. Pollock, who was offered a deal by Newcastle Red Bulls, has been closing in on a new contract with the Gallagher PREM champions for the last few weeks, despite saying last week in a pre-season media session that he was open to offers.\n\n“I’m so young, so I think it’s only right that I assess those options and find the best decision for myself. Your career is so short that you look back on yourself, and you almost regret not exploring new avenues, exploring different things.",
+        "copy": "England flanker Henry Pollock will sign a new contract with Northampton Saints tomorrow after boxing promoter Eddie Hearn let the cat out of the bag with an Instagram post. Pollock, who was offered a deal by Newcastle Red Bulls, has been closing in on a new contract with the Gallagher PREM champions for the last few weeks, despite saying last week in a pre-season media session that he was open to offers.\n\n“I’m so young, so I think it’s only right that I assess those options and find the best decision for myself. Your career is so short that you look back on yourself, and you almost regret not exploring new avenues, exploring different things.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "URC 2026/2027 squads rated: Munster",
+        "link": "https://www.rugbypass.com/news/urc-2026-2027-squads-rated-munster/",
+        "published": "2026-09-21T12:50:23+00:00",
+        "published_label": "Mon 21 Sep, 12:50",
+        "summary": "Munster's squad for 2026/27 feels like one caught between cycles. Clayton McMillan's outfit remains capable of putting a highly competitive XV on the field...",
+        "body": "Munster’s squad for 2026/27 feels like one caught between cycles. Clayton McMillan’s outfit remains capable of putting a highly competitive XV on the field, but a closer look at the depth chart reveals a group that is still searching for its next generation of talent and one that is light on marquee players.\n\nThere is quality in key areas. Tadhg Beirne remains world-class, Craig Casey is central to almost everything Munster do, and Jack Crowley, if he can get back to full fitness in 2027, is still the standout talent in the backline.",
+        "copy": "Munster’s squad for 2026/27 feels like one caught between cycles. Clayton McMillan’s outfit remains capable of putting a highly competitive XV on the field, but a closer look at the depth chart reveals a group that is still searching for its next generation of talent and one that is light on marquee players.\n\nThere is quality in key areas. Tadhg Beirne remains world-class, Craig Casey is central to almost everything Munster do, and Jack Crowley, if he can get back to full fitness in 2027, is still the standout talent in the backline.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'I want people to know who Rodrigo Marta is' - Portugal's history-making Top 14 try machine",
+        "link": "https://www.rugbypass.com/plus/i-want-people-to-know-who-rodrigo-marta-is-portugals-history-making-top-14-try-machine/",
+        "published": "2026-09-21T12:46:42+00:00",
+        "published_label": "Mon 21 Sep, 12:46",
+        "summary": "Once lax and unprofessional, Marta is now approaching half a century of Test tries, including the most famous score in Portuguese rugby history.",
+        "body": "Rodrigo Marta scores tries. He has scored against Hong Kong China. He has scored against Switzerland. He has scored against most of the nations on the Rugby Europe scene. He has scored twice in one game against the Azzurri of Italy. He has scored a bucketload in the ProD2 in France at a rate of close to one every other match. Recently, Marta has scored five tries in three games at the start of this Top 14 season. And he scored the most famous try in Portuguese rugby history, a swan dive in the south of France which took the Lobos to the promised land.\n\nAt just 26 years old, the Section Paloise back has 42 Test tries. On rugby’s all time list of international scorers, he is above Damian Penaud and Adam Ashley-Cooper. Jeff Wilson, Christian Cullen and Brian O’Driscoll are a few ahead of him. Marta is seven tries adrift of a place in the top 10.",
+        "copy": "Rodrigo Marta scores tries. He has scored against Hong Kong China. He has scored against Switzerland. He has scored against most of the nations on the Rugby Europe scene. He has scored twice in one game against the Azzurri of Italy. He has scored a bucketload in the ProD2 in France at a rate of close to one every other match. Recently, Marta has scored five tries in three games at the start of this Top 14 season. And he scored the most famous try in Portuguese rugby history, a swan dive in the south of France which took the Lobos to the promised land.\n\nAt just 26 years old, the Section Paloise back has 42 Test tries. On rugby’s all time list of international scorers, he is above Damian Penaud and Adam Ashley-Cooper. Jeff Wilson, Christian Cullen and Brian O’Driscoll are a few ahead of him. Marta is seven tries adrift of a place in the top 10.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "India name 13-member women's rugby sevens squad for Asian Games",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1drUEFoSkNRZDY5dFhvREJmQjZMWF9BRl8ydldUZUgxZzRKMnFQRERoZXJlcGpvVTlGWlBDeFF6bDIyQmhYZ2ZLZ3oyR2Vib0ZFTXhKMFFnZXdjc1kzeDl2bDMwTi1fUjFMZzNKTko5MkVhZzVVTm5NakxLaGl4QXNRczQ?oc=5",
+        "published": "2026-09-21T12:43:00+00:00",
+        "published_label": "Mon 21 Sep, 12:43",
+        "summary": "India name 13-member women's rugby sevens squad for Asian Games Daily Pioneer",
+        "body": "India on Monday named a 13-member senior women's rugby sevens squad for the 2026 Asian Games, with Shikha Yadav appointed captain. The rugby sevens competition will be held from October 1 to 3 in Nagoya, with India drawn in Pool B alongside defending champions China, Hong Kong China and Malaysia.\n\nIndia made its Asian Games debut in women's rugby sevens at the 2010 Guangzhou Games but missed the 2014 and 2018 editions. The team returned at Hangzhou in 2022 and finished seventh.",
+        "copy": "India on Monday named a 13-member senior women's rugby sevens squad for the 2026 Asian Games, with Shikha Yadav appointed captain. The rugby sevens competition will be held from October 1 to 3 in Nagoya, with India drawn in Pool B alongside defending champions China, Hong Kong China and Malaysia.\n\nIndia made its Asian Games debut in women's rugby sevens at the 2010 Guangzhou Games but missed the 2014 and 2018 editions. The team returned at Hangzhou in 2022 and finished seventh.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "URC 2026/2027 squads rated: Sharks",
+        "link": "https://www.rugbypass.com/news/urc-2026-2027-squads-rated-sharks-eben-etzebeth-maa-nonu-springboks-south-africa/",
+        "published": "2026-09-21T12:10:08+00:00",
+        "published_label": "Mon 21 Sep, 12:10",
+        "summary": "After a dismal United Rugby Championship campaign last season, when they finished 10th having ended the previous season third, the Sharks have embarked on quite a recruitment drive.",
+        "body": "After a dismal United Rugby Championship campaign last season, when they finished 10th having ended the previous season third, the Sharks have embarked on quite a recruitment drive.\n\nWhile JP Pietersen’s side have welcomed many players, they have also seen plenty leave, including several of Rassie Erasmus’ favourites for the Springboks. The result is a Sharks 67-man squad containing a large contingent of Springboks in their mid-to-late 30s, allied with a host of South Africa U20 internationals and recent Junior Springboks who have plenty of potential but are yet to fully prove themselves.",
+        "copy": "After a dismal United Rugby Championship campaign last season, when they finished 10th having ended the previous season third, the Sharks have embarked on quite a recruitment drive.\n\nWhile JP Pietersen’s side have welcomed many players, they have also seen plenty leave, including several of Rassie Erasmus’ favourites for the Springboks. The result is a Sharks 67-man squad containing a large contingent of Springboks in their mid-to-late 30s, allied with a host of South Africa U20 internationals and recent Junior Springboks who have plenty of potential but are yet to fully prove themselves.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4277,61 +4381,35 @@
         "body": "Champ Rugby has moved with the times and adopted the Top 14 try bonus system to reflect the growing trend of high-scoring matches. While the Gallagher PREM continue to award try bonus points to teams scoring four tries whether they win or lose, the Elior Champ has decided to take a different stance ahead of Friday’s opening match of the season between Nottingham and newly-promoted Blackheath.\n\nNow, only teams scoring three tries or more than their opponents will get rewarded. The losing bonus point system remains the same, though, with teams losing by seven points or fewer picking up an extra point.",
         "copy": "Champ Rugby has moved with the times and adopted the Top 14 try bonus system to reflect the growing trend of high-scoring matches. While the Gallagher PREM continue to award try bonus points to teams scoring four tries whether they win or lose, the Elior Champ has decided to take a different stance ahead of Friday’s opening match of the season between Nottingham and newly-promoted Blackheath.\n\nNow, only teams scoring three tries or more than their opponents will get rewarded. The losing bonus point system remains the same, though, with teams losing by seven points or fewer picking up an extra point.",
         "first_seen": "2026-09-14T17:37:22.995517+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "France name elite group of players to be protected by 9-Test cap",
-        "link": "https://www.rugbypass.com/news/france-name-elite-group-of-players-to-be-protected-by-9-test-cap/",
-        "published": "2026-09-14T13:32:57+00:00",
-        "published_label": "Mon 14 Sep, 13:32",
-        "summary": "The 33 French internationals who'll benefit from a new initiative designed to reduce their playing time during the club season have been named.",
-        "body": "The 33 French internationals who’ll benefit from a new initiative designed to reduce their playing time during the club season, preventing exhaustion and keeping them in peak condition for the upcoming World Cup, have been named.\n\nFrench outlet Midi Olympique revealed the list on Sunday, but the players and clubs concerned were already aware of the initiative, having been informed in advance by the Fédération Française de Rugby and the Ligue Nationale de Rugby.",
-        "copy": "The 33 French internationals who’ll benefit from a new initiative designed to reduce their playing time during the club season, preventing exhaustion and keeping them in peak condition for the upcoming World Cup, have been named.\n\nFrench outlet Midi Olympique revealed the list on Sunday, but the players and clubs concerned were already aware of the initiative, having been informed in advance by the Fédération Française de Rugby and the Ligue Nationale de Rugby.",
-        "first_seen": "2026-09-14T14:19:48.053174+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "2026 WXV Global Series preview: Japan",
-        "link": "https://www.rugbypass.com/news/2026-wxv-global-series-preview-japan/",
-        "published": "2026-09-14T13:00:33+00:00",
-        "published_label": "Mon 14 Sep, 13:00",
-        "summary": "With the appointment of Toshizumi Kitagawa as Japan’s head coach for the 2029 Women's Rugby World Cup cycle, the Sakura will be looking to impress fans over at the WXV Global Series.",
-        "body": "With the appointment of Toshizumi Kitagawa as Japan’s head coach for the Women’s Rugby World Cup 2029 cycle, the Sakura Fifteen will be looking to impress fans over at the WXV Global Series.\n\nBut what can we expect from a team that has managed to narrow the gap to the top in recent years? And who will star for them against the likes of Italy, Ireland and Wales? We tried to answer a few questions and paint a full picture of a side looking for greatness.",
-        "copy": "With the appointment of Toshizumi Kitagawa as Japan’s head coach for the Women’s Rugby World Cup 2029 cycle, the Sakura Fifteen will be looking to impress fans over at the WXV Global Series.\n\nBut what can we expect from a team that has managed to narrow the gap to the top in recent years? And who will star for them against the likes of Italy, Ireland and Wales? We tried to answer a few questions and paint a full picture of a side looking for greatness.",
-        "first_seen": "2026-09-14T14:19:48.053174+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "PREM breakthrough star Campbell Ridl suffers 'significant' injury",
-        "link": "https://www.rugbypass.com/news/prem-breakthrough-star-suffers-significant-injury/",
-        "published": "2026-09-14T12:57:21+00:00",
-        "published_label": "Mon 14 Sep, 12:57",
-        "summary": "Exeter Chiefs are expected this week to confirm that highly-rated winger Campbell Ridl will miss most, if not all, of the 2026-27 season after a scan reveals that he has suffered an ACL injury.",
-        "body": "Exeter Chiefs are expected to confirm this week that highly-rated winger Campbell Ridl will miss most, if not all, of the 2026-27 season after a scan reveals that he has suffered an ACL injury.\n\nThe former England under-20 international, who also plays full-back and outside centre, enjoyed an outstanding breakout campaign with the Chiefs last season, scoring 17 tries in 21 appearances.",
-        "copy": "Exeter Chiefs are expected to confirm this week that highly-rated winger Campbell Ridl will miss most, if not all, of the 2026-27 season after a scan reveals that he has suffered an ACL injury.\n\nThe former England under-20 international, who also plays full-back and outside centre, enjoyed an outstanding breakout campaign with the Chiefs last season, scoring 17 tries in 21 appearances.",
-        "first_seen": "2026-09-14T14:19:48.053174+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Women's rugby not to blame for region axe",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cpwl1w5288ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-14T12:56:20+00:00",
-        "published_label": "Mon 14 Sep, 12:56",
-        "summary": "The director of women's rugby at the Welsh Rugby Union (WRU) has hit back at \"embarrassing\" claims over why a men'e region is being axed.",
-        "body": "The Welsh Rugby Union (WRU) has hit back at claims the women's programme is a financial drain on the men's game. WRU women's rugby director Nadine Griffiths said allegations she had read on social media that a region is to be cut because of investment in the women's game were \"embarrassing\".\n\nAnd she added the women's game had in fact made money for the governing body. The Union has had a professional women's programme since the start of 2022 and there are now more than 40 contracted players.",
-        "copy": "The Welsh Rugby Union (WRU) has hit back at claims the women's programme is a financial drain on the men's game. WRU women's rugby director Nadine Griffiths said allegations she had read on social media that a region is to be cut because of investment in the women's game were \"embarrassing\".\n\nAnd she added the women's game had in fact made money for the governing body. The Union has had a professional women's programme since the start of 2022 and there are now more than 40 contracted players.",
-        "first_seen": "2026-09-14T14:19:48.053174+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c6n453wd3gdyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-21T13:34:05+00:00",
+        "published_label": "Mon 21 Sep, 13:34",
+        "summary": "Great Britain face the Czech Republic at the Billie Jean King Cup Finals on Tuesday - and know full well the size of the challenge facing them.",
+        "body": "\"It's best not to underestimate us,\" says a defiant Harriet Dart. But Great Britain's Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.\n\nOn Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
+        "copy": "\"It's best not to underestimate us,\" says a defiant Harriet Dart. But Great Britain's Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.\n\nOn Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Davis Cup: Great Britain book place in Finals as Neal Skupski and Henry Patten victory over Ecuador",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd3hJVUVBZTY2a3hSRjB1aGp2eWE0VmFtdk1oSUt6UjMwblhfdUNld01HMG05S1M4VzJLZ3VWbXhxRUs3dm8xXzZGU1ZweW1IbkNLc3ctRzJzZElpQk5nV2pWdmJ5OWpON0t0MWdIaEdVZkxLSzZLOWlrWXVxTFFjVldBTFhnTHN0cTNqQW9McGlfSUFIN21iRGRleWhoZnJtaVIxU0lIYmpYNGwzbmhDNWhBQ040SWd1SkEteGJoMEFsZGtQYk0ydlQwUmNIV1JaQndQYTVxeGNXX2N5OHc?oc=5",
+        "published": "2026-09-21T10:35:48+00:00",
+        "published_label": "Mon 21 Sep, 10:35",
+        "summary": "Davis Cup: Great Britain book place in Finals as Neal Skupski and Henry Patten victory over Ecuador Sky Sports",
+        "body": "Great Britain wrapped up a straightforward victory over Ecuador to book their place at the Davis Cup Finals in November. After singles victories for Arthur Fery and Toby Samuel on Saturday at London's Copper Box, Henry Patten and Neal Skupski clinched the tie at the earliest opportunity with a 6-3 6-4 win against Gonzalo Escobar and Diego Hidalgo in the doubles rubber.\n\nBritain therefore join three-time defending champions Italy, Canada, Czech Republic, South Korea and Austria in booking their spot for the eight-team event in Bologna. It is the first time Leon Smith's side have reached the quarter-finals since 2023, when they were beaten by Novak Djokovic's Serbia in Malaga.",
+        "copy": "Great Britain wrapped up a straightforward victory over Ecuador to book their place at the Davis Cup Finals in November. After singles victories for Arthur Fery and Toby Samuel on Saturday at London's Copper Box, Henry Patten and Neal Skupski clinched the tie at the earliest opportunity with a 6-3 6-4 win against Gonzalo Escobar and Diego Hidalgo in the doubles rubber.\n\nBritain therefore join three-time defending champions Italy, Canada, Czech Republic, South Korea and Austria in booking their spot for the eight-team event in Bologna. It is the first time Leon Smith's side have reached the quarter-finals since 2023, when they were beaten by Novak Djokovic's Serbia in Malaga.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4461,6 +4539,19 @@
         "body": "",
         "copy": "Watch the best shots from Arthur Fery's victory over Alvaro Guillen Meza as he helps Great Britain take a 2-0 lead over Ecuador in their Davis Cup qualifying match.",
         "first_seen": "2026-09-20T10:34:47.334282+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Davis Cup: Arthur Fery and Toby Samuel give Great Britain lead over Ecuador to move them closer to knockout stage",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORS1MUUZ0RjRQNDBKRFFOdHRMdnZ0eWNlRVZRZ3V6b09sZ0pfZVdLNmxQQnJzT0ktMXRtZGVueENsOGpWR0J5d29JWktXVjdlQnRUZVBPTFpHR0x3MW90ZWpHMW80U19rSjdfV21ON0NZM3lXQ2VXQWtxSy1BczJYUzZJbGkwQkdoeFF4T1Z0Rkh4ei02QWNQTmNLaTJEajZ6THluTzVPVlBrTEFLZ0RCSE1wdGZ3XzJwUnhlR2YxLXd4cjVRUmZ3cFZfLTRURzA3aEdidDlwa2UtS0dXSEtadGxVY1hSVncycE1HanhKT1U?oc=5",
+        "published": "2026-09-19T17:40:55+00:00",
+        "published_label": "Sat 19 Sep, 17:40",
+        "summary": "Davis Cup: Arthur Fery and Toby Samuel give Great Britain lead over Ecuador to move them closer to knockout stage Sky Sports",
+        "body": "Arthur Fery and Toby Samuel secured wins for Great Britain over Ecuador in the Davis Cup. Samuel beat Andres Andrade 4-6 6-4 6-1 in the opening match before Wimbledon semi-finalist Fery defeated Alvaro Guillen Meza 7-5 6-0.\n\nGreat Britain are now one win away from the Davis Cup Final 8. On Sunday, Great Britain duo Henry Patten and Neal Skupski will take on Gonzalo Escobar and Diego Hidalgo in the doubles where they could secure their passage into the knockout stage for the first time since 2023.",
+        "copy": "Arthur Fery and Toby Samuel secured wins for Great Britain over Ecuador in the Davis Cup. Samuel beat Andres Andrade 4-6 6-4 6-1 in the opening match before Wimbledon semi-finalist Fery defeated Alvaro Guillen Meza 7-5 6-0.\n\nGreat Britain are now one win away from the Davis Cup Final 8. On Sunday, Great Britain duo Henry Patten and Neal Skupski will take on Gonzalo Escobar and Diego Hidalgo in the doubles where they could secure their passage into the knockout stage for the first time since 2023.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
       },
       {
         "section": "Tennis",
@@ -4955,48 +5046,61 @@
         "body": "Alexander Zverev may have just won the US Open title, but the reaction has been far from overwhelmingly positive. After all, one negative narrative that really picked up as he went through the competition surrounded his serve, and particularly how long it took him to toss the ball.\n\nIt was stated that he had bounced the ball roughly 12,000 times before the semi-final, and during the final, the umpire had to warn him for taking too long between serves. Ben Shelton has discussed this controversy surrounding Zverev already following his loss, whilst others have called for a rule change because of it.",
         "copy": "Alexander Zverev may have just won the US Open title, but the reaction has been far from overwhelmingly positive. After all, one negative narrative that really picked up as he went through the competition surrounded his serve, and particularly how long it took him to toss the ball.\n\nIt was stated that he had bounced the ball roughly 12,000 times before the semi-final, and during the final, the umpire had to warn him for taking too long between serves. Ben Shelton has discussed this controversy surrounding Zverev already following his loss, whilst others have called for a rule change because of it.",
         "first_seen": "2026-09-15T11:04:29.002243+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "From Challenger Tour to Davis Cup",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cx2zn34j47no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-14T12:13:20+00:00",
-        "published_label": "Mon 14 Sep, 12:13",
-        "summary": "Briton Toby Samuel is to make his Davis Cup debut for Great Britain after what he calls a \"surreal\" 12 months.",
-        "body": "Toby Samuel says it was \"one of the best moments in my life\" when he was selected in Great Britain's Davis Cup team to face Ecuador this weekend after a breakthrough year. The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.\n\n\"It's surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I'm sat here ready to play the Davis Cup - it's crazy,\" he told BBC Points West.",
-        "copy": "Toby Samuel says it was \"one of the best moments in my life\" when he was selected in Great Britain's Davis Cup team to face Ecuador this weekend after a breakthrough year. The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.\n\n\"It's surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I'm sat here ready to play the Davis Cup - it's crazy,\" he told BBC Points West.",
-        "first_seen": "2026-09-14T14:19:48.053174+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "How far Emma Raducanu has fallen in the WTA rankings after not playing in the US Open",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlVwY3BlVU5GakF3SWxwSmVQNFAzek80d1R6UW1mLUM1UlFDN0ZyQWVPZkpobW45ZVp0Z0dLTmFPdlBmS3F5NHR5eldUTUdYLXgwWkhUa29JeldSQkRJaE9jcjc4NWNkSWVZTmdiV3RmcXVWLXl3ZThmZ3g4Q1RNZFNSemM5UmRNZ2N4cklNc2RoM1EtbVJtQ05wcktzQjBGT1VCSXVfVHBYZkZVaEE?oc=5",
-        "published": "2026-09-14T12:00:00+00:00",
-        "published_label": "Mon 14 Sep, 12:00",
-        "summary": "How far Emma Raducanu has fallen in the WTA rankings after not playing in the US Open Tennishead",
-        "body": "Emma Raducanu has suffered another setback amid her current injury absence. Raducanu won the US Open in 2021, but on the five-year anniversary of her famous victory, she was unable to compete at the New York major.\n\nThis came as a result of a stress fracture Raducanu suffered in her right lower leg during the grass court season, which also forced her to withdraw from Wimbledon. With Raducanu unable to earn any ranking points at the US Open this year, she has now suffered a significant drop in the latest update.",
-        "copy": "Emma Raducanu has suffered another setback amid her current injury absence. Raducanu won the US Open in 2021, but on the five-year anniversary of her famous victory, she was unable to compete at the New York major.\n\nThis came as a result of a stress fracture Raducanu suffered in her right lower leg during the grass court season, which also forced her to withdraw from Wimbledon. With Raducanu unable to earn any ranking points at the US Open this year, she has now suffered a significant drop in the latest update.",
-        "first_seen": "2026-09-14T14:19:48.053174+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "How far Emma Raducanu has fallen in the WTA rankings after not playing in the US Open",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjB1enhtTnhnM0h5QktXZld1SDBMeDJ2YjFWNTB4U2JRWTg0VTl1VFpjV21pZjBVVXlQNC1CWC11WVFRNHVqUndRQURmdHlQWnRQd3k2OHg4WU15V3I1OEpjVEhqSXNuSXZldXlXc1M1RzVSNGVwMmdWR1N4WVltWnlxcw?oc=5",
-        "published": "2026-09-14T12:00:00+00:00",
-        "published_label": "Mon 14 Sep, 12:00",
-        "summary": "How far Emma Raducanu has fallen in the WTA rankings after not playing in the US Open Yahoo Sports",
-        "body": "Emma Raducanu has suffered another setback amid her current injury absence. Raducanu won the US Open in 2021, but on the five-year anniversary of her famous victory, she was unable to compete at the New York major.\n\nThis came as a result of a stress fracture Raducanu suffered in her right lower leg during the grass court season, which also forced her to withdraw from Wimbledon. With Raducanu unable to earn any ranking points at the US Open this year, she has now suffered a significant drop in the latest update.",
-        "copy": "Emma Raducanu has suffered another setback amid her current injury absence. Raducanu won the US Open in 2021, but on the five-year anniversary of her famous victory, she was unable to compete at the New York major.\n\nThis came as a result of a stress fracture Raducanu suffered in her right lower leg during the grass court season, which also forced her to withdraw from Wimbledon. With Raducanu unable to earn any ranking points at the US Open this year, she has now suffered a significant drop in the latest update.",
-        "first_seen": "2026-09-14T21:26:28.049264+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf drama deepens as Saudi backers and new investor clash over 2027 future",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc09xVVRXQnR4YXlPWnZPaFZSSEp0Snljei1QZWhrZXc2WkppaDdyMWQxQzdRaVVVcEt0Mi1oUDUzYjlUNjVqY2wzTTdVY1ZfX1NxN1c0d3pzMjh2VmRLUW0yODlmN3Btdm9ORkFxcXAzUnhsdzJLY3VvTktsNnVYYTRucHVjcXAyZmptd0oyRGVJb1BIaFBvWVZ2eGExcDM4djNsV0RPNFcxQnU0YzBoQUdNeDJJRm8?oc=5",
+        "published": "2026-09-21T13:38:46+00:00",
+        "published_label": "Mon 21 Sep, 13:38",
+        "summary": "LIV Golf drama deepens as Saudi backers and new investor clash over 2027 future Golfmagic",
+        "body": "LIV Golf's proposed 2027 comeback has been plunged into fresh uncertainty, with tensions reportedly escalating behind the scenes between Saudi Arabia's Public Investment Fund (PIF) and the private equity firm tasked with saving the breakaway league.\n\nAccording to the Financial Times, PIF is demanding greater assurances from BC Partners that it is genuinely committed to reviving LIV Golf, rather than simply pursuing the league's enormous tax-loss assets.",
+        "copy": "LIV Golf's proposed 2027 comeback has been plunged into fresh uncertainty, with tensions reportedly escalating behind the scenes between Saudi Arabia's Public Investment Fund (PIF) and the private equity firm tasked with saving the breakaway league.\n\nAccording to the Financial Times, PIF is demanding greater assurances from BC Partners that it is genuinely committed to reviving LIV Golf, rather than simply pursuing the league's enormous tax-loss assets.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Asian Tour Cancels Q-School After 'Devastating' LIV Golf Loss",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWZfc01wbGlOYk4xVmhrWEl2MjhYSjdfbDR5TXlLV2JGLWFBcnY3UERaUEw1dzlwUmxPLU9Gay13bW40X1RrckszVFh0SnhpanFSdEpGRUpmTjJ5eURScXQ3UExvMHk5dW9SQmJJUTItTEdmRFU1VTRMT1psVkJmT1dENHVUdW5LWEc5NDI0eDBYTmxYdnZZ?oc=5",
+        "published": "2026-09-21T13:08:20+00:00",
+        "published_label": "Mon 21 Sep, 13:08",
+        "summary": "Asian Tour Cancels Q-School After 'Devastating' LIV Golf Loss Golf Monthly",
+        "body": "The Asian Tour has announced that it has taken the “difficult decision” to cancel its 2027 Qualifying School. It comes during a season that has thrown up various challenges, most notably the loss of LIV Golf as a partner and, as a result, the end of The International Series.\n\nSaudi Arabia’s Public Investment Fund decided to stop bankrolling LIV Golf beyond this season, leaving the future of the breakaway league in jeopardy. That also led to the cancellation of several International Series events and, therefore, less playing opportunities for Asian Tour members, a consideration that was the driving force behind the latest announcement.",
+        "copy": "The Asian Tour has announced that it has taken the “difficult decision” to cancel its 2027 Qualifying School. It comes during a season that has thrown up various challenges, most notably the loss of LIV Golf as a partner and, as a result, the end of The International Series.\n\nSaudi Arabia’s Public Investment Fund decided to stop bankrolling LIV Golf beyond this season, leaving the future of the breakaway league in jeopardy. That also led to the cancellation of several International Series events and, therefore, less playing opportunities for Asian Tour members, a consideration that was the driving force behind the latest announcement.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Robert MacIntyre blasts ‘ridiculous’ rule that sent him spiraling",
+        "link": "https://golf.com/news/robert-macintyre-blasts-ridiculous-rule-that-sent-him-spiraling/",
+        "published": "2026-09-21T12:38:26+00:00",
+        "published_label": "Mon 21 Sep, 12:38",
+        "summary": "Robert MacIntyre was none to pleased with an embedded-ball ruling he received at the BMW PGA Championship on Sunday. The post Robert MacIntyre blasts ‘ridiculous’ rule that sent him spiraling appeared first on Golf .",
+        "body": "Robert MacIntyre couldn’t have asked for a better three-hole finish at the DP World Tour’s big-money BMW PGA Championship on Sunday. Birdie. Birdie. Eagle. The four-under blitz at Wentworth moved MacIntyre to three under for his round and 13 under for the week, good for a share of 10th place. Still, after signing his card, the combustible Scotsman wasn’t exactly all sunshine and rainbows.\n\nHe had a gripe to air, and air it he did, to The Scotsman’s Martin Dempster. MacIntyre, who is ranked 19th in the world, was still stewing from what he described as a “ridiculous” ruling on the 11th, a par-4 on which his drive had found the left-center of the fairway. When MacIntyre arrived at his ball, he found it plugged — or at least semi-plugged — in another player’s pitch mark. The good news for MacIntyre was that a 2026 rule change seemingly meant that he’d be afforded relief for his submerged ball. The bad news: Model Local Rule F-2 includes an exception: If a referee determines that the pitch mark has been repaired in some way, the player will not receive relief.",
+        "copy": "Robert MacIntyre couldn’t have asked for a better three-hole finish at the DP World Tour’s big-money BMW PGA Championship on Sunday. Birdie. Birdie. Eagle. The four-under blitz at Wentworth moved MacIntyre to three under for his round and 13 under for the week, good for a share of 10th place. Still, after signing his card, the combustible Scotsman wasn’t exactly all sunshine and rainbows.\n\nHe had a gripe to air, and air it he did, to The Scotsman’s Martin Dempster. MacIntyre, who is ranked 19th in the world, was still stewing from what he described as a “ridiculous” ruling on the 11th, a par-4 on which his drive had found the left-center of the fairway. When MacIntyre arrived at his ball, he found it plugged — or at least semi-plugged — in another player’s pitch mark. The good news for MacIntyre was that a 2026 rule change seemingly meant that he’d be afforded relief for his submerged ball. The bad news: Model Local Rule F-2 includes an exception: If a referee determines that the pitch mark has been repaired in some way, the player will not receive relief.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Presidents Cup: TV schedule, streaming, how to watch, team rosters",
+        "link": "https://golf.com/news/2026-presidents-cup-tv-streaming-watch-rosters/",
+        "published": "2026-09-21T12:18:47+00:00",
+        "published_label": "Mon 21 Sep, 12:18",
+        "summary": "How to watch the 2026 Presidents Cup at Medinah Country Club in Chicago, including a full Presidents Cup TV schedule and streaming info. The post 2026 Presidents Cup: TV schedule, streaming, how to watch, team rosters appeared first on Golf .",
+        "body": "The 2026 Presidents Cup kicks off this week at Medinah Country Club in Chicago, where the U.S. team will aim to continue its dominance over the International side in the biennial team event. Here is our complete viewer’s guide for the tournament, including a full Presidents Cup TV schedule, streaming info, team rosters and matchups once they are released.\n\nAt the last playing of the Presidents Cup two years ago, the International team couldn’t take advantage of playing on home soil at Royal Montreal Golf Club in Canada. Instead, the U.S. team continued its winning ways in the event, adding a 10th-straight victory to push its overall record to 13-1-1.",
+        "copy": "The 2026 Presidents Cup kicks off this week at Medinah Country Club in Chicago, where the U.S. team will aim to continue its dominance over the International side in the biennial team event. Here is our complete viewer’s guide for the tournament, including a full Presidents Cup TV schedule, streaming info, team rosters and matchups once they are released.\n\nAt the last playing of the Presidents Cup two years ago, the International team couldn’t take advantage of playing on home soil at Royal Montreal Golf Club in Canada. Instead, the U.S. team continued its winning ways in the event, adding a 10th-straight victory to push its overall record to 13-1-1.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -5009,6 +5113,19 @@
         "body": "Roula Khalaf, Editor of the FT, selects her favourite stories in this weekly newsletter. The private equity firm that has struck a preliminary deal to save LIV Golf is set to commit up to $10mn to help fund the league’s US bankruptcy in an effort to allay concerns that it is not serious about relaunching the upstart golf tour.\n\nWhen LIV entered bankruptcy on September 8, it trumpeted a rescue deal with BC Partners that included a commitment from the firm to invest $300mn post-bankruptcy to finance a “LIV 2.0” circuit debuting in 2027.",
         "copy": "Roula Khalaf, Editor of the FT, selects her favourite stories in this weekly newsletter. The private equity firm that has struck a preliminary deal to save LIV Golf is set to commit up to $10mn to help fund the league’s US bankruptcy in an effort to allay concerns that it is not serious about relaunching the upstart golf tour.\n\nWhen LIV entered bankruptcy on September 8, it trumpeted a rescue deal with BC Partners that included a commitment from the firm to invest $300mn post-bankruptcy to finance a “LIV 2.0” circuit debuting in 2027.",
         "first_seen": "2026-09-21T11:55:29.386425+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Joaquin Niemann lifts lid on LIV Golf contract talks",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc2VVelNWTkRLTERnNXJWT3FQd2RTYUdvbW83Y1VkRlN0MW5QdTN6SnZPWFpiY3NSSFp4azRyT3F6dUxfLVZlM3ZOcm5JZjRxTWF1UDVERjB2R0tmcWcweVJHakNxeEN5V19oNjFDQ1VPeWUyak5Hdmo2aXJSMS1WdGhNWQ?oc=5",
+        "published": "2026-09-21T10:10:29+00:00",
+        "published_label": "Mon 21 Sep, 10:10",
+        "summary": "Joaquin Niemann lifts lid on LIV Golf contract talks bunkered.co.uk",
+        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Joaquin Niemann has provided a curious update on his LIV Golf 2.0 contract situation.\n\nSpeaking to Golf Digest at the BMW PGA Championship, the Chilean was asked if he had committed to LIV for 2027. “No, nothing yet,” he said in response to Evin Priest’s question.",
+        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Joaquin Niemann has provided a curious update on his LIV Golf 2.0 contract situation.\n\nSpeaking to Golf Digest at the BMW PGA Championship, the Chilean was asked if he had committed to LIV for 2027. “No, nothing yet,” he said in response to Evin Priest’s question.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
       },
       {
         "section": "Golf",
@@ -5334,6 +5451,19 @@
         "body": "Bryson DeChambeau is one of the biggest global stars in the professional game. However, DeChambeau is currently in limbo regarding his future, with LIV Golf set to operate on a much smaller scale moving forward.\n\nIt will be very interesting to see what the 33-year-old American actually decides to do next year. Will Bryson DeChambeau continue on the watered down version of LIV Golf? Or will he push himself and try to earn his way back to the PGA Tour?",
         "copy": "Bryson DeChambeau is one of the biggest global stars in the professional game. However, DeChambeau is currently in limbo regarding his future, with LIV Golf set to operate on a much smaller scale moving forward.\n\nIt will be very interesting to see what the 33-year-old American actually decides to do next year. Will Bryson DeChambeau continue on the watered down version of LIV Golf? Or will he push himself and try to earn his way back to the PGA Tour?",
         "first_seen": "2026-09-20T15:23:37.619086+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "After $5B in Saudi backing, what’s next for bankrupt LIV Golf? - Al-Monitor",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ04xVGpISmt0bkpMWjZ4OWtHb0gya3FLcWpINy1zdnRxTzRRVVdtTExhZE54ZHZZU1BZbmdjZF9qOVFlRVY3ODBTaGhkZm1nbWFGU1RUNUFvbHdhTGNucmlOSWVWX0hkTjhxRTFYOGRNaEQxRDIwQl9GVzV5RldEdWNQQUJpWU1aSVJUaURVWk05dXRnMU1Od05rdXM?oc=5",
+        "published": "2026-09-20T08:16:16+00:00",
+        "published_label": "Sun 20 Sep, 08:16",
+        "summary": "After $5B in Saudi backing, what’s next for bankrupt LIV Golf? Al-Monitor",
+        "body": "After $5B in Saudi backing, what’s next for bankrupt LIV Golf? Saudi Arabia is likely to focus on hosting key sporting events and developing the esports scene after the failures of LIV Golf.\n\nThe PGA Tour said Tuesday that it is not currently considering a new pathway for LIV Golf players to return, further complicating the future of golfers who joined the Saudi-backed circuit. The setback comes as Saudi Arabia shifts its sports strategy toward hosting major events and away from costly efforts to build new leagues, following LIV Golf’s financial struggles, experts told Al-Monitor.",
+        "copy": "After $5B in Saudi backing, what’s next for bankrupt LIV Golf? Saudi Arabia is likely to focus on hosting key sporting events and developing the esports scene after the failures of LIV Golf.\n\nThe PGA Tour said Tuesday that it is not currently considering a new pathway for LIV Golf players to return, further complicating the future of golfers who joined the Saudi-backed circuit. The setback comes as Saudi Arabia shifts its sports strategy toward hosting major events and away from costly efforts to build new leagues, following LIV Golf’s financial struggles, experts told Al-Monitor.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
       },
       {
         "section": "Golf",
@@ -6777,22 +6907,22 @@
         "body": "In 1497, the navigator John Cabot, fresh off explorations of eastern Canada, returned to England to a hero’s welcome. More than 500 years later, a global brand that bears his name is planning a homecoming of a different kind.\n\nCabot, the prominent golf and real-estate developer with a portfolio of marquee properties around the world, on Monday announced its latest project: Cabot Wilds, a destination resort in Nova Scotia anchored by an 18-hole course from Canadian architect Jeff Mingay, set to open in late 2027. The project is being developed in partnership with Canadian businessman John Bragg, a longtime Cabot investor who recently increased his stake in the company.",
         "copy": "In 1497, the navigator John Cabot, fresh off explorations of eastern Canada, returned to England to a hero’s welcome. More than 500 years later, a global brand that bears his name is planning a homecoming of a different kind.\n\nCabot, the prominent golf and real-estate developer with a portfolio of marquee properties around the world, on Monday announced its latest project: Cabot Wilds, a destination resort in Nova Scotia anchored by an 18-hole course from Canadian architect Jeff Mingay, set to open in late 2027. The project is being developed in partnership with Canadian businessman John Bragg, a longtime Cabot investor who recently increased his stake in the company.",
         "first_seen": "2026-09-14T17:37:22.995517+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Relegated LIV Golf pro reacts to \"weird\" tour win after torrid season",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjkzSTM2RHNJUUtJcGxmTnA3UXowblhiZUlSMml0dUplcHI3T3ZwQ1FrZzhvZ1JpOGhCZFExN3d2SlE0UHhnQ0NfbktGcXRoeGt0bUNiRFlxTlZBVUI0bDY5MW9qcDV5ZkowdjQ4WWVZVnVZSFZkUGhVdEM4bkMwZFd2THA3aDZqT0g0MWE2eDJ5YWhob3F5N21tMFZrVldHaWpYRW5Gaw?oc=5",
-        "published": "2026-09-14T12:45:47+00:00",
-        "published_label": "Mon 14 Sep, 12:45",
-        "summary": "Relegated LIV Golf pro reacts to \"weird\" tour win after torrid season Golfmagic",
-        "body": "Frederik Kjettrup ended a difficult run of form in dramatic fashion on Sunday, winning the English Trophy at The Caversham for his maiden HotelPlanner Tour title. The Dane holed a 30-foot downhill slider at the last to card a 5-under 67 and beat Switzerland's Ronan Kleu by one shot.\n\nThe victory came after Kjettrup had missed six consecutive cuts on the HotelPlanner Tour, slipping to 800th in the Official World Golf Ranking and enduring a torrid season in the LIV Golf League.",
-        "copy": "Frederik Kjettrup ended a difficult run of form in dramatic fashion on Sunday, winning the English Trophy at The Caversham for his maiden HotelPlanner Tour title. The Dane holed a 30-foot downhill slider at the last to card a 5-under 67 and beat Switzerland's Ronan Kleu by one shot.\n\nThe victory came after Kjettrup had missed six consecutive cuts on the HotelPlanner Tour, slipping to 800th in the Official World Golf Ranking and enduring a torrid season in the LIV Golf League.",
-        "first_seen": "2026-09-14T21:26:28.049264+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Benin secures 5 medals in Uganda, eyes BWF World Championship",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVkJwbVBiUDVfQ3lUdVpJUk9DTXhuUWN2d2pTMTJuZDJxZWJlQ0tMYVZTa3pORVQ1MTltVTI5SzVEblNBdFk0VDFEZW4tYXpfWFFyUUFodERvNDI3dHAwbEJKNFcxVW1hY1JpRGY0cGc2b01DenJjdGRnNlczcHV3N1ZaQU5qQXhRaHN1NWdWSQ?oc=5",
+        "published": "2026-09-21T13:37:15+00:00",
+        "published_label": "Mon 21 Sep, 13:37",
+        "summary": "Benin secures 5 medals in Uganda, eyes BWF World Championship Benin Web TV",
+        "body": "Following the men's triples title, Beninese players added two more silvers in doubles and a bronze in mixed. The country has also qualified for the 2026 BWF World Championship.\n\nBenin concluded the 2026 African AirBadminton Championships with five medals, including one gold, three silver, and one bronze. The Beninese delegation also secured its spot for the 2026 BWF World Championship.",
+        "copy": "Following the men's triples title, Beninese players added two more silvers in doubles and a bronze in mixed. The country has also qualified for the 2026 BWF World Championship.\n\nBenin concluded the 2026 African AirBadminton Championships with five medals, including one gold, three silver, and one bronze. The Beninese delegation also secured its spot for the 2026 BWF World Championship.",
+        "first_seen": "2026-09-21T14:25:52.353960+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7174,5 +7304,5 @@
       }
     ]
   },
-  "total": 550
+  "total": 560
 }
