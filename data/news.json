@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T10:55:57.370170+00:00",
-  "generated_label": "Tuesday 22 September 2026, 10:55 UTC",
+  "generated_at": "2026-09-22T12:45:36.922603+00:00",
+  "generated_label": "Tuesday 22 September 2026, 12:45 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -14,6 +14,58 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Del Monte Proudly Announces Sponsorship of American Diabetes Association's Step Out Walk in Pittsburgh",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVRqRXNFb25IS2ZxWUMxa2pCelZJcjdLUTVaVWNJMGNEd0w4T3ZxQXZnNHRrUHFyY0JkV05FMmlxVUg0Nzh1UXM4Z1hWbzgzTnRLUmtiTklDcnBmdndDWUJUeU5XTHM4MmZ1TDNUR3dTYXdsbGI0aWlWWlZEdmxLSm5ZQmFqbThkcTJRMlhDVXdIVXNJQTBCODN0dGQ0cEZEUVU2clpB?oc=5",
+        "published": "2026-09-22T12:00:00+00:00",
+        "published_label": "Tue 22 Sep, 12:00",
+        "summary": "Del Monte Proudly Announces Sponsorship of American Diabetes Association's Step Out Walk in Pittsburgh Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "Liverpool partners with ORRAA on ocean conservation initiative",
+        "link": "https://sportindustry.co.uk/news-categories/news/liverpool-partners-with-orraa-on-ocean-conservation-initiative/",
+        "published": "2026-09-22T11:40:15+00:00",
+        "published_label": "Tue 22 Sep, 11:40",
+        "summary": "Liverpool FC has partnered with the Ocean Risk and Resilience Action Alliance (ORRAA) to raise awareness of ocean health and the challenges facing coastal communities around the world. The collaboration forms part of Liverpool’s The Red Way sustainability strategy and will combine the club’s global reach with ORRAA’s work across finance, insurance, government and conservation […] The post Liverpool partners with ORRAA on ocean conservation initiative appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "Liverpool FC has partnered with the Ocean Risk and Resilience Action Alliance (ORRAA) to raise awareness of ocean health and the challenges facing coastal communities around the world. The collaboration forms part of Liverpool’s The Red Way sustainability strategy and will combine the club’s global reach with ORRAA’s work across finance, insurance, government and conservation […] The post Liverpool partners with ORRAA on ocean conservation initiative appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "Two Circles joins Ladies European Tour growth strategy",
+        "link": "https://sportindustry.co.uk/news-categories/news/ladies-european-tour-partners-with-two-circles/",
+        "published": "2026-09-22T11:35:27+00:00",
+        "published_label": "Tue 22 Sep, 11:35",
+        "summary": "The Ladies European Tour has partnered with Two Circles in a multi-year agreement focused on audience growth, broadcast production and commercial development The partnership will see Two Circles support the LET across broadcast production, content, marketing, audience strategy and commercial activity as the tour seeks to expand its global reach and strengthen engagement with fans. […] The post Two Circles joins Ladies European Tour growth strategy appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "The Ladies European Tour has partnered with Two Circles in a multi-year agreement focused on audience growth, broadcast production and commercial development The partnership will see Two Circles support the LET across broadcast production, content, marketing, audience strategy and commercial activity as the tour seeks to expand its global reach and strengthen engagement with fans. […] The post Two Circles joins Ladies European Tour growth strategy appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "Shorts: The Laver Cup, PREM Rugby, British Wheelchair Basketball",
+        "link": "https://sportindustry.co.uk/news-categories/news/the-laver-cup-has-expanded-its-global-broadcast-distribution/",
+        "published": "2026-09-22T11:32:48+00:00",
+        "published_label": "Tue 22 Sep, 11:32",
+        "summary": "The Laver Cup has expanded its global broadcast distribution and unveiled an enhanced commentary team ahead of the competition’s return to London, with Patrick McEnroe and Gigi Salmon joining the world feed. Taking place at The O2 from 25th-27th September, the ninth edition of the tournament will be broadcast across 219 territories through 28 global […] The post Shorts: The Laver Cup, PREM Rugby, British Wheelchair Basketball appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "The Laver Cup has expanded its global broadcast distribution and unveiled an enhanced commentary team ahead of the competition’s return to London, with Patrick McEnroe and Gigi Salmon joining the world feed. Taking place at The O2 from 25th-27th September, the ninth edition of the tournament will be broadcast across 219 territories through 28 global […] The post Shorts: The Laver Cup, PREM Rugby, British Wheelchair Basketball appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Sport Industry",
         "kind": "direct",
         "title": "Laver Cup expands global broadcast coverage",
@@ -24,6 +76,19 @@
         "body": "",
         "copy": "The Laver Cup has expanded its global broadcast distribution and unveiled an enhanced commentary team ahead of the competition’s return to London, with Patrick McEnroe and Gigi Salmon joining the world feed. Taking place at The O2 from 25th-27th September, the ninth edition of the tournament will be broadcast across 219 territories through 28 global […] The post Laver Cup expands global broadcast coverage appeared first on Sport Industry Group .",
         "first_seen": "2026-09-22T10:55:57.370170+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sport Industry",
+        "kind": "direct",
+        "title": "DP World Tour joins Alzheimer’s Society campaign at Wentworth",
+        "link": "https://sportindustry.co.uk/news-categories/news/the-dp-world-tour-has-joined-forces-with-alzheimers-society/",
+        "published": "2026-09-22T10:51:03+00:00",
+        "published_label": "Tue 22 Sep, 10:51",
+        "summary": "The DP World Tour has joined forces with Alzheimer’s Society to raise awareness of dementia through its Sport United Against Dementia campaign at the BMW PGA Championship at Wentworth. The activation took place during the second round of the Surrey tournament, with selected players from marquee three-ball groups having their names removed from caddie bibs […] The post DP World Tour joins Alzheimer’s Society campaign at Wentworth appeared first on Sport Industry Group .",
+        "body": "",
+        "copy": "The DP World Tour has joined forces with Alzheimer’s Society to raise awareness of dementia through its Sport United Against Dementia campaign at the BMW PGA Championship at Wentworth. The activation took place during the second round of the Surrey tournament, with selected players from marquee three-ball groups having their names removed from caddie bibs […] The post DP World Tour joins Alzheimer’s Society campaign at Wentworth appeared first on Sport Industry Group .",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1636,87 +1701,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-15T16:12:22.687305+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Shorts: Northampton Saints, Harry Potter, LTA,",
-        "link": "https://sportindustry.co.uk/uncategorized/shorts-northampton-saints-harry-potter-lta/",
-        "published": "2026-09-15T11:46:21+00:00",
-        "published_label": "Tue 15 Sep, 11:46",
-        "summary": "Northampton Saints and Loughborough Lightning have signed a new multi-year partnership with UK law firm Shoosmiths, covering both the men’s and women’s rugby programmes. Shoosmiths will become legal partner to both teams, with its branding appearing on playing and warm-up kits throughout the 2026/27 season and beyond. The agreement gives the firm equivalent kit exposure […] The post Shorts: Northampton Saints, Harry Potter, LTA, appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Northampton Saints and Loughborough Lightning have signed a new multi-year partnership with UK law firm Shoosmiths, covering both the men’s and women’s rugby programmes. Shoosmiths will become legal partner to both teams, with its branding appearing on playing and warm-up kits throughout the 2026/27 season and beyond. The agreement gives the firm equivalent kit exposure […] The post Shorts: Northampton Saints, Harry Potter, LTA, appeared first on Sport Industry Group .",
-        "first_seen": "2026-09-15T12:48:30.743329+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Biolyz brings performance testing technology to the UK",
-        "link": "https://sportindustry.co.uk/news-categories/news/biolyz-brings-its-pioneering-performance-testing-technology-to-the-uk/",
-        "published": "2026-09-15T11:41:20+00:00",
-        "published_label": "Tue 15 Sep, 11:41",
-        "summary": "Biolyz, the growing performance technology company, has introduced new technology to the UK that helps elite athletes and high-performance teams improve and accelerate performance prognostics. Biolyz’s non-invasive testing solutions are already benefitting several of the countries’ biggest Premier League and Championship football clubs following the opening of the company’s marquee London laboratory earlier this summer. […] The post Biolyz brings performance testing technology to the UK appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Biolyz, the growing performance technology company, has introduced new technology to the UK that helps elite athletes and high-performance teams improve and accelerate performance prognostics. Biolyz’s non-invasive testing solutions are already benefitting several of the countries’ biggest Premier League and Championship football clubs following the opening of the company’s marquee London laboratory earlier this summer. […] The post Biolyz brings performance testing technology to the UK appeared first on Sport Industry Group .",
-        "first_seen": "2026-09-15T12:48:30.743329+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Renaissance Asset Finance expands Bournemouth partnership",
-        "link": "https://sportindustry.co.uk/news-categories/news/renaissance-asset-finance-expands-bournemouth-partnership/",
-        "published": "2026-09-15T11:36:24+00:00",
-        "published_label": "Tue 15 Sep, 11:36",
-        "summary": "AFC Bournemouth has extended its partnership with Renaissance Asset Finance for a further three seasons, with the agreement expanding to include the club’s women’s team for the first time. The asset finance company will remain a partner of Bournemouth through the 2028/29 season and continue its involvement with The Net, the club’s business community. Under […] The post Renaissance Asset Finance expands Bournemouth partnership appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "AFC Bournemouth has extended its partnership with Renaissance Asset Finance for a further three seasons, with the agreement expanding to include the club’s women’s team for the first time. The asset finance company will remain a partner of Bournemouth through the 2028/29 season and continue its involvement with The Net, the club’s business community. Under […] The post Renaissance Asset Finance expands Bournemouth partnership appeared first on Sport Industry Group .",
-        "first_seen": "2026-09-15T12:48:30.743329+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Adidas extends Benfica kit deal, adds training ground naming rights",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORE5maDZRdGRNbWJoRllUbUhSN0dDb2doUVJydkgzMXFZTVoxSTFDMElwUkVWZnJNbHlYbWFqakxOMXJuNnNmaFZySXZhaDFXa1FDSkU5M1pTY3dnZDlHYlBmZDJCenBaYVJZWEhpOFMzN2FjQlJ2X3ZRVFF2dHBzQmltbkRKWkVmc1JLMWkybVRvd2xieDdIU1pvQWkwRG5fQlVwdkFyUQ?oc=5",
-        "published": "2026-09-15T11:35:51+00:00",
-        "published_label": "Tue 15 Sep, 11:35",
-        "summary": "Adidas extends Benfica kit deal, adds training ground naming rights Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-15T20:52:00.495108+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "kind": "direct",
-        "title": "Indeed appoints Little Dot Studios for Brentford activation",
-        "link": "https://sportindustry.co.uk/news-categories/news/indeed-appoints-little-dot-studios-for-brentford-activation/",
-        "published": "2026-09-15T11:29:47+00:00",
-        "published_label": "Tue 15 Sep, 11:29",
-        "summary": "Indeed has appointed Little Dot Studios to lead the activation of its expanded partnership with Brentford FC, following the hiring platform’s move onto the front of the Premier League club’s shirts. Little Dot Studios, part of Banijay Entertainment, will develop the activation strategy around Indeed’s principal partnership, which covers Brentford’s men’s, women’s and academy teams. […] The post Indeed appoints Little Dot Studios for Brentford activation appeared first on Sport Industry Group .",
-        "body": "",
-        "copy": "Indeed has appointed Little Dot Studios to lead the activation of its expanded partnership with Brentford FC, following the hiring platform’s move onto the front of the Premier League club’s shirts. Little Dot Studios, part of Banijay Entertainment, will develop the activation strategy around Indeed’s principal partnership, which covers Brentford’s men’s, women’s and academy teams. […] The post Indeed appoints Little Dot Studios for Brentford activation appeared first on Sport Industry Group .",
-        "first_seen": "2026-09-15T12:48:30.743329+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "‘The closest we’ve seen to F1’: Why a former McLaren investor is betting on SailGP’s valuation boom",
-        "link": "https://www.sportspro.com/features/finance-investment/sailgp-mclaren-racing-f1-valuation-msp-sports-capital-jeff-moorad/",
-        "published": "2026-09-15T11:00:00+00:00",
-        "published_label": "Tue 15 Sep, 11:00",
-        "summary": "Jeff Moorad explains why MSP Sports Capital bought the New Zealand SailGP team, how the X Games helped it understand the sailing competition’s business model and why the future of sports investment is global. The post ‘The closest we’ve seen to F1’: Why a former McLaren investor is betting on SailGP’s valuation boom appeared first on SportsPro .",
-        "body": "Jeff Moorad was approaching the end of a 15-minute meeting slot with Zak Brown at the Bahrain Grand Prix when the McLaren Racing boss asked him a question. “Are you going back through London or are you going straight to LA?”\n\nSensing a potential opportunity, the veteran American sports investor changed his travel plans and decided to return home via the UK, where he took a trip to the McLaren Technology Centre in Woking for a longer conversation with Brown.",
-        "copy": "Jeff Moorad was approaching the end of a 15-minute meeting slot with Zak Brown at the Bahrain Grand Prix when the McLaren Racing boss asked him a question. “Are you going back through London or are you going straight to LA?”\n\nSensing a potential opportunity, the veteran American sports investor changed his travel plans and decided to return home via the UK, where he took a trip to the McLaren Technology Centre in Woking for a longer conversation with Brown.",
-        "first_seen": "2026-09-15T12:48:30.743329+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Rassie won’t be fooled again but ‘there may not be better time for Australia to meet Boks’",
+        "link": "https://www.rugbypass.com/plus/rassie-wont-be-fooled-again-but-there-may-not-be-a-better-time-for-australia-to-meet-springboks/",
+        "published": "2026-09-22T12:31:15+00:00",
+        "published_label": "Tue 22 Sep, 12:31",
+        "summary": "It might not be humiliating, but it would certainly be embarrassing for South Africa to lose to lowly Australia again.",
+        "body": "So sang Roger Daltry and The Who back in the day, but it could easily have been Rassie Erasmus late last week as he emerged from his mini-break on Australia’s east coast. The Springboks coach spoke to local media as the South Africans confirmed they will play Fiji in Gosford on the NSW Central Coast next September, a final pre-Rugby World Cup hit-out for both sides two weeks before the tournament kicks off.\n\nBoth teams will be based on the Central Coast next year and the Boks have used the last fortnight to familiarise themselves with their 2027 RWC training base, while they rest up and recover from the four-Test Greatest Rivalry series against New Zealand.",
+        "copy": "So sang Roger Daltry and The Who back in the day, but it could easily have been Rassie Erasmus late last week as he emerged from his mini-break on Australia’s east coast. The Springboks coach spoke to local media as the South Africans confirmed they will play Fiji in Gosford on the NSW Central Coast next September, a final pre-Rugby World Cup hit-out for both sides two weeks before the tournament kicks off.\n\nBoth teams will be based on the Central Coast next year and the Boks have used the last fortnight to familiarise themselves with their 2027 RWC training base, while they rest up and recover from the four-Test Greatest Rivalry series against New Zealand.",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Gallagher PREM 2026/27 squads rated: Sale Sharks",
+        "link": "https://www.rugbypass.com/news/gallagher-prem-2026-27-squads-rated-sale-sharks/",
+        "published": "2026-09-22T12:11:24+00:00",
+        "published_label": "Tue 22 Sep, 12:11",
+        "summary": "After falling short of the play-offs, which had been the benchmark for the club since Alex Sanderson's arrival in January 2021, the Sharks need to deliver a top-four finish, if not better, this time around.",
+        "body": "After falling short of the play-offs, which had been the benchmark for the club since Alex Sanderson’s arrival in January 2021, the Sharks need to deliver a top-four finish, if not better, this time around, to justify the investment made in the squad.\n\nThe signing of Courtney Lawes from France and Nicky Smith from Leicester were statements of intent by the Sharks owners, while the arrival of England internationals Joe Marchant and Alex Lozowski has added considerable experience to the backline. Sanderson is a man of integrity and knows there can’t be any excuses for failure this time around.",
+        "copy": "After falling short of the play-offs, which had been the benchmark for the club since Alex Sanderson’s arrival in January 2021, the Sharks need to deliver a top-four finish, if not better, this time around, to justify the investment made in the squad.\n\nThe signing of Courtney Lawes from France and Nicky Smith from Leicester were statements of intent by the Sharks owners, while the arrival of England internationals Joe Marchant and Alex Lozowski has added considerable experience to the backline. Sanderson is a man of integrity and knows there can’t be any excuses for failure this time around.",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Max Malins: 'I never really feel I played my best stuff for England and that time may have passed'",
+        "link": "https://www.rugbypass.com/plus/max-malins-i-never-really-feel-i-played-my-best-stuff-for-england-and-that-time-may-have-passed/",
+        "published": "2026-09-22T12:05:40+00:00",
+        "published_label": "Tue 22 Sep, 12:05",
+        "summary": "The Saracens playmaker has a complex history with England, as he explains candidly in a wide-ranging interview.",
+        "body": "Max Malins didn’t feel nervous. He’d put in the groundwork. Exclusive use of a Majorcaroof terrace had been secured. An overzealous restaurant manager recruited as accomplice. Phone wedged in a plant pot to capture the momentous seconds he’d ask partner Ella to be his wife.\n\nAs the couple gazed out across the sunlit hills of the Balearic island, Malins plucked the diamond ring from his pocket and began what’s best described as a torturous descent to the ground. His right leg jolted as if struck by a cattle prod. His knee buckled like a rotten tree trunk. For a beat, it looked like Malins was bound, head over heels, for the concrete. When the video was uploaded to Instagram, the boys back at Saracens had a field day in the comments.",
+        "copy": "Max Malins didn’t feel nervous. He’d put in the groundwork. Exclusive use of a Majorcaroof terrace had been secured. An overzealous restaurant manager recruited as accomplice. Phone wedged in a plant pot to capture the momentous seconds he’d ask partner Ella to be his wife.\n\nAs the couple gazed out across the sunlit hills of the Balearic island, Malins plucked the diamond ring from his pocket and began what’s best described as a torturous descent to the ground. His right leg jolted as if struck by a cattle prod. His knee buckled like a rotten tree trunk. For a beat, it looked like Malins was bound, head over heels, for the concrete. When the video was uploaded to Instagram, the boys back at Saracens had a field day in the comments.",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "WXV Global Series 2026: Week 2 talking points",
+        "link": "https://www.rugbypass.com/news/wxv-global-series-2026-week-2-talking-points/",
+        "published": "2026-09-22T10:58:41+00:00",
+        "published_label": "Tue 22 Sep, 10:58",
+        "summary": "Well. That was brilliant. WXV Global Series 2026 is very much living up to expectation. Last weekend proves that beyond doubt.",
+        "body": "Well. That was brilliant. WXV Global Series 2026 is very much living up to expectations. Last weekend proves that beyond doubt. On the second weekend of Test matches across Europe, we saw England held steady by Canada. Ireland could not stop the USA from registering an upset. Wales started their autumn with a bang against the Springbok Women. France overcame a frustrating first half. The Black Ferns kept their winning streak alive. And Italy picked up an impressive win against the Sakura Fifteen.\n\nYes, you read that right. England’s 39-game winning streak is over. Ended by a thrilling 26-26 draw with Canada in a repeat of the two teams’ Women’s Rugby World Cup 2025 final a year prior.",
+        "copy": "Well. That was brilliant. WXV Global Series 2026 is very much living up to expectations. Last weekend proves that beyond doubt. On the second weekend of Test matches across Europe, we saw England held steady by Canada. Ireland could not stop the USA from registering an upset. Wales started their autumn with a bang against the Springbok Women. France overcame a frustrating first half. The Black Ferns kept their winning streak alive. And Italy picked up an impressive win against the Sakura Fifteen.\n\nYes, you read that right. England’s 39-game winning streak is over. Ended by a thrilling 26-26 draw with Canada in a repeat of the two teams’ Women’s Rugby World Cup 2025 final a year prior.",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Gloucester choose another Welshman as captain for the 2026/27 season",
+        "link": "https://www.rugbypass.com/news/gloucester-choose-another-welshman-as-captain-for-the-2026-27-season/",
+        "published": "2026-09-22T10:54:54+00:00",
+        "published_label": "Tue 22 Sep, 10:54",
+        "summary": "Having been led by Tomos Williams last season, Gloucester have handed the captain's armband for the upcoming 2026/27 campaign to fellow Welsh international Dewi Lake.",
+        "body": "Having been led by Tomos Williams last season, Gloucester have handed the captain’s armband for the upcoming 2026/27 campaign to fellow Welsh international Dewi Lake. Scrum-half Williams’ departure to Saracens left Gloucester needing an alternative captain and they have turned to Lake, who has plenty of leadership experience for both his former club the Ospreys and at international level.\n\nLake has captained Wales in 22 of his 36 Tests and filled in for the injured Jac Morgan during the Six Nations and the Nations Championship. The 27-year-old will be supported by two vice captains: England centre, Seb Atkinson, and fellow summer signing and old Ospreys teammate, Morgan.",
+        "copy": "Having been led by Tomos Williams last season, Gloucester have handed the captain’s armband for the upcoming 2026/27 campaign to fellow Welsh international Dewi Lake. Scrum-half Williams’ departure to Saracens left Gloucester needing an alternative captain and they have turned to Lake, who has plenty of leadership experience for both his former club the Ospreys and at international level.\n\nLake has captained Wales in 22 of his 36 Tests and filled in for the injured Jac Morgan during the Six Nations and the Nations Championship. The 27-year-old will be supported by two vice captains: England centre, Seb Atkinson, and fellow summer signing and old Ospreys teammate, Morgan.",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4355,32 +4407,6 @@
         "body": "The London City 7s founder believes the event can help give rugby sevens a much-needed commercial boost by bringing the sport into the heart of the City. Dan James sees a unique opportunity to unite top-level rugby, businesses and new audiences under one roof when the tournament returns to the Honourable Artillery Company on Thursday.\n\nAnd for James, he wants the event to become a significant fixture for both the sporting and business calendars and sees the collaboration as central to growing the game. “Rugby, and rugby sevens in particular, has always had a problem with properly commercialising itself,” he explained. “What we’re trying to do is give it a really good foundation to grow into a really serious on-pitch product.",
         "copy": "The London City 7s founder believes the event can help give rugby sevens a much-needed commercial boost by bringing the sport into the heart of the City. Dan James sees a unique opportunity to unite top-level rugby, businesses and new audiences under one roof when the tournament returns to the Honourable Artillery Company on Thursday.\n\nAnd for James, he wants the event to become a significant fixture for both the sporting and business calendars and sees the collaboration as central to growing the game. “Rugby, and rugby sevens in particular, has always had a problem with properly commercialising itself,” he explained. “What we’re trying to do is give it a really good foundation to grow into a really serious on-pitch product.",
         "first_seen": "2026-09-15T16:12:22.687305+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Springboks report card: All 30 players rated in Rugby's Greatest Rivalry",
-        "link": "https://www.rugbypass.com/news/springboks-report-card-all-30-players-rated-in-rugbys-greatest-rivalry-all-blacks-south-africa-rugby/",
-        "published": "2026-09-15T11:13:18+00:00",
-        "published_label": "Tue 15 Sep, 11:13",
-        "summary": "South Africa emerged 3-1 winners over the All Blacks in Rugby’s Greatest Rivalry, but it was far from a straightforward series for the world champions.",
-        "body": "South Africa emerged 3-1 winners over the All Blacks in Rugby’s Greatest Rivalry, but it was far from a straightforward series for the world champions. After falling 1-0 behind following an opening-Test defeat at Ellis Park, Rassie Erasmus admitted the All Blacks were in a “very good position”, with his side suddenly needing to win three matches in succession to claim the series outright.\n\nBut, as the Springboks have done so often before, they responded. Their scrum, maul and power game came to the fore as they ground out three consecutive victories to turn the series on its head.",
-        "copy": "South Africa emerged 3-1 winners over the All Blacks in Rugby’s Greatest Rivalry, but it was far from a straightforward series for the world champions. After falling 1-0 behind following an opening-Test defeat at Ellis Park, Rassie Erasmus admitted the All Blacks were in a “very good position”, with his side suddenly needing to win three matches in succession to claim the series outright.\n\nBut, as the Springboks have done so often before, they responded. Their scrum, maul and power game came to the fore as they ground out three consecutive victories to turn the series on its head.",
-        "first_seen": "2026-09-15T12:48:30.743329+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Elinor-Plum King: 'When I first got the phone call saying I’d made the Black Ferns, I ignored it'",
-        "link": "https://www.rugbypass.com/news/elinor-plum-king-when-i-first-got-the-phone-call-saying-id-made-the-black-ferns-i-ignored-it/",
-        "published": "2026-09-15T11:04:19+00:00",
-        "published_label": "Tue 15 Sep, 11:04",
-        "summary": "Elinor-Plum King is a plum talent recently capped by the Black Ferns. The 22-year-old openside flanker was player of the match in just her second Test against South Africa in Soweto, scoring two tries and making nine tackles and two turnovers in the 52-20 win on Saturday 5 September.",
-        "body": "Elinor-Plum King is a plum talent recently capped by the Black Ferns. The 22-year-old openside flanker was player of the match in just her second Test against South Africa in Soweto, scoring two tries and making nine tackles and two turnovers in the 52-20 win on Saturday 5 September.\n\nOn August 22, in a 66-19 win against Australia in Auckland, she made 16 tackles and two turnovers on her debut, having scored three tries a week earlier in the Black Ferns 62-19 trial win against the Black Ferns XV in Wellington.",
-        "copy": "Elinor-Plum King is a plum talent recently capped by the Black Ferns. The 22-year-old openside flanker was player of the match in just her second Test against South Africa in Soweto, scoring two tries and making nine tackles and two turnovers in the 52-20 win on Saturday 5 September.\n\nOn August 22, in a 66-19 win against Australia in Auckland, she made 16 tackles and two turnovers on her debut, having scored three tries a week earlier in the Black Ferns 62-19 trial win against the Black Ferns XV in Wellington.",
-        "first_seen": "2026-09-15T12:48:30.743329+00:00"
       }
     ],
     "Tennis": [
@@ -4409,6 +4435,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-22T10:55:57.370170+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Tennis scores from Seoul, Singapore and BJK Cup",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUlxWExNMGx4SmFMUzJNLVlicjNpOV9OVG5jWGRJbDhHMjhZV29vRDB3R0J0bEFPM3VISDZFbU5SektzRkJxTzhJSm45S29FVmFWYlFwQmc1NlpUVkd6Nmgtd0VnMExpWFhqdFFHbW1KaWRmVDlGV3A2SElFNDZBaW8wVnpoOVlPamRDSzI4VlM5TXFGZndNOVdpQkRKa3FEaFNVWmtaaUxiR2dITHJSTDRVV1BoMzNkX29kZGR3?oc=5",
+        "published": "2026-09-21T22:32:40+00:00",
+        "published_label": "Mon 21 Sep, 22:32",
+        "summary": "Tennis scores from Seoul, Singapore and BJK Cup Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
       },
       {
         "section": "Tennis",
@@ -5049,6 +5088,71 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Layer Up: 5 golf essentials for fall golf",
+        "link": "https://golf.com/gear/golf-apparel/layer-up-5-golf-essentials-for-fall-golf/",
+        "published": "2026-09-22T11:57:58+00:00",
+        "published_label": "Tue 22 Sep, 11:57",
+        "summary": "Not sure about you, but fall is one of our favorite times to play golf. Courses are less crowded, conditions are still excellent, and best of all, the weather is cooler across virtually every region of the country. The post Layer Up: 5 golf essentials for fall golf appeared first on Golf .",
+        "body": "Not sure about you, but fall is one of our favorite times to play golf. Courses are less crowded, conditions are still excellent, and best of all, the weather is cooler across virtually every region of the country. That means chilly mornings followed by comfortable afternoons and plenty of opportunities to add or shed layers throughout your round. With the right gear, you can stay comfortable on the course from sunup to sundown!\n\nHoodies became acceptable golf attire a few years ago, and by the look of things, they’re here to stay. Made with soft, cozy knit fabric, this hoodie has just the right amount of stretch to let you move freely throughout your swing.",
+        "copy": "Not sure about you, but fall is one of our favorite times to play golf. Courses are less crowded, conditions are still excellent, and best of all, the weather is cooler across virtually every region of the country. That means chilly mornings followed by comfortable afternoons and plenty of opportunities to add or shed layers throughout your round. With the right gear, you can stay comfortable on the course from sunup to sundown!\n\nHoodies became acceptable golf attire a few years ago, and by the look of things, they’re here to stay. Made with soft, cozy knit fabric, this hoodie has just the right amount of stretch to let you move freely throughout your swing.",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Srixon rethought its whole process for new ZXi RKT metalwoods",
+        "link": "https://golf.com/gear/drivers/srixon-zxi-rkt-metalwoods-rethought-process/",
+        "published": "2026-09-22T11:48:30+00:00",
+        "published_label": "Tue 22 Sep, 11:48",
+        "summary": "The Srixon ZXi RKT drivers, fairway woods and hybrids are the result of a whole new development process that has already yielded a major win. The post Srixon rethought its whole process for new ZXi RKT metalwoods appeared first on Golf .",
+        "body": "Srixon isn’t just announcing a new lineup of drivers; it’s a complete overhaul of how the company thinks about metalwoods. The new ZXi RKT line of metalwoods is the product of a brand new development process for Dunlop Sports (the parent company of Cleveland, Srixon and XXIO), which is now focusing on the Srixon brand as their main platform for metalwoods and irons.\n\n“It was overall just like rethinking how we design woods and getting it more geared towards this market and kind of the PGA players,” Patrick Ripp, Srixon’s Tour Engineering Manager, told GOLF. “From there, we developed a whole Tour prototyping team and a lot of the engineers that work on that, were working with the Tour and other products and had good relationships with the players and good relationships with the reps and really just started solving the problems that we had seen.”",
+        "copy": "Srixon isn’t just announcing a new lineup of drivers; it’s a complete overhaul of how the company thinks about metalwoods. The new ZXi RKT line of metalwoods is the product of a brand new development process for Dunlop Sports (the parent company of Cleveland, Srixon and XXIO), which is now focusing on the Srixon brand as their main platform for metalwoods and irons.\n\n“It was overall just like rethinking how we design woods and getting it more geared towards this market and kind of the PGA players,” Patrick Ripp, Srixon’s Tour Engineering Manager, told GOLF. “From there, we developed a whole Tour prototyping team and a lot of the engineers that work on that, were working with the Tour and other products and had good relationships with the players and good relationships with the reps and really just started solving the problems that we had seen.”",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Is this the biggest hint yet that Bryson DeChambeau is done with LIV Golf?",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTIyTjA1cmkyRE1wMWxxbnBnbkdmbTQxYnBEdEJrME5EZy0yYnloalZYSzBSMEV4bUFUdk85VnBGNHd6MURNRURzOWZIdDlBVUJHU0tMZV9vZzlEckdhdnBkc1daUWRhc2ZIZ005cThrTHNtU2puQjdfYnBNdTNSVFIxU1pzanB3am0yRG9uSFQwRkg1OHJ3TG85R1JyZElBQXhKV193?oc=5",
+        "published": "2026-09-22T11:38:21+00:00",
+        "published_label": "Tue 22 Sep, 11:38",
+        "summary": "Is this the biggest hint yet that Bryson DeChambeau is done with LIV Golf? Today's Golfer",
+        "body": "Nobody truly knows exactly what Bryson DeChambeau is planning next. That much was clear at 1pm EDT on Monday, when DeChambeau finally dropped the curious announcement he had been promoting on his social media channels with the tease: “I’m coming home.”\n\nDid DeChambeau mean “home” as in his old domain, the PGA Tour? No. Did he mean a return to one of his former equipment brands? Again, no. The two-times US Open champion was in fact revealing a new YouTube golf series on his channel called the ‘Backyard Games’, featuring a $100,000 prize and several high-profile golf influencers. These include Grant Horvat and Brad Dalke, as well as Wesley and George Bryan.",
+        "copy": "Nobody truly knows exactly what Bryson DeChambeau is planning next. That much was clear at 1pm EDT on Monday, when DeChambeau finally dropped the curious announcement he had been promoting on his social media channels with the tease: “I’m coming home.”\n\nDid DeChambeau mean “home” as in his old domain, the PGA Tour? No. Did he mean a return to one of his former equipment brands? Again, no. The two-times US Open champion was in fact revealing a new YouTube golf series on his channel called the ‘Backyard Games’, featuring a $100,000 prize and several high-profile golf influencers. These include Grant Horvat and Brad Dalke, as well as Wesley and George Bryan.",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau sparks LIV Golf questions after fans spot major apparel change",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1RIRE5yekhxank0UUMwNmw4X2dLbG1Kc1d2LVlxQk9nRUE5YnM3YnlVdG9CYS11bi00VlpIQVpsOVU4aEdZTWZYTTBwdTNZUUs5ZWMwRVNKV1l1aC1MUDl5OWJrV3ZwRFJlcGlqWWxYckxiT0NHeGtJUkZZb3FCRmJrNS1oVDJFbGZ2UDRPbDVMbGFvcEZ1cThlX1NkN19ycVJPemUxQW9KbWp4RElwNXhHOTJvMGptbEhTRA?oc=5",
+        "published": "2026-09-22T11:33:01+00:00",
+        "published_label": "Tue 22 Sep, 11:33",
+        "summary": "Bryson DeChambeau sparks LIV Golf questions after fans spot major apparel change Golfmagic",
+        "body": "Bryson DeChambeau has given golf fans plenty to talk about away from the course in recent months, and his latest content shoot has prompted fresh questions about his future. The Crushers GC captain was recently spotted filming at Honeybrook Golf Club, but eagle-eyed fans noticed something unusual.\n\nDeChambeau was not wearing his familiar Crushers GC or LIV Golf apparel. That might ultimately prove to be nothing more than a clothing choice. However, given the uncertainty currently surrounding LIV Golf and DeChambeau's increasingly prominent role as a content creator, the timing has inevitably caught people's attention.",
+        "copy": "Bryson DeChambeau has given golf fans plenty to talk about away from the course in recent months, and his latest content shoot has prompted fresh questions about his future. The Crushers GC captain was recently spotted filming at Honeybrook Golf Club, but eagle-eyed fans noticed something unusual.\n\nDeChambeau was not wearing his familiar Crushers GC or LIV Golf apparel. That might ultimately prove to be nothing more than a clothing choice. However, given the uncertainty currently surrounding LIV Golf and DeChambeau's increasingly prominent role as a content creator, the timing has inevitably caught people's attention.",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Presidents Cup rosters, records: Meet the U.S., International teams",
+        "link": "https://golf.com/news/2026-presidents-cup-rosters-records-us-international/",
+        "published": "2026-09-22T11:28:53+00:00",
+        "published_label": "Tue 22 Sep, 11:28",
+        "summary": "The 2026 Presidents Cup begins Thursday, September 24. View the U.S. and International team rosters and records here. The post 2026 Presidents Cup rosters, records: Meet the U.S., International teams appeared first on Golf .",
+        "body": "From left to right: Hideki Matsuyama, Sungjae Im, Scottie Scheffler and Russell Henley at the 2024 Presidents Cup. All four players are back again to battle at Medinah. The 16th Presidents Cup tees off this week at famed Medinah Country Club in Illinois, located approximately 30 miles northwest of downtown Chicago. The biennial event is yet another illustrious feather in Medinah’s host-course cap, adding to a resume that already includes three U.S. Opens (1949, 1975, 1990), two PGA Championships (1999, 2006), and a Ryder Cup (2012).\n\nHeading into this week, the U.S. has a dominant 13-1-1 record over the Internationals since the event’s first playing in 1994. The Americans’ lone loss was the 1998 edition at Royal Melbourne GC, which the International team won by a score of 20.5-11.5. In 2003, the Presidents Cup was also famously tied with a score of 17-17 at Fancourt Hotel and Country Club in South Africa.",
+        "copy": "From left to right: Hideki Matsuyama, Sungjae Im, Scottie Scheffler and Russell Henley at the 2024 Presidents Cup. All four players are back again to battle at Medinah. The 16th Presidents Cup tees off this week at famed Medinah Country Club in Illinois, located approximately 30 miles northwest of downtown Chicago. The biennial event is yet another illustrious feather in Medinah’s host-course cap, adding to a resume that already includes three U.S. Opens (1949, 1975, 1990), two PGA Championships (1999, 2006), and a Ryder Cup (2012).\n\nHeading into this week, the U.S. has a dominant 13-1-1 record over the Internationals since the event’s first playing in 1994. The Americans’ lone loss was the 1998 edition at Royal Melbourne GC, which the International team won by a score of 20.5-11.5. In 2003, the Presidents Cup was also famously tied with a score of 17-17 at Fancourt Hotel and Country Club in South Africa.",
+        "first_seen": "2026-09-22T12:45:36.922603+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6972,45 +7076,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-15T16:12:22.687305+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Jon Rahm confirms when he expects to be able to address his LIV Golf future",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUFEZTRMVHU1TjQ4ZmNyVTBYZWZRblBkYkVaclRVTy1FbkhLc1FWYVRvOHFmM2l2RFlyeHVOQUhmOWZGTklDNUVhQnBkVkJQNE5pRV8zRV9hNlh2Q2dBYzJweDN4NnlfTlFqam1WdGZNQWc1M2dBYkQ4MUh1U3N2MXp1dmx3YmptYVpOV1FiRUU5aUdNckt0X3NqMHo3UQ?oc=5",
-        "published": "2026-09-15T12:00:00+00:00",
-        "published_label": "Tue 15 Sep, 12:00",
-        "summary": "Jon Rahm confirms when he expects to be able to address his LIV Golf future hitc.com",
-        "body": "Jon Rahm has suggested that he will not be able to clear up where his future lies until the end of the season with speculation persisting that he plans to leave LIV Golf over the winter.\n\nRahm’s future will potentially provide plenty of clues when it comes to LIV Golf’s chances of success in their new era. Of course, the league recently filed for bankruptcy after a turbulent time off the course, as reported by BBC Sport.",
-        "copy": "Jon Rahm has suggested that he will not be able to clear up where his future lies until the end of the season with speculation persisting that he plans to leave LIV Golf over the winter.\n\nRahm’s future will potentially provide plenty of clues when it comes to LIV Golf’s chances of success in their new era. Of course, the league recently filed for bankruptcy after a turbulent time off the course, as reported by BBC Sport.",
-        "first_seen": "2026-09-15T12:48:30.743329+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf group chat fallout continues with ‘rat’ accusation leveled as tensions escalate",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM29tTFY3OUtyQld6ZTRfd0RQOXdEZnVwb2Y3S25PaGt5cVZUUWk5SC1QRV9zN0pzZHBUamlVdzdXSDc3SWRrZC1UMVh3aUxVUS1WWHhENEhvNTFqVVg3aEZlbk9DbHNPTEhXNmlxMUN1Nlh1LWktTGhOd3VNNDVRNVQ0VjMtTC10UzRYcXcyVkdhQQ?oc=5",
-        "published": "2026-09-15T11:55:25+00:00",
-        "published_label": "Tue 15 Sep, 11:55",
-        "summary": "LIV Golf group chat fallout continues with ‘rat’ accusation leveled as tensions escalate talkSPORT",
-        "body": "The end of the current version of LIV Golf was never going to be simple - and it appears the fallout is going to be ugly as well. With the Saudi Arabia-funded circuit filing for bankruptcy, a very different LIV Golf league is in the works, if it is to continue at all.\n\nWhile CEO Scott O'Neill remains adamant that the breakaway circuit will be back for 2027, the billions injected into it in 2022 to attract some of the biggest names and the biggest prize money in sport will be gone.",
-        "copy": "The end of the current version of LIV Golf was never going to be simple - and it appears the fallout is going to be ugly as well. With the Saudi Arabia-funded circuit filing for bankruptcy, a very different LIV Golf league is in the works, if it is to continue at all.\n\nWhile CEO Scott O'Neill remains adamant that the breakaway circuit will be back for 2027, the billions injected into it in 2022 to attract some of the biggest names and the biggest prize money in sport will be gone.",
-        "first_seen": "2026-09-15T16:12:22.687305+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "'There's A Long Legal Process' - Jon Rahm Remains Coy Over LIV Golf Future",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGc1dV81NXpQMFhUOHlZTThrSU1vSzgwVWFEOGVZYlhMRlZRMXd3NWNaLUxTQ2VKN2cteHpjMk1wUFFxX3FGY0U0a1BiQmhLUkNUTlNiNl9WbFlTUVFRRmFNc0I0U2kwUkg1R09xZEdjem8zeUQ3OTZkc05peTVZUTdKTE5hekhvYWJzUzIyRFB5czl4MGx1MmZqRkpyOThLc3ZBUw?oc=5",
-        "published": "2026-09-15T11:03:39+00:00",
-        "published_label": "Tue 15 Sep, 11:03",
-        "summary": "'There's A Long Legal Process' - Jon Rahm Remains Coy Over LIV Golf Future Golf Monthly",
-        "body": "Jon Rahm says there is no update on his LIV Golf contract situation ahead of this week's BMW PGA Championship at Wentworth. The Spaniard recently said he is \"more than willing to fulfil\" his contract with 'LIV 1.0' but was noncommittal on whether he would be part of LIV 2.0. It has been reported he is still owed $150m by the league, which filed for chapter 11 bankruptcy last week.\n\nIf LIV 2.0 does go ahead and Rahm chooses to be part of it, he would take an equity stake in the tour, which plans 10 events under the backing of private equity company BC Partners.",
-        "copy": "Jon Rahm says there is no update on his LIV Golf contract situation ahead of this week's BMW PGA Championship at Wentworth. The Spaniard recently said he is \"more than willing to fulfil\" his contract with 'LIV 1.0' but was noncommittal on whether he would be part of LIV 2.0. It has been reported he is still owed $150m by the league, which filed for chapter 11 bankruptcy last week.\n\nIf LIV 2.0 does go ahead and Rahm chooses to be part of it, he would take an equity stake in the tour, which plans 10 events under the backing of private equity company BC Partners.",
-        "first_seen": "2026-09-15T12:48:30.743329+00:00"
       }
     ],
     "Badminton": [
@@ -7486,5 +7551,5 @@
       }
     ]
   },
-  "total": 574
+  "total": 579
 }
