@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T11:21:24.406044+00:00",
-  "generated_label": "Sunday 27 September 2026, 11:21 UTC",
+  "generated_at": "2026-09-27T13:12:56.440541+00:00",
+  "generated_label": "Sunday 27 September 2026, 13:12 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Maha split shows all is not well with Kennedy’s US health revolution",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTXUtajNsRUVSdk45bjByMzdoVlBoTDJSMmN2WXJsMFAtTkwyUVJ1UHA1YkZaZlQzWWVWZ2ZqVXRyTHQ1d2lXRDdpXzNZQkEzR0Vua3AxZll2dFFfR3d3bnFMUGRaV0VmLTVEN0FOUFc0bHJBdVRuNjZ0ZlUtLXdPb2RJeXQ?oc=5",
+        "published": "2026-09-27T10:00:02+00:00",
+        "published_label": "Sun 27 Sep, 10:00",
+        "summary": "Maha split shows all is not well with Kennedy’s US health revolution Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-27T13:12:56.440541+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1675,22 +1688,87 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-21T11:55:29.386425+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "CATL develops pick-up truck batteries for US despite trade barriers",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1JOS05qT2NxU29ta1RaNFkxNEd1VzBoNWF6b2d0blN6cllTdy1PczZrREhPel9JMGQ0Y0RkdlRRZ3hCREFkZXc3ZS1TNlM4U2xzY1N1cVYyeFpYdDRTcllDT3RmNnVId1hINFU2OWVCRzQ3eXBZLUpTeU1XcE5WTDd1Y24?oc=5",
-        "published": "2026-09-20T11:58:50+00:00",
-        "published_label": "Sun 20 Sep, 11:58",
-        "summary": "CATL develops pick-up truck batteries for US despite trade barriers Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-22T10:55:57.370170+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Rassie Erasmus had a few words for the officials amid Perth chaos",
+        "link": "https://www.rugbypass.com/news/rassie-erasmus-had-a-few-words-for-the-referees-amid-perth-chaos/",
+        "published": "2026-09-27T12:50:40+00:00",
+        "published_label": "Sun 27 Sep, 12:50",
+        "summary": "Rassie Erasmus refused to hide behind officiating issues, technology failures or a gruelling Rugby Championship schedule after South Africa's dramatic 42-38 defeat to Australia in Perth.",
+        "body": "Rassie Erasmus refused to hide behind officiating issues, technology failures or a gruelling Rugby Championship schedule after South Africa’s dramatic 42-38 defeat to Australia in Perth.\n\nDespite the match being repeatedly disrupted by reviews, communication problems and a remarkable period where the Wallabies were reduced to just 11 men by referee Andrea Piardi, the Springbok boss insisted the result came down to his side’s own shortcomings.",
+        "copy": "Rassie Erasmus refused to hide behind officiating issues, technology failures or a gruelling Rugby Championship schedule after South Africa’s dramatic 42-38 defeat to Australia in Perth.\n\nDespite the match being repeatedly disrupted by reviews, communication problems and a remarkable period where the Wallabies were reduced to just 11 men by referee Andrea Piardi, the Springbok boss insisted the result came down to his side’s own shortcomings.",
+        "first_seen": "2026-09-27T13:12:56.440541+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Four men down",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-27T12:19:34+00:00",
+        "published_label": "Sun 27 Sep, 12:19",
+        "summary": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
+        "body": "Australia were reduced to 11 men but dug in for an extraordinary win against a much-changed South Africa side as they beat the world champions 42-38 in Perth. The Wallabies excelled with some vibrant attacking rugby, scoring five tries against the back-to-back World Cup winners to lead by 25 points with 16 minutes left.\n\nBut then a manic spell of four yellow cards in nine minutes left the hosts overrun, with South Africa mounting a comeback that ultimately fell just short. The visitors made 13 changes after beating New Zealand in Baltimore but still fielded a strong starting XV, which boasted 240 caps in the second row alone.",
+        "copy": "Australia were reduced to 11 men but dug in for an extraordinary win against a much-changed South Africa side as they beat the world champions 42-38 in Perth. The Wallabies excelled with some vibrant attacking rugby, scoring five tries against the back-to-back World Cup winners to lead by 25 points with 16 minutes left.\n\nBut then a manic spell of four yellow cards in nine minutes left the hosts overrun, with South Africa mounting a comeback that ultimately fell just short. The visitors made 13 changes after beating New Zealand in Baltimore but still fielded a strong starting XV, which boasted 240 caps in the second row alone.",
+        "first_seen": "2026-09-27T13:12:56.440541+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Harry Potter actor Oliver Phelps thinks rugby sevens is magic. Here's why",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOW12Y01LNXUzM3hHT011bTR0dmdERmRjNzBvT0hGVDZtNjY0X3duUV9jY3J2UHVJV3VXaWJqZFlmQndCUW5yVEJ5WlNxbE9zMWFwQlYxUlJYdVpNUk5HYVhKX3pXbWNieExxbjFkNFVyS3RCcUlNNVlvWlh3MVpOM1RHN1R3OU50WS1ISTRtZTU?oc=5",
+        "published": "2026-09-27T12:16:00+00:00",
+        "published_label": "Sun 27 Sep, 12:16",
+        "summary": "Harry Potter actor Oliver Phelps thinks rugby sevens is magic. Here's why olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-27T13:12:56.440541+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Springboks player ratings vs Australia | Flight Centre Series 2026",
+        "link": "https://www.rugbypass.com/news/springboks-player-ratings-vs-australia-flight-centre-series-2026/",
+        "published": "2026-09-27T11:56:45+00:00",
+        "published_label": "Sun 27 Sep, 11:56",
+        "summary": "Springboks player ratings: A tired Boks side got their backsides handed to them in Perth against a hungry Wallabies outfit...",
+        "body": "Springboks player ratings: One of the most experimental Springbok matchday 23s Rassie Erasmus has thrown together in recent times arrived in Perth with enough star power to suggest they would still have too much for Australia.\n\nInstead, a side containing the likes of Eben Etzebeth, Handre Pollard and Andre Esterhuizen looked a touch leggy and short of answers when the Wallabies poured it on. South Africa lost the aerial battle, coughed up too many inaccuracies and never established the sort of scrum dominance they usually rely upon.",
+        "copy": "Springboks player ratings: One of the most experimental Springbok matchday 23s Rassie Erasmus has thrown together in recent times arrived in Perth with enough star power to suggest they would still have too much for Australia.\n\nInstead, a side containing the likes of Eben Etzebeth, Handre Pollard and Andre Esterhuizen looked a touch leggy and short of answers when the Wallabies poured it on. South Africa lost the aerial battle, coughed up too many inaccuracies and never established the sort of scrum dominance they usually rely upon.",
+        "first_seen": "2026-09-27T13:12:56.440541+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Len Ikitau stars as 11-man Wallabies survive incredible Springboks fightback",
+        "link": "https://www.rugbypass.com/news/len-ikitau-double-inspires-wallabies-to-emphatic-victory-over-springboks/",
+        "published": "2026-09-27T11:51:24+00:00",
+        "published_label": "Sun 27 Sep, 11:51",
+        "summary": "Harry Potter and Fraser McReight's carries close to the line set up their fourth try, through the skipper, Harry Wilson.",
+        "body": "Les Kiss’ Wallabies have held on to beat the Springboks, 42-38, at Perth’s Optus Stadium on Sunday in an utterly captivating Test match. The Wallabies, who at one stage in the final ten minutes were down to eleven players, kept Rassie Erasmus’ Springboks out at the death to clinch an incredible victory over the back-to-back World Champions.\n\nWith the victory, the Wallabies clinched the Mandela Challenge Plate, continuing their unbeaten streak under Kiss in 2026. The 2025 John Eales medalist, Len Ikitau, was among the Wallabies’ best before succumbing to an ankle injury in the 53rd minute, crossing for a double in the first 40 minutes.",
+        "copy": "Les Kiss’ Wallabies have held on to beat the Springboks, 42-38, at Perth’s Optus Stadium on Sunday in an utterly captivating Test match. The Wallabies, who at one stage in the final ten minutes were down to eleven players, kept Rassie Erasmus’ Springboks out at the death to clinch an incredible victory over the back-to-back World Champions.\n\nWith the victory, the Wallabies clinched the Mandela Challenge Plate, continuing their unbeaten streak under Kiss in 2026. The 2025 John Eales medalist, Len Ikitau, was among the Wallabies’ best before succumbing to an ankle injury in the 53rd minute, crossing for a double in the first 40 minutes.",
+        "first_seen": "2026-09-27T13:12:56.440541+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Wallabies player ratings vs South Africa | Flight Centre Series 2026",
+        "link": "https://www.rugbypass.com/news/wallabies-player-ratings-vs-south-africa-flight-centre-series-2026/",
+        "published": "2026-09-27T11:48:56+00:00",
+        "published_label": "Sun 27 Sep, 11:48",
+        "summary": "The Wallabies have survived a late fightback from the Springboks in Perth, holding on for a win over the two-time defending world champions.",
+        "body": "The Wallabies have survived a late fightback from the Springboks in Perth, going down to 11 men but still holding on for a 42-38 win over the world champions. With this result, the Aussies have kept their unbeaten run under coach Les Kiss alive, now sitting at a 4-0-1 record.\n\nJoseph-Aukuso Suaalii shifted to the wing, in what was the big talking point in the story from an Aussie point of view ahead of the match. Suaalii made an immediate impact off the kick-off, and it set the tone for the evening.",
+        "copy": "The Wallabies have survived a late fightback from the Springboks in Perth, going down to 11 men but still holding on for a 42-38 win over the world champions. With this result, the Aussies have kept their unbeaten run under coach Les Kiss alive, now sitting at a 4-0-1 record.\n\nJoseph-Aukuso Suaalii shifted to the wing, in what was the big talking point in the story from an Aussie point of view ahead of the match. Suaalii made an immediate impact off the kick-off, and it set the tone for the evening.",
+        "first_seen": "2026-09-27T13:12:56.440541+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4940,32 +5018,6 @@
         "body": "The United States staged a remarkable second-half comeback to beat Ireland 40-36 in their WXV Global Series opener at Tallaght Stadium. Scott Bemand's side raced into a comfortable lead after 20 minutes following tries from Vicky Elmes Kinlan, Cliodhna Moloney-MacDonald and Aoife Wafer and went in 24-12 ahead at the break.\n\nErin King added a fifth try early in the second half as Ireland looked to be cruising at 31-12 up, but a loss of control and discipline aided USA, who under the guidance of their Irish head coach Jack Hanratty, managed to turn the game around.",
         "copy": "The United States staged a remarkable second-half comeback to beat Ireland 40-36 in their WXV Global Series opener at Tallaght Stadium. Scott Bemand's side raced into a comfortable lead after 20 minutes following tries from Vicky Elmes Kinlan, Cliodhna Moloney-MacDonald and Aoife Wafer and went in 24-12 ahead at the break.\n\nErin King added a fifth try early in the second half as Ireland looked to be cruising at 31-12 up, but a loss of control and discipline aided USA, who under the guidance of their Irish head coach Jack Hanratty, managed to turn the game around.",
         "first_seen": "2026-09-20T15:23:37.619086+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Welsh rugby's key signings ahead of new season",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c62ezllnxdqo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-20T12:23:19+00:00",
-        "published_label": "Sun 20 Sep, 12:23",
-        "summary": "Four summer signings are tipped to make a big impact at Cardiff, Dragons, Ospreys and Scarlets in the 2026-27 United Rugby Championship.",
-        "body": "Wales' regions may have seen more star names depart but the summer has also seen one of the most active recruitment drives in recent years. There were notable departures with the loss of Jac Morgan, Dewi Lake, Aaron Wainwright and Marnus van der Merwe.\n\nAnd Welsh professional men's rugby continues to be hit by off-field uncertainty with the WRU committed to cutting the number of regions from four to three. But Cardiff, Dragons, Ospreys and Scarlets - now all signed up to the new participation agreement and an increase in annual budget - have made significant additions as they seek old heads and overseas talent to help develop young homegrown squads for the 2026-27 season.",
-        "copy": "Wales' regions may have seen more star names depart but the summer has also seen one of the most active recruitment drives in recent years. There were notable departures with the loss of Jac Morgan, Dewi Lake, Aaron Wainwright and Marnus van der Merwe.\n\nAnd Welsh professional men's rugby continues to be hit by off-field uncertainty with the WRU committed to cutting the number of regions from four to three. But Cardiff, Dragons, Ospreys and Scarlets - now all signed up to the new participation agreement and an increase in annual budget - have made significant additions as they seek old heads and overseas talent to help develop young homegrown squads for the 2026-27 season.",
-        "first_seen": "2026-09-20T15:23:37.619086+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Waisea Nayacalevu makes drastic position switch on debut for new club",
-        "link": "https://www.rugbypass.com/news/waisea-nayacalevu-makes-drastic-position-switch-on-debut-for-new-club/",
-        "published": "2026-09-20T11:41:34+00:00",
-        "published_label": "Sun 20 Sep, 11:41",
-        "summary": "Former Fiji captain Waisea Nayacalevu will make his debut for Rugby Olympique de Grasse, but in an unusual role: at no.8 for the Fédérale 2 club.",
-        "body": "Former Fiji captain Waisea Nayacalevu will make his debut for Rugby Olympique de Grasse, but in an unusual role: at no.8 for the Fédérale 2 club. Nayacalevu left Nissa Rugby after helping the club secure promotion to the Pro D2, scoring three tries in 11 appearances for the southeastern French side. However, when his centre contract wasn’t renewed, he was free to find a new club, and RO Grasse stepped in, signing the Fijian legend for an undisclosed number of seasons.\n\nFédérale 2 is the fifth tier of French club rugby, sitting below the Top 14, Pro D2, Nationale and Fédérale 1, and is a predominantly amateur competition, although some clubs also field semi-professional players.",
-        "copy": "Former Fiji captain Waisea Nayacalevu will make his debut for Rugby Olympique de Grasse, but in an unusual role: at no.8 for the Fédérale 2 club. Nayacalevu left Nissa Rugby after helping the club secure promotion to the Pro D2, scoring three tries in 11 appearances for the southeastern French side. However, when his centre contract wasn’t renewed, he was free to find a new club, and RO Grasse stepped in, signing the Fijian legend for an undisclosed number of seasons.\n\nFédérale 2 is the fifth tier of French club rugby, sitting below the Top 14, Pro D2, Nationale and Fédérale 1, and is a predominantly amateur competition, although some clubs also field semi-professional players.",
-        "first_seen": "2026-09-20T12:33:26.167384+00:00"
       }
     ],
     "Tennis": [
@@ -5540,22 +5592,22 @@
         "body": "",
         "copy": "Great Britain qualify for the Davis Cup Finals after taking an unassailable 3-0 lead over Ecuador as Henry Patten and Neal Skupski beat Gonzalo Escobar and Diego Hidalgo 6-3 6-4.",
         "first_seen": "2026-09-20T15:23:37.619086+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Hewett & Reid star as GB win fifth World Team Cup",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cqpvepy2mvg7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-20T11:22:22+00:00",
-        "published_label": "Sun 20 Sep, 11:22",
-        "summary": "Great Britain become World Team Cup champions for the fifth time as Alfie Hewett and Gordon Reid secure a 2-1 victory over Japan in Florida.",
-        "body": "Great Britain became World Team Cup champions for the fifth time as Alfie Hewett and Gordon Reid joined forces to secure a 2-1 victory over Japan in Florida. Japan were the defending champions of the competition, which is the wheelchair tennis equivalent to the Davis Cup and Billie Jean King Cup.\n\nHowever, Hewett and Reid ensured Britain got their hands back on the trophy with a 6-1 6-2 win in the deciding doubles match against Tokito Oda and Daisuke Arai. \"We're really happy to get the title back,\" said Reid, who was also part of the World Team Cup-winning squad alongside Hewett in 2015, 2019, 2023 and 2024.",
-        "copy": "Great Britain became World Team Cup champions for the fifth time as Alfie Hewett and Gordon Reid joined forces to secure a 2-1 victory over Japan in Florida. Japan were the defending champions of the competition, which is the wheelchair tennis equivalent to the Davis Cup and Billie Jean King Cup.\n\nHowever, Hewett and Reid ensured Britain got their hands back on the trophy with a 6-1 6-2 win in the deciding doubles match against Tokito Oda and Daisuke Arai. \"We're really happy to get the title back,\" said Reid, who was also part of the World Team Cup-winning squad alongside Hewett in 2015, 2019, 2023 and 2024.",
-        "first_seen": "2026-09-20T12:33:26.167384+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Disaster': Jack Sock describes experience playing PGA National on PRO Tour",
+        "link": "https://golf.com/news/jack-sock-describes-playing-pga-national-pro-tour/",
+        "published": "2026-09-27T12:21:25+00:00",
+        "published_label": "Sun 27 Sep, 12:21",
+        "summary": "On this week's Subpar, tennis pro Jack Sock described what it was like to play against other pro athletes at PGA National in 35 mph winds. The post ‘Disaster’: Jack Sock describes experience playing PGA National on PRO Tour appeared first on Golf .",
+        "body": "What do high-achieving pro athletes do to keep their competitive juices flowing after they’ve retired from their respective sports? Many take up golf, and some even showcase their skills on the celebrity pro-am circuit. But for a select few who desire even higher stakes, there’s the PRO Tour — an invitation-based tournament series created specifically for former pro athletes. The criteria for consideration: A player must have a minimum of two years of professional playing experience in their sport, a verified single-digit golf handicap, and a demonstrated commitment to preparation, professionalism, and competition.\n\nInterested athletes can apply on the tour’s website to be considered to participate. In its inaugural season, the PRO Tour staged six regular-season events followed by two playoff events. Each event had a $500,000 purse. Top finishers in each event earn priority placement in subsequent events, while new additions to the tour are rotated in over the course of the season. The PRO Tour utilizes a modified Stableford scoring system, in which players earn positive or negative points on each hole based on their score. The player with the highest number of points over the course of the tournament wins.",
+        "copy": "What do high-achieving pro athletes do to keep their competitive juices flowing after they’ve retired from their respective sports? Many take up golf, and some even showcase their skills on the celebrity pro-am circuit. But for a select few who desire even higher stakes, there’s the PRO Tour — an invitation-based tournament series created specifically for former pro athletes. The criteria for consideration: A player must have a minimum of two years of professional playing experience in their sport, a verified single-digit golf handicap, and a demonstrated commitment to preparation, professionalism, and competition.\n\nInterested athletes can apply on the tour’s website to be considered to participate. In its inaugural season, the PRO Tour staged six regular-season events followed by two playoff events. Each event had a $500,000 purse. Top finishers in each event earn priority placement in subsequent events, while new additions to the tour are rotated in over the course of the season. The PRO Tour utilizes a modified Stableford scoring system, in which players earn positive or negative points on each hole based on their score. The player with the highest number of points over the course of the tournament wins.",
+        "first_seen": "2026-09-27T13:12:56.440541+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -7362,32 +7414,6 @@
         "body": "If you’ve been ordering your clubs off the rack, you may be missing out on some premium performance benefits in the form of upgraded shafts. Shafts may be an afterthought for some players, but choosing the right brand and flex for a specific player’s game is an essential ingredient in every custom club-fitting.\n\nThat’s why every club ordered from Fairway Jockey includes an opportunity to upgrade a number of different features, including grip, length and yes, shaft too. But what is it that makes these shaft upgrades superior to the stock option? I asked True Spec sales VP Matt Morin to explain the benefits of three popular shaft upgrade selections from Fujikura, Graphite Design and Mitsubishi.",
         "copy": "If you’ve been ordering your clubs off the rack, you may be missing out on some premium performance benefits in the form of upgraded shafts. Shafts may be an afterthought for some players, but choosing the right brand and flex for a specific player’s game is an essential ingredient in every custom club-fitting.\n\nThat’s why every club ordered from Fairway Jockey includes an opportunity to upgrade a number of different features, including grip, length and yes, shaft too. But what is it that makes these shaft upgrades superior to the stock option? I asked True Spec sales VP Matt Morin to explain the benefits of three popular shaft upgrade selections from Fujikura, Graphite Design and Mitsubishi.",
         "first_seen": "2026-09-20T15:23:37.619086+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Trump Returns With Pro-Trump Golfer, Ex-Ice Hockey Star",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUtaNG5qMk9xczBrazVmMW9RQ2wxc1JKTWUxWlhMQ0NWSWxZUVVGQm5wVHpKdXgxcGxBM09HV0ZiZC1jVnpESjA5UGhPZW1jSkFUclN5SHZ4UmFPc0dOcmRrbk1zRzdHdUo2eHh6NFFPcm0wTUxLRFVWOVF6Y0hGeWZKejk?oc=5",
-        "published": "2026-09-20T13:11:02+00:00",
-        "published_label": "Sun 20 Sep, 13:11",
-        "summary": "Trump Returns With Pro-Trump Golfer, Ex-Ice Hockey Star 조선일보",
-        "body": "U.S. President Donald Trump, who was spending time at the presidential retreat in Camp David, Maryland, near Washington, D.C. over the weekend, suddenly returned to the White House at 8 p.m. on the 19th (9 a.m. Korean time on the 20th). As the State Department issued a new security alert on the same day urging heightened vigilance for Americans in the Middle East, various interpretations emerged regarding Trump’s early return, but the White House did not provide an answer. Trump is scheduled to attend several bilateral and multilateral events next week in conjunction with the UN General Assembly in New York.\n\nOn that day, the presidential helicopter ‘Marine One’ carrying Trump landed at the South Lawn in front of the White House, and inside the helicopter, golfer Bryson DeChambeau and Mikayla Demeita, a former Canadian ice hockey player, were captured on camera. DeChambeau, who is active in LIV Golf sponsored by Saudi Arabia, is a prominent pro-Trump figure in the golf world. Immediately after winning the 2024 election, he celebrated Trump on stage wearing a MAGA (Make America Great Again) hat. Trump also appeared directly on DeChambeau’s YouTube channel. In July, during the British Open, a major tournament, DeChambeau protested a two-stroke penalty and mentioned, “I will call President Trump,” sparking controversy.",
-        "copy": "U.S. President Donald Trump, who was spending time at the presidential retreat in Camp David, Maryland, near Washington, D.C. over the weekend, suddenly returned to the White House at 8 p.m. on the 19th (9 a.m. Korean time on the 20th). As the State Department issued a new security alert on the same day urging heightened vigilance for Americans in the Middle East, various interpretations emerged regarding Trump’s early return, but the White House did not provide an answer. Trump is scheduled to attend several bilateral and multilateral events next week in conjunction with the UN General Assembly in New York.\n\nOn that day, the presidential helicopter ‘Marine One’ carrying Trump landed at the South Lawn in front of the White House, and inside the helicopter, golfer Bryson DeChambeau and Mikayla Demeita, a former Canadian ice hockey player, were captured on camera. DeChambeau, who is active in LIV Golf sponsored by Saudi Arabia, is a prominent pro-Trump figure in the golf world. Immediately after winning the 2024 election, he celebrated Trump on stage wearing a MAGA (Make America Great Again) hat. Trump also appeared directly on DeChambeau’s YouTube channel. In July, during the British Open, a major tournament, DeChambeau protested a two-stroke penalty and mentioned, “I will call President Trump,” sparking controversy.",
-        "first_seen": "2026-09-20T15:23:37.619086+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "What Bryson DeChambeau's decision to skip the BMW PGA Championship this week really means",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWVtTDRXdmpKZ1JybmI0T250Nm9HdUV1MzlmNFNoS2w4VjVqTllMX3ZhX2kyMTFhd041Q2dqcGViRGJCT0FkQnZPdmh4S2I1a1lQaFgtYnZBU3VjRHB2S2FzS21jd3hBWS14V1lHQVJxOXhIX1FWam9oTmczV0w0WXU2RC1JQzc1N2hZaTRKNWhCUHZIc2E0elR3Ylcza1JINjd1WWlEM3d3Y01kdV8w?oc=5",
-        "published": "2026-09-20T13:00:00+00:00",
-        "published_label": "Sun 20 Sep, 13:00",
-        "summary": "What Bryson DeChambeau's decision to skip the BMW PGA Championship this week really means hitc.com",
-        "body": "Bryson DeChambeau is one of the biggest global stars in the professional game. However, DeChambeau is currently in limbo regarding his future, with LIV Golf set to operate on a much smaller scale moving forward.\n\nIt will be very interesting to see what the 33-year-old American actually decides to do next year. Will Bryson DeChambeau continue on the watered down version of LIV Golf? Or will he push himself and try to earn his way back to the PGA Tour?",
-        "copy": "Bryson DeChambeau is one of the biggest global stars in the professional game. However, DeChambeau is currently in limbo regarding his future, with LIV Golf set to operate on a much smaller scale moving forward.\n\nIt will be very interesting to see what the 33-year-old American actually decides to do next year. Will Bryson DeChambeau continue on the watered down version of LIV Golf? Or will he push himself and try to earn his way back to the PGA Tour?",
-        "first_seen": "2026-09-20T15:23:37.619086+00:00"
       }
     ],
     "Badminton": [
@@ -7876,5 +7902,5 @@
       }
     ]
   },
-  "total": 604
+  "total": 606
 }
