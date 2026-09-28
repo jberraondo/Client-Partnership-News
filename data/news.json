@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T12:50:57.674411+00:00",
-  "generated_label": "Monday 28 September 2026, 12:50 UTC",
+  "generated_at": "2026-09-28T15:44:17.401116+00:00",
+  "generated_label": "Monday 28 September 2026, 15:44 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,71 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Premier Padel, FIP appoint Sportradar as integrity partner",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRk5vc1MwclQwckV0QzV0NnJPVUp6WVNDRUxoMnBwZlhWZHh2WFlQZDVrRkUtMzZyeWY3WW9EakluWkdFT25BcWZ4ekZSbkRRZVA5ZzNPU1VRMURTZENqZFBxczdmQjRNZFdveHR3WGNYaEJlNVdISmg3Rkgwb2hVaFNSbDNtVlRnTlRDT1l5azMxZw?oc=5",
+        "published": "2026-09-28T14:51:49+00:00",
+        "published_label": "Mon 28 Sep, 14:51",
+        "summary": "Premier Padel, FIP appoint Sportradar as integrity partner Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "NHL added to Adobe’s sports sponsorship stable",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeEZNVy1GU3lJMm9OTWViRl91WlhUdzRRVklyaEtlRHMxRjhnQ3o3SFBWTVRGVnBkN2lOcVlsR3ViWjJOOTNJWXRvejBiSkdXSGJPUXdadjAtd3ltYmJ2T1ZicGtLQ3l4SUx1bHM1YXViT2oxVjBNNGhpSTVBdXZTOTB3?oc=5",
+        "published": "2026-09-28T14:21:49+00:00",
+        "published_label": "Mon 28 Sep, 14:21",
+        "summary": "NHL added to Adobe’s sports sponsorship stable Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Winamax extends as EHF Finals title sponsor through 2028",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0FDdzZkODd6aVZyczhsUmpRdjhqdWVJSi1aZl9FQ3JfdXozUWZ0dy1XR016TnluRnNwNkpaa0FWN3lYNDVvbExsTWJOZmRDTUhSaXJsUjYxa2ZfYWc1SGZzN2FZaFRZbnFiTlZFSEhLVllicjF4ZkdPVXNUN3BVLTB0WUdOWl8wTUgxbktRQVE?oc=5",
+        "published": "2026-09-28T14:21:49+00:00",
+        "published_label": "Mon 28 Sep, 14:21",
+        "summary": "Winamax extends as EHF Finals title sponsor through 2028 Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Introducing Systane® PRO PRESERVATIVE-FREE: Alcon's Longest Lasting, Triple-Action Formula for up to 12 Hours of Dry Eye Symptom Relief – Company Announcement - FT.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjJGeU9GaXBsOE1iSHhwbEFPU01DT1E5NG5nOGNMVUhyNndBSnlaVWdEQkpnWU05YnZkbmNtbHkyNjBkUEJCM2RqNlBWdkdoOVVoZk5YcWRNZFF6WGRMSk12TVBVV2JRZGJzVmlwM3RfSzUwT1BrMVBpMEU2SjJXOS1nZzlQbnlzN3FBWkhXajlodEZzbUZDVFMwVkl5YThUNFhrM1ZB?oc=5",
+        "published": "2026-09-28T14:15:00+00:00",
+        "published_label": "Mon 28 Sep, 14:15",
+        "summary": "Introducing Systane® PRO PRESERVATIVE-FREE: Alcon's Longest Lasting, Triple-Action Formula for up to 12 Hours of Dry Eye Symptom Relief – Company Announcement - FT.com Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "HSBC deepens Nasdaq Calypso partnership with its enhanced ETD platform",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3Q3Snc5QmMxdFVkWkFGTF9EeERlX0J4REZJVVRzSjJ2V0ZSUHo2N3E1c0t4U1dIQlJmczRpbjZRRkJiYjNGNnRFSEJkZTdBWi1yZTVNSEk3SXQ3Uzc1cU5KeXV6UWZrNjVob1Z6d0VrU29ycU83Y29uZ0pydER3bV85ZENldkVHbkdXRHpXQTRkVEo5R2Jmbks0UzVHZDg3dVRxLWhrWGdIUDljcXN2VHhVTy1zQmZ1ZE84bU9qbW1xUUxqeFdZ?oc=5",
+        "published": "2026-09-28T13:19:32+00:00",
+        "published_label": "Mon 28 Sep, 13:19",
+        "summary": "HSBC deepens Nasdaq Calypso partnership with its enhanced ETD platform FinTech Futures",
+        "body": "The 15-year long partnership will now see Nasdaq Calypso provide the bank with US Treasury cash transaction capabilities. HSBC has expanded its usage of Nasdaq Calypso, Nasdaq's multi-asset class capital markets and treasury technology, by using its enhanced exchange-traded derivatives (ETD) platform.\n\nHSBC has been leveraging the stock exchange's platform since 2011, clearing clients' over-the-counter derivatives, including interest rate, inflation and credit default swaps, and repo clearing.",
+        "copy": "The 15-year long partnership will now see Nasdaq Calypso provide the bank with US Treasury cash transaction capabilities. HSBC has expanded its usage of Nasdaq Calypso, Nasdaq's multi-asset class capital markets and treasury technology, by using its enhanced exchange-traded derivatives (ETD) platform.\n\nHSBC has been leveraging the stock exchange's platform since 2011, clearing clients' over-the-counter derivatives, including interest rate, inflation and credit default swaps, and repo clearing.",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "HSBC watch",
@@ -1623,61 +1688,87 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Betfred to let Super League deal expire after 2026 campaign",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHJ3aU9aWGlTaXhXR0llNE1wQnNQb2hPMFUtRThwbzV5Unp2VXVtamNoaW9QQ1dOazNPdXpNU1pLSVJTUUdKSE9McjEybG1nS2Y4U1pfQ2ZyZ0lITFZWN0w4ZWp3cU9vQzhaR09BNkpQS1dhMFl6YU5OMlVzdWUwLUFXNTg3M05aVWx3bHNCV0dDQUtQ?oc=5",
-        "published": "2026-09-21T15:30:36+00:00",
-        "published_label": "Mon 21 Sep, 15:30",
-        "summary": "Betfred to let Super League deal expire after 2026 campaign Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Betfred to let Super League deal expire after 2026 campaign",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjVGc2RPVFpZQkRUU194ajl6c1I2YjZ3U18tcVEwMFdkdHE3SnNKdW51ZzMyMG4zQlJPdXhhclVzcU81TGJZREoyMTRlY3ZIRWlJMld0SkdJZG03QmkzQUlDUFg3QXdXLURiTW9jemVVWnBLYl9fS3hDaXFwT3lTN0pJUF9IaHlnN3dpMVJadG1XeS1JdWRxbnFIRWdvUQ?oc=5",
-        "published": "2026-09-21T15:30:36+00:00",
-        "published_label": "Mon 21 Sep, 15:30",
-        "summary": "Betfred to let Super League deal expire after 2026 campaign Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-22T10:55:57.370170+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Spanish PM’s wife to stand trial over corruption charges",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNelBQODNLUy0zRG04NUczVHNhN3Q0dFROTklSV2xYNWpKc0xBa1dPWnpKY0NlbUVtNGhvM3dwSGdCbGdteHlVQ2lqRFIwbC1nX1NUWERoVkhPZTBFNWRhdV9ta0VMX0M2QjlGQ2JKSS1mMU9WeDZWUS1MOTNwemFaNTQ5Tkg?oc=5",
-        "published": "2026-09-21T15:04:51+00:00",
-        "published_label": "Mon 21 Sep, 15:04",
-        "summary": "Spanish PM’s wife to stand trial over corruption charges Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-22T10:55:57.370170+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "Little Dot Studios appointed by Indeed to activate landmark Brentford FC partnership",
-        "link": "https://www.sportspro.com/agencies/little-dot-studios-appointed-by-indeed-to-activate-landmark-brentford-fc-partnership/",
-        "published": "2026-09-21T14:40:05+00:00",
-        "published_label": "Mon 21 Sep, 14:40",
-        "summary": "Strategic partnership will celebrate the power of finding untapped talent, uniting Indeed's hiring expertise with Brentford FC's renowned talent-first philosophy The post Little Dot Studios appointed by Indeed to activate landmark Brentford FC partnership appeared first on SportsPro .",
-        "body": "London, 15 September, 2026 – Social media agency, multi-platform production company and digital media network, Little Dot Studios, has been appointed by global hiring platform Indeed to lead the activation of its partnership with Brentford Football Club.\n\nThe appointment of Little Dot Studios, part of media and entertainment group, Banijay Entertainment, supports Indeed’s role as Brentford FC’s principal and front of shirt partner across the men’s, women’s and academy teams, while also building on its existing position as the club’s official training wear and recruitment partner.",
-        "copy": "London, 15 September, 2026 – Social media agency, multi-platform production company and digital media network, Little Dot Studios, has been appointed by global hiring platform Indeed to lead the activation of its partnership with Brentford Football Club.\n\nThe appointment of Little Dot Studios, part of media and entertainment group, Banijay Entertainment, supports Indeed’s role as Brentford FC’s principal and front of shirt partner across the men’s, women’s and academy teams, while also building on its existing position as the club’s official training wear and recruitment partner.",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Canada's Women's Rugby World Cup 2025 run featured in four-part documentary",
+        "link": "https://www.rugbypass.com/news/canadas-womens-rugby-world-cup-2025-run-featured-in-four-part-documentary/",
+        "published": "2026-09-28T15:35:51+00:00",
+        "published_label": "Mon 28 Sep, 15:35",
+        "summary": "Canada's run to the Women's Rugby World Cup 2025 final will be immortalised by a four-part documentary series.",
+        "body": "Canada’s remarkable run to the 2025 Women’s Rugby World Cup final will be revisited in a new four-part documentary series offering unprecedented behind-the-scenes access to Kévin Rouet’s side.\n\nALL HEART: A RUGBY STORY follows Canada from their World Cup campaign through to their final against England at Allianz Stadium, where the Red Roses claimed a 33-13 victory. The documentary has been directed by award-winning filmmaker Kathleen Jayme. Previously, Jayme co-wrote Naomi Osaka: The Second Set and Finding Big Country.",
+        "copy": "Canada’s remarkable run to the 2025 Women’s Rugby World Cup final will be revisited in a new four-part documentary series offering unprecedented behind-the-scenes access to Kévin Rouet’s side.\n\nALL HEART: A RUGBY STORY follows Canada from their World Cup campaign through to their final against England at Allianz Stadium, where the Red Roses claimed a 33-13 victory. The documentary has been directed by award-winning filmmaker Kathleen Jayme. Previously, Jayme co-wrote Naomi Osaka: The Second Set and Finding Big Country.",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Noah Brown: Brive's 6ft 9ins, 124kg teen eligible for England and the Springboks and targeting Test rugby",
+        "link": "https://www.rugbypass.com/plus/noah-brown-brives-6ft-9ins-124kg-teenager-eligible-for-england-and-the-springboks-and-targeting-test-rugby/",
+        "published": "2026-09-28T15:22:28+00:00",
+        "published_label": "Mon 28 Sep, 15:22",
+        "summary": "Six months ago, the giant 19-year-old had no club and scant prospects. Now he's signed up in France and picquing the interest of Rassie Erasmus.",
+        "body": "In just a few wild months, Noah Brown’s dreams have begun to come true. He has gone from club-less and stymied in England, to attracting suitors at the very top of French rugby, piquing the interest of the game’s thought leader, Rassie Erasmus, and training with Courtney Lawes, the ageless England hitman. As he sat on Zoom calls this spring with some of the biggest teams in Europe, the 19-year-old found it hard to process how drastically, and how swiftly, his life was changing.\n\nBrown is a second-row with an eye-catching profile and ambition to match his size. He stands 6ft 9ins tall and weighs 124kg. Even in the age of protein-infused He-Men, those are mighty numbers. He was born in Port Elizabeth to a South African mother and English father, raised in Greater London, and holds eligibility for both nations. Brown is hungry to wear the colours of either U20s team, a point he hammers home repeatedly. Fresh from Oxford College, he has signed for Brive in the ProD2 and begun his first season with the club’s espoirs (effectively, academy) side.",
+        "copy": "In just a few wild months, Noah Brown’s dreams have begun to come true. He has gone from club-less and stymied in England, to attracting suitors at the very top of French rugby, piquing the interest of the game’s thought leader, Rassie Erasmus, and training with Courtney Lawes, the ageless England hitman. As he sat on Zoom calls this spring with some of the biggest teams in Europe, the 19-year-old found it hard to process how drastically, and how swiftly, his life was changing.\n\nBrown is a second-row with an eye-catching profile and ambition to match his size. He stands 6ft 9ins tall and weighs 124kg. Even in the age of protein-infused He-Men, those are mighty numbers. He was born in Port Elizabeth to a South African mother and English father, raised in Greater London, and holds eligibility for both nations. Brown is hungry to wear the colours of either U20s team, a point he hammers home repeatedly. Fresh from Oxford College, he has signed for Brive in the ProD2 and begun his first season with the club’s espoirs (effectively, academy) side.",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "WXV Global Series Challenger 2026 | Team of the Tournament",
+        "link": "https://www.rugbypass.com/news/wxv-global-series-challenger-2026-team-of-the-tournament/",
+        "published": "2026-09-28T15:00:13+00:00",
+        "published_label": "Mon 28 Sep, 15:00",
+        "summary": "After a sensational WXV Global Series Challenger, it’s time to pick the team of the tournament, selecting the fifteen players who made a lasting impact and were standouts throughout the competition.",
+        "body": "After a sensational WXV Global Series Challenger, it’s time to pick the team of the tournament, selecting the fifteen players who made a lasting impact and were standouts throughout the competition.\n\nThe champions, the Fijiana, have five players in the 15 – while the Netherlands and Hong Kong China have four and three players’ each. One of the few constants for Las Leonas. Amalia Argudo brought her A-game to the WXV Global Series Challenger, piecing together several plays that led Spain into try-scoring glory. When the dust settled, Argudo had landed 26 points, in what was potentially one of her best showings in  the Test match scene.",
+        "copy": "After a sensational WXV Global Series Challenger, it’s time to pick the team of the tournament, selecting the fifteen players who made a lasting impact and were standouts throughout the competition.\n\nThe champions, the Fijiana, have five players in the 15 – while the Netherlands and Hong Kong China have four and three players’ each. One of the few constants for Las Leonas. Amalia Argudo brought her A-game to the WXV Global Series Challenger, piecing together several plays that led Spain into try-scoring glory. When the dust settled, Argudo had landed 26 points, in what was potentially one of her best showings in  the Test match scene.",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Leinster lose two of their touring squad ahead of trip to Sharks",
+        "link": "https://www.rugbypass.com/news/leinster-lose-two-players-ahead-of-trip-to-sharks/",
+        "published": "2026-09-28T14:49:40+00:00",
+        "published_label": "Mon 28 Sep, 14:49",
+        "summary": "Leinster head coach Leo Cullen has issued an injury update has confirmed that two of their squad members for the current tour of South Africa...",
+        "body": "Leinster head coach Leo Cullen has issued an injury update has confirmed that two of their squad members for the current tour of South Africa have been ruled out of selection for the Sharks game at Hollywoodbets Kings Park on Saturday.\n\nLeinster’s title defence got off to a mediocre start on Saturday when they lost 27-26 to the Lions in Ellis Park in Johannesburg. Scrum-half Fintan Gunne starred with a first-half hat-trick as Leo Cullen’s side took a 19-17 lead into the break. However, the Lions battled back through Erich Cronje’s second try, Chris Smith’s accurate boot and a late Kelly Mpeku score.",
+        "copy": "Leinster head coach Leo Cullen has issued an injury update has confirmed that two of their squad members for the current tour of South Africa have been ruled out of selection for the Sharks game at Hollywoodbets Kings Park on Saturday.\n\nLeinster’s title defence got off to a mediocre start on Saturday when they lost 27-26 to the Lions in Ellis Park in Johannesburg. Scrum-half Fintan Gunne starred with a first-half hat-trick as Leo Cullen’s side took a 19-17 lead into the break. However, the Lions battled back through Erich Cronje’s second try, Chris Smith’s accurate boot and a late Kelly Mpeku score.",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Champions Cup refs revealed: Piardi's old rival handed opening night honour",
+        "link": "https://www.rugbypass.com/news/champions-cup-refs-revealed-piardis-old-rival-handed-opening-night-honour/",
+        "published": "2026-09-28T14:05:52+00:00",
+        "published_label": "Mon 28 Sep, 14:05",
+        "summary": "The former playing rival and teammate of Italy's leading referee, Andrea Piardi, has been handed the honour of refereeing the first Investec Champions Cup tie of the 2026/27 season.",
+        "body": "The former playing rival and teammate of Italy’s leading referee, Andrea Piardi, has been handed the honour of refereeing the first Investec Champions Cup tie of the 2026/27 season.\n\nGianluca Gnecchi, who made his Champions Cup debut in the middle two years ago, will blow the first whistle in this year’s competition after being appointed for curtain-raiser between Gloucester and reigning champions Bordeaux-Begles at Kingsholm on Friday, 16 October.",
+        "copy": "The former playing rival and teammate of Italy’s leading referee, Andrea Piardi, has been handed the honour of refereeing the first Investec Champions Cup tie of the 2026/27 season.\n\nGianluca Gnecchi, who made his Champions Cup debut in the middle two years ago, will blow the first whistle in this year’s competition after being appointed for curtain-raiser between Gloucester and reigning champions Bordeaux-Begles at Kingsholm on Friday, 16 October.",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Sharks brace to lose 'exceptional talent' Luan Giliomee to URC rivals",
+        "link": "https://www.rugbypass.com/news/luan-giliomee-the-exceptional-talent-the-sharks-are-set-to-lose-to-urc-rivals/",
+        "published": "2026-09-28T13:46:52+00:00",
+        "published_label": "Mon 28 Sep, 13:46",
+        "summary": "Luan Giliomee has been dubbed an “exceptional talent” as he approaches a crossroads in his young career.",
+        "body": "Luan Giliomee has been dubbed an “exceptional talent” as he approaches a crossroads in his young career. The 20-year-old demonstrated his huge potential with a two-try Player of the Match display for the Hollywoodbets Sharks in their 41-24 victory over the Ospreys in Durban on the weekend.\n\nHis first touchdown was especially impressive as he sliced through from his own half, evading four defenders on a spectacular side-stepping run to the line. It was a very special performance all round from the fresh-faced full-back from the Western Cape, whose primary position is fly-half.",
+        "copy": "Luan Giliomee has been dubbed an “exceptional talent” as he approaches a crossroads in his young career. The 20-year-old demonstrated his huge potential with a two-try Player of the Match display for the Hollywoodbets Sharks in their 41-24 victory over the Ospreys in Durban on the weekend.\n\nHis first touchdown was especially impressive as he sliced through from his own half, evading four defenders on a spectacular side-stepping run to the line. It was a very special performance all round from the fresh-faced full-back from the Western Cape, whose primary position is fly-half.",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -4901,123 +4992,6 @@
         "body": "Following the lead of the National Basketball Association (NBA), the 10 Gallagher PREM Directors of Rugby were asked for their opinion in a number of categories ahead of the start of the new season and the results of the anonymous survey give a fascinating insight into the thinking of the men at the sharp end of the league.\n\nSome outstanding recruitment has been done over the summer, with Saracens prising Alfie Barbeary away from Bath and Sale Sharks tempting Nicky Smith up north from Leicester just two examples of money that appears to be very well spent.",
         "copy": "Following the lead of the National Basketball Association (NBA), the 10 Gallagher PREM Directors of Rugby were asked for their opinion in a number of categories ahead of the start of the new season and the results of the anonymous survey give a fascinating insight into the thinking of the men at the sharp end of the league.\n\nSome outstanding recruitment has been done over the summer, with Saracens prising Alfie Barbeary away from Bath and Sale Sharks tempting Nicky Smith up north from Leicester just two examples of money that appears to be very well spent.",
         "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Riki Flutey: Shaun Edwards will 'add so much value' to the Red Roses",
-        "link": "https://www.rugbypass.com/news/riki-flutey-shaun-edwards-will-add-so-much-value-to-the-red-roses/",
-        "published": "2026-09-21T15:31:28+00:00",
-        "published_label": "Mon 21 Sep, 15:31",
-        "summary": "Riki Flutey knows Shaun Edwards better than most. The pair spent three seasons together across two spells at Wasps.",
-        "body": "Riki Flutey knows Shaun Edwards better than most. The pair spent three seasons together across two spells at Wasps. This weekend, they will find themselves on opposite sides when England face New Zealand at Allianz Stadium.\n\nTheir first season together ended with Wasps winning the 2007/08 Guinness Premiership. A year later, Flutey was coached by Edwards on the 2009 British & Irish Lions tour of South Africa.",
-        "copy": "Riki Flutey knows Shaun Edwards better than most. The pair spent three seasons together across two spells at Wasps. This weekend, they will find themselves on opposite sides when England face New Zealand at Allianz Stadium.\n\nTheir first season together ended with Wasps winning the 2007/08 Guinness Premiership. A year later, Flutey was coached by Edwards on the 2009 British & Irish Lions tour of South Africa.",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Lions tour a 'top goal' for Wales prop Tuipulotu",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cr74kd7gd101o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-21T15:26:55+00:00",
-        "published_label": "Mon 21 Sep, 15:26",
-        "summary": "Wales prop Sisilia Tuipulotu says selection for next year's inaugural British and Irish Lions women's tour is among her top rugby priorities.",
-        "body": "Wales prop Sisilia Tuipulotu says selection for next year's inaugural British and Irish Lions women's tour is among her top rugby priorities. The in-form tight-head scored two tries in Wales' emphatic 50-19 victory over South Africa on Friday, under the watchful eye of Lions head coach Jo Yapp.\n\nWith Yapp saying she will only take the best players in each position, most of the touring party to New Zealand is expected to be made up of England's world cup-winning stars.",
-        "copy": "Wales prop Sisilia Tuipulotu says selection for next year's inaugural British and Irish Lions women's tour is among her top rugby priorities. The in-form tight-head scored two tries in Wales' emphatic 50-19 victory over South Africa on Friday, under the watchful eye of Lions head coach Jo Yapp.\n\nWith Yapp saying she will only take the best players in each position, most of the touring party to New Zealand is expected to be made up of England's world cup-winning stars.",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Raffi Quirke's Newcastle career gets off to false start after injury setback",
-        "link": "https://www.rugbypass.com/news/raffi-quirkes-newcastle-career-gets-off-to-a-false-start-after-injury-setback/",
-        "published": "2026-09-21T14:47:39+00:00",
-        "published_label": "Mon 21 Sep, 14:47",
-        "summary": "Newcastle Red Bulls boss Dan McFarland has confirmed that England scrum-half Raffi Quirke has been ruled out of the season opener against reigning Gallagher PREM champions Northampton Saints at Franklin’s Gardens on Friday night.",
-        "body": "Newcastle Red Bulls boss Dan McFarland has confirmed that England scrum-half Raffi Quirke has been ruled out of the season opener against reigning Gallagher PREM champions Northampton Saints at Franklin’s Gardens on Friday night.\n\nRugbyPass understands that Quirke, who moved from Sale Sharks this summer, has damaged knee ligaments and that the club have started to search for a potential replacement. The news will be a blow to Quirke, who suffered a string of hamstring and wrist injuries during his time with the Sharks and hoped a move to the North East would kick-start his stalled international career.",
-        "copy": "Newcastle Red Bulls boss Dan McFarland has confirmed that England scrum-half Raffi Quirke has been ruled out of the season opener against reigning Gallagher PREM champions Northampton Saints at Franklin’s Gardens on Friday night.\n\nRugbyPass understands that Quirke, who moved from Sale Sharks this summer, has damaged knee ligaments and that the club have started to search for a potential replacement. The news will be a blow to Quirke, who suffered a string of hamstring and wrist injuries during his time with the Sharks and hoped a move to the North East would kick-start his stalled international career.",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "India names 13-member senior women’s rugby sevens team for 2026 Asian Games",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTk4a2xFcVAwMmI0NXN4Ulo5Ui1EOVFER01pV1pQTjRhVlRaTzZ0TEtPWGM0c3UtSkRpMGpfbGRCQ0w3VGxqc3FOZVNEaDZ6WjNLVk9PRDhkdy15Nklab0hHaTI1VE5CTGwzM1VvR3M5OENzMXdoTk1vX0lMcFZCbnRXQkxXSDZ2UTk4UGdiZTRCT3FYcGRzYzl3a3JCWFU4MGdjOUVZYVZfdlk?oc=5",
-        "published": "2026-09-21T13:53:01+00:00",
-        "published_label": "Mon 21 Sep, 13:53",
-        "summary": "India names 13-member senior women’s rugby sevens team for 2026 Asian Games The News Mill",
-        "body": "Rugby India has announced the senior women’s Rugby Sevens team that will represent the country at the 2026 Asian Games, scheduled from October 1 to 3 in Nagoya, Japan. The 13-member squad will compete in the Women’s Rugby Sevens event at the Paloma Mizuho Rugby Stadium.\n\nIndia has been drawn in Pool B alongside defending champions China, Hong Kong, China, and Malaysia. The Asian Games present a significant milestone for India’s Women’s Rugby Sevens programme. India made its debut in this category at the Guangzhou 2010 Asian Games but missed the 2014 and 2018 editions. The team returned for the Hangzhou 2022 Games, finishing seventh.",
-        "copy": "Rugby India has announced the senior women’s Rugby Sevens team that will represent the country at the 2026 Asian Games, scheduled from October 1 to 3 in Nagoya, Japan. The 13-member squad will compete in the Women’s Rugby Sevens event at the Paloma Mizuho Rugby Stadium.\n\nIndia has been drawn in Pool B alongside defending champions China, Hong Kong, China, and Malaysia. The Asian Games present a significant milestone for India’s Women’s Rugby Sevens programme. India made its debut in this category at the Guangzhou 2010 Asian Games but missed the 2014 and 2018 editions. The team returned for the Hangzhou 2022 Games, finishing seventh.",
-        "first_seen": "2026-09-21T14:25:52.353960+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "India announces senior women’s Rugby Sevens team for 2026 Asian Games",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHZ4OXlOeVNDNWd6S2k3Z0dmbmdpV0tjUUpQdnp2ZlRTU092VzBSUU51bHItUXhTaXVpRXVVbHdDTW5nQXIzT0xicHQ5ZFFCUi03WXZYSGxKenpmOGtYdE5Qb21WdUEzd3pyYzNFMWlqTDZzTjJfVnVoZlh1VUprTm91YmdEYS01ZmVGMDBOV085UnNSV0NHSXlYc2xFaWdGc2JRTjR2LXBvdkFzVldz0gGzAUFVX3lxTE9DZFg3SmtPZnpDalFvbUgzY2hKUVpuckluYjY3STYtUE9oREY3dzd6TEF3WUxOZ182SGFrVk02YlpodndkcXVNZGUtVzZjNWJVWGtOak1SNGt5YkhNMGI2Z2stUnVoUzk5ZkZKLUlZTGx2bUpQdnl4bWgzM0VDcS1malYtWl9tNnBiVGg5WnlOMXBReTN4TkZ6LXF1V1Y5RE9UV1o5ZlNNb1Nyc05HeUx2dzFr?oc=5",
-        "published": "2026-09-21T13:47:29+00:00",
-        "published_label": "Mon 21 Sep, 13:47",
-        "summary": "India announces senior women’s Rugby Sevens team for 2026 Asian Games The Tribune",
-        "body": "Kolkata (West Bengal) [India], September 21 (ANI): Rugby India has announced the Senior Women’s Rugby Sevens Team that will represent India at the Aichi-Nagoya 2026 Asian Games, with the competition scheduled to take place from October 1-3 in Nagoya, Japan.\n\nThe 13-member squad will compete in the Women’s Rugby Sevens competition at the Paloma Mizuho Rugby Stadium, with India drawn in Pool B alongside defendingchampions China, Hong Kong, China and Malaysia.",
-        "copy": "Kolkata (West Bengal) [India], September 21 (ANI): Rugby India has announced the Senior Women’s Rugby Sevens Team that will represent India at the Aichi-Nagoya 2026 Asian Games, with the competition scheduled to take place from October 1-3 in Nagoya, Japan.\n\nThe 13-member squad will compete in the Women’s Rugby Sevens competition at the Paloma Mizuho Rugby Stadium, with India drawn in Pool B alongside defendingchampions China, Hong Kong, China and Malaysia.",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Leicester close in on another big piece of contract business",
-        "link": "https://www.rugbypass.com/news/leicester-close-in-on-another-big-piece-of-contract-business/",
-        "published": "2026-09-21T13:44:46+00:00",
-        "published_label": "Mon 21 Sep, 13:44",
-        "summary": "Leicester Tigers are closing in on another eve-of-season boost, with England scrum-half Jack van Poortvliet nearing a new deal.",
-        "body": "Leicester Tigers are closing in on another eve-of-season boost, with England scrum-half Jack van Poortvliet nearing a new deal. Norfolk-born Van Poortvliet, 25, joined the Tigers academy at 12 and is in advanced talks with the club about putting pen to paper on a new long-term deal.\n\nThe Tigers, who missed out on a Gallagher PREM final appearance last season after losing a semi-final to arch-rivals Northampton Saints, kick off the new campaign against Saracens at Welford Road on Sunday afternoon.",
-        "copy": "Leicester Tigers are closing in on another eve-of-season boost, with England scrum-half Jack van Poortvliet nearing a new deal. Norfolk-born Van Poortvliet, 25, joined the Tigers academy at 12 and is in advanced talks with the club about putting pen to paper on a new long-term deal.\n\nThe Tigers, who missed out on a Gallagher PREM final appearance last season after losing a semi-final to arch-rivals Northampton Saints, kick off the new campaign against Saracens at Welford Road on Sunday afternoon.",
-        "first_seen": "2026-09-21T14:25:52.353960+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'Statement of intent' re-signing of Sean Jansen excites Stuart Lancaster",
-        "link": "https://www.rugbypass.com/news/statement-of-intent-re-signing-of-sean-jansen-excites-stuart-lancaster/",
-        "published": "2026-09-21T13:33:46+00:00",
-        "published_label": "Mon 21 Sep, 13:33",
-        "summary": "The No.8's current contract was due to expire next summer but the western province have moved quickly to secure the services of last season's Player of the Year.",
-        "body": "Ireland international Sean Jansen has extended his stay at Connacht beyond the end of this season after signing a new two-year deal, which will run until at least 2029. The No.8’s current contract was due to expire next summer but the western province have moved quickly to secure the services of last season’s Player of the Year.\n\nJansen signed from Leicester in 2023 and has become a fan favourite at the Dexcom Stadium due to his ball-carrying ability and try-scoring performances. Last season he scored 12 tries in 20 appearances, while he also made an immense contribution in defence, coming third in the URC rankings for tackles made (219).",
-        "copy": "Ireland international Sean Jansen has extended his stay at Connacht beyond the end of this season after signing a new two-year deal, which will run until at least 2029. The No.8’s current contract was due to expire next summer but the western province have moved quickly to secure the services of last season’s Player of the Year.\n\nJansen signed from Leicester in 2023 and has become a fan favourite at the Dexcom Stadium due to his ball-carrying ability and try-scoring performances. Last season he scored 12 tries in 20 appearances, while he also made an immense contribution in defence, coming third in the URC rankings for tackles made (219).",
-        "first_seen": "2026-09-21T14:25:52.353960+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "New signing blow for Bath as prop delivers bad news",
-        "link": "https://www.rugbypass.com/news/new-signing-blow-for-bath-as-prop-delivers-bad-news/",
-        "published": "2026-09-21T13:18:18+00:00",
-        "published_label": "Mon 21 Sep, 13:18",
-        "summary": "Jamie Bhatti's second spell at Bath has been derailed almost as soon as it has begun after the Scotland prop revealed he has broken his arm via social media.",
-        "body": "Jamie Bhatti’s second spell at Bath has been derailed almost as soon as it has begun after the Scotland prop revealed he has broken his arm via social media. Bhatti posted an image of an x-ray revealing the fracture on his personal Instagram account, which has yet to be officially confirmed by the club.\n\nThe 33-year-old, who arrived in the summer on a two-year deal, suffered the injury 10 minutes after coming on against his former club Glasgow in Bath’s final pre-season game at Old Anniesland last Friday.",
-        "copy": "Jamie Bhatti’s second spell at Bath has been derailed almost as soon as it has begun after the Scotland prop revealed he has broken his arm via social media. Bhatti posted an image of an x-ray revealing the fracture on his personal Instagram account, which has yet to be officially confirmed by the club.\n\nThe 33-year-old, who arrived in the summer on a two-year deal, suffered the injury 10 minutes after coming on against his former club Glasgow in Bath’s final pre-season game at Old Anniesland last Friday.",
-        "first_seen": "2026-09-21T14:25:52.353960+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Eddie Hearn lets cat out of the bag on Henry Pollock",
-        "link": "https://www.rugbypass.com/news/eddie-hearn-lets-cat-out-of-the-bag-on-henry-pollock/",
-        "published": "2026-09-21T12:57:23+00:00",
-        "published_label": "Mon 21 Sep, 12:57",
-        "summary": "England flanker Henry Pollock will sign a new contract with Northampton Saints tomorrow after boxing promoter Eddie Hearn let the cat out of the bag with an Instagram post.",
-        "body": "England flanker Henry Pollock will sign a new contract with Northampton Saints tomorrow after boxing promoter Eddie Hearn let the cat out of the bag with an Instagram post. Pollock, who was offered a deal by Newcastle Red Bulls, has been closing in on a new contract with the Gallagher PREM champions for the last few weeks, despite saying last week in a pre-season media session that he was open to offers.\n\n“I’m so young, so I think it’s only right that I assess those options and find the best decision for myself. Your career is so short that you look back on yourself, and you almost regret not exploring new avenues, exploring different things.",
-        "copy": "England flanker Henry Pollock will sign a new contract with Northampton Saints tomorrow after boxing promoter Eddie Hearn let the cat out of the bag with an Instagram post. Pollock, who was offered a deal by Newcastle Red Bulls, has been closing in on a new contract with the Gallagher PREM champions for the last few weeks, despite saying last week in a pre-season media session that he was open to offers.\n\n“I’m so young, so I think it’s only right that I assess those options and find the best decision for myself. Your career is so short that you look back on yourself, and you almost regret not exploring new avenues, exploring different things.",
-        "first_seen": "2026-09-21T14:25:52.353960+00:00"
       }
     ],
     "Tennis": [
@@ -5592,22 +5566,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-22T12:45:36.922603+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c6n453wd3gdyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-21T13:34:05+00:00",
-        "published_label": "Mon 21 Sep, 13:34",
-        "summary": "Great Britain face the Czech Republic at the Billie Jean King Cup Finals on Tuesday - and know full well the size of the challenge facing them.",
-        "body": "\"It's best not to underestimate us,\" says a defiant Harriet Dart. But Great Britain's Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.\n\nOn Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
-        "copy": "\"It's best not to underestimate us,\" says a defiant Harriet Dart. But Great Britain's Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.\n\nOn Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
-        "first_seen": "2026-09-21T14:25:52.353960+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The putters that powered Team USA's historic comeback at Presidents Cup",
+        "link": "https://golf.com/gear/putters/putters-powered-usa-presidents-cup/",
+        "published": "2026-09-28T14:45:53+00:00",
+        "published_label": "Mon 28 Sep, 14:45",
+        "summary": "The U.S. team stormed back to win the Presidents Cup on Sunday at Medinah behind a solid putting performance. The post The putters that powered Team USA’s historic comeback at Presidents Cup appeared first on Golf .",
+        "body": "On Saturday, U.S. Presidents Cup captain Brandt Snedeker said the Internationals “just made more putts” as the Americans faced a huge deficit heading into the final two sessions.\n\nTeam USA overcame a three-point deficit heading into Sunday to win the Presidents Cup, largely thanks to putting. The stats show that seven of the top nine putters for the event were on Team USA. On Sunday, the Americans made a ton of big putts when it mattered.",
+        "copy": "On Saturday, U.S. Presidents Cup captain Brandt Snedeker said the Internationals “just made more putts” as the Americans faced a huge deficit heading into the final two sessions.\n\nTeam USA overcame a three-point deficit heading into Sunday to win the Presidents Cup, largely thanks to putting. The stats show that seven of the top nine putters for the event were on Team USA. On Sunday, the Americans made a ton of big putts when it mattered.",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How the Presidents Cup unraveled: 7 tipping points that cost the Internationals",
+        "link": "https://golf.com/news/presidents-cup-unraveled-7-matches/",
+        "published": "2026-09-28T13:37:19+00:00",
+        "published_label": "Mon 28 Sep, 13:37",
+        "summary": "Something strange happened in the final seven singles matches at the Presidents Cup — and cost the Internationals the win. The post How the Presidents Cup unraveled: 7 tipping points that cost the Internationals appeared first on Golf .",
+        "body": "MEDINAH, Ill. — Something strange happened with the final seven Presidents Cup singles matches on Sunday: They all made it to at least the 17th hole. Heck, five of those made it all the way to 18.\n\nBut even though the matches were close, the outcomes weren’t: The United States team won those matches 6.5 to 0.5. And so they won the Presidents Cup. “It was sort of on a knife’s edge for a long time there in the middle of the day,” said International captain Geoff Ogilvy just after the Cup was clinched. “You have a couple putts go in at the right time and the momentum goes our way, and it just didn’t do that today.”",
+        "copy": "MEDINAH, Ill. — Something strange happened with the final seven Presidents Cup singles matches on Sunday: They all made it to at least the 17th hole. Heck, five of those made it all the way to 18.\n\nBut even though the matches were close, the outcomes weren’t: The United States team won those matches 6.5 to 0.5. And so they won the Presidents Cup. “It was sort of on a knife’s edge for a long time there in the middle of the day,” said International captain Geoff Ogilvy just after the Cup was clinched. “You have a couple putts go in at the right time and the momentum goes our way, and it just didn’t do that today.”",
+        "first_seen": "2026-09-28T15:44:17.401116+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -7323,84 +7310,6 @@
         "body": "Some photographs in golf require no caption. Take the image of a tousled swath of linksland along the Atlantic, watched over by a lighthouse with a humpbacked rock looming just offshore and a hotel perched on the hillside above it all. This is Trump Turnberry, a four-time host of the Open Championship and several prestigious amateur events.\n\nThe Ailsa Course ranks 18th in GOLF’s Top 100 Courses in the World, while the award-winning King Robert the Bruce offers a distinct challenge alongside it. Both courses have been transformed by Martin Ebert, most recently the Ailsa in 2025, strengthening Turnberry’s standing as a world-class golf destination.",
         "copy": "Some photographs in golf require no caption. Take the image of a tousled swath of linksland along the Atlantic, watched over by a lighthouse with a humpbacked rock looming just offshore and a hotel perched on the hillside above it all. This is Trump Turnberry, a four-time host of the Open Championship and several prestigious amateur events.\n\nThe Ailsa Course ranks 18th in GOLF’s Top 100 Courses in the World, while the award-winning King Robert the Bruce offers a distinct challenge alongside it. Both courses have been transformed by Martin Ebert, most recently the Ailsa in 2025, strengthening Turnberry’s standing as a world-class golf destination.",
         "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf’s ‘devastating’ blow leaves hundreds of frustrated players requiring refunds",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVFXU1h3Mzk0MmZxcnROTGQ4SDFsLTY5MVhFb2hvNW8wMndhZ08yRWE5RXhjMUJjVVRZRWY1V0lfbjg2RGo2UFdFMG9MYmZNRmZsaEUtVTA4V0tmMnhhUmtCckl6QXh6VEFPVXZ5MXAydklhSXN5SnMwUWd4aF9KYzE0eVdwNzFYRlY3d2hFcHh0eDVF?oc=5",
-        "published": "2026-09-21T15:30:51+00:00",
-        "published_label": "Mon 21 Sep, 15:30",
-        "summary": "LIV Golf’s ‘devastating’ blow leaves hundreds of frustrated players requiring refunds Today's Golfer",
-        "body": "The wider implications of Saudi Arabia’s retreat from LIV Golf are becoming clear after it emerged aspiring tour pros with crushed dreams will now be refunded thousands of dollars.\n\nAfter pummelling $5 billion into LIV, Saudi’s Public Investment Fund has pulled the plug on its support of the breakaway league, with star names Bryson DeChambeau and Jon Rahm still owed millions.",
-        "copy": "The wider implications of Saudi Arabia’s retreat from LIV Golf are becoming clear after it emerged aspiring tour pros with crushed dreams will now be refunded thousands of dollars.\n\nAfter pummelling $5 billion into LIV, Saudi’s Public Investment Fund has pulled the plug on its support of the breakaway league, with star names Bryson DeChambeau and Jon Rahm still owed millions.",
-        "first_seen": "2026-09-21T21:41:53.376332+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Scotland's Scott promoted to PGA Tour with Ohio win",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cr93ex7vyd27o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-21T15:11:11+00:00",
-        "published_label": "Mon 21 Sep, 15:11",
-        "summary": "Scotland's Sandy Scott puts a career-threatening wrist injury behind him to earn promotion to the main PGA Tour for the first time after winning the Nationwide Children's Hospital Championship in Columbus, Ohio.",
-        "body": "Scotland's Sandy Scott has put a career-threatening wrist injury behind him to earn promotion to the main PGA Tour for the first time by winning the Nationwide Children's Hospital Championship in Columbus, Ohio.\n\nThe 28-year-old's one-stroke victory on Sunday was his first on the Korn Ferry Tour and lifted him to second spot on the development tour's points list. It came a week after he finished runner-up at the Simmons Bank Open for the Snedeker Foundation in Franklin, Tennessee.",
-        "copy": "Scotland's Sandy Scott has put a career-threatening wrist injury behind him to earn promotion to the main PGA Tour for the first time by winning the Nationwide Children's Hospital Championship in Columbus, Ohio.\n\nThe 28-year-old's one-stroke victory on Sunday was his first on the Korn Ferry Tour and lifted him to second spot on the development tour's points list. It came a week after he finished runner-up at the Simmons Bank Open for the Snedeker Foundation in Franklin, Tennessee.",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Bryson DeChambeau teases return … of viral hole-in-one challenge",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWVNaHZfV3NINHpvWlJjNS1WLUFBUkxZQWdXTEY0YlpzWG9xa3hhekNoSl9KN0F5Q0tCUTBBbFZncVNOSFA1el8yNnhZdW51ZjVBaFd0djI1dUtvUy1ZeFctMlk5dU45dFlEaTI2dUZKX3RGcGtvdU5LdFRLZ09LMlJoNGZLYU5jWFAtbnlzbk5qVVZlYmxn?oc=5",
-        "published": "2026-09-21T14:28:46+00:00",
-        "published_label": "Mon 21 Sep, 14:28",
-        "summary": "Bryson DeChambeau teases return … of viral hole-in-one challenge Golf Digest",
-        "body": "Rumors about Bryson DeChambeau’s future continue to swirl. Last week, reports surfaced that LIV Golf only has 35 days to resign star players in order to secure 2.0 funding. A short while later, PGA Tour CEO Brian Rolapp again shot down an extension of the Returning Players program that welcomed Brooks Koepka back into the fold earlier this year. At some point very soon, DeChambeau—one of biggest global names in golf—is going to have to stick or twist, but for now he’s just trolling.\n\nThis weekend, DeChambeau teased he was “Coming Home” in a cryptic story on Instagram, and the Internet quickly did what the Internet does (lose its mind). As anyone with a shred of media literacy realized, however, “home” didn’t mean the PGA Tour, it meant, quite literally, home. Many believed DeChambeau was teasing the return of his viral 2024 hole-in-one challenge, when he attempted to make a hole-in-one OVER HIS HOUSE each day for over two weeks until he finally, triumphantly prevailed. Instead, the current (former?) Crushers captain announced something entirely new:",
-        "copy": "Rumors about Bryson DeChambeau’s future continue to swirl. Last week, reports surfaced that LIV Golf only has 35 days to resign star players in order to secure 2.0 funding. A short while later, PGA Tour CEO Brian Rolapp again shot down an extension of the Returning Players program that welcomed Brooks Koepka back into the fold earlier this year. At some point very soon, DeChambeau—one of biggest global names in golf—is going to have to stick or twist, but for now he’s just trolling.\n\nThis weekend, DeChambeau teased he was “Coming Home” in a cryptic story on Instagram, and the Internet quickly did what the Internet does (lose its mind). As anyone with a shred of media literacy realized, however, “home” didn’t mean the PGA Tour, it meant, quite literally, home. Many believed DeChambeau was teasing the return of his viral 2024 hole-in-one challenge, when he attempted to make a hole-in-one OVER HIS HOUSE each day for over two weeks until he finally, triumphantly prevailed. Instead, the current (former?) Crushers captain announced something entirely new:",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "DP World Tour holds onto prized possession in LIV Golf battle",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXdzS1VST21LWkpVVFVRXzFxcmVnTUo3Ri1zWFRaMW1KUDhhb0wyNVZ4NUdIN2YzQnZwRUZ6WnJoWEJSazV5Q0YwM1c0ckpCc1NDNlZNdXVDTU85bFM1aWtISXcydVRIbUFsMWJPVzRkQXpLNzNZejlzTHhySXNHMkRDbUo3OXowd3ZqOTJjclMwVldKNGNuX3RWdGs4RlMz?oc=5",
-        "published": "2026-09-21T13:47:30+00:00",
-        "published_label": "Mon 21 Sep, 13:47",
-        "summary": "DP World Tour holds onto prized possession in LIV Golf battle bunkered.co.uk",
-        "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. The DP World Tour found new competition with the emergence of LIV Golf five years ago, and this only heightened when the breakaway league went after one of the tour’s most prized possessions. The national open.\n\nIn a period of uncertainty, the ever presence of national opens across the globe on the DP World Tour’s schedule has given those in charge of the European circuit a sense of security.",
-        "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. The DP World Tour found new competition with the emergence of LIV Golf five years ago, and this only heightened when the breakaway league went after one of the tour’s most prized possessions. The national open.\n\nIn a period of uncertainty, the ever presence of national opens across the globe on the DP World Tour’s schedule has given those in charge of the European circuit a sense of security.",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf drama deepens as Saudi backers and new investor clash over 2027 future",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc09xVVRXQnR4YXlPWnZPaFZSSEp0Snljei1QZWhrZXc2WkppaDdyMWQxQzdRaVVVcEt0Mi1oUDUzYjlUNjVqY2wzTTdVY1ZfX1NxN1c0d3pzMjh2VmRLUW0yODlmN3Btdm9ORkFxcXAzUnhsdzJLY3VvTktsNnVYYTRucHVjcXAyZmptd0oyRGVJb1BIaFBvWVZ2eGExcDM4djNsV0RPNFcxQnU0YzBoQUdNeDJJRm8?oc=5",
-        "published": "2026-09-21T13:38:46+00:00",
-        "published_label": "Mon 21 Sep, 13:38",
-        "summary": "LIV Golf drama deepens as Saudi backers and new investor clash over 2027 future Golfmagic",
-        "body": "LIV Golf's proposed 2027 comeback has been plunged into fresh uncertainty, with tensions reportedly escalating behind the scenes between Saudi Arabia's Public Investment Fund (PIF) and the private equity firm tasked with saving the breakaway league.\n\nAccording to the Financial Times, PIF is demanding greater assurances from BC Partners that it is genuinely committed to reviving LIV Golf, rather than simply pursuing the league's enormous tax-loss assets.",
-        "copy": "LIV Golf's proposed 2027 comeback has been plunged into fresh uncertainty, with tensions reportedly escalating behind the scenes between Saudi Arabia's Public Investment Fund (PIF) and the private equity firm tasked with saving the breakaway league.\n\nAccording to the Financial Times, PIF is demanding greater assurances from BC Partners that it is genuinely committed to reviving LIV Golf, rather than simply pursuing the league's enormous tax-loss assets.",
-        "first_seen": "2026-09-21T14:25:52.353960+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Asian Tour Cancels Q-School After 'Devastating' LIV Golf Loss",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWZfc01wbGlOYk4xVmhrWEl2MjhYSjdfbDR5TXlLV2JGLWFBcnY3UERaUEw1dzlwUmxPLU9Gay13bW40X1RrckszVFh0SnhpanFSdEpGRUpmTjJ5eURScXQ3UExvMHk5dW9SQmJJUTItTEdmRFU1VTRMT1psVkJmT1dENHVUdW5LWEc5NDI0eDBYTmxYdnZZ?oc=5",
-        "published": "2026-09-21T13:08:20+00:00",
-        "published_label": "Mon 21 Sep, 13:08",
-        "summary": "Asian Tour Cancels Q-School After 'Devastating' LIV Golf Loss Golf Monthly",
-        "body": "The Asian Tour has announced that it has taken the “difficult decision” to cancel its 2027 Qualifying School. It comes during a season that has thrown up various challenges, most notably the loss of LIV Golf as a partner and, as a result, the end of The International Series.\n\nSaudi Arabia’s Public Investment Fund decided to stop bankrolling LIV Golf beyond this season, leaving the future of the breakaway league in jeopardy. That also led to the cancellation of several International Series events and, therefore, less playing opportunities for Asian Tour members, a consideration that was the driving force behind the latest announcement.",
-        "copy": "The Asian Tour has announced that it has taken the “difficult decision” to cancel its 2027 Qualifying School. It comes during a season that has thrown up various challenges, most notably the loss of LIV Golf as a partner and, as a result, the end of The International Series.\n\nSaudi Arabia’s Public Investment Fund decided to stop bankrolling LIV Golf beyond this season, leaving the future of the breakaway league in jeopardy. That also led to the cancellation of several International Series events and, therefore, less playing opportunities for Asian Tour members, a consideration that was the driving force behind the latest announcement.",
-        "first_seen": "2026-09-21T14:25:52.353960+00:00"
       }
     ],
     "Badminton": [
@@ -7832,45 +7741,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Asian Games: Yoo Leads Korea to Victory",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdl9GUjBURmNCRkdHeXFnQTA1cFFTU1ZMTFRad3pTbWRPTFZpUExqY1QySVB4U3NwT1ZGdndpV1FJdXpJT0pjOW5Na1MtRUxHN2VUdUZ1SGJhQzZFNHJaZVBiT0xPT2c1OWlSN0ZPTVR6cFVrZEc0dG5pUmtrTW9FMDlzbUJpNUdFS3B5TDduVDg?oc=5",
-        "published": "2026-09-21T15:00:51+00:00",
-        "published_label": "Mon 21 Sep, 15:00",
-        "summary": "Asian Games: Yoo Leads Korea to Victory BWF",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-09-21T17:50:15.934520+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Asian Games: Yoo Leads Korea to Victory",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTkFQNVBYUl9qODRHZEVXSUdiVlEyNmw4ajBBdk8tLWtTZldNaURZb21mQ2ZYellNR2JRQnZiZlZvbWNrOUxVeTlWQXF1YWlMS2RfcnZCTlJTazV1bUptd25ZbUI5Rk1kaXpGUVNKT3IxdTVWS0tIaHJsMW5sY25jUVBYVTBHNmt2OEdiT3hURQ?oc=5",
-        "published": "2026-09-21T15:00:34+00:00",
-        "published_label": "Mon 21 Sep, 15:00",
-        "summary": "Asian Games: Yoo Leads Korea to Victory BWF",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-09-21T21:41:53.376332+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Benin secures 5 medals in Uganda, eyes BWF World Championship",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVkJwbVBiUDVfQ3lUdVpJUk9DTXhuUWN2d2pTMTJuZDJxZWJlQ0tMYVZTa3pORVQ1MTltVTI5SzVEblNBdFk0VDFEZW4tYXpfWFFyUUFodERvNDI3dHAwbEJKNFcxVW1hY1JpRGY0cGc2b01DenJjdGRnNlczcHV3N1ZaQU5qQXhRaHN1NWdWSQ?oc=5",
-        "published": "2026-09-21T13:37:15+00:00",
-        "published_label": "Mon 21 Sep, 13:37",
-        "summary": "Benin secures 5 medals in Uganda, eyes BWF World Championship Benin Web TV",
-        "body": "Following the men's triples title, Beninese players added two more silvers in doubles and a bronze in mixed. The country has also qualified for the 2026 BWF World Championship.\n\nBenin concluded the 2026 African AirBadminton Championships with five medals, including one gold, three silver, and one bronze. The Beninese delegation also secured its spot for the 2026 BWF World Championship.",
-        "copy": "Following the men's triples title, Beninese players added two more silvers in doubles and a bronze in mixed. The country has also qualified for the 2026 BWF World Championship.\n\nBenin concluded the 2026 African AirBadminton Championships with five medals, including one gold, three silver, and one bronze. The Beninese delegation also secured its spot for the 2026 BWF World Championship.",
-        "first_seen": "2026-09-21T14:25:52.353960+00:00"
       }
     ],
     "Competitor News": [
@@ -7889,5 +7759,5 @@
       }
     ]
   },
-  "total": 605
+  "total": 595
 }
