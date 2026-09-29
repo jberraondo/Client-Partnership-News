@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T14:13:16.306413+00:00",
-  "generated_label": "Tuesday 29 September 2026, 14:13 UTC",
+  "generated_at": "2026-09-29T19:07:58.766002+00:00",
+  "generated_label": "Tuesday 29 September 2026, 19:07 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Man City found to have artificially boosted finances by more than £900mn",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZU9BRWZQeGR5cW1PWU1FQ2E5LW9GVzItbkl6QWI1WXZLalNieURLUm04R1o3SnZJWW5sOE5BVjlndXhocHllU3BPY2FreGZacXZQOXZzMDgyY3ZaZU1XLVZQQWY3NXFpckZJbng2QjhtWGxYVXI0VXpjaHFzem0zMW5ibHY?oc=5",
+        "published": "2026-09-29T16:37:26+00:00",
+        "published_label": "Tue 29 Sep, 16:37",
+        "summary": "Man City found to have artificially boosted finances by more than £900mn Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Spain seeks to ban ‘vulture funds’ from housing market",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdU5xWEZCaHVEaXpYRENHQk9ONlZ0RmlXVEVBZkFHT3FYVF9sdmFZbFE1U0t4WTRrV0c4OG5rWW9CdGhUVnpMdlhGRktzLTJTZlNMSXNsRjdhb1M0akxvMkFWUF9SSGFFMVBEMXRlczE2elBRWk45ekFnYnE4SXpyRnBqRDk?oc=5",
+        "published": "2026-09-29T16:25:28+00:00",
+        "published_label": "Tue 29 Sep, 16:25",
+        "summary": "Spain seeks to ban ‘vulture funds’ from housing market Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -81,6 +107,19 @@
         "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
+        "title": "Shabana Mahmood looks to soften migration policies amid Labour pressure",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjFSc2ItSkJYZzNHMUpSTDd5UnBmYWVHTkJTQ1JXU0ZTTy1qcEFKYW5SNHZiTTFuaktka1lvTnlJaEhhSFo1d0ZnV2hCRzNpTm1JVU13bVAzN0dzbjRrWDhGNWRrM3JFbGI3dWpqdUpoQ2ZFQXd5RS1vVFc4bUZLel9BVEY?oc=5",
+        "published": "2026-09-29T11:12:13+00:00",
+        "published_label": "Tue 29 Sep, 11:12",
+        "summary": "Shabana Mahmood looks to soften migration policies amid Labour pressure Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
         "title": "Who is driving the massive surge in repo borrowing?",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01T1I0UjI2bGtuVjdGRmgwNGdlbFQzWWt1ZU41ZTVTZkhycGFLNlBMSlJYMG5CUGhzbGl2cjNXYW1DTkhsTDA5aGJGdm50NF93V1Eyalc2bnpzdlNZSExKRkxQVVNRR2NJSXZMM2VSS1Q?oc=5",
         "published": "2026-09-29T11:00:08+00:00",
@@ -115,6 +154,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-29T14:13:16.306413+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "‘Translation and connection are different things’: why languages still matter at work",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQZmYyUGlGaVQyVXJjTFdUSFV2Rkt1U3FkeFdfQzRnRlNYaUFrSkMzSjNmWU1hMXhqNFZsZVJ2Qkd4Z3ItZUgyMzZvTXlDbG9IcU5CMWNIZlp4SGVkdWdrUkxITHNsTVp0S1ZFQkl6Y2U?oc=5",
+        "published": "2026-09-29T10:00:08+00:00",
+        "published_label": "Tue 29 Sep, 10:00",
+        "summary": "‘Translation and connection are different things’: why languages still matter at work Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1688,35 +1740,139 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-23T10:44:38.417500+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "IHG becomes latest 2027 RWC partner",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTXzZBbDlNVTF6aWRtSVVlYmFwVTA0bzU4d2YtLWFzcWFZQkwtb3ozakVjdGkxck9KVzVlb1ZwSW1lTFRZZnB4MEZfcDgyQ0ZEUHZEQkxMT1ljNHA5NDItb002Sl9BLVc2OG9nRmFaZnhLeDRv?oc=5",
-        "published": "2026-09-22T14:50:36+00:00",
-        "published_label": "Tue 22 Sep, 14:50",
-        "summary": "IHG becomes latest 2027 RWC partner Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-22T16:13:57.447424+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "LET hires Two Circles to drive new era of commercial growth",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXNoTGMwVktBMlhLUzhqXzZhMmdiX19aWURNNGF3RVpkNGtRYV9ueDBSY2JUS2VGcXV0VkE2TGxUcUw0QlpSY3VqZ1d0X2NrbXVzaTZ6dXFFU0t3MXhsbFg4S1oyQkQyTnZBOWpsUHFQT2I3M2xUTnV3YjQ3T1IzLVJaeGl1SU43TTlCQ0xpTWJ1S0NL?oc=5",
-        "published": "2026-09-22T14:50:36+00:00",
-        "published_label": "Tue 22 Sep, 14:50",
-        "summary": "LET hires Two Circles to drive new era of commercial growth Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-22T16:13:57.447424+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Jamal Ford-Robinson suffers cruel setback amid injury hell",
+        "link": "https://www.rugbypass.com/news/jamal-ford-robinson-suffers-cruel-setback-amid-injury-hell/",
+        "published": "2026-09-29T16:55:13+00:00",
+        "published_label": "Tue 29 Sep, 16:55",
+        "summary": "Gloucester boss George Skivington has confirmed that Jamal Ford-Robinson’s injury hell continues after he needed another operation, this time on a hamstring injury he suffered in a training game against Bristol Bears.",
+        "body": "Gloucester boss George Skivington has confirmed that Jamal Ford-Robinson’s injury hell continues after he needed another operation, this time on a hamstring injury he suffered in a training game against Bristol Bears.\n\nFord-Robinson, 33, who operates on both sides of the front row, only played four games last season between two dates with the surgeon’s knife for knee injuries, and his last game for the Cherry and Whites came in the defeat at Newcastle Red Bulls on January 2.",
+        "copy": "Gloucester boss George Skivington has confirmed that Jamal Ford-Robinson’s injury hell continues after he needed another operation, this time on a hamstring injury he suffered in a training game against Bristol Bears.\n\nFord-Robinson, 33, who operates on both sides of the front row, only played four games last season between two dates with the surgeon’s knife for knee injuries, and his last game for the Cherry and Whites came in the defeat at Newcastle Red Bulls on January 2.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Son of Scotland Grand Slam hero joins Canadian coaching staff",
+        "link": "https://www.rugbypass.com/news/son-of-scotland-grand-slam-hero-joins-canadian-coaching-staff/",
+        "published": "2026-09-29T16:42:51+00:00",
+        "published_label": "Tue 29 Sep, 16:42",
+        "summary": "Craig Dods has left Scottish Rugby to join Rugby Canada's coaching setup as head coach of Canada's men's sevens team and assistant coach of the men's 15s team.",
+        "body": "Craig Dods has left Scottish Rugby to join Rugby Canada’s coaching setup as head coach of Canada’s men’s sevens team and assistant coach of the men’s 15s team. The son of Peter Dods, a mainstay of the great Scotland 1984 Grand Slam-winning team and a British and Irish Lions tourist, was chosen from a long list of 70 applicants.\n\nHe comes into the role after serving as Scottish Rugby’s specialist skills coach, GB7s assistant coach and as a national talent pathway coach for Scottish Rugby. Previously, he has worked for Gala and Kelso in the Scottish Borders, as well as heading up Hungary’s women’s rugby programme for a couple of years,leading them to their best-ever finish on the Rugby Europe Sevens circuit.",
+        "copy": "Craig Dods has left Scottish Rugby to join Rugby Canada’s coaching setup as head coach of Canada’s men’s sevens team and assistant coach of the men’s 15s team. The son of Peter Dods, a mainstay of the great Scotland 1984 Grand Slam-winning team and a British and Irish Lions tourist, was chosen from a long list of 70 applicants.\n\nHe comes into the role after serving as Scottish Rugby’s specialist skills coach, GB7s assistant coach and as a national talent pathway coach for Scottish Rugby. Previously, he has worked for Gala and Kelso in the Scottish Borders, as well as heading up Hungary’s women’s rugby programme for a couple of years,leading them to their best-ever finish on the Rugby Europe Sevens circuit.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Saracens face fines over 'wine consultant' Venter's media no-shows",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck7902q3g5vgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-29T16:06:24+00:00",
+        "published_label": "Tue 29 Sep, 16:06",
+        "summary": "Saracens are facing fines from Prem Rugby for director of rugby Brendan Venter's failure to fulfil media commitments.",
+        "body": "Saracens are set to receive a series of fines from Prem Rugby due to director of rugby Brendan Venter's failure to fulfil media commitments. It is understood the club have already been handed a £5,000 sanction after Venter was not present at the Prem's pre-season launch day.\n\nThe South African also did not speak to the media before, during or after the opening-weekend victory at Leicester. The Daily Telegraph reported earlier on Tuesday, external that Venter \"resigned\" as director of rugby last month and took up a new role of \"head of rugby culture and wine consultant\", with head coach Joe Shaw assuming responsibility for media commitments.",
+        "copy": "Saracens are set to receive a series of fines from Prem Rugby due to director of rugby Brendan Venter's failure to fulfil media commitments. It is understood the club have already been handed a £5,000 sanction after Venter was not present at the Prem's pre-season launch day.\n\nThe South African also did not speak to the media before, during or after the opening-weekend victory at Leicester. The Daily Telegraph reported earlier on Tuesday, external that Venter \"resigned\" as director of rugby last month and took up a new role of \"head of rugby culture and wine consultant\", with head coach Joe Shaw assuming responsibility for media commitments.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Xoliswa Khuzwayo: Springbok Women embrace their ‘underdog’ status",
+        "link": "https://www.rugbypass.com/news/xoliswa-khuzwayo-springbok-women-embrace-their-underdog-status/",
+        "published": "2026-09-29T15:36:14+00:00",
+        "published_label": "Tue 29 Sep, 15:36",
+        "summary": "Springbok Women prop Xoliswa Khuzwayo has admitted that her team don't mind being called the \"underdogs\".",
+        "body": "Springbok Women prop Xoliswa Khuzwayo has admitted that her team don’t mind being called the “underdogs”. It has now been a year since South Africa stunned the world with their run to the Women’s Rugby World Cup 2025 quarter-finals and established themselves as a team to watch across the current World Cup cycle.\n\nAt the start of the year South Africa admitted that their aim is not to move further up the World Rugby rankings. Currently ranked 10th, the side have been challenged at WXV Global Series and started their autumn campaign with a loss to Wales in Cardiff, before they got back to winning ways with a 41-27 win against Italy in Pordenone.",
+        "copy": "Springbok Women prop Xoliswa Khuzwayo has admitted that her team don’t mind being called the “underdogs”. It has now been a year since South Africa stunned the world with their run to the Women’s Rugby World Cup 2025 quarter-finals and established themselves as a team to watch across the current World Cup cycle.\n\nAt the start of the year South Africa admitted that their aim is not to move further up the World Rugby rankings. Currently ranked 10th, the side have been challenged at WXV Global Series and started their autumn campaign with a loss to Wales in Cardiff, before they got back to winning ways with a 41-27 win against Italy in Pordenone.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Johann van Graan's worst fears confirmed over Sam Underhill injury",
+        "link": "https://www.rugbypass.com/news/johann-van-graans-worst-fears-confirmed-over-sam-underhill-injury/",
+        "published": "2026-09-29T15:29:05+00:00",
+        "published_label": "Tue 29 Sep, 15:29",
+        "summary": "The England flanker will have an operation on Thursday to repair the bicep he tore in last Friday's 33-17 win at Harlequins.",
+        "body": "Johann van Graan has revealed that England flanker Sam Underhill suffered a torn bicep in last Friday’s 33-17 win at Harlequins and will undergo an operation on Thursday. Underhill was replaced after 48 minutes at the Twickenham Stoop and a concerned van Graan rushed down to the tunnel to check on the luckless player, later admitting that the injury looked “potentially serious.”\n\nNow his worst fears have been confirmed, with Underhill’s latest setback likely to cost him three months of rugby, including England’s Nations Championship campaign in November.",
+        "copy": "Johann van Graan has revealed that England flanker Sam Underhill suffered a torn bicep in last Friday’s 33-17 win at Harlequins and will undergo an operation on Thursday. Underhill was replaced after 48 minutes at the Twickenham Stoop and a concerned van Graan rushed down to the tunnel to check on the luckless player, later admitting that the injury looked “potentially serious.”\n\nNow his worst fears have been confirmed, with Underhill’s latest setback likely to cost him three months of rugby, including England’s Nations Championship campaign in November.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Sale camp deliver early bad news for England after PREM opening round",
+        "link": "https://www.rugbypass.com/news/sale-camp-deliver-early-bad-news-for-england-after-prem-opening-round-bevan-rodd/",
+        "published": "2026-09-29T15:19:29+00:00",
+        "published_label": "Tue 29 Sep, 15:19",
+        "summary": "England boss Steve Borthwick has been dealt a Nations Championship blow after Sale Sharks loosehead Bevan Rodd underwent a fourth operation in two years following a hand injury sustained against Bristol Bears last weekend.",
+        "body": "England boss Steve Borthwick has been dealt a Nations Championship blow after Sale Sharks loosehead Bevan Rodd underwent a fourth operation in two years following a hand injury sustained against Bristol Bears last weekend.\n\nRodd, who made five appearances off the bench in last season’s Six Nations, faces eight to 12 weeks on the sidelines after an operation on the scaphoid, the most commonly fractured carpal bone in the hand.",
+        "copy": "England boss Steve Borthwick has been dealt a Nations Championship blow after Sale Sharks loosehead Bevan Rodd underwent a fourth operation in two years following a hand injury sustained against Bristol Bears last weekend.\n\nRodd, who made five appearances off the bench in last season’s Six Nations, faces eight to 12 weeks on the sidelines after an operation on the scaphoid, the most commonly fractured carpal bone in the hand.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Welsh international duo re-sign with PWR champions Saracens",
+        "link": "https://www.rugbypass.com/news/welsh-international-duo-re-sign-with-pwr-champions-saracens/",
+        "published": "2026-09-29T15:00:03+00:00",
+        "published_label": "Tue 29 Sep, 15:00",
+        "summary": "Premiership Women's Rugby champions Saracens have announced the retention of Wales internationals Georgia Evans and Donna Rose.",
+        "body": "JAECOO Premiership Women’s Rugby champions Saracens have announced the retention of Wales internationals Georgia Evans and Donna Rose. Evans joined the club in 2020 and has been a key performer for the team in recent years. Capable of playing in the second row or back row, the 29-year-old made her 50th Test appearance for Wales last weekend against the USA Women’s Eagles in Cardiff.\n\nLast season, she made 17 PWR appearances for the North London club as they won the English league title for the first time since 2022. Alex Austerberry, Director of Rugby, said: “Georgia is approaching 100 games for the club. This is testament to her quality as a player. Those appearances have come across the back five, which illustrates her versatility and ability to play in such abrasive and competitive positions at the highest level.",
+        "copy": "JAECOO Premiership Women’s Rugby champions Saracens have announced the retention of Wales internationals Georgia Evans and Donna Rose. Evans joined the club in 2020 and has been a key performer for the team in recent years. Capable of playing in the second row or back row, the 29-year-old made her 50th Test appearance for Wales last weekend against the USA Women’s Eagles in Cardiff.\n\nLast season, she made 17 PWR appearances for the North London club as they won the English league title for the first time since 2022. Alex Austerberry, Director of Rugby, said: “Georgia is approaching 100 games for the club. This is testament to her quality as a player. Those appearances have come across the back five, which illustrates her versatility and ability to play in such abrasive and competitive positions at the highest level.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Munster receive double international boost ahead of Bulls visit",
+        "link": "https://www.rugbypass.com/news/munster-receive-double-international-boost-ahead-of-bulls-visit-craig-casey-jeremy-loughman/",
+        "published": "2026-09-29T14:59:36+00:00",
+        "published_label": "Tue 29 Sep, 14:59",
+        "summary": "Munster have received a double Ireland boost ahead of Saturday’s United Rugby Championship clash with the Bulls, with Craig Casey and Jeremy Loughman both available for selection at Thomond Park.",
+        "body": "Munster have received a double Ireland boost ahead of Saturday’s United Rugby Championship clash with the Bulls, with Craig Casey and Jeremy Loughman both available for selection at Thomond Park.\n\nClayton McMillan’s side are looking to respond after opening their campaign with a 26-20 defeat to Glasgow Warriors in Limerick, having led 17-7 at half-time before the visitors turned the contest around after the break.",
+        "copy": "Munster have received a double Ireland boost ahead of Saturday’s United Rugby Championship clash with the Bulls, with Craig Casey and Jeremy Loughman both available for selection at Thomond Park.\n\nClayton McMillan’s side are looking to respond after opening their campaign with a 26-20 defeat to Glasgow Warriors in Limerick, having led 17-7 at half-time before the visitors turned the contest around after the break.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Saracens bend the rules with bizarre Brendan Venter job title change",
+        "link": "https://www.rugbypass.com/news/saracens-bend-the-rules-with-bizarre-brendan-venter-job-title-change/",
+        "published": "2026-09-29T14:47:20+00:00",
+        "published_label": "Tue 29 Sep, 14:47",
+        "summary": "Saracens have responded to being fined for Brendan Venter's refusal to carry out media duties by changing his job title to “head of rugby culture and wine consultant”.",
+        "body": "Saracens have responded to being fined for Brendan Venter’s refusal to carry out media duties by changing his job title to “head of rugby culture and wine consultant”. As Director of Rugby, the job title still given to him on Saracens’ official website, the South African is honour bound by PREM Rugby regulations to speak to the press.\n\nHowever, Saracens say they asked the league’s organisers permission in July for head coach Shaw to be their designated media person. Shaw took Venter’s place at the pre-season content capture day at Allianz Stadium earler this month and has continued to fulfil those obligations, speaking to TNT Sports during their coverage of the London club’s impressive 40-38 victory at Mattioli Woods Welford Road on Sunday.",
+        "copy": "Saracens have responded to being fined for Brendan Venter’s refusal to carry out media duties by changing his job title to “head of rugby culture and wine consultant”. As Director of Rugby, the job title still given to him on Saracens’ official website, the South African is honour bound by PREM Rugby regulations to speak to the press.\n\nHowever, Saracens say they asked the league’s organisers permission in July for head coach Shaw to be their designated media person. Shaw took Venter’s place at the pre-season content capture day at Allianz Stadium earler this month and has continued to fulfil those obligations, speaking to TNT Sports during their coverage of the London club’s impressive 40-38 victory at Mattioli Woods Welford Road on Sunday.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘No-one could remember such a crazy game. Or explain that last 10 minutes. No matter.'",
+        "link": "https://www.rugbypass.com/plus/no-one-could-remember-such-a-crazy-wallabies-game-or-explain-that-last-10-minutes-it-wont-matter/",
+        "published": "2026-09-29T14:19:26+00:00",
+        "published_label": "Tue 29 Sep, 14:19",
+        "summary": "Five tries each, four yellow cards in the final 10 minutes and frayed nerves aplenty - relive the drama of Australia's win over South Africa.",
+        "body": "The Wallabies have recorded the craziest win in living memory… feels like the sort of thing to say after that absolutely bonkers 42-38 win over South Africa in Perth on Sunday.\n\nBut then I had to check to see if I said the same thing after the Wallabies’ memorable 38-22 win at Ellis Park last August. I hadn’t, as it turned out, but Sunday still might only have been the craziest win in… well, a year.",
+        "copy": "The Wallabies have recorded the craziest win in living memory… feels like the sort of thing to say after that absolutely bonkers 42-38 win over South Africa in Perth on Sunday.\n\nBut then I had to check to see if I said the same thing after the Wallabies’ memorable 38-22 win at Ellis Park last August. I hadn’t, as it turned out, but Sunday still might only have been the craziest win in… well, a year.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4914,139 +5070,22 @@
         "body": "Eight-Test Wallabies rake Lachlan Lonergan is back in the ACT Brumbies matchday squad after minor off-season surgery, named to come off the bench in the Super Rugby AUS regular season finale against the Queensland Reds.\n\nBoth the Brumbies and Reds are searching for drought-breaking wins after defeats to the NSW Waratahs and Western Force. The Brums will again be captained by former Australia U20 skipper Toby Macpherson, with the game kicking off on Sunday afternoon at Viking Park.",
         "copy": "Eight-Test Wallabies rake Lachlan Lonergan is back in the ACT Brumbies matchday squad after minor off-season surgery, named to come off the bench in the Super Rugby AUS regular season finale against the Queensland Reds.\n\nBoth the Brumbies and Reds are searching for drought-breaking wins after defeats to the NSW Waratahs and Western Force. The Brums will again be captained by former Australia U20 skipper Toby Macpherson, with the game kicking off on Sunday afternoon at Viking Park.",
         "first_seen": "2026-09-23T10:44:38.417500+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Cloé Correa and Ambre Mwayembe learn fates after red cards against Australia",
-        "link": "https://www.rugbypass.com/news/cloe-correa-and-ambre-mwayembe-learn-fates-after-red-cards-against-australia/",
-        "published": "2026-09-22T19:01:42+00:00",
-        "published_label": "Tue 22 Sep, 19:01",
-        "summary": "France's Cloé Correa and Ambre Mwayembe have learned their fates after receiving red cards in their team's 29-26 win over Australia.",
-        "body": "France’s Cloé Correa and Ambre Mwayembe have learned their fates after receiving red cards in their team’s 29-26 win over Australia. Both players received red cards in Aix-en-Provence in the first half of the WXV Global Series 2026 fixture. At one stage of the match, France were reduced to 11 players.\n\nLoosehead prop Mwayembe accepted that she had committed an act of foul play and that a red card was warranted. She made a dangerous tackle in which she made head contact with an Australian player.",
-        "copy": "France’s Cloé Correa and Ambre Mwayembe have learned their fates after receiving red cards in their team’s 29-26 win over Australia. Both players received red cards in Aix-en-Provence in the first half of the WXV Global Series 2026 fixture. At one stage of the match, France were reduced to 11 players.\n\nLoosehead prop Mwayembe accepted that she had committed an act of foul play and that a red card was warranted. She made a dangerous tackle in which she made head contact with an Australian player.",
-        "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "‘Number one on my goal list’: Sisilia Tuipulotu eyes Lions spot",
-        "link": "https://www.rugbypass.com/news/number-one-on-my-goal-list-sisilia-tuipulotu-eyes-lions-spot/",
-        "published": "2026-09-22T17:12:15+00:00",
-        "published_label": "Tue 22 Sep, 17:12",
-        "summary": "Scoring two tries in a big win is usually a good feeling for a player. Doing that in front of the British & Irish Lions Women coach, Jo Yapp, it is an excellent audition.",
-        "body": "Scoring two tries in a big win is usually a good feeling for a player. Doing that in front of the British & Irish Lions Women coach, Jo Yapp, it is an excellent audition. That is exactly what Sisilia Tuipulotu did on Friday night as Wales started their WXV Global Series campaign with a 50-19 win against the Springbok Women at Cardiff Arms Park.\n\n“I actually didn’t know she [Yapp] was there until after the game, but I’m very happy that we gave the performance that we did on Friday in front of her,” Tuipulotu said. The spectre of the first-ever Lions Women tour will hang over women’s rugby for the next 12 months and Yapp’s attendance at fixtures will become the subject of plenty speculation about how the team will lineup in New Zealand.",
-        "copy": "Scoring two tries in a big win is usually a good feeling for a player. Doing that in front of the British & Irish Lions Women coach, Jo Yapp, it is an excellent audition. That is exactly what Sisilia Tuipulotu did on Friday night as Wales started their WXV Global Series campaign with a 50-19 win against the Springbok Women at Cardiff Arms Park.\n\n“I actually didn’t know she [Yapp] was there until after the game, but I’m very happy that we gave the performance that we did on Friday in front of her,” Tuipulotu said. The spectre of the first-ever Lions Women tour will hang over women’s rugby for the next 12 months and Yapp’s attendance at fixtures will become the subject of plenty speculation about how the team will lineup in New Zealand.",
-        "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'It'd be naive to think it's not a big carrot’: Alec Hepburn eyes Scotland RWC shot",
-        "link": "https://www.rugbypass.com/news/people-would-be-naive-to-think-thats-not-a-big-carrot-alec-hepburn-eyes-scotland-rwc-shot-after-edinburgh-move/",
-        "published": "2026-09-22T17:02:58+00:00",
-        "published_label": "Tue 22 Sep, 17:02",
-        "summary": "\"I’m getting a little long in the tooth but my thought was if I'm here, I give myself the best opportunity,\" says Edinburgh's ex-England prop.",
-        "body": "Scotland prop Alec Hepburn hopes his summer move to Edinburgh can propel him to the forefront of Gregor Townsend’s plans as a year-long battle to make the 2027 World Cup begins in earnest this weekend.\n\nThe Australia-born loosehead previously won six caps for England under Eddie Jones in 2018 amid a productive nine-year stint at Exeter, where he helped the Chiefs to two English titles including a domestic-European double in 2020.",
-        "copy": "Scotland prop Alec Hepburn hopes his summer move to Edinburgh can propel him to the forefront of Gregor Townsend’s plans as a year-long battle to make the 2027 World Cup begins in earnest this weekend.\n\nThe Australia-born loosehead previously won six caps for England under Eddie Jones in 2018 amid a productive nine-year stint at Exeter, where he helped the Chiefs to two English titles including a domestic-European double in 2020.",
-        "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "The Wales captains looking to conquer England",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq99dk095epgo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-22T17:02:18+00:00",
-        "published_label": "Tue 22 Sep, 17:02",
-        "summary": "Wales captains Dewi Lake and Jac Morgan prepare to make their Prem debuts for Gloucester after moving from Ospreys.",
-        "body": "You might argue that for Welsh rugby to lose one Wales captain to an English club was unfortunate but two on the same day was just careless. That is what happened in December 2025 when flanker Jac Morgan and hooker Dewi Lake announced they were leaving Ospreys for Gloucester for the 2026-27 season.\n\nA two-for-one deal for the English club, who are investing in the Welsh duo to help turn their fortunes around. Now the pair are preparing to make their Prem debuts against Exeter this Saturday.",
-        "copy": "You might argue that for Welsh rugby to lose one Wales captain to an English club was unfortunate but two on the same day was just careless. That is what happened in December 2025 when flanker Jac Morgan and hooker Dewi Lake announced they were leaving Ospreys for Gloucester for the 2026-27 season.\n\nA two-for-one deal for the English club, who are investing in the Welsh duo to help turn their fortunes around. Now the pair are preparing to make their Prem debuts against Exeter this Saturday.",
-        "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'We did not play to our potential': Springboks determined to bounce back after Wales defeat",
-        "link": "https://www.rugbypass.com/news/we-did-not-play-to-our-potential-springboks-determined-to-bounce-back-after-wales-defeat/",
-        "published": "2026-09-22T16:20:36+00:00",
-        "published_label": "Tue 22 Sep, 16:20",
-        "summary": "There was only one emotion the Springbok Women were feeling at the conclusion of their 50-19 loss to Wales: frustration.",
-        "body": "There was only one emotion the Springbok Women were feeling at the conclusion of their 50-19 loss to Wales: frustration. Their first WXV Global Series 2026 fixture could not have gone worse.\n\nAfter a Test series win against the Fijiana, a drawn series with the USA Women’s Eagles and a promising performance against the Black Ferns in Soweto, there was hope that South Africa were going to set the world alight.",
-        "copy": "There was only one emotion the Springbok Women were feeling at the conclusion of their 50-19 loss to Wales: frustration. Their first WXV Global Series 2026 fixture could not have gone worse.\n\nAfter a Test series win against the Fijiana, a drawn series with the USA Women’s Eagles and a promising performance against the Black Ferns in Soweto, there was hope that South Africa were going to set the world alight.",
-        "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "‘It’s going to be tough’: Simon Zebo sounds warning ahead of URC",
-        "link": "https://www.rugbypass.com/news/its-going-to-be-tough-simon-zebo-sounds-warning-ahead-of-urc-munster-leinster/",
-        "published": "2026-09-22T16:12:50+00:00",
-        "published_label": "Tue 22 Sep, 16:12",
-        "summary": "Former Ireland star Simon Zebo believes Leinster are the team to beat and will start the season as favourites to complete a hat-trick of United Rugby Championship titles.",
-        "body": "Former Ireland star Simon Zebo believes Leinster are the team to beat and will start the season as favourites to complete a hat-trick of United Rugby Championship titles. The Munster legend believes that Leo Cullen, who is standing down at the end of the campaign, will go out on a high by bringing an 11th URC title to the RDS Arena.\n\nZebo, 36, who won two URC crowns in 2011 and 2023, believes that strength in depth will be key for Leinster, as will the confidence gained from back-to-back Grand Final victories over the Bulls.",
-        "copy": "Former Ireland star Simon Zebo believes Leinster are the team to beat and will start the season as favourites to complete a hat-trick of United Rugby Championship titles. The Munster legend believes that Leo Cullen, who is standing down at the end of the campaign, will go out on a high by bringing an 11th URC title to the RDS Arena.\n\nZebo, 36, who won two URC crowns in 2011 and 2023, believes that strength in depth will be key for Leinster, as will the confidence gained from back-to-back Grand Final victories over the Bulls.",
-        "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Sale DoR Alex Sanderson opens up on the 'extremely stressful' part of the job",
-        "link": "https://www.rugbypass.com/news/sale-dor-alex-sanderson-opens-up-on-the-extremely-stressful-part-of-the-job/",
-        "published": "2026-09-22T15:40:23+00:00",
-        "published_label": "Tue 22 Sep, 15:40",
-        "summary": "Alex Sanderson spent most of last season trying to recruit a squad to compete with the best in the Gallagher PREM and then the last six months trying to keep it together beyond next summer.",
-        "body": "Sale Sharks boss Alex Sanderson spent most of last season trying to recruit a squad to compete with the best in the Gallagher PREM and then the last six months trying to keep it together beyond next summer.\n\nSanderson went from the business of recruiting Joe Marchant, Nicky Smith, Tomas Francis, Alex Lozowski, Ponepati Loganimasi, Elia Canakaivata, Christ Tshiunza, Courtney Lawes and Xavier Roe to persuading a host of current stars to stay.",
-        "copy": "Sale Sharks boss Alex Sanderson spent most of last season trying to recruit a squad to compete with the best in the Gallagher PREM and then the last six months trying to keep it together beyond next summer.\n\nSanderson went from the business of recruiting Joe Marchant, Nicky Smith, Tomas Francis, Alex Lozowski, Ponepati Loganimasi, Elia Canakaivata, Christ Tshiunza, Courtney Lawes and Xavier Roe to persuading a host of current stars to stay.",
-        "first_seen": "2026-09-22T16:13:57.447424+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Manusina Samoa seizing chance to ‘build and grow’ at WXV Global Series Challenger",
-        "link": "https://www.rugbypass.com/news/manusina-samoa-seizing-chance-to-build-and-grow-at-wxv-global-series-challenger/",
-        "published": "2026-09-22T15:00:30+00:00",
-        "published_label": "Tue 22 Sep, 15:00",
-        "summary": "While Samoa did concede losses in rounds one and two of the WXV Global Series Challenger, they have also shown promising signs of growth under the new head coach, Bella Milo.",
-        "body": "While Samoa did concede losses in rounds one and two of the WXV Global Series Challenger, they have also shown promising signs of growth under the new head coach, Bella Milo. With one round to go, Manusina still have a chance to finish in fifth place, needing only to beat Hong Kong China and for Brazil to lose their contest against Spain.\n\nStill, a few days remain, and for players like Olalini Tafoulua, it is vital to highlight the positives of Samoa’s campaign at WXV Global Series Challenger, especially when it is the start of a new era for Manusina.",
-        "copy": "While Samoa did concede losses in rounds one and two of the WXV Global Series Challenger, they have also shown promising signs of growth under the new head coach, Bella Milo. With one round to go, Manusina still have a chance to finish in fifth place, needing only to beat Hong Kong China and for Brazil to lose their contest against Spain.\n\nStill, a few days remain, and for players like Olalini Tafoulua, it is vital to highlight the positives of Samoa’s campaign at WXV Global Series Challenger, especially when it is the start of a new era for Manusina.",
-        "first_seen": "2026-09-22T16:13:57.447424+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Stormers make second signing in as many days",
-        "link": "https://www.rugbypass.com/news/stormers-make-second-signing-in-as-many-days-andre-warner/",
-        "published": "2026-09-22T14:58:12+00:00",
-        "published_label": "Tue 22 Sep, 14:58",
-        "summary": "The Stormers have made their second scrum-half signing in two days, bringing in former Bulls and Lions No.9 Andre Warner on a short-term deal with the new United Rugby Championship season just days away.",
-        "body": "The Stormers have made their second scrum-half signing in two days, bringing in former Bulls and Lions No.9 Andre Warner on a short-term deal with the new United Rugby Championship season just days away.\n\nFollowing the signing of former Junior Springboks star Haashim Pead, the Stormers have signed the 33-year-old to bolster their scrum-half stocks, which were looking thin. The club recently confirmed that 22-year-old scrum-half Imad Khan will miss much of the season after injuring his ACL against the All Blacks. With Cobus Reinach also expected to miss a large chunk of the season while with the Springboks, they have now addressed what appeared to be an area of concern.",
-        "copy": "The Stormers have made their second scrum-half signing in two days, bringing in former Bulls and Lions No.9 Andre Warner on a short-term deal with the new United Rugby Championship season just days away.\n\nFollowing the signing of former Junior Springboks star Haashim Pead, the Stormers have signed the 33-year-old to bolster their scrum-half stocks, which were looking thin. The club recently confirmed that 22-year-old scrum-half Imad Khan will miss much of the season after injuring his ACL against the All Blacks. With Cobus Reinach also expected to miss a large chunk of the season while with the Springboks, they have now addressed what appeared to be an area of concern.",
-        "first_seen": "2026-09-22T16:13:57.447424+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Scarlets ready to 'come out fighting' with future at stake",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cr86x23gvl3no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-22T14:18:07+00:00",
-        "published_label": "Tue 22 Sep, 14:18",
-        "summary": "Scarlets director of rugby Nigel Davies says talk about the organisation's long-term future has galvanised his squad before the new season starts this weekend.",
-        "body": "Scarlets director of rugby Nigel Davies says talk about the organisation's long-term future has galvanised his squad before the new season starts this weekend. The Welsh Rugby Union (WRU) has outlined how it plans to cut from four men's professional teams to three by 2028, with Ospreys and Scarlets set to fight to be the side in west Wales.\n\nThe governing body says the decision will be made in time for the 2028-29 season, with one side in the capital, one in the east and one in the west. WRU-owned Cardiff and Dragons, an independently backed business, are set to be given licences in the capital and east respectively.",
-        "copy": "Scarlets director of rugby Nigel Davies says talk about the organisation's long-term future has galvanised his squad before the new season starts this weekend. The Welsh Rugby Union (WRU) has outlined how it plans to cut from four men's professional teams to three by 2028, with Ospreys and Scarlets set to fight to be the side in west Wales.\n\nThe governing body says the decision will be made in time for the 2028-29 season, with one side in the capital, one in the east and one in the west. WRU-owned Cardiff and Dragons, an independently backed business, are set to be given licences in the capital and east respectively.",
-        "first_seen": "2026-09-22T16:13:57.447424+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu drops in rankings again after pulling out of another event",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUQ4TlVzOF96NFJVZkhuX21HWWgzSDdua1FmWEprYjQwR2FtbW5PMEc2U25BQWhjdkEtU0c0dTl3TkJNOXhGZVVZM0tla1BIbzNkYXh2dmw2TVRZa3QxZ3JPY2ZBV05wREZLWHpMZlRpdmx5R1B0c2RCajZ4X1NwZkJKZFE3VUU?oc=5",
+        "published": "2026-09-29T17:29:40+00:00",
+        "published_label": "Tue 29 Sep, 17:29",
+        "summary": "Emma Raducanu drops in rankings again after pulling out of another event AOL.com",
+        "body": "Emma Raducanu has taken another hit in the rankings after withdrawing from the China Open due to a stress fracture in her right leg. The former US Open champion hasn't competed since making it to the Queen's Club final in June. The setback forced her to sit out Wimbledon and prevented a return to Flushing Meadows, where she made history with her Grand Slam victory in 2021.\n\nInitially, Raducanu appeared on the entry list for the China Open, sparking optimism about her anticipated return in Beijing. Yet she was removed from the list weeks before the tennis event, suggesting her injury continues to linger. Her absence from competition has significantly impacted her WTA ranking, with the 23-year-old experiencing a dramatic decline.",
+        "copy": "Emma Raducanu has taken another hit in the rankings after withdrawing from the China Open due to a stress fracture in her right leg. The former US Open champion hasn't competed since making it to the Queen's Club final in June. The setback forced her to sit out Wimbledon and prevented a return to Flushing Meadows, where she made history with her Grand Slam victory in 2021.\n\nInitially, Raducanu appeared on the entry list for the China Open, sparking optimism about her anticipated return in Beijing. Yet she was removed from the list weeks before the tennis event, suggesting her injury continues to linger. Her absence from competition has significantly impacted her WTA ranking, with the 23-year-old experiencing a dramatic decline.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -5579,48 +5618,61 @@
         "body": "- Not Going OutCan Lee win Lucy round to his charms? If he does, it's unlikely to be domestic bliss. - Would I Lie to You?The Best Bits. Fab fibs from Yinka Bokinni, Lucy Beaumont... and Bob Mortimer29 mins\n\n- Mrs Brown's BoysChaos at the Browns with Agnes and her awful offspring. - LudwigThe accidental detective. Puzzle master John is plunged into the cryptic world of crime - PanoramaHow organised gangs of abusers preyed on girls while authorities looked the other way.29 mins",
         "copy": "- Not Going OutCan Lee win Lucy round to his charms? If he does, it's unlikely to be domestic bliss. - Would I Lie to You?The Best Bits. Fab fibs from Yinka Bokinni, Lucy Beaumont... and Bob Mortimer29 mins\n\n- Mrs Brown's BoysChaos at the Browns with Agnes and her awful offspring. - LudwigThe accidental detective. Puzzle master John is plunged into the cryptic world of crime - PanoramaHow organised gangs of abusers preyed on girls while authorities looked the other way.29 mins",
         "first_seen": "2026-09-23T12:52:08.918349+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Banned Moore's £15m lawsuit against WTA dismissed",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-22T18:34:15+00:00",
-        "published_label": "Tue 22 Sep, 18:34",
-        "summary": "British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.",
-        "body": "British doubles player Tara Moore's legal bid for £15m ($20m) in damages from the Women's Tennis Association - over a doping case which led to her being banned for four years - has been dismissed by a United States court.\n\nMoore, 34, argued the WTA - the governing body of the women's tour - failed to warn players about the risk of eating contaminated meat at a tournament held in Colombia. But the United States District Court in New York has dismissed Moore's motion and directed to \"close this matter\".",
-        "copy": "British doubles player Tara Moore's legal bid for £15m ($20m) in damages from the Women's Tennis Association - over a doping case which led to her being banned for four years - has been dismissed by a United States court.\n\nMoore, 34, argued the WTA - the governing body of the women's tour - failed to warn players about the risk of eating contaminated meat at a tournament held in Colombia. But the United States District Court in New York has dismissed Moore's motion and directed to \"close this matter\".",
-        "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cmkg75dyz154o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-22T17:11:54+00:00",
-        "published_label": "Tue 22 Sep, 17:11",
-        "summary": "Sonay Kartal and Katie Boulter lose their singles matches as Great Britain are beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
-        "body": "Great Britain captain Anne Keothavong says she \"cannot fault\" her team's efforts after they were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.\n\nKeothavong's team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad. Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
-        "copy": "Great Britain captain Anne Keothavong says she \"cannot fault\" her team's efforts after they were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.\n\nKeothavong's team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad. Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
-        "first_seen": "2026-09-22T16:13:57.447424+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Billie Jean King Cup: Great Britain knocked out at quarter-final stage vs Czech Republic as Katie Boulter, Sonay Kartal beaten",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaTR6THlrTXUtNks3YzN4MHlkOTFqYXpvLW1tTGI0ZjQzaXcxU29ncmU2bnVxUmlfUmJoa0hOVWpwcjh6ZnZHdWJaa2M0OVhwTEVpdG14ektZa0RDcV9tNDlBUUhvbmdNTHBXVFpnUW9mMmpoczNZUnJEMzNMTzI2b3lBZGtiX2FjQWU2NVJqVDI4dlhuWDlYV3FHazYtZWFIU0U4a1Uwb29LbmlXUW1BSWJrQjEyNVA4M3VDTXpiSjQ5MExoUjhiYjVTMGJ4dFI0RTN4TnFMejRMMGRFS1phWEx1aHVOblQzd1p2UzEtMC1QdlhtR1g4UEdSZjlmcnRE?oc=5",
-        "published": "2026-09-22T16:09:32+00:00",
-        "published_label": "Tue 22 Sep, 16:09",
-        "summary": "Billie Jean King Cup: Great Britain knocked out at quarter-final stage vs Czech Republic as Katie Boulter, Sonay Kartal beaten Sky Sports",
-        "body": "Great Britain's stay at the Billie Jean King Cup Finals lasted only one match as they fell to Czechia in the quarter-finals in Shenzhen. Anne Keothavong's side were bidding to reach the last four for the fourth time in five years but were considerable underdogs and defeats for Sonay Kartal and Katie Boulter sealed their fate.\n\nLed by Wimbledon champion Linda Noskova, the whole Czech team is ranked higher than any of Britain's players, and it was Noskova who sealed victory with a 6-2 7-6 (7-3) win over Boulter.",
-        "copy": "Great Britain's stay at the Billie Jean King Cup Finals lasted only one match as they fell to Czechia in the quarter-finals in Shenzhen. Anne Keothavong's side were bidding to reach the last four for the fourth time in five years but were considerable underdogs and defeats for Sonay Kartal and Katie Boulter sealed their fate.\n\nLed by Wimbledon champion Linda Noskova, the whole Czech team is ranked higher than any of Britain's players, and it was Noskova who sealed victory with a 6-2 7-6 (7-3) win over Boulter.",
-        "first_seen": "2026-09-23T10:44:38.417500+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Rules Guy: What's the maximum number of penalty strokes you can accrue on 1 shot?",
+        "link": "https://golf.com/instruction/rules/rules-guy-maximum-penalty-tee-shot/",
+        "published": "2026-09-29T17:53:04+00:00",
+        "published_label": "Tue 29 Sep, 17:53",
+        "summary": "Is there a limit to the number of penalty strokes you can accrue by hitting a single tee shot? Rules Guy has the answer. The post Rules Guy: What’s the maximum number of penalty strokes you can accrue on 1 shot? appeared first on Golf .",
+        "body": "The Rules of Golf are tricky! Thankfully, we’ve got the guru. Our Rules Guy knows the book front to back. Got a question? He’s got all the answers. Hypothetical question: How many penalty strokes could a player get from hitting one tee shot? My thought: He’s late for his tee time, asks his opponent what club he used, tees it up in front of the marker, has too many clubs in his bag, uses an illegal club or ball, and then hits it out of bounds. Your thoughts? —Todd Sherstad, via email\n\nFirst thought: Rules Guy needs more coffee to tackle this convoluted theoretical, but then sufficient caffeine kicked in. In 2023, Rule 1.3c(4) was designed to help limit the number of penalty strokes players could accumulate between strokes, so long as they were unaware of the breaches at the time. Thus, theoretically, absent that awareness, a player should only be able to rack up three penalty strokes in one shot — two for a breach and one for stroke and distance after hitting it out of bounds.",
+        "copy": "The Rules of Golf are tricky! Thankfully, we’ve got the guru. Our Rules Guy knows the book front to back. Got a question? He’s got all the answers. Hypothetical question: How many penalty strokes could a player get from hitting one tee shot? My thought: He’s late for his tee time, asks his opponent what club he used, tees it up in front of the marker, has too many clubs in his bag, uses an illegal club or ball, and then hits it out of bounds. Your thoughts? —Todd Sherstad, via email\n\nFirst thought: Rules Guy needs more coffee to tackle this convoluted theoretical, but then sufficient caffeine kicked in. In 2023, Rule 1.3c(4) was designed to help limit the number of penalty strokes players could accumulate between strokes, so long as they were unaware of the breaches at the time. Thus, theoretically, absent that awareness, a player should only be able to rack up three penalty strokes in one shot — two for a breach and one for stroke and distance after hitting it out of bounds.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Inside Trump Turnberry's iconic lighthouse, one of the game's great landmarks",
+        "link": "https://golf.com/travel/trump-turnberry-lighthouse-halfway-house/",
+        "published": "2026-09-29T16:37:55+00:00",
+        "published_label": "Tue 29 Sep, 16:37",
+        "summary": "Turnberry Lighthouse, which overlooks the fabled links of the same name, is a beacon for ships, and a haven for golfers and overnight guests. The post Inside Trump Turnberry’s iconic lighthouse, one of the game’s great landmarks appeared first on Golf .",
+        "body": "Wherever there’s a lighthouse, it’s common to find a links nearby. No wonder, really. The same rugged shores that pose a risk to ships are often ideal grounds for golf. Take the South Ayrshire coast of Scotland, home to a fabled championship layout and one of the best-known beacons in the game.\n\nA postcard staple for generations, and now a star of countless Instagram feeds, the Turnberry Lighthouse cuts a striking profile beside the 9th hole of Trump Turnberry, overlooking the Ailsa Course and the Firth of Clyde, with humpbacked Ailsa Craig rising like a half-moon on the horizon.",
+        "copy": "Wherever there’s a lighthouse, it’s common to find a links nearby. No wonder, really. The same rugged shores that pose a risk to ships are often ideal grounds for golf. Take the South Ayrshire coast of Scotland, home to a fabled championship layout and one of the best-known beacons in the game.\n\nA postcard staple for generations, and now a star of countless Instagram feeds, the Turnberry Lighthouse cuts a striking profile beside the 9th hole of Trump Turnberry, overlooking the Ailsa Course and the Firth of Clyde, with humpbacked Ailsa Craig rising like a half-moon on the horizon.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "David Puig Spotted Wearing Non-LIV Golf Clothing At Alfred Dunhill Links Championship",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlc2MG5FZU5ha1F5ZldOQ016NzJld3JmR19EUjlUa3hKX0M0MjhXVV9fZ090RTM1NGd6MFAwSkZWVEstN1FmRjhTTDZlWWtqUnBmZDdLM01XSEtMRzRabnhOcS1vanhkXzh6Y1QzaEtRVXdFYlBGRzNpbnJlMnp1VGFibGNyd3FKNkpfU3BqZzhoOEk3eGlNSmVvZFJSYUQwd3o0TElsQjVqN0VLSTFTNEhvcnE3ODE0LXc?oc=5",
+        "published": "2026-09-29T15:51:09+00:00",
+        "published_label": "Tue 29 Sep, 15:51",
+        "summary": "David Puig Spotted Wearing Non-LIV Golf Clothing At Alfred Dunhill Links Championship Golf Monthly",
+        "body": "Following on from LIV Golf's final event of 2026, many have wondered what the players from the circuit will do as uncertainty continues to grow. Earlier this year, the Public Investment Fund of Saudi Arabia pulled its funding from the golf League and, although the circuit's CEO Scott O'Neil has found new investors, reports have claimed some players are on their way out from LIV Golf.\n\nUsually, LIV players can be identified via their team's apparel, with individuals contractually obliged to wear their side's clothing, even in non-LIV events. This week, over 20 golfers from the circuit are playing in the Alfred Dunhill Links Championship and, during a practice round on Tuesday, one of those was seen without LIV branding.",
+        "copy": "Following on from LIV Golf's final event of 2026, many have wondered what the players from the circuit will do as uncertainty continues to grow. Earlier this year, the Public Investment Fund of Saudi Arabia pulled its funding from the golf League and, although the circuit's CEO Scott O'Neil has found new investors, reports have claimed some players are on their way out from LIV Golf.\n\nUsually, LIV players can be identified via their team's apparel, with individuals contractually obliged to wear their side's clothing, even in non-LIV events. This week, over 20 golfers from the circuit are playing in the Alfred Dunhill Links Championship and, during a practice round on Tuesday, one of those was seen without LIV branding.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Bryson DeChambeau moves up in newest Official World Golf Ranking. Where is he now?",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdEJHTWt5bkpicE5jcUJZb3hJc1QtX2JkN1N6NXR0MkZuRHBXMzdOWURJdTF1SFlEVFNwSTNObmhmQmdHUmhzQlZrU1lTdm1pWm9qUmFFODBWNU9wdURacVQ3ektiQS02ZFVySnlXM3BmWE9RYWlTZXVZWDNRVEk4ci1pZ1h0MDNkQ2s1RUJaNUdhUFA5SWZtVFBUMkw4X2NNalVyVGNPU1ZSb0kwVlg2OFJZak5UeFctNTZCZ05iNVBjSC11MUJ1VXFlZ1M3dw?oc=5",
+        "published": "2026-09-29T15:00:00+00:00",
+        "published_label": "Tue 29 Sep, 15:00",
+        "summary": "Bryson DeChambeau moves up in newest Official World Golf Ranking. Where is he now? Golfweek",
+        "body": "Bryson DeChambeau moves up in newest Official World Golf Ranking. Where is he now? - Scottie Scheffler continues to hold the No. 1 position in the Official World Golf Ranking.\n\n- LIV Golf star Bryson DeChambeau moved up one spot to No. 37 in the latest rankings. - DeChambeau's LIV Golf contract has expired, leading to speculation about his future. - The Official World Golf Ranking is calculated over a rolling two-year period based on points from eligible events.",
+        "copy": "Bryson DeChambeau moves up in newest Official World Golf Ranking. Where is he now? - Scottie Scheffler continues to hold the No. 1 position in the Official World Golf Ranking.\n\n- LIV Golf star Bryson DeChambeau moved up one spot to No. 37 in the latest rankings. - DeChambeau's LIV Golf contract has expired, leading to speculation about his future. - The Official World Golf Ranking is calculated over a rolling two-year period based on points from eligible events.",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -7141,48 +7193,35 @@
         "body": "The fall season is finally here, and to celebrate, PGA TOUR Superstore is offering an opportunity to enjoy big savings when you stock up on some much-needed gear. For a limited time, you can take $50 off any online order of $250 or more with the code SAVE50.\n\nThis smokin’ deal is valid on hundreds of items, from golf balls, rangefinders and launch monitors to apparel, shoes, bags, headcovers and more. The best news? Even sale items are eligible for the deal, meaning you can stack your savings even higher.",
         "copy": "The fall season is finally here, and to celebrate, PGA TOUR Superstore is offering an opportunity to enjoy big savings when you stock up on some much-needed gear. For a limited time, you can take $50 off any online order of $250 or more with the code SAVE50.\n\nThis smokin’ deal is valid on hundreds of items, from golf balls, rangefinders and launch monitors to apparel, shoes, bags, headcovers and more. The best news? Even sale items are eligible for the deal, meaning you can stack your savings even higher.",
         "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "5 players facing the most pressure at the Presidents Cup",
-        "link": "https://golf.com/news/5-players-facing-presidents-cup-pressure/",
-        "published": "2026-09-22T17:07:05+00:00",
-        "published_label": "Tue 22 Sep, 17:07",
-        "summary": "From World No. 1 to Team USA's heartbeat, here's which players will be facing the most pressure at this week's Presidents Cup. The post 5 players facing the most pressure at the Presidents Cup appeared first on Golf .",
-        "body": "The Presidents Cup descends on Chicago this week when the heavily favored Americans host the Internationals at Medinah Country Club. It has been almost 30 years since the Americans lost their only Presidents Cup and 23 years since the last time the Internationals didn’t take an L (2003 ended in a tie). There have been a few close matches, but for the most part, the Americans overwhelm the Internationals every two years with their depth. The Americans are expected to win and win big at Medinah, but the Internationals, led by captain Geoff Ogilvy, believe they have the ingredients to keep it close and give themselves a chance to pull off a historic upset come Sunday.\n\nTeam competitions always bring drama, second-guessing and pressure, the latter of which will be everywhere this week at Medinah as the Americans try to extend their winning streak and the Internationals try to flip the script of a one-sided event.",
-        "copy": "The Presidents Cup descends on Chicago this week when the heavily favored Americans host the Internationals at Medinah Country Club. It has been almost 30 years since the Americans lost their only Presidents Cup and 23 years since the last time the Internationals didn’t take an L (2003 ended in a tie). There have been a few close matches, but for the most part, the Americans overwhelm the Internationals every two years with their depth. The Americans are expected to win and win big at Medinah, but the Internationals, led by captain Geoff Ogilvy, believe they have the ingredients to keep it close and give themselves a chance to pull off a historic upset come Sunday.\n\nTeam competitions always bring drama, second-guessing and pressure, the latter of which will be everywhere this week at Medinah as the Americans try to extend their winning streak and the Internationals try to flip the script of a one-sided event.",
-        "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf dealt another blow as top players could miss the 2027 Open Championship at St Andrews",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjNkOHJremUxZmxwLV9ybnNFbTFGd3k1M1hhS2YzOFdmTWN5cXIxVUxoTXk0LVJjOVBXZjVnTGlpaEJRRnp2QTRuUFFEX0R2bEtYQmQ5RFRFZGlPYnBGZ0dOM09UN0FROWdlWTBoWVl0Q3NWVFhCMjZsZjh3Ulo2NVlYd2k1dERiLWZLdDd0Q1ZSYjYtUEV2MGRHcWVvTnBIaVJ5WHZqd1JPblpwRkRqSDlRS3E0SzA?oc=5",
-        "published": "2026-09-22T16:00:00+00:00",
-        "published_label": "Tue 22 Sep, 16:00",
-        "summary": "LIV Golf dealt another blow as top players could miss the 2027 Open Championship at St Andrews hitc.com",
-        "body": "LIV Golf has received more bad news after a turbulent few months. The league recently filed for bankruptcy after the Saudi Arabian Public Investment Fund withdrew its multibillion-dollar funding.\n\nLIV Golf is currently weighing up a new format, LIV 2.0, featuring a 10-event schedule and lower prize money. They are in talks with BC Partners over a $300 million investment to make it happen, but negotiations appear far from agreed.",
-        "copy": "LIV Golf has received more bad news after a turbulent few months. The league recently filed for bankruptcy after the Saudi Arabian Public Investment Fund withdrew its multibillion-dollar funding.\n\nLIV Golf is currently weighing up a new format, LIV 2.0, featuring a 10-event schedule and lower prize money. They are in talks with BC Partners over a $300 million investment to make it happen, but negotiations appear far from agreed.",
-        "first_seen": "2026-09-22T16:13:57.447424+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Geoff Ogilvy admits ‘shame’ over LIV Golf player bans – but issues warning",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGx4dkhpWURWbXFnNW9JV1l2WVF3ZnQxdTVBXy13aWdvX1pqTDVsR0VYYWExWGFneEVvZldGU1F6Z3ZYMWpuR0dGS3EyXzgycmF0OU1NbGpOUFc1Q01vVWI5LTJaWlFWTmZucndnV1hOZnQ2UU9oV29zR2w0XzBiZ0l6VGFJb0wyNklZVEsxYlk1Nnp3NmNCcGpYaFg3WTFKY2tjSmQ4LUNxRmI4bGNCN1dR?oc=5",
-        "published": "2026-09-22T14:43:11+00:00",
-        "published_label": "Tue 22 Sep, 14:43",
-        "summary": "Geoff Ogilvy admits ‘shame’ over LIV Golf player bans – but issues warning Golfmagic",
-        "body": "International captain Geoff Ogilvy has admitted it is a “shame” that LIV Golf players cannot compete at the Presidents Cup – but warned their return could also “upset the apple cart” at Medinah.\n\nThe PGA Tour-run contest remains off-limits to LIV players, meaning some of the biggest names in the International game are watching from the sidelines this week, including Bryson DeChambeau on the American side.",
-        "copy": "International captain Geoff Ogilvy has admitted it is a “shame” that LIV Golf players cannot compete at the Presidents Cup – but warned their return could also “upset the apple cart” at Medinah.\n\nThe PGA Tour-run contest remains off-limits to LIV players, meaning some of the biggest names in the International game are watching from the sidelines this week, including Bryson DeChambeau on the American side.",
-        "first_seen": "2026-09-23T10:44:38.417500+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Asian Games Aichi-Nagoya 2026: Kunlavut Vitidsarn overcomes world No. 1 pressure to write Thai badminton history",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaV9udFBmX1R3RjBYNWdoV2daS3RReXBNTk9hcWlIRHVtV1ZmdHBORjEyYWRDaWtxQkpGaGN6WW1MTUVNZnhoMHdFdzJVekhlMnZwRFhWWjdCS1lTLTRTNGR3OWRFQktVX3dDLWpuejVid1JnYmtmdmtvSTZWeENNdjdKdFNtZ1NLeTBwbWUtQmk5Vm9RbDVlNHV3LWdWNmM5c013Rg?oc=5",
+        "published": "2026-09-29T14:43:00+00:00",
+        "published_label": "Tue 29 Sep, 14:43",
+        "summary": "Asian Games Aichi-Nagoya 2026: Kunlavut Vitidsarn overcomes world No. 1 pressure to write Thai badminton history olympics.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Asian Games: Vitidsarn, An Reign Supreme",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjNEMG1nLXZzNkt1ejQxT3Z6LXE5bzRsTnpfRmpILTZsa3NaSWVXejJrMDhndEFXZk9LS3huRy1oMmx3RFBWemR4UTlCbXRCVEpUNjhlQ0ZZRlNLYk8xc3BsT09rekdnaDktc2FjWnBxWnR6QmJPUjFWVWM5TEg4ZkpSYzBLM3hrdVdEb2NWYw?oc=5",
+        "published": "2026-09-29T13:46:14+00:00",
+        "published_label": "Tue 29 Sep, 13:46",
+        "summary": "Asian Games: Vitidsarn, An Reign Supreme BWF",
+        "body": "Kunlavut Vitidsarn celebrated his return to the top of the world rankings by defeating Loh Kean Yew 21-12 21-16 for the Aichi-Nagoya 2026 Asian Games gold medal on Tuesday. Both players had already made history by becoming their countries’ first men’s singles finalists. But Vitidsarn went one step further, denying Loh the rare feat of defeating two top-ranked players after the Singaporean had beaten Jonatan Christie in the quarterfinals.\n\n“Really happy because I didn’t come here thinking about a medal. My (recent) performances haven’t been good enough,” admitted Vitidsarn. “Being world No.1 brings a lot of pressure because everyone thinks, ‘You are No. 1, how could you lose like this?’ It’s very difficult.”",
+        "copy": "Kunlavut Vitidsarn celebrated his return to the top of the world rankings by defeating Loh Kean Yew 21-12 21-16 for the Aichi-Nagoya 2026 Asian Games gold medal on Tuesday. Both players had already made history by becoming their countries’ first men’s singles finalists. But Vitidsarn went one step further, denying Loh the rare feat of defeating two top-ranked players after the Singaporean had beaten Jonatan Christie in the quarterfinals.\n\n“Really happy because I didn’t come here thinking about a medal. My (recent) performances haven’t been good enough,” admitted Vitidsarn. “Being world No.1 brings a lot of pressure because everyone thinks, ‘You are No. 1, how could you lose like this?’ It’s very difficult.”",
+        "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -7507,32 +7546,6 @@
         "body": "The findings, released under BWF’s Check it, close it: Protection starts at the door campaign, have raised concerns about public understanding of a key fire safety measure designed to protect lives and property during a fire.\n\nIn the survey, 38% of Gen Z respondents (aged 18 to 29) reported feeling safe when a fire door is wedged open, while 29% believed fire doors could be safely held open if smoke alarms were present. The results indicate a significant knowledge gap about fire doors, which are designed to slow the spread of fire and smoke and protect escape routes, but only perform effectively when closed, correctly installed, and properly maintained.",
         "copy": "The findings, released under BWF’s Check it, close it: Protection starts at the door campaign, have raised concerns about public understanding of a key fire safety measure designed to protect lives and property during a fire.\n\nIn the survey, 38% of Gen Z respondents (aged 18 to 29) reported feeling safe when a fire door is wedged open, while 29% believed fire doors could be safely held open if smoke alarms were present. The results indicate a significant knowledge gap about fire doors, which are designed to slow the spread of fire and smoke and protect escape routes, but only perform effectively when closed, correctly installed, and properly maintained.",
         "first_seen": "2026-09-24T11:05:44.182410+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Asian Games: India, Thailand Surge into Semifinals",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnl5Q0NuelZVZmpiekVUZnY1eTlQSTdNMm1xNEJ2TWpfRlpYakRHeUhEX0IzVUhSUXRLTXc5cUdpTkYxVXFzOTNacXo3bkdzdzNubWZqS3JzWmlwZGt3blMwN0VhbjI5YzBNOXlrN3lfODR1NXRGekNyaW80WWc2YjNuUUExY29McHhkeXIzVTN0WDgyaDZ6NURocDk?oc=5",
-        "published": "2026-09-22T16:32:24+00:00",
-        "published_label": "Tue 22 Sep, 16:32",
-        "summary": "Asian Games: India, Thailand Surge into Semifinals BWF",
-        "body": "Hosts and fourth seeds Japan ran aground against India, while third seeds Chinese Taipei met a similar fate against Thailand in the men’s team quarterfinals at the Aichi-Nagoya 2026 Asian Games.\n\nIndia’s win was set up by Lakshya Sen as he edged World Championships runner-up Kodai Naraoka in the opening match 11-21 21-5 21-19. Sen’s teammates Satwiksairaj Rankireddy/Chirag Shetty consolidated with a close 21-18 24-22 result over Takuro Hoki/Yugo Kobayashi, before Ayush Shetty sealed the tie 21-10 21-19 over Koki Watanabe.",
-        "copy": "Hosts and fourth seeds Japan ran aground against India, while third seeds Chinese Taipei met a similar fate against Thailand in the men’s team quarterfinals at the Aichi-Nagoya 2026 Asian Games.\n\nIndia’s win was set up by Lakshya Sen as he edged World Championships runner-up Kodai Naraoka in the opening match 11-21 21-5 21-19. Sen’s teammates Satwiksairaj Rankireddy/Chirag Shetty consolidated with a close 21-18 24-22 result over Takuro Hoki/Yugo Kobayashi, before Ayush Shetty sealed the tie 21-10 21-19 over Koki Watanabe.",
-        "first_seen": "2026-09-22T20:52:11.427520+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Asian Games: India, Thailand Surge into Semifinals",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXZselBjekpOTFJrRS1keThabUpKblpreEhhSkZwMWVqTlBobDVldWNLNjdhYnRVbzZCbmc5MlQ0TWx6V1d6SWJKYy14UmloeWdhVFZXVFVBNVlMeVdzZTRYWVBzX0w2VEJSb1ZLZkZFUzdQalpieDhLRGpDa090ODZaWGYwVGlJcU5lMEhFMlpQN3JWMFVDUjVJWlRVQQ?oc=5",
-        "published": "2026-09-22T15:01:50+00:00",
-        "published_label": "Tue 22 Sep, 15:01",
-        "summary": "Asian Games: India, Thailand Surge into Semifinals BWF",
-        "body": "Hosts and fourth seeds Japan ran aground against India, while third seeds Chinese Taipei met a similar fate against Thailand in the men’s team quarterfinals at the Asian Games.\n\nIndia’s win was set up by Lakshya Sen as he edged BWF World Championships runner-up Kodai Naraoka in the opening match 11-21 21-5 21-19. Sen’s teammates Satwiksairaj Rankireddy/Chirag Shetty consolidated with a close 21-18 24-22 result over Takuro Hoki/Yugo Kobayashi, before Ayush Shetty sealed the tie 21-10 21-19 over Koki Watanabe.",
-        "copy": "Hosts and fourth seeds Japan ran aground against India, while third seeds Chinese Taipei met a similar fate against Thailand in the men’s team quarterfinals at the Asian Games.\n\nIndia’s win was set up by Lakshya Sen as he edged BWF World Championships runner-up Kodai Naraoka in the opening match 11-21 21-5 21-19. Sen’s teammates Satwiksairaj Rankireddy/Chirag Shetty consolidated with a close 21-18 24-22 result over Takuro Hoki/Yugo Kobayashi, before Ayush Shetty sealed the tie 21-10 21-19 over Koki Watanabe.",
-        "first_seen": "2026-09-22T16:13:57.447424+00:00"
       }
     ],
     "Competitor News": [
@@ -7551,5 +7564,5 @@
       }
     ]
   },
-  "total": 579
+  "total": 580
 }
