@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T17:34:22.574466+00:00",
-  "generated_label": "Wednesday 30 September 2026, 17:34 UTC",
+  "generated_at": "2026-09-30T21:51:34.563134+00:00",
+  "generated_label": "Wednesday 30 September 2026, 21:51 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -271,6 +271,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-30T11:53:52.109542+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "McLaren in F1, IndyCar team deal with Edward Jones",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFlnWkZma2JReGI4ZV9ZcnUxYl9LY2JSanM1OUo2SlBORktTSU94U3dFVGZnN0k2RjVvMFBYZEwzYVRsVHhnQWc2MXpSSG01RDZ0WE42eXlkcVpuMFBEMy13eUVqZm9iWWZKTGF4cnAzM3lyek14emVTb0RUSExMRFZBb2paMzA?oc=5",
+        "published": "2026-09-30T01:12:01+00:00",
+        "published_label": "Wed 30 Sep, 01:12",
+        "summary": "McLaren in F1, IndyCar team deal with Edward Jones Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1805,22 +1818,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-24T21:08:07.579327+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Bentley’s first electric car set to be half the price of Ferrari’s Luce",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWnJ6Y0pPZzMzTk16dWJPY2FpRF9pYmtmdkZGNWVseXluRnB4TmV1NmRqRDZGQXptbHQtUU5Kc3NHdTlIa0NvQzJycDZTRFpWZFRUMUhoWnhvZFdXRzc5c0Fmd2FsVDRyaHBWZUw2clhxcFh0N1NidXpWSUdhOHB5QW45MFU?oc=5",
-        "published": "2026-09-23T18:15:07+00:00",
-        "published_label": "Wed 23 Sep, 18:15",
-        "summary": "Bentley’s first electric car set to be half the price of Ferrari’s Luce Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-24T11:05:44.182410+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Hurricanes bolster squad with signing of six-time Super Rugby champion",
+        "link": "https://www.rugbypass.com/news/hurricanes-bolster-2027-squad-with-signing-of-six-time-super-rugby-champion/",
+        "published": "2026-09-30T21:43:03+00:00",
+        "published_label": "Wed 30 Sep, 21:43",
+        "summary": "Hall will join the defending Super Rugby Pacific champions in their 2027 title defence, which kicks off on Saturday, February 13 against the Blues in Auckland.",
+        "body": "The Hurricanes have called upon six-time Super Rugby Pacific champion Bryn Hall to back up Cameron Roigard for the 2027 season, signing the former Crusaders and Blues halfback on a one-year deal.\n\nHall, who has played 123 Super Rugby appearances, returns to the competition following a stint with the Shizuoka Blue Revs and the Kubota Spears. The experienced halfback claimed a title in each of his six seasons at the Crusaders between 2017 and 2022, and has helped North Harbour compete as one of the Hilux NPC’s leading teams in 2026.",
+        "copy": "The Hurricanes have called upon six-time Super Rugby Pacific champion Bryn Hall to back up Cameron Roigard for the 2027 season, signing the former Crusaders and Blues halfback on a one-year deal.\n\nHall, who has played 123 Super Rugby appearances, returns to the competition following a stint with the Shizuoka Blue Revs and the Kubota Spears. The experienced halfback claimed a title in each of his six seasons at the Crusaders between 2017 and 2022, and has helped North Harbour compete as one of the Hilux NPC’s leading teams in 2026.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Gloucester fly-half Atkinson agrees new deal to 2029",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cr209v00qz4jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T18:03:40+00:00",
+        "published_label": "Wed 30 Sep, 18:03",
+        "summary": "Influential Gloucester fly-half Charlie Atkinson signs a new contract to stay at Kingsholm until the summer of 2029.",
+        "body": "Influential Gloucester fly-half Charlie Atkinson has signed a new contract to stay at Kingsholm until the summer of 2029. The 24-year-old, who won an England cap against the United States last year, was voted the Cherry and Whites' player of the season by players, fans and coaches last season.\n\nAtkinson moved to Gloucester from Leicester Tigers in December 2024 and has gone on to play 57 times for the club in all competitions. As well as his one England appearance he has also been a regular in England's A side, playing three times for them last season.",
+        "copy": "Influential Gloucester fly-half Charlie Atkinson has signed a new contract to stay at Kingsholm until the summer of 2029. The 24-year-old, who won an England cap against the United States last year, was voted the Cherry and Whites' player of the season by players, fans and coaches last season.\n\nAtkinson moved to Gloucester from Leicester Tigers in December 2024 and has gone on to play 57 times for the club in all competitions. As well as his one England appearance he has also been a regular in England's A side, playing three times for them last season.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Saracens boss Venter skips more media duties",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmwyz9ypw3x2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T17:46:17+00:00",
+        "published_label": "Wed 30 Sep, 17:46",
+        "summary": "Saracens director of rugby Brendan Venter misses a second pre-match media conference, as head coach Joe Shaw attends.",
+        "body": "Saracens head coach Joe Shaw has refused to say when, or if, director of rugby Brendan Venter will speak to the media again, despite the club facing fines for him not doing so.\n\nVenter was not at Wednesday's pre-match press conference for their forthcoming game with Sale after not attending Prem Rugby's pre-season launch day, or doing any media duties before, during or after the opening-weekend victory at Leicester.",
+        "copy": "Saracens head coach Joe Shaw has refused to say when, or if, director of rugby Brendan Venter will speak to the media again, despite the club facing fines for him not doing so.\n\nVenter was not at Wednesday's pre-match press conference for their forthcoming game with Sale after not attending Prem Rugby's pre-season launch day, or doing any media duties before, during or after the opening-weekend victory at Leicester.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -5161,22 +5200,22 @@
         "body": "Former All Black captain Scott Barrett will play for Taranaki this weekend marking his first game of professional rugby in 10 months. The 32-year-old will make just his second appearance ever for the Bulls when they play Hawke’s Bay in Napier.\n\nBarrett had surgery only months ago, a discectomy to treat a bulging disc which caused issues for the left side of his body. “[The injury] depowered my left side so I couldn’t really run and do the things required for my job as a rugby player so yeah, it’s nice to be in a position to pull on the jersey and represent Taranaki again,” he told 1 News.",
         "copy": "Former All Black captain Scott Barrett will play for Taranaki this weekend marking his first game of professional rugby in 10 months. The 32-year-old will make just his second appearance ever for the Bulls when they play Hawke’s Bay in Napier.\n\nBarrett had surgery only months ago, a discectomy to treat a bulging disc which caused issues for the left side of his body. “[The injury] depowered my left side so I couldn’t really run and do the things required for my job as a rugby player so yeah, it’s nice to be in a position to pull on the jersey and represent Taranaki again,” he told 1 News.",
         "first_seen": "2026-09-24T11:05:44.182410+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Kaipo Olsen-Baker returns for Black Ferns ahead of Red Roses blockbuster",
-        "link": "https://www.rugbypass.com/news/kaipo-olsen-baker-returns-for-black-ferns-ahead-of-red-roses-blockbuster/",
-        "published": "2026-09-23T18:51:18+00:00",
-        "published_label": "Wed 23 Sep, 18:51",
-        "summary": "Kaipo Olsen-Baker is back in action and has been named in the Black Ferns’ starting XV for their Test against the Red Roses on Saturday 26 September.",
-        "body": "Kaipo Olsen-Baker is back in action and has been named in the Black Ferns’ starting XV for their Test against the Red Roses on Saturday 26 September. With over 50,000 fans expected at Allianz Stadium for the clash between the fierce rivals, the Black Ferns’ final Test of the WXV Global Series in the Northern Hemisphere promises to deliver some blockbuster entertainment.\n\nBlack Ferns head coach Whitney Hansen has named her match-day 23, which sees the return of Olsen-Baker, winger Ayesha Leti-I’iga and lock Laura Bayfield, and after overpowering Scotland in a ten-try 66-14 victory at Hive Stadium in Edinburgh, the side will be looking to continue their 100 per cent win record under her leadership.",
-        "copy": "Kaipo Olsen-Baker is back in action and has been named in the Black Ferns’ starting XV for their Test against the Red Roses on Saturday 26 September. With over 50,000 fans expected at Allianz Stadium for the clash between the fierce rivals, the Black Ferns’ final Test of the WXV Global Series in the Northern Hemisphere promises to deliver some blockbuster entertainment.\n\nBlack Ferns head coach Whitney Hansen has named her match-day 23, which sees the return of Olsen-Baker, winger Ayesha Leti-I’iga and lock Laura Bayfield, and after overpowering Scotland in a ten-try 66-14 victory at Hive Stadium in Edinburgh, the side will be looking to continue their 100 per cent win record under her leadership.",
-        "first_seen": "2026-09-23T21:03:33.178258+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Navarro opens up on health struggles that caused 'deep anger' on court",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cmdx0xlk7jnno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T18:42:17+00:00",
+        "published_label": "Wed 30 Sep, 18:42",
+        "summary": "American Emma Navarro says she has gained her \"life back\" as she shares her long-running health problems that caused significant weight loss, fatigue, dizziness and left her \"feeling deep internal anger\" on the court.",
+        "body": "American Emma Navarro says she has gained her \"life back\" after opening up on long-running health problems that caused significant weight loss, fatigue, dizziness and left her \"feeling deep internal anger\" on the court.\n\nNavarro, who claimed her first title in more than a year at the Strasbourg Open in May, is currently ranked 24th in the world. The 25-year-old was as high as eighth in 2024, the year she reached the quarter-finals at the Australian Open and Wimbledon, and the last four at the US Open in her native New York.",
+        "copy": "American Emma Navarro says she has gained her \"life back\" after opening up on long-running health problems that caused significant weight loss, fatigue, dizziness and left her \"feeling deep internal anger\" on the court.\n\nNavarro, who claimed her first title in more than a year at the Strasbourg Open in May, is currently ranked 24th in the world. The 25-year-old was as high as eighth in 2024, the year she reached the quarter-finals at the Australian Open and Wimbledon, and the last four at the US Open in her native New York.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -5228,6 +5267,19 @@
         "body": "Emma Raducanu has taken another hit in the rankings after withdrawing from the China Open due to a stress fracture in her right leg. The former US Open champion hasn't competed since making it to the Queen's Club final in June. The setback forced her to sit out Wimbledon and prevented a return to Flushing Meadows, where she made history with her Grand Slam victory in 2021.\n\nInitially, Raducanu appeared on the entry list for the China Open, sparking optimism about her anticipated return in Beijing. Yet she was removed from the list weeks before the tennis event, suggesting her injury continues to linger. Her absence from competition has significantly impacted her WTA ranking, with the 23-year-old experiencing a dramatic decline.",
         "copy": "Emma Raducanu has taken another hit in the rankings after withdrawing from the China Open due to a stress fracture in her right leg. The former US Open champion hasn't competed since making it to the Queen's Club final in June. The setback forced her to sit out Wimbledon and prevented a return to Flushing Meadows, where she made history with her Grand Slam victory in 2021.\n\nInitially, Raducanu appeared on the entry list for the China Open, sparking optimism about her anticipated return in Beijing. Yet she was removed from the list weeks before the tennis event, suggesting her injury continues to linger. Her absence from competition has significantly impacted her WTA ranking, with the 23-year-old experiencing a dramatic decline.",
         "first_seen": "2026-09-29T19:07:58.766002+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu drops in rankings again after pulling out of another event",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGNVZEhrYk8tTzgzS0o0ZHdvMDF1SkJVZVpLd0lMb2tXakVaVUNDWFlBelF4OW9JdlY2MDU0Vl9YNnhmYkV0OENhcGNwMWRqb0NzdXc1X2stQmlHQ1hmR2lETU9WdFJ6V1VLczNkRkF4RnZodmd1Nl95UVZWd3o2Tld2ZlE?oc=5",
+        "published": "2026-09-29T17:29:40+00:00",
+        "published_label": "Tue 29 Sep, 17:29",
+        "summary": "Emma Raducanu drops in rankings again after pulling out of another event AOL.com",
+        "body": "Emma Raducanu has taken another hit in the rankings after withdrawing from the China Open due to a stress fracture in her right leg. The former US Open champion hasn't competed since making it to the Queen's Club final in June. The setback forced her to sit out Wimbledon and prevented a return to Flushing Meadows, where she made history with her Grand Slam victory in 2021.\n\nInitially, Raducanu appeared on the entry list for the China Open, sparking optimism about her anticipated return in Beijing. Yet she was removed from the list weeks before the tennis event, suggesting her injury continues to linger. Her absence from competition has significantly impacted her WTA ranking, with the 23-year-old experiencing a dramatic decline.",
+        "copy": "Emma Raducanu has taken another hit in the rankings after withdrawing from the China Open due to a stress fracture in her right leg. The former US Open champion hasn't competed since making it to the Queen's Club final in June. The setback forced her to sit out Wimbledon and prevented a return to Flushing Meadows, where she made history with her Grand Slam victory in 2021.\n\nInitially, Raducanu appeared on the entry list for the China Open, sparking optimism about her anticipated return in Beijing. Yet she was removed from the list weeks before the tennis event, suggesting her injury continues to linger. Her absence from competition has significantly impacted her WTA ranking, with the 23-year-old experiencing a dramatic decline.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
       },
       {
         "section": "Tennis",
@@ -5584,6 +5636,84 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This psychedelic golf retreat is a trip in more ways than one",
+        "link": "https://golf.com/travel/ayahuasca-golf-retreat-christopher-smith-mexico-instruction/",
+        "published": "2026-09-30T20:53:22+00:00",
+        "published_label": "Wed 30 Sep, 20:53",
+        "summary": "Guests stay five nights at a luxe seaside home in Los Cabos with an expert ayahuasca practitioner on site around the clock. The post This psychedelic golf retreat is a trip in more ways than one appeared first on Golf .",
+        "body": "Golf courses are full of hazards, but the game itself isn’t dangerous. It’s not high-speed like auto racing or high-impact like the NFL. While you might tweak your back or jam a wrist, the risk of lasting harm is vanishingly low.\n\nSo why, when you play, are you so often afraid? Christopher Smith has long wrestled with the question. A GOLF Top 100 Teacher who has been an instructor for more than 35 years, Smith knows that sound mechanics can calm the heebie-jeebies (it’s not a bad idea to take a lesson!), and that mental strength can be a salve (nothing wrong with seeing a sports psychologist!). But he believes getting to the source of fear and discomfort sometimes requires going deeper.",
+        "copy": "Golf courses are full of hazards, but the game itself isn’t dangerous. It’s not high-speed like auto racing or high-impact like the NFL. While you might tweak your back or jam a wrist, the risk of lasting harm is vanishingly low.\n\nSo why, when you play, are you so often afraid? Christopher Smith has long wrestled with the question. A GOLF Top 100 Teacher who has been an instructor for more than 35 years, Smith knows that sound mechanics can calm the heebie-jeebies (it’s not a bad idea to take a lesson!), and that mental strength can be a salve (nothing wrong with seeing a sports psychologist!). But he believes getting to the source of fear and discomfort sometimes requires going deeper.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "LIV Golf’s future is battling its past, new bankruptcy filings reveal",
+        "link": "https://golf.com/news/liv-golfs-future-is-already-battling-its-past/",
+        "published": "2026-09-30T19:54:06+00:00",
+        "published_label": "Wed 30 Sep, 19:54",
+        "summary": "As LIV Golf works through banktruptcy, loose ends from LIV 1.0 are already affecting the prospectus for LIV 2.0. The post LIV Golf’s future is battling its past, new bankruptcy filings reveal appeared first on Golf .",
+        "body": "The next few weeks will decide much of LIV Golf’s future, as milestone dates for its deal with BC Partners are approaching. But recent filings open a window into how tense and tricky filing for bankruptcy can be.\n\nTake the case of Kooyonga Golf Club, scheduled to host LIV Golf in Adelaide, Australia, in March 2027. As part of LIV’s longstanding success Down Under, Kooyonga was announced as a future LIV host (for March 18-21, 2027) nearly one year ago (Oct. 5, 2025).",
+        "copy": "The next few weeks will decide much of LIV Golf’s future, as milestone dates for its deal with BC Partners are approaching. But recent filings open a window into how tense and tricky filing for bankruptcy can be.\n\nTake the case of Kooyonga Golf Club, scheduled to host LIV Golf in Adelaide, Australia, in March 2027. As part of LIV’s longstanding success Down Under, Kooyonga was announced as a future LIV host (for March 18-21, 2027) nearly one year ago (Oct. 5, 2025).",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Phil Mickelson news emerges as LIV Golf star faces difficult period",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnhpWGRQWi15cU1vLVFlaHNjTkZjVUZlM3laMDlzQ1NSRVdYd2NZb3RxMzN0SEdsSE1teFRSTWQyel9OcDBlSUlwbUlwNmhxbjl2Z0JLSl80eFRaeGJyVTV6UDc5N0o1ZlBKREJWV1pqS1didERUUXZuaUg1TmNmTUdnZ21XRFRYb2pOWEZFRk1NMjRuUm9VeUpDcVZUeXNnbXhtT3ZoZw?oc=5",
+        "published": "2026-09-30T19:50:30+00:00",
+        "published_label": "Wed 30 Sep, 19:50",
+        "summary": "Phil Mickelson news emerges as LIV Golf star faces difficult period Golfmagic",
+        "body": "Phil Mickelson has sought professional treatment amid a difficult period in his personal life, according to a report by TMZ Sports. The six-time major champion voluntarily entered an addiction treatment facility in recent weeks, TMZ reports, with a representative for Mickelson confirming that he was seeking help for both family trauma and addiction.\n\nThe development comes three months after the 56-year-old's representatives addressed concerns surrounding his personal life earlier this year, claiming his priority was to focus on becoming \"the husband, father, and man his family deserves.\"",
+        "copy": "Phil Mickelson has sought professional treatment amid a difficult period in his personal life, according to a report by TMZ Sports. The six-time major champion voluntarily entered an addiction treatment facility in recent weeks, TMZ reports, with a representative for Mickelson confirming that he was seeking help for both family trauma and addiction.\n\nThe development comes three months after the 56-year-old's representatives addressed concerns surrounding his personal life earlier this year, claiming his priority was to focus on becoming \"the husband, father, and man his family deserves.\"",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Holiday wish list: These 7 pieces of golf outerwear make perfect gifts",
+        "link": "https://golf.com/gear/golf-apparel/holiday-wish-list-7-pieces-outerwear-make-perfect-gifts/",
+        "published": "2026-09-30T19:44:16+00:00",
+        "published_label": "Wed 30 Sep, 19:44",
+        "summary": "The holiday shopping season starts now! Here's hoping these warm and cozy outerwear options provide some gifting inspiration. The post Holiday wish list: These 7 pieces of golf outerwear make perfect gifts appeared first on Golf .",
+        "body": "The leaves are turning, Halloween is just a month away, and savvy shoppers know what that means: The holiday shopping season is already upon us! It seems like the shops begin to stock twinkling lights and festive decor earlier and earlier with each passing year, but if there’s one thing I’ve learned as a mom of two young kids, it’s this: Fortune favors the prepared when it comes to ticking off all the boxes on your holiday shopping list, and you’ll never regret getting an early start.\n\nWhen it comes to shopping for the golfer in your life, outerwear is one of my favorite categories. Not only is it a necessary piece of equipment for cold-weather golf, it’s also multifunctional, and can be enjoyed for years both on and off the course.",
+        "copy": "The leaves are turning, Halloween is just a month away, and savvy shoppers know what that means: The holiday shopping season is already upon us! It seems like the shops begin to stock twinkling lights and festive decor earlier and earlier with each passing year, but if there’s one thing I’ve learned as a mom of two young kids, it’s this: Fortune favors the prepared when it comes to ticking off all the boxes on your holiday shopping list, and you’ll never regret getting an early start.\n\nWhen it comes to shopping for the golfer in your life, outerwear is one of my favorite categories. Not only is it a necessary piece of equipment for cold-weather golf, it’s also multifunctional, and can be enjoyed for years both on and off the course.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The simple putting setup test will perfect your aim line",
+        "link": "https://golf.com/instruction/putting/make-more-putts-setup-adjustment-stephen-sweeney/",
+        "published": "2026-09-30T18:13:08+00:00",
+        "published_label": "Wed 30 Sep, 18:13",
+        "summary": "GOLF Top 100 Teacher and PGA Tour putting consultant Stephen Sweeney shares a great trick for checking your setup position. The post The simple putting setup test will perfect your aim line appeared first on Golf .",
+        "body": "Much like with the full swing, success in putting is largely predicated upon a proper setup. If you don’t get into a solid setup position, you’ll overcompensate with your stroke, making consistency on the greens difficult to achieve.\n\nI speak from experience. As someone who’s struggled on the greens for much of this season, discovering that my setup was not correct was a lightbulb moment for my game. When I visited GOLF Top 100 Teacher Stephen Sweeney earlier this summer for a putting tune-up, the first things he noted were my poor setup fundamentals.",
+        "copy": "Much like with the full swing, success in putting is largely predicated upon a proper setup. If you don’t get into a solid setup position, you’ll overcompensate with your stroke, making consistency on the greens difficult to achieve.\n\nI speak from experience. As someone who’s struggled on the greens for much of this season, discovering that my setup was not correct was a lightbulb moment for my game. When I visited GOLF Top 100 Teacher Stephen Sweeney earlier this summer for a putting tune-up, the first things he noted were my poor setup fundamentals.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Wielding hockey-stick putter, Tony Finau chasing 'better' golf in Utah",
+        "link": "https://golf.com/news/tony-finau-hockey-stick-putter-utah/",
+        "published": "2026-09-30T17:43:51+00:00",
+        "published_label": "Wed 30 Sep, 17:43",
+        "summary": "Tony Finau is on familiar turf in Utah — but he's in an unfamiliar spot with his game. He hopes a hockey-stick putter will help. The post Wielding hockey-stick putter, Tony Finau chasing ‘better’ golf in Utah appeared first on Golf .",
+        "body": "The PGA Tour returns to Utah this week — so it only feels right that Utah’s favorite golfer returns to the PGA Tour, too. “It’s nice to have a home game,” Tony Finau said on Wednesday ahead of this week’s Bank of Utah Championship at Black Desert Resort in Ivins, Utah.\n\nFinau grew up in Salt Lake City and lives in Lehigh; this is the third edition of Utah’s first PGA Tour event, but it marks Finau’s debut. “To have a PGA Tour event in Utah and now to be participating in it on this stage for a home crowd, I’m really excited about it,” he said.",
+        "copy": "The PGA Tour returns to Utah this week — so it only feels right that Utah’s favorite golfer returns to the PGA Tour, too. “It’s nice to have a home game,” Tony Finau said on Wednesday ahead of this week’s Bank of Utah Championship at Black Desert Resort in Ivins, Utah.\n\nFinau grew up in Salt Lake City and lives in Lehigh; this is the third edition of Utah’s first PGA Tour event, but it marks Finau’s debut. “To have a PGA Tour event in Utah and now to be participating in it on this stage for a home crowd, I’m really excited about it,” he said.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "MacIntyre calls for Opens at Carnoustie & Muirfield",
@@ -5594,6 +5724,19 @@
         "body": "Scotland's number one golfer, Robert MacIntyre, has called for Carnoustie and Muirfield to become regular venues again for the Open Championship. Carnoustie last hosted the tournament in 2018, when Italy's Francesco Molinari lifted the Claret Jug, while Muirfield's most recent staging was in 2013.\n\nNext year's Open will be held at St Andrews and MacIntyre says more regular visits to Scotland would be a major boost for the game in the country. \"That would be brilliant,\" he said. \"I feel like there's not enough Open Championships in Scotland anymore.",
         "copy": "Scotland's number one golfer, Robert MacIntyre, has called for Carnoustie and Muirfield to become regular venues again for the Open Championship. Carnoustie last hosted the tournament in 2018, when Italy's Francesco Molinari lifted the Claret Jug, while Muirfield's most recent staging was in 2013.\n\nNext year's Open will be held at St Andrews and MacIntyre says more regular visits to Scotland would be a major boost for the game in the country. \"That would be brilliant,\" he said. \"I feel like there's not enough Open Championships in Scotland anymore.",
         "first_seen": "2026-09-30T17:34:22.574466+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Brandel Chamblee’s honest response when asked if LIV Golf has done anything good for the game",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3ZQSjZISGtoNHE2bXlZZTBfRlJ6bVRhcWJBYzJkdXVNNjktWDhZVjhtWWQzY20za2ZjcEFrV2x6dUhzN28tTVJKSjNSWlphLXBfMmtTRFpjOEFFaUhyb21MRkFLcGdIdW9CQkJTZnNhX2J5LWFvZ1Y5cjRRbGh4VFBYWnRWelp4YUVvbXBJSQ?oc=5",
+        "published": "2026-09-30T16:30:00+00:00",
+        "published_label": "Wed 30 Sep, 16:30",
+        "summary": "Brandel Chamblee’s honest response when asked if LIV Golf has done anything good for the game Yahoo",
+        "body": "Brandel Chamblee has been one of LIV Golf's fiercest critics over the past four years. Chamblee has consistently criticized LIV Golf for the way in which they tried to buy success.\n\nTheir non-meritocratic approach to the game ensured that golf fans failed to resonate with the league. In fairness to Brandel Chamblee, he has not once changed his very firm stance on LIV Golf as an entity.",
+        "copy": "Brandel Chamblee has been one of LIV Golf's fiercest critics over the past four years. Chamblee has consistently criticized LIV Golf for the way in which they tried to buy success.\n\nTheir non-meritocratic approach to the game ensured that golf fans failed to resonate with the league. In fairness to Brandel Chamblee, he has not once changed his very firm stance on LIV Golf as an entity.",
+        "first_seen": "2026-09-30T21:51:34.563134+00:00"
       },
       {
         "section": "Golf",
@@ -7102,84 +7245,6 @@
         "body": "MEDINAH, Ill. — My email friend Sam wants me to start a movement. And who doesn’t like a movement? Week after week during the golf season as we watch the LPGA tournaments, we mostly see players from Korea, Thailand, Japan and China dominate the leaderboard.\n\nWhen Nelly Korda plays, we will almost always see she is among the top three or five. Other than Nelly, there are not many others from the U.S. or Europe to challenge the players from the above countries.",
         "copy": "MEDINAH, Ill. — My email friend Sam wants me to start a movement. And who doesn’t like a movement? Week after week during the golf season as we watch the LPGA tournaments, we mostly see players from Korea, Thailand, Japan and China dominate the leaderboard.\n\nWhen Nelly Korda plays, we will almost always see she is among the top three or five. Other than Nelly, there are not many others from the U.S. or Europe to challenge the players from the above countries.",
         "first_seen": "2026-09-24T11:05:44.182410+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "I asked a Tour coach to fix my putting. He made 2 simple fixes",
-        "link": "https://golf.com/instruction/putting/stephen-sweeney-fixed-putting-two-simple-changes/",
-        "published": "2026-09-23T20:41:43+00:00",
-        "published_label": "Wed 23 Sep, 20:41",
-        "summary": "GOLF.com game-improvement editor Zephyr Melton did a putting fundamentals bootcamp with Tour coach Stephen Sweeney to fix his putting. The post I asked a Tour coach to fix my putting. He made 2 simple fixes appeared first on Golf .",
-        "body": "When I was a kid, putting was the strongest part of my game. I didn’t have unlimited access to a driving range, but the putting green was always free. So, after dinner most nights, I’d head over to the course and hit putts until the sun went down.\n\nNow, as a 30-something living in New York City, I face the opposite obstacle. I can head to the simulator any time of day to work on my swing, but there aren’t many putting greens in my vicinity. So naturally, I’m now a much better ball-striker than putter.",
-        "copy": "When I was a kid, putting was the strongest part of my game. I didn’t have unlimited access to a driving range, but the putting green was always free. So, after dinner most nights, I’d head over to the course and hit putts until the sun went down.\n\nNow, as a 30-something living in New York City, I face the opposite obstacle. I can head to the simulator any time of day to work on my swing, but there aren’t many putting greens in my vicinity. So naturally, I’m now a much better ball-striker than putter.",
-        "first_seen": "2026-09-23T21:03:33.178258+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "I had never used a handheld rangefinder before. This one is perfect in its simplicity | I Tried It",
-        "link": "https://golf.com/gear/golf-accessories/garmin-approach-z10-rangefinder-perfect-simplicity/",
-        "published": "2026-09-23T20:27:56+00:00",
-        "published_label": "Wed 23 Sep, 20:27",
-        "summary": "The Garmin Approach Z10 provided a solution to everything that had previously given me pause about using a rangefinder. The post I had never used a handheld rangefinder before. This one is perfect in its simplicity | I Tried It appeared first on Golf .",
-        "body": "What I’m about to say is going to make me sound like a golf dinosaur: Until last month, I had never used a handheld rangefinder. Shocker, I know! But the devices just never seemed to jibe with me.\n\nIn my junior golf days, like our forefathers from generations past, I calculated yardages the old-fashioned way, by pacing them off, using fairway monuments and sprinkler heads. As I got older, I utilized digital golf-cart screens or mooched off a playing partner who had a rangefinder and was willing to zap the pin for me.",
-        "copy": "What I’m about to say is going to make me sound like a golf dinosaur: Until last month, I had never used a handheld rangefinder. Shocker, I know! But the devices just never seemed to jibe with me.\n\nIn my junior golf days, like our forefathers from generations past, I calculated yardages the old-fashioned way, by pacing them off, using fairway monuments and sprinkler heads. As I got older, I utilized digital golf-cart screens or mooched off a playing partner who had a rangefinder and was willing to zap the pin for me.",
-        "first_seen": "2026-09-23T21:03:33.178258+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "What you can learn from the pros' tee shots at the Presidents Cup",
-        "link": "https://golf.com/instruction/what-you-can-learn-presidents-cup-tee-shots/",
-        "published": "2026-09-23T20:26:43+00:00",
-        "published_label": "Wed 23 Sep, 20:26",
-        "summary": "Eva Rogers, a teaching pro at Medinah Country Club, explains how watching pros' tee balls at the Presidents Cup can be a learning experience. The post What you can learn from the pros’ tee shots at the Presidents Cup appeared first on Golf .",
-        "body": "With the Presidents Cup coming to Medinah Country Club, the strategy off the tee will be about much more than simply finding the fairway. The recent renovation by OCM Golf created areas of width that give players different ways to play a hole. A player can challenge the penal bunkers and potentially earn a better position for the next shot, or play to the safer side knowing they may be sacrificing distance or a more open angle into the green.\n\nThis multitude of options puts a premium on decision-making off the tee. Tour players know their carry distance, understand their normal dispersion and recognize how much of a bunker they can realistically challenge much better than most players, and with that premium skillset, it affords them plenty of options off the tee. Sometimes taking on more risk creates an advantage. Other times, choosing less club and keeping the most penal trouble out of play is the smarter decision.",
-        "copy": "With the Presidents Cup coming to Medinah Country Club, the strategy off the tee will be about much more than simply finding the fairway. The recent renovation by OCM Golf created areas of width that give players different ways to play a hole. A player can challenge the penal bunkers and potentially earn a better position for the next shot, or play to the safer side knowing they may be sacrificing distance or a more open angle into the green.\n\nThis multitude of options puts a premium on decision-making off the tee. Tour players know their carry distance, understand their normal dispersion and recognize how much of a bunker they can realistically challenge much better than most players, and with that premium skillset, it affords them plenty of options off the tee. Sometimes taking on more risk creates an advantage. Other times, choosing less club and keeping the most penal trouble out of play is the smarter decision.",
-        "first_seen": "2026-09-23T21:03:33.178258+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "2 Days In, Bryson DeChambeau May Have Found Golf Content’s Next Big Thing",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUpqNWc2aXBGZndmbHR5YzZOcXlfUFNBSVZMS2c0U2pOSFhaT2t1c1JLZ3BSYWc5MUlOd2kwbnhHQi1hdEZNZEp6aWJ5RjYtbkNDcTlqYi13NURfS2ZwSWNSbEdmcy1RVkgwWk9DQzdYdk55WTV0UUtvVThmTUluQzd4Q3puTnJWU2c?oc=5",
-        "published": "2026-09-23T19:56:08+00:00",
-        "published_label": "Wed 23 Sep, 19:56",
-        "summary": "2 Days In, Bryson DeChambeau May Have Found Golf Content’s Next Big Thing heavy.com",
-        "body": "When Bryson DeChambeau posted “I have an announcement tomorrow” on his Instagram account, fans speculated he was hinting at a PGA Tour return. That’s not at all what he was putting together. Instead, one of the most entertaining, and somewhat polarizing, golf personalities might just be producing one of the more must-watch contests in social media golf.\n\nOn Monday, the LIV Golf star revealed “Bryson’s Backyard Games,” a new competition series on his social channels. The setting is his own home, and the format is a 10-player elimination series that could earn the winner $100,000.",
-        "copy": "When Bryson DeChambeau posted “I have an announcement tomorrow” on his Instagram account, fans speculated he was hinting at a PGA Tour return. That’s not at all what he was putting together. Instead, one of the most entertaining, and somewhat polarizing, golf personalities might just be producing one of the more must-watch contests in social media golf.\n\nOn Monday, the LIV Golf star revealed “Bryson’s Backyard Games,” a new competition series on his social channels. The setting is his own home, and the format is a 10-player elimination series that could earn the winner $100,000.",
-        "first_seen": "2026-09-23T21:03:33.178258+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "This counterintuitive Scottie Scheffler 'challenge' has U.S. team's attention",
-        "link": "https://golf.com/news/scottie-scheffler-presidents-cup-pairing-challenge/",
-        "published": "2026-09-23T19:19:44+00:00",
-        "published_label": "Wed 23 Sep, 19:19",
-        "summary": "He's a historically great World No. 1, good at everything, beloved by teammates. So why is pairing Scottie Scheffler a unique challenge? The post This counterintuitive Scottie Scheffler ‘challenge’ has U.S. team’s attention appeared first on Golf .",
-        "body": "It’s the sort of question that seems dumb to ask. Is Scottie Scheffler — historically great World No. 1, good at everything, liked by everyone, long, straight driver, generational irons player, all-world chipper and underrated putter — tricky to pair up in team competition?!\n\nLuckily somebody else asked it. And U.S. Presidents Cup captain Brandt Snedeker acknowledged that, yeah, in fact, it actually is. I appreciated Snedeker engaging with the question. These team match-play competitions are, to an extent, flukey one-offs, to the point that you can issue a hand-wave dismissal of basically any result (“they just made more putts,” the losing team tends to say with a shrug), which is always tough to refute but also isn’t particularly interesting.",
-        "copy": "It’s the sort of question that seems dumb to ask. Is Scottie Scheffler — historically great World No. 1, good at everything, liked by everyone, long, straight driver, generational irons player, all-world chipper and underrated putter — tricky to pair up in team competition?!\n\nLuckily somebody else asked it. And U.S. Presidents Cup captain Brandt Snedeker acknowledged that, yeah, in fact, it actually is. I appreciated Snedeker engaging with the question. These team match-play competitions are, to an extent, flukey one-offs, to the point that you can issue a hand-wave dismissal of basically any result (“they just made more putts,” the losing team tends to say with a shrug), which is always tough to refute but also isn’t particularly interesting.",
-        "first_seen": "2026-09-23T21:03:33.178258+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Amid golf-ball rollback debate, USGA and R&A propose 3 new rules",
-        "link": "https://golf.com/gear/rollback-debate-usga-ra-near-term-solutions/",
-        "published": "2026-09-23T18:44:08+00:00",
-        "published_label": "Wed 23 Sep, 18:44",
-        "summary": "The golf-ball rollback is delayed for now, but governing bodies are considering near-term solutions for January 2028. The post Amid golf-ball rollback debate, USGA and R&A propose 3 new rules appeared first on Golf .",
-        "body": "Golf’s ongoing rollback debate has taken its latest turn. Earlier this week, the USGA and R&A sent out their fourth notice of 2026 to manufacturers regarding potential solutions to increasing distances at golf’s highest levels. This time, the governing bodies are seeking feedback on three potential model local rules (MLR) that could slow the rapid gains in distance while the rulesmakers continue to consider a proposed golf-ball rollback.\n\nThe three potential MLRs were suggested by the PGA Tour and DP World Tour, which began working in consultation with the USGA and R&A in June, when the four organizations jointly announced the delayed implementation of any proposed golf-ball rollback.",
-        "copy": "Golf’s ongoing rollback debate has taken its latest turn. Earlier this week, the USGA and R&A sent out their fourth notice of 2026 to manufacturers regarding potential solutions to increasing distances at golf’s highest levels. This time, the governing bodies are seeking feedback on three potential model local rules (MLR) that could slow the rapid gains in distance while the rulesmakers continue to consider a proposed golf-ball rollback.\n\nThe three potential MLRs were suggested by the PGA Tour and DP World Tour, which began working in consultation with the USGA and R&A in June, when the four organizations jointly announced the delayed implementation of any proposed golf-ball rollback.",
-        "first_seen": "2026-09-23T21:03:33.178258+00:00"
       }
     ],
     "Badminton": [
@@ -7564,5 +7629,5 @@
       }
     ]
   },
-  "total": 580
+  "total": 585
 }
