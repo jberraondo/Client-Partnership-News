@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T12:23:24.033479+00:00",
-  "generated_label": "Thursday 01 October 2026, 12:23 UTC",
+  "generated_at": "2026-10-01T14:44:10.428854+00:00",
+  "generated_label": "Thursday 01 October 2026, 14:44 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "Pre-pandemic prices return for Cape Town sevens",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVTdubTQzNTFVWktpYjVRelBfUzFET3ZKdGxHXzgyeFBxOXA2REFNNmk2QUJxZVMxUlFmNl9xLUtBTUJKdG5lN0ZJMEhWNmFFams2eE5xc2l6RTU4RGZYM2JvODJSWU1iNmd1RmZ2VzgwUnFnS3FGLUV3bV9TNDE0X1I2bw?oc=5",
+        "published": "2026-10-01T13:42:43+00:00",
+        "published_label": "Thu 01 Oct, 13:42",
+        "summary": "Pre-pandemic prices return for Cape Town sevens novanews.co.za",
+        "body": "The countdown is on for South Africa’s biggest rugby party of the year, and it just got a whole lot more affordable. HSBC SVNS Cape Town tickets go on sale tomorrow (Friday, 2 October) at 09h00, with prices rolled back to pre-pandemic levels in a stunning move that will see fans pack DHL Stadium for as little as R180.\n\nMark your calendars: 5 and 6 December promise two days of electrifying sevens action as the world champion Blitzboks hunt a remarkable three-peat on home soil. Fresh off claiming both the HSBC SVNS Series crown and the World Championship last season, the South African speedsters are gunning for their third consecutive Cape Town title, and you can witness every bone-crunching tackle, every lightning-quick offload, and every crowd-erupting try for a fraction of what you’d expect to pay.",
+        "copy": "The countdown is on for South Africa’s biggest rugby party of the year, and it just got a whole lot more affordable. HSBC SVNS Cape Town tickets go on sale tomorrow (Friday, 2 October) at 09h00, with prices rolled back to pre-pandemic levels in a stunning move that will see fans pack DHL Stadium for as little as R180.\n\nMark your calendars: 5 and 6 December promise two days of electrifying sevens action as the world champion Blitzboks hunt a remarkable three-peat on home soil. Fresh off claiming both the HSBC SVNS Series crown and the World Championship last season, the South African speedsters are gunning for their third consecutive Cape Town title, and you can witness every bone-crunching tackle, every lightning-quick offload, and every crowd-erupting try for a fraction of what you’d expect to pay.",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "NHL continues commercial deal spree with Black Box Wines tie-up",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM3p4UU9Kd0NiRDU4clppT2tEZW84MjRjVHVoQXUtTXFxb183YWozQVN3Q0JqQnRSNUpwVDJYU0JKMWt1c0o3dC1Ea21JNXlnaUp5bUtYa25MdGQ2QnA1Zm5VaTNuVjZ2T084aHdEOVNMNHlyOEM2VjYtbEtnWUZDc2lKWWpTbmRoNWF5MzA0eUFjQUlqYndiMFVB?oc=5",
+        "published": "2026-10-01T13:19:12+00:00",
+        "published_label": "Thu 01 Oct, 13:19",
+        "summary": "NHL continues commercial deal spree with Black Box Wines tie-up Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -102,6 +128,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-01T12:23:24.033479+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "FirstFT: A ‘vicious loop’ of selling grips government bond market",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUEwQmg4LWJzaDRLWFdzdE5tRjVVR0pHd0pJMUoxTVRqVnBLWXBYTFFjTms1eUdyN0MyNEQ5TWZtNC14LWdOT0w3VUVxY2t5OEhMY0FjQWNKM3RNOGRrMmdvNExHd05razFicFNGR1g4NURoNDFWVVhGbDJjTjZ1YkgyNzU?oc=5",
+        "published": "2026-10-01T10:31:21+00:00",
+        "published_label": "Thu 01 Oct, 10:31",
+        "summary": "FirstFT: A ‘vicious loop’ of selling grips government bond market Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1662,61 +1701,100 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "HSBC watch",
-        "kind": "gnews",
-        "title": "Catch the USA Eagles Sevens in New York when HSBC SVNS Series returns March 2027",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdG5vcGo2RWpRTFhtUWJvT1phZV9XakllUXMyUFl2RG1xQmRlU2RqZTFQRTJIQzJSRms4NXFDeXZnY3M5bG84dnM0TEVKc1NZTFc0TEcyMm0wWEI0dTgyQTRwMTA3akxGSF94SXhNREpOa0RTRlJYclpNdDZuTTVybVBvaE0zam45RDgwZWVzcWM0bFVWcDdSZHRiR1RaSHluN1I3VE8wRmN1RjJWVlBVbVVWN1lEdWxYOHlwSlRfNVAzYWc?oc=5",
-        "published": "2026-09-24T14:08:18+00:00",
-        "published_label": "Thu 24 Sep, 14:08",
-        "summary": "Catch the USA Eagles Sevens in New York when HSBC SVNS Series returns March 2027 Eagles Rugby",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Portuguese GP retains spot on MotoGP calendar until 2029",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHd2OS0ydURJcmFYTjBDbkhnQk8yLVFsend2RlRBYl9mYlEtX1JHSmZCLWtzX1hlaTZqMlEyY25ZUGF3dmNGMzZsbVI0MmFrQk13RUNSYTFRUGd4aDU3dmpWZVpuZU1xQkhUS25rVE9ub2FMbmR2YXpWeWFVYzg3VEhzQnRpSEo3RTktOGFONEI?oc=5",
-        "published": "2026-09-24T13:50:08+00:00",
-        "published_label": "Thu 24 Sep, 13:50",
-        "summary": "Portuguese GP retains spot on MotoGP calendar until 2029 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Deloitte’s tech consulting arm curbs global revenue growth",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlFOYkNxanF3U2o4cjgzaDgyTjJVQ1kwTW1SR1c2RmVsMVJkb1hWaWhQUjJ6LUliZHo2ekNGendEUU44RU9vdF9ERE5KVFI5Ym41bWZJVF9VY1hqU05MaHd6QmRfblpyQnBHcjlaOVZUMGk3U3Atdk0tck5kVDFWU1Q0Z2k?oc=5",
-        "published": "2026-09-24T13:33:20+00:00",
-        "published_label": "Thu 24 Sep, 13:33",
-        "summary": "Deloitte’s tech consulting arm curbs global revenue growth Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-24T21:08:07.579327+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Isabel Schnabel to leave ECB early to join IMF",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0JBREZSUWtjVFAtSndEaFoxWFZ6bkxJSXBoUUhnNDQ4cm83Wk9EbXZ2Mi1FeklZSlM3ZXNtWGxoVWFaMkR1U0kwNjN5akl2Q2N2bDMxQ1A3UFVvUEx4NDNKMmVkaHlPU1Jld3ZLNkhxdVBxbXNFekJFVmt2bksweXRqVkc?oc=5",
-        "published": "2026-09-24T13:32:25+00:00",
-        "published_label": "Thu 24 Sep, 13:32",
-        "summary": "Isabel Schnabel to leave ECB early to join IMF ft.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-25T16:28:05.227320+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Harlequins back row Chisholm retires aged 31",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0e3exx41dgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T14:32:20+00:00",
+        "published_label": "Thu 01 Oct, 14:32",
+        "summary": "Harlequins back row James Chisholm retires from professional rugby union aged 31, almost two years after rupturing his Achilles.",
+        "body": "Harlequins back row James Chisholm has retired from professional rugby union aged 31. Chisholm said his recovery from a ruptured Achilles in January 2025 had been \"a bit of an uphill battle\" and \"unfortunately my body just can't get there\".\n\n\"I still have the want to play and was really looking forward to this season and gave pre-season my all. We tried everything but I just couldn't get there,\" he told club media., external",
+        "copy": "Harlequins back row James Chisholm has retired from professional rugby union aged 31. Chisholm said his recovery from a ruptured Achilles in January 2025 had been \"a bit of an uphill battle\" and \"unfortunately my body just can't get there\".\n\n\"I still have the want to play and was really looking forward to this season and gave pre-season my all. We tried everything but I just couldn't get there,\" he told club media., external",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "Two former players at Melrose’s Greenyards added to Scotland rugby sevens squad",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0dUZU5BaThUX3hlQWh5UTlxOHEyRTl1UjlWYWY5UWF4bTlVcXNsVzFWalpqTU5EeVlDM0ZxUVk2dXRGOWQzbm9XTHVxTDU3SHEweUxfcE1WMkQ3a2lXbkdUai1aNEtWMFVIdHdRZmx2VFV4SHJVUGduajVidnpaY2drU0ZKeExSVFo1SjdMdUxTcW5ZNXBINTNtd05QRG5MR3d4VnktMTNYU2d0c01NT09Vd1Y4N01NcjR2XzkycG9XTk56cUpMOWZwVEt1ODhRNFVtbUZRcnhhZw?oc=5",
+        "published": "2026-10-01T14:27:00+00:00",
+        "published_label": "Thu 01 Oct, 14:27",
+        "summary": "Two former players at Melrose’s Greenyards added to Scotland rugby sevens squad The Southern Reporter",
+        "body": "Two former players at Melrose’s Greenyards have been added to Scotland’s rugby sevens squad. Ex-Southern Knight Freddie Owsley and erstwhile Melrose winger Ross McCann are among four new faces taken on by Borderer Ciaran Beattie’s now-seven-strong full-time contracted squad, the others being Ben Salmon and Lewis Wells.\n\nTheir arrival takes the number of ex-Greenyards players in the squad to four as they join another former Knight, Jacob Henry, and prior Melrose scrum-half Roan Frostwick. Henry and Frostwick, both 26, have been kept on from last season’s squad of six, together with Matt Davidson.",
+        "copy": "Two former players at Melrose’s Greenyards have been added to Scotland’s rugby sevens squad. Ex-Southern Knight Freddie Owsley and erstwhile Melrose winger Ross McCann are among four new faces taken on by Borderer Ciaran Beattie’s now-seven-strong full-time contracted squad, the others being Ben Salmon and Lewis Wells.\n\nTheir arrival takes the number of ex-Greenyards players in the squad to four as they join another former Knight, Jacob Henry, and prior Melrose scrum-half Roan Frostwick. Henry and Frostwick, both 26, have been kept on from last season’s squad of six, together with Matt Davidson.",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Sione Tuipulotu back in Glasgow saddle as Ulster lose Ireland duo",
+        "link": "https://www.rugbypass.com/news/sione-tuipulotu-back-in-glasgow-saddle-as-ulster-lose-ireland-duo/",
+        "published": "2026-10-01T14:21:51+00:00",
+        "published_label": "Thu 01 Oct, 14:21",
+        "summary": "Scotland captain Sione Tuipulotu will play his first match of the new season in Glasgow’s home URC clash with Ulster at Scotstoun on Saturday.",
+        "body": "Scotland captain Sione Tuipulotu will play his first match of the new season in Glasgow’s home URC clash with Ulster at Scotstoun on Saturday. The talismanic centre, who faces a big year ahead leading into the 2027 Rugby World Cup, will have his workload carefully managed across the coming campaign.\n\nBut having sat out Warriors’ opening win over Munster in Limerick, Tuipulotu returns this week in one of three changes to the starting XV with Stafford McDowall, who continues to captain the side, switching to outside centre to accommodate Tuipulotu and Ollie Smith dropping out of the 23.",
+        "copy": "Scotland captain Sione Tuipulotu will play his first match of the new season in Glasgow’s home URC clash with Ulster at Scotstoun on Saturday. The talismanic centre, who faces a big year ahead leading into the 2027 Rugby World Cup, will have his workload carefully managed across the coming campaign.\n\nBut having sat out Warriors’ opening win over Munster in Limerick, Tuipulotu returns this week in one of three changes to the starting XV with Stafford McDowall, who continues to captain the side, switching to outside centre to accommodate Tuipulotu and Ollie Smith dropping out of the 23.",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Isiekwe available after Leicester red rescinded",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cr89j91lqlvqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T14:19:42+00:00",
+        "published_label": "Thu 01 Oct, 14:19",
+        "summary": "Nick Isiekwe's red card in Saracens' Prem victory at Leicester is rescinded at a disciplinary hearing, meaning he will be available for Sunday's match against Sale.",
+        "body": "Nick Isiekwe's red card in Saracens' Prem victory at Leicester on Saturday has been rescinded at a disciplinary hearing. The England forward, 28, was shown a 20-minute red card following a high tackle on Tigers full-back Freddie Steward in Sarries' 40-38 win.\n\nSteward provided a statement and live evidence at the hearing, in which he said he did not suspect any foul play by Isiekwe. Steward and Isiekwe both described the head contact as \"glancing\", a term that the independent panel said it \"did not fully accept\", although the panel's view was that the degree of force was \"low to mid and not high\".",
+        "copy": "Nick Isiekwe's red card in Saracens' Prem victory at Leicester on Saturday has been rescinded at a disciplinary hearing. The England forward, 28, was shown a 20-minute red card following a high tackle on Tigers full-back Freddie Steward in Sarries' 40-38 win.\n\nSteward provided a statement and live evidence at the hearing, in which he said he did not suspect any foul play by Isiekwe. Steward and Isiekwe both described the head contact as \"glancing\", a term that the independent panel said it \"did not fully accept\", although the panel's view was that the degree of force was \"low to mid and not high\".",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Stockdale in line for 150th Ulster appearance",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cked7d603g31o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T13:48:26+00:00",
+        "published_label": "Thu 01 Oct, 13:48",
+        "summary": "Jacob Stockdale is in line to make his 150th apperance for Ulster in Saturday's United Rugby Championship match against Glasgow Warriors in Scotstoun.",
+        "body": "Jacob Stockdale is in line to make his 150th apperance for Ulster in Saturday's United Rugby Championship match against Glasgow Warriors in Scotstoun (17:30 BST). Stockdale is one of four Ireland internationals who return to the starting line-up from last week's defeat by Edinburgh in Belfast.\n\nTom Stewart, Cormac Izuchukwu and Bryn Ward are all named in the side, while new signings Keynan Knox, Matthew Devine and Chay Mullins are set to make their first starts. Stewart and Knox come into the front row to join Eric O'Sullivan, while Izuchukwu comes into the second row where he will partner Eli Snyman.",
+        "copy": "Jacob Stockdale is in line to make his 150th apperance for Ulster in Saturday's United Rugby Championship match against Glasgow Warriors in Scotstoun (17:30 BST). Stockdale is one of four Ireland internationals who return to the starting line-up from last week's defeat by Edinburgh in Belfast.\n\nTom Stewart, Cormac Izuchukwu and Bryn Ward are all named in the side, while new signings Keynan Knox, Matthew Devine and Chay Mullins are set to make their first starts. Stewart and Knox come into the front row to join Eric O'Sullivan, while Izuchukwu comes into the second row where he will partner Eli Snyman.",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Edinburgh flanker suffers new injury blow as prop backed for Scotland RWC squad",
+        "link": "https://www.rugbypass.com/news/edinburgh-flanker-suffers-fresh-injury-blow-as-prop-backed-for-scotland-rwc-squad/",
+        "published": "2026-10-01T13:03:46+00:00",
+        "published_label": "Thu 01 Oct, 13:03",
+        "summary": "Back-rower Ben Muncaster faces a fresh spell on the sidelines as emerging prop Ollie Blyth-Lafferty is handed the chances to press his Scotland claims.",
+        "body": "The latest injury misfortune to strike the luckless Ben Muncaster will see the Edinburgh back-rower sidelined for 10 weeks, ruling him out of Scotland’s November series of Nations Championship matches.\n\nMuncaster is to undergo surgery on ankle damage he suffered in his comeback outing a fortnight ago in Edinburgh’s final pre-season game against Harlequins. The 24-year-old Scotland cap will miss at least the capital club’s next five games leading into the international window, starting with Friday’s home URC clash with Stormers, and is unlikely to return to action until December.",
+        "copy": "The latest injury misfortune to strike the luckless Ben Muncaster will see the Edinburgh back-rower sidelined for 10 weeks, ruling him out of Scotland’s November series of Nations Championship matches.\n\nMuncaster is to undergo surgery on ankle damage he suffered in his comeback outing a fortnight ago in Edinburgh’s final pre-season game against Harlequins. The 24-year-old Scotland cap will miss at least the capital club’s next five games leading into the international window, starting with Friday’s home URC clash with Stormers, and is unlikely to return to action until December.",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Munster statement: CEO Ian Flanagan to step down",
+        "link": "https://www.rugbypass.com/news/munster-statement-ceo-ian-flanagan-steps-down/",
+        "published": "2026-10-01T12:57:51+00:00",
+        "published_label": "Thu 01 Oct, 12:57",
+        "summary": "Munster have confirmed that chief executive Ian Flanagan will step down from his role at the end of October, bringing his tenure at the province to a close.",
+        "body": "Munster have confirmed that chief executive Ian Flanagan will step down from his role at the end of October, bringing his tenure at the province to a close. Flanagan, who was appointed to the role in 2019, has informed the Munster Rugby Board of his decision, with the IRFU and province announcing that an interim CEO will be appointed in the coming weeks.\n\nA recruitment process for a permanent successor will then begin, leaving Munster with another off-field change as they move through the weeks of the new season. Flanagan’s time in charge included a central role in the development and delivery of Munster’s €7.3m Centre of Excellence in Cork, a long-term investment in player development and the wider game across the province.",
+        "copy": "Munster have confirmed that chief executive Ian Flanagan will step down from his role at the end of October, bringing his tenure at the province to a close. Flanagan, who was appointed to the role in 2019, has informed the Munster Rugby Board of his decision, with the IRFU and province announcing that an interim CEO will be appointed in the coming weeks.\n\nA recruitment process for a permanent successor will then begin, leaving Munster with another off-field change as they move through the weeks of the new season. Flanagan’s time in charge included a central role in the development and delivery of Munster’s €7.3m Centre of Excellence in Cork, a long-term investment in player development and the wider game across the province.",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -4849,162 +4927,6 @@
         "body": "Bristol Bears boss Pat Lam has confirmed that new boy Ethan Staddon will miss most of the season after becoming the latest of his stars to suffer a knee injury ahead of their Gallagher PREM campaign against Sale Sharks.\n\nFlanker Staddon was supposed to be the Bears big-name summer signing of being lured away from West Country rivals Bath when his contract at the Rec ended at the end of join. But he has joined full-back Noah Heward on the operating table to repair an ACL injury before he even made his competitive debut for the Bears, though Lam said on his weekly media call that he believes he will bounce back.",
         "copy": "Bristol Bears boss Pat Lam has confirmed that new boy Ethan Staddon will miss most of the season after becoming the latest of his stars to suffer a knee injury ahead of their Gallagher PREM campaign against Sale Sharks.\n\nFlanker Staddon was supposed to be the Bears big-name summer signing of being lured away from West Country rivals Bath when his contract at the Rec ended at the end of join. But he has joined full-back Noah Heward on the operating table to repair an ACL injury before he even made his competitive debut for the Bears, though Lam said on his weekly media call that he believes he will bounce back.",
         "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'He could be quite a force come World Cup time': Rob Baxter",
-        "link": "https://www.rugbypass.com/news/he-could-be-quite-a-force-come-world-cup-time-rob-baxter-immanuel-feyi-waboso-england-rugby-exeter-chiefs/",
-        "published": "2026-09-24T14:39:21+00:00",
-        "published_label": "Thu 24 Sep, 14:39",
-        "summary": "Immanuel Feyi-Waboso has been backed to become one of the stars of the 2027 Rugby World Cup by his Exeter Chiefs boss Rob Baxter, who hopes he can find some consistency this season.",
-        "body": "Immanuel Feyi-Waboso has been backed to become one of the stars of the 2027 Rugby World Cup by his Exeter Chiefs boss Rob Baxter, who hopes he can find some consistency this season.\n\nBaxter hopes Feyi-Waboso, who scored 17 tries in 27 appearances for club and country last season, can put together an injury-free campaign ahead of the showpiece event in Australia next year.",
-        "copy": "Immanuel Feyi-Waboso has been backed to become one of the stars of the 2027 Rugby World Cup by his Exeter Chiefs boss Rob Baxter, who hopes he can find some consistency this season.\n\nBaxter hopes Feyi-Waboso, who scored 17 tries in 27 appearances for club and country last season, can put together an injury-free campaign ahead of the showpiece event in Australia next year.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Rugby player's murder trial: Sentences of 20 and 27 years sought by prosecutors",
-        "link": "https://www.rugbypass.com/news/rugby-aramburu-murder-trial-sentences-of-20-and-27-years-sought-by-prosecutors/",
-        "published": "2026-09-24T14:36:06+00:00",
-        "published_label": "Thu 24 Sep, 14:36",
-        "summary": "The trial concerning the murder of former Pumas international Federico Martín Aramburú, who was fatally shot on March 19, 2022, has reached a new stage...",
-        "body": "The trial concerning the killing of former Pumas international Federico Martín Aramburú, who was fatally shot on March 19, 2022, has reached a new stage, with the attorney general in charge of the case seeking sentences of 27 and 20 years for the two defendants.\n\nPhilippe Courroye, the lead prosecutor in the case, is seeking convictions that would see Loïk Le Priol and Romain Bouvier behind bars, accusing both men of carrying out a premeditated killing.",
-        "copy": "The trial concerning the killing of former Pumas international Federico Martín Aramburú, who was fatally shot on March 19, 2022, has reached a new stage, with the attorney general in charge of the case seeking sentences of 27 and 20 years for the two defendants.\n\nPhilippe Courroye, the lead prosecutor in the case, is seeking convictions that would see Loïk Le Priol and Romain Bouvier behind bars, accusing both men of carrying out a premeditated killing.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "South Africa ring the changes as they look to recover from Wales ‘sting’",
-        "link": "https://www.rugbypass.com/news/south-africa-ring-the-changes-as-they-look-to-recover-from-wales-sting/",
-        "published": "2026-09-24T14:31:52+00:00",
-        "published_label": "Thu 24 Sep, 14:31",
-        "summary": "The Springbok Women have made a plenty of changed to their squad as they look to recover from being \"stung\" by Wales in their WXV Global Series 2026 opener.",
-        "body": "The Springbok Women have made a plenty of changed to their squad as they look to recover from being “stung” by Wales in their WXV Global Series 2026 opener. A week ago in Cardiff the Women’s Rugby World Cup 2025 quarter-finalists were well-beaten by Sean Lynn’s Wales.\n\nNow they must take on an Italy team emboldened by their 55-21 win against Japan in their first game under the leadership of Plinio Sciamanna. The team’s captain Babalwa Latsha is dropped to the bench in Pordenone, with Nombuyekezo Mdliki installed as the starting tighthead. Unam Tose and Sizo Solontsi share the captaincy.",
-        "copy": "The Springbok Women have made a plenty of changed to their squad as they look to recover from being “stung” by Wales in their WXV Global Series 2026 opener. A week ago in Cardiff the Women’s Rugby World Cup 2025 quarter-finalists were well-beaten by Sean Lynn’s Wales.\n\nNow they must take on an Italy team emboldened by their 55-21 win against Japan in their first game under the leadership of Plinio Sciamanna. The team’s captain Babalwa Latsha is dropped to the bench in Pordenone, with Nombuyekezo Mdliki installed as the starting tighthead. Unam Tose and Sizo Solontsi share the captaincy.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Glasgow Warriors pick 11 Scotland internationals for trip to Munster",
-        "link": "https://www.rugbypass.com/news/glasgow-warriors-pick-11-scotland-internationals-for-urc-trip-to-munster/",
-        "published": "2026-09-24T14:20:10+00:00",
-        "published_label": "Thu 24 Sep, 14:20",
-        "summary": "Glasgow have selected a strong team featuring 11 Scotland internationals for their opening United Rugby Championship against Munster at Thomond Park on Saturday.",
-        "body": "Glasgow Warriors have selected a strong team featuring 11 Scotland internationals for their opening United Rugby Championship against Munster at Thomond Park on Saturday. Hooker Gregor Hiddleston, who won his first three Test caps in the Scots’ opening Nations Championship fixtures in July, starts in the front row along with tighthead Murphy Walker, with Gregor Brown and Max Williamson packing down at lock.\n\nRory Darge and Matt Fagerson feature in the back row, the latter reverting from blindside to his former No.8 role after the departure of Jack Dempsey to Japan. The back three features Kyle Rowe and Jamie Dobie – making his 100th Warriors appearance – on the wings alongside soon-to-be-Scottish-qualified full-back Josh McKay, with captain Stafford McDowall and Ollie Smith teaming up at centre and George Horne starting at scrum-half alongside Dan Lancaster at No.10.",
-        "copy": "Glasgow Warriors have selected a strong team featuring 11 Scotland internationals for their opening United Rugby Championship against Munster at Thomond Park on Saturday. Hooker Gregor Hiddleston, who won his first three Test caps in the Scots’ opening Nations Championship fixtures in July, starts in the front row along with tighthead Murphy Walker, with Gregor Brown and Max Williamson packing down at lock.\n\nRory Darge and Matt Fagerson feature in the back row, the latter reverting from blindside to his former No.8 role after the departure of Jack Dempsey to Japan. The back three features Kyle Rowe and Jamie Dobie – making his 100th Warriors appearance – on the wings alongside soon-to-be-Scottish-qualified full-back Josh McKay, with captain Stafford McDowall and Ollie Smith teaming up at centre and George Horne starting at scrum-half alongside Dan Lancaster at No.10.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Leinster pull trigger on long-rumoured Andrew Porter switch for URC opener",
-        "link": "https://www.rugbypass.com/news/leinster-pull-trigger-on-long-rumoured-andrew-porter-switch-for-urc-opener/",
-        "published": "2026-09-24T14:13:52+00:00",
-        "published_label": "Thu 24 Sep, 14:13",
-        "summary": "Leinster have pulled the trigger on long rumoured move of Andrew Porter to the tighthead side of the scrum as Leo Cullen named his side for their URC opener against the Lions at Ellis Park.",
-        "body": "Leinster have pulled the trigger on the long-rumoured move of Andrew Porter to the tighthead side of the scrum as Leo Cullen named his side for their URC opener against the Lions at Ellis Park.\n\nPorter’s move across the front row has been the subject of speculation for some time, but Cullen has now opted to make it a reality as Leinster begin a new campaign in Johannesburg.",
-        "copy": "Leinster have pulled the trigger on the long-rumoured move of Andrew Porter to the tighthead side of the scrum as Leo Cullen named his side for their URC opener against the Lions at Ellis Park.\n\nPorter’s move across the front row has been the subject of speculation for some time, but Cullen has now opted to make it a reality as Leinster begin a new campaign in Johannesburg.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Canada rest Sophie de Goede for France clash in La Rochelle",
-        "link": "https://www.rugbypass.com/news/canada-rest-sophie-de-goede-for-france-clash-in-la-rochelle/",
-        "published": "2026-09-24T14:04:52+00:00",
-        "published_label": "Thu 24 Sep, 14:04",
-        "summary": "Canada captain Sophie de Goede has been rested for her team's WXV Global Series encounter with France in La Rochelle.",
-        "body": "Canada captain Sophie de Goede has been rested for her team’s WXV Global Series encounter with France in La Rochelle. The lock forward played the full 80 minutes of her team’s 26-26 draw with England last time out.\n\nShe has been left out of the squad after coaching staff opted to rest certain players ahead of their home fixtures against the Red Roses in October. Instead, Rachel Smith will partner Laetitia Royer in the second row.",
-        "copy": "Canada captain Sophie de Goede has been rested for her team’s WXV Global Series encounter with France in La Rochelle. The lock forward played the full 80 minutes of her team’s 26-26 draw with England last time out.\n\nShe has been left out of the squad after coaching staff opted to rest certain players ahead of their home fixtures against the Red Roses in October. Instead, Rachel Smith will partner Laetitia Royer in the second row.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "McLachlan and Wills return to face Australia",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm2qgz89320o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-24T13:12:37+00:00",
-        "published_label": "Thu 24 Sep, 13:12",
-        "summary": "Rachel McLachlan and Evie Wills return from injury to start for Scotland against Australia in their final home match of the WXV Series on Saturday.",
-        "body": "Rachel McLachlan and Evie Wills return from injury to start for Scotland against Australia in their final home match of the WXV Series on Saturday. Sarah Bonar and Hannah Ramsay also come into the starting line-up as interim head coach Dave Butcher makes four changes following the 66-14 defeat by New Zealand.\n\nButcher believes facing Canada and New Zealand has helped the development of his team despite suffering two heavy defeats. \"Coming out of two really, really hard games, the feeling is that we got stress tested a lot in those games, which has allowed us to accelerate what we need to do a little bit more, rather than playing a game where we're not too sure whether that will work against the world's best,\" he said.",
-        "copy": "Rachel McLachlan and Evie Wills return from injury to start for Scotland against Australia in their final home match of the WXV Series on Saturday. Sarah Bonar and Hannah Ramsay also come into the starting line-up as interim head coach Dave Butcher makes four changes following the 66-14 defeat by New Zealand.\n\nButcher believes facing Canada and New Zealand has helped the development of his team despite suffering two heavy defeats. \"Coming out of two really, really hard games, the feeling is that we got stress tested a lot in those games, which has allowed us to accelerate what we need to do a little bit more, rather than playing a game where we're not too sure whether that will work against the world's best,\" he said.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Scotland and Edinburgh suffer brutal Darcy Graham blow on eve of season",
-        "link": "https://www.rugbypass.com/news/scotland-and-edinburgh-suffer-brutal-darcy-graham-blow-on-eve-of-season-urc/",
-        "published": "2026-09-24T13:02:08+00:00",
-        "published_label": "Thu 24 Sep, 13:02",
-        "summary": "Edinburgh wing Darcy Graham will miss at least the first three months of the season including Scotland’s Nations Championship campaign in November after suffering a “freakish” injury on the eve of the new campaign.",
-        "body": "Edinburgh wing Darcy Graham will miss at least the first three months of the season including Scotland’s Nations Championship campaign in November after suffering a “freakish” injury on the eve of the new campaign.\n\nThe 29-year-old flyer suffered a “contusion on his bicep” during Edinburgh’s pre-season friendly at Harlequins last Friday, his first game of the season. A subsequent MRI scan revealed Graham has ruptured a bicep muscle in his arm and is likely to be sidelined until Christmas.",
-        "copy": "Edinburgh wing Darcy Graham will miss at least the first three months of the season including Scotland’s Nations Championship campaign in November after suffering a “freakish” injury on the eve of the new campaign.\n\nThe 29-year-old flyer suffered a “contusion on his bicep” during Edinburgh’s pre-season friendly at Harlequins last Friday, his first game of the season. A subsequent MRI scan revealed Graham has ruptured a bicep muscle in his arm and is likely to be sidelined until Christmas.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Injury rules Graham out of Scotland's autumn Tests",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c54g7d07y7wzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-24T13:00:16+00:00",
-        "published_label": "Thu 24 Sep, 13:00",
-        "summary": "Scotland's record try-scorer Darcy Graham is to miss the autumn internationals against New Zealand, Australia and Japan with a ruptured bicep.",
-        "body": "Scotland's record try-scorer Darcy Graham is to miss the autumn internationals with a bicep injury. The 29-year-old Edinburgh winger has 38 tries from his 57 caps but will not have the chance to add to that tally in home Tests against New Zealand, Australia and Japan.\n\nEdinburgh head coach Sean Everitt revealed Graham is facing at least 12 weeks on the sidelines as he recovers from a rupture. Describing the collision incident as \"pretty freakish\", Everitt, said: \"That's not good news for us and not good news for him, especially with the autumn series coming up.\"",
-        "copy": "Scotland's record try-scorer Darcy Graham is to miss the autumn internationals with a bicep injury. The 29-year-old Edinburgh winger has 38 tries from his 57 caps but will not have the chance to add to that tally in home Tests against New Zealand, Australia and Japan.\n\nEdinburgh head coach Sean Everitt revealed Graham is facing at least 12 weeks on the sidelines as he recovers from a rupture. Describing the collision incident as \"pretty freakish\", Everitt, said: \"That's not good news for us and not good news for him, especially with the autumn series coming up.\"",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Feaunati returns as England brace for Black Ferns onslaught",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6d94w7znk3do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-24T12:36:20+00:00",
-        "published_label": "Thu 24 Sep, 12:36",
-        "summary": "Maddie Feaunati returns to bring big-game experience and dynamism to the back row as England take on a resurgent New Zealand at Allianz Stadium on Saturday.",
-        "body": "Maddie Feaunati returns to bring big-game experience and dynamism to the back row as England take on a resurgent New Zealand, their closest challengers at the top of the world rankings, in front of more than 50,000 fans at Allianz Stadium on Saturday.\n\nFeaunati comes in at number eight, with Alex Matthews shifting to blind-side flanker and Abi Burton to the bench. The three starters all featured in England's Women's Rugby World Cup final win against Canada, one year ago on Sunday.",
-        "copy": "Maddie Feaunati returns to bring big-game experience and dynamism to the back row as England take on a resurgent New Zealand, their closest challengers at the top of the world rankings, in front of more than 50,000 fans at Allianz Stadium on Saturday.\n\nFeaunati comes in at number eight, with Alex Matthews shifting to blind-side flanker and Abi Burton to the bench. The three starters all featured in England's Women's Rugby World Cup final win against Canada, one year ago on Sunday.",
-        "first_seen": "2026-09-24T12:49:45.760175+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Harlequins duo injured but Bath's Stuart returns",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6lyq0wk3p5do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-24T12:30:42+00:00",
-        "published_label": "Thu 24 Sep, 12:30",
-        "summary": "Harlequins are without injured George Furbank and Marcus Smith for Friday's Prem opener but Bath's have Will Stuart back in their XV, while Newcastle start seven new signings.",
-        "body": "The first round of the Prem returns this weekend with all 10 teams starting with a clean slate as the new season begins. This is the first chance for fans to see new signings in their club colours and whether the summer break and pre-season training block has created a fresh impetus in their teams.\n\nYou can listen to coverage of all of the matches on BBC DAB and FM local radio, via BBC Sounds or the BBC Sport website and app. Harlequins are without new signing George Furbank for their Prem opener after the full-back went off injured with his first carry of their pre-season friendly against Edinburgh last week, while Marcus Smith also misses out with a hand injury picked up in the same match.",
-        "copy": "The first round of the Prem returns this weekend with all 10 teams starting with a clean slate as the new season begins. This is the first chance for fans to see new signings in their club colours and whether the summer break and pre-season training block has created a fresh impetus in their teams.\n\nYou can listen to coverage of all of the matches on BBC DAB and FM local radio, via BBC Sounds or the BBC Sport website and app. Harlequins are without new signing George Furbank for their Prem opener after the full-back went off injured with his first carry of their pre-season friendly against Edinburgh last week, while Marcus Smith also misses out with a hand injury picked up in the same match.",
-        "first_seen": "2026-09-24T12:49:45.760175+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Red Roses make trio of changes in the pack for Black Ferns visit to Allianz Stadium",
-        "link": "https://www.rugbypass.com/news/red-roses-make-trio-of-changes-in-the-pack-for-black-ferns-visit-to-allianz-stadium/",
-        "published": "2026-09-24T12:30:15+00:00",
-        "published_label": "Thu 24 Sep, 12:30",
-        "summary": "Red Roses boss John Mitchell has made three changes to his starting XV to face the Black Ferns at Allianz Stadium.",
-        "body": "Red Roses boss John Mitchell has made three changes to his starting XV to face the Black Ferns at Allianz Stadium. The changes include starts for prop duo Mackenzie Carson and Sarah Bern, who join Bryony Field in the front row. Field earns her second consecutive Test start, while Lilli Ives Campion and Morwenna Talling form the second-row partnership.\n\nMaddie Feaunati also returns to the starting line-up after making a strong impact from the bench in England’s 26-26 draw with Canada last week. Her inclusion at No. 8 sees Alex Matthews move to blindside flanker, with Sadia Kabeya completing the back row at openside flanker.",
-        "copy": "Red Roses boss John Mitchell has made three changes to his starting XV to face the Black Ferns at Allianz Stadium. The changes include starts for prop duo Mackenzie Carson and Sarah Bern, who join Bryony Field in the front row. Field earns her second consecutive Test start, while Lilli Ives Campion and Morwenna Talling form the second-row partnership.\n\nMaddie Feaunati also returns to the starting line-up after making a strong impact from the bench in England’s 26-26 draw with Canada last week. Her inclusion at No. 8 sees Alex Matthews move to blindside flanker, with Sadia Kabeya completing the back row at openside flanker.",
-        "first_seen": "2026-09-24T12:49:45.760175+00:00"
       }
     ],
     "Tennis": [
@@ -5426,6 +5348,19 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Top of the list': Fitzpatrick brothers' goal is bigger than major wins",
+        "link": "https://golf.com/news/fitzpatrick-brothers-goal-bigger-major-wins-ryder-cup/",
+        "published": "2026-10-01T12:48:54+00:00",
+        "published_label": "Thu 01 Oct, 12:48",
+        "summary": "Brothers Alex and Matt Fitzpatrick would love to win majors in 2027, but they have a bigger goal in mind: winning the Ryder Cup together. The post ‘Top of the list’: Fitzpatrick brothers’ goal is bigger than major wins appeared first on Golf .",
+        "body": "Last month, two-time winning European Ryder Cup captain Luke Donald invited 15 prospective players on a scouting trip to Adare Manor, the Irish resort that will host the 2027 Ryder Cup.\n\nAmong those 15 top European talents were two brothers: Matt and Alex Fitzpatrick. The Fitzpatricks are already household names to most golf fans. Matt won the 2022 U.S. Open and then rocketed back up the world ranking this year with three PGA Tour wins.",
+        "copy": "Last month, two-time winning European Ryder Cup captain Luke Donald invited 15 prospective players on a scouting trip to Adare Manor, the Irish resort that will host the 2027 Ryder Cup.\n\nAmong those 15 top European talents were two brothers: Matt and Alex Fitzpatrick. The Fitzpatricks are already household names to most golf fans. Matt won the 2022 U.S. Open and then rocketed back up the world ranking this year with three PGA Tour wins.",
+        "first_seen": "2026-10-01T14:44:10.428854+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6985,58 +6920,6 @@
         "body": "The 2026 Presidents Cup continues on Friday, September 25, with five more matches at Medinah No. 3 in Chicago. Presidents Cup Friday pairings and matchups will be unveiled Thursday evening. Once they are released, they will be reproduced at the bottom of this post. Until then, here’s what we know.\n\nAs with Day 1, Friday’s play at the Presidents Cup will feature five two-on-two team matches. But unlike the first day, foursomes will be the format on Friday. In foursomes, each team plays one ball, with teammates alternating shots and recording one score per hole.",
         "copy": "The 2026 Presidents Cup continues on Friday, September 25, with five more matches at Medinah No. 3 in Chicago. Presidents Cup Friday pairings and matchups will be unveiled Thursday evening. Once they are released, they will be reproduced at the bottom of this post. Until then, here’s what we know.\n\nAs with Day 1, Friday’s play at the Presidents Cup will feature five two-on-two team matches. But unlike the first day, foursomes will be the format on Friday. In foursomes, each team plays one ball, with teammates alternating shots and recording one score per hole.",
         "first_seen": "2026-09-24T21:08:07.579327+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Fred Couples had a hunch. For U.S., it resulted in something special",
-        "link": "https://golf.com/news/fred-couples-hunch-cantlay-schauffele/",
-        "published": "2026-09-24T13:40:28+00:00",
-        "published_label": "Thu 24 Sep, 13:40",
-        "summary": "At the Presidents Cup on Wednesday, Xander Schauffele and Patrick Cantlay explained Fred Couples’ role in their team-event partnership. The post Fred Couples had a hunch. For U.S., it resulted in something special appeared first on Golf .",
-        "body": "One of the first times Xander Schauffele and Patrick Cantlay spent quality time together was over an intense game of gin rummy en route to the 2019 Presidents Cup in Australia. The U.S. team’s 26-hour charter from the Bahamas to Melbourne afforded the Presidents Cup rookies plenty of time to bond, and bond Schauffele and Cantlay did — over sets, runs and exchanging of dollars. The spark between the two players did not escape U.S. team vice-captain Fred Couples.\n\nIn Schauffele and Cantlay, Couples saw more than just budding pals — he saw a budding partnership. “Freddy [was] like, ‘Hey, I think these two guys would be unbelievable together,’” Schauffele said Wednesday from this year’s Presidents Cup at Medinah Country Club outside Chicago. “The way they play, they almost turn into one person when they’re playing alternate shot, which is all you can sort of ask for. And then just the way we interact. Holding each other accountable, but knowing that each of us are trying our absolute hardest on every shot. Just having each other’s back. Freddy sort of orchestrated that, and he was right.”",
-        "copy": "One of the first times Xander Schauffele and Patrick Cantlay spent quality time together was over an intense game of gin rummy en route to the 2019 Presidents Cup in Australia. The U.S. team’s 26-hour charter from the Bahamas to Melbourne afforded the Presidents Cup rookies plenty of time to bond, and bond Schauffele and Cantlay did — over sets, runs and exchanging of dollars. The spark between the two players did not escape U.S. team vice-captain Fred Couples.\n\nIn Schauffele and Cantlay, Couples saw more than just budding pals — he saw a budding partnership. “Freddy [was] like, ‘Hey, I think these two guys would be unbelievable together,’” Schauffele said Wednesday from this year’s Presidents Cup at Medinah Country Club outside Chicago. “The way they play, they almost turn into one person when they’re playing alternate shot, which is all you can sort of ask for. And then just the way we interact. Holding each other accountable, but knowing that each of us are trying our absolute hardest on every shot. Just having each other’s back. Freddy sort of orchestrated that, and he was right.”",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "How to easily execute a longer greenside bunker shot",
-        "link": "https://golf.com/instruction/bunker-shots/easily-hit-longer-greenside-bunker-shot/",
-        "published": "2026-09-24T13:38:03+00:00",
-        "published_label": "Thu 24 Sep, 13:38",
-        "summary": "GOLF Top 100 Teacher Sarah Stone explains the keys to executing a long greenside bunker shot just like the pros do. The post How to easily execute a longer greenside bunker shot appeared first on Golf .",
-        "body": "With the Presidents Cup coming to Medinah Country Club and the recent redesign of the greenside bunkering, we’re likely to see the world’s best players faced with longer, more challenging bunker shots. Most golfers have an easier time mastering a short bunker shot 10-15 yards from the pin, but struggle when they are faced with a longer bunker shot.\n\nThe good news is that these longer bunker shots don’t have to be complicated. You generally have enough distance to launch the ball with some carry without having to hit a high, soft shot like you would on a shorter bunker shot.",
-        "copy": "With the Presidents Cup coming to Medinah Country Club and the recent redesign of the greenside bunkering, we’re likely to see the world’s best players faced with longer, more challenging bunker shots. Most golfers have an easier time mastering a short bunker shot 10-15 yards from the pin, but struggle when they are faced with a longer bunker shot.\n\nThe good news is that these longer bunker shots don’t have to be complicated. You generally have enough distance to launch the ball with some carry without having to hit a high, soft shot like you would on a shorter bunker shot.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Media has made me out to be villain': Major champ hopes to avoid hecklers at Presidents Cup",
-        "link": "https://golf.com/news/major-champ-presidents-cup-hecklers-media-villain/",
-        "published": "2026-09-24T13:08:27+00:00",
-        "published_label": "Thu 24 Sep, 13:08",
-        "summary": "Fans rooted against Wyndham Clark during his 2026 U.S. Open win. Now he's hoping the U.S. fans have his back at the 2026 Presidents Cup. The post ‘Media has made me out to be villain’: Major champ hopes to avoid hecklers at Presidents Cup appeared first on Golf .",
-        "body": "Will the Chicago golf fans be kinder to Wyndham Clark than the Long Island fans were to him in June? That’s one question on the mind of the two-time major champion as the 2026 Presidents Cup gets underway at Medinah.\n\nThis summer, Clark fought through final-round struggles to win the 2026 U.S. Open at Shinnecock Hills. But he didn’t just fight his game in the final round. He also had to contend with unruly fans, many of whom were openly rooting against him as he battled for his second victory in America’s national championship.",
-        "copy": "Will the Chicago golf fans be kinder to Wyndham Clark than the Long Island fans were to him in June? That’s one question on the mind of the two-time major champion as the 2026 Presidents Cup gets underway at Medinah.\n\nThis summer, Clark fought through final-round struggles to win the 2026 U.S. Open at Shinnecock Hills. But he didn’t just fight his game in the final round. He also had to contend with unruly fans, many of whom were openly rooting against him as he battled for his second victory in America’s national championship.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "What’s Next For The Iconic Golf Courses Left In LIV Golf Limbo?",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeTg2ZWZVaGxxdDBhc2pMM3pzaVVXVnRkUmJ6MDF4UWFqdmFMVzZXakhPNjZJaHp0Z3JyNU5lVlF5OFFaTHRDSUtLektyVE84a1V4Qmo1ZzZYOENWWkQ2XzhOb3RqRUFXVzhJSDNMTWVIa0VEVkgyWWgwTS1Ya1p6S0E1NDU?oc=5",
-        "published": "2026-09-24T12:56:54+00:00",
-        "published_label": "Thu 24 Sep, 12:56",
-        "summary": "What’s Next For The Iconic Golf Courses Left In LIV Golf Limbo? Yahoo Sports",
-        "body": "- What’s Next For The Iconic Golf Courses Left In LIV Golf Limbo? LIV Golf is trying to build a route back from bankruptcy, but one of the breakaway league's most prestigious venues is now playing a waiting game.\n\nValderrama has hosted LIV Golf in each of the past four years after leaving the DP World Tour schedule for the Saudi-backed circuit in 2023. The celebrated Andalusian course, which hosted the 1997 Ryder Cup, became one of LIV's most significant venue acquisitions when former chief executive Greg Norman secured it.",
-        "copy": "- What’s Next For The Iconic Golf Courses Left In LIV Golf Limbo? LIV Golf is trying to build a route back from bankruptcy, but one of the breakaway league's most prestigious venues is now playing a waiting game.\n\nValderrama has hosted LIV Golf in each of the past four years after leaving the DP World Tour schedule for the Saudi-backed circuit in 2023. The celebrated Andalusian course, which hosted the 1997 Ryder Cup, became one of LIV's most significant venue acquisitions when former chief executive Greg Norman secured it.",
-        "first_seen": "2026-09-24T16:27:50.569088+00:00"
       }
     ],
     "Badminton": [
@@ -7408,5 +7291,5 @@
       }
     ]
   },
-  "total": 568
+  "total": 559
 }
