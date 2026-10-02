@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T11:50:50.506018+00:00",
-  "generated_label": "Friday 02 October 2026, 11:50 UTC",
+  "generated_at": "2026-10-02T14:01:03.424100+00:00",
+  "generated_label": "Friday 02 October 2026, 14:01 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "RMG renews AV and data rights deals with 33 UK racecourses",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGRpMTlLSldGOWdhc0tRY19tdFNTQVFJbXFhRjliU0E2NWE4eU1LNlJQZTFDWEZ6aVZFVWN5akRNLWVnQjZ6NnRQSVd1V0w3a2s4dDZETVZuU0dRSk5LSzZMeWgyV1hkWDlOUUhRaU96Wm05Q2RTTFh3alJ3YmF1MFM2ejZsQm5Kd0dlbUZWX2E5aFE?oc=5",
+        "published": "2026-10-02T13:20:26+00:00",
+        "published_label": "Fri 02 Oct, 13:20",
+        "summary": "RMG renews AV and data rights deals with 33 UK racecourses Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-02T14:01:03.424100+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -141,6 +154,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-02T11:50:50.506018+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "The Burnham tell",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOalZCekY4eFNMTmdmVll6MVFvMS0wWmxYcndQVjBmLTBPMGw2SEpFR0pJUEJkV3RBUmllbHA5cGtiT2dXd05SWHUybUlCQnNQaWNmbjJ3c1p1a0FZa3F5MVBaeXNOLUhJX1V5SGxzTTRwTHVwRTl6UGo0OWpzcm5SNjNIVzc?oc=5",
+        "published": "2026-10-02T08:30:06+00:00",
+        "published_label": "Fri 02 Oct, 08:30",
+        "summary": "The Burnham tell Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-02T14:01:03.424100+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1688,35 +1714,61 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-25T16:28:05.227320+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Lawyers join microchips on the list of data centre must-haves",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzJTbU1SYTRKYTgwN1FuQTU2RDNFVHF0ellyd1BILW9ici0ycXJUWUFlMEllelFuUUZJYkZKY0dFVG84LUxoREFUdElUU3BRN0pqX25PdVQxeTQ3dVl4QU1nUGRLemNvVG5XbHl0QW9PdWZRS2tYcVJlVzdUWHpkQ2ZETnc?oc=5",
-        "published": "2026-09-25T13:46:21+00:00",
-        "published_label": "Fri 25 Sep, 13:46",
-        "summary": "Lawyers join microchips on the list of data centre must-haves Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-25T21:05:55.562972+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "At Milan Fashion Week, Prada skirts the issue while Vogue World offers robots",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGNhTGNrLTBJQmh2ZzJQZmxjV0taWVQ2LURvUkVIWVBJRGJjLThZTWZMdllwd20xOF9JTk96cm5oakl0eFlYQVo4RVhPTWFkZjRkMWlnVHAyVjZqM0Q4bDJvcTJsamloeWg4WDlWam50T21ZQS1ybFEzRHFsSkVvSUVlbVE?oc=5",
-        "published": "2026-09-25T12:41:45+00:00",
-        "published_label": "Fri 25 Sep, 12:41",
-        "summary": "At Milan Fashion Week, Prada skirts the issue while Vogue World offers robots Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-25T21:05:55.562972+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Gloucester winger Cokanasiga out until January",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwrkymmvrp6jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T12:37:46+00:00",
+        "published_label": "Fri 02 Oct, 12:37",
+        "summary": "Gloucester winger Phil Cokanasiga is ruled out until January after undergoing surgery on a foot injury suffered against Exeter.",
+        "body": "Gloucester winger Phil Cokanasiga has been ruled out until January after undergoing surgery on a foot injury suffered in the win against Exeter. The 25-year-old played the entire 80 minutes of the impressive 45-24 victory at Sandy Park but head coach George Skivington told BBC Radio Gloucestershire - before the extent of the injury was known - that he \"caught his foot\" towards the end of the game.\n\nCokanasiga joined the Cherry and Whites this summer from United Rugby Championship side Ospreys and scored two tries on his debut in the Prem Rugby Cup defeat by Bristol earlier this month.",
+        "copy": "Gloucester winger Phil Cokanasiga has been ruled out until January after undergoing surgery on a foot injury suffered in the win against Exeter. The 25-year-old played the entire 80 minutes of the impressive 45-24 victory at Sandy Park but head coach George Skivington told BBC Radio Gloucestershire - before the extent of the injury was known - that he \"caught his foot\" towards the end of the game.\n\nCokanasiga joined the Cherry and Whites this summer from United Rugby Championship side Ospreys and scored two tries on his debut in the Prem Rugby Cup defeat by Bristol earlier this month.",
+        "first_seen": "2026-10-02T14:01:03.424100+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Friday among trio to extend Harlequins contracts",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5yn88lz7y0o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T12:21:41+00:00",
+        "published_label": "Fri 02 Oct, 12:21",
+        "summary": "England Under-20 internationals Lucas Friday, Elliot Williams and Tate Williams all sign contract extensions with Harlequins.",
+        "body": "England Under-20 internationals Lucas Friday, Elliot Williams and Tate Williams have all signed contract extensions with Harlequins. The Prem club have not disclosed the exact lengths of the new deals signed by the trio but they are described as \"long-term\".\n\nScrum-half Friday, 20, has made 20 first-team appearances for Quins while lock Elliot Williams and back row Tate Williams, both 19, played for the senior side last season. \"They're three young men who have incredibly bright futures ahead of them and all have the capability to contribute to the Harlequins jersey for many years,\" said head coach Jason Gilmore., external",
+        "copy": "England Under-20 internationals Lucas Friday, Elliot Williams and Tate Williams have all signed contract extensions with Harlequins. The Prem club have not disclosed the exact lengths of the new deals signed by the trio but they are described as \"long-term\".\n\nScrum-half Friday, 20, has made 20 first-team appearances for Quins while lock Elliot Williams and back row Tate Williams, both 19, played for the senior side last season. \"They're three young men who have incredibly bright futures ahead of them and all have the capability to contribute to the Harlequins jersey for many years,\" said head coach Jason Gilmore., external",
+        "first_seen": "2026-10-02T14:01:03.424100+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Saracens exile was 'bewildering', says returning Lozowski",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5398kk4zz4jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T12:01:09+00:00",
+        "published_label": "Fri 02 Oct, 12:01",
+        "summary": "Sale centre Alex Lozowski says the end of his decade-long stint at Saracens was an anti-climax after being reduced to a fringe player for his farewell campaign.",
+        "body": "Sale centre Alex Lozowski says the end of his decade-long stint at Saracens was \"sad\" and \"bewildering\" after being reduced to a fringe player for his farewell campaign. The 33-year-old England international made only two Prem appearances for Saracens last season, with a 10-minute Champions Cup cameo off the bench his only game time since the end of February.\n\n\"It was a sad ending for everyone I suppose,\" said Lozowski. \"They finished fifth, which is not where they wanted to be, and I wasn't part of it at all. \"It was probably just a bit of a damp squib at the end of the season really, which was a shame. It was bewildering and peculiar to me.",
+        "copy": "Sale centre Alex Lozowski says the end of his decade-long stint at Saracens was \"sad\" and \"bewildering\" after being reduced to a fringe player for his farewell campaign. The 33-year-old England international made only two Prem appearances for Saracens last season, with a 10-minute Champions Cup cameo off the bench his only game time since the end of February.\n\n\"It was a sad ending for everyone I suppose,\" said Lozowski. \"They finished fifth, which is not where they wanted to be, and I wasn't part of it at all. \"It was probably just a bit of a damp squib at the end of the season really, which was a shame. It was bewildering and peculiar to me.",
+        "first_seen": "2026-10-02T14:01:03.424100+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Recalled loan player goes straight into Leicester's matchday 23",
+        "link": "https://www.rugbypass.com/news/recalled-loan-player-goes-straight-into-leicesters-matchday-23/",
+        "published": "2026-10-02T11:56:51+00:00",
+        "published_label": "Fri 02 Oct, 11:56",
+        "summary": "With Finn Carnduff picking up an injury in last weekend's home defeat to Saracens, Leicester head coach Geoff Parling has recalled giant lock Tom Manz from his season-long loan at Cardiff.",
+        "body": "With Finn Carnduff picking up an injury in last weekend’s home defeat to Saracens, Leicester head coach Geoff Parling has recalled giant lock Tom Manz from his season-long loan at Cardiff.\n\nA lifelong Leicester fan, Manz, who stands 6’8 tall, is now set to make his 25th appearance for the Tigers after being named on the bench for Saturday’s trip to Parling’s former club Newcastle.",
+        "copy": "With Finn Carnduff picking up an injury in last weekend’s home defeat to Saracens, Leicester head coach Geoff Parling has recalled giant lock Tom Manz from his season-long loan at Cardiff.\n\nA lifelong Leicester fan, Manz, who stands 6’8 tall, is now set to make his 25th appearance for the Tigers after being named on the bench for Saturday’s trip to Parling’s former club Newcastle.",
+        "first_seen": "2026-10-02T14:01:03.424100+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4797,110 +4849,6 @@
         "body": "Driving home from training a couple of weeks ago, after learning that she had been selected to play for England for the first time, Bryony Field’s mind was understandably all over the place when she ended up in a relatable situation.\n\n“I actually crashed my car on the way home,” Field explains. “Obviously I was buzzing, and my mind was a little bit aloof. And on the M25 I rammed into the back of someone. I got home from camp that day and I thought, ‘what on earth has just happened?’”",
         "copy": "Driving home from training a couple of weeks ago, after learning that she had been selected to play for England for the first time, Bryony Field’s mind was understandably all over the place when she ended up in a relatable situation.\n\n“I actually crashed my car on the way home,” Field explains. “Obviously I was buzzing, and my mind was a little bit aloof. And on the M25 I rammed into the back of someone. I got home from camp that day and I thought, ‘what on earth has just happened?’”",
         "first_seen": "2026-09-25T16:28:05.227320+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "‘He has an aura’: Why Shaun Edwards joined the Red Roses",
-        "link": "https://www.rugbypass.com/news/he-has-an-aura-why-shaun-edwards-joined-the-red-roses/",
-        "published": "2026-09-25T14:00:53+00:00",
-        "published_label": "Fri 25 Sep, 14:00",
-        "summary": "Shaun Edwards' arrival in Red Roses camp had been several weeks in the making.",
-        "body": "Shaun Edwards’ arrival in Red Roses camp had been several weeks in the making. Freshly released from his commitments with France after six years working with Fabien Galthie’s team – a stint that yielded a Guinness Six Nations Grand Slam and back-to-back Championship victories – the 59-year-old was a free agent for the first time in over four decades.\n\nThose Six Nations successes only scratch the surface of Edwards’ career. As a player he captained Wigan Warriors in their most famous era and as a coach enjoyed domestic and European success with Wasps, before a 12-year stay as Wales defence coach. Given that pedigree, you would have to think he had plenty of suitors.",
-        "copy": "Shaun Edwards’ arrival in Red Roses camp had been several weeks in the making. Freshly released from his commitments with France after six years working with Fabien Galthie’s team – a stint that yielded a Guinness Six Nations Grand Slam and back-to-back Championship victories – the 59-year-old was a free agent for the first time in over four decades.\n\nThose Six Nations successes only scratch the surface of Edwards’ career. As a player he captained Wigan Warriors in their most famous era and as a coach enjoyed domestic and European success with Wasps, before a 12-year stay as Wales defence coach. Given that pedigree, you would have to think he had plenty of suitors.",
-        "first_seen": "2026-09-25T16:28:05.227320+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "R360 rebel series given ultimatum on overdue accounts",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wyzqy8gq1ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T13:41:48+00:00",
-        "published_label": "Fri 25 Sep, 13:41",
-        "summary": "The company behind R360, the controversial all-star rugby start-up, has been ordered to publish overdue accounts or face being dissolved.",
-        "body": "The company behind R360, the controversial all-star rugby start-up, has been ordered to publish overdue accounts or face being dissolved. R360 originally had a launch date of October 2026, but has postponed its inaugural edition until 2028 after a concerted move against it by eight leading Test nations and the British and Irish Lions.\n\nAOTG Sport was scheduled to file accounts with Companies House in July, covering a period up to the end of December 2025. Earlier this week, it was served with a strike-off notice,, external giving two months to hand over the overdue paperwork or be put out of business.",
-        "copy": "The company behind R360, the controversial all-star rugby start-up, has been ordered to publish overdue accounts or face being dissolved. R360 originally had a launch date of October 2026, but has postponed its inaugural edition until 2028 after a concerted move against it by eight leading Test nations and the British and Irish Lions.\n\nAOTG Sport was scheduled to file accounts with Companies House in July, covering a period up to the end of December 2025. Earlier this week, it was served with a strike-off notice,, external giving two months to hand over the overdue paperwork or be put out of business.",
-        "first_seen": "2026-09-25T16:28:05.227320+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Freda Tafuna: 'It's crazy, I was supposed to stop playing'",
-        "link": "https://www.rugbypass.com/news/freda-tafuna-its-crazy-i-was-supposed-to-stop-playing/",
-        "published": "2026-09-25T13:00:13+00:00",
-        "published_label": "Fri 25 Sep, 13:00",
-        "summary": "Freda Tafuna scored the winning try against Ireland last Saturday but that almost never came to pass as the USA Women's Eagles international almost retired from the game after Pacific Four Series 2026 competition.",
-        "body": "Freda Tafuna scored the winning try against Ireland last Saturday but that almost never came to pass as the USA Women’s Eagles international almost retired from the game after Pacific Four Series 2026 competition.\n\nIf it were not for the USA head coach Jack Hanratty, Tafuna would have hung up her boots because during Women’s Rugby World Cup 2025 she was the most “drained physically and mentally” she had ever been.",
-        "copy": "Freda Tafuna scored the winning try against Ireland last Saturday but that almost never came to pass as the USA Women’s Eagles international almost retired from the game after Pacific Four Series 2026 competition.\n\nIf it were not for the USA head coach Jack Hanratty, Tafuna would have hung up her boots because during Women’s Rugby World Cup 2025 she was the most “drained physically and mentally” she had ever been.",
-        "first_seen": "2026-09-25T16:28:05.227320+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Injury rules Ireland's Wafer out of Japan game",
-        "link": "https://www.bbc.co.uk/sport/articles/cm17j14zyy7yo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T12:34:07+00:00",
-        "published_label": "Fri 25 Sep, 12:34",
-        "summary": "Ireland back row Aoife Wafer is ruled out of the WXV Global Series encounter against Japan on Sunday because of injury.",
-        "body": "Ireland back row Aoife Wafer has been ruled out of the WXV Global Series encounter against Japan on Sunday because of injury. Wafer is sidelined for the Galway game after sustaining a minor injury in training.\n\nIreland head coach Scott Bemand has made six changes following the shock 40-36 defeat by the USA in the series opener last weekend. Connacht's Beibhinn Parsons, Anna McGann and Aoibheann Reilly come into the backline, while Eilís Cahill earns her first Ireland start in the front row.",
-        "copy": "Ireland back row Aoife Wafer has been ruled out of the WXV Global Series encounter against Japan on Sunday because of injury. Wafer is sidelined for the Galway game after sustaining a minor injury in training.\n\nIreland head coach Scott Bemand has made six changes following the shock 40-36 defeat by the USA in the series opener last weekend. Connacht's Beibhinn Parsons, Anna McGann and Aoibheann Reilly come into the backline, while Eilís Cahill earns her first Ireland start in the front row.",
-        "first_seen": "2026-09-25T12:53:30.357638+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Ireland make six changes for Japan clash as Aoife Wafer ruled out",
-        "link": "https://www.rugbypass.com/news/ireland-make-six-changes-for-japan-clash-as-aoife-wafer-ruled-out/",
-        "published": "2026-09-25T12:17:02+00:00",
-        "published_label": "Fri 25 Sep, 12:17",
-        "summary": "Ireland will be without Aoife Wafer as Scott Bemand makes six changes to his starting XV for Sunday's clash with Japan at Dexcom Stadium, with his side looking to return to winning ways.",
-        "body": "Ireland will be without Aoife Wafer as Scott Bemand makes six changes to his starting XV for Sunday’s clash with Japan at Dexcom Stadium, with his side looking to return to winning ways.\n\nFollowing their opening WXV Global Series loss to the USA Women’s Eagles, Ireland will also be without two-time Guinness Women’s Six Nations Player of the Championship Wafer, who suffered a minor injury in training.",
-        "copy": "Ireland will be without Aoife Wafer as Scott Bemand makes six changes to his starting XV for Sunday’s clash with Japan at Dexcom Stadium, with his side looking to return to winning ways.\n\nFollowing their opening WXV Global Series loss to the USA Women’s Eagles, Ireland will also be without two-time Guinness Women’s Six Nations Player of the Championship Wafer, who suffered a minor injury in training.",
-        "first_seen": "2026-09-25T12:53:30.357638+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Hooker Elias celebrates 200 not out for Scarlets",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2mgmp8gvro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T12:05:29+00:00",
-        "published_label": "Fri 25 Sep, 12:05",
-        "summary": "Wales hooker Ryan Elias thinks his best is yet to come as he makes his 200th Scarlets appearance in Saturday's URC opener against Cardiff.",
-        "body": "It has been a year of milestones for Scarlets and Wales hooker Ryan Elias. First, there was winning his 50th international cap against Argentina in San Juan in July, coming off the bench in the 35-21 defeat.\n\nNow this weekend, Elias will become a member of the Scarlets' exclusive 200 club when he leads the side out against Cardiff in the United Rugby Championship (URC) opener in Llanelli on Saturday (19:45 BST).",
-        "copy": "It has been a year of milestones for Scarlets and Wales hooker Ryan Elias. First, there was winning his 50th international cap against Argentina in San Juan in July, coming off the bench in the 35-21 defeat.\n\nNow this weekend, Elias will become a member of the Scarlets' exclusive 200 club when he leads the side out against Cardiff in the United Rugby Championship (URC) opener in Llanelli on Saturday (19:45 BST).",
-        "first_seen": "2026-09-25T16:28:05.227320+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Justine Pelletier column: 'I understand why we had to kick the ball out'",
-        "link": "https://www.rugbypass.com/news/justine-pelletier-column-i-understand-why-we-had-to-kick-the-ball-out/",
-        "published": "2026-09-25T12:00:52+00:00",
-        "published_label": "Fri 25 Sep, 12:00",
-        "summary": "I should probably answer the question everyone is wondering. Yes, I thought we could beat the Red Roses.",
-        "body": "I should probably answer the question everyone is wondering. Yes, I thought we could beat the Red Roses. But I also understand why we had to kick the ball out. It had been 20 minutes of defending, which, as it happens, preceded my time on the pitch at Sandy Park. Sometimes a draw is a good enough ending for what we are trying to do and where we are trying to go. It felt like a good fight. The score was going back and forth between us leading to an undefined winner. I think we showed great dominance in that game.\n\nDaLeaka Menin was absolutely relentless. You do not often see a prop go from start to finish. It was little wonder that she got Player of the Match and then Player of the Week.",
-        "copy": "I should probably answer the question everyone is wondering. Yes, I thought we could beat the Red Roses. But I also understand why we had to kick the ball out. It had been 20 minutes of defending, which, as it happens, preceded my time on the pitch at Sandy Park. Sometimes a draw is a good enough ending for what we are trying to do and where we are trying to go. It felt like a good fight. The score was going back and forth between us leading to an undefined winner. I think we showed great dominance in that game.\n\nDaLeaka Menin was absolutely relentless. You do not often see a prop go from start to finish. It was little wonder that she got Player of the Match and then Player of the Week.",
-        "first_seen": "2026-09-25T12:53:30.357638+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Bristol medical update: Ravouvou injury worse than first feared",
-        "link": "https://www.rugbypass.com/news/bristol-medical-update-ravouvou-injury-worse-than-first-feared/",
-        "published": "2026-09-25T11:55:29+00:00",
-        "published_label": "Fri 25 Sep, 11:55",
-        "summary": "Ravouvou sustained a multi-ligament injury whilst playing for Fiji against Canada at the Pacific Nations Cup in Japan and the club say the 94kg powerhouse is \"expected to be available after the Autumn.\"",
-        "body": "Ahead of the start of the new Gallagher PREM season, Bristol Bears have issued their latest medical bulletin, which includes a downbeat update on injured winger Kalaveti Ravouvou.\n\nRavouvou sustained a multi-ligament injury whilst playing for Fiji against Canada at the Pacific Nations Cup in Japan and the club say the 94kg powerhouse is “expected to be available after the Autumn.”",
-        "copy": "Ahead of the start of the new Gallagher PREM season, Bristol Bears have issued their latest medical bulletin, which includes a downbeat update on injured winger Kalaveti Ravouvou.\n\nRavouvou sustained a multi-ligament injury whilst playing for Fiji against Canada at the Pacific Nations Cup in Japan and the club say the 94kg powerhouse is “expected to be available after the Autumn.”",
-        "first_seen": "2026-09-25T12:53:30.357638+00:00"
       }
     ],
     "Tennis": [
@@ -5293,48 +5241,48 @@
         "body": "Find out all you need to know as 12 of the world's best men's players compete in the annual Europe vs 'Rest of the World' Laver Cup showdown, live on Sky Sports September 25-27.\n\nEarlier this year, Sky Sports agreed a deal with Trident8 to show all three days of the Laver Cup from London's O2 Arena this month. Here's everything you need to know about tennis' exciting team event...",
         "copy": "Find out all you need to know as 12 of the world's best men's players compete in the annual Europe vs 'Rest of the World' Laver Cup showdown, live on Sky Sports September 25-27.\n\nEarlier this year, Sky Sports agreed a deal with Trident8 to show all three days of the Laver Cup from London's O2 Arena this month. Here's everything you need to know about tennis' exciting team event...",
         "first_seen": "2026-09-25T16:28:05.227320+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Andy Murray states when Jack Draper plans to return to tennis and discusses if he will play the Australian Open",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sUTVSWk95TEtsY0NZdFlLeHRtWDNZRTlFTXFwM05ySTBQV0xoQVNhV0xHNHNGM1hpWEdKamFnRXdxNlFOX0dNRHhJVzExdjBDbXc4?oc=5",
-        "published": "2026-09-25T14:00:45+00:00",
-        "published_label": "Fri 25 Sep, 14:00",
-        "summary": "Andy Murray states when Jack Draper plans to return to tennis and discusses if he will play the Australian Open شبكة تواصل الإخبارية",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-09-26T10:47:18.335682+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Andy Murray states when Jack Draper plans to return to tennis and discusses if he will play the Australian Open",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUlHQ2RQLS1HaVdMQXNvMjJPcTlRNk8yTENZU1hYU1BYZTdaZkJ6TF9PcUN4TmFVbVJLOElHVlF1bjI5YXEwdXktVmhJczVyUnN0TXd5eGlIUHdUMWxTU3lYSVBHbVRERVZWM1B1VkswNnJYanpLUXc3TmtNUmlmU3pUSEwtZWptOFVMYTd5RFJvQzNfRHVJOVRzR28wUlVyTnNHQ1JEWDFLLTI4a2g0ZWdGcGUyekdjNzZVY05Rb2l1OU8wSWo0RHQxTjNlcHBw?oc=5",
-        "published": "2026-09-25T14:00:00+00:00",
-        "published_label": "Fri 25 Sep, 14:00",
-        "summary": "Andy Murray states when Jack Draper plans to return to tennis and discusses if he will play the Australian Open Tennishead",
-        "body": "Jack Draper played his final match of the season at the Cincinnati Open 43 days ago. The former world number four played only 15 matches this year, as injuries continued to halt his progress. Draper said he needed time to ‘reset and heal’ when he announced the early end to his season.\n\nBritish tennis legend Andy Murray joined Draper’s team ahead of the grass-court season and helped him achieve his best result of the year at Eastbourne (Semi-finalist). Murray has now issued an update on Draper’s return plans and discussed the prospect of him playing the Australian Open in January.",
-        "copy": "Jack Draper played his final match of the season at the Cincinnati Open 43 days ago. The former world number four played only 15 matches this year, as injuries continued to halt his progress. Draper said he needed time to ‘reset and heal’ when he announced the early end to his season.\n\nBritish tennis legend Andy Murray joined Draper’s team ahead of the grass-court season and helped him achieve his best result of the year at Eastbourne (Semi-finalist). Murray has now issued an update on Draper’s return plans and discussed the prospect of him playing the Australian Open in January.",
-        "first_seen": "2026-09-25T16:28:05.227320+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Jannik Sinner: World No 1 withdraws from China Open with knee ‌injury that also forced him to miss US Open",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeWliNTlkYUNfQjBnV19VMjd2eUxRdVI2MzVtZDY5eXg4TDZZeVVPZ3dudEY5UXVTRDAxU0pSRk1EdGJsaThwaVFwMGJvcG1KQ1lYQVpaWGI5LW1iS0ZPdTczejItZ0U2WWp5YzZUVjY4azNGOTJzSlh2d3R5dUNtZ2RhazNZZzQyNEE3a0xUcjlIWW9pMlM3eHc2bVdVSExnMl9ULWo3MWJ4SmMxTHhVNHJuTldUbnRpc0tpQTRLQUkwaFBnUVdVTUJ6RVV5a1htZVE2MlY1TDZwR3RFemdVR1hhc0NGQQ?oc=5",
-        "published": "2026-09-25T13:06:58+00:00",
-        "published_label": "Fri 25 Sep, 13:06",
-        "summary": "Jannik Sinner: World No 1 withdraws from China Open with knee ‌injury that also forced him to miss US Open Sky Sports",
-        "body": "World No 1 Jannik Sinner has withdrawn from the China Open, saying he is not yet ready to compete as he continues to recover from the knee injury that also forced him to miss the US Open.\n\nThe Italian has not played a match since winning his second successive Wimbledon title in July. Sinner skipped the Canadian Open and withdrew from the Cincinnati Open, two key hard-court tune-up events, before also pulling out of the US Open.",
-        "copy": "World No 1 Jannik Sinner has withdrawn from the China Open, saying he is not yet ready to compete as he continues to recover from the knee injury that also forced him to miss the US Open.\n\nThe Italian has not played a match since winning his second successive Wimbledon title in July. Sinner skipped the Canadian Open and withdrew from the Cincinnati Open, two key hard-court tune-up events, before also pulling out of the US Open.",
-        "first_seen": "2026-09-25T16:28:05.227320+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Here's how much prize money EVERY player earned on LIV Golf",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3RBbVFKX2k2ZE56bUZoNXRjLWVaa2ZfTGwyWk5MRVlmd3o0aTRjT2JROVBwbmhkdExBQmh1UHBBQmxjbGtwRHJqbTlSeHlwaWh3ZjZxVDF3T2kwSXBEMUZpVTJYMmxCUlpMNWJ1d1ZZQkN0Tm9fdnl1X1NObTJsTXpxdWRPbGRHT05YaHA5dWRrZklHWHY1UE5kZG9CZndycU84SA?oc=5",
+        "published": "2026-10-02T13:40:31+00:00",
+        "published_label": "Fri 02 Oct, 13:40",
+        "summary": "Here's how much prize money EVERY player earned on LIV Golf Today's Golfer",
+        "body": "One hundred and ten golfers played at least one event in LIV Golf’s five-year history. Alex Perry pushed his calculator to the limit to work out exactly how much each earned, and the league’s total prize money outgoings. Spoiler: it was more than you can comprehend.\n\nLIV Golf, as we know it, is dead. With Saudi Arabia’s Public Investment Fund pulling the financial plug, the league’s bosses are scrambling to finance a sixth season and a first of what they’re calling the LIV 2.0 era.",
+        "copy": "One hundred and ten golfers played at least one event in LIV Golf’s five-year history. Alex Perry pushed his calculator to the limit to work out exactly how much each earned, and the league’s total prize money outgoings. Spoiler: it was more than you can comprehend.\n\nLIV Golf, as we know it, is dead. With Saudi Arabia’s Public Investment Fund pulling the financial plug, the league’s bosses are scrambling to finance a sixth season and a first of what they’re calling the LIV 2.0 era.",
+        "first_seen": "2026-10-02T14:01:03.424100+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Tom Kim charges into lead in bid to avoid military service",
+        "link": "https://golf.com/news/tom-kim-charges-lead-bid-avoid-military-service/",
+        "published": "2026-10-02T13:30:08+00:00",
+        "published_label": "Fri 02 Oct, 13:30",
+        "summary": "PGA Tour pro Tom Kim needs to win gold at the 2026 Asian Games to avoid mandatory military service. With 18 holes to go, he's in the lead. The post Tom Kim charges into lead in bid to avoid military service appeared first on Golf .",
+        "body": "Shortly after his singles match ended last Sunday at the 2026 Presidents Cup, Tom Kim quickly got on a plane to Japan. That the Presidents Cup hadn’t officially ended didn’t matter to him.\n\nAwaiting Kim at Japan’s Kasugai Country Club was what could very well be the most important tournament of his entire career: the 2026 Asian Games. Why is the event so crucial for Kim, who already has four PGA Tour wins on his resume? Because if he or his South Korean team finish with the gold medal this week, Kim will be exempted from nearly two years of mandatory military service.",
+        "copy": "Shortly after his singles match ended last Sunday at the 2026 Presidents Cup, Tom Kim quickly got on a plane to Japan. That the Presidents Cup hadn’t officially ended didn’t matter to him.\n\nAwaiting Kim at Japan’s Kasugai Country Club was what could very well be the most important tournament of his entire career: the 2026 Asian Games. Why is the event so crucial for Kim, who already has four PGA Tour wins on his resume? Because if he or his South Korean team finish with the gold medal this week, Kim will be exempted from nearly two years of mandatory military service.",
+        "first_seen": "2026-10-02T14:01:03.424100+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'It drives me insane': Tour winner blames TV drone for 'bad shot' at St. Andrews event",
+        "link": "https://golf.com/news/tour-winner-blames-tv-drone-bad-shot-st-andrews/",
+        "published": "2026-10-02T12:32:14+00:00",
+        "published_label": "Fri 02 Oct, 12:32",
+        "summary": "Two-time PGA Tour winner Robert MacIntyre said TV drones drove him \"insane\" and caused a \"bad shot\" at the Alfred Dunhill Links Championship. The post ‘It drives me insane’: Tour winner blames TV drone for ‘bad shot’ at St. Andrews event appeared first on Golf .",
+        "body": "Technology has been encroaching on the golf world for years. Even two of the oldest and most revered courses in the world have been impacted by the digital age. At least that was the case on Thursday at the 2026 Alfred Dunhill Links Championship, the annual DP World Tour event played at the Old Course at St. Andrews, Carnoustie and Kingsbarns.\n\nIt was at Carnoustie, host of eight Open Championships, that one widespread piece of modern technology ticked off one of the top pro golfers in the world. The technological device in question was a TV drone, and the golfer in question was Scotland’s own Robert MacIntyre.",
+        "copy": "Technology has been encroaching on the golf world for years. Even two of the oldest and most revered courses in the world have been impacted by the digital age. At least that was the case on Thursday at the 2026 Alfred Dunhill Links Championship, the annual DP World Tour event played at the Old Course at St. Andrews, Carnoustie and Kingsbarns.\n\nIt was at Carnoustie, host of eight Open Championships, that one widespread piece of modern technology ticked off one of the top pro golfers in the world. The technological device in question was a TV drone, and the golfer in question was Scotland’s own Robert MacIntyre.",
+        "first_seen": "2026-10-02T14:01:03.424100+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6907,19 +6855,6 @@
         "body": "Sometimes that pesky day job gets in the way of a day on the golf course. This is true for us and also professional tennis players — although for us it’s rarely at Augusta National.\n\nJack Sock, the former pro tennis player, was the guest on this week’s GOLF Subpar podcast. Sock, who retired in 2023, was a two-time Olympic medalist and also a four-time grand slam champion, and he’s also a pro pickleball player and a 1 handicap on the golf course.",
         "copy": "Sometimes that pesky day job gets in the way of a day on the golf course. This is true for us and also professional tennis players — although for us it’s rarely at Augusta National.\n\nJack Sock, the former pro tennis player, was the guest on this week’s GOLF Subpar podcast. Sock, who retired in 2023, was a two-time Olympic medalist and also a four-time grand slam champion, and he’s also a pro pickleball player and a 1 handicap on the golf course.",
         "first_seen": "2026-09-25T21:05:55.562972+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Presidents Cup 2026: Sam Burns got a good chuckle out of this fan's Bryson DeChambeau dig",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2JoMEFpajh4SjJtWlk2TzRISHVfbjg2X2wwTnB3MGxwQUdpUjhkMjRvM3VLWDZNUTJOSzRiQTJpMUJqMlVQWm1UcGVqOEtKbDNTd0ZwTkY5blFnLV9QZUlpX2Q1Zzdtdzd4WTd0VjJkTWtiNEVpT1lUNUo1elIydm9jN3VmRmJ2V2tRdW9vZlFkNWZsb0FoS2twM3JUMVZrMFhGb18yM0NUOTNfbUJMTmhBLVlUUWswbzVEbA?oc=5",
-        "published": "2026-09-25T13:02:57+00:00",
-        "published_label": "Fri 25 Sep, 13:02",
-        "summary": "Presidents Cup 2026: Sam Burns got a good chuckle out of this fan's Bryson DeChambeau dig Golf Digest",
-        "body": "Bryson DeChambeau isn't at the Presidents Cup this week as he releases his latest batch of social content from his home. But one fan at Medinah mentioned the two-time U.S. Open champ—and got a good chuckle out of Sam Burns in the process.\n\nWith Burns facing a shot from the rough during the opening match of the event, one spectator made a crack about the decent lie the American drew. While randomly daggering DeChambeau over his controversial penalty from this year's Open Championship.",
-        "copy": "Bryson DeChambeau isn't at the Presidents Cup this week as he releases his latest batch of social content from his home. But one fan at Medinah mentioned the two-time U.S. Open champ—and got a good chuckle out of Sam Burns in the process.\n\nWith Burns facing a shot from the rough during the opening match of the event, one spectator made a crack about the decent lie the American drew. While randomly daggering DeChambeau over his controversial penalty from this year's Open Championship.",
-        "first_seen": "2026-09-25T16:28:05.227320+00:00"
       }
     ],
     "Badminton": [
@@ -7260,19 +7195,6 @@
         "body": "A couple of days after leading India to a bronze medal finish in the men’s team event of the Asian Games, defending champions Satwiksairaj Rankireddy and Chirag Shetty were stunned in the opening round of the individual event.\n\nThe world No.5 duo started well against world No.36 Peeratchai Sukphun/Pakkapon Teeraratsakul, taking the first game, but the Thais kept a narrow lead through most of the second and then steadily gained on the Indians to record a massive upset at 12-21 21-19 21-14.",
         "copy": "A couple of days after leading India to a bronze medal finish in the men’s team event of the Asian Games, defending champions Satwiksairaj Rankireddy and Chirag Shetty were stunned in the opening round of the individual event.\n\nThe world No.5 duo started well against world No.36 Peeratchai Sukphun/Pakkapon Teeraratsakul, taking the first game, but the Thais kept a narrow lead through most of the second and then steadily gained on the Indians to record a massive upset at 12-21 21-19 21-14.",
         "first_seen": "2026-09-25T21:05:55.562972+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Asian Games Aichi-Nagoya 2026: All artistic gymnastics results and medallists live",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0tnbFhHeEZiQnJ4Q0NoNWNwRllWZDNETjZhUmNwV0xCVnU3MEl2TTQ0cF9HQnU2cWRUZ0VFcnNrZi1wcl8zbHRPLW1kcVVuV2NvdFpOWXZpS3R4MjZvYUw5Tkg3Z2Y4Yi1yRHVXVHh2MkpEdWV1RllxdV9STXNWc1ZPSmRhaVJrZjdLYWhtOVZEOVZqbmdJ?oc=5",
-        "published": "2026-09-25T13:01:00+00:00",
-        "published_label": "Fri 25 Sep, 13:01",
-        "summary": "Asian Games Aichi-Nagoya 2026: All artistic gymnastics results and medallists live olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-25T16:28:05.227320+00:00"
       }
     ],
     "Competitor News": [
@@ -7304,5 +7226,5 @@
       }
     ]
   },
-  "total": 560
+  "total": 554
 }
