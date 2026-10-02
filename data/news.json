@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T17:24:59.563567+00:00",
-  "generated_label": "Friday 02 October 2026, 17:24 UTC",
+  "generated_at": "2026-10-02T21:48:35.947968+00:00",
+  "generated_label": "Friday 02 October 2026, 21:48 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -245,6 +245,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-02T11:50:50.506018+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Branching out: Audemars Piguet adds Royal Oak jewellery line to court female buyers",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wTm1CbmxMbTB3TllTVUU1VDdLVnRDNU92c29qWjdXbWhhTmlwaDJ2c3NHS1g0QmVJeUlCRTJvN1R3SG12N3BuNlZ4Q1RHUmZFOGpBMHVwZzNmSXFiZ3R6V1JGSFhhc2xpc3Jkc3Zydmg?oc=5",
+        "published": "2026-10-01T22:02:10+00:00",
+        "published_label": "Thu 01 Oct, 22:02",
+        "summary": "Branching out: Audemars Piguet adds Royal Oak jewellery line to court female buyers ft.com",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1649,35 +1662,87 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-27T16:21:35.452565+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Blackstone’s top private equity executive prepares exit for possible public service move",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEctcnRqZ3Z3djR6Tm9QbnZvc0M4V0RzQ1NWRGJRelJ0MTJQNzVJaU04eUVmUUJpWVlxYW9zMnoyV2o5eC1Td0tRaS0xRHkzRUhXZ1NxLTZQWUFKU3RnVEcxQ09JWUNxLVltQ1hhTks5Y2pCMjFYQTlaSncwUlNRUm82WDQ?oc=5",
-        "published": "2026-09-25T20:10:36+00:00",
-        "published_label": "Fri 25 Sep, 20:10",
-        "summary": "Blackstone’s top private equity executive prepares exit for possible public service move ft.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-26T10:47:18.335682+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Tony Blair’s think-tank offers political access to $25,000-a-year corporate members",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWkyQWVycHlDUVBzNERUekJEeVJSX01KX2dWc2hlM2JPUFJHNHBZZHE2RU8wVkk4ZjdKSUd4dEJLVHZ6c29ZNkVCVnlyaEZXcVN5cWp1Y2tLRW9mTnBqTHFkTy14Q2h0QTBzNmhZTlhzQVFZYXBURTVtMXBxckgtRWVFdUM?oc=5",
-        "published": "2026-09-25T19:00:09+00:00",
-        "published_label": "Fri 25 Sep, 19:00",
-        "summary": "Tony Blair’s think-tank offers political access to $25,000-a-year corporate members Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-27T16:21:35.452565+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Bath gain revenge on Exeter to win 11-try thriller",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8r4vg227kvzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T21:14:42+00:00",
+        "published_label": "Fri 02 Oct, 21:14",
+        "summary": "After losing to Exeter at home in the Prem semi-final last season, Bath beat the Chiefs 40-34 in another thriller.",
+        "body": "Bath made it two wins out of two in the new Prem season as they gained a degree of revenge for losing to Exeter Chiefs in last season's semi-final. The two sides produced another thrilling game, just as they did three months ago, exchanging 11 tries as the all-out attack approach to the new season continued.\n\nThe hosts scored four tries to have a bonus point in the bag by the break as Cameron Redpath, Bernard van der Linde, Dan du Preez and Finn Russell all scored to put them 26-10 ahead.",
+        "copy": "Bath made it two wins out of two in the new Prem season as they gained a degree of revenge for losing to Exeter Chiefs in last season's semi-final. The two sides produced another thrilling game, just as they did three months ago, exchanging 11 tries as the all-out attack approach to the new season continued.\n\nThe hosts scored four tries to have a bonus point in the bag by the break as Cameron Redpath, Bernard van der Linde, Dan du Preez and Finn Russell all scored to put them 26-10 ahead.",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Connacht feels the Ciaran Frawley effect as Rory McHaffie flips script on Stormers",
+        "link": "https://www.rugbypass.com/news/urc-reports/",
+        "published": "2026-10-02T21:04:52+00:00",
+        "published_label": "Fri 02 Oct, 21:04",
+        "summary": "Debutant Ciaran Frawley’s 77th-minute try helped Connacht open their account in the new United Rugby Championship with a 22-19 victory at Benetton.",
+        "body": "Debutant Ciaran Frawley’s 77th-minute try helped Connacht open their account in the new United Rugby Championship with a 22-19 victory at Benetton. After the Irish outfit lost at home to Stormers last weekend, Stuart Lancaster’s side were heading for another defeat with Benetton able to open up a narrow two-point lead thanks to Bautista Bernasconi’s score early in the second half.\n\nHowever, Frawley followed up a fine first try for the club with a slick finish after an excellent team move to spark jubilant scenes in Italy after a last-gasp win. Only five minutes were on the clock in Treviso when Cian Prendergast put Connacht ahead, but it sparked a frantic opening 40.",
+        "copy": "Debutant Ciaran Frawley’s 77th-minute try helped Connacht open their account in the new United Rugby Championship with a 22-19 victory at Benetton. After the Irish outfit lost at home to Stormers last weekend, Stuart Lancaster’s side were heading for another defeat with Benetton able to open up a narrow two-point lead thanks to Bautista Bernasconi’s score early in the second half.\n\nHowever, Frawley followed up a fine first try for the club with a slick finish after an excellent team move to spark jubilant scenes in Italy after a last-gasp win. Only five minutes were on the clock in Treviso when Cian Prendergast put Connacht ahead, but it sparked a frantic opening 40.",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Bath climb to top of table despite Feyi-Waboso's best efforts",
+        "link": "https://www.rugbypass.com/news/bath-climb-to-top-of-table-after-claiming-derby-honours-over-exeter/",
+        "published": "2026-10-02T20:58:04+00:00",
+        "published_label": "Fri 02 Oct, 20:58",
+        "summary": "Bath beat Exeter Chiefs 40-34 in a pulsating West Country derby at the Rec to take them to the top of the Gallagher Prem table but they were made to fight all the way in an 11-try thriller.",
+        "body": "Bath beat Exeter Chiefs 40-34 in a pulsating West Country derby at the Rec to take them to the top of the Gallagher Prem table but they were made to fight all the way in an 11-try thriller.\n\nExeter trailed 26-10 at the interval but rallied to lead 33-31 midway through the second half before a yellow card for scrum-half Stephen Varney eventually proved decisive. Cam Redpath, Dan du Preez, Bernard van der Linde, Ted Hill and Finn Russell scored Bath’s tries. There was also a penalty try award with Russell converting four.",
+        "copy": "Bath beat Exeter Chiefs 40-34 in a pulsating West Country derby at the Rec to take them to the top of the Gallagher Prem table but they were made to fight all the way in an 11-try thriller.\n\nExeter trailed 26-10 at the interval but rallied to lead 33-31 midway through the second half before a yellow card for scrum-half Stephen Varney eventually proved decisive. Cam Redpath, Dan du Preez, Bernard van der Linde, Ted Hill and Finn Russell scored Bath’s tries. There was also a penalty try award with Russell converting four.",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "McHaffie the hero as Edinburgh sink Stormers",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmpdgllgeng7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T20:50:58+00:00",
+        "published_label": "Fri 02 Oct, 20:50",
+        "summary": "Edinburgh made it two wins from two in the United Rugby Championship with a gritty 17-13 home success against Stormers.",
+        "body": "Edinburgh made it two wins from two at the start of the United Rugby Championship season with a gritty success against Stormers at Hive Stadium. The hosts were looking to continue the early-season momentum built with a superb bonus-point win away to Ulster last weekend.\n\nSouth Africa captain Siya Kolisi was making his first appearance in a Stormers shirt in over five years, but it was Edinburgh who struck first with a long-range James Grayson penalty.",
+        "copy": "Edinburgh made it two wins from two at the start of the United Rugby Championship season with a gritty success against Stormers at Hive Stadium. The hosts were looking to continue the early-season momentum built with a superb bonus-point win away to Ulster last weekend.\n\nSouth Africa captain Siya Kolisi was making his first appearance in a Stormers shirt in over five years, but it was Edinburgh who struck first with a long-range James Grayson penalty.",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Cardiff seal bonus-point victory against Zebre",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cxm23n4py5z6o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T20:41:36+00:00",
+        "published_label": "Fri 02 Oct, 20:41",
+        "summary": "Cardiff continue their promising start to the United Rugby Championship (URC) with a six-try 40-27 home victory against Zebre.",
+        "body": "Cardiff continued their promising start to the United Rugby Championship (URC) campaign with a six-try home victory against Zebre. Wing Tom Bowen crossed for two tries, with further scores from lock Teddy Williams, prop Javan Sebastian, number eight Taine Basham and flanker Alex Mann as Cardiff followed up their opening weekend victory against Scarlets.\n\nCardiff led 40-8 halfway through the second half but allowed Zebre, who lost 47-13 to Bulls in the opening round, back into the game as the Italian side scored three tries in the final 21 minutes.",
+        "copy": "Cardiff continued their promising start to the United Rugby Championship (URC) campaign with a six-try home victory against Zebre. Wing Tom Bowen crossed for two tries, with further scores from lock Teddy Williams, prop Javan Sebastian, number eight Taine Basham and flanker Alex Mann as Cardiff followed up their opening weekend victory against Scarlets.\n\nCardiff led 40-8 halfway through the second half but allowed Zebre, who lost 47-13 to Bulls in the opening round, back into the game as the Italian side scored three tries in the final 21 minutes.",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "China derails Sri Lanka’s Rugby Sevens medal bid",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ0JVcW1yd0xXbjdXYWhSc0U1dHRNbjJodXR5TWEteW85YlNKYWxMOWNDZ3Y4aFRGWDQ0VlNKVEFucVFfVGJuZ0c1azFwcGk4eWF1ckdzM1VfckpGa0dUTlAzQllrOWVUU1lfdHEtSEh1ZkNNQnJfbUduS0tIZ0tMN3FSdTJOZFZBZWNFa3dvMjN2QWtXeEVpNm1yTQ?oc=5",
+        "published": "2026-10-02T19:43:57+00:00",
+        "published_label": "Fri 02 Oct, 19:43",
+        "summary": "China derails Sri Lanka’s Rugby Sevens medal bid dailynews.lk",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
       {
         "section": "Rugby",
         "source": "SVNS watch",
@@ -4641,123 +4706,6 @@
         "body": "Edinburgh held off a late fightback from Ulster to secure an opening-day 34-29 win in the United Rugby Championship at Affidea Stadium. The visitors led 20-5 at half-time and 34-5 after 49 minutes and although Ulster came roaring back with three second-half tries and a late penalty from Jack Murphy to lift them to within five points, it was not enough.\n\nFreddy Douglas’ converted opening touchdown and James Grayson’s penalty gave Edinburgh a 10-0 lead before Mikey Lowry went over for Ulster’s first score. But another Grayson penalty and a second converted Edinburgh try from Malelili Satala put the Scottish side 20-5 ahead at the break.",
         "copy": "Edinburgh held off a late fightback from Ulster to secure an opening-day 34-29 win in the United Rugby Championship at Affidea Stadium. The visitors led 20-5 at half-time and 34-5 after 49 minutes and although Ulster came roaring back with three second-half tries and a late penalty from Jack Murphy to lift them to within five points, it was not enough.\n\nFreddy Douglas’ converted opening touchdown and James Grayson’s penalty gave Edinburgh a 10-0 lead before Mikey Lowry went over for Ulster’s first score. But another Grayson penalty and a second converted Edinburgh try from Malelili Satala put the Scottish side 20-5 ahead at the break.",
         "first_seen": "2026-09-26T10:47:18.335682+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Stormers win as Connacht falter on opening night",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8qlww5lknkdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T21:41:23+00:00",
-        "published_label": "Fri 25 Sep, 21:41",
-        "summary": "Connacht fall to an opening-night defeat in the United Rugby Championship in Galway as the Stormers' power wore them down in the second half.",
-        "body": "Connacht fell to an opening-night defeat in the United Rugby Championship at Dexcom Stadium in Galway as the Stormers' power wore them down in the second half. After a slow start to the opening 40 minutes, two quick-fire tries for the hosts turned the game on its head in the dying minutes of the first half.\n\nHowever, a brilliant display of strength and game management from the Stormers meant that the points would be leaving with the South Africans after the first game of the new season.",
-        "copy": "Connacht fell to an opening-night defeat in the United Rugby Championship at Dexcom Stadium in Galway as the Stormers' power wore them down in the second half. After a slow start to the opening 40 minutes, two quick-fire tries for the hosts turned the game on its head in the dying minutes of the first half.\n\nHowever, a brilliant display of strength and game management from the Stormers meant that the points would be leaving with the South Africans after the first game of the new season.",
-        "first_seen": "2026-09-26T10:47:18.335682+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Northampton storm to opening win as duo’s hat-tricks sink Newcastle",
-        "link": "https://www.rugbypass.com/news/northampton-storm-to-opening-win-as-duos-hat-tricks-sink-newcastle/",
-        "published": "2026-09-25T21:11:31+00:00",
-        "published_label": "Fri 25 Sep, 21:11",
-        "summary": "Northampton Saints stormed to an opening Gallagher PREM win as duo’s hat-tricks sink Newcastle Red Bulls.",
-        "body": "Tommy Freeman and James Pater scored hat-tricks as Northampton, the reigning Prem champions, took advantage of a favourable opening fixture to record a convincing victory over last season’s bottom club.\n\nSince the end of last season, Red Bulls have recruited extensively and they did show signs of improvement but it was a tough ask against a side intent on making a statement of their intention to fiercely defend their title.",
-        "copy": "Tommy Freeman and James Pater scored hat-tricks as Northampton, the reigning Prem champions, took advantage of a favourable opening fixture to record a convincing victory over last season’s bottom club.\n\nSince the end of last season, Red Bulls have recruited extensively and they did show signs of improvement but it was a tough ask against a side intent on making a statement of their intention to fiercely defend their title.",
-        "first_seen": "2026-09-26T10:47:18.335682+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Santi Carreras makes a splash as Bath open with victory at Harlequins",
-        "link": "https://www.rugbypass.com/news/santi-carreras-makes-a-splash-as-bath-open-with-victory-at-harlequins/",
-        "published": "2026-09-25T21:07:11+00:00",
-        "published_label": "Fri 25 Sep, 21:07",
-        "summary": "Santi Carreras produced a wonder try as Bath exploited the absence of Harlequins’ England contingent to launch their Gallagher Prem title challenge with a 33-17 victory at The Stoop.",
-        "body": "Santi Carreras produced a wonder try as Bath exploited the absence of Harlequins’ England contingent to launch their Gallagher Prem title challenge with a 33-17 victory at The Stoop.\n\nCarreras stopped a certain try by kicking a final pass destined for Cadan Murley while it was in mid-air, darting forwards to catch the ball and then winning the foot race that began just outside his own 22.",
-        "copy": "Santi Carreras produced a wonder try as Bath exploited the absence of Harlequins’ England contingent to launch their Gallagher Prem title challenge with a 33-17 victory at The Stoop.\n\nCarreras stopped a certain try by kicking a final pass destined for Cadan Murley while it was in mid-air, darting forwards to catch the ball and then winning the foot race that began just outside his own 22.",
-        "first_seen": "2026-09-26T10:47:18.335682+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Ulster fightback comes up short in loss to Edinburgh",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw8d33mm5gr4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T20:54:09+00:00",
-        "published_label": "Fri 25 Sep, 20:54",
-        "summary": "Ulster's thrilling second-half comeback comes up short as Edinburgh leave Belfast with a 34-29 win in the opening game of the United Rugby Championship.",
-        "body": "Ulster's thrilling second-half comeback came up short as Edinburgh left Belfast with a 34-29 win in the opening game of the United Rugby Championship. In a pulsating start to the new season, the Scottish side played Ulster off the pitch in the first 55 minutes as they built what looked like an unassailable 34-5 lead.\n\nTries came from Freddy Douglas, Malelili Satala, Hector Patterson and Piers O’Conor, with James Grayson converting them all and adding two penalties. Only Michael Lowry’s try troubled the scorers for Ulster.",
-        "copy": "Ulster's thrilling second-half comeback came up short as Edinburgh left Belfast with a 34-29 win in the opening game of the United Rugby Championship. In a pulsating start to the new season, the Scottish side played Ulster off the pitch in the first 55 minutes as they built what looked like an unassailable 34-5 lead.\n\nTries came from Freddy Douglas, Malelili Satala, Hector Patterson and Piers O’Conor, with James Grayson converting them all and adding two penalties. Only Michael Lowry’s try troubled the scorers for Ulster.",
-        "first_seen": "2026-09-26T10:47:18.335682+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Carreras magic lights up Bath win over Harlequins",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv4g5y8y3582o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T20:51:50+00:00",
-        "published_label": "Fri 25 Sep, 20:51",
-        "summary": "A terrific try from full-back Santiago Carreras is the highlight of Bath's Prem opening night bonus-point victory over Harlequins.",
-        "body": "A terrific try from full-back Santiago Carreras was the highlight of Bath's opening night 33-17 bonus-point victory over Harlequins. The Argentina international intercepted a Tyrone Green pass with his boot, kicking the ball into the air before collecting it one-handed before it went out of play and smoothly accelerating away to score under the posts in a real moment of magic.\n\nDan du Preez, Joe Cokanasiga and Dan Frost added first-half tries for Bath who led 28-10 at the break, with Will Porter and Chandler Cunningham-South replying for Quins. Pedro Delgado reduced the gap to 11 points early in the second half but Ewan Richards' late try ensured it would be Bath who started the new season with a win.",
-        "copy": "A terrific try from full-back Santiago Carreras was the highlight of Bath's opening night 33-17 bonus-point victory over Harlequins. The Argentina international intercepted a Tyrone Green pass with his boot, kicking the ball into the air before collecting it one-handed before it went out of play and smoothly accelerating away to score under the posts in a real moment of magic.\n\nDan du Preez, Joe Cokanasiga and Dan Frost added first-half tries for Bath who led 28-10 at the break, with Will Porter and Chandler Cunningham-South replying for Quins. Pedro Delgado reduced the gap to 11 points early in the second half but Ewan Richards' late try ensured it would be Bath who started the new season with a win.",
-        "first_seen": "2026-09-25T21:05:55.562972+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Saints begin title defence with win over Newcastle",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmrr48zv21xjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T20:46:55+00:00",
-        "published_label": "Fri 25 Sep, 20:46",
-        "summary": "James Pater and Tommy Freeman score hat-tricks as Northampton kick off their title defence with a 59-26 win over Newcastle.",
-        "body": "James Pater and Tommy Freeman ran in hat-tricks as Northampton Saints kicked off their title defence with a comfortable 59-26 win over new-look Newcastle Red Bulls at Franklin's Gardens.\n\nJust three months after securing a second Prem title against Exeter Chiefs at Allianz Stadium, Saints were dominant against a much-changed Red Bulls side who have welcomed 25 new players through the door this summer.",
-        "copy": "James Pater and Tommy Freeman ran in hat-tricks as Northampton Saints kicked off their title defence with a comfortable 59-26 win over new-look Newcastle Red Bulls at Franklin's Gardens.\n\nJust three months after securing a second Prem title against Exeter Chiefs at Allianz Stadium, Saints were dominant against a much-changed Red Bulls side who have welcomed 25 new players through the door this summer.",
-        "first_seen": "2026-09-25T21:05:55.562972+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Dragons draw URC opener at Benetton after late drama",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3kg88vv797zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T20:44:49+00:00",
-        "published_label": "Fri 25 Sep, 20:44",
-        "summary": "Dragons draw their United Rugby Championship opener against Wayne Pivac's Benetton after Elliot Dee's late try.",
-        "body": "Tinus de Beer hit the post with an 80th-minute conversion as Dragons kicked off the United Rugby Championship season with a draw at Benetton. Filo Tiatia's side shared the spoils four times in 2025-26 and it was a familiar story at the start of the new campaign after a spirited showing in Treviso.\n\nCentre Francois Mey, hooker Bautista Bernasconi and wing Ignacio Mendy crossed to give Benetton, in their first game under former Wales boss Wayne Pivac, a 19-7 lead at half-time.",
-        "copy": "Tinus de Beer hit the post with an 80th-minute conversion as Dragons kicked off the United Rugby Championship season with a draw at Benetton. Filo Tiatia's side shared the spoils four times in 2025-26 and it was a familiar story at the start of the new campaign after a spirited showing in Treviso.\n\nCentre Francois Mey, hooker Bautista Bernasconi and wing Ignacio Mendy crossed to give Benetton, in their first game under former Wales boss Wayne Pivac, a 19-7 lead at half-time.",
-        "first_seen": "2026-09-25T21:05:55.562972+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Teams arrive in Kampala for Africa Rugby Sevens",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qeTdLSVhJeUFKRmk1SkRUejFfbVFpcHRQM1hjU2JvMTY1NFZQUG1mUjZxNklOTURTdnlrMzBmMlhZYlNQM3BERmtZYWxYNEZtOUtVU1Rjd2FubXRVSGRMQWo1eVRTdzN2QlJQcVBJWGVIRC1RRHlpSFcySnY?oc=5",
-        "published": "2026-09-25T20:05:54+00:00",
-        "published_label": "Fri 25 Sep, 20:05",
-        "summary": "Teams arrive in Kampala for Africa Rugby Sevens NTV Uganda",
-        "body": "This year’s Rugby Africa Men’s Sevens will kick off on Saturday at the Kyadondo Rugby Grounds, with eight teams playing for a place in next year’s World Rugby Sevens. Hosts Uganda will look to secure a third home triumph in the competition and a fifth trophy overall.",
-        "copy": "This year’s Rugby Africa Men’s Sevens will kick off on Saturday at the Kyadondo Rugby Grounds, with eight teams playing for a place in next year’s World Rugby Sevens. Hosts Uganda will look to secure a third home triumph in the competition and a fifth trophy overall.",
-        "first_seen": "2026-09-26T15:43:32.054787+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "YOG Dakar 2026: Meet the teams qualified for the rugby sevens competition",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnFLWXNiV3piTk1kRlcyU2ZmWm94Mjk3VDl6WEpNcEdGZ2lZRDVXNlFLb1AyQk5zcC04UFpSemZvUHBXVWQzSHFGbF9LVmc2a2dSbjZFNlRONFBrVF9BTVVRRVlpVXpON0swQmExaWhmOTVmUVJSMTQ2UC1lVUluOVB2M2tPZktpZnl5WlhqTzBLZVN0X1R5VXBJZms5UTF6RDNlN3JtaVRLRTItVjNqZkdoVl85QlVBdVp0ZGJ0cw?oc=5",
-        "published": "2026-09-25T20:04:05+00:00",
-        "published_label": "Fri 25 Sep, 20:04",
-        "summary": "YOG Dakar 2026: Meet the teams qualified for the rugby sevens competition olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-25T21:05:55.562972+00:00"
       }
     ],
     "Tennis": [
@@ -4786,6 +4734,19 @@
         "body": "All combined WTA 1000 tournaments will award women and men equal prize money from 2027, the Women's Tennis Association said on Thursday, with the Italian Open and other major events joining the rest of the category in offering the same pay-outs.\n\nIn 2027 - nearly six decades after Billie Jean King won the Italian Open at the Foro Italico - the Rome clay-court event will finally award women the same amount of total prize money as men as part a \"major milestone\" initiative.",
         "copy": "All combined WTA 1000 tournaments will award women and men equal prize money from 2027, the Women's Tennis Association said on Thursday, with the Italian Open and other major events joining the rest of the category in offering the same pay-outs.\n\nIn 2027 - nearly six decades after Billie Jean King won the Italian Open at the Foro Italico - the Rome clay-court event will finally award women the same amount of total prize money as men as part a \"major milestone\" initiative.",
         "first_seen": "2026-10-02T11:50:50.506018+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0wxTjJyZVFBcUpweWZOU2RhZVNWNVk2XzdFN1VETUlyOEw3MXNDcGZEUlZFUXE0VVRBc3dReGZWNUdYZzBhMGhqMWVCN0YtZUNVNy1HOE9vdjZnaDlLZUt1QVJONG54ZzNSdlNTT3B6UlpDaVE5Q0xmclUxa3VqRENWUFN2TkFsVmk4OWE2TmtzbVR0eUpUcl9vLTFvTXZrUmJoWG9rNWxZcElpX29tSg?oc=5",
+        "published": "2026-10-02T01:55:19+00:00",
+        "published_label": "Fri 02 Oct, 01:55",
+        "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
       },
       {
         "section": "Tennis",
@@ -5137,22 +5098,87 @@
         "body": "Carlos Alcaraz and doubles partner Jakub Mensik gave Team Europe a 3-1 lead over Team World after the opening day of the Laver Cup on Friday. Alcaraz and Mensik beat Alexander Bublik and Taylor Fritz 6-4 6-4 in the final match of the day at the O2 Arena in London.\n\nRafael Jodar had broken a 1-1 deadlock after the day session by defeating Bublik 6-2 6-3 in the evening's singles match. In the day session, Brandon Nakashima made the most of his Laver Cup debut by beating Mensik 6-1 3-6 10-7.",
         "copy": "Carlos Alcaraz and doubles partner Jakub Mensik gave Team Europe a 3-1 lead over Team World after the opening day of the Laver Cup on Friday. Alcaraz and Mensik beat Alexander Bublik and Taylor Fritz 6-4 6-4 in the final match of the day at the O2 Arena in London.\n\nRafael Jodar had broken a 1-1 deadlock after the day session by defeating Bublik 6-2 6-3 in the evening's singles match. In the day session, Brandon Nakashima made the most of his Laver Cup debut by beating Mensik 6-1 3-6 10-7.",
         "first_seen": "2026-09-26T10:47:18.335682+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Sinner ruled out of China Open with knee injury",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c38xkkj0q5ggo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-25T21:45:48+00:00",
-        "published_label": "Fri 25 Sep, 21:45",
-        "summary": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee problem.",
-        "body": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury. The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.\n\nSinner, 25, won the China Open in 2023 and 2025. The tournament starts on Wednesday and concludes on 6 October. \"I want to send the warmest greetings to the Chinese fans,\" Sinner said in a video posted on social media platform X.",
-        "copy": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury. The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.\n\nSinner, 25, won the China Open in 2023 and 2025. The tournament starts on Wednesday and concludes on 6 October. \"I want to send the warmest greetings to the Chinese fans,\" Sinner said in a video posted on social media platform X.",
-        "first_seen": "2026-09-26T10:47:18.335682+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Cam Smith Ignores Ernie Els’ Warning On LIV Golf Future",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3UxSTNxTmNUbEdUeGtndlI3SWhOTFdtcXRVakJUVHY4ck9ZNkdDOGl3OVNCQk01NWdsQXJZMWt2UVZWbXdsSjh4dWZWeTk2NlNrc216VzZfSk95SjZ5aXhSblpaMFA0U09pV2RSWkxONjBJMkM4Wng4d1JkU1RxQVdn?oc=5",
+        "published": "2026-10-02T20:32:50+00:00",
+        "published_label": "Fri 02 Oct, 20:32",
+        "summary": "Cam Smith Ignores Ernie Els’ Warning On LIV Golf Future Yahoo Sports",
+        "body": "The golf world watches with mixed feelings as the LIV Golf league files for bankruptcy. This financial collapse comes just as the tour prepares to launch LIV 2.0 next year. The uncertainty surrounding the league is massive right now. It raises a specific question about the players who jumped ship. Cam Smith is one of those names.\n\nHe ignored a direct warning from a legend before making his move. Ernie Els tried to keep Smith on the PGA Tour. He saw the risks clearly back in 2022. Now, with the league in trouble, that advice looks spot on. Smith has missed the cut at eight of his last nine major championships. The situation has turned sour for the Australian star.",
+        "copy": "The golf world watches with mixed feelings as the LIV Golf league files for bankruptcy. This financial collapse comes just as the tour prepares to launch LIV 2.0 next year. The uncertainty surrounding the league is massive right now. It raises a specific question about the players who jumped ship. Cam Smith is one of those names.\n\nHe ignored a direct warning from a legend before making his move. Ernie Els tried to keep Smith on the PGA Tour. He saw the risks clearly back in 2022. Now, with the league in trouble, that advice looks spot on. Smith has missed the cut at eight of his last nine major championships. The situation has turned sour for the Australian star.",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This inventive program trains greenskeepers. One grad says it’s life-changing",
+        "link": "https://golf.com/news/this-trains-greenskeepers-life-changing/",
+        "published": "2026-10-02T20:05:00+00:00",
+        "published_label": "Fri 02 Oct, 20:05",
+        "summary": "This inventive program trains greenskeepers. And one grad of the USGA’s Greenskeeper Apprenticeship Program says it’s life-changing. The post This inventive program trains greenskeepers. One grad says it’s life-changing appeared first on Golf .",
+        "body": "DJ McClellan’s lunchtime can come at breakfast time. “It’s like 8 o’clock in the morning, 9 o’clock in the morning, and they say, ‘Oh, I’m on my way to work,’” he says. “I could almost go eat lunch now.\n\n“I’ve already put in an eight-hour day by the time you’re getting ready to go to work.” Hours probably remain on his shift, too. That’s good, though, McClellan thinks. His job as a golf-course superintendent is a forever job.",
+        "copy": "DJ McClellan’s lunchtime can come at breakfast time. “It’s like 8 o’clock in the morning, 9 o’clock in the morning, and they say, ‘Oh, I’m on my way to work,’” he says. “I could almost go eat lunch now.\n\n“I’ve already put in an eight-hour day by the time you’re getting ready to go to work.” Hours probably remain on his shift, too. That’s good, though, McClellan thinks. His job as a golf-course superintendent is a forever job.",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "MacIntyre makes strong move at Alfred Dunhill Links",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/crwyd3p5dxzxo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-02T18:27:45+00:00",
+        "published_label": "Fri 02 Oct, 18:27",
+        "summary": "Defending champion Robert MacIntyre shoots a second-round 65 to move into contention at the Alfred Dunhill Links Championship, three strokes behind halfway leader Casey Jarvis of South Africa.",
+        "body": "-11 C Jarvis (RSA); -10 M Jordan (Eng), M. J. Daffue (RSA), R Repetto Taylor (Esp) Defending champion Robert MacIntyre took advantage of calm conditions at Kingsbarns to shoot 65 and charge into contention at the Alfred Dunhill Links Championship.\n\nThe Scot's round of seven under left him in a tie for ninth place, three strokes behind halfway leader Casey Jarvis of South Africa. England's Matthew Jordan matched MacIntyre's score of 72 with six birdies and an eagle at Carnoustie to sit on 10 under for the tournament.",
+        "copy": "-11 C Jarvis (RSA); -10 M Jordan (Eng), M. J. Daffue (RSA), R Repetto Taylor (Esp) Defending champion Robert MacIntyre took advantage of calm conditions at Kingsbarns to shoot 65 and charge into contention at the Alfred Dunhill Links Championship.\n\nThe Scot's round of seven under left him in a tie for ninth place, three strokes behind halfway leader Casey Jarvis of South Africa. England's Matthew Jordan matched MacIntyre's score of 72 with six birdies and an eagle at Carnoustie to sit on 10 under for the tournament.",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Tony Romo's CBS split announced in middle of Q-school round",
+        "link": "https://golf.com/news/tony-romos-cbs-split-announced-q-school-round/",
+        "published": "2026-10-02T17:59:33+00:00",
+        "published_label": "Fri 02 Oct, 17:59",
+        "summary": "Tony Romo's CBS split was announced while he was playing golf — chasing the next step in his quest for the PGA Tour. The post Tony Romo’s CBS split announced in middle of Q-school round appeared first on Golf .",
+        "body": "Tony Romo and CBS parted ways on Friday, marking a shocking end to the relationship between network and broadcaster. It also came mid-round as Romo takes the next step in achieving his pro golf dreams.\n\nCBS, which has been Romo’s employer for the past nine years, said in a statement that the two sides had “mutually agreed to part ways” following Romo’s arrest in Wisconsin this summer for charges of operating while intoxicated.",
+        "copy": "Tony Romo and CBS parted ways on Friday, marking a shocking end to the relationship between network and broadcaster. It also came mid-round as Romo takes the next step in achieving his pro golf dreams.\n\nCBS, which has been Romo’s employer for the past nine years, said in a statement that the two sides had “mutually agreed to part ways” following Romo’s arrest in Wisconsin this summer for charges of operating while intoxicated.",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Is Brooks Koepka retiring one of his most famous clubs? | Tour Report",
+        "link": "https://golf.com/gear/fairway-woods/brooks-koepka-retiring-most-famous-clubs/",
+        "published": "2026-10-02T17:37:04+00:00",
+        "published_label": "Fri 02 Oct, 17:37",
+        "summary": "In this week's Tour Report, Brooks Koepka makes a rare change to the top of his golf bag while McLaren Golf's latest iron gets teased. The post Is Brooks Koepka retiring one of his most famous clubs? | Tour Report appeared first on Golf .",
+        "body": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nIt may be time to pour one out for one of the oldest fairway woods on the PGA Tour. At the beginning of the year, Brooks Koepka made it very clear he wasn’t going to change much when it came to his club setup (besides experimenting with his putter).",
+        "copy": "Welcome to Fully Equipped’s weekly Tour equipment report. Every Friday of PGA Tour weeks (plus other times, if news warrants), GOLF equipment editor Jack Hirsh runs you through some of the biggest news surrounding golf clubs on Tour, including changes, tweaks and launches.\n\nIt may be time to pour one out for one of the oldest fairway woods on the PGA Tour. At the beginning of the year, Brooks Koepka made it very clear he wasn’t going to change much when it came to his club setup (besides experimenting with his putter).",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Save $25 at PGA TOUR Superstore this weekend with our exclusive promotion",
+        "link": "https://golf.com/gear/save-25-pga-tour-superstore-exclusive-promotion/",
+        "published": "2026-10-02T17:35:28+00:00",
+        "published_label": "Fri 02 Oct, 17:35",
+        "summary": "From October 2-4, GOLF readers can take $25 off orders of $125 or more at PGA TOUR Superstore by using code GOLF25. Get shopping! The post Save $25 at PGA TOUR Superstore this weekend with our exclusive promotion appeared first on Golf .",
+        "body": "If you’ve been waiting for a well-timed sale to purchase that piece of new golf gear you’ve been eyeing, now is the perfect time to strike! From October 2-4, GOLF readers are being treated to an exclusive promotion at PGA TOUR Superstore: Take $25 off any order of $125 or more. All you have to do is use code GOLF25 at checkout.\n\nThe best news? This promotion can be used on just about any item you desire. (You can check out the list of exclusions here.) How will you choose to enjoy your discount? You can stock up on necessities, like balls, gloves and tees, apparel, training aids and more, and essentially get $25 worth of gear for free!",
+        "copy": "If you’ve been waiting for a well-timed sale to purchase that piece of new golf gear you’ve been eyeing, now is the perfect time to strike! From October 2-4, GOLF readers are being treated to an exclusive promotion at PGA TOUR Superstore: Take $25 off any order of $125 or more. All you have to do is use code GOLF25 at checkout.\n\nThe best news? This promotion can be used on just about any item you desire. (You can check out the list of exclusions here.) How will you choose to enjoy your discount? You can stock up on necessities, like balls, gloves and tees, apparel, training aids and more, and essentially get $25 worth of gear for free!",
+        "first_seen": "2026-10-02T21:48:35.947968+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6764,45 +6790,6 @@
         "body": "If you regularly catch fairway woods thin, your instinct might be to blame your impact and try to manufacture more height—lifting the ball, trying to “get under it” or even making a steeper swing. But GOLF Top 100 Teacher Debbie Doniger says the better place to start is much earlier in the sequence: your setup.\n\nOne of the most common mistakes is positioning the ball too far forward. Many amateurs move it toward their lead foot because they assume a fairway wood should be struck on the upswing, like a driver.",
         "copy": "If you regularly catch fairway woods thin, your instinct might be to blame your impact and try to manufacture more height—lifting the ball, trying to “get under it” or even making a steeper swing. But GOLF Top 100 Teacher Debbie Doniger says the better place to start is much earlier in the sequence: your setup.\n\nOne of the most common mistakes is positioning the ball too far forward. Many amateurs move it toward their lead foot because they assume a fairway wood should be struck on the upswing, like a driver.",
         "first_seen": "2026-09-26T10:47:18.335682+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Above Par: Precedent for LIV Golf’s Bankruptcy",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbXQtWEtRNXF0bUM4SVl5S3BjaXF5Z2RzVzBURmR0MEdGTXpQX3lSMVJ5eWkydGt5MllpTWVMUEQtbk93VW1mWU5OMUUtRFdmbmVfdmRSbmpoUUZrajRLQklhbDB2Y01aUEFFVmNVMGJxUkxPZEFYNGFvVjJfTVpwVHJNUWpjQQ?oc=5",
-        "published": "2026-09-25T20:27:24+00:00",
-        "published_label": "Fri 25 Sep, 20:27",
-        "summary": "Above Par: Precedent for LIV Golf’s Bankruptcy Minnesota Lawyer",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-25T21:05:55.562972+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Which club should you use from the fringe? Top teacher explains",
-        "link": "https://golf.com/instruction/which-club-should-you-use-fringe/",
-        "published": "2026-09-25T19:23:32+00:00",
-        "published_label": "Fri 25 Sep, 19:23",
-        "summary": "GOLF Top 100 Teacher Sarah Stone explains which clubs you should consider using when your ball is on the fringe. The post Which club should you use from the fringe? Top teacher explains appeared first on Golf .",
-        "body": "During the Presidents Cup at Medinah Country Club, you’re likely to see players faced with a decision: use a putter from off the fringe or reach for another club. On a course with large, undulating greens, thinking beyond the putter can sometimes help you get the ball closer to the hole.\n\nBut which club is best in these situations? They all have their pros and cons, and knowing what the advantages of each club are can be crucial for getting the ball close to the hole.",
-        "copy": "During the Presidents Cup at Medinah Country Club, you’re likely to see players faced with a decision: use a putter from off the fringe or reach for another club. On a course with large, undulating greens, thinking beyond the putter can sometimes help you get the ball closer to the hole.\n\nBut which club is best in these situations? They all have their pros and cons, and knowing what the advantages of each club are can be crucial for getting the ball close to the hole.",
-        "first_seen": "2026-09-25T21:05:55.562972+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Why this former tennis star missed his Augusta National tee time",
-        "link": "https://golf.com/news/jack-sock-augusta-national-subpar/",
-        "published": "2026-09-25T17:51:43+00:00",
-        "published_label": "Fri 25 Sep, 17:51",
-        "summary": "Former tennis pro Jack Sock joined GOLF's Subpar podcast and explained the reason why he had to miss a golf getaway at Augusta National. The post Why this former tennis star missed his Augusta National tee time appeared first on Golf .",
-        "body": "Sometimes that pesky day job gets in the way of a day on the golf course. This is true for us and also professional tennis players — although for us it’s rarely at Augusta National.\n\nJack Sock, the former pro tennis player, was the guest on this week’s GOLF Subpar podcast. Sock, who retired in 2023, was a two-time Olympic medalist and also a four-time grand slam champion, and he’s also a pro pickleball player and a 1 handicap on the golf course.",
-        "copy": "Sometimes that pesky day job gets in the way of a day on the golf course. This is true for us and also professional tennis players — although for us it’s rarely at Augusta National.\n\nJack Sock, the former pro tennis player, was the guest on this week’s GOLF Subpar podcast. Sock, who retired in 2023, was a two-time Olympic medalist and also a four-time grand slam champion, and he’s also a pro pickleball player and a 1 handicap on the golf course.",
-        "first_seen": "2026-09-25T21:05:55.562972+00:00"
       }
     ],
     "Badminton": [
@@ -7148,5 +7135,5 @@
       }
     ]
   },
-  "total": 548
+  "total": 547
 }
