@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T11:04:44.335194+00:00",
-  "generated_label": "Saturday 03 October 2026, 11:04 UTC",
+  "generated_at": "2026-10-03T12:41:38.348631+00:00",
+  "generated_label": "Saturday 03 October 2026, 12:41 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -14,6 +14,19 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "HSBC watch",
+        "kind": "gnews",
+        "title": "Cape Town Sevens tickets go on sale as Blitzboks target title hat-trick",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHJHM05jSU5DSUtKY3pveXdSZVhjNXZ0UzlFdW5uSzU4eWUxakcwZkVNdy1rLWFrQ0dwYjYyTVYwU0R4Qko0dFFwckdxMTUzdGFQMGNOTm5yOV9aVEM0cElWWGlkaDRXX0xYaXRyWU02VGRzRk5VSWlRZnoyY1lRRGh0TGNIZF9GUzRsckVULVhwWG85Y3MtNGlZR3lyUUFvVGxjeThpVkR4MF9N?oc=5",
+        "published": "2026-10-03T11:30:27+00:00",
+        "published_label": "Sat 03 Oct, 11:30",
+        "summary": "Cape Town Sevens tickets go on sale as Blitzboks target title hat-trick SABC Sport",
+        "body": "The two-day tournament will take place at DHL Stadium on 5 and 6 December, with the Springbok Sevens side set to headline the event as they chase a third successive Cape Town title.\n\nThe Blitzboks won last season's HSBC SVNS Series and World Championship and will again be among the star attractions as the world's best men's and women's sevens players gather in Cape Town.",
+        "copy": "The two-day tournament will take place at DHL Stadium on 5 and 6 December, with the Springbok Sevens side set to headline the event as they chase a third successive Cape Town title.\n\nThe Blitzboks won last season's HSBC SVNS Series and World Championship and will again be among the star attractions as the world's best men's and women's sevens players gather in Cape Town.",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
         "title": "Polymarket’s Alpha traders",
@@ -24,6 +37,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-03T11:04:44.335194+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Private capital checks into Europe’s booming hostel market",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHpiUnFWbU1GZm1oV00xWE9vZlJWMWlBSlJZSWhqc3JJcC05Ri1wY3lnbjYyYWRQcjJGeUIxS0tWalIzbFc3WnNwUmJVNGVjWG9XRUhyRjltWWNSa01qQWhFNVVBWXNwdHFqbEN0THhkRTlHQ29DR1ZUdnZ0d1VEWXB2SU8?oc=5",
+        "published": "2026-10-03T04:00:37+00:00",
+        "published_label": "Sat 03 Oct, 04:00",
+        "summary": "Private capital checks into Europe’s booming hostel market Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1636,22 +1662,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-26T18:59:37.802234+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Manchester City verdict poses latest test to UK-UAE relations",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0VsOE1oMUp1NUlxSmdEeDREOW1HVzZ1Qm94emE5aXJZdGdaRWFPbDE3SlljcFQ5LW5rcnRqa2VaOTdUTlkwa29OMnoyYjNydTNIbWpwTV9XLXBCVHNUUjlFdXNFM05uSG4zbmVvMzJTNThUcmRURmgtYlpCbU5DMVY0cks?oc=5",
-        "published": "2026-09-26T12:34:15+00:00",
-        "published_label": "Sat 26 Sep, 12:34",
-        "summary": "Manchester City verdict poses latest test to UK-UAE relations Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-26T15:43:32.054787+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Edinburgh star boosts Scotland claim in ‘world-class’ battle with Siya Kolisi",
+        "link": "https://www.rugbypass.com/news/edinburgh-star-boosts-scotland-claim-in-world-class-battle-with-siya-kolisi-liam-mcconnell/",
+        "published": "2026-10-03T12:20:13+00:00",
+        "published_label": "Sat 03 Oct, 12:20",
+        "summary": "Edinburgh flanker Liam McConnell strengthened his claims for a place in the Scotland squad to take on New Zealand in the Nations Championship next month with a “world-class” display of lineout destruction against the Stormers on Friday.",
+        "body": "Edinburgh flanker Liam McConnell strengthened his claims for a place in the Scotland squad to take on New Zealand in the Nations Championship next month with a “world-class” display of lineout destruction against the Stormers on Friday.\n\nThe 22-year-old, who enjoyed a barnstorming Test debut against the USA last November in a breakthrough season at club level, provided further evidence of his burgeoning talent to help the capital side continue their winning start to the new URC season.",
+        "copy": "Edinburgh flanker Liam McConnell strengthened his claims for a place in the Scotland squad to take on New Zealand in the Nations Championship next month with a “world-class” display of lineout destruction against the Stormers on Friday.\n\nThe 22-year-old, who enjoyed a barnstorming Test debut against the USA last November in a breakthrough season at club level, provided further evidence of his burgeoning talent to help the capital side continue their winning start to the new URC season.",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "SVNS watch",
+        "kind": "gnews",
+        "title": "HK men’s Rugby Sevens claim historic hat-trick of Asian Games titles with shutout victory",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXBETkRka3dfNW9uYmxsZnVwaFNFT2tQcUNzUWVyXzB2ZjFPdW5PRUd5OVR6MVRXX3NLNWo3YWJPMWJyMGlEVXVjSkNJUkZNczN5X1ZFOWdYcXVOVGROZU43NnhZZFBCNFFmTjZiZlhLOHdCdklRanJJcjBWU0RpczdUVzltaTluZ3JZOHo0NGVJM1RGa3laMHZxZFFTc1psUW53QWtSNTVFVDV1akFzcVlCME9GWGtQZTBDbFg4NkJqX01IeGNtZFI0QUlweWx5Wl9Eb1lR?oc=5",
+        "published": "2026-10-03T11:03:52+00:00",
+        "published_label": "Sat 03 Oct, 11:03",
+        "summary": "HK men’s Rugby Sevens claim historic hat-trick of Asian Games titles with shutout victory thestandard.com.hk",
+        "body": "Hong Kong’s men’s rugby sevens team has written a glorious new chapter in the city's sporting history by successfully defending their Asian Games gold medal in Nagoya, defeating the national team with a commanding 26-0 shutout.\n\nThis triumphant victory secures an unprecedented third consecutive Asian Games crown for the squad, while simultaneously elevating Hong Kong's gold medal haul at these Games to an all-time high of 11. The historic gold also takes the city's overall medal tally to 54, officially breaking the previous record set at the Hangzhou Games.",
+        "copy": "Hong Kong’s men’s rugby sevens team has written a glorious new chapter in the city's sporting history by successfully defending their Asian Games gold medal in Nagoya, defeating the national team with a commanding 26-0 shutout.\n\nThis triumphant victory secures an unprecedented third consecutive Asian Games crown for the squad, while simultaneously elevating Hong Kong's gold medal haul at these Games to an all-time high of 11. The historic gold also takes the city's overall medal tally to 54, officially breaking the previous record set at the Hangzhou Games.",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
       {
         "section": "Rugby",
         "source": "SVNS watch",
@@ -4763,6 +4802,19 @@
     "Tennis": [
       {
         "section": "Tennis",
+        "source": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Emma Raducanu Is Going to Drop Outside The Top 100 And Yet Her Ranking Tells the Wrong Story",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXFqMTVHVEpnaEFWX2ZMei15UVhhbno2OFpkTFJ6WlRic0lvNXdaYjlCQVNIcUw0S0RYUHd4UVRyT0tfcHhlYW1xcVhGb2ZNOXVLRzVsVVo5RnhDOUlXT2prdFVLc0k0amZMQ2V1WkNJZ09ZWnlhZThNZTR6Y3FyLU8zekZpMDh3?oc=5",
+        "published": "2026-10-03T11:15:03+00:00",
+        "published_label": "Sat 03 Oct, 11:15",
+        "summary": "Emma Raducanu Is Going to Drop Outside The Top 100 And Yet Her Ranking Tells the Wrong Story Yahoo Sports",
+        "body": "I have been pretty harsh on Emma Raducanu over the years. Some of it, I still think, was more than justified. After all, I was hardly the only voice criticizing her choices. The coaching turnover became ridiculous at times. Some scheduling decisions were impossible to understand. Too often a promising run would be followed by another absence or another reset or another explanation for why the momentum had disappeared.\n\nFive years after winning the US Open, that remains her only professional singles title. There has also occasionally been a tendency around Raducanu to treat perfectly normal progress as evidence that another New York miracle might be just around the corner. It usually wasn't.",
+        "copy": "I have been pretty harsh on Emma Raducanu over the years. Some of it, I still think, was more than justified. After all, I was hardly the only voice criticizing her choices. The coaching turnover became ridiculous at times. Some scheduling decisions were impossible to understand. Too often a promising run would be followed by another absence or another reset or another explanation for why the momentum had disappeared.\n\nFive years after winning the US Open, that remains her only professional singles title. There has also occasionally been a tendency around Raducanu to treat perfectly normal progress as evidence that another New York miracle might be just around the corner. It usually wasn't.",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
+      {
+        "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
         "title": "China Open and Japan Open: Novak Djokovic, Aryna Sabalenka and Naomi Osaka all advance, as Katie Boulter knocked out",
@@ -5153,6 +5205,71 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The 3 most crucial holes at Trump Turnberry could decide Bridges Cup",
+        "link": "https://golf.com/travel/3-most-crucial-holes-trump-turnberry/",
+        "published": "2026-10-03T12:11:05+00:00",
+        "published_label": "Sat 03 Oct, 12:11",
+        "summary": "Trump Turnberry's Ailsa Course rewards nerve as much as skill. On a layout without a weak link, these three holes always play a pivotal role. The post The 3 most crucial holes at Trump Turnberry could decide Bridges Cup appeared first on Golf .",
+        "body": "Forget what Bobby Jones said about playing against “Old Man Par.” Jones also faced flesh-and-blood opponents, often in match play, the game’s most intense format, particularly in team competition.\n\nAsk anyone who has taken part in the Ryder Cup, the Presidents Cup, the Walker Cup or the Solheim Cup. The stakes feel greater when you’re playing for something other than yourself.",
+        "copy": "Forget what Bobby Jones said about playing against “Old Man Par.” Jones also faced flesh-and-blood opponents, often in match play, the game’s most intense format, particularly in team competition.\n\nAsk anyone who has taken part in the Ryder Cup, the Presidents Cup, the Walker Cup or the Solheim Cup. The stakes feel greater when you’re playing for something other than yourself.",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "This talented mid-am is lovingly called 'Blandy.' Although he's anything but",
+        "link": "https://golf.com/news/bridges-cup-profile-blandy-anything-but/",
+        "published": "2026-10-03T11:51:18+00:00",
+        "published_label": "Sat 03 Oct, 11:51",
+        "summary": "Andrew Davidson is lovingly called “Blandy.” But he’s anything but, and he’s one of the players in next week’s Bridges Cup. The post This talented mid-am is lovingly called ‘Blandy.’ Although he’s anything but appeared first on Golf .",
+        "body": "Andrew Davidson does appreciate one view of his nickname. You don’t mind being called it in golf, because being it can be beautiful in golf. Basic pars are your friends. And a few years back, during one streak while at the University of Stirling, Davidson signed for them a lot.\n\nHe shot even par eight straight rounds, so of course his pals had to come up with something to call him other than “Andrew.” Thing is, though, it’s also a touch ironic. Most everything about the 32-year-old is decidedly un-bland. He is, in fact, accomplished at golf, and next week, he’ll be one of a dozen International players who will meet the American side at the Bridges Cup, a mid-amateur team event that’ll be played this year at Trump Turnberry, in Davidson’s home country of Scotland. Davidson’s list of golf achievements is long. He’s represented his country at the Home Internationals, the European Team Championship and the European Nations Cup. He’s won the Scottish order of merit. He’s a winner of the Welsh Amateur Stroke Play. He’s a winner of the Battle Trophy and East of Scotland Championship. He’s a two-time Scottish Area team champion.",
+        "copy": "Andrew Davidson does appreciate one view of his nickname. You don’t mind being called it in golf, because being it can be beautiful in golf. Basic pars are your friends. And a few years back, during one streak while at the University of Stirling, Davidson signed for them a lot.\n\nHe shot even par eight straight rounds, so of course his pals had to come up with something to call him other than “Andrew.” Thing is, though, it’s also a touch ironic. Most everything about the 32-year-old is decidedly un-bland. He is, in fact, accomplished at golf, and next week, he’ll be one of a dozen International players who will meet the American side at the Bridges Cup, a mid-amateur team event that’ll be played this year at Trump Turnberry, in Davidson’s home country of Scotland. Davidson’s list of golf achievements is long. He’s represented his country at the Home Internationals, the European Team Championship and the European Nations Cup. He’s won the Scottish order of merit. He’s a winner of the Welsh Amateur Stroke Play. He’s a winner of the Battle Trophy and East of Scotland Championship. He’s a two-time Scottish Area team champion.",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Bank of Utah Championship Saturday TV coverage: How to watch Round 3",
+        "link": "https://golf.com/news/2026-bank-utah-championship-saturday-tv-coverage/",
+        "published": "2026-10-03T11:38:59+00:00",
+        "published_label": "Sat 03 Oct, 11:38",
+        "summary": "How to watch the 2026 Bank of Utah Championship on Saturday, including full Bank of Utah Championship TV coverage and streaming for Round 3. The post 2026 Bank of Utah Championship Saturday TV coverage: How to watch Round 3 appeared first on Golf .",
+        "body": "The third round of the 2026 Bank of Utah Championship starts Saturday morning at Black Desert Resort in Utah. Here’s everything you need to know to watch the tournament on Saturday, including full Bank of Utah Championship TV coverage, streaming details and complete Round 3 tee times.\n\nAs the sun rises on Saturday at Black Desert Resort, the second round of the Bank of Utah Championship isn’t quite complete. Darkness fell on Friday night with three players still on the course, so play was suspended. Those players will finish up their rounds at 11 a.m. ET Saturday morning. Once they’re done, the cut will be made and tee times will be created. Third-round tee times are expected to fall from 12:20-2:30 p.m. ET.",
+        "copy": "The third round of the 2026 Bank of Utah Championship starts Saturday morning at Black Desert Resort in Utah. Here’s everything you need to know to watch the tournament on Saturday, including full Bank of Utah Championship TV coverage, streaming details and complete Round 3 tee times.\n\nAs the sun rises on Saturday at Black Desert Resort, the second round of the Bank of Utah Championship isn’t quite complete. Darkness fell on Friday night with three players still on the course, so play was suspended. Those players will finish up their rounds at 11 a.m. ET Saturday morning. Once they’re done, the cut will be made and tee times will be created. Third-round tee times are expected to fall from 12:20-2:30 p.m. ET.",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'It's a crazy feeling': Tom Kim avoids career-altering military service with gold at Asian Games",
+        "link": "https://golf.com/news/tom-kim-avoids-military-service-gold-medal/",
+        "published": "2026-10-03T11:09:04+00:00",
+        "published_label": "Sat 03 Oct, 11:09",
+        "summary": "Tom Kim fired a 64 to earn the gold medal at the 2026 Asian Games. The win gave Kim an exemption to South Korea's mandatory military service. The post ‘It’s a crazy feeling’: Tom Kim avoids career-altering military service with gold at Asian Games appeared first on Golf .",
+        "body": "Tom Kim has won four PGA Tour events, but on Saturday he may have captured the biggest win of his career. With a career-changing military exemption on the line, Kim fired a six-under 64 in the final round of the men’s golf event at the 2026 Asian Games to earn the individual gold medal for South Korea.\n\nThanks to the victory, Kim, who is 24, will avoid an 18-21 month stretch in the South Korean military that is required of all able-bodied males in the country. Such a lengthy interruption could have had devastating effects on the promising pro’s golf career.",
+        "copy": "Tom Kim has won four PGA Tour events, but on Saturday he may have captured the biggest win of his career. With a career-changing military exemption on the line, Kim fired a six-under 64 in the final round of the men’s golf event at the 2026 Asian Games to earn the individual gold medal for South Korea.\n\nThanks to the victory, Kim, who is 24, will avoid an 18-21 month stretch in the South Korean military that is required of all able-bodied males in the country. Such a lengthy interruption could have had devastating effects on the promising pro’s golf career.",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf’s Bankruptcy Plan Relies On Player Equity Swap",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHJ2RUs2T0M3YlV4Rjl4cDFiMWF2Z1NWcm5CU0lrRDZIb04zaE8xdWhsMU4tbjdhZ1hmeG9pUF8ta1kzd3A3bVcycFEzbENzRUpUM0xDZEdwUXN0ZGFpaWFrS0YwdlBwNHA3Y3U0SUZiQmQxRXMwckVhMnQyQTc1c1d5N0dCYjA?oc=5",
+        "published": "2026-10-03T11:05:00+00:00",
+        "published_label": "Sat 03 Oct, 11:05",
+        "summary": "LIV Golf’s Bankruptcy Plan Relies On Player Equity Swap Yahoo Sports",
+        "body": "LIV Golf is filing for Chapter 11 protection after its Saudi backers cut off funding in April. The league owes millions in unpaid player salaries and legal fees. A new deal requires players to swap their unpaid cash for a majority ownership stake in the reorganized business. This move marks a desperate pivot from a cash-rich startup to a player-owned entity struggling to survive.\n\nThe financial math is stark. During the 90 days preceding bankruptcy, Gibson, Dunn & Crutcher received over $7.1 million from LIV Golf solely for legal fees. The firm agreed to discount its bills by 20% but still collected a massive sum. Meanwhile, the Public Investment Fund of Saudi Arabia, which spent over $5 billion trying to reshape pro golf, stopped writing checks. The league entered court with roughly $15 million in cash but faced a secured debt facility of approximately $495 million. That gap is too wide to bridge without a radical restructuring.",
+        "copy": "LIV Golf is filing for Chapter 11 protection after its Saudi backers cut off funding in April. The league owes millions in unpaid player salaries and legal fees. A new deal requires players to swap their unpaid cash for a majority ownership stake in the reorganized business. This move marks a desperate pivot from a cash-rich startup to a player-owned entity struggling to survive.\n\nThe financial math is stark. During the 90 days preceding bankruptcy, Gibson, Dunn & Crutcher received over $7.1 million from LIV Golf solely for legal fees. The firm agreed to discount its bills by 20% but still collected a massive sum. Meanwhile, the Public Investment Fund of Saudi Arabia, which spent over $5 billion trying to reshape pro golf, stopped writing checks. The league entered court with roughly $15 million in cash but faced a secured debt facility of approximately $495 million. That gap is too wide to bridge without a radical restructuring.",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
       {
         "section": "Golf",
         "source": "BBC Sport",
@@ -6738,22 +6855,22 @@
         "body": "U.S. Presidents Cup captain Brandt Snedeker had this to say following his team’s ugly Friday performance at Medinah: “I think we have to look at it, obviously. It didn’t go great. I feel like our guys played pretty well, all in all. I know the scoreboard doesn’t reflect it.”\n\nYou could say that again. The Americans suffered a clean sweep at the hands of the International team, flipping this event on its head in the process. A 3-2 Thursday lead was transformed into an ominous 3-7 deficit heading into Saturday’s matches.",
         "copy": "U.S. Presidents Cup captain Brandt Snedeker had this to say following his team’s ugly Friday performance at Medinah: “I think we have to look at it, obviously. It didn’t go great. I feel like our guys played pretty well, all in all. I know the scoreboard doesn’t reflect it.”\n\nYou could say that again. The Americans suffered a clean sweep at the hands of the International team, flipping this event on its head in the process. A 3-2 Thursday lead was transformed into an ominous 3-7 deficit heading into Saturday’s matches.",
         "first_seen": "2026-09-26T15:43:32.054787+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Watch: U.S. golf star chuckles at Bryson DeChambeau dig during Presidents Cup",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXFWYV9mNERXU2J1dHVUX0hTTmJRanhGOVBrLWNLSUFvcko0OEVDTTJNbzdGSHpBU0VUUHdDMXdwd09mbXdqejFmdVQ3MEFlajItVUhQOUdnaUN0ZnB3NUdrNWh1RVExVW1YX3hBRHRCYXdTUVlmREMwM0p4SGwxamVOX0JQUkRxN0ZrWl9PeG5zdFZyaDUzZmZoeWRZTTljSjQzWTBOWkhpejJ0QVpGUlpiNkVzX3k2?oc=5",
-        "published": "2026-09-26T12:14:31+00:00",
-        "published_label": "Sat 26 Sep, 12:14",
-        "summary": "Watch: U.S. golf star chuckles at Bryson DeChambeau dig during Presidents Cup golfmagic.com",
-        "body": "Bryson DeChambeau was not at Medinah for the opening day of the Presidents Cup, but the two-time U.S. Open champion still managed to make an appearance of sorts. A spectator watching Sam Burns during Thursday's opening matches invoked DeChambeau while Burns prepared to play a shot from the rough, drawing a laugh from the American.\n\n\"The grass was standing up, but I DeChambeau'd it for you,\" the fan said. The comment was a reference to the two-stroke penalty DeChambeau received during this year's Open Championship at Royal Birkdale after officials ruled that he had improved the lie of his ball by stepping on grass surrounding it..",
-        "copy": "Bryson DeChambeau was not at Medinah for the opening day of the Presidents Cup, but the two-time U.S. Open champion still managed to make an appearance of sorts. A spectator watching Sam Burns during Thursday's opening matches invoked DeChambeau while Burns prepared to play a shot from the rough, drawing a laugh from the American.\n\n\"The grass was standing up, but I DeChambeau'd it for you,\" the fan said. The comment was a reference to the two-stroke penalty DeChambeau received during this year's Open Championship at Royal Birkdale after officials ruled that he had improved the lie of his ball by stepping on grass surrounding it..",
-        "first_seen": "2026-09-26T15:43:32.054787+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "‘It’s a Dream Coming True’",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qRmJIci03S203MVZxRS0teWoyNE10SXdmTnhIVGRYTlFFZGQtVURBLW9RenFLbjJrSFJUQUJ6aFk4NHRtX0llSHBqcDJUT3NLbGdWM25XaXhyakFQZVl6Q0R6MWR3bHhia1E0LWtEemxCbzNOdjc2bDFBcHk?oc=5",
+        "published": "2026-10-03T11:34:44+00:00",
+        "published_label": "Sat 03 Oct, 11:34",
+        "summary": "‘It’s a Dream Coming True’ BWF",
+        "body": "Egypt is on the cusp of making history, and Hadia Hosny couldn’t be happier. Cairo plays host to the VICTOR BWF World Junior Championships 2026 – the biggest tournament ever held in the country. The three-time Olympian, former Member of the Egyptian Parliament, and now the President of the Egyptian Badminton Federation, talks of the significance of hosting the tournament:\n\nWhat does it mean for you to have a tournament of this scale in Egypt? This is the first time ever we’re having a very big tournament like this. It means a lot. I was wishing this since I was an athlete and I feel like I’m the one on court right now (laughs).",
+        "copy": "Egypt is on the cusp of making history, and Hadia Hosny couldn’t be happier. Cairo plays host to the VICTOR BWF World Junior Championships 2026 – the biggest tournament ever held in the country. The three-time Olympian, former Member of the Egyptian Parliament, and now the President of the Egyptian Badminton Federation, talks of the significance of hosting the tournament:\n\nWhat does it mean for you to have a tournament of this scale in Egypt? This is the first time ever we’re having a very big tournament like this. It means a lot. I was wishing this since I was an athlete and I feel like I’m the one on court right now (laughs).",
+        "first_seen": "2026-10-03T12:41:38.348631+00:00"
+      },
       {
         "section": "Badminton",
         "source": "BWF watch",
@@ -7122,5 +7239,5 @@
       }
     ]
   },
-  "total": 546
+  "total": 555
 }
