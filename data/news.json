@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T16:25:24.178603+00:00",
-  "generated_label": "Sunday 04 October 2026, 16:25 UTC",
+  "generated_at": "2026-10-04T20:52:23.029199+00:00",
+  "generated_label": "Sunday 04 October 2026, 20:52 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -1714,35 +1714,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-28T12:50:57.674411+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "The real lesson from the Man City affair",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNR3gyV1FRMUlhbEpleWxaSGNsWXlSWU42cDM4bmpUYXlnMUhGRi1MNjVCc3dYV1JJRDVIX2dUc3k2bW9KMkk5LVZiRUJaYWZncUZiNmR0cnJXcEp0bG9Fc2R0VTFHR0QxeXlIQlUwMmU?oc=5",
-        "published": "2026-09-27T16:58:00+00:00",
-        "published_label": "Sun 27 Sep, 16:58",
-        "summary": "The real lesson from the Man City affair Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "The real lesson from the Man City affair",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObEE0dVRSOTZmVi1GcWt6UGJubWdKOXo4Smo4YUZxanB5RmdSd3N3ZXNHdXhFY1ZQTU8zOWVnLVE4ejJQcmhlcVZkaExqWnlkUTg5ZjZsWkxIXzhKXzNQUmlEMGNPa2JkR0hTMlRpLTBDQkYyZU1hRm16bnZ0TExhWElYNHE?oc=5",
-        "published": "2026-09-27T16:58:00+00:00",
-        "published_label": "Sun 27 Sep, 16:58",
-        "summary": "The real lesson from the Man City affair Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T12:50:57.674411+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "All Blacks No.10 picture shifts as Ruben Love set for surgery",
+        "link": "https://www.rugbypass.com/news/all-blacks-no-10-picture-shifts-as-ruben-love-set-for-surgery/",
+        "published": "2026-10-04T19:59:01+00:00",
+        "published_label": "Sun 04 Oct, 19:59",
+        "summary": "“Ruben Love will undergo surgery after sustaining an ankle ligament injury, ruling him out for the remainder of the year,” an All Blacks statement read.",
+        "body": "All Blacks first-five Ruben Love has been ruled out for the remainder of 2026 with an ankle injury. All Blacks head coach Dave Rennie did not name Love for the 2026 Bledisloe Cup series, as he nurses a recurring ankle injury he suffered during the Super Rugby Pacific season.\n\nThe Hurricanes playmaker impressed for the All Blacks during his six Test starts in 2026, trusted by Rennie for the big games despite having the experienced Beauden Barrett, Damian McKenzie, and Richie Mo’unga available.",
+        "copy": "All Blacks first-five Ruben Love has been ruled out for the remainder of 2026 with an ankle injury. All Blacks head coach Dave Rennie did not name Love for the 2026 Bledisloe Cup series, as he nurses a recurring ankle injury he suffered during the Super Rugby Pacific season.\n\nThe Hurricanes playmaker impressed for the All Blacks during his six Test starts in 2026, trusted by Rennie for the big games despite having the experienced Beauden Barrett, Damian McKenzie, and Richie Mo’unga available.",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Alex Sanderson feels Nathan Jibulu could soon ‘explode onto international scene’",
+        "link": "https://www.rugbypass.com/news/alex-sanderson-feels-nathan-jibulu-could-soon-explode-onto-international-scene/",
+        "published": "2026-10-04T18:05:00+00:00",
+        "published_label": "Sun 04 Oct, 18:05",
+        "summary": "Sale director of rugby Alex Sanderson is backing Nathan Jibulu to make his England debut in time to be considered for next year’s World Cup after acclaiming his star turn against Saracens.",
+        "body": "Sale director of rugby Alex Sanderson is backing Nathan Jibulu to make his England debut in time to be considered for next year’s World Cup after acclaiming his star turn against Saracens.\n\nJibulu was named man of the match in the 21-17 Gallagher Prem victory at StoneX Stadium following a rampaging performance that was accompanied by accuracy at the line-out. The 23-year-old excelled with England head coach Steve Borthwick watching from the stands as the picture at hooker became more complicated.",
+        "copy": "Sale director of rugby Alex Sanderson is backing Nathan Jibulu to make his England debut in time to be considered for next year’s World Cup after acclaiming his star turn against Saracens.\n\nJibulu was named man of the match in the 21-17 Gallagher Prem victory at StoneX Stadium following a rampaging performance that was accompanied by accuracy at the line-out. The 23-year-old excelled with England head coach Steve Borthwick watching from the stands as the picture at hooker became more complicated.",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Sale Sharks player ratings vs Saracens | 2026/27 Gallagher PREM",
+        "link": "https://www.rugbypass.com/news/sale-sharks-player-ratings-vs-saracens-2026-27-gallagher-prem/",
+        "published": "2026-10-04T17:57:50+00:00",
+        "published_label": "Sun 04 Oct, 17:57",
+        "summary": "Eight days removed from a frustrating home loss to open the season, Alex Sanderson's Sale Sharks pulled off the rarest of away wins at the Stone-X to down Saracens 21 - 17.",
+        "body": "Eight days removed from a frustrating home loss to open the season, Alex Sanderson’s Sale Sharks pulled off the rarest of away wins at the Stone-X to down Saracens 21 – 17. Built on a foundation of defensive belligerence, the Sharks led by Tom Curry, Joe Marchant and Courtney Lawes battered the Saracens attack. Stunting any really opportunities to get flow into their attack, the Sharks overcame a two man deficit to limit Saracens to just five points at half-time.\n\nComing out of the blocks quickly in the second half through a moment of magic by Tom O’Flaherty, the visitors had their tails up. A try by Sione Va’enuku brought the home side back to within a score three minutes later but as had been the case all afternoon, Sanderson’s side responded through Ben Bamber in the 65th minute.",
+        "copy": "Eight days removed from a frustrating home loss to open the season, Alex Sanderson’s Sale Sharks pulled off the rarest of away wins at the Stone-X to down Saracens 21 – 17. Built on a foundation of defensive belligerence, the Sharks led by Tom Curry, Joe Marchant and Courtney Lawes battered the Saracens attack. Stunting any really opportunities to get flow into their attack, the Sharks overcame a two man deficit to limit Saracens to just five points at half-time.\n\nComing out of the blocks quickly in the second half through a moment of magic by Tom O’Flaherty, the visitors had their tails up. A try by Sione Va’enuku brought the home side back to within a score three minutes later but as had been the case all afternoon, Sanderson’s side responded through Ben Bamber in the 65th minute.",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4498,58 +4511,6 @@
         "body": "The Welsh men's rugby season is back, with mixed results for the four professional sides. Cardiff triumphed against Scarlets in the opening United Rugby Championship (URC) Welsh derby, draw specialists Dragons again shared the spoils, while Ospreys came unstuck in South Africa but did claim a four-try bonus.\n\nWelsh exports in England made the headlines in the Prem, with Gloucester new boys Dewi Lake and Jac Morgan demonstrating what Ospreys were missing. BBC Sport looks back at the opening URC weekend and casts an eye on the Welsh players starring in England's top flight.",
         "copy": "The Welsh men's rugby season is back, with mixed results for the four professional sides. Cardiff triumphed against Scarlets in the opening United Rugby Championship (URC) Welsh derby, draw specialists Dragons again shared the spoils, while Ospreys came unstuck in South Africa but did claim a four-try bonus.\n\nWelsh exports in England made the headlines in the Prem, with Gloucester new boys Dewi Lake and Jac Morgan demonstrating what Ospreys were missing. BBC Sport looks back at the opening URC weekend and casts an eye on the Welsh players starring in England's top flight.",
         "first_seen": "2026-09-28T12:50:57.674411+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Sooriyabandara leads Sri Lanka at Asian Games rugby sevens",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDd2UlhURjUzZDBWME1jZGdoNllmRzJNRjFYZDA3bFhuSXo5aktHczE5N2cyYVNPVnR5dDI5bVBEUEQwdzBuZ19udzhOa21FbmxBRDBXNzNwdS1DQVE2Q3hFNHRvSnhia2ZaSDFkU1VEWG5qMGEwbm9kMjBtRnBuaFdYWXJxdnNwaUtNMFVrTVZ0eUFyYWpkdVg5bkZqT0REbGpWeFJycTVHdw?oc=5",
-        "published": "2026-09-27T19:32:52+00:00",
-        "published_label": "Sun 27 Sep, 19:32",
-        "summary": "Sooriyabandara leads Sri Lanka at Asian Games rugby sevens dailynews.lk",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Joe Shaw: Saracens star playing 'four positions' helped win",
-        "link": "https://www.rugbypass.com/news/joe-shaw-feels-cool-heads-key-to-saracens-dramatic-victory-at-leicester/",
-        "published": "2026-09-27T17:42:51+00:00",
-        "published_label": "Sun 27 Sep, 17:42",
-        "summary": "Saracens head coach Joe Shaw believes his team’s dramatic victory at Leicester Tigers was down to them staying cool despite the adversity they faced.",
-        "body": "Saracens head coach Joe Shaw believes his team’s dramatic victory at Leicester Tigers was down to them staying cool despite the adversity they faced. In their opening Gallagher PREM fixture of the season, Sarries lost centre Olly Hartley to an arm injury early in proceedings and flanker Nick Isiekwe to a 20-minute red card in the second half.\n\nThey also had to fight from behind twice against a fired-up Leicester – for whom Gabriel Hamer-Webb scored a hat-trick – with Rotimi Segun’s 73rd-minute try deciding a breathless contest at Mattioli Woods Welford Road.",
-        "copy": "Saracens head coach Joe Shaw believes his team’s dramatic victory at Leicester Tigers was down to them staying cool despite the adversity they faced. In their opening Gallagher PREM fixture of the season, Sarries lost centre Olly Hartley to an arm injury early in proceedings and flanker Nick Isiekwe to a 20-minute red card in the second half.\n\nThey also had to fight from behind twice against a fired-up Leicester – for whom Gabriel Hamer-Webb scored a hat-trick – with Rotimi Segun’s 73rd-minute try deciding a breathless contest at Mattioli Woods Welford Road.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'We take full accountability': Kévin Rouet laments Canada performance in La Rochelle",
-        "link": "https://www.rugbypass.com/news/we-take-full-accountability-kevin-rouet-laments-canada-performance-in-la-rochelle/",
-        "published": "2026-09-27T16:48:52+00:00",
-        "published_label": "Sun 27 Sep, 16:48",
-        "summary": "Canada head coach Kévin Rouet cut a frustrated figure at full-time of his team's 21-5 loss to France in La Rochelle.",
-        "body": "Canada head coach Kévin Rouet cut a frustrated figure at full-time of his team’s 21-5 loss to France in La Rochelle. The 39-year-old watched his team struggle to make an impact against François Ratier’s team on the French west coast, as the hosts controlled the fixture from start to finish. Simply put, Canada were outclassed.\n\nAn Émilie Boulard brace, a try from Alexandra Chambon and conversions from Carla Arbez and Lina Queyroi cancelled out Lizzie Gibson’s 35th-minute try. While Gibson has seen her stock rise with four tries in three WXV Global Series fixtures this autumn, the overall performance was a stark contrast to the 26-all draw with England a week prior and their 10-try win against Scotland a fortnight prior.",
-        "copy": "Canada head coach Kévin Rouet cut a frustrated figure at full-time of his team’s 21-5 loss to France in La Rochelle. The 39-year-old watched his team struggle to make an impact against François Ratier’s team on the French west coast, as the hosts controlled the fixture from start to finish. Simply put, Canada were outclassed.\n\nAn Émilie Boulard brace, a try from Alexandra Chambon and conversions from Carla Arbez and Lina Queyroi cancelled out Lizzie Gibson’s 35th-minute try. While Gibson has seen her stock rise with four tries in three WXV Global Series fixtures this autumn, the overall performance was a stark contrast to the 26-all draw with England a week prior and their 10-try win against Scotland a fortnight prior.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Saracens survive red card to beat Leicester Tigers in PREM opener",
-        "link": "https://www.rugbypass.com/news/late-rotimi-segun-try-settles-thriller-as-saracens-beat-leicester-in-prem-opener/",
-        "published": "2026-09-27T16:41:34+00:00",
-        "published_label": "Sun 27 Sep, 16:41",
-        "summary": "Rotimi Segun’s late try settled a thriller as Saracens opened their Gallagher PREM campaign with a barnstorming 40-38 victory over Leicester Tigers at Mattioli Woods Welford Road.",
-        "body": "Rotimi Segun’s late try settled a thriller as Saracens opened their Gallagher PREM campaign with a barnstorming 40-38 victory over Leicester Tigers at Mattioli Woods Welford Road.\n\nThe visitors withstood losing back rower Nick Isiekwe to a 20-minute red card in the second half and falling behind twice as this early-season heavyweight clash more than lived up to its billing.",
-        "copy": "Rotimi Segun’s late try settled a thriller as Saracens opened their Gallagher PREM campaign with a barnstorming 40-38 victory over Leicester Tigers at Mattioli Woods Welford Road.\n\nThe visitors withstood losing back rower Nick Isiekwe to a 20-minute red card in the second half and falling behind twice as this early-season heavyweight clash more than lived up to its billing.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
       }
     ],
     "Tennis": [
@@ -4669,6 +4630,19 @@
         "body": "World number two Aryna Sabalenka followed Elena Rybakina out of the door at the China Open as she fell to a surprise defeat by 34th-ranked Nikola Bartunkova. It came a day after top seed Rybakina, who defeated Sabalenka in last month's US Open final and replaced the Belarusian at the top of the rankings, was knocked out by Armenian world number 118 Alina Charaeva.\n\nCzech Bartunkova sprung another upset at the WTA 1,000 tournament and continued her breakthrough season with a 6-4 6-3 victory over Sabalenka. \"I focused on myself, to be calm. She's a legend, so I'm really happy that I won the match,\" said 20-year-old Bartunkova, who will face Austria's Sinja Kraus next.",
         "copy": "World number two Aryna Sabalenka followed Elena Rybakina out of the door at the China Open as she fell to a surprise defeat by 34th-ranked Nikola Bartunkova. It came a day after top seed Rybakina, who defeated Sabalenka in last month's US Open final and replaced the Belarusian at the top of the rankings, was knocked out by Armenian world number 118 Alina Charaeva.\n\nCzech Bartunkova sprung another upset at the WTA 1,000 tournament and continued her breakthrough season with a 6-4 6-3 victory over Sabalenka. \"I focused on myself, to be calm. She's a legend, so I'm really happy that I won the match,\" said 20-year-old Bartunkova, who will face Austria's Sinja Kraus next.",
         "first_seen": "2026-10-04T11:46:06.859226+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Elena Rybakina vs Alina Charaeva | China Open highlights",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWXl2LTRWYl9ERUJpVUE0V2ZEQ0lJWm1lVVN0ZUlRWlZ0YU5sNXloX1l6eXIzdXJ3RWpPUkdTRkpzVTFDY1JJMUtMOGl3SGNTc2VtVkQ4VTdqMm13QXB5SklpSnFyaFJuZktHRWRHcGEyNkNXb1JWZA?oc=5",
+        "published": "2026-10-03T16:03:26+00:00",
+        "published_label": "Sat 03 Oct, 16:03",
+        "summary": "Elena Rybakina vs Alina Charaeva | China Open highlights Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
       },
       {
         "section": "Tennis",
@@ -4994,48 +4968,87 @@
         "body": "- Does Andy Murray intend to work with Jack Draper in 2027? Sir Andy Murray is everywhere in the tennis world these days. He spent time with Roger Federer watching the 2026 Laver Cup in London over the weekend.\n\nMurray is also preparing for the \"Rafa Nadal Academy Slam\" on October 3 where he is serving as a team captain and playing with Dominic Thiem, Marat Safin, and a player yet to be named on Team Murray.",
         "copy": "- Does Andy Murray intend to work with Jack Draper in 2027? Sir Andy Murray is everywhere in the tennis world these days. He spent time with Roger Federer watching the 2026 Laver Cup in London over the weekend.\n\nMurray is also preparing for the \"Rafa Nadal Academy Slam\" on October 3 where he is serving as a team captain and playing with Dominic Thiem, Marat Safin, and a player yet to be named on Team Murray.",
         "first_seen": "2026-09-28T12:50:57.674411+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Carlos Alcaraz and Arthur Fery reflect on winning the Laver Cup with Team Europe.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEtIQjhzTXlzSkQ3a1V4b0c0cUwzQk13QUU4Yk93VEVoWUYyRkhWU0dleGVuRWZncm5oNzFNZlNjRXdvVHk3TEZISnpSclhXbWlsSld4ZVVTY2Y5YXpSREZNczVXMUJtZXZSaVVKb3NBeGdqdFV2bEU4WTlnd0JENFFfcTdRUEp0SmFOdjFNNnA1cFhDUEZmcG9XNF85eWFzdGJVc2FJeFpPV0VKdnZGNzhn?oc=5",
-        "published": "2026-09-27T18:52:09+00:00",
-        "published_label": "Sun 27 Sep, 18:52",
-        "summary": "Carlos Alcaraz and Arthur Fery reflect on winning the Laver Cup with Team Europe. Sky Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Laver Cup: US Open champion Alexander Zverev seals victory for Team Europe against Team World at London's O2",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeFVqNzdWOTE5aTB2NGU0U3d0c2FSUXNLMWU4ejRlb1NzRW1NR0o2bUVfSjE0MzZZT01nWjJPMWhnMkd6UHhfdVlLekJRMkpnSy0yRnpYQWhlQTljRDRYMGlidmxXUEVSdE9MZWhEQ2xWMXJQMFpmWTl4dGRkT0tPOVRPTFZUSVQ1NnRiMk5UbzFRUVlSZWpPdGlmQlVxOHhDWHY4U3g5OExDTDF3OXo5QnlIdExZd2VVNWZET3l3Y25jWVROcHJiaEF1R01zdjllZmpvdGVOM3dwRml1T2JtcDBwdk43Z3dv?oc=5",
-        "published": "2026-09-27T18:25:14+00:00",
-        "published_label": "Sun 27 Sep, 18:25",
-        "summary": "Laver Cup: US Open champion Alexander Zverev seals victory for Team Europe against Team World at London's O2 Sky Sports",
-        "body": "Team Europe regained the Laver Cup as newly-crowned US Open champion Alexander Zverev sealed victory against Learner Tien to complete a 13-5 success at The O2 in London on Sunday.\n\nZverev, who won the French Open and US Open titles this year, lived up to his 'best player in the world' tag to secure Laver Cup success give rival Carlos Alcaraz the day off.",
-        "copy": "Team Europe regained the Laver Cup as newly-crowned US Open champion Alexander Zverev sealed victory against Learner Tien to complete a 13-5 success at The O2 in London on Sunday.\n\nZverev, who won the French Open and US Open titles this year, lived up to his 'best player in the world' tag to secure Laver Cup success give rival Carlos Alcaraz the day off.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Zverev comeback leads Europe to Laver Cup victory",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-27T16:55:10+00:00",
-        "published_label": "Sun 27 Sep, 16:55",
-        "summary": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day.",
-        "body": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title. US Open champion Zverev recovered from a disappointing defeat by Team World's Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London's O2 Arena.\n\nAfter Carlos Alcaraz's heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev's triumph.",
-        "copy": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title. US Open champion Zverev recovered from a disappointing defeat by Team World's Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London's O2 Arena.\n\nAfter Carlos Alcaraz's heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev's triumph.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Adrian Meronk of LIV Golf rallies to win Dunhill Links and secure European tour membership",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlhJYWVwV1k0YzQyY2hjbnZmRzg0eXdYbEZiZWxhYURWMmx2QlFlQ2lZX3dvVDdod29ZcGgxYnJnYVBVclJaZFZFZ3ZYZ212VEdqZ2RVM3BXWklWMWE2NUlxREZnbEVOOUV3S3E5VTEyd0d0QzFHeXNEYmduZy1nbnBZWWl1WFhqVzdXVHpidUN5dXNWcHBQSGdqdTRkcXdsZkU3SzZSSVY2TWt0V0hkOEtwaXlpVEZTMzNtVTZTU25PZDQ2TXVEVlJpMnZ1MnlTcFV1NXlRTzJTNXY1eVFoaQ?oc=5",
+        "published": "2026-10-04T20:28:04+00:00",
+        "published_label": "Sun 04 Oct, 20:28",
+        "summary": "Adrian Meronk of LIV Golf rallies to win Dunhill Links and secure European tour membership The Washington Post",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Joaquin Niemann delivers 'the truth' about whether he could return to the PGA Tour with LIV Golf's future in doubt",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNam84QzEwbDlyMWZLeUdvdllNUWxuMTRibDkyZExiaGtaQjhDYzNNeVd4Wl9hdWFscFNCWFdGcTFDNDlRaDI4VjB2QW1DYjZOVGwtRjByX1VndThHV20yVEkwMDRsUkJsTEZ3c2c2SEF5UDcxRDFuV3VMd2FQN0R0VzBBSWVRMDRpVG5HdWpIallaMHJPYXVSWVJQWE5DcE82SW9mbXNBVkFQdHpTWEZINUUyczhBR1FJdWkydkwySEcxYXA1SDdFbjF2T245dw?oc=5",
+        "published": "2026-10-04T20:10:21+00:00",
+        "published_label": "Sun 04 Oct, 20:10",
+        "summary": "Joaquin Niemann delivers 'the truth' about whether he could return to the PGA Tour with LIV Golf's future in doubt hitc.com",
+        "body": "Joaquin Niemann has been the most successful player on LIV Golf during its four-year lifespan, as far as total wins are concerned at least. Niemann has recorded nine wins on LIV Golf since he joined the league in August 2022.\n\nThe 27-year-old from Chile was one of the most highly-rated young players in the game before he joined the Saudi-backed league four years ago. However, after winning twice on the PGA Tour including his victory at the Genesis Invitational, Niemann jumped ship to LIV Golf.",
+        "copy": "Joaquin Niemann has been the most successful player on LIV Golf during its four-year lifespan, as far as total wins are concerned at least. Niemann has recorded nine wins on LIV Golf since he joined the league in August 2022.\n\nThe 27-year-old from Chile was one of the most highly-rated young players in the game before he joined the Saudi-backed league four years ago. However, after winning twice on the PGA Tour including his victory at the Genesis Invitational, Niemann jumped ship to LIV Golf.",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Alfred Dunhill Links Championship: LIV Golf’s Adrian Meronk outlasts Casey Jarvis to claim victory at St Andrews",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMFdEOHQ0akZraHdQbEhvMl9VdGZOTlNCMzlXOXVBM1E2VnZhdGhvYjR0WUpKNGc2X0MzVDRfQTNLbGJQSERhVjNWU0dZMXppaUtaNjBpNVZ1encybnhVUWJMODM2SGFkS05VSmZqdXJzQnVOZmFZOWNEM1pGX3RmV3hra25peDJfczdOTjZadlFwa0R5dklIdXNWNmxZQlJZU1ZaVVBUWDhwZG5vMDJGNm4xMmljM1FXY19PNGRQeVMxWmY5ZVZleGJpeUxubFRwT1BMYjFuUVcxLVUzMEJFRDVHb0Q2MzZNQjI3Uw?oc=5",
+        "published": "2026-10-04T19:41:15+00:00",
+        "published_label": "Sun 04 Oct, 19:41",
+        "summary": "Alfred Dunhill Links Championship: LIV Golf’s Adrian Meronk outlasts Casey Jarvis to claim victory at St Andrews Sky Sports",
+        "body": "Adrian Meronk came from four shots behind to overtake Casey Jarvis and win the Alfred Dunhill Links Championship by two strokes on a gripping final day at St Andrews. The victory saw the LIV Golfer end a 1,078-day wait to claim his fifth DP World Tour title and regain his tour card for next season, as he wrapped up his week with a four-under 68.\n\nJarvis held a two-stroke lead coming into day four at St Andrews, and following a fast start that included back-to-back birdies on holes four and five, he slumped, making bogeys on holes nine and 11.",
+        "copy": "Adrian Meronk came from four shots behind to overtake Casey Jarvis and win the Alfred Dunhill Links Championship by two strokes on a gripping final day at St Andrews. The victory saw the LIV Golfer end a 1,078-day wait to claim his fifth DP World Tour title and regain his tour card for next season, as he wrapped up his week with a four-under 68.\n\nJarvis held a two-stroke lead coming into day four at St Andrews, and following a fast start that included back-to-back birdies on holes four and five, he slumped, making bogeys on holes nine and 11.",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Lost for words': Adrian Meronk's emotional St. Andrews win led to a LIV question",
+        "link": "https://golf.com/news/adrian-meronk-emotional-st-andrews-win-liv-question/",
+        "published": "2026-10-04T19:35:30+00:00",
+        "published_label": "Sun 04 Oct, 19:35",
+        "summary": "Adrian Meronk's emotions came out after an important win at St. Andrews. Then came a question about LIV Golf and his future. The post ‘Lost for words’: Adrian Meronk’s emotional St. Andrews win led to a LIV question appeared first on Golf .",
+        "body": "Adrian Meronk’s professional career started at the Home of Golf, when he made his pro debut on the DP World Tour at the Alfred Dunhill Links Championship in 2016. Ten years later, Meronk broke down in scoring at The Old Course as he watched Casey Jarvis fail to make an eagle from the Valley of Sin to give him the title.\n\n“It’s unreal,” an emotional Meronk said after the win. “I never usually cry but this one feels really special. I’m sorry, I’m just lost for words. To win here after 10 years, after turning pro, it’s a dream come true, and it’s unusual. I’m sorry, I’m at a loss for words, but I’m extremely happy and relieved.”",
+        "copy": "Adrian Meronk’s professional career started at the Home of Golf, when he made his pro debut on the DP World Tour at the Alfred Dunhill Links Championship in 2016. Ten years later, Meronk broke down in scoring at The Old Course as he watched Casey Jarvis fail to make an eagle from the Valley of Sin to give him the title.\n\n“It’s unreal,” an emotional Meronk said after the win. “I never usually cry but this one feels really special. I’m sorry, I’m just lost for words. To win here after 10 years, after turning pro, it’s a dream come true, and it’s unusual. I’m sorry, I’m at a loss for words, but I’m extremely happy and relieved.”",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf’s Adrian Meronk holds nerve to win Alfred Dunhill Links Championship",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zaUNmcjJVWFRycUhxUWJmTXAzSEF6TmlmNmtaQjBCSjd0YWZ4amRMV251dlF3S05uUWxUTmJuZlgtV2tuek5KUUJXWTZVM3liSlI2WWRkTDIwbV9pUE9TeDRrd29SMlBVaWdB?oc=5",
+        "published": "2026-10-04T19:18:00+00:00",
+        "published_label": "Sun 04 Oct, 19:18",
+        "summary": "LIV Golf’s Adrian Meronk holds nerve to win Alfred Dunhill Links Championship Irish Examiner",
+        "body": "LIV Golf’s Adrian Meronk held his nerve over a blustery Old Course at St Andrews to claim a two-shot victory in the Alfred Dunhill Links Championship. The 33-year-old Pole – among the DP World Tour members allowed to play in conflicting LIV Golf tournaments under the 2026 Conditional Release Agreement – made the most of overnight leader Casey Jarvis seeing his challenge fade to finish with a 68 for a 20-under total.\n\nMeronk, who had shot a nine-under 63 in his third round at Kingsbarns, made a fast start in the penultimate group with three birdies in the opening five holes, holing from 35 feet at the first, before a bogey on the seventh, which was soon recovered on the ninth.",
+        "copy": "LIV Golf’s Adrian Meronk held his nerve over a blustery Old Course at St Andrews to claim a two-shot victory in the Alfred Dunhill Links Championship. The 33-year-old Pole – among the DP World Tour members allowed to play in conflicting LIV Golf tournaments under the 2026 Conditional Release Agreement – made the most of overnight leader Casey Jarvis seeing his challenge fade to finish with a 68 for a 20-under total.\n\nMeronk, who had shot a nine-under 63 in his third round at Kingsbarns, made a fast start in the penultimate group with three birdies in the opening five holes, holing from 35 feet at the first, before a bogey on the seventh, which was soon recovered on the ninth.",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "World number 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-04T17:55:17+00:00",
+        "published_label": "Sun 04 Oct, 17:55",
+        "summary": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
+        "body": "On Wednesday, Michael Stewart earned £2,500 for finishing runner-up in the Tartan Pro Tour event at Duddingston Golf Club near Edinburgh. Four days later, the world number 979 has just picked up nearly 100 times that by finishing joint fourth behind winner Adrian Meronk at the Alfred Dunhill Links Championship.\n\nBut what the 36-year-old Scot regards as \"without doubt\" the best week of his career has left him with a dilemma. Finishing in the top 10 - two shots behind Poland's Meronk, one behind Denmark's Niklas Norgaard and South Africa's Casey Jarvis, and tied with England's Tommy Fleetwood - means he qualifies for next week's big-money Spanish Open.",
+        "copy": "On Wednesday, Michael Stewart earned £2,500 for finishing runner-up in the Tartan Pro Tour event at Duddingston Golf Club near Edinburgh. Four days later, the world number 979 has just picked up nearly 100 times that by finishing joint fourth behind winner Adrian Meronk at the Alfred Dunhill Links Championship.\n\nBut what the 36-year-old Scot regards as \"without doubt\" the best week of his career has left him with a dilemma. Finishing in the top 10 - two shots behind Poland's Meronk, one behind Denmark's Niklas Norgaard and South Africa's Casey Jarvis, and tied with England's Tommy Fleetwood - means he qualifies for next week's big-money Spanish Open.",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -5087,6 +5100,19 @@
         "body": "On Saturday at the Old Course at St. Andrews, a DP World Tour golf tournament was interrupted by soccer protesters who threw tennis balls to express their grievances. You’re forgiven if you have to read that twice.\n\nThe tournament was the DP World Tour’s annual Alfred Dunhill Links Championship. Not only is the Dunhill Links played at iconic courses — the Old Course, Carnoustie and Kingsbarns — it includes a concurrent pro-am competition featuring business tycoons, celebrities, star athletes, players’ family members and more.",
         "copy": "On Saturday at the Old Course at St. Andrews, a DP World Tour golf tournament was interrupted by soccer protesters who threw tennis balls to express their grievances. You’re forgiven if you have to read that twice.\n\nThe tournament was the DP World Tour’s annual Alfred Dunhill Links Championship. Not only is the Dunhill Links played at iconic courses — the Old Course, Carnoustie and Kingsbarns — it includes a concurrent pro-am competition featuring business tycoons, celebrities, star athletes, players’ family members and more.",
         "first_seen": "2026-10-04T13:22:58.982276+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Joaquin Niemann: LIV Golf funding issue was \"somewhat predictable\"",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR015b2lKQ2pOTXkzc2QtUmcxMGhmbkJYemN4dUFsTnlLczFueGxXeTN1NHVVbF9wMWRGU01wa1NXLVVKcDVPTnhaRDU1M1pMYl85QzNrNk5lcVMtelZtbHQzVVlPc1hGaWk2QXVYNmVIQ0xiUlNUM0Q3YTlMNjRnZThxZDc2UWpjajBobk5ZU3JXWHZVVGJJQUd0OEU3YjQtM0pNLXpB?oc=5",
+        "published": "2026-10-04T12:41:39+00:00",
+        "published_label": "Sun 04 Oct, 12:41",
+        "summary": "Joaquin Niemann: LIV Golf funding issue was \"somewhat predictable\" Golfmagic",
+        "body": "Joaquin Niemann says the decision by LIV Golf's financiers to scale back their support was \"somewhat predictable\" as he revealed he remains undecided over whether to commit his future to the league.\n\nThe Chilean is one of the breakaway tour's leading players and has earned close to $90m on the course since leaving the PGA Tour in 2022. Niemann has won nine individual titles with LIV, but despite that success, there has been speculation that the 31-year-old could be considering a return to the PGA Tour.",
+        "copy": "Joaquin Niemann says the decision by LIV Golf's financiers to scale back their support was \"somewhat predictable\" as he revealed he remains undecided over whether to commit his future to the league.\n\nThe Chilean is one of the breakaway tour's leading players and has earned close to $90m on the course since leaving the PGA Tour in 2022. Niemann has won nine individual titles with LIV, but despite that success, there has been speculation that the 31-year-old could be considering a return to the PGA Tour.",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
       },
       {
         "section": "Golf",
@@ -6569,97 +6595,6 @@
         "body": "U.S. captain Brandt Snedeker knows that no lead is safe around Medinah. Snedeker was on the U.S. Ryder Cup team that blew a 10-6 lead to the Europeans at the Chicago course in 2012.\n\nSo while Snedeker’s team entered Sunday at the 2026 Presidents Cup trailing the Internationals 10.5-7.5, he believed that things were far from over. That belief — in both his team and whatever Medinah mystique might exist — proved prophetic on Sunday as the Americans came out early in singles with a flurry of haymakers to grab the momentum and put the pressure on the underdog Internationals before polishing off a Sunday comeback, the biggest in Presidents Cup history.",
         "copy": "U.S. captain Brandt Snedeker knows that no lead is safe around Medinah. Snedeker was on the U.S. Ryder Cup team that blew a 10-6 lead to the Europeans at the Chicago course in 2012.\n\nSo while Snedeker’s team entered Sunday at the 2026 Presidents Cup trailing the Internationals 10.5-7.5, he believed that things were far from over. That belief — in both his team and whatever Medinah mystique might exist — proved prophetic on Sunday as the Americans came out early in singles with a flurry of haymakers to grab the momentum and put the pressure on the underdog Internationals before polishing off a Sunday comeback, the biggest in Presidents Cup history.",
         "first_seen": "2026-09-28T12:50:57.674411+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Cam Smith on LIV 2.0 decision: Need 'more answers'",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjBxZnVUQzBjY3VablZCZ1BRUk95bGEyaWhMeXJERlQtUXNWdmxPOHl1aWdBRmFVaEtIRzdkSTZnNmxYanFBQng3YThwX1d2Y1ZBenJvVEVHOU9JQlVkb3E4b3VGbS1rMjVuWW1ObFNjRmJ2YTJzTzdabFhLRWVxVkQ5MmhJZ3B5VjFPWVBxREs1ZnV1c3RmQ1BmMHM?oc=5",
-        "published": "2026-09-27T20:19:44+00:00",
-        "published_label": "Sun 27 Sep, 20:19",
-        "summary": "Cam Smith on LIV 2.0 decision: Need 'more answers' Reuters",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Presidents Cup Sunday TV coverage: How to watch Day 4 at Medinah",
-        "link": "https://golf.com/news/2026-presidents-cup-sunday-tv-coverage-how-to-watch-day-4-at-medinah/",
-        "published": "2026-09-27T19:23:52+00:00",
-        "published_label": "Sun 27 Sep, 19:23",
-        "summary": "How to watch the 2026 Presidents Cup on Sunday at Medinah, including full Presidents Cup TV coverage for the Day 4 matches. The post 2026 Presidents Cup Sunday TV coverage: How to watch Day 4 at Medinah appeared first on Golf .",
-        "body": "Heading into Sunday’s final round of the Presidents Cup at Medinah Country Club, the International Team holds a three-point lead over the United States Team, with the score at 10.5-7.5.\n\nAfter opening the week with a 3-2 four-ball advantage and getting swept 5-0 in Friday’s alternate-shot foursomes, the U.S. showed some resilience Saturday. They came out swinging, winning the morning four-ball session 2.5-1.5 before splitting the afternoon foursomes — and keeping themselves in the fight.",
-        "copy": "Heading into Sunday’s final round of the Presidents Cup at Medinah Country Club, the International Team holds a three-point lead over the United States Team, with the score at 10.5-7.5.\n\nAfter opening the week with a 3-2 four-ball advantage and getting swept 5-0 in Friday’s alternate-shot foursomes, the U.S. showed some resilience Saturday. They came out swinging, winning the morning four-ball session 2.5-1.5 before splitting the afternoon foursomes — and keeping themselves in the fight.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "How this week’s Presidents Cup has dealt yet another blow to LIV Golf’s survival hopes",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjN3WDBNM010STAzd1Vfc1RTcms3SEZ3ekpUdVFqQTlBcXJBa08tNjRzUEFvWHJ3MU5NWlJDLUVYaUVaZzVpamQtOWMzc1FuNjRSY0YwQmV6S1RGUGRNUGpzUV90VkJ1eVBDUEF5My12Ym9haXE4MmNyWFJxQnpaRm9xZlo?oc=5",
-        "published": "2026-09-27T18:30:00+00:00",
-        "published_label": "Sun 27 Sep, 18:30",
-        "summary": "How this week’s Presidents Cup has dealt yet another blow to LIV Golf’s survival hopes Yahoo Sports",
-        "body": "Whatever happens on Sunday at Medinah, this year's Presidents Cup has unquestionably been a triumph that the event desperately needed. The International Team went into the singles with their first ever lead on American soil. There is no question that Geoff Ogilvy has completely outshone Brandt Snedeker, and given his side a phenomenal opportunity to secure their first victory since 1998.\n\nThe Internationals have certainly silenced those of us who had awarded the trophy to Team USA before a single shot had been hit this week. And with that, it is perhaps fair to say that this year's Presidents Cup has dealt yet another blow to LIV Golf by proving that those who made the jump are not needed.",
-        "copy": "Whatever happens on Sunday at Medinah, this year's Presidents Cup has unquestionably been a triumph that the event desperately needed. The International Team went into the singles with their first ever lead on American soil. There is no question that Geoff Ogilvy has completely outshone Brandt Snedeker, and given his side a phenomenal opportunity to secure their first victory since 1998.\n\nThe Internationals have certainly silenced those of us who had awarded the trophy to Team USA before a single shot had been hit this week. And with that, it is perhaps fair to say that this year's Presidents Cup has dealt yet another blow to LIV Golf by proving that those who made the jump are not needed.",
-        "first_seen": "2026-09-28T12:50:57.674411+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Cameron Young, Chris Gotterup explain perfect Presidents Cup pairing",
-        "link": "https://golf.com/news/presidents-cup-cameron-young-chris-gotterup-work-well-together/",
-        "published": "2026-09-27T18:04:07+00:00",
-        "published_label": "Sun 27 Sep, 18:04",
-        "summary": "Cameron Young and Chris Gotterup dominated on Saturday at Medinah. Here's what went right and why they work so well together. The post Cameron Young, Chris Gotterup explain perfect Presidents Cup pairing appeared first on Golf .",
-        "body": "After getting swept on Day 2 of the Presidents Cup, it seemed like things were unraveling for the U.S. team—but one pairing dominated on Saturday at Medinah and kept the Americans in the hunt: Cameron Young and Chris Gotterup.\n\nYoung and Gotterup were sent out together for the four-ball and foursomes sessions on Saturday—and they won both. Their first match of the day came against Nick Taylor and Corey Conners, who had found their rhythm the day before, taking down Scottie Scheffler and Sam Burns in Friday’s alternate-shot foursomes session. But Young and Gotterup were able to hold them off, beating the Canadians 2 and 1.",
-        "copy": "After getting swept on Day 2 of the Presidents Cup, it seemed like things were unraveling for the U.S. team—but one pairing dominated on Saturday at Medinah and kept the Americans in the hunt: Cameron Young and Chris Gotterup.\n\nYoung and Gotterup were sent out together for the four-ball and foursomes sessions on Saturday—and they won both. Their first match of the day came against Nick Taylor and Corey Conners, who had found their rhythm the day before, taking down Scottie Scheffler and Sam Burns in Friday’s alternate-shot foursomes session. But Young and Gotterup were able to hold them off, beating the Canadians 2 and 1.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "How this week’s Presidents Cup has dealt yet another blow to LIV Golf’s survival hopes",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbS1QMlhnRDJrbnRJTnYydnpSTWwxVU9aWFBwT1V0Zkw3cUc0X2ZfMmpFQUpJMU5xVExJVllrSHhWVHlJSmtHUExSLXZESGxlRzBLdGRSdUZWZFFlRnR2ZVlOTG9SZ2xtYnBoTC1ueE85aGVWQzNlR2FkV0ZsOGotZ05XeS11OXlsMFpWZzVLcXN3SzUyN051a1ctVHV6XzJDTktpNDJ0NHZFZw?oc=5",
-        "published": "2026-09-27T18:00:00+00:00",
-        "published_label": "Sun 27 Sep, 18:00",
-        "summary": "How this week’s Presidents Cup has dealt yet another blow to LIV Golf’s survival hopes hitc.com",
-        "body": "Whatever happens on Sunday at Medinah, this year’s Presidents Cup has unquestionably been a triumph that the event desperately needed. The International Team went into the singles with their first ever lead on American soil. There is no question that Geoff Ogilvy has completely outshone Brandt Snedeker, and given his side a phenomenal opportunity to secure their first victory since 1998.\n\nWho will win the Presidents Cup and what will be the final score? The Internationals need just five points for a historic victory! The Internationals have certainly silenced those of us who had awarded the trophy to Team USA before a single shot had been hit this week.",
-        "copy": "Whatever happens on Sunday at Medinah, this year’s Presidents Cup has unquestionably been a triumph that the event desperately needed. The International Team went into the singles with their first ever lead on American soil. There is no question that Geoff Ogilvy has completely outshone Brandt Snedeker, and given his side a phenomenal opportunity to secure their first victory since 1998.\n\nWho will win the Presidents Cup and what will be the final score? The Internationals need just five points for a historic victory! The Internationals have certainly silenced those of us who had awarded the trophy to Team USA before a single shot had been hit this week.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "What players and captains earn at the Presidents Cup",
-        "link": "https://golf.com/news/what-players-captains-get-paid-presidents-cup/",
-        "published": "2026-09-27T17:58:54+00:00",
-        "published_label": "Sun 27 Sep, 17:58",
-        "summary": "At the Presidents Cup, performance has no bearing on payout, but the winning team walks off with a golden prize. The post What players and captains earn at the Presidents Cup appeared first on Golf .",
-        "body": "There was a time when playing for pride and country was enough. At its birth in 1994, the Presidents Cup paid its competitors exactly nothing. Every dollar the event generated went to charity. For 13 editions, from 1994 through 2021, no player, captain or vice captain received a cent personally. The Tour allocated money in their names to charities of their choosing instead.\n\nThat changed in 2022, when the PGA Tour introduced a $250,000 stipend for participants to use at their own discretion. The money is no longer earmarked for charity, though many players and captains still choose to give it all away. The Tour also continues to guarantee at least $1 million in charitable impact for the host city.",
-        "copy": "There was a time when playing for pride and country was enough. At its birth in 1994, the Presidents Cup paid its competitors exactly nothing. Every dollar the event generated went to charity. For 13 editions, from 1994 through 2021, no player, captain or vice captain received a cent personally. The Tour allocated money in their names to charities of their choosing instead.\n\nThat changed in 2022, when the PGA Tour introduced a $250,000 stipend for participants to use at their own discretion. The money is no longer earmarked for charity, though many players and captains still choose to give it all away. The Tour also continues to guarantee at least $1 million in charitable impact for the host city.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Fitzpatrick wins in France for fourth title of season",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cky9z3d0978ro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-27T17:06:20+00:00",
-        "published_label": "Sun 27 Sep, 17:06",
-        "summary": "England's Matt Fitzpatrick secures his fourth title of the season with a three-shot win at the French Open in Paris.",
-        "body": "England's Matt Fitzpatrick secured his fourth title of the season with a three-shot win at the French Open in Paris. Fitzpatrick carded a one-under-par 70 to hold off the challenge of Spain's Angel Hidalgo at Le Golf National.\n\nThe 32-year-old has already won the Valspar Championship and RBC Heritage titles on the PGA Tour this year, as well as the Zurich Classic team event in New Orleans alongside younger brother Alex.",
-        "copy": "England's Matt Fitzpatrick secured his fourth title of the season with a three-shot win at the French Open in Paris. Fitzpatrick carded a one-under-par 70 to hold off the challenge of Spain's Angel Hidalgo at Le Golf National.\n\nThe 32-year-old has already won the Valspar Championship and RBC Heritage titles on the PGA Tour this year, as well as the Zurich Classic team event in New Orleans alongside younger brother Alex.",
-        "first_seen": "2026-09-27T20:50:22.962430+00:00"
       }
     ],
     "Badminton": [
@@ -6688,6 +6623,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-04T16:25:24.178603+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "‘It’s a Dream Coming True’",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HRFZDYkp1dmNUdFpoS201OWlTY2FZanc1WkxTZDNnYzgxd2lXSUxmeE5wWFdDaGdrdFB5LWt0Tlc1UWx5eWpESGI4TTV0aDNLemNQV3VKQW1JZHVEZGVmRGRxS0RhckhER3ZtaklNX2ZzdFU?oc=5",
+        "published": "2026-10-03T17:47:11+00:00",
+        "published_label": "Sat 03 Oct, 17:47",
+        "summary": "‘It’s a Dream Coming True’ BWF",
+        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+        "first_seen": "2026-10-04T20:52:23.029199+00:00"
       },
       {
         "section": "Badminton",
@@ -7005,5 +6953,5 @@
       }
     ]
   },
-  "total": 537
+  "total": 533
 }
