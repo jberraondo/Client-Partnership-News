@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T13:31:42.138810+00:00",
-  "generated_label": "Monday 05 October 2026, 13:31 UTC",
+  "generated_at": "2026-10-05T16:16:59.475536+00:00",
+  "generated_label": "Monday 05 October 2026, 16:16 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "NHL agrees multi-year Sofascore tie-up",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xYjNmLXEtX2tEMFhnWFM4dnFKaDNZSTNKdzhXTHdXTzRMU1U4M19ONC02dlNZczBCUlRzYl9nV3U0OG9OZ29Pd194VEpJQ3pLMVFYUjNYNlFTQ1dvZmZZaE1CVVFfRWR2cUd0bHU1SVk5UHl2QXdkdw?oc=5",
+        "published": "2026-10-05T14:52:12+00:00",
+        "published_label": "Mon 05 Oct, 14:52",
+        "summary": "NHL agrees multi-year Sofascore tie-up Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-05T16:16:59.475536+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -193,6 +206,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-05T13:31:42.138810+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "The executive MBA in data and charts",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2lpdHJvbXpNQjZMamZKN0hwS1Q3bkhPZmtTdzhRMkc1SWlmZmhRTnNEOVY3NkRTY0ZhU3Nib3J0TVBFT0R2a0R0aXpsYTJFQ3dMeFNaSmhFV3A1Y2daRWJ6YjM5NUJvNHo4MUwtUkdseEROS3lEWno5RTVfVnFxZVpjbFI?oc=5",
+        "published": "2026-10-05T03:30:02+00:00",
+        "published_label": "Mon 05 Oct, 03:30",
+        "summary": "The executive MBA in data and charts Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-05T16:16:59.475536+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1649,87 +1675,35 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Premier Padel, FIP appoint Sportradar as integrity partner",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRk5vc1MwclQwckV0QzV0NnJPVUp6WVNDRUxoMnBwZlhWZHh2WFlQZDVrRkUtMzZyeWY3WW9EakluWkdFT25BcWZ4ekZSbkRRZVA5ZzNPU1VRMURTZENqZFBxczdmQjRNZFdveHR3WGNYaEJlNVdISmg3Rkgwb2hVaFNSbDNtVlRnTlRDT1l5azMxZw?oc=5",
-        "published": "2026-09-28T14:51:49+00:00",
-        "published_label": "Mon 28 Sep, 14:51",
-        "summary": "Premier Padel, FIP appoint Sportradar as integrity partner Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "NHL added to Adobe’s sports sponsorship stable",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeEZNVy1GU3lJMm9OTWViRl91WlhUdzRRVklyaEtlRHMxRjhnQ3o3SFBWTVRGVnBkN2lOcVlsR3ViWjJOOTNJWXRvejBiSkdXSGJPUXdadjAtd3ltYmJ2T1ZicGtLQ3l4SUx1bHM1YXViT2oxVjBNNGhpSTVBdXZTOTB3?oc=5",
-        "published": "2026-09-28T14:21:49+00:00",
-        "published_label": "Mon 28 Sep, 14:21",
-        "summary": "NHL added to Adobe’s sports sponsorship stable Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Winamax extends as EHF Finals title sponsor through 2028",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0FDdzZkODd6aVZyczhsUmpRdjhqdWVJSi1aZl9FQ3JfdXozUWZ0dy1XR016TnluRnNwNkpaa0FWN3lYNDVvbExsTWJOZmRDTUhSaXJsUjYxa2ZfYWc1SGZzN2FZaFRZbnFiTlZFSEhLVllicjF4ZkdPVXNUN3BVLTB0WUdOWl8wTUgxbktRQVE?oc=5",
-        "published": "2026-09-28T14:21:49+00:00",
-        "published_label": "Mon 28 Sep, 14:21",
-        "summary": "Winamax extends as EHF Finals title sponsor through 2028 Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "NHL added to Adobe’s sports sponsorship stable",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGhZMkllbkF6cG5fYW5wLW5IT24zaFhORVlLdDVJSEUwVTFadmd5T0M2al80UHlsNFZyY3FBQ2FMWHdSUXFNR0NRSEpoeW9sOFhGWjZDTVRXYTRfVjE5M3Y4ZjlkVTJYemZHYmk1R2diWmdXNWhqQVpjMWtzWUNybEhHX1p5cTExZFhj?oc=5",
-        "published": "2026-09-28T14:21:49+00:00",
-        "published_label": "Mon 28 Sep, 14:21",
-        "summary": "NHL added to Adobe’s sports sponsorship stable Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-29T12:05:53.772052+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Introducing Systane® PRO PRESERVATIVE-FREE: Alcon's Longest Lasting, Triple-Action Formula for up to 12 Hours of Dry Eye Symptom Relief – Company Announcement - FT.com",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjJGeU9GaXBsOE1iSHhwbEFPU01DT1E5NG5nOGNMVUhyNndBSnlaVWdEQkpnWU05YnZkbmNtbHkyNjBkUEJCM2RqNlBWdkdoOVVoZk5YcWRNZFF6WGRMSk12TVBVV2JRZGJzVmlwM3RfSzUwT1BrMVBpMEU2SjJXOS1nZzlQbnlzN3FBWkhXajlodEZzbUZDVFMwVkl5YThUNFhrM1ZB?oc=5",
-        "published": "2026-09-28T14:15:00+00:00",
-        "published_label": "Mon 28 Sep, 14:15",
-        "summary": "Introducing Systane® PRO PRESERVATIVE-FREE: Alcon's Longest Lasting, Triple-Action Formula for up to 12 Hours of Dry Eye Symptom Relief – Company Announcement - FT.com Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Introducing Systane® PRO PRESERVATIVE-FREE: Alcon's Longest Lasting, Triple-Action Formula for up to 12 Hours of Dry Eye Symptom Relief – Company Announcement - FT.com",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3BQLUcyMEpRYThQeTZpMzMxNHZ0MDdIM3kxYU05VEJWSzlzcy1wMm9RbUJRa1JaZVBOZHBIMkI1R3VsdXZxV0hYMlB6RzBqYmpCUkZIZGl6QVQ2LThrLVJ1M1dwbmtUcWEyLWk0MlBPOTZfTnY5RUVyd05OcGRGb0JOZEFPQ004VjlOMmtUc3F0M2JWbUxpaTR6SWFlLVo1N2hn?oc=5",
-        "published": "2026-09-28T14:15:00+00:00",
-        "published_label": "Mon 28 Sep, 14:15",
-        "summary": "Introducing Systane® PRO PRESERVATIVE-FREE: Alcon's Longest Lasting, Triple-Action Formula for up to 12 Hours of Dry Eye Symptom Relief – Company Announcement - FT.com Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'Gloucester deserves a top rugby team playing at the top of the league'",
+        "link": "https://www.rugbypass.com/news/gloucester-deserves-a-top-rugby-team-playing-at-the-top-of-the-league/",
+        "published": "2026-10-05T14:38:08+00:00",
+        "published_label": "Mon 05 Oct, 14:38",
+        "summary": "Winless after their first two games last season, and sat eighth in the table, Gloucester have flipped the script this term and breezed past Exeter 45-24 and Harlequins 48-0.",
+        "body": "After two bonus point wins from two, Gloucester are sitting pretty at the top of the Gallagher PREM table, ahead of West Country rivals Bristol and Bath on points difference. It may be early days, but the turnaround at Kingsholm is quickly becoming one of the early storylines of the season.\n\nWinless after their first two games last season, and sat eighth in the table, Gloucester have flipped the script this term and breezed past Exeter 45-24 and Harlequins 48-0. It is the first time since the start of the 2007/08 season, the year they finished the regular season in first place but lost in the semi-finals of the playoffs to an Andy Goode drop goal, that the Cherry & Whites have looked down on the rest of the PREM two matches in.",
+        "copy": "After two bonus point wins from two, Gloucester are sitting pretty at the top of the Gallagher PREM table, ahead of West Country rivals Bristol and Bath on points difference. It may be early days, but the turnaround at Kingsholm is quickly becoming one of the early storylines of the season.\n\nWinless after their first two games last season, and sat eighth in the table, Gloucester have flipped the script this term and breezed past Exeter 45-24 and Harlequins 48-0. It is the first time since the start of the 2007/08 season, the year they finished the regular season in first place but lost in the semi-finals of the playoffs to an Andy Goode drop goal, that the Cherry & Whites have looked down on the rest of the PREM two matches in.",
+        "first_seen": "2026-10-05T16:16:59.475536+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Cardiff try machine Tom Bowen happy for the 'small' wins",
+        "link": "https://www.rugbypass.com/news/cardiff-try-machine-tom-bowen-happy-for-the-small-wins/",
+        "published": "2026-10-05T13:44:53+00:00",
+        "published_label": "Mon 05 Oct, 13:44",
+        "summary": "He scored a brace of tries in last Friday’s 47-27 bonus point victory over Zebre Parma at the Arms Park, taking his tally to 13 from 21 appearances in all competitions for the club.",
+        "body": "Try machine Tom Bowen has a simple message for all smaller players in the game: “Back yourself”. At 5ft 7ins and 11st 11lbs, the Cardiff Rugby winger is dwarfed by some of the giants on the circuit, but he is standing tall with his performances.\n\nHe scored a brace of tries in last Friday’s 47-27 bonus point victory over Zebre Parma at the Arms Park, taking his tally to 13 from 21 appearances in all competitions for the club.",
+        "copy": "Try machine Tom Bowen has a simple message for all smaller players in the game: “Back yourself”. At 5ft 7ins and 11st 11lbs, the Cardiff Rugby winger is dwarfed by some of the giants on the circuit, but he is standing tall with his performances.\n\nHe scored a brace of tries in last Friday’s 47-27 bonus point victory over Zebre Parma at the Arms Park, taking his tally to 13 from 21 appearances in all competitions for the club.",
+        "first_seen": "2026-10-05T16:16:59.475536+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4394,126 +4368,35 @@
         "body": "Asia Rugby has announced the Emirates Match Officials appointed for the rugby sevens competition at the Aichi–Nagoya 2026 Asian Games. The tournament will take place in Nagoya, Japan, from 1 to 3 October, bringing together the region’s leading men’s and women’s teams.\n\nThe officiating team includes 17 referees from across Asia, supported by assistant referees, performance reviewers and television match officials. The appointments reflect Asia Rugby’s continued investment in developing a strong regional pathway for match officials.",
         "copy": "Asia Rugby has announced the Emirates Match Officials appointed for the rugby sevens competition at the Aichi–Nagoya 2026 Asian Games. The tournament will take place in Nagoya, Japan, from 1 to 3 October, bringing together the region’s leading men’s and women’s teams.\n\nThe officiating team includes 17 referees from across Asia, supported by assistant referees, performance reviewers and television match officials. The appointments reflect Asia Rugby’s continued investment in developing a strong regional pathway for match officials.",
         "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "World Rugby rankings: Wallaroos leapfrog Scotland after Edinburgh win",
-        "link": "https://www.rugbypass.com/news/world-rugby-rankings-wallaroos-leapfrog-scotland-after-edinburgh-win/",
-        "published": "2026-09-28T16:03:32+00:00",
-        "published_label": "Mon 28 Sep, 16:03",
-        "summary": "The Wallaroos have jumped up two places in the World Rugby rankings thanks to their 30-10 win against the Scotland in Edinburgh.",
-        "body": "The Wallaroos have jumped up two places in the World Rugby rankings thanks to their 30-10 victory over Scotland in Edinburgh. Led by Director of Women’s High Performance Tim Walsh during the WXV Global Series, alongside a number of interim coaches ahead of Sione Fukofuka’s arrival as head coach in January, the side played their second Test of the year against the Scots at Hive Stadium.\n\nIt was an historic afternoon for the women in gold. Michaela Leonard became the first player to earn 50 caps for the Wallaroos, while Desiree Miller’s try saw her become the first player to gain 100 Test points for the team.",
-        "copy": "The Wallaroos have jumped up two places in the World Rugby rankings thanks to their 30-10 victory over Scotland in Edinburgh. Led by Director of Women’s High Performance Tim Walsh during the WXV Global Series, alongside a number of interim coaches ahead of Sione Fukofuka’s arrival as head coach in January, the side played their second Test of the year against the Scots at Hive Stadium.\n\nIt was an historic afternoon for the women in gold. Michaela Leonard became the first player to earn 50 caps for the Wallaroos, while Desiree Miller’s try saw her become the first player to gain 100 Test points for the team.",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Standout stats from WXV Global Series Challenger 2026",
-        "link": "https://www.rugbypass.com/news/standout-stats-from-wxv-global-series-challenger-2026/",
-        "published": "2026-09-28T16:00:48+00:00",
-        "published_label": "Mon 28 Sep, 16:00",
-        "summary": "Fans will have to wait two weeks to enjoy another round of the WXV Global Series, but this time without any sparks from the Challenger, as the competition’s curtain has already fallen.",
-        "body": "Fans will have to wait two weeks to enjoy another round of the WXV Global Series, but this time without any sparks from the Challenger, as the competition’s curtain has already fallen.\n\nFiji took the title home, while the Netherlands and Spain rounded out the podium in an enticing, action-packed competition that put Hong Kong China in the spotlight. But before we put a lid on the WXV Global Series Challenger box, let’s unravel some of the most standout stats of an unforgettable tournament.",
-        "copy": "Fans will have to wait two weeks to enjoy another round of the WXV Global Series, but this time without any sparks from the Challenger, as the competition’s curtain has already fallen.\n\nFiji took the title home, while the Netherlands and Spain rounded out the podium in an enticing, action-packed competition that put Hong Kong China in the spotlight. But before we put a lid on the WXV Global Series Challenger box, let’s unravel some of the most standout stats of an unforgettable tournament.",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Rugby Union Weekly",
-        "link": "https://www.bbc.co.uk/sounds/play/p0pcx6gd?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-28T15:55:00+00:00",
-        "published_label": "Mon 28 Sep, 15:55",
-        "summary": "Ashy, Ugo and Chris dissect a try-filled opening Prem weekend. Plus, the Boks are beaten!",
-        "body": "There were 52 tries, four away wins and three hat-tricks as the Prem returned after its long summer break. Ashy, Ugo and Chris discuss who made the biggest statement on the opening weekend. Was it Saracens surviving a 20-minute red card at Welford Road? Or Gloucester’s demolition of last season’s finalists Exeter? Ashy reacts to Christian Wade closing in on his Prem try record and we discuss the impact of the Welsh players who have joined the league. There’s more on the Red Roses dramatic over the Black Ferns and Australia’s sensational win over the Springboks. Is this a sign of things to come from the Wallabies ahead of 2027?",
-        "copy": "There were 52 tries, four away wins and three hat-tricks as the Prem returned after its long summer break. Ashy, Ugo and Chris discuss who made the biggest statement on the opening weekend. Was it Saracens surviving a 20-minute red card at Welford Road? Or Gloucester’s demolition of last season’s finalists Exeter? Ashy reacts to Christian Wade closing in on his Prem try record and we discuss the impact of the Welsh players who have joined the league. There’s more on the Red Roses dramatic over the Black Ferns and Australia’s sensational win over the Springboks. Is this a sign of things to come from the Wallabies ahead of 2027?",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Canada's Women's Rugby World Cup 2025 run featured in four-part documentary",
-        "link": "https://www.rugbypass.com/news/canadas-womens-rugby-world-cup-2025-run-featured-in-four-part-documentary/",
-        "published": "2026-09-28T15:35:51+00:00",
-        "published_label": "Mon 28 Sep, 15:35",
-        "summary": "Canada's run to the Women's Rugby World Cup 2025 final will be immortalised by a four-part documentary series.",
-        "body": "Canada’s remarkable run to the 2025 Women’s Rugby World Cup final will be revisited in a new four-part documentary series offering unprecedented behind-the-scenes access to Kévin Rouet’s side.\n\nALL HEART: A RUGBY STORY follows Canada from their World Cup campaign through to their final against England at Allianz Stadium, where the Red Roses claimed a 33-13 victory. The documentary has been directed by award-winning filmmaker Kathleen Jayme. Previously, Jayme co-wrote Naomi Osaka: The Second Set and Finding Big Country.",
-        "copy": "Canada’s remarkable run to the 2025 Women’s Rugby World Cup final will be revisited in a new four-part documentary series offering unprecedented behind-the-scenes access to Kévin Rouet’s side.\n\nALL HEART: A RUGBY STORY follows Canada from their World Cup campaign through to their final against England at Allianz Stadium, where the Red Roses claimed a 33-13 victory. The documentary has been directed by award-winning filmmaker Kathleen Jayme. Previously, Jayme co-wrote Naomi Osaka: The Second Set and Finding Big Country.",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Noah Brown: Brive's 6ft 9ins, 124kg teen eligible for England and the Springboks and targeting Test rugby",
-        "link": "https://www.rugbypass.com/plus/noah-brown-brives-6ft-9ins-124kg-teenager-eligible-for-england-and-the-springboks-and-targeting-test-rugby/",
-        "published": "2026-09-28T15:22:28+00:00",
-        "published_label": "Mon 28 Sep, 15:22",
-        "summary": "Six months ago, the giant 19-year-old had no club and scant prospects. Now he's signed up in France and picquing the interest of Rassie Erasmus.",
-        "body": "In just a few wild months, Noah Brown’s dreams have begun to come true. He has gone from club-less and stymied in England, to attracting suitors at the very top of French rugby, piquing the interest of the game’s thought leader, Rassie Erasmus, and training with Courtney Lawes, the ageless England hitman. As he sat on Zoom calls this spring with some of the biggest teams in Europe, the 19-year-old found it hard to process how drastically, and how swiftly, his life was changing.\n\nBrown is a second-row with an eye-catching profile and ambition to match his size. He stands 6ft 9ins tall and weighs 124kg. Even in the age of protein-infused He-Men, those are mighty numbers. He was born in Port Elizabeth to a South African mother and English father, raised in Greater London, and holds eligibility for both nations. Brown is hungry to wear the colours of either U20s team, a point he hammers home repeatedly. Fresh from Oxford College, he has signed for Brive in the ProD2 and begun his first season with the club’s espoirs (effectively, academy) side.",
-        "copy": "In just a few wild months, Noah Brown’s dreams have begun to come true. He has gone from club-less and stymied in England, to attracting suitors at the very top of French rugby, piquing the interest of the game’s thought leader, Rassie Erasmus, and training with Courtney Lawes, the ageless England hitman. As he sat on Zoom calls this spring with some of the biggest teams in Europe, the 19-year-old found it hard to process how drastically, and how swiftly, his life was changing.\n\nBrown is a second-row with an eye-catching profile and ambition to match his size. He stands 6ft 9ins tall and weighs 124kg. Even in the age of protein-infused He-Men, those are mighty numbers. He was born in Port Elizabeth to a South African mother and English father, raised in Greater London, and holds eligibility for both nations. Brown is hungry to wear the colours of either U20s team, a point he hammers home repeatedly. Fresh from Oxford College, he has signed for Brive in the ProD2 and begun his first season with the club’s espoirs (effectively, academy) side.",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "WXV Global Series Challenger 2026 | Team of the Tournament",
-        "link": "https://www.rugbypass.com/news/wxv-global-series-challenger-2026-team-of-the-tournament/",
-        "published": "2026-09-28T15:00:13+00:00",
-        "published_label": "Mon 28 Sep, 15:00",
-        "summary": "After a sensational WXV Global Series Challenger, it’s time to pick the team of the tournament, selecting the fifteen players who made a lasting impact and were standouts throughout the competition.",
-        "body": "After a sensational WXV Global Series Challenger, it’s time to pick the team of the tournament, selecting the fifteen players who made a lasting impact and were standouts throughout the competition.\n\nThe champions, the Fijiana, have five players in the 15 – while the Netherlands and Hong Kong China have four and three players’ each. One of the few constants for Las Leonas. Amalia Argudo brought her A-game to the WXV Global Series Challenger, piecing together several plays that led Spain into try-scoring glory. When the dust settled, Argudo had landed 26 points, in what was potentially one of her best showings in  the Test match scene.",
-        "copy": "After a sensational WXV Global Series Challenger, it’s time to pick the team of the tournament, selecting the fifteen players who made a lasting impact and were standouts throughout the competition.\n\nThe champions, the Fijiana, have five players in the 15 – while the Netherlands and Hong Kong China have four and three players’ each. One of the few constants for Las Leonas. Amalia Argudo brought her A-game to the WXV Global Series Challenger, piecing together several plays that led Spain into try-scoring glory. When the dust settled, Argudo had landed 26 points, in what was potentially one of her best showings in  the Test match scene.",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Leinster lose two of their touring squad ahead of trip to Sharks",
-        "link": "https://www.rugbypass.com/news/leinster-lose-two-players-ahead-of-trip-to-sharks/",
-        "published": "2026-09-28T14:49:40+00:00",
-        "published_label": "Mon 28 Sep, 14:49",
-        "summary": "Leinster head coach Leo Cullen has issued an injury update has confirmed that two of their squad members for the current tour of South Africa...",
-        "body": "Leinster head coach Leo Cullen has issued an injury update has confirmed that two of their squad members for the current tour of South Africa have been ruled out of selection for the Sharks game at Hollywoodbets Kings Park on Saturday.\n\nLeinster’s title defence got off to a mediocre start on Saturday when they lost 27-26 to the Lions in Ellis Park in Johannesburg. Scrum-half Fintan Gunne starred with a first-half hat-trick as Leo Cullen’s side took a 19-17 lead into the break. However, the Lions battled back through Erich Cronje’s second try, Chris Smith’s accurate boot and a late Kelly Mpeku score.",
-        "copy": "Leinster head coach Leo Cullen has issued an injury update has confirmed that two of their squad members for the current tour of South Africa have been ruled out of selection for the Sharks game at Hollywoodbets Kings Park on Saturday.\n\nLeinster’s title defence got off to a mediocre start on Saturday when they lost 27-26 to the Lions in Ellis Park in Johannesburg. Scrum-half Fintan Gunne starred with a first-half hat-trick as Leo Cullen’s side took a 19-17 lead into the break. However, the Lions battled back through Erich Cronje’s second try, Chris Smith’s accurate boot and a late Kelly Mpeku score.",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Champions Cup refs revealed: Piardi's old rival handed opening night honour",
-        "link": "https://www.rugbypass.com/news/champions-cup-refs-revealed-piardis-old-rival-handed-opening-night-honour/",
-        "published": "2026-09-28T14:05:52+00:00",
-        "published_label": "Mon 28 Sep, 14:05",
-        "summary": "The former playing rival and teammate of Italy's leading referee, Andrea Piardi, has been handed the honour of refereeing the first Investec Champions Cup tie of the 2026/27 season.",
-        "body": "The former playing rival and teammate of Italy’s leading referee, Andrea Piardi, has been handed the honour of refereeing the first Investec Champions Cup tie of the 2026/27 season.\n\nGianluca Gnecchi, who made his Champions Cup debut in the middle two years ago, will blow the first whistle in this year’s competition after being appointed for curtain-raiser between Gloucester and reigning champions Bordeaux-Begles at Kingsholm on Friday, 16 October.",
-        "copy": "The former playing rival and teammate of Italy’s leading referee, Andrea Piardi, has been handed the honour of refereeing the first Investec Champions Cup tie of the 2026/27 season.\n\nGianluca Gnecchi, who made his Champions Cup debut in the middle two years ago, will blow the first whistle in this year’s competition after being appointed for curtain-raiser between Gloucester and reigning champions Bordeaux-Begles at Kingsholm on Friday, 16 October.",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Sharks brace to lose 'exceptional talent' Luan Giliomee to URC rivals",
-        "link": "https://www.rugbypass.com/news/luan-giliomee-the-exceptional-talent-the-sharks-are-set-to-lose-to-urc-rivals/",
-        "published": "2026-09-28T13:46:52+00:00",
-        "published_label": "Mon 28 Sep, 13:46",
-        "summary": "Luan Giliomee has been dubbed an “exceptional talent” as he approaches a crossroads in his young career.",
-        "body": "Luan Giliomee has been dubbed an “exceptional talent” as he approaches a crossroads in his young career. The 20-year-old demonstrated his huge potential with a two-try Player of the Match display for the Hollywoodbets Sharks in their 41-24 victory over the Ospreys in Durban on the weekend.\n\nHis first touchdown was especially impressive as he sliced through from his own half, evading four defenders on a spectacular side-stepping run to the line. It was a very special performance all round from the fresh-faced full-back from the Western Cape, whose primary position is fly-half.",
-        "copy": "Luan Giliomee has been dubbed an “exceptional talent” as he approaches a crossroads in his young career. The 20-year-old demonstrated his huge potential with a two-try Player of the Match display for the Hollywoodbets Sharks in their 41-24 victory over the Ospreys in Durban on the weekend.\n\nHis first touchdown was especially impressive as he sliced through from his own half, evading four defenders on a spectacular side-stepping run to the line. It was a very special performance all round from the fresh-faced full-back from the Western Cape, whose primary position is fly-half.",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Daniil Medvedev defaulted for hitting spectator with ball as Novak Djokovic reaches another China Open final",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUkd1dlczYlFqU0xwdmNxdVhCSTcwTTVLc2tHN2RZQWVhV0c5OElidnZmQm5lamtOVGJYcEg3aUZ4M1BvdEJIRF9CTHYwNzFlZW14c2RXc1VzWmt4cTM2Wkh6eEFVQlhtT3VNTTE5X25SaXZWRkZ2U0pMS3p4eUZ3R0c3eUFGWHhYY1ZMNTd3bGlQdG9uaGZDWXdpdDNLLUZOZ0NkMUlxdndMMlEtQzF5bzBMSllXVHhGVUtsMGltZmgybklEVWI2UEpuMXY3bXdmOG9keXNzcVdIWkkyR2FhYmxqcjctSEhsbVhZ?oc=5",
+        "published": "2026-10-05T15:18:58+00:00",
+        "published_label": "Mon 05 Oct, 15:18",
+        "summary": "Daniil Medvedev defaulted for hitting spectator with ball as Novak Djokovic reaches another China Open final Sky Sports",
+        "body": "Daniil Medvedev was defaulted for hitting a spectator with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved one win away from a first title of 2026.\n\nMedvedev accidentally struck the fan while trailing 7-5 5-3 and three points from defeat in Monday's punishing semi-final in Beijing, during which Djokovic saved 16 of the 18 break points he faced.",
+        "copy": "Daniil Medvedev was defaulted for hitting a spectator with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved one win away from a first title of 2026.\n\nMedvedev accidentally struck the fan while trailing 7-5 5-3 and three points from defeat in Monday's punishing semi-final in Beijing, during which Djokovic saved 16 of the 18 break points he faced.",
+        "first_seen": "2026-10-05T16:16:59.475536+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Medvedev defaulted from Djokovic match for hitting spectator with ball",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-05T14:44:45+00:00",
+        "published_label": "Mon 05 Oct, 14:44",
+        "summary": "Daniil Medvedev is defaulted from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
+        "body": "Daniil Medvedev was defaulted from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic. Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.\n\nThe ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
+        "copy": "Daniil Medvedev was defaulted from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic. Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.\n\nThe ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
+        "first_seen": "2026-10-05T16:16:59.475536+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -4523,8 +4406,8 @@
         "published": "2026-10-05T05:00:00+00:00",
         "published_label": "Mon 05 Oct, 05:00",
         "summary": "A look at the killing of Damilola Taylor, shedding fresh light with new testimony.",
-        "body": "- Tutankhamun's EgyptAn exploration of the pharaoh's role in ancient Egyptian life. - 7/7: The London BombingsThree weeks that changed Britain forever. True stories of horror, heroism and heartbreak\n\n- Double Cross: The True Story of the D-Day SpiesRevealing the heroic spies who helped contribute to victory in WWII.59 mins - Lucy Worsley's Victorian Murder ClubA dark and dangerous story - can Lucy unmask the identity of the Thames Torso Murderer?",
-        "copy": "- Tutankhamun's EgyptAn exploration of the pharaoh's role in ancient Egyptian life. - 7/7: The London BombingsThree weeks that changed Britain forever. True stories of horror, heroism and heartbreak\n\n- Double Cross: The True Story of the D-Day SpiesRevealing the heroic spies who helped contribute to victory in WWII.59 mins - Lucy Worsley's Victorian Murder ClubA dark and dangerous story - can Lucy unmask the identity of the Thames Torso Murderer?",
+        "body": "- Lucy Worsley InvestigatesLucy Worsley re-investigates some of the most dramatic chapters in British history. - A History of Britain by Simon SchamaThe secret of who we are. Simon Schama journeys through 5000 years of life in Britain\n\n- Double Cross: The True Story of the D-Day SpiesRevealing the heroic spies who helped contribute to victory in WWII.59 mins - Ancient Invisible CitiesMichael Scott uses 3D scans to reveal the historical secrets of Cairo and ancient Egypt.",
+        "copy": "- Lucy Worsley InvestigatesLucy Worsley re-investigates some of the most dramatic chapters in British history. - A History of Britain by Simon SchamaThe secret of who we are. Simon Schama journeys through 5000 years of life in Britain\n\n- Double Cross: The True Story of the D-Day SpiesRevealing the heroic spies who helped contribute to victory in WWII.59 mins - Ancient Invisible CitiesMichael Scott uses 3D scans to reveal the historical secrets of Cairo and ancient Egypt.",
         "first_seen": "2026-10-05T13:31:42.138810+00:00"
       },
       {
@@ -4958,6 +4841,32 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Austin Smotherman notches first win for L.A.B. Golf's newest mallet",
+        "link": "https://golf.com/gear/putters/austin-smotherman-notches-first-win-for-l-a-b-golfs-newest-mallet/",
+        "published": "2026-10-05T16:09:37+00:00",
+        "published_label": "Mon 05 Oct, 16:09",
+        "summary": "Austin Smotherman's victory at the Bank of Utah Championship was the first PGA Tour win for L.A.B. Golf's VZN.1i putter. The post Austin Smotherman notches first win for L.A.B. Golf’s newest mallet appeared first on Golf .",
+        "body": "While L.A.B. Golf’s usage on the PGA Tour has steadied somewhat from the momentum of a few years ago, it still doesn’t take long for any of their new putters to earn wins on the PGA Tour.\n\nCase and point was Austin Smotherman’s win this weekend at the Bank of Utah Championship, wielding’s L.A.B.’s new VZN.1i (pronounced Vision One Eye) putter. The VZN.1i was released in June and is L.A.B.’s most forgiving design since the original Directed Force 2.1 putter. However, the main design characteristics are the strong visual cues that make the putter super easy to line up.",
+        "copy": "While L.A.B. Golf’s usage on the PGA Tour has steadied somewhat from the momentum of a few years ago, it still doesn’t take long for any of their new putters to earn wins on the PGA Tour.\n\nCase and point was Austin Smotherman’s win this weekend at the Bank of Utah Championship, wielding’s L.A.B.’s new VZN.1i (pronounced Vision One Eye) putter. The VZN.1i was released in June and is L.A.B.’s most forgiving design since the original Directed Force 2.1 putter. However, the main design characteristics are the strong visual cues that make the putter super easy to line up.",
+        "first_seen": "2026-10-05T16:16:59.475536+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "MacIntyre may end season over Middle East fears",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/ck62y54xe6eyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-05T15:02:58+00:00",
+        "published_label": "Mon 05 Oct, 15:02",
+        "summary": "Robert MacIntyre may have played his final event of the season because of ongoing uncertainty over the situation in the Middle East.",
+        "body": "Robert MacIntyre may have played his final event of the season because of ongoing uncertainty over the situation in the Middle East. Scotland's top golfer finished tied for sixth at the Alfred Dunhill Links Championship at St Andrews on Sunday, having won the title 12 months ago.\n\nThe 30-year-old will not play in this week's Spanish Open and currently has no plans to compete in India or South Korea before the DP World Tour's season-ending events in Abu Dhabi and Dubai in November.",
+        "copy": "Robert MacIntyre may have played his final event of the season because of ongoing uncertainty over the situation in the Middle East. Scotland's top golfer finished tied for sixth at the Alfred Dunhill Links Championship at St Andrews on Sunday, having won the title 12 months ago.\n\nThe 30-year-old will not play in this week's Spanish Open and currently has no plans to compete in India or South Korea before the DP World Tour's season-ending events in Abu Dhabi and Dubai in November.",
+        "first_seen": "2026-10-05T16:16:59.475536+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6478,45 +6387,6 @@
         "body": "This content was first published in Golf Journal, a quarterly print publication exclusively for USGA Members. To be among the first to receive Golf Journal and to learn how you can ensure a strong future for the game, become a USGA Member today!\n\nYou’re playing a challenging par 3 late in a close match. Nerves set in, and your tee shot goes into the trees left of the green. Even if you find your ball, you quickly realize your next shot will likely be a tough one, so you decide to play a provisional. But are you required to look for your original ball?",
         "copy": "This content was first published in Golf Journal, a quarterly print publication exclusively for USGA Members. To be among the first to receive Golf Journal and to learn how you can ensure a strong future for the game, become a USGA Member today!\n\nYou’re playing a challenging par 3 late in a close match. Nerves set in, and your tee shot goes into the trees left of the green. Even if you find your ball, you quickly realize your next shot will likely be a tough one, so you decide to play a provisional. But are you required to look for your original ball?",
         "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Bridges Cup swag: Check out the U.S. and International team's ultra-cool gear",
-        "link": "https://golf.com/gear/bridges-cup-swag-us-international-team-ultra-cool-gear/",
-        "published": "2026-09-28T16:02:23+00:00",
-        "published_label": "Mon 28 Sep, 16:02",
-        "summary": "In addition to 3 days of epic golf at Trump Turnberry, this year's Bridges Cup competitors will also be gifted with some envy-inducing swag. The post Bridges Cup swag: Check out the U.S. and International team’s ultra-cool gear appeared first on Golf .",
-        "body": "The 2026 Bridges Cup begins this week at Trump Turnberry in Scotland, in what will be the mid-amateur match play event’s fourth iteration since its inaugural year in 2022. The first-class team event was initially established as celebration of competition and camaraderie for accomplished mid-amateur men around the globe, and in keeping with that ideal, this year’s competitors hail from five different continents.\n\nThe Bridges Cup’s 24 hand-picked players form two teams — 12 players from the United States and 12 Internationals. The players will compete in five sessions of match play over three days. Like the Ryder Cup and Presidents Cup, the first two days are dedicated to team foursomes and four-ball matches while the third day is devoted to singles.",
-        "copy": "The 2026 Bridges Cup begins this week at Trump Turnberry in Scotland, in what will be the mid-amateur match play event’s fourth iteration since its inaugural year in 2022. The first-class team event was initially established as celebration of competition and camaraderie for accomplished mid-amateur men around the globe, and in keeping with that ideal, this year’s competitors hail from five different continents.\n\nThe Bridges Cup’s 24 hand-picked players form two teams — 12 players from the United States and 12 Internationals. The players will compete in five sessions of match play over three days. Like the Ryder Cup and Presidents Cup, the first two days are dedicated to team foursomes and four-ball matches while the third day is devoted to singles.",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "The putters that powered Team USA's historic comeback at Presidents Cup",
-        "link": "https://golf.com/gear/putters/putters-powered-usa-presidents-cup/",
-        "published": "2026-09-28T14:45:53+00:00",
-        "published_label": "Mon 28 Sep, 14:45",
-        "summary": "The U.S. team stormed back to win the Presidents Cup on Sunday at Medinah behind a solid putting performance. The post The putters that powered Team USA’s historic comeback at Presidents Cup appeared first on Golf .",
-        "body": "On Saturday, U.S. Presidents Cup captain Brandt Snedeker said the Internationals “just made more putts” as the Americans faced a huge deficit heading into the final two sessions.\n\nTeam USA overcame a three-point deficit heading into Sunday to win the Presidents Cup, largely thanks to putting. The stats show that seven of the top nine putters for the event were on Team USA. On Sunday, the Americans made a ton of big putts when it mattered.",
-        "copy": "On Saturday, U.S. Presidents Cup captain Brandt Snedeker said the Internationals “just made more putts” as the Americans faced a huge deficit heading into the final two sessions.\n\nTeam USA overcame a three-point deficit heading into Sunday to win the Presidents Cup, largely thanks to putting. The stats show that seven of the top nine putters for the event were on Team USA. On Sunday, the Americans made a ton of big putts when it mattered.",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "How the Presidents Cup unraveled: 7 tipping points that cost the Internationals",
-        "link": "https://golf.com/news/presidents-cup-unraveled-7-matches/",
-        "published": "2026-09-28T13:37:19+00:00",
-        "published_label": "Mon 28 Sep, 13:37",
-        "summary": "Something strange happened in the final seven singles matches at the Presidents Cup — and cost the Internationals the win. The post How the Presidents Cup unraveled: 7 tipping points that cost the Internationals appeared first on Golf .",
-        "body": "MEDINAH, Ill. — Something strange happened with the final seven Presidents Cup singles matches on Sunday: They all made it to at least the 17th hole. Heck, five of those made it all the way to 18.\n\nBut even though the matches were close, the outcomes weren’t: The United States team won those matches 6.5 to 0.5. And so they won the Presidents Cup. “It was sort of on a knife’s edge for a long time there in the middle of the day,” said International captain Geoff Ogilvy just after the Cup was clinched. “You have a couple putts go in at the right time and the momentum goes our way, and it just didn’t do that today.”",
-        "copy": "MEDINAH, Ill. — Something strange happened with the final seven Presidents Cup singles matches on Sunday: They all made it to at least the 17th hole. Heck, five of those made it all the way to 18.\n\nBut even though the matches were close, the outcomes weren’t: The United States team won those matches 6.5 to 0.5. And so they won the Presidents Cup. “It was sort of on a knife’s edge for a long time there in the middle of the day,” said International captain Geoff Ogilvy just after the Cup was clinched. “You have a couple putts go in at the right time and the momentum goes our way, and it just didn’t do that today.”",
-        "first_seen": "2026-09-28T15:44:17.401116+00:00"
       }
     ],
     "Badminton": [
@@ -6888,5 +6758,5 @@
       }
     ]
   },
-  "total": 528
+  "total": 518
 }
