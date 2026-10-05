@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T16:16:59.475536+00:00",
-  "generated_label": "Monday 05 October 2026, 16:16 UTC",
+  "generated_at": "2026-10-05T21:27:22.684516+00:00",
+  "generated_label": "Monday 05 October 2026, 21:27 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -245,6 +245,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-04T13:22:58.982276+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "BT weighs improved TalkTalk offer after initial approach rejected",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjlIdmdOUXNyU041U2FoUFpqbjZKdjkxQ2sxYVduYXB4SFZhMGRzeV95blUxcUduMjBDYVFzdW5ycHhwUDJsNzhPV1RzSGNQQTRXYlZkZi1aWE5WRk0yQ2pwVnctbmJ6TFk4d1kzNk9ybkJKV0VSNDRnUEp4bTJScVQ1RS0?oc=5",
+        "published": "2026-10-04T11:03:09+00:00",
+        "published_label": "Sun 04 Oct, 11:03",
+        "summary": "BT weighs improved TalkTalk offer after initial approach rejected Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1636,48 +1649,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-09-29T12:05:53.772052+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Ministers abandon plan to make overseas visitors pay for England’s top museums",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEpCNG81eTcxeDVyVnVDNS1PMm5rSUk5RlNBeXhPeHJ1bm9Fb0JwbHRxTFRrUVdhWmVSbkNEbHhZRzVwUFhwUDVTY2pienpEWkg0a1lxd2FfcnRqazJnbGkwcl9VZENNVk5iTWxETUR0ZkVaZ1oxdi1CREpzTHlLNnIyS0w?oc=5",
-        "published": "2026-09-28T19:04:55+00:00",
-        "published_label": "Mon 28 Sep, 19:04",
-        "summary": "Ministers abandon plan to make overseas visitors pay for England’s top museums Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Tata family scion hits back with plan to keep holding company private",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjV3TTdGa3V5Q0FmZDRFX2pfdDlNTGxwSEJvR0p2N19mVTM3TzRvS2ppYjctSVpxYzkyUFVRUGJ4NTNZNGxYdmJCVkN6bEZUcXN4WkdwV2wyZm1wZ1JQdTUtRzIzVnMzdzhselZJSXNVQlFNUTZTWE9kTFVnUmdkaFU4akc?oc=5",
-        "published": "2026-09-28T17:24:19+00:00",
-        "published_label": "Mon 28 Sep, 17:24",
-        "summary": "Tata family scion hits back with plan to keep holding company private Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "WWE in worldwide Bleacher Report highlights deal",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2FPX3ZSUm5icGdhdG10MkpOUTQ1MDRSV2p0bTNUM1Vpal9CS1dVcUtsc18yYUZ3Rk0tSDFudi1kcDdUZWdSdXJvZU1PWndTS3psYUU5NnpGdVd6RURBX010Zi1ReUxlNnFXTlJGSXhqd3RlS2pwczJOaG5wZm84NXRHSi1lZw?oc=5",
-        "published": "2026-09-28T17:22:23+00:00",
-        "published_label": "Mon 28 Sep, 17:22",
-        "summary": "WWE in worldwide Bleacher Report highlights deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘Australia are hitting a sweet spot of Test experience; it’s exciting to think where they could get to over the next 12 months’",
+        "link": "https://www.rugbypass.com/plus/australia-a-long-way-from-the-finished-product-but-its-exciting-to-think-where-they-could-get-to-over-next-year/",
+        "published": "2026-10-05T18:01:35+00:00",
+        "published_label": "Mon 05 Oct, 18:01",
+        "summary": "With RWC 2027 just under a year away, Australia fans are daring to dream about what sort of shape their team might be in by then.",
+        "body": "There’s a train of thought among rugby aficionados, commentators and pundits, that somewhere in the vicinity of 25 to 40 Tests of experience represents something of a sweet spot for players building their international careers.\n\nThe thinking is that once inside this range, players know more about the requirements of the top level of the game and how they need to prepare for it, they’re probably less inclined to make the kind of errors under pressure or fatigue that might easily be put down to inexperience, and they’re no longer a risky decision at the selection table.",
+        "copy": "There’s a train of thought among rugby aficionados, commentators and pundits, that somewhere in the vicinity of 25 to 40 Tests of experience represents something of a sweet spot for players building their international careers.\n\nThe thinking is that once inside this range, players know more about the requirements of the top level of the game and how they need to prepare for it, they’re probably less inclined to make the kind of errors under pressure or fatigue that might easily be put down to inexperience, and they’re no longer a risky decision at the selection table.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Saracens management letting players down",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9zrdmdz8l17o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-05T17:40:31+00:00",
+        "published_label": "Mon 05 Oct, 17:40",
+        "summary": "Former England scrum-half Danny Care says \"some of the powers that be\" at Saracens have \"let the players down\".",
+        "body": "Former England scrum-half Danny Care says \"some of the powers that be\" at Saracens have \"let the players down\" after a turbulent start to the season. An opening weekend 40-38 win at Leicester was followed by a 21-17 home defeat by Sale, the build-up to which was marred by headlines made by returning director of rugby Brendan Venter.\n\nHe reportedly refused to perform a series of media obligations, putting Saracens at risk of fines amid conjecture his job title had been changed to 'head of rugby culture and wine consultant', although the club have since clarified he is now head of culture and technical director.",
+        "copy": "Former England scrum-half Danny Care says \"some of the powers that be\" at Saracens have \"let the players down\" after a turbulent start to the season. An opening weekend 40-38 win at Leicester was followed by a 21-17 home defeat by Sale, the build-up to which was marred by headlines made by returning director of rugby Brendan Venter.\n\nHe reportedly refused to perform a series of media obligations, putting Saracens at risk of fines amid conjecture his job title had been changed to 'head of rugby culture and wine consultant', although the club have since clarified he is now head of culture and technical director.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Rugby Union Weekly",
+        "link": "https://www.bbc.co.uk/sounds/play/p0pf3m84?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-05T15:44:00+00:00",
+        "published_label": "Mon 05 Oct, 15:44",
+        "summary": "Ugo, Ashy and Danny raise a glass and dissect round two of the Prem season.",
+        "body": "Ugo, Ashy and Danny raise a glass to Brendan Venter’s short stint as Saracens’ wine consultant and review round two of the Prem. Venter finally spoke to the media, but was it worth the wait? And has the whole saga damaged the club’s reputation? The West Country clubs continued their 100% start to the season. Louis Rees-Zammit is back on the wing and scoring tries as Bristol put 41 points on champions Northampton, Gloucester schooled Quins at Kingsholm and Bath dug deep to edge another thriller with Exeter at The Rec. We also talk Sir Kev, Bristol’s new approach to post-match media and hear about Ashy’s trip up north.",
+        "copy": "Ugo, Ashy and Danny raise a glass to Brendan Venter’s short stint as Saracens’ wine consultant and review round two of the Prem. Venter finally spoke to the media, but was it worth the wait? And has the whole saga damaged the club’s reputation? The West Country clubs continued their 100% start to the season. Louis Rees-Zammit is back on the wing and scoring tries as Bristol put 41 points on champions Northampton, Gloucester schooled Quins at Kingsholm and Bath dug deep to edge another thriller with Exeter at The Rec. We also talk Sir Kev, Bristol’s new approach to post-match media and hear about Ashy’s trip up north.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -1812,6 +1825,19 @@
         "section": "Rugby",
         "source": "Rugby Pass",
         "kind": "direct",
+        "title": "'I could skip homework if I went to rugby training': Marius Simionescu, the reluctant player who became Romania's kingpin",
+        "link": "https://www.rugbypass.com/news/i-could-skip-homework-if-i-went-to-rugby-training-marius-simionescu-the-reluctant-player-who-became-romanias-kingpin/",
+        "published": "2026-10-05T11:07:03+00:00",
+        "published_label": "Mon 05 Oct, 11:07",
+        "summary": "Rugby bored the full-back as a teenager, but he was persuaded to stick at the game, and now a key man for Romania, cannot imagine life without it.",
+        "body": "Goosebumps. There’s no other way to describe listening to Marius Simionescu, a beacon of the Romania team, map out his rugby journey. The full-back talks with burning passion about what the game has given him, as he left home and familiarity behind to chase his dreams and represent his country.\n\nThe 29-year-old was born in the town of Erbiceni and raised mostly in Ia?i, a region in the far eastern corner of Romania. His parents moved to Italy to earn a better living for their family and Simionescu spent much of his childhood under the care of his grandmother. He was 14 when rugby found him, persuaded by renowned Romanian coach Gabriel Popa to join a local team.",
+        "copy": "Goosebumps. There’s no other way to describe listening to Marius Simionescu, a beacon of the Romania team, map out his rugby journey. The full-back talks with burning passion about what the game has given him, as he left home and familiarity behind to chase his dreams and represent his country.\n\nThe 29-year-old was born in the town of Erbiceni and raised mostly in Ia?i, a region in the far eastern corner of Romania. His parents moved to Italy to earn a better living for their family and Simionescu spent much of his childhood under the care of his grandmother. He was 14 when rugby found him, persuaded by renowned Romanian coach Gabriel Popa to join a local team.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
         "title": "Bok-heavy pack singled out as unexpected URC pacesetters emerge",
         "link": "https://www.rugbypass.com/news/bok-heavy-pack-singled-out-as-unexpected-urc-pacesetters-emerge-sharks/",
         "published": "2026-10-05T10:45:50+00:00",
@@ -1845,6 +1871,19 @@
         "summary": "Blackheath FC's 33-26 victory over Doncaster Knights in the Elior Champ was their first at Level 2 in the English league system since 1 May, 1999.",
         "body": "After two near-misses, Blackheath FC celebrated their first win at Level 2 in the English league system for 27 years when they beat Doncaster Knights 33-26 in the Elior Champ at The Utilita, Well Hall on Sunday.\n\nBlackheath, the oldest rugby club in the world, had picked up losing bonus points in their first two Champ games, after falling just short against Nottingham (31-38) and Caldy (24-28) on the opening two weekends.",
         "copy": "After two near-misses, Blackheath FC celebrated their first win at Level 2 in the English league system for 27 years when they beat Doncaster Knights 33-26 in the Elior Champ at The Utilita, Well Hall on Sunday.\n\nBlackheath, the oldest rugby club in the world, had picked up losing bonus points in their first two Champ games, after falling just short against Nottingham (31-38) and Caldy (24-28) on the opening two weekends.",
+        "first_seen": "2026-10-05T13:31:42.138810+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Damilola Taylor's shocking murder revisited 26 years on",
+        "link": "https://www.bbc.co.uk/iplayer/episode/m0032lg7?at_mid=RknUGKJ6x5&at_campaign=Damilola_The_Untold_Story&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032lg7&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Damilola_The_Untold_Story&at_bbc_team=BBC",
+        "published": "2026-10-05T05:00:00+00:00",
+        "published_label": "Mon 05 Oct, 05:00",
+        "summary": "A look at the killing of Damilola Taylor, shedding fresh light with new testimony.",
+        "body": "- The Devil’s Confession: The Lost Eichmann TapesDamned by his own voice. Adolf Eichmann denied accusations, but tapes tell another story - 7/7: The London BombingsThree weeks that changed Britain forever. True stories of horror, heroism and heartbreak\n\n- I Was There: The Great War InterviewsNever-before-seen footage from interviews with eyewitnesses of the First World War.59 mins - Black and British: A Forgotten HistoryDavid Olusoga explores the relationship between Britain and people of African origins.",
+        "copy": "- The Devil’s Confession: The Lost Eichmann TapesDamned by his own voice. Adolf Eichmann denied accusations, but tapes tell another story - 7/7: The London BombingsThree weeks that changed Britain forever. True stories of horror, heroism and heartbreak\n\n- I Was There: The Great War InterviewsNever-before-seen footage from interviews with eyewitnesses of the First World War.59 mins - Black and British: A Forgotten HistoryDavid Olusoga explores the relationship between Britain and people of African origins.",
         "first_seen": "2026-10-05T13:31:42.138810+00:00"
       },
       {
@@ -4303,71 +4342,6 @@
         "body": "The Zimbabwe men’s sevens team has fired a warning shot to the rest of Africa’s rapidly developing sevens nations, stunning hosts Uganda 26-19 to claim the Rugby Africa 7s title at Kyadondo Rugby Grounds in Kampala.\n\nThe result will see the Cheetahs earn qualification for the HSBC SVNS 3 tournament later this year, but it was far from guaranteed after a tightly contested weekend. Starting their tournament with a 19-12 win against Morocco, Zimbabwe got into their groove with a 40-17 win over Ghana.",
         "copy": "The Zimbabwe men’s sevens team has fired a warning shot to the rest of Africa’s rapidly developing sevens nations, stunning hosts Uganda 26-19 to claim the Rugby Africa 7s title at Kyadondo Rugby Grounds in Kampala.\n\nThe result will see the Cheetahs earn qualification for the HSBC SVNS 3 tournament later this year, but it was far from guaranteed after a tightly contested weekend. Starting their tournament with a 19-12 win against Morocco, Zimbabwe got into their groove with a 40-17 win over Ghana.",
         "first_seen": "2026-09-29T12:05:53.772052+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Newcastle agree delay to Fineanganofo arrival",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmlyqk54lj07o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-28T21:19:34+00:00",
-        "published_label": "Mon 28 Sep, 21:19",
-        "summary": "Free-scoring All Blacks wing Fehi Fineanganofo convinces Newcastle Red Bulls to delay his arrival on Tyneside so he can chase his dream of playing at the Rugby World Cup.",
-        "body": "Free-scoring All Blacks wing Fehi Fineanganofo has convinced Newcastle Red Bulls to delay his arrival on Tyneside so he can chase his dream of playing at the Rugby World Cup. It was originally announced back in January that the 24-year-old had agreed a two-year deal with Newcastle, beginning at the start of the current campaign.\n\nHowever, Fineanganofo's exceptional form with the Wellington-based Hurricanes in Super Rugby then propelled him into Test reckoning. He made his New Zealand debut against France in July.",
-        "copy": "Free-scoring All Blacks wing Fehi Fineanganofo has convinced Newcastle Red Bulls to delay his arrival on Tyneside so he can chase his dream of playing at the Rugby World Cup. It was originally announced back in January that the 24-year-old had agreed a two-year deal with Newcastle, beginning at the start of the current campaign.\n\nHowever, Fineanganofo's exceptional form with the Wellington-based Hurricanes in Super Rugby then propelled him into Test reckoning. He made his New Zealand debut against France in July.",
-        "first_seen": "2026-09-29T12:05:53.772052+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'It was a bit of a dream really'",
-        "link": "https://www.rugbypass.com/news/it-was-a-bit-of-a-dream-really-new-attack-coach-sampson-revels-in-instant-edinburgh-transformation/",
-        "published": "2026-09-28T19:00:37+00:00",
-        "published_label": "Mon 28 Sep, 19:00",
-        "summary": "For a team whose attack has floundered in recent times, Edinburgh’s transformation in Round One of the URC was as startling as it was welcome.",
-        "body": "For a team whose attack in recent seasons has invariably been described as clunky, stuttering or even moribund at times, Edinburgh’s transformation in Round One of the new United Rugby Championship season was as startling as it was welcome.\n\nFour tries in a bonus-point, 34-29 win over Ulster in Belfast, two of them scintillating team scores involving multiple players and some dreamy handling, provided early evidence of a bright new dawn – hopefully not a false one – in the Scottish capital.",
-        "copy": "For a team whose attack in recent seasons has invariably been described as clunky, stuttering or even moribund at times, Edinburgh’s transformation in Round One of the new United Rugby Championship season was as startling as it was welcome.\n\nFour tries in a bonus-point, 34-29 win over Ulster in Belfast, two of them scintillating team scores involving multiple players and some dreamy handling, provided early evidence of a bright new dawn – hopefully not a false one – in the Scottish capital.",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "WXV Global Series 2026: Week 3 talking points",
-        "link": "https://www.rugbypass.com/news/wxv-global-series-2026-week-3-talking-points/",
-        "published": "2026-09-28T17:59:32+00:00",
-        "published_label": "Mon 28 Sep, 17:59",
-        "summary": "We may well be heading into a two-week WXV Global Series hiatus but there is plenty of time to fawn over the weekend's action.",
-        "body": "We may well be heading into a two-week WXV Global Series hiatus — albeit with Spain’s encounter with South Africa in the middle — but there is plenty of time to fawn over the weekend’s action.\n\nOver the past couple of days, we saw teams get back to winning ways, restore unbeaten streaks and even produce last-minute drama. And all of it was brilliant. It is interesting what can happen in a week. At the full-time whistle of Canada’s draw with the Red Roses at Sandy Park, the North Americans were questioned about their decision to kick the ball out. Immediately, Canada head coach Kévin Rouet defended the decision, citing the fact that his team had spent 20 minutes defending on their own 22m.",
-        "copy": "We may well be heading into a two-week WXV Global Series hiatus — albeit with Spain’s encounter with South Africa in the middle — but there is plenty of time to fawn over the weekend’s action.\n\nOver the past couple of days, we saw teams get back to winning ways, restore unbeaten streaks and even produce last-minute drama. And all of it was brilliant. It is interesting what can happen in a week. At the full-time whistle of Canada’s draw with the Red Roses at Sandy Park, the North Americans were questioned about their decision to kick the ball out. Immediately, Canada head coach Kévin Rouet defended the decision, citing the fact that his team had spent 20 minutes defending on their own 22m.",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Ex-England international Nick Easter linked with cross-channel move",
-        "link": "https://www.rugbypass.com/news/ex-england-international-nick-easter-linked-with-cross-channel-move/",
-        "published": "2026-09-28T16:43:38+00:00",
-        "published_label": "Mon 28 Sep, 16:43",
-        "summary": "Chinnor boss Nick Easter has emerged as a potential target for Pro D2 high-flyers Brive, who are seeking to appoint a new head coach alongside Director of Sport Gregory Patat.",
-        "body": "Chinnor boss Nick Easter has emerged as a potential target for Pro D2 high-flyers Brive, who are seeking to appoint a new head coach alongside Director of Sport Gregory Patat.\n\nBrive have won all five games in Pro D2 and trail early-season pace-setters Oyonnax by two bonus points in the long race for promotion to the Top 14. An English coach has been on their wanted list, and they spoke to Richard Cockerill earlier in the year after failing to lure Joe El-Abd away from his role as one of Steve Borthwick’s right-hand men.",
-        "copy": "Chinnor boss Nick Easter has emerged as a potential target for Pro D2 high-flyers Brive, who are seeking to appoint a new head coach alongside Director of Sport Gregory Patat.\n\nBrive have won all five games in Pro D2 and trail early-season pace-setters Oyonnax by two bonus points in the long race for promotion to the Top 14. An English coach has been on their wanted list, and they spoke to Richard Cockerill earlier in the year after failing to lure Joe El-Abd away from his role as one of Steve Borthwick’s right-hand men.",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "SVNS watch",
-        "kind": "gnews",
-        "title": "Asia Rugby Emirates Match Officials Announced for Asian Games Rugby Sevens 2026",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTM0aVhWaVJBZW16c3JabTBjS3V1TElEZmJiOGZRQ1FnTzRZMTVsQ0MyNDh6SlVoY25Kb1MxXzE2ZzdiQjIwQmgtMkJROUx0SVZncTJKMjAxOGpaU1d3RzB2eDlrT0tkLVBxOEhkQkZlQW9IUEw1QnEyd1dYTVdTOUlncXJ3cVVXSjU4V2pWRHJnYVJSdHhKclI1RUJSSnpWMW5vZW1PcHlZelIyV0pZeGI0QzZ0c3JW?oc=5",
-        "published": "2026-09-28T16:34:56+00:00",
-        "published_label": "Mon 28 Sep, 16:34",
-        "summary": "Asia Rugby Emirates Match Officials Announced for Asian Games Rugby Sevens 2026 asiarugby.com",
-        "body": "Asia Rugby has announced the Emirates Match Officials appointed for the rugby sevens competition at the Aichi–Nagoya 2026 Asian Games. The tournament will take place in Nagoya, Japan, from 1 to 3 October, bringing together the region’s leading men’s and women’s teams.\n\nThe officiating team includes 17 referees from across Asia, supported by assistant referees, performance reviewers and television match officials. The appointments reflect Asia Rugby’s continued investment in developing a strong regional pathway for match officials.",
-        "copy": "Asia Rugby has announced the Emirates Match Officials appointed for the rugby sevens competition at the Aichi–Nagoya 2026 Asian Games. The tournament will take place in Nagoya, Japan, from 1 to 3 October, bringing together the region’s leading men’s and women’s teams.\n\nThe officiating team includes 17 referees from across Asia, supported by assistant referees, performance reviewers and television match officials. The appointments reflect Asia Rugby’s continued investment in developing a strong regional pathway for match officials.",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
       }
     ],
     "Tennis": [
@@ -4375,40 +4349,40 @@
         "section": "Tennis",
         "source": "Sky Sports",
         "kind": "gnews",
-        "title": "Daniil Medvedev defaulted for hitting spectator with ball as Novak Djokovic reaches another China Open final",
+        "title": "Daniil Medvedev defaulted for hitting spectator in the face with ball as Novak Djokovic reaches China Open final",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUkd1dlczYlFqU0xwdmNxdVhCSTcwTTVLc2tHN2RZQWVhV0c5OElidnZmQm5lamtOVGJYcEg3aUZ4M1BvdEJIRF9CTHYwNzFlZW14c2RXc1VzWmt4cTM2Wkh6eEFVQlhtT3VNTTE5X25SaXZWRkZ2U0pMS3p4eUZ3R0c3eUFGWHhYY1ZMNTd3bGlQdG9uaGZDWXdpdDNLLUZOZ0NkMUlxdndMMlEtQzF5bzBMSllXVHhGVUtsMGltZmgybklEVWI2UEpuMXY3bXdmOG9keXNzcVdIWkkyR2FhYmxqcjctSEhsbVhZ?oc=5",
-        "published": "2026-10-05T15:18:58+00:00",
-        "published_label": "Mon 05 Oct, 15:18",
-        "summary": "Daniil Medvedev defaulted for hitting spectator with ball as Novak Djokovic reaches another China Open final Sky Sports",
-        "body": "Daniil Medvedev was defaulted for hitting a spectator with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved one win away from a first title of 2026.\n\nMedvedev accidentally struck the fan while trailing 7-5 5-3 and three points from defeat in Monday's punishing semi-final in Beijing, during which Djokovic saved 16 of the 18 break points he faced.",
-        "copy": "Daniil Medvedev was defaulted for hitting a spectator with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved one win away from a first title of 2026.\n\nMedvedev accidentally struck the fan while trailing 7-5 5-3 and three points from defeat in Monday's punishing semi-final in Beijing, during which Djokovic saved 16 of the 18 break points he faced.",
+        "published": "2026-10-05T19:58:51+00:00",
+        "published_label": "Mon 05 Oct, 19:58",
+        "summary": "Daniil Medvedev defaulted for hitting spectator in the face with ball as Novak Djokovic reaches China Open final Sky Sports",
+        "body": "Daniil Medvedev was defaulted for hitting a spectator in the face with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved one win away from a first title of 2026.\n\nMedvedev accidentally struck the fan around the left eye while trailing 7-5 5-3 and three points from defeat in Monday's punishing semi-final in Beijing, during which Djokovic saved 16 of the 18 break points he faced.",
+        "copy": "Daniil Medvedev was defaulted for hitting a spectator in the face with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved one win away from a first title of 2026.\n\nMedvedev accidentally struck the fan around the left eye while trailing 7-5 5-3 and three points from defeat in Monday's punishing semi-final in Beijing, during which Djokovic saved 16 of the 18 break points he faced.",
         "first_seen": "2026-10-05T16:16:59.475536+00:00"
       },
       {
         "section": "Tennis",
         "source": "BBC Sport",
         "kind": "direct",
-        "title": "Medvedev defaulted from Djokovic match for hitting spectator with ball",
+        "title": "Medvedev disqualified from Djokovic match for hitting spectator with ball",
         "link": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
         "published": "2026-10-05T14:44:45+00:00",
         "published_label": "Mon 05 Oct, 14:44",
-        "summary": "Daniil Medvedev is defaulted from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
-        "body": "Daniil Medvedev was defaulted from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic. Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.\n\nThe ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
-        "copy": "Daniil Medvedev was defaulted from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic. Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.\n\nThe ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
+        "summary": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
+        "body": "Daniil Medvedev was disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic. Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.\n\nThe ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
+        "copy": "Daniil Medvedev was disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic. Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.\n\nThe ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
         "first_seen": "2026-10-05T16:16:59.475536+00:00"
       },
       {
         "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Damilola Taylor's shocking murder revisited 26 years on",
-        "link": "https://www.bbc.co.uk/iplayer/episode/m0032lg7?at_mid=RknUGKJ6x5&at_campaign=Damilola_The_Untold_Story&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032lg7&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Damilola_The_Untold_Story&at_bbc_team=BBC",
-        "published": "2026-10-05T05:00:00+00:00",
-        "published_label": "Mon 05 Oct, 05:00",
-        "summary": "A look at the killing of Damilola Taylor, shedding fresh light with new testimony.",
-        "body": "- Lucy Worsley InvestigatesLucy Worsley re-investigates some of the most dramatic chapters in British history. - A History of Britain by Simon SchamaThe secret of who we are. Simon Schama journeys through 5000 years of life in Britain\n\n- Double Cross: The True Story of the D-Day SpiesRevealing the heroic spies who helped contribute to victory in WWII.59 mins - Ancient Invisible CitiesMichael Scott uses 3D scans to reveal the historical secrets of Cairo and ancient Egypt.",
-        "copy": "- Lucy Worsley InvestigatesLucy Worsley re-investigates some of the most dramatic chapters in British history. - A History of Britain by Simon SchamaThe secret of who we are. Simon Schama journeys through 5000 years of life in Britain\n\n- Double Cross: The True Story of the D-Day SpiesRevealing the heroic spies who helped contribute to victory in WWII.59 mins - Ancient Invisible CitiesMichael Scott uses 3D scans to reveal the historical secrets of Cairo and ancient Egypt.",
-        "first_seen": "2026-10-05T13:31:42.138810+00:00"
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "Carlos Alcaraz vs Jaume Munar | Japan Open highlights",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1VleC1lLU5xc3hDSzZMeE91LS1QQVQxdGpMaTJod2dWM3FhY2FsVzlTdnhVbjY1LWJBdDIxVUxIa3kwODBSeDdrN3Bwa0FGOWwya1c0dGtGVk4yNHBUdlRHX20za19MVmJaUWZFV2kwMXE4OURhVHBpSy1nWDRfMFB5UDlScUdHS1pJSUZkanlwY2t6TWdSUlRrOER0ZUY4?oc=5",
+        "published": "2026-10-05T10:32:07+00:00",
+        "published_label": "Mon 05 Oct, 10:32",
+        "summary": "Carlos Alcaraz vs Jaume Munar | Japan Open highlights Sky Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
       },
       {
         "section": "Tennis",
@@ -4825,22 +4799,61 @@
         "body": "Emma Raducanu has suffered another rankings blow after pulling out of the China Open due to a stress fracture in her right leg. The one-time US Open winner has not played a competitive match since reaching the Queen's Club final in June. The injury forced her to skip Wimbledon and miss out on a return to Flushing Meadows, the scene of her historic Grand Slam triumph in 2021.\n\nRaducanu was initially named on the entry list for the China Open, offering hope that she would make her long-awaited comeback in Beijing. However, she quietly dropped off the list several weeks before the tournament, with her injury seemingly refusing to go away. Her inactivity has taken its toll on her position in the WTA rankings, with the 23-year-old dropping like a stone.",
         "copy": "Emma Raducanu has suffered another rankings blow after pulling out of the China Open due to a stress fracture in her right leg. The one-time US Open winner has not played a competitive match since reaching the Queen's Club final in June. The injury forced her to skip Wimbledon and miss out on a return to Flushing Meadows, the scene of her historic Grand Slam triumph in 2021.\n\nRaducanu was initially named on the entry list for the China Open, offering hope that she would make her long-awaited comeback in Beijing. However, she quietly dropped off the list several weeks before the tournament, with her injury seemingly refusing to go away. Her inactivity has taken its toll on her position in the WTA rankings, with the 23-year-old dropping like a stone.",
         "first_seen": "2026-09-29T12:05:53.772052+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Tim Henman has called for changes to the calendar saying the 12-day Masters 1000 is 'too much' tennis",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbE9QbUFlY0ZfY2JNaUNFVFVuMzBNR1FrcXFVLWU3ZWhNc0x1RXdGY0pZdFpjNXlYU0hObUEyMVhQQUxZYlpuem5hUTFDN0lFSFB5WEhkY2JQT2s5YkktSzZYQVJoNmY1WVM3S0Q3LUg0THNPVWVZT0VrUy1LT21lMEMxdV92MWFEY1hHdFY2SGNTck9aNHhPSWdDWDJxQ1Z0WHQ4amJUSEFpTUtUQk52N3hUMXlYRVpZX3F3YVp5dVo1WDExSTZJand1X3EyeFhudmtFTVdFWVc2b2EtYjFn?oc=5",
-        "published": "2026-09-28T19:16:36+00:00",
-        "published_label": "Mon 28 Sep, 19:16",
-        "summary": "Tim Henman has called for changes to the calendar saying the 12-day Masters 1000 is 'too much' tennis Sky Sports",
-        "body": "Former British No 1 Tim Henman has called for changes to the calendar saying the 12-day Masters 1000 is \"too much\" tennis. World No 1 Jannik Sinner announced he will not be able to return from a knee injury as planned at the China Open next week, having not played since Wimbledon.\n\nCarlos Alcaraz missed the French Open and Wimbledon with a wrist problem while Britain's Emma Raducanu and Jack Draper are among a number of other players who have been out for lengthy spells in 2026.",
-        "copy": "Former British No 1 Tim Henman has called for changes to the calendar saying the 12-day Masters 1000 is \"too much\" tennis. World No 1 Jannik Sinner announced he will not be able to return from a knee injury as planned at the China Open next week, having not played since Wimbledon.\n\nCarlos Alcaraz missed the French Open and Wimbledon with a wrist problem while Britain's Emma Raducanu and Jack Draper are among a number of other players who have been out for lengthy spells in 2026.",
-        "first_seen": "2026-09-29T12:05:53.772052+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "I'm not usually a fan of push carts, but this one quickly won me over",
+        "link": "https://golf.com/gear/big-max-blade-ip-2-push-cart-i-tried-it/",
+        "published": "2026-10-05T20:56:26+00:00",
+        "published_label": "Mon 05 Oct, 20:56",
+        "summary": "In the latest edition of I Tried It, David Curcurito took Big Max's Blade IP 2 push cart out for a spin — and came away impressed. The post I’m not usually a fan of push carts, but this one quickly won me over appeared first on Golf .",
+        "body": "Welcome to I Tried It, a GOLF.com series about golf items — apparel, gear, accessories, etc. — that we’ve recently taken out for a spin. We’re here to give our honest, no-frills takes on the latest and greatest golf or golf-adjacent items. So, scroll down to read about what we love about golf’s newest (or new to us) products.\n\nThis stems from years of watching perfectly normal men turn into unpaid baggage handlers somewhere between the first tee and the parking lot. One minute they’re standing proudly over a new purchase, explaining hidden compartments, wheel bearings and aircraft-grade aluminum. Four holes later they’re wrestling it up a cart path like a suitcase with a broken handle.",
+        "copy": "Welcome to I Tried It, a GOLF.com series about golf items — apparel, gear, accessories, etc. — that we’ve recently taken out for a spin. We’re here to give our honest, no-frills takes on the latest and greatest golf or golf-adjacent items. So, scroll down to read about what we love about golf’s newest (or new to us) products.\n\nThis stems from years of watching perfectly normal men turn into unpaid baggage handlers somewhere between the first tee and the parking lot. One minute they’re standing proudly over a new purchase, explaining hidden compartments, wheel bearings and aircraft-grade aluminum. Four holes later they’re wrestling it up a cart path like a suitcase with a broken handle.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Former PGA Tour staple course finds new home as part of LPGA's new Hawaii swing",
+        "link": "https://golf.com/news/lpga-schedule-kapalua-2027/",
+        "published": "2026-10-05T19:06:03+00:00",
+        "published_label": "Mon 05 Oct, 19:06",
+        "summary": "The Plantation Course at Kapalua was a PGA Tour staple for 25 years. That relationship ended, but it now has a new one with the LPGA. The post Former PGA Tour staple course finds new home as part of LPGA’s new Hawaii swing appeared first on Golf .",
+        "body": "The Plantation Course at Kapalua was a PGA Tour staple for 25 years, hosting the Sentry, which served as the kickoff event from 1999 to 2013 and again from 2024 to 2025. That relationship ended in April when the PGA Tour announced it planned to end its tournament presence in Maui.\n\nBut while the PGA Tour won’t be returning to the Plantation Course next year, Kapalua now has a new professional golf partner in the LPGA. On Monday, the LPGA announced that the Lotte Championship will be hosted at the Plantation Course starting in 2027. The tournament, which Jeeno Thitikul won on Sunday, will now be held in March as part of a two-tournament Hawaii Swing along with the recently announced Nanea Cup. The Lotte Championship will have a $3 million purse next season.",
+        "copy": "The Plantation Course at Kapalua was a PGA Tour staple for 25 years, hosting the Sentry, which served as the kickoff event from 1999 to 2013 and again from 2024 to 2025. That relationship ended in April when the PGA Tour announced it planned to end its tournament presence in Maui.\n\nBut while the PGA Tour won’t be returning to the Plantation Course next year, Kapalua now has a new professional golf partner in the LPGA. On Monday, the LPGA announced that the Lotte Championship will be hosted at the Plantation Course starting in 2027. The tournament, which Jeeno Thitikul won on Sunday, will now be held in March as part of a two-tournament Hawaii Swing along with the recently announced Nanea Cup. The Lotte Championship will have a $3 million purse next season.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "TGL just signed golf's hottest young star. Here's why that matters",
+        "link": "https://golf.com/news/tgl-jackson-koivun-what-signing-means/",
+        "published": "2026-10-05T17:38:56+00:00",
+        "published_label": "Mon 05 Oct, 17:38",
+        "summary": "Jackson Koivun to Motor City Golf Club might not have been on your offseason radar, but it's a significant move for TGL. Here's why. The post TGL just signed golf’s hottest young star. Here’s why that matters appeared first on Golf .",
+        "body": "Jackson Koivun was always going to be 2027’s most anticipated young player. His professional arrival had been hotly anticipated for years, after all. There has long been a sense that the former World No. 1 amateur and Auburn standout is different, given his eye-popping collegiate resume, his knack for winning, his ability to embrace the biggest moments and bring his best, making him the kind of prospect with a high floor and a very, very high ceiling.\n\nBut he became an even bigger deal when he stared down Scottie Scheffler at the 3M Open, emerging as the winner in just his third start as a pro. And a bigger deal still when he was named to the U.S. Presidents Cup team, signaling his sky-high perception among his peers on Tour.",
+        "copy": "Jackson Koivun was always going to be 2027’s most anticipated young player. His professional arrival had been hotly anticipated for years, after all. There has long been a sense that the former World No. 1 amateur and Auburn standout is different, given his eye-popping collegiate resume, his knack for winning, his ability to embrace the biggest moments and bring his best, making him the kind of prospect with a high floor and a very, very high ceiling.\n\nBut he became an even bigger deal when he stared down Scottie Scheffler at the 3M Open, emerging as the winner in just his third start as a pro. And a bigger deal still when he was named to the U.S. Presidents Cup team, signaling his sky-high perception among his peers on Tour.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "At Bank of Utah, the PGA Tour's different fall chases were on display",
+        "link": "https://golf.com/news/bank-of-utah-winners-pga-tour-fall/",
+        "published": "2026-10-05T17:23:14+00:00",
+        "published_label": "Mon 05 Oct, 17:23",
+        "summary": "Austin Smotherman won the day at the Bank of Utah Championship. but he wasn't the only winner of the PGA Tour's second fall event. The post At Bank of Utah, the PGA Tour’s different fall chases were on display appeared first on Golf .",
+        "body": "Doug Ghim smiled as Austin Smotherman gazed into the Utah sky after winning his first PGA Tour event in 100 starts. There was no pain in Ghim’s face after his attempt to win his first title in 192 starts came up short. There was just gratitude that he’s still grinding and chasing his dreams on the top golf circuit in the world.\n\n“It’s what we play for; it’s what we practice for,” Ghim said after finishing two shots behind Smotherman on Sunday at the Bank of Utah Championship. “Obviously the money and the points are great, but as a little kid trying to win a PGA Tour event, just a chance to do that is a dream come true. … We used to get really excited just to play courses that pros played at, and to think that as a 30-year-old, to have done this for my seventh season and to get an opportunity like today and what I’ve had in the past and hopefully more in the future, it’s such a privilege.",
+        "copy": "Doug Ghim smiled as Austin Smotherman gazed into the Utah sky after winning his first PGA Tour event in 100 starts. There was no pain in Ghim’s face after his attempt to win his first title in 192 starts came up short. There was just gratitude that he’s still grinding and chasing his dreams on the top golf circuit in the world.\n\n“It’s what we play for; it’s what we practice for,” Ghim said after finishing two shots behind Smotherman on Sunday at the Bank of Utah Championship. “Obviously the money and the points are great, but as a little kid trying to win a PGA Tour event, just a chance to do that is a dream come true. … We used to get really excited just to play courses that pros played at, and to think that as a 30-year-old, to have done this for my seventh season and to get an opportunity like today and what I’ve had in the past and hopefully more in the future, it’s such a privilege.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -4853,6 +4866,19 @@
         "body": "While L.A.B. Golf’s usage on the PGA Tour has steadied somewhat from the momentum of a few years ago, it still doesn’t take long for any of their new putters to earn wins on the PGA Tour.\n\nCase and point was Austin Smotherman’s win this weekend at the Bank of Utah Championship, wielding’s L.A.B.’s new VZN.1i (pronounced Vision One Eye) putter. The VZN.1i was released in June and is L.A.B.’s most forgiving design since the original Directed Force 2.1 putter. However, the main design characteristics are the strong visual cues that make the putter super easy to line up.",
         "copy": "While L.A.B. Golf’s usage on the PGA Tour has steadied somewhat from the momentum of a few years ago, it still doesn’t take long for any of their new putters to earn wins on the PGA Tour.\n\nCase and point was Austin Smotherman’s win this weekend at the Bank of Utah Championship, wielding’s L.A.B.’s new VZN.1i (pronounced Vision One Eye) putter. The VZN.1i was released in June and is L.A.B.’s most forgiving design since the original Directed Force 2.1 putter. However, the main design characteristics are the strong visual cues that make the putter super easy to line up.",
         "first_seen": "2026-10-05T16:16:59.475536+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Where Did It All Go Wrong For LIV Golf?",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JQjJ2VHl1VDlyak0xUWRhRHE4ZmVyOS1RVG9PTG5NX01JYTJIb1ZFRnFlcWpGNmlNU1UxUVFrdzhlb3VQc1h1U1RyRW9fLUwtekIzLVZDVmxQajlUN3ZLeW5MY0hJaEZkT3ZmVzFjS2hPYmxvbWNLNHZ3MA?oc=5",
+        "published": "2026-10-05T16:00:00+00:00",
+        "published_label": "Mon 05 Oct, 16:00",
+        "summary": "Where Did It All Go Wrong For LIV Golf? Yahoo Sports",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
       },
       {
         "section": "Golf",
@@ -4879,6 +4905,19 @@
         "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Joaquin Niemann has been one of LIV Golf’s most successful competitors, but the Chilean is still unsure whether he will return to the league for 2027.\n\nNo one has won more individual tournaments on the LIV setup than Niemann, who has secured nine titles since making the switch to the league in 2022. His last came in New York in August, and came at a time when uncertainty loomed large over LIV’s future.",
         "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Joaquin Niemann has been one of LIV Golf’s most successful competitors, but the Chilean is still unsure whether he will return to the league for 2027.\n\nNo one has won more individual tournaments on the LIV setup than Niemann, who has secured nine titles since making the switch to the league in 2022. His last came in New York in August, and came at a time when uncertainty loomed large over LIV’s future.",
         "first_seen": "2026-10-05T13:31:42.138810+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Joaquin Niemann drops major hint as LIV Golf deadline looms",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2dmZWRZYUZGZUdtYy1LQW9xNDk3MHZReDQ4X1ZZZjB2Q2tUMVI0eFhocFZSekNIRkotemIwVXp3RE1vdzBYSWE2WjNxdHJhQ2REY0Rzd3NiZF8xRU42ZE5OTGVpWk1wYU44QVNIRG0wMzVtLWNzQXBzZDZscWFIVkFqUmdPd0VnQ2R5QUxWbGg?oc=5",
+        "published": "2026-10-05T12:03:56+00:00",
+        "published_label": "Mon 05 Oct, 12:03",
+        "summary": "Joaquin Niemann drops major hint as LIV Golf deadline looms Today's Golfer",
+        "body": "He won the most tournaments in LIV Golf’s short history. But Joaquin Niemann’s latest comments have raised big questions over his future with the league… With the deadline looming for LIV Golf to sign up the players required to salvage its future, one of the league’s most successful players has raised further doubts about his own participation.\n\nChilean Joaquin Niemann lifted his national open for the very first time on Sunday, with birdies on his final two holes at Club de Golf Las Brisas de Chicureo enough to win by four shots. Niemann bounced back from a 1-over 73 on Friday with a third-round 64 and then closed out his third victory of the season with a 67 on Sunday.",
+        "copy": "He won the most tournaments in LIV Golf’s short history. But Joaquin Niemann’s latest comments have raised big questions over his future with the league… With the deadline looming for LIV Golf to sign up the players required to salvage its future, one of the league’s most successful players has raised further doubts about his own participation.\n\nChilean Joaquin Niemann lifted his national open for the very first time on Sunday, with birdies on his final two holes at Club de Golf Las Brisas de Chicureo enough to win by four shots. Niemann bounced back from a 1-over 73 on Friday with a third-round 64 and then closed out his third victory of the season with a 67 on Sunday.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
       },
       {
         "section": "Golf",
@@ -6335,61 +6374,35 @@
         "body": "LIV Golf’s future is shrouded in uncertainty, but we didn’t think we’d have to wonder what Bryson DeChambeau might do. The tour is bankrupt, and a number of its biggest stars are expected to leave, including Jon Rahm and Joaquin Niemann. But as one of the league’s biggest supporters, it looked like DeChambeau would stay.\n\nHe’s been directly involved in efforts to bring in a new investor after the Saudi Public Investment Fund withdrew support from the league this year. DeChambeau appeared to be integral to LIV Golf’s future plans.",
         "copy": "LIV Golf’s future is shrouded in uncertainty, but we didn’t think we’d have to wonder what Bryson DeChambeau might do. The tour is bankrupt, and a number of its biggest stars are expected to leave, including Jon Rahm and Joaquin Niemann. But as one of the league’s biggest supporters, it looked like DeChambeau would stay.\n\nHe’s been directly involved in efforts to bring in a new investor after the Saudi Public Investment Fund withdrew support from the league this year. DeChambeau appeared to be integral to LIV Golf’s future plans.",
         "first_seen": "2026-09-29T12:05:53.772052+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Adam Scott's latest Presidents Cup heartbreak ended with an uncomfortable truth",
-        "link": "https://golf.com/news/adam-scott-presidents-cup-heartbreak/",
-        "published": "2026-09-28T18:21:15+00:00",
-        "published_label": "Mon 28 Sep, 18:21",
-        "summary": "Adam Scott was \"desperate\" to finally win a Presidents Cup. After the Internationals collapsed on Sunday, an uncomfortable truth lingered. The post Adam Scott’s latest Presidents Cup heartbreak ended with an uncomfortable truth appeared first on Golf .",
-        "body": "At the 2024 Open Championship, Adam Scott was asked what kept him and Justin Rose, both of whom came up short of their second major that week, going. Scott delivered his answer with his trademark smile and a chuckle.\n\n“Always being a ‘Nearly Great’ of the game is spurring us on in our later years,” Scott said that Sunday at Troon. It was honest and illuminating. For all he has achieved in the game — a Masters champion, a Players champion, World No. 1 — Adam Scott still views himself as an underachiever. A year later at the U.S. Open at Oakmont, Scott offered a little more as he entered Sunday with another real chance to finally knock off major No. 2.",
-        "copy": "At the 2024 Open Championship, Adam Scott was asked what kept him and Justin Rose, both of whom came up short of their second major that week, going. Scott delivered his answer with his trademark smile and a chuckle.\n\n“Always being a ‘Nearly Great’ of the game is spurring us on in our later years,” Scott said that Sunday at Troon. It was honest and illuminating. For all he has achieved in the game — a Masters champion, a Players champion, World No. 1 — Adam Scott still views himself as an underachiever. A year later at the U.S. Open at Oakmont, Scott offered a little more as he entered Sunday with another real chance to finally knock off major No. 2.",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Above Par: Precedent for LIV Golf’s Bankruptcy",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1k4S1NxaXdQdEJCRVp4LTUtSGlPRVpwbUduRWdvUjRGd0t0RXVsUmFJV0lIeFo4eEdtZmRTU2sweXV3WXNCVDNtTF9WcVBBbW90eW82WWlJc0JEaWdqaElkbkRrQkk3TjZreXEzcjFqeGwwa1d5czBHcnRRRDdLX1NRWmpUS21aNUE?oc=5",
-        "published": "2026-09-28T18:07:36+00:00",
-        "published_label": "Mon 28 Sep, 18:07",
-        "summary": "Above Par: Precedent for LIV Golf’s Bankruptcy wislawjournal.com",
-        "body": "LIV Golf New Jersey LLC filed for Chapter 11 protection on September 8, 2026, in the District of New Jersey. Five billion dollars in capital from Saudi Arabia’s Public Investment Fund funded five years of the tour before the money ran out. The rescue plan behind it comes with its own clock: BC Partners has agreed to anchor a $300 million recapitalization, but the restructuring support agreement gives LIV’s players 35 days from the petition date to sign on, or the deal is at risk. Player claims run to roughly $45 million, with Jon Rahm and Bryson DeChambeau each owed more than $5 million of it.\n\nNone of this is unfamiliar to anyone who has spent time in sports bankruptcy dockets. We pulled fourteen professional sports cases filed over the last twenty years, from the New York Racing Association in 2006 to Grand Slam Track last December, and the range of outcomes across that set maps closely onto what LIV Golf is entering now.",
-        "copy": "LIV Golf New Jersey LLC filed for Chapter 11 protection on September 8, 2026, in the District of New Jersey. Five billion dollars in capital from Saudi Arabia’s Public Investment Fund funded five years of the tour before the money ran out. The rescue plan behind it comes with its own clock: BC Partners has agreed to anchor a $300 million recapitalization, but the restructuring support agreement gives LIV’s players 35 days from the petition date to sign on, or the deal is at risk. Player claims run to roughly $45 million, with Jon Rahm and Bryson DeChambeau each owed more than $5 million of it.\n\nNone of this is unfamiliar to anyone who has spent time in sports bankruptcy dockets. We pulled fourteen professional sports cases filed over the last twenty years, from the New York Racing Association in 2006 to Grand Slam Track last December, and the range of outcomes across that set maps closely onto what LIV Golf is entering now.",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Cameron Smith says he needs more answers before committing to LIV Golf",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHFwRkVJN2xMR1NJdjZYVlNqWDNMN0o4MTQ5bGRNTms1ZTRDSk1rNWRwMTl0YjVzZXlKSnRmTzBCY2dqVWExenFlT0ZBRlFGV3pleGM2aW93Wk9SblE5UEZKTk41bG90Uk1EenR6bWxHOW1XSkdIUUF6cmt2OS1rZ3huSm83WDNWMTJ5Vnp3QXV5cjhjdE9SbDMzUENqX0VjRUpBWFBEa1loQQ?oc=5",
-        "published": "2026-09-28T17:47:27+00:00",
-        "published_label": "Mon 28 Sep, 17:47",
-        "summary": "Cameron Smith says he needs more answers before committing to LIV Golf dailyclubgolf.com",
-        "body": "LIV filed for bankruptcy, terminating Cameron Smith's contract. Now, the former champ expects more answers to stick around with LIV Golf. Back in April, the PIF withdrew its funding for LIV, leaving the league in investment turmoil. Now, LIV has filed for bankruptcy, and Smith expected more clarity.\n\n\"(We're) in a bit of a limbo ... we don't really know,\" Smith said. \"It's hard to make a decision when you don't have at least some of the answers to make the right decision, or (any) decision. We need a few more answers.\"",
-        "copy": "LIV filed for bankruptcy, terminating Cameron Smith's contract. Now, the former champ expects more answers to stick around with LIV Golf. Back in April, the PIF withdrew its funding for LIV, leaving the league in investment turmoil. Now, LIV has filed for bankruptcy, and Smith expected more clarity.\n\n\"(We're) in a bit of a limbo ... we don't really know,\" Smith said. \"It's hard to make a decision when you don't have at least some of the answers to make the right decision, or (any) decision. We need a few more answers.\"",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Are you required to search for your ball? Here's what the rules say",
-        "link": "https://golf.com/instruction/rules/are-you-required-search-ball-rules/",
-        "published": "2026-09-28T17:02:22+00:00",
-        "published_label": "Mon 28 Sep, 17:02",
-        "summary": "If you hit a wayward shot and would prefer to play your provisional, do you still have to search for your original ball? The post Are you required to search for your ball? Here’s what the rules say appeared first on Golf .",
-        "body": "This content was first published in Golf Journal, a quarterly print publication exclusively for USGA Members. To be among the first to receive Golf Journal and to learn how you can ensure a strong future for the game, become a USGA Member today!\n\nYou’re playing a challenging par 3 late in a close match. Nerves set in, and your tee shot goes into the trees left of the green. Even if you find your ball, you quickly realize your next shot will likely be a tough one, so you decide to play a provisional. But are you required to look for your original ball?",
-        "copy": "This content was first published in Golf Journal, a quarterly print publication exclusively for USGA Members. To be among the first to receive Golf Journal and to learn how you can ensure a strong future for the game, become a USGA Member today!\n\nYou’re playing a challenging par 3 late in a close match. Nerves set in, and your tee shot goes into the trees left of the green. Even if you find your ball, you quickly realize your next shot will likely be a tough one, so you decide to play a provisional. But are you required to look for your original ball?",
-        "first_seen": "2026-09-28T20:24:37.023621+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Indian shuttlers chase glory on BWF circuit",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVlJCWjJFTjJFVFpTOEVoS2x0TjVNTUlZNW5Xb1JuWHBDa1F0bFh2bXh0dmhFOU9RbmxsWVA5WG9lU2ZpakUtN1hjLU5pTHNKSUM5elFYZ1NQdUxxVzhzR2RFNEpieDZQWXh5c0NMdGY2NDBPRTNXNHR4ME5IbjRxVDFpay1RNG9YbFppd2FKOXXSAZYBQVVfeXFMT0Nndm1HekpZU3FYSFdlNEFubkpiWFpQMzY2TnBZbF9VT2NzeFdaNzBPSGY4aTBLVV83ODVWVmtEdGNCU3FhSGt5bWhhQ1NodUtzVjhLNGRlalpkVEZVUWhCSDR2c3hqV3hWdWhsZWJ2S0FfLXJCMkRLSmFrMnVnTUFCXzRHUExqSV8zck5HdXJJbzFSS3l3?oc=5",
+        "published": "2026-10-05T18:52:57+00:00",
+        "published_label": "Mon 05 Oct, 18:52",
+        "summary": "Indian shuttlers chase glory on BWF circuit MillenniumPost",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Debutants Cyprus Relish Opening Experience",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdTQ4bkdOWnlPU0RRbF9HWG5mNXoycEJaSUVXU2xUeVNQazJXR0dwTDg5d2Z6NmxKWGlXTHFCYkF0S0JfZllaX0dXckJYWmVqMmFwWEs3bUtxcXdBY09mQmlfWjBjX3NzeTV4d3J4TTBZcmZZY05ucWtuaEFYbDl0MmgtYUdIaGJkWkFCS3ExcFNvQ0xIQ0E?oc=5",
+        "published": "2026-10-05T17:49:56+00:00",
+        "published_label": "Mon 05 Oct, 17:49",
+        "summary": "Debutants Cyprus Relish Opening Experience BWF",
+        "body": "It wasn’t a bad debut for Cyprus at the VICTOR BWF World Junior Championships 2026. Three-time champions Korea did beat them comfortably but the first-timers registered their presence as the 22nd edition of the Suhandinata Cup got underway at the Cairo International Stadium.\n\nCoach Shai Geffen was pleased with his team’s performance against the Asian powerhouse. “This is a big opportunity,” said Geffen. “It’s a first time for us participating in any World Championships as a team. So this is a good opportunity for the players to understand the culture of badminton – not just in Europe. We could play Korea, a powerhouse of Asia, and we’ll play Denmark, one of the best teams in the world. So this is a big challenge. But to see where we are and how we can improve.",
+        "copy": "It wasn’t a bad debut for Cyprus at the VICTOR BWF World Junior Championships 2026. Three-time champions Korea did beat them comfortably but the first-timers registered their presence as the 22nd edition of the Suhandinata Cup got underway at the Cairo International Stadium.\n\nCoach Shai Geffen was pleased with his team’s performance against the Asian powerhouse. “This is a big opportunity,” said Geffen. “It’s a first time for us participating in any World Championships as a team. So this is a good opportunity for the players to understand the culture of badminton – not just in Europe. We could play Korea, a powerhouse of Asia, and we’ll play Denmark, one of the best teams in the world. So this is a big challenge. But to see where we are and how we can improve.",
+        "first_seen": "2026-10-05T21:27:22.684516+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6758,5 +6771,5 @@
       }
     ]
   },
-  "total": 518
+  "total": 519
 }
