@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T14:46:41.342488+00:00",
-  "generated_label": "Thursday 08 October 2026, 14:46 UTC",
+  "generated_at": "2026-10-08T19:40:44.710759+00:00",
+  "generated_label": "Thursday 08 October 2026, 19:40 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Big Tech sets out its pitches on AI agents",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWVGbVZ6NG8xRjd1bGVxZlpLTFQ4SUV0dTRSVFloUEQ0em45dkFJUEsxRDdHQXBfa0RKbkI2Zm9pOWVyUUcweDJBejBNM0pkeE5Yck9uMXBISUswWUpQZGdqcU40ZjR1NnU4REdwVGRLc0Z2RTZ0OVVKTnFYVk5tUGhVZ3g?oc=5",
+        "published": "2026-10-08T16:44:08+00:00",
+        "published_label": "Thu 08 Oct, 16:44",
+        "summary": "Big Tech sets out its pitches on AI agents Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportsPro",
+        "kind": "direct",
+        "title": "DAZN eyes national US media rights after local NBA, NHL and MLB deals",
+        "link": "https://www.sportspro.com/news/broadcast-ott/dazn-us-media-rights-local-nba-nhl-mlb-shay-segev/",
+        "published": "2026-10-08T15:41:21+00:00",
+        "published_label": "Thu 08 Oct, 15:41",
+        "summary": "Chief executive Shay Segev says streamer has a foot in the door for deeper partnerships with the major leagues, including globally. The post DAZN eyes national US media rights after local NBA, NHL and MLB deals appeared first on SportsPro .",
+        "body": "DAZN chief executive Shay Segev says the streamer’s move into local sports is just the first step towards a bigger presence in the US market. Recent months have seen the sports streaming service acquire local rights to – or strike distribution agreements with – several National Basketball Association (NBA), National Hockey League (NHL) and Major League Baseball (MLB) teams. The deals have helped those teams adapt to the loss of their regional sports network (RSN) partner or declining pay-TV households.\n\nThe company also spent a reported US$100 million to acquire ViewLift, which has built direct-to-consumer (DTC) platforms for other teams, and Everpass Media, which distributes National Football League (NFL) Sunday Ticket to bars and restaurants. DAZN can now offer technological and customer service capabilities to other franchises seeking to make the shift, as well as wider distribution.",
+        "copy": "DAZN chief executive Shay Segev says the streamer’s move into local sports is just the first step towards a bigger presence in the US market. Recent months have seen the sports streaming service acquire local rights to – or strike distribution agreements with – several National Basketball Association (NBA), National Hockey League (NHL) and Major League Baseball (MLB) teams. The deals have helped those teams adapt to the loss of their regional sports network (RSN) partner or declining pay-TV households.\n\nThe company also spent a reported US$100 million to acquire ViewLift, which has built direct-to-consumer (DTC) platforms for other teams, and Everpass Media, which distributes National Football League (NFL) Sunday Ticket to bars and restaurants. DAZN can now offer technological and customer service capabilities to other franchises seeking to make the shift, as well as wider distribution.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -81,6 +107,19 @@
         "section": "Wider Sports News",
         "source": "Sportcal",
         "kind": "gnews",
+        "title": "Manchester wins bid to host 2031 Netball World Cup",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZm1uZUZzWUpXXzRoMVBfcTcycVpZeWhPZUFDNEdkTVlOeThsUHhrTE8xam1vTTB5UzZpSVN6MTFPUmctTXBFX01Fcmw0RHZfVTVqSXpMYnFqQTZvbk96RF83dDhEWHhCT1ZLVnU0SUgwamRVanp6YkVUYVUzc292RUd0ZGdJRElVTkE?oc=5",
+        "published": "2026-10-08T12:42:14+00:00",
+        "published_label": "Thu 08 Oct, 12:42",
+        "summary": "Manchester wins bid to host 2031 Netball World Cup Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
         "title": "DAZN extends global FTA Extreme H deal",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJd3RQMDZwNGhqdkdpcU1mMXYzZDR3eUV1LWtDMzNHTzBLSDN3WDU5OUpCdVlwMkVDX0ZmTy1nVzdjY2xmbS1aYlVpczdlZExYTGlVQ1ZrNkRLRWNQTWFNXzZoZkdPRjlWWEVqX0JUVFBwMWJya250WA?oc=5",
         "published": "2026-10-08T11:53:49+00:00",
@@ -128,6 +167,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-08T12:46:38.002614+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "NBL boosts sponsorship slate with 12 new agreements and 10 renewals",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbERudWNNak1WSnI4eTdLUlplWG9ib1I0WnprQlZDbk9HdzhYc3JndjFnNXFEU01YR3hmd3FRSExrZHRraWJWc2l1dEU2THEyQ1NOakVuQXc0bUEzeFNLZVM3anVsa0tSdndKQlhGTWpXUV9kRi0wSEJMdWRReXR4dVhpVV9PWFdoX2x1N0V4ajRubVI1cmVJX1BFUy1rbUpyR3pRcXdDcEI?oc=5",
+        "published": "2026-10-08T10:38:03+00:00",
+        "published_label": "Thu 08 Oct, 10:38",
+        "summary": "NBL boosts sponsorship slate with 12 new agreements and 10 renewals Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -456,6 +508,19 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "Magnificent Seven confirmed as 2036 Olympic bidders",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQVBhcC0wN1luSXM1X3o1M3VhQjEzQk9iZ3gwbFlEaE5WMjl6ejZzd1JZbmhpY25qdGk4WVVzWWJBSTJvcFRJTmdLbXVRcF9pMEtfdWoyMkxydzk2ZHVpUkdNajhia1Nia1pmWmNUSWFXaFhOZl9JcGZlRV95dV90MXRvQ1JreFgwaVE?oc=5",
+        "published": "2026-10-07T09:51:52+00:00",
+        "published_label": "Wed 07 Oct, 09:51",
+        "summary": "Magnificent Seven confirmed as 2036 Olympic bidders Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "SportsPro",
         "kind": "direct",
         "title": "Qatar Stars League makes financial sustainability central to its growth strategy",
@@ -505,6 +570,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-07T12:37:04.818726+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Russian hostile activity costs UK up to £2.5bn a year, report warns",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHBSUXBic1ZpMElqUGdzRkFNckNpV3NRemVkcC1xbHU4VTFHS0JSNEJlN1paZXR4alM5U0RuX1RvU01mWmZzM1RZcUhUQV93c0tseFVMczNVZ19kSjI2azdpbENSMEpkcDNhZmo2amVHMXVWTFlzR0M5T0pEY2dFV1hBQkw?oc=5",
+        "published": "2026-10-07T04:00:47+00:00",
+        "published_label": "Wed 07 Oct, 04:00",
+        "summary": "Russian hostile activity costs UK up to £2.5bn a year, report warns Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1688,74 +1766,74 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-02T11:50:50.506018+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "SportsPro",
-        "kind": "direct",
-        "title": "‘Sham’ contracts and inflated sponsorship revenue: What next for Man City after landmark Premier League verdict?",
-        "link": "https://www.sportspro.com/analysis/decision-makers/man-city-premier-league-charges-punishment-sponsorship-contracts-explainer/",
-        "published": "2026-10-01T17:59:31+00:00",
-        "published_label": "Thu 01 Oct, 17:59",
-        "summary": "As the club maintain their innocence, the sporting, commercial and financial effects have only begun to reverberate. The post ‘Sham’ contracts and inflated sponsorship revenue: What next for Man City after landmark Premier League verdict? appeared first on SportsPro .",
-        "body": "The story of the biggest financial scandal in English soccer history is by now a familiar saga, but it has not lost its capacity to shock. Last week, reports started to emerge that Manchester City had been found guilty by an independent commission of 114 of the 115 charges levelled against the club in 2023 for extensive breaches of its cost-control rules. Those leaks meant that when the Premier League’s official confirmation eventually arrived on 29th September, it came as no surprise.\n\nBut the scale of City’s deception and the severity of the language in both the league’s statement was unprecedented. The investigation determined City worked to ‘artificially inflate the club’s revenues, and reduce its costs, by more than UK£900 million’ between 2009/10 and 2017/18 seasons, a period in which they won three of their eight Premier League titles.",
-        "copy": "The story of the biggest financial scandal in English soccer history is by now a familiar saga, but it has not lost its capacity to shock. Last week, reports started to emerge that Manchester City had been found guilty by an independent commission of 114 of the 115 charges levelled against the club in 2023 for extensive breaches of its cost-control rules. Those leaks meant that when the Premier League’s official confirmation eventually arrived on 29th September, it came as no surprise.\n\nBut the scale of City’s deception and the severity of the language in both the league’s statement was unprecedented. The investigation determined City worked to ‘artificially inflate the club’s revenues, and reduce its costs, by more than UK£900 million’ between 2009/10 and 2017/18 seasons, a period in which they won three of their eight Premier League titles.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Burnham criticised over support for Manchester City owners",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ25FUC1NZWx6aXBwS1B2YkF3b2I2VW5RYlFkczRVLXk5VjNtbUVta185VERGZFZkTUM0Y1JidXRmVDZqbVp4NnhGQkFGemFxXzhDR3I4TzhoQ0p6WDNqNXBici1YdlJfa3NyVVFXemI1eU9ReFYybmRsY2hJeTh1a3VqODA?oc=5",
-        "published": "2026-10-01T15:40:18+00:00",
-        "published_label": "Thu 01 Oct, 15:40",
-        "summary": "Burnham criticised over support for Manchester City owners Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Strauss renews NFL sponsorship in UK, Germany ahead of international games",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmFyQVQxUzl4LXpJTFdUdkxURUYxekh1Y3JYMlUyeklrMU52b0JxSWVFcmNpM1VUak1sNGhYZEpjLXd1Mi0weVBmSFlad3RZN0duSDVTNERUbGJtcVRBM083ZlJLQnpaUzdMNWVGTlJvS19uRmZSa05FNUZtZm12VmllSFVDX3NOTjN4bENnZ3o3SEFRWVVoRW5JQm9mVkoxQTNPNGxKUQ?oc=5",
-        "published": "2026-10-01T15:20:37+00:00",
-        "published_label": "Thu 01 Oct, 15:20",
-        "summary": "Strauss renews NFL sponsorship in UK, Germany ahead of international games Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "BT seeks government nod for potential TalkTalk takeover",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3BKdnU5X21nemNPXzBwcnZRTXJxMGJOWjRlZ2NuTUNXdF9ZWndULWJXNkZ0MFV2M3YyZzNBQTEzQ3RiTkhYb2ExQzNGUzFYUGJqUGRPUllhSkpfM0xsMG9tZVNHUmEyVHdnUGRyQnBLUjVfY3lyaU1idkdkSFFKM3NGc0s?oc=5",
-        "published": "2026-10-01T15:02:34+00:00",
-        "published_label": "Thu 01 Oct, 15:02",
-        "summary": "BT seeks government nod for potential TalkTalk takeover Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Konami and French Football Federation extend licensing deal",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFJudG9Wb3dvVDJlTEcySnNNV0xid3ZUeHVueEhQSjI3Y29fTDlfOXF0cDc3YkxUNWQtWlJkdHY3YUpKN0F6WlJIM3BTSm1xdEJHV0diRmVfWnVtX0dSR1lhOW1MUE5XQ19rMlY2U3FVUHhraER6bV80RF93ZC11QjZoZE1YdXpSTnUzYWR2cUxabHdG?oc=5",
-        "published": "2026-10-01T14:50:10+00:00",
-        "published_label": "Thu 01 Oct, 14:50",
-        "summary": "Konami and French Football Federation extend licensing deal Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Rees-Zammit reaping rewards of hard work, says Lam",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck4g12rvy3l8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-08T17:20:15+00:00",
+        "published_label": "Thu 08 Oct, 17:20",
+        "summary": "Wales winger Louis Rees-Zammit is reaping the rewards of the work he has put into training, said Bristol director of rugby Pat Lam.",
+        "body": "Louis Rees-Zammit is reaping the rewards of the work he's put into training, said Bristol director of rugby Pat Lam, as the Wales winger is enjoying a try-laden start to the season.\n\nRees-Zammit has scored four tries - two in each of the Bears' first two Prem matches this season - the most of any player in the league. Against Northampton last week his performance included five line breaks, 81 metres and a 50:22 kick, while he was denied a hat-trick in the closing stages as Tommy Freeman's deliberate knock-on saw a penalty try awarded instead.",
+        "copy": "Louis Rees-Zammit is reaping the rewards of the work he's put into training, said Bristol director of rugby Pat Lam, as the Wales winger is enjoying a try-laden start to the season.\n\nRees-Zammit has scored four tries - two in each of the Bears' first two Prem matches this season - the most of any player in the league. Against Northampton last week his performance included five line breaks, 81 metres and a 50:22 kick, while he was denied a hat-trick in the closing stages as Tommy Freeman's deliberate knock-on saw a penalty try awarded instead.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Gloucester-Hartpury sign Australia prop O'Gorman",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmly0vzz1x3eo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-08T15:43:28+00:00",
+        "published_label": "Thu 08 Oct, 15:43",
+        "summary": "Gloucester-Hartpury sign Australia tight-head prop Bridie O'Gorman for the 2026-27 Premiership Women's Rugby season.",
+        "body": "Gloucester-Hartpury have signed Australia tight-head prop Bridie O'Gorman for the 2026-27 Premiership Women's Rugby season. The 27-year-old has 43 caps for the Wallaroos since making her debut in 2022, playing in both the delayed 2021 World Cup and last year's tournament in England.\n\nO'Gorman has been playing for NSW Waratahs and will join Gloucester-Hartpury following the WXV Series, which concludes at the end of this month. Head of rugby Dan Murphy described O'Gorman as a set-piece specialist who would add international quality to their pack.",
+        "copy": "Gloucester-Hartpury have signed Australia tight-head prop Bridie O'Gorman for the 2026-27 Premiership Women's Rugby season. The 27-year-old has 43 caps for the Wallaroos since making her debut in 2022, playing in both the delayed 2021 World Cup and last year's tournament in England.\n\nO'Gorman has been playing for NSW Waratahs and will join Gloucester-Hartpury following the WXV Series, which concludes at the end of this month. Head of rugby Dan Murphy described O'Gorman as a set-piece specialist who would add international quality to their pack.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "‘A really exciting group’: Nel Metcalfe ready for Wales return after long injury lay-off",
+        "link": "https://www.rugbypass.com/news/a-really-exciting-group-nel-metcalfe-ready-for-wales-return-after-long-injury-lay-off/",
+        "published": "2026-10-08T15:32:21+00:00",
+        "published_label": "Thu 08 Oct, 15:32",
+        "summary": "Nel Metcalfe believes Wales are a different team to the one she left behind as she prepares to return to Test rugby.",
+        "body": "Nel Metcalfe believes Wales are a different team to the one she left behind as she prepares to return to Test rugby. The 21-year-old has been included in Sean Lynn’s squad ahead of WXV Global Series fixtures against Japan this October, and is set to earn her first cap since Wales’ exit from Women’s Rugby World Cup 2025.\n\nHaving watched from the sidelines as Wales finished at the foot of the Guinness Women’s Six Nations earlier this year, Metcalfe has been impressed as her international teammates started WXV Global Series with a rip-roaring 50-19 win against South Africa. A week later, the USA Women’s Eagles came to Cardiff and won 26-24.",
+        "copy": "Nel Metcalfe believes Wales are a different team to the one she left behind as she prepares to return to Test rugby. The 21-year-old has been included in Sean Lynn’s squad ahead of WXV Global Series fixtures against Japan this October, and is set to earn her first cap since Wales’ exit from Women’s Rugby World Cup 2025.\n\nHaving watched from the sidelines as Wales finished at the foot of the Guinness Women’s Six Nations earlier this year, Metcalfe has been impressed as her international teammates started WXV Global Series with a rip-roaring 50-19 win against South Africa. A week later, the USA Women’s Eagles came to Cardiff and won 26-24.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Pat Lam's Bristol Bears lose England star after Henry Pollock incident",
+        "link": "https://www.rugbypass.com/news/pat-lams-bristol-bears-lose-england-star-after-henry-pollock-incident/",
+        "published": "2026-10-08T15:10:31+00:00",
+        "published_label": "Thu 08 Oct, 15:10",
+        "summary": "Bristol Bears boss Pat Lam has suffered another injury setback as his side seek to defend their unbeaten start to the new season with a first-ever win over Saracens at the StoneX on Saturday.",
+        "body": "Bristol Bears boss Pat Lam has suffered another injury setback as his side seek to defend their unbeaten start to the new season with a first-ever win over Saracens at the StoneX on Saturday.\n\nLam has revealed that England star Benhard Janse van Rensburg has been ruled out for the next two weeks after colliding with Henry Pollock’s knee in their win over Northampton Saints at Ashton Gate last weekend.",
+        "copy": "Bristol Bears boss Pat Lam has suffered another injury setback as his side seek to defend their unbeaten start to the new season with a first-ever win over Saracens at the StoneX on Saturday.\n\nLam has revealed that England star Benhard Janse van Rensburg has been ruled out for the next two weeks after colliding with Henry Pollock’s knee in their win over Northampton Saints at Ashton Gate last weekend.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Leo Cullen swings Leinster selection axe for first home game of URC season",
+        "link": "https://www.rugbypass.com/news/leo-cullen-swings-selection-axe-for-first-home-game-of-urc-season/",
+        "published": "2026-10-08T15:04:40+00:00",
+        "published_label": "Thu 08 Oct, 15:04",
+        "summary": "Leo Cullen has rung the changes for Leinster’s first home game of the new URC season, naming an entirely changed starting XV for Saturday’s visit of Cardiff.",
+        "body": "Leo Cullen has rung the changes for Leinster’s first home game of the new URC season, naming an entirely changed starting XV for Saturday’s visit of Cardiff. The Irish province are still seeking their first win of the season after two losses on the bounce in their tour of South Africa against the Lions and the Sharks.\n\nNone of the players who started against the bonus-point loss in Durban are retained in the run-on side as Cullen rotates his resources. A number of frontline internationals are drafted back in for their first URC game at the revamped and renamed Laya Arena.",
+        "copy": "Leo Cullen has rung the changes for Leinster’s first home game of the new URC season, naming an entirely changed starting XV for Saturday’s visit of Cardiff. The Irish province are still seeking their first win of the season after two losses on the bounce in their tour of South Africa against the Lions and the Sharks.\n\nNone of the players who started against the bonus-point loss in Durban are retained in the run-on side as Cullen rotates his resources. A number of frontline internationals are drafted back in for their first URC game at the revamped and renamed Laya Arena.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4277,126 +4355,22 @@
         "body": "Wallabies coach Les Kiss has explained the selection of Toby Macpherson in the 34-man squad for the Bledisloe Cup Series, with the former Australia U20 captain filling the vacancy left by Exeter Chiefs forward Tom Hooper.\n\nMacpherson debuted for the ACT Brumbies at Super Rugby Pacific level in mid-February, in what was the first in a string of appearances off the bench. But the 22-year-old would also earn starts in both the second row and loose forwards.",
         "copy": "Wallabies coach Les Kiss has explained the selection of Toby Macpherson in the 34-man squad for the Bledisloe Cup Series, with the former Australia U20 captain filling the vacancy left by Exeter Chiefs forward Tom Hooper.\n\nMacpherson debuted for the ACT Brumbies at Super Rugby Pacific level in mid-February, in what was the first in a string of appearances off the bench. But the 22-year-old would also earn starts in both the second row and loose forwards.",
         "first_seen": "2026-10-02T11:50:50.506018+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Never played in Prem",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmwyzyky65v9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T18:09:17+00:00",
-        "published_label": "Thu 01 Oct, 18:09",
-        "summary": "Jack Combes and Alex Post tell BBC Sport about a \"dream come true\" as they look ahead to the 2027 Rugby World Cup opener against hosts Australia.",
-        "body": "It is 1 October 2027. There are 61,000 fans inside Perth Stadium. There is a global TV audience in the millions as two teams go through their final warm-ups preparing to open the 2027 Rugby World Cup.\n\nFor hosts Australia, twice world champions with a proud rugby history across the codes, it is familiar territory. For their opponents Hong Kong China, it is anything but. It will be their World Cup debut and for their players it will be biggest match of their lives.",
-        "copy": "It is 1 October 2027. There are 61,000 fans inside Perth Stadium. There is a global TV audience in the millions as two teams go through their final warm-ups preparing to open the 2027 Rugby World Cup.\n\nFor hosts Australia, twice world champions with a proud rugby history across the codes, it is familiar territory. For their opponents Hong Kong China, it is anything but. It will be their World Cup debut and for their players it will be biggest match of their lives.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Ciaran Frawley to make much anticipated Connacht debut",
-        "link": "https://www.rugbypass.com/news/ciaran-frawley-to-make-much-anticipated-connacht-debut/",
-        "published": "2026-10-01T18:07:25+00:00",
-        "published_label": "Thu 01 Oct, 18:07",
-        "summary": "Ciaran Frawley will make his long-awaited Connacht debut on Friday night after being named at fly-half for Stuart Lancaster's side's URC clash against Benetton in Treviso.",
-        "body": "Ciaran Frawley will make his long-awaited Connacht debut on Friday night after being named at fly-half for Stuart Lancaster’s side’s URC clash against Benetton in Treviso. The Ireland international was Connacht’s marquee signing of the summer following his move from Leinster, a move that left many blue supporters, and indeed Leo Cullen, disappointed to see him depart.\n\nViewed as a move that could benefit both player and country, the 28-year-old’s switch to Galway should bring more game time at fly-half and help establish him as a genuine long-term Ireland No.10 option for Andy Farrell.",
-        "copy": "Ciaran Frawley will make his long-awaited Connacht debut on Friday night after being named at fly-half for Stuart Lancaster’s side’s URC clash against Benetton in Treviso. The Ireland international was Connacht’s marquee signing of the summer following his move from Leinster, a move that left many blue supporters, and indeed Leo Cullen, disappointed to see him depart.\n\nViewed as a move that could benefit both player and country, the 28-year-old’s switch to Galway should bring more game time at fly-half and help establish him as a genuine long-term Ireland No.10 option for Andy Farrell.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "What JJ Hanrahan thinks about South African inclusion in the URC",
-        "link": "https://www.rugbypass.com/news/what-jj-hanrahan-thinks-about-south-african-inclusion-in-the-urc/",
-        "published": "2026-10-01T15:53:52+00:00",
-        "published_label": "Thu 01 Oct, 15:53",
-        "summary": "One of the BKT URC’s most seasoned campaigners has described the South African opposition in the competition as “unbelievably challenging” but “a great addition”.",
-        "body": "One of the BKT URC’s most seasoned campaigners has described the South African opposition in the competition as “unbelievably challenging” but “a great addition”. This is the sixth year that the DHL Stormers, Vodacom Bulls, Hollywoodbets Sharks and 10Bet Lions have been involved in the multi-nation tournament.\n\nOverall, they have claimed 162 wins in North v South matches, compared with 94 northern wins. They began the new season by recording a clean sweep of victories in the opening round of matches, three of the four being bonus point wins.",
-        "copy": "One of the BKT URC’s most seasoned campaigners has described the South African opposition in the competition as “unbelievably challenging” but “a great addition”. This is the sixth year that the DHL Stormers, Vodacom Bulls, Hollywoodbets Sharks and 10Bet Lions have been involved in the multi-nation tournament.\n\nOverall, they have claimed 162 wins in North v South matches, compared with 94 northern wins. They began the new season by recording a clean sweep of victories in the opening round of matches, three of the four being bonus point wins.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "'I was starting to become too comfortable at the Sharks. It was a safe space for me'",
-        "link": "https://www.rugbypass.com/news/curwin-bosch-i-was-starting-to-become-too-comfortable-at-the-sharks/",
-        "published": "2026-10-01T15:43:53+00:00",
-        "published_label": "Thu 01 Oct, 15:43",
-        "summary": "After two years in French fields, Curwin Bosch is back on South African soil and already receiving rave reviews.",
-        "body": "After two years in French fields, Curwin Bosch is back on South African soil and already receiving rave reviews. The Springbok fly-half has joined the Vodacom Bulls from Brive to provide an additional experienced option at No 10 alongside Handre Pollard.\n\nHe made his BKT URC debut for his new team against Zebre Parma out in Italy last weekend and earned warm praise from coach Johan Ackermann for the control he brought in a 47-13 bonus point victory.",
-        "copy": "After two years in French fields, Curwin Bosch is back on South African soil and already receiving rave reviews. The Springbok fly-half has joined the Vodacom Bulls from Brive to provide an additional experienced option at No 10 alongside Handre Pollard.\n\nHe made his BKT URC debut for his new team against Zebre Parma out in Italy last weekend and earned warm praise from coach Johan Ackermann for the control he brought in a 47-13 bonus point victory.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Wales counting down the year until World Cup",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c30rekqglyr7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T15:25:30+00:00",
-        "published_label": "Thu 01 Oct, 15:25",
-        "summary": "With one year to go before the 2027 Rugby World Cup, what lies in wait for Steve Tandy's Wales over the next 12 months before they head to Australia?",
-        "body": "It might be hard to believe how quickly it comes around, but Thursday marks a year to go until the men's Rugby World Cup begins in Australia. The 2027 competition starts on 1 October in Perth with a match between Australia and Hong Kong China, with the tournament finale on 13 November in Sydney.\n\nWales are to feature in the second game when they open their campaign against Zimbabwe in Adelaide on 2 October. Steve Tandy's side sit 11th in the world rankings, currently topped by reigning World Cup champions South Africa.",
-        "copy": "It might be hard to believe how quickly it comes around, but Thursday marks a year to go until the men's Rugby World Cup begins in Australia. The 2027 competition starts on 1 October in Perth with a match between Australia and Hong Kong China, with the tournament finale on 13 November in Sydney.\n\nWales are to feature in the second game when they open their campaign against Zimbabwe in Adelaide on 2 October. Steve Tandy's side sit 11th in the world rankings, currently topped by reigning World Cup champions South Africa.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Stormers make shock Siya Kolisi call just 3 weeks after RGR",
-        "link": "https://www.rugbypass.com/news/stormers-make-shock-siya-kolisi-call-just-3-weeks-after-rgr/",
-        "published": "2026-10-01T15:24:06+00:00",
-        "published_label": "Thu 01 Oct, 15:24",
-        "summary": "Siya Kolisi has been named in the DHL Stormers starting XV for Saturday's United Rugby Championship clash against Edinburgh, just three weeks after featuring in the fourth and final match of Rugby's Great Rivalry.",
-        "body": "Three weeks after leading South Africa to their ‘Greatest Rivalry’ series-clinching win over New Zealand in Baltimore, double World Cup-winning captain Siya Kolisi will make his second Stormers debut against Edinburgh at The Hive Stadium on Friday.\n\nKolisi played 118 games for the Cape Town outfit between 2012 and 2020 before two spells at the Sharks, either side of an underwhelming stint with Racing 92 in Paris. The Springbok captain will start at openside flank in what will be his first appearance for the Stormers in six years, following his return to Cape Town.",
-        "copy": "Three weeks after leading South Africa to their ‘Greatest Rivalry’ series-clinching win over New Zealand in Baltimore, double World Cup-winning captain Siya Kolisi will make his second Stormers debut against Edinburgh at The Hive Stadium on Friday.\n\nKolisi played 118 games for the Cape Town outfit between 2012 and 2020 before two spells at the Sharks, either side of an underwhelming stint with Racing 92 in Paris. The Springbok captain will start at openside flank in what will be his first appearance for the Stormers in six years, following his return to Cape Town.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Low-scoring rugby can be beautiful",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmrerevxj02lo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T15:15:01+00:00",
-        "published_label": "Thu 01 Oct, 15:15",
-        "summary": "Leicester head coach Geoff Parling says there is a \"beauty\" in defensive rugby that can be lost among the avalanche of tries being scored in the Prem.",
-        "body": "Leicester Tigers head coach Geoff Parling says there is a \"beauty\" in defensive rugby that can be lost among the avalanche of tries being scored in the Prem. There were a record 52 tries scored on the opening weekend of the campaign, with nine out of 10 teams scoring at least 24 points.\n\nA record number of points piled up across the five top-flight matches. \"Most people love it and think that it's great that everyone is scoring loads of tries,\" Parling told BBC Radio Leicester.",
-        "copy": "Leicester Tigers head coach Geoff Parling says there is a \"beauty\" in defensive rugby that can be lost among the avalanche of tries being scored in the Prem. There were a record 52 tries scored on the opening weekend of the campaign, with nine out of 10 teams scoring at least 24 points.\n\nA record number of points piled up across the five top-flight matches. \"Most people love it and think that it's great that everyone is scoring loads of tries,\" Parling told BBC Radio Leicester.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Bristol Bears suffer Ellis Genge blow ahead of visit of PREM big dogs",
-        "link": "https://www.rugbypass.com/news/bristol-bears-suffer-ellis-genge-blow-ahead-of-visit-of-prem-big-dogs/",
-        "published": "2026-10-01T15:03:52+00:00",
-        "published_label": "Thu 01 Oct, 15:03",
-        "summary": "Bristol Bears have suffered a major blow ahead of Saturday evening’s visit from Gallagher PREM champions Northampton Saints, as England and Lions loosehead Ellis Genge will miss the game with a wrist injury.",
-        "body": "Bristol Bears have suffered a major blow ahead of Saturday evening’s visit from Gallagher PREM champions Northampton Saints, as England and Lions loosehead Ellis Genge will miss the game with a wrist injury.\n\nGenge sustained the injury in the opening minute of the 34-24 win over Sale Sharks in the season opener and played on for more than an hour before asking to be taken off. Bears boss Pat Lam believes Genge, who was playing his first game of the season after an extended rest following international duty in the summer, will be out for only two to three weeks at most.",
-        "copy": "Bristol Bears have suffered a major blow ahead of Saturday evening’s visit from Gallagher PREM champions Northampton Saints, as England and Lions loosehead Ellis Genge will miss the game with a wrist injury.\n\nGenge sustained the injury in the opening minute of the 34-24 win over Sale Sharks in the season opener and played on for more than an hour before asking to be taken off. Bears boss Pat Lam believes Genge, who was playing his first game of the season after an extended rest following international duty in the summer, will be out for only two to three weeks at most.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Harlequins update Marcus Smith situation but offer good news on summer signing",
-        "link": "https://www.rugbypass.com/news/no-marcus-smith-for-harlequins-but-good-news-on-massive-summer-signing/",
-        "published": "2026-10-01T14:51:35+00:00",
-        "published_label": "Thu 01 Oct, 14:51",
-        "summary": "Harlequins will once again be without England fly-half Marcus Smith for Saturday afternoon’s trip to Gloucester, but George Furbank will be fit after passing his return-to-play protocols.",
-        "body": "Harlequins will once again be without England fly-half Marcus Smith for Saturday afternoon’s trip to Gloucester, but George Furbank will be fit after passing his return-to-play protocols.\n\nQuins boss Jason Gilmore says that Smith, who damaged a finger in a friendly against Edinburgh, is training with the rest of the squad but could return for the trip to Sale Sharks on Sunday week or the opening Challenge Cup tie against Vannes.",
-        "copy": "Harlequins will once again be without England fly-half Marcus Smith for Saturday afternoon’s trip to Gloucester, but George Furbank will be fit after passing his return-to-play protocols.\n\nQuins boss Jason Gilmore says that Smith, who damaged a finger in a friendly against Edinburgh, is training with the rest of the squad but could return for the trip to Sale Sharks on Sunday week or the opening Challenge Cup tie against Vannes.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ticket rises and more TV packages",
+        "link": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-08T18:57:13+00:00",
+        "published_label": "Thu 08 Oct, 18:57",
+        "summary": "The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?",
+        "body": "At least £115 to watch a day of the Ashes in Birmingham - unless you are an Edgbaston member. A minimum of £255 for a standard seat at the Wimbledon singles finals. Prices starting from £289 for general admission to the British Grand Prix at Silverstone on raceday.\n\nThose are the ticket fees British sports fans have been told a single adult must pay if they want to attend some of the country's most beloved sports events in 2027. The cost of entry to elite sport in the UK has risen sharply in the 2020s, but attendances across the majority of sports are as strong as ever.",
+        "copy": "At least £115 to watch a day of the Ashes in Birmingham - unless you are an Edgbaston member. A minimum of £255 for a standard seat at the Wimbledon singles finals. Prices starting from £289 for general admission to the British Grand Prix at Silverstone on raceday.\n\nThose are the ticket fees British sports fans have been told a single adult must pay if they want to attend some of the country's most beloved sports events in 2027. The cost of entry to elite sport in the UK has risen sharply in the 2020s, but attendances across the majority of sports are as strong as ever.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
       {
         "section": "Tennis",
         "source": "Sky Sports",
@@ -4929,22 +4903,22 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-02T21:48:35.947968+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "More top-level events to award equal prize money in 'major milestone'",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ckq6360827rpo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T16:40:52+00:00",
-        "published_label": "Thu 01 Oct, 16:40",
-        "summary": "The Women's Tennis Association confirms all its combined 1000 events will award equal prize money from 2027 in a \"major milestone\".",
-        "body": "Men and women will receive equal prize money at all combined 1,000 events - the highest level of competition outside of the Grand Slams - from next year, the Women's Tennis Association (WTA) has announced.\n\nEvents at Indian Wells, California, Miami, Madrid and Beijing already met that commitment, as well as all four Grand Slams. However, the Italian Open, Canadian Open and Cincinnati Open will now also fall into line to meet a long-standing aim of the WTA, at events where men and women both feature.",
-        "copy": "Men and women will receive equal prize money at all combined 1,000 events - the highest level of competition outside of the Grand Slams - from next year, the Women's Tennis Association (WTA) has announced.\n\nEvents at Indian Wells, California, Miami, Madrid and Beijing already met that commitment, as well as all four Grand Slams. However, the Italian Open, Canadian Open and Cincinnati Open will now also fall into line to meet a long-standing aim of the WTA, at events where men and women both feature.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Baycurrent Classic Thursday TV coverage: How to watch Round 2",
+        "link": "https://golf.com/news/2026-baycurrent-classic-thursday-tv-coverage-watch/",
+        "published": "2026-10-08T18:28:50+00:00",
+        "published_label": "Thu 08 Oct, 18:28",
+        "summary": "How to watch the 2026 Baycurrent Classic on Thursday night, including full Baycurrent Classic TV coverage and streaming for Round 2. The post 2026 Baycurrent Classic Thursday TV coverage: How to watch Round 2 appeared first on Golf .",
+        "body": "The second round of the 2026 Baycurrent Classic gets underway Thursday night in Japan. Here’s everything you need to know to watch the tournament on Thursday, including full Baycurrent Classic TV coverage, streaming details and complete Round 2 tee times.\n\nJacob Bridgeman qualified for the 2026 Tour Championship and earned a T4-finish there. As a result, the promising young pro locked up his Tour status for years to come. You’d think that would mean Bridgeman would have nothing to play for in the PGA Tour FedEx Fall series. Instead, he’s so far dominating the “offseason” events.",
+        "copy": "The second round of the 2026 Baycurrent Classic gets underway Thursday night in Japan. Here’s everything you need to know to watch the tournament on Thursday, including full Baycurrent Classic TV coverage, streaming details and complete Round 2 tee times.\n\nJacob Bridgeman qualified for the 2026 Tour Championship and earned a T4-finish there. As a result, the promising young pro locked up his Tour status for years to come. You’d think that would mean Bridgeman would have nothing to play for in the PGA Tour FedEx Fall series. Instead, he’s so far dominating the “offseason” events.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -4962,13 +4936,26 @@
         "section": "Golf",
         "source": "HSBC golf watch",
         "kind": "gnews",
+        "title": "Five-time winner leaves LIV Golf alongside Jon Rahm as top stars question legal standing",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTItQm5aZWlKSTltajFkMUQzRzdnREtLNi1pOUc2bGU5NEM5aFZhbmF4aXkyYm5GT0lBcDAycUJuLXYxTXUtZWliRVR1RmYteXNNTEt3Y1I1cHFacnk2UkxqbE1WbDF6X3IwVlVuU1FpdjZGWFBRckhkRTFQWXQyR1ZnM0pLV2pa?oc=5",
+        "published": "2026-10-08T14:05:38+00:00",
+        "published_label": "Thu 08 Oct, 14:05",
+        "summary": "Five-time winner leaves LIV Golf alongside Jon Rahm as top stars question legal standing talkSPORT",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
         "title": "All the players who have left LIV Golf (so far)",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkNibk1JWnpYQTBvd2hCYXdKM2Q1MXczQnRsM2NNMUJGRExFT3c1Q0JuSURCYzFIeHhKbmJkTmVnVXdpa01YSXAwQjA0ZS1zai02Ni01dGdENUNpRTBONDFwQTYwUUhOYktXaHBCVDhseTZQQzg5RXJBUFNHYkU3Y0h2Vkc5aktaUmVRYlh6cm9mYjQwQVlCQVgzc0hKc1p2TFgtRjZWZ2c?oc=5",
         "published": "2026-10-08T13:49:21+00:00",
         "published_label": "Thu 08 Oct, 13:49",
         "summary": "All the players who have left LIV Golf (so far) Golf Digest",
-        "body": "LIV Golf 1.0 is gone. The pomp, pageantry and hot-air-balloon contracts of the league’s first iteration went up in smoke when the league filed Chapter 11 bankruptcy in September. Now the future of LIV Golf hinges on financing efforts for its next iteration, colloquially referred to as LIV Golf 2.0. According to recent reports, the league must now raise $300 million in financing with help from its highly touted angel investor, BC Partners.\n\nKey to the future of LIV Golf, however, is the status of its top pros, who will operate as equity owners of the league and its respective teams under the plan laid out by CEO Scott O’Neil. Without those players and their literal and figurative buy-in, LIV Golf may not survive to see its second chapter. So where does that leave the floundering league as clock continues to tick? Which players have left, which haven’t and which are still sitting on the fence? Let’s take a look.",
-        "copy": "LIV Golf 1.0 is gone. The pomp, pageantry and hot-air-balloon contracts of the league’s first iteration went up in smoke when the league filed Chapter 11 bankruptcy in September. Now the future of LIV Golf hinges on financing efforts for its next iteration, colloquially referred to as LIV Golf 2.0. According to recent reports, the league must now raise $300 million in financing with help from its highly touted angel investor, BC Partners.\n\nKey to the future of LIV Golf, however, is the status of its top pros, who will operate as equity owners of the league and its respective teams under the plan laid out by CEO Scott O’Neil. Without those players and their literal and figurative buy-in, LIV Golf may not survive to see its second chapter. So where does that leave the floundering league as clock continues to tick? Which players have left, which haven’t and which are still sitting on the fence? Let’s take a look.",
+        "body": "LIV Golf 1.0 is gone. The pomp, pageantry and hot-air-balloon contracts of the league’s first iteration went up in smoke when the league filed Chapter 11 bankruptcy in September. Now the future of LIV Golf hinges on financing efforts for its next iteration, colloquially referred to as LIV Golf 2.0. According to recent reports, the league must now raise $300 million in financing with help from its highly touted angel investor, BC Partners.\n\nKey to the future of LIV Golf, however, is the status of its top pros, who will operate as equity owners of the league and its respective teams under the plan laid out by CEO Scott O’Neil. Without those players and their literal and figurative buy-in, LIV Golf may not survive to see its second chapter. So where does that leave the floundering league as the clock continues to tick? Which players have left, which haven’t and which are still sitting on the fence? Let’s take a look.",
+        "copy": "LIV Golf 1.0 is gone. The pomp, pageantry and hot-air-balloon contracts of the league’s first iteration went up in smoke when the league filed Chapter 11 bankruptcy in September. Now the future of LIV Golf hinges on financing efforts for its next iteration, colloquially referred to as LIV Golf 2.0. According to recent reports, the league must now raise $300 million in financing with help from its highly touted angel investor, BC Partners.\n\nKey to the future of LIV Golf, however, is the status of its top pros, who will operate as equity owners of the league and its respective teams under the plan laid out by CEO Scott O’Neil. Without those players and their literal and figurative buy-in, LIV Golf may not survive to see its second chapter. So where does that leave the floundering league as the clock continues to tick? Which players have left, which haven’t and which are still sitting on the fence? Let’s take a look.",
         "first_seen": "2026-10-08T14:46:41.342488+00:00"
       },
       {
@@ -6608,126 +6595,22 @@
         "body": "Here’s the truth about George Washington, the president who could not tell a lie: He left the country exactly once. That lone trip was to Barbados, where he spent six weeks in a house that bears his name today.\n\nWashington was traveling with his half-brother Lawrence, who was seeking relief from tuberculosis. The island’s balmy climate was known as that: a balm. Rest and relaxation. Then, as now, Barbados is a fine place for R&R. It’s also become a great place for golf.",
         "copy": "Here’s the truth about George Washington, the president who could not tell a lie: He left the country exactly once. That lone trip was to Barbados, where he spent six weeks in a house that bears his name today.\n\nWashington was traveling with his half-brother Lawrence, who was seeking relief from tuberculosis. The island’s balmy climate was known as that: a balm. Rest and relaxation. Then, as now, Barbados is a fine place for R&R. It’s also become a great place for golf.",
         "first_seen": "2026-10-02T11:50:50.506018+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Unheralded Stewart stars at Alfred Dunhill Links",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c65y7y21n051o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T19:10:23+00:00",
-        "published_label": "Thu 01 Oct, 19:10",
-        "summary": "On a day when Matt Fitzpatrick began his quest for a fifth win of the year, Robert MacIntyre reacted furiously to a drone and Lee Westwood and Ian Poulter made a DP World Tour return after an absence of almost four years, two players outside the world's top 700 stole the show at the Alfred Dunhill Links Championship.",
-        "body": "On a day when Matt Fitzpatrick began his quest for a fifth win of the year, Robert MacIntyre reacted furiously to a drone, Tyrrell Hatton's frustrations boiled over, and Lee Westwood and Ian Poulter made a DP World Tour return after an absence of almost four years, it was a player from outside the world's top 900 that stole the show at the Alfred Dunhill Links Championship.\n\nScotland's Michael Stewart, ranked 979, shot 65 to sit at seven under after outscoring a big-name field to share the lead at the end of round one. It gave the Scot a share of the lead after round one, with Australia's Jack Buchanan.",
-        "copy": "On a day when Matt Fitzpatrick began his quest for a fifth win of the year, Robert MacIntyre reacted furiously to a drone, Tyrrell Hatton's frustrations boiled over, and Lee Westwood and Ian Poulter made a DP World Tour return after an absence of almost four years, it was a player from outside the world's top 900 that stole the show at the Alfred Dunhill Links Championship.\n\nScotland's Michael Stewart, ranked 979, shot 65 to sit at seven under after outscoring a big-name field to share the lead at the end of round one. It gave the Scot a share of the lead after round one, with Australia's Jack Buchanan.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Sergio Garcia Files To Have LIV Golf Contract Terminated",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3h4VlNrb3VPMURzUE0yaW1ya3NnZmMwYXhjOWJOSzRzYlcwUnlITm9DbkJFVnViV3BRajJ4M2JoeVZYMExtWWZwNjctN1BCUllkV2FpSkphbHczdUFBSnItYmx2Um5DUDdhWXlhUFlsV3JkTUFNQTNrX051UnkxYl9BcTBpV1pvb1d2ZXU5MzE5Zjg?oc=5",
-        "published": "2026-10-01T17:35:57+00:00",
-        "published_label": "Thu 01 Oct, 17:35",
-        "summary": "Sergio Garcia Files To Have LIV Golf Contract Terminated Golf Monthly",
-        "body": "Sergio Garcia is looking to have his LIV Golf contract officially terminated to avoid any confusion with other parties he may wish to do business with, according to court documents.\n\nAs first spotted by the Financial Times, The Spaniard has filed new court documents saying that the current contract situation with LIV Golf is confusing, and may prevent him from trying to either join another tour or attract business deals while third parties are unlcear if he is a free agent or not.",
-        "copy": "Sergio Garcia is looking to have his LIV Golf contract officially terminated to avoid any confusion with other parties he may wish to do business with, according to court documents.\n\nAs first spotted by the Financial Times, The Spaniard has filed new court documents saying that the current contract situation with LIV Golf is confusing, and may prevent him from trying to either join another tour or attract business deals while third parties are unlcear if he is a free agent or not.",
-        "first_seen": "2026-10-03T11:04:44.335194+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Why Sergio Garcia is seeking to terminate his LIV Golf contract",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdDhTLWYwSUZ5c0ZzU0pld2dOVTBxY1hTOWJRdl9XeDdIT1VqQ0N0N0hiVkwwVDhqdHNXWWMzOEpTQVhjV1dsX2tLNGtoWHhpaW00SkVsQnRQUU1MSlFsakJSX3FTM1kzWjRocUxJMEhaQXRmNW05OHpHc3JheFhFYkt5REgzM0lDM01rTHlYMmZSUQ?oc=5",
-        "published": "2026-10-01T17:18:08+00:00",
-        "published_label": "Thu 01 Oct, 17:18",
-        "summary": "Why Sergio Garcia is seeking to terminate his LIV Golf contract Today's Golfer",
-        "body": "New court filings show that Sergio Garcia is looking to end his LIV Golf contract. Here’s why… Sergio Garcia is seeking an official termination of his LIV Golf contract, according to court filings.\n\nFilings submitted in LIV’s Chapter 11 bankruptcy proceedings on Wednesday show that Garcia is now looking for clarity on his situation as the league fights for his future. When LIV entered its restructuring period by filing for bankruptcy last month, the league asked the court’s permission to reject their existing player contracts as they hope to bring a sustainable approach to a reimagined ‘LIV 2.0’.",
-        "copy": "New court filings show that Sergio Garcia is looking to end his LIV Golf contract. Here’s why… Sergio Garcia is seeking an official termination of his LIV Golf contract, according to court filings.\n\nFilings submitted in LIV’s Chapter 11 bankruptcy proceedings on Wednesday show that Garcia is now looking for clarity on his situation as the league fights for his future. When LIV entered its restructuring period by filing for bankruptcy last month, the league asked the court’s permission to reject their existing player contracts as they hope to bring a sustainable approach to a reimagined ‘LIV 2.0’.",
-        "first_seen": "2026-10-02T11:50:50.506018+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Amid LIV bankruptcy case, Sergio Garcia files to terminate contract with league",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzZzS1dlV1djcFRzTzBteTBVUjZEbGRqRzEtZW9iU0M3ZGRsWnRZY1VSMjBMLXc0ZmxoRWVCbXpuTF84eXl3T2pTcFpQamJ2bHNXeGdNQVFjRmVBRWtFNzd2S2F3VTcxYVhaQzBxbnRsWl9scEthOEZSTnJnSXFIS2RmcFhDRU5q?oc=5",
-        "published": "2026-10-01T17:04:08+00:00",
-        "published_label": "Thu 01 Oct, 17:04",
-        "summary": "Amid LIV bankruptcy case, Sergio Garcia files to terminate contract with league Golf Channel",
-        "body": "As LIV Golf’s bankruptcy grinds through a New Jersey courtroom, Sergio Garcia — one of the league’s original stars — appeared to open the door for a possible exit on Wednesday.\n\nIn a six-page filing, Garcia’s attorney asked for clarity regarding the Spaniard’s agreement with LIV Golf. “Termination of the agreement is consistent with [LIV Golf’s] statement that the agreement is ‘not part of [LIV Golf’s] go forward business plan” and, accordingly, should not be objectionable to [LIV Golf],” Garcia’s attorneys argued.",
-        "copy": "As LIV Golf’s bankruptcy grinds through a New Jersey courtroom, Sergio Garcia — one of the league’s original stars — appeared to open the door for a possible exit on Wednesday.\n\nIn a six-page filing, Garcia’s attorney asked for clarity regarding the Spaniard’s agreement with LIV Golf. “Termination of the agreement is consistent with [LIV Golf’s] statement that the agreement is ‘not part of [LIV Golf’s] go forward business plan” and, accordingly, should not be objectionable to [LIV Golf],” Garcia’s attorneys argued.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Is the bump-and-run *really* more reliable than a chip shot?",
-        "link": "https://golf.com/instruction/short-game/is-bump-and-run-more-reliable-than-chip/",
-        "published": "2026-10-01T16:59:59+00:00",
-        "published_label": "Thu 01 Oct, 16:59",
-        "summary": "GOLF Top 100 Teacher Doug Spencer ran an experiment to find out if a bump-and-run is really more reliable than a chip shot. The post Is the bump-and-run *really* more reliable than a chip shot? appeared first on Golf .",
-        "body": "Ditching high-loft wedges around the green in favor of a hybrid bump-and-run is one of golf’s classic pieces of advice, but do the numbers actually back it up? That was something I wondered recently, so I decided to conduct a small experiment.\n\nWe put three amateur players through a 30-shot test to see if putting with a hybrid produces better proximity and consistency than traditional wedge options. And not only did they test their mettle on both types of shots, when it came to the hybrid bump-and-run, this was their first time ever trying the shot.",
-        "copy": "Ditching high-loft wedges around the green in favor of a hybrid bump-and-run is one of golf’s classic pieces of advice, but do the numbers actually back it up? That was something I wondered recently, so I decided to conduct a small experiment.\n\nWe put three amateur players through a 30-shot test to see if putting with a hybrid produces better proximity and consistency than traditional wedge options. And not only did they test their mettle on both types of shots, when it came to the hybrid bump-and-run, this was their first time ever trying the shot.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Bank of Utah Championship Friday tee times: Round 2 groupings",
-        "link": "https://golf.com/news/2026-bank-utah-championship-friday-tee-times-round-2/",
-        "published": "2026-10-01T16:23:04+00:00",
-        "published_label": "Thu 01 Oct, 16:23",
-        "summary": "Full 2026 Bank of Utah Championship tee times for Friday's second round in Utah, featuring Davis Riley, Jackson Koivun and more. The post 2026 Bank of Utah Championship Friday tee times: Round 2 groupings appeared first on Golf .",
-        "body": "The 2026 Bank of Utah Championship continues on Friday with the second round at Black Desert Resort. You can find full Bank of Utah Championship tee times for Friday’s second round at the bottom of this post.\n\nDavis Riley is in need of a good week in Utah. The veteran pro has two PGA Tour wins in his career, but his Tour status for the 2027 season is in doubt. Riley finished the regular season at 111th in the FedEx Cup standings. Through one Fall Series start, he dropped to 115th. But early on in the opening round of the Bank of Utah Championship, Riley looked to be in fine form.",
-        "copy": "The 2026 Bank of Utah Championship continues on Friday with the second round at Black Desert Resort. You can find full Bank of Utah Championship tee times for Friday’s second round at the bottom of this post.\n\nDavis Riley is in need of a good week in Utah. The veteran pro has two PGA Tour wins in his career, but his Tour status for the 2027 season is in doubt. Riley finished the regular season at 111th in the FedEx Cup standings. Through one Fall Series start, he dropped to 115th. But early on in the opening round of the Bank of Utah Championship, Riley looked to be in fine form.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Frustrated MacIntyre warned after drone row",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cmd7974y353vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-01T16:12:55+00:00",
-        "published_label": "Thu 01 Oct, 16:12",
-        "summary": "Robert MacIntyre says the use of drones for broadcast coverage at golf tournaments \"drives me insane\" after being spoken to by a DP World Tour rules official at the Dunhill Links Championship.",
-        "body": "Robert MacIntyre says the use of drones for broadcast coverage during tournaments \"drives me insane\" after being spoken to by a DP World Tour rules official at the Dunhill Links Championship.\n\nScotland's number one golfer, the defending champion, became frustrated with a drone as he approached the closing stages of his opening round at Carnoustie on Thursday. The 30-year-old, who is ranked 19th in the world, dropped a shot at the par-four ninth - his 18th hole of the day - to finish on one under par.",
-        "copy": "Robert MacIntyre says the use of drones for broadcast coverage during tournaments \"drives me insane\" after being spoken to by a DP World Tour rules official at the Dunhill Links Championship.\n\nScotland's number one golfer, the defending champion, became frustrated with a drone as he approached the closing stages of his opening round at Carnoustie on Thursday. The 30-year-old, who is ranked 19th in the world, dropped a shot at the par-four ninth - his 18th hole of the day - to finish on one under par.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Ping signs Walker Cupper and BYU star Kihei Akina to NIL deal",
-        "link": "https://golf.com/gear/ping-signs-kihei-akina-nil-deal/",
-        "published": "2026-10-01T16:02:41+00:00",
-        "published_label": "Thu 01 Oct, 16:02",
-        "summary": "Ping has added BYU sophomore and Walker Cupper Kihei Akina to its roster of NIL athletes, as Akina readies for his fifth PGA Tour start. The post Ping signs Walker Cupper and BYU star Kihei Akina to NIL deal appeared first on Golf .",
-        "body": "This is a big week for Walker Cupper and BYU sophomore Kihei Akina as he readies for the PGA Tour’s Bank of Utah Championship, his fifth-career PGA Tour start. Akina also has joined Ping, as its latest NIL ambassador.\n\n“Joining Ping at this point in my career is a tremendous honor,” Akina, who finished 8th at the 2026 NCAA Championships, said in a press release. “I’ve been playing Ping equipment since my junior days, and I’ve developed a great relationship with their team since arriving at BYU.",
-        "copy": "This is a big week for Walker Cupper and BYU sophomore Kihei Akina as he readies for the PGA Tour’s Bank of Utah Championship, his fifth-career PGA Tour start. Akina also has joined Ping, as its latest NIL ambassador.\n\n“Joining Ping at this point in my career is a tremendous honor,” Akina, who finished 8th at the 2026 NCAA Championships, said in a press release. “I’ve been playing Ping equipment since my junior days, and I’ve developed a great relationship with their team since arriving at BYU.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Sergio Garcia seeks exit from LIV Golf contract, while LIV Golf Australia venue says it hasn't been paid in court filings",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GZkVRdjNtU1BzdnUwZkVuaHBSVlo3YndYN0U3cDVBMEpHWkhNampLMWVXSFd4a1lMWGhxMVR6U0tfcE9sWjFTVFpSVFdTbEVvWktDbnBocDV3ZmxTbktqNTgzYWJYR1Z4S0tQbmE3YkNKeVN3YUpVQk0yZnRTTjA?oc=5",
-        "published": "2026-10-01T14:51:42+00:00",
-        "published_label": "Thu 01 Oct, 14:51",
-        "summary": "Sergio Garcia seeks exit from LIV Golf contract, while LIV Golf Australia venue says it hasn't been paid in court filings Golf Digest",
-        "body": "Sergio Garcia is seeking official termination of his LIV Golf contract, according to new court filings. Last month, LIV Golf’s bankruptcy plea included a restructuring that would likely release LIV players from their existing contracts, allowing them to pursue opportunities elsewhere. Late Wednesday, Garcia’s lawyers and his LLC (Even Par) asserted they do not oppose this motion but do want clarification, as Garcia’s representation requests the court honor the request to end the agreement or allow Garcia to end it. As currently constructed, Garcia argues, the deal is confusing.\n\n“So long as the Agreement remains of record, tournament organizers, sponsors, and other counterparties may hesitate before dealing with Garcia, who may be unable to represent that they are free of competing contractual commitments,” Garcia’s lawyers argue. “That uncertainty is particularly acute for a professional athlete, whose tournament schedule, sponsorship arrangements, and participation in other events must be planned well in advance, and whose competitive career is necessarily finite.”",
-        "copy": "Sergio Garcia is seeking official termination of his LIV Golf contract, according to new court filings. Last month, LIV Golf’s bankruptcy plea included a restructuring that would likely release LIV players from their existing contracts, allowing them to pursue opportunities elsewhere. Late Wednesday, Garcia’s lawyers and his LLC (Even Par) asserted they do not oppose this motion but do want clarification, as Garcia’s representation requests the court honor the request to end the agreement or allow Garcia to end it. As currently constructed, Garcia argues, the deal is confusing.\n\n“So long as the Agreement remains of record, tournament organizers, sponsors, and other counterparties may hesitate before dealing with Garcia, who may be unable to represent that they are free of competing contractual commitments,” Garcia’s lawyers argue. “That uncertainty is particularly acute for a professional athlete, whose tournament schedule, sponsorship arrangements, and participation in other events must be planned well in advance, and whose competitive career is necessarily finite.”",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "World Juniors: Turkiye Fall Agonisingly Short Against Denmark",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNVA2VlJmV2Q1VE5UOXJHdVBFVmpFSk5VTFdrZEZyb2s3RW1iU21BNmJoM25ndjI2bGtubmNwOG1sMDd0ZDVUNUhHQzQwcktfSkg5Rm9jbDM0eTlmOUEtT0g2ZUp1SnRPelU3WDBneXRSNzBOTGdBRDVKaG56T0s2MGhyd2dramNuYTM4VVdDSERqSjhsYXM4X3U3Zk9uOGJsY2dSSVFHSEViVVlxcWc?oc=5",
+        "published": "2026-10-08T18:19:44+00:00",
+        "published_label": "Thu 08 Oct, 18:19",
+        "summary": "World Juniors: Turkiye Fall Agonisingly Short Against Denmark BWF",
+        "body": "Denmark won a heart-stoppingly close tie against Turkiye to make the playoff for ninth place at the VICTOR World Junior Team Championships on Thursday. The teams were tied 54-all with the tie on the line in the final women’s singles. Denmark’s Ida Nissen took the final point over Aleyna Korkut, reversing the score from the first game, and sparking a big celebration from her team.\n\nTurkiye had taken the first game after Korkut had pulled her team back from 38-44, but fortunes shifted in the second, and Nissen was able to control proceedings. The Danes continued to ride on that momentum in the third but in the penultimate match, the mixed doubles, Gokay Gol/Nisa Nur Cimen dragged their team back into contention by taking Turkiye to within three points of Denmark before the final match.",
+        "copy": "Denmark won a heart-stoppingly close tie against Turkiye to make the playoff for ninth place at the VICTOR World Junior Team Championships on Thursday. The teams were tied 54-all with the tie on the line in the final women’s singles. Denmark’s Ida Nissen took the final point over Aleyna Korkut, reversing the score from the first game, and sparking a big celebration from her team.\n\nTurkiye had taken the first game after Korkut had pulled her team back from 38-44, but fortunes shifted in the second, and Nissen was able to control proceedings. The Danes continued to ride on that momentum in the third but in the penultimate match, the mixed doubles, Gokay Gol/Nisa Nur Cimen dragged their team back into contention by taking Turkiye to within three points of Denmark before the final match.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6779,6 +6662,19 @@
         "body": "CALIFORNIA, CA, UNITED STATES, October 8, 2026 /EINPresswire.com/ -- WUXI, Jiangsu, China — October 8, 2026 A 2026 capability review of China’s commercial PVC flooring industry has assessed ten manufacturers, headed by Wuxi Tefa Decoration Material Co., Ltd., the Jiangsu-based producer that markets homogeneous vinyl flooring, PVC sports flooring and aircraft flooring under the Farfly Flying Flooring brand. The review compares product portfolios, third-party certification documentation, manufacturing capacity, export service and after-sales support, and sets out the evidence buyers should demand when a supplier claims Badminton World Federation (BWF) certification for sports flooring.\n\nThe review draws on documentation supplied by Wuxi Tefa — including ISO management system certificates, CE and EN test reports, and civil aviation combustion and smoke-toxicity records — together with publicly available registration and product information for the other nine manufacturers. Figures attributed to individual suppliers other than Wuxi Tefa were not independently audited by the authors of this review, and certification status should be confirmed directly with the issuing body before any order is placed.",
         "copy": "CALIFORNIA, CA, UNITED STATES, October 8, 2026 /EINPresswire.com/ -- WUXI, Jiangsu, China — October 8, 2026 A 2026 capability review of China’s commercial PVC flooring industry has assessed ten manufacturers, headed by Wuxi Tefa Decoration Material Co., Ltd., the Jiangsu-based producer that markets homogeneous vinyl flooring, PVC sports flooring and aircraft flooring under the Farfly Flying Flooring brand. The review compares product portfolios, third-party certification documentation, manufacturing capacity, export service and after-sales support, and sets out the evidence buyers should demand when a supplier claims Badminton World Federation (BWF) certification for sports flooring.\n\nThe review draws on documentation supplied by Wuxi Tefa — including ISO management system certificates, CE and EN test reports, and civil aviation combustion and smoke-toxicity records — together with publicly available registration and product information for the other nine manufacturers. Figures attributed to individual suppliers other than Wuxi Tefa were not independently audited by the authors of this review, and certification status should be confirmed directly with the issuing body before any order is placed.",
         "first_seen": "2026-10-08T12:46:38.002614+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Ten Reputable PVC Sports Flooring Manufacturers in China: A 2026 BWF Review",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVA4Q1NSWEEwcWNrQ3Z0LUpEWHZVcm5GSHVTNHFmNW55VkFyb3NDeldoTzJxcEFkN1RLOWxTVzhVeTNqcGF0MFJkN290amxWVG4xbnhtbFhXUW4xbW5CN2MwMDZPeXdKa2FicFcycjllUDVUbkZNbEh1UjlnZzBjQVhNb3NUWURUbV9IWERVQW9TN2RVMzRoVzZiZE9JS3p5a1FJdHQ5a3dQTnpaeFM5REY3NXkxOFk?oc=5",
+        "published": "2026-10-08T09:27:00+00:00",
+        "published_label": "Thu 08 Oct, 09:27",
+        "summary": "Ten Reputable PVC Sports Flooring Manufacturers in China: A 2026 BWF Review EIN News",
+        "body": "CALIFORNIA, CA, UNITED STATES, October 8, 2026 /EINPresswire.com/ -- WUXI, Jiangsu, China — October 8, 2026 A 2026 capability review of China’s commercial PVC flooring industry has assessed ten manufacturers, headed by Wuxi Tefa Decoration Material Co., Ltd., the Jiangsu-based producer that markets homogeneous vinyl flooring, PVC sports flooring and aircraft flooring under the Farfly Flying Flooring brand. The review compares product portfolios, third-party certification documentation, manufacturing capacity, export service and after-sales support, and sets out the evidence buyers should demand when a supplier claims Badminton World Federation (BWF) certification for sports flooring.\n\nThe review draws on documentation supplied by Wuxi Tefa — including ISO management system certificates, CE and EN test reports, and civil aviation combustion and smoke-toxicity records — together with publicly available registration and product information for the other nine manufacturers. Figures attributed to individual suppliers other than Wuxi Tefa were not independently audited by the authors of this review, and certification status should be confirmed directly with the issuing body before any order is placed.",
+        "copy": "CALIFORNIA, CA, UNITED STATES, October 8, 2026 /EINPresswire.com/ -- WUXI, Jiangsu, China — October 8, 2026 A 2026 capability review of China’s commercial PVC flooring industry has assessed ten manufacturers, headed by Wuxi Tefa Decoration Material Co., Ltd., the Jiangsu-based producer that markets homogeneous vinyl flooring, PVC sports flooring and aircraft flooring under the Farfly Flying Flooring brand. The review compares product portfolios, third-party certification documentation, manufacturing capacity, export service and after-sales support, and sets out the evidence buyers should demand when a supplier claims Badminton World Federation (BWF) certification for sports flooring.\n\nThe review draws on documentation supplied by Wuxi Tefa — including ISO management system certificates, CE and EN test reports, and civil aviation combustion and smoke-toxicity records — together with publicly available registration and product information for the other nine manufacturers. Figures attributed to individual suppliers other than Wuxi Tefa were not independently audited by the authors of this review, and certification status should be confirmed directly with the issuing body before any order is placed.",
+        "first_seen": "2026-10-08T19:40:44.710759+00:00"
       },
       {
         "section": "Badminton",
@@ -7182,19 +7078,6 @@
         "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-10-02T11:50:50.506018+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "BWF unveils star-studded line-up of over 200 writers",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZnphZk1QYVNHUFZuX1JKWDBWWnhhSWdYRmt3Tll0dklUek1UNU51VUhhbUpnYTZDUW1hNkZrMXg4ZEJYTjloX2hIOW1Rd2VDMF9pVUhnR25FY2lOWmo1Z1hIV1FmcVVmNUlaN21ndG01ZUp0SzNqR256dkhtQWtpcFNndC1ta283S3RQcUtMMEdfQ3NFbE1KdVhFXzhPU1hBT1NEQlB5ZnN4TWMzcU1OR3Z5b0J4MnBnTTQ5a3poalJMVWJaVmluaUtweVFHU3BlQnpic3NRUXROTEpJ?oc=5",
-        "published": "2026-10-01T19:05:19+00:00",
-        "published_label": "Thu 01 Oct, 19:05",
-        "summary": "BWF unveils star-studded line-up of over 200 writers The Courier Mail",
-        "body": "You might have been detected and blocked as a crawler bot! News Corp Australia uses software that manages crawler bot traffic on our websites. If you receive this message and are not a crawler bot (and are just a reader or subscriber), please try these steps first:\n\n- Ensure your browser supports JavaScript (this can be done via accessing https://www.whatismybrowser.com/detect/is-javascript-enabled in your browser) If you still need to be unlocked as a reader, subscriber or crawler bot, please e-mail us at accessissues@news.com.au and provide the IP address and reference number shown here along with why you require access.",
-        "copy": "You might have been detected and blocked as a crawler bot! News Corp Australia uses software that manages crawler bot traffic on our websites. If you receive this message and are not a crawler bot (and are just a reader or subscriber), please try these steps first:\n\n- Ensure your browser supports JavaScript (this can be done via accessing https://www.whatismybrowser.com/detect/is-javascript-enabled in your browser) If you still need to be unlocked as a reader, subscriber or crawler bot, please e-mail us at accessissues@news.com.au and provide the IP address and reference number shown here along with why you require access.",
-        "first_seen": "2026-10-01T19:16:25.490696+00:00"
       }
     ],
     "Competitor News": [
@@ -7204,11 +7087,11 @@
         "kind": "gnews",
         "title": "LFC and Husqvarna win Sport Positive Best Purpose-led Partnership award",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSDFjNEhIVGJleUI2azNEYVhDOHZIYmtHemRnQzk4UXdpSVhwVTQ2MVJ4Y1RrTkdNbVhDZXhtTWl6QmloZ3J5a0E4RVdneWtOYXRaTG04VWlYcVZFYmZ5MWQ3MnYya1VhVDBERHBHSktLTHBBc01IaVNNSXBfbFA1WWhzVXdqYzJTS3ZzZDVVSHk2Yjl0cW9yRGc2UHp3cTVrUXc?oc=5",
-        "published": "2026-10-08T13:04:36+00:00",
-        "published_label": "Thu 08 Oct, 13:04",
+        "published": "2026-10-08T15:32:54+00:00",
+        "published_label": "Thu 08 Oct, 15:32",
         "summary": "LFC and Husqvarna win Sport Positive Best Purpose-led Partnership award Liverpool FC",
-        "body": "",
-        "copy": "",
+        "body": "The partnership was recognised for combining innovative groundskeeping technology with the club’s sustainability strategy, The Red Way, to support more sustainable operations and enhance biodiversity across club sites.\n\nThe relationship between the two organisations began in 2021, when LFC first introduced Husqvarna robotic mowers across its training facilities, before Husqvarna became the club’s first official groundskeeping partner in 2024.",
+        "copy": "The partnership was recognised for combining innovative groundskeeping technology with the club’s sustainability strategy, The Red Way, to support more sustainable operations and enhance biodiversity across club sites.\n\nThe relationship between the two organisations began in 2021, when LFC first introduced Husqvarna robotic mowers across its training facilities, before Husqvarna became the club’s first official groundskeeping partner in 2024.",
         "first_seen": "2026-10-08T14:46:41.342488+00:00"
       },
       {
@@ -7239,5 +7122,5 @@
       }
     ]
   },
-  "total": 555
+  "total": 546
 }
