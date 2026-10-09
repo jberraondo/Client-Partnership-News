@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T12:33:23.647081+00:00",
-  "generated_label": "Friday 09 October 2026, 12:33 UTC",
+  "generated_at": "2026-10-09T14:29:59.331124+00:00",
+  "generated_label": "Friday 09 October 2026, 14:29 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,32 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "BeIN takes more Wimbledon rights in four-year Asia deal",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSS1ja1N0Y28yUFVtTTEwZ0xEbW01dW5yWFpNZXh5ZTh3RDg2aHY2bTBvV05UUDEtNHl6OHVvWjhmTnR5YzlZN2VJWWtFU21fVkxQcW9uWTZ6VGRZRWgxSDdlRDQxWWVNNmt5aGFZTVJ1YkZQVXJVTnlEbURKeU9zMVBNakJHd3VsaklUN1g5TQ?oc=5",
+        "published": "2026-10-09T14:23:47+00:00",
+        "published_label": "Fri 09 Oct, 14:23",
+        "summary": "BeIN takes more Wimbledon rights in four-year Asia deal Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "kind": "gnews",
+        "title": "US, UK events headline revamped WRC 2027 calendar",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOVVveXNLeXk1VnZRVjU1SXJQVWFfRGQyQ0NVbEt6XzlnWGFTTFJkWkZHZ2NDZkxJREp1M2Rwb0xfTjhtRC16VGNET01JbVlYM2FLYzRJSmdXNmVyZGx4QTNHQVI1c2FPZHJSQXFzREFrWmpubEdSQlBfZ3J1cG41Nkl2SnZoZw?oc=5",
+        "published": "2026-10-09T12:51:12+00:00",
+        "published_label": "Fri 09 Oct, 12:51",
+        "summary": "US, UK events headline revamped WRC 2027 calendar Sportcal",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sport Industry",
@@ -128,6 +154,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-09T12:33:23.647081+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Top tips for finance sector hopefuls",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV09icXRNeUQwTXd5dF9Da0d6UEtPQlhxeDNKYzBkd3I5cTEzSWZoXy01YWhXRThEajIwV1V1M3FCT3ZidHRKbWZSWkhpbmNkek9IQWVCN21YekdSdXNnb3ltZTd4aVVxYXpObjVXUVRjbDlBRm5DbF91dWpSZ1Q4ak4wT0k?oc=5",
+        "published": "2026-10-09T04:00:03+00:00",
+        "published_label": "Fri 09 Oct, 04:00",
+        "summary": "Top tips for finance sector hopefuls Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1636,35 +1675,48 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-03T11:04:44.335194+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Financial Times",
-        "kind": "gnews",
-        "title": "Tesla deliveries fall 2% as US consumers buy fewer electric vehicles",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmY1bHhjQXN2VHNHaHV6eHhxbXJkM05QZERRa1hQLWo3cTk0RTFzLVRwTkpoZWNSR2FyVk8wTk1DVlhCYi1wYnZ5ZVg1b04tS3RpUkdNWGdlTWZTVGlUYzFnOTBjWDVuaDhKRHVuUWxiaVA3T2JzcnZSNGZ2aXVCYU91WVg?oc=5",
-        "published": "2026-10-02T13:23:09+00:00",
-        "published_label": "Fri 02 Oct, 13:23",
-        "summary": "Tesla deliveries fall 2% as US consumers buy fewer electric vehicles Financial Times",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "RMG renews AV and data rights deals with 33 UK racecourses",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGRpMTlLSldGOWdhc0tRY19tdFNTQVFJbXFhRjliU0E2NWE4eU1LNlJQZTFDWEZ6aVZFVWN5akRNLWVnQjZ6NnRQSVd1V0w3a2s4dDZETVZuU0dRSk5LSzZMeWgyV1hkWDlOUUhRaU96Wm05Q2RTTFh3alJ3YmF1MFM2ejZsQm5Kd0dlbUZWX2E5aFE?oc=5",
-        "published": "2026-10-02T13:20:26+00:00",
-        "published_label": "Fri 02 Oct, 13:20",
-        "summary": "RMG renews AV and data rights deals with 33 UK racecourses Sportcal",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-10-02T14:01:03.424100+00:00"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "'Ran through me' & 'good value in pub' - ex-NFL star Kelce tries rugby",
+        "link": "https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-09T13:40:57+00:00",
+        "published_label": "Fri 09 Oct, 13:40",
+        "summary": "Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur London rugby players by showing up for a practice game.",
+        "body": "Amateur rugby union players from Hackney had a shock when they turned up for a training match - to see a former Super Bowl champion among the opposition. Hackney RFC's players rocked up on Wednesday for a 30-minute friendly, only to find former NFL star Jason Kelce playing for local rivals Old Streetonians.\n\nKelce - older brother of Travis, the three-time Super Bowl winning Kansas City Chiefs tight end married to global pop superstar Taylor Swift - played 13 seasons with the Philadelphia Eagles.",
+        "copy": "Amateur rugby union players from Hackney had a shock when they turned up for a training match - to see a former Super Bowl champion among the opposition. Hackney RFC's players rocked up on Wednesday for a 30-minute friendly, only to find former NFL star Jason Kelce playing for local rivals Old Streetonians.\n\nKelce - older brother of Travis, the three-time Super Bowl winning Kansas City Chiefs tight end married to global pop superstar Taylor Swift - played 13 seasons with the Philadelphia Eagles.",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Henry Pollock swaps position as Northampton Saints make 4 changes for Bath",
+        "link": "https://www.rugbypass.com/news/henry-pollock-swaps-position-as-northampton-saints-make-4-changes-for-bath/",
+        "published": "2026-10-09T12:54:11+00:00",
+        "published_label": "Fri 09 Oct, 12:54",
+        "summary": "Northampton Saints have made four changes to their starting XV for Saturday’s Gallagher PREM meeting with Bath at DPD Stadium at Franklin’s Gardens.",
+        "body": "Northampton Saints have made four changes to their starting XV for Saturday’s Gallagher PREM meeting with Bath at DPD Stadium at Franklin’s Gardens. JJ van der Mescht, Callum Chick, Alex Mitchell and James Pater all come into the side for the round-three clash, with Bath sitting one place above the reigning champions after the opening two weekends of the season.\n\nThe fixture has been a happy one for Saints on home soil in recent years. Northampton have won every meeting between the sides at Franklin’s Gardens since 2021, with the last two encounters both settled by late Fin Smith penalties.",
+        "copy": "Northampton Saints have made four changes to their starting XV for Saturday’s Gallagher PREM meeting with Bath at DPD Stadium at Franklin’s Gardens. JJ van der Mescht, Callum Chick, Alex Mitchell and James Pater all come into the side for the round-three clash, with Bath sitting one place above the reigning champions after the opening two weekends of the season.\n\nThe fixture has been a happy one for Saints on home soil in recent years. Northampton have won every meeting between the sides at Franklin’s Gardens since 2021, with the last two encounters both settled by late Fin Smith penalties.",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Ireland suffer major Aoife Wafer blow ahead of South Africa Tests",
+        "link": "https://www.rugbypass.com/news/ireland-suffer-major-aoife-wafer-blow-ahead-of-south-africa-tests/",
+        "published": "2026-10-09T12:50:51+00:00",
+        "published_label": "Fri 09 Oct, 12:50",
+        "summary": "Ireland back-row Aoife Wafer has been ruled out of her team's two-match tour of South Africa in a major blow for Scott Bemand's side.",
+        "body": "Ireland have been dealt a huge blow ahead of their South Africa tour, with Six Nations Player of the Championship Aoife Wafer ruled out of the two-game series. Wafer played in her team’s WXV Global Series opener against the USA Women’s Eagles in Dublin but missed back-to-back games against Japan over the past fortnight.\n\nIrish Rugby did not confirm the nature of Wafer’s injury. Her club side, Harlequins, confirmed that the 23-year-old had undergone successful surgery and would miss the start of the JAECOO Premiership Women’s Rugby season.",
+        "copy": "Ireland have been dealt a huge blow ahead of their South Africa tour, with Six Nations Player of the Championship Aoife Wafer ruled out of the two-game series. Wafer played in her team’s WXV Global Series opener against the USA Women’s Eagles in Dublin but missed back-to-back games against Japan over the past fortnight.\n\nIrish Rugby did not confirm the nature of Wafer’s injury. Her club side, Harlequins, confirmed that the 23-year-old had undergone successful surgery and would miss the start of the JAECOO Premiership Women’s Rugby season.",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4186,22 +4238,22 @@
         "body": "Veteran Bristol fly-half AJ MacGinty is savouring the special feeling of winning a game again after returning to the Bears side having missed almost all of last season through injury.\n\nMacGinty started for the Bears and played 58 minutes of their opening round win away at Sale last Saturday, his first start since the opening day of last season when he suffered a ruptured Achilles.",
         "copy": "Veteran Bristol fly-half AJ MacGinty is savouring the special feeling of winning a game again after returning to the Bears side having missed almost all of last season through injury.\n\nMacGinty started for the Bears and played 58 minutes of their opening round win away at Sale last Saturday, his first start since the opening day of last season when he suffered a ruptured Achilles.",
         "first_seen": "2026-10-02T17:24:59.563567+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Gloucester winger Cokanasiga out until January",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwrkymmvrp6jo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-02T12:37:46+00:00",
-        "published_label": "Fri 02 Oct, 12:37",
-        "summary": "Gloucester winger Phil Cokanasiga is ruled out until January after undergoing surgery on a foot injury suffered against Exeter.",
-        "body": "Gloucester winger Phil Cokanasiga has been ruled out until January after undergoing surgery on a foot injury suffered in the win against Exeter. The 25-year-old played the entire 80 minutes of the impressive 45-24 victory at Sandy Park but head coach George Skivington told BBC Radio Gloucestershire - before the extent of the injury was known - that he \"caught his foot\" towards the end of the game.\n\nCokanasiga joined the Cherry and Whites this summer from United Rugby Championship side Ospreys and scored two tries on his debut in the Prem Rugby Cup defeat by Bristol earlier this month.",
-        "copy": "Gloucester winger Phil Cokanasiga has been ruled out until January after undergoing surgery on a foot injury suffered in the win against Exeter. The 25-year-old played the entire 80 minutes of the impressive 45-24 victory at Sandy Park but head coach George Skivington told BBC Radio Gloucestershire - before the extent of the injury was known - that he \"caught his foot\" towards the end of the game.\n\nCokanasiga joined the Cherry and Whites this summer from United Rugby Championship side Ospreys and scored two tries on his debut in the Prem Rugby Cup defeat by Bristol earlier this month.",
-        "first_seen": "2026-10-02T14:01:03.424100+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cqlydnrperpko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-09T12:50:28+00:00",
+        "published_label": "Fri 09 Oct, 12:50",
+        "summary": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph at the China Open in Beijing.",
+        "body": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing. The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.\n\nBut, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole. The big-serving Hurkacz, winner in 2023 and currently ranked 34th in the world, claimed a 6-4 6-3 victory in 87 minutes.",
+        "copy": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing. The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.\n\nBut, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole. The big-serving Hurkacz, winner in 2023 and currently ranked 34th in the world, claimed a 6-4 6-3 victory in 87 minutes.",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
       {
         "section": "Tennis",
         "source": "BBC Sport",
@@ -4739,6 +4791,58 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Bit of disbelief': Pro’s 'toed' tee shot results in perfection — and $160,000 bonus",
+        "link": "https://golf.com/news/pro-toed-tee-shot-results-perfection/",
+        "published": "2026-10-09T14:07:42+00:00",
+        "published_label": "Fri 09 Oct, 14:07",
+        "summary": "New Zealand pro Daniel Hillier has made some memorable swings in his career. But a shot he hit at the Spanish Open might trump them all. The post ‘Bit of disbelief’: Pro’s ‘toed’ tee shot results in perfection — and $160,000 bonus appeared first on Golf .",
+        "body": "Daniel Hillier, a 28-year-old pro from New Zealand, has made some memorable swings in his career. In 2023, he made two eagles in his last four holes at the British Masters to secure his first DP World Tour win; he has played in three of the four majors (still working on the Masters); and earlier this year, in the wake of his New Zealand Open win, he broke into the top 100 in the world ranking.\n\nOn Thursday, Hillier added another swing memory to the scrapbook — an improbable one — with his tee shot on the par-3 17th hole in the first round of the Spanish Open. Hillier didn’t love the strike. Not by any stretch.",
+        "copy": "Daniel Hillier, a 28-year-old pro from New Zealand, has made some memorable swings in his career. In 2023, he made two eagles in his last four holes at the British Masters to secure his first DP World Tour win; he has played in three of the four majors (still working on the Masters); and earlier this year, in the wake of his New Zealand Open win, he broke into the top 100 in the world ranking.\n\nOn Thursday, Hillier added another swing memory to the scrapbook — an improbable one — with his tee shot on the par-3 17th hole in the first round of the Spanish Open. Hillier didn’t love the strike. Not by any stretch.",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "At Omni Barton Creek, it's a 4-course feast for the ultimate buddies' trip",
+        "link": "https://golf.com/travel/omni-barton-creek-buddies-trip/",
+        "published": "2026-10-09T13:50:37+00:00",
+        "published_label": "Fri 09 Oct, 13:50",
+        "summary": "West of downtown Austin, Omni Barton Creek Resort & Spa boasts four fabulous courses and everything else you need to crush your buddies' golf trip. The post At Omni Barton Creek, it’s a 4-course feast for the ultimate buddies’ trip appeared first on Golf .",
+        "body": "The recipe isn’t complicated. A few good friends. Some fine food and drink. An awesome resort in a spectacular setting. And to ice the cake? Multiple great courses — four would be fantastic! — to truly take your buddies’ golf trip over the top. Welcome to Omni Barton Creek Resort & Spa.\n\nLocated just 10 miles west of downtown Austin in a stunning swath of Texas Hill Country, Omni Barton Creek boasts four fabulous courses designed by renowned architects Bill Coore and Ben Crenshaw, Arnold Palmer, and Tom Fazio (two courses), making the “foursome” on offer at Barton Creek a memorable one.",
+        "copy": "The recipe isn’t complicated. A few good friends. Some fine food and drink. An awesome resort in a spectacular setting. And to ice the cake? Multiple great courses — four would be fantastic! — to truly take your buddies’ golf trip over the top. Welcome to Omni Barton Creek Resort & Spa.\n\nLocated just 10 miles west of downtown Austin in a stunning swath of Texas Hill Country, Omni Barton Creek boasts four fabulous courses designed by renowned architects Bill Coore and Ben Crenshaw, Arnold Palmer, and Tom Fazio (two courses), making the “foursome” on offer at Barton Creek a memorable one.",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf commentator ripped to shreds over 'changes nothing' Jon Rahm statement",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkZoaVVyVXM2UXMyZmFheEliMWc3TGdMYVJFck5qbFVVV01nTWR6M1BqTHhyU3VTVm9zS1Axaks2b0JCcVl4Y1ZaYXRoX2NUdVZUWVJKVnlWaGpxN0VSbElxZnZqdEVwZTFnV3NZM1d6T0wxMGZBbFJuMENLclFGU05fY29NaGdpZ3U0MzhWbDBFZ08tbUlxeWUwalJoV1ZLUE51Y0VEcWR5clFLMDVaNkJ6SXE?oc=5",
+        "published": "2026-10-09T13:30:31+00:00",
+        "published_label": "Fri 09 Oct, 13:30",
+        "summary": "LIV Golf commentator ripped to shreds over 'changes nothing' Jon Rahm statement Golfmagic",
+        "body": "LIV commentator Arlo White has drawn criticism from golf fans after suggesting Jon Rahm's departure from the breakaway circuit \"changes nothing\" about the league's prospects of continuing in a revamped form in 2027.\n\nRahm's future has been the subject of speculation for months, but his lawyer told a US bankruptcy court on 7 September that the two-time major champion deemed the proposed terms for a revamped LIV Golf as \"unacceptable\".",
+        "copy": "LIV commentator Arlo White has drawn criticism from golf fans after suggesting Jon Rahm's departure from the breakaway circuit \"changes nothing\" about the league's prospects of continuing in a revamped form in 2027.\n\nRahm's future has been the subject of speculation for months, but his lawyer told a US bankruptcy court on 7 September that the two-time major champion deemed the proposed terms for a revamped LIV Golf as \"unacceptable\".",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Don't see myself playing': LIV exodus continues with young phenom's decision",
+        "link": "https://golf.com/news/liv-exodus-continues-young-phenom-decision/",
+        "published": "2026-10-09T12:59:05+00:00",
+        "published_label": "Fri 09 Oct, 12:59",
+        "summary": "The exodus of pros from LIV Golf continued on Thursday, when young phenom David Puig announced he would not play on LIV 2.0 in 2027. The post ‘Don’t see myself playing’: LIV exodus continues with young phenom’s decision appeared first on Golf .",
+        "body": "If LIV 2.0 — the newly envisioned, post-bankruptcy league CEO Scott O’Neil hopes to debut in 2027 — is to get off the ground, it needs top players to sign on. Without them, new investment and interest in the league are threatened.\n\nBut this week has seen a rash of departures from LIV Golf, with multiple players declaring they would not play on LIV 2.0 in 2027. On Thursday, LIV took another blow in the player commitment department, with young phenom David Puig announcing he would not sign on to play for LIV next year.",
+        "copy": "If LIV 2.0 — the newly envisioned, post-bankruptcy league CEO Scott O’Neil hopes to debut in 2027 — is to get off the ground, it needs top players to sign on. Without them, new investment and interest in the league are threatened.\n\nBut this week has seen a rash of departures from LIV Golf, with multiple players declaring they would not play on LIV 2.0 in 2027. On Thursday, LIV took another blow in the player commitment department, with young phenom David Puig announcing he would not sign on to play for LIV next year.",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
+      },
+      {
+        "section": "Golf",
         "source": "HSBC golf watch",
         "kind": "gnews",
         "title": "Bryson DeChambeau Reportedly Eyes DP World Tour Starts As LIV Exits Continue",
@@ -4814,6 +4918,19 @@
         "body": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau is eyeing up future DP World Tour starts amid the ongoing exodus of LIV Golf stars, according to a new report.\n\nAs per James Corrigan in The Telegraph, the American’s management team has contacted DP World Tour officials to discuss playing more events on the European circuit. While DeChambeau is not necessarily seeking DP World Tour membership, he does appear to be considering more starts on the tour.",
         "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau is eyeing up future DP World Tour starts amid the ongoing exodus of LIV Golf stars, according to a new report.\n\nAs per James Corrigan in The Telegraph, the American’s management team has contacted DP World Tour officials to discuss playing more events on the European circuit. While DeChambeau is not necessarily seeking DP World Tour membership, he does appear to be considering more starts on the tour.",
         "first_seen": "2026-10-09T12:33:23.647081+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "David Puig Becomes Latest LIV Golf Star To Confirm Exit",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU293dUpkMDRZaTVIR0d1cVNWUDdTdnNDclpMZkJjSWk1N1kwTFJJdFJBTDVkTXh1NDZuUDh2dkhza293QmIzdEtrdXFzOWlseE5uZ2h0NjBvN3lMaGJ4YU1MZXp4OUhhNmNqLW95aDR5bnkybHkxTV9VVmJYeTVfb29iX19kYkprdmI2Y1RuZw?oc=5",
+        "published": "2026-10-09T09:30:13+00:00",
+        "published_label": "Fri 09 Oct, 09:30",
+        "summary": "David Puig Becomes Latest LIV Golf Star To Confirm Exit Golf Monthly",
+        "body": "David Puig is the latest player to rule himself out of playing in LIV Golf 2.0, with the Spaniard keen to play a full schedule on the DP World Tour next season. Hot on the heels of Jon Rahm declaring he's out, his compatriot Puig has made the decision not to play in the proposed new version of LIV Golf.\n\nIt's another blow for LIV Golf CEO Scott O'Neil, who has a deadline of 25 October to get enough players signed up in order to complete a finance deal with investors BC Partners.",
+        "copy": "David Puig is the latest player to rule himself out of playing in LIV Golf 2.0, with the Spaniard keen to play a full schedule on the DP World Tour next season. Hot on the heels of Jon Rahm declaring he's out, his compatriot Puig has made the decision not to play in the proposed new version of LIV Golf.\n\nIt's another blow for LIV Golf CEO Scott O'Neil, who has a deadline of 25 October to get enough players signed up in order to complete a finance deal with investors BC Partners.",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
       },
       {
         "section": "Golf",
@@ -6426,32 +6543,6 @@
         "body": "There's plenty of golf action taking place this week, including the DP World Tour's Alfred Dunhill Links Championship and the PGA Tour's Black Desert Championship. The season-ending DP World Tour play-offs are also approaching, with high-profile events taking place in the UAE. However, it's been a tumultuous time in the golfing world, with LIV Golf's reign looking perilous while the future of the upcoming Middle-East-based tournaments are also in doubt. The latest news focuses on the aforementioned and features Rory McIlroy, Sergio Garcia and Tyrell Hatton at the heart of the drama.\n\nMcIlroy says he is excited to play in the Abu Dhabi Championship and DP World Tour Championship next month - despite the region's fragile political situation. There have been concerns about the location of the two events. Rumours have been rife that the DP World Tour could even shift the competitions to Europe.",
         "copy": "There's plenty of golf action taking place this week, including the DP World Tour's Alfred Dunhill Links Championship and the PGA Tour's Black Desert Championship. The season-ending DP World Tour play-offs are also approaching, with high-profile events taking place in the UAE. However, it's been a tumultuous time in the golfing world, with LIV Golf's reign looking perilous while the future of the upcoming Middle-East-based tournaments are also in doubt. The latest news focuses on the aforementioned and features Rory McIlroy, Sergio Garcia and Tyrell Hatton at the heart of the drama.\n\nMcIlroy says he is excited to play in the Abu Dhabi Championship and DP World Tour Championship next month - despite the region's fragile political situation. There have been concerns about the location of the two events. Rumours have been rife that the DP World Tour could even shift the competitions to Europe.",
         "first_seen": "2026-10-02T17:24:59.563567+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Here's how much prize money EVERY player earned on LIV Golf",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3RBbVFKX2k2ZE56bUZoNXRjLWVaa2ZfTGwyWk5MRVlmd3o0aTRjT2JROVBwbmhkdExBQmh1UHBBQmxjbGtwRHJqbTlSeHlwaWh3ZjZxVDF3T2kwSXBEMUZpVTJYMmxCUlpMNWJ1d1ZZQkN0Tm9fdnl1X1NObTJsTXpxdWRPbGRHT05YaHA5dWRrZklHWHY1UE5kZG9CZndycU84SA?oc=5",
-        "published": "2026-10-02T13:40:31+00:00",
-        "published_label": "Fri 02 Oct, 13:40",
-        "summary": "Here's how much prize money EVERY player earned on LIV Golf Today's Golfer",
-        "body": "One hundred and ten golfers played at least one event in LIV Golf’s five-year history. Alex Perry pushed his calculator to the limit to work out exactly how much each earned, and the league’s total prize money outgoings. Spoiler: it was more than you can comprehend.\n\nLIV Golf, as we know it, is dead. With Saudi Arabia’s Public Investment Fund pulling the financial plug, the league’s bosses are scrambling to finance a sixth season and a first of what they’re calling the LIV 2.0 era.",
-        "copy": "One hundred and ten golfers played at least one event in LIV Golf’s five-year history. Alex Perry pushed his calculator to the limit to work out exactly how much each earned, and the league’s total prize money outgoings. Spoiler: it was more than you can comprehend.\n\nLIV Golf, as we know it, is dead. With Saudi Arabia’s Public Investment Fund pulling the financial plug, the league’s bosses are scrambling to finance a sixth season and a first of what they’re calling the LIV 2.0 era.",
-        "first_seen": "2026-10-02T14:01:03.424100+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Tom Kim charges into lead in bid to avoid military service",
-        "link": "https://golf.com/news/tom-kim-charges-lead-bid-avoid-military-service/",
-        "published": "2026-10-02T13:30:08+00:00",
-        "published_label": "Fri 02 Oct, 13:30",
-        "summary": "PGA Tour pro Tom Kim needs to win gold at the 2026 Asian Games to avoid mandatory military service. With 18 holes to go, he's in the lead. The post Tom Kim charges into lead in bid to avoid military service appeared first on Golf .",
-        "body": "Shortly after his singles match ended last Sunday at the 2026 Presidents Cup, Tom Kim quickly got on a plane to Japan. That the Presidents Cup hadn’t officially ended didn’t matter to him.\n\nAwaiting Kim at Japan’s Kasugai Country Club was what could very well be the most important tournament of his entire career: the 2026 Asian Games. Why is the event so crucial for Kim, who already has four PGA Tour wins on his resume? Because if he or his South Korean team finish with the gold medal this week, Kim will be exempted from nearly two years of mandatory military service.",
-        "copy": "Shortly after his singles match ended last Sunday at the 2026 Presidents Cup, Tom Kim quickly got on a plane to Japan. That the Presidents Cup hadn’t officially ended didn’t matter to him.\n\nAwaiting Kim at Japan’s Kasugai Country Club was what could very well be the most important tournament of his entire career: the 2026 Asian Games. Why is the event so crucial for Kim, who already has four PGA Tour wins on his resume? Because if he or his South Korean team finish with the gold medal this week, Kim will be exempted from nearly two years of mandatory military service.",
-        "first_seen": "2026-10-02T14:01:03.424100+00:00"
       }
     ],
     "Badminton": [
@@ -6493,6 +6584,19 @@
         "body": "Denmark won a heart-stoppingly close tie against Turkiye to make the playoff for ninth place at the VICTOR World Junior Team Championships on Thursday. The teams were tied 54-all with the tie on the line in the final women’s singles. Denmark’s Ida Nissen took the final point over Aleyna Korkut, reversing the score from the first game, and sparking a big celebration from her team.\n\nTurkiye had taken the first game after Korkut had pulled her team back from 38-44, but fortunes shifted in the second, and Nissen was able to control proceedings. The Danes continued to ride on that momentum in the third but in the penultimate match, the mixed doubles, Gokay Gol/Nisa Nur Cimen dragged their team back into contention by taking Turkiye to within three points of Denmark before the final match.",
         "copy": "Denmark won a heart-stoppingly close tie against Turkiye to make the playoff for ninth place at the VICTOR World Junior Team Championships on Thursday. The teams were tied 54-all with the tie on the line in the final women’s singles. Denmark’s Ida Nissen took the final point over Aleyna Korkut, reversing the score from the first game, and sparking a big celebration from her team.\n\nTurkiye had taken the first game after Korkut had pulled her team back from 38-44, but fortunes shifted in the second, and Nissen was able to control proceedings. The Danes continued to ride on that momentum in the third but in the penultimate match, the mixed doubles, Gokay Gol/Nisa Nur Cimen dragged their team back into contention by taking Turkiye to within three points of Denmark before the final match.",
         "first_seen": "2026-10-08T19:40:44.710759+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Arctic Open BWF World Tour - Men",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUJwblRsS192MlZ2MnRROS1Ua29FZ0w1TkxCUVNSTDF5NU1Bd2ZEVC1TaDJ0NW8xTEpSX3A4V2Y1R0oxWXEyU1RaV3RobGk5LU5VYU85eXdoUkdiRWtaY3dsSjRYV283enZnM19OOHVSdkIyTkJvekdZUUNQaVM1UVEyLV9TRlE?oc=5",
+        "published": "2026-10-08T15:22:16+00:00",
+        "published_label": "Thu 08 Oct, 15:22",
+        "summary": "Arctic Open BWF World Tour - Men Flashscore.com",
+        "body": "We and our 1018 partner(s) store and access personal data, like browsing data or unique identifiers, on your device. Selecting I Accept enables tracking technologies to support the purposes shown under we and our partners process data to provide. Selecting Reject All or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time by clicking the Manage Preferences link on the bottom of the webpage [or the floating icon on the bottom-left of the webpage, if applicable]. Your choices will have effect within our Website. For more details, refer to our Privacy Policy.Third parties\n\nUse precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development. List of Partners (vendors)",
+        "copy": "We and our 1018 partner(s) store and access personal data, like browsing data or unique identifiers, on your device. Selecting I Accept enables tracking technologies to support the purposes shown under we and our partners process data to provide. Selecting Reject All or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time by clicking the Manage Preferences link on the bottom of the webpage [or the floating icon on the bottom-left of the webpage, if applicable]. Your choices will have effect within our Website. For more details, refer to our Privacy Policy.Third parties\n\nUse precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development. List of Partners (vendors)",
+        "first_seen": "2026-10-09T14:29:59.331124+00:00"
       },
       {
         "section": "Badminton",
@@ -6966,5 +7070,5 @@
       }
     ]
   },
-  "total": 534
+  "total": 542
 }
