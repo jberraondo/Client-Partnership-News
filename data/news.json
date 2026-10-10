@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T16:55:30.162710+00:00",
-  "generated_label": "Saturday 10 October 2026, 16:55 UTC",
+  "generated_at": "2026-10-10T21:07:46.704040+00:00",
+  "generated_label": "Saturday 10 October 2026, 21:07 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -50,6 +50,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-10T16:55:30.162710+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "How protein took over the world",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0Z4elRNMTk0TzVDdzVXTWhpYllOWlk0OW5LRlltSmNEd1dNUVVYUVo0Qjk3T1JNMnZ3azlTOUNFNFFOVVhXNUxoalNtZk9oajE3M2VnT3JDZmN1Yk5wZXMxQW5LZFp6N0NLZElONlFvNFp3ZTBtRW5mcnRhMkd1OEt2WEs?oc=5",
+        "published": "2026-10-10T04:00:16+00:00",
+        "published_label": "Sat 10 Oct, 04:00",
+        "summary": "How protein took over the world Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1639,6 +1652,123 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Leinster stroll past Cardiff for happy homecoming",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5yn2ng799po?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T20:33:01+00:00",
+        "published_label": "Sat 10 Oct, 20:33",
+        "summary": "Champions Leinster score five tries to beat Cardiff in Dublin for their first win of the 2026-27 United Rugby Championship campaign.",
+        "body": "Champions Leinster made a successful return to the revamped Laya Arena by beating Cardiff in the United Rugby Championship (URC). The Irish province recorded their first victory of the 2026-27 season in front of 20,600 supporters, and condemned the Blue and Blacks to a first loss.\n\nLeinster scored three tries inside the first quarter through Hugo Keenan, Jimmy O'Brien and Jack Conan, then O'Brien's second in the 37th minute secured the four-try bonus. But, with a raft of Ireland internationals making their first outings of the campaign, the second half was flat and scoreless until Jamie Osborne went over with five minutes to go.",
+        "copy": "Champions Leinster made a successful return to the revamped Laya Arena by beating Cardiff in the United Rugby Championship (URC). The Irish province recorded their first victory of the 2026-27 season in front of 20,600 supporters, and condemned the Blue and Blacks to a first loss.\n\nLeinster scored three tries inside the first quarter through Hugo Keenan, Jimmy O'Brien and Jack Conan, then O'Brien's second in the 37th minute secured the four-try bonus. But, with a raft of Ireland internationals making their first outings of the campaign, the second half was flat and scoreless until Jamie Osborne went over with five minutes to go.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Leinster player ratings vs Cardiff | 2026/27 URC",
+        "link": "https://www.rugbypass.com/news/leinster-player-ratings-vs-cardiff-2026-27-urc/",
+        "published": "2026-10-10T20:30:42+00:00",
+        "published_label": "Sat 10 Oct, 20:30",
+        "summary": "Leinster player ratings: The men in blue's competitive return to the Laya Arena, AKA the revamped RDS, could hardly have been scripted much better. After two losing outings in South Africa",
+        "body": "Leinster player ratings: The men in blue’s competitive return to the Laya Arena, AKA the revamped RDS, could hardly have been scripted much better. After two losing outings in South Africa, Leo Cullen’s side arrived under a little more pressure than they are accustomed to, but ultimately delivered a convincing response against Cardiff.\n\nLeinster started at a ferocious tempo, playing all-court rugby and stretching the visitors from touchline to touchline. Cardiff had their moments and refused to completely disappear from the contest, but the home side always looked the more complete outfit as they secured their first win of the season, finishing up 29-5 victors.",
+        "copy": "Leinster player ratings: The men in blue’s competitive return to the Laya Arena, AKA the revamped RDS, could hardly have been scripted much better. After two losing outings in South Africa, Leo Cullen’s side arrived under a little more pressure than they are accustomed to, but ultimately delivered a convincing response against Cardiff.\n\nLeinster started at a ferocious tempo, playing all-court rugby and stretching the visitors from touchline to touchline. Cardiff had their moments and refused to completely disappear from the contest, but the home side always looked the more complete outfit as they secured their first win of the season, finishing up 29-5 victors.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Ulster make Munster pay will painful late equaliser in Belfast",
+        "link": "https://www.rugbypass.com/news/ulster-make-munster-pay-will-painful-late-equaliser-in-belfast/",
+        "published": "2026-10-10T19:27:49+00:00",
+        "published_label": "Sat 10 Oct, 19:27",
+        "summary": "Stuart McCloskey scored with three minutes remaining as Ulster fought back to snatch a 26-26 draw with Munster at the Affidea Stadium.",
+        "body": "Stuart McCloskey scored with three minutes remaining as Ulster fought back to snatch a 26-26 draw with Munster at the Affidea Stadium. Ulster had trailed 26-5 at the interval after the visitors crossed four times in a dominant first period.\n\nAlex Kendellen’s opening score for Munster was cancelled out by Jacob Stockdale, but Marnus van der Merwe restored their lead. Munster then took advantage of the sin-binning of Cormac Izuchukwu to move further ahead before the break through Dan Kelly and a second try for Kendellen.",
+        "copy": "Stuart McCloskey scored with three minutes remaining as Ulster fought back to snatch a 26-26 draw with Munster at the Affidea Stadium. Ulster had trailed 26-5 at the interval after the visitors crossed four times in a dominant first period.\n\nAlex Kendellen’s opening score for Munster was cancelled out by Jacob Stockdale, but Marnus van der Merwe restored their lead. Munster then took advantage of the sin-binning of Cormac Izuchukwu to move further ahead before the break through Dan Kelly and a second try for Kendellen.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "England ace Noah Caluori shines as Saracens beast Bristol Bears",
+        "link": "https://www.rugbypass.com/news/noah-caluori-shines-as-saracens-beat-bristol/",
+        "published": "2026-10-10T19:04:10+00:00",
+        "published_label": "Sat 10 Oct, 19:04",
+        "summary": "Noah Caluori made a try-scoring return for Saracens as Bristol saw their bright start to the Gallagher Prem hit the buffers in a comprehensive 30-7 away defeat.",
+        "body": "Noah Caluori made a try-scoring return for Saracens as Bristol saw their bright start to the Gallagher Prem hit the buffers in a comprehensive 30-7 away defeat. Making his first appearance of the season after undergoing wrist surgery, England wing Caluori produced the opening touch down to continue the blistering form that catapulted him to fame inn 2025-26.\n\nAlex O’Driscoll and Jack Bracken also crossed on top of a penalty try as Saracens reacted to their disappointing loss to Sale last Saturday by taking Bristol apart in the second half with Ben Earl and Maro Itoje particularly influential.",
+        "copy": "Noah Caluori made a try-scoring return for Saracens as Bristol saw their bright start to the Gallagher Prem hit the buffers in a comprehensive 30-7 away defeat. Making his first appearance of the season after undergoing wrist surgery, England wing Caluori produced the opening touch down to continue the blistering form that catapulted him to fame inn 2025-26.\n\nAlex O’Driscoll and Jack Bracken also crossed on top of a penalty try as Saracens reacted to their disappointing loss to Sale last Saturday by taking Bristol apart in the second half with Ben Earl and Maro Itoje particularly influential.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Caluori scores as Saracens too strong for Bristol",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck86zqg7n6l1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T18:53:25+00:00",
+        "published_label": "Sat 10 Oct, 18:53",
+        "summary": "Noah Caluori gets on the scoresheet as Saracens continue their hold over Bristol Bears at the StoneX Stadium with a 30-7 victory.",
+        "body": "Tries: Caluori, O'Driscoll, penalty, J. Bracken Cons: Farrell Pens: Farrell 2 Saracens continued their hold over Bristol Bears at the StoneX Stadium with a convincing 30-7 victory.\n\nBristol have now failed to win in all eight of their Prem visits to Saracens' home since they reached the top flight, with this loss also their first defeat of the 2026-27 campaign.",
+        "copy": "Tries: Caluori, O'Driscoll, penalty, J. Bracken Cons: Farrell Pens: Farrell 2 Saracens continued their hold over Bristol Bears at the StoneX Stadium with a convincing 30-7 victory.\n\nBristol have now failed to win in all eight of their Prem visits to Saracens' home since they reached the top flight, with this loss also their first defeat of the 2026-27 campaign.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ulster fight back to draw with Munster in thriller",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvg6l4yv498o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T18:38:35+00:00",
+        "published_label": "Sat 10 Oct, 18:38",
+        "summary": "A second-half fightback earns Ulster a draw against Munster in a thrilling United Rugby Championship Irish derby in Belfast.",
+        "body": "A second-half fightback earned Ulster a draw against Munster in a thrilling United Rugby Championship Irish derby in Belfast. Munster looked on course for a bonus-point win after first-half tries from Alex Kendellen (2), Marnus van der Merwe and Dan Kelly put them 26-5 up at the break.\n\nHowever, having already marked his 150th appearance with a superb solo try in the first half, Jacob Stockdale's second raised Ulster's hopes of a turnaround. David McCann further cut the gap, and after replacement Munster fly-half Charlie O'Shea kicked a penalty short, Stuart McCloskey touched down three minutes from time to ensure a share of the spoils.",
+        "copy": "A second-half fightback earned Ulster a draw against Munster in a thrilling United Rugby Championship Irish derby in Belfast. Munster looked on course for a bonus-point win after first-half tries from Alex Kendellen (2), Marnus van der Merwe and Dan Kelly put them 26-5 up at the break.\n\nHowever, having already marked his 150th appearance with a superb solo try in the first half, Jacob Stockdale's second raised Ulster's hopes of a turnaround. David McCann further cut the gap, and after replacement Munster fly-half Charlie O'Shea kicked a penalty short, Stuart McCloskey touched down three minutes from time to ensure a share of the spoils.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Costelow kick seals Scarlets' first league win",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c64g1zv03kdlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T18:36:10+00:00",
+        "published_label": "Sat 10 Oct, 18:36",
+        "summary": "A late Sam Costelow penalty earns Scarlets a first URC win of the season as they defeated Benetton 27-26.",
+        "body": "A late Sam Costelow penalty secured Scarlets' first United Rugby Championship (URC) win of the season as they defeated Benetton 27-26. The 78th-minute kick from the Wales fly-half spoiled Wayne Pivac's return to Llanelli as Scarlets battled back from a 21-7 half-time deficit.\n\nNigel Davies' side took an early lead through flanker Sam Lousi but Benetton responded with first-half tries from hooker Siua Maile, wing Onisi Ratave and flanker Michele Lamaro.",
+        "copy": "A late Sam Costelow penalty secured Scarlets' first United Rugby Championship (URC) win of the season as they defeated Benetton 27-26. The 78th-minute kick from the Wales fly-half spoiled Wayne Pivac's return to Llanelli as Scarlets battled back from a 21-7 half-time deficit.\n\nNigel Davies' side took an early lead through flanker Sam Lousi but Benetton responded with first-half tries from hooker Siua Maile, wing Onisi Ratave and flanker Michele Lamaro.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Phil Dowson attempts to explain bizarre scoreline in PREM top-dog scrap",
+        "link": "https://www.rugbypass.com/news/phil-dowson-high-scoring-northampton-bath-clash-due-to-different-mindset/",
+        "published": "2026-10-10T17:44:48+00:00",
+        "published_label": "Sat 10 Oct, 17:44",
+        "summary": "Northampton Saints director of rugby Phil Dowson thinks high-scoring matches such as his side’s thumping 71-48 victory over Bath is due to teams shifting in mindset in recent years.",
+        "body": "Northampton Saints director of rugby Phil Dowson thinks high-scoring matches such as his side’s thumping 71-48 victory over Bath is due to teams shifting in mindset in recent years.\n\nEighteen tries were scored in what was an extraordinary contest at DPD Stadium at Franklin’s Gardens that became the second-highest scoring game in Gallagher PREM history. While Saints celebrated at the end, the tally Bath conceded equalled the record amount they leaked in the 71-17 hammering they suffered against Saracens in October 2021.",
+        "copy": "Northampton Saints director of rugby Phil Dowson thinks high-scoring matches such as his side’s thumping 71-48 victory over Bath is due to teams shifting in mindset in recent years.\n\nEighteen tries were scored in what was an extraordinary contest at DPD Stadium at Franklin’s Gardens that became the second-highest scoring game in Gallagher PREM history. While Saints celebrated at the end, the tally Bath conceded equalled the record amount they leaked in the 71-17 hammering they suffered against Saracens in October 2021.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'It's becoming such a difficult decision for Steve Borthwick'",
+        "link": "https://www.rugbypass.com/news/its-becoming-such-a-difficult-decision-for-steve-borthwick-england-rugby-alex-coles/",
+        "published": "2026-10-10T17:38:49+00:00",
+        "published_label": "Sat 10 Oct, 17:38",
+        "summary": "Former England lock Ben Kay believes England’s second-row is becoming Steve Borthwick’s most difficult selection call a year out from the 2027 World Cup, with Alex Coles continuing to strengthen his case in Northampton Saints’ 71-48 win over Bath.",
+        "body": "Former England lock Ben Kay believes England’s second-row is becoming Steve Borthwick’s most difficult selection call a year out from the 2027 World Cup, with Alex Coles continuing to strengthen his case in Northampton Saints’ 71-48 win over Bath.\n\nColes, who has started England’s last five Tests, was outstanding at DPD Stadium at Franklin’s Gardens, scoring a try and helping create another for Josh Kemeny as Saints came out on top in a remarkable 119-point contest.",
+        "copy": "Former England lock Ben Kay believes England’s second-row is becoming Steve Borthwick’s most difficult selection call a year out from the 2027 World Cup, with Alex Coles continuing to strengthen his case in Northampton Saints’ 71-48 win over Bath.\n\nColes, who has started England’s last five Tests, was outstanding at DPD Stadium at Franklin’s Gardens, scoring a try and helping create another for Josh Kemeny as Saints came out on top in a remarkable 119-point contest.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3939,123 +4069,6 @@
         "body": "Leicester clinched their first Gallagher Prem win of the season with a 24-19 victory over Newcastle. Making his Newcastle bow in front of a sold-out Kingston Park, Obi Ene crossed early on, but the Tigers soon took control as tries from Samiuela Moli and Adam Radwan along with a Billy Searle penalty handed them a 17-5 lead at the break.\n\nGeorge McGuigan went over in the second half for Newcastle, but Will Hurd’s try extended Leicester’s advantage and they withstood a late scare when Cam Jordan crossed for the hosts in the last 10 minutes.",
         "copy": "Leicester clinched their first Gallagher Prem win of the season with a 24-19 victory over Newcastle. Making his Newcastle bow in front of a sold-out Kingston Park, Obi Ene crossed early on, but the Tigers soon took control as tries from Samiuela Moli and Adam Radwan along with a Billy Searle penalty handed them a 17-5 lead at the break.\n\nGeorge McGuigan went over in the second half for Newcastle, but Will Hurd’s try extended Leicester’s advantage and they withstood a late scare when Cam Jordan crossed for the hosts in the last 10 minutes.",
         "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Leicester hold off Newcastle for first Prem win",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-03T20:46:08+00:00",
-        "published_label": "Sat 03 Oct, 20:46",
-        "summary": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
-        "body": "Leicester Tigers picked up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls. Former Newcastle winger Adam Radwan scored on his return to Kingston Park as the Tigers won for the first time in seven matches in all competitions, following a dismal run which stretches back into last season.\n\nAfter being edged out by two points in a high-scoring thriller by Saracens six days ago, Leicester had to show their grit and determination to cling on to victory against a Newcastle side who threatened a late comeback.",
-        "copy": "Leicester Tigers picked up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls. Former Newcastle winger Adam Radwan scored on his return to Kingston Park as the Tigers won for the first time in seven matches in all competitions, following a dismal run which stretches back into last season.\n\nAfter being edged out by two points in a high-scoring thriller by Saracens six days ago, Leicester had to show their grit and determination to cling on to victory against a Newcastle side who threatened a late comeback.",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Quins boss tears into side after worst league loss in over 20 years",
-        "link": "https://www.rugbypass.com/news/harlequins-jason-gilmore-unhappy-at-totally-unacceptable-show-at-gloucester/",
-        "published": "2026-10-03T19:34:22+00:00",
-        "published_label": "Sat 03 Oct, 19:34",
-        "summary": "Harlequins head coach Jason Gilmore described his side’s performance as “totally unacceptable” after seeing them slump to their worst league defeat since 2000 as Gloucester inflicted a 48-0 thrashing on them at Kingsholm.",
-        "body": "Harlequins head coach Jason Gilmore described his side’s performance as “totally unacceptable” after seeing them slump to their worst league defeat since 2000 as Gloucester inflicted a 48-0 thrashing on them at Kingsholm.\n\nHarlequins, without the likes of England internationals, Marcus Smith and Alex Dombrant, were totally outplayed in all aspects of the Gallagher Prem game and never threatened to open their account.",
-        "copy": "Harlequins head coach Jason Gilmore described his side’s performance as “totally unacceptable” after seeing them slump to their worst league defeat since 2000 as Gloucester inflicted a 48-0 thrashing on them at Kingsholm.\n\nHarlequins, without the likes of England internationals, Marcus Smith and Alex Dombrant, were totally outplayed in all aspects of the Gallagher Prem game and never threatened to open their account.",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Dowson praises ‘exceptional’ England hopeful after frustrating champions",
-        "link": "https://www.rugbypass.com/news/dowson-praises-exceptional-england-hopeful-after-frustrating-champions-fitz-harding/",
-        "published": "2026-10-03T19:18:25+00:00",
-        "published_label": "Sat 03 Oct, 19:18",
-        "summary": "Bristol boss Pat Lam hailed Louis Rees-Zammit’s “lethal” quality after he inspired the Bears’ 41-26 victory over Gallagher Prem champions Northampton at Ashton Gate.",
-        "body": "Bristol boss Pat Lam hailed Louis Rees-Zammit’s “lethal” quality after he inspired the Bears’ 41-26 victory over Gallagher Prem champions Northampton at Ashton Gate. The Wales wing followed up his two tries against opening Prem opponents Sale Sharks with another double as Bristol triumphed in bonus-point fashion.\n\n“He is sharp, you know, and he loves finishing,” Lam said. “We know that if we can give him time and space, he is lethal. He is back on the wing (Rees-Zammit made appearances at full-back for club and country last season), and most importantly that is where he wants to be.”",
-        "copy": "Bristol boss Pat Lam hailed Louis Rees-Zammit’s “lethal” quality after he inspired the Bears’ 41-26 victory over Gallagher Prem champions Northampton at Ashton Gate. The Wales wing followed up his two tries against opening Prem opponents Sale Sharks with another double as Bristol triumphed in bonus-point fashion.\n\n“He is sharp, you know, and he loves finishing,” Lam said. “We know that if we can give him time and space, he is lethal. He is back on the wing (Rees-Zammit made appearances at full-back for club and country last season), and most importantly that is where he wants to be.”",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Leinster lose to Sharks for second defeat in a row",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gqw2pp38xko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-03T19:14:06+00:00",
-        "published_label": "Sat 03 Oct, 19:14",
-        "summary": "Leinster suffer a second consecutive defeat at the start of the new United Rugby Championship season as they lose 26-20 to the Sharks in Durban.",
-        "body": "Leinster suffered a second defeat in a row at the start of the new season as the United Rugby Championship title holders went down 26-20 against the Sharks in a keenly contested encounter in Durban.\n\nLeo Cullen's side lost 27-26 to the Lions in their opening game of the campaign in Johannesburg, but they have at least managed to salvage three bonus points from the two fixtures as some consolation from their tour to South Africa.",
-        "copy": "Leinster suffered a second defeat in a row at the start of the new season as the United Rugby Championship title holders went down 26-20 against the Sharks in a keenly contested encounter in Durban.\n\nLeo Cullen's side lost 27-26 to the Lions in their opening game of the campaign in Johannesburg, but they have at least managed to salvage three bonus points from the two fixtures as some consolation from their tour to South Africa.",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Gloucester soar to top of PREM after dismantling hapless Harlequins",
-        "link": "https://www.rugbypass.com/news/gloucesters-good-start-continues-with-eight-try-drubbing-of-hapless-harlequins/",
-        "published": "2026-10-03T19:03:55+00:00",
-        "published_label": "Sat 03 Oct, 19:03",
-        "summary": "Gloucester continued their impressive start to the Gallagher Prem season by handing out a 48-0 thrashing to hapless Harlequins at Kingsholm.",
-        "body": "Gloucester continued their impressive start to the Gallagher Prem season by handing out a 48-0 thrashing to hapless Harlequins at Kingsholm. The eight-try win followed up their impressive opening day victory over Exeter at Sandy Park – but that success was far more meritorious as Harlequins were incredibly poor on the day.\n\nQuins were outplayed in every aspect of the game and never looked like opening their tally. They were without a few leading players including England internationals, Marcus Smith and Alex Dombrandt, but it will take time for them to recover from this.",
-        "copy": "Gloucester continued their impressive start to the Gallagher Prem season by handing out a 48-0 thrashing to hapless Harlequins at Kingsholm. The eight-try win followed up their impressive opening day victory over Exeter at Sandy Park – but that success was far more meritorious as Harlequins were incredibly poor on the day.\n\nQuins were outplayed in every aspect of the game and never looked like opening their tally. They were without a few leading players including England internationals, Marcus Smith and Alex Dombrandt, but it will take time for them to recover from this.",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Gloucester thrash sorry Quins to go top of the Prem",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-03T18:44:00+00:00",
-        "published_label": "Sat 03 Oct, 18:44",
-        "summary": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
-        "body": "Tries: Loader, Morgan, Trenholm, C. Atkinson, S. Atkinson, Englefield, Joseph, Barton Cons: Barton 4 Gloucester thrashed a limp Harlequins at Kingsholm to go to the top of the early Prem standings.\n\nThe Cherry and Whites ran in eight tries to make it two wins from two in the league and three on the bounce in all competitions. Gloucester, who named three new signings in their starting line-up including Wales internationals Jac Morgan and Dewi Lake, completely outplayed their opponents in all facets of the match.",
-        "copy": "Tries: Loader, Morgan, Trenholm, C. Atkinson, S. Atkinson, Englefield, Joseph, Barton Cons: Barton 4 Gloucester thrashed a limp Harlequins at Kingsholm to go to the top of the early Prem standings.\n\nThe Cherry and Whites ran in eight tries to make it two wins from two in the league and three on the bounce in all competitions. Gloucester, who named three new signings in their starting line-up including Wales internationals Jac Morgan and Dewi Lake, completely outplayed their opponents in all facets of the match.",
-        "first_seen": "2026-10-03T19:00:19.445587+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Glasgow and Ulster play out thrilling draw in URC",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqwy752wpz9yo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-03T18:38:20+00:00",
-        "published_label": "Sat 03 Oct, 18:38",
-        "summary": "George Horne's late penalty hits the post as Glasgow Warriors and Ulster play out a thrilling 33-33 draw in the United Rugby Championship.",
-        "body": "George Horne's late penalty hit the post as Glasgow Warriors and Ulster played out a thrilling 33-33 draw in the United Rugby Championship. Ulster, seeking their first win in Glasgow in more than five years, led 19-14 at the break but the Warriors scored three tries in a clinical nine-minute spell when Ulster had two players sin-binned to take the lead.\n\nBut Glasgow were reduced to 13 inside the final 10 minutes and Juarno Augustus' try, converted by Nathan Doak, levelled the game. Despite being two players down, Horne had a chance to win the match but his penalty came back off the upright with four minutes left and the points were shared at Scotstoun.",
-        "copy": "George Horne's late penalty hit the post as Glasgow Warriors and Ulster played out a thrilling 33-33 draw in the United Rugby Championship. Ulster, seeking their first win in Glasgow in more than five years, led 19-14 at the break but the Warriors scored three tries in a clinical nine-minute spell when Ulster had two players sin-binned to take the lead.\n\nBut Glasgow were reduced to 13 inside the final 10 minutes and Juarno Augustus' try, converted by Nathan Doak, levelled the game. Despite being two players down, Horne had a chance to win the match but his penalty came back off the upright with four minutes left and the points were shared at Scotstoun.",
-        "first_seen": "2026-10-03T19:00:19.445587+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Rees-Zammit stars as Bristol power past Northampton",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm27ln49devo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-03T17:57:17+00:00",
-        "published_label": "Sat 03 Oct, 17:57",
-        "summary": "Louis Rees-Zammit scores a double as Bristol edge past reigning champions Northampton in a pulsating Prem tussle.",
-        "body": "Tries: Hendy 2, Mitchell, Kemeny Cons: F. Smith 3 Louis Rees-Zammit scored a double as Bristol Bears edged past reigning champions Northampton Saints in a pulsating Prem tussle at Ashton Gate.\n\nAlthough defences were on top in the first half and chances were limited, the tactical battle and ruthless finishing provided great entertainment as they ran in two tries apiece.",
-        "copy": "Tries: Hendy 2, Mitchell, Kemeny Cons: F. Smith 3 Louis Rees-Zammit scored a double as Bristol Bears edged past reigning champions Northampton Saints in a pulsating Prem tussle at Ashton Gate.\n\nAlthough defences were on top in the first half and chances were limited, the tactical battle and ruthless finishing provided great entertainment as they ran in two tries apiece.",
-        "first_seen": "2026-10-03T19:00:19.445587+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Pirates hand Ealing first league loss in 18 months",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9146znlm6jro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-03T17:28:40+00:00",
-        "published_label": "Sat 03 Oct, 17:28",
-        "summary": "Cornish Pirates inflict a first league defeat on Ealing since April 2025 as Matt Pritchard's stoppage-time try earns them a 35-33 Champ win.",
-        "body": "Cornish Pirates inflicted a first league defeat on Ealing since April 2025 as Matt Pritchard's stoppage-time try earned them a 35-33 Champ win. Ealing won all 26 of their league games last season before losing in the play-off semi-finals to eventual champions Worcester Warriors.\n\nThe Trailfinders last lost a league game on 19 April 2025 when they went down 30-24 at home to Bedford. James Gibbons gave Ealing a third-minute lead but Pirates skipper Alex Everett struck back five minutes later.",
-        "copy": "Cornish Pirates inflicted a first league defeat on Ealing since April 2025 as Matt Pritchard's stoppage-time try earned them a 35-33 Champ win. Ealing won all 26 of their league games last season before losing in the play-off semi-finals to eventual champions Worcester Warriors.\n\nThe Trailfinders last lost a league game on 19 April 2025 when they went down 30-24 at home to Bedford. James Gibbons gave Ealing a third-minute lead but Pirates skipper Alex Everett struck back five minutes later.",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
       }
     ],
     "Tennis": [
@@ -4555,6 +4568,97 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Sergio Garcia, ex-LIV golfers can heed Rory McIlroy's 3-word truth",
+        "link": "https://golf.com/news/sergio-garcia-liv-golf-rory-mcilroy/",
+        "published": "2026-10-10T19:24:41+00:00",
+        "published_label": "Sat 10 Oct, 19:24",
+        "summary": "An obvious pathway back to pro golf relevance exists for Sergio Garcia and other former LIV players. Rory McIlroy declared it three years ago. The post Sergio Garcia, ex-LIV golfers can heed Rory McIlroy’s 3-word truth appeared first on Golf .",
+        "body": "More than three years ago, while the PGA Tour contorted itself to deal with the existence of LIV Golf, a simple theory emerged. The messenger was Rory McIlroy. The Designated/Elevated/Signature Events were novel and their field construction was becoming clear. Players who didn’t quite feel like they were in the upper echelon of the PGA Tour were concerned there may not be a spot waiting for them. (Sound familiar?) McIlroy was in his (roughly) 12th month as the Tour’s undisputed Speaker of the House and clarified why the new system would work just fine.\n\n“This tour was built on meritocracy,” he said at the 2023 Genesis Invitational. “This tour was built on if you shoot the scores, you can move up the levels and play the biggest events. That’s not going to be taken away.”",
+        "copy": "More than three years ago, while the PGA Tour contorted itself to deal with the existence of LIV Golf, a simple theory emerged. The messenger was Rory McIlroy. The Designated/Elevated/Signature Events were novel and their field construction was becoming clear. Players who didn’t quite feel like they were in the upper echelon of the PGA Tour were concerned there may not be a spot waiting for them. (Sound familiar?) McIlroy was in his (roughly) 12th month as the Tour’s undisputed Speaker of the House and clarified why the new system would work just fine.\n\n“This tour was built on meritocracy,” he said at the 2023 Genesis Invitational. “This tour was built on if you shoot the scores, you can move up the levels and play the biggest events. That’s not going to be taken away.”",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "The first important battle of the 2027 Ryder Cup is underway",
+        "link": "https://golf.com/news/ryder-cup-important-battle/",
+        "published": "2026-10-10T19:21:25+00:00",
+        "published_label": "Sat 10 Oct, 19:21",
+        "summary": "The 2027 Ryder Cup is one year away but a key battle between Jim Furyk and Luke Donald has already begun and will continue for the next year. The post The first important battle of the 2027 Ryder Cup is underway appeared first on Golf .",
+        "body": "Jim Furyk didn’t waste any time beating around the bush. The American Ryder Cup team has had “issues” lately, particularly in foursomes, and changes are coming. Furyk promised that this American Ryder Cup team will be “prepared” when it arrives at Adare Manor in 2027. Then, Furyk made the first move in the opening battle for the 2027 Ryder Cup.\n\n“We’re the underdogs. I know it’s always been played, we come in, the Americans seem to be the favorites,” Furyk said this week at the “Year to Go” Ryder Cup press conference. “This year, there’s no chance that that could happen. We’re the underdogs. We understand that. We’ve got a lot of work ahead of us. And you know, I’m excited about that process. I’m a process guy and kind of get ducks in a row and put these guys in a good position and let our guys go out and show their talent.”",
+        "copy": "Jim Furyk didn’t waste any time beating around the bush. The American Ryder Cup team has had “issues” lately, particularly in foursomes, and changes are coming. Furyk promised that this American Ryder Cup team will be “prepared” when it arrives at Adare Manor in 2027. Then, Furyk made the first move in the opening battle for the 2027 Ryder Cup.\n\n“We’re the underdogs. I know it’s always been played, we come in, the Americans seem to be the favorites,” Furyk said this week at the “Year to Go” Ryder Cup press conference. “This year, there’s no chance that that could happen. We’re the underdogs. We understand that. We’ve got a lot of work ahead of us. And you know, I’m excited about that process. I’m a process guy and kind of get ducks in a row and put these guys in a good position and let our guys go out and show their talent.”",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Pro explains how unique putter setup led to first victory",
+        "link": "https://golf.com/news/pro-explains-unique-putter-setup-first-victory/",
+        "published": "2026-10-10T18:46:41+00:00",
+        "published_label": "Sat 10 Oct, 18:46",
+        "summary": "Alistair Docherty joined GOLF's Subpar podcast to discuss finally earning his PGA Tour card, his unique putter setup and more. The post Pro explains how unique putter setup led to first victory appeared first on Golf .",
+        "body": "Alistair Docherty had a strong start to his 2026 Korn Ferry Tour season with a T2 finish in the Bahamas in his second start of the year, but two straight missed cuts followed and he went searching for answers.\n\n“I was working with a putting coach this offseason, and we were doing a bunch of drills, and I just couldn’t get my hands to sit properly,” Docherty explained on the latest episode of GOLF’s Subpar podcast. “I kept hitting the tees, I couldn’t get it started on line. And I grabbed a wedge, and I told him, ‘I putt so good with a wedge, what’s the difference?'”",
+        "copy": "Alistair Docherty had a strong start to his 2026 Korn Ferry Tour season with a T2 finish in the Bahamas in his second start of the year, but two straight missed cuts followed and he went searching for answers.\n\n“I was working with a putting coach this offseason, and we were doing a bunch of drills, and I just couldn’t get my hands to sit properly,” Docherty explained on the latest episode of GOLF’s Subpar podcast. “I kept hitting the tees, I couldn’t get it started on line. And I grabbed a wedge, and I told him, ‘I putt so good with a wedge, what’s the difference?'”",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Baycurrent Classic purse: Payout breakdown, winner's share",
+        "link": "https://golf.com/news/2026-baycurrent-classic-purse-payout/",
+        "published": "2026-10-10T18:07:51+00:00",
+        "published_label": "Sat 10 Oct, 18:07",
+        "summary": "Here's the total purse, payout breakdown and winner's share for the 2026 Baycurrent Classic at Yokohama Country Club in Japan. The post 2026 Baycurrent Classic purse: Payout breakdown, winner’s share appeared first on Golf .",
+        "body": "Someone’s leaving Japan with a big paycheck. The 2026 Baycurrent Classic finishes at Yokohama Country Club in Yokohama, Japan, on Sunday, although those in the U.S. will have to stay up late Saturday and into Sunday morning to watch the finish on TV.\n\nMichael Brennan, Zach Bauchou and Jacob Bridgeman share the 54-hole lead at 13 under, with five others one stroke behind. That group includes major-winners like Justin Thomas and Adam Scott.",
+        "copy": "Someone’s leaving Japan with a big paycheck. The 2026 Baycurrent Classic finishes at Yokohama Country Club in Yokohama, Japan, on Sunday, although those in the U.S. will have to stay up late Saturday and into Sunday morning to watch the finish on TV.\n\nMichael Brennan, Zach Bauchou and Jacob Bridgeman share the 54-hole lead at 13 under, with five others one stroke behind. That group includes major-winners like Justin Thomas and Adam Scott.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf player joins growing list of those saying they're leaving",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1gzUGlwamlMbUdVcWRPVnNMbEhfRWFyVHBSTjVHakRLa2tucFRCTW4zZmhsMFhXekZqaXhEejZOUTdadXl5MExILVA3dms1LTJFVXhnUmdmU2dPWGFka0NaSEwwaDl1S2RDZnBBTXZkbC01cTg2VmdyY2d6ckZuX3NvN2F1eHdiWl8tNFd5bEN1dG54djR5anZ1SV9fa0MtazlFRTVJaF9HaXBkT2h5eE1wX0lLYWhHMUZSTVJOcWFnME5JQ3Nv?oc=5",
+        "published": "2026-10-10T17:45:00+00:00",
+        "published_label": "Sat 10 Oct, 17:45",
+        "summary": "LIV Golf player joins growing list of those saying they're leaving Golfweek",
+        "body": "- LIV Golf player David Puig has announced he will not remain with the league as it restructures into \"LIV 2.0\". - The DP World Tour is emerging as a potential landing spot for players looking to exit LIV Golf.\n\n- Puig joins other notable players like Jon Rahm and Sergio Garcia who are also leaving the LIV circuit. - An October 25 deadline looms for players to commit to the restructured LIV league, which is crucial for its new business model.",
+        "copy": "- LIV Golf player David Puig has announced he will not remain with the league as it restructures into \"LIV 2.0\". - The DP World Tour is emerging as a potential landing spot for players looking to exit LIV Golf.\n\n- Puig joins other notable players like Jon Rahm and Sergio Garcia who are also leaving the LIV circuit. - An October 25 deadline looms for players to commit to the restructured LIV league, which is crucial for its new business model.",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Baycurrent Classic Saturday TV coverage: How to watch Round 4",
+        "link": "https://golf.com/news/2026-baycurrent-classic-saturday-tv-coverage-watch/",
+        "published": "2026-10-10T17:20:57+00:00",
+        "published_label": "Sat 10 Oct, 17:20",
+        "summary": "The final round of the Baycurrent Classic in Japan begins Saturday night in the U.S. Here's how to watch it and tee times for Round 4. The post 2026 Baycurrent Classic Saturday TV coverage: How to watch Round 4 appeared first on Golf .",
+        "body": "The Baycurrent Classic at Yokohama Country Club concludes on Sunday in Yokohama, Japan, which means golf fans in the U.S. can watch late Saturday night and into Sunday morning. Here’s how to watch, including streaming options and tee times.\n\nCan Jacob Bridgeman win for the third time this season? Can Michael Brennan win for the second time in 2026? Or will Zach Bauchou, the other player tied for the 54-hole lead, win his first tournament on the PGA Tour?",
+        "copy": "The Baycurrent Classic at Yokohama Country Club concludes on Sunday in Yokohama, Japan, which means golf fans in the U.S. can watch late Saturday night and into Sunday morning. Here’s how to watch, including streaming options and tee times.\n\nCan Jacob Bridgeman win for the third time this season? Can Michael Brennan win for the second time in 2026? Or will Zach Bauchou, the other player tied for the 54-hole lead, win his first tournament on the PGA Tour?",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "As Jon Rahm exits LIV Golf, the PGA Tour's big unanswered question takes center stage",
+        "link": "https://golf.com/news/jon-rahm-liv-golf-exit-pga-tour-question/",
+        "published": "2026-10-10T17:09:08+00:00",
+        "published_label": "Sat 10 Oct, 17:09",
+        "summary": "Jon Rahm is leaving LIV Golf and others are following. With an exodus underway, the PGA Tour's unanswered question takes center stage. The post As Jon Rahm exits LIV Golf, the PGA Tour’s big unanswered question takes center stage appeared first on Golf .",
+        "body": "Xander Schauffele knows it’s a big deal in the grand scheme of professional golf. But he also isn’t one to spend too much time focusing on things outside his control. So when Jon Rahm’s attorneys announced earlier this week that the two-time major winner wouldn’t take part in LIV Golf 2.0 because he found the terms “unacceptable,” Schauffele didn’t think much of it. Golf’s civil conflict has ended, and those who left the PGA Tour for large sums of guaranteed money will now be looking for new homes.\n\nSelf-preservation has been the underlying theme of professional golf over the last four years. Everyone just went about it in their own way. “He’s clearly done whatever’s best for himself, just like all of us,” Schauffele said of Rahm’s LIV departure after the third round of the Baycurrent Classic in Japan. “I’m sure he’ll just play DP [World Tour], is my guess, DP World Tour. I don’t know if the [PGA Tour] has offered him a spot like they had that window before. Yeah, he’s just doing whatever he thinks is best for himself; it’s kind of that.”",
+        "copy": "Xander Schauffele knows it’s a big deal in the grand scheme of professional golf. But he also isn’t one to spend too much time focusing on things outside his control. So when Jon Rahm’s attorneys announced earlier this week that the two-time major winner wouldn’t take part in LIV Golf 2.0 because he found the terms “unacceptable,” Schauffele didn’t think much of it. Golf’s civil conflict has ended, and those who left the PGA Tour for large sums of guaranteed money will now be looking for new homes.\n\nSelf-preservation has been the underlying theme of professional golf over the last four years. Everyone just went about it in their own way. “He’s clearly done whatever’s best for himself, just like all of us,” Schauffele said of Rahm’s LIV departure after the third round of the Baycurrent Classic in Japan. “I’m sure he’ll just play DP [World Tour], is my guess, DP World Tour. I don’t know if the [PGA Tour] has offered him a spot like they had that window before. Yeah, he’s just doing whatever he thinks is best for himself; it’s kind of that.”",
+        "first_seen": "2026-10-10T21:07:46.704040+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -6244,84 +6348,6 @@
         "body": "Michael Block’s PGA Tour Champions debut in June ended in a 54th-hole disaster at the Dick’s Open, when he made a triple bogey to finish T9. Afterward, Block, who played the event on a sponsor’s invite, said he was frustrated with his finish not only because it took him out of title contention, but because it made his overall goal less attainable.\n\n“That cost me a lot of points, a lot of money, a lot of everything, which is very frustrating. I’m just here trying to make my way possibly onto this tour and that hurt a lot,” Block said.",
         "copy": "Michael Block’s PGA Tour Champions debut in June ended in a 54th-hole disaster at the Dick’s Open, when he made a triple bogey to finish T9. Afterward, Block, who played the event on a sponsor’s invite, said he was frustrated with his finish not only because it took him out of title contention, but because it made his overall goal less attainable.\n\n“That cost me a lot of points, a lot of money, a lot of everything, which is very frustrating. I’m just here trying to make my way possibly onto this tour and that hurt a lot,” Block said.",
         "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "LIV Golf Leaderboard At The Alfred Dunhill Links Championship",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWlnU04taVlHTUhhSTJCZ3dfblB4cGl3WmplUEJOSGhRb2g2TzRwelMtNTdMbEFQUFNBRHEzVEZLZHgtQUQ4WnpDUXVHNVRTcmluTGFQNE5mZzNEdGgzLXhkdXBzQXdYYkltbldJV0pKZlprV1liQzc2eEIwcjlsQVBYTlVTU0h2eXctV1A0SElER3NhX2t6QTdB?oc=5",
-        "published": "2026-10-03T20:33:05+00:00",
-        "published_label": "Sat 03 Oct, 20:33",
-        "summary": "LIV Golf Leaderboard At The Alfred Dunhill Links Championship Golf Monthly",
-        "body": "The Alfred Dunhill Links Championship features some of the world's best players. Among them are the likes of defending champion Robert MacIntyre, Matt Fitzpatrick and Tommy Fleetwood.\n\nLIV Golf is also well represented, with 22 full-time members of its roster and four reserves beginning the tournament. With just 18 holes remaining of the event - which has been played at Carnoustie, Kingsbarns and the Old Course, St Andrews - several LIV Golfers still harbor ambitions of the title.",
-        "copy": "The Alfred Dunhill Links Championship features some of the world's best players. Among them are the likes of defending champion Robert MacIntyre, Matt Fitzpatrick and Tommy Fleetwood.\n\nLIV Golf is also well represented, with 22 full-time members of its roster and four reserves beginning the tournament. With just 18 holes remaining of the event - which has been played at Carnoustie, Kingsbarns and the Old Course, St Andrews - several LIV Golfers still harbor ambitions of the title.",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "The key move that boosts swing speed — and the tool that can help train it",
-        "link": "https://golf.com/gear/swing-speed-move-tool-power-plate/",
-        "published": "2026-10-03T20:31:10+00:00",
-        "published_label": "Sat 03 Oct, 20:31",
-        "summary": "Learn how the Why Golf Power Plate can help you improve your weight shift, boost ball contact and create more power in your swing. The post The key move that boosts swing speed — and the tool that can help train it appeared first on Golf .",
-        "body": "If you’re looking for more speed and better contact, the answer isn’t just to swing harder. A big part of the equation is learning how to move pressure through your feet and into your lead side before impact. When that sequence is right, it becomes easier to deliver the club with a stable lower body, find the center of the face and compress the ball instead of catching it fat or thin. That’s the idea behind Why Golf’s Power Plate.\n\nThe training aid sets your feet on a slight incline, giving you an exaggerated feel for a proper weight shift in your swing. First, the incline makes it easier to shift your weight back into your trail leg. Then the goal is simple: move that pressure into your lead side without letting your body slide away from the target.",
-        "copy": "If you’re looking for more speed and better contact, the answer isn’t just to swing harder. A big part of the equation is learning how to move pressure through your feet and into your lead side before impact. When that sequence is right, it becomes easier to deliver the club with a stable lower body, find the center of the face and compress the ball instead of catching it fat or thin. That’s the idea behind Why Golf’s Power Plate.\n\nThe training aid sets your feet on a slight incline, giving you an exaggerated feel for a proper weight shift in your swing. First, the incline makes it easier to shift your weight back into your trail leg. Then the goal is simple: move that pressure into your lead side without letting your body slide away from the target.",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "1 mental trick for playing consistent, high-level golf",
-        "link": "https://golf.com/instruction/1-mental-trick-playing-consistent-golf-subpar/",
-        "published": "2026-10-03T19:38:38+00:00",
-        "published_label": "Sat 03 Oct, 19:38",
-        "summary": "What's the key to playing consistent, high-level golf? On the latest Subpar, Colt Knost and Drew Stoltz shared their mental trick for staying even-keeled. The post 1 mental trick for playing consistent, high-level golf appeared first on Golf .",
-        "body": "Both Colt Knost and Drew Stoltz know how difficult it is to play quality, high-level golf consistently and not let a bad shot, bad hole or bad tournament drag you down. Staying even-keeled and not riding an emotional roller coaster is often what separates good players from great ones, both in the professional and amateur ranks.\n\nSo, what’s the key to playing consistent, high-level golf? On the latest episode of GOLF’s Subpar Podcast, Knost and Stoltz answered a Subpar Hotline question from college coach Ethan Blair and shared one key mental trick they both use to stay even-keeled on the course. It all boils down to narrowing your focus.",
-        "copy": "Both Colt Knost and Drew Stoltz know how difficult it is to play quality, high-level golf consistently and not let a bad shot, bad hole or bad tournament drag you down. Staying even-keeled and not riding an emotional roller coaster is often what separates good players from great ones, both in the professional and amateur ranks.\n\nSo, what’s the key to playing consistent, high-level golf? On the latest episode of GOLF’s Subpar Podcast, Knost and Stoltz answered a Subpar Hotline question from college coach Ethan Blair and shared one key mental trick they both use to stay even-keeled on the course. It all boils down to narrowing your focus.",
-        "first_seen": "2026-10-04T11:46:06.859226+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "England's Jordan in contention at Alfred Dunhill Links",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/ck0j0pyn63j8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-03T18:44:51+00:00",
-        "published_label": "Sat 03 Oct, 18:44",
-        "summary": "England's Matthew Jordan is two shots off the lead heading into the final round of the Alfred Dunhill Links Championship.",
-        "body": "England's Matthew Jordan is two shots off the lead heading into the final round of the Alfred Dunhill Links Championship. The 30-year-old made a six-under-par 66 to finish the day 16 under, which kept the pressure on leader Casey Jarvis of South Africa.\n\nPoland's Adrian Meronk, who shot the joint-best round of the day with a nine-under 63, is also 16 under. Belgium's Thomas Detry is a further shot back on 15 under after a seven-under 65 at St Andrews.",
-        "copy": "England's Matthew Jordan is two shots off the lead heading into the final round of the Alfred Dunhill Links Championship. The 30-year-old made a six-under-par 66 to finish the day 16 under, which kept the pressure on leader Casey Jarvis of South Africa.\n\nPoland's Adrian Meronk, who shot the joint-best round of the day with a nine-under 63, is also 16 under. Belgium's Thomas Detry is a further shot back on 15 under after a seven-under 65 at St Andrews.",
-        "first_seen": "2026-10-03T19:00:19.445587+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Tom Kim's life-changing Asian Games win started with a message from Tiger Woods",
-        "link": "https://golf.com/news/tom-kim-asian-games-tiger-woods/",
-        "published": "2026-10-03T18:42:56+00:00",
-        "published_label": "Sat 03 Oct, 18:42",
-        "summary": "Tom Kim won gold at the Asian Games to earn an exemption from military service. His life-changing Saturday started with a message from Tiger. The post Tom Kim’s life-changing Asian Games win started with a message from Tiger Woods appeared first on Golf .",
-        "body": "Tom Kim’s last PGA Tour win, which came at the co-sanctioned Genesis Scottish Open in July, ended with a congratulatory text from Tiger Woods. On Saturday, as Kim prepared for a career-altering round at the 2026 Asian Games, Woods sent him a different message.\n\n“Just be you. Nothing more, nothing less,” the message from Woods said, via Korea’s Yonhap News Agency. Kim arrived in Japan for this week’s Asian Games under immense pressure. South Korean men between the ages of 18 and 35 are required to serve up to 21 months in the defense forces. PGA Tour pros Sangmoon Bae and Seung-yul Noh served during their prime and it impacted their golf. But the South Korean government awards exemptions to athletes who win a gold medal at the Asian Games or any of the three medals at the Olympics. Si Woo Kim and Sunjae Im won a gold medal in the team competition at the 2023 Asian Games, earning an exemption from military service.",
-        "copy": "Tom Kim’s last PGA Tour win, which came at the co-sanctioned Genesis Scottish Open in July, ended with a congratulatory text from Tiger Woods. On Saturday, as Kim prepared for a career-altering round at the 2026 Asian Games, Woods sent him a different message.\n\n“Just be you. Nothing more, nothing less,” the message from Woods said, via Korea’s Yonhap News Agency. Kim arrived in Japan for this week’s Asian Games under immense pressure. South Korean men between the ages of 18 and 35 are required to serve up to 21 months in the defense forces. PGA Tour pros Sangmoon Bae and Seung-yul Noh served during their prime and it impacted their golf. But the South Korean government awards exemptions to athletes who win a gold medal at the Asian Games or any of the three medals at the Olympics. Si Woo Kim and Sunjae Im won a gold medal in the team competition at the 2023 Asian Games, earning an exemption from military service.",
-        "first_seen": "2026-10-03T19:00:19.445587+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "Should Geoff Ogilvy return as International captain in 2028? | Subpar",
-        "link": "https://golf.com/news/should-geoff-ogilvy-return-international-captain-2028/",
-        "published": "2026-10-03T17:48:55+00:00",
-        "published_label": "Sat 03 Oct, 17:48",
-        "summary": "Should Geoff Ogilvy get another shot as Internaional Presidents Cup captain? Colt Knost and Drew Stoltz debated that on a new episode of GOLF's Subpar podcast. The post Should Geoff Ogilvy return as International captain in 2028? | Subpar appeared first on Golf .",
-        "body": "Geoff Ogilvy nearly led the International team to a decades-long, drought-busting victory at the 2026 Presidents Cup. In the end, the U.S. team won 17-13. But if not for a furious American charge in Sunday singles, Ogilvy’s captaincy would be remembered forever around the world.\n\nThe fact is the former U.S. Open champion seemed to do everything right the first three days of the Presidents Cup. Heading into Sunday, he had the Americans embarrassed, and Brandt Snedeker, his captain counterpart on the U.S. side, apologizing for mistakes.",
-        "copy": "Geoff Ogilvy nearly led the International team to a decades-long, drought-busting victory at the 2026 Presidents Cup. In the end, the U.S. team won 17-13. But if not for a furious American charge in Sunday singles, Ogilvy’s captaincy would be remembered forever around the world.\n\nThe fact is the former U.S. Open champion seemed to do everything right the first three days of the Presidents Cup. Heading into Sunday, he had the Americans embarrassed, and Brandt Snedeker, his captain counterpart on the U.S. side, apologizing for mistakes.",
-        "first_seen": "2026-10-03T19:00:19.445587+00:00"
       }
     ],
     "Badminton": [
@@ -6805,19 +6831,6 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "‘It’s a Dream Coming True’",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HRFZDYkp1dmNUdFpoS201OWlTY2FZanc1WkxTZDNnYzgxd2lXSUxmeE5wWFdDaGdrdFB5LWt0Tlc1UWx5eWpESGI4TTV0aDNLemNQV3VKQW1JZHVEZGVmRGRxS0RhckhER3ZtaklNX2ZzdFU?oc=5",
-        "published": "2026-10-03T17:47:11+00:00",
-        "published_label": "Sat 03 Oct, 17:47",
-        "summary": "‘It’s a Dream Coming True’ BWF",
-        "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-10-04T20:52:23.029199+00:00"
       }
     ],
     "Competitor News": [
@@ -6875,5 +6888,5 @@
       }
     ]
   },
-  "total": 527
+  "total": 528
 }
