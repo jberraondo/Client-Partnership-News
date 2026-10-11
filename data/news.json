@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T14:17:11.306290+00:00",
-  "generated_label": "Sunday 11 October 2026, 14:17 UTC",
+  "generated_at": "2026-10-11T18:37:33.132609+00:00",
+  "generated_label": "Sunday 11 October 2026, 18:37 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -12,6 +12,19 @@
   ],
   "sections": {
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Russia ‘interfered’ in 2016 Brexit vote, says Andy Burnham",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzFSSUo5VUU2a241aGtZS3BFX1dUaEhQNnJtUzVNdVB5aTd4ZDlBdjlYVVFjYmhwak91c0V5blduUW5OSzNPN0RWMUYwVGZTaFRnN1ROZDJRRGFMeFdCSFFnUWEtOXNrZlVfUy1vdW9wYU03cHFtNzlrVjBndTJMNmFLU2Q?oc=5",
+        "published": "2026-10-11T14:50:05+00:00",
+        "published_label": "Sun 11 Oct, 14:50",
+        "summary": "Russia ‘interfered’ in 2016 Brexit vote, says Andy Burnham Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Financial Times",
@@ -1682,6 +1695,71 @@
         "section": "Rugby",
         "source": "Rugby Pass",
         "kind": "direct",
+        "title": "Sale Sharks heap more misery on troubled Harlequins",
+        "link": "https://www.rugbypass.com/news/sale-sharks-heap-more-misery-on-troubled-harlequins/",
+        "published": "2026-10-11T16:54:50+00:00",
+        "published_label": "Sun 11 Oct, 16:54",
+        "summary": "Harlequins’ troubled start to the Gallagher Prem season continued with a third successive loss of the campaign against Sale at CorpAcq Stadium in Salford.",
+        "body": "Harlequins’ troubled start to the Gallagher Prem season continued with a third successive loss of the campaign against Sale at CorpAcq Stadium in Salford. The Sharks left it late but came from behind to snatch a 28-24 success with a 73rd-minute penalty try, after the returning Marcus Smith had touched down twice in the opening quarter to threaten a shock win for the visitors.\n\nAfter their opening-day reverse to Bristol at home, Sale have bounced back strongly with back-to-back wins over Saracens and Quins. But despite their first points of the season, the loss leaves Jason Gilmore’s team – who suffered their worst league defeat in 26 years last weekend, a 48-0 humbling by Gloucester – rooted to the foot of the table.",
+        "copy": "Harlequins’ troubled start to the Gallagher Prem season continued with a third successive loss of the campaign against Sale at CorpAcq Stadium in Salford. The Sharks left it late but came from behind to snatch a 28-24 success with a 73rd-minute penalty try, after the returning Marcus Smith had touched down twice in the opening quarter to threaten a shock win for the visitors.\n\nAfter their opening-day reverse to Bristol at home, Sale have bounced back strongly with back-to-back wins over Saracens and Quins. But despite their first points of the season, the loss leaves Jason Gilmore’s team – who suffered their worst league defeat in 26 years last weekend, a 48-0 humbling by Gloucester – rooted to the foot of the table.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Exeter Chiefs pip Newcastle Red Bulls despite Christian Wade hat-trick",
+        "link": "https://www.rugbypass.com/news/exeter-edge-out-newcastle-despite-christian-wade-hat-trick/",
+        "published": "2026-10-11T16:48:40+00:00",
+        "published_label": "Sun 11 Oct, 16:48",
+        "summary": "A hat-trick from Newcastle wing Christian Wade was not enough to stop Exeter claiming their first Gallagher Prem win of the season as they edged a topsy-turvy game at Sandy Park 34-28.",
+        "body": "A hat-trick from Newcastle wing Christian Wade was not enough to stop Exeter claiming their first Gallagher Prem win of the season as they edged a topsy-turvy game at Sandy Park 34-28.\n\nThe lead frequently changed hands and it was not until the dying stages that the Chiefs were able to seal victory. Max Hicks scored Newcastle’s other try, with Zack Henry converting all four to secure two valuable bonus points.",
+        "copy": "A hat-trick from Newcastle wing Christian Wade was not enough to stop Exeter claiming their first Gallagher Prem win of the season as they edged a topsy-turvy game at Sandy Park 34-28.\n\nThe lead frequently changed hands and it was not until the dying stages that the Chiefs were able to seal victory. Max Hicks scored Newcastle’s other try, with Zack Henry converting all four to secure two valuable bonus points.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Late Sale penalty try continues Harlequins woes",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwe9lgx1rjk2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-11T16:21:30+00:00",
+        "published_label": "Sun 11 Oct, 16:21",
+        "summary": "Harlequins' poor start to the Prem season continues with a third successive loss of the campaign against Sale at CorpAcq Stadium.",
+        "body": "Harlequins' poor start to the Prem season continued with a third successive loss of the campaign against Sale at CorpAcq Stadium. The Sharks came from behind to win the game with a 73rd-minute penalty try after the returning Marcus Smith had touched down twice in the opening quarter to give Quins an early lead.\n\nAfter their opening-day reverse to Bristol at home, Sale have bounced back strongly with back-to-back wins over Saracens and Quins. Despite their first points of the season, the loss leaves Quins rooted to the foot of the table.",
+        "copy": "Harlequins' poor start to the Prem season continued with a third successive loss of the campaign against Sale at CorpAcq Stadium. The Sharks came from behind to win the game with a 73rd-minute penalty try after the returning Marcus Smith had touched down twice in the opening quarter to give Quins an early lead.\n\nAfter their opening-day reverse to Bristol at home, Sale have bounced back strongly with back-to-back wins over Saracens and Quins. Despite their first points of the season, the loss leaves Quins rooted to the foot of the table.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Wade scores 100th Prem try as Newcastle lose to Exeter",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c32l49evnq5vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-11T16:05:25+00:00",
+        "published_label": "Sun 11 Oct, 16:05",
+        "summary": "Christian Wade becomes just the second player to score 100 Prem Rugby tries after getting a hat-trick in Newcastle Red Bulls' 34-28 loss at Exeter.",
+        "body": "Christian Wade became just the second player to score 100 Prem Rugby tries after getting a hat-trick in Newcastle Red Bulls' 34-28 defeat at Exeter. Wade, 35, went over twice in the first half - his second giving the Red Bulls a two-point half-time lead - before pouncing on a Henry Slade error to race in for a third early in the second half.\n\nNewcastle's former England winger is now just one try off the all-time Prem try record of 101 set by Chris Ashton at Exeter in April 2023. Wade, who spent four years trying to break into the NFL from 2018, returned to the Prem in 2024 with Gloucester after two years at French side Racing 92, last year moving to Newcastle after a brief spell at rugby league's Wigan Warriors.",
+        "copy": "Christian Wade became just the second player to score 100 Prem Rugby tries after getting a hat-trick in Newcastle Red Bulls' 34-28 defeat at Exeter. Wade, 35, went over twice in the first half - his second giving the Red Bulls a two-point half-time lead - before pouncing on a Henry Slade error to race in for a third early in the second half.\n\nNewcastle's former England winger is now just one try off the all-time Prem try record of 101 set by Chris Ashton at Exeter in April 2023. Wade, who spent four years trying to break into the NFL from 2018, returned to the Prem in 2024 with Gloucester after two years at French side Racing 92, last year moving to Newcastle after a brief spell at rugby league's Wigan Warriors.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "Jacob Stockdale: 'It’s something that I’m never going to forget'",
+        "link": "https://www.rugbypass.com/news/jacob-stockdale-its-something-that-im-never-going-to-forget/",
+        "published": "2026-10-11T15:15:55+00:00",
+        "published_label": "Sun 11 Oct, 15:15",
+        "summary": "Jacob Stockdale reflected on an \"amazing\" night he will never forget after marking his 150th appearance for Ulster with a try double.",
+        "body": "Jacob Stockdale reflected on an “amazing” night he will never forget after marking his 150th appearance for Ulster with a try double. The Irish international winger touched down in either half in Belfast as Ulster turned around a 26-5 interval deficit to draw 26-26 with Munster.\n\nStockdale, who made his debut for the province a decade ago, came out onto the field with his two young daughters ahead of the game and it was clearly an emotional occasion for him.",
+        "copy": "Jacob Stockdale reflected on an “amazing” night he will never forget after marking his 150th appearance for Ulster with a try double. The Irish international winger touched down in either half in Belfast as Ulster turned around a 26-5 interval deficit to draw 26-26 with Munster.\n\nStockdale, who made his debut for the province a decade ago, came out onto the field with his two young daughters ahead of the game and it was clearly an emotional occasion for him.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
         "title": "'We addressed the mood': Scottish rugby enters unchartered URC waters",
         "link": "https://www.rugbypass.com/news/we-addressed-the-mood-scottish-rugby-enters-unchartered-urc-waters/",
         "published": "2026-10-11T14:09:59+00:00",
@@ -1690,6 +1768,19 @@
         "body": "Edinburgh Rugby are in uncharted waters at the top of the BKT URC having won their opening three league matches for the first time in more than a decade. You have to go back to 2015 and the days of the old PRO12 for the last time the Scottish side kicked off with three successive victories.\n\nMoreover, they are the only team in the competition to have won all of their matches so far this season. They continued their dream start by claiming a 29-12 bonus point victory over their bogey side Zebre Parma out in Italy to back up triumphs over Ulster Rugby and the DHL Stormers.",
         "copy": "Edinburgh Rugby are in uncharted waters at the top of the BKT URC having won their opening three league matches for the first time in more than a decade. You have to go back to 2015 and the days of the old PRO12 for the last time the Scottish side kicked off with three successive victories.\n\nMoreover, they are the only team in the competition to have won all of their matches so far this season. They continued their dream start by claiming a 29-12 bonus point victory over their bogey side Zebre Parma out in Italy to back up triumphs over Ulster Rugby and the DHL Stormers.",
         "first_seen": "2026-10-11T14:17:11.306290+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Davies urged to reverse retirement for World Cup",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crq8nyy254y3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-11T14:06:04+00:00",
+        "published_label": "Sun 11 Oct, 14:06",
+        "summary": "Ex-Wales hooker Scott Baldwin is convinced the 36-year-old's World Cup know-how can still help Wales in Australia.",
+        "body": "Gareth Davies has been urged to rethink his international retirement for the 2027 World Cup by former Wales team-mate Scott Baldwin. The 36-year-old scrum-half sparked a Scarlets comeback from 21-7 down to beat Benetton in the United Rugby Championship on Saturday.\n\nDavies retired from Test rugby in 2024 but ex-Wales hooker Baldwin believes the veteran could still thrive at a fourth World Cup next year. \"He could be just what you want in a quarter-final of a World Cup, in a Wales-England fixture in 12 months' time,\" Baldwin told BBC Radio Wales Sport.",
+        "copy": "Gareth Davies has been urged to rethink his international retirement for the 2027 World Cup by former Wales team-mate Scott Baldwin. The 36-year-old scrum-half sparked a Scarlets comeback from 21-7 down to beat Benetton in the United Rugby Championship on Saturday.\n\nDavies retired from Test rugby in 2024 but ex-Wales hooker Baldwin believes the veteran could still thrive at a fourth World Cup next year. \"He could be just what you want in a quarter-final of a World Cup, in a Wales-England fixture in 12 months' time,\" Baldwin told BBC Radio Wales Sport.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
       },
       {
         "section": "Rugby",
@@ -1820,6 +1911,19 @@
         "body": "The All Blacks have been forced to make four changes to their travelling squad for the second Bledisloe Cup Test against the Wallabies in Sydney. Ethan Blackadder, Anton Segner, Leroy Carter, and Asafo Aumua will all stay in Auckland ahead of the second Test, with Du’Plessis Kirifi, Jamie Hannah, Anton Lienert-Brown, and George Bell joining Dave Rennie’s team in Sydney.\n\nIt’s Kirifi’s first call-up in 2026, after being consistently overlooked by Rennie and his coaching staff. The loose-forward hasn’t featured for the All Blacks since the 2025 end-of-year tour under former head coach Scott Robertson.",
         "copy": "The All Blacks have been forced to make four changes to their travelling squad for the second Bledisloe Cup Test against the Wallabies in Sydney. Ethan Blackadder, Anton Segner, Leroy Carter, and Asafo Aumua will all stay in Auckland ahead of the second Test, with Du’Plessis Kirifi, Jamie Hannah, Anton Lienert-Brown, and George Bell joining Dave Rennie’s team in Sydney.\n\nIt’s Kirifi’s first call-up in 2026, after being consistently overlooked by Rennie and his coaching staff. The loose-forward hasn’t featured for the All Blacks since the 2025 end-of-year tour under former head coach Scott Robertson.",
         "first_seen": "2026-10-11T12:04:10.131091+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Ulster playing games like training sessions",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw4g131jg6y8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-10T21:07:06+00:00",
+        "published_label": "Sat 10 Oct, 21:07",
+        "summary": "Head coach Richie Murphy says UIster are \"playing matches like training sessions\" as he expresses his disappointment after Saturday's 26-26 draw with Munster in Belfast.",
+        "body": "Head coach Richie Murphy says Ulster are \"playing matches like they're training sessions\" as he expressed his disappointment with his side's slow start in Saturday's 26-26 draw with Munster in Belfast.\n\nTrailing by 21 points at the break, Ulster hit back as Jacob Stockdale scored his second try of the game before David McCann and Stuart McCloskey struck to earn a second successive United Rugby Championship draw.",
+        "copy": "Head coach Richie Murphy says Ulster are \"playing matches like they're training sessions\" as he expressed his disappointment with his side's slow start in Saturday's 26-26 draw with Munster in Belfast.\n\nTrailing by 21 points at the break, Ulster hit back as Jacob Stockdale scored his second try of the game before David McCann and Stuart McCloskey struck to earn a second successive United Rugby Championship draw.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
       },
       {
         "section": "Rugby",
@@ -4017,87 +4121,35 @@
         "body": "All Blacks first-five Ruben Love has been ruled out for the remainder of 2026 with an ankle injury. All Blacks head coach Dave Rennie did not name Love for the 2026 Bledisloe Cup series, as he nurses a recurring ankle injury he suffered during the Super Rugby Pacific season.\n\nThe Hurricanes playmaker impressed for the All Blacks during his six Test starts in 2026, trusted by Rennie for the big games despite having the experienced Beauden Barrett, Damian McKenzie, and Richie Mo’unga available.",
         "copy": "All Blacks first-five Ruben Love has been ruled out for the remainder of 2026 with an ankle injury. All Blacks head coach Dave Rennie did not name Love for the 2026 Bledisloe Cup series, as he nurses a recurring ankle injury he suffered during the Super Rugby Pacific season.\n\nThe Hurricanes playmaker impressed for the All Blacks during his six Test starts in 2026, trusted by Rennie for the big games despite having the experienced Beauden Barrett, Damian McKenzie, and Richie Mo’unga available.",
         "first_seen": "2026-10-04T20:52:23.029199+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Alex Sanderson feels Nathan Jibulu could soon ‘explode onto international scene’",
-        "link": "https://www.rugbypass.com/news/alex-sanderson-feels-nathan-jibulu-could-soon-explode-onto-international-scene/",
-        "published": "2026-10-04T18:05:00+00:00",
-        "published_label": "Sun 04 Oct, 18:05",
-        "summary": "Sale director of rugby Alex Sanderson is backing Nathan Jibulu to make his England debut in time to be considered for next year’s World Cup after acclaiming his star turn against Saracens.",
-        "body": "Sale director of rugby Alex Sanderson is backing Nathan Jibulu to make his England debut in time to be considered for next year’s World Cup after acclaiming his star turn against Saracens.\n\nJibulu was named man of the match in the 21-17 Gallagher Prem victory at StoneX Stadium following a rampaging performance that was accompanied by accuracy at the line-out. The 23-year-old excelled with England head coach Steve Borthwick watching from the stands as the picture at hooker became more complicated.",
-        "copy": "Sale director of rugby Alex Sanderson is backing Nathan Jibulu to make his England debut in time to be considered for next year’s World Cup after acclaiming his star turn against Saracens.\n\nJibulu was named man of the match in the 21-17 Gallagher Prem victory at StoneX Stadium following a rampaging performance that was accompanied by accuracy at the line-out. The 23-year-old excelled with England head coach Steve Borthwick watching from the stands as the picture at hooker became more complicated.",
-        "first_seen": "2026-10-04T20:52:23.029199+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Sale Sharks player ratings vs Saracens | 2026/27 Gallagher PREM",
-        "link": "https://www.rugbypass.com/news/sale-sharks-player-ratings-vs-saracens-2026-27-gallagher-prem/",
-        "published": "2026-10-04T17:57:50+00:00",
-        "published_label": "Sun 04 Oct, 17:57",
-        "summary": "Eight days removed from a frustrating home loss to open the season, Alex Sanderson's Sale Sharks pulled off the rarest of away wins at the Stone-X to down Saracens 21 - 17.",
-        "body": "Eight days removed from a frustrating home loss to open the season, Alex Sanderson’s Sale Sharks pulled off the rarest of away wins at the Stone-X to down Saracens 21 – 17. Built on a foundation of defensive belligerence, the Sharks led by Tom Curry, Joe Marchant and Courtney Lawes battered the Saracens attack. Stunting any really opportunities to get flow into their attack, the Sharks overcame a two man deficit to limit Saracens to just five points at half-time.\n\nComing out of the blocks quickly in the second half through a moment of magic by Tom O’Flaherty, the visitors had their tails up. A try by Sione Va’enuku brought the home side back to within a score three minutes later but as had been the case all afternoon, Sanderson’s side responded through Ben Bamber in the 65th minute.",
-        "copy": "Eight days removed from a frustrating home loss to open the season, Alex Sanderson’s Sale Sharks pulled off the rarest of away wins at the Stone-X to down Saracens 21 – 17. Built on a foundation of defensive belligerence, the Sharks led by Tom Curry, Joe Marchant and Courtney Lawes battered the Saracens attack. Stunting any really opportunities to get flow into their attack, the Sharks overcame a two man deficit to limit Saracens to just five points at half-time.\n\nComing out of the blocks quickly in the second half through a moment of magic by Tom O’Flaherty, the visitors had their tails up. A try by Sione Va’enuku brought the home side back to within a score three minutes later but as had been the case all afternoon, Sanderson’s side responded through Ben Bamber in the 65th minute.",
-        "first_seen": "2026-10-04T20:52:23.029199+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Sale defy Jacques Vermeulen’s first-half red card to beat Saracens",
-        "link": "https://www.rugbypass.com/news/sale-defy-jacques-vermeulens-first-half-red-card-to-beat-saracens/",
-        "published": "2026-10-04T16:22:45+00:00",
-        "published_label": "Sun 04 Oct, 16:22",
-        "summary": "Sale defied Jacques Vermeulen’s first-half red card to dispatch Saracens 21-17 with Tom O’Flaherty emerging as the star of a slug fest at StoneX Stadium.",
-        "body": "Sale defied Jacques Vermeulen’s first-half red card to dispatch Saracens 21-17 with Tom O’Flaherty emerging as the star of a slug fest at StoneX Stadium. Vermeulen was shown a 20-minute red for a dangerous tackle on Tomos Williams at a point in the first half when Alex Lozowski was in the sin bin because of the same offence.\n\nSaracens then took control but it was only temporary and in the 41st minute O’Flaherty produced the match’s pivotal moment by racing over for a dynamic solo try. It was part of a dominant second half from Sale, who capitalised on the hosts’ lifeless performance to bounce back after losing to Bristol on the opening weekend with their hooker Nathan Jibulu also outstanding.",
-        "copy": "Sale defied Jacques Vermeulen’s first-half red card to dispatch Saracens 21-17 with Tom O’Flaherty emerging as the star of a slug fest at StoneX Stadium. Vermeulen was shown a 20-minute red for a dangerous tackle on Tomos Williams at a point in the first half when Alex Lozowski was in the sin bin because of the same offence.\n\nSaracens then took control but it was only temporary and in the 41st minute O’Flaherty produced the match’s pivotal moment by racing over for a dynamic solo try. It was part of a dominant second half from Sale, who capitalised on the hosts’ lifeless performance to bounce back after losing to Bristol on the opening weekend with their hooker Nathan Jibulu also outstanding.",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Saracens player ratings vs Sale Sharks | 2026/27 Gallagher PREM",
-        "link": "https://www.rugbypass.com/news/saracens-player-ratings-vs-sale-sharks-2026-27-gallagher-prem/",
-        "published": "2026-10-04T16:09:53+00:00",
-        "published_label": "Sun 04 Oct, 16:09",
-        "summary": "Saracens impressive home record against the Sale Sharks took a hit with a 21 - 17 loss in round two of the 2026/27 Gallagher PREM season.",
-        "body": "Saracens’ impressive home record against Sale Sharks took a hit with a 21-17 loss in round two of the 2026/27 Gallagher PREM season. Saracens were unable to capitalise on a numerical advantage, with the Sharks down to 13 after Jacques Vermeulen was shown red and Alex Lozowski was sent to the sin-bin. Saracens were, by and large, blunt in attack, in no small part due to the Sharks’ hard defensive press.\n\nHere is how the Saracens players rated at the StoneX. Drove over for his side’s opening score in the 34th minute. This score came two phases after a nip-and-tuck scrum contest with Asher Opoku-Fordjour. Away from the set-piece, the powerful Fijian was a key carrier for his side during his 40 minutes on the pitch.",
-        "copy": "Saracens’ impressive home record against Sale Sharks took a hit with a 21-17 loss in round two of the 2026/27 Gallagher PREM season. Saracens were unable to capitalise on a numerical advantage, with the Sharks down to 13 after Jacques Vermeulen was shown red and Alex Lozowski was sent to the sin-bin. Saracens were, by and large, blunt in attack, in no small part due to the Sharks’ hard defensive press.\n\nHere is how the Saracens players rated at the StoneX. Drove over for his side’s opening score in the 34th minute. This score came two phases after a nip-and-tuck scrum contest with Asher Opoku-Fordjour. Away from the set-piece, the powerful Fijian was a key carrier for his side during his 40 minutes on the pitch.",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Sale hold on to beat Saracens despite Vermeulen red",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cxyvzdejgvqro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-04T16:09:26+00:00",
-        "published_label": "Sun 04 Oct, 16:09",
-        "summary": "Sale overcome Jacques Vermeulen's red card to defeat Saracens 21-17 and pick up their first win of The Prem campaign.",
-        "body": "Sale overcame Jacques Vermeulen's red card to defeat Saracens and pick up their first win of The Prem campaign. Sarries struggled to break down a stubborn Sharks defence despite having numerical superiority for 27 minutes of the first half after Alex Lozowski's yellow and Vermeulen's 20-minute red card.\n\nIncredibly, Sale took a 7-5 lead into half-time thanks to Nathan Jibulu's early converted try, despite Eroni Mawi's reply, and then went further ahead soon after the break as Tom O'Flaherty raced in.",
-        "copy": "Sale overcame Jacques Vermeulen's red card to defeat Saracens and pick up their first win of The Prem campaign. Sarries struggled to break down a stubborn Sharks defence despite having numerical superiority for 27 minutes of the first half after Alex Lozowski's yellow and Vermeulen's 20-minute red card.\n\nIncredibly, Sale took a 7-5 lead into half-time thanks to Nathan Jibulu's early converted try, despite Eroni Mawi's reply, and then went further ahead soon after the break as Tom O'Flaherty raced in.",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "History made in Top 14 as longstanding record falls to Pumas fly-half",
-        "link": "https://www.rugbypass.com/news/history-made-in-top-14-as-longstanding-record-falls-to-pumas-fly-half/",
-        "published": "2026-10-04T15:12:37+00:00",
-        "published_label": "Sun 04 Oct, 15:12",
-        "summary": "Twice retired 40-year-old Pumas fly-half Benjamín Urdapilleta made Top 14 history on Saturday after nailing his second of three kicks in USA Perpignan's match against Racing 92.",
-        "body": "Twice retired 40-year-old Pumas fly-half Benjamín Urdapilleta made Top 14 history on Saturday after nailing his second of three kicks in USA Perpignan’s match against Racing 92.\n\nHeading into the match, the former Pumas international had recorded 2,611 points in the Top 14, just a couple behind Romain Teulet in the professional era. The fly-half then matched Teulet’s record after converting Braydon Ennor’s try, then added two more successful penalty kicks, setting the new record at 2,619.",
-        "copy": "Twice retired 40-year-old Pumas fly-half Benjamín Urdapilleta made Top 14 history on Saturday after nailing his second of three kicks in USA Perpignan’s match against Racing 92.\n\nHeading into the match, the former Pumas international had recorded 2,611 points in the Top 14, just a couple behind Romain Teulet in the professional era. The fly-half then matched Teulet’s record after converting Braydon Ennor’s try, then added two more successful penalty kicks, setting the new record at 2,619.",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
       }
     ],
     "Tennis": [
+      {
+        "section": "Tennis",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Karaoke-singing Zheng makes history with China Open win",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cr78pe7yjxxjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-11T14:43:58+00:00",
+        "published_label": "Sun 11 Oct, 14:43",
+        "summary": "Zheng Qinwen becomes the first Chinese champion of the China Open after overcoming Mirra Andreeva in straight sets.",
+        "body": "Zheng Qinwen became the first Chinese woman to win the China Open by beating Mirra Andreeva in straight sets in Beijing. Zheng, who entered the tournament as a wildcard ranked number 54 in the world, saved three set points in Sunday's opening set before overcoming fourth seed Andreeva 7-5, 6-4.\n\nTh 24-year-old fell to the floor as she secured match point and treated the raucous home crowd to some karaoke following her victory speech. \"The feeling was incredible. To win here in Beijing in front of my home crowd is one of my dreams,\" she said.",
+        "copy": "Zheng Qinwen became the first Chinese woman to win the China Open by beating Mirra Andreeva in straight sets in Beijing. Zheng, who entered the tournament as a wildcard ranked number 54 in the world, saved three set points in Sunday's opening set before overcoming fourth seed Andreeva 7-5, 6-4.\n\nTh 24-year-old fell to the floor as she secured match point and treated the raucous home crowd to some karaoke following her victory speech. \"The feeling was incredible. To win here in Beijing in front of my home crowd is one of my dreams,\" she said.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Sky Sports",
+        "kind": "gnews",
+        "title": "China Open: Qinwen Zheng stuns Mirra Andreeva to make history as first Chinese winner of WTA event in Beijing",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMzZPeUtOY2JLRWVMcFpNaGpMQ2EwTjNVRkl4bDRBNWlJVldpVzNheGJ4eHR1X004R1hsWnVCQ1A3b01jc3N5LTVaZDhHU2dKWWlHTmpUb05uR2dXa19RR1Q2aG1rSWpCNW13U2N1ZDVKN3drbVdhdGJjQ3k4SExkNFJRVE5aWS1pR292UlVIS2hmU1ZBcG9HempldG5YVG56bUFmSUY0MWhaZEdueC0tUjRZbDRGMjRpd21QNWtiMnhERDA0aTZITVJaaVhYT0F5dWhtQTlWQ0lzLXI0U3M4SjdZWFhubnFsUGdN?oc=5",
+        "published": "2026-10-11T14:02:13+00:00",
+        "published_label": "Sun 11 Oct, 14:02",
+        "summary": "China Open: Qinwen Zheng stuns Mirra Andreeva to make history as first Chinese winner of WTA event in Beijing Sky Sports",
+        "body": "Olympic champion Qinwen Zheng made history as the first Chinese player to win the China Open on Sunday, stunning French Open winner Mirra Andreeva 7-5 6-4. Wild card Zheng, who has been on a recovery path after missing nearly six months due to an elbow injury on her dominant right arm, looked like her old self as she used powerful forehands to control the rallies, and landed swift winners angling away from Andreeva.\n\nAfter the two exchanged early breaks, world No 5 Andreeva held firm to go 5-4 up, and almost got a decisive break when Zheng sent a cross-court shot too long before netting a forehand.",
+        "copy": "Olympic champion Qinwen Zheng made history as the first Chinese player to win the China Open on Sunday, stunning French Open winner Mirra Andreeva 7-5 6-4. Wild card Zheng, who has been on a recovery path after missing nearly six months due to an elbow injury on her dominant right arm, looked like her old self as she used powerful forehands to control the rallies, and landed swift winners angling away from Andreeva.\n\nAfter the two exchanged early breaks, world No 5 Andreeva held firm to go 5-4 up, and almost got a decisive break when Zheng sent a cross-court shot too long before netting a forehand.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
       {
         "section": "Tennis",
         "source": "HSBC tennis watch",
@@ -4487,35 +4539,61 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-05T21:27:22.684516+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "China Open: Novak Djokovic keeps unblemished record in Beijing by handing Alexander Zverev a rare defeat",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeGVqN2VWckNvZU1rOXpTVndsX3dXVHVTcTdEWEJpck5CNHRDUzJNWktkS09NM0UyTnV6dFdvSzRjczlHclBOZEp3RUhUbUI5ZFVia2dWb0xieGJQUmhnOVFWNlBmRlNkZGNhTGFGcnJzaUdRQnZTY2x2RGJZcUhCTjZKV2NVX1hSVmNTMktYU3hqSnhFSWV6Z0RlQ2tWX1RNdTFvN3ZzSkFvUWw1bVpVQnVWX1ZhaDlkVVdJV3hnTmFqbmZQWC10bnQ1eXZxaUlRLWFJQXpzM1FSbHFMWXlzQlFsUTM?oc=5",
-        "published": "2026-10-04T15:43:18+00:00",
-        "published_label": "Sun 04 Oct, 15:43",
-        "summary": "China Open: Novak Djokovic keeps unblemished record in Beijing by handing Alexander Zverev a rare defeat Sky Sports",
-        "body": "Novak Djokovic rolled back the years to defeat French Open and US Open champion Alexander Zverev 4-6 6-4 6-4 to reach the semi-finals of the China Open on Sunday. The 39-year-old Serbian created a new piece of tennis history with the best start in men's singles at a tour-level event in the Open Era as he moved to 32-0 in Beijing.\n\nWith his victory, Djokovic moved past Rafael Nadal for the best start at a single event, with Nadal having won his first 31 matches at the French Open. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
-        "copy": "Novak Djokovic rolled back the years to defeat French Open and US Open champion Alexander Zverev 4-6 6-4 6-4 to reach the semi-finals of the China Open on Sunday. The 39-year-old Serbian created a new piece of tennis history with the best start in men's singles at a tour-level event in the Open Era as he moved to 32-0 in Beijing.\n\nWith his victory, Djokovic moved past Rafael Nadal for the best start at a single event, with Nadal having won his first 31 matches at the French Open. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Djokovic beats Zverev to reach China Open semis",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-04T14:47:14+00:00",
-        "published_label": "Sun 04 Oct, 14:47",
-        "summary": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
-        "body": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals. The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.\n\nDjokovic's victory over Zverev dented the German's quest to finish the year as the world's number one-ranked player. \"These are the kind of moments that I still play for, compete for,\" Djokovic said.",
-        "copy": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals. The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.\n\nDjokovic's victory over Zverev dented the German's quest to finish the year as the world's number one-ranked player. \"These are the kind of moments that I still play for, compete for,\" Djokovic said.",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Forrest earns major invites with Spanish Open win",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/ck87z1350ezzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-11T17:11:02+00:00",
+        "published_label": "Sun 11 Oct, 17:11",
+        "summary": "Scotland's Grant Forrest holds off a charge from home favourite Eugenio Chacarra to win the Spanish Open and book a spot at The Open and the Masters next year.",
+        "body": "Scotland's Grant Forrest held off a charge from home favourite Eugenio Chacarra to win the Spanish Open and book a spot at The Open and the Masters next year. With Chacarra in the clubhouse at 13 under, Forrest and playing partner Victor Perez needed to make birdies at the 18th to go above the Spaniard.\n\nBoth players' drives nestled down in the greenside rough on the 322-yard par four, and after Perez's birdie putt drifted past the hole, Forrest sunk his to seal his third DP World Tour title and a first professional win outside Scotland.",
+        "copy": "Scotland's Grant Forrest held off a charge from home favourite Eugenio Chacarra to win the Spanish Open and book a spot at The Open and the Masters next year. With Chacarra in the clubhouse at 13 under, Forrest and playing partner Victor Perez needed to make birdies at the 18th to go above the Spaniard.\n\nBoth players' drives nestled down in the greenside rough on the 322-yard par four, and after Perez's birdie putt drifted past the hole, Forrest sunk his to seal his third DP World Tour title and a first professional win outside Scotland.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "How Bernhard Langer unintentionally taught future pro important lesson",
+        "link": "https://golf.com/news/bernhard-langer-taught-pro-lesson-subpar/",
+        "published": "2026-10-11T16:58:05+00:00",
+        "published_label": "Sun 11 Oct, 16:58",
+        "summary": "Alistair Docherty joined GOLF's Subpar podcast to discuss finally earning his PGA Tour card, his first golf memory and more. The post How Bernhard Langer unintentionally taught future pro important lesson appeared first on Golf .",
+        "body": "Alistair Docherty’s first golf memory provided a couple of valuable lessons. The 32-year-old pro, who will be a PGA Tour card-holder for the first time come 2027, joined this week’s GOLF Subpar podcast and explained how a trip to Sahalee Country Club played a key role in his life.\n\nSahalee is a private country club in Sammamish, Wash., just outside of Seattle, and in 2010 it hosted the U.S. Senior Open. (It was also home to the 1998 PGA Championship, won by Vijay Singh.) But in 2010, Docherty attended the U.S. Senior Open with his father, and they found a spot to sit by the 10th tee.",
+        "copy": "Alistair Docherty’s first golf memory provided a couple of valuable lessons. The 32-year-old pro, who will be a PGA Tour card-holder for the first time come 2027, joined this week’s GOLF Subpar podcast and explained how a trip to Sahalee Country Club played a key role in his life.\n\nSahalee is a private country club in Sammamish, Wash., just outside of Seattle, and in 2010 it hosted the U.S. Senior Open. (It was also home to the 1998 PGA Championship, won by Vijay Singh.) But in 2010, Docherty attended the U.S. Senior Open with his father, and they found a spot to sit by the 10th tee.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "'Fairytale stuff': Pro's hard year ends with ticket to 2027 Masters",
+        "link": "https://golf.com/news/grant-forrest-open-de-espana-masters-2027/",
+        "published": "2026-10-11T16:40:50+00:00",
+        "published_label": "Sun 11 Oct, 16:40",
+        "summary": "Grant Forrest has had a year to forget. But that all changed on Sunday in Spain, where he punched an unlikely ticket to the 2027 Masters. The post ‘Fairytale stuff’: Pro’s hard year ends with ticket to 2027 Masters appeared first on Golf .",
+        "body": "Eleven years ago, Grant Forrest had a ticket to the Masters in his grasp. Then a budding Scottish amateur star, Forrest reached the finals of the 2015 Amateur Championship. A win meant not only one of amateur golf’s biggest prizes but also a trip to Magnolia Lane. But a 4&2 loss to Romain Langasque meant Forrest’s Augusta National dream would have to wait.\n\nThe wait wasn’t expected to be long. Forrest made the 2015 Walker Cup team and was expected to be one of Europe’s bright young stars. But golf had other plans. Forrest turned pro and worked his way up from the Challenge Tour to the DP World Tour, finally reaching the top European circuit in 2019. His first DP World Tour win arrived at the 2021 Hero Open. His next came four years later at the 2025 Nexo Championship. Along the way, Forrest played in two Open Championships and one U.S. Open, but never played well enough to reach Augusta National.",
+        "copy": "Eleven years ago, Grant Forrest had a ticket to the Masters in his grasp. Then a budding Scottish amateur star, Forrest reached the finals of the 2015 Amateur Championship. A win meant not only one of amateur golf’s biggest prizes but also a trip to Magnolia Lane. But a 4&2 loss to Romain Langasque meant Forrest’s Augusta National dream would have to wait.\n\nThe wait wasn’t expected to be long. Forrest made the 2015 Walker Cup team and was expected to be one of Europe’s bright young stars. But golf had other plans. Forrest turned pro and worked his way up from the Challenge Tour to the DP World Tour, finally reaching the top European circuit in 2019. His first DP World Tour win arrived at the 2021 Hero Open. His next came four years later at the 2025 Nexo Championship. Along the way, Forrest played in two Open Championships and one U.S. Open, but never played well enough to reach Augusta National.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "Michael Brennan's WITB: Full Titleist bag —including 3-wood proto — delivers again",
+        "link": "https://golf.com/gear/michael-brennan-2026-baycurrent-witb/",
+        "published": "2026-10-11T14:51:28+00:00",
+        "published_label": "Sun 11 Oct, 14:51",
+        "summary": "Michael Brennan won the 2026 Baycurrent Classic on Sunday for his third PGA Tour win. Here's a breakdown of what's in his winning golf bag. The post Michael Brennan’s WITB: Full Titleist bag —including 3-wood proto — delivers again appeared first on Golf .",
+        "body": "Michael Brennan clearly plays his best golf at the end of the year as he just picked up his third PGA Tour victory and his second in the month of October. After winning the Wyndham Championship in August, Brennan took home the Baycurrent Classic on Sunday in Japan.\n\nAt Yokohama Country Club, Brennan used the same all-Titleist setup he used for his Wyndham win in August, including the Scotty Cameron Golo 6 Tour Prototype he switched to earlier this season.",
+        "copy": "Michael Brennan clearly plays his best golf at the end of the year as he just picked up his third PGA Tour victory and his second in the month of October. After winning the Wyndham Championship in August, Brennan took home the Baycurrent Classic on Sunday in Japan.\n\nAt Yokohama Country Club, Brennan used the same all-Titleist setup he used for his Wyndham win in August, including the Scotty Cameron Golo 6 Tour Prototype he switched to earlier this season.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -4554,6 +4632,19 @@
         "body": "Everything has changed for Michael Brennan in 12 months. A year ago, the Wake Forest graduate was playing on PGA Tour Americas and was set to head to the Korn Ferry Tour. Then, on a sponsor’s invite, he won the Bank of Utah Championship last October and never looked back. Brennan made the cut in all four majors in 2026, finished 46th in the FedEx Cup standings and won his second career title at the Wyndham Championship.\n\nHis rise continued this week in Japan, where he outlasted Jacob Bridgeman and Keith Mitchell on Sunday to win the Baycurrent Classic at Yokohama Country Club. It was Brennan’s third PGA Tour win in less than a year and a sign that the 24-year-old is one of the PGA Tour’s bright stars.",
         "copy": "Everything has changed for Michael Brennan in 12 months. A year ago, the Wake Forest graduate was playing on PGA Tour Americas and was set to head to the Korn Ferry Tour. Then, on a sponsor’s invite, he won the Bank of Utah Championship last October and never looked back. Brennan made the cut in all four majors in 2026, finished 46th in the FedEx Cup standings and won his second career title at the Wyndham Championship.\n\nHis rise continued this week in Japan, where he outlasted Jacob Bridgeman and Keith Mitchell on Sunday to win the Baycurrent Classic at Yokohama Country Club. It was Brennan’s third PGA Tour win in less than a year and a sign that the 24-year-old is one of the PGA Tour’s bright stars.",
         "first_seen": "2026-10-11T14:17:11.306290+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "When will Jon Rahm return to the PGA Tour after LIV Golf exit?",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTNzM2d4djBjMk5iMVpiRlFvUjgyVDgxc1Y0ZWMybDIxM3N0cnctVm9Eby1JVkxXQVhMVDBJaWl5TkFmd21Oa0tFVjJOa2tKd2VFcHpzOU9URzhEV2pOdDdyaUJ2M3NKQTlJRW9uNUZJdnFRQW1VZmVJZkUxOEVxVHdNRjVQR1hYUFZtTXU2ZE1NMFgyVG01cFpB?oc=5",
+        "published": "2026-10-11T12:30:00+00:00",
+        "published_label": "Sun 11 Oct, 12:30",
+        "summary": "When will Jon Rahm return to the PGA Tour after LIV Golf exit? Golfmagic",
+        "body": "Jon Rahm is leaving LIV Golf, but the bigger question is what comes next for the Spaniard. The two-time major champion has rejected the proposed terms for the league’s next phase, bringing his time with LIV to an end.\n\nHowever, returning to the PGA Tour could prove far more complicated than simply changing allegiances. While some players may welcome Rahm back with open arms, others believe the former World No.1 should face consequences for leaving in the first place.",
+        "copy": "Jon Rahm is leaving LIV Golf, but the bigger question is what comes next for the Spaniard. The two-time major champion has rejected the proposed terms for the league’s next phase, bringing his time with LIV to an end.\n\nHowever, returning to the PGA Tour could prove far more complicated than simply changing allegiances. While some players may welcome Rahm back with open arms, others believe the former World No.1 should face consequences for leaving in the first place.",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
       },
       {
         "section": "Golf",
@@ -6257,45 +6348,6 @@
         "body": "LIV Golf’s Adrian Meronk held his nerve over a blustery Old Course at St Andrews to claim a two-shot victory in the Alfred Dunhill Links Championship. The 33-year-old Pole – among the DP World Tour members allowed to play in conflicting LIV Golf tournaments under the 2026 Conditional Release Agreement – made the most of overnight leader Casey Jarvis seeing his challenge fade to finish with a 68 for a 20-under total.\n\nMeronk, who had shot a nine-under 63 in his third round at Kingsbarns, made a fast start in the penultimate group with three birdies in the opening five holes, holing from 35 feet at the first, before a bogey on the seventh, which was soon recovered on the ninth.",
         "copy": "LIV Golf’s Adrian Meronk held his nerve over a blustery Old Course at St Andrews to claim a two-shot victory in the Alfred Dunhill Links Championship. The 33-year-old Pole – among the DP World Tour members allowed to play in conflicting LIV Golf tournaments under the 2026 Conditional Release Agreement – made the most of overnight leader Casey Jarvis seeing his challenge fade to finish with a 68 for a 20-under total.\n\nMeronk, who had shot a nine-under 63 in his third round at Kingsbarns, made a fast start in the penultimate group with three birdies in the opening five holes, holing from 35 feet at the first, before a bogey on the seventh, which was soon recovered on the ninth.",
         "first_seen": "2026-10-04T20:52:23.029199+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "World number 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-04T17:55:17+00:00",
-        "published_label": "Sun 04 Oct, 17:55",
-        "summary": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
-        "body": "On Wednesday, Michael Stewart earned £2,500 for finishing runner-up in the Tartan Pro Tour event at Duddingston Golf Club near Edinburgh. Four days later, the world number 979 has just picked up nearly 100 times that by finishing joint fourth behind winner Adrian Meronk at the Alfred Dunhill Links Championship.\n\nBut what the 36-year-old Scot regards as \"without doubt\" the best week of his career has left him with a dilemma. Finishing in the top 10 - two shots behind Poland's Meronk, one behind Denmark's Niklas Norgaard and South Africa's Casey Jarvis, and tied with England's Tommy Fleetwood - means he qualifies for next week's big-money Spanish Open.",
-        "copy": "On Wednesday, Michael Stewart earned £2,500 for finishing runner-up in the Tartan Pro Tour event at Duddingston Golf Club near Edinburgh. Four days later, the world number 979 has just picked up nearly 100 times that by finishing joint fourth behind winner Adrian Meronk at the Alfred Dunhill Links Championship.\n\nBut what the 36-year-old Scot regards as \"without doubt\" the best week of his career has left him with a dilemma. Finishing in the top 10 - two shots behind Poland's Meronk, one behind Denmark's Niklas Norgaard and South Africa's Casey Jarvis, and tied with England's Tommy Fleetwood - means he qualifies for next week's big-money Spanish Open.",
-        "first_seen": "2026-10-04T20:52:23.029199+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Joaquin Niemann admits he could leave LIV Golf and try to return to PGA Tour",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEh6eWUxYll1RjMyLS1EMklINTYzX3phRmtXdjdqTEo3bmsxRjVQeGlRNUhxTGtBT1ZoT01ROHgzdUlhcmJNckRyRTEwTUJFWE9sUG1QWkphdlNOZDBuVXB4cXJNLVpEenZGOXlra3Z0QzdyT1BNMFZsQTA0ekZuelg4em9ONlkzR2Z0OEczNnRZdnQwS0RpTW14VVVDY2xidmZPN05nY0hzXzlaNnQyUEt5cHVRbFpkeXhlcmR0aExwb3JsOVVEaFZJdw?oc=5",
-        "published": "2026-10-04T15:30:07+00:00",
-        "published_label": "Sun 04 Oct, 15:30",
-        "summary": "Joaquin Niemann admits he could leave LIV Golf and try to return to PGA Tour Tennis World USA",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "2026 Bank of Utah Championship purse: Payout info, winner's share",
-        "link": "https://golf.com/news/2026-bank-utah-championship-purse-payout/",
-        "published": "2026-10-04T14:42:25+00:00",
-        "published_label": "Sun 04 Oct, 14:42",
-        "summary": "Here's the total 2026 Bank of Utah Championship purse, payout breakdown and winner's share for Sunday at Black Desert Resort. The post 2026 Bank of Utah Championship purse: Payout info, winner’s share appeared first on Golf .",
-        "body": "On Sunday at Black Desert Resort, dozens of pros are fighting for an all-important PGA Tour victory at the 2026 Bank of Utah Championship. Whoever comes out on top will leave with a sizeable winner’s share from the total Bank of Utah Championship purse.\n\nDespite this week’s event being part of the Tour’s FedEx Fall series, it still boasts impressive prize money. The total payout for the Bank of Utah Championship is $6 million.",
-        "copy": "On Sunday at Black Desert Resort, dozens of pros are fighting for an all-important PGA Tour victory at the 2026 Bank of Utah Championship. Whoever comes out on top will leave with a sizeable winner’s share from the total Bank of Utah Championship purse.\n\nDespite this week’s event being part of the Tour’s FedEx Fall series, it still boasts impressive prize money. The total payout for the Bank of Utah Championship is $6 million.",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
       }
     ],
     "Badminton": [
@@ -6311,6 +6363,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-11T14:17:11.306290+00:00"
+      },
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF Arctic Open 2026 badminton: Danish players celebrate title double as Mia Blichfeldt turns new mental approach into strong post-injury comeback",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQUpEVERPQnYxVHo4UkFmXzA5bUplbFRNM1poSXh6S0JwdlhtVGNHSWN5c3FCNmRSQ1RSdmJyM2ZNMG5vLTladWhHRThic2c4dVBsWUNxNUlZWlRKMDNzQzkwLVlqcTB4bjF5SUNaRUg5RFpsTzJYMlJrX0xVZ21uU0J1XzlVdWtlZ3pQOGI0S0llaXFiXzFaWTUzZjltcVhFcmVTenV3N2M?oc=5",
+        "published": "2026-10-11T12:30:00+00:00",
+        "published_label": "Sun 11 Oct, 12:30",
+        "summary": "BWF Arctic Open 2026 badminton: Danish players celebrate title double as Mia Blichfeldt turns new mental approach into strong post-injury comeback Olympics",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-11T18:37:33.132609+00:00"
       },
       {
         "section": "Badminton",
@@ -6875,5 +6940,5 @@
       }
     ]
   },
-  "total": 527
+  "total": 532
 }
