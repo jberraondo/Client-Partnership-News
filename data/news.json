@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T12:04:10.131091+00:00",
-  "generated_label": "Sunday 11 October 2026, 12:04 UTC",
+  "generated_at": "2026-10-11T14:17:11.306290+00:00",
+  "generated_label": "Sunday 11 October 2026, 14:17 UTC",
   "keep_days": 7,
   "section_order": [
     "Wider Sports News",
@@ -180,6 +180,19 @@
         "body": "",
         "copy": "",
         "first_seen": "2026-10-09T19:16:23.289861+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "Kennedy Center donor accused of fraud was secret FBI informant",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaEN3WUFyenJxMDdFbU1CNUZuX245aWU5dFFsc3NLNFZ0TVYxUGpsenBGM0tVZWxHQldORVB5VktvS0dYb1VodUQ2a2hVR3NxQUNZb3h3TWRIUlB2YUJRNjV1ZlB6U2FuLVliSURaR1M0WFRZUzBqT0JnZmJrWUpEVlZJOTg?oc=5",
+        "published": "2026-10-09T14:33:44+00:00",
+        "published_label": "Fri 09 Oct, 14:33",
+        "summary": "Kennedy Center donor accused of fraud was secret FBI informant Financial Times",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-11T14:17:11.306290+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1665,6 +1678,32 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'We addressed the mood': Scottish rugby enters unchartered URC waters",
+        "link": "https://www.rugbypass.com/news/we-addressed-the-mood-scottish-rugby-enters-unchartered-urc-waters/",
+        "published": "2026-10-11T14:09:59+00:00",
+        "published_label": "Sun 11 Oct, 14:09",
+        "summary": "Edinburgh Rugby are in uncharted waters at the top of the BKT URC having won their opening three league matches for the first time in more than a decade.",
+        "body": "Edinburgh Rugby are in uncharted waters at the top of the BKT URC having won their opening three league matches for the first time in more than a decade. You have to go back to 2015 and the days of the old PRO12 for the last time the Scottish side kicked off with three successive victories.\n\nMoreover, they are the only team in the competition to have won all of their matches so far this season. They continued their dream start by claiming a 29-12 bonus point victory over their bogey side Zebre Parma out in Italy to back up triumphs over Ulster Rugby and the DHL Stormers.",
+        "copy": "Edinburgh Rugby are in uncharted waters at the top of the BKT URC having won their opening three league matches for the first time in more than a decade. You have to go back to 2015 and the days of the old PRO12 for the last time the Scottish side kicked off with three successive victories.\n\nMoreover, they are the only team in the competition to have won all of their matches so far this season. They continued their dream start by claiming a 29-12 bonus point victory over their bogey side Zebre Parma out in Italy to back up triumphs over Ulster Rugby and the DHL Stormers.",
+        "first_seen": "2026-10-11T14:17:11.306290+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
+        "title": "'People outside of our circles, the Boks and Stormers, will always have an opinion'",
+        "link": "https://www.rugbypass.com/news/sacha-feinberg-mngomezulu-people-outside-of-our-circles/",
+        "published": "2026-10-11T11:36:38+00:00",
+        "published_label": "Sun 11 Oct, 11:36",
+        "summary": "Sacha Feinberg-Mngomezulu was a “very happy” man after taking a starring role in the DHL Stormers’ revenge win over the Hollywoodbets Sharks.",
+        "body": "Sacha Feinberg-Mngomezulu was a “very happy” man after taking a starring role in the DHL Stormers’ revenge win over the Hollywoodbets Sharks. The Stormers suffered back-to-back BKT URC defeats at the hands of their coastal derby rivals in January, which Director of Rugby John Dobson called the low point of last season.\n\nBut they made amends in convincing fashion as they defeated the previously unbeaten Sharks 39-22 in Cape Town, with No 8 Hacjivah Dayimani scoring two of their six tries. The Player of the Match award went to Springboks fly-half Feinberg-Mngomezulu who pulled the strings expertly and slotted four shots at goal on his first outing of the campaign.",
+        "copy": "Sacha Feinberg-Mngomezulu was a “very happy” man after taking a starring role in the DHL Stormers’ revenge win over the Hollywoodbets Sharks. The Stormers suffered back-to-back BKT URC defeats at the hands of their coastal derby rivals in January, which Director of Rugby John Dobson called the low point of last season.\n\nBut they made amends in convincing fashion as they defeated the previously unbeaten Sharks 39-22 in Cape Town, with No 8 Hacjivah Dayimani scoring two of their six tries. The Player of the Match award went to Springboks fly-half Feinberg-Mngomezulu who pulled the strings expertly and slotted four shots at goal on his first outing of the campaign.",
+        "first_seen": "2026-10-11T14:17:11.306290+00:00"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -4474,35 +4513,48 @@
         "body": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals. The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.\n\nDjokovic's victory over Zverev dented the German's quest to finish the year as the world's number one-ranked player. \"These are the kind of moments that I still play for, compete for,\" Djokovic said.",
         "copy": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals. The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.\n\nDjokovic's victory over Zverev dented the German's quest to finish the year as the world's number one-ranked player. \"These are the kind of moments that I still play for, compete for,\" Djokovic said.",
         "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "Sky Sports",
-        "kind": "gnews",
-        "title": "Alexander Zverev vs Novak Djokovic | China Open highlights",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkpicDVHU2NQYXlVNUtKNnlnUTdkMnU1elMxbmNGbG9XTkpxU3lMYXV3MXR4djRBSGZCRjgzWlJLZXRiQUo2bVdIckFtSnBwX2dJeFBhaUxKbjhhX2tFRWJlSnVUc0ZWZXdvek93LXZlZVhPOWhRQVZwa1BwWll6b3lYYVdXY3dYQmxVcm1WSTkzRjBncXAyWl82SkN6RXZabXVoNERJYw?oc=5",
-        "published": "2026-10-04T14:06:08+00:00",
-        "published_label": "Sun 04 Oct, 14:06",
-        "summary": "Alexander Zverev vs Novak Djokovic | China Open highlights Sky Sports",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Tennis",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Why Emma Raducanu now shutting down the rest of her season would be a really smart decision",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWUwanB5c2pjV1N2QllOTGRfVUVBLUlzcDE1eHZaekpYM2JzSUpScTFvRXhnbzctdE1OSm1RZnpsdnZDb1hzYmRtY2N4d2VUbUt3WHV1M1N3cVhyM3djMy1hN25tM0ZIRXJaWVhxTTZjSzY4ZG1LS2NvN0czeTJjWWFtNmVBb3VIQWFzRkVKM2FHM0NUd3VwUnVmUllac3dIcmg2clBxMEpGNXlWY3VUYVRablV6dw?oc=5",
-        "published": "2026-10-04T13:00:00+00:00",
-        "published_label": "Sun 04 Oct, 13:00",
-        "summary": "Why Emma Raducanu now shutting down the rest of her season would be a really smart decision Tennishead",
-        "body": "It is clear that Emma Raducanu should not play another match this year. Raducanu has not competed since the grass court season, where she suffered a stress fracture in her lower right leg. This injury forced Raducanu to withdraw from both Wimbledon and the US Open.\n\nSince then, Raducanu has been rehabilitating her injury in an attempt to make a comeback, and has recently shared footage of her back on court. However, it appears that the former US Open champion is not yet ready to return to competition, with Raducanu withdrawing from the China Open, and she now has a no-brainer of a decision to make for her own best interests.",
-        "copy": "It is clear that Emma Raducanu should not play another match this year. Raducanu has not competed since the grass court season, where she suffered a stress fracture in her lower right leg. This injury forced Raducanu to withdraw from both Wimbledon and the US Open.\n\nSince then, Raducanu has been rehabilitating her injury in an attempt to make a comeback, and has recently shared footage of her back on court. However, it appears that the former US Open champion is not yet ready to return to competition, with Raducanu withdrawing from the China Open, and she now has a no-brainer of a decision to make for her own best interests.",
-        "first_seen": "2026-10-04T13:22:58.982276+00:00"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "2026 Baycurrent Classic money: Here’s how much every player made",
+        "link": "https://golf.com/news/baycurrent-classic-money-every-player/",
+        "published": "2026-10-11T13:18:44+00:00",
+        "published_label": "Sun 11 Oct, 13:18",
+        "summary": "Michael Brennan took home the title at the 2026 Baycurrent Classic. Here's how much every player made in Japan. The post 2026 Baycurrent Classic money: Here’s how much every player made appeared first on Golf .",
+        "body": "Sunday at Yokohama Country Club began with a packed leaderboard and a world of possibilities. It ended with Michael Brennan holding off Jacob Bridgeman and Keith Mitchell to win the Baycurrent Classic, his third PGA Tour title in 12 months.\n\n“Unbelievable. It was an unbelievable week. Japan was spectacular, the fans were amazing this week,” Brennan said after his win. Mitchell, who is still searching for his first win since the 2019 Honda Classic, took the lead on the front nine with three birdies and an eagle. But he dropped shots at Nos. 9 and 12, leaving him one shot behind Brennan coming down the stretch. Mitchell striped his tee shot on 18 and left himself a 10-foot birdie putt to tie Brennan at 16 under, but he couldn’t get it to fall.",
+        "copy": "Sunday at Yokohama Country Club began with a packed leaderboard and a world of possibilities. It ended with Michael Brennan holding off Jacob Bridgeman and Keith Mitchell to win the Baycurrent Classic, his third PGA Tour title in 12 months.\n\n“Unbelievable. It was an unbelievable week. Japan was spectacular, the fans were amazing this week,” Brennan said after his win. Mitchell, who is still searching for his first win since the 2019 Honda Classic, took the lead on the front nine with three birdies and an eagle. But he dropped shots at Nos. 9 and 12, leaving him one shot behind Brennan coming down the stretch. Mitchell striped his tee shot on 18 and left himself a 10-foot birdie putt to tie Brennan at 16 under, but he couldn’t get it to fall.",
+        "first_seen": "2026-10-11T14:17:11.306290+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "These top-selling training aids improve common swing ailments — and make great gifts!",
+        "link": "https://golf.com/gear/top-selling-training-aids-improve-common-swing-ailments/",
+        "published": "2026-10-11T12:41:32+00:00",
+        "published_label": "Sun 11 Oct, 12:41",
+        "summary": "If you're looking for the ultimate golf gift, it's tough to argue with the wow factor of an improved game. These training aids can help. The post These top-selling training aids improve common swing ailments — and make great gifts! appeared first on Golf .",
+        "body": "If you’re looking for the ultimate golf gift, it’s tough to argue with the wow factor of an improved golf game. A lower handicap is truly the gift that keeps on giving! However, giving game-improvement products can be a delicate endeavor. Nobody wants to be told they’re deficient in any area of the game, and the holidays probably aren’t the ideal time to poke at potentially sore feelings.\n\nBut for open-minded giftees, we love the idea of wrapping up a tried-and-true training aid. Here at GOLF, we’re always on the lookout for the latest and greatest tools to help you achieve your performance goals. Sharing is caring! So if you’re looking for some gift-giving inspiration on the training aid front, we’ve rounded up five best-selling products below, along with some commentary on what makes them great. Cheers to the start of the holiday shopping season — and better golf in 2027!",
+        "copy": "If you’re looking for the ultimate golf gift, it’s tough to argue with the wow factor of an improved golf game. A lower handicap is truly the gift that keeps on giving! However, giving game-improvement products can be a delicate endeavor. Nobody wants to be told they’re deficient in any area of the game, and the holidays probably aren’t the ideal time to poke at potentially sore feelings.\n\nBut for open-minded giftees, we love the idea of wrapping up a tried-and-true training aid. Here at GOLF, we’re always on the lookout for the latest and greatest tools to help you achieve your performance goals. Sharing is caring! So if you’re looking for some gift-giving inspiration on the training aid front, we’ve rounded up five best-selling products below, along with some commentary on what makes them great. Cheers to the start of the holiday shopping season — and better golf in 2027!",
+        "first_seen": "2026-10-11T14:17:11.306290+00:00"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "kind": "direct",
+        "title": "After Michael Brennan won Baycurrent Classic, he set his sights on 1 big 2027 goal",
+        "link": "https://golf.com/news/michael-brennan-baycurrent-win-ryder-cup/",
+        "published": "2026-10-11T12:30:01+00:00",
+        "published_label": "Sun 11 Oct, 12:30",
+        "summary": "Michael Brennan held off Jacob Bridgeman to win the Baycurrent Classic, his third title in 12 months. Afterward, he set his sights on one goal. The post After Michael Brennan won Baycurrent Classic, he set his sights on 1 big 2027 goal appeared first on Golf .",
+        "body": "Everything has changed for Michael Brennan in 12 months. A year ago, the Wake Forest graduate was playing on PGA Tour Americas and was set to head to the Korn Ferry Tour. Then, on a sponsor’s invite, he won the Bank of Utah Championship last October and never looked back. Brennan made the cut in all four majors in 2026, finished 46th in the FedEx Cup standings and won his second career title at the Wyndham Championship.\n\nHis rise continued this week in Japan, where he outlasted Jacob Bridgeman and Keith Mitchell on Sunday to win the Baycurrent Classic at Yokohama Country Club. It was Brennan’s third PGA Tour win in less than a year and a sign that the 24-year-old is one of the PGA Tour’s bright stars.",
+        "copy": "Everything has changed for Michael Brennan in 12 months. A year ago, the Wake Forest graduate was playing on PGA Tour Americas and was set to head to the Korn Ferry Tour. Then, on a sponsor’s invite, he won the Bank of Utah Championship last October and never looked back. Brennan made the cut in all four majors in 2026, finished 46th in the FedEx Cup standings and won his second career title at the Wyndham Championship.\n\nHis rise continued this week in Japan, where he outlasted Jacob Bridgeman and Keith Mitchell on Sunday to win the Baycurrent Classic at Yokohama Country Club. It was Brennan’s third PGA Tour win in less than a year and a sign that the 24-year-old is one of the PGA Tour’s bright stars.",
+        "first_seen": "2026-10-11T14:17:11.306290+00:00"
+      },
       {
         "section": "Golf",
         "source": "HSBC golf watch",
@@ -6244,61 +6296,22 @@
         "body": "On Sunday at Black Desert Resort, dozens of pros are fighting for an all-important PGA Tour victory at the 2026 Bank of Utah Championship. Whoever comes out on top will leave with a sizeable winner’s share from the total Bank of Utah Championship purse.\n\nDespite this week’s event being part of the Tour’s FedEx Fall series, it still boasts impressive prize money. The total payout for the Bank of Utah Championship is $6 million.",
         "copy": "On Sunday at Black Desert Resort, dozens of pros are fighting for an all-important PGA Tour victory at the 2026 Bank of Utah Championship. Whoever comes out on top will leave with a sizeable winner’s share from the total Bank of Utah Championship purse.\n\nDespite this week’s event being part of the Tour’s FedEx Fall series, it still boasts impressive prize money. The total payout for the Bank of Utah Championship is $6 million.",
         "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "DP World Tour Warns LIV Golf Refugees About Returning",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kTEU1czNiTXRkcXg4YjE5RVRaRThNU25NZGRBbDRYNGhVQ1VnWWpWWkRPRFBTZmJEMTdYbmdRUzZXX1hDbmNrT0RSTVRPWE9WTmI3N2pWNnRvb2tjeDRBb0diNi16VE1VajlNbFdJOXhHU2JRU01BN3BuVW0?oc=5",
-        "published": "2026-10-04T13:10:00+00:00",
-        "published_label": "Sun 04 Oct, 13:10",
-        "summary": "DP World Tour Warns LIV Golf Refugees About Returning Yahoo Sports",
-        "body": "The DP World Tour has sent a clear message to LIV Golf players hoping to return after the breakaway league filed for bankruptcy. A tour spokesperson confirmed they see a surge in interest from players seeking a route back to Europe. However, any comeback requires meeting strict conditions. Players must be free of conflicting contracts and agree to follow existing membership rules. They might also lose access to the lucrative Rolex Series events. This stance comes as LIV Golf faces an uncertain future with its Chapter 11 filing in New Jersey.\n\nOnly 10 days remain for LIV players to determine whether they remain with the breakaway circuit or return to the DP World Tour or PGA Tour. The tour is exploring ways to accommodate these returning players, but it will not be automatic. Those who left for LIV before the bankruptcy are already facing hurdles. The tour granted conditional releases to eight members in February, including Tyrrell Hatton and Thomas Detry. These players agreed to pay fines and play extra tournaments to return without further punishment.",
-        "copy": "The DP World Tour has sent a clear message to LIV Golf players hoping to return after the breakaway league filed for bankruptcy. A tour spokesperson confirmed they see a surge in interest from players seeking a route back to Europe. However, any comeback requires meeting strict conditions. Players must be free of conflicting contracts and agree to follow existing membership rules. They might also lose access to the lucrative Rolex Series events. This stance comes as LIV Golf faces an uncertain future with its Chapter 11 filing in New Jersey.\n\nOnly 10 days remain for LIV players to determine whether they remain with the breakaway circuit or return to the DP World Tour or PGA Tour. The tour is exploring ways to accommodate these returning players, but it will not be automatic. Those who left for LIV before the bankruptcy are already facing hurdles. The tour granted conditional releases to eight members in February, including Tyrrell Hatton and Thomas Detry. These players agreed to pay fines and play extra tournaments to return without further punishment.",
-        "first_seen": "2026-10-04T13:22:58.982276+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "'Brought shame': Bizarre tennis-ball protest breaks out at St. Andrews over soccer",
-        "link": "https://golf.com/news/bizarre-tennis-ball-protest-breaks-st-andrews-soccer/",
-        "published": "2026-10-04T12:52:37+00:00",
-        "published_label": "Sun 04 Oct, 12:52",
-        "summary": "Saturday's third round of the 2026 Alfred Dunhill Links Championship was interrupted when protesters threw dozens of tennis balls at a player. The post ‘Brought shame’: Bizarre tennis-ball protest breaks out at St. Andrews over soccer appeared first on Golf .",
-        "body": "On Saturday at the Old Course at St. Andrews, a DP World Tour golf tournament was interrupted by soccer protesters who threw tennis balls to express their grievances. You’re forgiven if you have to read that twice.\n\nThe tournament was the DP World Tour’s annual Alfred Dunhill Links Championship. Not only is the Dunhill Links played at iconic courses — the Old Course, Carnoustie and Kingsbarns — it includes a concurrent pro-am competition featuring business tycoons, celebrities, star athletes, players’ family members and more.",
-        "copy": "On Saturday at the Old Course at St. Andrews, a DP World Tour golf tournament was interrupted by soccer protesters who threw tennis balls to express their grievances. You’re forgiven if you have to read that twice.\n\nThe tournament was the DP World Tour’s annual Alfred Dunhill Links Championship. Not only is the Dunhill Links played at iconic courses — the Old Course, Carnoustie and Kingsbarns — it includes a concurrent pro-am competition featuring business tycoons, celebrities, star athletes, players’ family members and more.",
-        "first_seen": "2026-10-04T13:22:58.982276+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Joaquin Niemann: LIV Golf funding issue was \"somewhat predictable\"",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR015b2lKQ2pOTXkzc2QtUmcxMGhmbkJYemN4dUFsTnlLczFueGxXeTN1NHVVbF9wMWRGU01wa1NXLVVKcDVPTnhaRDU1M1pMYl85QzNrNk5lcVMtelZtbHQzVVlPc1hGaWk2QXVYNmVIQ0xiUlNUM0Q3YTlMNjRnZThxZDc2UWpjajBobk5ZU3JXWHZVVGJJQUd0OEU3YjQtM0pNLXpB?oc=5",
-        "published": "2026-10-04T12:41:39+00:00",
-        "published_label": "Sun 04 Oct, 12:41",
-        "summary": "Joaquin Niemann: LIV Golf funding issue was \"somewhat predictable\" Golfmagic",
-        "body": "Joaquin Niemann says the decision by LIV Golf's financiers to scale back their support was \"somewhat predictable\" as he revealed he remains undecided over whether to commit his future to the league.\n\nThe Chilean is one of the breakaway tour's leading players and has earned close to $90m on the course since leaving the PGA Tour in 2022. Niemann has won nine individual titles with LIV, but despite that success, there has been speculation that the 31-year-old could be considering a return to the PGA Tour.",
-        "copy": "Joaquin Niemann says the decision by LIV Golf's financiers to scale back their support was \"somewhat predictable\" as he revealed he remains undecided over whether to commit his future to the league.\n\nThe Chilean is one of the breakaway tour's leading players and has earned close to $90m on the course since leaving the PGA Tour in 2022. Niemann has won nine individual titles with LIV, but despite that success, there has been speculation that the 31-year-old could be considering a return to the PGA Tour.",
-        "first_seen": "2026-10-04T20:52:23.029199+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "HSBC golf watch",
-        "kind": "gnews",
-        "title": "Report: LIV Golf secure enough player support for 2027 plans",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVW5PQzhDVFd1YlBYaGEzbkZEV1lLeVFSNy15bUFRUFJucERCOGM4VjZQN1VRUVJuaTMtdG93X0U5Rl9YSTlaSEJGYXRnYXM4R1NNMmJyX3U2TG9aeDZSemdJN3hyV0tQd29GeFltMG1wX2poTW1qdEZ0YjdsTEZGOEZ5WXlha01CV1lTRDhaN1VHelJGVDN2QzZTSQ?oc=5",
-        "published": "2026-10-04T12:07:27+00:00",
-        "published_label": "Sun 04 Oct, 12:07",
-        "summary": "Report: LIV Golf secure enough player support for 2027 plans Golfmagic",
-        "body": "LIV Golf have received verbal commitments from enough players to press ahead with their plans for 2027, according to a report. Industry sources told Golf Channel that a significant number of players have committed to the proposed new version of the circuit, putting LIV comfortably above the threshold required to secure future funding.\n\nThe development comes less than a month after LIV filed for Chapter 11 bankruptcy protection in the United States as it seeks to restructure and continue beyond the 2026 season.",
-        "copy": "LIV Golf have received verbal commitments from enough players to press ahead with their plans for 2027, according to a report. Industry sources told Golf Channel that a significant number of players have committed to the proposed new version of the circuit, putting LIV comfortably above the threshold required to secure future funding.\n\nThe development comes less than a month after LIV filed for Chapter 11 bankruptcy protection in the United States as it seeks to restructure and continue beyond the 2026 season.",
-        "first_seen": "2026-10-04T13:22:58.982276+00:00"
       }
     ],
     "Badminton": [
+      {
+        "section": "Badminton",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF Arctic Open 2026 badminton: Danish players celebrate title double as Mia Blichfeldt turns new mental approach into strong post-injury comeback",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUdUX2h1cGdVekpyTWtjek9XT3cxbVU4RzJEOWI2SlZpMklVR3c5X1dRbkJTYUNSenU2V21qNXdvdElnaVRJWGpTRDB4ZVJ1T2VLQVgzNS1CZDloVGVEd3lIM09pcDZjQnI1ZGRoZEJnazloOFhLbmtCTWlHbFlUaWRFajdLcjlrUkdZVGJzYzVhN21adjA0elJKNHNWWnBxRkZYZW1Pb0JWUjRQaUE?oc=5",
+        "published": "2026-10-11T12:30:00+00:00",
+        "published_label": "Sun 11 Oct, 12:30",
+        "summary": "BWF Arctic Open 2026 badminton: Danish players celebrate title double as Mia Blichfeldt turns new mental approach into strong post-injury comeback Olympics",
+        "body": "",
+        "copy": "",
+        "first_seen": "2026-10-11T14:17:11.306290+00:00"
+      },
       {
         "section": "Badminton",
         "source": "Olympics",
@@ -6805,32 +6818,6 @@
         "body": "Exactly a year ago, Azerbaijan’s Ulvi Huseynov was going on court for his men’s singles final at a regional championships when he felt an inexplicable heaviness in his right shoulder while picking up his racket bag.\n\nHe did lose that match, and he remembers how quiet the team bus was on their way back to the hotel. He was asked to leave for home immediately, and only on getting there did he realise why the management had insisted he skip the prize ceremony later that day – his father had passed away.",
         "copy": "Exactly a year ago, Azerbaijan’s Ulvi Huseynov was going on court for his men’s singles final at a regional championships when he felt an inexplicable heaviness in his right shoulder while picking up his racket bag.\n\nHe did lose that match, and he remembers how quiet the team bus was on their way back to the hotel. He was asked to leave for home immediately, and only on getting there did he realise why the management had insisted he skip the prize ceremony later that day – his father had passed away.",
         "first_seen": "2026-10-05T13:31:42.138810+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "A Father’s Death, and a Team That Turned into Family",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONlQ3ZzdTa3lmQllSWS1TdElQX0dDQThKcFBRU1oxY2tmb3prb0NncW5OaWpRbWY0NTJlOGpxS21Ya25nUTBnTFF6RmlMQ2FJOU1QeVM2NVZ4TlVXUXRia2dtVzZWa0twT2tNdENIMDVwTG9lU2tLelFDNDB3UTNpZ0EzSTlhekpvempaRXQ4MEtsM1Y0LUNjNXItdlhId1hv?oc=5",
-        "published": "2026-10-04T13:24:04+00:00",
-        "published_label": "Sun 04 Oct, 13:24",
-        "summary": "A Father’s Death, and a Team That Turned into Family BWF",
-        "body": "Exactly a year ago, Azerbaijan’s Ulvi Huseynov was going on court for his men’s singles final at a regional championships when he felt an inexplicable heaviness in his right shoulder while picking up his racket bag.\n\nHe did lose that match, and he remembers how quiet the team bus was on their way back to the hotel. He was asked to leave for home immediately, and only on getting there did he realise why the management had insisted he skip the prize ceremony later that day – his father had passed away.",
-        "copy": "Exactly a year ago, Azerbaijan’s Ulvi Huseynov was going on court for his men’s singles final at a regional championships when he felt an inexplicable heaviness in his right shoulder while picking up his racket bag.\n\nHe did lose that match, and he remembers how quiet the team bus was on their way back to the hotel. He was asked to leave for home immediately, and only on getting there did he realise why the management had insisted he skip the prize ceremony later that day – his father had passed away.",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF World Junior Mixed Team Championships 2026: Know India schedule and where to watch live",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGRZNGxDLTNVZ0Z3RS1kVHVYbXg3MUdCVzVPM3BfRWpfRWdrU0prOVBLaWh2YmI2SmN2YUkyMTVLVFE1TDVCWm1VLWw3dGhtRlNDNlkwaFR1R0VvZkFQcFlnMDFlYTJEVDJreHd3SkJqTXhlR0pGckdRdDkyX3Q5YmRFaE1WYks1Y3l4cUhhaEhBdVQxd1FBejlIb0VMS1J1SzJYcGR2NmhhNS1tMkE?oc=5",
-        "published": "2026-10-04T13:12:00+00:00",
-        "published_label": "Sun 04 Oct, 13:12",
-        "summary": "BWF World Junior Mixed Team Championships 2026: Know India schedule and where to watch live olympics.com",
-        "body": "",
-        "copy": "",
-        "first_seen": "2026-10-04T16:25:24.178603+00:00"
       }
     ],
     "Competitor News": [
@@ -6888,5 +6875,5 @@
       }
     ]
   },
-  "total": 528
+  "total": 527
 }
