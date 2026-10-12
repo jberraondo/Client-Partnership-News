@@ -14,12 +14,13 @@ Sections are listed in SECTION_ORDER, which is the fixed order they appear in th
 
 # Fixed order the sections appear in the bulletin.
 SECTION_ORDER = [
+    "Competitor News",
     "Wider Sports News",
     "Rugby",
     "Tennis",
     "Golf",
+    "THFC",
     "Badminton",
-    "Competitor News",
 ]
 
 # How many hours back to keep stories. Jacob's rule: strict 24h (48h only when asked).
@@ -39,15 +40,23 @@ SOURCES = [
     # ---- Rugby ----
     {"section": "Rugby", "name": "BBC Sport",  "kind": "direct", "url": "https://feeds.bbci.co.uk/sport/rugby-union/rss.xml"},
     {"section": "Rugby", "name": "Rugby Pass", "kind": "direct", "url": "https://www.rugbypass.com/feeds/rss/"},
+    {"section": "Rugby", "name": "The Independent", "kind": "direct", "url": "https://www.independent.co.uk/sport/rugby/rugby-union/rss"},
 
     # ---- Tennis ----
     {"section": "Tennis", "name": "BBC Sport",  "kind": "direct", "url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"},
-    {"section": "Tennis", "name": "Sky Sports", "kind": "gnews",  "query": "site:skysports.com/tennis"},
+    {"section": "Tennis", "name": "Sky Sports", "kind": "gnews",  "query": "site:skysports.com/tennis/news"},
+    {"section": "Tennis", "name": "The Guardian", "kind": "direct", "url": "https://www.theguardian.com/sport/tennis/rss"},
+    {"section": "Tennis", "name": "Tennis365",    "kind": "direct", "url": "https://www.tennis365.com/feed"},
 
     # ---- Golf ----
     {"section": "Golf", "name": "BBC Sport", "kind": "direct", "url": "https://feeds.bbci.co.uk/sport/golf/rss.xml"},
     {"section": "Golf", "name": "Golf.com",  "kind": "direct", "url": "https://golf.com/feed/"},
     {"section": "Golf", "name": "LIV Golf",  "kind": "gnews",  "query": "site:livgolf.com"},
+    {"section": "Golf", "name": "Golf Monthly", "kind": "direct", "max": 8, "url": "https://www.golfmonthly.com/feeds/all"},
+
+    # ---- THFC (Tottenham Hotspur) ----
+    {"section": "THFC", "name": "BBC Sport",       "kind": "direct", "url": "https://feeds.bbci.co.uk/sport/football/teams/tottenham-hotspur/rss.xml"},
+    {"section": "THFC", "name": "Football London", "kind": "gnews",  "max": 8, "query": "site:football.london tottenham"},
 
     # ---- Badminton ----
     {"section": "Badminton", "name": "Olympics",         "kind": "gnews", "query": "site:olympics.com badminton"},

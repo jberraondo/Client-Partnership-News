@@ -2,15 +2,21 @@
 """
 HSBC Partnership News scraper.
 
-Pulls recent stories from every source in sources.py, filters to the recency
-window, tries to extract two clean paragraphs of copy for each story, and writes
-everything to data/news.json grouped by section.
+Pulls recent stories from every source in sources.py, turns Google News links
+back into the real article links, reads the article text for any NEW story, and
+writes everything to data/news.json grouped by section.
+
+Stories that still need their two summary bullets are listed (with their
+article text) in data/pending.json. summarise.py then asks Claude to write the
+bullets and folds them back into data/news.json.
 
 Run it with:   python3 scrape.py
 Options (environment variables):
-   WINDOW_HOURS   how many hours back to keep (default 48)
+   WINDOW_HOURS   how many hours back to collect (default 48)
+   KEEP_DAYS      how many days of stories to keep in the archive (default 7)
    MAX_PER_SOURCE max stories kept per source (default 12)
-   FETCH_BODIES   "1" to fetch article bodies for fuller copy (default 1)
+   FETCH_BODIES   "1" to read article text (default 1)
+   FETCH_BROWSER  "1" to use a headless browser for sites that block us (default 1)
 """
 
 from __future__ import annotations  # allow modern type hints on Python 3.9
@@ -20,6 +26,7 @@ import re
 import json
 import html
 import time
+import hashlib
 import urllib.parse
 import warnings
 from datetime import datetime, timezone, timedelta
@@ -45,13 +52,30 @@ WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", DEFAULT_WINDOW_HOURS))
 KEEP_DAYS = int(os.environ.get("KEEP_DAYS", 7))
 MAX_PER_SOURCE = int(os.environ.get("MAX_PER_SOURCE", 12))
 FETCH_BODIES = os.environ.get("FETCH_BODIES", "1") == "1"
-OUT_PATH = os.path.join(os.path.dirname(__file__), "data", "news.json")
+FETCH_BROWSER = os.environ.get("FETCH_BROWSER", "1") == "1"
+# Only stories this fresh get sent for AI summaries (saves your Claude allowance).
+SUMMARY_WINDOW_HOURS = int(os.environ.get("SUMMARY_WINDOW_HOURS", 30))
+ARTICLE_MAX_WORDS = 900   # plenty for two bullets; keeps the AI step light
+
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
+OUT_PATH = os.path.join(DATA_DIR, "news.json")
+PENDING_PATH = os.path.join(DATA_DIR, "pending.json")
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept-Language": "en-GB,en;q=0.9",
 }
+# Cookie that skips Google's EU consent wall.
+GOOGLE_CONSENT = {"name": "SOCS", "value": "CAESEwgDEgk0ODE3Nzk3MjQaAmVuIAEaBgiA_LyaBg",
+                  "domain": ".google.com", "path": "/"}
+
+# Sources we don't bother browser-fetching: Olympics hard-blocks data-centre
+# servers; the FT is paywalled. The AI step can still try these itself.
+SKIP_BROWSER_SOURCES = {"Olympics", "Financial Times"}
+
+# Pages that aren't written articles (video clips, galleries, live blogs).
+NOT_AN_ARTICLE = re.compile(r"/(video|videos|watch|gallery|galleries|live|podcast)s?/", re.I)
 
 
 def gnews_url(query: str) -> str:
@@ -77,129 +101,135 @@ def parse_date(entry) -> datetime | None:
     return None
 
 
-def strip_publisher_suffix(title: str, source_name: str) -> str:
+def strip_publisher_suffix(title: str) -> str:
     """Google News titles end with ' - Publisher'; drop that tail."""
     return re.sub(r"\s+-\s+[^-]+$", "", title).strip() if " - " in title else title
 
 
-def extract_body(url: str) -> str:
-    """
-    Best-effort: fetch the article and return its first two real paragraphs.
-    Returns "" on any failure (blocked, paywalled, timeout, etc.).
-    """
+def story_id(link: str) -> str:
+    """Short, stable ID for a story (used to match up AI summaries)."""
+    return hashlib.sha1(link.encode("utf-8")).hexdigest()[:12]
+
+
+# ---------------------------------------------------------------------------
+# Google News links
+# ---------------------------------------------------------------------------
+# Google News RSS gives a scrambled news.google.com link rather than the real
+# article address. Google's own page swaps it for the real one with two quick
+# requests; we do the same so we can actually read the article.
+_gsession = requests.Session()
+_gsession.headers.update(HEADERS)
+_gsession.cookies.set(GOOGLE_CONSENT["name"], GOOGLE_CONSENT["value"], domain=GOOGLE_CONSENT["domain"])
+
+
+def decode_gnews_link(link: str) -> str:
+    """Return the real article URL behind a Google News link ("" if it fails)."""
+    try:
+        art_id = urllib.parse.urlparse(link).path.rstrip("/").split("/")[-1]
+        page = _gsession.get(f"https://news.google.com/articles/{art_id}", timeout=15)
+        div = BeautifulSoup(page.text, "html.parser").select_one("c-wiz > div[jscontroller]")
+        if not div:
+            return ""
+        sig, ts = div.get("data-n-a-sg"), div.get("data-n-a-ts")
+        inner = ('["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,'
+                 'null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,null,0],'
+                 f'"{art_id}",{ts},"{sig}"]')
+        body = "f.req=" + urllib.parse.quote(json.dumps([[["Fbv4je", inner]]]))
+        res = _gsession.post(
+            "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+            headers={"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
+            data=body, timeout=15)
+        data = json.loads(res.text.split("\n\n")[1])[:-2]
+        url = json.loads(data[0][2])[1]
+        return url if url.startswith("http") else ""
+    except Exception:
+        return ""
+
+
+# ---------------------------------------------------------------------------
+# Article text
+# ---------------------------------------------------------------------------
+def tidy_article(text: str) -> str:
+    """Keep proper sentence-like paragraphs (skip captions, stat lines), capped in length."""
+    paras = [line.strip() for line in (text or "").split("\n")
+             if len(line.strip()) >= 40 and any(p in line for p in ".!?")]
+    out, words = [], 0
+    for p in paras:
+        out.append(p)
+        words += len(p.split())
+        if words >= ARTICLE_MAX_WORDS:
+            break
+    result = "\n\n".join(out)
+    # Reject thin extractions (homepages, cookie notices) — the AI step will
+    # try the link itself instead.
+    return result if len(result) >= 250 else ""
+
+
+def fetch_article(url: str) -> str:
+    """Best-effort: fetch the article and return its main text. "" on any failure."""
     if not (FETCH_BODIES and HAVE_TRAFILATURA and url):
         return ""
     try:
         downloaded = trafilatura.fetch_url(url)
         if not downloaded:
             return ""
-        text = trafilatura.extract(
-            downloaded, include_comments=False, include_tables=False,
-            favor_precision=True,
-        ) or ""
+        text = trafilatura.extract(downloaded, include_comments=False,
+                                   include_tables=False, favor_precision=True) or ""
     except Exception:
         return ""
-
-    return top_paragraphs(text)
-
-
-def top_paragraphs(text: str, bullets: int = 2, target: int = 175) -> str:
-    """
-    Turn extracted article text into exactly `bullets` substantial bullets, each a
-    solid 2-3 lines, to match the example bulletins. News articles often open with
-    one-sentence paragraphs, so we combine consecutive paragraphs into each bullet
-    until it reaches `target` characters (≈ 2-3 lines) before starting the next.
-    """
-    # Keep proper sentence-like paragraphs; skip headings, stat lines, captions.
-    good = [line.strip() for line in (text or "").split("\n")
-            if len(line.strip()) >= 40 and any(p in line for p in ".!?")]
-
-    out, i = [], 0
-    for _ in range(bullets):
-        chunk = ""
-        while i < len(good) and len(chunk) < target:
-            chunk = (chunk + " " + good[i]).strip()
-            i += 1
-        if chunk:
-            out.append(chunk)
-
-    result = "\n\n".join(out)
-    # Reject thin extractions (homepages, "official site" blurbs, cookie notices)
-    # so they fall back to a clean manual write-up rather than junk copy.
-    return result if len(result) >= 250 else ""
+    return tidy_article(text)
 
 
-# Sources we don't bother browser-fetching: Sportcal & Olympics hard-block
-# data-centre servers (403); the FT is paywalled. These stay click-to-read.
-SKIP_BROWSER_SOURCES = {"Sportcal", "Olympics", "Financial Times"}
-FETCH_BROWSER = os.environ.get("FETCH_BROWSER", "1") == "1"
-# Cookie that skips Google's EU consent wall so redirects resolve cleanly.
-_GOOGLE_CONSENT = {"name": "SOCS", "value": "CAESEwgDEgk0ODE3Nzk3MjQaAmVuIAEaBgiA_LyaBg",
-                   "domain": ".google.com", "path": "/"}
-
-
-def _browser_body(page, url: str) -> str:
-    """Follow a Google News link through to the real article and read its body."""
-    try:
-        page.goto(url, wait_until="domcontentloaded", timeout=25000)
-    except Exception:
-        pass
-    # Wait for the redirect to leave google.com and land on the real article.
-    for _ in range(16):
-        if "google.com" not in page.url and "chrome-error" not in page.url:
-            break
-        try:
-            page.wait_for_timeout(500)
-        except Exception:
-            break
-    if "google.com" in page.url or "chrome-error" in page.url:
-        return ""
-    try:
-        page.wait_for_timeout(2500)  # let the article render
-        html = page.content()
-    except Exception:
-        return ""
-    if not HAVE_TRAFILATURA:
-        return ""
-    body = trafilatura.extract(html, include_comments=False,
-                               include_tables=False, favor_precision=True) or ""
-    return top_paragraphs(body)
-
-
-def browser_enrich(stories: list) -> None:
-    """Read article bodies for blocked (Google News) sources using a headless browser."""
-    targets = [s for s in stories
-               if s["kind"] == "gnews" and not s["body"]
-               and s["source"] not in SKIP_BROWSER_SOURCES]
-    if not (FETCH_BROWSER and targets):
+def browser_fetch(stories: list) -> None:
+    """Read articles that blocked the simple fetch, using a headless browser."""
+    targets = [s for s in stories if not s["article_text"] and s["source"] not in SKIP_BROWSER_SOURCES]
+    if not (FETCH_BROWSER and HAVE_TRAFILATURA and targets):
         return
     try:
         from playwright.sync_api import sync_playwright
     except Exception:
-        print("   (playwright not installed — skipping browser fetch; those stay manual)")
+        print("   (playwright not installed — skipping browser fetch)")
         return
 
-    print(f"\nBrowser-fetching copy for {len(targets)} blocked-source stories...")
-    ua = HEADERS["User-Agent"]
+    print(f"\nBrowser-fetching {len(targets)} articles that blocked the simple fetch...")
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        ctx = browser.new_context(user_agent=ua, locale="en-GB")
-        ctx.add_cookies([_GOOGLE_CONSENT])
+        ctx = browser.new_context(user_agent=HEADERS["User-Agent"], locale="en-GB")
+        ctx.add_cookies([GOOGLE_CONSENT])
         page = ctx.new_page()
         for s in targets:
-            s["body"] = _browser_body(page, s["link"])
+            try:
+                page.goto(s["link"], wait_until="domcontentloaded", timeout=20000)
+                page.wait_for_timeout(2500)  # let the article render
+                text = trafilatura.extract(page.content(), include_comments=False,
+                                           include_tables=False, favor_precision=True) or ""
+                s["article_text"] = tidy_article(text)
+            except Exception:
+                pass
         browser.close()
-    done = sum(1 for s in targets if s["body"])
-    print(f"   got full copy for {done}/{len(targets)}")
+    print(f"   read {sum(1 for s in targets if s['article_text'])}/{len(targets)}")
 
 
+def opening_copy(text: str, target: int = 175) -> str:
+    """Stop-gap copy (the article's opening, as two chunks) shown until the AI bullets arrive."""
+    paras = [p for p in (text or "").split("\n\n") if p.strip()]
+    out, i = [], 0
+    for _ in range(2):
+        chunk = ""
+        while i < len(paras) and len(chunk) < target:
+            chunk = (chunk + " " + paras[i]).strip()
+            i += 1
+        if chunk:
+            out.append(chunk)
+    return "\n\n".join(out)
+
+
+# ---------------------------------------------------------------------------
+# Feeds
+# ---------------------------------------------------------------------------
 def collect_from_source(src: dict) -> list[dict]:
     """Fetch and normalise stories from a single source."""
-    if src["kind"] == "gnews":
-        feed_url = gnews_url(src["query"])
-    else:
-        feed_url = src["url"]
-
+    feed_url = gnews_url(src["query"]) if src["kind"] == "gnews" else src["url"]
     try:
         feed = feedparser.parse(feed_url, request_headers=HEADERS)
     except Exception as e:
@@ -210,27 +240,24 @@ def collect_from_source(src: dict) -> list[dict]:
     stories = []
     for entry in feed.entries:
         published = parse_date(entry)
-        # If no date, keep it but mark unknown (Google News always supplies one).
         if published and published < cutoff:
             continue
 
-        title = strip_publisher_suffix(clean_text(entry.get("title", "")), src["name"])
+        title = strip_publisher_suffix(clean_text(entry.get("title", "")))
         link = entry.get("link", "")
         if not title or not link:
             continue
-
-        summary = clean_text(entry.get("summary", ""))
 
         stories.append({
             "section": src["section"],
             "source": src["name"],
             "kind": src["kind"],
             "title": title,
-            "link": link,
+            "feed_link": link,     # as given by the feed (Google News links are scrambled)
+            "link": link,          # the real article link (fixed up later for Google News)
             "published": published.isoformat() if published else None,
             "published_label": published.strftime("%a %d %b, %H:%M") if published else "",
-            "summary": summary,   # short feed snippet (always available)
-            "body": "",           # filled in below for direct sources
+            "summary": clean_text(entry.get("summary", "")),  # short feed snippet
         })
         if len(stories) >= src.get("max", MAX_PER_SOURCE):
             break
@@ -238,93 +265,101 @@ def collect_from_source(src: dict) -> list[dict]:
 
 
 def main():
-    print(f"Scraping {len(SOURCES)} sources, last {WINDOW_HOURS}h, "
-          f"bodies={'on' if FETCH_BODIES and HAVE_TRAFILATURA else 'off'}\n")
-
-    all_stories = []
-    seen_titles = set()
-
-    for src in SOURCES:
-        got = collect_from_source(src)
-        # Dedupe by normalised title across the whole run.
-        unique = []
-        for s in got:
-            key = re.sub(r"[^a-z0-9]", "", s["title"].lower())[:60]
-            if key and key not in seen_titles:
-                seen_titles.add(key)
-                unique.append(s)
-        print(f"   {src['section']:18s} {src['name']:16s} {len(unique):2d} stories")
-        all_stories.extend(unique)
-
-    # Enrich direct-source stories with two paragraphs of body copy.
-    if FETCH_BODIES and HAVE_TRAFILATURA:
-        direct = [s for s in all_stories if s["kind"] == "direct"]
-        print(f"\nFetching article copy for {len(direct)} direct-source stories...")
-        for i, s in enumerate(direct, 1):
-            s["body"] = extract_body(s["link"])
-            time.sleep(0.3)  # be polite
-        done = sum(1 for s in direct if s["body"])
-        print(f"   got full copy for {done}/{len(direct)}")
-
-    # Read blocked (Google News) sources with a real browser where we can.
-    browser_enrich(all_stories)
-
-    # For every story, settle on the best available "copy" text.
-    # Google News snippets are usually just the headline echoed back (+ publisher),
-    # which is useless as copy — blank those so the page prompts for a manual write-up.
-    for s in all_stories:
-        snippet = s["summary"]
-        norm_snip = re.sub(r"[^a-z0-9]", "", snippet.lower())
-        norm_title = re.sub(r"[^a-z0-9]", "", s["title"].lower())
-        if norm_title and norm_title in norm_snip and len(norm_snip) < len(norm_title) + 50:
-            snippet = ""
-        s["copy"] = s["body"] or snippet
-
-    # ---- Merge with previously collected stories (accumulate, don't overwrite) ----
+    print(f"Scraping {len(SOURCES)} sources, last {WINDOW_HOURS}h\n")
     now = datetime.now(timezone.utc)
 
-    def story_key(s):
-        return s.get("link") or re.sub(r"[^a-z0-9]", "", s.get("title", "").lower())[:60]
-
-    merged = {}
+    # ---- Load the archive so we only do the slow work for NEW stories ----
+    archive = {}
     if os.path.exists(OUT_PATH):
         try:
             with open(OUT_PATH, encoding="utf-8") as f:
                 prev = json.load(f)
             for sec_items in prev.get("sections", {}).values():
                 for s in sec_items:
-                    merged[story_key(s)] = s
+                    archive[s.get("feed_link") or s.get("link")] = s
         except Exception:
             pass
-    print(f"\nMerging: {len(merged)} previously collected + {len(all_stories)} new")
 
-    for s in all_stories:
-        k = story_key(s)
-        if k in merged:
-            old = merged[k]
-            # Keep whichever version has the richer copy; preserve original first_seen.
-            if len(s.get("copy", "")) > len(old.get("copy", "")):
-                s["first_seen"] = old.get("first_seen", now.isoformat())
-                merged[k] = s
-            else:
-                merged[k].setdefault("first_seen", now.isoformat())
-        else:
-            s["first_seen"] = now.isoformat()
-            merged[k] = s
+    # ---- Collect from every feed ----
+    fresh, seen_titles = [], set()
+    for src in SOURCES:
+        unique = []
+        for s in collect_from_source(src):
+            key = re.sub(r"[^a-z0-9]", "", s["title"].lower())[:60]
+            if key and key not in seen_titles:
+                seen_titles.add(key)
+                unique.append(s)
+        print(f"   {src['section']:18s} {src['name']:18s} {len(unique):2d} stories")
+        fresh.extend(unique)
+
+    new = [s for s in fresh if s["feed_link"] not in archive]
+    print(f"\n{len(new)} new stories (of {len(fresh)} collected)")
+
+    # ---- New stories: real links, then article text ----
+    gnews = [s for s in new if s["kind"] == "gnews"]
+    if gnews:
+        print(f"Unscrambling {len(gnews)} Google News links...")
+        for s in gnews:
+            s["link"] = decode_gnews_link(s["feed_link"]) or s["feed_link"]
+            time.sleep(0.5)  # be polite to Google
+        print(f"   resolved {sum(1 for s in gnews if s['link'] != s['feed_link'])}/{len(gnews)}")
+
+    for s in new:
+        s["id"] = story_id(s["feed_link"])
+        s["bullets"] = []
+        s["is_article"] = not NOT_AN_ARTICLE.search(s["link"])
+        s["article_text"] = ""
+
+    readable = [s for s in new if s["is_article"] and "news.google.com" not in s["link"]]
+    if FETCH_BODIES and HAVE_TRAFILATURA and readable:
+        print(f"Reading {len(readable)} articles...")
+        for s in readable:
+            s["article_text"] = fetch_article(s["link"])
+            time.sleep(0.3)  # be polite
+        print(f"   read {sum(1 for s in readable if s['article_text'])}/{len(readable)}")
+        browser_fetch(readable)
+
+    for s in new:
+        s["copy"] = opening_copy(s["article_text"])
+        s["first_seen"] = now.isoformat()
+
+    # ---- Merge into the archive (existing stories keep their bullets) ----
+    merged = dict(archive)
+    for s in new:
+        merged[s["feed_link"]] = s
 
     # ---- Drop anything older than KEEP_DAYS ----
     cutoff_keep = now - timedelta(days=KEEP_DAYS)
 
-    def age_ok(s):
+    def when(s):
         ts = s.get("published") or s.get("first_seen")
-        if not ts:
-            return True
         try:
-            return datetime.fromisoformat(ts) >= cutoff_keep
+            return datetime.fromisoformat(ts) if ts else now
         except Exception:
-            return True
+            return now
 
-    kept = [s for s in merged.values() if age_ok(s)]
+    kept = [s for s in merged.values() if when(s) >= cutoff_keep]
+
+    # ---- Stories still needing AI bullets → pending.json ----
+    cutoff_sum = now - timedelta(hours=SUMMARY_WINDOW_HOURS)
+    pending = []
+    for s in kept:
+        s.setdefault("id", story_id(s.get("feed_link") or s["link"]))
+        s.setdefault("bullets", [])
+        if s["bullets"] or s.get("summary_status") == "skipped" or not s.get("is_article", True):
+            continue
+        if when(s) < cutoff_sum or s.get("summary_attempts", 0) >= 2:
+            continue
+        pending.append({
+            "id": s["id"], "section": s["section"], "source": s["source"],
+            "title": s["title"], "link": s["link"],
+            "article_text": s.get("article_text", ""),
+        })
+    # The article text is only needed for the AI step — keep it out of news.json
+    # so the web page stays quick to load.
+    for s in kept:
+        s.pop("article_text", None)
+        s.pop("body", None)
 
     # Group by section in fixed order, newest first.
     grouped = {sec: [] for sec in SECTION_ORDER}
@@ -342,11 +377,14 @@ def main():
         "total": len(kept),
     }
 
-    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
+    os.makedirs(DATA_DIR, exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
+    with open(PENDING_PATH, "w", encoding="utf-8") as f:
+        json.dump(pending, f, ensure_ascii=False, indent=2)
 
-    print(f"\nWrote {len(kept)} stories (rolling {KEEP_DAYS}-day archive) to {OUT_PATH}")
+    print(f"\nWrote {len(kept)} stories to {OUT_PATH}")
+    print(f"{len(pending)} stories waiting for AI bullets in {PENDING_PATH}")
 
 
 if __name__ == "__main__":

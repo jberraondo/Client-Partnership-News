@@ -1,39 +1,53 @@
-# HSBC Partnership News — Morning Brief
+# HSBC Partnership News: Morning Brief
 
-A small tool that automatically collects each morning's sports-business news from
-your usual sources, groups it into the bulletin sections, and lets you tick the
-stories you want and copy a ready-formatted bulletin into your email.
+A small tool that collects the day's sports-business news from your usual sources and
+has Claude write **two summary bullets (100–150 words)** for every story. The team
+then picks the stories they want and copies a ready-formatted bulletin into an email.
 
 ## How it works (plain English)
 
-1. **`scrape.py`** visits every source (using RSS feeds, plus Google News for sites
-   that block scrapers like Sportcal), keeps the last 24–48 hours of stories, and —
-   for sources we're allowed to read — pulls two clean paragraphs of copy. It saves
-   everything into **`data/news.json`**.
-2. **`index.html`** is the web page. It reads `news.json`, shows the stories grouped
-   by section, and gives you checkboxes, source filters, a 24h/48h toggle, and a
-   **Copy bulletin** button.
-3. A **GitHub Action** (`.github/workflows/scrape.yml`) runs `scrape.py` automatically
-   every morning so the page is fresh when you arrive.
+1. **`scrape.py`** visits every source in `sources.py`. It turns Google News links back
+   into the real article links, reads each new article, and saves the stories to
+   **`data/news.json`**. Stories still waiting for bullets go into `data/pending.json`.
+2. **`summarise.py`** sends the waiting stories to Claude, which writes the two bullets
+   following **`SUMMARY_STYLE.md`**. Claude also flags off-topic stories, such as
+   Competitor News that isn't really about a bank sponsorship.
+3. **`index.html`** is the web page the team uses: pick stories, tweak bullets, then
+   click **Copy bulletin**.
+4. A **GitHub Action** (`.github/workflows/scrape.yml`) runs steps 1 and 2 every two
+   hours from 06:00 to 18:00 UTC, plus 07:30.
 
 ## Using it each morning
 
 1. Open the page (your GitHub Pages link).
-2. Tick the stories you want. Sources that block auto-copy show a **READ & WRITE**
-   badge — click the headline, read the article, and type the two paragraphs into the
-   box (it's editable). Full-copy stories are ready to go.
-3. Click **Copy bulletin** and paste into your email. Links and bold formatting carry over.
+2. Click **+ Add** on up to two stories per section. The live preview on the right
+   shows exactly what will paste.
+3. Click any bullet to edit it. A story marked **Needs a write-up** couldn't be read
+   automatically: open the article and type two bullets.
+4. Click **Copy bulletin** and paste into your email. The links and bold formatting carry over.
+
+Picks and edits are saved in each person's own browser and reset each day.
+
+## One-off setup: the Claude token
+
+The summaries run on your Claude subscription (Pro or Max) and need no separate API bill.
+
+1. In Terminal, run `claude setup-token` and follow the sign-in steps. It prints a long token.
+2. On GitHub, open the repo → **Settings → Secrets and variables → Actions →
+   New repository secret**. Name: `CLAUDE_CODE_OAUTH_TOKEN`. Value: the token.
+
+## Changing things
+
+- **Sources:** edit `sources.py`. Each source is either a direct RSS feed
+  (`"kind": "direct"`) or a Google News search (`"kind": "gnews"`).
+- **Bullet style:** edit `SUMMARY_STYLE.md`.
+- **Which Claude model:** set `SUMMARY_MODEL` in the workflow (default `sonnet`).
 
 ## Running it yourself (optional)
 
 ```bash
 pip install -r requirements.txt
-python3 scrape.py          # writes data/news.json
+python3 scrape.py          # collects stories
+python3 summarise.py       # writes the bullets (needs the claude command, signed in)
 python3 -m http.server     # then open http://localhost:8000
 ```
-
-## Editing your sources
-
-All sources live in **`sources.py`** — add, remove, or re-order them there. Each is
-either a direct RSS feed (`"kind": "direct"`) or a Google News search
-(`"kind": "gnews"`) for sites that block scrapers.
