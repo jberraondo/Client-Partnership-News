@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T17:14:09.387323+00:00",
-  "generated_label": "Monday 12 October 2026, 17:14 UTC",
+  "generated_at": "2026-10-12T17:21:24.005496+00:00",
+  "generated_label": "Monday 12 October 2026, 17:21 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -28,7 +28,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+        "first_seen": "2026-10-12T17:11:55.010181+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -41,10 +43,14 @@
         "published_label": "Mon 12 Oct, 15:21",
         "summary": "Bayern Munich and fintech partner Adyen renew partnership Sportcal",
         "id": "748973ad605b",
-        "bullets": [],
+        "bullets": [
+          "Amsterdam-based fintech Adyen has renewed its sponsorship of Bayern Munich and remains the club's exclusive payment solutions partner. The company has handled payment processing at all of Bayern's points of sale for the past three years, including purchases at the roughly 75,000-capacity stadium in Munich and at official club retail outlets. The length of the renewed deal was not stated.",
+          "The original agreement began in mid-2023 and is estimated by GlobalData Sport to be worth $1.5 million a year. The renewal came five matchdays into the 2026-27 Bundesliga season, with Bayern third in the table after three wins from five games. Bayern recently extended its partnership with Ursapharm for three years, keeping the Hylo brand as a gold partner until 2029, and added AI firm Wonderful as a club partner in August."
+        ],
         "is_article": true,
         "copy": "Financial technology platform Ayden will continue as a sponsor of Bayern Munich after extending its deal with the German soccer heavyweights. Through the renewal, unveiled today, Amsterdam-based Adyen will remain the team's exclusive payment solutions partner.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. The Bundesliga champions have had a partnership in place with the company since 2023, through which the brand has been managing Bayern's payment processing across all points of sale for the last three years.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -57,10 +63,14 @@
         "published_label": "Mon 12 Oct, 14:50",
         "summary": "NFL takes bite out of Five Guys UK partnership Sportcal",
         "id": "70c4b4041b73",
-        "bullets": [],
+        "bullets": [
+          "Fast-food chain Five Guys has become an official commercial partner of the NFL in the UK under a three-year agreement. It will be the league's official burger partner for the 2026, 2027 and 2028 seasons. The partnership includes exclusive ticket giveaways, fan meet-and-greets, live experiences and NFL-themed events.",
+          "Henry Hodgson, general manager of NFL UK and Ireland, described Five Guys as an established brand with a strong presence across the UK. Earlier this month the league named Midnite its official sports betting partner in the UK and Ireland and renewed its sponsorship with workwear brand Engelbert Strauss in the UK and Germany. The NFL is staging three London games this season: the Jacksonville Jaguars beat the Philadelphia Eagles 19-17 at Tottenham Hotspur Stadium on 11 October, and the Jaguars face the Houston Texans at Wembley on 18 October."
+        ],
         "is_article": true,
         "copy": "Fast-food chain Five Guys has been named an official commercial partner of American football’s NFL in the UK under a three-year agreement. The US-based restaurant will serve as the league’s official burger partner in the UK across the 2026, 2027, and 2028 seasons.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Through the partnership, Five Guys and the NFL will collaborate on several fan engagement initiatives.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -73,10 +83,14 @@
         "published_label": "Mon 12 Oct, 13:31",
         "summary": "From new hosting models to decentralised events, there was plenty on the agenda in Switzerland. The post Postcard from Lausanne: What the SportAccord Forum revealed about the future of international sport appeared first on SportsPro .",
         "id": "52c982e56987",
-        "bullets": [],
+        "bullets": [
+          "The 20th SportAccord Forum, rebranded from the IF Forum, took place from 5 to 7 October 2026 at the Olympic Museum in Lausanne, with SportsPro as exclusive content partner. Discussion covered the IOC's \"Fit for the Future\" strategy, under which the core Olympic programme will be confirmed seven years ahead from Brisbane 2032. Disciplines will be assessed on global appeal, cost, operational complexity and athlete representation, and IOC president Kirsty Coventry has said Brisbane will have fewer than the 36 sports in Los Angeles.",
+          "The IOC also published a Trustworthy AI Framework shortly before the Forum, while Halfspace's Sanjit Atwal argued that data should come before AI and that sport has been poor at using its data. SportsPro CEO Nick Meacham named participation as the biggest opportunity, citing over 1.3 million applicants for the 2027 London Marathon ballot and about 1.5 million Hyrox entries last season. The closing City Forum heard that cities increasingly want events to deliver for their communities, with public funding tied to priorities such as inclusion and sustainability."
+        ],
         "is_article": true,
         "copy": "It’s late on Sunday afternoon when SportsPro pulls into Lausanne on a train from Geneva, which means there’s only one place to aim for: the lake. Even as the sun is starting to set, there is still plenty of activity on the waterfront. As this correspondent (very) gently jogs along the path, periodically checking Google Maps to make sure he is still heading loosely in the direction of Saint-Sulpice, locals are still out on paddleboards, returning from tennis courts and passing a rugby ball between each other.\n\nThey don’t call this the Olympic Capital for nothing. After all, nearly 60 international sports organisations and federations are stationed in Lausanne and the surrounding Canton of Vaud, including the International Olympic Committee (IOC).",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -89,10 +103,14 @@
         "published_label": "Mon 12 Oct, 13:20",
         "summary": "DAZN builds on NBA, FIBA deals, with Basket.TV acquisition Sportcal",
         "id": "0807f08a1051",
-        "bullets": [],
+        "bullets": [
+          "Streaming platform DAZN has acquired Basket.TV, a basketball streaming service focused mainly on Latin America. Basket.TV operates in Argentina, Brazil, Uruguay, Bolivia, Chile and Ecuador, carrying domestic leagues and selected international competitions. It covers about 4,900 matches per season across more than 300 teams. DAZN chief executive Shay Segev said the acquisition significantly strengthens the company's global basketball offering.",
+          "Latin America is a priority growth market for DAZN, which is currently significant only in Brazil. DAZN has been a joint venture partner of FIBA Media since 2016, and its Courtside 1891 site moved to exclusive DAZN distribution earlier this year, having exclusively covered the FIBA Women's World Cup worldwide. The company has also signed local rights deals with several NBA teams in recent weeks and months, including the Indiana Pacers, Detroit Pistons, Cleveland Cavaliers, Orlando Magic, San Antonio Spurs, Memphis Grizzlies and Minnesota Timberwolves."
+        ],
         "is_article": true,
         "copy": "Global sports subscription platform DAZN has bought up basketball streaming service Basket.TV, which mainly serves Latin America. Basket.TV operates primarily across Argentina, Brazil, Uruguay, Bolivia, Chile, and Ecuador, and covers both domestic leagues from those countries, as well as a selection of competitions from across the globe.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. This move from DAZN comes after that service – through its Courtside 1891 specialist basketball site – covered the FIBA Women's World Cup, exclusively worldwide.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -108,7 +126,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -124,7 +144,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Sky Sports has partnered with the Mental Health Foundation to deliver a mental health awareness campaign marking World Mental Health Day on 10th October 2026, combining personal storytelling with practical resources to encourage conversations about mental wellbeing.\n\nThe initiative features two short films, including one starring Sky Sports pundit and former England international Paul Merson, who speaks openly about his experiences with mental health and suicidal thoughts.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -140,7 +162,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Discover how rights holders are building a Single Supporter View in our live webinar on Wednesday 14th October at 3pm. How well do clubs really know their supporters? As supporter interactions become increasingly fragmented across ticketing, memberships, retail and digital channels, many organisations are looking to build a more complete picture of the people they serve.\n\nJoin Data Talks and Bradford City AFC for an open webinar exploring how rights holders can build a clearer view of their supporters and turn that understanding into more relevant and engaging experiences.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -156,7 +180,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Millwall FC has announced a new partnership with Trustee Fire & Security Ltd, expanding an existing relationship with the South London and Kent-based company that dates back to 2018.\n\nThe agreement will see Trustee become the Championship club’s fire safety partner, increasing its branding presence at The Den and providing further opportunities to engage with Millwall’s business community.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -172,7 +198,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "beIN Asia Pacific has secured exclusive broadcast rights to Wimbledon across Southeast Asia and Hong Kong from 2027 to 2031, extending its long-standing media partnership with the All England Lawn Tennis Club (AELTC).\n\nThe five-year agreement will see live coverage of The Championships distributed through beIN SPORTS and its streaming platform, beIN SPORTS Connect, across ten markets, including Singapore, Malaysia, Indonesia, Thailand, the Philippines and Hong Kong.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -185,10 +213,14 @@
         "published_label": "Mon 12 Oct, 11:00",
         "summary": "Hang Seng Bank becomes presenting partner of Hong Kong WTT Finals Sportcal",
         "id": "e44aeaa000d6",
-        "bullets": [],
+        "bullets": [
+          "Hang Seng Bank has become presenting partner of the 2026 WTT Finals Hong Kong, under an agreement with World Table Tennis (WTT), the commercial arm of the International Table Tennis Federation. The event runs from 9 to 13 December at Kai Tak Arena and features 16 men's and women's singles players and eight mixed doubles teams.",
+          "The bank will run a citywide campaign with interactive games, customer offers and chances to meet players, and will provide free tickets for low-income families and elderly people. Hang Seng credit card holders will get a priority ticket-buying window in late October. The event moved from the Hong Kong Coliseum to Kai Tak in mid-September, as the Coliseum shifts towards hosting more concerts. WTT partnerships director Jonny Cowan noted that the bank has long supported the Hong Kong China Table Tennis Association, and the bank has sponsored Hong Kong table tennis for well over three decades."
+        ],
         "is_article": true,
         "copy": "Hong Kong-based financial institution Hang Seng Bank has signed up as a presenting partner for table tennis' 2026 WTT Finals Hong Kong. The deal, struck between the bank and World Table Tennis (WTT), the commercial arm of the International Table Tennis Federation (ITTF), covers the 2026 Finals, taking place at the territory's Kai Tek Arena between December 9 and 13.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. The finals will incorporate 16 men's and women's singles players and eight mixed doubles teams.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -204,7 +236,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -220,7 +254,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -236,7 +272,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "The Lawn Tennis Association has announced a £1.6m investment in British university tennis and padel through to the end of the 2028/29 academic year, representing a 15% increase on its previous funding cycle\n\nThe funding will be match-funded by participating universities, unlocking a further £1.6m and bringing the combined investment to £3.2m over the three-year period. The LTA also plans to expand its network of partner universities from 32 to 50 nationwide by the end of the funding cycle, increasing opportunities for student participation, workforce development and competition.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -249,10 +287,14 @@
         "published_label": "Mon 12 Oct, 10:33",
         "summary": "As live events, sport and culture converge around fandom, FUEL's global experience scale and 53Six's growth and fan-data strategy combine to accelerate Irish and international expansion. The post FUEL expands global footprint with acquisition of sports marking agency 53Six appeared first on SportsPro .",
         "id": "a28f12b1e850",
-        "bullets": [],
+        "bullets": [
+          "Irish experience and entertainment group FUEL has acquired 53Six, a Dublin- and London-based sports marketing and growth agency founded in 2016 with about 20 specialists. Financial terms and deal length were not disclosed. 53Six will keep its brand and continue to be led by co-founders Tom Fox as CEO and Marcus McDonnell as COO.",
+          "53Six's clients include Arsenal, Juventus, UEFA, the FAI, the IRFU, Leinster Rugby, the Jacksonville Jaguars and Flutter. FUEL, founded in 2013 by Jamie Deasy and Brian McDermott, is headquartered in Dublin with teams in the US and UK, and delivers more than 650 experiences and events across 55 cities. Deasy cited a strong cultural fit and described the combination as an end-to-end global growth engine for clients. Fox said 53Six wanted a strategic partner to accelerate its international growth."
+        ],
         "is_article": true,
         "copy": "FUEL, Ireland’s leading experience and entertainment group, has announced the acquisition of 53Six, the Dublin and London-based sports marketing agency. Under the terms of the agreement, 53Six will continue to operate under its existing brand identity as part of the FUEL group, led by co-founders Tom Fox (CEO) and Marcus McDonnell (COO).\n\n53Six joins FUEL, the multi-award-winning global group operating across live experiences, creative, employee experience, and high-end content production. Headquartered in Dublin with dedicated teams across the US and UK, FUEL operates on an international scale, delivering more than 650 experiences and events across 55 cities worldwide for a client portfolio that includes PayPal, Coca-Cola, Google, Meta, Airbnb, Universal Music Group, World Rugby, and Amgen. Founded in 2013 by Jamie Deasy and Brian McDermott, FUEL also operates major cultural festivals, including WellFest, Beyond the Pale, and Kaleidoscope festival, the latter in partnership with Festival Republic, Live Nation, and MCD.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -265,10 +307,14 @@
         "published_label": "Mon 12 Oct, 10:20",
         "summary": "Adobe makes first tennis move with Australian Open deal Sportcal",
         "id": "d92160231655",
-        "bullets": [],
+        "bullets": [
+          "Adobe has entered tennis for the first time through a multi-year partnership with the Australian Open and Tennis Australia, becoming the tournament's official AI marketing and creativity partner. The article does not state the length or value of the deal. It is Adobe's first tennis sponsorship globally.",
+          "Tennis Australia will use Adobe CX Enterprise, a customer experience platform, to offer more personalised fan experiences by connecting attendees with relevant matches, dining options and activities. Tennis Australia chief technology officer Alan Sharvin called Adobe a key partner and enabler in delivering its audience goals. Adobe's Duncan Egan said the Australian Open is the ideal partner to showcase how AI can transform fan engagement at scale. Adobe also sponsors the NHL, the NFL and the Premier League, and renewed and expanded its Major League Baseball deal in March. DoorDash is the other new Australian Open sponsor this month."
+        ],
         "is_article": true,
         "copy": "Software giant Adobe has made its first entry into tennis through a multi-year partnership with the Australian Open Grand Slam. Under the deal with Tennis Australia, the company has been named the tournament's official AI marketing and creativity partner.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Through the tie-up, Tennis Australia will utilize Adobe CX Enterprise, an end-to-end platform for customer experience orchestration, to enhance fan experiences by delivering more personalised and connected interactions.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -281,10 +327,14 @@
         "published_label": "Mon 12 Oct, 10:20",
         "summary": "CONMEBOL adds Libertadores rights deals with Globo, Paramount+ in Brazil Sportcal",
         "id": "cbc627cd1a90",
-        "bullets": [],
+        "bullets": [
+          "CONMEBOL has agreed new Copa Libertadores rights deals in Brazil with Globo and Paramount. Globo's pay-TV channel SporTV will show 41 matches per season, including the final, through 2030. Paramount will show the same number of fixtures, including the final, on Paramount+, live for the first time.",
+          "Globo's package covers selected preliminary-phase matches, 24 group-stage matches, two Round-of-16 matches, one quarter-final, one semi-final and a shared final. It also includes the women's, Sub-20, futsal, beach soccer and eLibertadores competitions. The deals were brokered by IMG, which extended its CONMEBOL partnership through 2030 via its joint venture FC Diez Media. They add to Globo's 2027–30 coverage, which already included exclusive free-to-air rights agreed last December. ESPN holds the main Libertadores package in Brazil for 2027–30, with priority in choosing matches each round."
+        ],
         "is_article": true,
         "copy": "CONMEBOL, South America’s governing body for soccer, has expanded the visibility of its top-tier Libertadores men's club competition in Brazil after securing new rights deals with media heavyweights Globo and Paramount.\n\nThe body’s agreement with commercial broadcaster Globo will see the CONMEBOL Copa Libertadores return to its pay-TV service, SporTV, with 41 matches per season, including the final, while Paramount will also show the same number of fixtures and the final on its streaming service Paramount+ live for the first time.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -297,10 +347,14 @@
         "published_label": "Mon 12 Oct, 09:57",
         "summary": "Amonde backs Shujaa to fight their way back to HSBC top tier Citizen Digital",
         "id": "1de33a179e55",
-        "bullets": [],
+        "bullets": [
+          "Former Kenya sevens captain and current KCB head coach Andrew Amonde has said Shujaa can regain their place in the HSBC SVNS top tier. He spoke to Citizen Digital ahead of the HSBC SVNS 2 season, saying the team is heading in the right direction and praising their determination and passion.",
+          "Shujaa retained the Safari Sevens title with a 24-5 win over Kenya Morans in an all-Kenyan final at Nyayo National Stadium in Nairobi on 11 October. Amonde credited a mix of young talent and experienced players, which he said will help talent development and the building of a strong national side. He urged the Kenya Rugby Union to give Shujaa full support and exposure, saying they need a lot of exposure to get back to the first tier."
+        ],
         "is_article": true,
         "copy": "and passion were signs that they were heading in the right direction. passion. It is something that really impressed me and the fans. They are heading in the right direction,” said Amonde.\n\nimportant in developing talent and building a strong national side. played a huge part in the team’s success in the tournament. It is something “They need all the support to keep shining, and they need a lot of exposure to get back to the first tier. I believe they are going to get back,” stated the former captain.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -316,7 +370,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -329,10 +385,14 @@
         "published_label": "Mon 12 Oct, 08:21",
         "summary": "What to expect during the sports media industry's autumn fixture, taking place from 19th to 21st October. The post Brands, betting and broadcast models: What to watch at Sportel Monaco 2026 appeared first on SportsPro .",
         "id": "d1f9898a9710",
-        "bullets": [],
+        "bullets": [
+          "Sportel Monaco 2026 takes place from 19 to 21 October at the Grimaldi Forum in Monaco, with the exhibition floor 80% sold out and more than 80 exhibitors expected. Confirmed attendees include Relevent, Two Circles, Infront, LaLiga, the NFL, FIFA, ESPN, Sportradar and Deltatre. LaLiga president Javier Tebas will give a keynote interview on the league's broadcasting plans, including distribution models, piracy and audience fragmentation.",
+          "A new CMO Brand Programme, with Qualcomm as main sponsor, will run on Monday 19 October as a day of closed-door panels and networking. It aims to involve brand marketers earlier in conversations about content, audiences and data. Speakers include Rory Miller Cheevers of Revolut, Paddy Carberry of Diageo and Ashish Babu of Tata Consultancy Services. Masterclasses will cover the global sports ecosystem, AI, post-Olympics and World Cup production, and live betting. Sportel Canada will debut in Toronto on 23–24 March 2027."
+        ],
         "is_article": true,
         "copy": "For more than three decades, Sportel Monaco has been where the sports media business goes to do deals. Rights holders, broadcasters, streamers and the technology firms that sit between them descend on the Grimaldi Forum each October to buy, sell and size each other up.\n\nThat part isn’t changing. With the exhibition floor already 80 per cent sold out and more than 80 exhibitors expected, the 2026 edition is shaping up to be as busy as ever. Industry heavyweights including Relevent, Two Circles, Infront, LaLiga, the National Football League (NFL), Fifa, ESPN, Sportradar and Deltatre are among those already confirmed to attend, while the usual suspects like YouTube, JioStar, Warner Bros Discovery, AWS and IMG are also set to be part of the mix.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -345,10 +405,14 @@
         "published_label": "Mon 12 Oct, 06:25",
         "summary": "HSBC: 80 years of banking on the UAE’s ambition Gulf News",
         "id": "820fbff21e7e",
-        "bullets": [],
+        "bullets": [
+          "HSBC Bank Middle East chairman Abdulfattah Sharaf has marked the bank's 80th anniversary in the UAE, which dates from 12 October 1946, when a small branch opened beside Dubai Creek as the first bank in Dubai. It followed a meeting between Imperial Bank manager Frank Johnson and Sheikh Saeed Bin Maktoum Al Maktoum and his son, Sheikh Rashid Bin Saeed Al Maktoum.",
+          "The bank helped raise the loan to dredge Dubai Creek in 1954 and opened branches in Sharjah in 1953 and Abu Dhabi in 1959. It introduced the UAE's first operational ATM in 1984 and moved its incorporation and regional head office to the Dubai International Financial Centre in 2016. Sharaf points to green mortgages, the region's first digital bond with the Abu Dhabi Securities Exchange and mangrove restoration work, and closes: \"We look forward to the next 80 years together.\""
+        ],
         "is_article": true,
         "copy": "On October 12, 1946, an international bank opened a small branch beside Dubai Creek. It was the first bank ever in Dubai. It was the result of a meeting between Frank Johnson, a manager of the Imperial Bank, with the late Sheikh Saeed Bin Maktoum Al Maktoum and his son, the late Sheikh Rashid Bin Saeed Al Maktoum. Johnson found rulers who already saw Dubai as a place the world would come to trade.\n\nEighty years on, that bank is HSBC Bank Middle East and the town it served is one of the world’s great centres of trade and finance. The partnership in Dubai began with infrastructure. In 1954, the bank worked to help raise the loan for dredging the Creek, the project that opened the city to larger vessels and set the pattern for the port-led growth that followed. As the Emirates grew, so did our presence: Sharjah in 1953, Abu Dhabi in 1959, and in time branches serving customers across the UAE.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -364,7 +428,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -380,7 +446,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -436,6 +504,22 @@
         "section": "Rugby",
         "source": "Rugby Pass",
         "kind": "direct",
+        "title": "Seven capped Wallaroos named in Australia NextGen U21 squad",
+        "feed_link": "https://www.rugbypass.com/news/seven-capped-wallaroos-named-in-australia-nextgen-u21-squad/",
+        "link": "https://www.rugbypass.com/news/seven-capped-wallaroos-named-in-australia-nextgen-u21-squad/",
+        "published": "2026-10-12T17:12:12+00:00",
+        "published_label": "Mon 12 Oct, 17:12",
+        "summary": "Seven capped Wallaroos have been included in the Australia NextGen Under-21 squad that will face New Zealand U21 later this month.",
+        "id": "5eca65c617bd",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Seven capped Wallaroos have been included in the Australia NextGen Under-21 squad that will face New Zealand U21 later this month. On Saturday 31 October, the Australia U21 squad will face their New Zealand counterparts at One New Zealand Stadium in Christchurch, ahead of the Black Ferns’ clash with France.\n\nAustralia NextGen U21 head coach and former Wallaroos half-back Iliseva Batibasaga has named seven capped internationals in her squad: Waiaria Ellis, Faitala Moleka, Piper Simons, Ava Wereta, Amelia Whitaker, Lily Bone and Ruby Anderson.",
+        "first_seen": "2026-10-12T17:21:24.005496+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "kind": "direct",
         "title": "Exeter Chiefs to bolster squad with rising South African lock",
         "feed_link": "https://www.rugbypass.com/news/exeter-chiefs-to-bolster-squad-with-rising-south-african-lock/",
         "link": "https://www.rugbypass.com/news/exeter-chiefs-to-bolster-squad-with-rising-south-african-lock/",
@@ -443,10 +527,14 @@
         "published_label": "Mon 12 Oct, 16:34",
         "summary": "Exeter Chiefs boss Rob Baxter is set to bolster his squad after agreeing to sign André Goedhals from Currie Cup outfit the Pumas to strengthen his injury-hit second row.",
         "id": "806f57a7fb58",
-        "bullets": [],
+        "bullets": [
+          "Exeter Chiefs are set to sign 21-year-old lock André Goedhals from the Pumas in the Currie Cup, with Director of Rugby Rob Baxter looking to ease an injury-hit second row. Italian lock Andrea Zambonin is recovering from shoulder surgery and could still be weeks from returning, while Lewis Pearson is also expected to be out for weeks.",
+          "Goedhals was born in Devon and holds a British passport, making him English-qualified. He won Springbok under-20 honours but did not fulfil his early promise at the Stormers before moving to the Pumas. He would be the third Pumas player to join the Gallagher PREM this summer, after JJ Scheepers (Sale Sharks) and Sampie Swiegers (Harlequins). All Black Dallas McLeod is due to arrive from Canterbury at the end of the month."
+        ],
         "is_article": true,
         "copy": "Exeter Chiefs boss Rob Baxter is set to bolster his squad after agreeing to sign André Goedhals from Currie Cup outfit the Pumas to strengthen his injury-hit second row. The second row has been a problem area for Baxter, with Italian star Andrea Zambonin on the sidelines after a shoulder operation. Although he is closing in on a return to action, he could still be weeks away, as is Lewis Pearson.\n\nBut he is looking to solve his problem by landing Goedhals, who holds a British passport after being born in Devon while his parents lived and worked in England, making him English-qualified.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -459,10 +547,14 @@
         "published_label": "Mon 12 Oct, 16:27",
         "summary": "With Pauline Bourdon Sansus unavailable for France's three-Test tour of New Zealand, François Ratier has named Alexandra Chambon as captain.",
         "id": "210e3d180def",
-        "bullets": [],
+        "bullets": [
+          "François Ratier has named scrum-half Alexandra Chambon, 26, as France captain for their three-Test tour of New Zealand. She is the third-choice option after Manae Feleu, who is prioritising medical studies, and Pauline Bourdon Sansus, who is staying in France for personal reasons. Chambon captains FC Grenoble Amazones in AXA Élite 1.",
+          "Chambon described \"a great sense of pride\" in the role and said she wants to support the squad's many new faces. France are without Yllana Brosseau, Siobhan Soqeta and Charlotte Escudero. They opened their WXV Global Series campaign with a 28-14 loss to the Black Ferns in Lyon before beating Australia and Canada, and Chambon said the aim is to beat New Zealand on home soil."
+        ],
         "is_article": true,
         "copy": "With Pauline Bourdon Sansus unavailable for France’s three-Test tour of New Zealand, François Ratier has named Alexandra Chambon as captain. The 26-year-old scrum-half is the team’s third-choice captain, with Manae Feleu prioritising her medical studies and Bourdon Sansus remaining in France this October for personal reasons.\n\nCaptain of her club side, FC Grenoble Amazones, in AXA Élite 1, Chambon will lead an inexperienced France team that will also be without Yllana Brosseau, Siobhan Soqeta and Charlotte Escudero.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -478,7 +570,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Can you ever have too many tries? Can a steak be too buttery? Ugo, Danny and Chris tackle all the big topics on this week’s pod after another try-fest at the Gardens. We try to explain why there are so many tries in the Prem and if it is devaluing the product. Ashy’s try record hangs by a thread after Christian Wade’s hat-trick took him to 100 tries. Should there be a draft system for young academy players who aren’t getting enough gametime? We ask Phil Dowson for his thoughts. Shaun Edwards will be coaching at next year’s World Cup, it just won’t be with England.",
-        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+        "first_seen": "2026-10-12T17:11:55.010181+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "podcast audio page, not a news article"
       },
       {
         "section": "Rugby",
@@ -491,10 +585,14 @@
         "published_label": "Mon 12 Oct, 15:16",
         "summary": "Italy head coach Plinio Sciamanna has named a 30-player squad to tour the USA for Test matches against the Women's Eagles.",
         "id": "f1d7983554be",
-        "bullets": [],
+        "bullets": [
+          "Italy coach Plinio Sciamanna has named a 30-player squad for two WXV Global Series Tests against the USA Women's Eagles. The first is this weekend in Mansfield, Texas, where Michela Sillari could win her 100th cap if she makes the matchday 23. The second is a week later in Nashville, Tennessee, and Vittoria Ostuni Minuzzi captains the squad.",
+          "The squad includes Sofia Stefan (108 caps), Beatrice Rigoni (88) and Elisa Giordano (84), plus three uncapped players: Silvia Fent and Mascia Jelic of Benetton Rugby Treviso, and Toulon's Rubina Grassi. Silvia Turani is out of the tour with a knee injury. In September's home fixtures, Italy beat Japan 55-21 and lost 41-29 to South Africa."
+        ],
         "is_article": true,
         "copy": "Italy head coach Plinio Sciamanna has named a 30-player squad to tour the USA for two Test matches against the Women’s Eagles. The squad includes Michela Sillari, who could earn her 100th Italy cap this weekend in Mansfield, Texas, if selected in the matchday 23. Italy will face the Eagles again a week later in Nashville, Tennessee.\n\nSciamanna has selected a highly experienced squad for the October WXV Global Series fixtures, with Elisa Giordano (84 caps), Beatrice Rigoni (88 caps) and Sofia Stefan (108 caps) among those included.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -510,7 +608,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "It is worth taking a step back to fully appreciate the scale of scoring in the Prem currently. Ten seasons ago Northampton hosted Bath in round three. As on Saturday, Saints won to end Bath's unbeaten start to the season. The score then was 24-6.\n\nNorthampton scored four tries - from Courtney Lawes, George North and David Ribbans (twice). Bath had only two penalties from Rhys Priestland to show for their visit. This weekend it wasn't just a different game. It was like a different sport.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Rugby",
@@ -526,7 +626,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "The Welsh Rugby Union (WRU) has named former Newport and Ponytpool player Lyndon Faulkner as the governing body's new chairman. The 66-year-old is the nephew of legendary Wales and Pontypool prop Tony \"Charlie\" Faulkner and has become a successful businessman in the United States since his playing days.\n\nFaulkner will take over the role vacated by Richard Collier-Keywood at the WRU's annual general meeting on Sunday, 22 November. He will do so at a time when the WRU is planning to cut the game's professional tier from four to three teams, with west Wales sides Ospreys and Scarlets vying to avoid becoming surplus to requirements.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Rugby",
@@ -539,10 +641,14 @@
         "published_label": "Mon 12 Oct, 11:53",
         "summary": "Former Hurricanes Poua head coach Fusi Feaunati has been named Head of Women's Rugby by the Fiji Rakavi Football Union.",
         "id": "4cbe5fc8add2",
-        "bullets": [],
+        "bullets": [
+          "Fusi Feaunati, the former Hurricanes Poua head coach, has been named Head of Women's Rugby by the Fiji Rakavi Football Union. He will connect the pathway from community rugby to the high-performance Fijiana Sevens and Fijiana XVs, working with academy staff, provincial and school coaches and community coaching programmes.",
+          "Feaunati was head coach of the Hurricanes Poua in Super Rugby Aupiki in 2025, having previously been an assistant. He was also women and girls lead at the Wellington Rugby Football Union and coached Wellington Pride in the Farah Palmer Cup. The union's General Manager High Performance, Naca Cawanibuka, said the appointment reflects the need to match the growth of women's rugby with stronger systems and support. The article cites 12 teams in the Subrails Marama competition and 16 in the Royal Tea Ranadi tournament."
+        ],
         "is_article": true,
         "copy": "Former Hurricanes Poua head coach Fusi Feaunati has been named Head of Women’s Rugby by the Fiji Rakavi Football Union [FRFU]. The appointment follows growing interest and participation in women’s rugby across Fiji. Currently, 12 teams compete in the Subrails Marama competition, while 16 teams participate in the Royal Tea Ranadi tournament.\n\nFeaunati’s role will focus on connecting the pathway from community rugby to the high-performance programmes of the Fijiana Sevens and Fijiana XVs. Feaunati said: “What excites me most about this opportunity is the ability to help shape a connected women’s rugby pathway across Fiji, from community and youth rugby through to elite international performance.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -555,10 +661,14 @@
         "published_label": "Mon 12 Oct, 11:35",
         "summary": "Jack Willis may remain sidelined with a leg injury, but his brother, Tom, has ensured that the Willis family continues to wreak havoc on the Top 14.",
         "id": "c98e4c751629",
-        "bullets": [],
+        "bullets": [
+          "Bordeaux-Bègles flanker Tom Willis made a match-high 18 carries and four turnovers as his side beat Clermont-Auvergne 23-22 at the Stade Marcel Michelin on Saturday. His late breakdown steal in his own 22 secured the win. The 27-year-old, who has eight England caps, came close to a try from a driving maul, but team-mate Maxime Lucu grounded the ball.",
+          "A try would have put Willis level with Pau's Rodrigo Marta on six for the Top 14 lead after six rounds. He was named in the team of the week by both Midi Olympique and L'Equipe. His brother Jack, Toulouse's reigning Top 14 Player of the Year, has been out with a thigh injury since round two. Bordeaux begin their bid for a third successive Champions Cup at Gloucester's Kingsholm on Friday 16 October."
+        ],
         "is_article": true,
         "copy": "Jack Willis may remain sidelined with a leg injury, but his brother, Tom, has ensured that the Willis family continues to wreak havoc on the Top 14. The 27-year-old continued his barnstorming start to his second life at Bordeaux-Begles with a decisive role in his side’s 23-22 victory over ASM Clermont-Auvergne at the Stade Marcel Michelin on Saturday.\n\nTom made a match-leading 18 carries in the victory, and came close to scoring a try off the back of a driving maul, only for team-mate Maxime Lucu to take hold of the ball in the process of grounding it. Had the try been awarded to Tom, it would have lifted him to joint top of the try-scoring charts in the Top 14, level with Pau’s Rodrigo Marta with six in the opening six rounds.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -571,10 +681,14 @@
         "published_label": "Mon 12 Oct, 10:22",
         "summary": "The opening month of the 2026 Nations Cup delivered a stream of competitive, high-intensity games, multiple outstanding tries and set-piece battles...",
         "id": "bbaa90dee7be",
-        "bullets": [],
+        "bullets": [
+          "Hong Kong China beat Uruguay at the World Rugby Nations Cup in July when winger Paul Altier kicked a penalty from about 40 metres, with no time left on the clock, to win the match. Team-mates said his confidence was at its highest after he landed almost every kick against Chile, and hooker Alexander Post, 30, said Altier \"doesn't miss\".",
+          "Former Northampton Saints and Bedford Blues player Matt Worley and Post both returned home after playing in England's Championship, which they regard as underrated. Hong Kong China have qualified for the men's World Cup in Australia, about 11 months away, and have reintroduced a full-time programme for more than 30 players. They face the USA, Canada and Tonga in November, hosting Tonga in their final game."
+        ],
         "is_article": true,
         "copy": "'French Paul doesn't miss... I was just wondering what celebration he was going to pull' The opening month of the 2026 Nations Cup delivered a stream of competitive, high-intensity games, multiple outstanding tries and set-piece battles, and several great moments and memories that made July a successful start to the newly formed competition.\n\nHowever, for Hong Kong China, their win over Uruguay tops everything else, as it came down to the final play. With no time left on the clock, the visitors squeezed out a penalty, and there was only one way forward: call for Paul Altier and ask their sharpshooter to send the ball through the posts.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -587,10 +701,14 @@
         "published_label": "Mon 12 Oct, 09:42",
         "summary": "The first Bledisloe Cup game between New Zealand and Australia provided further evidence that planet rugby is moving away from South Africa’s sphere of influence.",
         "id": "726d46a7ab91",
-        "bullets": [],
+        "bullets": [
+          "New Zealand won the first Bledisloe Cup Test 50-19 at Eden Park, Auckland, on Saturday. They hit their target of more than 100 rucks, lost under one per cent of possession to turnovers and increased ball-in-play time by over three minutes. Penalties fell, and scrum-half Cam Roigard's kicking and the use of double-team chases to contest high balls were singled out for improvement.",
+          "Writer Nick Bishop argues that rugby is splitting between South Africa's set-piece-led, physical approach and a faster, higher-scoring style used by most other teams. He notes the 2026 Six Nations produced a record 111 tries. The lineout still averaged about 83 per cent and the scrum was not truly tested, so he cautions against firm conclusions from one match. He suggests South Africa's style may still win another World Cup."
+        ],
         "is_article": true,
         "copy": "There is the truth of the rugby world, and then there is the truth of South Africa. While the rest of the rugby world is dancing to the compulsive disco-beat under a glitterball of relentless attack, the world champions are waiting for the next World Cup and keeping their counsel; ready to pull the unwary back into the dark alleys outside and brawl with them in the gutter.\n\nThe 2026 Six Nations set a new record of 111 tries scored, and Les Bleus hardly noticed that they conceded the most tries [19] and points [130] of any winning campaign in the tournament’s history. The newly-minted Nations Championship in July promptly upped the ante, with an average of one extra converted try scored across the first three rounds.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -603,10 +721,14 @@
         "published_label": "Mon 12 Oct, 09:15",
         "summary": "Harlequins head coach Jason Gilmore claimed his side restored pride despite a third successive loss of the Gallagher Prem campaign against Sale at CorpAcq Stadium in Salford.",
         "id": "8f70d0c72c8b",
-        "bullets": [],
+        "bullets": [
+          "Harlequins lost 28-24 to Sale Sharks at CorpAcq Stadium, their third successive Gallagher Premiership defeat. Sale won through a 73rd-minute penalty try, awarded after hooker Sam Riley was sin-binned for pulling down a maul illegally. Marcus Smith scored two tries on his return from injury and Riley also scored twice, while Sale replied through Elia Canakaivata, Gus Warr and Ben Bamber.",
+          "Head coach Jason Gilmore said his side had restored pride after a 48-0 loss to Gloucester the previous weekend and were pleased to earn two bonus points on the road. He said selection would depend on full commitment, adding \"we can't tolerate\" players being in one week and out the next. Harlequins are 10th with two points from three games. Sale are seventh on nine and play Glasgow next."
+        ],
         "is_article": true,
         "copy": "Harlequins head coach Jason Gilmore claimed his side restored pride despite a third successive loss of the Gallagher Prem campaign against Sale at CorpAcq Stadium in Salford. The Sharks snatched a 28-24 win with a 73rd-minute penalty try after they had been outplayed for long periods by a Quins side smarting from last weekend’s 48-0 humiliation against Gloucester.\n\n“It’s disappointing. We probably created three chances in the first half which we didn’t take which came back to bite us,” said Harlequins head coach Jason Gilmore. “Fair play to Sale. They got themselves back into the game with their set-piece but I’m really proud of the boys’ efforts up here.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -619,10 +741,14 @@
         "published_label": "Mon 12 Oct, 09:11",
         "summary": "Scotland captain Rachel Malcolm wants her side to use the energy that will be generated around the quadruple header in Sydney on Saturday to their advantage and go out and put in a performance that they can be proud of.",
         "id": "0a08e1acb03f",
-        "bullets": [],
+        "bullets": [
+          "Scotland captain Rachel Malcolm wants her side to use the atmosphere of a quadruple-header at Accor Stadium in Sydney on Saturday. Their WXV Global Series match against Australia's Wallaroos opens the day, ahead of two sevens matches and the second Bledisloe Cup Test. Malcolm said the players should enjoy the occasion without being overshadowed by it.",
+          "Scotland lost 30-10 to Australia at Hive Stadium on 26 September after leading 10-5 at half-time. Malcolm said the second-half collapse was a fair reflection of the result, and that rain left them with \"a mountain to climb\". Scotland, ninth in the world rankings, have lost seven Tests in a row, including earlier WXV defeats to Canada and New Zealand. Their campaign ends against the Wallaroos in Canberra on 23 October."
+        ],
         "is_article": true,
         "copy": "Scotland captain Rachel Malcolm wants her side to use the energy that will be generated around the quadruple header in Sydney on Saturday to their advantage and go out and put in a performance that they can be proud of.\n\nThe WXV Global Series clash between the Wallaroos and the Scots will kick things off at the Accor Stadium and will be followed by a men’s sevens match between Australia and Fiji, a women’s sevens match between Australia and New Zealand and then the Wallabies against the All Blacks in the second Bledisloe Cup Test of 2026.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -635,10 +761,14 @@
         "published_label": "Mon 12 Oct, 08:52",
         "summary": "Exeter director of rugby Rob Baxter branded his side’s hard-fought victory over Newcastle which earned them a first Gallagher Prem victory of the season “bloody stressful”.",
         "id": "56c17242789f",
-        "bullets": [],
+        "bullets": [
+          "Exeter Chiefs beat Newcastle Red Bulls 34-28 at Sandy Park on 11 October for their first Gallagher Prem win of the season. Ross Vintcent scored two tries, with others from Sam Harris, Bachuki Tchumbadze and Henry Slade, who kicked three conversions and a penalty. Christian Wade scored a hat-trick for Newcastle, and Max Hicks also crossed.",
+          "Director of rugby Rob Baxter called the win \"bloody stressful\" and said his wife had said the same. He said Exeter lacked defensive energy and were slow to get up off the floor, but improved in the second half, conceding only one score. England wing Immanuel Feyi-Waboso left midway through the second half with a suspected hamstring overload and will be scanned. Newcastle's Dan McFarland said they made too many second-half errors, and his side play Scarlets away next."
+        ],
         "is_article": true,
         "copy": "Exeter director of rugby Rob Baxter branded his side’s hard-fought victory over Newcastle which earned them a first Gallagher Prem victory of the season “bloody stressful”. Exeter were careless and error-strewn as the lead changed hands on numerous occasions at Sandy Park before they got their noses in front for the final time to clinch a 34-28 success in front of a disappointing crowd of just over 7,000.\n\nNewcastle overcame an awful start, going behind after only 40 seconds, to make life extremely difficult for the home side, Christian Wade scoring a hat-trick of tries. Max Hicks added another, with Zack Henry converting all four to secure two valuable bonus points.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -651,10 +781,14 @@
         "published_label": "Mon 12 Oct, 08:47",
         "summary": "South Africa hooker Bongi Mbonambi is reportedly awaiting the outcome of a lengthy disciplinary hearing at the Sharks over alleged misconduct during a pre-season team-building camp in August.",
         "id": "e809ea2f76e8",
-        "bullets": [],
+        "bullets": [
+          "Springboks hooker Bongi Mbonambi, 35, a double World Cup winner with 82 caps, is awaiting the outcome of a lengthy Sharks disciplinary hearing over alleged misconduct at a pre-season camp in August. Rapport reported the incident took place at Bayala Private Safari Lodges before the Sharks' 11 August fixture against the All Blacks. Mbonambi, Trevor Nyakane and Eduan Swart allegedly continued socialising into the following morning.",
+          "A ruling is expected within two weeks and reports suggest it could significantly affect his future. His contract runs to 2028 but could be terminated early. He has not played in the opening URC rounds, and coach JP Pietersen said there was \"no comment on Bongi\". He last played for South Africa against Wales in Cardiff in November. The ruling could affect his chances of a Test return in the November matches against Italy, Ireland and France."
+        ],
         "is_article": true,
         "copy": "South Africa hooker Bongi Mbonambi is reportedly awaiting the outcome of a lengthy disciplinary hearing at the Sharks over alleged misconduct during a pre-season team-building camp in August.\n\nAccording to South African outlet Rapport, the 35-year-old was involved in an incident at Bayala Private Safari Lodges before the Sharks’ August 11 fixture against the All Blacks. Head coach JP Pietersen had reportedly allowed players to socialise on a Tuesday evening before returning to full training, but Mbonambi, Trevor Nyakane and Eduan Swart allegedly continued into Wednesday morning.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -670,7 +804,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "England winger Immanuel Feyi-Waboso will have a scan on a hamstring injury he suffered in Exeter's win over Newcastle. The 23-year-old came off 15 minutes into the second half of the 34-28 Prem win at Sandy Park - Exeter's first of the season.\n\nHe has started all three of the Chiefs' Prem games this season - scoring two tries at Bath last week. He started all three of England's Nations Championship games over the summer and crossed for tries against Fiji and Argentina.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Rugby",
@@ -683,10 +819,14 @@
         "published_label": "Mon 12 Oct, 05:07",
         "summary": "Speaking to New Zealand-based media from the All Blacks' hotel in Sydney, the 146-Test first-five admitted it was a special night at Eden Park for multiple reasons.",
         "id": "b362ec48094a",
-        "bullets": [],
+        "bullets": [
+          "Beauden Barrett started his first Test of 2026 against the Wallabies at Eden Park, Auckland, alongside his brothers Scott and Jordie. It was the 54th time the three had played together at Test level. Beauden, a 146-Test veteran, said it was a special night and that playing with his brothers meant a lot after missing recent Tests.",
+          "Jordie was the All Blacks' man of the match with 16 tackles and 13 carries at No. 12, following strong performances in the Rugby's Greatest Rivalry series against South Africa. Beauden called him \"hands down\" the best No. 12 in the world at present and said he is inspired by his work rate and physicality. Scott, who has played 90 Tests, returned from a serious back injury after a non-playing sabbatical for the Crusaders."
+        ],
         "is_article": true,
         "copy": "Running out alongside your two brothers for the All Blacks would be special enough once, let alone 54 times, but veteran playmaker Beauden Barrett continues to draw inspiration from his younger brothers.\n\nBarrett started his first Test match of the 2026 season against the Wallabies at Eden Park, lacing up the boots alongside two of his younger brothers, Scott and Jordie, for the 54th time at Test level.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -702,7 +842,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Newcastle boss Dan McFarland is confident Christian Wade will break Prem Rugby's try-scoring record. The 35-year-old former England winger scored a hat-trick in Newcastle's 34-28 loss at Exeter to take his tally to 100 over his career.\n\nWade needs just one more try to equal Chris Ashton's record of 101, which was set in April 2023. \"Christian is a really good man, an excellent connector,\" McFarland told BBC Sport.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Rugby",
@@ -718,7 +860,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. A hat-trick from Newcastle wing Christian Wade was not enough to stop Exeter claiming their first Gallagher Prem win of the season as they edged a topsy-turvy game at Sandy Park 34-28.\n\nThe lead frequently changed hands and it was not until the dying stages that the Chiefs were able to seal victory. Max Hicks scored Newcastle’s other try, with Zack Henry converting all four to secure two valuable bonus points.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Rugby",
@@ -734,7 +878,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Harlequins’ troubled start to the Gallagher Prem season continued with a third successive loss of the campaign against Sale at CorpAcq Stadium in Salford.\n\nThe Sharks left it late but came from behind to snatch a 28-24 success with a 73rd-minute penalty try, after the returning Marcus Smith had touched down twice in the opening quarter to threaten a shock win for the visitors.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Rugby",
@@ -750,7 +896,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Harlequins' poor start to the Prem season continued with a third successive loss of the campaign against Sale at CorpAcq Stadium. The Sharks came from behind to win the game with a 73rd-minute penalty try after the returning Marcus Smith had touched down twice in the opening quarter to give Quins an early lead.\n\nAfter their opening-day reverse to Bristol at home, Sale have bounced back strongly with back-to-back wins over Saracens and Quins. Despite their first points of the season, the loss leaves Quins rooted to the foot of the table.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Rugby",
@@ -766,7 +914,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Christian Wade became just the second player to score 100 Prem Rugby tries after getting a hat-trick in Newcastle Red Bulls' 34-28 defeat at Exeter. Wade, 35, went over twice in the first half - his second giving the Red Bulls a two-point half-time lead - before pouncing on a Henry Slade error to race in for a third early in the second half.\n\nNewcastle's former England winger is now just one try off the all-time Prem try record of 101 set by Chris Ashton at Exeter in April 2023. Wade, who spent four years trying to break into the NFL from 2018, returned to the Prem in 2024 with Gloucester after two years at French side Racing 92, last year moving to Newcastle after a brief spell at rugby league's Wigan Warriors.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Rugby",
@@ -782,7 +932,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Gareth Davies has been urged to rethink his international retirement for the 2027 World Cup by former Wales team-mate Scott Baldwin. The 36-year-old scrum-half sparked a Scarlets comeback from 21-7 down to beat Benetton in the United Rugby Championship on Saturday.\n\nDavies retired from Test rugby in 2024 but ex-Wales hooker Baldwin believes the veteran could still thrive at a fourth World Cup next year. \"He could be just what you want in a quarter-final of a World Cup, in a Wales-England fixture in 12 months' time,\" Baldwin told BBC Radio Wales Sport.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Rugby",
@@ -877,10 +1029,14 @@
         "published_label": "Mon 12 Oct, 16:20",
         "summary": "\"I would say it was a really bad level for me.\" The post Carlos Alcaraz makes ‘lucky’ comment as he gets brutally honest after Shanghai Masters shock appeared first on Tennis365 .",
         "id": "fb09a70b8976",
-        "bullets": [],
+        "bullets": [
+          "Carlos Alcaraz, the world No 3, lost 5-7, 6-7(4) to world No 39 Zizou Bergs of Belgium in the third round of the Shanghai Masters on Monday 12 October, having beaten Juan Manuel Cerundolo in his opening match. It was his first appearance in Shanghai since 2024, as he missed the 2025 event through injury. He now has a 6-3 record from three appearances there.",
+          "Afterwards the seven-time Grand Slam champion described his level as \"really bad\" and said he had missed chances at key moments. He felt Bergs had been \"lucky\" at times, citing returns that hit the frame and went in. Alcaraz admitted he was unhappy with his return position and made many unforced errors, while crediting Bergs's serving. He said he would go home, prepare for his next event and play better there."
+        ],
         "is_article": true,
         "copy": "Carlos Alcaraz described his level of play in his shock defeat to Zizou Bergs at the 2026 Shanghai Masters as “really bad” as he also made a comment about his opponent’s “luck.”\n\nThe world No 3 suffered a 5-7, 6-7(4) loss to world No 39 Bergs on Monday in the third round at the ATP 1000 tournament in China. Alcaraz was making his first appearance at the Shanghai Masters since 2024 after he missed last year’s event due to injury.",
-        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+        "first_seen": "2026-10-12T17:11:55.010181+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -893,10 +1049,14 @@
         "published_label": "Mon 12 Oct, 16:00",
         "summary": "He's not happy with what happened in his defeat. The post Carlos Alcaraz unhappy with the Shanghai Masters conditions after shock third round exit appeared first on Tennis365 .",
         "id": "90c38cd3fb14",
-        "bullets": [],
+        "bullets": [
+          "Carlos Alcaraz, the No 3 seed, criticised the conditions at the Shanghai Masters after losing 7-5, 7-6 to Zizou Bergs in the third round on Monday 12 October. He vented to his coach, Samuel Lopez, about the quality of the balls during the first set. He said the court played differently from his first-round win over Juan Manuel Cerundolo, which was held with the roof closed, whereas the Bergs match was outdoors.",
+          "Alcaraz said the ball was bigger and slower, adding that it was \"something that they have to look after\". Novak Djokovic had called the courts a \"super quick surface\" after losing to Hubert Hurkacz in the second round. The article says the tournament sped up the courts considerably compared with 2025, and that 23 seeds lost in the third round or earlier, including Djokovic, Taylor Fritz, Arthur Fils, Ben Shelton and Frances Tiafoe."
+        ],
         "is_article": true,
         "copy": "Carlos Alcaraz fell to a surprise third round defeat to Zizou Bergs at the Shanghai Masters. The Spaniard struggled with the conditions in Shanghai against Bergs and the Belgian ultimately made him pay to race to a 7-5, 7-6 victory at the Masters tournament.\n\nAlcaraz complained about the quality of the balls in Shanghai during a passion rant to his coach, Samuel Lopez, during the first set of the match. That wasn’t the only aspect of the match he was unhappy with either, as he was asked about the quickness of the court at the tournament after his match.",
-        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+        "first_seen": "2026-10-12T17:11:55.010181+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -909,10 +1069,14 @@
         "published_label": "Mon 12 Oct, 15:39",
         "summary": "Alex Eala's form continues to take a nosedive. The post Alex Eala ranking points and prize money after Wuhan Open setback appeared first on Tennis365 .",
         "id": "000e67271dcf",
-        "bullets": [],
+        "bullets": [
+          "Alex Eala lost 6-4, 3-6, 3-6 to world No 201 Han Shi, who came through qualifying, in the first round of the Wuhan Open on Monday 12 October, losing seven games in a row after taking the first set. The exit earns her 10 ranking points and $18,300 (£13,854). Her live ranking is world No 19 on 2,241 points, and she is 18th in the WTA Race on 2,151.",
+          "Eala, 21, has won few matches since losing to Iva Jovic in the third round of the US Open in September, and has a 40-23 record for 2026, including her first WTA title at the Washington Open. She is out of contention for the WTA Finals in Indian Wells in November but can still finish the year in the top 20. Her next event is likely the WTA 500 in Ningbo, which starts the following Monday."
+        ],
         "is_article": true,
         "copy": "Alex Eala’s recent struggles continued after she was dumped out of the Wuhan Open by world No 201 Han Shi in the first round. The 21-year-old has found wins hard to come by since her third-round loss to Iva Jovic at the US Open in September. The left-hander lost her opener at the Singapore Open to Tatiana Prozorova, who at the time was ranked 180th in the world.\n\nDespite being the heavy favourite for the gold medal at the Asian Games, Eala then lost in the semi-finals to Wang Xiyu, and now, she has lost again, this time in Wuhan on Monday.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -925,10 +1089,14 @@
         "published_label": "Mon 12 Oct, 15:30",
         "summary": "\"I just made a lot of unforced errors.\" The post Carlos Alcaraz opens up on ‘negative thoughts’ after surprise Shanghai Masters defeat appeared first on Tennis365 .",
         "id": "f559919c845a",
-        "bullets": [],
+        "bullets": [
+          "Carlos Alcaraz lost 7-5, 7-6(4) to 27-year-old Belgian Zizou Bergs in the third round of the Shanghai Masters on Monday at the Qizhong Forest Sports City Arena. Bergs served for the match at 6-5 in the second set, was broken back, then won the tiebreak. Alcaraz hit 16 winners and 27 unforced errors, and won 21 per cent of first-serve return points.",
+          "The world No 3 had won the ATP 500 event in Tokyo the previous week, his first title since returning from a wrist injury that kept him out for more than four months. Afterwards he said his mind was full of negative thoughts and that he was unhappy with almost everything about his play. He plans to review the match with his coach and team, and remains optimistic about the rest of the season."
+        ],
         "is_article": true,
         "copy": "Carlos Alcaraz says it is “really difficult” to take any positives from his straight-set loss to Zizou Bergs at the Shanghai Masters. After winning his first title since returning from a wrist injury at the Japan Open last week, Alcaraz was much more sluggish against an inspired Bergs on Monday.\n\nThe Belgian was not overawed by the occasion and closed out a 7-5, 7-6 (4) third-round victory. The 27-year-old served for the match at 6-5 but was broken back immediately to set up a tiebreak.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -944,7 +1112,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Tennis",
@@ -957,10 +1127,14 @@
         "published_label": "Mon 12 Oct, 15:00",
         "summary": "Alcaraz's Shanghai Masters campaign is over... The post Carlos Alcaraz’s ‘biggest weakness’ touted after shock Shanghai Masters exit appeared first on Tennis365 .",
         "id": "d44e8b020e53",
-        "bullets": [],
+        "bullets": [
+          "Carlos Alcaraz, the second seed, lost 7-5, 7-6 to Zizou Bergs in the third round of the Shanghai Masters on 12 October, having beaten Juan Manuel Cerundolo in the previous round. He struggled with the court conditions and made many unforced errors, which Bergs used to his advantage.",
+          "Sky Sports commentator Pete Odgers said the shot after Alcaraz's serve was probably his biggest weakness, and the source of the big errors. Alcaraz is still returning from a wrist injury that kept him out for four and a half months. He now has nine days off before the Six Kings Slam in Saudi Arabia, and is then expected to play the Paris Masters, the ATP Finals and the Davis Cup Finals. Bergs next faces the winner of Valentin Vacherot v Tommy Paul."
+        ],
         "is_article": true,
         "copy": "Carlos Alcaraz’s miserable record at the Shanghai Masters continued as he was beaten in the third round by Zizou Bergs. The Spaniard looked to struggle with the court conditions at the Masters tournament as he was beaten 7-5, 7-6 by Bergs, who will now await the winner of Valentin Vacherot and Tommy Paul.\n\nBergs produced an impressive display to defeat Alcaraz, but the Spaniard was far from his best as a litany of unforced errors allowed the Belgian to capitalise. Alcaraz had beaten Juan Manuel Cerundolo prior to his match with Bergs, and he will likely be rueing an early exit as several other top seeds have also fallen by the wayside.",
-        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+        "first_seen": "2026-10-12T17:11:55.010181+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -976,7 +1150,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Alexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz's surprise defeat in the Shanghai Masters. German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury.\n\nAlcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium's Zizou Bergs in the third round on Monday. \"It's been a fantastic season for me. Knowing that I will finish the year on top of the rankings is just a dream come true,\" said Zverev.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Tennis",
@@ -989,10 +1165,14 @@
         "published_label": "Mon 12 Oct, 14:30",
         "summary": "Carlos Alcaraz's shock loss has impacted the top of the rankings. The post How Carlos Alcaraz’s Shanghai Masters exit affects ATP Rankings as world No 3 suffers blow appeared first on Tennis365 .",
         "id": "03d66e3b4f96",
-        "bullets": [],
+        "bullets": [
+          "Carlos Alcaraz lost 7-5, 7-6(4) to 39th-ranked Zizou Bergs in the Shanghai Masters third round on Monday, ending a six-match winning streak that included his Japan Open title defence. He entered as world No 3 with 5,560 points, earned 50 for beating Juan Manuel Cerúndolo in the second round, and finishes with 5,610.",
+          "Ben Shelton, the only player who could have overtaken Alcaraz at this event, also lost in the third round, so Alcaraz will remain No 3 when the rankings update next week. He leads Shelton by 890 points and fifth-ranked Flavio Cobolli by 1,970, and trails world No 2 Alexander Zverev by 4,160. Alcaraz had been the only player with a mathematical chance of catching Zverev for year-end No 1. That chance is gone, and Jannik Sinner has ended his season early with a right knee injury."
+        ],
         "is_article": true,
         "copy": "Carlos Alcaraz’s campaign at the 2026 Shanghai Masters ended with a shock third round defeat, but how has the result impacted the ATP Rankings? The seven-time Grand Slam champion fell to a 7-5, 7-6(4) upset loss to 39th-ranked Zizou Bergs at the Masters 1000 tournament in Shanghai on Monday.\n\nAlcaraz’s exit ended his six-match ATP Tour winning streak that included his second round victory in Shanghai and his successful title defence at the Japan Open earlier this month.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -1005,10 +1185,14 @@
         "published_label": "Mon 12 Oct, 13:59",
         "summary": "What a year it has been Alexander Zverev! The post Alexander Zverev’s first words as US Open champion clinches year-end No 1 after Carlos Alcaraz loss appeared first on Tennis365 .",
         "id": "949f38df4eb1",
-        "bullets": [],
+        "bullets": [
+          "Alexander Zverev will finish 2026 as year-end world No 1 because Carlos Alcaraz's third-round loss to Zizou Bergs at the Shanghai Masters leaves no one able to catch him in the ATP Race. Jannik Sinner is out for the rest of the season with a knee injury. Zverev won the French Open and US Open this year, his first Grand Slam titles.",
+          "Zverev will be 29 years and 217 days old on the year-end rankings date of 23 November. ATP Chairman Andrea Gaudenzi said he is only the 20th player to finish as year-end No 1, calling it \"the ultimate achievement in our sport\". Zverev called the season fantastic and the achievement a dream come true, crediting the effort behind it after his recovery from an ankle injury. He next faces Alexander Bublik in the last 16 in Shanghai."
+        ],
         "is_article": true,
         "copy": "Alexander Zverev says it is a “dream come true” that he will finish 2026 as the year-end No 1. With Jannik Sinner out for the rest of the season with a knee injury, Zverev was destined to finish the year as the world’s top-ranked player.\n\nHowever, Carlos Alcaraz’s surprise third-round loss to Zizou Bergs at the Shanghai Open means nobody can catch the 29-year-old in the ATP Tour rankings. The German has enjoyed a magical year, winning both the French Open and US Open to finally break his Grand Slam duck. Now, the 6ft 6in player has opened up on a “fantastic” season that is getting better and better.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -1021,10 +1205,14 @@
         "published_label": "Mon 12 Oct, 13:30",
         "summary": "\"How is that allowed?\" The post Carlos Alcaraz vs Zizou Bergs controversy sparks calls for major tennis rule change after ‘unacceptable’ incident appeared first on Tennis365 .",
         "id": "4e7eefaf5a7a",
-        "bullets": [],
+        "bullets": [
+          "Zizou Bergs, 27, beat second seed Carlos Alcaraz 7-5, 7-6(4) in the third round of the Shanghai Masters on Monday at the Qizhong Forest Sports City Arena. The match lasted just over two hours and was the biggest win of Bergs' career. He said he often has too much respect for opponents, which he described as part of his culture, and now sees he can beat players like Alcaraz.",
+          "Jamie Murray criticised Bergs for a bathroom break of nearly 10 minutes after the first set. Journalist Jose Moron cited the ATP rulebook, which allows three minutes plus two for a clothing change, and said Bergs took about nine and a half minutes without a chair umpire warning. Murray noted the walk to the changing rooms should take about 20 seconds. Brad Gilbert said such breaks happen too often and suggested limiting them to set breaks, with a point lost for every 30 seconds of delay."
+        ],
         "is_article": true,
         "copy": "Zizou Bergs secured an unforgettable victory over Carlos Alcaraz at the Shanghai Open but the Belgian has been criticised for his actions during the third-round match. Bergs upset second seed Alcaraz in just over two hours in a 7-5, 7-6 (4) victory at Qizhong Forest Sports City Arena on Monday for the biggest win of his career.\n\nThe 27-year-old was, naturally, emotional after this major scalp, particularly as he has struggled to get over the line in big matches. He said afterwards, “This is something that has been very tough for me. I often have too much respect for these guys, which is part of my culture and I’m proud of that. But it gets a little bit in the way when you have to play them. I had a great moment here last year against [Novak] Djokovic where I was definitely playing the name, not the guy.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -1040,7 +1228,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "As on-court training resumes, she is understood to still be working with her coach Andrew Richardson, the old ally who guided her to the US Open trophy, and whose record with her remains outstanding after her strong performance at Queen’s in June.\n\nIn the short term, Australia is sure to be Raducanu’s primary target. Her record at Melbourne’s Australian Open is indifferent, with four of her five appearances having ended in the second round. In 2025, she went one better, scratching out nuggety wins over Ekaterina Alexandrova and Amanda Anisimova – two quality players – before being annihilated by Iga Swiatek in the third round.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Tennis",
@@ -1053,10 +1243,14 @@
         "published_label": "Mon 12 Oct, 13:01",
         "summary": "Highlights as Carlos Alcaraz was dumped out in the third round of the Shanghai Masters by Zizou Bergs Sky Sports",
         "id": "5f37fb1df798",
-        "bullets": [],
+        "bullets": [
+          "Second seed Carlos Alcaraz lost 7-5 7-6 (7-4) to unseeded Zizou Bergs in the Shanghai Masters third round on Monday 12 October. Bergs was broken serving for the match at 6-5 in the second set but won the tie-break, hitting 24 winners to Alcaraz's 16. Alcaraz, who had won the Japan Open in Tokyo, was chasing a ninth ATP Masters 1000 title and his first of an injury-hit season.",
+          "Alexander Zverev was confirmed as year-end world No 1 for the first time, with Jannik Sinner out since Wimbledon with a knee problem. Elsewhere, Novak Djokovic lost in the second round, while Stefanos Tsitsipas beat 11th seed Taylor Fritz 3-6 7-5 6-3 to set up a meeting with Daniil Medvedev. At the Wuhan Open, Briton Sonay Kartal beat Anhelina Kalinina 7-5 6-2 and faces ninth seed Belinda Bencic. Bergs, ranked 39th, next plays Tommy Paul."
+        ],
         "is_article": true,
         "copy": "Carlos Alcaraz was dumped out in the third round of the Shanghai Masters as Zizou Bergs recorded the biggest win of his career, with the Spaniard's defeat confirming Alexander Zverev as the year-end world No 1.\n\nBergs beat the second seed 7-5 7-6 (7-4), recovering to win the second set in a tie-break after failing to serve out the match at 6-5. Alcaraz's exit, coupled with current world No 1 Jannik Sinner ending his campaign early due to a knee problem that has sidelined him since Wimbledon, means Zverev will end 2026 top of the rankings for the first time.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -1069,10 +1263,14 @@
         "published_label": "Mon 12 Oct, 13:00",
         "summary": "Another disappointing run in Shanghai from Carlos Alcaraz... The post What Carlos Alcaraz was heard yelling at his coach during Shanghai Masters loss to Zizou Bergs appeared first on Tennis365 .",
         "id": "601e8b8d375b",
-        "bullets": [],
+        "bullets": [
+          "Carlos Alcaraz was heard telling his coach, Samuel Lopez, that he was struggling with the conditions during his 7-5, 7-6 third-round loss to Zizou Bergs at the Shanghai Masters. He was broken twice in the first set and said \"I can't play like this\" and \"You can't play tennis by instinct\". He had arrived after winning the Japan Open for the second year in a row.",
+          "It was Alcaraz's third appearance in Shanghai, where his best result is a quarter-final and his record is now 6-3. The event is his third-worst Masters 1000 by win rate, with only the Paris Masters and the Canadian Open lower, both at 50%. His next scheduled event is the Six Kings Slam from 21 to 24 October, which will air internationally on Netflix."
+        ],
         "is_article": true,
         "copy": "Carlos Alcaraz struggled in his third-round match against Zizou Bergs in the third round of the Shanghai Masters. The Spaniard arrived at the penultimate Masters tournament of the calendar in good form, having lifted the Japan Open title for the second year in a row.\n\nHe began his campaign with a solid straight-sets victory against Juan Manuel Cerundolo in his opening round match in Shanghai, but he did not play his best tennis as he lost in straight sets to Bergs.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -1085,10 +1283,14 @@
         "published_label": "Mon 12 Oct, 12:58",
         "summary": "Zizou Bergs stunned after stunning win over Carlos Alcaraz. The post Zizou Berg’s immediate reaction after stunning win over Carlos Alcaraz in Shanghai appeared first on Tennis365 .",
         "id": "de9623a1311b",
-        "bullets": [],
+        "bullets": [
+          "Zizou Bergs, 27 and ranked world No 39, beat seven-time Grand Slam winner Carlos Alcaraz 7-5, 7-6 in just over two hours in the third round of the Shanghai Masters. It was his third top-10 win, after world No 9 Andrey Rublev at the 2025 Miami Open and world No 5 Felix Auger-Aliassime at this year's United Cup. Alcaraz had just won the Japan Open.",
+          "Bergs won the crucial break in game 11 of the first set, and the second set followed a similar pattern before he took the tiebreak. He said he felt disbelief, was in good shape after Tokyo, and was hitting and serving well. He added that he often has too much respect for players like Alcaraz, but that the win shows he can beat them."
+        ],
         "is_article": true,
         "copy": "Zizou Bergs was not quite sure “what was going on” after his stunning win over Carlos Alcaraz at the Shanghai Masters, admitting he was in “disbelief”. The world No 39 claimed the biggest win of his career as he beat seven-time Grand Slam winner Alcaraz 7-5, 7-6 (7-5) in just over two hours in the third round of the ATP Masters 1000 event.\n\nIt is only his third top-10 win following victories over world No 9 Andrey Rublev at the 2025 Miami Open and world No 5 Felix Auger-Aliassime at this year’s United Cup. Alcaraz was the overwhelming favourite as he is fresh from winning the Japan Open and also cruised past Juan Manuel Cerundolo in the second round, but never got his nose in front as the Belgian broke in game five before the second seed got back on terms in the next game.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -1101,10 +1303,14 @@
         "published_label": "Mon 12 Oct, 12:15",
         "summary": "Nobody saw this coming! The post Carlos Alcaraz prize money and ranking points from shock Shanghai Open exit appeared first on Tennis365 .",
         "id": "7459bb3c3cb2",
-        "bullets": [],
+        "bullets": [
+          "Carlos Alcaraz earns £46,760 ($61,865) and 50 ranking points for reaching the third round in Shanghai, where he lost 7-5, 7-6 (4) to Zizou Bergs in two hours and two minutes on Monday. He hit seven winners and 17 unforced errors in the first set. Bergs broke at 6-5 in the second, faltered serving for the match, then won the tiebreak 7-4 with an ace.",
+          "Bergs was 43rd in the rankings with 1,170 points before the match and is now 41st with 1,220. In the ATP Race he moves from 41st to 40th. Alcaraz, third on 5,610 points, stays third in the Race on 4,600. Bergs has earned 100 points and £79,908 ($105,720) so far, and next faces Valentin Vacherot or Tommy Paul."
+        ],
         "is_article": true,
         "copy": "Zizou Bergs pulled off the biggest win of his career after knocking out Carlos Alcaraz from the Shanghai Open on Monday. The Belgian held his nerve in a 7-5, 7-6 (4) victory in two hours and two minutes to set up a fourth-round clash with either defending champion Valentin Vacherot or Tommy Paul.\n\nAlcaraz was out of sorts against the world No 43, as he perhaps felt the effects of his title run in Tokyo, with the seven-time major champion hitting seven winners and 17 unforced errors in the first set.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Tennis",
@@ -1866,5 +2072,5 @@
       }
     ]
   },
-  "total": 115
+  "total": 116
 }
