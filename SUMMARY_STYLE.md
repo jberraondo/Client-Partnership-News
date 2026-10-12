@@ -24,24 +24,26 @@ Headline: *Raducanu to make return with wildcard in Strasbourg* (BBC Sport)
 
 ## Competitor News: what counts
 
-Competitor News tracks **other banks and fintechs (anywhere in the world, never
-HSBC) doing sponsorship or partnership deals in sport or the arts**. Examples of
-stories that belong:
+Competitor News tracks **these banks only** doing sponsorship or partnership
+deals in sport or the arts, anywhere in the world:
+
+Barclays, Lloyds, Santander, NatWest, Metro Bank, Citi (Citibank), Revolut,
+Monzo, Chase / JPMorganChase / J.P. Morgan, Standard Chartered, BNP Paribas,
+Deutsche Bank.
+
+Examples of stories that belong:
 
 - Monzo becomes official banking partner of The Hundred (cricket)
 - JPMorganChase becomes the Dallas Mavericks' jersey patch and banking partner
 - Lloyds and British Cycling launch the Sofa to Saddle app
-- Bank of America renews the Panthers stadium naming rights
-- Chime is presenting sponsor of the MLS All-Star Game
-- SoFi becomes Notre Dame Athletics' first jersey patch sponsor
-- RBC becomes Wrexham AFC's back-of-shirt sponsor and official bank partner
-- BMO becomes the LA Lakers' official bank
+- JPMorgan agrees a $15m-a-year jersey patch deal with Ohio State
+- Miami HEAT and JPMorganChase enter a multi-year partnership
 - Revolut and MOJOE launch an athlete career-transition programme
 - Lloyds becomes England Rugby's first back-of-shirt partner
 
-This covers banks, building societies, neobanks and banking or investing apps,
-and wealth managers. New deals, renewals, extensions, exits and activations all
-count. Takeovers, earnings, general banking news and HSBC's own deals don't count.
+New deals, renewals, extensions, exits and activations all count. Other banks,
+payment companies (Visa, Mastercard, Adyen, PayPal, Amex), takeovers, earnings,
+general banking news and HSBC's own deals don't count.
 
 **For every story in every section**, set `"competitor": true` if the story is
 mainly about a deal like this. It will then be moved into Competitor News. For

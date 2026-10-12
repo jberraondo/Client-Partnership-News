@@ -78,30 +78,20 @@ SOURCES = [
 ]
 
 # ---- Competitor News --------------------------------------------------------
-# Banks and fintechs (anywhere in the world, not HSBC) making sponsorship or
-# partnership moves in sport or the arts. Add or remove names in COMPETITOR_BANKS.
+# The banks 160/90 tracks, making sponsorship or partnership moves in sport or
+# the arts. Add or remove names in COMPETITOR_BANKS (and in SUMMARY_STYLE.md).
 # The names are split across several searches because Google News is unreliable
 # with one huge query; results are de-duplicated automatically.
 COMPETITOR_BANKS = [
-    # UK
-    "Barclays", "Lloyds", "NatWest", "Santander", "Nationwide", "Halifax",
-    '"Royal Bank of Scotland"', "TSB", '"Virgin Money"', '"Metro Bank"', '"Coutts"',
-    # UK fintech / neobanks
-    "Monzo", '"Starling Bank"', "Revolut", '"Chase UK"', '"Zopa"', '"Wise"',
-    # US
-    "JPMorgan", "JPMorganChase", '"Chase Bank"', '"Bank of America"', "Citi", '"Wells Fargo"',
-    '"US Bank"', '"U.S. Bank"', '"Goldman Sachs"', '"Morgan Stanley"', '"Capital One"',
-    '"Truist"', '"PNC Bank"', "Chime", "SoFi",
-    # Canada
-    '"Royal Bank of Canada"', "RBC", "BMO", '"Bank of Montreal"', '"TD Bank"', "Scotiabank", "CIBC",
-    # Europe & Asia
-    '"BNP Paribas"', '"Deutsche Bank"', "UBS", "ING", '"Societe Generale"', "UniCredit",
-    '"Standard Chartered"', '"DBS Bank"', '"Emirates NBD"', '"First Abu Dhabi Bank"',
+    "Barclays", "Lloyds", "Santander", "NatWest", '"Metro Bank"',
+    "Citi", "Citibank", "Revolut", "Monzo", "Chase", "JPMorganChase",
+    '"Standard Chartered"', '"BNP Paribas"', '"JP Morgan"', '"J.P. Morgan"', "JPMorgan",
+    '"Deutsche Bank"',
 ]
 _SPONSOR = '(sponsorship OR sponsor OR partnership OR "official partner" OR "naming rights" OR "jersey patch" OR deal)'
 _SPORT_ARTS = ('(sport OR sports OR football OR soccer OR tennis OR golf OR rugby OR cricket OR '
                'NBA OR NFL OR MLS OR Olympics OR cycling OR stadium OR arts OR theatre OR museum OR festival)')
-_EXCLUDE = '-"Halifax Town" -"Halifax Panthers" -"FC Halifax" -"Lloyds Register"'
+_EXCLUDE = '-"Lloyds Register" -"Chase Elliott" -"Chase Field"'
 _GROUP_SIZE = 6
 for _i in range(0, len(COMPETITOR_BANKS), _GROUP_SIZE):
     _grp = " OR ".join(COMPETITOR_BANKS[_i:_i + _GROUP_SIZE])
