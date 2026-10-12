@@ -355,6 +355,26 @@ def main():
             "title": s["title"], "link": s["link"],
             "article_text": s.get("article_text", ""),
         })
+    # Stories that missed out last time (e.g. Claude was unavailable) keep the
+    # article text we already read; anything still without text gets another try.
+    prev_text = {}
+    if os.path.exists(PENDING_PATH):
+        try:
+            with open(PENDING_PATH, encoding="utf-8") as f:
+                prev_text = {p["id"]: p.get("article_text", "") for p in json.load(f)}
+        except Exception:
+            pass
+    for p in pending:
+        if not p["article_text"]:
+            p["article_text"] = prev_text.get(p["id"], "")
+    retry = [p for p in pending if not p["article_text"] and "news.google.com" not in p["link"]]
+    if retry and FETCH_BODIES and HAVE_TRAFILATURA:
+        print(f"Re-reading {len(retry)} articles still waiting for bullets...")
+        for p in retry:
+            p["article_text"] = fetch_article(p["link"])
+            time.sleep(0.3)
+        print(f"   read {sum(1 for p in retry if p['article_text'])}/{len(retry)}")
+
     # The article text is only needed for the AI step — keep it out of news.json
     # so the web page stays quick to load.
     for s in kept:

@@ -28,3 +28,4 @@ Mark a story as skipped (no bullets) if any of these apply:
 - It isn't a real news article, for example a video page, gallery, live blog, product review, betting tips or a homepage.
 - **Competitor News** only: the story isn't a sponsorship or partnership move in sport or the arts by one of these banks: Barclays, Lloyds Bank, NatWest, Santander UK, Nationwide, Halifax, Royal Bank of Scotland, TSB, Virgin Money, Metro Bank, Monzo, Starling Bank, Revolut, Chase UK, Standard Chartered, Citi, J.P. Morgan, BNP Paribas, Deutsche Bank.
 - **THFC** only: the story isn't about Tottenham Hotspur.
+- **Wider Sports News** only: the story isn't about sport or the business of sport (rights, sponsorship, media, events, governing bodies). General business, politics or lifestyle pieces are skipped.
