@@ -61,6 +61,10 @@ Stories:
 """
 
 
+class ClaudeError(Exception):
+    """Claude couldn't run at all (e.g. not signed in) — no point trying more batches."""
+
+
 def ask_claude(batch: list[dict], style: str) -> list[dict]:
     """Send one batch to Claude and return its parsed JSON answer ([] on failure)."""
     prompt = PROMPT.format(style=style, stories=json.dumps(batch, ensure_ascii=False, indent=1))
@@ -72,13 +76,15 @@ def ask_claude(batch: list[dict], style: str) -> list[dict]:
     except subprocess.TimeoutExpired:
         print("   ! Claude took too long on this batch")
         return []
-    if res.returncode != 0:
-        print(f"   ! Claude returned an error: {(res.stderr or res.stdout)[:300]}")
-        return []
     try:
-        text = json.loads(res.stdout).get("result", "")
+        reply = json.loads(res.stdout)
     except json.JSONDecodeError:
-        text = res.stdout
+        reply = {"result": res.stdout, "is_error": res.returncode != 0}
+    if res.returncode != 0 or reply.get("is_error"):
+        reason = reply.get("result") or res.stderr or res.stdout
+        print(f"   ! Claude returned an error: {str(reason)[:300]}")
+        raise ClaudeError(reason)
+    text = reply.get("result", "")
     # Pull the JSON list out even if Claude wrapped it in a code fence or a sentence.
     match = re.search(r"\[.*\]", text, re.S)
     try:
@@ -117,7 +123,11 @@ def main():
     answers = {}
     for i in range(0, len(pending), BATCH_SIZE):
         batch = pending[i:i + BATCH_SIZE]
-        got = ask_claude(batch, style)
+        try:
+            got = ask_claude(batch, style)
+        except ClaudeError:
+            print("   Stopping here; the remaining stories will be tried next run.")
+            break
         for a in got:
             if isinstance(a, dict) and a.get("id"):
                 answers[a["id"]] = a
