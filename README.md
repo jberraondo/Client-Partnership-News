@@ -14,8 +14,9 @@ then picks the stories they want and copies a ready-formatted bulletin into an e
    Competitor News that isn't really about a bank sponsorship.
 3. **`index.html`** is the web page the team uses: pick stories, tweak bullets, then
    click **Copy bulletin**.
-4. A **GitHub Action** (`.github/workflows/scrape.yml`) runs steps 1 and 2 every two
-   hours from 06:00 to 18:00 UTC, plus 07:30.
+4. A **GitHub Action** (`.github/workflows/scrape.yml`) runs steps 1 and 2 at
+   **08:50 and 09:45 UK time** every day, adjusting automatically for the clocks
+   changing. GitHub sometimes starts scheduled runs 5–30 minutes late.
 
 ## Using it each morning
 

@@ -1,14 +1,21 @@
 name: Collect morning news
 
 # When this runs:
-#   - Automatically every 2 hours from 06:00 to 18:00 UTC, so there are always fresh
-#     stories during the UK working day and the page's Refresh button feels live.
-#     (07:30 included so it's ready before you get in at 9am.)
+#   - 08:50 and 09:45 UK time, every day, all year round.
 #   - Or any time you press the "Run workflow" button on the Actions tab.
+#
+# GitHub's schedule only understands UTC, which ignores British Summer Time. So
+# each run is booked at BOTH possible UTC times, and the "uk-time" job below lets
+# through only the one that matches UK time today; the other stops straight away.
+#   08:50 UK = 07:50 UTC in summer (BST), 08:50 UTC in winter (GMT)
+#   09:45 UK = 08:45 UTC in summer (BST), 09:45 UTC in winter (GMT)
+# Note: GitHub sometimes starts scheduled runs 5-30 minutes late when it's busy.
 on:
   schedule:
-    - cron: "30 7 * * *"
-    - cron: "0 6,8,10,12,14,16,18 * * *"
+    - cron: "50 7 * * *"   # 08:50 UK in summer
+    - cron: "50 8 * * *"   # 08:50 UK in winter
+    - cron: "45 8 * * *"   # 09:45 UK in summer
+    - cron: "45 9 * * *"   # 09:45 UK in winter
   workflow_dispatch:
 
 # Let the job save the freshly-scraped news back into the repo.
@@ -21,7 +28,34 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  uk-time:
+    runs-on: ubuntu-latest
+    outputs:
+      go: ${{ steps.check.outputs.go }}
+    steps:
+      - name: Check this is the right run for UK time today
+        id: check
+        env:
+          EVENT: ${{ github.event_name }}
+          CRON: ${{ github.event.schedule }}
+        run: |
+          if [ "$EVENT" != "schedule" ]; then echo "go=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          # Is the UK on summer time (+0100) or winter time (+0000) today?
+          if [ "$(TZ=Europe/London date +%z)" = "+0100" ]; then
+            WANTED="50 7 * * *|45 8 * * *"
+          else
+            WANTED="50 8 * * *|45 9 * * *"
+          fi
+          if echo "$WANTED" | tr '|' '\n' | grep -qxF "$CRON"; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not this one: today the UK-time run uses the other booking."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          fi
+
   collect:
+    needs: uk-time
+    if: needs.uk-time.outputs.go == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
@@ -52,6 +86,7 @@ jobs:
         # Settings → Secrets and variables → Actions → CLAUDE_CODE_OAUTH_TOKEN.
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          MAX_STORIES: "120"   # only two runs a day, so the first one has a full day to catch up on
         run: python summarise.py
 
       - name: Save the results
