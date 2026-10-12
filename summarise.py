@@ -52,7 +52,7 @@ link to read the article. If you still can't read it, return it with
 "bullets": [] and "skip": false. Never write bullets from the headline alone.
 
 Reply with ONLY a JSON list (no other text, no code fences), one object per story:
-  {{"id": "...", "bullets": ["first bullet", "second bullet"], "skip": false}}
+  {{"id": "...", "bullets": ["first bullet", "second bullet"], "skip": false, "competitor": false}}
 or, for a story the style guide says to skip:
   {{"id": "...", "bullets": [], "skip": true, "reason": "a few words"}}
 
@@ -137,7 +137,7 @@ def main():
     with open(NEWS_PATH, encoding="utf-8") as f:
         news = json.load(f)
     asked = {p["id"] for p in pending}
-    done = skipped = failed = 0
+    done = skipped = failed = moved = 0
     untouched = []
     for items in news["sections"].values():
         for s in items:
@@ -145,6 +145,10 @@ def main():
                 continue
             a = answers.get(s["id"], {})
             bullets = [re.sub(r"^\s*[\*\-•]\s*", "", b).strip() for b in a.get("bullets") or []]
+            if a.get("competitor") and not a.get("skip") and s["section"] != "Competitor News":
+                s["moved_from"] = s["section"]
+                s["section"] = "Competitor News"
+                moved += 1
             if a.get("skip"):
                 s["summary_status"] = "skipped"
                 s["skip_reason"] = a.get("reason", "")
@@ -161,12 +165,21 @@ def main():
                 s["summary_status"] = "unavailable"
                 failed += 1
 
+    # Re-file any stories that moved into Competitor News.
+    if moved:
+        regrouped = {sec: [] for sec in news["section_order"]}
+        for items in news["sections"].values():
+            for s in items:
+                regrouped.setdefault(s["section"], []).append(s)
+        news["sections"] = regrouped
+
     with open(NEWS_PATH, "w", encoding="utf-8") as f:
         json.dump(news, f, ensure_ascii=False, indent=2)
     with open(PENDING_PATH, "w", encoding="utf-8") as f:
         json.dump(untouched, f, ensure_ascii=False, indent=2)
 
-    print(f"\nDone: {done} summarised, {skipped} skipped as off-topic, {failed} couldn't be read"
+    print(f"\nDone: {done} summarised, {skipped} skipped as off-topic, {failed} couldn't be read, "
+          f"{moved} moved to Competitor News"
           + (f", {len(untouched)} left for next time" if untouched else ""))
 
 

@@ -43,7 +43,7 @@ try:
 except Exception:
     HAVE_TRAFILATURA = False
 
-from sources import SOURCES, SECTION_ORDER, DEFAULT_WINDOW_HOURS
+from sources import SOURCES, SECTION_ORDER, SECTION_RENAMES, DEFAULT_WINDOW_HOURS
 
 # ---- settings ----
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", DEFAULT_WINDOW_HOURS))
@@ -248,9 +248,13 @@ def collect_from_source(src: dict) -> list[dict]:
         if not title or not link:
             continue
 
+        # Wide searches: show the real publisher (e.g. "Talksport"), not the search name.
+        publisher = (entry.get("source") or {}).get("title", "") if src.get("wide") else ""
+
         stories.append({
             "section": src["section"],
-            "source": src["name"],
+            "source": publisher or src["name"],
+            "search": src["name"],
             "kind": src["kind"],
             "title": title,
             "feed_link": link,     # as given by the feed (Google News links are scrambled)
@@ -276,7 +280,10 @@ def main():
                 prev = json.load(f)
             for sec_items in prev.get("sections", {}).values():
                 for s in sec_items:
-                    archive[s.get("feed_link") or s.get("link")] = s
+                    # Move stories from renamed/merged sections; drop removed sections.
+                    s["section"] = SECTION_RENAMES.get(s["section"], s["section"])
+                    if s["section"] in SECTION_ORDER:
+                        archive[s.get("feed_link") or s.get("link")] = s
         except Exception:
             pass
 
@@ -300,7 +307,11 @@ def main():
     if gnews:
         print(f"Unscrambling {len(gnews)} Google News links...")
         for s in gnews:
-            s["link"] = decode_gnews_link(s["feed_link"]) or s["feed_link"]
+            real = decode_gnews_link(s["feed_link"])
+            if not real:
+                time.sleep(3)  # Google sometimes briefly refuses; one patient retry
+                real = decode_gnews_link(s["feed_link"])
+            s["link"] = real or s["feed_link"]
             time.sleep(0.5)  # be polite to Google
         print(f"   resolved {sum(1 for s in gnews if s['link'] != s['feed_link'])}/{len(gnews)}")
 

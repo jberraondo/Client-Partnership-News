@@ -22,10 +22,35 @@ Headline: *Raducanu to make return with wildcard in Strasbourg* (BBC Sport)
 1. Emma Raducanu will return to competitive action at the Strasbourg clay-court event after being granted a wildcard, having been absent since a third-round defeat at Indian Wells on 8 March following a post-viral infection.
 2. The Strasbourg event begins on Sunday, one week before the French Open on 24 May. Raducanu is set to enter Roland Garros unseeded as a result of her absence from the tour.
 
+## Competitor News: what counts
+
+Competitor News tracks **other banks and fintechs (anywhere in the world, never
+HSBC) doing sponsorship or partnership deals in sport or the arts**. Examples of
+stories that belong:
+
+- Monzo becomes official banking partner of The Hundred (cricket)
+- JPMorganChase becomes the Dallas Mavericks' jersey patch and banking partner
+- Lloyds and British Cycling launch the Sofa to Saddle app
+- Bank of America renews the Panthers stadium naming rights
+- Chime is presenting sponsor of the MLS All-Star Game
+- SoFi becomes Notre Dame Athletics' first jersey patch sponsor
+- RBC becomes Wrexham AFC's back-of-shirt sponsor and official bank partner
+- BMO becomes the LA Lakers' official bank
+- Revolut and MOJOE launch an athlete career-transition programme
+- Lloyds becomes England Rugby's first back-of-shirt partner
+
+This covers banks, building societies, neobanks and banking or investing apps,
+and wealth managers. New deals, renewals, extensions, exits and activations all
+count. Takeovers, earnings, general banking news and HSBC's own deals don't count.
+
+**For every story in every section**, set `"competitor": true` if the story is
+mainly about a deal like this. It will then be moved into Competitor News. For
+example, a Sportcal story in Wider Sports News about a bank renewing a club
+sponsorship should be flagged.
+
 ## When to skip a story
 
 Mark a story as skipped (no bullets) if any of these apply:
-- It isn't a real news article, for example a video page, gallery, live blog, product review, betting tips or a homepage.
-- **Competitor News** only: the story isn't a sponsorship or partnership move in sport or the arts by one of these banks: Barclays, Lloyds Bank, NatWest, Santander UK, Nationwide, Halifax, Royal Bank of Scotland, TSB, Virgin Money, Metro Bank, Monzo, Starling Bank, Revolut, Chase UK, Standard Chartered, Citi, J.P. Morgan, BNP Paribas, Deutsche Bank.
-- **THFC** only: the story isn't about Tottenham Hotspur.
+- It isn't a real news article, for example a video page, gallery, live blog, podcast, product review, betting tips or a homepage.
+- **Competitor News** only: the story doesn't meet the definition above.
 - **Wider Sports News** only: the story isn't about sport or the business of sport (rights, sponsorship, media, events, governing bodies). General business, politics or lifestyle pieces are skipped.

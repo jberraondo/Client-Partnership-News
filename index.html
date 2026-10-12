@@ -362,6 +362,7 @@ function card(s){
       <span class="src">${esc(s.source)}</span><span>·</span>
       <span title="${esc(s.published_label||'')}">${timeAgo(s.published || s.first_seen)}</span>
       ${badge}
+      ${s.moved_from ? `<span class="badge off" title="Claude spotted a bank sponsorship story">Found in ${esc(s.moved_from)}</span>` : ''}
     </div>
     <div class="head">
       <h3><a href="${esc(s.link)}" target="_blank" rel="noopener">${esc(s.title)}</a></h3>
@@ -424,9 +425,9 @@ function buildBulletin(){
     text += `\n**${sec}**\n`;
     for(const s of stories){
       const bl = bulletsFor(s).map(x=>x.trim()).filter(Boolean);
-      html += `<p style="margin:0"><b><a href="${esc(s.link)}">${esc(s.source)}: ${esc(s.title)}</a></b></p>`
+      html += `<p style="margin:0"><a href="${esc(s.link)}">${esc(s.source)}</a>: ${esc(s.title)}</p>`
             + `<ul style="margin-top:4px">${bl.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`;
-      text += `\n**[${s.source}: ${s.title}](${s.link})**\n` + bl.map(x=>`* ${x}`).join('\n') + `\n`;
+      text += `\n[${s.source}](${s.link}): ${s.title}\n` + bl.map(x=>`* ${x}`).join('\n') + `\n`;
     }
   }
   return {html, text};
