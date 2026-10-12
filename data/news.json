@@ -1,18 +1,70 @@
 {
-  "generated_at": "2026-10-12T17:27:12.465366+00:00",
-  "generated_label": "Monday 12 October 2026, 17:27 UTC",
+  "generated_at": "2026-10-12T17:52:23.105127+00:00",
+  "generated_label": "Monday 12 October 2026, 17:52 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
     "Wider Sports News",
     "Rugby",
-    "Tennis",
-    "Golf",
-    "THFC",
-    "Badminton"
+    "Racket",
+    "Golf"
   ],
   "sections": {
-    "Competitor News": [],
+    "Competitor News": [
+      {
+        "section": "Competitor News",
+        "source": "CitiNewsroom.com",
+        "search": "Bank search",
+        "kind": "gnews",
+        "title": "Citi FM/Channel One TV, Ghana Eximbank explore Agrifair partnership",
+        "feed_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcW45VkxZbVloUUotOS1ZY3dIaUdEWlpCeWdzVGltaTBUMmlpZ0NvcGNBVWVjMG93WWpHbzVlVkZZTXFlMkRadE9xdkNGa0RVZDZlMFhBckN4N3RnaVpGU0c3UjB4cUI3aWg5aHByUTdMRFRjd01mXzE2MDZ2VkNUdms0WENnV3g4dTl2VXlGVDJPdGVNZFc4X2h4eHo3SUM5MDVsT0lvVQ?oc=5",
+        "link": "https://www.citinewsroom.com/2026/10/citi-fm-channel-one-tv-ghana-eximbank-explore-agrifair-partnership/",
+        "published": "2026-10-12T15:46:31+00:00",
+        "published_label": "Mon 12 Oct, 15:46",
+        "summary": "Citi FM/Channel One TV, Ghana Eximbank explore Agrifair partnership CitiNewsroom.com",
+        "id": "f7b0c4bbec83",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Management of Citi FM/Channel One TV, led by Managing Director Samuel Attah-Mensah, has paid a courtesy visit to Ghana Eximbank to explore areas of collaboration ahead of the 2026 Agrifair.\n\nThe engagement is aimed at strengthening support for farmers, agribusinesses and small and medium-sized enterprises (SMEs), while creating opportunities to connect agricultural producers with markets, consumers and potential investors.",
+        "first_seen": "2026-10-12T17:52:23.105127+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "not a bank sport/arts sponsorship deal"
+      },
+      {
+        "section": "Competitor News",
+        "source": "Crowdfund Insider",
+        "search": "Bank search",
+        "kind": "gnews",
+        "title": "Nubank Expands In The US, Deploys AI Compliance Tools, And Rules Out Monzo Deal",
+        "feed_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPck9RV1BqWkhERDlqRG5QYzFQMGVRc1dETzVfMjl6bHRwVE1PRzFWaUFuTmdhYjZzLUxLNldZMkdWbVAxaVhhZ2ZUaHpkTmk5RGM0NzU1aElEd2haR29jenZjdnlrVzNlbUh3LWV6bXVxemtvV3J4WUZFbjAzUnk1R29jTmQ4dG1CMmVtYlFNVGtzTjVzdVBQVm1CN0JwTU5tM2hWZ2xWc0lSN1FMY25hN2lyZk1KMHJLTkN5OHpYSFIwNGg3?oc=5",
+        "link": "https://www.crowdfundinsider.com/2026/10/316561-nubank-expands-in-the-us-deploys-ai-compliance-tools-and-rules-out-monzo-deal/",
+        "published": "2026-10-11T10:38:15+00:00",
+        "published_label": "Sun 11 Oct, 10:38",
+        "summary": "Nubank Expands In The US, Deploys AI Compliance Tools, And Rules Out Monzo Deal Crowdfund Insider",
+        "id": "b0054d87f226",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Brazil’s digital banking platform Nubank (NYSE: NU) is focused on a broader push into the United States with new compliance technology. Earlier this month, the bank also denied any acquisition speculation of Monzo (in the UK).\n\nIn early October 2026, the bank completed the rollout of an artificial-intelligence platform from Cardamon, a London-based firm that emerged from Y Combinator’s Winter 2025 batch.",
+        "first_seen": "2026-10-12T17:52:23.105127+00:00"
+      },
+      {
+        "section": "Competitor News",
+        "source": "Startup Fortune",
+        "search": "Bank search",
+        "kind": "gnews",
+        "title": "Nubank denies Monzo takeover talk after its stock lost $6 billion",
+        "feed_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0ExSjljVXVGaUtBSnFDLS1rVFUzXzV1aEVEcUlLVnE0OXBiZU12c2stWTE3Zm93ajhTVFJEUms0Ri1XOVRYZ1lzNHEwVzR0NlZGODduVC13Tlp6bGV4UVZNRlhmNEtpeWpFTUE2c2dvbW0zaTdxSHRUOTNLZGo3Z3JGWEw5TElVLVI4TkQxNFF3akgyYmRn?oc=5",
+        "link": "https://startupfortune.com/nubank-denies-monzo-takeover-talk-after-its-stock-lost-6-billion/",
+        "published": "2026-10-11T03:54:07+00:00",
+        "published_label": "Sun 11 Oct, 03:54",
+        "summary": "Nubank denies Monzo takeover talk after its stock lost $6 billion Startup Fortune",
+        "id": "2965d97d1b0c",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Nu Holdings spent four days watching its market value shrink over a deal it says it was never making. Then a single SEC filing undid most of the damage in after-hours trading.\n\nNu Holdings, the parent of Brazilian digital bank Nubank, filed a statement with the Securities and Exchange Commission on September 30 saying flatly that the company \"is not pursuing a transaction with Monzo.\" The filing came four days after Sky News first reported that Nubank was in early talks to buy the British challenger bank in a deal that could value Monzo at £8 billion to £10 billion, more than double the £4.5 billion valuation Monzo fetched in an employee share sale back in October 2024.",
+        "first_seen": "2026-10-12T17:52:23.105127+00:00"
+      }
+    ],
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
@@ -127,7 +179,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -145,7 +197,7 @@
         "is_article": true,
         "copy": "Sky Sports has partnered with the Mental Health Foundation to deliver a mental health awareness campaign marking World Mental Health Day on 10th October 2026, combining personal storytelling with practical resources to encourage conversations about mental wellbeing.\n\nThe initiative features two short films, including one starring Sky Sports pundit and former England international Paul Merson, who speaks openly about his experiences with mental health and suicidal thoughts.",
         "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -163,7 +215,7 @@
         "is_article": true,
         "copy": "Discover how rights holders are building a Single Supporter View in our live webinar on Wednesday 14th October at 3pm. How well do clubs really know their supporters? As supporter interactions become increasingly fragmented across ticketing, memberships, retail and digital channels, many organisations are looking to build a more complete picture of the people they serve.\n\nJoin Data Talks and Bradford City AFC for an open webinar exploring how rights holders can build a clearer view of their supporters and turn that understanding into more relevant and engaging experiences.",
         "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -181,7 +233,7 @@
         "is_article": true,
         "copy": "Millwall FC has announced a new partnership with Trustee Fire & Security Ltd, expanding an existing relationship with the South London and Kent-based company that dates back to 2018.\n\nThe agreement will see Trustee become the Championship club’s fire safety partner, increasing its branding presence at The Den and providing further opportunities to engage with Millwall’s business community.",
         "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -199,7 +251,7 @@
         "is_article": true,
         "copy": "beIN Asia Pacific has secured exclusive broadcast rights to Wimbledon across Southeast Asia and Hong Kong from 2027 to 2031, extending its long-standing media partnership with the All England Lawn Tennis Club (AELTC).\n\nThe five-year agreement will see live coverage of The Championships distributed through beIN SPORTS and its streaming platform, beIN SPORTS Connect, across ten markets, including Singapore, Malaysia, Indonesia, Thailand, the Philippines and Hong Kong.",
         "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -273,7 +325,7 @@
         "is_article": true,
         "copy": "The Lawn Tennis Association has announced a £1.6m investment in British university tennis and padel through to the end of the 2028/29 academic year, representing a 15% increase on its previous funding cycle\n\nThe funding will be match-funded by participating universities, unlocking a further £1.6m and bringing the combined investment to £3.2m over the three-year period. The LTA also plans to expand its network of partner universities from 32 to 50 nationwide by the end of the funding cycle, increasing opportunities for student participation, workforce development and competition.",
         "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -429,7 +481,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -447,7 +499,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -502,6 +554,27 @@
     "Rugby": [
       {
         "section": "Rugby",
+        "source": "The Independent",
+        "search": "The Independent",
+        "kind": "direct",
+        "title": "Saracens sack academy player involved in cricket nightclub fracas after another incident",
+        "feed_link": "https://www.independent.co.uk/sport/rugby/rugby-union/saracens-academy-totoa-auvaa-ben-stokes-gus-atkinson-nightclub-b3065436.html",
+        "link": "https://www.independent.co.uk/sport/rugby/rugby-union/saracens-academy-totoa-auvaa-ben-stokes-gus-atkinson-nightclub-b3065436.html",
+        "published": "2026-10-12T17:38:16+00:00",
+        "published_label": "Mon 12 Oct, 17:38",
+        "summary": "21-year-old Totoa Auvaa has been released by Saracens",
+        "id": "2bdb631d540b",
+        "bullets": [
+          "Saracens have released Totoa Auvaa, a 21-year-old member of the senior men's academy, with immediate effect after a further incident over the weekend. The club said his conduct \"falls short of the standards expected of everyone who represents Saracens, both on and off the pitch\", and that it would make no further comment.",
+          "Auvaa was involved in a fracas with members of the England cricket team at a London nightclub in June. He threw a punch at Gus Atkinson but missed and hit an England and Wales Cricket Board security guard, who needed stitches but did not report the matter to police. He avoided formal sanctions from Saracens and the Rugby Football Union at the time, when the club called the incident \"regrettable\" but said it remained supportive of him."
+        ],
+        "is_article": true,
+        "copy": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Saracens have released a member of the senior men’s academy who was involved in a fracas with the England cricket team this summer after another incident.\n\nTotoa Auvaa was involved in an altercation with members of the Test side at a nightclub in London this June, throwing a punch at Gus Atkinson but missing and instead striking an England and Wales Cricket Board (ECB) security guard.",
+        "first_seen": "2026-10-12T17:52:23.105127+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "Saracens investigate incident involving academy player",
@@ -511,10 +584,14 @@
         "published_label": "Mon 12 Oct, 17:24",
         "summary": "Saracens say they have launched an investigation into an incident involving a player from the men's senior academy.",
         "id": "97d8e95818bc",
-        "bullets": [],
+        "bullets": [
+          "Saracens have launched an investigation into an incident involving a player from the club's men's senior academy. The incident took place in St Albans on Saturday, and the unnamed player has been stood down from all club duties.",
+          "In a statement, the club said it expects the highest standards of conduct from everyone representing it. Saracens will make no further comment until the investigation has concluded."
+        ],
         "is_article": true,
         "copy": "Saracens have launched an investigation into an incident involving a player from the men's senior academy. The unnamed player has been stood down from all club duties after the incident in St Albans on Saturday.\n\n\"Saracens expects the highest standards of conduct from everyone representing the club,\" a statement said., external \"We will make no further comment until the investigation has concluded.\"",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00"
+        "first_seen": "2026-10-12T17:27:12.465366+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -1055,9 +1132,30 @@
         "first_seen": "2026-10-12T16:38:14.890444+00:00"
       }
     ],
-    "Tennis": [
+    "Racket": [
       {
-        "section": "Tennis",
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "title": "Carlos Alcaraz sends 12-word message to Zizou Bergs after Shanghai Masters defeat",
+        "feed_link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-message-zizou-bergs",
+        "link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-message-zizou-bergs",
+        "published": "2026-10-12T17:00:57+00:00",
+        "published_label": "Mon 12 Oct, 17:00",
+        "summary": "Classy! The post Carlos Alcaraz sends 12-word message to Zizou Bergs after Shanghai Masters defeat appeared first on Tennis365 .",
+        "id": "fa0038a33714",
+        "bullets": [
+          "Carlos Alcaraz lost 7-5, 7-6 to Belgium's Zizou Bergs in the third round of the Shanghai Masters, having beaten Juan Manuel Cerundolo in the previous round. He arrived in strong form after winning the Japan Open at his previous tournament. Bergs became only the fifth player to beat Alcaraz in the 2026 season.",
+          "Alcaraz complained about the conditions during the match and afterwards said he was \"really disappointed\" with his play, citing many unforced errors and a poor return position. He later posted on Instagram wishing Bergs good luck and thanking Shanghai. Next he plays the Six Kings Slam in Saudi Arabia from 21 October, then the Paris Masters in November, before the ATP Finals in Turin and the Davis Cup in Bologna."
+        ],
+        "is_article": true,
+        "copy": "Carlos Alcaraz suffered one of his earliest defeats of the season as he was dispatched in the third round of the Shanghai Masters at the hands of Zizou Bergs. Alcaraz had entered the Shanghai Masters in impressive form, having won the Japan Open title at his previous tournament.\n\nThe Spaniard looked set to continue that form when he comprehensively defeated Juan Manuel Cerundolo to set up a third round meeting with Bergs. However, Alcaraz was far from comfortably against the Belgian throughout the match and he eventually fell to a 7-5, 7-6 to confirm his exit from the penultimate Masters tournament on the ATP Tour.",
+        "first_seen": "2026-10-12T17:52:23.105127+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Carlos Alcaraz makes ‘lucky’ comment as he gets brutally honest after Shanghai Masters shock",
@@ -1077,7 +1175,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Carlos Alcaraz unhappy with the Shanghai Masters conditions after shock third round exit",
@@ -1097,7 +1195,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Alex Eala ranking points and prize money after Wuhan Open setback",
@@ -1117,7 +1215,27 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "World Juniors: ‘Ukrainian Badminton is Still Alive’",
+        "feed_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEJLYzdIN1ZsMktFMGZRNngzNzlhOUc5X3p0VlJ3alNRZWcyd2k2RFRnT09meWY3Q0pFSUxjWV9WSU1KY0tTc2RvbEk5NURueEY0a0loM3ZQMzVtNjlyLVhBbVVZenZ6MTBIRlBxcjQyQXZLSTRxTlhseVZKT1FtSXZUQW5ITkRuTEFOcml3M092eDBLLV90RzI0VjJGZw?oc=5",
+        "link": "https://bwfbadminton.com/news-single/2026/10/12/world-juniors-ukrainian-badminton-is-still-alive/",
+        "published": "2026-10-12T15:35:48+00:00",
+        "published_label": "Mon 12 Oct, 15:35",
+        "summary": "World Juniors: ‘Ukrainian Badminton is Still Alive’ BWF",
+        "id": "cb1001bc9275",
+        "bullets": [
+          "Ukraine's Raiia Almalalha, seeded No.11, opened her first BWF World Junior Championships 2026 with a quick first-round win over Cyprus's Vasilia Demetriou. The 18-year-old won the women's singles title at the European Junior Championships in August, only the second time Ukraine has won a medal at that event.",
+          "Almalalha has trained with the Czech national team for the last four years and spent two weeks at home in Ukraine after the European title, where she said she could hear bombs and drones at night. She said it is impossible to practise in Ukraine now, especially in her home city, and that she wants to show that Ukrainian badminton is still alive."
+        ],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Carlos Alcaraz opens up on ‘negative thoughts’ after surprise Shanghai Masters defeat",
@@ -1137,7 +1255,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "Emma Raducanu falls out of the top 100 for the first time in over two years",
@@ -1157,7 +1275,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Carlos Alcaraz’s ‘biggest weakness’ touted after shock Shanghai Masters exit",
@@ -1177,7 +1295,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "Zverev secures year-end number one ranking",
@@ -1197,7 +1315,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "How Carlos Alcaraz’s Shanghai Masters exit affects ATP Rankings as world No 3 suffers blow",
@@ -1217,7 +1335,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Alexander Zverev’s first words as US Open champion clinches year-end No 1 after Carlos Alcaraz loss",
@@ -1237,7 +1355,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Carlos Alcaraz vs Zizou Bergs controversy sparks calls for major tennis rule change after ‘unacceptable’ incident",
@@ -1257,7 +1375,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "Emma Raducanu falls out of world’s top 100",
@@ -1277,7 +1395,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Sky Sports",
         "kind": "gnews",
         "title": "Highlights as Carlos Alcaraz was dumped out in the third round of the Shanghai Masters by Zizou Bergs",
@@ -1297,7 +1415,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "What Carlos Alcaraz was heard yelling at his coach during Shanghai Masters loss to Zizou Bergs",
@@ -1317,7 +1435,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Zizou Berg’s immediate reaction after stunning win over Carlos Alcaraz in Shanghai",
@@ -1337,7 +1455,27 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Taiwanese men's, women's doubles pairs lose in BWF Arctic Open finals",
+        "feed_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VbUVuNmIyV2Z3Sloxc3VoaW5uSjRjLUNOTU9MbDAwbGNHNExwOUY2MWVEdmd6V0lmemJLczkzRGgzR3MyWHB0X2Z2OW16ZnZuQ1Z3UQ?oc=5",
+        "link": "https://focustaiwan.tw/sports/202610120026",
+        "published": "2026-10-12T12:48:00+00:00",
+        "published_label": "Mon 12 Oct, 12:48",
+        "summary": "Taiwanese men's, women's doubles pairs lose in BWF Arctic Open finals Focus Taiwan",
+        "id": "f1d8b76e1ee7",
+        "bullets": [
+          "Taiwan's men's and women's doubles pairs both finished runners-up at the 2026 Arctic Open, a BWF Super 500 tournament in Vantaa, Finland, on Sunday. World No. 8 pair Hsu Yin-hui and Lin Jhih-yun lost 21-18, 21-19 to China's Chen Fan Shutian and Luo Xumin in the women's doubles final.",
+          "In the men's doubles final, 20-year-olds Lai Po-yu and Tsai Fu-cheng lost 21-19, 21-19 to Malaysia's Aaron Tai and Yap Roy King. Hsu and Lin said the Chinese pair's style kept them on the back foot, and noted it was the third Super 500 final they had lost since teaming up in 2023."
+        ],
+        "is_article": true,
+        "copy": "Taipei, Oct. 12 (CNA) Taiwanese men's and women's doubles pairs each took home silver medals after losing in the finals of the 2026 Arctic Open, a Badminton World Federation (BWF) Super 500 tournament, in Vantaa, Finland, on Sunday (local time).\n\nIn the women's doubles finals, world No. 8 pair Hsu Yin-hui (許尹鏸) and Lin Jhih-yun (林芝昀) lost 21-18, 21-19 to China's Chen Fan Shutian (陳樊淑湉) and Luo Xumin (羅徐敏) in two games that remained neck-and-neck throughout.",
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Carlos Alcaraz prize money and ranking points from shock Shanghai Open exit",
@@ -1357,7 +1495,25 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "Denmark Open 2026 badminton: Know where to watch live streaming in India",
+        "feed_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWllTkstMzJPaDloSzdDTVdMUkZGazFJQmZJQ1RmR2tLOEc2Y1NWSlk3WXU2dnJrc01qZWR0YlFoaFp3VnV4M1AtZTFPR3M2Z2ZuVjhnV21EM0stc3FtUGZSS242R0d5eHVOR2VSb3NfZlVwVVFPbzVEcmhjNGNJTHp0NGp5cV95OVZPRnVjQW8zRDY5b1UwXw?oc=5",
+        "link": "https://www.olympics.com/en/news/denmark-open-2026-badminton-where-watch-live-streaming-india",
+        "published": "2026-10-12T09:46:00+00:00",
+        "published_label": "Mon 12 Oct, 09:46",
+        "summary": "Denmark Open 2026 badminton: Know where to watch live streaming in India Olympics",
+        "id": "3890d2147c7b",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 2,
+        "summary_status": "unavailable"
+      },
+      {
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "WTA Rankings: Mirra Andreeva passes Jessica Pegula & Coco Gauff; Zheng Qinwen +31, Emma Raducanu at No 107",
@@ -1377,7 +1533,25 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF Denmark Open badminton 2026: Asian Games champs Kunlavut Vitidsarn, An Seyoung look to add further titles in Odense",
+        "feed_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOems5cFo4S29Kb0JjeGdSUzVLclBXSS1RV2JqWExpNnlKTkppSU9IbVlCM2trVV9QMG1oQXRkc09iNjZpUFNobGE1X1I5SkU0d3N4VFpGRjM4YzdjNldxXzlsVHhqLXNXTHEteWFKNjV3Q0hfdHFTSkdYQVBfZzhKcy16aWRqNGlJeTFhN3M5cHk4OGRHVGZB?oc=5",
+        "link": "https://www.olympics.com/en/news/bwf-denmark-open-badminton-2026-kunlavut-an-seyoung-preview",
+        "published": "2026-10-12T07:42:00+00:00",
+        "published_label": "Mon 12 Oct, 07:42",
+        "summary": "BWF Denmark Open badminton 2026: Asian Games champs Kunlavut Vitidsarn, An Seyoung look to add further titles in Odense Olympics",
+        "id": "33f429e27181",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
+      },
+      {
+        "section": "Racket",
         "source": "Tennis365",
         "kind": "direct",
         "title": "Wuhan Open withdrawal list: 15 WTA stars out as Zheng Qinwen and two Grand Slam winners also pull out",
@@ -1397,7 +1571,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "Fit-again Kartal beats top-50 opponent in Wuhan",
@@ -1417,7 +1591,7 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "Sky Sports",
         "kind": "gnews",
         "title": "China Open: Qinwen Zheng stuns Mirra Andreeva to make history as first Chinese winner of WTA event in Beijing",
@@ -1437,7 +1611,27 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
+        "source": "BWF watch",
+        "kind": "gnews",
+        "title": "Arctic Open: Free Mind Propels Blichfeldt",
+        "feed_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjdCa0J0QXhCVXN4VHBGeU5TX1otcWRwVkdkVHAySXVmbHRlQVhmanFacjdJSC14NS1SYXFPVVBMbjM4bW9iOTg1Vk53RjV6a0RZR1B4NVV4ZUxZTkk5M3ktYkNmSjlzcEZJZy1WU2lMQ21lSWtaellWbTdIQ1IwQlVuUnNkVDhJR3QyZkJnTUFvQVMxSEN4d3FvRTBxRGlSMURuSA?oc=5",
+        "link": "https://bwfworldtour.bwfbadminton.com/news-single/2026/10/12/arctic-open-free-mind-propels-blichfeldt/",
+        "published": "2026-10-12T05:58:19+00:00",
+        "published_label": "Mon 12 Oct, 05:58",
+        "summary": "Arctic Open: Free Mind Propels Blichfeldt BWF World Tour",
+        "id": "3fa55e179bcb",
+        "bullets": [
+          "Denmark's Mia Blichfeldt beat top seed Ratchanok Intanon 21-17 21-13 on Sunday to win the women's singles title at the CLASH OF CLANS Arctic Open 2026 in Vantaa, Finland. It was her first win over Intanon in nine meetings and ended a title drought, a year after her HYLO Open triumph last October. The world No.15 did not drop a game all week, beating higher seeds Han Yue and Nozomi Okuhara along the way.",
+          "Blichfeldt was sidelined for four months with a knee injury after the Uber Cup in April. She returned at the BWF World Championships in August but lost in the Round of 16, then focused on rehabilitation before making Finland her comeback event. She said she arrived with a \"no pressure, just play\" mindset and described beating Intanon, whom she had idolised since childhood, as a big milestone."
+        ],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "History made as Zheng becomes first Chinese woman to win China Open",
@@ -1453,7 +1647,7 @@
         "first_seen": "2026-10-12T16:38:14.890444+00:00"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "BBC Sport",
         "kind": "direct",
         "title": "Karaoke-singing Zheng makes history with China Open win",
@@ -1473,7 +1667,41 @@
         "summary_status": "done"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF Arctic Open 2026 badminton: Danish players celebrate title double as Mia Blichfeldt turns new mental approach into strong post-injury comeback",
+        "feed_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQUpEVERPQnYxVHo4UkFmXzA5bUplbFRNM1poSXh6S0JwdlhtVGNHSWN5c3FCNmRSQ1RSdmJyM2ZNMG5vLTladWhHRThic2c4dVBsWUNxNUlZWlRKMDNzQzkwLVlqcTB4bjF5SUNaRUg5RFpsTzJYMlJrX0xVZ21uU0J1XzlVdWtlZ3pQOGI0S0llaXFiXzFaWTUzZjltcVhFcmVTenV3N2M?oc=5",
+        "link": "https://olympics.com/en/news/bwf-arctic-open-2026-badminton-finals-mia-blichfeldt-anders-antonsen-results",
+        "published": "2026-10-11T12:30:00+00:00",
+        "published_label": "Sun 11 Oct, 12:30",
+        "summary": "BWF Arctic Open 2026 badminton: Danish players celebrate title double as Mia Blichfeldt turns new mental approach into strong post-injury comeback Olympics",
+        "id": "8334774551f3",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-12T16:38:14.890444+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
+      },
+      {
+        "section": "Racket",
+        "source": "Olympics",
+        "kind": "gnews",
+        "title": "BWF World Junior Championships 2026: Know where to watch live streaming in India",
+        "feed_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1dDZF9hVW9ZR2xRUGJFamYzWnZKU3ZCUUY2ZVlPSGVMNnFzSFdKMGFfVGVkbFNjbEs5OEVlOWg0eEMxc1NyaFNGOTUyUnRpOUprNmozb2o4NU85TGRaQlR2ZHVPM3VGRXp6QXpuZlpKQWJ4T1lhMnRYOUcxZk5UVHBpa2JCdnNDU1JkQm45cTJ1LWtadFdLWjJ1STBHNjlGUk9fc1NDdEI?oc=5",
+        "link": "https://www.olympics.com/en/news/bwf-world-junior-championships-2026-badminton-watch-live-streaming-india",
+        "published": "2026-10-11T09:01:00+00:00",
+        "published_label": "Sun 11 Oct, 09:01",
+        "summary": "BWF World Junior Championships 2026: Know where to watch live streaming in India Olympics",
+        "id": "88c03faafd29",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-12T16:38:14.890444+00:00"
+      },
+      {
+        "section": "Racket",
         "source": "Sky Sports",
         "kind": "gnews",
         "title": "Carlos Alcaraz: Spaniard displays new look in victory at Shanghai Masters as Mirra Andreeva, Qinwen Zheng make China Open final",
@@ -1489,7 +1717,7 @@
         "first_seen": "2026-10-12T16:38:14.890444+00:00"
       },
       {
-        "section": "Tennis",
+        "section": "Racket",
         "source": "HSBC tennis watch",
         "kind": "gnews",
         "title": "Emma Raducanu appears to have called time on 2026 season",
@@ -1508,6 +1736,25 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golf.com",
+        "search": "Golf.com",
+        "kind": "direct",
+        "title": "Your golf shoes are costing you speed. Here's what you should know",
+        "feed_link": "https://golf.com/gear/golf-shoes-costing-you-speed/",
+        "link": "https://golf.com/gear/golf-shoes-costing-you-speed/",
+        "published": "2026-10-12T17:28:43+00:00",
+        "published_label": "Mon 12 Oct, 17:28",
+        "summary": "Johnny Wunder visited the FootJoy Lab at the Titleist Performance Center and learned why finding the right shoe is more important than you think. The post Your golf shoes are costing you speed. Here’s what you should know appeared first on Golf .",
+        "id": "b949368a20c2",
+        "bullets": [],
+        "is_article": true,
+        "copy": "When was the last time you actually thought about your golf shoes as a piece of performance equipment? If you’re like most guys — and frankly, if you were like me before walking into the FootJoy lab on Manchester Lane — you treat golf shoes like a fashion accessory OR just a plain comfort play. I’m that guy, and I knew nothing.\n\nYou walk into the shop, online or at a PGA TOUR Superstore, grab whatever size you’ve worn since you became an adult (because obviously I’m a size 10) and match them to whatever polo you’re rocking that day. Technology? Torsional stiffness? Total blind spot. In this realm, I’ll happily admit I was a complete idiot. My cohort Jake is way more versed in this world than I am. Like my Golf Pride fitting in Pinehurst, this was an eye opener.",
+        "first_seen": "2026-10-12T17:52:23.105127+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "gear feature, not news"
+      },
+      {
+        "section": "Golf",
         "source": "Golf Monthly",
         "kind": "direct",
         "title": "Are Your Iron Shafts Too Heavy? The Small Gear Change That Saved This 8 -Handicapper's Game",
@@ -1520,7 +1767,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "Over my years as a PGA Professional, I’ve custom-fit thousands of golfers, seeing virtually every swing type and equipment mismatch imaginable. But every now and then, a single tweak yields results so transformative it genuinely stops you in your tracks.\n\nThat exact scenario played out recently with my good friend and Kick Point podcast co-host, Dan Parker... Dan is a fairly typical 8-handicap player with a pretty solid all-round game, but having played together on numerous occasions, I had long felt that the 120-gram steel shafts in his Ping i230 irons were just far too heavy for him. On the course, he always seemed to be struggling to catch his arms and clubhead up to his body turn through impact. The inevitable result was a frustratingly inconsistent strike and dangerously unpredictable start directions.",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00"
+        "first_seen": "2026-10-12T17:27:12.465366+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "equipment feature, not news"
       },
       {
         "section": "Golf",
@@ -1573,10 +1822,14 @@
         "published_label": "Mon 12 Oct, 15:22",
         "summary": "In this edition of Inside The Ropes, our editor and news team writers discuss the futures of LIV Golf, Bryson DeChambeau and Jon Rahm...",
         "id": "3be3cf8f0a79",
-        "bullets": [],
+        "bullets": [
+          "Golf Monthly's team discusses the futures of LIV Golf, Jon Rahm and Bryson DeChambeau as LIV's bankruptcy case continues and players decide whether to commit to the league or go elsewhere. Rahm, David Puig and Adrian Meronk have already left, and the DP World Tour has said it will not allow LIV players to be members in 2027.",
+          "The writers largely see LIV's future as uncertain rather than finished, noting it has lost Rahm and its Asian Tour feeder system and could lose Tyrrell Hatton and others, along with its OWGR points and Major pathways. They say DeChambeau committing his future could help the league, and that more than 40 other golfers outside the DP World Tour group might sign on. One writer argues the PGA Tour should allow Rahm straight back in, given his pull with viewers and ticket buyers."
+        ],
         "is_article": true,
         "copy": "'Inside The Ropes' is the chance for Golf Monthly's expert team to share its honest thoughts on the biggest subjects in the game. This time, it's all about the futures of Jon Rahm, Bryson DeChambeau and LIV Golf'.\n\nIt's set to be a critical next few weeks for LIV Golf and its hopes of a '2.0' version coming to fruition, with its bankruptcy case rolling on and players deciding whether to commit or go elsewhere.",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00"
+        "first_seen": "2026-10-12T17:27:12.465366+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -1592,7 +1845,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "As a 3-handicap golfer, I'm relatively competent in all areas of the game but playing with the likes of colleague Sam De'Ath, who has a handicap of +4, I realise the gulf in skill between myself and an elite player. Then there's the next chasm in technique from elite level amateur to PGA Tour player, making my golfing ability feel especially ordinary relatively speaking.\n\nDriving has always been one of my weaker areas too. But what if I could swap out my shambolic tee shots and sub in one of the best drivers of our generation? How would my short game hold up and could I shoot under par around a ‘normal’ parkland course?",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00"
+        "first_seen": "2026-10-12T17:27:12.465366+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "video-led feature, not news"
       },
       {
         "section": "Golf",
@@ -1629,7 +1884,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -1666,7 +1921,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "I’m lucky. I play golf. It’s one of the most giving, rewarding and facilitating activities that human beings in today's world can participate in. My entire life has been shaped by golf.\n\nIn my early days as a junior, great role models helped me enjoy the sport and taught me how to behave, not only within our hallowed game but also as part of the wider community and the wider world.",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00"
+        "first_seen": "2026-10-12T17:27:12.465366+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "opinion column, not news"
       },
       {
         "section": "Golf",
@@ -1722,7 +1979,9 @@
         "bullets": [],
         "is_article": true,
         "copy": "We head to Delhi Golf Club, for the DP World India Championship 2026, which is sure to test the players in a way that few other tracks can. The driver will stay in the bag for many this week, with precision rewarded over power, but who will emerge victorious from a stacked field led by the returning Rory McIlroy?\n\nOur resident betting expert went close again last time out, backing runner-up Chacarra in Spain, but he is putting almost all of his eggs in the basket of a recent Major Winner this week...",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00"
+        "first_seen": "2026-10-12T17:27:12.465366+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "betting tips"
       },
       {
         "section": "Golf",
@@ -1755,10 +2014,14 @@
         "published_label": "Mon 12 Oct, 09:53",
         "summary": "DP World Tour CEO Guy Kinnings has outlined his circuit's much tougher policy in relation to LIV golfers from the start of next season",
         "id": "37468dbfb225",
-        "bullets": [],
+        "bullets": [
+          "The DP World Tour will not allow any golfer involved in the new version of the LIV Golf League to hold membership from 2027, Golf Monthly understands, in a report first carried by BBC Sport. CEO Guy Kinnings said \"players must make a choice\" and that those unwilling to comply with the tour's rules should not seek to join it. The stance follows the Saudi PIF's April announcement that it would withdraw financial support for LIV, and eight conditional releases granted in February.",
+          "Roughly 15 players with status on both tours are likely to be affected, including Tyrrell Hatton, Victor Perez and Tom McKibbin. Only DP World Tour members will be eligible for Europe's Ryder Cup team at Adare Manor next year. Jon Rahm has ruled himself out of the new LIV league, so he looks set to return to the DP World Tour full-time in 2027. Joaquin Niemann and Thomas Pieters would have to enter Q-School or agree a deal for guaranteed invites, and a player who says they will not play LIV but then does so could have their membership cancelled immediately."
+        ],
         "is_article": true,
         "copy": "The DP World Tour will not allow any golfer involved in the new version of the LIV Golf League to obtain membership on the European circuit from 2027, Golf Monthly understands.\n\nFirst reported by BBC Sport, DP World Tour CEO Guy Kinnings is on record as saying \"players must make a choice\" in terms of where they will play next season and beyond. As it stands, it is possible for many LIV golfers to hold a DP World Tour card as well and compete without fines or sanctions after the Wentworth-based circuit granted eight conditional releases back in February.",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00"
+        "first_seen": "2026-10-12T17:27:12.465366+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -1871,10 +2134,14 @@
         "published_label": "Sun 11 Oct, 19:13",
         "summary": "Following on from the Korn Ferry Tour Championship, a total of 20 players from the circuit have wrapped up their playing privileges on the PGA Tour for 2027",
         "id": "e763b5a3497b",
-        "bullets": [],
+        "bullets": [
+          "The PGA Tour has 20 new members for 2027 following the Korn Ferry Tour Championship at The Federal Club. Ross Steelman topped the final points list, with Sandy Scott, who won his last two starts, second. Austin Hitt won the finale by two shots and moved from outside the top 20 into sixth, while Alvaro Ortiz, younger brother of LIV's Carlos, finished fifth.",
+          "Nineteen-year-old Blades Brown, who had 12 top-25 finishes, placed in the top 10 and became the youngest player to earn a PGA Tour card via the Korn Ferry Tour. Carson Young and Taylor Dickson, who lost their cards in 2025, regained them. Davis Lamb rose three places to take the 20th and final card, helped by a solo eighth-place finish at the Championship."
+        ],
         "is_article": true,
         "copy": "After a lengthy 2026 season, where players battled it to further their careers, the PGA Tour now has 20 new members for 2027. Offering more prize money and opportunities to earn Major starts, the jump between the Korn Ferry Tour and PGA Tour is a sizeable one, hence why many will be relieved to secure their playing privileges on the latter for next year.\n\nPrior to the Korn Ferry Tour Championship finale, which took place at The Federal Club, multiple names were already Tour bound and, following the conclusion of the event, we now know who is among the full list of players that find themselves inside the top 20.",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00"
+        "first_seen": "2026-10-12T17:27:12.465366+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -1887,10 +2154,14 @@
         "published_label": "Sun 11 Oct, 17:40",
         "summary": "First reported by Golfweek, David Lipsky and his caddie, Darren Woolard, reportedly parted ways prior to the final round of the Baycurrent Classic on Sunday",
         "id": "6efa0dbe7957",
-        "bullets": [],
+        "bullets": [
+          "David Lipsky's caddie, Darren Woolard, reportedly told him to find someone else to carry his bag before the final round of the Baycurrent Classic in Japan, according to Golfweek. Lipsky, 38, finished in a share of 54th at Yokohama Country Club on three under and shot a one-under 70 on Sunday. It is unclear who caddied for him, though some claim it was his trainer.",
+          "The event was won by Michael Brennan by one stroke over Keith Mitchell and Jacob Bridgeman. The split came a month after Alejandro Tosti's caddie, Cliff Ellis, walked off midway through the first round of the Biltmore Championship in September. Lipsky has made 160 PGA Tour starts and earned $8 million in prize money."
+        ],
         "is_article": true,
         "copy": "Players splitting with caddies is nothing new in the professional game but, in the last month, we have seen two players split with their loopers mid-event. The first came back at the Biltmore Championship in September, when Alejandro Tosti's caddie, Cliff Ellis, walked off midway through the first round, with the other occurring at this week's Baycurrent Classic.\n\nTaking place in Japan, the 72-man tournament was won by Michael Brennan, who secured a one stroke win over Keith Mitchell and Jacob Bridgeman. Less than 12 hours on from the win, though, news broke that one player in the tournament had split with his caddie prior to a ball being struck on the final round on Sunday.",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00"
+        "first_seen": "2026-10-12T17:27:12.465366+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -2010,373 +2281,7 @@
         "summary_status": "skipped",
         "skip_reason": "gift guide, product roundup"
       }
-    ],
-    "THFC": [
-      {
-        "section": "THFC",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Man City's Omar Marmoush fined over uninsured McLaren",
-        "feed_link": "https://www.bbc.co.uk/news/articles/c680zyz2m5lro?at_medium=RSS&at_campaign=rss",
-        "link": "https://www.bbc.co.uk/news/articles/c680zyz2m5lro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-12T14:13:39+00:00",
-        "published_label": "Mon 12 Oct, 14:13",
-        "summary": "The DVLA tried to contact the footballer at his former Manchester address, court papers show.",
-        "id": "b3cc300587b7",
-        "bullets": [
-          "Tottenham striker Omar Marmoush, 27, has been fined after his McLaren 720S, worth an estimated £250,000, was found to be uninsured and not declared off the road. He was found guilty at Teesside Magistrates' Court on 5 October and fined £220, with £100 costs and an £88 victim surcharge, according to the Press Association.",
-          "The DVLA brought the prosecution after he failed to pay a fixed penalty issued on 17 June. It tried to contact him at a Manchester city centre apartment where he lived before moving to London. The case was dealt with under the Single Justice Procedure and Marmoush did not enter a plea. He joined Spurs on loan from Manchester City in August, with an obligation for Tottenham to buy him for £60m at the end of the season."
-        ],
-        "is_article": true,
-        "copy": "Tottenham striker Omar Marmoush has been fined after his McLaren supercar was found to be uninsured and not declared off the road. The 27-year-old, who joined Spurs on loan from Manchester City in August, was found guilty at Teesside Magistrates' Court on 5 October.\n\nHe was fined £220 and ordered to pay £100 in costs and an £88 victim surcharge, according to the Press Association (PA). The Driver and Vehicle Licensing Agency (DVLA) brought the prosecution after Marmoush failed to pay a fixed penalty issued in June.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "THFC",
-        "source": "Football London",
-        "kind": "gnews",
-        "title": "Rodrigo Bentancur agreement reached as Tottenham sent clear verdict on Man Utd red card",
-        "feed_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXAtSkVOYUJ5ZUN3em01VnBadWk5QXAtWGNOU29sUjJiY2dVaUx0a01GbVgySHY5ZWs4c3EyeVItaGd1OEJXNmtTQ20zVS1fbEVRNnVtbk9BN3dsSUVWVHVadmdSVm5TVWtjNERXdUZyd2dWa25rRVN5U19DY1p2ZnQtY1dUSWVDV2ZHSjdSMnpQWFZOTzBnd1ctbDHSAaIBQVVfeXFMTkY2YWQtVzJUYjI2dmRoX0dFVGs5UjJtNVlxcHF5d21JQXB3NmIzdGlRejB3NHc4cHBGWlU3N0wwbTd2X0NCbkhNZmFTdkFTMXA2SUZ6ckI2cmpkM2FGY1F2UUNhczhXM2phVTFlSVJ0M1Rhcmo4VjNtbWJZUGVsRkp4bXNfcGFScEFNV1pNcHJuR1BxcnF2S2IzdnlBYnpxUzlB?oc=5",
-        "link": "https://www.football.london/tottenham-hotspur-fc/news/rodrigo-bentancur-spurs-luke-shaw-34752322",
-        "published": "2026-10-12T12:07:15+00:00",
-        "published_label": "Mon 12 Oct, 12:07",
-        "summary": "Rodrigo Bentancur agreement reached as Tottenham sent clear verdict on Man Utd red card Football London",
-        "id": "73c8b733f5fb",
-        "bullets": [
-          "Tottenham Hotspur midfielder Rodrigo Bentancur was sent off for violent conduct in the 78th minute of the 1-1 draw at Manchester United, with United leading 1-0 through a Bryan Mbeumo goal. He slid into a tackle on Luke Shaw, who pushed him, and Bentancur then appeared to headbutt the United full-back. Dominic Solanke scored a late equaliser to earn Roberto De Zerbi's side a point.",
-          "Former referee Dermot Gallagher said on Sky Sports Ref Watch that the incident was a red card, though he wondered whether it could have been avoided by punishing the original tackle. Jay Bothroyd agreed with the decision but said Shaw's push was more dangerous than Bentancur's. Tim Sherwood said he understood why Shaw was aggravated by the challenges."
-        ],
-        "is_article": true,
-        "copy": "Tottenham Hotspur have been given a clear verdict on Rodrigo Bentancur's red card against Manchester United after the Uruguay international was sent off for violent conduct. The 29-year-old was sent off in the 78th minute, with United leading 1-0 thanks to a goal from Bryan Mbeumo. The Spurs man went flying into a tackle with Luke Shaw, before the defender reacted by pushing Bentancur.\n\nThe Spurs star appeared to headbutt the United full-back leaving the referee with little choice but to send him off. Fortunately for Roberto De Zerbi, Dominic Solanke popped up with a late equaliser to ensure a share of the spoils.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "THFC",
-        "source": "Football London",
-        "kind": "gnews",
-        "title": "Lewis family increase Tottenham stake after £320m injection as Daniel Levy share shrinks",
-        "feed_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFRGVWFNNlBBcjRfbjBXYzU2d293YklYNlJlYk9hU1BRTy04VFVicFdpa0J6MzJxU0JNbm9mVlNMSVlCNHF3NHRmVnE4SUpfNTdxdVM3eGw0WVlfcG16UTN2akU3MHRFYWFSQ241YVYxVmM5WUZXYXpqQmgyTk1ndnpTek00bWg1Qy1haURWVGNPM0lvRVZFbmZBbFJ3UDZQNEE?oc=5",
-        "link": "https://www.football.london/tottenham-hotspur-fc/news/lewis-family-increase-tottenham-stake-34751736",
-        "published": "2026-10-12T11:11:16+00:00",
-        "published_label": "Mon 12 Oct, 11:11",
-        "summary": "Lewis family increase Tottenham stake after £320m injection as Daniel Levy share shrinks Football London",
-        "id": "b6a889df3379",
-        "bullets": [
-          "The Lewis family have increased their stake in Tottenham to 89.06 per cent, up from 88.30 per cent, after a £120m working-capital injection allotted in September 2026. Through ENIC, the family have put £320m into the club over the past 12 months and have resisted interest from parties seeking to buy it.",
-          "Former chairman Daniel Levy did not match the latest injection, and his share of ENIC has fallen from 29.8 per cent in October last year to 27.38 per cent in June and now 25 per cent. Levy has been linked since June with selling a large part of his ENIC stake to Eight Sports Capital, which says he signed a sale and purchase agreement. Spurs are yet to win in the Premier League in their first six matches under Roberto De Zerbi."
-        ],
-        "is_article": true,
-        "copy": "The Lewis family have increased their stake in Tottenham after their recent £120million cash boost while former chairman Daniel Levy's slice of the club has shrunk. The family, who own Spurs through investment company ENIC, have backed the Premier League club's attempts to transform to a more successful outfit with £320million injected into it over the past 12 months. Vivienne Lewis and her son-in-law Nick Beucher have taken a more active role in backing CEO Vinai Venkatesham and non-executive chairman Peter Charrington and the family have resisted interest from various parties in selling the club in the past couple of years.\n\nThe latest £120million injection for working capital has now officially increased the family's stake in Spurs to 89.06 per cent and after former chairman Levy did not take up the opportunity to match the cash boost with his own relative part of it, his slice in ENIC's pie at Tottenham has dwindled from being 29.8 per cent in October last year to 27.38 in June this year and now 25 per cent after two missed injection opportunities.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "THFC",
-        "source": "Football London",
-        "kind": "gnews",
-        "title": "What Tottenham games Rodrigo Bentancur will miss as Premier League red card rules explained",
-        "feed_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOam1jaTlRQUpIN1ZDR3dxVDRvNnJ0aDBYeGFJX0FBcXg0dlo1UWFIUUtuUlBTNzhNa0lTM0hSbGxsVVByczMtd1Q5aEtxdWxKaEFuMW92U2NJOFRTRm9GTFZTM0VjTXdRek80RElJYjg1U3J2bC0wQkhUVWlSWkpFb3FXR2tiQ2poODladDZMcEo1MkY4S0gwU2lUQmVnTUJ6RGtv0gGoAUFVX3lxTE5BWDBneVFPRXF2UGVjWGtkOE9Gb2RHdlZLSnB0Y1pkZVhLbXZ5cmhpM0t0V2dDeF9YQ1YxR0ZwMEtpNWVYVW5wVmg0MlQzU2dMd0x1VWM4SmpIRGc2VFZCTkxPbzIycVpiclVXdjkwdFdqb2tRWHVsa1VZYTJNRUtDVHdjM0N5LUp4VUU2ZXI2UUstN2NVbG9BelZyYjdrdTdjcHEzZ2FxVQ?oc=5",
-        "link": "https://www.football.london/tottenham-hotspur-fc/news/what-tottenham-games-rodrigo-bentancur-34749122",
-        "published": "2026-10-12T06:07:55+00:00",
-        "published_label": "Mon 12 Oct, 06:07",
-        "summary": "What Tottenham games Rodrigo Bentancur will miss as Premier League red card rules explained Football London",
-        "id": "5dd0e9c8840e",
-        "bullets": [
-          "Rodrigo Bentancur must serve a three-match Premier League ban after being sent off for violent conduct in Tottenham's draw at Manchester United, which essentially sidelines him until November. The VAR review confirmed the red card, saying he put his head into Luke Shaw with some force.",
-          "Roberto De Zerbi accepted Bentancur had made a mistake but said the reaction showed the character his side needed, and that Spurs showed they were a team for the first time this season. Bentancur's absence includes the trip to Frank Lampard's Chelsea at Stamford Bridge, who have won 11 of their last 13 games against Tottenham. Crystal Palace, who have reached the Carabao Cup fourth round, also visit the Tottenham Hotspur Stadium."
-        ],
-        "is_article": true,
-        "copy": "Rodrigo Bentancur will miss some huge Premier League games for Tottenham Hotspur due to suspension. Roberto De Zerbi will be without Rodrigo Bentancur for three Premier League games, having been sent off for violent conduct during Tottenham Hotspur's hard-fought draw with Manchester United.\n\nIn the final quarter of an hour at Old Trafford on Saturday night, the ball broke free down the left-hand side, and, desperate to extinguish the assault on his backline, the Lilywhites midfielder dived into a tackle on Luke Shaw. The Red Devils defender hurdled Bentancur, who won the ball.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "THFC",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "The 'Kane-esque' striker Spurs may regret letting go",
-        "feed_link": "https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&at_campaign=rss",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-12T05:40:07+00:00",
-        "published_label": "Mon 12 Oct, 05:40",
-        "summary": "Will Lankshear's positioning, finishing and poacher's instinct have made him an instant hit at Riverside Stadium – and a cause of lament at Tottenham Hotspur Stadium.",
-        "id": "605d4b0e7f9c",
-        "bullets": [
-          "Will Lankshear scored his ninth goal in 12 games for Middlesbrough in a 1-0 win against Wolves on Saturday, having joined from Tottenham in the summer on a five-year contract. The deal was worth an initial fee of about £10m, with a further £10m in add-ons that could make it a club-record signing. Spurs remain in the Premier League relegation zone, and Dominic Solanke's last-minute goal at Old Trafford was the first league goal by a Tottenham forward in five months.",
-          "The 21-year-old scored 12 league goals on loan at relegated Oxford United last season and 23 for Tottenham's U23 side in 2023-24. Former Spurs goalkeeper Paul Robinson said first-team football is the best grounding for a young player and compared Lankshear's path to Harry Kane's. Spurs supporters' representative Ali Speechly said many fans question why he was sold."
-        ],
-        "is_article": true,
-        "copy": "Leaping high, six yards out, to nod in Tommy Conway's cross from the left wing, Will Lankshear notched his ninth goal in 12 games for Middlesbrough. It is that positioning, finishing and poacher's instinct, earning Boro a 1-0 win against Wolves on Saturday, that has made Lankshear an instant hit at Riverside Stadium – and a cause of lament at Tottenham Hotspur.\n\nLankshear joined Boro from Spurs in the summer on a five-year contract in a deal that could rise to a club record buy of £20m. Since then, he has scored as many goals in all competitions as Spurs' combined team. His old side, despite snatching a draw at Manchester United a few hours after Lankshear's latest winner, remain in the Premier League relegation zone while Boro sit in the Championship's automatic promotion places.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "THFC",
-        "source": "Football London",
-        "kind": "gnews",
-        "title": "Tottenham Hotspur Stadium breaks new record amid dramatic moment",
-        "feed_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenBkMG5nSU1hRWliRzJReFBoQWxzQktlN1hxMGVzYnl2MGl3UFU5eVAzc3lkajhiSlBJWHNZREtWLU5uNGVmYzlITVVIM3NVTTJ4VnJKc0NsNHhVS0dObXFoMDJOWTNZZnFEUjR2VDU0RGg2VUdXR1VNUW80YmhrbTM0SlRfMFJQUjZ2czJiS0xyMW5CWF9taG1yc3o2Z2w10gGmAUFVX3lxTE0yQ3dTMXZNdFA3NTAxeHl4V3NzYzBucEZLVTdRUkdDaFV5Y3M2d05INVhYRXVYSXZYUUxhbURfODNwWlNTN2hQUzJEMlh2cnMwVXVmLVc0LWk1SDhpMlZ6M09TNlpISVVyV2dIQ2ppRHBEQ3BXd3IwUXczcmhCd0h2d2lxRUM0STVnMk1oM0FRanRVN2NuaERjVTU5TG9WeUowc3RwNkE?oc=5",
-        "link": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-hotspur-stadium-breaks-new-34749487",
-        "published": "2026-10-12T05:21:26+00:00",
-        "published_label": "Mon 12 Oct, 05:21",
-        "summary": "Tottenham Hotspur Stadium breaks new record amid dramatic moment Football London",
-        "id": "2c34224bff02",
-        "bullets": [
-          "The Tottenham Hotspur Stadium set a new NFL crowd record of 61,322 on Sunday, when the Jacksonville Jaguars beat the Philadelphia Eagles 19-17 in the second NFL London Game held there this year. Cam Little kicked the winning field goal with one second left, after Jake Elliott's 48-yard field goal had given the Eagles a 17-16 lead with eight seconds remaining.",
-          "The game began with a fight between Eagles linebacker Jeremiah Trotter Jr. and Jaguars defensive end Bryan Thomas Jr., and both players were ejected within seconds. The record comes six years after the first NFL games at the stadium in 2019. NFL commissioner Roger Goodell said the success of the London games had laid the foundations for the sport's growth worldwide, including games in Melbourne and Rio."
-        ],
-        "is_article": true,
-        "copy": "The Tottenham Hotspur Stadium broke their NFL crowd record during a dramatic encounter as the Jacksonville Jaguars secured a last-gasp win against the Philadelphia Eagles. Spurs had enjoyed their own dramatic moment in Manchester on Saturday as Dominic Solanke headed home a 92nd minute equaliser at Old Trafford and the following day their stadium in north London provided the backdrop to a fascinating encounter with a eye-catching start and conclusion in the second of the NFL London Games held in N17 this year.\n\nFrom the opening kick-off, Eagles linebacker Jeremiah Trotter Jr. got into a fight in the middle of the field with the Jaguars' defensive end Bryan Thomas Jr. with staff and players from both sides pouring on to stop it. Both players were ejected within seconds of the contest.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "THFC",
-        "source": "Football London",
-        "kind": "gnews",
-        "title": "Tottenham's fastest player in Manchester United draw might surprise you",
-        "feed_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEZKamNENGlNYkYxRHJaMVRDMHBIZzh3YXljZDlOUy1oLUpjaWZHZk9STEJNMUp1aWg2anRVMURjV1h6bGRyNzlVWUZ0M0E0WE81bVpQQ1FvcmtuZmlpZjhOcmRqb29oa3dabnE1MFp4cTJKRGpQbWIxdzVRaXhBNkpJWnhCOFM1VEx1ZlNQeUwwTGxTdEhnNkZQdTh4Qjd5TXJrOXVtckpBMDJOd3hrY241dldvTG9FN1HSAb8BQVVfeXFMT2huQWpwekpmRVhPN0NJMC1ucGZJRnhmdU5WOFZZcUx2N2xHaEN0WjUxSzY1YkFsRWYtM3pZdGFfLTdLdFFYNkcteTRfeEROV1FuX0VKSGo4aHRIZThHMzhqTXRGRV83NVFrWFF5TVo3bjVYX0lac1RqSXpHMGNlT21id3gweDg3WjhGZ1VTbXUxb1k5SWh5VkxmLXBlRHFjOG82XzE2UVZBMUhCeWkzZHRWVkEwREdSNU1ZWUdRVlE?oc=5",
-        "link": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/tottenhams-fastest-player-manchester-united-34749188",
-        "published": "2026-10-11T16:47:36+00:00",
-        "published_label": "Sun 11 Oct, 16:47",
-        "summary": "Tottenham's fastest player in Manchester United draw might surprise you Football London",
-        "id": "572f7c2d8fbc",
-        "bullets": [
-          "Tonali recorded a sprint of 34.2kmh in Tottenham's 1-1 draw at Manchester United, the fastest of any starting player from either side. Only substitute Omar Marmoush, at 35.1kmh, was quicker, and Mohammed Kudus completed Tottenham's top three on 33.8kmh. Tonali also ran faster than Bryan Mbeumo, Savio and Micky van de Ven.",
-          "Tonali provided his first Tottenham assist, crossing for captain Dominic Solanke to head the 92nd-minute equaliser against ten men after Rodrigo Bentancur's red card. Bryan Mbeumo had put United ahead in the 73rd minute. The 26-year-old Italian has improved gradually since his £100m move from Newcastle United this summer."
-        ],
-        "is_article": true,
-        "copy": "Tottenham took home a point from their dramatic 1-1 draw at Manchester United on Saturday and one of their summer signings logged the fastest sprint among the starters on the day.\n\nSpurs dominated much of the first half in Manchester, frustrating the home fans with Conor Gallagher and Dominic Solanke thwarted by the keeper late in the first half before Solanke fired over inside the six-yard box early in the second period.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "THFC",
-        "source": "Football London",
-        "kind": "gnews",
-        "title": "Alan Shearer lays into Tottenham star after Man Utd draw - 'Nowhere near good enough'",
-        "feed_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3hqZkU4NkZEYS1CMmdRdTNIVFNhN0hVdmVRa2FrVkhzci10dHQ0dDA4N1BqUUowQ29VcHNnX2Q5MDdoTlgyQWdoT2o3NDJUMHZvNUVQQ2lpaG1pbW9Nby1PYlhTVXB1Y0dLZ2xCYUZrYk1MOWptR3hwOTBYQ1RXR1ZiTExLNGtCTE5nRW04M3VTTzBfZ2oxQUpRZ1pSN1B0NkhF0gGoAUFVX3lxTE94ZXVFRkZEMTRxa0dhdjFweTlTaTJTRUFiUjRIUXVOdFpSb1I5QmMxTkhrcUU3QmJkTlk3OHE2QWV3aDZqWFZCbVF5M0dXZG5mUE9LRk91REtXUjJEMEhrOVZVQ1VtZXhUOGx1elVfS0F5a2Q0bmdORGJVSThLYndNcWFfekk3Q2Rjcnl0Wlo2bFpMcnRaeVRVUzg4dm40VWpaZkhHOFp3bQ?oc=5",
-        "link": "https://www.football.london/tottenham-hotspur-fc/news/alan-shearer-tottenham-dominic-solanke-34748292",
-        "published": "2026-10-11T12:35:47+00:00",
-        "published_label": "Sun 11 Oct, 12:35",
-        "summary": "Alan Shearer lays into Tottenham star after Man Utd draw - 'Nowhere near good enough' Football London",
-        "id": "ee1139142f53",
-        "bullets": [
-          "Alan Shearer said on Match of the Day that Dominic Solanke's time at Tottenham has been 'nowhere near good enough', after the striker scored his first Premier League goal of the season in the 1-1 draw at Manchester United. Solanke has scored 24 goals in 73 appearances since a £55m move and has reached double figures in the league only once. Shearer criticised a chance in which Solanke awkwardly switched the ball to his right foot and was saved by Senne Lammens.",
-          "Solanke said he probably should have scored three against United. Roberto De Zerbi defended his striker, saying he is probably the best striker the club has and that he made him captain to show his confidence in him. De Zerbi said the criticism Solanke has faced is not always warranted."
-        ],
-        "is_article": true,
-        "copy": "Alan Shearer has slammed Tottenham star Dominic Solanke's time at Spurs as 'nowhere near good enough' and said the forward is lacking confidence. The Premier League record goalscorer was not impressed with Solanke's impact against Manchester United.\n\nThe Lilywhites striker scored his first Premier League goal of the season against the Red Devils with a smart header after holding off Lisandro Martinez. But it was his wayward efforts throughout the match that frustrated Shearer.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "THFC",
-        "source": "Football London",
-        "kind": "gnews",
-        "title": "De Zerbi has his Pochettino moment and the strange decision during Tottenham's draw at Man United",
-        "feed_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVZibDFIenRtSzN3VzFQMHQzb05pbHFyaEVqbXN4X1BCcGNFbFJ4QjNfN0hINEdLNUdMQWdSejZ4M2RDZG5iZEdXeDU3YTJpb3NhVzlVRkEtX2xNZ1drMUljVHkyLWZranI5QzF1d05FUmNIZUdydzhQTGtzMUFRMW5yeEVnUEYycjdYMXhpbjRkeURVQWhtUmljTFk3QQ?oc=5",
-        "link": "https://www.football.london/tottenham-hotspur-fc/news/de-zerbi-pochettino-moment-strange-34748116",
-        "published": "2026-10-11T11:08:25+00:00",
-        "published_label": "Sun 11 Oct, 11:08",
-        "summary": "De Zerbi has his Pochettino moment and the strange decision during Tottenham's draw at Man United Football London",
-        "id": "314ffa6cc962",
-        "bullets": [],
-        "is_article": true,
-        "copy": "It started with a kiss. Well technically it started with a push and then a coming together of heads. Whatever it started with, the script finally ended differently for Tottenham Hotspur. The familiar tale this season of playing well, failing to take chances and coming away with nothing did not come to pass.\n\nIt had looked like it was heading that way, Spurs dominant in the first half with the ball and creating big chances for Dominic Solanke at the start of both periods and Conor Gallagher before the interval.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
-      },
-      {
-        "section": "THFC",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Response after red card 'builds mentality' at Spurs",
-        "feed_link": "https://www.bbc.co.uk/sport/football/videos/cmqjnv52141po?at_medium=RSS&at_campaign=rss",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cmqjnv52141po?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T21:58:16+00:00",
-        "published_label": "Sat 10 Oct, 21:58",
-        "summary": "Tottenham fan Kish Patel pleased with Spurs' response against Man Utd.",
-        "id": "4955a59ad26a",
-        "bullets": [],
-        "is_article": false,
-        "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
-      },
-      {
-        "section": "THFC",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "'I kissed Rodrigo and said thanks'",
-        "feed_link": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T20:58:39+00:00",
-        "published_label": "Sat 10 Oct, 20:58",
-        "summary": "Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.",
-        "id": "fd8983c8c661",
-        "bullets": [],
-        "is_article": true,
-        "copy": "Tottenham boss Roberto de Zerbi praised Rodrigo Bentancur after he was sent off in the 1-1 draw against Manchester United. The Uruguay midfielder was shown a red card for headbutting Luke Shaw during a feisty 78th-minute melee when Spurs were trailing 1-0 at Old Trafford.\n\nDespite being reduced to 10 men, Tottenham managed to salvage a point as Dominic Solanke headed home in the second minute of added time. Spurs remain winless in the Premier League this season after six games, but De Zerbi was thankful to Bentancur for providing a \"spark\" against United.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
-      },
-      {
-        "section": "THFC",
-        "source": "Football London",
-        "kind": "gnews",
-        "title": "Roberto De Zerbi explains why he left out Micky Van de Ven for Man Utd clash as youngster trusted",
-        "feed_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTZLWE4wWEdpYURIOGl5aEhJSHpLUDYtNFFqSGlmMHN5VGYtc2NSempOYXNfVnBGSXFhNTZRZGpiRlJHcEtoTU82OE96Y3VOT3ZqYjlIbDhYaDkzSndrLXI3M2J1dlVuQjQ0TW5VQ0JzRGFDSWtFdVh4NzJLelM3QThiZEpEemFOOUhTMWlNTmdxMUHSAZgBQVVfeXFMTklaRF8zNXhNR1g3ODNQdGQtYXVMM0FudEowbjluc1B6VmxacGJQb3dXekhpZkhPckljdFYtOXNfN0pRczZFbU11TFpodmNvbENoU0ZvV25ESDFDQ2FneXZvY0ZhOXlSYVAtUVY5M3kzYm05RHA3bEljNDUzWUVnM3NIMzRyR1oyQ2ZmcGtzc2ZCOHFkZC1wRC0?oc=5",
-        "link": "https://www.football.london/tottenham-hotspur-fc/news/man-utd-tottenham-de-zerbi-34747073",
-        "published": "2026-10-10T20:10:35+00:00",
-        "published_label": "Sat 10 Oct, 20:10",
-        "summary": "Roberto De Zerbi explains why he left out Micky Van de Ven for Man Utd clash as youngster trusted Football London",
-        "id": "c1c2e087e372",
-        "bullets": [],
-        "is_article": true,
-        "copy": "Tottenham boss Roberto De Zerbi revealed that he was managing Micky van de Ven's minutes after leaving the defender out of his starting lineup against Manchester United. Jan Paul van Hecke and Marcos Senesi were Roberto De Zerbi's central defensive pairing of choice as Archie Gray and Destiny Udogie completed the back four. Van de Ven eventually came onto the pitch after Mbeumo's goal, replacing Udogie.\n\nThe Dutchman started all four Netherlands matches during the international break, against Germany, Serbia away, Greece and Serbia at home, and went off injured. He did, however, fail to keep a clean sheet as former Barcelona star Xavi took charge of the team for the first time.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
-      },
-      {
-        "section": "THFC",
-        "source": "BBC Sport",
-        "kind": "direct",
-        "title": "Solanke saves wasteful Spurs",
-        "feed_link": "https://www.bbc.co.uk/sport/football/articles/c9dr8y80d7e5o?at_medium=RSS&at_campaign=rss",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9dr8y80d7e5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-10T19:18:50+00:00",
-        "published_label": "Sat 10 Oct, 19:18",
-        "summary": "Dominic Solanke scores in stoppage time to salvage a draw for a wasteful 10-man Tottenham.",
-        "id": "e33a0f62eb1b",
-        "bullets": [],
-        "is_article": true,
-        "copy": "Like so many of their matches so far this season, Tottenham were the better team to start with and they penned Manchester United in with their high press and quick tempo. But once again they lacked conviction in front of goal and were left to rue missed early chances, with Dominic Solanke, Mohammed Kudus and Conor Gallagher all failing to find the back of the net in the opening 45 minutes.\n\nFor the 18th time in 2026, Spurs were unable to score in the first half of a Premier League game and they could not assert the same level of control after the break as United responded.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
-      }
-    ],
-    "Badminton": [
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "World Juniors: ‘Ukrainian Badminton is Still Alive’",
-        "feed_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEJLYzdIN1ZsMktFMGZRNngzNzlhOUc5X3p0VlJ3alNRZWcyd2k2RFRnT09meWY3Q0pFSUxjWV9WSU1KY0tTc2RvbEk5NURueEY0a0loM3ZQMzVtNjlyLVhBbVVZenZ6MTBIRlBxcjQyQXZLSTRxTlhseVZKT1FtSXZUQW5ITkRuTEFOcml3M092eDBLLV90RzI0VjJGZw?oc=5",
-        "link": "https://bwfbadminton.com/news-single/2026/10/12/world-juniors-ukrainian-badminton-is-still-alive/",
-        "published": "2026-10-12T15:35:48+00:00",
-        "published_label": "Mon 12 Oct, 15:35",
-        "summary": "World Juniors: ‘Ukrainian Badminton is Still Alive’ BWF",
-        "id": "cb1001bc9275",
-        "bullets": [
-          "Ukraine's Raiia Almalalha, seeded No.11, opened her first BWF World Junior Championships 2026 with a quick first-round win over Cyprus's Vasilia Demetriou. The 18-year-old won the women's singles title at the European Junior Championships in August, only the second time Ukraine has won a medal at that event.",
-          "Almalalha has trained with the Czech national team for the last four years and spent two weeks at home in Ukraine after the European title, where she said she could hear bombs and drones at night. She said it is impossible to practise in Ukraine now, especially in her home city, and that she wants to show that Ukrainian badminton is still alive."
-        ],
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Taiwanese men's, women's doubles pairs lose in BWF Arctic Open finals",
-        "feed_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VbUVuNmIyV2Z3Sloxc3VoaW5uSjRjLUNOTU9MbDAwbGNHNExwOUY2MWVEdmd6V0lmemJLczkzRGgzR3MyWHB0X2Z2OW16ZnZuQ1Z3UQ?oc=5",
-        "link": "https://focustaiwan.tw/sports/202610120026",
-        "published": "2026-10-12T12:48:00+00:00",
-        "published_label": "Mon 12 Oct, 12:48",
-        "summary": "Taiwanese men's, women's doubles pairs lose in BWF Arctic Open finals Focus Taiwan",
-        "id": "f1d8b76e1ee7",
-        "bullets": [
-          "Taiwan's men's and women's doubles pairs both finished runners-up at the 2026 Arctic Open, a BWF Super 500 tournament in Vantaa, Finland, on Sunday. World No. 8 pair Hsu Yin-hui and Lin Jhih-yun lost 21-18, 21-19 to China's Chen Fan Shutian and Luo Xumin in the women's doubles final.",
-          "In the men's doubles final, 20-year-olds Lai Po-yu and Tsai Fu-cheng lost 21-19, 21-19 to Malaysia's Aaron Tai and Yap Roy King. Hsu and Lin said the Chinese pair's style kept them on the back foot, and noted it was the third Super 500 final they had lost since teaming up in 2023."
-        ],
-        "is_article": true,
-        "copy": "Taipei, Oct. 12 (CNA) Taiwanese men's and women's doubles pairs each took home silver medals after losing in the finals of the 2026 Arctic Open, a Badminton World Federation (BWF) Super 500 tournament, in Vantaa, Finland, on Sunday (local time).\n\nIn the women's doubles finals, world No. 8 pair Hsu Yin-hui (許尹鏸) and Lin Jhih-yun (林芝昀) lost 21-18, 21-19 to China's Chen Fan Shutian (陳樊淑湉) and Luo Xumin (羅徐敏) in two games that remained neck-and-neck throughout.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "Denmark Open 2026 badminton: Know where to watch live streaming in India",
-        "feed_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWllTkstMzJPaDloSzdDTVdMUkZGazFJQmZJQ1RmR2tLOEc2Y1NWSlk3WXU2dnJrc01qZWR0YlFoaFp3VnV4M1AtZTFPR3M2Z2ZuVjhnV21EM0stc3FtUGZSS242R0d5eHVOR2VSb3NfZlVwVVFPbzVEcmhjNGNJTHp0NGp5cV95OVZPRnVjQW8zRDY5b1UwXw?oc=5",
-        "link": "https://www.olympics.com/en/news/denmark-open-2026-badminton-where-watch-live-streaming-india",
-        "published": "2026-10-12T09:46:00+00:00",
-        "published_label": "Mon 12 Oct, 09:46",
-        "summary": "Denmark Open 2026 badminton: Know where to watch live streaming in India Olympics",
-        "id": "3890d2147c7b",
-        "bullets": [],
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_attempts": 1,
-        "summary_status": "unavailable"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF Denmark Open badminton 2026: Asian Games champs Kunlavut Vitidsarn, An Seyoung look to add further titles in Odense",
-        "feed_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOems5cFo4S29Kb0JjeGdSUzVLclBXSS1RV2JqWExpNnlKTkppSU9IbVlCM2trVV9QMG1oQXRkc09iNjZpUFNobGE1X1I5SkU0d3N4VFpGRjM4YzdjNldxXzlsVHhqLXNXTHEteWFKNjV3Q0hfdHFTSkdYQVBfZzhKcy16aWRqNGlJeTFhN3M5cHk4OGRHVGZB?oc=5",
-        "link": "https://www.olympics.com/en/news/bwf-denmark-open-badminton-2026-kunlavut-an-seyoung-preview",
-        "published": "2026-10-12T07:42:00+00:00",
-        "published_label": "Mon 12 Oct, 07:42",
-        "summary": "BWF Denmark Open badminton 2026: Asian Games champs Kunlavut Vitidsarn, An Seyoung look to add further titles in Odense Olympics",
-        "id": "33f429e27181",
-        "bullets": [],
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "Arctic Open: Free Mind Propels Blichfeldt",
-        "feed_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjdCa0J0QXhCVXN4VHBGeU5TX1otcWRwVkdkVHAySXVmbHRlQVhmanFacjdJSC14NS1SYXFPVVBMbjM4bW9iOTg1Vk53RjV6a0RZR1B4NVV4ZUxZTkk5M3ktYkNmSjlzcEZJZy1WU2lMQ21lSWtaellWbTdIQ1IwQlVuUnNkVDhJR3QyZkJnTUFvQVMxSEN4d3FvRTBxRGlSMURuSA?oc=5",
-        "link": "https://bwfworldtour.bwfbadminton.com/news-single/2026/10/12/arctic-open-free-mind-propels-blichfeldt/",
-        "published": "2026-10-12T05:58:19+00:00",
-        "published_label": "Mon 12 Oct, 05:58",
-        "summary": "Arctic Open: Free Mind Propels Blichfeldt BWF World Tour",
-        "id": "3fa55e179bcb",
-        "bullets": [],
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF Arctic Open 2026 badminton: Danish players celebrate title double as Mia Blichfeldt turns new mental approach into strong post-injury comeback",
-        "feed_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQUpEVERPQnYxVHo4UkFmXzA5bUplbFRNM1poSXh6S0JwdlhtVGNHSWN5c3FCNmRSQ1RSdmJyM2ZNMG5vLTladWhHRThic2c4dVBsWUNxNUlZWlRKMDNzQzkwLVlqcTB4bjF5SUNaRUg5RFpsTzJYMlJrX0xVZ21uU0J1XzlVdWtlZ3pQOGI0S0llaXFiXzFaWTUzZjltcVhFcmVTenV3N2M?oc=5",
-        "link": "https://olympics.com/en/news/bwf-arctic-open-2026-badminton-finals-mia-blichfeldt-anders-antonsen-results",
-        "published": "2026-10-11T12:30:00+00:00",
-        "published_label": "Sun 11 Oct, 12:30",
-        "summary": "BWF Arctic Open 2026 badminton: Danish players celebrate title double as Mia Blichfeldt turns new mental approach into strong post-injury comeback Olympics",
-        "id": "8334774551f3",
-        "bullets": [],
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
-      },
-      {
-        "section": "Badminton",
-        "source": "Olympics",
-        "kind": "gnews",
-        "title": "BWF World Junior Championships 2026: Know where to watch live streaming in India",
-        "feed_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1dDZF9hVW9ZR2xRUGJFamYzWnZKU3ZCUUY2ZVlPSGVMNnFzSFdKMGFfVGVkbFNjbEs5OEVlOWg0eEMxc1NyaFNGOTUyUnRpOUprNmozb2o4NU85TGRaQlR2ZHVPM3VGRXp6QXpuZlpKQWJ4T1lhMnRYOUcxZk5UVHBpa2JCdnNDU1JkQm45cTJ1LWtadFdLWjJ1STBHNjlGUk9fc1NDdEI?oc=5",
-        "link": "https://www.olympics.com/en/news/bwf-world-junior-championships-2026-badminton-watch-live-streaming-india",
-        "published": "2026-10-11T09:01:00+00:00",
-        "published_label": "Sun 11 Oct, 09:01",
-        "summary": "BWF World Junior Championships 2026: Know where to watch live streaming in India Olympics",
-        "id": "88c03faafd29",
-        "bullets": [],
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00"
-      }
     ]
   },
-  "total": 125
+  "total": 118
 }
