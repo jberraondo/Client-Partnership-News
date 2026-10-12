@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T16:38:14.890444+00:00",
-  "generated_label": "Monday 12 October 2026, 16:38 UTC",
+  "generated_at": "2026-10-12T17:11:55.010181+00:00",
+  "generated_label": "Monday 12 October 2026, 17:11 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -14,6 +14,22 @@
   "sections": {
     "Competitor News": [],
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
+        "title": "LVMH’s fashion and leather sales fall in luxury setback",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS01vc2ozUE1OaW5xY21jaEdyRDhyV1hSNmVIak8xTmRLMWtqUXQzOTlYWk1xbWJka2d1TnlzckRuaFZ5dk1ZRVg0UW55RHlwUTlDMkYzN09JbU40MGR0T1JaUEhtcGhscHY1UEtCZzRYT3NVNkYtejFvbEJBX0tlZHVzQU4?oc=5",
+        "link": "https://www.ft.com/content/71003e2e-107b-4e87-adef-77e825a3aef4?syn-25a6b1a6=1",
+        "published": "2026-10-12T16:08:30+00:00",
+        "published_label": "Mon 12 Oct, 16:08",
+        "summary": "LVMH’s fashion and leather sales fall in luxury setback Financial Times",
+        "id": "1d219bc866f4",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -386,6 +402,22 @@
         "section": "Wider Sports News",
         "source": "Financial Times",
         "kind": "gnews",
+        "title": "Inside KKR’s €22bn bet on Italy’s telecoms network",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeFgyY0h0ZE9kU3hyS3JmYXNLM2N6NXJfc3FVTFFFVkY2bU1IeG5OcGdHUFdUdzdGaVVyTXlXVkFVaUZiTnZuNUVTYURZbDZ4ZkJ2UzZQZzYxNThCdmY5bzczQmNHdjdUYzlFblFZWE04dS1za3ZJYXJCODRheFQyNlJTMUU?oc=5",
+        "link": "https://www.ft.com/content/eee10b3e-5a61-4e75-bc7e-c815dab30dd6?syn-25a6b1a6=1",
+        "published": "2026-10-11T04:01:45+00:00",
+        "published_label": "Sun 11 Oct, 04:01",
+        "summary": "Inside KKR’s €22bn bet on Italy’s telecoms network Financial Times",
+        "id": "7b77f5adf34f",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "kind": "gnews",
         "title": "How business schools teach leaders to beat burnout",
         "feed_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oQjVXNVZScTdrd2hnOHBhdG5aWjhyb291Y1BvSEpHX2VmUC1Ta0lrMVNtcHJmc2k1bW9NUktMSTZkX1o1RGxDSDBXRDZTazBsb0JuOGdyTjlweVZsRTZIbVJQMFdVRjc5RGdmZWo2M2I?oc=5",
         "link": "https://www.ft.com/content/21aa3304-8ea0-48ee-86f7-4a78afd13229",
@@ -431,6 +463,22 @@
         "is_article": true,
         "copy": "With Pauline Bourdon Sansus unavailable for France’s three-Test tour of New Zealand, François Ratier has named Alexandra Chambon as captain. The 26-year-old scrum-half is the team’s third-choice captain, with Manae Feleu prioritising her medical studies and Bourdon Sansus remaining in France this October for personal reasons.\n\nCaptain of her club side, FC Grenoble Amazones, in AXA Élite 1, Chambon will lead an inexperienced France team that will also be without Yllana Brosseau, Siobhan Soqeta and Charlotte Escudero.",
         "first_seen": "2026-10-12T16:38:14.890444+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "kind": "direct",
+        "title": "Rugby Union Weekly",
+        "feed_link": "https://www.bbc.co.uk/sounds/play/p0pgb7h1?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sounds/play/p0pgb7h1?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-12T16:06:00+00:00",
+        "published_label": "Mon 12 Oct, 16:06",
+        "summary": "Ugo, Danny and Chris talk tries, Christion Wade, Shaun Edwards and the perfect steak.",
+        "id": "5c1171ca57d8",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Can you ever have too many tries? Can a steak be too buttery? Ugo, Danny and Chris tackle all the big topics on this week’s pod after another try-fest at the Gardens. We try to explain why there are so many tries in the Prem and if it is devaluing the product. Ashy’s try record hangs by a thread after Christian Wade’s hat-trick took him to 100 tries. Should there be a draft system for young academy players who aren’t getting enough gametime? We ask Phil Dowson for his thoughts. Shaun Edwards will be coaching at next year’s World Cup, it just won’t be with England.",
+        "first_seen": "2026-10-12T17:11:55.010181+00:00"
       },
       {
         "section": "Rugby",
@@ -822,6 +870,38 @@
         "section": "Tennis",
         "source": "Tennis365",
         "kind": "direct",
+        "title": "Carlos Alcaraz makes ‘lucky’ comment as he gets brutally honest after Shanghai Masters shock",
+        "feed_link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-brutally-honest-shanghai-masters-shock-lucky-comment",
+        "link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-brutally-honest-shanghai-masters-shock-lucky-comment",
+        "published": "2026-10-12T16:20:58+00:00",
+        "published_label": "Mon 12 Oct, 16:20",
+        "summary": "\"I would say it was a really bad level for me.\" The post Carlos Alcaraz makes ‘lucky’ comment as he gets brutally honest after Shanghai Masters shock appeared first on Tennis365 .",
+        "id": "fb09a70b8976",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Carlos Alcaraz described his level of play in his shock defeat to Zizou Bergs at the 2026 Shanghai Masters as “really bad” as he also made a comment about his opponent’s “luck.”\n\nThe world No 3 suffered a 5-7, 6-7(4) loss to world No 39 Bergs on Monday in the third round at the ATP 1000 tournament in China. Alcaraz was making his first appearance at the Shanghai Masters since 2024 after he missed last year’s event due to injury.",
+        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Tennis365",
+        "kind": "direct",
+        "title": "Carlos Alcaraz unhappy with the Shanghai Masters conditions after shock third round exit",
+        "feed_link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-shanghai-masters-conditions",
+        "link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-shanghai-masters-conditions",
+        "published": "2026-10-12T16:00:47+00:00",
+        "published_label": "Mon 12 Oct, 16:00",
+        "summary": "He's not happy with what happened in his defeat. The post Carlos Alcaraz unhappy with the Shanghai Masters conditions after shock third round exit appeared first on Tennis365 .",
+        "id": "90c38cd3fb14",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Carlos Alcaraz fell to a surprise third round defeat to Zizou Bergs at the Shanghai Masters. The Spaniard struggled with the conditions in Shanghai against Bergs and the Belgian ultimately made him pay to race to a 7-5, 7-6 victory at the Masters tournament.\n\nAlcaraz complained about the quality of the balls in Shanghai during a passion rant to his coach, Samuel Lopez, during the first set of the match. That wasn’t the only aspect of the match he was unhappy with either, as he was asked about the quickness of the court at the tournament after his match.",
+        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Tennis365",
+        "kind": "direct",
         "title": "Alex Eala ranking points and prize money after Wuhan Open setback",
         "feed_link": "https://www.tennis365.com/tennis-news/alex-eala-ranking-points-prize-money-wuhan-open-setback",
         "link": "https://www.tennis365.com/tennis-news/alex-eala-ranking-points-prize-money-wuhan-open-setback",
@@ -865,6 +945,22 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-12T16:38:14.890444+00:00"
+      },
+      {
+        "section": "Tennis",
+        "source": "Tennis365",
+        "kind": "direct",
+        "title": "Carlos Alcaraz’s ‘biggest weakness’ touted after shock Shanghai Masters exit",
+        "feed_link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-biggest-weakness-shanghai-masters-exit",
+        "link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-biggest-weakness-shanghai-masters-exit",
+        "published": "2026-10-12T15:00:49+00:00",
+        "published_label": "Mon 12 Oct, 15:00",
+        "summary": "Alcaraz's Shanghai Masters campaign is over... The post Carlos Alcaraz’s ‘biggest weakness’ touted after shock Shanghai Masters exit appeared first on Tennis365 .",
+        "id": "d44e8b020e53",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Carlos Alcaraz’s miserable record at the Shanghai Masters continued as he was beaten in the third round by Zizou Bergs. The Spaniard looked to struggle with the court conditions at the Masters tournament as he was beaten 7-5, 7-6 by Bergs, who will now await the winner of Valentin Vacherot and Tommy Paul.\n\nBergs produced an impressive display to defeat Alcaraz, but the Spaniard was far from his best as a litany of unforced errors allowed the Belgian to capitalise. Alcaraz had beaten Juan Manuel Cerundolo prior to his match with Bergs, and he will likely be rueing an early exit as several other top seeds have also fallen by the wayside.",
+        "first_seen": "2026-10-12T17:11:55.010181+00:00"
       },
       {
         "section": "Tennis",
@@ -1140,6 +1236,22 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf 2.0: Who’s in and who’s out ahead of deadline day?",
+        "feed_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3kyQ2dlajltODBYeTNMaGgwR0RYZWNFa0NVY3dPZ1J5TFhQa2g1ektHeVMwSmhsd3FfR0JmWmVqRkE1cW1oMk5GekYxbDR0b2dBbE02dEVYS1c3SDNpVzE1eU9XQTFveURqQ3ExWjcySzdGZ3hPeGJ1NXlNTmhwdHB2dXdXRGsyMkEtZnpQSzVtbU1CYUtPRg?oc=5",
+        "link": "https://www.todays-golfer.com/news-and-events/tour-news/liv-golf-players-staying-and-leaving/",
+        "published": "2026-10-12T16:40:15+00:00",
+        "published_label": "Mon 12 Oct, 16:40",
+        "summary": "LIV Golf 2.0: Who’s in and who’s out ahead of deadline day? Today's Golfer",
+        "id": "f8f215d6e70b",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Which players are leaving LIV Golf? And who is sticking around for the league’s 2.0 era? This is everything you need to know… The deadline for LIV Golf players to decide whether they will stick or twist is almost here.\n\nThe league has until October 25 to convince key names to sign up for the new iteration of the league ahead of a possible $300 million investment from credit firm BC Partners. And it is crucial that the league persuades some big hitters to stay for its relaunch. But the DP World Tour’s move to reject memberships for players who hope to sign up to LIV 2.0 has made LIV’s prospects a whole lot more difficult.",
+        "first_seen": "2026-10-12T17:11:55.010181+00:00"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -1754,5 +1866,5 @@
       }
     ]
   },
-  "total": 108
+  "total": 115
 }
