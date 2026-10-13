@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T15:18:51.866762+00:00",
-  "generated_label": "Tuesday 13 October 2026, 15:18 UTC",
+  "generated_at": "2026-10-13T16:28:45.177337+00:00",
+  "generated_label": "Tuesday 13 October 2026, 16:28 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -66,6 +66,46 @@
       }
     ],
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "kind": "gnews",
+        "title": "Shakhtar name DTEK as sleeve sponsor for UCL campaign",
+        "feed_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRThIZkJzMFRiQ2s5ZGlic21xV083OU5SS1VlZ0lldE1TWFl2SEVrODlMMEFaRGh0MmRlNEhZWWxfbE9ER0tPZU9oZTVrUzcyVWJCb0hacWR5bXFPNmRuTnNHaEpUay1lWUFVZmpTbElmMnQ2cVR0di14VDQwY0ozVkU0YmU2eDJEdEVLcQ?oc=5",
+        "link": "https://www.sportcal.com/news/shakhtar-name-dtek-as-sleeve-sponsor-for-ucl-campaign/",
+        "published": "2026-10-13T15:50:58+00:00",
+        "published_label": "Tue 13 Oct, 15:50",
+        "summary": "Shakhtar name DTEK as sleeve sponsor for UCL campaign Sportcal",
+        "id": "0d7aca1d835e",
+        "bullets": [
+          "Shakhtar Donetsk have named energy company DTEK as their sleeve sponsor for this season's UEFA Champions League campaign. The logo will debut on the shirts for the game against AEK Athens at Chelsea's Stamford Bridge in London tomorrow, where the club are temporarily playing home matches because of the ongoing war in Ukraine.",
+          "The partnership is part of a collaborative campaign with the club encouraging international companies to invest in Ukraine. Shakhtar and DTEK are both owned by Rinat Akhmetov through SCM Group, which is the club's primary front-of-shirt sponsor. CEO Serhii Palkin said the Champions League gives the club a large international audience, and that DTEK shows investment in Ukraine is possible today. Shakhtar return to the Champions League after a year in the Conference League and opened this campaign with a 1-1 draw against PSV Eindhoven."
+        ],
+        "is_article": true,
+        "copy": "Shakhtar Donetsk, the Ukrainian soccer club, have unveiled energy company DTEK as their sleeve sponsor in the UEFA Champions League club competition this season. The logo will debut on Shakhtar’s shirts for their game against AEK Athens at Chelsea’s Stamford Bridge stadium in London tomorrow, where the club will be playing their home matches temporarily this year due to the ongoing war in Ukraine.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. DTEK’s sponsorship is part a collaborative campaign with the club encouraging international companies to invest in Ukraine.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "The Eastleigh Voice",
+        "search": "HSBC watch",
+        "kind": "gnews",
+        "title": "Talanta Stadium to host opening leg of 2027 HSBC SVNS 2 rugby sevens series in January",
+        "feed_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWTVXdFZuWlp5V1JPQjhsUjZXWXlqbzNQMXFCbENtdzdzcVc0by1JUGFvZFFoa19uUzhLMTNDMEVtU3BZVnpTTzFUTWMxQ2wtSXd5WFpmd1QyU1R0dm5Zb3RwbmVqTFJGOUg4aE45WGYtQkNBV1VqX2tDVi1VMlF3X0RaWnREWklpRXlSbzE2c0VTMV91OUpkMkp0Sk1MTDYzWEswaWdZSTJ4a1R2Wnh4RTJRYjhpTlVUU0J5SUZXSjdfQUl3OEUyOHo1OWc?oc=5",
+        "link": "https://eastleighvoice.co.ke/headlines/411631/talanta-stadium-to-host-opening-leg-of-2027-hsbc-svns-2-rugby-sevens-series-in-january",
+        "published": "2026-10-13T15:00:07+00:00",
+        "published_label": "Tue 13 Oct, 15:00",
+        "summary": "Talanta Stadium to host opening leg of 2027 HSBC SVNS 2 rugby sevens series in January The Eastleigh Voice",
+        "id": "306becbdbcef",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -206,7 +246,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -225,7 +265,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -265,7 +305,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -347,7 +387,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -495,6 +535,25 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Financial Times",
+        "search": "Financial Times",
+        "kind": "gnews",
+        "title": "Premier Inn owner urges investors to resist pressure from activist hedge fund",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkt3TmdsSmxzallaR0xZRm04RVVaMHF0UTZrQnFTMGl2TnpHbmVwb2h1dURnazVlZDBnN2t5Z3hpMTdxdXFFYWcxYnpPbkIzZ2hCWUVhWmhMbzBPNkxtWXBlMjRoU0hQRHZmUzVpelVyanNONF91WWtNczBFTUt0RXR1aUI?oc=5",
+        "link": "https://www.ft.com/content/1cf8da1d-8abd-40a6-bcd2-055ee49c7fcb?syn-25a6b1a6=1",
+        "published": "2026-10-13T07:09:40+00:00",
+        "published_label": "Tue 13 Oct, 07:09",
+        "summary": "Premier Inn owner urges investors to resist pressure from activist hedge fund Financial Times",
+        "id": "90ddc3f63355",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Gulf News",
         "search": "HSBC watch",
         "kind": "gnews",
@@ -589,7 +648,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -648,7 +707,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -1137,6 +1196,69 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "'No love lost' Anglo-Welsh derbies still fire Phil Dowson's imagination",
+        "feed_link": "https://www.rugbypass.com/news/no-love-lost-anglo-welsh-derbies-still-fire-phil-dowsons-imagination/",
+        "link": "https://www.rugbypass.com/news/no-love-lost-anglo-welsh-derbies-still-fire-phil-dowsons-imagination/",
+        "published": "2026-10-13T16:24:54+00:00",
+        "published_label": "Tue 13 Oct, 16:24",
+        "summary": "Sunday's Investec Champions Cup clash vs Cardiff will be the first between the teams in 16 years, since 2010/11, the season in which Saints made it through to the final.",
+        "id": "3f3dd57549d8",
+        "bullets": [
+          "Northampton Saints boss Phil Dowson believes Cardiff would like nothing more than to travel to the home of the English Champions and claim a Champions Cup win this weekend. Sunday's match is the first between the clubs in 16 years, since 2010/11, when Saints won 23-15 at Franklin's Gardens and 23-19 at the Cardiff City Stadium on the way to the final.",
+          "Dowson recalled that meeting as a bad-tempered affair with no love lost, and said English-Welsh rivalry is still very real. Saints have started the defence of their Gallagher PREM title with two wins and a defeat, an identical record to Cardiff in the United Rugby Championship, but have scored 156 points to the Welsh side's 66. Dowson said winning the Champions Cup is difficult given the quality of players from across Europe, but that Saints have proved themselves by reaching knockout games and winning in tough places."
+        ],
+        "is_article": true,
+        "copy": "Northampton Saints boss Phil Dowson believes Cardiff would like nothing more this weekend than to travel to the home of the English Champions and claim a shock Champions Cup victory.\n\nSaints have launched the defence of their Gallagher PREM title with two wins and a defeat, an identical record to Cardiff in the United Rugby Championship, but have scored 90 points more: 156 against the Welsh side’s 66.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "search": "BBC Sport",
+        "kind": "direct",
+        "title": "Dragons suffer Woodman bicep injury blow",
+        "feed_link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwz0vm3e2rpmo?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwz0vm3e2rpmo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-13T16:00:20+00:00",
+        "published_label": "Tue 13 Oct, 16:00",
+        "summary": "Dragons flanker Ryan Woodman to have surgery on a bicep injury, ruling him out of contention for Wales' Nations Championship campaign.",
+        "id": "41889930aac8",
+        "bullets": [
+          "Dragons flanker Ryan Woodman has been ruled out until late December with a bicep injury. The 22-year-old will undergo surgery on Friday after seeing a specialist, and will miss the chance to push for selection in Wales' Nations Championship campaign in November. He started the 19-19 United Rugby Championship draw with Benetton and came off the bench in the 38-26 win over Scarlets.",
+          "Woodman is targeting a return for the derbies against Cardiff on 19 and 26 December, before a 2 January trip to Scarlets. Defence coach Dale MacLeod said he is a big loss in a big year as Wales build towards the World Cup, but will not be out for 12 months. Shane Lewis-Hughes has started the last two games at blind-side flanker while new signing Terrell Peita is awaited from New Zealand. Dragons also face injury concerns at prop ahead of their Challenge Cup opener at home to Perpignan on Friday."
+        ],
+        "is_article": true,
+        "copy": "Dragons flanker Ryan Woodman has been ruled out until late December after suffering a bicep injury. The 22-year-old will miss the chance to push for selection in Wales' Nations Championship campaign in November.\n\nBlind-side flanker Woodman, who can also play lock, was called up to the Six Nations squad for the injured Taine Plumtree last season. He came on as a replacement in June's uncapped international against the Barbarians at Twickenham but missed out on the Nations Championship summer squad.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "'Someone do something about it!': LRZ's demand after gruesome injury",
+        "feed_link": "https://www.rugbypass.com/news/someone-do-something-about-it-louis-rees-zammits-demand-after-gruesome-injury/",
+        "link": "https://www.rugbypass.com/news/someone-do-something-about-it-louis-rees-zammits-demand-after-gruesome-injury/",
+        "published": "2026-10-13T15:32:41+00:00",
+        "published_label": "Tue 13 Oct, 15:32",
+        "summary": "Bristol Bears wing Louis Rees-Zammit has become the latest player to call for artificial pitches to be outlawed after suffering burns to his leg in his side's recent defeat to Saracens in the Gallagher PREM.",
+        "id": "151df6c5a03d",
+        "bullets": [
+          "Bristol Bears wing Louis Rees-Zammit has joined calls for artificial pitches to be outlawed after suffering burns to his leg in Bristol's 30-7 Gallagher PREM defeat to Saracens. The 25-year-old Wales international posted an image of his grazed leg on Instagram, asking for someone to do something about the AstroTurf pitches. Similar injuries have been reported on the 3G surfaces at Saracens' StoneX Stadium, Gloucester's Kingsholm and Newcastle Red Bulls' Kingston Park.",
+          "Rees-Zammit played home games on Gloucester's artificial surface from 2021 until his move to American football in 2024. World Rugby permitted leggings in 2021, and Jonny May and Newcastle's Christian Wade have worn them. Bristol boss Pat Lam said he rested Pedro Rubiolo, AJ MacGinty and Steven Luatua because of past injuries. Bristol's next game on a 3G pitch is against Gloucester on New Year's Day."
+        ],
+        "is_article": true,
+        "copy": "Bristol Bears wing Louis Rees-Zammit has become the latest player to call for artificial pitches to be outlawed after suffering burns to his leg in his side’s recent defeat to Saracens in the Gallagher PREM.\n\nThe Wales star is not the first player to suffer such injuries on 3G surfaces used by Saracens at the StoneX Stadium, Gloucester at Kingsholm and Newcastle Red Bulls at Kingston Park.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "done"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -2206,6 +2328,107 @@
         "source": "Tennis365",
         "search": "Tennis365",
         "kind": "direct",
+        "title": "Alexander Zverev on the cusp of equalling Carlos Alcaraz’s Masters record after latest win",
+        "feed_link": "https://www.tennis365.com/tennis-news/alexander-zverev-carlos-alcaraz-record-masters",
+        "link": "https://www.tennis365.com/tennis-news/alexander-zverev-carlos-alcaraz-record-masters",
+        "published": "2026-10-13T15:30:38+00:00",
+        "published_label": "Tue 13 Oct, 15:30",
+        "summary": "He'd edging closer... The post Alexander Zverev on the cusp of equalling Carlos Alcaraz’s Masters record after latest win appeared first on Tennis365 .",
+        "id": "4db7c752e79b",
+        "bullets": [
+          "Alexander Zverev reached the Shanghai Masters quarter-finals by beating Alexander Bublik in three sets, needing two tie-breaks against the world No 18. The German, who has just been confirmed as year-end world No 1, took a fall in his opening match against Wu Yibing, and his ankle appeared to trouble him again. Novak Djokovic, Ben Shelton and Carlos Alcaraz are among the top seeds already out.",
+          "Zverev has won Masters titles at five different events: Madrid, Rome, Canada, Cincinnati and Paris. A Shanghai title would put him level with Alcaraz on that measure. He plays Alex de Minaur next, having won eight of their 12 meetings, though he has lost the last two. Daniil Medvedev and Felix Auger-Aliassime are the only other top-10 players left, both in the other half of the draw."
+        ],
+        "is_article": true,
+        "copy": "Alexander Zverev came through a difficult test against Alexander Bublik to confirm his place in the quarterfinals of the Shanghai Masters. Zverev, who has just been confirmed as the year-end world No 1, needed three sets to defeat Bublik in what was a very competitive match on the Masters tournament’s main court.\n\nThe German needed two tie-breaks to topple Bublik, but he did not look entirely comfortably against the world No 18. Zverev took a fall in his opening round match against Wu Yibing and his ankle appeared to be troubling him again in his fourth round match.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
+        "source": "Olympics",
+        "search": "Olympics",
+        "kind": "gnews",
+        "title": "Denmark Open 2026 badminton: PV Sindhu, Lakshya Sen suffer shock first-round exits",
+        "feed_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFRNRTV5LTF2OEdBS2U2aHNiVTRHemxITTdoV012WlNyYklZZTRWUXBRdjRjS2hvaTdfRzRPUjU0M1FyWDBGdTdUaHdiLVFCeTNPWWl6SE92SWJaLVN2MmdpUlJYQ3RTYTFIQ2loWlBabDktazI4ZnNiTzB5SjBpbEhHcmRzUQ?oc=5",
+        "link": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report",
+        "published": "2026-10-13T15:12:00+00:00",
+        "published_label": "Tue 13 Oct, 15:12",
+        "summary": "Denmark Open 2026 badminton: PV Sindhu, Lakshya Sen suffer shock first-round exits Olympics",
+        "id": "d4b30505c767",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
+      },
+      {
+        "section": "Racket",
+        "source": "BWF",
+        "search": "BWF watch",
+        "kind": "gnews",
+        "title": "World Juniors: Saudi Lad Creates a Ripple",
+        "feed_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFlwUmlWelc2X3JwZTFkbTVxZTNydHJoMUdoSktNM01hME5SYUlJQkpPNWJQMFNXel9ZZUk2Ty1BR1BkaWtlM1NmQkh0a3V2b2RQQ1l1aVR3NWdJdEF5dFAtU2pzLTVGNXQ5X3ExXzZZRHlOeGRwNmNmX2FCeW9HbXZqaFlMNUhLMGJfOVYxd0hoTFU?oc=5",
+        "link": "https://bwfbadminton.com/news-single/2026/10/13/world-juniors-saudi-lad-creates-a-ripple/",
+        "published": "2026-10-13T15:06:58+00:00",
+        "published_label": "Tue 13 Oct, 15:06",
+        "summary": "World Juniors: Saudi Lad Creates a Ripple BWF",
+        "id": "6e9825b389a2",
+        "bullets": [
+          "Seventeen-year-old Amer Mohammed made a statement for Saudi Arabia at the VICTOR BWF World Juniors Championships 2026, beating the Philippines' Ron Ezekiel Zacarias 18-16 15-11 to reach the men's singles Round of 32. He had earlier beaten Thailand's Pannachai Boommak in the second round, and also progressed in mixed doubles with Nabiha Shariff, beating Aiden Dednam/Melay Pretorius 15-6 15-6 to make the Round of 64.",
+          "Mohammed next faces second seed and Asian Junior champion Riyan Malhan of the UAE, who beat Korea's Jeong Da Hwan 18-16 15-7 after saving five game points at 9-14, his first win in three meetings. Mohammed won doubles titles at the South Africa Junior International late last year and the Uganda Junior International earlier this year. In men's doubles, Alwathiq Alabidi/Abdulaziz Almuqahwi lost 15-10 15-10 to Thailand's Kunlapat Lhothong/Tachin Wiriyachairerk."
+        ],
+        "is_article": true,
+        "copy": "Saudi Arabia has been a fleeting presence on the world badminton scene, but 17-year-old Amer Mohammed has made a statement for the country at the VICTOR BWF World Juniors Championships 2026.\n\nHaving beaten Pannachai Boommak of Thailand in the second round, Mohammed made his way past Philippines’ Ron Ezekiel Zacarias today, 18-16 15-11, to enter the Round of 32. “It really means a lot, another step in the story,” said Mohammed. “It’s been great, and I’m looking forward to more.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "title": "‘A kind of death’ – ATP veteran opens up on painful reality of being ‘past his prime’",
+        "feed_link": "https://www.tennis365.com/tennis-news/death-atp-veteran-painful-reality-past-prime",
+        "link": "https://www.tennis365.com/tennis-news/death-atp-veteran-painful-reality-past-prime",
+        "published": "2026-10-13T15:00:19+00:00",
+        "published_label": "Tue 13 Oct, 15:00",
+        "summary": "The Frenchman doesn't want to retire just yet. The post ‘A kind of death’ – ATP veteran opens up on painful reality of being ‘past his prime’ appeared first on Tennis365 .",
+        "id": "0c3edb1577df",
+        "bullets": [
+          "Adrian Mannarino, 38 and ranked 78th, has no plans to retire but admits it is hard to accept that he is \"past his prime\". The Frenchman beat sixth seed Flavio Cobolli in the second round of the Shanghai Masters. His best year came in 2023, when he finished ranked 22nd with three ATP Tour titles and three top-10 wins.",
+          "Speaking to L'Equipe, Mannarino said he knows he will never be as fast or as enduring as before, calling that \"a kind of death\" for a tennis player. He said he still enjoys the sport and that it pays very well, and he may play another year or two. The five-time tour title winner, who has earned over $15m in prize money, said that cutting training intensity quickly hurts his results."
+        ],
+        "is_article": true,
+        "copy": "Adrian Mannarino has no plans to retire just yet, but the veteran admits it is hard to accept that he is “past his prime”. The 38-year-old currently sits at 78th in the world and is more than capable of pulling off an upset, something he did in his second-round win over sixth seed Flavio Cobolli at the Shanghai Masters.\n\nThe Frenchman had the best year of his career at the age of 35 when he finished 2023 with a year-end ranking of 22, which included three ATP Tour titles and three top 10 victories.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "title": "Inside Wuhan: How the city at the heart of a global pandemic is fighting back",
+        "feed_link": "https://www.tennis365.com/tennis-news/inside-wuhan-fighting-back-pandemic-covid",
+        "link": "https://www.tennis365.com/tennis-news/inside-wuhan-fighting-back-pandemic-covid",
+        "published": "2026-10-13T14:30:16+00:00",
+        "published_label": "Tue 13 Oct, 14:30",
+        "summary": "Tennis365 visits Wuhan and sees a different side to the city. The post Inside Wuhan: How the city at the heart of a global pandemic is fighting back appeared first on Tennis365 .",
+        "id": "0a063fe5d6f0",
+        "bullets": [],
+        "is_article": true,
+        "copy": "The 2026 Wuhan Open is underway, with a city that became infamous for all the wrong reasons at the turn of the decade eager to put on a show that changes a few negative perceptions.\n\nTennis365 were invited to attend the tournament in Wuhan last year and our experience was a real opener for all the right reasons, as we experienced incredible hospitality, a warm welcome from the locals and left with a very different view of a city that may never fully recover from it’s status as the starting point for the world’s biggest pandemic.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "travel feature, not sports news"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
         "title": "Jannik Sinner urged to follow Rafael Nadal’s example amid growing injury concerns",
         "feed_link": "https://www.tennis365.com/tennis-news/jannik-sinner-follow-rafael-nadals-example-injury-concerns",
         "link": "https://www.tennis365.com/tennis-news/jannik-sinner-follow-rafael-nadals-example-injury-concerns",
@@ -2428,6 +2651,27 @@
         "is_article": true,
         "copy": "British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider. After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes.\n\nThis has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments. Since suffering a first-round exit at Wimbledon in June, Boulter has won just three of the nine singles matches she has played on the WTA Tour.",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
+        "source": "The Sun",
+        "search": "HSBC tennis watch",
+        "kind": "gnews",
+        "title": "Why Emma Raducanu shouldn't return for three months after hitting two-year low",
+        "feed_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUE1NV1didUF1NHhtRkxkQmlBcmtwQjVPRkRfR2Vqb2FmYUZXMVhpYUhrWENsV3pjaWlMUWo3TW1MOFZoSldZZ3VscGZSUmctempDbjYzd1ZPT2VBbXVGNU9UT1kzYkpEMU1PZ3o4bEpXeEZ1NEJUSFNCdEZpSmdLbk9LRVpNMTNXV1NUUjFfa0dHSVU?oc=5",
+        "link": "https://www.thesun.co.uk/sport/40666362/emma-raducanu-two-year-low-return-january-tennis/",
+        "published": "2026-10-13T09:38:00+00:00",
+        "published_label": "Tue 13 Oct, 09:38",
+        "summary": "Why Emma Raducanu shouldn't return for three months after hitting two-year low The Sun",
+        "id": "a6ac0099e085",
+        "bullets": [
+          "Emma Raducanu, 23, has fallen to 107th in the world rankings, her lowest position since August 2024. She has not played since suffering a stress fracture in her right foot after a straight-sets loss to Donna Vekic in the Queen's final on 14 June, when she was ranked 31st the next day. She pulled out of Wimbledon and the US Open, and is now British No 3 behind Katie Boulter (54) and Fran Jones (104).",
+          "Raducanu is not on the entry list for the final six tournaments of 2026. If she stays out until January, she can petition for a protected ranking, available after six months out through physical injury. The ranking would be frozen at the point of injury and allow up to eight events, including a maximum of two Grand Slams. It would put her in the 2027 Australian Open main draw, but unseeded. Her team is giving no update on her recovery."
+        ],
+        "is_article": true,
+        "copy": "EMMA RADUCANU will be eligible for special fitness status – provided she resists the urge to return to competition this year. The former US Open champion, 23, has not played since suffering a stress fracture in her right foot on Sunday, June 14 following a straight-sets loss to Croatian Donna Vekic in the WTA Queen’s final.\n\nRaducanu – who was spotted hobbling around London in an orthopaedic moon boot – pulled out of Wimbledon and then the US Open and has been absent for the past four months. She also has a long-standing issue with her right ankle and lower shin.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
         "summary_status": "done"
       },
       {
@@ -3117,6 +3361,48 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golf.com",
+        "search": "Golf.com",
+        "kind": "direct",
+        "title": "'Situation is very dynamic': LIV pro breaks silence on league's dire future",
+        "feed_link": "https://golf.com/news/liv-pro-breaks-silence-leagues-dire-future/",
+        "link": "https://golf.com/news/liv-pro-breaks-silence-leagues-dire-future/",
+        "published": "2026-10-13T16:18:43+00:00",
+        "published_label": "Tue 13 Oct, 16:18",
+        "summary": "On Tuesday, a LIV pro faced questions for the first time since the DP World Tour's LIV ban came to light. That player was Anirban Lahiri. The post ‘Situation is very dynamic’: LIV pro breaks silence on league’s dire future appeared first on Golf .",
+        "id": "7948b949e8a6",
+        "bullets": [
+          "The DP World Tour announced on Monday that any player who signs for LIV Golf in 2027 will be banned from its events that year. LIV pro Anirban Lahiri, speaking ahead of the DP World India Championship, did not announce a departure, saying the situation was \"very dynamic\". Several players have left LIV since it filed for bankruptcy in September, including Jon Rahm, who has said he will not take part in LIV 2.0.",
+          "Lahiri said his focus is on this week's event, followed by Hong Kong and the Philippine Open, \"by which time I think we will know\". He said everyone will know what is happening within a month to a month and a half. He added that LIV has been great for him and that he would like it to continue. His decision will be based on the best interests of his family and himself."
+        ],
+        "is_article": true,
+        "copy": "On Monday, the DP World Tour made a declaration that could prove to be the death knell for LIV Golf. The tour said that any player who signed on to play with LIV next year would be banned from DP World Tour events in 2027.\n\nThe move put any player considering signing on for LIV 2.0 in a difficult position. Either you play on LIV in 2027 or you play on the DP World Tour. You can’t do both. On Tuesday, a current LIV Golf pro faced questions for the first time since the DP World Tour’s LIV ban came to light.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Today's Golfer",
+        "search": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Tour star blasts controversial LIV Golf decision: 'They don't give a s***!'",
+        "feed_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR0FoVWVmQWF2NmdYZ3VXcU1RWjhfVXllZmY5M256elNEc01iYUtEMWFNOUtLYmdoUGU0NWlkUVFuVkpfQi1aTmM5YUszTGZuc3VONzYxS0c5MzRKOHdzYml4ekFDT05adlJ6eGFsNWliNDNjZzZuMFJaNy1JbGhyaVY1VzVBaXJWZDdCeXdjN3JiZzU5d1E?oc=5",
+        "link": "https://www.todays-golfer.com/news-and-events/tour-news/joost-luiten-blasts-liv-golf-stars/",
+        "published": "2026-10-13T15:38:15+00:00",
+        "published_label": "Tue 13 Oct, 15:38",
+        "summary": "Tour star blasts controversial LIV Golf decision: 'They don't give a s***!' Today's Golfer",
+        "id": "f09e48f7cc46",
+        "bullets": [
+          "Dutch golfer Joost Luiten has criticised LIV players trying to return to traditional tours, as the DP World Tour introduces a rule banning LIV 2.0 players from 2027. The six-time DP World Tour winner said they chased the money four years ago and now want to come back as if nothing happened. LIV plans 10 events with purses of $5.5m to $9m, and players have until 25 October to commit.",
+          "Luiten said anyone who gave up their membership should lose their exemption rights and go through Q School. He also argued that invites should go to young talent rather than returning LIV players. The tour is in advanced talks with non-member LIV players over a set number of invites, on condition they do not sign for LIV 2.0. Paul McGinley said loyalty to players who stayed should come first."
+        ],
+        "is_article": true,
+        "copy": "There is an idiom in the Netherlands that Joost Luiten believes applies acutely to the LIV Golf players trying to forge a path back to the game’s traditional environs. You have to sit on the blisters.\n\n“It means they made their decision and now they should deal with the consequences,” he says. The Dutchman is one of the players embracing the bustling chaos of New Delhi at this week’s DP World India Championship, while also considering the significant news that his circuit is introducing a new rule to ban LIV golfers from the 2027 season onwards.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
         "source": "Golf Monthly",
         "search": "Golf Monthly",
         "kind": "direct",
@@ -3357,6 +3643,27 @@
         "is_article": true,
         "copy": "LIV Golf's all-time wins leader Joaquin Niemann is reportedly ready to become the latest big-name pro to walk away from the team-based circuit ahead of its second launch in 2027.\n\nJon Rahm, Adrian Meronk and David Puig have already confirmed they will definitely not be a part of 'LIV 2.0' while several others appear to be leaning towards departure as well.",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Joaquin Niemann Reportedly Among Next Big-Name LIV Golf Exits",
+        "feed_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWXR4bl9COFlrV2ZHYkpYUXZ3MDFLVTRPazVyb3VSWmdsVWRqV3dlRnRnU0pFWTYtV1VJcGRDWm51UXNyZGNocG5uMXFaZkpKRmJ4NXFUT1JUd2FjX0JhSkNVYmpxQm1mWjNyRXNjckNGMlJMZUtLa2lfZzhHSDF0Sm5SUEdMUQ?oc=5",
+        "link": "https://www.golfmonthly.com/news/joaquin-niemann-reportedly-next-liv-golf-exits",
+        "published": "2026-10-13T11:02:38+00:00",
+        "published_label": "Tue 13 Oct, 11:02",
+        "summary": "Joaquin Niemann Reportedly Among Next Big-Name LIV Golf Exits Golf Monthly",
+        "id": "96f809ecbee1",
+        "bullets": [
+          "LIV Golf's all-time wins leader Joaquin Niemann is reportedly set to leave the league before its relaunch in 2027, most likely for the DP World Tour. The report comes from Handicap 54 on X, which says the Chilean and his team are working out how much of the money LIV owes him he will receive. Jon Rahm, Adrian Meronk and David Puig have confirmed they will not be part of LIV 2.0.",
+          "Sports Business Journal's Josh Carpenter reported that Niemann's Torque GC teammate Abraham Ancer will also not play in LIV 2.0, as his deal expired this year. Ancer has no European status and would rely on the DP World Tour offering former LIV players a guaranteed number of starts. Richard Bland and Cameron Tringale are the only players to have publicly committed to LIV 2.0, and others must decide by 25 October."
+        ],
+        "is_article": true,
+        "copy": "LIV Golf's all-time wins leader Joaquin Niemann is reportedly ready to become the latest big-name pro to walk away from the team-based circuit ahead of its second launch in 2027.\n\nJon Rahm, Adrian Meronk and David Puig have already confirmed they will definitely not be a part of 'LIV 2.0' while several others appear to be leaning towards departure as well.",
+        "first_seen": "2026-10-13T16:28:45.177337+00:00",
         "summary_status": "done"
       },
       {
@@ -3971,5 +4278,5 @@
       }
     ]
   },
-  "total": 200
+  "total": 215
 }
