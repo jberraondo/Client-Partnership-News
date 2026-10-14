@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T13:07:37.509468+00:00",
-  "generated_label": "Wednesday 14 October 2026, 13:07 UTC",
+  "generated_at": "2026-10-14T14:04:47.066099+00:00",
+  "generated_label": "Wednesday 14 October 2026, 14:04 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -68,6 +68,46 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "SportsPro",
+        "search": "SportsPro",
+        "kind": "direct",
+        "title": "Why Netflix bought 2030 World Cup rights in Spain and what it means for its sporting ambitions",
+        "feed_link": "https://www.sportspro.com/analysis/broadcast-ott/netflix-2030-world-cup-tv-rights-spain-fifa-explainer/",
+        "link": "https://www.sportspro.com/analysis/broadcast-ott/netflix-2030-world-cup-tv-rights-spain-fifa-explainer/",
+        "published": "2026-10-14T13:37:14+00:00",
+        "published_label": "Wed 14 Oct, 13:37",
+        "summary": "Netflix will air all 104 matches of the 2030 Fifa World Cup after making a landmark rights swoop in one of the host nations. The post Why Netflix bought 2030 World Cup rights in Spain and what it means for its sporting ambitions appeared first on SportsPro .",
+        "id": "9e38b5f7cb3f",
+        "bullets": [
+          "Netflix will show every match of the 2030 Fifa World Cup live in Spain and Andorra, its most significant sports broadcasting move in Europe to date. Subscribers will be able to watch all 104 matches, with one game per matchday available free of charge, plus pre-game, half-time and post-game programming. Spain, Portugal and Morocco are the main co-hosts, with Argentina, Paraguay and Uruguay each staging one match.",
+          "Selected matches, including all of Spain's fixtures, both semi-finals and the final, will be shown on free-to-air television through a sublicensing agreement with Netflix. Netflix has recently moved into live sport, with a US$5bn WWE deal, NFL matches on Christmas Day, the 2027 and 2031 Fifa Women's World Cups in North America, and local-market rights in Mexico and Japan. For the 2026 edition, Spanish fans could watch one game per day free through RTVE, while all 104 fixtures required Mediapro's pay-TV channel distributed by DAZN."
+        ],
+        "is_article": true,
+        "copy": "Netflix will air every single match from the 2030 Fifa World Cup live in Spain and Andorra in its most significant sports broadcasting move in Europe to date. Spain, along with neighbours Portugal and Morocco, is one of the three main co-hosts of the 100th anniversary tournament.\n\nArgentina, Paraguay and Uruguay will also stage one match each in a move designed to commemorate South America’s hosting of the first World Cup in 1930 – and to accelerate Fifa’s continental rotation policy so that Saudi Arabia, an Asian Confederation member, can host in 2034.",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Keith Prowse",
+        "search": "HSBC watch",
+        "kind": "gnews",
+        "title": "HSBC Championships at Queen's Club | WTA 500",
+        "feed_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RZFB3Q2RtNmZiQnFXQkcyNk9CSnpmd1JNTEd6UHZoMzZrYU13ejlFZHpQckRnYmJKQUdFS1dKYjkxc1hDZjRHQmZobDhfTjhneFhIajBBYU5Uc24zUURveXR0bXN4S3VkT2E1MWRhYXdfUThpcjE4?oc=5",
+        "link": "https://www.keithprowse.co.uk/venue/queens-club/queens-club-wta-500/",
+        "published": "2026-10-14T12:53:37+00:00",
+        "published_label": "Wed 14 Oct, 12:53",
+        "summary": "HSBC Championships at Queen's Club | WTA 500 Keith Prowse",
+        "id": "39cbbf5f60d8",
+        "bullets": [],
+        "is_article": true,
+        "copy": "After the success of 2025's inaugural WTA tournament - which saw professional women's tennis return to West London’s prestigious Queen’s Club for the first time in over 50 years - W14 again will host the world's best female tennis players in June 2026.\n\nKeith Prowse are proud to be the Official Hospitality Provider for this event (which is now 75% sold out!), offering a lineup of experiences including sophisticated sips, tempting tastes and A-list access areas - as well as prime Queen's tennis tickets with an Andy Murray Arena (Centre Court) seat.",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "hospitality sales page, not news article"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Sport Industry",
         "search": "Sport Industry",
         "kind": "direct",
@@ -103,7 +143,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -122,7 +162,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -141,7 +181,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -191,6 +231,27 @@
         "source": "Sportcal",
         "search": "Sportcal",
         "kind": "gnews",
+        "title": "Castelli back in as Tour de France partner through ASO deal",
+        "feed_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTk1LTWJRdjl1MnBURXFqMTd0SnVZcTRsODFMVEltY2xuNFpzR09hdzBkbUhQZTFDUzNBOElPMzlfX3MxV0MzN0VzZGJWVlpQbkJsSDlULUlYM01IZHlxSmlsYzdWVGlmVlZ1UjhSNnY1SXloVjh4SUFqTThGb2ZheDhRSEVOVF9YOEhLN1lNQ0pQYzVi?oc=5",
+        "link": "https://www.sportcal.com/news/castelli-back-in-as-tour-de-france-partner-through-aso-deal/",
+        "published": "2026-10-14T09:51:47+00:00",
+        "published_label": "Wed 14 Oct, 09:51",
+        "summary": "Castelli back in as Tour de France partner through ASO deal Sportcal",
+        "id": "035fc9ff416e",
+        "bullets": [
+          "Italian cycling clothing manufacturer Castelli has agreed a deal with Amaury Sport Organisation (ASO), the organiser of the Tour de France and a host of other road cycling events. Castelli becomes technical clothing partner of all ASO races and challenges through the 2027 European cycling season, including 27 races in total.",
+          "Castelli will produce and design all classification jerseys worn at events such as the Tour de France and Tour de France Femmes. It previously made the Tour de France jerseys between 1989 and 1994, and has had a similar arrangement with the Giro d'Italia over the last decade. The 2027 Tour de France begins in the UK on 2 July and ends in Paris on 25 July."
+        ],
+        "is_article": true,
+        "copy": "Italian cycling clothing manufacturer Castelli has struck a deal with Amaury Sport Organisation (ASO), the body behind the iconic Tour de France (TDF) and a host of other prestigious road cycling events.\n\nThrough the tie-up, Castelli becomes the technical clothing partner of all races and challenges organized by ASO through the 2027 European cycling season. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "kind": "gnews",
         "title": "CONCACAF expands Shriners Children’s tie-up to include W Championship",
         "feed_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmNBcWdIeDBBN01wLTZaRDV1bk94MUVTNkw2S1NqalQtVUdiN3RWeWFTRnNORTFYcEViZldlaEV0b2RfdTdRRjhZZXBvTFhPdGlKYXNUa01KQmlEbDRzMW9hYVVQTkhiTkR1X2lOYkgzRGV4VHlmQnR0NjVLZk4xV0oxRGt6XzFzZUhrQ1N1UHdLSERFcDhNaXB1TmdBOElm?oc=5",
         "link": "https://www.sportcal.com/news/concacaf-expands-shriners-childrens-tie-up-to-include-w-championship/",
@@ -223,7 +284,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -262,7 +323,8 @@
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
         "summary_attempts": 1,
-        "summary_status": "unavailable"
+        "summary_status": "skipped",
+        "skip_reason": "general politics/technology, not sport"
       },
       {
         "section": "Wider Sports News",
@@ -281,7 +343,8 @@
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
         "summary_attempts": 1,
-        "summary_status": "unavailable"
+        "summary_status": "skipped",
+        "skip_reason": "general business, not sport"
       },
       {
         "section": "Wider Sports News",
@@ -300,7 +363,8 @@
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
         "summary_attempts": 1,
-        "summary_status": "unavailable"
+        "summary_status": "skipped",
+        "skip_reason": "lifestyle/heritage piece, not sport"
       },
       {
         "section": "Wider Sports News",
@@ -319,7 +383,8 @@
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
         "summary_attempts": 1,
-        "summary_status": "unavailable"
+        "summary_status": "skipped",
+        "skip_reason": "general banking news, not sport"
       },
       {
         "section": "Wider Sports News",
@@ -337,7 +402,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -436,7 +501,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -1571,6 +1636,48 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Black Ferns' Mererangi Paul reflects on 'big year' ahead of WXV Global Series",
+        "feed_link": "https://www.rugbypass.com/news/black-ferns-mererangi-paul-reflects-on-big-year-ahead-of-wxv-global-series/",
+        "link": "https://www.rugbypass.com/news/black-ferns-mererangi-paul-reflects-on-big-year-ahead-of-wxv-global-series/",
+        "published": "2026-10-14T14:00:14+00:00",
+        "published_label": "Wed 14 Oct, 14:00",
+        "summary": "Clinical. The word that can be heard on repeat as the Black Ferns prepare to face France in Hamilton on Saturday in the first of three WXV Global Series Tests this October.",
+        "id": "c513babef02d",
+        "bullets": [
+          "The Black Ferns face France in Hamilton on Saturday in the first of three WXV Global Series Tests this October. Winger Mererangi Paul, who has scored 20 tries in 21 Tests, said the squad has had the word \"clinical\" drilled into them after narrowly losing to England at Twickenham in September, where the scores were level at 19-19 before an intercepted pass late on.",
+          "The Black Ferns beat France 28-14 in Lyon in their WXV opener, with Paul scoring from a line-out drive. The two sides have met 14 times since 1996, with New Zealand leading 9-5. Paul was recalled in April under new coach Whitney Hansen, scoring three tries against the USA. She has since moved from Chiefs Manawa to the Blues and said the lack of a break this year has helped her focus on her game."
+        ],
+        "is_article": true,
+        "copy": "Clinical. The word that can be heard on repeat as the Black Ferns prepare to face France in Hamilton on Saturday in the first of three WXV Global Series Tests this October. While the Black Ferns pushed the 2025 Rugby World Cup Champions England to the brink at Twickenham in September, there’s a sense they threw it away.\n\nAmy du Plessis literally did with the clock in the red when her pass was intercepted by Zoe Harrison with the score level at 19-19. Earlier, England had made 188 more tackles than the visitors, with Mererangi Paul scoring a try in the 70th minute to tie the scores.",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Capital gains: Have Edinburgh finally found the elusive winning formula?",
+        "feed_link": "https://www.rugbypass.com/plus/capital-gains-have-edinburgh-finally-found-an-elusive-winning-formula/",
+        "link": "https://www.rugbypass.com/plus/capital-gains-have-edinburgh-finally-found-an-elusive-winning-formula/",
+        "published": "2026-10-14T13:48:04+00:00",
+        "published_label": "Wed 14 Oct, 13:48",
+        "summary": "The season is still in its infancy but the signs are the early URC leaders appear to be finally heading in the right direction.",
+        "id": "80344ab6f72a",
+        "bullets": [
+          "Edinburgh top the United Rugby Championship with a 100 per cent record after three rounds, following wins over Ulster, Stormers and Zebre. It is their best start since 2015-16, when they won their first four Pro12 games before finishing ninth. They have done so despite starting the campaign with 16 players on the injured list, including Darcy Graham, Duhan van der Merwe, Wes Goosen and Grant Gilchrist.",
+          "Last season, Edinburgh lost three of their opening four league games and finished 12th, 16 points off the top eight. Head coach Sean Everitt was handed a two-year contract extension in January. Edinburgh host Toulon in the Challenge Cup on Friday, then face the Johannesburg Lions at home and Benetton away. New assistant coaches Tim Sampson and Brad Davis have bedded in new systems, and Ewan Ashman and Marshall Sykes have returned from injury."
+        ],
+        "is_article": true,
+        "copy": "Casual observers of the United Rugby Championship may not be overly surprised to see a Scottish team heading up the table after the opening three rounds of the new campaign. Glasgow, after all, have been a familiar presence among the top four under Franco Smith, winning the title in 2024, leading the league for large chunks of last term and finishing top of the pile after the regular season.\n\nBut Edinburgh? The maddeningly inconsistent, perennial under-achievers across the other end of the M8? Even to those who follow the competition assiduously, the presence of the Scottish capital outfit out front, with a 100 per cent record from three games, elicits a double take.",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
+        "summary_status": "done"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -3202,6 +3309,67 @@
     "Racket": [
       {
         "section": "Racket",
+        "source": "Olympics",
+        "search": "Olympics",
+        "kind": "gnews",
+        "title": "Denmark Open 2026 badminton: Satwik-Chirag, Ayush Shetty crash out in first round",
+        "feed_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNzBxYTVJbGFDZDNQbi1TdzUzeW05Wlpxd0VRSDJWUVFseVNvS2M5dXhZbWF1UXNTUWw2NnhSQ0N6b0l2cW9WaG1PZXY0SHRoeU5BbUJaTDV3XzFPcXhwaUdtWXNpMEJQRHlxRkgwZjFKYS0zX2pYRWJmVHAxNzJFMUlySzZqdw?oc=5",
+        "link": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-2-report",
+        "published": "2026-10-14T13:32:00+00:00",
+        "published_label": "Wed 14 Oct, 13:32",
+        "summary": "Denmark Open 2026 badminton: Satwik-Chirag, Ayush Shetty crash out in first round www.olympics.com",
+        "id": "a0ac846b39b5",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "title": "Alex Eala praised for putting the Philippines ahead of WTA Tour after Wuhan Open exit",
+        "feed_link": "https://www.tennis365.com/tennis-news/alex-eala-praised-for-putting-philippines-ahead-of-wta-tour",
+        "link": "https://www.tennis365.com/tennis-news/alex-eala-praised-for-putting-philippines-ahead-of-wta-tour",
+        "published": "2026-10-14T13:31:42+00:00",
+        "published_label": "Wed 14 Oct, 13:31",
+        "summary": "\"Alex has already won something bigger than any single tournament.\" The post Alex Eala praised for putting the Philippines ahead of WTA Tour after Wuhan Open exit appeared first on Tennis365 .",
+        "id": "76f70340c14a",
+        "bullets": [
+          "Alex Eala lost 6-4, 3-6, 3-6 to 217th-ranked Chinese qualifier Shi Han in the first round of the WTA 1000 event in Wuhan. The world No 19 was playing her first match since winning bronze for the Philippines at the Asian Games in Nagoya, where she lost the semi-final to Wang Xiyu. She had chosen the Asian Games over the China Open in Beijing, which took place at the same time.",
+          "John Rey Tiangco, secretary general of the Philippine Tennis Association, issued a statement of support for the 21-year-old. He thanked her for representing her country at the Asian Games \"ahead of other opportunities\" and noted her rise to a career-high of world No 18 in August. She won her first title at the WTA 500 event in Washington DC shortly before that."
+        ],
+        "is_article": true,
+        "copy": "Alex Eala has been lauded for putting her country “ahead of other opportunities” after her shock early loss at the 2026 Wuhan Open. World No 19 Eala fell 6-4, 3-6, 3-6 to 217th-ranked Chinese qualifier Shi Han in the opening round at the WTA 1000 tournament in Wuhan.\n\nEala’s defeat in Wuhan was her first match since she secured a bronze medal for the Philippines at the 2026 Asian Games in Nagoya, Japan. The Filipina superstar was beaten in three sets by Wang Xiyu in the semi-finals of the Asian Games women’s singles event.",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "title": "Daniil Medvedev questions Gael Monfils’ ‘strange’ retirement as Frenchman’s career ends in mystery",
+        "feed_link": "https://www.tennis365.com/tennis-news/daniil-medvedev-questions-gael-monfils-strange-retirement-career-ends-mystery",
+        "link": "https://www.tennis365.com/tennis-news/daniil-medvedev-questions-gael-monfils-strange-retirement-career-ends-mystery",
+        "published": "2026-10-14T12:59:20+00:00",
+        "published_label": "Wed 14 Oct, 12:59",
+        "summary": "\"I don't know what's happening.\" The post Daniil Medvedev questions Gael Monfils’ ‘strange’ retirement as Frenchman’s career ends in mystery appeared first on Tennis365 .",
+        "id": "50a898a12233",
+        "bullets": [
+          "Daniil Medvedev has called Gael Monfils' reported retirement a \"strange story\", as the Frenchman has not yet made an announcement himself. The International Tennis Integrity Agency added Monfils to its official list of retired players on Wednesday, meaning he is no longer eligible to enter tournaments. He had been scheduled to end his career at the Paris Masters, but his last match may have been at the US Open in September.",
+          "Medvedev, who played Monfils five times, winning three, said he hoped the Frenchman was well and described him as \"super fun\" and tough to play against. Monfils won 13 ATP Tour titles in a 22-year career and reached the semi-finals of the French Open and US Open. He earned more than $25m in prize money, and lost to Learner Tien in the second round of this year's US Open."
+        ],
+        "is_article": true,
+        "copy": "Daniil Medvedev says Gael Monfils’ reported retirement is a “strange story”, as the Frenchman hasn’t made the announcement himself yet. On Wednesday, the International Tennis Integrity Agency meaning he is no longer eligible to enter tournaments.\n\nMonfils was scheduled to end his famed career at the Paris Masters in the coming weeks but it seems his last match may have come at this year’s US Open in September. However, the flamboyant Frenchman has now been added to the agency’s official list of retired players. Medvedev faced the veteran five times, winning three and losing two.",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
         "source": "Tennis365",
         "search": "Tennis365",
         "kind": "direct",
@@ -3510,7 +3678,7 @@
         "is_article": true,
         "copy": "We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.Privacy Policy",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -3550,7 +3718,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -4654,6 +4822,27 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golfmagic",
+        "search": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Patrick Reed offers thoughts on current LIV Golf situation",
+        "feed_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQenhCR3QxbFFWR0gxSzdLY3YxN1pMeXFrSUZla1R3cm45N3dld053LUxVZHctbkVPMzcwWFc3LTV2Q2tIM1VOYXBwN0VvR1BqRGk4Z1hBZXcxWUNxWHBZaVNvZmZnUnZXQTZkTVIwd19IdnpvaTJzVEpoZ19QS0M0RVc4b0o0RXAzVkdHZzVDTldOOHV4dERzQlFFbw?oc=5",
+        "link": "https://www.golfmagic.com/tour/liv-golf/patrick-reed-offers-thoughts-current-liv-golf-situation",
+        "published": "2026-10-14T13:29:18+00:00",
+        "published_label": "Wed 14 Oct, 13:29",
+        "summary": "Patrick Reed offers thoughts on current LIV Golf situation Golfmagic",
+        "id": "185189406e28",
+        "bullets": [
+          "Patrick Reed said he has felt welcomed back \"since day one\" on the DP World Tour after quitting LIV Golf in January, having missed traditional golf. Speaking ahead of the DP World India Championship in Delhi, he said he has always supported the circuit, first coming over in 2015, and has enjoyed playing it fully this year. He will return to the PGA Tour next season.",
+          "Reed currently leads the Race to Dubai, ahead of Spain's Eugenio Chacarra and Rory McIlroy, who is chasing Colin Montgomerie's record of eight order of merit titles. The DP World Tour has forced players to choose between it and LIV, which is trying to persuade enough golfers to stay for a revamped league. McIlroy told Bloomberg he would vote to let LIV defectors return."
+        ],
+        "is_article": true,
+        "copy": "Patrick Reed says he feels he has been welcomed back \"since day one\" after he quit LIV Golf at the turn of the year. Reed was among the first wave of players to be recruited by the breakaway tour in 2022 and was expected to extend his stay beyond this season.\n\nBut the American made the surprise decision to walk away from LIV in January because he missed the experience of traditional golf. Reed wasn't given the Brooks Koepka treatment and will return to the PGA Tour next season.",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
         "source": "Golf.com",
         "search": "Golf.com",
         "kind": "direct",
@@ -4692,6 +4881,27 @@
         "is_article": true,
         "copy": "LIV Golf has its latest Chapter 11 bankruptcy hearing later Wednesday in New Jersey, and with it comes a number of milestones for the league as it tries to launch LIV 2.0. In the hearing, which begins at 1pm ET, LIV will be seeking court approval to terminate existing contracts with players so that it can move forward with various plans as part of LIV 2.0. Among those include proposed compensation for players, as well as player ownership structure. LIV has plans for a 10-event schedule, and purse sizes that rank second only to the PGA Tour globally.\n\nThe league initially had a mid-October deadline to sign players for LIV 2.0, but that now has been extended to Oct. 25. And BC Partners, the league’s lead investor, has the right to extend or even waive that deadline. Even with Jon Rahm’s decision not to play LIV 2.0, the league has maintained that it is on track with its player plans for its next iteration.",
         "first_seen": "2026-10-14T13:07:37.509468+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Yahoo Sports",
+        "search": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Rory McIlroy Is Right About The LIV Golf Failure",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVZodlh3djA3SlVFdndPaVg4UTZZZFE5Q0pYNmpQQk5Md1I0NllyenFrMlB6akZTd1JzOXREYWQ1cFdnb1VsNjB5cnR3alNGbkEwY0xleEdDM3k1TnZJeUk2T29mTjlOa3dhNEFqOWVHaC1MR1VhaFA3YnRmRmVxMGRKd0w?oc=5",
+        "link": "https://sports.yahoo.com/articles/rory-mcilroy-liv-golf-failure-121000519.html",
+        "published": "2026-10-14T12:10:00+00:00",
+        "published_label": "Wed 14 Oct, 12:10",
+        "summary": "Rory McIlroy Is Right About The LIV Golf Failure Yahoo Sports",
+        "id": "690cd9593ffe",
+        "bullets": [
+          "Rory McIlroy told the Bloomberg New Economy Forum in New Delhi that LIV Golf \"had probably half of a good idea that was executed pretty poorly\". He said the league could have used its money better than enriching tour pros who were already well paid. LIV filed for bankruptcy protection in September after cancelling its season finale in Michigan, though $300m from BC Partners offers some hope.",
+          "Unpaid prize money and appearance fees totalled more than $45m at the time of filing. Jon Rahm tops the unsecured creditors with a $7.5m claim, and Cameron Smith is fourth with more than $4.8m owed. Joost Luiten said returning players should face a harder route back, and the DP World Tour is introducing a rule to ban LIV 2.0 signees from the 2027 season."
+        ],
+        "is_article": true,
+        "copy": "LIV Golf is collapsing because it lacked a smart plan for its massive wealth. The league filed for bankruptcy protection in September after canceling its season finale in Michigan. While some hope remains due to $300 million from BC Partners, the fundamental strategy failed to hold the golf world together.\n\nRory McIlroy believes the league's leadership missed the mark on how to use their funds. Speaking at the Bloomberg New Economy Forum in New Delhi, McIlroy said, \"LIV had probably half of a good idea that was executed pretty poorly.\" The PGA Tour loyalist noted that the league had plenty of money but wasted it. According to Fox Sports, McIlroy stated, \"They certainly could have done better things with it instead of just enriching tour pros that were already making a lot of money.\"",
+        "first_seen": "2026-10-14T14:04:47.066099+00:00",
         "summary_status": "done"
       },
       {
@@ -5905,5 +6115,5 @@
       }
     ]
   },
-  "total": 294
+  "total": 304
 }
