@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T12:54:22.865316+00:00",
-  "generated_label": "Thursday 15 October 2026, 12:54 UTC",
+  "generated_at": "2026-10-15T13:43:09.342759+00:00",
+  "generated_label": "Thursday 15 October 2026, 13:43 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -103,7 +103,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -143,7 +143,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -204,7 +204,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -244,7 +244,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -263,7 +263,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -343,7 +343,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -763,6 +763,23 @@
         "summary_attempts": 1,
         "summary_status": "skipped",
         "skip_reason": "general politics/technology, not sport"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "kind": "gnews",
+        "title": "Baseline Vision partners with ATP’s Tennis Data Innovations",
+        "feed_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmE2RW9Wa3h0SGtPdlZUM2NyR290cWNXTmRNbmJxS2JVSVlLRWdXTWliR3gySUFYMVBGZFRsWXlSNVZEeWNmSGhVNDFZZXRBMEV3cFVCS3FaenVTUkl2TEhnd3lpUmd5cER2b1lBSXlCdG9KLXhOUTJZd3Z5N3dpSXFIMFZQWi1kc2dsWEIxRHE4dEU?oc=5",
+        "link": "https://www.sportcal.com/news/baseline-vision-partners-with-atps-tennis-data-innovations/",
+        "published": "2026-10-14T07:00:00+00:00",
+        "published_label": "Wed 14 Oct, 07:00",
+        "summary": "Baseline Vision partners with ATP’s Tennis Data Innovations Sportcal",
+        "id": "ccf0d09986a3",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Baseline Vision, a provider of AI-powered tennis technology, has announced a multi-year partnership with Tennis Data Innovations (TDI), a joint venture by the ATP – the organizer of the men’s tour – and ATP Media, its global sales, broadcast production, and distribution arm.\n\nThrough the agreement, the Israel-based company’s technology will provide real-time data from matches in the secondary ATP Challenger Tour worldwide. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -2110,6 +2127,111 @@
     "Rugby": [
       {
         "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Darcy Graham makes shock early return as Edinburgh prepare for Toulon test",
+        "feed_link": "https://www.rugbypass.com/news/darcy-graham-makes-shock-early-return-as-edinburgh-prepare-for-toulon-test/",
+        "link": "https://www.rugbypass.com/news/darcy-graham-makes-shock-early-return-as-edinburgh-prepare-for-toulon-test/",
+        "published": "2026-10-15T13:35:18+00:00",
+        "published_label": "Thu 15 Oct, 13:35",
+        "summary": "Scotland’s Darcy Graham will make a surprise return to action for Edinburgh in Friday night’s European Challenge Cup match against Toulon at Hive Stadium.",
+        "id": "ce230b148583",
+        "bullets": [
+          "Scotland winger Darcy Graham will make a surprise return for Edinburgh in Friday night's European Challenge Cup match against Toulon at Hive Stadium. The British and Irish Lions player has recovered more quickly than expected from a torn bicep suffered in September, having initially been ruled out until Christmas.",
+          "The 29-year-old will hope to force his way into Gregor Townsend's Scotland plans for next month's Nations Championship fixtures against New Zealand, Australia and Japan. Head coach Sean Everitt has made one other change to the side that won 29-12 at Zebre in the United Rugby Championship, with flanker Tom Currie making his first start of the season. Second-row Grant Gilchrist, also back from injury, is on the bench and hopes to make his first appearance of the season."
+        ],
+        "is_article": true,
+        "copy": "Scotland’s Darcy Graham will make a surprise return to action for Edinburgh in Friday night’s European Challenge Cup match against Toulon at Hive Stadium. The British and Irish Lions winger has made a quicker-than-expected recovery after tearing a bicep in September and initially being ruled out until Christmas.\n\nIt is a timely return for the 29-year-old, who will now be hoping to force his way into Scotland head coach Gregor Townsend’s plans for next month’s Nations Championship fixtures against New Zealand, Australia and Japan.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "search": "BBC Sport",
+        "kind": "direct",
+        "title": "Canada expect landmark victory over Red Roses",
+        "feed_link": "https://www.bbc.co.uk/sport/rugby-union/articles/c68xzgynj1n1o?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c68xzgynj1n1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-15T13:34:56+00:00",
+        "published_label": "Thu 15 Oct, 13:34",
+        "summary": "Scrum-half Olivia Apps believes the time is right for Canada to end England's four-year unbeaten run when the teams meet on Friday",
+        "id": "9b201888e56a",
+        "bullets": [
+          "Canada face England's Red Roses in Toronto on Friday and again seven days later in Ottawa, in the 'Rugby Rematch Tour'. The two Tests are Canada's first on home soil since a Rugby World Cup warm-up in August 2025, and more than 15,000 fans are expected at BMO Field. Last month Canada drew 26-26 with England at Sandy Park in Exeter, the first team to avoid defeat against them in nearly four years.",
+          "Scrum-half Olivia Apps said that playing alongside England players at Saracens has removed the mystique around them, and that Canada would be 'really, really disappointed' not to win this weekend. Canada's government announced a 755m Canadian dollar (£401m) sport funding package in May after their World Cup final defeat by England a year ago. Apps, named PWR player of the season, has just signed a three-year Saracens extension, and a documentary on Canada's World Cup campaign, All Heart, has been released."
+        ],
+        "is_article": true,
+        "copy": "In Exeter last month, there were two expressions on Olivia Apps' face that bode ill for England. It came at the start of Canada's 26-26 draw with the Red Roses at Sandy Park. Apps, Canada's starting scrum-half, aimed it at, and shared it with, England trio Zoe Harrison, Jess Breach and Marlie Packer, who she has played alongside with Saracens in the PWR this season.\n\n\"Playing at Saracens has really helped to take the mystique away from all these names that you see on a teamsheet,\" Apps told BBC Sport. \"You know them as people and it takes away that uncertainty, [the] mysterious part.\"",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Piper Simons: 'A year ago XVs wouldn't even be in the picture for me'",
+        "feed_link": "https://www.rugbypass.com/news/piper-simons-a-year-ago-xvs-wouldnt-even-be-in-the-picture-for-me/",
+        "link": "https://www.rugbypass.com/news/piper-simons-a-year-ago-xvs-wouldnt-even-be-in-the-picture-for-me/",
+        "published": "2026-10-15T13:22:50+00:00",
+        "published_label": "Thu 15 Oct, 13:22",
+        "summary": "If you were to tell Piper Simons 12 months ago she’d be spending nearly all of 2026 diving into the world of XVs, it would have surprised the sevens star.",
+        "id": "2c63e84e074f",
+        "bullets": [
+          "Piper Simons, a 21-year-old sevens player, has been named on the bench to win her third cap for the Wallaroos against Scotland at Accor Stadium in Sydney, the second of a three-match series. She made her XVs debut against Fijiana at the start of 2026 and travelled to Europe with the WXV Global Series tour, having not considered XVs a year ago.",
+          "Simons said she hopes to become a player able to move between both codes, and credited Samantha Wood for helping her learn. She has also been included in the inaugural Australia U21s squad to face New Zealand U21s at the end of the month. Director of women's high performance Tim Walsh is due to complete the Wallaroos' move to a full-time programme by the end of the year, before Sione Fukofuka takes over as head coach in 2027."
+        ],
+        "is_article": true,
+        "copy": "If you were to tell Piper Simons 12 months ago she’d be spending nearly all of 2026 diving into the world of XVs, it would have surprised the sevens star. However, as the Wallaroos prepare for their final fortnight of action in 2026, when they take on Scotland in the second of their three match series, the 21-year-old is hungry to make her mark on both codes and was named to earn her third cap off the bench at Accor Stadium in Sydney.\n\nComing straight into the Australian Women’s Sevens in 2024 after being part of the Australia’s U18s Girls Sevens side that won the Global Youth Sevens title and the Youth Commonwealth Games gold medal in 2023, the last two years saw Simons excel in the short format.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "search": "BBC Sport",
+        "kind": "direct",
+        "title": "Gilmore urges Harlequins to continue improvement",
+        "feed_link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgk8dyw4do?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgk8dyw4do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-15T13:18:39+00:00",
+        "published_label": "Thu 15 Oct, 13:18",
+        "summary": "Harlequins head coach Jason Gilmore urges his team to continue their recent improvement as they look to recover from a woeful start to the season.",
+        "id": "3455287a1aa3",
+        "bullets": [
+          "Harlequins head coach Jason Gilmore has urged his side to keep improving after they lost their first three Prem matches and sit bottom of the table. They were beaten 48-0 by Gloucester on 3 October, the club's heaviest league defeat for 26 years, then led Sale for most of Sunday's game before losing to a late penalty.",
+          "Quins open their European Challenge Cup campaign at home to Vannes this weekend. Gilmore described Vannes as a classic French team with a big forward pack, strong at the scrum and keen to play unstructured rugby, and said his side must bring physicality and be alert to counter-attack chances. Harlequins finished ninth in the Prem last season."
+        ],
+        "is_article": true,
+        "copy": "Harlequins head coach Jason Gilmore has urged his team to continue their recent improvement as they look to recover from a woeful start to the season. Quins are bottom of the Prem table after losing their first three matches.\n\nGilmore's side were on the end of a 48-0 thrashing by Gloucester on 3 October, but were better against Sale on Sunday, leading for most of the match before being beaten by a late penalty.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Laetitia Royer column: ‘We want to put England in an uncomfortable situation’",
+        "feed_link": "https://www.rugbypass.com/news/laetitia-royer-column-we-want-to-put-england-in-an-uncomfortable-situation/",
+        "link": "https://www.rugbypass.com/news/laetitia-royer-column-we-want-to-put-england-in-an-uncomfortable-situation/",
+        "published": "2026-10-15T12:57:13+00:00",
+        "published_label": "Thu 15 Oct, 12:57",
+        "summary": "We’re so excited to finally have people in the crowd cheering for us. That is not something we have had regularly as a Canada team.",
+        "id": "38aa36166e6e",
+        "bullets": [
+          "Canada's Laetitia Royer says the team want to use the support of almost 20,000 fans at BMO Field in Toronto to put England in an uncomfortable position on Friday, the first of two games against them. She said Canada have rarely played in front of regular home crowds and plan to shout over each other in training to prepare for the noise.",
+          "Royer said Canada won one, drew one and lost one of their September matches, drawing with England before losing to France after perhaps underestimating them and showing fatigue. She said the squad is maintaining standards rather than rebuilding, with several young players rising to the challenge. She also confirmed she will join Trailfinders Women next season, after playing in Premiership Women's Rugby for a year."
+        ],
+        "is_article": true,
+        "copy": "We’re so excited to finally have people in the crowd cheering for us. That is not something we have had regularly as a Canada team. Three weeks ago in France, the crowd was so loud. French supporters are quite passionate. We want to feel that extra inch that home support can give us. It could give us some extra oomph and help build momentum on our side.\n\nI hope that the almost 20,000 supporters at BMO Field can give us that and finally put England in an uncomfortable situation. They’ve had things relatively easy in terms of travel over the years.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
         "source": "The Independent",
         "search": "The Independent",
         "kind": "direct",
@@ -2463,6 +2585,27 @@
         "is_article": true,
         "copy": "One of the most decorated players in the HSBC SVNS competition, Australian men’s sevens captain Henry Hutchison is approaching his next two years in gold with an increased hunger, fresh off signing a new contract that will keep him in sevens until the 2028 Los Angeles Olympics.\n\nThe 29-year-old Hutchison is the most-capped men’s player in Australia Sevens history, with 68 events and over 350 games under his belt, and is set to take the field for the Kick On 7s event on Friday and the Sydney quadruple-header on Saturday against Fiji.",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugbypass.com",
+        "search": "SVNS watch",
+        "kind": "gnews",
+        "title": "‘Feared and respected’: Australia captain’s vision before SVNS Series",
+        "feed_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmxDWjBhZVdHTm9HSHo2SFdpNUJtempRVHpYbnEwMVlMbzJQMHBJVVlGdGdsbGJ6Q1p3VUEzc05EREUwQ1FLQm40VzZHcC0ycXpSUnhYYndnV25TTVdhTzNnOEplMng3ZXdsOU5SUEJPcm1Qb3o2RHd5ck9aSEpaX3VpQ2Y4UFRMYXhmdF80OWtSajg0X1ZIQ0h2UGFqZw?oc=5",
+        "link": "https://www.rugbypass.com/news/feared-and-respected-australia-captains-vision-before-svns-series/",
+        "published": "2026-10-15T06:24:14+00:00",
+        "published_label": "Thu 15 Oct, 06:24",
+        "summary": "‘Feared and respected’: Australia captain’s vision before SVNS Series Rugbypass.com",
+        "id": "4e1ae3dcee1e",
+        "bullets": [
+          "Australian men's sevens captain Henry Hutchison, 29, has signed a new contract that will keep him in sevens until the 2028 Los Angeles Olympics. He is the most-capped men's player in Australia Sevens history, with 68 events and over 350 games. He is due to play the Kick On 7s event on Friday and a Sydney quadruple-header against Fiji on Saturday.",
+          "Australia missed the podium at the 2024 Paris Olympics, losing the bronze medal match 26-19 to South Africa. Hutchison named gold in LA as the goal and said he wants the team to be respected on the circuit. The squad will then play the All Blacks Sevens and Samoa in New Zealand ahead of the 2026-27 SVNS Series, in which the top four earn Olympic qualification."
+        ],
+        "is_article": true,
+        "copy": "One of the most decorated players in the HSBC SVNS competition, Australian men’s sevens captain Henry Hutchison is approaching his next two years in gold with an increased hunger, fresh off signing a new contract that will keep him in sevens until the 2028 Los Angeles Olympics.\n\nThe 29-year-old Hutchison is the most-capped men’s player in Australia Sevens history, with 68 events and over 350 games under his belt, and is set to take the field for the Kick On 7s event on Friday and the Sydney quadruple-header on Saturday against Fiji.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
         "summary_status": "done"
       },
       {
@@ -4262,6 +4405,27 @@
     "Racket": [
       {
         "section": "Racket",
+        "source": "Sky Sports",
+        "search": "Sky Sports",
+        "kind": "gnews",
+        "title": "Wuhan Open: Sonay Kartal stuns Jasmine Paolini to set up quarter-final against Elina Svitolina while Alexander Zverev continues winning form",
+        "feed_link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRjgyd3VlbFR3eTFXSVF1UVRodHVHd0NlTmFZQmlZWXpOS0dnS1FveC1UeUFPX2tqUmdPWUplck03YXFfWERGbVlWVTZibmRwVzJJR21NckxkdVVKc1RrSkJrbGRySUNRcFhYeEVTbkhzanFlQ1VUT3ZSX0dMZjBMYWJVSUVpSHNNY3lubGQ5ME8wUVFHcUlfUnRGeWJqU2tlWWVHQVNBUnpoSTAxWENmYUpNd1I2bnhsV1RGTXQzYUs3OWtjZVlKZWVoSTFGRmY4U2hwdjFnNkYyWlVKLXpUQktOeWszTnI3MTlFSzhERHlfZV9yS3VOcUM2SUtfcVJkbHA0RUF6NFEtenpkcXpob3BFRjQ?oc=5",
+        "link": "https://www.skysports.com/tennis/news/13599528/wuhan-open-sonay-kartal-stuns-jasmine-paolini-to-set-up-quarter-final-against-elina-svitolina-while-alexander-zverev-continues-winning-form",
+        "published": "2026-10-15T12:44:38+00:00",
+        "published_label": "Thu 15 Oct, 12:44",
+        "summary": "Wuhan Open: Sonay Kartal stuns Jasmine Paolini to set up quarter-final against Elina Svitolina while Alexander Zverev continues winning form Sky Sports",
+        "id": "f08ad564ce61",
+        "bullets": [
+          "Britain's Sonay Kartal beat 15th seed Jasmine Paolini 6-2 6-0 to reach the Wuhan Open quarter-finals, winning the final 11 games of the match. The 24-year-old, back after six months out with a back injury, equals her best WTA 1000 result, having also reached the last eight in Beijing last year. She next faces fifth seed Elina Svitolina, who beat Chinese wild card Guo Hanyu 6-1 6-4.",
+          "Maja Chwalinska, the surprise French Open runner-up, also advanced with a 6-4 6-1 win over American Iva Jovic, and Diana Shnaider beat sixth seed Karolina Muchova 7-5 6-3. At the Shanghai Masters, top-ranked Alexander Zverev beat Alex de Minaur 6-4 6-4, saving all five break points he faced, to set up a semi-final against Alejandro Davidovich Fokina. Zverev, who has been carrying an ankle injury, secured the year-end world No 1 ranking earlier this week."
+        ],
+        "is_article": true,
+        "copy": "Britain's Sonay Kartal thumped two-time Grand Slam finalist Jasmine Paolini to reach the quarter-finals of the Wuhan Open. Kartal has made a brilliant return from six months out with a back injury and dropped only two games in a 6-2 6-0 victory against 15th seed Paolini.\n\nIt was an error-strewn performance from former French Open and Wimbledon runner-up Paolini and Kartal took full advantage, winning the final 11 games. The result equals the 24-year-old's best performance at a WTA 1000 tournament - the top level of the women's tour - with Kartal also having reached the last eight in Beijing last year.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
         "source": "BBC Sport",
         "search": "BBC Sport",
         "kind": "direct",
@@ -4465,7 +4629,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -6168,6 +6332,48 @@
     "Golf": [
       {
         "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "7 Unwritten Women’s Golf Rules That Need To Disappear",
+        "feed_link": "https://www.golfmonthly.com/features/7-unwritten-womens-golf-rules-that-need-to-disappear",
+        "link": "https://www.golfmonthly.com/features/7-unwritten-womens-golf-rules-that-need-to-disappear",
+        "published": "2026-10-15T13:00:00+00:00",
+        "published_label": "Thu 15 Oct, 13:00",
+        "summary": "Why outdated traditions and poor pathways are driving beginners away, and how forward-thinking golf clubs can build retention",
+        "id": "e1abdbad45f4",
+        "bullets": [
+          "A Golf Monthly feature sets out seven unwritten rules at golf clubs that it argues hinder women who want to progress after trying the game. It says beginners are often steered towards full or five-day membership after only a few lessons, when a clear pathway to suit differing lifestyles is lacking.",
+          "The piece also calls for club professionals to teach etiquette in lessons so golfers do not learn by trial and error, and for an end to midweek-only ladies' days and male-dominated Saturday morning tee times. It argues for mixed play and open competitions across weekdays and weekends, noting that England Golf's 2026 workshops identify time, accessibility and value for money as major barriers."
+        ],
+        "is_article": true,
+        "copy": "When I speak to female non-golfers, there is still a huge amount of obvious stigma attached to the game that stops them from giving it a go. The usual excuses come up: “It takes all day,” “I can’t play golf until I’m retired,” and “It’s too expensive.”\n\nFor me, those are just standard excuses from anyone who isn’t yet interested in taking up the game. The real issues start once someone has tried golf, fallen in love with it, and wants to progress.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "search": "BBC Sport",
+        "kind": "direct",
+        "title": "McKibbin one off lead in Delhi with McIlroy in contention",
+        "feed_link": "https://www.bbc.co.uk/sport/golf/articles/cjg47v34rl49o?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cjg47v34rl49o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-15T12:53:36+00:00",
+        "published_label": "Thu 15 Oct, 12:53",
+        "summary": "Tom McKibbin is one shot off the lead and Rory McIlroy three further back after a weather-disrupted opening day of the DP World India Championship.",
+        "id": "9ce1aa51726b",
+        "bullets": [
+          "Tom McKibbin is one shot off the lead after a weather-disrupted first round of the DP World India Championship at Delhi Golf Club. Denmark's Niklas Norgaard leads on six under after a 66 featuring an eagle, six birdies and two bogeys, with McKibbin, Spain's Eugenio Chacarra and Belgium's Thomas Detry on five under. Play was suspended for five hours because of lightning, leaving many players unable to finish.",
+          "McKibbin, 23, carded six birdies and one bogey. Rory McIlroy, the back-to-back Masters champion, is on two under alongside Tommy Fleetwood, three shots behind McKibbin, while Scots Scott Jamieson, Robert MacIntyre and Ewen Ferguson are on three under. McIlroy is third in the Race to Dubai standings behind Patrick Reed and Chacarra. McKibbin has one DP World Tour win, at the 2023 European Open, and has played on LIV Golf since January 2025."
+        ],
+        "is_article": true,
+        "copy": "Tom McKibbin sits one shot off the lead, with fellow Northern Ireland player Rory McIlroy a further three shots back, after a severely weather-disrupted opening day of the DP World India Championship in New Delhi.\n\nDenmark's Niklas Norgaard tops the leaderboard on six under after firing a six-under-par round of 66 which included an eagle, six birdies and two bogeys at the Delhi Golf Club.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
         "source": "Golf.com",
         "search": "Golf.com",
         "kind": "direct",
@@ -6187,6 +6393,27 @@
       },
       {
         "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "'It's Actually Criminal'",
+        "feed_link": "https://www.golfmonthly.com/news/its-actually-criminal-seniors-fuming-with-pga-tour-champions-pension-cut",
+        "link": "https://www.golfmonthly.com/news/its-actually-criminal-seniors-fuming-with-pga-tour-champions-pension-cut",
+        "published": "2026-10-15T12:49:14+00:00",
+        "published_label": "Thu 15 Oct, 12:49",
+        "summary": "Seniors from the PGA Tour Champions have reacted angrily to news the $8m pension fund from the PGA Tour has been shut down",
+        "id": "edf7dad379d1",
+        "bullets": [
+          "PGA Tour Champions is scrapping its $8m pension fund, president Miller Brady told players at a meeting, saying the senior tour will try to stand on its own financially. The pot had been $10m before being cut to $8m last year. The tour has $69m in prize money on offer this season.",
+          "Billy Andrade, David Toms and Scott McCarron criticised the decision, with Andrade calling it criminal and McCarron blaming PGA Tour leadership, including Jay Monahan and Brian Rolapp. The scheme dates to 1985, when $250,000 was allocated. Brady said the tour is making money for the organisation, with 29 events in 2026 and new $3m purses at the Portugal Invitational and next year's Sony Championship Open in Hawaii, and that the players understand the decision."
+        ],
+        "is_article": true,
+        "copy": "PGA Tour Champions players have reacted furiously to news that the $8m pension fund for the senior tour is being scrapped. Previously, the PGA Tour handed out a $10m pension pot to the senior circuit before it was cut to $8m last year, but now it's being axed completely.\n\nPGA Tour Champions president Miller Brady relayed the news at a players meeting, saying the seniors tour would try and stand on its own two feet financially moving forward. There's $69m in prize money on offer this season on the PGA Tour Champions, but the removal of the long-standing pension program has not gone down well at all with the over-50s on the tour.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
         "source": "Insider Sport",
         "search": "HSBC golf watch",
         "kind": "gnews",
@@ -6201,8 +6428,88 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "After 'Four Years Of Hell' Will Zalatoris To Miss 2027 Season After Latest Surgery",
+        "feed_link": "https://www.golfmonthly.com/news/will-zalatoris-to-miss-2027-pga-tour-season-back-surgery",
+        "link": "https://www.golfmonthly.com/news/will-zalatoris-to-miss-2027-pga-tour-season-back-surgery",
+        "published": "2026-10-15T11:28:20+00:00",
+        "published_label": "Thu 15 Oct, 11:28",
+        "summary": "Will Zalatoris will miss the entire 2027 PGA Tour season as he's scheduled to have his third back surgery in November, but hopes it will finally cure the issue that's given him \"four years of hell\"",
+        "id": "3bf8f6d9ce21",
+        "bullets": [
+          "Will Zalatoris will miss the whole 2027 season after revealing he will undergo spinal fusion surgery in November, his third back operation. He will first play the Austin Championship, only his fifth PGA Tour start of the year and his first since the Valero Texas Open in April. He has also suffered a torn labrum this year.",
+          "Zalatoris said he has been through four years of hell and hopes the operation corrects the problem, after a microdiscectomy in 2023 and a disc replacement in 2025. The 30-year-old has one PGA Tour win, the 2022 FedEx St Jude Championship, and three runner-up Major finishes: the 2021 Masters, the 2022 PGA Championship playoff loss to Justin Thomas and the 2022 US Open behind Matt Fitzpatrick. He said he cannot promise anybody anything because of what he has been through."
+        ],
+        "is_article": true,
+        "copy": "Will Zalatoris will miss the entire 2027 season due to upcoming back surgery, which he hopes will end the \"four years of hell\" he's experienced with constant injuries. Zalatoris will play in the upcoming Austin Championship in November in what will be just his fifth PGA Tour start of the year and first since the Valero Texas Open in April.\n\nThe three-time Major runner-up has suffered from a torn labrum this year but the majority of his injury problems all stem from his back issues, which have required two previous operations.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "Is This The Finest Course Close To Central London? I Think So",
+        "feed_link": "https://www.golfmonthly.com/courses/uk-and-ireland/is-this-the-finest-course-close-to-central-london-i-think-so",
+        "link": "https://www.golfmonthly.com/courses/uk-and-ireland/is-this-the-finest-course-close-to-central-london-i-think-so",
+        "published": "2026-10-15T11:18:30+00:00",
+        "published_label": "Thu 15 Oct, 11:18",
+        "summary": "This first-class course with impeccable pedigree is less than 10 miles from the Tower of London as the raven flies",
+        "id": "7a263b7198e9",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Just a few miles from the heart of the capital, Royal Wimbledon Golf Club dates back to 1865 when play began over a seven-hole course. After a few years, this was expanded to a full 18 before the club was awarded its regal title in 1882. Many of its early members were influential in the evolution of The R&A, helped to inaugurate events such as the Amateur Championship and were involved in the creation of prestigious courses such as Royal St George's.\n\nThe club moved to Warren Farm and Caesar's Camp – an iron-age hill fort that skirts the 6th hole – in 1907, with Willie Park Junior masterminding the new layout. The great Harry Colt was a member, and he redesigned the course in 1924. Despite more recent changes to the 1st, 6th and 18th holes and some excellent bunker remodelling over the last few years by Tom Mackenzie, this is still fundamentally a Colt design and fully deserving of its place on the Golf Monthly Next 100 list.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "course review, not a news article"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "Spiked, Spikeless And Slip-Ins: The Pros And Cons Of Every Type Of Golf Shoe",
+        "feed_link": "https://www.golfmonthly.com/features/spiked-spikeless-and-slip-ins-the-pros-and-cons-of-every-type-of-golf-shoe",
+        "link": "https://www.golfmonthly.com/features/spiked-spikeless-and-slip-ins-the-pros-and-cons-of-every-type-of-golf-shoe",
+        "published": "2026-10-15T11:06:32+00:00",
+        "published_label": "Thu 15 Oct, 11:06",
+        "summary": "With such a wide range of options, we highlight the pluses and minuses of the various shoe styles on the market",
+        "id": "509d3ca8289c",
+        "bullets": [],
+        "is_article": true,
+        "copy": "There was a time when you didn’t really get much choice: all golf shoes were spiked (quite literally). Now the options are plentiful. Spiked or spikeless? What about slip-ins? Would a BOA model be more suitable?\n\nYou’ll often find us waxing lyrical about a new release, but rarely, if ever, does a golf shoe tick every single box. Every pair has its pros and cons. As a result, many golfers keep multiple pairs on hand - especially those who play year-round, across various course terrains, and in all types of weather.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "product buying guide, not news"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "LIV Golf Accuses DP World Tour Of 'Clear Attempt To Interfere' With Player Signings",
+        "feed_link": "https://www.golfmonthly.com/news/liv-golf-accuses-dp-world-tour-of-clear-attempt-to-interfere-with-player-signings",
+        "link": "https://www.golfmonthly.com/news/liv-golf-accuses-dp-world-tour-of-clear-attempt-to-interfere-with-player-signings",
+        "published": "2026-10-15T10:18:48+00:00",
+        "published_label": "Thu 15 Oct, 10:18",
+        "summary": "LIV Golf's lawyers claim the DP World Tour's stance on returning players represents \"a clear attempt to interfere with our process\" in terms of signing up players for 2.0",
+        "id": "62e840ef9fe1",
+        "bullets": [
+          "Lawyers for LIV Golf have accused the DP World Tour of \"a clear attempt to interfere with our process\" over player signings for LIV Golf 2.0. At a US bankruptcy court hearing on Wednesday, attorney Rob Fitzgerald objected to DP World Tour chief executive Guy Kinnings telling the BBC on Monday that \"players need to make a choice\" between the two. Judge Michael B. Kaplan agreed the comments \"do raise concerns\".",
+          "LIV chief executive Scott O'Neil has until 25 October to secure a \"critical mass\" of player sign-ups to complete an investment deal with BC Partners, with Fitzgerald saying LIV will know by the end of the month whether 2.0 can proceed. Jon Rahm has ruled himself out, while Tyrrell Hatton and Tom McKibbin played both circuits last year under a deal that is not available next season."
+        ],
+        "is_article": true,
+        "copy": "Lawyers for LIV Golf have accused the DP World Tour of \"a clear attempt to interfere with our process\" in terms of signing up players for the new 2.0 version of the league. At a US bankruptcy court hearing on Wednesday, LIV Golf's attorney Rob Fitzgerald voiced his \"concern\" at the DP World Tour's stance on players hoping to rejoin the European circuit.\n\nDP World Tour boss Guy Kinnings told the BBC on Monday that \"players need to make a choice\" between rejoining his tour or playing in LIV Golf 2.0. Fitzgerald claims that giving players that ultimatum raised \"anti-competitive concerns\" over player freedom - and the court judge in the case agreed that Kinnings' comments \"do raise concerns\".",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -6223,6 +6530,27 @@
         "is_article": true,
         "copy": "The attorney representing LIV Golf in its bankruptcy protection case has accused the DP World Tour of \"interfering\" with the league's restructuring process. The DP World Tour confirmed to BBC Sport on Monday that any player signing up to a LIV Golf 2.0 will be prohibited from holding membership in 2027.\n\nIt marked a departure from how the European-based circuit has previously deal with LIV Golf players, with some top stars granted releases two play on both tours. But DP World Tour chief executive, Guy Kinnings, has warned that players now must make a choice.",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Today's Golfer",
+        "search": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf accuses DP World Tour of 'interference' after damaging decision",
+        "feed_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlMzUTNiV25IVkcxY2xRR0pKcmxfQTNsN2E2YnBXd3lMN3BDakJONE9aRHRGSjE1UlgwcGtsOGxEeUxER29jNGJ2Y1RXX013WmsyVm0wa1JuQmhrUmZUNTI4Q2pONzdTTG5FUkNWaHhnMmtvbUpBY1ctaE1OOUxrX0t5UC1EUnBHMUhpc1Q5Q2V0V0RydlZhbVJPRFg?oc=5",
+        "link": "https://www.todays-golfer.com/news-and-events/tour-news/liv-golf-makes-dp-world-tour-accusation/",
+        "published": "2026-10-15T10:03:38+00:00",
+        "published_label": "Thu 15 Oct, 10:03",
+        "summary": "LIV Golf accuses DP World Tour of 'interference' after damaging decision Today's Golfer",
+        "id": "ff0f34700e52",
+        "bullets": [
+          "LIV Golf has accused the DP World Tour of a \"clear attempt\" to interfere with its bankruptcy process after the circuit said it would block membership applications from players also wishing to play LIV 2.0, the relaunched league proposed to emerge from restructuring in 2027. DP World Tour chief executive Guy Kinnings said \"players need to make a choice\" between the tours next season. Attorney Rob Fitzgerald raised the issue at a court hearing on Wednesday.",
+          "LIV is hoping for a $300m cash injection from BC Partners, dependent on securing a \"sufficient number of players\" for a \"bona fide golf league\" by a 25 October deadline. Fitzgerald expects a decision by the end of the month on whether LIV will remain operational. Rory McIlroy, speaking in India, defended the DP World Tour, saying it has been \"more than accommodating\" and is within its rights to change its rules."
+        ],
+        "is_article": true,
+        "copy": "LIV Golf has accused the DP World Tour of making a “clear attempt” to interfere in their bankruptcy hearing after the circuit confirmed it would refuse to accept the league’s players next season.\n\nThe DP World Tour will block any membership applications from players also wishing to play LIV 2.0, a proposed relaunched league that the league hopes to emerge after its restructuring process in 2027.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
         "summary_status": "done"
       },
       {
@@ -6428,6 +6756,44 @@
         "copy": "AUSTIN — Will Zalatoris, who has battled injuries for much of his promising PGA Tour career, said Wednesday that he will undergoing spinal-fusion surgery in Dallas next month to correct ongoing back issues and will miss the entire 2027 PGA Tour season.\n\n“I’ve been through four years of hell so it’s good to have something that will hopefully correct it,” Zalatoris said during media day for the Austin Championship. “It’s not something you want to do, but when you have three Tour physical therapists tell you it needs to be done at some time, you go ahead and do it.”",
         "first_seen": "2026-10-15T12:54:22.865316+00:00",
         "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "I Asked Our New AI Gear Finder To Recommend My Optimal Golf Ball (And Shot My Best Round In Months)",
+        "feed_link": "https://www.golfmonthly.com/features/ai-gear-finder-recommend-my-optimal-golf-ball",
+        "link": "https://www.golfmonthly.com/features/ai-gear-finder-recommend-my-optimal-golf-ball",
+        "published": "2026-10-14T16:23:21+00:00",
+        "published_label": "Wed 14 Oct, 16:23",
+        "summary": "I've always been a 'play whatever you can get' kind of guy, but when our new product finder recommended my optimal golf ball I had to give it a try...",
+        "id": "0d237b66d17b",
+        "bullets": [],
+        "is_article": true,
+        "copy": "As a high-handicap golfer, I am willing to try just about anything to improve my game. I have been trying to break 90 for some time now, but despite a rigorous winter golf training plan and plenty of lessons - I am stuck in the suffocating loop of shooting somewhere between 92 and 99 every week.\n\nAs we head towards the end of another golf season I had resigned myself to another off-season of tinkering, but then we launched an AI tool which has finally helped me to find the marginal gains I’ve been searching for.",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "product feature, not news"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "The Most Legendary Shirt In Golf Is Now Rebuilt With A Modern Sun Day Red Twist – Grab Tiger Woods' Icon Mock Shirt While You Can",
+        "feed_link": "https://www.golfmonthly.com/buying-advice/the-most-legendary-shirt-in-golf-is-now-rebuilt-with-a-modern-sun-day-red-twist-grab-tiger-woods-icon-mock-shirt-while-you-can",
+        "link": "https://www.golfmonthly.com/buying-advice/the-most-legendary-shirt-in-golf-is-now-rebuilt-with-a-modern-sun-day-red-twist-grab-tiger-woods-icon-mock-shirt-while-you-can",
+        "published": "2026-10-14T15:45:48+00:00",
+        "published_label": "Wed 14 Oct, 15:45",
+        "summary": "There is nothing more memorable in modern golf history than Tiger in his Sunday red mock neck shirt and this new version will sell out fast",
+        "id": "812e6167403a",
+        "bullets": [],
+        "is_article": true,
+        "copy": "There is arguably nothing more iconic in professional golf, than Tiger Woods on final day charge, wearing his famous red mock neck shirt. The 15-time Major winner has worn red on Sundays throughout his professional career, and features in unforgettable moments of Tiger at the peak of his powers. Including that second shot at the 16th hole during the final round of the 2005 Masters, and the celebration that followed, one of the most legendary shots in golf.\n\nAlthough those moments featured Nike's versions of the best polo shirt in golf. Tiger's own brand Sun Day Red has taken up the mantle of that legacy, and delivered the Sun Day Red Icon Mock. It is incredibly lightweight, features Sun Day Red branding on the chest and back, has plenty of stretch and despite my worries about breathability, I found it to be nice and cool as well. (If the mock neck isn't for you, I've also included a link to the red version of the Stinger polo below as well).",
+        "first_seen": "2026-10-15T13:43:09.342759+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "shopping/deals piece, not news"
       },
       {
         "section": "Golf",
@@ -7766,5 +8132,5 @@
       }
     ]
   },
-  "total": 385
+  "total": 403
 }
