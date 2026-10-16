@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T12:45:49.838048+00:00",
-  "generated_label": "Friday 16 October 2026, 12:45 UTC",
+  "generated_at": "2026-10-16T13:33:51.893324+00:00",
+  "generated_label": "Friday 16 October 2026, 13:33 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -103,7 +103,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -164,7 +164,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -183,7 +183,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -202,7 +202,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -320,7 +320,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -387,6 +387,25 @@
         "source": "Financial Times",
         "search": "Financial Times",
         "kind": "gnews",
+        "title": "FirstFT: G7 plan simulated AI attacks on banks",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWw4X2lMUTBhOXdMZ0lSNXdjTTU3dkFPamJRRjlCY1BGR010SVhXMThpdnpEYzhQejdPRlMzUFVCNF9VcmV1cG5STllfZ3NPUDktSEEteERLY0liN3VabzZqMzVTRzJTYllNdFJmX1h0M05mNzdfSEhkOExoaUFUdmRnVE4?oc=5",
+        "link": "https://www.ft.com/content/246f1614-cd9a-4747-bc58-97e9cb10fb4b?syn-25a6b1a6=1",
+        "published": "2026-10-15T21:57:14+00:00",
+        "published_label": "Thu 15 Oct, 21:57",
+        "summary": "FirstFT: G7 plan simulated AI attacks on banks Financial Times",
+        "id": "6ad618909a5b",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-16T13:33:51.893324+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "search": "Financial Times",
+        "kind": "gnews",
         "title": "Fifa president Gianni Infantino apologises for failed investment plan",
         "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzFEQ0xqendkS3dCLURZa1c2NWVFbl9UTkplQlY0SGZYOVF6Vl9pemxTSGxteTFOd3lkaF9wUVpkMHFpUUNSRnoxVjZfZ2FHZzJFV3MwTUpOdWVERzhzSFRxY3RoV0wwdi1ka0duZXdrN3h4TUt0SWVBNGRNMURoOVJzV0Q?oc=5",
         "link": "https://www.ft.com/content/9f269231-7c1a-4cb0-a4d3-0603f6cd73b6?syn-25a6b1a6=1",
@@ -398,7 +417,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -539,7 +558,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -2580,6 +2599,90 @@
     "Rugby": [
       {
         "section": "Rugby",
+        "source": "BBC Sport",
+        "search": "BBC Sport",
+        "kind": "direct",
+        "title": "Atkin-Davies returns to rugby after birth of daughter",
+        "feed_link": "https://www.bbc.co.uk/sport/rugby-union/articles/c317kwqlky8go?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c317kwqlky8go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-16T13:29:29+00:00",
+        "published_label": "Fri 16 Oct, 13:29",
+        "summary": "England hooker Lark Atkin-Davies is to make her competitive playing return for Bristol Bears following the birth of her first child.",
+        "id": "315a50f91991",
+        "bullets": [
+          "England hooker Lark Atkin-Davies is to make her competitive return for Bristol Bears after giving birth to her first child 16 weeks ago. The 31-year-old will start in the Bears' PWR Cup match against Harlequins on Saturday. Her last game was the World Cup final in September 2025, when she won the title with the Red Roses after playing in all six of their matches at the tournament.",
+          "Atkin-Davies joined Bristol in 2022 and follows Bears and England team-mate Abbie Ward in returning to the sport after having a baby. Lock Ward gave birth to her second child this summer, while England captain Zoe Stratford also had her first child in recent weeks. Bristol begin the 2026-27 Premiership Women's Rugby campaign away at Harlequins on Sunday, 22 November."
+        ],
+        "is_article": true,
+        "copy": "England hooker Lark Atkin-Davies is to make her competitive playing return for Bristol Bears following the birth of her first child. Atkin-Davies welcomed her daughter 16 weeks ago and will start for the Bears in their PWR Cup match against Harlequins on Saturday.\n\nThe 31-year-old's last game was the World Cup final in September 2025, where she clinched the title with the Red Roses having played in all six of their matches during the tournament.",
+        "first_seen": "2026-10-16T13:33:51.893324+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Munster make 6 changes and retire No.8 jersey for Champions Cup opener",
+        "feed_link": "https://www.rugbypass.com/news/munster-make-6-changes-and-retire-no-8-jersey-for-champions-cup-opener/",
+        "link": "https://www.rugbypass.com/news/munster-make-6-changes-and-retire-no-8-jersey-for-champions-cup-opener/",
+        "published": "2026-10-16T13:29:08+00:00",
+        "published_label": "Fri 16 Oct, 13:29",
+        "summary": "Munster will retire their No.8 jersey in honour of Anthony Foley when they launch their Investec Champions Cup campaign against Racing 92 at SuperValu Páirc Uí Chaoimh on Saturday night.",
+        "id": "8fcd549afe7f",
+        "bullets": [
+          "Munster will retire their No.8 jersey in honour of Anthony Foley when they open their Investec Champions Cup campaign against Racing 92 at SuperValu Páirc Uí Chaoimh on Saturday night. The week marks the 10th anniversary of Foley's death, with tributes and commemorative events planned around the fixture. The shirt was also retired for Munster's first match after his death in 2016.",
+          "Munster have made six changes to the side that drew with Ulster in Belfast last weekend, with four young players in line for Champions Cup debuts. First-year Academy fly-half Charlie O'Shea starts alongside Ireland's Craig Casey, flanker Seán Edogbo also starts, and replacements Max Clein and Ben O'Donovan could make debuts. Head coach Clayton McMillan said the players are determined to give a performance Foley would be proud of, and that the best way to honour him is a committed team display."
+        ],
+        "is_article": true,
+        "copy": "Munster will retire their No.8 jersey in honour of Anthony Foley when they launch their Investec Champions Cup campaign against Racing 92 at SuperValu Páirc Uí Chaoimh on Saturday night.\n\nThis week marks the 10th anniversary of Foley’s death, with a series of tributes and commemorative events planned around the province’s opening European fixture. In a gesture reflecting the legendary back-rower’s enduring legacy, the No.8 shirt will once again be retired for the occasion, as was the case for Munster’s first match following his passing in 2016.",
+        "first_seen": "2026-10-16T13:33:51.893324+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "England U18 Women name 67-Player squad for first camp of the season",
+        "feed_link": "https://www.rugbypass.com/news/england-u18-women-name-67-player-squad-for-first-camp-of-the-season/",
+        "link": "https://www.rugbypass.com/news/england-u18-women-name-67-player-squad-for-first-camp-of-the-season/",
+        "published": "2026-10-16T13:25:55+00:00",
+        "published_label": "Fri 16 Oct, 13:25",
+        "summary": "The England Under-18 Women's programme will start with a four-day camp at the University of Nottingham.",
+        "id": "2be36ce431f8",
+        "bullets": [
+          "The England Under-18 Women's programme begins its season with a four-day camp at the University of Nottingham, running from Friday 16 October to Monday 19 October. A total of 67 players will take part, split into forwards and backs, for positional meetings, on-field training, unit meetings, strength and conditioning work and educational workshops.",
+          "All nine of the RFU's Player Development Group sites are represented in the squad, which was named shortly after regional training earlier in October. Fourteen players are previously capped at U18 level, including Holly Bagnowiec, Zara Barringer and Charlie Williams. The group will regather in December for a three-day camp at Bisham Abbey National Sports Centre. Head coach James Cooper said the opening camp is a chance for players to showcase their abilities and embrace the standards of the England pathway."
+        ],
+        "is_article": true,
+        "copy": "The England Under-18 Women’s programme will start with a four-day camp at the University of Nottingham. Starting on Friday 16 October and concluding on Monday 19 October, 67 players will take part in the camp. Split into forwards and backs, the group will take part in positional meetings, on-field training sessions, unit meetings, strength and conditioning work and educational workshops.\n\nAll nine of the RFU’s Player Development Group sites are included in the squad – which has been named shortly after regional training earlier in October. Holly Bagnowiec, Zara Barringer, Scarlett Beech, Rosalyn Civil, Alice Fleming, Hannah Foley, Beth Hall, Mali Hill, Christal Koroiyadi, Eva Larkai, Isabella Lyndon, Maisie Trotman, Rowan Turney and Charlie Williams are all previously capped at U18 level.",
+        "first_seen": "2026-10-16T13:33:51.893324+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Struggling Harlequins get Los Pumas star back as 1 of 4 changes for Vannes",
+        "feed_link": "https://www.rugbypass.com/news/epcr-challenge-cup-struggling-harlequins-get-los-pumas-star-as-one-of-four-changes-for-vannes/",
+        "link": "https://www.rugbypass.com/news/epcr-challenge-cup-struggling-harlequins-get-los-pumas-star-as-one-of-four-changes-for-vannes/",
+        "published": "2026-10-16T12:57:37+00:00",
+        "published_label": "Fri 16 Oct, 12:57",
+        "summary": "Harlequins have welcomed back Argentina international Rodrigo Isgró as one of four changes to their starting XV for Sunday's EPCR Challenge Cup opener against RC Vannes at The Stoop.",
+        "id": "0e506416a4ec",
+        "bullets": [
+          "Harlequins have made four changes for Sunday's EPCR Challenge Cup opener against RC Vannes at The Stoop, with Argentina wing Rodrigo Isgró returning on the right flank. Head coach Jason Gilmore is looking to improve the Gallagher PREM side's season after a challenging start to the domestic campaign. Isgró joins captain Cadan Murley and full-back George Furbank in the back three, while Marcus Smith continues at fly-half alongside scrum-half Lucas Friday.",
+          "Former European champion Guido Petti Pagadizábal comes in at blindside flanker, and the front row is unchanged, with hooker Sam Riley having scored twice in last week's defeat to Sale Sharks. England Under-20 hooker Jimmy Staples is on the bench and in line for his European debut. Gilmore has again opted for a six-two bench split, and Elliot Williams is named in a senior matchday squad for the first time since pre-season."
+        ],
+        "is_article": true,
+        "copy": "PREM strugglers Harlequins have welcomed back Argentina international Rodrigo Isgró as one of four changes to their starting XV for Sunday’s EPCR Challenge Cup opener against RC Vannes at The Stoop.\n\nThe Gallagher PREM side will be aiming to kickstart their season after a challenging opening to the domestic campaign, with head coach Jason Gilmore making alterations to both his pack and backline ahead of the visit of the French outfit.",
+        "first_seen": "2026-10-16T13:33:51.893324+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
         "source": "Rugby Pass",
         "search": "Rugby Pass",
         "kind": "direct",
@@ -2888,7 +2991,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -5368,7 +5471,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -5408,7 +5511,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -5595,7 +5698,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -7563,6 +7666,48 @@
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "BBC Sport",
+        "search": "BBC Sport",
+        "kind": "direct",
+        "title": "Fading light halts play at India Championship",
+        "feed_link": "https://www.bbc.co.uk/sport/golf/articles/crd6dg4d51y0o?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/crd6dg4d51y0o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-16T13:10:16+00:00",
+        "published_label": "Fri 16 Oct, 13:10",
+        "summary": "Rory McIlroy among players impacted after the second round of the DP World India Championship is suspended because of fading light.",
+        "id": "920bb1ee91e9",
+        "bullets": [
+          "The second round of the DP World India Championship in New Delhi was suspended because of fading light, leaving a number of players, including Rory McIlroy, with rounds unfinished. Joost Luiten, Angel Hidalgo and Adrian Meronk finished their rounds and lead on eight under par, with Belgium's Thomas Detry also tied at the top despite having played only seven holes. England's Eddie Pepperell and Todd Clements completed 18 holes and sit one shot off the lead.",
+          "McIlroy is tied for 17th on four under after four holes of his second round, which began with an eagle, while Tommy Fleetwood and Robert MacIntyre are also on four under after four holes. Northern Ireland's Tom McKibbin fell to five under, three shots back, after seven holes. Heavy rain and thunderstorms had earlier suspended Thursday's opening round for five hours. The second round will resume at 02:45 BST on Saturday."
+        ],
+        "is_article": true,
+        "copy": "Rory McIlroy was one of a number of players impacted after the second round of the DP World India Championship was suspended because of fading light. England's Eddie Pepperell and Todd Clements are both one shot off the four-way tie for the lead as they completed their 18 holes in New Dehli.\n\nJoost Luiten, Angel Hidalgo and Adrian Meronk all finished their rounds and lead on eight under par, while Belgium's Thomas Detry is also tied at the top despite having his round cut short after seven holes.",
+        "first_seen": "2026-10-16T13:33:51.893324+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf.com",
+        "search": "Golf.com",
+        "kind": "direct",
+        "title": "2 more LIV players head for exit, eye DP World Tour futures",
+        "feed_link": "https://golf.com/news/2-more-liv-players-exit-eye-dp-world-tour/",
+        "link": "https://golf.com/news/2-more-liv-players-exit-eye-dp-world-tour/",
+        "published": "2026-10-16T12:46:06+00:00",
+        "published_label": "Fri 16 Oct, 12:46",
+        "summary": "New reports on Thursday added two LIV Golf pros to the growing list of pros fleeing the league: Thomas Pieters and Charles Howell III. The post 2 more LIV players head for exit, eye DP World Tour futures appeared first on Golf .",
+        "id": "3d9f32c71d39",
+        "bullets": [
+          "Thomas Pieters and Charles Howell III are reported to be leaving LIV Golf and seeking DP World Tour starts in 2027, according to reports from Flushing It Golf and Sports Business Journal's Josh A. Carpenter. They join Jon Rahm, David Puig, Abraham Ancer and Adrian Meronk among players who have confirmed their departures. The exits have accelerated since the DP World Tour announced that LIV players would be banned from its events next year.",
+          "Pieters won six DP World Tour titles before joining LIV ahead of 2023, most recently the 2022 Abu Dhabi HSBC Championship, and played in the 2016 European Ryder Cup team. Howell, ranked 510th in the world, has barely played on the DP World Tour and would need an invite, which prompted criticism from DP World Tour regular Joost Luiten. In a bankruptcy court filing on Wednesday, LIV's lawyers said a decision on LIV 2.0 or a wind-down is expected by the end of the month. LIV also rejected the contracts of 19 players, including Bryson DeChambeau."
+        ],
+        "is_article": true,
+        "copy": "LIV Golf has taken blow after blow in recent weeks as it races to secure its future. Since the start of its Chapter 11 bankruptcy hearings, the league has seen several pros abandon it.\n\nAfter the DP World Tour announced LIV players would be banned from its events next year, the departures accelerated. Most of those players are eyeing the DP World Tour for playing time in 2027, with the PGA Tour out of reach, for now.",
+        "first_seen": "2026-10-16T13:33:51.893324+00:00",
+        "summary_status": "done"
+      },
       {
         "section": "Golf",
         "source": "Today's Golfer",
@@ -9609,5 +9754,5 @@
       }
     ]
   },
-  "total": 476
+  "total": 483
 }
