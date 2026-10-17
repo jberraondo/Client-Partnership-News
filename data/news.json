@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T11:47:05.260652+00:00",
-  "generated_label": "Saturday 17 October 2026, 11:47 UTC",
+  "generated_at": "2026-10-17T12:26:22.374240+00:00",
+  "generated_label": "Saturday 17 October 2026, 12:26 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -103,7 +103,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-17T11:47:05.260652+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -143,6 +143,25 @@
         "first_seen": "2026-10-17T11:47:05.260652+00:00",
         "summary_status": "skipped",
         "skip_reason": "Weather/AI, not sport"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "search": "Financial Times",
+        "kind": "gnews",
+        "title": "An autumn adventure at a kasbah in the clouds",
+        "feed_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpakxjUkFCaFRzaVlVb0dQTmh3eEJTMkhNcldfaFVMUzFQWURCR2JZd3Ricll6aHFSbkFlTy13R043RWFpRTJkb2ZQZmxkOVNMTnhGLUdQd3RTSVV4TUsxNHhEc2tLMi1KeEVhbDgwNmo?oc=5",
+        "link": "https://www.ft.com/content/cd092bf2-2614-46cb-b024-7865ccc0a0cc",
+        "published": "2026-10-17T04:00:02+00:00",
+        "published_label": "Sat 17 Oct, 04:00",
+        "summary": "An autumn adventure at a kasbah in the clouds Financial Times",
+        "id": "44317466160e",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "travel feature, not sport"
       },
       {
         "section": "Wider Sports News",
@@ -2797,6 +2816,27 @@
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "England vow to respond after Canada end historic unbeaten streak",
+        "feed_link": "https://www.rugbypass.com/news/england-vow-to-respond-after-canada-end-historic-unbeaten-streak/",
+        "link": "https://www.rugbypass.com/news/england-vow-to-respond-after-canada-end-historic-unbeaten-streak/",
+        "published": "2026-10-17T11:59:50+00:00",
+        "published_label": "Sat 17 Oct, 11:59",
+        "summary": "Red Roses captain Megan Jones has sworn England will respond after their first defeat in 42 Tests matches.",
+        "id": "57e670ae4212",
+        "bullets": [
+          "Canada ended England's run of 42 Tests without defeat with a 24-21 win at Toronto's BMO Field in the WXV Global Series on Friday, England's first loss in almost four years. A second-half resurgence and a physical display from Kévin Rouet's side, backed by 18,621 supporters, beat their Women's Rugby World Cup 2025 final opponents.",
+          "The first Test of the three-match autumn series in Exeter finished 26-26, so England can now only draw the series. The teams meet again next Friday at Ottawa's TD Place, before England end their campaign against the USA at New Jersey's Sports Illustrated Stadium. Captain Megan Jones said the side would respond and that a team at the top always carries a target, while Mitchell said England had been asking someone to come and get them and must now reflect and respond."
+        ],
+        "is_article": true,
+        "copy": "Red Roses captain Megan Jones has sworn England will respond after their first defeat in 42 Tests matches. On Friday night, a second-half resurgence saw Canada end England’s four-year unbeaten streak with a 24-21 win at Toronto’s BMO Field in WXV Global Series action.\n\nA raucous home crowd set the scene in the second of three Tests the two teams are playing this autumn. The first game in Exeter ended 26-26, with England now only able to draw the series before ending their campaign at New Jersey’s Sports Illustrated Stadium against the USA Women’s Eagles.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "done"
+      },
       {
         "section": "Rugby",
         "source": "The Independent",
@@ -6031,6 +6071,69 @@
     "Racket": [
       {
         "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "title": "Sonay Kartal +120 in WTA Rankings as she makes history by reaching Wuhan Open final",
+        "feed_link": "https://www.tennis365.com/tennis-news/sonay-kartal-120-wta-rankings-makes-history-wuhan-open-final",
+        "link": "https://www.tennis365.com/tennis-news/sonay-kartal-120-wta-rankings-makes-history-wuhan-open-final",
+        "published": "2026-10-17T12:18:07+00:00",
+        "published_label": "Sat 17 Oct, 12:18",
+        "summary": "Kartal stunned Jelena Ostapenko to continue her remarkable run in Wuhan. The post Sonay Kartal +120 in WTA Rankings as she makes history by reaching Wuhan Open final appeared first on Tennis365 .",
+        "id": "592075da0703",
+        "bullets": [
+          "Sonay Kartal beat world No 34 Jelena Ostapenko 7-6(9), 7-6(5) in the Wuhan Open semi-finals on Saturday to reach the biggest final of her career at the WTA 1000 event. She recovered from a double break down at 1-4 in the first set and from 1-4 in the second, saving three set points in each set before winning both tie-breaks. She is the lowest-ranked player to reach a WTA 1000 final since the category was introduced in 1990.",
+          "The 24-year-old is ranked 170th and is competing on a protected ranking after missing more than six months through injury this year. Her run has earned 650 ranking points, taking her total to 1,097 and lifting her 120 places to world No 50 in the Live WTA Rankings. Her career-high ranking is 44th, reached in July 2025."
+        ],
+        "is_article": true,
+        "copy": "Sonay Kartal made history as she upset Jelena Ostapenko in an enthralling contest to reach the biggest final of her career at the 2026 Wuhan Open. The Brit prevailed 7-6(9), 7-6(5) over world No 34 Ostapenko in the semi-finals at the WTA 1000 tournament in China on Saturday.\n\nIn the first set, Kartal recovered from being a double break down at 1-4 and saved three set points before winning a pulsating tiebreak. Kartal was broken in the second game of the second set, but remarkably, she fought back from a 1-4 deficit again and survived three set points on her serve before sealing victory in the tiebreak.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
+        "source": "Sky Sports",
+        "search": "Sky Sports",
+        "kind": "gnews",
+        "title": "Sonay Kartal: British star digs deep to beat Jelena Ostapenko and secure a spot in her first-ever WTA 1000 final",
+        "feed_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMEpMemtSRnBJVFFaTXhsR1diQVNfeXhfQ0ZnZ0lieGJoY3V6T1lieEVwUm1CWWR3RUdndmlGVmZnNFJ3Nmh2NGMwaVV6X2hILVlTdlFTV0FOc3NxWU1rcDhfYjFmbmJ0eTVQWkRsVHoyYmNYSXU5S1RITkc1Z0VDdnQ1V2d5Q1UtZTUzLWRSNkRVcjZxY3E2M0xTcVhlTmxabjNPb1BaRXhwTmM5ZXNoVTZoc2hyMjloM3NIWmdZUDNiM0hJMjUwdmt1RWY3VUNPcnF6MW5GS2lJV1ExTE8wdlJpV1ZMdFE4RE12UU04NA?oc=5",
+        "link": "https://www.skysports.com/tennis/news/13600120/sonay-kartal-british-star-digs-deep-to-beat-jelena-ostapenko-and-secure-a-spot-in-her-first-ever-wta-1000-final",
+        "published": "2026-10-17T12:00:00+00:00",
+        "published_label": "Sat 17 Oct, 12:00",
+        "summary": "Sonay Kartal: British star digs deep to beat Jelena Ostapenko and secure a spot in her first-ever WTA 1000 final Sky Sports",
+        "id": "b80ba5b53c2b",
+        "bullets": [
+          "Britain's Sonay Kartal beat Jelena Ostapenko 7-6 (11-9) 7-6 (7-5) in the Wuhan Open semi-finals on Saturday to reach her first WTA 1000 final, becoming only the second British woman after Johanna Konta to do so. Ranked 170th, she is the lowest-ranked player to reach the final in Wuhan, despite Ostapenko hitting 50 winners. She will face either Iga Swiatek or Maja Chwalinska in the final on Sunday.",
+          "Kartal, 24, is playing only her third tournament since returning from a stress fracture in her back that kept her out for six months, including Wimbledon. Her run has included wins over Belinda Bencic, Jasmine Paolini and Elina Svitolina, and she will move inside the top 50 to become British No 1. She described the semi-final as one of the toughest matches she has played and one of her best mental performances."
+        ],
+        "is_article": true,
+        "copy": "Sonay Kartal defeats Jelena Ostapenko to reach her first-ever WTA 1000 final against former world No 1 Iga Swiatek or French Open finalist Maja Chwalinska; You can watch the WTA Wuhan Open final - live on Sky Sports on Sunday from 11.30am\n\nBritain's Sonay Kartal was forced to dig deep to beat Jelena Ostapenko and secure a spot in her first-ever WTA 1000 final on Saturday. Kartal became only the second British woman, after Johanna Konta (Beijing 2016, Miami 2017, Rome 2019), to reach a WTA 1000 final with a stunning 7-6 (11-9) 7-6 (7-5) victory over Ostapenko.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "title": "Alejandro Davidovich Fokina speaks out after stunning Alexander Zverev at Shanghai Masters",
+        "feed_link": "https://www.tennis365.com/tennis-news/alejandro-davidovich-fokina-speaks-stunning-alexander-zverev-shanghai-masters",
+        "link": "https://www.tennis365.com/tennis-news/alejandro-davidovich-fokina-speaks-stunning-alexander-zverev-shanghai-masters",
+        "published": "2026-10-17T11:45:31+00:00",
+        "published_label": "Sat 17 Oct, 11:45",
+        "summary": "Davidovich Fokina has spoken about his mindset change after upsetting Zverev. The post Alejandro Davidovich Fokina speaks out after stunning Alexander Zverev at Shanghai Masters appeared first on Tennis365 .",
+        "id": "8950421bbbfe",
+        "bullets": [
+          "Alejandro Davidovich Fokina beat world No 2 Alexander Zverev 5-7, 6-4, 6-3 in the Shanghai Masters semi-finals on Saturday. After being broken in the 11th game of the first set, the Spaniard lost only nine points on serve across the 10 service games he played in the second and third sets. He now trails Zverev 2-6 in their meetings.",
+          "The world No 26 has won nine of his last 10 matches, a run that began with his title at the ATP 250 event in Chengdu, and climbs 11 places to No 15 in the Live ATP Rankings. He will play either Daniil Medvedev or Rafael Jodar in the final, seeking a third ATP Tour title and a first Masters 1000 crown. He said his time out injured this summer had given him time to rethink, as he had previously not been enjoying tennis and had been very frustrated."
+        ],
+        "is_article": true,
+        "copy": "Alejandro Davidovich Fokina has spoken about how his mindset has changed after his stunning win against world No 2 Alexander Zverev at the 2026 Shanghai Masters. World No 26 Davidovich Fokina downed Zverev 5-7, 6-4, 6-3 in the semi-finals at the ATP Masters 1000 tournament in Shanghai on Saturday. He now holds a 2-6 record against Zverev\n\nAfter he was broken in the 11th game of the first set, Davidovich Fokina lost only nine points in the 10 service games he played across the second and third sets. The Spaniard has now won nine of his last 10 matches in a run that started with his title run at the ATP 250 event in Chengdu.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
         "source": "BBC Sport",
         "search": "BBC Sport",
         "kind": "direct",
@@ -6297,7 +6400,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-17T11:47:05.260652+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -6316,7 +6419,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-17T11:47:05.260652+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -6377,7 +6480,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-17T11:47:05.260652+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -6459,7 +6562,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-17T11:47:05.260652+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -8921,6 +9024,25 @@
       },
       {
         "section": "Golf",
+        "source": "Nacionale",
+        "search": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "Jon Rahm Forfeits £75 Million to Exit LIV Golf",
+        "feed_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1hWZk9YSmJGanlydmEyZlRFQUo1Ym9PdE8tVkgtdW53aHNyRXB1RE52bDNDWFo4N2hIQzZidlJsTmlDdDNEYTc3NnNkdTlfTk5zMjBoUkFjWlZNRHEwWm5QSmtMbEVFZi1qU2cyU3hfUlZGdjhfRlJIZEJEeUlsa1pWN1dFVFhCZFVR?oc=5",
+        "link": "https://www.nacionale.com/en/articles/jon-rahm-forfeits-75-million-to-exit-liv-golf",
+        "published": "2026-10-17T05:01:35+00:00",
+        "published_label": "Sat 17 Oct, 05:01",
+        "summary": "Jon Rahm Forfeits £75 Million to Exit LIV Golf Nacionale",
+        "id": "f82edcc9b65b",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
+      },
+      {
+        "section": "Golf",
         "source": "Golfmagic",
         "search": "HSBC golf watch",
         "kind": "gnews",
@@ -9043,6 +9165,67 @@
       },
       {
         "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "'He Wants To Get His $10m And Go Play In India'",
+        "feed_link": "https://www.golfmonthly.com/news/he-wants-to-get-his-usd10m-and-go-play-in-india-kevin-kisner-calls-out-rory-mcilroy-over-global-game-comments",
+        "link": "https://www.golfmonthly.com/news/he-wants-to-get-his-usd10m-and-go-play-in-india-kevin-kisner-calls-out-rory-mcilroy-over-global-game-comments",
+        "published": "2026-10-16T17:44:45+00:00",
+        "published_label": "Fri 16 Oct, 17:44",
+        "summary": "Kevin Kisner slammed Rory McIlroy's official reason for playing in India as a \"dog s*** comment\" while claiming he's only teeing it up in Delhi for a large appearance fee",
+        "id": "3a0591008fa1",
+        "bullets": [
+          "Kevin Kisner has criticised Rory McIlroy's stated desire to play a more global schedule, claiming on the Fore Play podcast that McIlroy is at this week's DP World India Championship in Delhi only to collect a reported $10m appearance fee. Kisner said McIlroy does not want to expand golf globally in India and just wants to get paid to play there. He also criticised Delhi Golf Club and the reported use of appearance fees on the DP World Tour.",
+          "The field in New Delhi includes Patrick Reed, Justin Rose, Tommy Fleetwood and Shane Lowry, and three of this year's four Major champions are playing: McIlroy, Ryan Fox and Aaron Rai. Only the Genesis Championship in Korea follows before the DP World Tour Play-Offs. Kisner noted McIlroy is not using his driver on the tight course, but he also admitted it was \"totally fine\" and that he and his podcast colleagues would do the same."
+        ],
+        "is_article": true,
+        "copy": "Kevin Kisner has hit out at Rory McIlroy's comments about wanting to play more global golf, claiming he's only at this week's DP World India Championship to collect a large appearance fee.\n\nAppearing on the Fore Play podcast, Kisner chimed in on the subject of McIlroy playing at the India Championship this week, mocking any notion of the Northern Irishman heading to Delhi for any other reason than money.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "3 Gear Changes That Helped Me Play My Best Golf In 2026 (As A High-Handicapper)",
+        "feed_link": "https://www.golfmonthly.com/features/3-gear-changes-best-golf-2026-high-handicapper",
+        "link": "https://www.golfmonthly.com/features/3-gear-changes-best-golf-2026-high-handicapper",
+        "published": "2026-10-16T16:30:59+00:00",
+        "published_label": "Fri 16 Oct, 16:30",
+        "summary": "In 2026, I've focused more on the gear and tech that could help me finally shake my high-handicapper status - these three changes could help you too...",
+        "id": "a628dc327ef1",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Before I get into the gear changes that have helped me to play my best golf in 2026, let me take you on a very, very short (I promise) jaunt through the torrid history of my golf.\n\nAfter taking up the game in my 30s, I started life as a pure beginner with many of the common faults that high-handicappers. While progress was made, thanks to a training programme that helped me drive the ball over 240 yards and shoot my best ever score, I still hadn’t been able to shake the high-handicapper tag despite trying tirelessly last year.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "personal gear feature, not sport business news"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "Patrick Reed Faces Anxious Wait On India Cut With Race To Dubai Lead In Jeopardy",
+        "feed_link": "https://www.golfmonthly.com/news/patrick-reed-faces-anxious-wait-on-india-cut-with-race-to-dubai-lead-in-jeopardy",
+        "link": "https://www.golfmonthly.com/news/patrick-reed-faces-anxious-wait-on-india-cut-with-race-to-dubai-lead-in-jeopardy",
+        "published": "2026-10-16T16:08:37+00:00",
+        "published_label": "Fri 16 Oct, 16:08",
+        "summary": "Patrick Reed faces a long wait to see if he'll make the cut at the DP World India Championship, which could cost him the Race To Dubai lead as rivals Rory McIlroy and Eugenio Chacarra are going well",
+        "id": "35bef69ef2b6",
+        "bullets": [
+          "Patrick Reed faces an anxious wait to learn whether he makes the cut at the DP World India Championship in New Delhi, which could cost him top spot in the Race to Dubai. He followed a first-round 75 with a 69 to stand on level par after 36 holes, one shot above the projected cut mark. A five-hour weather delay on Thursday left the event behind schedule, and play was suspended at 6pm local time on Friday, with the second round resuming at 6.45am on Saturday.",
+          "Reed has led the Race to Dubai since February, but Eugenio Chacarra is 165.73 points behind in second and Rory McIlroy 307.76 points back in third. Chacarra would need a solo top-six finish in Delhi to overtake Reed, while McIlroy would need a top-three finish. Reed is bidding to be the second American to win the title after Collin Morikawa in 2021, while McIlroy is chasing an eighth European No.1 title to equal Colin Montgomerie. The Race to Dubai will be decided in the Abu Dhabi and Dubai play-offs."
+        ],
+        "is_article": true,
+        "copy": "Patrick Reed faces a long and anxious wait to see if he will make the cut at the DP World Tour Championship, which could cost him top spot in the Race To Dubai standings. Reed has led the Race To Dubai since February but his challenge is faltering down the stretch with Eugenio Chacarra and Rory McIlroy in hot pursuit and both doing well in India.\n\nA five-hour weather delay in New Delhi on Thursday means the tournament is running way behind schedule so although Reed has completed two rounds both Chacarra and McIlroy still have plenty of their second rounds left to play.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
         "source": "Golfshake.com",
         "search": "HSBC golf watch",
         "kind": "gnews",
@@ -9085,6 +9268,46 @@
       },
       {
         "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "DP World Tour Play-Offs Set To Go Ahead As Planned",
+        "feed_link": "https://www.golfmonthly.com/news/dp-world-tour-play-offs-set-to-go-ahead-as-planned",
+        "link": "https://www.golfmonthly.com/news/dp-world-tour-play-offs-set-to-go-ahead-as-planned",
+        "published": "2026-10-16T14:14:47+00:00",
+        "published_label": "Fri 16 Oct, 14:14",
+        "summary": "The DP World Tour Play-Offs are set to go ahead in Abu Dhabi and Dubai as scheduled despite the ongoing tensions in the Middle East",
+        "id": "fe43ec390630",
+        "bullets": [
+          "The DP World Tour intends to stage its two Play-Offs events in Abu Dhabi and Dubai as scheduled next month, despite ongoing Middle East tensions and the Asian Tour's postponement of its season-ending PIF Saudi International. An attack on Riyadh airport contributed to that postponement, and the UAE suffered missile and drone attacks earlier this year amid the USA's conflict with Iran. A Tour spokesperson said it continues to monitor the situation and take advice from international travel advisors.",
+          "Matt Fitzpatrick initially said he was \"not comfortable\" travelling to the region before softening his stance and saying he would rely on the Tour. Rory McIlroy said local governments would not stage events if they believed people would be in harm's way. Open champion Ryan Fox said he trusts the Tour's due diligence but understands player reservations. The Race to Dubai title is being contested by Patrick Reed, McIlroy and Eugenio Chacarra."
+        ],
+        "is_article": true,
+        "copy": "The DP World Tour Play-Offs are set to go ahead as planned, despite the continuing tensions in the Middle East and the recent Asian Tour postponement in Saudi Arabia. A recent attack on Riyadh airport played a part in the Asian Tour's decision to postpone its season-ending PIF Saudi International event.\n\nPolitical tensions remain in the area due to the USA's conflict with Iran, which has seen the United Arab Emirates suffer missile and drone attacks earlier this year. The region is still on high alert but despite some initial concern from players, the DP World Tour is planning to stage the two play-off events in Abu Dhabi and Dubai after taking expert advice.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "How Golf Monthly's Gear Finder Tool Can Help Find Your Next Clubs",
+        "feed_link": "https://www.golfmonthly.com/news/how-golf-monthlys-gear-finder-tool-can-help-find-your-next-clubs",
+        "link": "https://www.golfmonthly.com/news/how-golf-monthlys-gear-finder-tool-can-help-find-your-next-clubs",
+        "published": "2026-10-16T13:32:39+00:00",
+        "published_label": "Fri 16 Oct, 13:32",
+        "summary": "Our new AI-driven Gear Finder Tool can help you choose your next set of clubs",
+        "id": "b58bfd009aa0",
+        "bullets": [],
+        "is_article": true,
+        "copy": "Introducing Golf Monthly’s Gear Finder Tool. With so much choice on the market, deciding what to buy can be confusing - even for experienced players. Thankfully, our new tool is extremely helpful to find the best options for your exact needs. Whether you hit the ball too low, struggle with a slice, want extra distance or are shopping on a tight budget, our new innovative Gear Finder can assist you.\n\nType a specific prompt into the search bar and the tool will use our reviews to recommend the gear that’s most likely to help your game. You simply use the search bar to put in a prompt, (you can be as vague or specific as you like), and the tool will deliver some recommendations to help you on your buying journey.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "promotional product page, not sport news"
+      },
+      {
+        "section": "Golf",
         "source": "BBC Sport",
         "search": "BBC Sport",
         "kind": "direct",
@@ -9102,6 +9325,27 @@
         "is_article": true,
         "copy": "Rory McIlroy was one of a number of players impacted after the second round of the DP World India Championship was suspended because of fading light. England's Eddie Pepperell and Todd Clements are both one shot off the four-way tie for the lead as they completed their 18 holes in New Dehli.\n\nJoost Luiten, Angel Hidalgo and Adrian Meronk all finished their rounds and lead on eight under par, while Belgium's Thomas Detry is also tied at the top despite having his round cut short after seven holes.",
         "first_seen": "2026-10-16T13:33:51.893324+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "PGA Tour Drops $4m Tournament Sponsor Facing Federal Fraud Allegations",
+        "feed_link": "https://www.golfmonthly.com/news/pga-tour-drops-usd4m-tournament-sponsor-facing-federal-fraud-allegations",
+        "link": "https://www.golfmonthly.com/news/pga-tour-drops-usd4m-tournament-sponsor-facing-federal-fraud-allegations",
+        "published": "2026-10-16T12:47:50+00:00",
+        "published_label": "Fri 16 Oct, 12:47",
+        "summary": "The new Myrtle Beach Classic tournament director says the 2027 event will go ahead as planned despite the PGA Tour cutting ties with troubled event sponsor ONEflight",
+        "id": "9abe9f3605c7",
+        "bullets": [
+          "The PGA Tour has severed ties with joint title sponsor ONEflight International, a Colorado-based luxury travel company facing several federal fraud lawsuits after it suddenly ceased operations in September. The 2027 Myrtle Beach Classic will go ahead as scheduled on 13-16 May at The Dunes Golf and Beach Club. Visit Myrtle Beach will continue as sole title sponsor, and there will be no change to the $4m purse.",
+          "ONEflight had put up half of the $4m purse and helped bring celebrities to the Wednesday Pro-Am. New tournament director Steve Mays, announced on Thursday, said the event would proceed as the Myrtle Beach Classic with Visit Myrtle Beach as title sponsor and would focus on the fan experience. Visit Myrtle Beach president Stuart Butler confirmed continued sponsorship. Brandt Snedeker is the defending champion after winning this year's event."
+        ],
+        "is_article": true,
+        "copy": "The 2027 Myrtle Beach Classic will take place as scheduled despite the PGA Tour severing ties with joint title sponsor ONEflight International. The PGA Tour has parted ways with the Colorado-based luxury travel company which is facing a number of federal fraud lawsuits after suddenly ceasing operations in September.\n\nBut although ONEflight has been dropped, the other co-main sponsor Visit Myrtle Beach will continue to support the event and there'll be no change to tournament prize money next year.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
         "summary_status": "done"
       },
       {
@@ -9165,6 +9409,48 @@
         "is_article": true,
         "copy": "Two more players have reportedly ruled out playing on LIV Golf 2.0, with both Thomas Pieters and Charles Howell III seemingly eyeing the DP World Tour next season. The current 25 October deadline is closing in for LIV Golf boss Scott O'Neil, and players are currently deciding if they're in or out for the new 2.0 version of the league.\n\nHowell III has been with LIV Golf from the very start in 2022 and played with Bryson DeChambeau's Crushers GC for the last four seasons. Belgian Pieters joined LIV in February 2023 and after initially playing for Bubba Watson's RangeGoats he moved to join Dustin Johnson at the 4Aces.",
         "first_seen": "2026-10-16T12:45:49.838048+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "Another Blow For LIV Golf With Two More Players Set To Leave",
+        "feed_link": "https://www.golfmonthly.com/news/another-blow-for-liv-golf-with-two-more-players-set-to-leave",
+        "link": "https://www.golfmonthly.com/news/another-blow-for-liv-golf-with-two-more-players-set-to-leave",
+        "published": "2026-10-16T11:48:07+00:00",
+        "published_label": "Fri 16 Oct, 11:48",
+        "summary": "With the deadline to sign players up approaching, LIV Golf has reportedly lost both Thomas Pieters and Charles Howell III with both men ruling out playing in 2.0",
+        "id": "d3848866c817",
+        "bullets": [
+          "Thomas Pieters and Charles Howell III have reportedly ruled out joining LIV Golf 2.0 and are targeting the DP World Tour in 2027. The league's 25 October deadline for players to commit is approaching. Howell III, 47, has been with LIV since 2022 and played for Crushers GC for four seasons, winning once in Mexico in 2023, per the SBJ's Josh Carpenter. Belgian Pieters, 34, joined in February 2023 and later moved to the 4Aces.",
+          "Neither player holds DP World Tour status, so both must rely on invitations or go through Qualifying School. Pieters is a six-time DP World Tour winner who went 4-1-0 on his Ryder Cup debut at Hazeltine in 2016, and played one Tour event this year, the Open de France. Howell III played the Alfred Dunhill Links Championship this year, only his second DP World Tour start outside Majors and WGC events."
+        ],
+        "is_article": true,
+        "copy": "Two more players have reportedly ruled out playing on LIV Golf 2.0, with both Thomas Pieters and Charles Howell III seemingly eyeing the DP World Tour next season. The current 25 October deadline is closing in for LIV Golf boss Scott O'Neil, and players are currently deciding if they're in or out for the new 2.0 version of the league.\n\nHowell III has been with LIV Golf from the very start in 2022 and played with Bryson DeChambeau's Crushers GC for the last four seasons. Belgian Pieters joined LIV in February 2023 and after initially playing for Bubba Watson's RangeGoats he moved to join Dustin Johnson at the 4Aces.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Golf",
+        "source": "Golf Monthly",
+        "search": "Golf Monthly",
+        "kind": "direct",
+        "title": "Recent Tour Winner Among Three First-Round Withdrawals From DP World India Championship",
+        "feed_link": "https://www.golfmonthly.com/news/grant-forrest-withdrawals-dp-world-india-championship",
+        "link": "https://www.golfmonthly.com/news/grant-forrest-withdrawals-dp-world-india-championship",
+        "published": "2026-10-16T11:15:06+00:00",
+        "published_label": "Fri 16 Oct, 11:15",
+        "summary": "Open de España winner Grant Forrest was one of three players to pull out of the DP World Tour event at Delhi Golf Club prior to the second round beginning",
+        "id": "8854cf1a81a6",
+        "bullets": [
+          "Recent Open de España winner Grant Forrest is one of three players to withdraw from the DP World India Championship before round two. A Tour spokesperson confirmed his withdrawal was due to injury, after he shot a six-over 78 on Thursday. It is the second time since August that he has pulled out of an event. His Madrid win ended a run of nine missed cuts in 12 starts and earned him places at the 2027 Masters and Open Championship.",
+          "England's Andy Sullivan, a four-time Tour winner, withdrew through illness after a seven-over 79. Australia's Anthony Quayle also withdrew through injury, having missed 16 cuts in 25 starts and sitting just inside the Race to Dubai top 150, with only the top 100 retaining full status. Niklas Norgaard of Denmark leads after a 66 (-6), in a round disrupted by storms that cost around five hours of play."
+        ],
+        "is_article": true,
+        "copy": "Recent Open de España champion Grant Forrest is one of three players to have withdrawn from this week's DP World India Championship prior to round two. Forrest completed a memorable victory in Madrid just days ago, bringing an end to a woeful run of form in 2026 which saw him miss nine of his previous 12 cuts before lifting the trophy.\n\nAs a result of his success, he earned spots at The Masters and The Open Championship in 2027 while securing his future at the top level for at least a couple more seasons. However, for the second time since August, Forrest ended up pulling out of a tour event.",
+        "first_seen": "2026-10-17T12:26:22.374240+00:00",
         "summary_status": "done"
       },
       {
@@ -11188,5 +11474,5 @@
       }
     ]
   },
-  "total": 553
+  "total": 567
 }
