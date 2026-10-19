@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T15:01:14.163548+00:00",
-  "generated_label": "Monday 19 October 2026, 15:01 UTC",
+  "generated_at": "2026-10-19T15:53:25.456054+00:00",
+  "generated_label": "Monday 19 October 2026, 15:53 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -10,28 +10,50 @@
     "Golf"
   ],
   "sections": {
-    "Competitor News": [
-      {
-        "section": "Competitor News",
-        "source": "CitiNewsroom.com",
-        "search": "Bank search",
-        "kind": "gnews",
-        "title": "Citi FM/Channel One TV, Ghana Eximbank explore Agrifair partnership",
-        "feed_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcW45VkxZbVloUUotOS1ZY3dIaUdEWlpCeWdzVGltaTBUMmlpZ0NvcGNBVWVjMG93WWpHbzVlVkZZTXFlMkRadE9xdkNGa0RVZDZlMFhBckN4N3RnaVpGU0c3UjB4cUI3aWg5aHByUTdMRFRjd01mXzE2MDZ2VkNUdms0WENnV3g4dTl2VXlGVDJPdGVNZFc4X2h4eHo3SUM5MDVsT0lvVQ?oc=5",
-        "link": "https://www.citinewsroom.com/2026/10/citi-fm-channel-one-tv-ghana-eximbank-explore-agrifair-partnership/",
-        "published": "2026-10-12T15:46:31+00:00",
-        "published_label": "Mon 12 Oct, 15:46",
-        "summary": "Citi FM/Channel One TV, Ghana Eximbank explore Agrifair partnership CitiNewsroom.com",
-        "id": "f7b0c4bbec83",
-        "bullets": [],
-        "is_article": true,
-        "copy": "Management of Citi FM/Channel One TV, led by Managing Director Samuel Attah-Mensah, has paid a courtesy visit to Ghana Eximbank to explore areas of collaboration ahead of the 2026 Agrifair.\n\nThe engagement is aimed at strengthening support for farmers, agribusinesses and small and medium-sized enterprises (SMEs), while creating opportunities to connect agricultural producers with markets, consumers and potential investors.",
-        "first_seen": "2026-10-12T17:52:23.105127+00:00",
-        "summary_status": "skipped",
-        "skip_reason": "not a bank sport/arts sponsorship deal"
-      }
-    ],
+    "Competitor News": [],
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "kind": "gnews",
+        "title": "Insight in as Las Vegas Grand Prix sponsor",
+        "feed_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vMWZLQ3I1bWdjbHVpcVd4d2w0N1ZyNUxaZldOTnZoUzVIWmtiQmJjQklhMjU4U0pJdWZ0Y0xKT0dsRGtldllNbFR2WUY0aFhyemoybGZhU0lyanNTX0xnSG8xQkxsUWc1b2FCbG96a3dYSXdEUVpxTHdLcHA4Zw?oc=5",
+        "link": "https://www.sportcal.com/news/insight-in-as-las-vegas-grand-prix-sponsor/",
+        "published": "2026-10-19T15:23:24+00:00",
+        "published_label": "Mon 19 Oct, 15:23",
+        "summary": "Insight in as Las Vegas Grand Prix sponsor Sportcal",
+        "id": "410b8c4ec160",
+        "bullets": [
+          "Insight Enterprises, an Arizona-headquartered IT solutions firm, has become the official technology lifecycle management partner of the Las Vegas Grand Prix, which takes place this year on 21 November. Insight plans to use the association to deepen relationships with existing clients through \"premium experiences\".",
+          "The Las Vegas Grand Prix will stay on the Formula 1 calendar until at least 2037 after a 10-year extension announced earlier this year. In late June, Japanese financial services group SBI Holdings joined as presenting partner for the event's media operations. The race has operated separately from F1 since the project began in early 2022, with the first race held in 2023, and Heineken has been title sponsor since its inception."
+        ],
+        "is_article": true,
+        "copy": "The organizers of the Las Vegas Grand Prix, from motor racing's iconic Formula 1 (F1), have brought in a new event sponsor – IT technology solutions brand Insight Enterprises.\n\nThrough a tie-up unveiled today, Insight – which has its global headquarters in Arizona – will serve as the official technology lifecycle management partner of the Grand Prix, which this year will take place on November 21.",
+        "first_seen": "2026-10-19T15:53:25.456054+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "kind": "gnews",
+        "title": "Iren enters soccer with Real Madrid deal",
+        "feed_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NOC04eTFQdTRXaDNsY2dzZnF1US1ISzZhUGtRelBJOE9MVERVMEVIWThJV0xOei1kUmdyQ19pZ0d1RkZxZnpsTFVkYy1sN2JXY25Hd3lYYU95dFBZQ2dsQnJOUzNRRGZvRWhmQ0NFM01vRXVTVG8zVEZrWQ?oc=5",
+        "link": "https://www.sportcal.com/news/iren-enters-soccer-with-real-madrid-deal/",
+        "published": "2026-10-19T15:23:23+00:00",
+        "published_label": "Mon 19 Oct, 15:23",
+        "summary": "Iren enters soccer with Real Madrid deal Sportcal",
+        "id": "8cff1ecfbda3",
+        "bullets": [
+          "AI cloud computing firm Iren has agreed its first sponsorship deal in soccer, becoming a global sponsor and official AI cloud partner of LaLiga club Real Madrid. The partnership will focus on community engagement, technical innovation and digital transformation.",
+          "The deal follows Iren's move into the Spanish market through its acquisition of data-centre developer Nostrum Group, which brought around 490 megawatts of secured power. Iren became the primary jersey patch sponsor of the NBA's Golden State Warriors in June, replacing Rakuten, in a deal reportedly worth around $50m a year. Real Madrid recently added Uber Eats as a partner on a three-season deal."
+        ],
+        "is_article": true,
+        "copy": "AI cloud computing firm Iren has agreed its first sponsorship deal in soccer, partnering with Spanish heavyweights Real Madrid. Through the agreement, the company becomes a global sponsor of the LaLiga club and its official AI cloud partner.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. The deal comes after Australia-based Iren recently made a major move into the Spanish market by acquiring data-center developer Nostrum Group, which brought approximately 490 megawatts of secured power.",
+        "first_seen": "2026-10-19T15:53:25.456054+00:00",
+        "summary_status": "done"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sportcal",
@@ -172,7 +194,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -191,7 +213,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -252,7 +274,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -271,7 +293,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -2652,29 +2674,72 @@
         "first_seen": "2026-10-12T17:11:55.010181+00:00",
         "summary_status": "skipped",
         "skip_reason": "luxury business, not sport"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sportcal",
-        "kind": "gnews",
-        "title": "Bayern Munich and fintech partner Adyen renew partnership",
-        "feed_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWNhYktBeUl0bzlqRHpzX3RSLUVZOElZelp2MzdUSWM1Ry1ONlNQUTdNX05odmVYUlF4OVNIZ2t4MEZ6VWpqaWNfWV9DdlZSaVU4cW1GVmdVNVNWQ3dlYThjcXZjTHk2Wmsxd3hHdG9KMWp4bnlTTnljeGtYdk5ycGU1eTlUS3R0N0VUMjVuR1JkQQ?oc=5",
-        "link": "https://www.sportcal.com/news/bayern-munich-and-fintech-partner-adyen-renew-partnership/",
-        "published": "2026-10-12T15:21:13+00:00",
-        "published_label": "Mon 12 Oct, 15:21",
-        "summary": "Bayern Munich and fintech partner Adyen renew partnership Sportcal",
-        "id": "748973ad605b",
-        "bullets": [
-          "Amsterdam-based fintech Adyen has renewed its sponsorship of Bayern Munich and remains the club's exclusive payment solutions partner. The company has handled payment processing at all of Bayern's points of sale for the past three years, including purchases at the roughly 75,000-capacity stadium in Munich and at official club retail outlets. The length of the renewed deal was not stated.",
-          "The original agreement began in mid-2023 and is estimated by GlobalData Sport to be worth $1.5 million a year. The renewal came five matchdays into the 2026-27 Bundesliga season, with Bayern third in the table after three wins from five games. Bayern recently extended its partnership with Ursapharm for three years, keeping the Hylo brand as a gold partner until 2029, and added AI firm Wonderful as a club partner in August."
-        ],
-        "is_article": true,
-        "copy": "Financial technology platform Ayden will continue as a sponsor of Bayern Munich after extending its deal with the German soccer heavyweights. Through the renewal, unveiled today, Amsterdam-based Adyen will remain the team's exclusive payment solutions partner.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. The Bundesliga champions have had a partnership in place with the company since 2023, through which the brand has been managing Bayern's payment processing across all points of sale for the last three years.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Newcastle Red Bulls: Sale game is 'battle of North' even though Sharks 'really' midlands",
+        "feed_link": "https://www.rugbypass.com/news/dan-mcfarland-red-bulls-versus-sale-is-battle-of-north-even-though-sharks-really-chesire/",
+        "link": "https://www.rugbypass.com/news/dan-mcfarland-red-bulls-versus-sale-is-battle-of-north-even-though-sharks-really-chesire/",
+        "published": "2026-10-19T15:34:50+00:00",
+        "published_label": "Mon 19 Oct, 15:34",
+        "summary": "Newcastle Red Bulls boss Dan McFarland says his side has their sights set on breaking their duck for the season and becoming Kings of the North by beating Sale Sharks on Friday night.",
+        "id": "3615be03c523",
+        "bullets": [
+          "Newcastle Red Bulls head coach Dan McFarland says his side are aiming to secure their first win of the Gallagher PREM season against Sale Sharks on Friday night. Newcastle and Harlequins are the only winless teams, and four bonus points from the opening three games keep Newcastle off the foot of the table, five points behind seventh-placed Sale.",
+          "McFarland described the fixture as a \"battle for the North\", even though he said Sale are really in Cheshire, \"sort of the Midlands\". He acknowledged Sale have held primacy in recent years and have recruited well. Newcastle won 45-42 in May after recovering from 35-10 down, only their second win since 2 January. McFarland said the team is starting at the back of the grid but wants to pick off those ahead."
+        ],
+        "is_article": true,
+        "copy": "Newcastle Red Bulls boss Dan McFarland says his side has their sights set on breaking their duck for the season and becoming Kings of the North by beating Sale Sharks on Friday night.\n\nThe Red Bulls and Harlequins are the only two teams in the Gallagher PREM without a win this season, and the four bonus points they took in the opening three games are keeping them off the foot of the table.",
+        "first_seen": "2026-10-19T15:53:25.456054+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Nomadic Tommaso Allan has his sights set on playing in Australia next year",
+        "feed_link": "https://www.rugbypass.com/news/nomadic-tommaso-allan-has-his-sights-set-on-playing-in-australia-next-year/",
+        "link": "https://www.rugbypass.com/news/nomadic-tommaso-allan-has-his-sights-set-on-playing-in-australia-next-year/",
+        "published": "2026-10-19T15:21:49+00:00",
+        "published_label": "Mon 19 Oct, 15:21",
+        "summary": "At 33, the utility back is intent on enjoying whatever the future holds.",
+        "id": "af4a8f10bbbf",
+        "bullets": [
+          "Italy utility back Tommaso Allan, 33, has returned to his homeland by signing for Zebre Parma in the BKT URC, hoping the move will help him reach a fourth World Cup in Australia in just under a year. He has 91 caps and 552 points for Italy, making him the country's highest points scorer in both the Six Nations and the World Cup.",
+          "Born in Vicenza, Allan moved to England aged eight and played for Henley RFC and the Wasps Academy before joining Western Province in South Africa. He later played for Perpignan, Benetton and Harlequins, then returned to Perpignan before joining Zebre this summer. He has played at 10 and 15 for Zebre, whose next game is at Connacht on Friday. Allan said he is unsure how many years he has left but is enjoying a leadership role."
+        ],
+        "is_article": true,
+        "copy": "After more than a decade of rugby wandering, Tommaso Allan is back in his homeland and determined to make the most of however long he has left in his career. Over the years, he has had spells playing in South Africa, France and England, as well as in his native Italy, while his 91 caps for the Azzurri have taken him around the world.\n\nNow he has returned to the country of his birth by signing for Zebre Parma which means yet more border-hopping through being part of the multi-nation BKT URC. He is hoping the move will help him achieve his dream of playing in a fourth World Cup with a trip to Australia on the horizon in just under a year’s time.",
+        "first_seen": "2026-10-19T15:53:25.456054+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Leinster issue worrying injury update on Ireland No.8 Jack Conan",
+        "feed_link": "https://www.rugbypass.com/news/leinster-issue-worrying-injury-update-on-ireland-no-8-jack-conan/",
+        "link": "https://www.rugbypass.com/news/leinster-issue-worrying-injury-update-on-ireland-no-8-jack-conan/",
+        "published": "2026-10-19T15:13:07+00:00",
+        "published_label": "Mon 19 Oct, 15:13",
+        "summary": "Leinster have confirmed that Ireland international Jack Conan has suffered a shoulder injury, casting fresh doubt over the province's back-row resources after Caelan Doris was already ruled out with a long-term foot and knee issue.",
+        "id": "63059c9ab465",
+        "bullets": [
+          "Leinster have confirmed that Ireland and British & Irish Lions No.8 Jack Conan suffered a shoulder injury in their 48-23 Investec Champions Cup Round 1 win over Clermont at Stade Marcel-Michelin. He was hurt while scoring a second-half try, and the province said he needs further assessment without giving a timeframe.",
+          "Caelan Doris is already out with a long-term foot and knee issue, leaving Leinster short in the back row. Jordan Larmour needs further assessment on a calf problem, and Hugh Cooney suffered a hand injury in the A game against Edinburgh. Leinster came back from 16-15 down at half-time by scoring 33 second-half points to secure a bonus-point win, and face Munster in the URC at the Aviva Stadium this weekend."
+        ],
+        "is_article": true,
+        "copy": "Leinster have confirmed that Ireland international Jack Conan has suffered a shoulder injury, casting fresh doubt over the province’s back-row resources after Caelan Doris was already ruled out with a long-term foot and knee issue.\n\nConan was injured while scoring a crucial second-half try during Leinster’s impressive 48-23 Investec Champions Cup Round 1 victory over Clermont ASM at Stade Marcel-Michelin.",
+        "first_seen": "2026-10-19T15:53:25.456054+00:00",
+        "summary_status": "done"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -6452,26 +6517,6 @@
         "first_seen": "2026-10-12T17:11:55.010181+00:00",
         "summary_status": "skipped",
         "skip_reason": "podcast audio page, not a news article"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "kind": "direct",
-        "title": "Italy name 30-player squad for WXV Global Series tour of USA",
-        "feed_link": "https://www.rugbypass.com/news/italy-name-30-player-squad-for-wxv-global-series-tour-of-usa/",
-        "link": "https://www.rugbypass.com/news/italy-name-30-player-squad-for-wxv-global-series-tour-of-usa/",
-        "published": "2026-10-12T15:16:36+00:00",
-        "published_label": "Mon 12 Oct, 15:16",
-        "summary": "Italy head coach Plinio Sciamanna has named a 30-player squad to tour the USA for Test matches against the Women's Eagles.",
-        "id": "f1d7983554be",
-        "bullets": [
-          "Italy coach Plinio Sciamanna has named a 30-player squad for two WXV Global Series Tests against the USA Women's Eagles. The first is this weekend in Mansfield, Texas, where Michela Sillari could win her 100th cap if she makes the matchday 23. The second is a week later in Nashville, Tennessee, and Vittoria Ostuni Minuzzi captains the squad.",
-          "The squad includes Sofia Stefan (108 caps), Beatrice Rigoni (88) and Elisa Giordano (84), plus three uncapped players: Silvia Fent and Mascia Jelic of Benetton Rugby Treviso, and Toulon's Rubina Grassi. Silvia Turani is out of the tour with a knee injury. In September's home fixtures, Italy beat Japan 55-21 and lost 41-29 to South Africa."
-        ],
-        "is_article": true,
-        "copy": "Italy head coach Plinio Sciamanna has named a 30-player squad to tour the USA for two Test matches against the Women’s Eagles. The squad includes Michela Sillari, who could earn her 100th Italy cap this weekend in Mansfield, Texas, if selected in the matchday 23. Italy will face the Eagles again a week later in Nashville, Tennessee.\n\nSciamanna has selected a highly experienced squad for the October WXV Global Series fixtures, with Elisa Giordano (84 caps), Beatrice Rigoni (88 caps) and Sofia Stefan (108 caps) among those included.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
       }
     ],
     "Racket": [
@@ -6494,6 +6539,27 @@
         "is_article": true,
         "copy": "The European Circuit heads to Greece this week. Pyrgos hosts the Hellas International 2026, a Future Series tournament taking place from 20 to 23 October. Denmark’s Christopher Vittoriani is the top seed in men’s singles, while Bulgaria’s Gergana Pavlova leads the way in women’s singles.\n\nIn men’s doubles, Belgian brothers Iljo van Delsen/Yaro van Delsen go in as the pair to beat. The Maldives arrive with the top seeds in both remaining doubles events: Aminath Nabeeha Abdul Razzaq/Fathimath Nabaaha Abdul Razzaq head the women’s doubles draw, and Fathimath Nabaaha Abdul Razzaq also leads the mixed doubles seeding with Hussein Shaheed.",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "title": "Elena Rybakina outlines her main WTA Tour goal for the rest of the 2026 season",
+        "feed_link": "https://www.tennis365.com/tennis-news/elena-rybakina-wta-tour-goal-2026-season",
+        "link": "https://www.tennis365.com/tennis-news/elena-rybakina-wta-tour-goal-2026-season",
+        "published": "2026-10-19T14:30:52+00:00",
+        "published_label": "Mon 19 Oct, 14:30",
+        "summary": "Rybakina is set for Ningbo Open action. The post Elena Rybakina outlines her main WTA Tour goal for the rest of the 2026 season appeared first on Tennis365 .",
+        "id": "961aec84d59b",
+        "bullets": [
+          "World No 1 Elena Rybakina has said her main goal for the rest of the 2026 season is to finish the year as number one, while managing her health and fitness. She has not won a match since lifting the US Open title in September, losing her opening match at the China Open to Alina Charaeva. She faces the winner of Cristina Bucsa and Polina Kudermetova in the second round of the Ningbo Open.",
+          "Rybakina will then defend her WTA Finals title, which she won by beating Jessica Pegula and Aryna Sabalenka in the knockout rounds. No player has won back-to-back titles since Serena Williams in 2013 and 2014. This year's event is at Indian Wells, moving from Riyadh, from 8 to 15 November. Gauff, Sabalenka, Andreeva, Noskova, Svitolina and Pegula have also qualified."
+        ],
+        "is_article": true,
+        "copy": "Elena Rybakina has undoubtedly been the best player on the WTA Tour this year stastically, but she has produced some strange performances and endured some strange results. The star is yet to taste victory since lifting the US Open title in September, having lost her opening round match at the China Open to Alina Charaeva.\n\nThat was not the only early exit Rybakina has suffered in 2026 either, as she was beaten in the opening round of the Berlin Open and the second round of Roland Garros. Rybakina is looking to return to winning ways at the Ningbo Open, which is the penultimate WTA 500 tournament of the 2026 season.",
+        "first_seen": "2026-10-19T15:53:25.456054+00:00",
         "summary_status": "done"
       },
       {
@@ -6533,8 +6599,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "title": "Carlos Alcaraz’s next Davis Cup coach confirmed after David Ferrer’s departure",
+        "feed_link": "https://www.tennis365.com/tennis-news/carlos-alcarazs-davis-cup-coach-confirmed",
+        "link": "https://www.tennis365.com/tennis-news/carlos-alcarazs-davis-cup-coach-confirmed",
+        "published": "2026-10-19T13:30:11+00:00",
+        "published_label": "Mon 19 Oct, 13:30",
+        "summary": "It's someone Carlos Alcaraz knows well. The post Carlos Alcaraz’s next Davis Cup coach confirmed after David Ferrer’s departure appeared first on Tennis365 .",
+        "id": "7a4e4f415abb",
+        "bullets": [
+          "David Ferrer has announced that the 2026 Davis Cup will be his last as Spain captain after four years in charge, citing solely personal reasons and a desire to start a new stage. Marc Lopez, already part of the Spain Davis Cup setup, will take over the team from 2027.",
+          "Spain have not won the Davis Cup under Ferrer, but are among the favourites at this year's Finals in Bologna from 24 to 29 November, where they will compete against South Korea, Germany, Great Britain, Italy, Austria, Czech Republic and Canada. Alejandro Davidovich Fokina and Rafael Jodar, who both reached the Shanghai Masters final, are in contention for selection alongside Carlos Alcaraz, Marcel Granollers and Pedro Martinez. Spain last won the title in 2019."
+        ],
+        "is_article": true,
+        "copy": "David Ferrer confirmed the 2026 Davis Cup would be his final year in charge of Spain after four years in charge. “I wanted to announce that this will be my last year as Davis Cup captain, giving up the year 2027. I want to thank the RFET for the opportunity it gave me to fulfil one of my dreams, which is to be able to be Davis Cup captain of my country,” said Ferrer in a social media post.\n\n“I also want to thank all the players and all the people who have accompanied me during this adventure. It has been a privilege to share this journey with all of them. The reasons for this decision are solely personal and respond to the desire to be able to start a new stage.",
+        "first_seen": "2026-10-19T15:53:25.456054+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Racket",
@@ -6552,7 +6639,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -6634,7 +6721,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -6859,7 +6946,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -7042,7 +7129,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -9966,86 +10053,6 @@
         "copy": "Carlos Alcaraz fell to a surprise third round defeat to Zizou Bergs at the Shanghai Masters. The Spaniard struggled with the conditions in Shanghai against Bergs and the Belgian ultimately made him pay to race to a 7-5, 7-6 victory at the Masters tournament.\n\nAlcaraz complained about the quality of the balls in Shanghai during a passion rant to his coach, Samuel Lopez, during the first set of the match. That wasn’t the only aspect of the match he was unhappy with either, as he was asked about the quickness of the court at the tournament after his match.",
         "first_seen": "2026-10-12T17:11:55.010181+00:00",
         "summary_status": "done"
-      },
-      {
-        "section": "Racket",
-        "source": "Tennis365",
-        "kind": "direct",
-        "title": "Alex Eala ranking points and prize money after Wuhan Open setback",
-        "feed_link": "https://www.tennis365.com/tennis-news/alex-eala-ranking-points-prize-money-wuhan-open-setback",
-        "link": "https://www.tennis365.com/tennis-news/alex-eala-ranking-points-prize-money-wuhan-open-setback",
-        "published": "2026-10-12T15:39:21+00:00",
-        "published_label": "Mon 12 Oct, 15:39",
-        "summary": "Alex Eala's form continues to take a nosedive. The post Alex Eala ranking points and prize money after Wuhan Open setback appeared first on Tennis365 .",
-        "id": "000e67271dcf",
-        "bullets": [
-          "Alex Eala lost 6-4, 3-6, 3-6 to world No 201 Han Shi, who came through qualifying, in the first round of the Wuhan Open on Monday 12 October, losing seven games in a row after taking the first set. The exit earns her 10 ranking points and $18,300 (£13,854). Her live ranking is world No 19 on 2,241 points, and she is 18th in the WTA Race on 2,151.",
-          "Eala, 21, has won few matches since losing to Iva Jovic in the third round of the US Open in September, and has a 40-23 record for 2026, including her first WTA title at the Washington Open. She is out of contention for the WTA Finals in Indian Wells in November but can still finish the year in the top 20. Her next event is likely the WTA 500 in Ningbo, which starts the following Monday."
-        ],
-        "is_article": true,
-        "copy": "Alex Eala’s recent struggles continued after she was dumped out of the Wuhan Open by world No 201 Han Shi in the first round. The 21-year-old has found wins hard to come by since her third-round loss to Iva Jovic at the US Open in September. The left-hander lost her opener at the Singapore Open to Tatiana Prozorova, who at the time was ranked 180th in the world.\n\nDespite being the heavy favourite for the gold medal at the Asian Games, Eala then lost in the semi-finals to Wang Xiyu, and now, she has lost again, this time in Wuhan on Monday.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "Racket",
-        "source": "BWF watch",
-        "kind": "gnews",
-        "title": "World Juniors: ‘Ukrainian Badminton is Still Alive’",
-        "feed_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEJLYzdIN1ZsMktFMGZRNngzNzlhOUc5X3p0VlJ3alNRZWcyd2k2RFRnT09meWY3Q0pFSUxjWV9WSU1KY0tTc2RvbEk5NURueEY0a0loM3ZQMzVtNjlyLVhBbVVZenZ6MTBIRlBxcjQyQXZLSTRxTlhseVZKT1FtSXZUQW5ITkRuTEFOcml3M092eDBLLV90RzI0VjJGZw?oc=5",
-        "link": "https://bwfbadminton.com/news-single/2026/10/12/world-juniors-ukrainian-badminton-is-still-alive/",
-        "published": "2026-10-12T15:35:48+00:00",
-        "published_label": "Mon 12 Oct, 15:35",
-        "summary": "World Juniors: ‘Ukrainian Badminton is Still Alive’ BWF",
-        "id": "cb1001bc9275",
-        "bullets": [
-          "Ukraine's Raiia Almalalha, seeded No.11, opened her first BWF World Junior Championships 2026 with a quick first-round win over Cyprus's Vasilia Demetriou. The 18-year-old won the women's singles title at the European Junior Championships in August, only the second time Ukraine has won a medal at that event.",
-          "Almalalha has trained with the Czech national team for the last four years and spent two weeks at home in Ukraine after the European title, where she said she could hear bombs and drones at night. She said it is impossible to practise in Ukraine now, especially in her home city, and that she wants to show that Ukrainian badminton is still alive."
-        ],
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "Racket",
-        "source": "Tennis365",
-        "kind": "direct",
-        "title": "Carlos Alcaraz opens up on ‘negative thoughts’ after surprise Shanghai Masters defeat",
-        "feed_link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-negative-thoughts-surprise-shanghai-open-defeat",
-        "link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-negative-thoughts-surprise-shanghai-open-defeat",
-        "published": "2026-10-12T15:30:49+00:00",
-        "published_label": "Mon 12 Oct, 15:30",
-        "summary": "\"I just made a lot of unforced errors.\" The post Carlos Alcaraz opens up on ‘negative thoughts’ after surprise Shanghai Masters defeat appeared first on Tennis365 .",
-        "id": "f559919c845a",
-        "bullets": [
-          "Carlos Alcaraz lost 7-5, 7-6(4) to 27-year-old Belgian Zizou Bergs in the third round of the Shanghai Masters on Monday at the Qizhong Forest Sports City Arena. Bergs served for the match at 6-5 in the second set, was broken back, then won the tiebreak. Alcaraz hit 16 winners and 27 unforced errors, and won 21 per cent of first-serve return points.",
-          "The world No 3 had won the ATP 500 event in Tokyo the previous week, his first title since returning from a wrist injury that kept him out for more than four months. Afterwards he said his mind was full of negative thoughts and that he was unhappy with almost everything about his play. He plans to review the match with his coach and team, and remains optimistic about the rest of the season."
-        ],
-        "is_article": true,
-        "copy": "Carlos Alcaraz says it is “really difficult” to take any positives from his straight-set loss to Zizou Bergs at the Shanghai Masters. After winning his first title since returning from a wrist injury at the Japan Open last week, Alcaraz was much more sluggish against an inspired Bergs on Monday.\n\nThe Belgian was not overawed by the occasion and closed out a 7-5, 7-6 (4) third-round victory. The 27-year-old served for the match at 6-5 but was broken back immediately to set up a tiebreak.",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "Racket",
-        "source": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Emma Raducanu falls out of the top 100 for the first time in over two years",
-        "feed_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON3pPMlZMWXd6c1NjQl91NXZVcVFVNzQ3ZmxNeTJUY3hVd29ZUTJ0UWFfUElLUGZpNEN3MktaeGE4VkE0cXlOUUFEMFFqZkVUUXIxRG9iYnROWDFZNnZ3eU9LQTZrYWFMeG85S0k5Zk1lTnQwRWFuNUNwdk5tc0U3UXBuWTZVRk1BWF8zNQ?oc=5",
-        "link": "https://en.tennistemple.com/actu/emma-raducanu-falls-out-of-the-top-100-for-the/uJvR",
-        "published": "2026-10-12T15:03:16+00:00",
-        "published_label": "Mon 12 Oct, 15:03",
-        "summary": "Emma Raducanu falls out of the top 100 for the first time in over two years TennisTemple",
-        "id": "13477e82c999",
-        "bullets": [
-          "Emma Raducanu has dropped out of the world's top 100 for the first time in more than two years, ending a run that began in July 2024. She suffered a stress fracture in her right shin just before Wimbledon. The 23-year-old was ranked 24th in March and is now third among British women, behind Katie Boulter (54th) and Francesca Jones (104th).",
-          "Raducanu reached the Queen's final in June, earning 335 ranking points. She is absent from the entry lists of the season's final tournaments and is not expected to return before 2027, which would allow her to use a protected ranking, available after at least six months away from the tour. The Telegraph tried to contact her team for an update without success."
-        ],
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
       }
     ],
     "Golf": [
@@ -10229,7 +10236,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -10269,7 +10276,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-19T15:01:14.163548+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -12843,48 +12850,8 @@
         "copy": "Which players are leaving LIV Golf? And who is sticking around for the league’s 2.0 era? This is everything you need to know… The deadline for LIV Golf players to decide whether they will stick or twist is almost here.\n\nThe league has until October 25 to convince key names to sign up for the new iteration of the league ahead of a possible $300 million investment from credit firm BC Partners. And it is crucial that the league persuades some big hitters to stay for its relaunch. But the DP World Tour’s move to reject memberships for players who hope to sign up to LIV 2.0 has made LIV’s prospects a whole lot more difficult.",
         "first_seen": "2026-10-12T17:11:55.010181+00:00",
         "summary_status": "done"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf.com",
-        "kind": "direct",
-        "title": "DP World Tour bans LIV Golf players for 2027, ending their Ryder Cup eligibility",
-        "feed_link": "https://golf.com/news/dp-world-tour-bans-liv-golf-ends-ryder-cup-eligibility/",
-        "link": "https://golf.com/news/dp-world-tour-bans-liv-golf-ends-ryder-cup-eligibility/",
-        "published": "2026-10-12T15:26:17+00:00",
-        "published_label": "Mon 12 Oct, 15:26",
-        "summary": "DP World Tour CEO Guy Kinnings told BBC Sport that players who participate in LIV Golf 2.0 won't be allowed to play on the European circuit. The post DP World Tour bans LIV Golf players for 2027, ending their Ryder Cup eligibility appeared first on Golf .",
-        "id": "720a892ebace",
-        "bullets": [
-          "DP World Tour CEO Guy Kinnings told BBC Sport that the European circuit will no longer grant conditional releases to LIV players in 2027, saying \"players need to make a choice\". The earlier agreements, which let players such as Jon Rahm and Tyrrell Hatton keep their Ryder Cup eligibility, applied only to the 2026 season. Players will now be asked to disclose which tours they intend to play, and any who sign a deal and then play LIV would have their membership terminated.",
-          "The deadline to apply for DP World Tour membership is 16 November, while players must commit to LIV Golf 2.0 by 25 October. LIV filed for Chapter 11 bankruptcy in September after Saudi Arabia's Public Investment Fund withdrew funding, and BC Partners has since agreed to back the relaunch as part of a targeted $300 million in cumulative financing, subject to court approval. The ban comes as the DP World Tour renegotiates its alliance with the PGA Tour, and the next hearing in LIV's bankruptcy case is on Wednesday 14 October."
-        ],
-        "is_article": true,
-        "copy": "Whatever becomes of LIV Golf 2.0, the DP World Tour has decided it won’t let those who compete in the rebel circuit’s new version have it both ways. In a statement to BBC Sport, DP World Tour CEO Guy Kinnings said the European circuit, which had previously reached agreements with LIV players to allow them into its tournaments, will no longer do so in 2027, effectively banning them from playing.\n\n“Players need to make a choice,” Kinnings told BBC Sport. “We have rules and regulations which are there to protect our tour and which our members must all abide by. Players who are not willing to comply with our rules and regulations should not be seeking to join our tour.”",
-        "first_seen": "2026-10-12T16:38:14.890444+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf Monthly",
-        "kind": "direct",
-        "title": "'Bryson Playing A Full DP World Tour Schedule Would Be Electric'",
-        "feed_link": "https://www.golfmonthly.com/news/bryson-playing-a-full-dp-world-tour-schedule-would-be-electric-what-next-for-liv-golf-dechambeau-and-rahm",
-        "link": "https://www.golfmonthly.com/news/bryson-playing-a-full-dp-world-tour-schedule-would-be-electric-what-next-for-liv-golf-dechambeau-and-rahm",
-        "published": "2026-10-12T15:22:54+00:00",
-        "published_label": "Mon 12 Oct, 15:22",
-        "summary": "In this edition of Inside The Ropes, our editor and news team writers discuss the futures of LIV Golf, Bryson DeChambeau and Jon Rahm...",
-        "id": "3be3cf8f0a79",
-        "bullets": [
-          "Golf Monthly's team discusses the futures of LIV Golf, Jon Rahm and Bryson DeChambeau as LIV's bankruptcy case continues and players decide whether to commit to the league or go elsewhere. Rahm, David Puig and Adrian Meronk have already left, and the DP World Tour has said it will not allow LIV players to be members in 2027.",
-          "The writers largely see LIV's future as uncertain rather than finished, noting it has lost Rahm and its Asian Tour feeder system and could lose Tyrrell Hatton and others, along with its OWGR points and Major pathways. They say DeChambeau committing his future could help the league, and that more than 40 other golfers outside the DP World Tour group might sign on. One writer argues the PGA Tour should allow Rahm straight back in, given his pull with viewers and ticket buyers."
-        ],
-        "is_article": true,
-        "copy": "'Inside The Ropes' is the chance for Golf Monthly's expert team to share its honest thoughts on the biggest subjects in the game. This time, it's all about the futures of Jon Rahm, Bryson DeChambeau and LIV Golf'.\n\nIt's set to be a critical next few weeks for LIV Golf and its hopes of a '2.0' version coming to fruition, with its bankruptcy case rolling on and players deciding whether to commit or go elsewhere.",
-        "first_seen": "2026-10-12T17:27:12.465366+00:00",
-        "summary_status": "done"
       }
     ]
   },
-  "total": 629
+  "total": 627
 }
