@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T13:03:15.714587+00:00",
-  "generated_label": "Tuesday 20 October 2026, 13:03 UTC",
+  "generated_at": "2026-10-20T13:52:20.298526+00:00",
+  "generated_label": "Tuesday 20 October 2026, 13:52 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -91,7 +91,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-20T13:03:15.714587+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -110,7 +110,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-20T13:03:15.714587+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -129,7 +129,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-20T13:03:15.714587+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -148,7 +148,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-20T13:03:15.714587+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -337,6 +337,25 @@
         "source": "Financial Times",
         "search": "Financial Times",
         "kind": "gnews",
+        "title": "AI debt worries spark surge in default insurance trading",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnJ5Z2tYWDBsbGxSQVVDSDNiN3ZBTldqMWZieW00MC03RU9LMldmc01NYnJwZ3FIUUVvOEp6aHVGdll5SmpxMkpweV8zNWpJemJHWU5OQlQwb2hEYjY2cFBZQUlxcmlVTTBUOUQyeTRoNTdLQkIwRm83dnR4OGtRUWxPLXo?oc=5",
+        "link": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
+        "published": "2026-10-20T04:01:18+00:00",
+        "published_label": "Tue 20 Oct, 04:01",
+        "summary": "AI debt worries spark surge in default insurance trading Financial Times",
+        "id": "e7d750156a56",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-20T13:52:20.298526+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "general finance, not sport"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "search": "Financial Times",
+        "kind": "gnews",
         "title": "The Goldman scions atop Evercore and Perella Weinberg",
         "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREpGVHQ4RFZReHJmXzRJNW9xZmc4c0dPWnR4Z3BYcnVrX09KdUpWbFV0cTJvaUlpTlVYRnlTRVdWdld3aU9ZcFhvOU1MdHhuZ203dmx2RDNoVkF4RENvY0hubXY3VzA1dHo5SGl5Mmp2WUxzQlEtRlNkU2ZXcEhNei12emc?oc=5",
         "link": "https://www.ft.com/content/7f771da3-0c04-4192-b2ac-4289a60fbdca?syn-25a6b1a6=1",
@@ -350,6 +369,25 @@
         "first_seen": "2026-10-20T13:03:15.714587+00:00",
         "summary_status": "skipped",
         "skip_reason": "not sport; general business"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Financial Times",
+        "search": "Financial Times",
+        "kind": "gnews",
+        "title": "Can Africa outgrow China?",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazFDdHl0aGo5cGxWci1hUHV2RHpMNGVOV3lVM2owR2c1QTV0N1hhTmhxWWhzdmFCcjY5ZXowOFZ2RmlrUnBjV0Z3bUMyWmFSLXljWm5pa0todUNjMnRPUWRQSUZEdl82MDFsckJJR3ktZ1AyWjdlRlhpUkR4MWFzQlFSeE0?oc=5",
+        "link": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1",
+        "published": "2026-10-20T04:00:19+00:00",
+        "published_label": "Tue 20 Oct, 04:00",
+        "summary": "Can Africa outgrow China? Financial Times",
+        "id": "a055632bb80f",
+        "bullets": [],
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-10-20T13:52:20.298526+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "general economics, not sport"
       },
       {
         "section": "Wider Sports News",
@@ -2448,30 +2486,51 @@
         "copy": "Ice hockey’s elite NHL has struck a new multi-year partnership with holiday booking service Expedia as its latest partner across the North American region. Expedia will be the official travel partner of the NHL in the US and Canada, the two territories where NHL teams are based, while also retaining exclusivity in the online travel, vacation rentals, and hotels sponsorship categories.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Through this multi-year deal, Expedia will gain a prominent branding presence across NHL operations, including positioning on digital rink-side dasherboards during national broadcasts of regular season and Stanley Cup playoff matches in Canada.",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
         "summary_status": "done"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "LTA",
-        "search": "HSBC watch",
-        "kind": "gnews",
-        "title": "HSBC Championships 2027 tickets: Advantage Priority Window dates confirmed",
-        "feed_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVAwbFpDM1RURF9sS0s1ZUp2NmJzQU91S0R4MkMzZHdGbGZNNm1fRjZLbGt3UG10dVFISkM3LVZsSWdTMzB6Rl9wcjRoNXhPTnUxZ3Iyc2xaeENLUWc5TFNQZUM2NUJ0dWtRc1RiRXJ3T0R4V0ZlTkhHeDI3U05OcXhEVGdpNWl5N2FSOWVrSE0yXzJLLUlIVUVpYzBtb3hURGI4SndqVzRLSEZDd2NQZU5BR2dmMVNCT1gteQ?oc=5",
-        "link": "https://www.lta.org.uk/advantage-home/content/hsbc-championships-2027-tickets-advantage-priority-window-dates-confirmed/",
-        "published": "2026-10-13T13:03:55+00:00",
-        "published_label": "Tue 13 Oct, 13:03",
-        "summary": "HSBC Championships 2027 tickets: Advantage Priority Window dates confirmed LTA",
-        "id": "1f56585c3271",
-        "bullets": [
-          "The HSBC Championships at The Queen's Club will return in 2027 from 5–20 June, with tickets for the women's and men's tournaments going on sale in November. The LTA has confirmed on-sale dates, including an exclusive Priority Window for Fan+ and Compete LTA Advantage members. The event saw record ticket demand last year.",
-          "Fan+ and Compete Advantage members will be emailed a Priority Window access code to buy tickets from 3–8 November, and must opt in to marketing communications in their account settings to receive it. The code can also be claimed in the MyBenefits area on Advantage Home. Advantage members can additionally enter a competition for a chance to play on the Andy Murray Arena at The Queen's Club."
-        ],
-        "is_article": true,
-        "copy": "The HSBC Championships at The Queen’s Club is set to return in 2027 with tickets for the women’s and men’s tournaments going on sale in November. Taking place from 5-20 June, be part of the next chapter in tennis history as British favourites and global stars battle for HSBC Championships glory.\n\nTicket on-sale dates have now been confirmed for the 2027 HSBC Championships, including the exclusive Priority Window for Fan+ and Compete LTA Advantage members. When do HSBC Championships tickets go on sale?",
-        "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_status": "done"
       }
     ],
     "Rugby": [
+      {
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "search": "BBC Sport",
+        "kind": "direct",
+        "title": "The buzz of winning? No, Newcastle boss McFarland prefers Mondays",
+        "feed_link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm79pvw7r7jdo?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm79pvw7r7jdo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-20T13:43:49+00:00",
+        "published_label": "Tue 20 Oct, 13:43",
+        "summary": "Newcastle Red Bulls head coach Dan McFarland on why winning cannot be the sole motivator for his group of players.",
+        "id": "02ee69c9a4cb",
+        "bullets": [
+          "Newcastle Red Bulls head coach Dan McFarland, 54, says he prefers Mondays to Saturdays whether his side have won or lost, arguing that a professional's purpose cannot be winning alone. He took over a squad with 25 new players after the club finished bottom of the league in each of the last four seasons. They have lost all three opening Prem games but taken four bonus points, sitting ninth, two points above bottom side Harlequins.",
+          "McFarland said Mondays let him use the week's debrief and analysis to build an action plan for improvement, a view he formed as a player after moving from Stade Francais to Connacht. Ahead of Friday's game against Sale Sharks, he has shown his players footage of Michael Jordan's Chicago Bulls overcoming a 15-point fourth-quarter deficit against Portland Trail Blazers in the 1992 NBA Finals, to illustrate resilience."
+        ],
+        "is_article": true,
+        "copy": "When we think of sport, the image that comes to mind is of incredible goals or brilliant tries or spell-bounding points that contribute to success. They are the things that stay with us, but as moments in themselves, they are fleeting, usually nothing more than a matter of seconds.\n\nBut the mantra we're lead to believe is that sport, especially at the highest level, is all about winning. Yet Newcastle Red Bulls head coach Dan McFarland is cut from a different cloth. For him, it is not winning but the constant search for self-improvement on an individual and team level that is his prime motivating factor.",
+        "first_seen": "2026-10-20T13:52:20.298526+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Rugby",
+        "source": "Rugby Pass",
+        "search": "Rugby Pass",
+        "kind": "direct",
+        "title": "Test hopeful Alex Nankivell extends stay with Munster",
+        "feed_link": "https://www.rugbypass.com/news/test-hopeful-alex-nankivell-extends-stay-with-munster/",
+        "link": "https://www.rugbypass.com/news/test-hopeful-alex-nankivell-extends-stay-with-munster/",
+        "published": "2026-10-20T13:16:11+00:00",
+        "published_label": "Tue 20 Oct, 13:16",
+        "summary": "Munster Rugby have confirmed that centre Alex Nankivell has signed a two-year contract extension to keep him at the province until at least 2029.",
+        "id": "01ae9d029e2f",
+        "bullets": [
+          "Munster Rugby have confirmed that centre Alex Nankivell has signed a two-year contract extension, keeping him at the province until at least 2029. The uncapped 29-year-old joined from the Chiefs in the summer of 2023 and has made 58 Munster appearances. Last season he played 20 games and won three Player of the Match awards, and he also featured for the Barbarians against South Africa and Wales.",
+          "Nankivell won both the Bank of Ireland Men's Player of the Year and Virgin Media Supporters' Players of the Year awards at the 2026 Munster Rugby Awards. Munster general manager Ian Costello described him as a highly valued and respected squad member and said the club was delighted he had committed his future. Costello added that Nankivell has international ambitions and the club hopes he realises them in the near future."
+        ],
+        "is_article": true,
+        "copy": "Munster Rugby have confirmed that centre Alex Nankivell has signed a two-year contract extension to keep him at the province until at least 2029. The uncapped 29-year-old joined Munster from the Chiefs in the summer of 2023 and immediately established himself as a key member of the squad.\n\nLast season, Nankivell made a huge contribution and featured in 20 games, earning three Player of the Match awards. He capped off the season with appearances for the Barbarians against South Africa and Wales.",
+        "first_seen": "2026-10-20T13:52:20.298526+00:00",
+        "summary_status": "done"
+      },
       {
         "section": "Rugby",
         "source": "Rugby Pass",
@@ -6147,27 +6206,6 @@
         "copy": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Louis Rees-Zammit has called for an end to artificial pitches in rugby after a graphic Instagram post revealing his injuries after playing against Saracens.\n\nThe Bristol Bears wing was part of a 30-7 Gallagher Prem defeat at the StoneX Stadium on Saturday, and used social media to illustrate severe friction burns down his right leg.",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
         "summary_status": "done"
-      },
-      {
-        "section": "Rugby",
-        "source": "Rugby Pass",
-        "search": "Rugby Pass",
-        "kind": "direct",
-        "title": "Racing 92 star still in hospital after traffic accident as France prop has 'period of recovery at home'",
-        "feed_link": "https://www.rugbypass.com/news/racing-92-star-still-in-hospital-after-traffic-accident-as-france-prop-has-period-of-recovery-at-home-paul-costes-hassane-kolingar/",
-        "link": "https://www.rugbypass.com/news/racing-92-star-still-in-hospital-after-traffic-accident-as-france-prop-has-period-of-recovery-at-home-paul-costes-hassane-kolingar/",
-        "published": "2026-10-13T13:12:40+00:00",
-        "published_label": "Tue 13 Oct, 13:12",
-        "summary": "Racing 92 have provided an update on centre Paul Costes following his traffic accident last week, revealing the 23-year-old remains in hospital.",
-        "id": "1e966e915e7b",
-        "bullets": [
-          "Racing 92 have said centre Paul Costes remains in hospital following a scooter accident last week that is expected to keep him out for the coming months. The 23-year-old former France U20 international joined from Toulouse over the summer and was last seen in the 48-31 round two home defeat by Lyon.",
-          "The club's medical bulletin also said France loosehead Hassane Kolingar is recovering at home after a health issue in round five of the Top 14. The 28-year-old left the field in the first half of the 55-25 win over USA Perpignan on 3 October. Head coach Patrice Collazo said Costes is slowly recovering. Racing travel to Munster at Thomond Park this weekend for round one of the Investec Champions Cup."
-        ],
-        "is_article": true,
-        "copy": "Racing 92 have provided an update on centre Paul Costes following his traffic accident last week, revealing the 23-year-old remains in hospital. The former France U20 international was involved in a scooter accident last week that is expected to keep him sidelined for the coming months.\n\nIn a medical bulletin shared on social media on Tuesday, Racing revealed that Costes, who moved from Toulouse over the summer, is continuing his recovery in hospital. Elsewhere in the bulletin, Racing revealed that France loosehead Hassane Kolingar is recovering at home after suffering a health issue in round five of the Top 14.",
-        "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_status": "done"
       }
     ],
     "Racket": [
@@ -6293,6 +6331,27 @@
         "is_article": true,
         "copy": "Chou Tien Chen in disbelief after beating Wang Zheng Ming in the 2014 final. YONEX French Open 2026 has a new venue this year – the Arena Grand Paris. Let’s look at the intriguing facts and figures surrounding the season’s final Super 750 tournament.\n\nAll five reigning champions are back to defend their titles. China have dominated mixed doubles in recent years – with their three pairs sharing the honours the last four editions.",
         "first_seen": "2026-10-20T13:03:15.714587+00:00",
+        "summary_status": "done"
+      },
+      {
+        "section": "Racket",
+        "source": "BWF World Tour",
+        "search": "BWF watch",
+        "kind": "gnews",
+        "title": "Smashing Stats: French Open 2026",
+        "feed_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUMtLVUzZ3NlMGpfTDdxMnlrS1QydUFXclJ3aThKWGNkdzY2YnkxLURXV3BXRHhiQlpTRDlUeHNEMFFnLWRKUThwUHhHQXQ5SS02Sng5NHRtbVhYSUo2ZjBBTHZJQ1phaFduM2Ixb204V1FoNlRENktPdVhvM3kyQklQMU40MWEwRmVaUmIzajR1NGNtajg4?oc=5",
+        "link": "https://bwfworldtour.bwfbadminton.com/news-single/2026/10/20/smashing-stats-french-open-2026",
+        "published": "2026-10-20T07:36:18+00:00",
+        "published_label": "Tue 20 Oct, 07:36",
+        "summary": "Smashing Stats: French Open 2026 BWF World Tour",
+        "id": "11eb44b2ac05",
+        "bullets": [
+          "The Yonex French Open 2026, the final Super 750 tournament of the season, moves to a new venue, the Arena Grand Paris, with all five reigning champions returning to defend their titles. Top seeds Feng Yan Zhe/Huang Dong Ping could become the first mixed doubles pair to win three consecutive French Opens this century, while An Se Young is aiming to complete the first women's singles hat-trick since Pi Hong Yan (2003-2005). A fourth title would make An the most successful women's singles player of the Open Era (since 1980) at the event.",
+          "Kim Won Ho/Seo Seung Jae, who have not won since April, could become the first men's pair in 17 years to retain the title, the last being Markis Kido/Hendra Setiawan in 2009. Anders Antonsen could become the first Dane to win the men's singles more than once, which would put Denmark level with England on 14 victories each. France have not had a home champion since 2005 but are led this year by world No.3 Christo Popov, world champions Alex Lanier and Thom Gicquel/Delphine Delrue. Thailand have not won the men's singles since 1962, and Malaysia have not won the men's doubles since 2004."
+        ],
+        "is_article": true,
+        "copy": "Chou Tien Chen in disbelief after beating Wang Zheng Ming in the 2014 final. YONEX French Open 2026 has a new venue this year – the Arena Grand Paris. Let’s look at the intriguing facts and figures surrounding the season’s final Super 750 tournament.\n\nAll five reigning champions are back to defend their titles. China have dominated mixed doubles in recent years – with their three pairs sharing the honours the last four editions.",
+        "first_seen": "2026-10-20T13:52:20.298526+00:00",
         "summary_status": "done"
       },
       {
@@ -6578,7 +6637,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-10-20T13:03:15.714587+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -9658,91 +9717,30 @@
         "copy": "Jannik Sinner has been urged to be more “transparent” about the knee injury that prematurely ended his season. When Sinner defended his Wimbledon title after beating Alexander Zverev in four sets in mid-July, very few would have predicted he wouldn’t play again until 2027.\n\nThe 25-year-old has struggled with his injury under wraps. While Rafael Nadal used to provide regular updates on his injuries over the years, tennis fans have not been told a great deal about Alcaraz’s wrist injury and Sinner’s current issue.",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
         "summary_status": "done"
-      },
-      {
-        "section": "Racket",
-        "source": "Tennis365",
-        "search": "Tennis365",
-        "kind": "direct",
-        "title": "Alexander Zverev issues telling injury update after Shanghai Masters scare",
-        "feed_link": "https://www.tennis365.com/tennis-news/alexander-zverev-injury-update-shanghai-masters-scare-alexander-bublik",
-        "link": "https://www.tennis365.com/tennis-news/alexander-zverev-injury-update-shanghai-masters-scare-alexander-bublik",
-        "published": "2026-10-13T13:46:54+00:00",
-        "published_label": "Tue 13 Oct, 13:46",
-        "summary": "\"I'm starting to feel my body more and more.\" The post Alexander Zverev issues telling injury update after Shanghai Masters scare appeared first on Tennis365 .",
-        "id": "36fb180fa2f5",
-        "bullets": [
-          "Alexander Zverev beat world No 22 Alexander Bublik 7-6(6), 4-6, 7-6(1) in the Shanghai Masters last 16 on Tuesday, despite appearing to be in discomfort. The world No 2 saved four set points and recovered from 3-6 down in the first-set tiebreak. After losing serve in the opening game of the decider, he broke straight back to love.",
-          "The 29-year-old had an ankle problem during earlier wins over Wu Yibing and Quentin Halys. He told Tennis TV it was \"acting up, unfortunately, again\", which he called understandable given how much he has played. He described becoming world No 1 for the first time later this year as special, bringing a sense of responsibility, particularly as he is close to 30. He meets world No 9 Alex de Minaur in the quarter-finals."
-        ],
-        "is_article": true,
-        "copy": "Alexander Zverev provided an injury update after he appeared to be in discomfort during his fourth round win at the 2026 Shanghai Masters. The two-time Grand Slam champion prevailed 7-6(6), 4-6, 7-6(1) against world No 22 Alexander Bublik in a pulsating last 16 clash in Shanghai on Tuesday.\n\nWorld No 2 Zverev fought off four set points and recovered from a 3-6 deficit in the tiebreak to sneak through the first set. After Bublik earned the only break of the second set en route to levelling the match, Zverev found himself in trouble when he lost serve again in the opening game of the final set.",
-        "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "Racket",
-        "source": "Sky Sports",
-        "search": "Sky Sports",
-        "kind": "gnews",
-        "title": "Shanghai Masters: Alexander Zverev celebrates becoming year-end No 1 with win over Alexander Bublik as Katie Boulter bows out of Wuhan Open",
-        "feed_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTnNRaTg5QnRlUkIwOXNvZzFUN0xEdE11dWlNdS1tNjZpSVdwUi10bGJTVTdXTjVEaElvaWRjMEZNczlLcjhJMmk4UVVpMVNGQ2JaaDk4V3I1M1FxeTZKaEtuYlhhTU0tR1pZbU9WR2tPUVMwOVZwSjNVWmZ0dmZYY3JncVdMNENjU0NfcU9ITEFaMUprNUdCNS1TazYxTDZBY1c2cFhPWUJYQ05FQzVmS205X2R3M1VweVJNaEdZTmpodDh0QjRyS3Vyem5SS3NUOWo3dzU1alNSLUV3WXlJT2diOE9FVFhyZnRuODdwZGZETDc4aDNDQmRLSkhEODNYM19jMklvWlpoWW83OTZnOUJIWQ?oc=5",
-        "link": "https://www.skysports.com/tennis/news/13598697/shanghai-masters-alexander-zverev-celebrates-becoming-year-end-no-1-with-win-over-alexander-bublik-as-katie-boulter-bows-out-of-wuhan-open",
-        "published": "2026-10-13T13:45:48+00:00",
-        "published_label": "Tue 13 Oct, 13:45",
-        "summary": "Shanghai Masters: Alexander Zverev celebrates becoming year-end No 1 with win over Alexander Bublik as Katie Boulter bows out of Wuhan Open Sky Sports",
-        "id": "b8b20a232362",
-        "bullets": [
-          "Alexander Zverev beat Alexander Bublik 7-6 (8-6) 4-6 7-6 (7-1) to reach the Shanghai Masters quarter-finals, in his first match since clinching the year-end world No 1 ranking for the first time on Monday. The French Open and US Open champion admitted his ankle was \"acting up\". He next plays ninth seed Alex de Minaur, who beat Karen Khachanov 6-3 6-4.",
-          "Current world No 1 Jannik Sinner is out for the rest of 2026 with a knee injury, and Carlos Alcaraz cannot overtake Zverev this year. Zverev said finishing as world No 1 brings a different responsibility. Elsewhere, Katie Boulter lost 6-3 6-1 to 11th seed Diana Shnaider in the Wuhan Open first round. Iga Swiatek is 10th in the qualifying table for the WTA Finals (8-15 November, Indian Wells), with four of the eight spots still available."
-        ],
-        "is_article": true,
-        "copy": "Alexander Zverev celebrated becoming the year-end No 1 with a 7-6 (8-6) 4-6 7-6 (7-1) victory over Alexander Bublik to reach the quarter-finals at the Shanghai Masters. Zverev, who won the French Open and US Open this year, never looked 100 per cent comfortable, and admitted his \"ankle was acting up\" following his win.\n\nThe top seed will take on ninth seed Alex de Minaur next after the Australian produced one of his best performances of the year to beat Karen Khachanov in straight sets 6-3 6-4 to advance.",
-        "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "Racket",
-        "source": "Tennis365",
-        "search": "Tennis365",
-        "kind": "direct",
-        "title": "Rafael Nadal hits back at claims he’s heard about Carlos Alcaraz recently – ‘Makes no sense’",
-        "feed_link": "https://www.tennis365.com/tennis-news/rafael-nadal-hits-back-carlos-alcaraz",
-        "link": "https://www.tennis365.com/tennis-news/rafael-nadal-hits-back-carlos-alcaraz",
-        "published": "2026-10-13T13:30:01+00:00",
-        "published_label": "Tue 13 Oct, 13:30",
-        "summary": "Nadal is against what people are saying about Carlos Alcaraz. The post Rafael Nadal hits back at claims he’s heard about Carlos Alcaraz recently – ‘Makes no sense’ appeared first on Tennis365 .",
-        "id": "8a59e7f6f6b5",
-        "bullets": [
-          "Rafael Nadal has rejected the description of Carlos Alcaraz as a \"prospect\", following Alcaraz's exit from the Shanghai Masters. As reported by Kalshi Tennis, Nadal said that with seven Grand Slams Alcaraz is not just a promise for the future but already a legend, noting few players in history have won seven. Nadal partnered Alcaraz in doubles at the Paris Olympics.",
-          "Alcaraz, 23, has more Grand Slam titles than Stefan Edberg and Boris Becker, and the same number as Mats Wilander and John McEnroe. He became the youngest player to complete the Career Grand Slam earlier this year by winning the Australian Open for the first time, and has finished as year-end world No 1 twice. He has yet to win the Paris Masters or the ATP Finals."
-        ],
-        "is_article": true,
-        "copy": "In many ways, Carlos Alcaraz took the torch from Rafael Nadal when he retired from the sport in 2024. Nadal dominated the Spanish tennis landscape for nearly two decades before Alcaraz arrived as a fresh-faced tennis towards the end of the 2010s.\n\nAs Nadal’s playing career was coming to an end, Alcaraz began to make a name for himself on the ATP Tour. He was a four-time Grand Slam winner by the time the Spaniard called time on his playing career.",
-        "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_status": "done"
-      },
-      {
-        "section": "Racket",
-        "source": "LTA",
-        "search": "HSBC tennis watch",
-        "kind": "gnews",
-        "title": "Win the chance to play on the Andy Murray Arena at The Queen’s Club",
-        "feed_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmRLZUN1LWJ0cFZQa1ROdVZoTmtTQWlFdFFuYmQ3V05sLXk5UHIybHJqWmF0cXZReGctTDY2RXl1d2RvSDlpNEtzOUJSMTRQRWF6bW9VdmRocjFVeWUxUFlBVXZMTy16UjFLSTFWS1o5UFVsMG5Pc3RrMmIza1Y3Wk84UWgzdm0xek9ta2p0emdMcEE0OV9xUlVMYkRVZU9jLW1HcVpRTXc0ekU0S3Z4LU1Tdw?oc=5",
-        "link": "https://www.lta.org.uk/advantage-home/content/win-the-chance-to-play-on-the-andy-murray-arena-at-the-queens-club/",
-        "published": "2026-10-13T13:03:57+00:00",
-        "published_label": "Tue 13 Oct, 13:03",
-        "summary": "Win the chance to play on the Andy Murray Arena at The Queen’s Club LTA",
-        "id": "2ea6f17b4472",
-        "bullets": [],
-        "is_article": true,
-        "copy": "Ever dreamed of following in the footsteps of some of the world’s greatest tennis stars? Thanks to our partners at HSBC, we're giving LTA Advantage members the once-in-a-lifetime chance to step onto the Andy Murray Arena and play on the same court graced by some of the biggest names in tennis, including Andy Murray, Carlos Alcaraz, Serena Williams and many more.\n\nThree lucky winners will get to play on the main show court at The Queen's Club on Monday 21 June and will be able to bring one guest to share the on-court experience. Each winner will also receive a pair of tickets to the final of either the WTA event or the ATP event. Winners can choose which final they would like to attend.",
-        "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_status": "skipped",
-        "skip_reason": "competition entry page, not news"
       }
     ],
     "Golf": [
+      {
+        "section": "Golf",
+        "source": "HITC",
+        "search": "HSBC golf watch",
+        "kind": "gnews",
+        "title": "LIV Golf missed a huge opportunity for a unique selling point that would have changed everything",
+        "feed_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFRzSEQydGlDS0FSM2xCYzZ6aVZ3UlRsYnZUblNtbkZrakgwVDNlQUVyU0FnbmZsLTNUWHFZdlZTcVJnT1VkY1VHTzRBR2dyOVU4cnBrVkpoR1JSYTZOc0ptX0t0NS1kV0ZrNW5PWE5DT0NFUnA0U2Rrcmk5LUlfcmFRSF90eVNUNVg5NkRnS2FuMkZBM0RhZzRqLXRadXpsMjJZRExGZ0RHNzZnSXlsZElxZG56VFhYQWc?oc=5",
+        "link": "https://www.hitc.com/liv-golf-missed-a-huge-opportunity-for-a-unique-selling-point-that-would-have-changed-everything/",
+        "published": "2026-10-20T13:00:00+00:00",
+        "published_label": "Tue 20 Oct, 13:00",
+        "summary": "LIV Golf missed a huge opportunity for a unique selling point that would have changed everything HITC",
+        "id": "6087bcfd8204",
+        "bullets": [
+          "This opinion piece argues that LIV Golf, launched in June 2022 with signings including Bryson DeChambeau, Jon Rahm, Cam Smith, Brooks Koepka, Dustin Johnson and Phil Mickelson, erred by competing directly with the PGA Tour. It says tournaments lacked history and prestige, so wins carried little intrinsic meaning for fans.",
+          "The author notes the PGA Tour season currently runs from January to the end of August and is due to be condensed to around seven months from 2028. LIV's season ran from February to August. The piece contends LIV should instead have run from October to early July, placing Australian and South African events in November and December when no major PGA Tour events were played."
+        ],
+        "is_article": true,
+        "copy": "LIV Golf burst onto the professional golfing scene back in June 2022 with one sole ambition: to topple the PGA Tour. The powers that be at LIV Golf may dispute that statement, but it was obvious for everyone to see that they wanted to end the PGA Tour.\n\nThey signed huge names from the PGA Tour, including the likes of Bryson DeChambeau, Jon Rahm, Cam Smith, Brooks Koepka, Dustin Johnson and Phil Mickelson. How costly has Jon Rahm's decision to join LIV Golf been for his career?",
+        "first_seen": "2026-10-20T13:52:20.298526+00:00",
+        "summary_status": "done"
+      },
       {
         "section": "Golf",
         "source": "Golf.com",
@@ -12531,27 +12529,8 @@
         "copy": "Anirban Lahiri has suggested that he would like to see LIV Golf continue beyond this season, but stopped short of confirming whether he plans to remain with the league next year.\n\nWhile Lahiri is far from the biggest star on LIV, there is a good reason why some will be intrigued to see what he decides about his future with the league. Lahiri is part of Bryson DeChambeau’s Crushers team. They are one of two teams on LIV that have remained unchanged since the start of the 2023 season.",
         "first_seen": "2026-10-13T15:18:51.866762+00:00",
         "summary_status": "done"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf Monthly",
-        "search": "Golf Monthly",
-        "kind": "direct",
-        "title": "The Best Wedges For Every Type Of Playing Surface",
-        "feed_link": "https://www.golfmonthly.com/features/the-best-wedges-for-every-type-of-playing-surface",
-        "link": "https://www.golfmonthly.com/features/the-best-wedges-for-every-type-of-playing-surface",
-        "published": "2026-10-13T13:09:44+00:00",
-        "published_label": "Tue 13 Oct, 13:09",
-        "summary": "Some wedges will perform better in certain situations than others. Do you have the right ones?",
-        "id": "530bd31526c4",
-        "bullets": [],
-        "is_article": true,
-        "copy": "How can you improve around the greens? How can you lower your scores and convert bogeys into pars - or pars into birdies? Lessons can help, of course, as will practice. However, sometimes a simple equipment change can make a huge difference, especially if your set-up isn’t working for you.\n\nIf you are throwing away strokes near the green, you may want to review your wedges - because sometimes it’s okay to blame your tools. Discovering which wedges best fit your technique and typical course conditions can transform your game, yet it remains one of the most frequently neglected aspects of club selection.",
-        "first_seen": "2026-10-13T15:18:51.866762+00:00",
-        "summary_status": "skipped",
-        "skip_reason": "equipment buying guide"
       }
     ]
   },
-  "total": 613
+  "total": 612
 }
