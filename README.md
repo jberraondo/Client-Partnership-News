@@ -6,9 +6,12 @@ then picks the stories they want and copies a ready-formatted bulletin into an e
 
 ## How it works (plain English)
 
-1. **`scrape.py`** visits every source in `sources.py`. It turns Google News links back
-   into the real article links, reads each new article, and saves the stories to
-   **`data/news.json`**. Stories still waiting for bullets go into `data/pending.json`.
+1. **`scrape.py`** visits every source in `sources.py`: fixed news feeds, broad Google
+   searches for each section, and one search per competitor bank. Claude checks the
+   broad-search headlines against **`EDITORIAL_GUIDE.md`** and drops noise and
+   duplicates. The collector then turns Google News links back into real article links,
+   reads each kept article, and saves the stories to **`data/news.json`**. Stories still
+   waiting for bullets go into `data/pending.json`.
 2. **`summarise.py`** sends the waiting stories to Claude, which writes the two bullets
    following **`SUMMARY_STYLE.md`**. Claude also flags off-topic stories, such as
    Competitor News that isn't really about a bank sponsorship.
@@ -42,6 +45,9 @@ The summaries run on your Claude subscription (Pro or Max) and need no separate 
 - **Sources:** edit `sources.py`. Each source is either a direct RSS feed
   (`"kind": "direct"`) or a Google News search (`"kind": "gnews"`).
 - **Bullet style:** edit `SUMMARY_STYLE.md`.
+- **What gets kept or dropped:** edit `EDITORIAL_GUIDE.md`. Pasting in past bulletins
+  as examples makes the judgement better.
+- **Competitor banks:** edit `COMPETITOR_BANKS` in `sources.py` and the list in `SUMMARY_STYLE.md`.
 - **Which Claude model:** set `SUMMARY_MODEL` in the workflow (default `sonnet`).
 
 ## Running it yourself (optional)

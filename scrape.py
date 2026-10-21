@@ -27,6 +27,8 @@ import json
 import html
 import time
 import hashlib
+import shutil
+from concurrent.futures import ThreadPoolExecutor
 import urllib.parse
 import warnings
 from datetime import datetime, timezone, timedelta
@@ -53,6 +55,10 @@ KEEP_DAYS = int(os.environ.get("KEEP_DAYS", 7))
 MAX_PER_SOURCE = int(os.environ.get("MAX_PER_SOURCE", 12))
 FETCH_BODIES = os.environ.get("FETCH_BODIES", "1") == "1"
 FETCH_BROWSER = os.environ.get("FETCH_BROWSER", "1") == "1"
+# Ask Claude to check broad-search headlines before the slow work (needs the claude command).
+HEADLINE_CHECK = os.environ.get("HEADLINE_CHECK", "1") == "1"
+READ_THREADS = 8          # articles read at the same time
+MAX_READ_ATTEMPTS = 2     # stop retrying articles we can't read (paywalls etc.)
 # Only stories this fresh get sent for AI summaries (saves your Claude allowance).
 SUMMARY_WINDOW_HOURS = int(os.environ.get("SUMMARY_WINDOW_HOURS", 30))
 ARTICLE_MAX_WORDS = 900   # plenty for two bullets; keeps the AI step light
@@ -224,6 +230,15 @@ def opening_copy(text: str, target: int = 175) -> str:
     return "\n\n".join(out)
 
 
+def read_articles(stories: list) -> None:
+    """Fill in article_text for each story, reading several sites at once."""
+    def one(s):
+        s["read_attempts"] = s.get("read_attempts", 0) + 1
+        s["article_text"] = fetch_article(s["link"])
+    with ThreadPoolExecutor(max_workers=READ_THREADS) as pool:
+        list(pool.map(one, stories))
+
+
 # ---------------------------------------------------------------------------
 # Feeds
 # ---------------------------------------------------------------------------
@@ -237,6 +252,10 @@ def collect_from_source(src: dict) -> list[dict]:
         return []
 
     cutoff = datetime.now(timezone.utc) - timedelta(hours=WINDOW_HOURS)
+    # Headline must name one of these (whole word, case-sensitive), e.g. the bank.
+    must_name = None
+    if src.get("title_filter"):
+        must_name = re.compile(r"\b(" + "|".join(re.escape(n) for n in src["title_filter"]) + r")\b")
     stories = []
     for entry in feed.entries:
         published = parse_date(entry)
@@ -247,6 +266,8 @@ def collect_from_source(src: dict) -> list[dict]:
         link = entry.get("link", "")
         if not title or not link:
             continue
+        if must_name and not must_name.search(title):
+            continue
 
         # Wide searches: show the real publisher (e.g. "Talksport"), not the search name.
         publisher = (entry.get("source") or {}).get("title", "") if src.get("wide") else ""
@@ -256,6 +277,7 @@ def collect_from_source(src: dict) -> list[dict]:
             "source": publisher or src["name"],
             "search": src["name"],
             "kind": src["kind"],
+            "wide": bool(src.get("wide")),   # broad search: Claude checks the headline first
             "title": title,
             "feed_link": link,     # as given by the feed (Google News links are scrambled)
             "link": link,          # the real article link (fixed up later for Google News)
@@ -302,8 +324,29 @@ def main():
     new = [s for s in fresh if s["feed_link"] not in archive]
     print(f"\n{len(new)} new stories (of {len(fresh)} collected)")
 
-    # ---- New stories: real links, then article text ----
-    gnews = [s for s in new if s["kind"] == "gnews"]
+    for s in new:
+        s["id"] = story_id(s["feed_link"])
+        s["bullets"] = []
+        s["article_text"] = ""
+
+    # ---- Broad-search headlines: let Claude drop noise BEFORE the slow work ----
+    wide_new = [s for s in new if s.get("wide")]
+    if wide_new and HEADLINE_CHECK and shutil.which("claude"):
+        try:
+            from summarise import (load_guides, recent_titles, check_headlines,
+                                   apply_check, ClaudeError)
+            style, guide = load_guides()
+            print(f"Checking {len(wide_new)} broad-search headlines with Claude...")
+            have = recent_titles(list(archive.values()) + [s for s in new if not s.get("wide")])
+            answers = check_headlines(wide_new, have, style, guide)
+            dropped = sum(apply_check(s, answers[s["id"]]) for s in wide_new if s["id"] in answers)
+            print(f"   kept {len(wide_new) - dropped}, dropped {dropped} off-topic or duplicate")
+        except ClaudeError:
+            print("   (Claude unavailable — headlines will be checked in the summary step)")
+    live = [s for s in new if s.get("summary_status") != "skipped"]
+
+    # ---- Real links for Google News stories we're keeping ----
+    gnews = [s for s in live if s["kind"] == "gnews"]
     if gnews:
         print(f"Unscrambling {len(gnews)} Google News links...")
         for s in gnews:
@@ -312,21 +355,17 @@ def main():
                 time.sleep(3)  # Google sometimes briefly refuses; one patient retry
                 real = decode_gnews_link(s["feed_link"])
             s["link"] = real or s["feed_link"]
-            time.sleep(0.5)  # be polite to Google
+            time.sleep(1)  # be polite to Google
         print(f"   resolved {sum(1 for s in gnews if s['link'] != s['feed_link'])}/{len(gnews)}")
 
     for s in new:
-        s["id"] = story_id(s["feed_link"])
-        s["bullets"] = []
         s["is_article"] = not NOT_AN_ARTICLE.search(s["link"])
-        s["article_text"] = ""
 
-    readable = [s for s in new if s["is_article"] and "news.google.com" not in s["link"]]
+    # ---- Article text, several at a time ----
+    readable = [s for s in live if s["is_article"] and "news.google.com" not in s["link"]]
     if FETCH_BODIES and HAVE_TRAFILATURA and readable:
         print(f"Reading {len(readable)} articles...")
-        for s in readable:
-            s["article_text"] = fetch_article(s["link"])
-            time.sleep(0.3)  # be polite
+        read_articles(readable)
         print(f"   read {sum(1 for s in readable if s['article_text'])}/{len(readable)}")
         browser_fetch(readable)
 
@@ -364,6 +403,7 @@ def main():
         pending.append({
             "id": s["id"], "section": s["section"], "source": s["source"],
             "title": s["title"], "link": s["link"],
+            "wide": s.get("wide", False), "triaged": s.get("triaged", False),
             "article_text": s.get("article_text", ""),
         })
     # Stories that missed out last time (e.g. Claude was unavailable) keep the
@@ -378,12 +418,16 @@ def main():
     for p in pending:
         if not p["article_text"]:
             p["article_text"] = prev_text.get(p["id"], "")
-    retry = [p for p in pending if not p["article_text"] and "news.google.com" not in p["link"]]
+    by_id = {s["id"]: s for s in kept}
+    retry = [p for p in pending if not p["article_text"] and "news.google.com" not in p["link"]
+             and by_id[p["id"]].get("read_attempts", 0) < MAX_READ_ATTEMPTS]
     if retry and FETCH_BODIES and HAVE_TRAFILATURA:
         print(f"Re-reading {len(retry)} articles still waiting for bullets...")
-        for p in retry:
-            p["article_text"] = fetch_article(p["link"])
-            time.sleep(0.3)
+        stories = [{"link": p["link"], "read_attempts": by_id[p["id"]].get("read_attempts", 0)} for p in retry]
+        read_articles(stories)
+        for p, st in zip(retry, stories):
+            p["article_text"] = st["article_text"]
+            by_id[p["id"]]["read_attempts"] = st["read_attempts"]
         print(f"   read {sum(1 for p in retry if p['article_text'])}/{len(retry)}")
 
     # The article text is only needed for the AI step — keep it out of news.json

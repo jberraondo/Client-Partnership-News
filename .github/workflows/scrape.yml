@@ -77,8 +77,10 @@ jobs:
         run: npm install -g @anthropic-ai/claude-code
 
       - name: Scrape the news
+        # Claude checks broad-search headlines here, before the slow link and article work.
         env:
           WINDOW_HOURS: "48"
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: python scrape.py
 
       - name: Write the summary bullets

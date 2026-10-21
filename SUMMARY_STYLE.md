@@ -25,11 +25,14 @@ Headline: *Raducanu to make return with wildcard in Strasbourg* (BBC Sport)
 ## Competitor News: what counts
 
 Competitor News tracks **these banks only** doing sponsorship or partnership
-deals in sport or the arts, anywhere in the world:
+deals in **sport or the arts**, anywhere in the world:
 
-Barclays, Lloyds, Santander, NatWest, Metro Bank, Citi (Citibank), Revolut,
-Monzo, Chase / JPMorganChase / J.P. Morgan, Standard Chartered, BNP Paribas,
-Deutsche Bank.
+Barclays, Lloyds Bank, NatWest, Santander UK, Nationwide, Royal Bank of Scotland,
+Virgin Money, Metro Bank, Monzo, Starling Bank, Revolut, Chase UK, Standard
+Chartered, Citi, J.P. Morgan (JPMorganChase), BNP Paribas, Deutsche Bank, UBS.
+
+Arts deals count as much as sport: art collections and fairs (e.g. UBS and Art
+Basel), exhibitions, museums, festivals, theatre, orchestras and music.
 
 Examples of stories that belong:
 
@@ -40,6 +43,7 @@ Examples of stories that belong:
 - Miami HEAT and JPMorganChase enter a multi-year partnership
 - Revolut and MOJOE launch an athlete career-transition programme
 - Lloyds becomes England Rugby's first back-of-shirt partner
+- UBS art advisors start a contemporary art collection
 
 New deals, renewals, extensions, exits and activations all count. Other banks,
 payment companies (Visa, Mastercard, Adyen, PayPal, Amex), takeovers, earnings,
@@ -56,3 +60,4 @@ Mark a story as skipped (no bullets) if any of these apply:
 - It isn't a real news article, for example a video page, gallery, live blog, podcast, product review, betting tips or a homepage.
 - **Competitor News** only: the story doesn't meet the definition above.
 - **Wider Sports News** only: the story isn't about sport or the business of sport (rights, sponsorship, media, events, governing bodies). General business, politics or lifestyle pieces are skipped.
+- Any section: the story falls under "Never included" or a section's "Drop" list in EDITORIAL_GUIDE.md.

@@ -10,6 +10,9 @@ Each source has:
   query    : (gnews)  the Google News search query
   wide     : (gnews)  True for searches across all publishers — each story then shows
              its real publisher (e.g. "Talksport") instead of the search's name
+             and Claude checks each headline is relevant before summarising it
+  title_filter : (optional) list of names; a result is kept only if its headline
+             contains one of them as a whole word (case-sensitive)
 
 Sections are listed in SECTION_ORDER, which is the fixed order they appear in the bulletin.
 """
@@ -75,31 +78,71 @@ SOURCES = [
     {"section": "Racket", "name": "BWF watch", "kind": "gnews", "max": 6, "wide": True,
      "query": '"BWF World Tour" OR "BWF" OR "Badminton World Federation"'},
 
+    # ---- Wider Google searches per section ------------------------------------
+    # Broad searches to catch what the fixed sources miss. They bring in noise too,
+    # so Claude checks every headline against EDITORIAL_GUIDE.md before summarising.
+    {"section": "Wider Sports News", "name": "Sports business search", "kind": "gnews", "max": 15, "wide": True,
+     "query": '(sport OR sports) (sponsorship OR "media rights" OR "broadcast rights" OR "naming rights" '
+              'OR "commercial partner" OR "title partner") when:1d'},
+    # Rugby: sevens and rugby union only (covers men's and women's in both).
+    {"section": "Rugby", "name": "Rugby search", "kind": "gnews", "max": 15, "wide": True,
+     "query": '"rugby sevens" OR SVNS OR "rugby union" when:1d'},
+    {"section": "Rugby", "name": "Rugby news search", "kind": "gnews", "max": 15, "wide": True,
+     "query": '"rugby news" when:1d'},
+    {"section": "Racket", "name": "Tennis news search", "kind": "gnews", "max": 15, "wide": True,
+     "query": '"tennis news" when:1d'},
+    {"section": "Racket", "name": "Tennis search", "kind": "gnews", "max": 15, "wide": True,
+     "query": 'tennis (ATP OR WTA OR "Grand Slam") when:1d'},
+    {"section": "Racket", "name": "Badminton news search", "kind": "gnews", "max": 10, "wide": True,
+     "query": '"badminton news" when:1d'},
+    {"section": "Racket", "name": "Badminton search", "kind": "gnews", "max": 10, "wide": True,
+     "query": 'badminton (BWF OR "World Tour") when:1d'},
+    {"section": "Golf", "name": "Golf news search", "kind": "gnews", "max": 15, "wide": True,
+     "query": '"golf news" when:1d'},
+    {"section": "Golf", "name": "Golf search", "kind": "gnews", "max": 15, "wide": True,
+     "query": '"DP World Tour" OR "PGA Tour" OR "LIV Golf" OR "Ryder Cup" OR LPGA when:1d'},
+
 ]
 
 # ---- Competitor News --------------------------------------------------------
-# The banks 160/90 tracks, making sponsorship or partnership moves in sport or
-# the arts. Add or remove names in COMPETITOR_BANKS (and in SUMMARY_STYLE.md).
-# The names are split across several searches because Google News is unreliable
-# with one huge query; results are de-duplicated automatically.
+# The banks 160/90 tracks, doing sponsorship or partnership deals in sport or the
+# arts. One Google News search per bank (grouped searches missed real stories).
+# Each entry: (name, Google search terms, names that must appear in the headline).
+# Add, remove or edit banks here, and keep the list in SUMMARY_STYLE.md in step.
 COMPETITOR_BANKS = [
-    "Barclays", "Lloyds", "Santander", "NatWest", '"Metro Bank"',
-    "Citi", "Citibank", "Revolut", "Monzo", "Chase", "JPMorganChase",
-    '"Standard Chartered"', '"BNP Paribas"', '"JP Morgan"', '"J.P. Morgan"', "JPMorgan",
-    '"Deutsche Bank"',
+    ("Barclays",              'Barclays',                                     ["Barclays"]),
+    ("Lloyds Bank",           '"Lloyds Bank" OR Lloyds',                      ["Lloyds"]),
+    ("NatWest",               'NatWest',                                      ["NatWest", "Natwest"]),
+    ("Santander UK",          'Santander',                                    ["Santander"]),
+    ("Nationwide",            '"Nationwide Building Society" OR Nationwide',  ["Nationwide"]),
+    ("Royal Bank of Scotland",'"Royal Bank of Scotland" OR RBS',              ["Royal Bank of Scotland", "RBS"]),
+    ("Virgin Money",          '"Virgin Money"',                               ["Virgin Money"]),
+    ("Metro Bank",            '"Metro Bank"',                                 ["Metro Bank"]),
+    ("Monzo",                 'Monzo',                                        ["Monzo"]),
+    ("Starling Bank",         '"Starling Bank" OR Starling',                  ["Starling"]),
+    ("Revolut",               'Revolut',                                      ["Revolut"]),
+    ("Chase UK",              '"Chase UK" OR Chase',                          ["Chase", "JPMorganChase"]),
+    ("Standard Chartered",    '"Standard Chartered"',                         ["Standard Chartered", "StanChart"]),
+    ("Citi",                  'Citi OR Citibank',                             ["Citi", "Citibank", "Citigroup"]),
+    ("J.P. Morgan",           '"J.P. Morgan" OR JPMorgan OR JPMorganChase',   ["J.P. Morgan", "JP Morgan", "JPMorgan", "JPMorganChase"]),
+    ("BNP Paribas",           '"BNP Paribas"',                                ["BNP Paribas", "BNP"]),
+    ("Deutsche Bank",         '"Deutsche Bank"',                              ["Deutsche Bank"]),
+    ("UBS",                   'UBS',                                          ["UBS"]),
 ]
-_SPONSOR = '(sponsorship OR sponsor OR partnership OR "official partner" OR "naming rights" OR "jersey patch" OR deal)'
-_SPORT_ARTS = ('(sport OR sports OR football OR soccer OR tennis OR golf OR rugby OR cricket OR '
-               'NBA OR NFL OR MLS OR Olympics OR cycling OR stadium OR arts OR theatre OR museum OR festival)')
-_EXCLUDE = '-"Lloyds Register" -"Chase Elliott" -"Chase Field"'
-_GROUP_SIZE = 6
-for _i in range(0, len(COMPETITOR_BANKS), _GROUP_SIZE):
-    _grp = " OR ".join(COMPETITOR_BANKS[_i:_i + _GROUP_SIZE])
+_SPORT = ('sport OR sports OR football OR soccer OR tennis OR golf OR rugby OR cricket OR NBA OR NFL OR MLS '
+          'OR Olympics OR cycling OR stadium OR F1 OR "Formula 1"')
+_ARTS = ('art OR arts OR exhibition OR gallery OR museum OR collection OR "Art Basel" OR Frieze OR festival '
+         'OR theatre OR orchestra OR opera OR ballet OR music OR culture')
+_DEAL = ('sponsorship OR sponsor OR partnership OR "official partner" OR "naming rights" OR "jersey patch" '
+         'OR "presenting partner" OR "title sponsor"')
+_NOISE = '-earnings -shares -stock -"price target" -dividend -"Lloyds Register" -"Chase Elliott"'
+for _name, _terms, _aliases in COMPETITOR_BANKS:
     SOURCES.append({
         "section": "Competitor News",
-        "name": "Bank search",
+        "name": f"{_name} search",
         "kind": "gnews",
         "wide": True,
         "max": 8,
-        "query": f"({_grp}) {_SPONSOR} {_SPORT_ARTS} {_EXCLUDE} when:2d",
+        "title_filter": _aliases,
+        "query": f"({_terms}) ({_SPORT} OR {_ARTS} OR {_DEAL}) {_NOISE} when:2d",
     })
