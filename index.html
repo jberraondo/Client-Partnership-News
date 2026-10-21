@@ -320,8 +320,8 @@ function render(){
   for(const sec of state.data.section_order){
     const all = state.data.sections[sec] || [];
     const items = all.filter(visible)
-      // stories with a summary first, then newest
-      .sort((a,b)=> (hasSummary(b)-hasSummary(a)) ||
+      // stories with a summary first, then most important, then newest
+      .sort((a,b)=> (hasSummary(b)-hasSummary(a)) || ((b.priority||0)-(a.priority||0)) ||
         ((b.published||b.first_seen||'') > (a.published||a.first_seen||'') ? 1 : -1));
     const picked = state.picks.filter(id => byId.get(id)?.section === sec).length;
     const anchor = 'sec-' + sec.replace(/\W/g,'');

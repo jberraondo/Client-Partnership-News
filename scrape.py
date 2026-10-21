@@ -60,7 +60,7 @@ HEADLINE_CHECK = os.environ.get("HEADLINE_CHECK", "1") == "1"
 READ_THREADS = 8          # articles read at the same time
 MAX_READ_ATTEMPTS = 2     # stop retrying articles we can't read (paywalls etc.)
 # Only stories this fresh get sent for AI summaries (saves your Claude allowance).
-SUMMARY_WINDOW_HOURS = int(os.environ.get("SUMMARY_WINDOW_HOURS", 30))
+SUMMARY_WINDOW_HOURS = int(os.environ.get("SUMMARY_WINDOW_HOURS", 24))
 ARTICLE_MAX_WORDS = 900   # plenty for two bullets; keeps the AI step light
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
@@ -329,15 +329,15 @@ def main():
         s["bullets"] = []
         s["article_text"] = ""
 
-    # ---- Broad-search headlines: let Claude drop noise BEFORE the slow work ----
-    wide_new = [s for s in new if s.get("wide")]
+    # ---- Headline check: Claude drops noise and ranks stories BEFORE the slow work ----
+    wide_new = new   # every new story is checked (and ranked), not just broad searches
     if wide_new and HEADLINE_CHECK and shutil.which("claude"):
         try:
             from summarise import (load_guides, recent_titles, check_headlines,
                                    apply_check, ClaudeError)
             style, guide = load_guides()
-            print(f"Checking {len(wide_new)} broad-search headlines with Claude...")
-            have = recent_titles(list(archive.values()) + [s for s in new if not s.get("wide")])
+            print(f"Checking {len(wide_new)} new headlines with Claude...")
+            have = recent_titles(list(archive.values()))
             answers = check_headlines(wide_new, have, style, guide)
             dropped = sum(apply_check(s, answers[s["id"]]) for s in wide_new if s["id"] in answers)
             print(f"   kept {len(wide_new) - dropped}, dropped {dropped} off-topic or duplicate")
@@ -404,6 +404,7 @@ def main():
             "id": s["id"], "section": s["section"], "source": s["source"],
             "title": s["title"], "link": s["link"],
             "wide": s.get("wide", False), "triaged": s.get("triaged", False),
+            "priority": s.get("priority", 5),
             "article_text": s.get("article_text", ""),
         })
     # Stories that missed out last time (e.g. Claude was unavailable) keep the
