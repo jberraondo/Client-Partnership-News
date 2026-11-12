@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T17:08:01.303605+00:00",
-  "generated_label": "Thursday 12 November 2026, 17:08 UTC",
+  "generated_at": "2026-11-12T17:45:00.124842+00:00",
+  "generated_label": "Thursday 12 November 2026, 17:45 UTC",
   "keep_days": 7,
   "section_order": [
     "Competitor News",
@@ -11,6 +11,28 @@
   ],
   "sections": {
     "Competitor News": [
+      {
+        "section": "Competitor News",
+        "source": "tennismajors.com",
+        "search": "BNP Paribas search",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Alejandro Tabilo vs Thiago Agustin Tirante - Match ATP - BNP Paribas Nordic Open 2026 - Semi-final",
+        "feed_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeWdNM2ZHNi1zdlZMc0xpQlNzeXhoUFpNZVhiZV9VYnhvNmV1eFZhVnMyTFl5dDBmaHlfelFRYmhmWFV4MTNVRjBRLVREOVRJYUtLSVF6SFlZT1FBVzZZcWJRNEtfcjR1anoxei1rSW84a0xEUFJLNVpuS3htb2RxNVZwMGoxM1VrTHljMHVzcVJEWTJhc0JIX1NEYVhqVGgxY3c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeWdNM2ZHNi1zdlZMc0xpQlNzeXhoUFpNZVhiZV9VYnhvNmV1eFZhVnMyTFl5dDBmaHlfelFRYmhmWFV4MTNVRjBRLVREOVRJYUtLSVF6SFlZT1FBVzZZcWJRNEtfcjR1anoxei1rSW84a0xEUFJLNVpuS3htb2RxNVZwMGoxM1VrTHljMHVzcVJEWTJhc0JIX1NEYVhqVGgxY3c?oc=5",
+        "published": "2026-11-12T17:20:45+00:00",
+        "published_label": "Thu 12 Nov, 17:20",
+        "summary": "Alejandro Tabilo vs Thiago Agustin Tirante - Match ATP - BNP Paribas Nordic Open 2026 - Semi-final tennismajors.com",
+        "id": "356eed4e6e85",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "match listing, not a bank deal story",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
+      },
       {
         "section": "Competitor News",
         "source": "EIN News",
@@ -2037,28 +2059,6 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-06T16:21:03.994807+00:00"
-      },
-      {
-        "section": "Competitor News",
-        "source": "FantasySP",
-        "search": "Chase UK search",
-        "kind": "gnews",
-        "wide": true,
-        "title": "Week 9 Fantasy Football Running Back Rankings: Chase Brown Lands in Top 10",
-        "feed_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVURUV2NGUC15a09ZMy1zWmEyY2swRkg0MkVpek5heVh2YVkxd3Q1aW1PN0VIMFEwRGEwUDYxR3NsRWxRVDUzSEVZVGxKUlQ3cks3VjJaSXRyZG9jY3dheHpMNTlTTWxsNFJOMC0yNFpMb2w1V0NnXzh2NUdvU0NkOFRLUmtWQQ?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVURUV2NGUC15a09ZMy1zWmEyY2swRkg0MkVpek5heVh2YVkxd3Q1aW1PN0VIMFEwRGEwUDYxR3NsRWxRVDUzSEVZVGxKUlQ3cks3VjJaSXRyZG9jY3dheHpMNTlTTWxsNFJOMC0yNFpMb2w1V0NnXzh2NUdvU0NkOFRLUmtWQQ?oc=5",
-        "published": "2026-11-05T17:16:31+00:00",
-        "published_label": "Thu 05 Nov, 17:16",
-        "summary": "Week 9 Fantasy Football Running Back Rankings: Chase Brown Lands in Top 10 FantasySP",
-        "id": "104c6e1bfbfb",
-        "bullets": [],
-        "triaged": true,
-        "priority": 5,
-        "summary_status": "skipped",
-        "skip_reason": "fantasy football",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-06T16:21:03.994807+00:00"
       }
     ],
     "Wider Sports News": [
@@ -2107,6 +2107,28 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Financial Times",
+        "search": "Financial Times",
+        "kind": "gnews",
+        "wide": false,
+        "title": "New brain atlas promises disease breakthroughs",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEFLcWZubzFkNjRxdEhQTWhuNy1qb1QtTG92aTltNGVTUXk4X1ZEbjladzFjZ2h1Y0pKZ1RWMnVzVXc4b2VPRkFrMGlaREpMRWRGdmtQMDR3QmFvMUp5cnlnbnlkQ3piRjJHakV4U1RfXy1KakEtejJVeW5yWlMzY1FWYks?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEFLcWZubzFkNjRxdEhQTWhuNy1qb1QtTG92aTltNGVTUXk4X1ZEbjladzFjZ2h1Y0pKZ1RWMnVzVXc4b2VPRkFrMGlaREpMRWRGdmtQMDR3QmFvMUp5cnlnbnlkQ3piRjJHakV4U1RfXy1KakEtejJVeW5yWlMzY1FWYks?oc=5",
+        "published": "2026-11-12T16:00:19+00:00",
+        "published_label": "Thu 12 Nov, 16:00",
+        "summary": "New brain atlas promises disease breakthroughs Financial Times",
+        "id": "4a27e519362f",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "not sport: general science news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Sportcal",
         "search": "Sportcal",
         "kind": "gnews",
@@ -2118,13 +2140,17 @@
         "published_label": "Thu 12 Nov, 15:50",
         "summary": "ATP Tour announces record growth, partnership revenues surpass $100m Sportcal",
         "id": "d0aa0d8e8cb6",
-        "bullets": [],
+        "bullets": [
+          "The ATP Tour said its central partnership revenues rose 49 per cent year-on-year in 2026 to more than $100m for the first time, an increase of more than 200 per cent since 2022. Growth came from new and expanded agreements with Emirates, Infosys, Nitto, Lexus, Haier and Yokohama, plus new partners EQT and K-Swiss.",
+          "The tour also announced a multi-year partnership with Julius Baer as its first wealth management partner, renewed Deltatre and expanded its Overtime content deal. Chief business officer Daniele Sano said more than 70 per cent of partnership revenues are paid to tournaments and that the ATP targets a further double-digit increase in 2027. The figures follow the OneVision strategic plan, launched almost four years ago by chairman Andrea Gaudenzi."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The ATP Tour, the top-tier men’s tennis tour, has announced record commercial partnership revenues this year of over $100 million after securing a slate of major sponsorship agreements.\n\nThe tour announced today that its central partnership revenues had increased 49% year-on-year in 2026 to more than $100 million for the first time on the back of new agreements and expanded investments from long-standing partners including flag carrier airline Emirates, tech company Infosys, parts manufacturer Nitto, luxury carmaker Lexus, home appliances corporation Haier, and tyre manufacturer Yokohama.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -2139,13 +2165,17 @@
         "published_label": "Thu 12 Nov, 15:09",
         "summary": "T-Mobile Powers New Ways to Experience the FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX On and Off the Track Financial Times",
         "id": "421c2811e7de",
-        "bullets": [],
+        "bullets": [
+          "T-Mobile has detailed how it will support the Formula 1 Las Vegas Grand Prix, where it has been an operational technology partner since the inaugural race in 2023. It will provide more than 20 5G-connected devices, including drones and roaming cameras, for broadcast using 5G on Demand and network slicing, and will operate a Smart Operations Command Center giving organisers a real-time 3D view of crowd flow and transport.",
+          "Its network will also cover more than 500 ticket scanners and point-of-sale devices. For the first time, three nights of T-Mobile Stage performances, from 19 to 21 November, will be streamed live on the F1 YouTube channel using up to 20 5G-connected cameras. McLaren's Lando Norris will appear at a meet-and-greet at the T-Mobile Store on the Las Vegas Strip on Tuesday 17 November."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "BELLEVUE, Wash.--(BUSINESS WIRE)--Nov. 12, 2026-- T-Mobile (NASDAQ: TMUS) is bringing its Formula 1 regional partnership to life at the intersection of performance and culture. At one of the world’s most exciting and demanding live events, the network helps the race run smarter and gives fans and members more ways to experience it.\n\nThose same demands make the Las Vegas Grand Prix a proving ground, giving T-Mobile a place to put America’s most advanced 5G network to work, test new capabilities at scale and help shape how connectivity powers the next generation of live experiences.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -2310,13 +2340,17 @@
         "published_label": "Thu 12 Nov, 12:04",
         "summary": "MLB hit a record $2.12B in team sponsorship as deal sizes rose MarketScale",
         "id": "302df4a15b48",
-        "bullets": [],
+        "bullets": [
+          "Major League Baseball's 30 teams earned a record $2.12bn in sponsorship revenue by the end of the World Series, according to SponsorUnited. That is up 7.3% from a revised 2025 total of $1.98bn, while deal volume rose only 1.2%. The average deal size reached $590,000, up 5.9%. Financial was the top category at $349m, up 11.92% year on year.",
+          "All 30 clubs have jersey patch deals, averaging $8.6m, up 1.3%. SponsorUnited estimates that three 2026 patch deals, the White Sox with CME Group, the Rays with Webull and the Giants with Airwallex, generated more than $20m combined. The Rays (up 33.8%) and Athletics (up 19.3%), both moving to new ballparks, posted the fastest growth. The Reds led on deal count with 223, and there were 632 new brand entrants against 549 exits."
+        ],
         "triaged": true,
         "priority": 7,
         "is_article": true,
         "read_attempts": 1,
         "copy": "MLB hit a record $2.12B in team sponsorship as deal sizes rose Major League Baseball's 30 teams earned a record $2.12 billion in sponsorship revenue by the end of the World Series, according to SponsorUnited. That is up 7.3% from a revised 2025 total, while deal volume rose just 1.2%. Deals got larger: the average reached $590,000, up 5.9%, and carried 8.32 assets on average. Financial was the top category at $349 million.\n\nThis story was produced through MarketScale. See how Sports & Entertainment teams put it to work with Events & Onsite Capture. The data comes from Stamford, Connecticut-based SponsorUnited, a global sports and entertainment intelligence platform, which reported that team revenue across the 30 clubs was a record $2.12 billion at the conclusion of the World Series. Revenue rose 7.3% from a revised 2025 total of $1.98 billion, according to Forbes, while deal volume grew 1.2%.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -2331,13 +2365,17 @@
         "published_label": "Thu 12 Nov, 12:00",
         "summary": "Training facilities are becoming women’s sports’ next sponsorship engine, Populous report finds The New York Times",
         "id": "e49ebf79e48e",
-        "bullets": [],
+        "bullets": [
+          "A white paper from design firm Populous and advisory firm Comeback Ventures, released on Thursday, says training facilities are becoming a key sponsorship asset in professional women's sports. It cites Denver Summit FC, which converted future naming rights with CommonSpirit Health into upfront capital, and the Golden State Valkyries, whose partnership with Sephora U.S. includes naming rights to their 31,800-square-foot performance centre in Oakland.",
+          "Denver Summit used contracted CommonSpirit sponsorship payments as collateral for a loan to fund construction. The report argues legacy sponsorship models rely on metrics such as linear television viewership and static logo exposure. It cites MarketCast research that 75 per cent of NWSL fans are likely to try products from official sponsors, and 58 per cent of WNBA fans are likely to support official league sponsors. The Valkyries became the first women's franchise to pass $100m in annual revenue in their second season."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Professional women’s sports have entered a new era. A state-of-the-art training facility is now necessary for franchises to attract the best players and staff and survive in a fiercely competitive landscape. According to a white paper that global design firm Populous and advisory firm Comeback Ventures released Thursday, companies are reimagining what sponsoring these facilities looks like.\n\nFor Denver Summit FC in the National Women’s Soccer League, it meant converting their future naming rights with CommonSpirit Health to upfront infrastructure capital. In the Bay Area, the WNBA Golden State Valkyries’ landmark partnership with Sephora went beyond a naming rights deal, fueling athlete-led storytelling and player-designed fashion events. Whether sponsoring a new league such as Unrivaled or investing in a unique opportunity such as the first performance center shared by WNBA and NWSL teams, women’s sports sponsors are leveling up.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -2481,13 +2519,17 @@
         "published_label": "Thu 12 Nov, 10:20",
         "summary": "Pepsico’s Lay’s brand in as new Copa Libertadores sponsor Sportcal",
         "id": "4b9fe3cfe4c3",
-        "bullets": [],
+        "bullets": [
+          "Pepsico's Lay's brand, through its Frito-Lay subsidiary, has become an official sponsor of CONMEBOL's Copa Libertadores men's club competition. The deal was brokered by IMG, which holds a commercial rights agreement with CONMEBOL through its FC Diez Media subsidiary until 2030. Media reports suggest the new Pepsico agreement also runs until 2030.",
+          "The deal comes ahead of this year's final on 28 November in Montevideo between Palmeiras and Estudiantes. Other Libertadores sponsors include EA FC, Amstel, Coca-Cola, Hyundai, Mastercard, TCL and Mapfre. CONMEBOL president Alejandro Dominguez said the partnership strengthens the global reach of its competitions. Lay's also sponsored the 2022 and 2026 men's FIFA World Cups and the 2023 Women's World Cup. CONMEBOL recently renewed with Mediapro through 2030."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "South American soccer's governing body CONMEBOL has struck a commercial deal with global food and beverage giant Pepsico. Through an agreement unveiled yesterday, the Lay's snack foods brand owned by Pepsico, through the Frito-Lay subsidiary, becomes an official sponsor of CONMEBOL's top-tier Copa Libertadores men's club competition.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. The deal has been brokered by heavyweight global sports marketing agency IMG, which has a commercial rights deal in place with CONMEBOL – through the FC Diez Media subsidiary – until 2030.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -2704,7 +2746,9 @@
         "is_article": true,
         "read_attempts": 1,
         "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -7094,31 +7138,52 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-06T16:21:03.994807+00:00"
-      },
+      }
+    ],
+    "Rugby": [
       {
-        "section": "Wider Sports News",
-        "source": "Peeblesshire News",
-        "search": "Sports business search",
-        "kind": "gnews",
-        "wide": true,
-        "title": "Betfred end sponsorship of all five British Classics",
-        "feed_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmJxSE10OW91NWVCZXhUb3RRUXJzX283cHpQaUJQRkZKQjNOVW81aHp1UXN5N0l6T1lQWFhsRzNFdEVLNVMwZjJSV2NnRDlmei1PaEhjcmxNUEUwWVd5QlUyd0dSWW5FR2pQemNCTWRleHJhWlNaanNPQTU3RDFZZ0lGbnhhNUg2NDRDRGp3VUFaT0FkbUpwTm1EY1B4QmZ1dmlyTGJR?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmJxSE10OW91NWVCZXhUb3RRUXJzX283cHpQaUJQRkZKQjNOVW81aHp1UXN5N0l6T1lQWFhsRzNFdEVLNVMwZjJSV2NnRDlmei1PaEhjcmxNUEUwWVd5QlUyd0dSWW5FR2pQemNCTWRleHJhWlNaanNPQTU3RDFZZ0lGbnhhNUg2NDRDRGp3VUFaT0FkbUpwTm1EY1B4QmZ1dmlyTGJR?oc=5",
-        "published": "2026-11-05T17:44:55+00:00",
-        "published_label": "Thu 05 Nov, 17:44",
-        "summary": "Betfred end sponsorship of all five British Classics Peeblesshire News",
-        "id": "ff425611fa67",
+        "section": "Rugby",
+        "source": "BBC Sport",
+        "search": "BBC Sport",
+        "kind": "direct",
+        "wide": false,
+        "title": "Lawes recovering after hospital stay with infection",
+        "feed_link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn50zrl5de7o?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn50zrl5de7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-12T17:25:27+00:00",
+        "published_label": "Thu 12 Nov, 17:25",
+        "summary": "Courtney Lawes says he spent 10 days in hospital after doctors found his infection markers were \"through the roof\" as he battled a serious illness.",
+        "id": "f883179833c4",
         "bullets": [],
         "triaged": true,
-        "priority": 6,
+        "priority": 5,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Courtney Lawes has revealed he spent 10 days in hospital after doctors found his infection markers were \"through the roof\" as he battled a serious illness. The 37-year-old said a staph infection, external was the reason for his absence from rugby, having not played since Sale Sharks' Champions Cup defeat by Glasgow Warriors on 17 October.\n\nSpeaking on The Good, The Bad & The Rugby Xtra podcast,, external Lawes said he initially believed he was suffering from flu. \"I had flu symptoms but some really bad muscle pains with it. On the way home, my right arm basically stopped working, so really weird symptoms,\" Lawes said.",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "BBC",
+        "search": "Rugby search",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Rugby Union: Courtney Lawes staph infection led to 10-day hospital stay",
+        "feed_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iNzNLdV9vcjdqRzVPYXhqNzhyTC16ajRoeHVSZEpmaHZlSFJ5M3hTcnFfMkZJaVVMeHhNOGlMcWdoS1NsN1VyTFU0anY0a2gtQ1R2Z3pzblpGSW9FUlgxMUtlcXZkeEpJTnNIU3drNA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iNzNLdV9vcjdqRzVPYXhqNzhyTC16ajRoeHVSZEpmaHZlSFJ5M3hTcnFfMkZJaVVMeHhNOGlMcWdoS1NsN1VyTFU0anY0a2gtQ1R2Z3pzblpGSW9FUlgxMUtlcXZkeEpJTnNIU3drNA?oc=5",
+        "published": "2026-11-12T17:25:27+00:00",
+        "published_label": "Thu 12 Nov, 17:25",
+        "summary": "Rugby Union: Courtney Lawes staph infection led to 10-day hospital stay BBC",
+        "id": "b48f47f31e8c",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
         "summary_status": "skipped",
         "skip_reason": "duplicate of a story we already have",
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-11-06T16:21:03.994807+00:00"
-      }
-    ],
-    "Rugby": [
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
+      },
       {
         "section": "Rugby",
         "source": "BBC Sport",
@@ -7132,13 +7197,17 @@
         "published_label": "Thu 12 Nov, 17:04",
         "summary": "England scrum-half Alex Mitchell is facing a prolonged spell on the sidelines after an operation to fix recurring hamstring issues.",
         "id": "feaba3211e62",
-        "bullets": [],
+        "bullets": [
+          "England scrum-half Alex Mitchell could miss next year's Six Nations after an operation to address recurring hamstring problems, having suffered four hamstring injuries this year. The 29-year-old, Steve Borthwick's first-choice nine last season, travelled to Finland to be operated on by specialist Lasse Lempainen.",
+          "An estimated four-month rehabilitation would give him a chance of playing in England's final two matches, against Wales and Scotland on 6 and 13 March. Any setback would leave only pre-tournament friendlies before the Rugby World Cup in Australia. Jack van Poortvliet has emerged as Borthwick's starting pick in his absence, with Harry Randall, Ben Spencer and Archie McParland competing behind him. Ben Curry, also operated on by Lempainen, returned after 10 months out."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "England scrum-half Alex Mitchell could miss next year's Six Nations after an operation to fix recurring hamstring issues. The 29-year-old, who was Steve Borthwick's first-choice nine last season, has gone under the knife after suffering four hamstring injuries this year.\n\nIf Mitchell, who has recovered ahead of schedule in the past, follows an estimated four-month rehabilitation it would give him a chance of playing in England's final two matches, against Wales and Scotland on 6 and 13 March.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -7182,6 +7251,28 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-12T17:08:01.303605+00:00"
+      },
+      {
+        "section": "Rugby",
+        "source": "Racing Post",
+        "search": "Rugby search",
+        "kind": "gnews",
+        "wide": true,
+        "title": "France vs South Africa: Nations Championship rugby union predictions, betting tips and odds",
+        "feed_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYkxGQlFOWkM3VU1aN2w3dDU0cVpRMnY2blBqTGhRSGV4b1N1OXVhYnpyLUlNWlBRdVlrYWdTM1JNLUl2SThsYzVNWDU3UG5aUXJQWE13czU4Rm85OGdsd25Cc1E2V3Rybm9YWG9qYjJpMkNDc2JDV1drWjFDYmRsUDYtVUs1TUFJdlFiWlFEWDJfdUh5NW56SzI2WDR4eENMTThIRFp5TUlnWUstMDZpV3U4QWVXaV9wSEpQYkJxYjJrSDVkLTczTmRSaHptNDdGaGhzWTBLSEdaU0JFeUFCODlGdDRJTVlV?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYkxGQlFOWkM3VU1aN2w3dDU0cVpRMnY2blBqTGhRSGV4b1N1OXVhYnpyLUlNWlBRdVlrYWdTM1JNLUl2SThsYzVNWDU3UG5aUXJQWE13czU4Rm85OGdsd25Cc1E2V3Rybm9YWG9qYjJpMkNDc2JDV1drWjFDYmRsUDYtVUs1TUFJdlFiWlFEWDJfdUh5NW56SzI2WDR4eENMTThIRFp5TUlnWUstMDZpV3U4QWVXaV9wSEpQYkJxYjJrSDVkLTczTmRSaHptNDdGaGhzWTBLSEdaU0JFeUFCODlGdDRJTVlV?oc=5",
+        "published": "2026-11-12T17:00:00+00:00",
+        "published_label": "Thu 12 Nov, 17:00",
+        "summary": "France vs South Africa: Nations Championship rugby union predictions, betting tips and odds Racing Post",
+        "id": "66b1c77cabdb",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "betting tips and odds",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
       },
       {
         "section": "Rugby",
@@ -7372,13 +7463,17 @@
         "published_label": "Thu 12 Nov, 14:41",
         "summary": "Beauden Barrett will captain New Zealand for the first time when he leads out much-changed All Blacks against Wales.",
         "id": "afd67085577f",
-        "bullets": [],
+        "bullets": [
+          "Beauden Barrett will captain New Zealand for the first time when the All Blacks face Wales in a Nations Championship match in Cardiff on Saturday, in his 149th international. Head coach Dave Rennie has made eight starting changes from the side that beat Scotland 43-21, with Richie Mo'unga at fly-half and Scott Barrett at lock.",
+          "Wing Will Jordan (hamstring) and centre Jordie Barratt (facial) are absent through injury, while Anton Segner and Fehi Fineanganofo make their first Test starts. New Zealand have won the past 34 Tests against Wales, a run stretching back to 1953. New Zealand and South Africa are unbeaten in the southern hemisphere table and are battling for top spot before the play-off weekend at the end of the month."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Full-back Beauden Barrett will captain New Zealand for the first time when he leads out the All Blacks for the Nations Championship game against Wales in Cardiff on Saturday. All Blacks head coach Dave Rennie has made eight starting changes from the side that defeated Scotland 43-21 at Murrayfield with 10 alterations in the match-day 23.\n\nIt will be 35-year-old Barrett's first time as starting skipper in his 149th international with brother Scott also named at lock, while Richie Mo'unga is at fly-half. \"Beauden brings such valuable experience and is massively respected by us all,\" said Rennie.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -7719,13 +7814,17 @@
         "published_label": "Thu 12 Nov, 12:00",
         "summary": "England v Japan: Henry Pollock, Max Ojomoh and Will Joseph start BBC",
         "id": "b2d4d31d6257",
-        "bullets": [],
+        "bullets": [
+          "Henry Pollock will make only his second England start at number eight against Japan in Saturday's Nations Championship match, in a much-changed side. Max Ojomoh comes in at inside centre, his first England appearance since the win over Argentina a year ago, while Will Joseph replaces the injured Immanuel Feyi-Waboso on the wing. George Ford starts at fly-half, with Marcus Smith on the bench.",
+          "Seb Atkinson is out with a hip injury and Ollie Chessum is also injured, with Alex Coles moving to blind-side flanker. Archie McParland is poised to make his debut off the bench. Only Henry Slade, Jack van Poortvliet and captain Maro Itoje keep their starting positions. England have won all six previous Tests against Japan, most recently 52-17 in Tokyo in June 2024."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Free-scoring back row Henry Pollock will make only his second start for England after being named at number eight in a much-changed side for Saturday's Nations Championship meeting with Japan.\n\nDespite mainly being restricted to the bench, Pollock has scored eight tries in 14 Tests, including a double as a stand-in wing against Australia on Sunday. After man-of-the-match performances in Northampton's run to the Prem title, the 21-year-old will get a chance to press his claim to a Test starting spot.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -7784,13 +7883,17 @@
         "published_label": "Thu 12 Nov, 10:59",
         "summary": "2027 Six Nations format confirmed as Youngs urges change Ruck.co.uk",
         "id": "53dae1bba25f",
-        "bullets": [],
+        "bullets": [
+          "The 2027 Six Nations will keep the six-week schedule introduced in 2026, with three rounds played consecutively before a rest weekend ahead of the final two matches. The tournament starts on Friday 5 February with Ireland hosting England at the Aviva Stadium. England then face defending champions France at Twickenham on Valentine's Day, host Italy, travel to Cardiff to face Wales and finish against Scotland on Super Saturday.",
+          "Former England scrum-half Ben Youngs has reportedly called for all five rounds to be played on consecutive weekends, saying the tournament should not run for eight weeks. The championship was previously played across seven weeks with two rest weekends. Dan Biggar has warned that consecutive Tests place heavy physical and mental demands on players, and France will chase a third successive title."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The 2027 Six Nations will stick with its new six-week schedule, but England legend Ben Youngs believes organisers should go even further. The championship introduced a major scheduling change in 2026, cutting one of its traditional two rest weekends.\n\nThat format is set to stay for 2027. Teams will play three rounds in a row before taking a weekend off ahead of the final two matches. But Youngs isn't convinced the competition needs a break at all.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -7934,13 +8037,17 @@
         "published_label": "Thu 12 Nov, 09:05",
         "summary": "Wales number eight Taine Basham will start his first international for four years as he replaces the injured Aaron Wainwright against New Zealand.",
         "id": "2cdcc09216e8",
-        "bullets": [],
+        "bullets": [
+          "Taine Basham will start at number eight for Wales against New Zealand in the Nations Championship on Saturday, his first international start in four years, replacing the injured Aaron Wainwright. Head coach Steve Tandy makes four starting changes. Leicester's Gabriel Hamer-Webb replaces Josh Adams on the wing, Adam Beard comes in at lock for Ben Carter, and James Botham starts ahead of Alex Mann, with Jac Morgan completing the back row.",
+          "Sale prop Tomas Francis is out for the rest of the campaign, and Keiron Assiratti has been called into the squad. Wales have not beaten New Zealand since 1953, and the All Blacks have won the past 34 meetings. They beat Scotland 43-21 last weekend. Tandy said Wales must be more ruthless, and that Beard will lead the line-out after Wales lost six of their own throws against Japan."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Wales number eight Taine Basham will start his first international in four years as he replaces the injured Aaron Wainwright for the Nations Championship match against New Zealand on Saturday.\n\nBasham is part of a back-row reshuffle with James Botham starting instead of fellow Cardiff flanker Alex Mann, and Jac Morgan completing the trio. Wing Josh Adams, who scored two tries in the 28-21 victory against Japan, is left out in favour of Leicester wing Gabriel Hamer-Webb who wins only his second cap.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -8087,13 +8194,17 @@
         "published_label": "Thu 12 Nov, 01:05",
         "summary": "Changing of the guard for Blitzboks as side targets SVNS three-peat Rugbypass.com",
         "id": "1f3fd183aeeb",
-        "bullets": [],
+        "bullets": [
+          "South Africa's Blitzboks are making final preparations for the 2026-27 SVNS Series opener in Dubai. Head coach Philip Snyman is due to name his 13-man squad on Friday, after a 38-man extended camp in Stellenbosch. Impi Visser, Zander Reynders, Jayden Nell and Dream Team selection Shilton van Wyk are injured and will miss the opening fortnight in Dubai and Cape Town. Mfundo Ndhlovu and Donavan Don have left to join the Stormers and Sharks.",
+          "Snyman has drawn on Junior Springboks who won the 2026 World Rugby U20 Championship, as well as Varsity Cup and URC players. He said Olympic qualification will be decided by final placings at the 2027 World Championship tournaments, so the first six events will be used to build depth. A second side will play Dubai's Invitational Tournament on the same weekend, and the squad departs on Monday 23 November."
+        ],
         "triaged": true,
         "priority": 7,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Olympic qualification and backing up their past two seasons of table-topping form will be one of many challenges South Africa’s Blitzboks will face as they commence their final preparations for the 2026-27 SVNS Series opener in Dubai.\n\nMen’s head coach Philip Snyman is set to name his 13-man squad on Friday South African time, having spent the last few weeks with a 38-man extended training squad at the program’s headquarters in Stellenbosch.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -15444,75 +15555,74 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-06T16:21:03.994807+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "search": "BBC Sport",
-        "kind": "direct",
-        "wide": false,
-        "title": "Talk of Irish rugby's decline 'nonsense'",
-        "feed_link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6p3gk32pwvwo?at_medium=RSS&at_campaign=rss",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6p3gk32pwvwo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-05T17:28:30+00:00",
-        "published_label": "Thu 05 Nov, 17:28",
-        "summary": "Ireland captain Dan Sheehan says he has \"full confidence\" in his team-mates as he dismissed talk of a decline in Irish rugby as \"nonsense\".",
-        "id": "e71b44b84dca",
-        "bullets": [],
-        "triaged": true,
-        "priority": 5,
-        "summary_status": "skipped",
-        "skip_reason": "talking-point piece, no new facts",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "BBC Sport",
-        "search": "BBC Sport",
-        "kind": "direct",
-        "wide": false,
-        "title": "Nanobubbles, hungry foxes and hidden reservoir - Twickenham's hi-tech turf",
-        "feed_link": "https://www.bbc.co.uk/sport/rugby-union/articles/crn4e54108w9o?at_medium=RSS&at_campaign=rss",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crn4e54108w9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-05T17:25:14+00:00",
-        "published_label": "Thu 05 Nov, 17:25",
-        "summary": "England's men will be playing on a revolutionary new surface when they take on the Wallabies on Sunday.",
-        "id": "97f499caab01",
-        "bullets": [],
-        "triaged": true,
-        "priority": 5,
-        "summary_status": "skipped",
-        "skip_reason": "turf feature, not news",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
-      },
-      {
-        "section": "Rugby",
-        "source": "Ruck.co.uk",
-        "search": "Rugby news search",
-        "kind": "gnews",
-        "wide": true,
-        "title": "Steve Tandy reacts as fans question selection calls",
-        "feed_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1RZaE8wYnhlVUhydmhNdVJTYW5KSWpzOExpZVFMZ2dWR0IzWTY5dHZGcExldklFRFpQbjZyS0tXcU5HekRIcENFTlNoZTVJUjZBRVBBQ19EU1dQTDB5d2g5SVFfckctQm9Kc1NGd2ZVbWRDdF9HNVNOYUFzbFpXdDlRVGt3TWtraUtzNVl3c0tnVmdGZEE?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1RZaE8wYnhlVUhydmhNdVJTYW5KSWpzOExpZVFMZ2dWR0IzWTY5dHZGcExldklFRFpQbjZyS0tXcU5HekRIcENFTlNoZTVJUjZBRVBBQ19EU1dQTDB5d2g5SVFfckctQm9Kc1NGd2ZVbWRDdF9HNVNOYUFzbFpXdDlRVGt3TWtraUtzNVl3c0tnVmdGZEE?oc=5",
-        "published": "2026-11-05T17:20:00+00:00",
-        "published_label": "Thu 05 Nov, 17:20",
-        "summary": "Steve Tandy reacts as fans question selection calls Ruck.co.uk",
-        "id": "de96c81670d8",
-        "bullets": [],
-        "triaged": true,
-        "priority": 5,
-        "summary_status": "skipped",
-        "skip_reason": "fan selection chatter, no new facts",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
       }
     ],
     "Racket": [
+      {
+        "section": "Racket",
+        "source": "ATP Tour",
+        "search": "Tennis search",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Highlight: Tirante ends Shevchenko's Stockholm 2026 run in QFs",
+        "feed_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzI0NGhmcHBEVkdpNTNOREFEcE5zTzBEQU5hNXY3NkE5bGJjOU9qT0NjQlUxVmNfaVYxZG1aNmMyYzRHRFNobEp2TEhaVjhxdzY0NC1ueGllMFZ0eUtTV2V0WnMza0dfV3BGVll5R254anNPSDNZOWd4bTZSVDVWUEZnUmRBald1NG9INzBWSnZkcFpoNjh4ZQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzI0NGhmcHBEVkdpNTNOREFEcE5zTzBEQU5hNXY3NkE5bGJjOU9qT0NjQlUxVmNfaVYxZG1aNmMyYzRHRFNobEp2TEhaVjhxdzY0NC1ueGllMFZ0eUtTV2V0WnMza0dfV3BGVll5R254anNPSDNZOWd4bTZSVDVWUEZnUmRBald1NG9INzBWSnZkcFpoNjh4ZQ?oc=5",
+        "published": "2026-11-12T17:38:36+00:00",
+        "published_label": "Thu 12 Nov, 17:38",
+        "summary": "Highlight: Tirante ends Shevchenko's Stockholm 2026 run in QFs ATP Tour",
+        "id": "faed6105e549",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "video highlight page",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis news search",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Carlos Alcaraz delivers ATP Finals injury update as he picks a high-profile rival for practice session",
+        "feed_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaUhlNDV1QzUtZjZHdWROeHJtU2YzZTFjLWxIejM3SFptMUpjeG1xZ3ZxcDYwdUNSLXNsN1QycFBMMEkyZVVfcUF1bGprekdXUWZIaE0tZEI0MFNwc0NaSmxleVZTaVpoWEg3cmxTa2lwdWwySFdudllkcUpaMGdMOFpMWQ?oc=5",
+        "link": "https://www.tennis365.com/tennis-news/carlos-alcaraz-injury-update-atp-finals",
+        "published": "2026-11-12T17:36:47+00:00",
+        "published_label": "Thu 12 Nov, 17:36",
+        "summary": "Carlos Alcaraz delivers ATP Finals injury update as he picks a high-profile rival for practice session Tennis365",
+        "id": "46d002bc14f9",
+        "bullets": [],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Carlos Alcaraz has served up a positive update on his fitness ahead of the ATP Finals, even though his right knee was still strapped during his latest practice session. The Australian Open champion has had a hectic few weeks of action, with his title win at the Vienna Open backed up by a big win at the Paris Masters.\n\nNow Alcaraz is targeting his first ATP Finals title and he has arrived in Turin with some concerns over the condition of his right knee. Alcaraz’s knee was strapped and taped during first practice session on Wednesday, but he appeared to have full range of movement.",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
+      },
+      {
+        "section": "Racket",
+        "source": "WTA Tennis",
+        "search": "Tennis search",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Down a set, Svitolina rallies past Muchova to even her record at the FAGE WTA Finals",
+        "feed_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXdlTWthWG05QXpjNDF4UGc0NHBxckZQbGp1bDZobUNhWUN2NWYyTkZmOVdfbFk3OXJtNEd5Y0dlQUdRcjN0YWFhWFJrWW9SX2ZQY2twQUpiVURaNXBLaER0VU9saE9vdWtmUmRIUzNrSndLT0llX0k3MXlsSlFBdE1hdmEwWWJ3WmNpMlk4bklpc0c4ekV5dQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXdlTWthWG05QXpjNDF4UGc0NHBxckZQbGp1bDZobUNhWUN2NWYyTkZmOVdfbFk3OXJtNEd5Y0dlQUdRcjN0YWFhWFJrWW9SX2ZQY2twQUpiVURaNXBLaER0VU9saE9vdWtmUmRIUzNrSndLT0llX0k3MXlsSlFBdE1hdmEwWWJ3WmNpMlk4bklpc0c4ekV5dQ?oc=5",
+        "published": "2026-11-12T16:23:04+00:00",
+        "published_label": "Thu 12 Nov, 16:23",
+        "summary": "Down a set, Svitolina rallies past Muchova to even her record at the FAGE WTA Finals WTA Tennis",
+        "id": "25f9cb02e396",
+        "bullets": [],
+        "triaged": true,
+        "priority": 4,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
+      },
       {
         "section": "Racket",
         "source": "WTA Tennis",
@@ -15556,6 +15666,27 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-12T17:08:01.303605+00:00"
+      },
+      {
+        "section": "Racket",
+        "source": "Tennis365",
+        "search": "Tennis365",
+        "kind": "direct",
+        "wide": false,
+        "title": "The ATP Tour has just introduced a brand-new rule which Taylor Fritz says ‘definitely helps’ players",
+        "feed_link": "https://www.tennis365.com/tennis-news/the-atp-tour-taylor-fritz",
+        "link": "https://www.tennis365.com/tennis-news/the-atp-tour-taylor-fritz",
+        "published": "2026-11-12T16:00:29+00:00",
+        "published_label": "Thu 12 Nov, 16:00",
+        "summary": "Taylor Fritz is a big fan of a new ATP rule. The post The ATP Tour has just introduced a brand-new rule which Taylor Fritz says ‘definitely helps’ players appeared first on Tennis365 .",
+        "id": "85115eadb423",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "There have been several complaints about the quality of tennis balls throughout the 2026 season, with the likes of Daniil Medvedev and Taylor Fritz leading the charge. Many believe the quality of the balls are not up to scratch, with them fraying well before they are set to change after every nine games.\n\nElsewhere, some players, including Fritz, have suggested that there should be more consistency with the balls, with several different companies currently issuing them across different parts of the season.",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
       },
       {
         "section": "Racket",
@@ -15743,13 +15874,17 @@
         "published_label": "Thu 12 Nov, 14:00",
         "summary": "The star is still expected to play the ATP Finals. The post When Carlos Alcaraz injured his knee as he takes ‘precautionary’ measures ahead of the ATP Finals appeared first on Tennis365 .",
         "id": "7cc047ce43ec",
-        "bullets": [],
+        "bullets": [
+          "Carlos Alcaraz is dealing with a knee niggle ahead of the ATP Finals in Turin but is not expected to miss the tournament. He trained with a bandage on his knee. Spanish journalist Alvaro Sanchez reported that it is a precautionary measure for a problem carried since his 6-4, 6-4 semi-final win over Casper Ruud at the Paris Masters.",
+          "The world No 3 missed four and a half months this year with a wrist injury. He has made three previous ATP Finals appearances, reaching the final in 2025, where he beat Felix Auger-Aliassime, Taylor Fritz, Alex de Minaur and Lorenzo Musetti before losing to Jannik Sinner. With Sinner absent this year, Alcaraz is among the overwhelming favourites. In Turin he practised with junior world No 1 Luís Guto Miguel. The tournament runs from 15 to 22 November."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Carlos Alcaraz is said to be dealing with a knee injury ahead of the ATP Finals, although it is not expected to see him miss out on the year-end tournament. The Spaniard has already arrived in Turin for the ATP Finals as he prepares to win the tournament for the first time in his career.\n\nAlcaraz has been spotted with a bandage on his knee on the court in Turin, with many fans worrying up his status after an already injury-riddled season. The Spaniard missed four and a half months of action due to a wrist injury this year and the last thing he needs is more time away from the sport.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Racket",
@@ -15858,6 +15993,28 @@
         "read_attempts": 1,
         "copy": "British wheelchair tennis player Lucy Shuker has retired after 24 years as a professional and three Paralympic medals. The 46-year-old represented GB at five consecutive Paralympics and won one silver medal and two bronze between 2012 and 2020, in the women's doubles alongside Jordanne Whiley.\n\nA nine-time Grand Slam finalist and seven-time World Team Cup medalist, Shuker announced during Wimbledon this year that she would retire at the end of the season. At the time she had 98 doubles titles and achieved her aim of reaching 100 earlier this month, when she and Ruby Bishop won at the WC50 Abingdon in Oxfordshire. Shuker also won 39 singles titles.",
         "first_seen": "2026-11-12T17:08:01.303605+00:00"
+      },
+      {
+        "section": "Racket",
+        "source": "BBC",
+        "search": "Tennis news search",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Lucy Shuker: British wheelchair tennis player retires after 24-year career",
+        "feed_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQWlmSFFEeTRLdWpBZ3N4YWh1Y0NBTXFHTGNPSnBOSWh5SGVxQnpKcjJwdWE0WTVCUGN3aDdFaURabkZOclJ6MkRrUE1TMTlKVmZZazlpSFlTaEx1dnlZXzV0YlRnUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQWlmSFFEeTRLdWpBZ3N4YWh1Y0NBTXFHTGNPSnBOSWh5SGVxQnpKcjJwdWE0WTVCUGN3aDdFaURabkZOclJ6MkRrUE1TMTlKVmZZazlpSFlTaEx1dnlZXzV0YlRnUQ?oc=5",
+        "published": "2026-11-12T12:30:19+00:00",
+        "published_label": "Thu 12 Nov, 12:30",
+        "summary": "Lucy Shuker: British wheelchair tennis player retires after 24-year career BBC",
+        "id": "fb9f205cb649",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
       },
       {
         "section": "Racket",
@@ -16027,7 +16184,9 @@
         "is_article": true,
         "read_attempts": 1,
         "copy": "Emma Raducanu has enjoyed an injury-riddled 2026, which has seen her play just 21 matches in the last 11 months. The British star has suffered from a variety of issues, including injury and illness, which has significantly affected what she has been able to achieve on the WTA Tour in 2026.\n\nRaducanu has not played a competitive tennis match since reaching the final of Queen’s in June, after suffering a stress fracture of the shin at the WTA 500 tournament. However, Raducanu is set to return to action in the 2027 season and her first opponent of the season has already been confirmed.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of BBC Sport Raducanu story"
       },
       {
         "section": "Racket",
@@ -16272,6 +16431,28 @@
       },
       {
         "section": "Racket",
+        "source": "The Independent",
+        "search": "HSBC tennis watch",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Emma Raducanu’s return to tennis confirmed after six-month injury lay-off",
+        "feed_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXRiVU9aVERTcVpHNEpSTlQ4MHcydnctSXhqOXJONmJMV1Z0RXlUcXlZNGcxbEk2bDZNV0tkN1FlV1VJYUpMX1lEbkhnLThRUWZNVWduVnJFU0FYTEJYRG1PN1dSaU96c0pRVWdWYTBhS3huSXRGREc2SV8wUkVWbXpHZldyOThsTGg3MDdvMUlfS0psZC1fQmhZVFRfbVU?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXRiVU9aVERTcVpHNEpSTlQ4MHcydnctSXhqOXJONmJMV1Z0RXlUcXlZNGcxbEk2bDZNV0tkN1FlV1VJYUpMX1lEbkhnLThRUWZNVWduVnJFU0FYTEJYRG1PN1dSaU96c0pRVWdWYTBhS3huSXRGREc2SV8wUkVWbXpHZldyOThsTGg3MDdvMUlfS0psZC1fQmhZVFRfbVU?oc=5",
+        "published": "2026-11-12T09:16:00+00:00",
+        "published_label": "Thu 12 Nov, 09:16",
+        "summary": "Emma Raducanu’s return to tennis confirmed after six-month injury lay-off The Independent",
+        "id": "48855a196049",
+        "bullets": [],
+        "triaged": true,
+        "priority": 8,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
+      },
+      {
+        "section": "Racket",
         "source": "Sportscape Magazine",
         "search": "Badminton search",
         "kind": "gnews",
@@ -16357,7 +16538,9 @@
         "is_article": true,
         "read_attempts": 1,
         "copy": "Emma Raducanu has finally confirmed her return to competition at the United Cup after spending months sidelined by a shin injury. The 23-year-old will represent Team GB along with British No. 1 Arthur Fery, and they face France and Australia in the group stages at the beginning of January. Raducanu has not played a match since she lost the Queen's final to Donna Vekic in mid-June. She subsequently pulled out of Wimbledon on the eve of the tournament and has given little updates on her comeback since.\n\nBut Raducanu's lengthy absence has paid off, as she has spent enough time sidelined by injury to get a protected ranking. This is offered to players who have been out for six months, and is based on their ranking before their absence. It can be used to enter up to eight tournaments, including two Grand Slams.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of BBC Sport Raducanu story"
       },
       {
         "section": "Racket",
@@ -16511,6 +16694,28 @@
         "read_attempts": 1,
         "copy": "Former world No. 1 Kidambi Srikanth pulled off a major upset in Japan, beating defending champion Kodai Naraoka to reach the last eight of the Kumamoto Masters. Indian men’s singles shuttler Kidambi Srikanth, a runner-up at the US Open earlier this year, pulled off a major upset by beating 2026 World Championships silver medallist and fifth seed Kodai Naraoka in the second round of the Kumamoto Masters.\n\nAfter edging past Denmark’s Rasmus Gemke 18-21, 21-16, 24-22 in a thrilling first-round encounter on Wednesday, Srikanth produced another hard-fought performance to overcome Naraoka 21-15, 11-21, 21-18.",
         "first_seen": "2026-11-12T17:08:01.303605+00:00"
+      },
+      {
+        "section": "Racket",
+        "source": "Olympics",
+        "search": "Olympics",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Dakar 2026: France badminton prodigy Mady Sow focused with a golden eye: \"He's got something extra\"",
+        "feed_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSm1vZ1VWam1qb3VBMEJqNklLN3Z2WmE0ZUZ5dEx0S2JxNmtXX25zZUc1ZW4xaFBXRVF0Q1UteTQySjE5czNCN2UtdTVmWXoxUjhKZXRVU2VIbUVBZDNUNndyRDRWZlVNMEplaGR1bDViMmtpNkk2UTgxMWtwZTBSc1ZzY2hrUjJnQ3E4TlNNekZCd3hRYVZ4UXNiajJxRlZ2SmxqVXRzWWk3UkFkclVFYXd4QWw0ZkFZS0FQeUhfd3U5ck5yZUtSVjdKdlE3V2x1V1BhZHB3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSm1vZ1VWam1qb3VBMEJqNklLN3Z2WmE0ZUZ5dEx0S2JxNmtXX25zZUc1ZW4xaFBXRVF0Q1UteTQySjE5czNCN2UtdTVmWXoxUjhKZXRVU2VIbUVBZDNUNndyRDRWZlVNMEplaGR1bDViMmtpNkk2UTgxMWtwZTBSc1ZzY2hrUjJnQ3E4TlNNekZCd3hRYVZ4UXNiajJxRlZ2SmxqVXRzWWk3UkFkclVFYXd4QWw0ZkFZS0FQeUhfd3U5ck5yZUtSVjdKdlE3V2x1V1BhZHB3?oc=5",
+        "published": "2026-11-12T04:28:40+00:00",
+        "published_label": "Thu 12 Nov, 04:28",
+        "summary": "Dakar 2026: France badminton prodigy Mady Sow focused with a golden eye: \"He's got something extra\" Olympics",
+        "id": "9a4875c69487",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "badminton profile feature, no result or news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
       },
       {
         "section": "Racket",
@@ -16743,13 +16948,17 @@
         "published_label": "Wed 11 Nov, 18:05",
         "summary": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027.",
         "id": "36ebd27f6655",
-        "bullets": [],
+        "bullets": [
+          "Emma Raducanu will return to tennis at the United Cup in Australia, which runs from 1 to 10 January 2027. It will be her first action since a stress fracture of the shin ended her season in June. The 23-year-old lost the Queen's Club final to Donna Vekic on 14 June and withdrew from Wimbledon on the eve of her opening match 14 days later. She will play for Britain alongside Arthur Fery, with group matches against Australia and France in Sydney.",
+          "By delaying her comeback, Raducanu can use a special ranking of 38, available to players out injured for at least six months, to enter eight events in 2027. These include two Grand Slams and five WTA 1000 tournaments. Her actual ranking of 107 would probably be too low for the Australian Open main draw. She has averaged 31 matches a season since her 2021 US Open win and played 21 in 2026."
+        ],
         "triaged": true,
         "priority": 8,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027. Britain's 2021 US Open champion has not played since June because of a stress fracture of the shin.\n\nRaducanu was beaten by Croatia’s Donna Vekic in her first grass-court final at Queen's Club on 14 June, but had to pull out of Wimbledon on the eve of her opening match just 14 days later.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Racket",
@@ -17514,6 +17723,28 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-12T17:08:01.303605+00:00"
+      },
+      {
+        "section": "Racket",
+        "source": "Olympics",
+        "search": "Olympics",
+        "kind": "gnews",
+        "wide": false,
+        "title": "How Inside Sport Sessions helped young athletes evolve at Dakar 2026",
+        "feed_link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNQnR3a2lVa3I1OVdUY3VsWkFDdHJQdzAwMkMyOG0zQkRIQl9sMWFRWUJVN0tDX2dSR3BVa2l0NXpQMUFCZjdtdlQyNUVwWGZkTURIZjBPbnlGNDZPTVp1bzZpcDFfTTdmVWZLdzJpbm9iVmVURkdMSHNpZDJXWHJhNjllTkpKRVNpY3ZPZ0txS2ZGZ1JtX3hTTzY5b0Jmc3pmRUtQbUJIU2NEREdIdXRlWlFybnVZVExyb3VQalVCOWVPajFDQXljclE3ZzFPUVBDbElTS3pOWWJjRUEwR3JfZm5mcVNNelpweEFwSG5TMWxHN1lnTFM2V1hzZEdRZzZ2UFkyNHhxQjcwc1RYNkNuWnZLeTZnejVFY1FBXzBvdWczLWFDTU1yS0xJSUdPX3VwenJMWU9JWjlQN09rYmQwdEdxOEk?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNQnR3a2lVa3I1OVdUY3VsWkFDdHJQdzAwMkMyOG0zQkRIQl9sMWFRWUJVN0tDX2dSR3BVa2l0NXpQMUFCZjdtdlQyNUVwWGZkTURIZjBPbnlGNDZPTVp1bzZpcDFfTTdmVWZLdzJpbm9iVmVURkdMSHNpZDJXWHJhNjllTkpKRVNpY3ZPZ0txS2ZGZ1JtX3hTTzY5b0Jmc3pmRUtQbUJIU2NEREdIdXRlWlFybnVZVExyb3VQalVCOWVPajFDQXljclE3ZzFPUVBDbElTS3pOWWJjRUEwR3JfZm5mcVNNelpweEFwSG5TMWxHN1lnTFM2V1hzZEdRZzZ2UFkyNHhxQjcwc1RYNkNuWnZLeTZnejVFY1FBXzBvdWczLWFDTU1yS0xJSUdPX3VwenJMWU9JWjlQN09rYmQwdEdxOEk?oc=5",
+        "published": "2026-11-11T08:00:00+00:00",
+        "published_label": "Wed 11 Nov, 08:00",
+        "summary": "How Inside Sport Sessions helped young athletes evolve at Dakar 2026 www.olympics.com",
+        "id": "fdc1b9d62bcf",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "youth games feature, no racket result",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-12T17:45:00.124842+00:00"
       },
       {
         "section": "Racket",
@@ -25008,50 +25239,6 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-06T16:21:03.994807+00:00"
-      },
-      {
-        "section": "Racket",
-        "source": "Olympics",
-        "search": "Olympics",
-        "kind": "gnews",
-        "wide": false,
-        "title": "Mady Sow vs Riyan Malhan | Men's badminton gold final | Dakar 2026",
-        "feed_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0J2R21paGZRbUlLWFJ0MUpvNWdiSzVXUWhVc0lqTU5lVW5aM3kxbV91cDlid1NXUmVsU25DWWFBTnF2T3FWQTk4cGNhWThYek1QeEZobHNZLXlFRjAwN1RBc2EyWUN5M0pubTF2NVAxejJkaHNJaWtMWXZrYTlSWjRrTUV0N3A5UzRkbUQwSTFFTVRkNkZhTA?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0J2R21paGZRbUlLWFJ0MUpvNWdiSzVXUWhVc0lqTU5lVW5aM3kxbV91cDlid1NXUmVsU25DWWFBTnF2T3FWQTk4cGNhWThYek1QeEZobHNZLXlFRjAwN1RBc2EyWUN5M0pubTF2NVAxejJkaHNJaWtMWXZrYTlSWjRrTUV0N3A5UzRkbUQwSTFFTVRkNkZhTA?oc=5",
-        "published": "2026-11-05T17:42:15+00:00",
-        "published_label": "Thu 05 Nov, 17:42",
-        "summary": "Mady Sow vs Riyan Malhan | Men's badminton gold final | Dakar 2026 www.olympics.com",
-        "id": "e8f25067b92f",
-        "bullets": [],
-        "triaged": true,
-        "priority": 5,
-        "summary_status": "skipped",
-        "skip_reason": "video highlights page",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-06T16:21:03.994807+00:00"
-      },
-      {
-        "section": "Racket",
-        "source": "Sky Sports",
-        "search": "Tennis search",
-        "kind": "gnews",
-        "wide": true,
-        "title": "Jessica Pegula overheard making comments about Mirra Andreeva on WTA livestream",
-        "feed_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlk2ZUlleGFBc0VyTjh2Y0tXb05wMlExYjNsUVFqOENqVFcwb2RIcWVORk1ZNV82UU5oQ2c1SV9nOFNUd18xczhWX3ZmanVNX01Jc0huc0R5YVpiSFJyTWo0cWlsMEFfbU9ha2xEdmtnR3VxMHlDc3YzdXA4d2daaEtpVjAzc19tSVJNLWVEemY0bjRJODBCdjc0N2I2Y2dSczlKT2RIWk1lZlZoOWtvNWw1UVNHWTFJcXc2SllCOTRxYjJvT3c?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlk2ZUlleGFBc0VyTjh2Y0tXb05wMlExYjNsUVFqOENqVFcwb2RIcWVORk1ZNV82UU5oQ2c1SV9nOFNUd18xczhWX3ZmanVNX01Jc0huc0R5YVpiSFJyTWo0cWlsMEFfbU9ha2xEdmtnR3VxMHlDc3YzdXA4d2daaEtpVjAzc19tSVJNLWVEemY0bjRJODBCdjc0N2I2Y2dSczlKT2RIWk1lZlZoOWtvNWw1UVNHWTFJcXc2SllCOTRxYjJvT3c?oc=5",
-        "published": "2026-11-05T17:30:09+00:00",
-        "published_label": "Thu 05 Nov, 17:30",
-        "summary": "Jessica Pegula overheard making comments about Mirra Andreeva on WTA livestream Sky Sports",
-        "id": "befb686f68ac",
-        "bullets": [],
-        "triaged": true,
-        "priority": 1,
-        "summary_status": "skipped",
-        "skip_reason": "duplicate of a story we already have",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
       }
     ],
     "Golf": [
@@ -25264,13 +25451,17 @@
         "published_label": "Thu 12 Nov, 14:56",
         "summary": "DP World Tour Championship: Rory McIlroy 'trending well' in pursuit of record-equalling Race to Dubai victory Sky Sports",
         "id": "c55e4b14cfb6",
-        "bullets": [],
+        "bullets": [
+          "Rory McIlroy opened the season-ending DP World Tour Championship at Jumeirah Golf Estates with a 69, leaving him two shots behind early leader Joost Luiten and three clear of Eugenio Chacarra, the player ahead of him in the Race to Dubai standings. The world No 2 is chasing an eighth Race to Dubai title and a fifth in a row, which would equal Colin Montgomerie's tally of eight Order of Merit wins.",
+          "Former Ryder Cup captain Paul McGinley said McIlroy generally delivers when he has a clear goal, and described the title race as a three-horse contest between McIlroy, Chacarra and Rahm. Nine players began the week with a mathematical chance, but Patrick Reed, Casey Jarvis, Jayden Schaper, Aaron Rai and Ryan Fox all made poor starts. McIlroy, now 37, won his first Order of Merit in 2012 and said he has never lost his enthusiasm for the game."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Former Ryder Cup captain Paul McGinley believes Race to Dubai victory will boost Rory McIlroy’s ambition to be remembered as the best European golfer of all-time. McIlroy arrived at the season-ending DP World Tour Championship second in the season-long standings, with the world No 2 looking to win the Race to Dubai for an eighth time and a fifth year in a row.\n\nWinning the Harry Vardon Trophy would see him match Colin Montgomerie's tally of eight Order of Merit titles, with McIlroy making a strong start by posting an opening-round 69 at Jumeirah Golf Estates.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -25307,13 +25498,17 @@
         "published_label": "Thu 12 Nov, 14:13",
         "summary": "Rory McIlroy makes a strong start to his bid for a record-equalling eighth Race to Dubai title with a three under opening round at the DP World Tour Championship.",
         "id": "b3117af4678f",
-        "bullets": [],
+        "bullets": [
+          "Rory McIlroy opened with a three-under-par round, including five birdies and two bogeys in windy conditions, at the DP World Tour Championship as he bids for a record-equalling eighth Race to Dubai title. He sits two shots behind early leader Joost Luiten, who shot 67 and is one clear of Denmark's Jacob Skov Olesen.",
+          "Race to Dubai leader Eugenio Chacarra, 533.93 points ahead of McIlroy with 2,000 available to this week's winner, shot a level-par 72, while third-placed Patrick Reed returned a 75. Nine players can still win the title, but only Chacarra and McIlroy can guarantee it with victory at Jumeirah Golf Estates. McIlroy said the course set-up is more difficult than in previous years and that a solid start was important."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Rory McIlroy made a strong start to his bid for a record-equalling eighth Race to Dubai title with a three-under-par opening round at the DP World Tour Championship. The world number two, whose round included five birdies and two bogeys in windy conditions, is two shots behind early leader Joost Luiten.\n\nSpain's Eugenio Chacarra, who leads McIlroy by 533.93 points in the Race to Dubai standings - with 2,000 available to this week's winner - opened with a level-par 72, while third-placed American Patrick Reed struggled during a 75.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -25529,13 +25724,17 @@
         "published_label": "Thu 12 Nov, 13:03",
         "summary": "DP World Tour Championship: Rory McIlroy boosts Race to Dubai hopes as Joost Luiten grabs shock early lead Sky Sports",
         "id": "73451deb8ef8",
-        "bullets": [],
+        "bullets": [
+          "Rory McIlroy opened with a three-under 69 at the DP World Tour Championship at Jumeirah Golf Estates, leaving him tied third and two shots behind Joost Luiten, who leads after a five-under 67. McIlroy made five birdies and two bogeys. He needs to finish fourth or better to have a chance of overtaking Eugenio Chacarra and winning a record-equalling eighth Race to Dubai title.",
+          "Chacarra, the Race to Dubai leader, opened with a level-par 72. McIlroy can guarantee the title by winning the event for a fourth time. Luiten, the last player in the field and 56th in the season rankings, is one ahead of Jacob Skov Olesen. Jon Rahm and Daniel Hillier also broke par with 71s, and only 22 of the 50 players finished under par. Olesen is among those seeking PGA Tour membership, which goes to the top 10 eligible players in the standings."
+        ],
         "triaged": true,
         "priority": 7,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Rory McIlroy made a strong start to his bid for a record-equalling eighth Race to Dubai title, as Joost Luiten grabbed a shock early lead at the DP World Tour Championship. McIlroy, who needs to finish fourth or better to have a chance of surpassing Eugenio Chacarra in the season-long standings and win the Race to Dubai for an eighth time, carded an opening-round 69 at Jumeirah Golf Estates.\n\nThe world No 2 mixed five birdies with two bogeys in breezy conditions on the Earth Course, where he missed an eagle opportunity at the par-five last that would have moved him above Chacarra in the projected Race to Dubai standings.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -25811,13 +26010,17 @@
         "published_label": "Wed 11 Nov, 20:46",
         "summary": "The LPGA is updating its pace-of-play policy and dishing out stricter punishments in 2027 after pace flatlined during the 2026 season. The post LPGA to update pace-of-play policy with stricter punishments appeared first on Golf .",
         "id": "8acab741bab4",
-        "bullets": [],
+        "bullets": [
+          "The LPGA will introduce stricter pace-of-play punishments in 2027 after pace flatlined during the 2026 season. Players will be fined immediately for taking one to five seconds over their allotted time, with the two warnings removed, while one-stroke (six to 15 seconds) and two-stroke (16 seconds or more) penalties will now also carry a fine.",
+          "A player reaching 35 timed holes will be fined, down from 40, and the time allowed per shot falls from 70 to 60 seconds. Players were told at The Annika in Belleair, Florida. There were five one-stroke and two two-stroke penalties this year, against three and two in 2025. Nelly Korda and Charley Hull backed the changes, and the season ends next week at the CME Group Tour Championship."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The LPGA is updating its pace-of-play policy and dishing out stricter punishments in 2027 after pace flatlined during the 2026 season. Players were informed of the changes by the Pace of Play Committee during a Tuesday meeting at The Annika in Belleair, Florida, the LPGA’s penultimate event of the season.\n\nThe updated policy will include more fines. Previously, players who took one to five seconds over their allotted time to hit a shot were given two warnings before a fine. Now the warnings are gone and players will be fined right away. Six to 15 seconds over allotment remains a one-stroke penalty but a fine will now be included, and 16 seconds or more remains a two-stroke penalty but will also come with a fine.",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -25854,13 +26057,17 @@
         "published_label": "Wed 11 Nov, 20:08",
         "summary": "LIV Golf 2.0 won't go forward as intended but the remnants of the rebel league are already all over the league it wanted to end. The post LIV Golf is dead, but its remnants are already all over the tour it tried to ‘destroy’ appeared first on Golf .",
         "id": "f0cd1249d312",
-        "bullets": [],
+        "bullets": [
+          "LIV Golf's lawyers told a bankruptcy court last week that the league would begin winding down toward liquidation and that LIV Golf 2.0 would not go ahead. Eight former LIV players are in the field at this week's DP World Tour Championship, and Eugenio Chacarra, Patrick Reed and Jon Rahm all have a chance of winning the Race to Dubai.",
+          "Rahm, Tyrrell Hatton and others have DP World Tour status for 2027, while Reed and Chacarra will head to the PGA Tour but plan to play in Europe too. Bryson DeChambeau can be offered DP World Tour membership through his 2024 U.S. Open win but must commit by next week. Rory McIlroy said having former LIV players qualify through the DP World Tour for the PGA Tour's Championship Series would make the tour very strong."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "LIV Golf is dead. The time of death for the rebel league came last week in a bankruptcy hearing, when LIV’s lawyers informed the court they would begin winding down toward liquidation and that LIV Golf 2.0 would not go forward as they hoped.\n\nWhile the former Saudi-backed league will soon fade into golf history, the remnants of it are all over the tour it tried “to destroy.” “They took players, they took sponsors, they turned professional golf into an arms race,” Rory McIlroy said last week in Abu Dhabi about LIV’s threat to the DP World Tour. “They were going around Augusta saying they wanted to destroy the European Tour.”",
-        "first_seen": "2026-11-12T17:08:01.303605+00:00"
+        "first_seen": "2026-11-12T17:08:01.303605+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
@@ -32105,138 +32312,6 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-06T16:21:03.994807+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "The Mirror",
-        "search": "Golf search",
-        "kind": "gnews",
-        "wide": true,
-        "title": "LIV Golf collapses immediately as $5bn project in ruins after top players walk away",
-        "feed_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxRHBzNnpfaDVleGhEaXZ6M0tlSmpKOUludmpYRV9TR0dpMm11MlBJS256QWkzblhfVFVRQ3BsSkVBbFpWTms3WmltV3FtNnR5UGc0RlRIWmlkaHEzSzE3TXQ1ZHBMRVAzMmduaGFILUd0aDNBRFZtb1AtVVHSAYIBQVVfeXFMTmNtbjFQSDJ1SU5XNzBSNTdlQ3JRbWlETkVwcjI1Vk5ucXRtYjJHMll6NDdtZjM4eURwNjYxeE9CTllWVmlmc2d2RmZaUjVPX0lfOGg5a2M5MXlNc3dpdERvMDQtNjJpTC1WYVpCTFN3ZFJ1dHlfbDUtVjZFcDhrZG80UQ?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxRHBzNnpfaDVleGhEaXZ6M0tlSmpKOUludmpYRV9TR0dpMm11MlBJS256QWkzblhfVFVRQ3BsSkVBbFpWTms3WmltV3FtNnR5UGc0RlRIWmlkaHEzSzE3TXQ1ZHBMRVAzMmduaGFILUd0aDNBRFZtb1AtVVHSAYIBQVVfeXFMTmNtbjFQSDJ1SU5XNzBSNTdlQ3JRbWlETkVwcjI1Vk5ucXRtYjJHMll6NDdtZjM4eURwNjYxeE9CTllWVmlmc2d2RmZaUjVPX0lfOGg5a2M5MXlNc3dpdERvMDQtNjJpTC1WYVpCTFN3ZFJ1dHlfbDUtVjZFcDhrZG80UQ?oc=5",
-        "published": "2026-11-05T17:35:00+00:00",
-        "published_label": "Thu 05 Nov, 17:35",
-        "summary": "LIV Golf collapses immediately as $5bn project in ruins after top players walk away The Mirror",
-        "id": "8654998d6e5f",
-        "bullets": [],
-        "triaged": true,
-        "priority": 1,
-        "summary_status": "skipped",
-        "skip_reason": "duplicate of a story we already have",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Sportico.com",
-        "search": "Golf search",
-        "kind": "gnews",
-        "wide": true,
-        "title": "Short LIV’d: Golf League Tells Bankruptcy Court Its 2.0 Plans Dead",
-        "feed_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3JaSHk1TmVLcjVmNnZLcUlXWC1WQUNkbjJLa2RFa1V5aEMyUERYYUVYdEhDWVd0S01vZTF0Yi1jNDFoc2lodEtUdzAwc1FlcGNaYmlPczY3SkRubVJVc0xMYmRZbWw4bVJKRlBieVM1dlVCNHJZVWtKZmRCUXZIdjNjZlhUOUJXcTNkdQ?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3JaSHk1TmVLcjVmNnZLcUlXWC1WQUNkbjJLa2RFa1V5aEMyUERYYUVYdEhDWVd0S01vZTF0Yi1jNDFoc2lodEtUdzAwc1FlcGNaYmlPczY3SkRubVJVc0xMYmRZbWw4bVJKRlBieVM1dlVCNHJZVWtKZmRCUXZIdjNjZlhUOUJXcTNkdQ?oc=5",
-        "published": "2026-11-05T17:33:16+00:00",
-        "published_label": "Thu 05 Nov, 17:33",
-        "summary": "Short LIV’d: Golf League Tells Bankruptcy Court Its 2.0 Plans Dead Sportico.com",
-        "id": "e377b26bbf54",
-        "bullets": [],
-        "triaged": true,
-        "priority": 1,
-        "summary_status": "skipped",
-        "skip_reason": "duplicate of a story we already have",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Forbes",
-        "search": "Golf search",
-        "kind": "gnews",
-        "wide": true,
-        "title": "LIV Golf Is Officially Shutting Down After 5 Years",
-        "feed_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWlBZTNIdExVQXFJVC1qT1BrYWhuZGpUNnlrVk95STVkcVBhdjdkYmhENzdIY3ZMRXZRaVo5N0FfcW5nUFVaVmVCM0t4YkNadVlIT2pwMm1JT0R0SGIzQVJfRURSSnYtMUx3Tmh6NEx0ZnQ0OUhLblVYLV9NNG5ESHVPd3d0NFBzaVRJb29ES2s0ZS05NFduanl4WHk1MF84eHg4?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWlBZTNIdExVQXFJVC1qT1BrYWhuZGpUNnlrVk95STVkcVBhdjdkYmhENzdIY3ZMRXZRaVo5N0FfcW5nUFVaVmVCM0t4YkNadVlIT2pwMm1JT0R0SGIzQVJfRURSSnYtMUx3Tmh6NEx0ZnQ0OUhLblVYLV9NNG5ESHVPd3d0NFBzaVRJb29ES2s0ZS05NFduanl4WHk1MF84eHg4?oc=5",
-        "published": "2026-11-05T17:29:12+00:00",
-        "published_label": "Thu 05 Nov, 17:29",
-        "summary": "LIV Golf Is Officially Shutting Down After 5 Years Forbes",
-        "id": "167298d104c1",
-        "bullets": [],
-        "triaged": true,
-        "priority": 1,
-        "summary_status": "skipped",
-        "skip_reason": "duplicate of a story we already have",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Bloomberg.com",
-        "search": "Golf search",
-        "kind": "gnews",
-        "wide": true,
-        "title": "LIV Golf Nears Liquidation After Turnaround Plan Derailed",
-        "feed_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDhiR3BfdlBHS2UwNWV2MDk1S3dyMHJDVG90UkVWSlZzWVE0VHJIWUJSTGdWanZaQW11ajh5TklLOVQzcVRHcEZTUjlDcGFVelMxNEpGZGdkVXEyalJPZmU0Z1ItbS1McElkN3FsN1FqM1M4VE9FUHRXLU1xeUY1WDR4Y3Bhc3pMZkdNMmlZY1lMbFFoOXJXR3hYREdGeTFQdHBvSEgyUEJhaVVzOHFjZg?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDhiR3BfdlBHS2UwNWV2MDk1S3dyMHJDVG90UkVWSlZzWVE0VHJIWUJSTGdWanZaQW11ajh5TklLOVQzcVRHcEZTUjlDcGFVelMxNEpGZGdkVXEyalJPZmU0Z1ItbS1McElkN3FsN1FqM1M4VE9FUHRXLU1xeUY1WDR4Y3Bhc3pMZkdNMmlZY1lMbFFoOXJXR3hYREdGeTFQdHBvSEgyUEJhaVVzOHFjZg?oc=5",
-        "published": "2026-11-05T17:25:30+00:00",
-        "published_label": "Thu 05 Nov, 17:25",
-        "summary": "LIV Golf Nears Liquidation After Turnaround Plan Derailed Bloomberg.com",
-        "id": "ee53fe19963c",
-        "bullets": [],
-        "triaged": true,
-        "priority": 1,
-        "summary_status": "skipped",
-        "skip_reason": "duplicate of a story we already have",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "CBS Sports",
-        "search": "Golf news search",
-        "kind": "gnews",
-        "wide": true,
-        "title": "LIV Golf shutting down after new financial backer pulls funding from fledging league",
-        "feed_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDFONW55ZmJWclhaRnd2cnhITVRjTnBlZFdOcERFejA4ZE1wZDVTWUZGYlRCUWFvakNHVnhCbjRWSkdOSlktNXczcVZHVFRDaHNGNHJ4bGpkelRhRVlIY3hEdXg1SXJPeEtaR203a1NBbWxHaldfZnFrXy1tUnRLNmJCak9tbTZ0bm42WDFyRTN2amM?oc=5",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDFONW55ZmJWclhaRnd2cnhITVRjTnBlZFdOcERFejA4ZE1wZDVTWUZGYlRCUWFvakNHVnhCbjRWSkdOSlktNXczcVZHVFRDaHNGNHJ4bGpkelRhRVlIY3hEdXg1SXJPeEtaR203a1NBbWxHaldfZnFrXy1tUnRLNmJCak9tbTZ0bm42WDFyRTN2amM?oc=5",
-        "published": "2026-11-05T17:24:00+00:00",
-        "published_label": "Thu 05 Nov, 17:24",
-        "summary": "LIV Golf shutting down after new financial backer pulls funding from fledging league CBS Sports",
-        "id": "c2d6596c1abb",
-        "bullets": [],
-        "triaged": true,
-        "priority": 1,
-        "summary_status": "skipped",
-        "skip_reason": "duplicate of a story we already have",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
-      },
-      {
-        "section": "Golf",
-        "source": "Golf Monthly",
-        "search": "Golf Monthly",
-        "kind": "direct",
-        "wide": false,
-        "title": "LIV Golf Is Over As League Set To Wind Down",
-        "feed_link": "https://www.golfmonthly.com/news/liv-golf-is-over-as-league-set-to-wind-down",
-        "link": "https://www.golfmonthly.com/news/liv-golf-is-over-as-league-set-to-wind-down",
-        "published": "2026-11-05T17:20:29+00:00",
-        "published_label": "Thu 05 Nov, 17:20",
-        "summary": "The LIV Golf era is at an end with lawyers telling a bankruptcy hearing that a proposed $300m investment deal is officially dead and the league will enter liquidation",
-        "id": "f107d48d8cb0",
-        "bullets": [],
-        "triaged": true,
-        "priority": 1,
-        "summary_status": "skipped",
-        "skip_reason": "duplicate of a story we already have",
-        "is_article": true,
-        "copy": "",
-        "first_seen": "2026-11-05T17:40:20.081022+00:00"
       }
     ]
   },
