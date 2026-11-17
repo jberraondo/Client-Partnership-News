@@ -128,7 +128,27 @@ COMPETITOR_BANKS = [
     ("BNP Paribas",           '"BNP Paribas"',                                ["BNP Paribas", "BNP"]),
     ("Deutsche Bank",         '"Deutsche Bank"',                              ["Deutsche Bank"]),
     ("UBS",                   'UBS',                                          ["UBS"]),
+    # Asia
+    ("DBS",                   '"DBS Bank" OR (DBS -"DBS check")',             ["DBS"]),
+    ("OCBC Bank",             'OCBC',                                         ["OCBC"]),
+    ("UOB",                   'UOB OR "United Overseas Bank"',                ["UOB", "United Overseas Bank"]),
+    ("Bank of China",         '"Bank of China"',                              ["Bank of China"]),
+    ("HDFC Bank",             '"HDFC Bank" OR HDFC',                          ["HDFC"]),
+    ("SBI",                   '"State Bank of India" OR SBI',                 ["State Bank of India", "SBI"]),
+    ("ICICI Bank",            'ICICI',                                        ["ICICI"]),
+    ("Kotak Mahindra Bank",   'Kotak',                                        ["Kotak"]),
+    ("Axis Bank",             '"Axis Bank"',                                  ["Axis Bank"]),
+    # Middle East
+    ("First Abu Dhabi Bank",  '"First Abu Dhabi Bank" OR "FAB bank"',         ["First Abu Dhabi Bank", "FAB"]),
+    ("Emirates NBD",          '"Emirates NBD"',                               ["Emirates NBD"]),
+    ("Abu Dhabi Commercial Bank", '"Abu Dhabi Commercial Bank" OR ADCB',      ["Abu Dhabi Commercial Bank", "ADCB"]),
+    # Card networks
+    ("Amex",                  '"American Express" OR Amex',                   ["American Express", "Amex", "AmEx"]),
+    ("Visa",                  'Visa -immigration -"visa application" -"visa rules"', ["Visa"]),
+    ("Mastercard",            'Mastercard',                                   ["Mastercard", "MasterCard"]),
 ]
+# The 33 brands above are the whole Competitor News list: nothing else counts.
+COMPETITOR_ALIASES = [a for _n, _t, aliases in COMPETITOR_BANKS for a in aliases]
 _SPORT = ('sport OR sports OR football OR soccer OR tennis OR golf OR rugby OR cricket OR NBA OR NFL OR MLS '
           'OR Olympics OR cycling OR stadium OR F1 OR "Formula 1"')
 _ARTS = ('art OR arts OR exhibition OR gallery OR museum OR collection OR "Art Basel" OR Frieze OR festival '

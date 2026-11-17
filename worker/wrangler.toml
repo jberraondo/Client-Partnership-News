@@ -1,0 +1,9 @@
+name = "partnership-news-helper"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+
+# 07:45 UK on weekdays. Cloudflare timers use UTC, so both possible UTC times are
+# booked (06:45 UTC in British Summer Time, 07:45 UTC in winter) and the code
+# only goes ahead with the one that is 07:45 in London that day.
+[triggers]
+crons = ["45 6 * * MON-FRI", "45 7 * * MON-FRI"]

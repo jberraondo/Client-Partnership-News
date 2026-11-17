@@ -15,6 +15,10 @@ subscription. On GitHub, the CLAUDE_CODE_OAUTH_TOKEN secret signs it in; on your
 own Mac it uses the account you're already signed in with.
 
 Run it with:   python3 summarise.py
+               python3 summarise.py --check-only     headline check only, no bullets
+                                                     (what the scheduled run does)
+               python3 summarise.py --ids a1,b2,c3   bullets for just these stories
+                                                     (what "Summarise my picks" does)
 Options (environment variables):
    SUMMARY_MODEL  which Claude model writes the bullets (default "sonnet")
    CHECK_MODEL    which Claude model checks headlines (default "haiku", the light one)
@@ -26,6 +30,7 @@ Options (environment variables):
 
 from __future__ import annotations
 
+import argparse
 import os
 import re
 import json
@@ -74,8 +79,14 @@ Reply with ONLY a JSON list (no other text, no code fences), one object per stor
 or, for a story the style guide says to skip:
   {{"id": "...", "bullets": [], "skip": true, "reason": "a few words"}}
 
-Stories:
+{picked_note}Stories:
 {stories}
+"""
+
+PICKED_NOTE = """The editor has picked every story below for today's bulletin. Do not
+skip any of them: write two bullets for each, unless the article can't be read at
+all, in which case return "bullets": [].
+
 """
 
 TRIAGE_PROMPT = """You are the editor of the HSBC Partnership News, a daily
@@ -116,6 +127,15 @@ new:
 already_have:
 {have}
 """
+
+
+def names_a_competitor(title: str) -> bool:
+    """True if the headline names one of the 33 tracked brands (whole word)."""
+    try:
+        from sources import COMPETITOR_ALIASES
+    except ImportError:
+        return False
+    return bool(re.search(r"\b(" + "|".join(re.escape(a) for a in COMPETITOR_ALIASES) + r")\b", title or ""))
 
 
 class ClaudeError(Exception):
@@ -243,6 +263,12 @@ def triage(pending: list[dict], news: dict, by_id: dict, style: str, guide: str)
 
 
 def main():
+    ap = argparse.ArgumentParser(description="Headline check and summary bullets.")
+    ap.add_argument("--check-only", action="store_true", help="headline check only, no bullets")
+    ap.add_argument("--ids", default="", help="comma-separated story ids to summarise now")
+    args = ap.parse_args()
+    if args.ids.strip():
+        return summarise_picked([i.strip() for i in args.ids.split(",") if i.strip()])
     if not os.path.exists(PENDING_PATH):
         print("Nothing to summarise (run scrape.py first).")
         return
@@ -268,6 +294,11 @@ def main():
         return
     if dropped:
         print(f"   dropped {dropped} off-topic or duplicate stories")
+
+    if args.check_only:
+        save(news, pending)
+        print(f"\nHeadline check done. {len(pending)} stories are ready to be summarised on request.")
+        return
 
     # ---- Pick which stories get bullets: the top PER_SECTION per section a day ----
     # (counting stories already summarised in the last 24 hours). Competitor News is
@@ -306,7 +337,7 @@ def main():
     for i in range(0, len(pending), BATCH_SIZE):
         batch = [{k: v for k, v in p.items() if k not in ("wide", "triaged", "priority")}
                  for p in pending[i:i + BATCH_SIZE]]
-        prompt = PROMPT.format(style=style, guide=guide,
+        prompt = PROMPT.format(style=style, guide=guide, picked_note="",
                                stories=json.dumps(batch, ensure_ascii=False, indent=1))
         try:
             got = ask_claude(prompt)
@@ -328,7 +359,8 @@ def main():
                 continue
             a = answers.get(s["id"], {})
             bullets = [re.sub(r"^\s*[\*\-•]\s*", "", b).strip() for b in a.get("bullets") or []]
-            if a.get("competitor") and not a.get("skip") and s["section"] != "Competitor News":
+            if (a.get("competitor") and not a.get("skip") and s["section"] != "Competitor News"
+                    and names_a_competitor(s.get("title"))):
                 s["moved_from"] = s["section"]
                 s["section"] = "Competitor News"
                 moved += 1
@@ -348,22 +380,87 @@ def main():
                 s["summary_status"] = "unavailable"
                 failed += 1
 
-    # Re-file any stories that moved into Competitor News.
     if moved:
-        regrouped = {sec: [] for sec in news["section_order"]}
-        for items in news["sections"].values():
-            for s in items:
-                regrouped.setdefault(s["section"], []).append(s)
-        news["sections"] = regrouped
-
-    with open(NEWS_PATH, "w", encoding="utf-8") as f:
-        json.dump(news, f, ensure_ascii=False, indent=2)
-    with open(PENDING_PATH, "w", encoding="utf-8") as f:
-        json.dump(untouched, f, ensure_ascii=False, indent=2)
+        regroup(news)
+    save(news, untouched)
 
     print(f"\nDone: {done} summarised, {skipped} skipped as off-topic, {failed} couldn't be read, "
           f"{moved} moved to Competitor News"
           + (f", {len(untouched)} left for next time" if untouched else ""))
+
+
+def regroup(news: dict) -> None:
+    """Re-file stories that moved into Competitor News."""
+    regrouped = {sec: [] for sec in news["section_order"]}
+    for items in news["sections"].values():
+        for s in items:
+            regrouped.setdefault(s["section"], []).append(s)
+    news["sections"] = regrouped
+
+
+def save(news: dict, pending: list) -> None:
+    with open(NEWS_PATH, "w", encoding="utf-8") as f:
+        json.dump(news, f, ensure_ascii=False, indent=2)
+    with open(PENDING_PATH, "w", encoding="utf-8") as f:
+        json.dump(pending, f, ensure_ascii=False, indent=2)
+
+
+def summarise_picked(ids: list[str]) -> None:
+    """Bullets for just the stories the editor picked on the page (Sonnet, no headline check)."""
+    if not shutil.which("claude"):
+        print("! The 'claude' command isn't installed, so nothing was summarised.")
+        return
+    with open(NEWS_PATH, encoding="utf-8") as f:
+        news = json.load(f)
+    pending = []
+    if os.path.exists(PENDING_PATH):
+        with open(PENDING_PATH, encoding="utf-8") as f:
+            pending = json.load(f)
+    saved_text = {p["id"]: p.get("article_text", "") for p in pending}
+    by_id = {s.get("id"): s for items in news["sections"].values() for s in items}
+
+    wanted = [i for i in dict.fromkeys(ids) if i in by_id][:20]
+    todo = [i for i in wanted if not (by_id[i].get("bullets") or [])]
+    print(f"{len(ids)} picked, {len(wanted)} found, {len(todo)} still need bullets")
+    if not todo:
+        return
+    style, guide = load_guides()
+    answers = {}
+    for i in range(0, len(todo), BATCH_SIZE):
+        batch = [{"id": sid, "section": by_id[sid]["section"], "source": by_id[sid]["source"],
+                  "title": by_id[sid]["title"], "link": by_id[sid]["link"],
+                  # Saved article text means Claude needn't fetch the page (fewer tokens).
+                  "article_text": saved_text.get(sid, "")} for sid in todo[i:i + BATCH_SIZE]]
+        prompt = PROMPT.format(style=style, guide=guide, picked_note=PICKED_NOTE,
+                               stories=json.dumps(batch, ensure_ascii=False, indent=1))
+        try:
+            got = ask_claude(prompt, model=MODEL)
+        except ClaudeError:
+            print("   Claude is unavailable; try the button again later.")
+            break
+        for a in got:
+            if isinstance(a, dict) and a.get("id"):
+                answers[a["id"]] = a
+
+    done = failed = moved = 0
+    for sid in todo:
+        s, a = by_id[sid], answers.get(sid, {})
+        bullets = [re.sub(r"^\s*[\*\-•]\s*", "", b).strip() for b in a.get("bullets") or []]
+        if good_bullets(bullets):
+            s["bullets"], s["summary_status"] = bullets, "done"
+            done += 1
+            if (a.get("competitor") and s["section"] != "Competitor News"
+                    and names_a_competitor(s.get("title"))):
+                s["moved_from"], s["section"] = s["section"], "Competitor News"
+                moved += 1
+        elif a:
+            s["summary_attempts"] = s.get("summary_attempts", 0) + 1
+            s["summary_status"] = "unavailable"
+            failed += 1
+    if moved:
+        regroup(news)
+    save(news, [p for p in pending if p["id"] not in {i for i in todo if by_id[i].get("bullets")}])
+    print(f"Done: {done} summarised, {failed} couldn't be read" + (f", {moved} moved to Competitor News" if moved else ""))
 
 
 if __name__ == "__main__":

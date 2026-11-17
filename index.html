@@ -167,8 +167,8 @@
 <div class="wrap">
   <div class="howto" id="howto">
     <ol>
-      <li><span class="num">1</span><span><b>Pick stories.</b> Click <b>Add</b> on up to two stories per section. Each one already has two summary bullets.</span></li>
-      <li><span class="num">2</span><span><b>Tweak if needed.</b> Click any bullet to edit it. Stories marked <b>Needs a write-up</b> couldn't be summarised automatically.</span></li>
+      <li><span class="num">1</span><span><b>Pick stories.</b> Click <b>Add</b> on up to two stories per section.</span></li>
+      <li><span class="num">2</span><span><b>Summarise them.</b> Click <b>Summarise my picks</b>. Claude writes two bullets for just those stories, in about 3 minutes. Click any bullet to edit it.</span></li>
       <li><span class="num">3</span><span><b>Copy the bulletin.</b> Check the preview, click <b>Copy bulletin</b>, then paste into your email.</span></li>
     </ol>
     <button class="x" id="howtoClose">Hide ✕</button>
@@ -202,13 +202,14 @@
     </div>
     <div class="pb" id="previewBody"></div>
     <div class="pf">
+      <button class="btn grow" id="sumBtn" disabled title="Claude writes bullets for the picked stories that don't have any yet">Summarise my picks</button>
       <button class="btn grow" id="copyBtn" disabled>Copy bulletin</button>
       <button class="btn ghost" id="clearBtn">Clear</button>
       <button class="btn ghost" id="closePreview" hidden>Close</button>
     </div>
   </aside>
 
-  <footer>Stories are collected automatically through the day, and Claude writes the two summary bullets. Your picks and edits are saved in this browser only.</footer>
+  <footer>Stories are collected automatically each weekday morning. Claude writes summary bullets only for the stories you pick, when you ask. Your picks and edits are saved in this browser only.</footer>
 </div>
 
 <div class="mobilebar"><button class="btn" id="openPreview">View bulletin (0)</button></div>
@@ -216,6 +217,9 @@
 
 <script>
 const PER_SECTION = 2;   // the bulletin's usual number of stories per section
+// The Cloudflare helper that passes "Summarise my picks" to GitHub (see worker/README.md).
+const SUMMARISE_URL = 'https://partnership-news-helper.berraondo-2001.workers.dev/summarise';
+const WAIT_KEY = 'hsbcNews:summarising';   // ids being summarised, with the time asked
 const today = new Date();
 const dd = String(today.getDate()).padStart(2,'0');
 const mm = String(today.getMonth()+1).padStart(2,'0');
@@ -255,6 +259,8 @@ async function load(){
   for(const sec of state.data.section_order)
     for(const s of (state.data.sections[sec]||[])) byId.set(storyId(s), s);
   state.picks = state.picks.filter(id => byId.has(id));
+  for(const id of Object.keys(waiting)) if(hasSummary(byId.get(id)||{}) || Date.now()-waiting[id] > 15*60e3) delete waiting[id];
+  saveWaiting();
   $('#title').textContent = `HSBC Partnership News ${dd}.${mm}`;
   $('#genline').textContent = `Last updated ${timeAgo(state.data.generated_at)} · ${state.data.total} stories collected`;
   buildSourceFilters();
@@ -353,7 +359,8 @@ function card(s){
   let badge;
   if(isOff(s)) badge = `<span class="badge off" title="${esc(s.skip_reason||'')}">Off-topic</span>`;
   else if(hasSummary(s)) badge = `<span class="badge ok">Summary ready</span>`;
-  else badge = `<span class="badge warn">Needs a write-up</span>`;
+  else if(waiting[id]) badge = `<span class="badge warn">Summarising…</span>`;
+  else badge = `<span class="badge warn">No summary yet</span>`;
 
   const b = bulletsFor(s);
   const fallback = !hasSummary(s) && !state.edits[id];
@@ -372,7 +379,7 @@ function card(s){
       <li><div class="edit" contenteditable="true" data-i="0" data-ph="First bullet: the core news, with key facts and figures">${esc(b[0])}</div></li>
       <li><div class="edit" contenteditable="true" data-i="1" data-ph="Second bullet: a different angle, such as context, background or what's next">${esc(b[1])}</div></li>
     </ul>
-    ${fallback ? `<div class="hint">No summary yet. <a href="${esc(s.link)}" target="_blank" rel="noopener">Read the article</a> and type two bullets above.${
+    ${fallback && !waiting[id] ? `<div class="hint">No summary yet. Add it and click <b>Summarise my picks</b>, or <a href="${esc(s.link)}" target="_blank" rel="noopener">read the article</a> and type two bullets above.${
       s.copy ? ` <a href="#" class="usecopy">Or start from the article's opening</a>.` : ''}</div>` : ''}`;
 
   div.querySelector('.addbtn').addEventListener('click', ()=> togglePick(id));
@@ -438,6 +445,10 @@ function renderPreview(){
   $('#count').textContent = `${n} ${n===1?'story':'stories'}`;
   $('#openPreview').textContent = `View bulletin (${n})`;
   $('#copyBtn').disabled = n === 0;
+  const need = needSummary();
+  $('#sumBtn').disabled = need.length === 0;
+  $('#sumBtn').textContent = Object.keys(waiting).length ? 'Summarising…'
+    : need.length ? `Summarise my picks (${need.length})` : 'Summarise my picks';
   $('#previewBody').innerHTML = n ? buildBulletin().html
     : `<p class="empty">Click <b>+ Add</b> on a story and it will appear here, formatted exactly as it will paste.</p>`;
 }
@@ -455,6 +466,55 @@ async function copyBulletin(){
     try{ await navigator.clipboard.writeText(text); toast('Copied as plain text'); }
     catch(_){ toast('Copy failed. Your browser blocked it.'); }
   }
+}
+
+// ---- "Summarise my picks": asks GitHub (via the Cloudflare helper) to write bullets ----
+let waiting = {};
+try{ waiting = JSON.parse(localStorage.getItem(WAIT_KEY) || '{}'); }catch(e){}
+function saveWaiting(){ try{ localStorage.setItem(WAIT_KEY, JSON.stringify(waiting)); }catch(e){} }
+function needSummary(){
+  return state.picks.filter(id => { const s = byId.get(id);
+    return s && !hasSummary(s) && !waiting[id] && !(state.edits[id]||[]).some(x => x && x.trim()); });
+}
+function pickKey(){
+  let k = '';
+  try{ k = localStorage.getItem('hsbcNews:pickKey') || ''; }catch(e){}
+  if(!k){
+    k = (prompt('Enter the access key for summaries (asked once per browser):') || '').trim();
+    if(k) try{ localStorage.setItem('hsbcNews:pickKey', k); }catch(e){}
+  }
+  return k;
+}
+async function summarisePicks(){
+  const ids = needSummary();
+  if(!ids.length) return;
+  if(SUMMARISE_URL.includes('REPLACE-ME')){ toast('Summaries are not switched on yet (see worker/README.md).'); return; }
+  const key = pickKey();
+  if(!key) return;
+  $('#sumBtn').disabled = true;
+  try{
+    const res = await fetch(SUMMARISE_URL, { method:'POST',
+      headers:{ 'Content-Type':'application/json', 'X-Pick-Key': key }, body: JSON.stringify({ ids }) });
+    if(res.status === 401){ try{ localStorage.removeItem('hsbcNews:pickKey'); }catch(e){} toast('Wrong access key. Try again.'); renderPreview(); return; }
+    if(!res.ok){ const e = await res.json().catch(()=>({})); toast(e.error || `Could not start (${res.status})`); renderPreview(); return; }
+  }catch(e){ toast('Could not reach the summary service.'); renderPreview(); return; }
+  const now = Date.now();
+  ids.forEach(id => waiting[id] = now);
+  saveWaiting(); render();
+  toast(`Summarising ${ids.length} ${ids.length===1?'story':'stories'}. Bullets appear in about 3 minutes.`);
+  pollForBullets();
+}
+let pollT;
+function pollForBullets(){
+  clearTimeout(pollT);
+  if(!Object.keys(waiting).length) return;
+  pollT = setTimeout(async ()=>{
+    const before = Object.keys(waiting).length;
+    await load();
+    const after = Object.keys(waiting).length;
+    if(after < before) toast(after ? 'Some summaries are in. Still waiting on the rest.' : 'Summaries are in.');
+    if(after) pollForBullets();
+  }, 30000);
 }
 
 function toast(msg){
@@ -478,6 +538,7 @@ $('#search').addEventListener('input', e=>{
 $('#filters').addEventListener('toggle', e=>{ $('#sourceFilters').hidden = !e.target.open; });
 $('#showOff').addEventListener('change', e=>{ state.showOff = e.target.checked; render(); });
 $('#copyBtn').addEventListener('click', copyBulletin);
+$('#sumBtn').addEventListener('click', summarisePicks);
 $('#clearBtn').addEventListener('click', ()=>{
   if(state.picks.length && !confirm('Remove all stories from your bulletin?')) return;
   state.picks = []; save(); render();
@@ -499,7 +560,7 @@ const syncMobile = () => { $('#closePreview').hidden = !mq.matches; };
 mq.addEventListener('change', syncMobile); syncMobile();
 
 restore();
-load();
+load().then(pollForBullets);
 </script>
 </body>
 </html>
