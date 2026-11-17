@@ -171,13 +171,52 @@ def ask_claude(prompt: str, allow_web: bool = True, model: str = MODEL) -> list[
         return []
 
 
+MAX_WORDS = 100   # hard cap per story, across both bullets
+MIN_WORDS = 40
+
+
+def word_count(bullets) -> int:
+    return sum(len(b.split()) for b in bullets if isinstance(b, str))
+
+
 def good_bullets(bullets) -> bool:
-    """Two real bullets, roughly the right length overall."""
+    """Two real bullets, no more than MAX_WORDS in total."""
     if not (isinstance(bullets, list) and len(bullets) == 2):
         return False
-    if not all(isinstance(b, str) and len(b.split()) >= 15 for b in bullets):
+    if not all(isinstance(b, str) and len(b.split()) >= 12 for b in bullets):
         return False
-    return 60 <= sum(len(b.split()) for b in bullets) <= 200
+    return MIN_WORDS <= word_count(bullets) <= MAX_WORDS
+
+
+SHORTEN_PROMPT = """These summary bullets are too long. Rewrite each story's two bullets so
+they total no more than {max_words} words across both (aim for 40 to 50 each). Keep
+the key facts, figures and names; cut background first. Do not add anything new.
+
+Reply with ONLY a JSON list (no other text, no code fences):
+  {{"id": "...", "bullets": ["first bullet", "second bullet"]}}
+
+Stories:
+{stories}
+"""
+
+
+def shorten(too_long: dict) -> dict:
+    """One cheap retry for over-long bullets: sends only the bullets, not the article."""
+    if not too_long:
+        return {}
+    items = [{"id": k, "words": word_count(v), "bullets": v} for k, v in too_long.items()]
+    try:
+        got = ask_claude(SHORTEN_PROMPT.format(max_words=MAX_WORDS,
+                                               stories=json.dumps(items, ensure_ascii=False, indent=1)),
+                         allow_web=False, model=MODEL)
+    except ClaudeError:
+        return {}
+    return {a["id"]: a.get("bullets") or [] for a in got
+            if isinstance(a, dict) and a.get("id") in too_long}
+
+
+def clean_bullets(bullets) -> list:
+    return [re.sub(r"^\s*[\*\-•]\s*", "", b).strip() for b in bullets or [] if isinstance(b, str)]
 
 
 def load_guides() -> tuple[str, str]:
@@ -442,10 +481,17 @@ def summarise_picked(ids: list[str]) -> None:
             if isinstance(a, dict) and a.get("id"):
                 answers[a["id"]] = a
 
+    cleaned = {sid: clean_bullets(answers.get(sid, {}).get("bullets")) for sid in todo}
+    too_long = {sid: bl for sid, bl in cleaned.items() if len(bl) == 2 and word_count(bl) > MAX_WORDS}
+    if too_long:
+        print(f"   {len(too_long)} over {MAX_WORDS} words, asking Claude to shorten them")
+        for sid, bl in shorten(too_long).items():
+            cleaned[sid] = clean_bullets(bl)
+
     done = failed = moved = 0
     for sid in todo:
         s, a = by_id[sid], answers.get(sid, {})
-        bullets = [re.sub(r"^\s*[\*\-•]\s*", "", b).strip() for b in a.get("bullets") or []]
+        bullets = cleaned[sid]
         if good_bullets(bullets):
             s["bullets"], s["summary_status"] = bullets, "done"
             done += 1
