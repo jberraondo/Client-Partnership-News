@@ -36,8 +36,12 @@ npx wrangler secret put PICK_KEY       # type the access key from step 2
 ```
 
 **4. Tell the page where the helper is**
-In `index.html`, replace the `SUMMARISE_URL` address with the one `wrangler deploy`
-printed, keeping `/summarise` on the end.
+In `index.html`, `SUMMARISE_URL` must be the address `wrangler deploy` printed,
+with `/summarise` on the end. It is currently
+`https://partnership-news-helper.berraondo-2001.workers.dev/summarise`.
+
+Check the secrets are saved (names only, never the values): `npx wrangler secret list`
+should show `GITHUB_TOKEN` and `PICK_KEY`.
 
 ## Checking it works
 - Cloudflare dashboard → Workers → `partnership-news-helper` → Logs shows each
