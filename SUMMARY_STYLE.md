@@ -5,8 +5,10 @@ Edit this file to change the style. No code changes are needed.
 
 ## The two bullets
 
-- Exactly **two bullets** per story, **100–150 words in total** across both.
-- Each bullet is two to three sentences: fact-dense and closely paraphrased from the article.
+- Exactly **two bullets** per story, **no more than 100 words in total** across both
+  (aim for 40 to 50 words each). This is a hard limit: count before replying.
+- Each bullet is one to two sentences: fact-dense and closely paraphrased from the article.
+  Lead with the most important facts and drop background that doesn't change the story.
 - Keep the specific figures, names, dates, venues, competitions and deal lengths.
 - **Bullet one** covers the core news: who, what, when, and the key numbers.
 - **Bullet two** covers a different angle from the same story, such as background, context, what happens next, or a quote paraphrased into reported speech.
