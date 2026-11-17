@@ -34,7 +34,8 @@ in the world. That includes new deals, renewals, extensions, exits, athlete
 programmes, art collections, exhibitions, festivals and cultural partnerships.
 
 **Drop:** earnings, share prices, takeovers, job cuts, regulation, general
-banking products, and any company that isn't on the bank list.
+banking products, and any company that isn't on the 33-brand list in SUMMARY_STYLE.md
+(banks plus Amex, Visa and Mastercard).
 
 Past headlines (some banks below, e.g. Bank of America, Chime, SoFi, US Bank,
 RBC and BMO, are no longer tracked: they're here only as examples of the kind of

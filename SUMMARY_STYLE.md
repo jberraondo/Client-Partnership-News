@@ -29,7 +29,14 @@ deals in **sport or the arts**, anywhere in the world:
 
 Barclays, Lloyds Bank, NatWest, Santander UK, Nationwide, Royal Bank of Scotland,
 Virgin Money, Metro Bank, Monzo, Starling Bank, Revolut, Chase UK, Standard
-Chartered, Citi, J.P. Morgan (JPMorganChase), BNP Paribas, Deutsche Bank, UBS.
+Chartered, Citi, J.P. Morgan (JPMorganChase), BNP Paribas, Deutsche Bank, UBS,
+DBS, OCBC Bank, UOB, Bank of China, HDFC Bank, SBI, ICICI Bank, Kotak Mahindra
+Bank, Axis Bank, First Abu Dhabi Bank, Emirates NBD, Abu Dhabi Commercial Bank,
+American Express (Amex), Visa, Mastercard.
+
+These 33 are the whole list. Any other bank or payment company does not count,
+however big the deal (for example Hana Bank, Stanbic, Bradesco, Saxo, Julius Baer,
+Adyen, PayPal).
 
 Arts deals count as much as sport: art collections and fairs (e.g. UBS and Art
 Basel), exhibitions, museums, festivals, theatre, orchestras and music.
@@ -45,12 +52,13 @@ Examples of stories that belong:
 - Lloyds becomes England Rugby's first back-of-shirt partner
 - UBS art advisors start a contemporary art collection
 
-New deals, renewals, extensions, exits and activations all count. Other banks,
-payment companies (Visa, Mastercard, Adyen, PayPal, Amex), takeovers, earnings,
-general banking news and HSBC's own deals don't count.
+New deals, renewals, extensions, exits and activations all count. Banks and
+payment companies not on the list, takeovers, earnings, general banking news and
+HSBC's own deals don't count.
 
 **For every story in every section**, set `"competitor": true` if the story is
-mainly about a deal like this. It will then be moved into Competitor News. For
+mainly about a deal like this by one of the 33 brands above. It will then be moved
+into Competitor News, but only if the headline names one of them. For
 example, a Sportcal story in Wider Sports News about a bank renewing a club
 sponsorship should be flagged.
 

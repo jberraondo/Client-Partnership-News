@@ -1,8 +1,15 @@
 name: Collect morning news
 
 # When this runs:
-#   - 08:50 and 09:45 UK time, every day, all year round.
+#   - 07:45 UK on weekdays, started by the Cloudflare timer in worker/ (on time,
+#     unlike GitHub's own schedule, which has been starting runs 6 to 11 hours late).
+#     On Mondays the timer asks for 72 hours so the weekend is covered.
+#   - 08:50 and 09:45 UK time, every day, as a backup (GitHub's own schedule).
 #   - Or any time you press the "Run workflow" button on the Actions tab.
+#
+# It collects stories and runs the cheap headline check (Haiku). It does NOT write
+# summary bullets: those are written on request, for picked stories only, by
+# summarise-picks.yml (the "Summarise my picks" button on the page).
 #
 # GitHub's schedule only understands UTC, which ignores British Summer Time. So
 # each run is booked at BOTH possible UTC times, and the "uk-time" job below lets
@@ -17,6 +24,11 @@ on:
     - cron: "45 8 * * *"   # 09:45 UK in summer
     - cron: "45 9 * * *"   # 09:45 UK in winter
   workflow_dispatch:
+    inputs:
+      window_hours:
+        description: "How many hours back to collect"
+        required: false
+        default: "48"
 
 # Let the job save the freshly-scraped news back into the repo.
 permissions:
@@ -73,23 +85,22 @@ jobs:
       - name: Install the headless browser
         run: python -m playwright install --with-deps chromium
 
-      - name: Install Claude (writes the summary bullets)
+      - name: Install Claude (checks the headlines)
         run: npm install -g @anthropic-ai/claude-code
 
       - name: Scrape the news
         # Claude checks broad-search headlines here, before the slow link and article work.
         env:
-          WINDOW_HOURS: "48"
+          WINDOW_HOURS: ${{ inputs.window_hours || '48' }}
+          SUMMARY_WINDOW_HOURS: "72"   # keep article text 3 days, so Monday picks from the weekend can be summarised
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: python scrape.py
 
-      - name: Write the summary bullets
-        # Signs in with your Claude subscription. Add the token under
-        # Settings → Secrets and variables → Actions → CLAUDE_CODE_OAUTH_TOKEN.
+      - name: Check any headlines the collector missed (no summaries)
+        # Haiku only. Signs in with your Claude subscription (the CLAUDE_CODE_OAUTH_TOKEN secret).
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          MAX_STORIES: "120"   # only two runs a day, so the first one has a full day to catch up on
-        run: python summarise.py
+        run: python summarise.py --check-only
 
       - name: Save the results
         run: |

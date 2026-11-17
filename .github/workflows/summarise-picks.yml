@@ -1,0 +1,56 @@
+name: Summarise picked stories
+
+# Started by the "Summarise my picks" button on the page (through the Cloudflare
+# worker in worker/), or by hand from the Actions tab with a list of story ids.
+# Writes two bullets for each picked story only, with Sonnet, on your Claude
+# subscription. Nothing else is summarised.
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Story ids, separated by commas"
+        required: true
+
+permissions:
+  contents: write
+
+# Shares a queue with the collector, so the two never edit news.json at once.
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+jobs:
+  summarise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Claude
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Write bullets for the picked stories
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          PICKED_IDS: ${{ inputs.ids }}
+        # The ids go in through an environment variable and are checked, never pasted into the command.
+        run: |
+          if ! printf '%s' "$PICKED_IDS" | grep -Eq '^[A-Za-z0-9_-]{4,64}(,[A-Za-z0-9_-]{4,64}){0,19}$'; then
+            echo "Story ids are not in the expected format"; exit 1
+          fi
+          python summarise.py --ids "$PICKED_IDS"
+
+      - name: Save the results
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news.json data/pending.json
+          git commit -m "Summaries for picked stories $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "Nothing new"
+          git pull --rebase origin main
+          git push
