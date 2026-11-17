@@ -15854,13 +15854,17 @@
         "published_label": "Mon 16 Nov, 15:00",
         "summary": "Alcaraz dispatches Tiafoe for opening win in Turin ATP Tour",
         "id": "7077c92ddac6",
-        "bullets": [],
+        "bullets": [
+          "Carlos Alcaraz opened his Nitto ATP Finals campaign with a 6-2, 6-2 win over Frances Tiafoe in 69 minutes at the Inalpi Arena in Turin on Monday 16 November. The second seed took a 4-0 lead early in the first set. In the second he saved three break points at 3-2, then served out the match after a backhand winner down the line.",
+          "The result puts Alcaraz at 1-0 in the Ivan Lendl Group, which also includes Daniil Medvedev and Flavio Cobolli, as well as Tiafoe. He leads Tiafoe 3-1 in their head-to-head and is making his fourth ATP Finals appearance, with a title-match loss to Jannik Sinner last year his best result. He has won consecutive titles in Paris and Vienna and is chasing his sixth title of the season and 30th at tour level. Tiafoe, 28, is making his debut at the event after winning 44 matches this year and a title in Halle."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-16T18:57:35.481379+00:00"
+        "first_seen": "2026-11-16T18:57:35.481379+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Racket",
