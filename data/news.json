@@ -95,7 +95,9 @@
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-17T17:56:07.794578+00:00"
+        "first_seen": "2026-11-17T17:56:07.794578+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Competitor News",
@@ -110,13 +112,17 @@
         "published_label": "Tue 17 Nov, 17:00",
         "summary": "Visa Las Vegas! Oracle Red Bull Racing",
         "id": "c92ba5962aed",
-        "bullets": [],
+        "bullets": [
+          "Oracle Red Bull Racing will run a golden chrome championship livery on Alisha Palmowski's No.21 Academy Programme car, with Visa's signature colours inspiring an electric blue gradient. It debuts at the Las Vegas Strip Circuit on Thursday 19 November, the final round of the 2026 F1 Academy season.",
+          "Palmowski, who won the F1 Academy title at the United States Grand Prix, will also wear a matching special-edition race suit. Visa said the collaboration celebrates her title and supports emerging athletes, and the team said it gives her a fitting send-off from F1 Academy."
+        ],
         "triaged": true,
         "priority": 3,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Following her F1 ACADEMY title victory at the United States Grand Prix, Alisha will take to the track in Sin City with a bespoke golden championship livery, celebrating her title-winning season in style. The special-edition livery will make its debut at the Las Vegas Strip Circuit on Thursday 19 November, marking the final round of the 2026 season.\n\nCommemorating her status as F1 ACADEMY Champion, every partner logo on the Red Bull Racing Academy Programme car and her No.21 will feature a golden chrome finish, set against an electric blue gradient backdrop inspired by Visa's signature colours. The design will be enhanced by a light-reactive metallic finish, creating a striking look fit for a champion under the bright lights of Las Vegas.",
-        "first_seen": "2026-11-18T07:46:42.843120+00:00"
+        "first_seen": "2026-11-18T07:46:42.843120+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Competitor News",
@@ -2042,13 +2048,17 @@
         "published_label": "Tue 17 Nov, 15:49",
         "summary": "Adobe continues AI-focused partnerships with US SailGP Team Sportcal",
         "id": "9412b397b18f",
-        "bullets": [],
+        "bullets": [
+          "The US SailGP Team has signed a global partnership with Adobe, which becomes its official AI fan experience partner. The team will use Adobe tools, including CX Enterprise, across content production and the fan journey, and Adobe will have branding on the F50 catamaran and team kit across the season.",
+          "The deal also includes co-branded campaigns, premium hospitality and access to the team's partners and investors. Adobe was recently named official AI fan experience partner of Alpine's F1 team and AI marketing and creativity partner of the Australian Open, its first tennis deal."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The US team from the international SailGP series has announced a new global partnership with software giant Adobe. Through the agreement, the US-based company will serve as the team’s official AI fan experience partner.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. The US SailGP Team will utilize Adobe’s marketing and AI-powered tools, such as Adobe CX Enterprise, for customer experience orchestration.",
-        "first_seen": "2026-11-17T17:56:07.794578+00:00"
+        "first_seen": "2026-11-17T17:56:07.794578+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -7760,13 +7770,17 @@
         "published_label": "Tue 17 Nov, 16:09",
         "summary": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
         "id": "fca62709947d",
-        "bullets": [],
+        "bullets": [
+          "World Rugby has banned South Africa head coach Rassie Erasmus for six matches over comments about match officials after the Springboks' 21-19 Nations Championship defeat by France. An independent panel found his remarks, including asking \"is that not match-fixing?\", suggested officials acted with bias or deliberately influenced the result.",
+          "South Africa Rugby has requested a full misconduct hearing. If upheld, the ban rules Erasmus out of Saturday's game with Ireland in Dublin, the finals weekend fixture at Twickenham and the start of next summer's Rugby Championship. It is his third World Rugby sanction over comments about officials."
+        ],
         "triaged": true,
         "priority": 8,
         "is_article": true,
         "read_attempts": 1,
         "copy": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials in his side's Nations Championship defeat by France last week.\n\nSpeaking at a news conference conference in Dublin on Monday before the Springboks' match with Ireland, Erasmus questioned what he perceived as double standards in officiating to the point where he asked: \"is that not match-fixing?\".",
-        "first_seen": "2026-11-17T17:56:07.794578+00:00"
+        "first_seen": "2026-11-17T17:56:07.794578+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -17042,13 +17056,17 @@
         "published_label": "Tue 17 Nov, 16:28",
         "summary": "ATP Finals: Alexander Zverev beats Ben Shelton to reach semi-finals BBC",
         "id": "4a60158b2fb0",
-        "bullets": [],
+        "bullets": [
+          "World number one Alexander Zverev beat fourth-ranked Ben Shelton 6-2 7-6 (7-4) at the ATP Finals in Turin to reach the semi-finals with a match to spare. He lost two of 31 service points in the second set and extended his unbeaten run against Shelton to seven matches.",
+          "Zverev's win confirmed Rafael Jodar's elimination after Arthur Fils beat the Spaniard 4-6 6-2 6-2. Fils, the first Frenchman to win an ATP Finals match since 2011, plays Zverev on Thursday for a semi-final place. Britain's Henry Patten and Harri Heliovaara lost their second doubles match."
+        ],
         "triaged": true,
         "priority": 8,
         "is_article": true,
         "read_attempts": 1,
         "copy": "World number one Alexander Zverev produced another serving masterclass against Ben Shelton to qualify for the ATP Finals knockout stage with a match to spare. The German, 29, lost just two of the 31 points played on his serve in the second set as he completed an impressive 6-2 7-6 (7-4) win over fourth-ranked Shelton.\n\nThe two-time champion only made 10 unforced errors and landed 25 winners in a ruthless display to reach the semi-finals at the season-ending tournament for a fifth time. The result confirmed Rafael Jodar's elimination, following the Spaniard's earlier 4-6 6-2 6-2 loss to French rising star Arthur Fils in the John McEnroe Group.",
-        "first_seen": "2026-11-18T07:46:42.843120+00:00"
+        "first_seen": "2026-11-18T07:46:42.843120+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Racket",
@@ -26938,13 +26956,17 @@
         "published_label": "Tue 17 Nov, 11:47",
         "summary": "Bryson DeChambeau joins DP World Tour after LIV Golf collapse bunkered.co.uk",
         "id": "800287e22858",
-        "bullets": [],
+        "bullets": [
+          "Bryson DeChambeau has signed up to play the DP World Tour in 2027 following the collapse of LIV Golf. The two-time major champion takes category one status thanks to his 2024 US Open win and will start at the Nedbank Golf Challenge in South Africa next month.",
+          "The DP World Tour also confirmed returns for several former LIV players, including Lee Westwood, Sergio Garcia and Ian Poulter, via the Career Money List. Nine others, including Bubba Watson, Cam Smith and Dustin Johnson, were offered invitations to a set number of tournaments next season."
+        ],
         "triaged": true,
         "priority": 9,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Get the latest news, reviews, analysis and opinion, plus unmissable deals and exclusive offers. Please check the box of every email you wish to receive. Bryson DeChambeau will have somewhere to play in 2027 following the collapse of LIV Golf.\n\nDeChambeau had been a long-time supporter of the LIV product ever since signing on the dotted line with the Saudi-backed league back in 2022. Even during the league’s final weeks on the back of filing for bankruptcy, bunkered.co.uk understands that the two-time major champion was in close contact with the league’s proposed investor in the hopes of helping LIV transition into 2027.",
-        "first_seen": "2026-11-17T17:56:07.794578+00:00"
+        "first_seen": "2026-11-17T17:56:07.794578+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
