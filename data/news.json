@@ -2229,6 +2229,32 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-17T17:56:07.794578+00:00"
+      },
+      {
+        "section": "Competitor News",
+        "source": "Sport Industry",
+        "search": "Sport Industry",
+        "kind": "direct",
+        "wide": false,
+        "title": "Liverpool swap Standard Chartered logo for Play On",
+        "feed_link": "https://sportindustry.co.uk/sports-categories/football/play-on-replaces-standard-chartered-on-liverpool-shirts/",
+        "link": "https://sportindustry.co.uk/sports-categories/football/play-on-replaces-standard-chartered-on-liverpool-shirts/",
+        "published": "2026-11-23T12:15:33+00:00",
+        "published_label": "Mon 23 Nov, 12:15",
+        "summary": "Liverpool’s men’s and women’s teams have replaced Standard Chartered’s front-of-shirt logo with the Play On message, using one of the most visible sponsorship assets in world sport to tackle girls dropping out of sport. Liverpool Women wore the Play On shirts against Chelsea on 21st November, followed by the men’s team against Manchester United at […] The post Liverpool swap Standard Chartered logo for Play On appeared first on Sport Industry Group .",
+        "id": "6005a6362be3",
+        "bullets": [
+          "Liverpool's men's and women's teams replaced Standard Chartered's front-of-shirt logo with the Play On message, which addresses girls dropping out of sport. Liverpool Women wore the shirts against Chelsea on 21 November, and the men's team wore them against Manchester United at Anfield on 22 November.",
+          "The limited-edition shirts are being signed and auctioned, with proceeds going to LFC Foundation. Play On launched in 2023, and Standard Chartered became a Formula 1 Global Partner from 2027 last week."
+        ],
+        "triaged": true,
+        "priority": 6,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Liverpool’s men’s and women’s teams have replaced Standard Chartered’s front-of-shirt logo with the Play On message, using one of the most visible sponsorship assets in world sport to tackle girls dropping out of sport.\n\nLiverpool Women wore the Play On shirts against Chelsea on 21st November, followed by the men’s team against Manchester United at Anfield on 22nd November. Before both fixtures, a giant 25m x 23m Play On shirt was displayed on the pitch at St Helens and Anfield.",
+        "first_seen": "2026-11-23T20:38:02.047228+00:00",
+        "summary_status": "done",
+        "moved_from": "Wider Sports News"
       }
     ],
     "Wider Sports News": [
@@ -2696,34 +2722,17 @@
         "published_label": "Mon 23 Nov, 12:24",
         "summary": "Sixty-nine years after England lifted the men’s trophy at Wembley, the UK is set to host the World Cup again. FIFA’s Congress meets today, Monday 23rd November, to ratify England, Northern Ireland, Scotland and Wales as co-hosts of the 2035 Women’s World Cup. The four nations are the only bidders, and member associations will vote […] The post Women’s World Cup heads to the UK in 2035 appeared first on Sport Industry Group .",
         "id": "ef8d7552ad0b",
-        "bullets": [],
+        "bullets": [
+          "FIFA's Congress meets on Monday 23 November to ratify England, Northern Ireland, Scotland and Wales as co-hosts of the 2035 Women's World Cup. They are the only bidders. The 48-team tournament would feature 104 matches over 39 days.",
+          "The 'All Together' bid proposes 19 venues, including Wembley, Old Trafford and Hampden Park, and scored 4.3 out of five in FIFA's evaluation. FIFA rated the contractual framework medium risk, citing qualifications in government guarantees on tax, safety and security."
+        ],
         "triaged": true,
         "priority": 7,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Sixty-nine years after England lifted the men’s trophy at Wembley, the UK is set to host the World Cup again. FIFA’s Congress meets today, Monday 23rd November, to ratify England, Northern Ireland, Scotland and Wales as co-hosts of the 2035 Women’s World Cup.\n\nThe four nations are the only bidders, and member associations will vote at a specially arranged virtual meeting while a UK delegation attends Fifa’s Zurich headquarters. Ratification would end a long wait for a World Cup on home soil: England’s bids for the men’s tournament in 2006 and 2018 failed, and a proposed UK and Ireland bid for 2030 was abandoned.",
-        "first_seen": "2026-11-23T20:38:02.047228+00:00"
-      },
-      {
-        "section": "Wider Sports News",
-        "source": "Sport Industry",
-        "search": "Sport Industry",
-        "kind": "direct",
-        "wide": false,
-        "title": "Liverpool swap Standard Chartered logo for Play On",
-        "feed_link": "https://sportindustry.co.uk/sports-categories/football/play-on-replaces-standard-chartered-on-liverpool-shirts/",
-        "link": "https://sportindustry.co.uk/sports-categories/football/play-on-replaces-standard-chartered-on-liverpool-shirts/",
-        "published": "2026-11-23T12:15:33+00:00",
-        "published_label": "Mon 23 Nov, 12:15",
-        "summary": "Liverpool’s men’s and women’s teams have replaced Standard Chartered’s front-of-shirt logo with the Play On message, using one of the most visible sponsorship assets in world sport to tackle girls dropping out of sport. Liverpool Women wore the Play On shirts against Chelsea on 21st November, followed by the men’s team against Manchester United at […] The post Liverpool swap Standard Chartered logo for Play On appeared first on Sport Industry Group .",
-        "id": "6005a6362be3",
-        "bullets": [],
-        "triaged": true,
-        "priority": 6,
-        "is_article": true,
-        "read_attempts": 1,
-        "copy": "Liverpool’s men’s and women’s teams have replaced Standard Chartered’s front-of-shirt logo with the Play On message, using one of the most visible sponsorship assets in world sport to tackle girls dropping out of sport.\n\nLiverpool Women wore the Play On shirts against Chelsea on 21st November, followed by the men’s team against Manchester United at Anfield on 22nd November. Before both fixtures, a giant 25m x 23m Play On shirt was displayed on the pitch at St Helens and Anfield.",
-        "first_seen": "2026-11-23T20:38:02.047228+00:00"
+        "first_seen": "2026-11-23T20:38:02.047228+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -8522,13 +8531,17 @@
         "published_label": "Mon 23 Nov, 17:58",
         "summary": "England wing Tommy Freeman is in contention for Saturday's Nations Championship play-off meeting with New Zealand.",
         "id": "a76af19f2693",
-        "bullets": [],
+        "bullets": [
+          "England wing Tommy Freeman is in contention for Saturday's Nations Championship third-place play-off against New Zealand. He withdrew with a thigh issue hours before kick-off of England's 37-12 win over the All Blacks, and Harlequins' Cadan Murley replaced him.",
+          "Head coach Steve Borthwick has called up Saracens' 20-year-old Noah Caluori to a 37-strong squad that also includes fly-half Fin Smith, who went off with cramp against the All Blacks. England finished a point behind France, missing Sunday's final against South Africa."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "England wing Tommy Freeman is in contention for Saturday's Nations Championship play-off meeting with New Zealand. The 25-year-old has been a key part of England's backline this year, starting nine Tests in a row for before being rotated out of the side for their comprehensive win over Japan on 14 November.\n\nHe was due to return for the 37-12 win over the All Blacks on Saturday, but a thigh issue forced his withdrawal in the hours before kick-off. Harlequins' Cadan Murley was called into the side to replace Freeman and impressed in an emphatic England performance.",
-        "first_seen": "2026-11-23T20:38:02.047228+00:00"
+        "first_seen": "2026-11-23T20:38:02.047228+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -19867,13 +19880,17 @@
         "published_label": "Mon 23 Nov, 14:29",
         "summary": "Jannik Sinner: Former world No 1 to undergo knee surgery in Finland and doubt for Australian Open in January Sky Sports",
         "id": "33cc8db5f93d",
-        "bullets": [],
+        "bullets": [
+          "Jannik Sinner is set to undergo surgery on his troublesome knee, which is likely to make him miss the Australian Open in January, according to Sky in Italy. The operation, by specialist Lasse Lempainen, could sideline him for three to four months.",
+          "Sinner last played at Wimbledon in July, beating Alexander Zverev in the final, and missed the US Open with persistent right knee inflammation. He parted with coach Darren Cahill this month, with Magnus Norman poised to replace him, and is likely to apply for a protected ranking."
+        ],
         "triaged": true,
         "priority": 7,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Former world No 1 Jannik Sinner is set to undergo surgery on his troublesome knee which is likely to see him miss the Australian Open in January, according to Sky in Italy. The surgery, performed by Lasse Lempainen, one of the world's leading specialists in tendon and muscle injuries, could sideline the Italian for three to four months.\n\nSinner last played at Wimbledon, where he defeated Alexander Zverev in the final to claim his fifth career Grand Slam title. - Not got Sky? Latest Sky Sports deals or stream with no contract on NOW📱",
-        "first_seen": "2026-11-23T20:38:02.047228+00:00"
+        "first_seen": "2026-11-23T20:38:02.047228+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Racket",
@@ -31348,13 +31365,17 @@
         "published_label": "Mon 23 Nov, 20:19",
         "summary": "Marco Penge claims maiden PGA Tour win: Englishman triumphs from four-way playoff at RSM Classic Sky Sports",
         "id": "44b560251801",
-        "bullets": [],
+        "bullets": [
+          "England's Marco Penge won his first PGA Tour title at the season-ending RSM Classic, emerging from a four-way playoff with Haotong Li, Michael Thorbjornsen and Max Greyserman, all on 16 under. He birdied the 18th again in the playoff after hitting his approach to 10 feet.",
+          "Penge, a three-time DP World Tour winner, needed a top-four finish to keep his PGA Tour card after a rookie season disrupted by viral illness. His final-round 65 earned the playoff place. The DP World Tour's BMW Australian PGA Championship begins on Thursday."
+        ],
         "triaged": true,
         "priority": 7,
         "is_article": true,
         "read_attempts": 1,
         "copy": "English golfer Marco Penge claimed a stunning maiden win on the PGA Tour as he emerged victorious from a four-way playoff at the season-ending RSM Classic. Penge, a three-time winner on the DP World Tour, had gone into the tournament at risk of losing his PGA Tour card for next year after a rookie season disrupted by a viral illness placed him outside of the top 100.\n\nWith a top-four finish required to retain his spot, the 28-year-old found form at the best possible time at the Sea Island Golf Club this week, and a final-round 65 earned him a spot alongside Haotong Li of China and Americans Michael Thorbjornsen and Max Greyserman in a playoff decider - all four locked at 16 under.",
-        "first_seen": "2026-11-23T20:38:02.047228+00:00"
+        "first_seen": "2026-11-23T20:38:02.047228+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Golf",
