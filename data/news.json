@@ -3092,13 +3092,17 @@
         "published_label": "Tue 24 Nov, 12:42",
         "summary": "FIFA advances 2030 U.S. World Cup media rights bidding, Netflix in driver’s seat Sports Business Journal",
         "id": "9fbc7f3389c0",
-        "bullets": [],
+        "bullets": [
+          "FIFA has moved bidding for the 2030 Men's World Cup U.S. media rights to a second round, aiming to create a bidding war between Netflix and the joint Fox Sports/Univision bid. Netflix is understood to have submitted the largest first-round bid before last week's deadline and is regarded as frontrunner, ahead of Amazon.",
+          "FIFA is seeking between $1.5bn and $2bn for the deal, with English and Spanish-language rights sold together for the first time. That would be a significant increase on the $485m and $600m it received from Fox and Telemundo respectively for last summer's tournament."
+        ],
         "triaged": true,
         "priority": 7,
         "is_article": true,
         "read_attempts": 1,
         "copy": "FIFA has advanced its bidding process for U.S. media rights to the 2030 Men’s World Cup to a second round, with the world governing body “aiming to create a bidding war between Netflix and Fox Sports/Univision.” Sources said Netflix “submitted the largest bid before last week’s deadline and are now regarded as frontrunners,” with FIFA understood to have “invited second bids in an attempt to drive up the price.” Asking for a second bid is “not unusual in a media rights tender even when there is a clear leader in the first round,” which “appears to be the case in this instance.” Netflix is understood to have “initially trumped offers” from Amazon and the joint bid from Fox and Spanish-language broadcaster Univision. FIFA has sought between $1.5B and $2B for its 2030 U.S. broadcast deal after opting to sell English and Spanish-language rights together for the first time, which “would represent a significant raise” from the $485M and $600M it received for last summer’s tournament from Fox and Telemundo, respectively (London GUARDIAN, 11/23).",
-        "first_seen": "2026-11-24T19:44:09.318479+00:00"
+        "first_seen": "2026-11-24T19:44:09.318479+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -8446,13 +8450,17 @@
         "published_label": "Tue 24 Nov, 23:49",
         "summary": "Paris Olympics bronze medallist Selvyn Davids will reach an HSBC SVNS Series milestone when the new season gets underway this weekend.",
         "id": "7bc8348a0055",
-        "bullets": [],
+        "bullets": [
+          "South Africa's Selvyn Davids, a Paris Olympics bronze medallist, is in line for his 50th HSBC SVNS Series tournament appearance as the Blitzboks name a 13-man squad for the season opener in Dubai. Siviwe Soyizwapi captains the side in place of the unavailable Impi Visser.",
+          "Coach Philip Snyman has included potential debutants JC Mars and Van Reenan Kruger. South Africa won last season's SVNS Series title and the World Championship in Bordeaux, despite finishing sixth in Dubai; New Zealand are the defending Dubai champions."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Paris Olympics bronze medallist Selvyn Davids will reach an HSBC SVNS Series milestone when the new season begins this weekend, with the playmaker in line to earn his 50th tournament cap as South Africa return to Dubai.\n\nDavids famously set up the match-winner as South Africa defeated Australia in the battle for bronze at the Paris Games. The 32-year-old broke down the left sideline before handing the ball off to Shaun Williams within the in-goal.",
-        "first_seen": "2026-11-25T07:46:36.901769+00:00"
+        "first_seen": "2026-11-25T07:46:36.901769+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
