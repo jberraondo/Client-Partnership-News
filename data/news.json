@@ -52,7 +52,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-25T18:52:13.544383+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -2591,13 +2591,17 @@
         "published_label": "Wed 25 Nov, 15:56",
         "summary": "BWF unveil hosts for major tournaments as Canada nets World Championships Sportcal",
         "id": "30df156abad9",
-        "bullets": [],
+        "bullets": [
+          "Mississauga, Canada, will host the 2027 BWF World Championships from 14 to 25 July, Canada's second time after Calgary in 1985. It leads a North American swing that includes the Canada Open and US Open.",
+          "New Delhi will host the 2028 Thomas and Uber Cup Finals and Paris 2030. Korea will stage the 2029 Sudirman Cup Finals, city to be confirmed. BWF President Khunying Patama Leeswadtrakul said North America is a growth market building momentum towards LA28."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The Badminton World Federation (BWF) governing body has announced hosts for several major tournaments through 2030, with the sport’s flagship events to be spread across North America, Asia, and Europe.\n\nThe appointments come as the BWF looks to grow badminton’s global reach by staging its premier tournament in key and emerging markets. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
-        "first_seen": "2026-11-25T18:52:13.544383+00:00"
+        "first_seen": "2026-11-25T18:52:13.544383+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Wider Sports News",
@@ -31055,7 +31059,7 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-25T18:52:13.544383+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
