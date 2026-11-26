@@ -51,7 +51,9 @@
         "priority": 8,
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-11-25T18:52:13.544383+00:00"
+        "first_seen": "2026-11-25T18:52:13.544383+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Competitor News",
@@ -2638,7 +2640,9 @@
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-25T18:52:13.544383+00:00"
+        "first_seen": "2026-11-25T18:52:13.544383+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -2722,7 +2726,9 @@
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-25T18:52:13.544383+00:00"
+        "first_seen": "2026-11-25T18:52:13.544383+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -8407,13 +8413,17 @@
         "published_label": "Wed 25 Nov, 16:00",
         "summary": "Exeter back row Greg Fisilau will make his first England start in one of five changes to their XV to face New Zealand on Saturday.",
         "id": "f2659aae1510",
-        "bullets": [],
+        "bullets": [
+          "England have made five changes to face New Zealand in the Nations Championship rematch at Allianz Stadium, Twickenham, on Saturday (16:40 GMT). Exeter back row Greg Fisilau, 23, makes his first England start, while Freddie Steward replaces George Furbank at full-back and Tommy Freeman returns on the wing.",
+          "Ellis Genge and Luke Cowan-Dickie, preferred to Jamie George, join the front row, and Ben Curry drops to the bench. Victory after last weekend's 37-12 win would give England a sixth successive win and third place in the inaugural Nations Championship."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Hard-hitting back row Greg Fisilau will make his first England start in one of five changes to their XV to face New Zealand. The Plymouth-born 23-year-old, whose father Keni was a Tonga international, has impressed off the bench in each of England's previous three wins this autumn.\n\nHe brings an industrious carrying option to a back row that relies heavily on Ben Earl in that aspect of the game. Ben Curry's breakdown skills have been sacrificed to make space, with the Sale man relegated to the bench.",
-        "first_seen": "2026-11-25T18:52:13.544383+00:00"
+        "first_seen": "2026-11-25T18:52:13.544383+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Rugby",
@@ -19588,13 +19598,17 @@
         "published_label": "Wed 25 Nov, 12:31",
         "summary": "BWF World Tour Finals 2026: Full Qualifiers, Sindhu, Lakshya In Sportscape Magazine",
         "id": "9d7358f125ff",
-        "bullets": [],
+        "bullets": [
+          "The BWF has confirmed the top eight qualifiers in each of five events for the HSBC BWF World Tour Finals in Hangzhou, China, from 9 to 13 December, after the Hong Kong Open ended on 22 November. The prize pot is US$3.5 million, the biggest of the season.",
+          "India has two singles entries: world No.6 PV Sindhu, who qualified by winning the Hylo Open in Germany, and world No.11 Lakshya Sen, who got in after Koki Watanabe lost in the first round. World champion An Se Young is one title from a record 12 in a season."
+        ],
         "triaged": true,
         "priority": 8,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The BWF World Tour Finals 2026 field is set for Hangzhou. See all qualifiers in five events, including India's PV Sindhu and Lakshya Sen, and the USD 3.5 million prize pot. The Badminton World Federation (BWF) has released the list of the top eight qualifiers in the singles and doubles categories for the HSBC BWF World Tour Finals 2026. The list was confirmed after the Hong Kong Open ended on Sunday, 22 November. India has two entries in the World Finals qualifiers in the singles category, World No.6 PV Sindhu and World No.11 Lakshya Sen. Lakshya got in after Koki Watanabe lost in the first round, which also helped Chou Tien Chen and Kunlavut Vitidsarn. Sindhu qualified earlier after winning the Hylo Open 2026 in Germany.\n\nAn Se Young, the world champion, is one title away from a record of 12 titles in a season. Intanon earned a record 11th Finals qualification, and Sindhu is described as resurgent.",
-        "first_seen": "2026-11-25T18:52:13.544383+00:00"
+        "first_seen": "2026-11-25T18:52:13.544383+00:00",
+        "summary_status": "done"
       },
       {
         "section": "Racket",
@@ -31040,7 +31054,9 @@
         "priority": 8,
         "is_article": true,
         "copy": "",
-        "first_seen": "2026-11-25T18:52:13.544383+00:00"
+        "first_seen": "2026-11-25T18:52:13.544383+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Golf",
